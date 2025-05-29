@@ -1,0 +1,72 @@
+{{short description|British author (born 1980)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Benedict Jacka
+| image =
+| imagesize = 
+| caption = 
+| pseudonym =
+| birth_name = 
+| birth_date = {{birth date and age|1980|09|25|df=y}}
+| birth_place = London
+| death_date =
+| death_place =
+| occupation = Writer
+| nationality = British
+| period = 
+| genre = [[fantasy]], [[urban fantasy]]
+| subject =
+| movement =
+| influences = 
+| influenced = 
+| website = {{URL|http://benedictjacka.co.uk/}}
+}}
+
+'''Benedict Jacka''' (born 25 September 1980) is a British author, best known for his ''Alex Verus'' series.<ref>{{cite web|last=Fox|first=Rose|title=PW Talks with Benedict Jacka, Cont.|url=http://blogs.publishersweekly.com/blogs/genreville/?p=2025|publisher=Publishers Weekly|accessdate=8 October 2012|url-status=dead|archiveurl=https://web.archive.org/web/20121018230435/http://blogs.publishersweekly.com/blogs/genreville/?p=2025|archivedate=18 October 2012}}</ref>
+
+==Biography==
+Jacka was born in England and attended the [[City of London School]]. He later attended [[Cambridge University]], where he graduated with a Bachelors in [[philosophy]] and met his editor Sophie Hicks from Ed Victor Ltd.<ref>{{cite web|last=Sambuchino|first=Chuck|title=How I Got My Agent: Benedict Jacka|url=http://www.writersdigest.com/editor-blogs/guide-to-literary-agents/june-7-needs-edit-benedict-jacka-higma|publisher=Writer's Digest|accessdate=8 October 2012}}</ref> His first novels were three children's fantasy novels that didn’t get published, with that honour going to a children's non-fantasy novel called ''To Be A Ninja'' (Later: ''Ninja: The Beginning''). From 2000 on, he developed a fantasy setting for which he wrote four books, whose main characters were teenage elementals. None of the four were published. In 2009, he decided to try again with an adult character and a more information-based ability.<ref>{{cite web|title=Orbit's website|url=http://www.orbitbooks.net/2013/06/14/francis-knight-interviews-benedict-jacka-author-of-the-alex-verus-novels/#more-35704|accessdate=6 October 2014}}</ref> Three years later, in 2012, he published the first book of the ''Alex Verus'' series, two more followed the same year.<ref>{{cite web|title=Jacka's website|url=http://benedictjacka.co.uk/about-me/|accessdate=8 January 2012}}</ref> Jacka married in 2015 to Rolari Kuti.<ref>{{cite web|title=Sng Weddings|url=http://loveweddingsng.com/2015/07/yeni-kutis-daughter-rolari-weds-benedict-jacka-awgz-photography/|accessdate=4 October 2018}}</ref>
+
+Critical reception for Jacka's work has been mostly positive.<ref>{{cite web|title=Fiction Review: Fated|url=http://www.publishersweekly.com/978-1-937007-29-4|publisher=Publishers Weekly|accessdate=8 October 2012}}</ref><ref>{{cite web|title=Fiction Review: Taken|url=http://www.publishersweekly.com/978-1-937007-72-0|publisher=Publishers Weekly|accessdate=8 October 2012}}</ref> Of the ''Alex Verus'' series, ''SF Site'' has cited the series' characters and chapter cliffhangers as highlights.<ref>{{cite web|last=Petersen|first=Katherine|title=Taken Benedict Jacka|url=http://www.sfsite.com/09a/tk375.htm|publisher=SF Site|accessdate=8 October 2012}}</ref><ref>{{cite web|last=Petersen|first=Katherine|title=Review: Cursed|url=http://www.sfsite.com/06b/cu370.htm|publisher=SF Site|accessdate=8 October 2012}}</ref> ''SF Crowsnest'' gave an overall positive review for ''Cursed'', while stating it was "an enjoyable, if unchallenging, read".<ref>{{cite web|last=Russell|first=Vinca|title=Review: Cursed|url=http://www.sfcrowsnest.com/articles/books/2012/Cursed-Alex-Verus-novel-book-2-by-Benedict-Jacka-16859.php|publisher=SF Crowsnest|accessdate=8 October 2012|archive-url=https://web.archive.org/web/20120813154517/http://www.sfcrowsnest.com/articles/books/2012/Cursed-Alex-Verus-novel-book-2-by-Benedict-Jacka-16859.php|archive-date=13 August 2012|url-status=dead}}</ref>
+
+==Bibliography==
+
+===Alex Verus series===
+#''Fated'' (2012)
+#''Cursed'' (2012)
+#''Taken'' (2012)
+#''Chosen'' (2013)
+#''Hidden'' (2014)
+#''Veiled'' (2015)
+#''Burned'' (2016)
+#''Bound'' (2017)
+#''Marked'' (2018)
+#''Fallen'' (2019)
+#''Forged'' (2020)
+#''Risen'' (forthcoming, 2 December 2021)<ref>{{Cite web|title=Risen Release Week {{!}} Benedict Jacka|url=https://benedictjacka.co.uk/2021/11/26/risen-release-week/|access-date=2021-11-27|language=en-US}}</ref>
+
+Additionally, in June 2021 Jacka released a novella which takes place between books 6 and 7, "Favours".<ref>{{cite web |title=Store |url=https://benedictjacka.co.uk/store/ |website=Benedict Jacka |access-date=9 July 2021}}</ref>
+
+===Ninja series===
+*''Ninja: The Beginning'' (2005)
+*''Ninja: The Battle'' (2007)
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://benedictjacka.co.uk/ Official author site]
+*{{isfdb name|id=Benedict_Jacka|name=Benedict Jacka}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jacka, Benedict}}
+[[Category:Living people]]
+[[Category:1980 births]]
+[[Category:21st-century British novelists]]
+[[Category:English fantasy writers]]
+[[Category:British thriller writers]]
+[[Category:Urban fantasy writers]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:British male novelists]]
+[[Category:21st-century British short story writers]]
+[[Category:21st-century British male writers]]

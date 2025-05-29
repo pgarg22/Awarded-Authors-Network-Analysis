@@ -1,0 +1,51 @@
+{{Short description|English Quaker poet}}
+{{for|the Irish judge|Bernard Barton (judge)}}
+{{Use dmy dates|date=September 2021}}
+{{Use British English|date=May 2012}}
+{{Infobox person
+|name=Bernard Barton
+|image=Bernard Barton.jpg
+|birth_date = {{birth_date|1784|1|31|df=yes}}
+|birth_place = [[Carlisle|Carlisle, Cumberland (now Cumbria)]]
+|death_date = {{death-date and age|19 February 1849 |31 January 1784}}
+|nationality = [[England|English]] 
+|occupation = poet, clerk
+|notable_works = ''The Convict's Appeal'' (1818); ''Household Verses'' (1845)
+}}
+'''Bernard Barton''' (31 January 1784 – 19 February 1849), born in [[Carlisle]], [[Cumberland]], England, was known as the [[Quaker]] [[poet]]. His main works included ''The Convict's Appeal'' (1818), in which he protested against the death penalty and the severity of the criminal code.
+
+==Family==
+Bernard Barton was born at Carlisle on 31 January 1784, the son of Quaker parents: [[John Barton (Quaker)|John Barton]] (1755–1789) and his wife, Mary, née Done (1752–1784). His mother died, and while the boy was still an infant, his father, a manufacturer, married Elizabeth Horne (1760–1833), moved to London, and then engaged in the malting business at [[Hertford]]. After John Barton died, his widow and stepchildren moved to [[Tottenham]]. Barton's sister was the educational writer [[Maria Hack]] and his half-brother [[John Barton (economist)|John Barton]], an economist. He was educated at a Quaker school in [[Ipswich]].<ref name="ODNB">A. H. Bullen, "Barton, Bernard (1784–1849)", rev. James Edgar Barcus, Jr, ODNB, 2004 [http://www.oxforddnb.com/view/article/1595. Retrieved 9 November 2014.]</ref>
+
+Barton was apprenticed at the age of 14 to a shopkeeper in [[Halstead]], [[Essex]], whose daughter, Lucy Jesup (1781–1808), he married in 1807. His wife died at the end of their first year of marriage, while giving birth to their daughter Lucy. After a year as a tutor in [[Liverpool]], Barton spent the rest of his life at [[Woodbridge, Suffolk]], for the most part as a clerk in Messrs Alexander's Bank. He died on 19 February 1849.<ref name="ODNB"/>
+
+==Works and friendships==
+Barton became friends with [[Robert Southey|Southey]], [[Charles Lamb (writer)|Lamb]], and other men and women of letters, including the local children's writer [[Anne Knight (children's writer)|Anne Knight]], with whom he lodged, while providing poems for some of her books. His chief works are ''The Convict's Appeal'' published in [[1818 in poetry|1818]], a protest against the death penalty and the severity of the criminal code, and ''Household Verses'' published [[1845 in poetry|1845]], which came to the notice of Sir [[Robert Peel|R. Peel]], through whom he obtained a pension of £100 a year. Other volumes of his were entitled ''Napoleon and Other Poems'' (1822), ''Poetic Vigils'' (1824) and ''A New Year's Eve and Other Poems''.<ref>Corvey catalogue, Sheffield Hallam University: [http://extra.shu.ac.uk/corvey/catalog/belleslettres/b.html Retrieved 2 July 2012.]</ref>
+
+[[Richard Ryan (biographer)|Richard Ryan]] dedicated to Barton his ''Poems on Sacred Subjects to which are added several miscellaneous'' (1824).<ref>''Poems on Sacred Subjects...'', London, April 1824.</ref>
+
+Apart from some hymns, his works are almost forgotten, but he was described as an amiable and estimable man – simple and sympathetic. His best-known hymns are "Lamp of our feet, whereby we trace", "Walk in the light, so shalt thou know", "Fear not, Zion's sons and daughters", "Hath the invitation ended?" "See we not beyond the portal?" and "Those who live in love shall know".
+
+Lucy published a selection of her father's poems and letters, to which [[Edward FitzGerald (poet)|Edward Fitzgerald]], translator of the ''[[Rubáiyát of Omar Khayyám]]'' and her future husband, wrote a biographical introduction.<ref>Fitzgerald biography of 1850 online: [http://spenserians.cath.vt.edu/BiographyRecord.php?action=GET&bioid=35082 Retrieved 5 December 2014.]</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+*A. H. Bullen, "Barton, Bernard (1784–1849)": ''Oxford Dictionary of National Biography'' (Oxford: OUP, 2004 [http://www.oxforddnb.com/view/article/1595 Retrieved 10 November 2010]
+*{{Cite SBDEL|wstitle=Barton, Bernard}}
+*{{Cite book |last=Julian |first=John |authorlink=John Julian, D.D. |title=[[A Dictionary of Hymnology]] |publisher=John Murray |date=June 1907 |location=London |page=116}}
+
+==External links==
+*[http://www.findagrave.com/cgi-bin/fg.cgi?page=gr&GSln=barton&GSfn=bernard&GSbyrel=all&GSdyrel=all&GSob=n&GRid=6826133& Bernard Barton] at Find-A-Grave
+*Archive material at {{wikidata|qualifier|property|P485|P856|format=\[%q %p\]}}
+
+{{Barton/Hack family}}
+{{Authority control}}
+
+{{DEFAULTSORT:Barton, Bernard}}
+[[Category:English non-fiction writers]]
+[[Category:English Quakers]]
+[[Category:1784 births]]
+[[Category:1849 deaths]]
+[[Category:English male non-fiction writers]]

@@ -1,0 +1,74 @@
+{{short description|American poet and professor}}
+{{Infobox writer/Wikidata
+|fetchwikidata = ALL
+| name         = Cathy Smith Bowers
+| image        = 
+| caption      =
+| alt          =
+| birth_name   = 
+| birth_date   = 1949
+| birth_place  = [[Lancaster, South Carolina]]
+| death_date   = 
+| death_place  =
+| occupation   = Poet, professor
+| language     = 
+| alma_mater   = [[Winthrop University]]
+| genre        = 
+| movement     =
+| notableworks = 
+| awards       = [[North Carolina Poet Laureate]]
+| spouse       = 
+}}
+'''Cathy Smith Bowers''' (born 1949) is an American poet and professor. She teaches poetry in an [[Master of Fine Arts|M.F.A.]] program at [[Queens University of Charlotte]]. Bowers was named by [[Governor of North Carolina|Governor]] [[Bev Perdue]] as the sixth [[North Carolina Poet Laureate]], 2010–2012. She has published five collections of poetry.
+
+==Biography==
+
+===Early life and education===
+Bowers was born in 1949, in the town of [[Lancaster, South Carolina]].<ref name=SCCftB>{{cite web|title=Cathy Smith Bowers|url=http://faculty.libsci.sc.edu/literarymap/authors/bower.htm|work=South Carolina Center for the Book|publisher=University of South Carolina|accessdate=November 22, 2012|url-status=dead|archiveurl=https://archive.is/20121212130849/http://faculty.libsci.sc.edu/literarymap/authors/bower.htm|archivedate=December 12, 2012}}</ref> She went on to receive her [[Bachelor of Arts|bachelor's]] degree in 1972 and [[Master of Arts|master's]] degree in 1976 (both in English) from [[Winthrop University]] in [[Rock Hill, South Carolina]].<ref name="NC Lit Trail">{{cite web|title=Cathy Smith Bowers|url=http://www.ncliterarytrails.org/featuredwriters/cathysmithbowers.aspx|work=North Carolina Literary Trails|publisher=North Carolina Arts Council|accessdate=November 8, 2012|url-status=dead|archiveurl=https://web.archive.org/web/20130123052811/http://www.ncliterarytrails.org/FeaturedWriters/CathySmithBowers.aspx|archivedate=January 23, 2013}}</ref> In 1984, Bowers also attended the International Graduate Summer School at [[Exeter College, Oxford|Exeter College]] at the [[University of Oxford]].<ref name=SCCftB />
+
+===Career===
+Bowers is currently an instructor in poetry in the M.F.A. program in Creative Writing at Queens University in [[Charlotte, North Carolina]].<ref name="Past PL">{{cite web|title=Past North Carolina Poets Laureate|url=http://www.ncarts.org/freeform_scrn_template.cfm?ffscrn_id=177&|publisher=North Carolina Arts Council|accessdate=November 5, 2012|url-status=dead|archiveurl=https://web.archive.org/web/20121027233637/http://www.ncarts.org/freeform_scrn_template.cfm?ffscrn_id=177&|archivedate=October 27, 2012}}</ref> She has been an instructor at Queens since 1983.<ref name=SCCftB />
+
+===Poet laureateship===
+In 2010, North Carolina Governor Bev Perdue appointed Bowers as the new North Carolina Poet Laureate to succeed [[Kathryn Stripling Byer]].<ref name="Past PL" /> She was also the judge for the North Carolina Poetry Society's Poet Laureate Award.<ref>{{cite web|title=Adult Contests and Awards|url=http://www.ncpoetrysociety.org/adultcontests/|publisher=North Carolina Poetry Society|accessdate=November 5, 2012}}</ref>
+
+==Personal life==
+Bowers lives in [[Tryon, North Carolina]].<ref name="Past PL" /> She "always wears [[flats (shoe)|flats]]" because she stands six feet tall already.<ref name=Viewpoint>{{cite web|last=Bagwell|first=Amy|title=An interview with Cathy Smith Bowers, N.C. Poet Laureate|url=http://www.charlotteviewpoint.org/article/2371/An-interview-with-Cathy-Smith-Bowers|publisher=Charlotte Viewpoint|accessdate=November 8, 2012|date=April 7, 2011}}</ref> Many of the major events in her life work their way into Bower's poetry, such as being estranged from her father; having a brother die of [[AIDS]], as well as another of drug and alcohol abuse; and having her second husband commit suicide.<ref name="NC Lit Trail" />
+
+==Works==
+Bowers' poetry has appeared in various magazines and journals including ''[[The Atlantic Monthly]]'', ''[[The Georgia Review]]'', ''[[Poetry (magazine)|Poetry]]'', ''[[The Southern Review]]'', and ''[[The Kenyon Review]]''. She has five collections of poetry published:<ref name="NC Lit Trail" />
+* ''The Love That Ended Yesterday in Texas'' (Lubbock, Texas: [[Texas Tech University Press]], 1992)
+* ''Traveling in Time of Danger'' (Iris Press, 1999)
+* ''A Book of Minutes'' (Iris Press, 2004)
+* ''The Candle I Hold Up To See You'' (Iris Press, 2009)
+* ''Like Shining from Shook Foil'' (Press 53, 2010)
+
+Bowers' essay "A Moment of Intensity" was featured in Poet’s Market, 2007.<ref name=CAS>{{cite web|title=Faculty Profile|url=http://www.queens.edu/Academics-and-Schools/Schools-and-Colleges/College-of-Arts-and-Sciences/College-of-Arts-and-Sciences-Faculty/CAS-Profile.html?profileId=4786|publisher=Queens University of Charlotte|accessdate=November 8, 2012}}</ref>
+
+==Awards and honors==
+Bowers' awards and honors include:<ref name="Past PL" />
+* 1990 – [[General Electric]] Foundation Award for Young Writers
+* 2002 – J.B. Fuqua Distinguished Educator Award, Queens University
+* 2006, 2007 – Gilbert-Chappell Distinguished Poet Award, North Carolina Poetry Society
+* 2010–2012 – North Carolina Poet Laureate
+* 2011 – [[Savannah Book Festival]], guest author<ref>{{cite web|title=Cathy Smith Bowers|url=http://www.savannahbookfestival.org/authors/cathy-smith-bowers/|publisher=Savannah Book Festival|accessdate=November 22, 2012}}</ref>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+{{NC Poets Laureate}}
+
+{{DEFAULTSORT:Bowers, Cathy Smith}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Poets from South Carolina]]
+[[Category:American women poets]]
+[[Category:People from Lancaster, South Carolina]]
+[[Category:People from Tryon, North Carolina]]
+[[Category:Poets Laureate of North Carolina]]
+[[Category:Poets from North Carolina]]
+[[Category:Queens University of Charlotte faculty]]
+[[Category:Winthrop University alumni]]
+[[Category:American women academics]]
+[[Category:21st-century American women]]

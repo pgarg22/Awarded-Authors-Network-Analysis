@@ -1,0 +1,94 @@
+{{Similar names|Christopher Middleton (disambiguation)}}
+{{short description|British navigator}}{{Use dmy dates|date=April 2012}}
+{{Infobox officeholder
+ |name               = Christopher Middleton
+ |honorific_suffix   = {{postnom|country=GBR|FRS|size=100%}}
+ |birth_date         = Unknown date, {{circa|1690}}
+ |birth_place        = [[Newton Bewley]], England
+ |death_date         = {{nowr|{{death date and age|1770|02|12|1690|df=y}}}}{{sfn|Williams|1974|loc=§ 1}}
+ |death_place        = [[Norton, County Durham|Norton, Durham]], England
+ |occupation         = [[Explorer]], [[navigator]]
+ |blank1             = Employer
+ |data1              = [[Hudson's Bay Company]]
+ |blank2             = Works
+ |data2              = "[[#{{harvid|Middleton|1743}}|The Effects of Cold]]" (1743)
+ |blank3             = Awards
+ |data3              = {{ubli|[[Copley Medal|Royal Society of London's Copley&nbsp;Medal]] (1742)}}
+ |branch_label       = Branch
+ |branch             = {{navy|Kingdom of Great Britain|size=20px}}
+ |serviceyears_label = Service&nbsp;years
+ |serviceyears       = 1741–1770
+}}
+'''Christopher Middleton''' {{postnom|country=GBR|FRS}} ({{circa|1690}}&nbsp;– 12 February 1770) was a British navigator with the [[Hudson's Bay Company]] and [[Royal Navy]] officer.{{sfn|Williams|1974|loc=§ 1}} He was elected a [[Fellow of the Royal Society]] on 7&nbsp;April 1737.
+
+== Career ==
+
+=== Privateer in Queen Anne's War ===
+Middleton described serving aboard a [[privateer]] in [[Queen Anne's War]].{{sfn|Williams|1974|loc=§ 1}} The war was fought between 1701 and 1713.
+
+===Hudson's Bay Company service===
+Middleton was appointed second mate of the ''Hannah'', in 1721, and appointed her captain in 1725.{{sfn|Williams|1974|loc=§ 1}} He eventually made 16&nbsp;annual voyages on ships supplying Hudson Bay Company outposts.
+
+Middleton was a scientific sailor, and he methodically observed compass deviations, on his voyages.{{sfn|Williams|1974|loc=§ 1}} Hudson's Bay was close to the location of the [[North Magnetic Pole]]. Middleton published a paper, describing his observations, in the [[Royal Society]]'s ''[[Philosophical Transactions]]''. Middleton's scientific endeavours earned him a [[Fellow of the Royal Society|Fellowship in the Royal Society]].{{sfn|Williams|1974|loc=§ 1}}
+
+=== Northwest Passage ===
+{{main|Northwest Passage expedition of 1741}}
+<mapframe
+text="Middleton's Northwest Passage expedition established [[Wager Bay]] was just a deep bay, not an outlet to the Pacific Ocean"
+width=242
+height=180
+zoom=6
+latitude=65.5
+longitude=-89/>
+
+On 5 March 1741, Middleton was appointed to the command of {{HMS|Furnace|1740|6}}, a Royal Navy [[bomb vessel]] which was refitted at [[Deptford Dockyard]] and rigged as a [[three-masted ship]]. In May, he left England on ''Furnace'', accompanied by a smaller vessel, the purchased {{HMS|Discovery|1741|6}}, under the command of [[William Moor]], and sailed to [[Hudson Bay]] in search of a [[Northwest Passage]].{{sfn|Barr|1983|p=98}}
+
+He spent the winter at [[Prince of Wales Fort|Fort Churchill]], and then proceeded north, into [[Roes Welcome Sound]] and discovered [[Wager Inlet]] where he was iced in for three weeks. At the head of the sound he found himself blocked by ice, and named the place [[Repulse Bay, Nunavut|Repulse Bay]].
+
+Middleton returned to England in 1742, where he was presented with the [[Royal Society's Copley Medal]], to whom he presented a paper entitled "The effects of cold; together with observations of the longitude, latitude, and declination of the magnetic needle, at Prince of Wales's fort, upon Churchill-River in Hudson's Bay, North America".{{sfn|Middleton|1743|pp=157–171}}
+
+Middleton was given command of {{HMS|Shark|1732|6}}, in May&nbsp;1745, and commanded her until 1748, when peace was negotiated with Spain.{{sfn|Williams|1974|loc=§ 1}} Royal Navy officers were entitled to half-pay, when not employed, and Middleton spent the rest of his life on half-pay. He went back to the Hudson's Bay Company, and requested a command, there, without success.
+
+== See also ==
+* [[Arthur Dobbs]]
+
+== References ==
+
+=== Footnotes ===
+{{reflist}}
+
+=== Bibliography ===
+{{refbegin}}
+* {{cite journal|last = Barr|first = W.|author-link = William Barr (historian)|date = Mar 1983|title = Christopher Middleton (ca. 1690–1770)|journal = [[Arctic (journal)|Arctic]]|series = Arctic Profiles|volume = 36|issue = 1|pages = 98–99|doi = 10.14430/arctic2249}}
+* {{cite journal|last = Bennett|first = J.|author-link = Jim Bennett (historian)|date = September 2019|title = Science and seafaring in the precarious career of Christopher Middleton|journal = [[Notes Rec.]]|volume = 73|issue = 3|pages = 303–327|doi = 10.1098/rsnr.2018.0046|doi-access = free}}
+* {{cite book |last = Dobbs|first = Arthur|author-link = Arthur Dobbs |date = 1744 |title = An account of the countries adjoining to Hudson's Bay |url=https://www.fadedpage.com/showbook.php?pid=20210247 |publisher=Self-published}}
+* {{cite encyclopedia|last = Laughton|first = J. K.|author-link = John Knox Laughton|date = 1894|title = Middleton, Christopher|title-link = :s:Middleton, Christopher (d.1770) (DNB00)|work = [[Dictionary of National Biography|Dictionary of National Biography, 1885–1900]]|volume = 37|location = London|publisher = [[Smith, Elder & Co.]]|pages = 342–343}}
+* {{cite journal|last = Middleton|first = C.|date = Dec 1743|title = The effects of cold|journal = [[Philos. Trans. Royal Soc.]]|volume = 42|issue = 465|pages = 157–171|doi = 10.1098/rstl.1742.0040|doi-access = free}}
+* {{cite encyclopedia|last = Williams|first = G.|author-link = Glyndwr Williams|date = 1974|title = Middleton, Christopher|url = http://www.biographi.ca/en/bio/middleton_christopher_3E.html|work = [[Dictionary of Canadian Biography|Dictionary of Canadian Biography, 1741–1770]]|volume = 3|location = Toronto|publisher = [[University of Toronto Press]]}}
+{{refend}}
+
+== External links ==
+* {{OL subject|person:christopher_middleton_(d._1770)}}
+* {{Worldcat id|lccn-n85076239}}
+* [https://www.rmg.co.uk/explore/christopher-middleton-north-west-passage-expedition-1741–42 "Christopher Middleton, North-West Passage expedition, 1741–42"] at [[Royal Museums Greenwich]]
+
+{{Polar exploration}}
+{{Copley Medallists 1731–1750}}
+{{Authority control}}
+
+{{DEFAULTSORT:Middleton, Christopher}}
+[[Category:18th-century English people]]
+[[Category:18th-century Royal Navy personnel]]
+[[Category:1690s births]]
+[[Category:1770 deaths]]
+[[Category:Date of birth uncertain]]
+[[Category:English explorers of North America]]
+[[Category:English navigators]]
+[[Category:English polar explorers]]
+[[Category:Explorers of Canada]]
+[[Category:Explorers of the Arctic]]
+[[Category:Fellows of the Royal Society]]
+[[Category:Hudson's Bay Company people]]
+[[Category:People from the Borough of Hartlepool]]
+[[Category:Recipients of the Copley Medal]]
+[[Category:Royal Navy officers]]

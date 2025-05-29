@@ -1,0 +1,40 @@
+{{short description|Hungarian poet}}
+{{Eastern name order|Juhász Ferenc}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Ferenc Juhász
+| image         = Juhász Ferenc (Bahget Iskander).jpg
+| image_size    = 
+| alt           = Ferenc Juhász in 2007
+| caption       = Ferenc Juhász in 2007
+| birth_date    = {{Birth date|df=y|1928|08|16}}
+| birth_place   = [[Biatorbágy|Bia]], Hungary
+| death_date    = {{Death date and age|df=y|2015|12|2|1928|08|16}}
+| death_place   =  [[Budapest]], Hungary
+| resting_place = 
+| occupation    = Poet
+| language      = Hungarian
+}}
+'''Ferenc Juhász''' (16 August 1928 – 2 December 2015) was a Hungarian poet and Golden Wreath laureate<ref>{{cite web |url=http://www.svp.org.mk/en/awards.html |title=Awards |publisher=[[Struga Poetry Evenings]] |access-date=21 August 2011 |url-status=dead |archive-url=https://www.webcitation.org/6ADtFP7PW?url=http://www.svp.org.mk/en/awards.html |archive-date=27 August 2012 }}</ref> (1992). He was considered a close contender for the [[Nobel Prize for Literature]] in 1976.<ref>{{cite web|url=http://index.hu/kultur/2015/12/03/meghalt_juhasz_ferenc_kolto/|title=Index - Kultúr - Meghalt Juhász Ferenc költő|date=2015-12-03}}</ref> His brother was historian [[Gyula Juhász (historian)|Gyula Juhász]].
+
+Ferenc Juhász published his first poem in 1946. His first book of poems, ''The Winged Foal'', was published in 1949.<ref>{{cite web |last1=Juhász |first1=Ferenc |title=Szárnyas csikó : versek : 1946-1949 |url=http://search.ebscohost.com/login.aspx?direct=true&AuthType=ip,uid&db=cat06380a&AN=deb.bibKLT00151243&site=eds-live |website=Debrecen National Library |access-date=2 March 2019}}</ref>
+
+His poem ''The boy changed into a stag clamors at the gate of secrets'',  has been translated into English.<ref name="Wevill">{{cite journal |last1=Wevill |first1=David |title=Ferenc Juhász: The Boy Changed into a Stag Clamors at the Gate of Secrets. |journal=Arion: A Journal of Humanities and the Classics |date=1969 |volume=8 |issue=4 |pages=572–584|jstor=20163235 }}</ref>
+
+==References==
+{{reflist}}
+{{svplaureats}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Juhasz, Ferenc}}
+[[Category:1928 births]]
+[[Category:2015 deaths]]
+[[Category:Hungarian male poets]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century Hungarian male writers]]
+
+[[Category:Struga Poetry Evenings Golden Wreath laureates]]
+[[Category:People from Biatorbágy]]
+
+
+{{Hungary-poet-stub}}

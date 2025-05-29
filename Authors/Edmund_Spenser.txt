@@ -1,0 +1,199 @@
+{{short description|16th-century English poet}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Edmund Spenser
+| image = Edmund Spenser oil painting.JPG
+| birth_date = 1552/1553
+| birth_place = London, England
+| death_date = {{Death date and age|df=yes|1599|01|13|1552|}}<ref name=NA>[http://www.nationalarchives.gov.uk/nra/searches/subjectView.asp?ID=P37670 National Archive documents]</ref><ref>{{Cite web| title = The death of Edmund Spenser | work = OUPblog| access-date = 20 December 2020| url = https://blog.oup.com/2013/01/the-death-of-edmund-spencer/ | first1 = Andrew | last1 = Hadfield | date = 13 January 2013}}</ref>
+| death_place = London, England
+| resting_place = [[Westminster Abbey]]
+| occupation = Poet
+| language = [[Early Modern English]]
+| alma_mater = [[Pembroke College, Cambridge]]
+| period = 1569–1599
+| notableworks = ''[[The Faerie Queene]]''
+| signature = Edmund Spenser Signature.svg
+|spouse = Machabyas Childe {{small|(c. 1579–c. 1593, her death)}}<br>Elizabeth Boyle {{small|(m. 1594–1599, his death)}}
+|children=2
+}} 
+'''Edmund Spenser''' ({{IPAc-en|ˈ|s|p|ɛ|n|s|ər}}; 1552/1553 – 13 January 1599) was an English poet best known for ''[[The Faerie Queene]]'', an epic poem and fantastical [[allegory]] celebrating the [[House of Tudor|Tudor dynasty]] and [[Elizabeth I of England|Elizabeth I]]. He is recognized as one of the premier craftsmen of nascent Modern English verse and is often considered one of the greatest poets in the English language.
+
+==Life==
+Edmund Spenser was born in East Smithfield, London, around the year 1552; however, there is still some ambiguity as to the exact date of his birth. His parenthood is obscure, but he was probably the son of John Spenser, a journeyman clothmaker. As a young boy, he was educated in London at the [[Merchant Taylors' School, Northwood|Merchant Taylors' School]] and matriculated as a [[sizar]] at [[Pembroke College, Cambridge]].<ref>{{acad|id=SPNR569E|name=Spenser, Edmund}}</ref><ref>{{cite web |url=http://www.english.cam.ac.uk/spenser/biography.htm |title=The Edmund Spenser Home Page: Biography |publisher=English.cam.ac.uk |access-date=10 December 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120102013123/http://www.english.cam.ac.uk/spenser/biography.htm |archive-date=2 January 2012 |df=dmy-all }}</ref> While at Cambridge he became a friend of [[Gabriel Harvey]] and later consulted him, despite their differing views on poetry. In 1578, he became for a short time secretary to [[John Young (bishop of Rochester)|John Young]], Bishop of Rochester.<ref>Hadfield, Andrew. ''Edmund Spenser: A Life''. [[Oxford University Press]]. 2012, p110.</ref>  In 1579, he published ''The [[Shepheardes Calender]]'' and around the same time married his first wife, Machabyas Childe.<ref>Hadfield pp. 128 and 140</ref> They had two children, Sylvanus (d. 1638) and Katherine.<ref name="westminster-abbey.org">{{cite web |url=http://www.westminster-abbey.org/our-history/people/edmund-spenser |title=Edmund Spenser |website=Westminster Abbey |access-date=May 30, 2020}}</ref>
+
+In July 1580, Spenser went to Ireland in service of the newly appointed [[Lord Lieutenant of Ireland|Lord Deputy]], [[Arthur Grey, 14th Baron Grey de Wilton]]. Spenser served under Lord Grey with [[Walter Raleigh]] at the [[Siege of Smerwick]] massacre.<ref name="church">{{cite book|url=https://books.google.com/books?id=xtwQAAAAYAAJ|title=Spenser|author-link=Richard William Church|first=R. W.|last=Church|year=1879|pages=56–58, 93}}</ref> When Lord Grey was recalled to England, Spenser stayed on in Ireland, having acquired other official posts and lands in the [[Plantation of Munster|Munster Plantation]]. Raleigh acquired other nearby Munster estates confiscated in the [[Second Desmond Rebellion]]. Sometime between 1587 and 1589, Spenser acquired his main estate at Kilcolman, near [[Doneraile]] in North Cork.<ref>Hadfield, pp200-01</ref> He later bought a second holding to the south, at Rennie, on a rock overlooking the river [[Munster Blackwater|Blackwater]] in North Cork. Its ruins are still visible today. A short distance away grew a tree, locally known as "Spenser's Oak" until it was destroyed in a lightning strike in the 1960s. Local legend claims that he penned some of ''The Faerie Queene'' under this tree.<ref>Hadfield, p362</ref>
+
+In 1590, Spenser brought out the first three books of his most famous work, ''[[The Faerie Queene]]'', having travelled to London to publish and promote the work, with the likely assistance of Raleigh. He was successful enough to obtain a life pension of £50 a year from the Queen. He probably hoped to secure a place at court through his poetry, but his next significant publication boldly antagonised the queen's principal secretary, [[William Cecil, 1st Baron Burghley|Lord Burghley (William Cecil)]], through its inclusion of the satirical ''[[Mother Hubberd's Tale]]''.<ref>Hadfield, p165</ref> He returned to Ireland.
+
+In 1591, Spenser published a translation in verse of [[Joachim Du Bellay]]'s sonnets, ''Les Antiquités de Rome'', which had been published in 1558. Spenser's version, ''Ruines of Rome: by Bellay'', may also have been influenced by Latin poems on the same subject, written by Jean or Janis Vitalis and published in 1576.<ref>{{Cite journal|last=Zarucchi|first=Jeanne Morgan|date=1997|title=Du Bellay, Spenser, and Quevedo Search for Rome: A Teacher's Peregrination|journal=The French Review|volume=17:2|pages=192–203}}</ref>
+
+By 1594, Spenser's first wife had died, and in that year he married a much younger Elizabeth Boyle, a relative of [[Richard Boyle, 1st Earl of Cork]]. He addressed to her the sonnet sequence ''[[Amoretti]]''. The marriage itself was celebrated in ''[[Epithalamion (poem)|Epithalamion]]''.<ref>Hadfield, pp296, 301, 323</ref> They had a son named Peregrine.<ref name="westminster-abbey.org"/>
+
+In 1596, Spenser wrote a prose pamphlet titled ''A View of the Present State of Ireland''. This piece, in the form of a dialogue, circulated in manuscript, remaining unpublished until the mid-seventeenth century. It is probable that it was kept out of print during the author's lifetime because of its inflammatory content. The pamphlet argued that Ireland would never be totally "pacified" by the English until its indigenous language and customs had been destroyed, if necessary by violence.<ref>Hadfield, pp 334–43, 365</ref>
+
+In 1598, during the [[Nine Years' War (Ireland)|Nine Years' War]], Spenser was driven from his home by the native Irish forces of [[Hugh Ó Neill, 2nd Earl of Tyrone|Aodh Ó Néill]]. His [[Kilcolman Castle|castle at Kilcolman]] was burned, and [[Ben Jonson]], who may have had private information, asserted that one of his infant children died in the blaze.<ref>Hadfield, p 362</ref>
+
+[[File:Fowre Hymnes by Edmund Spenser 1596.jpg|thumb|right|230px|[[Title page]], ''Fowre Hymnes'', by Edmund Spenser, published by [[William Ponsonby (publisher)|William Ponsonby]], London, 1596]]
+
+In the year after being driven from his home, 1599, Spenser travelled to London, where he died at the age of forty-six – "for want of bread", according to [[Ben Jonson]]; one of Jonson's more doubtful statements, since Spenser had a payment to him authorised by the government and was due his pension.<ref>Hadfield pp 391 - 393</ref> His coffin was carried to his grave in [[Poets' Corner]] in [[Westminster Abbey]] by other poets, who threw many pens and pieces of poetry into his grave with many tears. His second wife survived him and remarried twice. His sister Sarah, who had accompanied him to Ireland, married into the Travers family, and her descendants were prominent landowners in Cork for centuries.
+
+==Rhyme and reason==
+[[Thomas Fuller]], in ''Worthies of England'', included a story where the Queen told her treasurer, William Cecil, to pay Spenser one hundred pounds for his poetry. The treasurer, however, objected that the sum was too much. She said, "Then give him what is reason". Without receiving his payment in due time, Spenser gave the Queen this [[quatrain]] on one of her progresses:
+
+<blockquote><poem>
+I was promis'd on a time,
+To have a reason for my rhyme:
+From that time unto this season,
+I receiv'd nor rhyme nor reason.
+</poem></blockquote>
+
+She immediately ordered the treasurer pay Spenser the original £100.
+
+This story seems to have attached itself to Spenser from [[Thomas Churchyard]], who apparently had difficulty in getting payment of his pension, the only other pension Elizabeth awarded to a poet. Spenser seems to have had no difficulty in receiving payment when it was due as the pension was being collected for him by his publisher, Ponsonby.<ref>Hadfield pp 5 & 236</ref>
+
+==''The Shepheardes Calender''==
+{{main|The Shepheardes Calender}}
+[[File:Title Page of a 1617 Edition of The Shepherd's Calendar.jpg|thumb|Title Page of a 1617 Edition of ''The Shepheardes Calender'' printed by Matthew Lownes, often bound with the complete works printed in 1611 or 1617.]]
+''[[The Shepheardes Calender]]'' is Edmund Spenser's first major work, which appeared in 1579. It emulates [[Virgil]]'s ''[[Eclogues]]'' of the first century BCE and the ''Eclogues'' of Mantuan by [[Baptista Mantuanus]], a late medieval, early renaissance poet.<ref>Merritt Yerkes Hughes, "Virgil and Spenser", in ''University of California Publications in English'', vol. 2, no. 3. (Berkeley: University of California Press, 1929).</ref> An eclogue is a short pastoral poem that is in the form of a dialogue or soliloquy. Although all the months together form an entire year, each month stands alone as a separate poem. Editions of the late 16th and early 17th centuries include woodcuts for each month/poem, and thereby have a slight similarity to an emblem book which combines a number of self-contained pictures and texts, usually a short vignette, saying, or allegory with an accompanying illustration.<ref>{{cite web|title=The English Emblem Book Project {{!}} Penn State University Libraries|url=https://libraries.psu.edu/about/collections/english-emblem-book-project|website=libraries.psu.edu|date=8 September 2016|access-date=21 January 2018|language=en}}</ref>
+
+==''The Faerie Queene''==
+{{main|The Faerie Queene}}
+
+[[File:The Faerie Queene frontispiece.jpg|thumb|The epic poem ''The Faerie Queene'' frontispiece, printed by William Ponsonby in 1590.]]
+Spenser's masterpiece is the [[Epic poetry|epic poem]] ''The Faerie Queene''. The first three books of ''The Faerie Queene'' were published in 1590, and the second set of three books were published in 1596. Spenser originally indicated that he intended the poem to consist of twelve books, so the version of the poem we have today is incomplete. Despite this, it remains one of the longest poems in the English language.<ref>{{citation | title = The Cambridge history of early modern English Literature | first1 = David | last1 = Loewenstein | first2 = Janel M | last2 = Mueller | publisher = Cambridge University Press | year = 2003 | isbn = 0-521-63156-4 | page = 369}}.</ref> It is an [[allegory|allegorical]] work, and can be read (as Spenser presumably intended) on several levels of allegory, including as praise of [[Elizabeth I of England|Queen Elizabeth I]]. In a completely allegorical context, the poem follows several knights in an examination of several virtues. In Spenser's "A Letter of the Authors", he states that the entire epic poem is "cloudily enwrapped in allegorical devises", and that the aim behind ''The Faerie Queene'' was to "fashion a gentleman or noble person in virtuous and gentle discipline".<ref>Spenser, Edmund (1984), "A Letter of the Authors Expounding His Whole Intention in the Course of the Worke: Which for That It Giueth Great Light to the Reader, for the Better Vnderstanding Is Hereunto Annexed", in Roche, Thomas P., Jr, ''The Fairy Queene'', New York: Penguin, pp. 15–16</ref>
+
+==Shorter poems==
+Spenser published numerous relatively short poems in the last decade of the sixteenth century, almost all of which consider love or sorrow. In 1591, he published ''[[Complaints (poetry collection)|Complaints]]'', a collection of poems that express complaints in mournful or mocking tones. Four years later, in 1595, Spenser published ''Amoretti and Epithalamion''. This volume contains eighty-eight sonnets commemorating his courtship of Elizabeth Boyle. In ''[[Amoretti]]'', Spenser uses subtle humour and parody while praising his beloved, reworking Petrarchism in his treatment of longing for a woman. ''[[Epithalamion (poem)|Epithalamion]]'', similar to ''Amoretti'', deals in part with the unease in the development of a romantic and sexual relationship. It was written for his wedding to his young bride, Elizabeth Boyle. Some have speculated that the attention to disquiet, in general, reflects Spenser's personal anxieties at the time, as he was unable to complete his most significant work, ''[[The Faerie Queene]]''. In the following year, Spenser released ''[[Prothalamion]]'', a wedding song written for the daughters of a duke, allegedly in hopes to gain favour in the court.<ref>Prescott, Anne. "Spenser's shorter poems". ''The Cambridge Companion to Spenser''. Ed. Andrew Hadfield. Cambridge: Cambridge University Press, 2001. 143–161. Print.</ref>
+
+==The Spenserian stanza and sonnet==
+Spenser used a distinctive verse form, called the [[Spenserian stanza]], in several works, including ''[[The Faerie Queene]]''. The stanza's main meter is [[iambic pentameter]] with a final line in [[iambic hexameter]] (having six feet or stresses, known as an [[Alexandrine]]), and the rhyme scheme is {{not a typo|ababbcbcc}}.<ref>[https://www.poetryfoundation.org/resources/learning/glossary-terms/detail/spenserian-stanza Spenserian stanza at Poetry Foundation.]</ref> He also used his own rhyme scheme for the sonnet. In a Spenserian sonnet, the last line of every quatrain is linked with the first line of the next one, yielding the rhyme scheme {{not a typo|ababbcbccdcdee}}.<ref>{{Cite book|title=The Development of the Sonnet : an Introduction.|last=Spiller|first=Michael R. G.|date=2003|publisher=Taylor and Francis|isbn=978-0-203-40150-7|pages=142|oclc=1027500333}}</ref>
+"Men Call you Fayre" is a fine Sonnet from Amoretti. The poet presents the concept of true beauty in the poem. He addresses the sonnet to his beloved, Elizabeth Boyle, and presents his courtship. Like all Renaissance men, Edmund Spenser believed that 
+love is an inexhaustible source of beauty and order.
+In this Sonnet, the poet expresses his idea of true beauty. The physical beauty will finish after a few days; it is not a permanent beauty. He emphasises beauty of mind and beauty of intellect. He considers his beloved is not simply flesh but is also a spiritual being. The poet opines that he is beloved born of heavenly seed and she is derived from fair spirit. The poet states that because of her clean mind, pure heart and sharp intellect, men call her fair and she deserves it.
+At the end, the poet praises her spiritual beauty and he worships her because of her Divine Soul.
+
+==Influences==
+Though Spenser was well-read in classical literature, scholars have noted that his poetry does not rehash tradition, but rather is distinctly his. This individuality may have resulted, to some extent, from a lack of comprehension of the classics. Spenser strove to emulate such ancient Roman poets as [[Virgil]] and [[Ovid]], whom he studied during his schooling, but many of his best-known works are notably divergent from those of his predecessors.<ref>Burrow, Colin. "Spenser and classical traditions". ''The Cambridge Companion to Spenser''. Ed. Andrew Hadfield. Cambridge: Cambridge University Press, 2001. 217–236. Print.</ref> The language of his poetry is purposely archaic, reminiscent of earlier works such as ''[[The Canterbury Tales]]'' of [[Geoffrey Chaucer]] and ''[[Il Canzoniere]]'' of [[Francesco Petrarca]], whom Spenser greatly admired.
+
+An Anglican<ref>{{cite web |url=https://www.poetryfoundation.org/poets/edmund-spenser |title=Edmund Spenser |website=Poetry Foundation |access-date=May 30, 2020}}</ref> and a devotee of the Protestant Queen Elizabeth, Spenser was particularly offended by the anti-Elizabethan propaganda that some Catholics circulated. Like most Protestants near the time of the Reformation, Spenser saw a Catholic church full of corruption, and he determined that it was not only the wrong religion but the anti-religion. This sentiment is an important backdrop for the battles of ''The Faerie Queene''.<ref>{{cite web |url=http://www.sparknotes.com/poetry/fqueen/context/ |title=The Faerie Queene Context |website=SparkNotes |access-date=May 30, 2020}}</ref>
+
+Spenser was called "the Poet's Poet" by Charles Lamb,<ref>{{cite book |last1=Alpers |first1=Paul |year=1990 |chapter=Poet's poet, the |editor1-last=Henderson |editor1-first=A. C. |title=The Spenser Encyclopedia |chapter-url=https://books.google.com/books?id=LPxd5sliodAC&q=%22century+this+was+the+epithet%22&pg=PA551 |location=Toronto |publisher=University of Toronto Press |publication-date=1990 |page=551 |isbn=0802026761 |access-date=23 October 2017 }}</ref> and was admired by [[John Milton]], [[William Blake]], [[William Wordsworth]], [[John Keats]], [[Lord Byron]], [[Alfred, Lord Tennyson|Alfred Tennyson]] and others. Among his contemporaries [[Walter Raleigh]] wrote a commendatory poem to ''[[The Faerie Queene]]'' in 1590, in which he claims to admire and value Spenser's work more so than any other in the English language. John Milton in his ''[[Areopagitica]]'' mentions "our sage and serious poet Spenser, whom I dare be known to think a better teacher than [[Duns Scotus|Scotus]] or [[Thomas Aquinas|Aquinas]]".<ref>Milton, John. [[s:Areopagitica|''Areopagitica'']].</ref>  In the eighteenth century, [[Alexander Pope]] compared Spenser to "a mistress, whose faults we see, but love her with them all."<ref>Elliott, John, ed. ''The Prince of Poets''. New York: New York University Press, 1968. 7–13. Print.</ref>
+
+==''A View of the Present State of Ireland''==
+In his work ''A View of the Present State of Irelande'' (1596), Spenser discussed future plans to [[Tudor conquest of Ireland|establish control over Ireland]], the most recent Irish uprising, led by [[Hugh O'Neill, Earl of Tyrone|Hugh O'Neill]] having demonstrated the futility of previous efforts. The work is partly a defence of [[Arthur Grey, 14th Baron Grey de Wilton|Lord Arthur Grey de Wilton]], who was appointed [[Lord Deputy of Ireland]] in 1580, and who greatly influenced Spenser's thinking on Ireland.{{Citation needed|date=November 2020}}
+
+The goal of the piece was to show that Ireland was in great need of reform. Spenser believed that "Ireland is a diseased portion of the State, it must first be cured and reformed, before it could be in a position to appreciate the good sound laws and blessings of the nation".<ref>Henley 178</ref> In ''A View of the Present State of Ireland'', Spenser categorises the "evils" of the Irish people into three prominent categories: laws, customs and religion. According to Spenser, these three elements worked together in creating the supposedly "disruptive and degraded people" which inhabited the country.<ref name="ucc.ie">{{cite web |url=https://celt.ucc.ie//published/E500000-001/ |title=A View of the present State of Ireland |first=Edmund |last=Spenser |year=1596 |website=The Corpus of Electronic Texts |access-date=May 30, 2020}}</ref> One example given in the work is the Irish law system termed "[[Early Irish law|Brehon law]]", which at the time trumped the established law as dictated by [[the Crown]]. The Brehon system had its own court and methods of punishing infractions committed. Spenser viewed this system as a backward custom which contributed to the "degradation" of the Irish people. A particular legal punishment viewed with distaste by Spenser was the Brehon method of dealing with [[murder]], which was to impose an ''[[éraic]]'' (fine) on the murderer's family.<ref name="Wake1878">{{cite book|author=Charles Staniland Wake|title=The Evolution of Morality|url=https://archive.org/details/evolutionmorali00wakegoog|year=1878|publisher=Trübner & Company|pages=[https://archive.org/details/evolutionmorali00wakegoog/page/n381 363]–}}</ref> From Spenser's Protestant viewpoint, the appropriate punishment for murder was [[capital punishment]]. Spenser also warned of the dangers that allowing the education of children in the [[Irish language]] would bring: "Soe that the speach being Irish, the hart must needes be Irishe; for out of the aboundance of the hart, the tonge speaketh".<ref name="ucc.ie"/>
+
+He pressed for a [[scorched earth]] policy in Ireland, noting its effectiveness in the [[Second Desmond Rebellion]]:
+
+<blockquote>"'Out of everye corner of the woode and glenns they came creepinge forth upon theire handes, for theire legges could not beare them; they looked Anatomies [of] death, they spake like ghostes, crying out of theire graves; they did eate of the carrions, happye wheare they could find them, yea, and one another soone after, in soe much as the verye carcasses they spared not to scrape out of theire graves; and if they found a plott of water-cresses or shamrockes, theyr they flocked as to a feast… in a shorte space there were none almost left, and a most populous and plentyfull countrye suddenly lefte voyde of man or beast: yett sure in all that warr, there perished not manye by the sworde, but all by the extreamytie of famine ... they themselves had wrought.'"<ref name="ucc.ie"/></blockquote>
+
+==List of works==
+* ''Iambicum Trimetrum''
+* 1569: Jan van der Noodt's ''A Theatre for Worldlings'', including poems translated into English by Spenser from French sources, published by Henry Bynneman in London<ref name=cufeesb>Web page titled [http://www.english.cam.ac.uk/spenser/biography.htm "Edmund Spenser Home Page/Biography"] {{webarchive|url=https://web.archive.org/web/20120102013123/http://www.english.cam.ac.uk/spenser/biography.htm |date=2 January 2012 }}, "Chronology" section (at bottom of Chronology, Web page states: "Source: adapted from [[Willy Maley]], ''A Spenser Chronology.''"), at the website of the University of Cambridge Faculty of English website, retrieved 24 September 2009</ref>
+* 1579: ''[[The Shepheardes Calender]]'', published under the pseudonym "Immerito"<ref name=cocel>Cox, Michael, editor, ''The Concise Oxford Chronology of English Literature'', Oxford University Press, 2004, {{ISBN|0-19-860634-6}}</ref> (entered into the Stationers' Register in December<ref name=cufeesb/>)
+
+1590:
+*''[[The Faerie Queene]]'', Books 1–3
+
+1591:
+* ''[[Complaints (poetry collection)|Complaints, Containing Sundrie Small Poemes of the Worlds Vanitie]]'' (entered into the Stationer's Register in 1590<ref name=cufeesb/>), includes:
+** "The Ruines of Time"
+** "The Teares of the Muses"
+** "Virgil's Gnat"
+** "Prosopopoia, or Mother Hubberds Tale"
+** "Ruines of Rome: by [[Joachim du Bellay|Bellay]]"
+** "Muiopotmos, or the Fate of the Butterflie"
+** "Visions of the Worlds Vanitie"
+** "The Visions of [[Joachim du Bellay|Bellay]]"
+** "The Visions of [[Petrarch]]"
+
+1592:
+* ''Axiochus'', a translation of a pseudo-Platonic dialogue from the original [[Ancient Greek poetry|Ancient Greek]]; published by Cuthbert Burbie; attributed to "Edw: Spenser"<ref name=cufeesb/> but the attribution is uncertain<ref>Hadfield, Andrew, [https://books.google.com/books?id=kc__ztz7j0UC&printsec=frontcover&source=gbs_navlinks_s#v=onepage&q=&f=false ''The Cambridge Companion to Spenser''], "Chronology", Cambridge University Press, 2001, {{ISBN|0-521-64199-3}}, p xix, retrieved via Google Books, 24 September 2009</ref>
+* ''Daphnaïda. An Elegy upon the Death of the Noble and Vertuous Douglas Howard, Daughter and Heire of Henry Lord Howard, Viscount Byndon, and Wife of Arthure Gorges Esquier'' (published in London in January, according to one source;<ref name=cufeesb/> another source gives 1591 as the year<ref name=cocel/>)
+
+1595:
+* ''Amoretti and Epithalamion'', containing:
+** "[[Amoretti]]"<ref name=cufeesb/>
+** "[[Epithalamion (poem)|Epithalamion]]"<ref name=cufeesb/>
+* ''[[Astrophel (Edmund Spenser)|Astrophel. A Pastorall Elegie vpon the Death of the Most Noble and Valorous Knight, Sir Philip Sidney]]''
+* ''[[Colin Clouts Come Home Againe]]''
+
+1596:
+* ''Fowre Hymnes'' dedicated from the court at Greenwich;<ref name=cufeesb/> published with the second edition of ''Daphnaida''<ref name=cocel/>
+* ''[[Prothalamion]]''<ref name=cufeesb/>
+* ''[[The Faerie Queene]]'', Books 4–6<ref name=cufeesb/>
+* ''Babel, Empress of the East – a dedicatory poem prefaced to [[Lewes Lewkenor]]'s The Commonwealth of Venice, 1599.
+Posthumous:
+* 1609: ''Two Cantos of Mutabilitie'' published together with a reprint of ''[[The Faerie Queene]]''<ref name=ahccs>Hadfield, Andrew, [https://books.google.com/books?id=kc__ztz7j0UC&printsec=frontcover&source=gbs_navlinks_s#v=onepage&q=&f=false ''The Cambridge Companion to Spenser''], "Chronology", Cambridge University Press, 2001, {{ISBN|0-521-64199-3}}, p xx, retrieved via Google Books, 24 September 2009</ref>
+* 1611: First folio edition of Spenser's collected works<ref name=ahccs/>
+* 1633: ''A Vewe of the Present State of Irelande'', a prose treatise on the reformation of Ireland,<ref>Web page titled [http://www.english.cam.ac.uk/spenser/biography.htm "Edmund Spenser Home Page/Biography"] {{webarchive|url=https://web.archive.org/web/20120102013123/http://www.english.cam.ac.uk/spenser/biography.htm |date=2 January 2012 }}, at the website of the University of Cambridge Faculty of English website, retrieved 24 September 2009</ref> first published by Sir [[James Ware (historian)]] entitled ''The Historie of Ireland'' (Spenser's work was entered into the Stationer's Register in 1598 and circulated in manuscript but not published until it was edited by Ware)<ref name=ahccs/>
+
+==Editions==
+* Edmund Spenser, ''Selected Letters and Other Papers''. Edited by Christopher Burlinson and Andrew Zurcher (Oxford, OUP, 2009).
+* Edmund Spenser, The Faerie-Queene (Longman-Annotated-English Poets, 2001, 2007) Edited by A. C. Hamilton, Text Edited by [http://www008.upp.so-net.ne.jp/hybiblio/1_HTML.html　Hiroshi Yamashita and Toshiyuki Suzuki].
+
+== Digital archive ==
+[[Washington University in St. Louis]] professor Joseph Lowenstein, with the assistance of several undergraduate students, has been involved in creating, editing, and annotating a digital archive of the first publication of poet Edmund Spenser's collective works in 100 years. A large grant from the [[National Endowment for the Humanities]] has been given to support this ambitious project centralized at [[Washington University in St. Louis|Washington University]] with support from other colleges in the United States.<ref>{{Cite web|url=https://artsci.wustl.edu/faculty-staff/joe-loewenstein|title=Joe Loewenstein|date=2019-05-31|website=Arts & Sciences|language=en|access-date=2019-08-19}}</ref><ref>{{cite news | title=Digitizing the works of a 16th-century poet: Spenser Project receives NEH Scholarly Editions Grant |url=http://record.wustl.edu/news/page/normal/10206.html | work=Record | date=October 4, 2007}}</ref>
+
+==References==
+{{Reflist}}
+
+==Sources==
+*Croft, Ryan J. "Sanctified Tyrannicide: Tyranny And Theology In John Ponet's Shorte Treatise Of Politike Power And Edmund “Spenser's The Faerie Queene." ''Studies in Philosophy'', 108.4 (2011): 538–571. MLA International Bibliography. Web. 8 October 2012.
+*Johnson, William. "The struggle between good and evil in the first book of 'The Faerie Queene'." ''English Studies'', Vol. 74,
+*Maley, Willy. “Spenser's Life.” ''The Oxford Dictionary of Edmund Spenser''. Ed. Richard A. McCabe. 1st Ed. 2010. Print.
+*Rust, Jennifer. "Spenser's The Faerie Queene." Saint Louis University, St. Louis. 10 October 2007. No. 6. (December 1993) p.&nbsp;507–519.
+*Zarucchi, Jeanne Morgan. "Du Bellay, Spenser, and Quevedo Search for Rome: A Teacher's Peregrination." ''The French Review'', 17:2 (December 1997), pp.&nbsp;192–203.
+
+==External links==
+{{wikisource author}}
+{{wikiquote}}
+{{Commons category}}
+*[http://www.english.cam.ac.uk/spenseronline/welcome/ The Edmund Spenser Home Page at the Cambridge University]
+*[[iarchive:completeworksin02spengoog|Complete works in Verse and Prose]] at [[Internet Archive]]
+*[[iarchive:worksofedmundspe00spen|The works of Edmund Spenser]] in a single volume at [[Internet Archive]]
+* {{Gutenberg author |id=2264}}
+** Project Gutenberg edition of ''[http://www.gutenberg.net/etext/6937 Biography of Edmund Spenser]'' by John W. Hales
+* {{Internet Archive author |sname=Edmund Spenser}}
+* {{Librivox author |id=544}}
+*[http://www.poetryfoundation.org/bio/edmund-spenser Profile and works at the Poetry Foundation]
+* [https://books.google.com/books?id=LPxd5sliodAC&dq=spenser+encyclopedia&printsec=frontcover&source=bl&ots=lPiQK2cnfJ&sig=PwY9SEn7FkL69Q2inrKQS7ykFLk&hl=en&ei=pg1BSo3dLcGMtgfKuIWkCQ&sa=X&oi=book_result&ct=result&resnum=3 ''The Spenser Encyclopedia'' by A. C. Hamilton in Google Books Preview]
+* {{UK National Archives ID}}
+* {{NPG name}}
+*[http://www.hiroshiyamashita.com. [Hiroshi Yamashita: Bibliographical and Textual Studies of Edmund Spenser and Natsume Soseki]
+
+{{s-start}}
+|- style="text-align:center;" 
+|  style="width:30%; "|Preceded by:<br />'''[[John Skelton]]'''
+|  style="width:40%; "|'''English [[Poet Laureate]]''' <br> c. 1590–1599
+|  style="width:30%; "|Succeeded by:<br />'''[[Samuel Daniel]]'''
+{{s-off}}
+{{succession box | title=[[Chief Secretary for Ireland]] | before= [[Edmund Molyneux]] | after= Philip Williams | years=1580–1582}}
+{{s-end}}
+
+{{Edmund Spenser}}
+{{The Faerie Queene}}
+{{Poets Laureate of the United Kingdom}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Spenser, Edmund}}
+[[Category:Edmund Spenser| ]]
+[[Category:People of Elizabethan Ireland]]
+[[Category:Alumni of Pembroke College, Cambridge]]
+[[Category:1550s births]]
+[[Category:1599 deaths]]
+[[Category:English Anglicans]]
+[[Category:Sonneteers]]
+[[Category:Burials at Westminster Abbey]]
+[[Category:People educated at Merchant Taylors' School, Northwood]]
+[[Category:16th-century English poets]]
+[[Category:Critics of the Catholic Church]]
+[[Category:Writers of Arthurian literature]]
+[[Category:Chief Secretaries for Ireland]]
+[[Category:English male poets]]
+[[Category:Epic poets]]
+[[Category:People of the Second Desmond Rebellion]]

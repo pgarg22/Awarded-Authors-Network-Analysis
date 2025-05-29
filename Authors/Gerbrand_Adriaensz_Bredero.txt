@@ -1,0 +1,78 @@
+{{Infobox writer
+| name          = Gerbrand Adriaenszoon Bredero
+| image         =Bredero.png
+| image_size    = 250px
+| alt           = 
+| caption       = Portrait of Bredero by H.W. Caspari after an engraving by [[Hessel Gerritsz]]
+| pseudonym     = 
+| birth_name    = {{nowrap|Gerbrand Adriaenszoon Bredero}}
+| birth_date    = {{Birth date|1585|3|16|df=yes}}
+| birth_place   = [[Amsterdam]], [[Dutch Republic]]
+| death_date    = {{Death date and age|1618|08|23|1585|3|16|df=yes}}
+| death_place   = [[Amsterdam]], [[Dutch Republic]]
+| resting_place = 
+| occupation    = [[Poet]], [[playwright]]
+| language      = [[Dutch language|Dutch]]
+| nationality   = 
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = 
+| subject       = 
+| movement      = [[Egelantier|De Egelantier]]
+| notableworks  = 
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| module        =
+| website       = 
+| portaldisp    = 
+}}
+[[File:Memorial to Bredero, Amsterdam.jpg|thumb|Memorial to Bredero, [[Amsterdam]]]]
+'''Gerbrand Adriaenszoon Bredero''' (16 March 1585&nbsp;– 23 August 1618<ref name="schenkeveld">{{Citation | year= 1985 | editor-last= Schenkeveld van der Dussen | editor-first= Maria | title= Bredero | place= [[Groningen (city)|Groningen]] | publisher= [[Wolters-Noordhoff]] | pages= 7, 8, 30 | isbn = 978-90-01-77990-0 }}</ref>) was a [[Netherlands|Dutch]] [[poet]] and [[playwright]] in the period known as the [[Dutch Golden Age]].
+
+==Life==
+
+Gerbrand Adriaenszoon Bredero was born on 16 March 1585 in [[Amsterdam]] in the [[Dutch Republic]],<ref name="schenkeveld"/> where he lived his whole life. He called himself ''"G.A. Bredero, Amstelredammer"'', and sometimes he is called ''Breero'' or ''Brederode''. He was the third child of Marry Gerbrants and Adriaen Cornelisz Bredero, who was a [[shoemaker]] and a successful [[real estate agent]]. Bredero was born in the ''Nes'', nowadays number 41, and in 1602 he and his family moved to a house on [[Oudezijds Voorburgwal]], now number 244, which his father had bought. Bredero lived in this house for the rest of his life. Both houses are now restaurants in Amsterdam's famous red light district.
+
+At school Bredero learned [[French language|French]] and possibly also some [[English language|English]] and [[Latin]]. Later he was educated as an artist by the [[Antwerp]] painter [[Francesco Badens]],<ref name="schenkeveld"/> but none of his paintings have survived. In 1611 he became a member of the ''[[rederijkers]]kamer'' ''d'Eglantier'', where he was an active member and became friends with [[Roemer Visscher]] and [[Pieter Corneliszoon Hooft|P.C.Hooft]]. Together with Hooft he joined [[Samuel Coster|Costers]] ''[[Nederduytsche Academie]]''. Around this time he wrote the play ''"De Spaanschen Brabander Jerolimo"''.
+
+The only public position Bredero achieved  was as ''vaandrig'' or [[standard bearer]] of the [[Schutterij|civic guard]]. On 23 August 1618, at the age of 33, Bredero suddenly died, shortly after he had recovered from [[pneumonia]] that he had contracted after falling through ice. He never married.
+
+==Plays==
+* ''Rodd'rick ende Alphonsus'' (first performed in 1611)<ref name="schenkeveld"/>
+* ''Griane'' (first performed in 1612)<ref name="schenkeveld"/>
+* ''[[Klucht van de Koe]]''
+* ''Klucht van de Molenaer''
+* ''Moortje'' (first performed in 1615)<ref name="schenkeveld"/>
+* ''Lucelle'' (first performed circa 1616)<ref name="schenkeveld"/>
+* ''Spaansen Brabander'' (''Spanish Brabanter''; first performed in 1617)<ref name="schenkeveld"/>
+
+==References==
+<references />
+
+==External links==
+{{Commons category|Gerbrand Adriaenszen Bredero}}
+* [http://cf.hum.uva.nl/dsp/ljc/bredero/ G.A. Bredero] – digital versions of a major part his oeuvre ''(in Dutch)''
+* [http://www.lieder.net/lieder/b/bredero/ Bredero song text page]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }} – English translations of several songs of Bredero
+* [http://www.dbnl.org/auteurs/beeld.php3?id=bred001 G.A. Bredero 1585–1618] – pictures of Bredero
+* [http://cf.hum.uva.nl/bookmaster/bredero&starter/ Newly discovered poems of Bredero and Starter] – digital versions of in 2004 discovered poems ''(in Dutch)''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bredero, Gerbrand Adriaenszoon}}
+[[Category:1585 births]]
+[[Category:1618 deaths]]
+[[Category:17th-century Dutch poets]]
+[[Category:17th-century Dutch dramatists and playwrights]]
+[[Category:Dutch Golden Age writers]]
+[[Category:Dutch male poets]]
+[[Category:Muiderkring]]
+[[Category:Writers from Amsterdam]]
+[[Category:Dutch male dramatists and playwrights]]

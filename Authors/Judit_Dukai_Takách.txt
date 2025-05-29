@@ -1,0 +1,62 @@
+{{short description|Hungarian poet}}
+{{Expand Hungarian|Dukai Takách Judit|date=July 2014}}
+{{Infobox writer
+| name             = Judit Dukai Takách
+| embed            = 
+| honorific_prefix = 
+| honorific_suffix = 
+| image            = File:Dukai Takách Judit Verő G. rajza.jpg
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| native_name      = Dukai Takács Judit
+| native_name_lang = hu
+| pseudonym        = Malvina
+| birth_name       = 
+| birth_date       = <!-- {{Birth date and age|1795|08|09}} -->
+| birth_place      = [[Duka]], [[Vas County]]
+| death_date       = <!-- {{Death date and age|1836|04|15|YYYY|MM|DD}} -->
+| death_place      = [[Sopron]]
+| resting_place    = 
+| occupation       = 
+| language         = [[Hungarian language|Hungarian]]
+| residence        = 
+| nationality      = 
+| citizenship      = 
+| education        = 
+| alma_mater       = 
+| period           = 
+| genre            = [[Poetry]]
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notableworks     = <!-- or: | notablework = -->
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Judit Dukai Takách''' (1795–1836), was a Hungarian poet.<ref>Szinnyei József: Magyar írók élete és munkái II. (Caban–Exner). Budapest: Hornyánszky. 1893.</ref> She was known under her [[pseudonym]] ''Malvina''.
+
+==Notes==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Takach, Judit Dukai}}
+[[Category:1795 births]]
+[[Category:1836 deaths]]
+[[Category:Hungarian women poets]]
+[[Category:19th-century Hungarian poets]]
+[[Category:19th-century Hungarian women writers]]
+
+
+{{Hungary-poet-stub}}

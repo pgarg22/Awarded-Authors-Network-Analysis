@@ -1,0 +1,101 @@
+{{other people||Guy Smith (disambiguation)}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Guy Smith
+| image         =  GSmith073.jpg
+| imagesize     = 
+| alt           = 
+| caption       = Guy Smith, 2006
+| pseudonym     = 
+| birth_name    = 
+| birth_date    = {{birth date and age|1957|11|17}}
+| birth_place   = Augusta, Georgia
+| death_date    = 
+| death_place   = 
+| resting_place = 
+| occupation    = Writer
+| language      = 
+| nationality   = American
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = Fiction, Non-fiction (political)
+| subject       = 
+| movement      = 
+| notableworks  = 
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| website       = {{URL|music.GuySmith.org}}
+}}
+
+'''Guy Smith''' (born November 17, 1957 in Augusta, Georgia) is a [[San Francisco]] based writer.<ref>[http://www.GuySmith.org Official Web Site]</ref> Smith has published both fiction and non-fiction, and bills himself as a "writer, songwriter, and political provocateur."
+
+Smith describes a childhood that included simultaneously being a surfer and a working cowboy. His writing career began while working at [[Kennedy Space Center]], writing articles for trade press. This led to his first book devoted to architecture of the [[HP 3000|Hewlett-Packard 3000]] computer.
+
+In San Francisco Smith began writing politically focused opinion pieces for Bay Area newspapers ([[San Francisco Chronicle]],<ref>[http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/11/04/EDGGJ9LF9S1.DTL San Francisco Chronicle: I hate to say I said so . . .]</ref><ref>[http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/06/27/EDGNNQ4T361.DTL San Francisco Chronicle: On Pretrial Incarceration for Juveniles]</ref> [[Oakland Tribune]], [[Contra Costa Times]]). While in San Francisco he expanded into fiction, publishing his first novella (''Afterlife''). His speaking engagements include the [[Libertarian National Convention]]<ref>[http://www.gwu.edu/~action/2008/chrnconv08/lpconv052508.html Speaker: 2008 Libertarian National Convention]</ref> and the Gun Rights Policy Conference.<ref>[http://armsandthelaw.com/archives/2008/09/gun_rights_poli.php Speaker: 2008 Gun Rights Policy Conference]</ref>
+
+== Books published ==
+*Guns and Control (2020, Skyhorse): {{ISBN|978-1510760073}}
+*Shooting the Bull (2011, Free Thinkers Media): {{ISBN|978-0-9832407-0-9}}
+*Afterlife (2009, G3 Media) {{ISBN|978-1-4392-3743-4}}
+*Gun Facts<ref>[http://www.GunFacts.info Gun Facts Web Site]</ref> (1999–2015)
+*The HP3000 Bible (1988,PCI Press)
+
+== Political observations ==
+===Media and Social Media===
+In ''Shooting The Bull'', Smith claims that a critical shift in political information has occurred.  He notes that traditional media sources (or [[mainstream media]]) are no longer in control of the national conversation – that analysis and decisions concerning political “facts” and policy are now in the hands of the [[citizen media]].
+
+: “When a few million intelligent but bored individuals are given a unified platform for research, analysis and sharing, power shifts from the organized [[Fourth Estate]] to the unorganized Fifth.”
+
+Smith concludes that even though the citizen media produces misinformation, it has disabled centralized or institutionalized misinformation due to ongoing public propaganda analysis.
+
+==="Smith Doctrine"===
+Smith has articulated a "long view" doctrine for American Foreign policy.<ref>https://www.quora.com/What-is-the-biggest-mistake-made-by-the-USA-since-the-fall-of-the-Soviet-Union-How-would-the-world-be-better-if-such-action-had-been-different/answer/Guy-Smith-54</ref> The doctrine ties U.S. economic engagement to the civil and human rights records of the partner country. The anticipated effect is that economic vitality will be limited to nations with strong civil and human rights records.
+
+==Discography==
+{{Discography list
+ | Type          =   Live
+ | Name          =   Just Pluckin' Around<ref>[https://www.amazon.com/Just-Pluckin-Around-Various/dp/B00A7IDDOA Just Pluckin' Around]</ref>
+ | Other info    =   San Francisco Songwriters Cult 2012
+ | Released      =   2012
+ | Tracks        =   Rains Rust, Too Far Away, One Heartbreak
+}}
+{{Discography list
+ | Type          =   Studio
+ | Name          =   Ghosts in the Bone<ref>[https://www.amazon.com/Ghosts-Bone-Guy-Smith/dp/B07995S18V/ Ghosts in the Bone]</ref>
+ | Released      =   2018
+ | Tracks        =   Old Wounded and Dangerous, Too Far Away, Purgatory of Your Love, Ghosts in the Bone, Perfect and Eternal, One Heartbreak, Rains Rust, The Last Duet, The Devil's Prayer, This Old Guitar, Dagger Heart
+}}
+{{Discography list
+ | Type          =   Studio
+ | Name          =   Sentimental Nightmares<ref>[https://www.amazon.com/Sentimental-Nightmares-Guy-Smith/dp/B08G8GGC3Y/ Sentimental Nightmares]</ref>
+ | Released      =   2020
+ | Tracks        =   Austin via Dallas, Old Friend Jack, Sentimental Nightmares, Right Way, Stolen Horses, Shorter the Skirt, Cajun Queen, If You Don't Stop Crying
+}}
+
+==References==
+<references/>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Smith, Guy}}
+[[Category:21st-century American novelists]]
+[[Category:American political writers]]
+[[Category:American male novelists]]
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:American male non-fiction writers]]
+
+
+{{US-novelist-1950s-stub}}

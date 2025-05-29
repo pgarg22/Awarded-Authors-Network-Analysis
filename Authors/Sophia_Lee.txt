@@ -1,0 +1,87 @@
+{{Short description|English novelist, dramatist and educator, 1750–1824}}
+{{lead too short|date=December 2018}}
+{{Use dmy dates|date=November 2018}}
+{{Use British English|date=November 2018}}
+{{Infobox person
+|name = Sophia Lee
+|image = Sophia Lee Ridley.jpg
+|alt = 
+|caption = Sophia Lee, 1797 engraving
+|birth_name = 
+|birth_date = 1750<!-- {{Birth date and age|df=yes|YYYY|MM|DD}} or {{Birth-date and age|Month DD, YYYY}} -->
+|birth_place = [[London]]
+|death_date = {{Death date|1824|03|13|df=yes}}
+|death_place = [[Clifton, Bristol]]
+|nationality = 
+|other_names = 
+|occupation = playwright, librettist
+|known_for = 
+}}
+'''Sophia Lee''' (1750 – 13 March 1824) was an English [[novelist]], [[dramatist]] and educator. She was a formative writer of [[Gothic fiction]].
+
+==Life and literary production==
+She was the daughter of [[John Lee (actor 1781)|John Lee]] (died 1781), actor and theatrical manager, and was born in [[London]]. Her first piece, ''The Chapter of Accidents'', a three-act drama based on [[Denis Diderot]]'s ''[[Le père de famille]]'', was produced by [[George Colman the Elder]] at the [[Haymarket Theatre]] on 5 August 1780 and was an immediate success.{{sfn|Chisholm|1911}}
+
+When her father died in 1781, Lee spent the proceeds of the play on establishing a school at [[Bath, Somerset|Bath]], where she made a home for her sisters Anne and [[Harriet Lee|Harriet]]. Her novel ''The Recess, or a Tale of other Times'' (1783–1785) was a historical romance. ''The Recess'', set in Elizabethan times, revolves around two fictional daughters of [[Cultural depictions of Mary, Queen of Scots|Mary, Queen of Scots]].<ref>Siobhan Carroll, ''An Empire of Air and Water: Uncolonizable Space in the British Imagination, 1750-1850''. University of Pennsylvania Press, 2015 (pp.162-6).</ref> Lee also wrote the play ''[[Almeyda, Queen of Granada]]'' (1796) was a long [[tragedy]] in [[blank verse]], which opened at [[Drury Lane]] on 20 April 1796 but ran for only five nights.{{sfn|Lee|1892}}
+
+''The Recess'' can also be regarded as a formative work of the original Gothic, echoing and pre-dating themes from other contemporary [[Gothic fiction|Gothic]] writers. It was so popular that a spin-off novelette appeared in 1820, ''Rose Douglas; or, The Court of Elizabeth''<ref>{{cite web|last1=Grundy|first1=Isobel|title=Sophia Lee|url=http://orlando.cambridge.org|website=Orlando Database of Women's Writing in the British Isles, Beginning to Present|publisher=Cambridge University Press Online|accessdate=27 September 2016}}</ref> {{sfn|Chisholm|1911}} [[William Hazlitt]] might consider it "dismal" by comparison with the works of [[Ann Radcliffe]], but its influence both on the Gothic school of the [[Minerva Press]], and on figures like [[Walter Scott]] is nonetheless clear.<ref>C. Spooner ed. ''The Routledge Companion to Gothic'' (2007) pp. 10, 73, and 156</ref> From this work, Italian writer Carlo Federici wrote the play ''Il paggio di Leicester'' ''(Leicester's Page)'' and, in turn, that became the source of ''[[Elisabetta, regina d'Inghilterra]]'', ''(Elizabeth, Queen of England)'' the 1812 opera by [[Gioachino Rossini]], the libretto of which was written by Giovanni Schmidt.
+
+With her sister [[Harriet Lee]], Sophia also wrote a series of ''Canterbury Tales'' (1797). Other works included ''The Life of a Lover'' (1804) and ''Ormond; or the Debauchee'' (1810). She died at her house near [[Clifton, Bristol]] on 13 March 1824.{{sfn|Lee|1892}}
+
+==Works==
+===Plays===
+*''[[The Chapter of Accidents]]'' (1780)
+*''[[Almeyda, Queen of Granada]]'' (1796)
+*''The Assignation'' (1807)
+
+===Novels===
+*''[http://ota.ox.ac.uk/desc/4943 The Recess]'' (1783–1785)
+*''[https://archive.org/details/canterburytales01leesuoft Canterbury Tales]'' (1797–1799), co- authored with [[Harriet Lee]]
+*''[https://catalog.hathitrust.org/Record/000321626 The Life of a Lover]'' (1804)
+*''Ormond; or the Debauchee'' (1810)
+
+==Notes==
+{{reflist}}
+;Attribution
+*{{EB1911|wstitle=Lee, Sophia}}
+*{{DNB|wstitle=Lee, Sophia |first=Elizabeth |last=Lee|volume=32}}
+
+==References==
+*{{Cite ODNB|id=16311|title=Lee, Sophia Priscilla (bap. 1750, d. 1824)}}
+*Rebecca Garwood, [http://www.chawton.org/library/biographies/lee.html 'Sophia Lee (1750-1824) and Harriet Lee (1757-1851)' at www.chawton org]
+*{{Cite AmCyc|wstitle=Lee, Sophia |short=x}}
+
+==Bibliography==
+*Alliston, April. ''Virtue's Faults: Correspondences in Eighteenth-Century British and French Women's Fiction'' (Stanford: Stanford University Press, 1996).
+*Alliston, April, ed. ''The Recess, or, A Tale of Other Times'' (Lexington: University Press of Kentucky, 2000). 
+*Lewis, Jayne Elizabeth. "'Ev'ry Lost Relation': Historical Fictions and Sentimental Incidents in Sophia Lee's ''The Recess''." ''Eighteenth-Century Fiction'' 7, no. 2 (January 1995): 165-84.
+*Lewis, Jayne Elizabeth. ''Mary Queen of Scots: Romance and Nation'' (London: Routledge, 1998). 
+*Nordius, Janina. "A Tale of Other Places: Sophia Lee's ''The Recess'' and Colonial Gothic." ''Studies in the Novel'' 34.2 (Summer 2002): 162-76.
+*Rigliano, Matthew J. "The Recess Does Not Exist: Absorption, Literality, and Feminine Subjectivity in Sophia Lee's ''The Recess''." ''Eighteenth-Century Fiction'' 26.2 (Winter 2013-14): 209-32.
+*Sodeman, Melissa. ''Sentimental Memorials: Women and the Novel in Literary History'' (Stanford: Stanford University Press, 2014).
+*Stevens, Anne H. ''British Historical Fiction Before Scott'' (New York: Palgrave, 2010).
+
+==External links==
+{{Library resources box}}
+*[http://www.eighteenthcenturypoetry.org/authors/pers00299.shtml Sophia Lee] at the [http://www.eighteenthcenturypoetry.org/ Eighteenth-Century Poetry Archive (ECPA)]
+*[https://web.archive.org/web/20050404142441/http://www2.unipr.it/~dsaglia/almeyda/almprosp.html Text of ''Almeyda, Queen of Grenada'']
+{{Authority control}}
+
+{{DEFAULTSORT:Lee, Sophia}}
+[[Category:1750 births]]
+[[Category:1824 deaths]]
+[[Category:Writers from London]]
+[[Category:English women novelists]]
+[[Category:18th-century British women writers]]
+[[Category:19th-century English women writers]]
+[[Category:18th-century English novelists]]
+[[Category:19th-century English novelists]]
+[[Category:18th-century British dramatists and playwrights]]
+[[Category:English women dramatists and playwrights]]
+[[Category:Writers of the Romantic era]]
+[[Category:Schoolteachers from London]]
+[[Category:English historical novelists]]
+[[Category:Women historical novelists]]
+[[Category:Writers of historical fiction set in the early modern period]]
+[[Category:18th-century English women]]
+[[Category:18th-century English people]]

@@ -1,0 +1,60 @@
+{{short description|American fantasy author|bot=PearBOT 5}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image = 
+|imagesize = 150px |
+| name        = Steven Frankos
+| caption     = 
+| birth_date = 
+| birth_place = 
+| death_date = 
+| death_place = 
+| occupation  = Author
+| genre       = [[Fantasy]]
+| nationality = American
+| period      = 
+| movement    = 
+| notableworks = 
+| influences  = 
+| influenced  = 
+}}
+'''Steven Frankos''' is an American [[fantasy]] author.
+
+==Biography==
+Frankos is the brother of [[Mystery fiction|mystery]], fantasy and [[science fiction]] author [[Laura Frankos]] and the brother-in-law of science fiction author [[Harry Turtledove]].
+
+==Literary career==
+Frankos has written six novels in two different series, all published by [[Ace Books]], as well as short stories.
+
+==Bibliography==
+===The Wheel Trilogy===
+*''The Jewel of Equilibrant'' (1993)
+*''The Heart of Sparrill'' (1993)
+*''The Darklight Grimoire'' (1994)
+
+===Beyond Lich Gate===
+*''Beyond Lich Gate'' (1994)
+*''Cathedral of Thorns'' (1995)
+*''A Legend Reborn'' (1997)
+
+===Short fiction===
+*"Clover and Clover Again" (1982)
+*"Toadally Ridiculous" (1983)
+
+==References==
+*[http://www.stevenhsilver.com/associational.html Harry Turtledove - Associated Authors]
+*[http://www.fantasticfiction.co.uk/f/steven-frankos/ Fantastic Fiction entry on Steven Frankos]
+*{{isfdb name|id=Steven_Frankos|name=Steven Frankos}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Frankos, Steven}}
+[[Category:20th-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:Harry Turtledove]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:20th-century American male writers]]
+
+
+{{US-fiction-writer-stub}}

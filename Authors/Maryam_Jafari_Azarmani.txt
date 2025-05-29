@@ -1,0 +1,83 @@
+{{short description|Iranian poet (born 1977)}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+| name             = Maryam Jafari Azarmani
+| native_name      = مریم جعفری آذرمانی
+| native_name_lang = fa
+| image            = MJafariAzarmani (2).jpg
+| image_size       = 
+| alt              = 
+| caption          = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = {{birth date and age|1977|11|25}}
+| birth_place      = [[Tehran, Iran]]
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place      = 
+| resting_place    = 
+| occupation       = Poet, [[literary critic]], [[translator]]
+| language         = 
+| ethnicity        = 
+| citizenship      = 
+| education        = 
+| alma_mater       = [[Alzahra University]]
+| period           = 
+| genre            = 
+| subject          = 
+| movement         = 
+| spouse           = 
+| partner          = 
+| children         = 
+| relatives        = 
+| influences       = 
+| influenced       = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| portaldisp       = 
+| website          = {{URL|http://www.iampoet.blog.ir/}}
+}}
+'''Maryam Jafari Azarmani''' (or Azarmâni, Aazarmaani) (Persian: مریم جعفری آذرمانی), is an Iranian poet, [[literary critic]], and  [[translator]]. She was born in [[Tehran]], Iran in 1977.
+
+== Biography ==
+Azarmani began writing poetry in 1996. She has published several  books of poetry since 2007. She graduated from [[Alzahra University]] with a master's degree in [[Persian literature]], the title of her thesis is "Analysis of the implications in one hundred poems of [[Hossein Monzavi]] based on Grice's theories". Azarmani has studied French Translation (Bachelor's degree) and translated French poetry.<ref>{{cite web|url=http://www.irandoc.ac.ir/|title=Iranian Research Institute for Information Science and Technology}}</ref>
+
+==Books==
+* Symphony of the locked narrative (سمفونیِ روایتِ قفل شده)
+* Piano (پیانو)<ref>{{cite web|url=http://ibna.ir/vdcjvtet.uqeimz29fu.html|title=The 3rd Parvin Etesami Literary festival}}</ref><ref>{{cite web|url=http://www.patheos.com/blogs/mmw/2008/12/does-masculine-air-rules-over-poetical-awards-in-iran/|title=The first award for female Iranian poets}}</ref>
+* Seven (هفت)
+* The pick (زخمه)
+* Qanun (قانون)
+* 68 seconds remain to the performance of this opera (68 ثانیه به اجرای این اپرا مانده است)
+* A Saw can be Heard (صدای ارّه می آید)<ref>{{cite web|url=http://ibna.ir/vdcci1qsp2bqo18.-ya2.html|title=Shortlist of 31st Book of the Year Award Released}}</ref><ref>{{cite web|url=https://books.google.com/books?id=szqeoAEACAAJ&dq=inauthor:%22%D9%85%D8%B1%D9%8A%D9%85+%D8%AC%D8%B9%D9%81%D8%B1%D9%8A+%D8%A2%D8%B0%D8%B1%D9%85%D8%A7%D9%86%D9%8A%22&hl=en&sa=X&ei=RM6tVP-wMoy1UYfcg9gP&ved=0CB0Q6AEwAA|title=A Saw can be Heard}}</ref>
+* Tribun (تریبون)<ref>{{cite web|url=https://books.google.com/books?id=FFfVoQEACAAJ&dq=%D9%85%D8%B1%DB%8C%D9%85+%D8%AC%D8%B9%D9%81%D8%B1%DB%8C+%D8%A2%D8%B0%D8%B1%D9%85%D8%A7%D9%86%DB%8C&hl=en&sa=X&ei=vM2tVNepKIn2UNrIgtgP&ved=0CCEQ6AEwAQ/|title=Tribun}}</ref>
+* Negotiation (مذاکرات)
+* Circle (دایره)
+* Beat (ضربان)
+* The Other Meaning (Analysis of the Implications in Poems of [[Hossein Monzavi]] Based on [[Paul Grice]]'s Theories)<ref>[[:fa:مریم جعفری آذرمانی]] Maryam Jafari Azarmani</ref>
+
+==See also==
+* [[List of Persian poets and authors]]
+
+==References==
+{{Reflist}}
+
+{{Persian literature}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Azarmani, Maryam Jafari}}
+[[Category:Iranian poets]]
+[[Category:1977 births]]
+[[Category:Living people]]
+[[Category:Persian-language poets]]
+[[Category:People from Tehran]]
+[[Category:Persian-language women poets]]
+[[Category:Iranian lyricists]]
+[[Category:Iranian literary critics]]
+[[Category:Alzahra University alumni]]
+[[Category:Iranian women poets]]
+[[Category:Iranian translators]]
+[[Category:20th-century Iranian poets]]
+[[Category:21st-century Iranian poets]]
+[[Category:20th-century women writers]]
+[[Category:21st-century women writers]]

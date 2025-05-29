@@ -1,0 +1,134 @@
+{{short description|American author}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Troy Denning
+| image       = Troy denning.jpg
+| caption     = Troy Denning at the 2007 [[Lucca Comics & Games|Lucca Games]]
+| birth_date  = 
+| birth_place = 
+| death_date  =
+| death_place =
+| occupation  = Writer, game designer
+| period      =
+| spouse = Andria
+| genre       = [[role-playing game]]s, [[fantasy]]
+| influences  =
+}}
+
+'''Troy Denning''' is a [[fantasy]] and [[science fiction]] author and game designer who has written more than two dozen novels.<ref>{{cite news | url=http://www.highbeam.com/doc/1G1-99225505.html | archive-url=https://web.archive.org/web/20140610085239/http://www.highbeam.com/doc/1G1-99225505.html | url-status=dead | archive-date=June 10, 2014 | author=Wineke, William R. | title=Writers with Local Ties Making Their Imprint | work=The Wisconsin State Journal | date=March 26, 2003 | access-date=October 16, 2012}}{{subscription|via=[[HighBeam Research]]}}</ref>
+
+== Background ==
+Denning grew up in the mountain town of [[Idaho Springs, Colorado]]. An avid reader of science fiction and fantasy, he began writing himself at the age of fourteen in 80-page spiral-bound notebooks, and began to collect the usual quantity of [[rejection slip]]s. Around his eighteenth birthday, he received a rejection slip from editor [[Ben Bova]], but one with a signature and a handwritten note thanking him for the submission. Heartened, Denning continued to write as he attended [[Beloit College]], where he also played on their [[Division III (NCAA)|Division III]] [[American football|football team]].<ref>[http://odysseycon.org/guests.html#tdenning "Guests: Troy Denning" [[Odyssey Con]] 14 website]</ref>
+
+==Career==
+Denning joined [[TSR, Inc.|TSR]] as a game designer in 1981, and was promoted a year later to Manager of Designers, before he moved to the book department.<ref name="Dragon #245">{{cite journal| last = Varney| first = Allen| author-link = Allen Varney| title = ProFiles: Troy Denning| journal = [[Dragon (magazine)|Dragon]]| issue = #245| page = 112| publisher = [[Wizards of the Coast]]| location = [[Renton, Washington]]|date=March 1998}}</ref> Denning then worked for two years managing the [[Pacesetter Ltd|Pacesetter]] game company.<ref name="Dragon #245"/> Denning designed the adventure board game ''[[Chill: Black Morn Manor]]'' (1985) for Pacesetter.<ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=Mongoose Publishing|year=2011| isbn= 978-1-907702-58-7}}</ref>{{rp|198}} When [[Mayfair Games]] picked up ownership of the horror game ''[[Chill (role-playing game)|Chill]]'' from Pacesetter, Denning also moved to Mayfair at that time; Denning worked with Mayfair staffers [[David Ladyman]], [[Jeff R. Leason|Jeff Leason]] and Louis Prosperi, to create a second edition of ''Chill'' (1990).<ref name="designers"/>{{rp|168}} After his stint at Mayfair Games, Denning went freelance.<ref name="Dragon #245"/>
+
+Denning wrote the third novel in TSRs "Avatar Trilogy", ''[[The Avatar Series|Waterdeep]]'' (1989), which he wrote under the house [[pseudonym]] ''Richard Awlinson'';<ref name="Dragon #245"/> the book became a ''[[New York Times]]'' bestselling novel.<ref>[http://alliterates.com/troy-denning/ Troy Denning]. Alliterates.com. Accessed March 24, 2012.</ref> He wrote the novel with [[Scott Ciencin]], and the choice of the surname Awlinson was an [[inside joke]] which sounds like "all in one".{{Citation needed|date=October 2010}}
+
+In October 1989 he rejoined TSR as a senior designer, co-creating the [[Dark Sun]] setting with [[Timothy Brown (game designer)|Tim Brown]] and [[Mary Kirchoff]].<ref name="Dragon #245"/> Denning and Brown led the project, alongside fiction editor Kirchoff, and they were soon joined by artist [[Gerald Brom|Brom]], who contributed the unique illustrations that helped set Dark Sun apart from the other TSR settings, making Dark Sun the first of TSR's world designs with a more artistic sensibility.<ref name="designers"/>{{rp|26}} According to Denning, the three designers envisioned "a world for experienced DMs that would push the ''AD&D'' game to its limits and let people do things like play [[Half-giant (Dungeons & Dragons)|half-giants]] and [[thri-kreen]] and superstrong characters—in short, all the really neat stuff we wanted to do ourselves, but that everybody kept saying would ruin game balance."<ref name="Dragon #245"/> Denning felt in 1998 that Dark Sun "did what we wanted it to, and it has attracted a devoted following. When I go to conventions, it's still what people want to talk about. Talking [[Gerald Brom|Brom]] into being the lead artist early was very fortunate for us; he would sketch weird creatures and settings and equipment, and we'd work them into the game."<ref name="Dragon #245"/> Brown and Denning also put together the 1991 [[Dungeons & Dragons Game (1991 boxed set)|''D&D'' "black box"]] set, which became a top-seller for TSR, selling half a million copies in the next six years.<ref name="designers"/>{{rp|27}}
+
+Denning returned to freelance writing again in 1991, writing the bestselling "Prism Pentad" for the Dark Sun setting (1991–93), and the [[Forgotten Realms]] "Twilight Giants" trilogy (1994–95).<ref name="Dragon #245"/> Denning also wrote the [[Planescape]] hardcover ''Pages of Pain'' (1996): "It had to be from the Lady of Pain’s viewpoint—which is something of a problem, since (as every Planescape player knows) she never speaks—and (this was the really good part) the reader must know less about her at the end of the book than he does at the beginning, and nobody knows anything about her at the beginning."<ref name="Dragon #245"/> Denning recalled that ''Pages of Pain'' "really made me rethink the way I approach stories, and for that reason alone it was worth writing. It also ended up being a much deeper book than I had ever written before, which I think was a result of the extreme approach I was forced to take. Those who have [read it] seem to think it's my best work. It was certainly the most challenging and—forgive the pun—'painful' to write."<ref name="Dragon #245"/> Denning continued the story told in ''Waterdeep'''s sequel, ''[[Prince of Lies (novel)|Prince of Lies]]'' (1993) by [[James Lowder]], with the novel ''Crucible: The Trial of Cyric the Mad''.<ref name="Dragon #245"/> Denning then authored another Forgotten Realms novel called ''Faces of Deception''.<ref name="Dragon #245"/> Denning's other notable works are ''Dragonwall'' and ''The Parched Sea''.  Denning wrote the novel ''The Sentinel'' for [[The Sundering (Dungeons & Dragons)|The Sundering]], a fictional event set in the expanded ''D&D'' universe.<ref name=forbes-aug-2012>{{cite news | url=https://www.forbes.com/sites/davidewalt/2012/08/20/whats-next-with-dungeons-and-dragons/ | author=Ewalt, David M. | title=What's Next With Dungeons And Dragons? | work=[[Forbes]] | date=August 20, 2012 | access-date=August 26, 2012}}</ref>
+
+He is also the author of a number of [[Star Wars expanded universe|''Star Wars'' expanded universe]] novels. Including ''[[Invincible (Star Wars novel)|Invincible]]'', the ninth and final book in the [[Legacy of the Force]] series, was released in May 2008. He also authored the third and sixth books in the series. He has also been the author for three books in the [[Fate of the Jedi]] series.<ref name="Random"/> And the 9th book in [[The New Jedi Order]]: [[Star by Star]] and the [[Dark Nest Trilogy]].
+
+Troy was one of the founders of [[Pacesetter Ltd]], a game company formed by a group of former [[TSR, Inc.]] executives.{{citation needed|date=October 2012}}
+
+==Personal life==
+Denning lives in [[Lake Geneva, Wisconsin|Lake Geneva]], [[Wisconsin]] with his wife Andria.<ref name="Random">[http://www.randomhouse.com/author/results.pperl?authorid=6868 Author Spotlight at Random House]</ref> He enjoys many hobbies, including skiing, hiking, mountain-climbing, and Kyuki-do -- a form of tae-kwan-do incorporating [[judo]], boxing, and [[Hapkido|hapki-do]].<ref name="wizardsbio">{{cite web|url=http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=TroyDenning|title=Troy Denning|archive-url=https://web.archive.org/web/20090224004137/http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=TroyDenning|archive-date=February 24, 2009}}</ref>
+
+==Works==
+===[[Combat Command]]===
+*''[[The Omega Rebellion]]'' (December 1987)
+*''[[Dorsai's Command]]'' (with Gordan R. Dixon and Corey Glaberson, March 1989)
+
+===[[Dark Sun]]===
+''(listed in order of publication)''
+*''[[The Verdant Passage]]'' (October 1991)
+*''The Crimson Legion'' (April 1992)
+*''The Amber Enchantress'' (October 1992)
+*''The Obsidian Oracle'' (June 1993)
+*''The Cerulean Storm'' (September 1993)
+
+===[[Forgotten Realms]]===
+''(listed in order of publication)''
+*''[[Waterdeep (novel)|Waterdeep]]'' (as Richard Awlinson, October 1989)
+*''Dragonwall'' (July 1990)
+*''[[The Parched Sea]]'' (July 1991)
+*''The Ogre's Pact'' (September 1994)
+*''The Giant Among Us'' (February 1995)
+*''The Titan of Twilight'' (September 1995)
+*''The Veiled Dragon'' (June 1996)
+*''[[Crucible: The Trial of Cyric the Mad]]'' (February 1998)
+*''Faces of Deception'' (November 1998)
+*''Beyond the High Road'' (December 1999)
+*''Death of the Dragon'' (written with Ed Greenwood, August 2000)
+*''The Summoning'' (March 2001)
+*''[[The Siege (Forgotten Realms novel)|The Siege]]'' (December 2001)
+*''The Sorcerer'' (November 2002)
+*''The Sentinel'' (April, 2014)
+
+===[[Halo (series)|Halo]]===
+*''Halo: Last Light'' (September 2015)
+*''Halo: Retribution'' (August 2017)
+*''Halo: Silent Storm'' (September 2018)
+*''Halo: Oblivion'' (September 2019)
+*''Halo: Shadows of Reach'' (October 2020)
+*''Halo: Divine Wind'' (October 2021)
+
+===''[[Kim Possible]]''===
+''(listed in order of publication)''
+*''[[Disney's Kim Possible: Tweeb Trouble - Book 9]]'' (2004)
+*''[[Disney's Kim Possible: Pick a Villain - Game On]]'' (2005)
+*''[[Disney's Kim Possible: Pick a Villain - Masters of Mayhem]]'' (2005)
+
+===[[Planescape]]===
+*''Pages of Pain'' (December 1997)
+
+===[[Stonekeep]]===
+*''The Oath of Stonekeep'' (October 1999)
+
+===''[[List of Star Wars books|Star Wars]]''===
+''(listed in order of publication)''
+*''[[Star By Star]]'' (October 2001) 
+*''[[A Forest Apart]]'' (February 2003)
+*''[[Tatooine Ghost]]'' (March 2003)
+*''[[The Joiner King]]'' (July 2005)
+*''[[The Unseen Queen]]'' (September 2005)
+*''[[The Swarm War]]'' (December 2005)
+*''[[Tempest (Denning novel)|Tempest]]'' (November 2006)
+*''[[Inferno (Star Wars novel)|Inferno]]'' (August 2007)
+*''[[Invincible (Star Wars novel)|Invincible]]'' (May 2008)
+*''[[Abyss (Star Wars novel)|Abyss]]'' (August 2009)
+*''Vortex'' (November 2010)
+*''[[Apocalypse (Star Wars novel)|Apocalypse]]'' (March 2012)
+*''[[Crucible (Star Wars novel)|Crucible]]'' (July 2013)
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{isfdb name|id=Troy_Denning}}
+*[http://www.fantasticfiction.co.uk/authors/Troy_Denning.htm Bibliography at Fantastic Fiction]
+*[https://web.archive.org/web/20010421210605/http://scifan.com/writers/DD/DenningTroy.asp SciFan Page for Troy Denning]
+*[http://www.boardgamegeek.com/boardgamedesigner/348 Troy Denning at Boardgamegeek]
+*{{cite web |url=http://www.pen-paper.net:80/rpgdb.php?op=showcreator&creatorid=118 |archive-date=March 10, 2005 |title=Troy Denning :: Pen & Paper RPG Database |url-status=live |archive-url=https://web.archive.org/web/20050310235240/http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=118 }}
+
+{{Authority control|VIAF=120119723}}
+
+{{D&D topics}}
+
+{{DEFAULTSORT:Denning, Troy}}
+[[Category:20th-century American male writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:American science fiction writers]]
+[[Category:Beloit Buccaneers football players]]
+[[Category:Beloit College alumni]]
+[[Category:Dungeons & Dragons game designers]]
+[[Category:Living people]]
+[[Category:People from Idaho Springs, Colorado]]
+[[Category:People from Lake Geneva, Wisconsin]]
+[[Category:Role-playing game designers]]
+[[Category:Year of birth missing (living people)]]

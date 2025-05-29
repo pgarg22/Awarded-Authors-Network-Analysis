@@ -1,0 +1,72 @@
+{{Use dmy dates|date=January 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image =
+|imagesize =
+| name = Robert Siegel
+| caption =
+| pseudonym =
+| birth_name =
+| birth_date = 18 August 1939
+| birth_place = [[Oak Park, Illinois]], [[Illinois]], [[United States]]
+| death_date = 20 December 2012
+| death_place = [[South Berwick, Maine]]
+| occupation = [[Poet]], [[novelist]]
+| nationality = American
+| period = 1973–2012
+| genre = [[poetry]], [[children's literature]], [[YA Fiction]]
+| subject = nature, mythology, spirituality
+| movement =
+| notableworks = ''The Waters Under the Earth'' (poems); ''Whalesong'' (children's novel)
+| awards =
+| influences =
+| influenced =
+| signature =
+| website = 
+}}
+{{Portal |Children's literature}}
+
+'''Robert Harold Siegel''' (born 18 August 1939 in [[Oak Park, Illinois]]; died 20 December 2012 in [[South Berwick, Maine]]<ref name="OBIT">[http://www.taskerfh.com/fh/obituaries/obituary.cfm?o_id=1892372&fh_id=12298 Obituary for Robert Harold Siegel], taskerfh.com, access date 24 July 2014</ref>) was an American [[poet]] and novelist. He wrote four books of poetry and five children's novels.
+
+==Life and career==
+Siegel graduated from [[Wheaton College (Illinois)|Wheaton College]] in 1961, and received an MA in writing from [[Johns Hopkins University]] and a PhD in [[English literature]] from [[Harvard University]]. Siegel was a professor at [[Dartmouth College]], [[Princeton University]], and [[Goethe University]] in [[Frankfurt, Germany]], and directed the graduate creative writing program for 23 years at the [[University of Wisconsin–Milwaukee]] where he was [[professor emeritus]] of English until his death. His poetry has received awards from the [[National Endowment for the Arts]], the [[Ingram Merrill Foundation]], ''[[Poetry (magazine)|Poetry]]'', ''[[Transatlantic Review]]'', and has been nominated twice for The [[Pushcart Prize]] for Poetry. His children's fiction includes the award-winning ''[[Whalesong (novel)|Whalesong]]''<ref>{{cite web|url=http://www.wemtaonline.org/se3bin/clientgenie.cgi |title=Wisconsin's Golden Archer Award:Winners |publisher=Wisconsin Educational Media and Technology Association |accessdate=7 August 2010 |url-status=dead |archiveurl=https://web.archive.org/web/20080724043240/http://www.wemtaonline.org/se3bin/clientgenie.cgi |archivedate=24 July 2008 }}</ref> trilogy, which has been translated into seven languages.
+
+He lived in [[Maine]], where he died of cancer in December 2012.<ref name="OBIT" />
+
+==List of works==
+Poetry:
+* 1973 "The Beasts & The Elders"
+* 1980 "In a Pig's Eye"
+* 2005 "The Waters Under the Earth"
+* 2006 "A Pentecost of Finches: New and Selected Poems"
+* 2013 "Within This Tree of Bones: New and Selected Poems"
+
+Children's Literature:
+* 1975 ''A Tale Whose Time Has Come''
+* 1980 ''[[Alpha Centauri (novel)|Alpha Centauri]]''
+* 1981 ''[[Whalesong (novel)|Whalesong]]'', [[Crossways Books]]
+* 1982 '' The Kingdom of Wundle''
+* 1994 ''White Whale''
+* 1994 ''The Ice at the End of the World''
+
+== External links ==
+* [http://archon.wheaton.edu/?p=collections/findingaid&id=9&q=&rootcontentid=162899 Robert Siegel Papers, 1945–1997], Wheaton College Archives & Special Collections
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Siegel, Robert}}
+[[Category:American male poets]]
+[[Category:American children's writers]]
+[[Category:1939 births]]
+[[Category:2012 deaths]]
+[[Category:Harvard University alumni]]
+[[Category:20th-century American poets]]
+[[Category:20th-century American male writers]]
+[[Category:Johns Hopkins University alumni]]
+[[Category:Wheaton College (Illinois) alumni]]
+[[Category:Deaths from cancer in Maine]]
+
+
+{{US-poet-1930s-stub}}

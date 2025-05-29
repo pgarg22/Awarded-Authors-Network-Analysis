@@ -1,0 +1,57 @@
+{{Infobox person
+| name        = Melville Henry Cane
+| image       = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date|1879|4|15}}
+| birth_place = 
+| death_date  = {{Death date and age|1980|3|10|1879|4|15}}
+| death_place = 
+| nationality = 
+| other_names = 
+| known_for   = 
+| occupation  =
+| awards      = [[Robert Frost Medal]] <small>(1971)</small> 
+}}
+'''Melville Henry Cane''' (April 15, 1879 &ndash; March 10, 1980) was an American poet and [[lawyer]]. He studied at [[Columbia University]], and was the author of the influential book, ''Making a Poem'' (1953).<ref name="Alan2009">{{cite book|author=Filreis, Alan|title=Counter-revolution of the Word: The Conservative Attack on Modern Poetry, 1945-1960: Easyread Edition|url=https://books.google.com/books?id=sL1RfybY0_QC&pg=PA53|accessdate=28 June 2013|date=17 September 2009|publisher=ReadHowYouWant.com|isbn=978-1-4587-2314-7|pages=53–}}</ref>
+
+==Early life and education==
+As a [[Columbia University]] student in 1900,<ref name="col00">{{cite book|author=Columbia University, Class of 1900|author2=Class of 1900 Staff |author3=Melville Cane |author4=William Churchill De Mille |title=The Naughty-Naughtian: Being the Book of the Class of 1900, in Columbia College|url=https://archive.org/details/bub_gb_SBATAAAAIAAJ|accessdate=28 June 2013|year=1900|publisher=Class of 1900.}}</ref> Cane worked as a [[reporter]] at the ''[[New York Evening Post]]'' and also wrote poetry. He also co-wrote the 1900 [[Varsity Show]] at Columbia, writing lyrics for libretto ''The Governor's Vrouw'' (1900), a two-act comic opera  he co-wrote with [[Henry Sydnor Harrison]], while [[John Erskine (educator)|John Erskine]] write the music.<ref>{{cite web |title=The Governor's Vrouw libretto cover|url=https://exhibitions.cul.columbia.edu/items/show/4185 |publisher=CU Libraries Exhibitions |accessdate=June 27, 2013}}</ref> Cane earned his law degree in 1905 and later specialized in copyright law.
+
+==Career==
+Cane was a legal counsel to notable writers like [[Sinclair Lewis]], [[Upton Sinclair]], [[Ayn Rand]], [[William Saroyan]], and [[Thomas Wolfe]] and also served on the board of directors for Harcourt Brace Jovanovich Inc. Cane was also awarded the [[Frost Medal]] by the Poetry Society of America in 1971 for lifetime achievement.
+
+Some of Cane's works are: ''January Garden'' (1926), ''Behind Dark Places''' (1930), ''And Pastures New'' (1956) and ''Snow Towards Evening'' (1974).
+
+==Bibliography==
+* {{cite book|title=Behind dark spaces|url=https://books.google.com/books?id=iUhAAAAAIAAJ|year=1930|publisher=Harcourt, Brace and company}}
+* {{cite book|title=Poems: New and Selected|url=https://books.google.com/books?id=g2odAAAAMAAJ|year=1938|publisher=Harcourt, Brace}}
+* {{cite book|title=Making a Poem: An Inquiry Into the Creative Process|url=https://archive.org/details/makingpoeminquir00cane|url-access=registration|year=1953|publisher=Harcourt, Brace}}
+* {{cite book|title=And pastures new: a collection of poems|url=https://books.google.com/books?id=MUBAAAAAIAAJ|year=1956|publisher=Harcourt, Brace|isbn = 9780151068388}}
+* {{cite book|author1=Sinclair Lewis |author2=John Erskine |author3=Thomas Wolfe |author4=Harry Houdini |title=Reminiscences of Melville Henry Cane|url=https://books.google.com/books?id=HtvUNwAACAAJ|year=1956}}
+* {{cite book|title=Bullet-hunting, and other new poems|url=https://books.google.com/books?id=JAJKAAAAMAAJ|year=1960|publisher=Harcourt, Brace|isbn = 9780151148370}}
+* {{cite book|title=To build a fire: recent poems and a prose piece|url=https://archive.org/details/tobuildfirerecen00cane|url-access=registration|year=1964|publisher=Harcourt, Brace & World}}
+*{{cite book|title=All and sundry: an oblique autobiography|url=https://archive.org/details/allsundryobliqu00cane|url-access=registration|year=1968|publisher=Harcourt, Brace & World}}
+* {{cite book|title=Snow Toward Evening: Poems|url=https://books.google.com/books?id=HmNdAAAAMAAJ|year=1974|publisher=Harcourt Brace Jovanovich|isbn=978-0-15-683400-1}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+
+* [https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_4079655 Finding aid to Melville Cane papers at Columbia University. Rare Book & Manuscript Library.]
+{{Authority control}}
+
+{{DEFAULTSORT:Cane, Melville Henry}}
+[[Category:1879 births]]
+[[Category:1980 deaths]]
+[[Category:American centenarians]]
+[[Category:American lawyers]]
+[[Category:American male poets]]
+[[Category:American poets]]
+[[Category:Columbia University alumni]]
+[[Category:Men centenarians]]
+
+
+{{US-law-bio-stub}}

@@ -1,0 +1,75 @@
+{{short description|Turkish poet, writer and Islamic scholar (born 1954)}}
+{{multiple issues|
+{{No footnotes|BLP=yes|date=February 2014}}
+{{COI|date=February 2014}}
+{{notability|Biographies|date=February 2014}}
+}}
+
+{{Use dmy dates|date=April 2014}}
+
+{{Infobox person
+| name        = Sabit İnce
+| image       = 
+| caption     =
+| birthname   =
+| birth_date  = {{Birth date and age|df=yes|1954|08|27}}
+| birth_place = [[Kozakli]], [[Nevşehir]], Turkey
+| death_date  =
+| death_place =
+| education   = Marmara University
+| occupation  = Journalist, poetry, writer
+| alias       =
+| title       =
+| family      =
+| spouse      = Nurcan İnce
+| domestic_partner =
+| children    = Nazende Demirel<br />Muhammed İnce<br />Çağrı İnce
+| relatives   =
+| ethnicity   =
+| nationality = Turkish
+| religion    =
+| years_active= <!-- YYYY – present -->
+| credits     =
+| agent       =
+| URL         =http://www.sabitince.org
+}}
+
+'''Sabit İnce''' (born 27 August 1954 in [[Nevşehir]]) is a Turkish poet, writer and Islamic scholar.
+
+== Early life ==
+
+He graduated from the Political Sciences Faculty of [[Marmara University]].
+
+== Career==
+
+He was the editor-in-chief of the ''[[Papirus]]'' [[literary magazine]]. Sabit Ince is a member of the [[Turkish literature#Poetry|Second New Generation]] of [[Turkish poetry]], an abstract and [[postmodern]] movement created as a backlash against the more popular-based [[Anadolu Hececileri]] movement. Love, mainly through its erotic entity, is a popular theme of ince's works. Sabit's poems and articles were published in magazines including ''Tore'', ''Devlet'', ''Deniz Postası'', ''Bizim Anadolu '', ''Tercüman'', ''Hergün'', ''Ortadogu'', ''[[Kayseri]] Hakimiyet'' and ''Yeni Kayseri ''.
+"son dakika newspaper"
+
+== See also ==
+* [[List of contemporary Turkish poets]]
+
+== References ==
+{{Reflist}}* [http://www.biyografi.net/kisiayrinti.asp?kisiid=2635 ''Biography and bibliography of Sabit İnce''  biyografi.net]
+
+== External links ==
+
+* [http://www.antoloji.com/siir/sair/sair.asp?sair=126&goster=ekitap ''Biography and bibliography of Sabit İnce''  Antoloji.com] {{in lang|tr}}
+* [http://www.biyografi.net/kisiayrinti.asp?kisiid=2635 ''Biography and bibliography of Sabit İnce''  biyografi.net] 
+{{commons}}
+{{Turkish Literature}}
+{{Lists of poets}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ince, Sabit}}
+[[Category:1954 births]]
+[[Category:Living people]]
+[[Category:People from Nevşehir]]
+[[Category:Marmara University alumni]]
+[[Category:Turkish poets]]
+[[Category:Turkish novelists]]
+[[Category:Turkish journalists]]
+[[Category:Turkish Muslims]]
+[[Category:Turkish folklorists]]
+
+
+{{turkey-writer-stub}}

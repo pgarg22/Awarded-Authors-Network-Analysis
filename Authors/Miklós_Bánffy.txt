@@ -1,0 +1,66 @@
+{{Infobox officeholder 
+| name            = Miklós Bánffy
+| image           = Bánffy Miklós 1916-7.jpg
+| order           = [[Minister of Foreign Affairs of Hungary]]
+| term_start      = 14 April 1921
+| term_end        = 19 December 1922
+| primeminister   = [[István Bethlen]]
+| predecessor     = [[Pál Teleki]]
+| successor       = [[Géza Daruváry]]
+| birth_date      = {{birth date|1873|12|30|df=y}}
+| birth_place     = [[Kolozsvár]] ([[Cluj-Napoca]]), [[Austria-Hungary]]
+| death_date      = {{Death date and age|1950|6|5|1873|12|30|df=y}}
+| death_place     = [[Budapest]], [[People's Republic of Hungary]]
+| profession      = [[politician]], [[novelist]]
+| party           = Liberal Party, Party of National Work
+| spouse          = Aranka Váradi
+| children        = Katalin
+}}
+{{eastern name order|losonczi gróf Bánffy Miklós}}
+'''Count Miklós Bánffy de Losoncz''' (30 December 1873 – 5 June 1950) was a [[Hungary|Hungarian]] [[Nobility and royalty of the Kingdom of Hungary|nobleman]], liberal [[politician]], and historical [[novelist]]. His books include ''[[The Transylvanian Trilogy]]'' (''They Were Counted'', ''They Were Found Wanting'' and ''They Were Divided''), and ''The Phoenix Land''.
+
+==Biography==
+The [[Bánffy family]] emerged in 15th-century [[Transylvania]] and established itself among the foremost dynasties of the country. They owned a grand palace in [[Cluj-Napoca|Kolozsvár]] ({{lang-ro|Cluj-Napoca}}, {{lang-de|Klausenburg}}), one of the main cities of [[Transylvania]] and one of the province's largest castles at [[Bonţida|Bonchida]]. One branch was raised to a [[baron]]y in the 1660s, while another became [[count]]s in 1855. The barons produced a 19th-century prime minister of Hungary ([[Dezső Bánffy]]), and the counts held important offices at court. Among the latter was Count Miklós, born in Kolozsvár on December 30, 1873.
+
+Beginning his political career at the time when Hungary was a constituent of [[Austria-Hungary]], Bánffy was elected a Member of Parliament in 1901 and became Director of the Hungarian State Theatres (1913–1918). Both a traditionalist and a member of the [[avant-garde]], he wrote five plays, two books of short stories, and a distinguished novel. Overcoming fierce opposition, his intervention made it possible for [[Béla Bartók]]'s works to have their first performance in [[Budapest]].
+
+Bánffy became Foreign Minister of Hungary in his cousin Count [[István Bethlen]]'s government of 1921. Although he detested the politics of the Regent, Admiral [[Miklós Horthy]], he worked to review the boundary revisions confirmed by the [[Treaty of Trianon]] after [[World War I]] through which Transylvania had been transferred to [[Romania]]. Little progress was made, and he retired from office.
+
+His trilogy, ''[[The Transylvanian Trilogy|A Transylvanian Tale]]'', also called ''The Writing on the Wall'', was published between 1934 and 1940. Bánffy portrayed pre-war Hungary as a nation in decline, failed by a shortsighted aristocracy.
+
+In April 1943, Bánffy visited [[Bucharest]] to persuade [[Ion Antonescu]]'s Romania together with Hungary to abandon the [[Axis Powers|Axis]] and sue for a separate peace with the [[Allies of World War II|Allies]] (''see also [[Romania during World War II]]''). The negotiations with a delegation led by [[Gheorghe Mironescu]] broke down almost instantaneously, as the two sides could not agree on a future status for [[Northern Transylvania]] (which Romania had ceded to Hungary in 1940, and where Bonchida was located). Two years later, in revenge for Bánffy's actions in Bucharest, his estate at Bonchida was burned and looted by the retreating [[Nazi Germany|German]] army.
+
+Hungary and Transylvania were soon invaded by the [[Soviet Union]]'s [[Red Army]], an event which marked an uncertain status for Northern Transylvania until its return to Romania. His wife and daughter fled to Budapest while Bánffy remained on the spot in a vain attempt to prevent the destruction of his property. Soon after, the frontier was closed. The family remained separated until 1949, when he was allowed by [[Communist Romania|Romanian communist authorities]] to leave for [[Budapest]], where he died the following year.
+
+A mellowing communist regime in Hungary permitted the reissue of ''A Transylvanian Tale'' in 1982, and it was translated into English for the first time in 1999. The [[Castle of Bonchida]] is now being restored as a cultural center. An apartment is being prepared for the use of the Count's family.
+
+== External links ==
+* [http://www.hunlit.hu/banffymiklos,en Bánffy at Hunlit]
+* [http://thescotsman.scotsman.com/books/Imperial-sunset-song.3278481.jp Book review from ''The Scotsman'']
+*[http://www.hungarianreview.com/article/the_inconvenient_grand_seigneur_ Bánffy at ''Hungarian Review'']
+
+{{s-start}}
+{{s-off}}
+{{succession box|title=[[Minister of Foreign Affairs of Hungary|Minister of Foreign Affairs]]|before=[[Pál Teleki]]|after=[[Géza Daruváry]]|years=1921&ndash;1922}}
+{{s-end}}
+{{HungarianForeignMinisters}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Banffy, Miklos}}
+[[Category:1873 births]]
+[[Category:1950 deaths]]
+[[Category:Writers from Cluj-Napoca]]
+[[Category:Hungarian male novelists]]
+[[Category:Hungarian people of World War II]]
+[[Category:Foreign ministers of Hungary]]
+[[Category:Bánffy family|Miklos]]
+[[Category:Hungarian nobility]]
+[[Category:Hungarian theatre managers and producers]]
+[[Category:Hungarian jurists]]
+[[Category:Hungarian male dramatists and playwrights]]
+[[Category:Austro-Hungarian politicians]]
+[[Category: Members of the Miklós Barabás Guild]]
+[[Category:20th-century Hungarian novelists]]
+[[Category:20th-century Hungarian politicians]]
+[[Category:20th-century Hungarian dramatists and playwrights]]

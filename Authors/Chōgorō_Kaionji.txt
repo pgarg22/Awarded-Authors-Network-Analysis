@@ -1,0 +1,68 @@
+{{short description|Japanese writer}}
+{{Use dmy dates|date=April 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Kaionji Chōgorō
+| native_name =海音寺 潮五郎
+| image       = Kaionji Chogoro.jpg
+| caption     = Chōgorō Kaionji
+| birth_date  = {{birth date|1901|11|5|df=y}}
+| birth_place = [[Okuchi, Kagoshima]], Japan
+| death_date  = {{Death date and age|df=yes|1977|12|1|1901|11|5}}
+| death_place = [[Kuroiso, Tochigi]], Japan
+| resting_place = [[Tsukiji Hongan-ji]] Tokyo, Japan
+| language = Japanese
+|alma_mater= [[Kokugakuin University]]
+| occupation  = Writer
+| genre       = popular novels
+| movement    =
+| notableworks =
+|awards=[[Naoki Prize]] (1936)<br/> [[Kikuchi Kan Prize]] (1968)<br/>[[Person of Cultural Merit]] (1973)
+}}
+{{nihongo|'''Chōgorō Kaionji'''|海音寺 潮五郎|Kaionji Chōgorō|5 November 1901 – 1 December 1977}} was the pen-name of '''{{nihongo|Tōsaku Suetomi|末富 東作|Suetomi Tōsaku}}''', a Japanese author. Noted for his [[historical novel]]s, he was active during the [[Shōwa period]] of Japan.
+<!-- Kaionji is the family name, Chōgorō is the given name; when referring to authors by their pen-name in Japanese, it is common practice to refer to them by their given name-->
+
+==Early life==
+Chōgorō was born in present-day [[Okuchi, Kagoshima|Okuchi]] city [[Kagoshima Prefecture]]. He was a voracious reader as a youth, and although it was forbidden to read books on school grounds outside of the classroom, he would sneak books out of the library and read in secret on the school roof. He entered the [[Kogakkan University]] in [[Ise, Mie]] in 1921, but returned home in 1922 to get married. In 1923, he went to Tokyo, where he enrolled in the [[Kokugakuin University]]. On graduation in 1926, he initially returned to Kagoshima as a high school teacher of [[Japanese literature|Japanese]] and [[Chinese literature]]. However, after two years, he relocated to [[Kyoto]] in a similar position.
+
+==Literary career==
+Chōgorō began writing fiction while teaching at a junior high school, at first in his native Kagoshima, and later in Kyoto. His early novel ''Utakata Zoshi'' (''Transient Notes'') won prizes a contest run by the ''[[Mainichi Shimbun]]'' weekly magazine, ''Sunday Mainichi'' in 1929, and he repeated this feat in 1932 with his second novel ''Fuun'' (''Wind and Clouds'').
+
+Kaionji moved to [[Kamakura, Kanagawa|Kamakura]], [[Kanagawa prefecture]] from Kyoto in 1934, when he made a resolution to pursue a career as a professional writer. He won the prestigious [[Naoki Prize]] in 1936 with ''Tensho Onna Gassen'' (''Tenshō Women's Battle''), about the life of the tea master [[Sen no Rikyū]] and his daughter Ogin. He followed this with ''Budō Denraiki'' (''Samurai Chronicles'') and other works with a similar medieval warrior theme, which were serialized in newspapers. However, his ''Yanagisawa Sōdō'' (''Yanagisawa Disturbance'') serialized in the ''Sunday Mainichi'' drew the wrath of the [[Censorship in the Empire of Japan|censors]] in the [[Home Ministry (Japan)|Home Ministry]], and its publication was suspended by government order in 1938.
+
+With the start of the [[Pacific War]], he was drafted into the [[Imperial Japanese Army]] in 1941, and served for a year in [[British Malaya|Malaya]]. Life in the army did not agree with him, and he returned to Japan in 1942 on medical leave, which he managed to stretch out for the next three years until the end of the war.
+
+In the postwar years, he completed epic historical novels such as ''Moko Kitaru'' (''Mongol Attack''), ''[[Taira no Masakado]]'' and ''Ten to Chi to'' ("[[Heaven and Earth (1990 film)|Heaven and Earth]]", 1960–1962), which formed the basis of some equally epic movies. He won the 16th [[Kikuchi Kan Prize]] in 1968, and was made a member of the review committee for the Naoki Prize in 1970.
+
+In 1973, he was designated a [[Person of Cultural Merit]] by the Japanese government. He won the Academy of Arts Prize in 1976.
+
+While writing TV dramas on the side, he contributed to the field of historical/biographical novels with ''Busho Retsuden'' ("Biographies of Warriors") and ''Akunin Retsuden'' ("Biographies of Villains"). He considered his life's work to be a biography of [[Saigō Takamori]], which he failed to complete due to his death by a [[cerebral hemorrhage]] in 1977.
+
+His grave is at the [[Tsukiji Hongan-ji]] in Tokyo.
+
+==See also==
+{{portal|Novels}}
+*[[Japanese literature]]
+*[[List of Japanese writers]]
+
+==References==
+* Frédéric, Louis. ''Japan Encyclopedia''. Harvard University Press (2002), {{ISBN|0674017536}}
+
+==External links==
+*[https://web.archive.org/web/20041212000423/http://www.city.kamakura.kanagawa.jp/english/bunjin/kaionji_e.htm Literary Figures of Kamakura]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kaionji, Chogoro}}
+[[Category:1901 births]]
+[[Category:1977 deaths]]
+[[Category:20th-century Japanese novelists]]
+[[Category:People from Kagoshima Prefecture]]
+[[Category:Winners of the Naoki Prize]]
+[[Category:Japanese male writers]]
+[[Category:20th-century male writers]]
+[[Category:Japanese television writers]]
+[[Category:Male television writers]]
+[[Category:Imperial Japanese Army personnel of World War II]]
+[[Category:Kokugakuin University alumni]]
+[[Category:Persons of Cultural Merit]]
+[[Category:20th-century screenwriters]]

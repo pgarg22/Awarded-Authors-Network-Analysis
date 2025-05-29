@@ -1,0 +1,109 @@
+{{Short description|English-born Australian novelist, journalist and poet}}
+{{About|the Australian novelist and poet}}
+{{Use dmy dates|date=January 2020}}
+{{Use Australian English|date=May 2015}}
+{{Infobox person
+| name               = Marcus Clarke<!-- use common name/article title -->
+| image              = Marcus Clarke 1866.jpg<!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| image_size         = 270px
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = Marcus Clarke, pictured in 1866
+| birth_name         = Marcus Andrew Hislop Clarke<!-- only use if different from name -->
+| birth_date         = {{birth date|df=y|1846|4|24}}<!-- {{Birth date and age|df=y|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|df=y|YYYY|MM|DD}}. -->
+| birth_place        = [[Kensington]], London, England
+| death_date         = {{Death date and age|df=y|1881|8|2|1846|4|24}}<!-- {{Death date and age|df=y|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date) -->
+| death_place        = [[Melbourne]], [[Victoria (Australia)|Victoria]], Australia
+| nationality        = Australian
+| occupation         = Novelist, journalist, poet, editor, librarian and playwright
+| notable_works      = ''[[For the Term of His Natural Life]]'' {{small|(published 1874)}}
+| awards             = [[Fellow of the Royal Society of Arts]]
+}}
+'''Marcus Andrew Hislop Clarke''' {{small|[[Fellow of the Royal Society of Arts|FRSA]]}} (24 April 1846 – 2 August 1881) was an English-born Australian novelist, journalist, poet, editor, librarian and playwright. He is best known for his 1874 novel ''[[For the Term of His Natural Life]]'', about the [[convicts in Australia|convict system in Australia]], and widely regarded as a classic of Australian literature. It has been adapted into many plays, films and a folk opera.
+
+== Biography ==
+=== Background and early life ===
+Marcus Clarke was born in 11 Leonard Place [[Kensington]], London, the only son of London barrister William Hislop Clarke and Amelia Elizabeth Matthews Clarke, who died when he was just four years old. He was the nephew of [[Andrew Clarke (British Army officer, born 1793)|Lieutenant-Colonel Sir Andrew Clarke]], a [[Governor of Western Australia]], and grandson of a retired military medical officer, Dr Andrew Clarke, who made his fortune in the West Indies and settled in Ireland.<ref name="AuDB" /> Clarke was born with his left arm at least two inches shorter than the right, which prevented him from joining the army, though he became an accomplished diver in his days at Cholmeley Grammar, [[Highgate School]].<ref name=White>{{cite book |author1=White, Norman |title=Hopkins: a literary biography |date=1992 |publisher=Clarendon Press |location=New York: [[Oxford University Press]] |isbn=978-0-19-812099-5 }}</ref>{{rp|30}} Clarke also had a slight stammer which remained his whole life.   
+[[File:Marcus Clarke as a young man.jpg|left|upright|thumb|Marcus Clarke as a young man|alt=]]
+
+Marcus Clarke was educated at [[Highgate School]] (1858–62), where his classmates included [[Gerard Manley Hopkins]], Cyril Hopkins and [[Ernest Hartley Coleridge|E.H. Coleridge]]. Clarke attracted Hopkins' attention primarily due to his eloquence, leading Hopkins to describe him as a "kaleidoscopic, parti-coloured, harlequinesque, thaumatropic Being"<ref name="White" />{{rp|30}} Clarke had problems with applying himself to his schoolwork, and was deprived, in his senior year, of the poetry prize as punishment.<ref name="AuDB" /> On one hand he was considered charming and witty, but on the other spoilt, conceited and aimless which could be partially attributed to his Bohemian upbringing by this father, and the novels which he spent much of his time reading.<ref name="AuDB" />
+
+In 1862, father William was sent to Northumberland House suffering a mental, physical and financial breakdown and died there a year later, leaving Clarke an orphan and without the means to live as a dilettante, which had been his expectation. The biography "Cyril Hopkins' Marcus Clarke" is the only first-hand account of Clarke's early life in London.<ref name="Hopkins">{{cite book|author1=Hopkins, Cyril|title=Cyril Hopkins' Marcus Clarke|author2=Hergenhan, Laurence Thomas|author3=Stewart, Ken|author4=Wilding, Michael|author5=State Library of Victoria|author5-link=State Library of Victoria|publisher=Australian Scholarly Publishing|isbn=978-1-921509-12-4|date=2009}}</ref> It draws on first-hand experiences of both author and subject.<ref name="Hergenhan" />{{rp|24}}<ref>{{Citation|author1=Hergenhan, Laurence Thomas|title=Cyril Hopkins' Marcus Clarke|url=https://trove.nla.gov.au/work/35435026|date=1 January 2009|publisher=Australian Scholarly Publishing; [[State Library of Victoria]]|access-date=28 December 2019|author2=Wilding, Michael|author3=Stewart, Ken}}</ref>
+
+At age 17, his cousin, [[Andrew Clarke (British Army officer, born 1824)|Andrew Clarke]], suggested he emigrate to Victoria where another relative, their uncle, James Langton Clarke, was a county court judge working in [[Ararat, Victoria|Ararat]]. Writing from his journey to Australia, he sent Hopkins a letter describing a sunset he had witnessed; this letter probably figured as partial inspiration for Hopkins' poem "A Vision of the Mermaids".<ref name="White" />{{rp|31}} After arriving in Melbourne on 6 June 1863, Clarke was at first a clerk in the [[Bank of Australasia]], but showed no business ability. After a year, he moved to the country and proceeded to learn farming at a [[Station (Australian agriculture)|station]] on the [[Wimmera River]], near Glenorchy, Victoria where his uncle had an interest.<ref name="AuDB">{{cite AuDB |id2=clarke-marcus-andrew-3225|title=Clarke, Marcus Andrew (1846–1881)|year=1969|access-date=28 December 2019 }}</ref>
+
+=== Writing career ===
+[[File:For the term of his natural life (IA fortermofhisnatu00clar).pdf|thumb|right|The cover of the 1892 edition of ''For the Term of His Natural Life'', published in London by [[Richard Bentley (publisher)|R. Bentley and Son]]]]
+Clarke was already writing stories for the ''Australian Magazine'', when in 1867 he joined the staff of ''[[The Argus (Melbourne)|The Argus]]''  and ''[[The Australasian]]'' in [[Melbourne]] through the introduction of Dr. Robert Lewins, writing under the heading 'The Peripatetic Philosopher'. He was noted for his vivid descriptions of Melbourne's street scenes and city types, including the "low life" of opium dens, brothels and gambling houses. He always claimed he was interested in the "parti-colored, patch-worked garment of life".<ref name=Hergenhan>{{Cite journal|last=Hergenhan|first=Laurie|date=Winter 2010|title=A New Biography of Marcus Clarke |url=https://www.sl.nsw.gov.au/sites/default/files/SL_Winter_2010_lr.pdf|journal=SL Winter 2010|volume=3|issue=2|pages=24}}</ref>{{rp|24}} These columns brought Clarke to the attention of the public, who enjoyed his schoolboy humor and his popularity as a writer grew. Clarke contributed to many colonial newspapers and he was the local correspondent for the London ''[[The Daily Telegraph|Daily Telegraph]]''.<ref name=":0">{{Cite book|last=Bert|first=Martin|url=http://search.slv.vic.gov.au/primo-explore/fulldisplay?docid=SLV_VOYAGER157821&context=L&vid=MAIN&lang=en_US&search_scope=Everything&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Marcus%20clarke&offset=0|title=Testimonial benefit, Wednesday evening, May 10, 1899: dramatic and musical: tended to Mrs Marcus Clarke.|publisher=Bert Martin.|year=1899|location=Melbourne, Australia|pages=4}}</ref>
+
+In 1868 Clarke founded the [[Yorick Club (Melbourne)|Yorick Club]], which soon numbered among its members the chief Australian [[Intellectual#Man of Letters|men of letters]]<ref name="AuDB" /> and 1869 he married the actress Marian Dunn (often "Marion"), daughter of actor and comedian [[John Dunn (actor)|John Dunn]], with whom he had six children.<ref name=AuDB/> Clarke wrote "two sparkling comedies" specially for Marian, "A Daughter of Eve" and "Forbidden Fruit."<ref name=":0" />  One of his writing projects at this time was he and [[Henry Kendall (poet)|Henry Kendall]] working together to produce the short-lived satirical magazine ''Humbug'' (1869–70).
+
+Clarke briefly visited [[Tasmania]] in 1870 at the request of ''The Argus'' to experience at first hand the settings of articles he was writing on the [[Convicts in Australia|convict period]]. ''Old Stories Retold'' began to appear in ''The Australasian'' from February. The following month his great novel ''His Natural Life'' (later called ''[[For the Term of His Natural Life]]'') commenced serialization in the ''Australasian Journal'' (which Clarke was editing), and was later published in book form in 1874. ''For the Term of His Natural Life'' is a "ripping yarn", which at times relies on unrealistic coincidences. The story follows the fortunes of Rufus Dawes, a young man [[Penal transportation|transported]] for a theft that he did not commit, when rendering assistance to the victim of a mugging. The harsh and inhumane treatment meted out to the convicts, some of whom were transported for relatively minor crimes, is clearly conveyed. The conditions experienced by the convicts are graphically described. The novel was based on research by the author as well as a visit to the penal settlement of [[Port Arthur, Tasmania|Port Arthur]].<ref name=AuDB/> Clarke originally referred to the novel as "His Unnatural Life."<ref name="Hergenhan" />{{rp|22–24}} One critic has claimed that Clarke's novel is "the book that, more than any other, has defined our perception of the Australian convict experience.".<ref name="Hergenhan" />{{rp|24}} ''For the Term of his Natural Life'' is considered a novel in the grand tradition, that places Clarke with [[Charles Reade]], [[Victor Hugo]] and [[Fyodor Dostoevsky]] among the great nineteenth-century visionaries who found in the problems of crime and punishment a new insight, especially relevant in the convict-founded Australian colonies, into the foundations of human worth.<ref name="AuDB" />
+
+Clarke also wrote ''The Peripatetic Philosopher'' (1869), a series of amusing papers reprinted from ''The Australasian''; ''Long Odds'' (London, 1870), a novel; and numerous comedies and pantomimes, the best of which was ''Twinkle, Twinkle, Little Star'' ([[Theatre Royal, Melbourne]]; Christmas, 1873). In spite of his popular success, Clarke was constantly involved in financial difficulties and twice (1874 and 1881) he was forced into insolvency.
+
+In 1872, Clarke became secretary to the trustees of the [[Melbourne Public Library]] (now known at [[State Library Victoria]]) and later (1876), sub (assistant) librarian. It is said he carried out his duties with reasonable efficiency but 'levity pursued him', and when he applied for the position of Chief Librarian in 1881, he was refused.<ref name="AuDB" /> The library holds a unique collection of papers that relate to Marcus Clarke; the finding aid accessed via the website describes the "correspondence, manuscripts of prose and plays, notebooks, diaries, newspapers and press cuttings, legal documents and other miscellaneous papers and books".<ref name=":1">{{Cite web|first=|title=Papers of Marcus Clarke: MS 8222, Box 455.|url=https://findingaids.slv.vic.gov.au/repositories/3/resources/248|url-status=live|access-date=28 October 2020|website=State Library Victoria}}</ref> As well as holding books, pictures, manuscripts, music scores and journals, two unusual collection items (classified as 'Realia') are his death mask and his Cabbage Tree hat. Clarke and his work have been featured in several exhibitions held at the library, most recently 'Bohemian Melbourne' (2014) which was attended by over 70,000 visitors.<ref>{{Cite web|title=Bohemian Melbourne|url=https://www.slv.vic.gov.au/search-discover/galleries/bohemian-melbourne|access-date=28 October 2020|website=State Library Victoria}}</ref>
+
+Clarke was an important literary figure in Australia, and at the center of an [[Bohemianism|bohemian]] circle in Melbourne. Among the writers in contact with him were [[Victor Daley]], [[Thomas Bracken]], [[John Shillinglaw]], [[Henry Kendall (poet)|Henry Kendall]], [[Oliver Wendell Holmes Sr.|Oliver Wendell Holmes]], [[Julian Thomas (journalist)|Julian Thomas]], [[Adam Lindsay Gordon]] and [[George Gordon McCrae]]. As well as friends, he also made enemies. These included [[James Edward Neild|James Neild]] and [[James Smith (journalist)|James Smith]]. In 1877, he served a term as the chairman of the library committee of the [[Melbourne Athenaeum]] (founded 1839) the oldest cultural institution in the city.<ref>[https://trove.nla.gov.au/newspaper/article/5915334 ''The Argus'', 6 March 1877, p.10.]</ref>
+
+Anxiety, overwork, disappointment and health problems are said to have hastened his death (officially of [[erysipelas]])<ref name="AuDB" /> in Melbourne on 2 August 1881 at the age of 35. Clarke was buried in Melbourne General Cemetery and in August 1898, a "fine granite monument" was erected over the grave.<ref name=":0" /> 
+[[File:Charity costume Australian rules football match for the family of the late Marcus Clarke.jpg|thumb|Charity costume [[Australian rules football]] match for Clarke's family after his death, [[East Melbourne Cricket Ground]]]]
+Shortly after Clarke's death, the theater community rallied to support his family, organizing a charity costumed [[Australian rules football]] match which was held at the [[East Melbourne Cricket Ground]]. For two hours "Heroes of familiar opera, tragedy, comedy, farce, and pantomime were banded together in strange juxtaposition. It was as if the silent figures of the Waxworks exhibition has been suddenly stirred to into wild life and energetic action".<ref>{{cite news|date=10 September 1881|title=The Costume Football Match|volume=IX|page=289|newspaper=[[Australasian Sketcher with Pen and Pencil]]|issue=132|location=Victoria, Australia|url=http://nla.gov.au/nla.news-article60623342|via=National Library of Australia|accessdate=25 May 2021}}</ref> Whilst the match was not high scoring (the Opera House team kicked six goals, the other team only one), nearly a thousand spectators attended the event, and £74,1s.6d was raised.
+
+In 1884 'Marcus Clarke Memorial Volume', assembled by his friend and literary executor Hamilton Mackinnon, was published. It contained a "a selection of his most popular journalism with a biographical introduction" with a dedication to the [[Archibald Primrose, 5th Earl of Rosebery|5th Earl of Rosebery, Archibald Philip Primrose]] (Prime Minister of England from March 1894 till June 1895) who was a great support of 'His Natural Life.<ref name=":1" /> In a five-page letter to his wife Marian Clarke, dated 16 January 1884, Lord Rosebery states that he had always admired the book, had given copies to his friends and compared it favorably with ''[[Oliver Twist]]'' and [[Victor Hugo]]'s works.<ref name=":1" />
+
+== Recognition ==
+''For the Term of his Natural Life'' has been translated into Dutch, German, Russian, Swedish and Chinese.<ref>{{cite book |last1=McLaren |first1=Ian |title=Marcus Clarke: An Annotated Bibliography |date=1982 |publisher=Library Council of Victoria |location=Melbourne |isbn=0909962391 |pages=80–85}}</ref><ref>[https://trove.nla.gov.au/newspaper/article/233674323/25298055 ''Weekly Examiner'', 17 February 1877, p.11.]</ref> A number of editions were published in Britain and the United States.
+
+Clarke came first in a 1927 newspaper poll in Melbourne to identify the top Australian novelist.<ref>{{cite book |last1=Serle |first1=Geoffrey |title=From deserts the prophets come: The creative spirit in Australia 1788-1972 |date=1973 |publisher=Heinemann |location=Melbourne |isbn=0855610298 |page=101}}</ref>
+
+Clarke's contribution to Australian literature is recognized in a number of place names. A main street in [[Canberra City]] bears his name.<ref name=AuDB/> Clarke had a holiday home on the outskirts of Melbourne in what is now the suburb of [[Dingley Village, Victoria|Dingley Village]] and Marcus Road and Clarke Road commemorate his time there.<ref>{{cite journal |last1=Hibbins |first1=Gillian |title=Marcus Clarke at Dingley |journal=Margin: Life and Letters in Early Australia |date=1981 |volume=7 |page=28}}</ref>
+
+In 1973 he was honored on a postage stamp bearing his portrait issued by [[Australia Post]]<ref>{{cite web |url=http://www.australianstamp.com/images/large/0010430.jpg |title=Marcus Clarke |format=image of postage stamp |work=[[Australia Post]] }}</ref> and he is one of the writers commemorated with a plaque on the [[Sydney Writers Walk]].
+
+He was inducted into The Australian Media Hall of Fame in 2017.<ref>{{cite web |title=Marcus Clarke |url=https://halloffame.melbournepressclub.com/article/marcus-clarke |website=Australian Media Hall of Fame |access-date=6 February 2021}}</ref>
+
+== References ==
+{{Reflist}}
+
+=== Bibliography ===
+*{{cite DNB|wstitle=Clarke, Marcus Andrew Hislop}}
+
+=== Attribution ===
+* {{EB1911|wstitle=Clarke, Marcus Andrew Hislop}}
+
+== Further reading ==
+* {{Citation |author1=Clarke, Marcus |author2=Mackinnon, Hamilton |title=Australian tales |date=1896 |publisher=A. & W. Bruce |edition=1st | url=https://trove.nla.gov.au/work/6116875 }}
+* {{Citation |author1=Elliott, Brian |title=Marcus Clarke |date=1952 |publisher=Canberra University College |url=https://trove.nla.gov.au/work/12442919 |access-date=28 December 2019 }}
+* {{Citation |author1=Simmons, Samuel Rowe |author2=Hergenhan, Laurence Thomas |title=Marcus Clarke: an annotated checklist, 1863–1972 |date=1975 |publisher=Wentworth Press |isbn=978-0-85587-094-2 }}
+* {{Citation |author1=Wilding, Michael |title=Marcus Clarke |date=1977 |publisher=Oxford University Press |isbn=978-0-19-550508-5 }}
+* Michael Wilding (2014), Wild Bleak Bohemia: Marcus Clarke, Adam Lindsay Gordon and Henry Kendall: a Documentary, Australian Scholarly Publishing,  {{ISBN|978-1-925003-80-2}}
+* Michael Wilding (2021), Marcus Clarke: Novelist, Journalist and Bohemian, Australian Scholarly Publishing {{ISBN|978-1-922454-43-0}}
+
+== External links ==
+{{wikisource author}}
+* {{Cite Australasia|Clarke, Marcus}}
+* {{Gutenberg author |id=Clarke,+Marcus+Andrew+Hislop}}
+* {{Internet Archive author |sname=Marcus Andrew Hislop Clarke}}
+* {{Librivox author |id=773}}
+* [https://web.archive.org/web/20050721112736/http://etext.library.adelaide.edu.au/c/clarke/marcus/c59f/index.html Online version of ''For the Term of His Natural Life'']
+* {{cite journal |url=http://nla.gov.au/openpublish/index.php/jasal/article/view/7/11 |first=Ian |last=Henderson |title=There are French Novels and there are French Novels': Charles Reade and the 'Other' Sources of Marcus Clarke's ''His Natural Life'' |journal=JASAL |volume=1 |year=2002 }}
+* {{cite journal |url=http://nla.gov.au/openpublish/index.php/jasal/article/view/345/744 |first=Damien |last=Barlow |title=Oh, You're Cutting my Bowels Out!' Sexual Unspeakability in Marcus Clarke's ''His Natural Life'' |journal=JASAL |volume=6 |year=2007 }}
+
+{{For the Term of His Natural Life}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clarke, Marcus}}
+[[Category:1846 births]]
+[[Category:1881 deaths]]
+[[Category:19th-century Australian novelists]]
+[[Category:Australian librarians]]
+[[Category:Australian male novelists]]
+[[Category:Australian people of English descent]]
+[[Category:19th-century Australian poets]]
+[[Category:People educated at Highgate School]]
+[[Category:People from Victoria (Australia)]]
+[[Category:Australian male poets]]
+[[Category:19th-century male writers]]
+[[Category:19th-century Australian journalists]]
+[[Category:The Argus (Melbourne) people]]

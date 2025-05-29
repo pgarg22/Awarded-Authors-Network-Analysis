@@ -1,0 +1,82 @@
+{{short description|American novelist}}
+{{Use mdy dates|date=August 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Pamela Dean Dyer-Bennet
+| image       = Pamela_Dean_Ddb_20040306_010-024.jpg
+| imagesize   =180px
+| birth_date  = {{birth year and age|1953}}
+| birth_place =
+| pseudonym = Pamela Dean
+| occupation  = Author
+| genre       = Fantasy
+|alma_mater = [[Carleton College]]
+| nationality = American
+| notable_works    = ''[[Tam Lin (novel)|Tam Lin]]'', ''The Secret Country'' trilogy
+| movement    = [[Contemporary fantasy]], [[urban fantasy]] and [[fantasy of manners]]
+| website = {{URL|http://www.dd-b.net/pddb/}}
+}}
+
+'''Pamela Collins Dean Dyer-Bennet''' (born 1953), better known as '''Pamela Dean''', is an American fantasy author whose best-known book is ''[[Tam Lin (novel)|Tam Lin]]'', based on the [[Child Ballads|Child Ballad]] of the [[Tam Lin|same name]], in which the Scottish [[fairy]] story is set on a midwestern college campus loosely based on her alma mater, [[Carleton College]] in [[Minnesota]].<ref name=OfftheShelf2016>{{cite web |url=https://tbplofftheshelf.com/2016/02/03/interview-with-pamela-dean/ |title=Interview with Pamela Dean |last= |first= |date=February 3, 2016 |website=Thunder Bay Public Library |publisher= |access-date=2021-01-26}}</ref>
+
+==Career==
+Dean has published six novels and a number of short stories. ''Tam Lin'' and ''The Dubious Hills'' were both nominated for the [[Mythopoeic Fantasy Award for Adult Literature]], in 1992 and 1995 respectively.
+
+She was a member of the writing group [[The Scribblies]], along with [[Emma Bull]], [[Will Shetterly]], [[Kara Dalkey]], Nate Bucklin, [[Patricia Wrede]] and [[Steven Brust]], and was a contributor to the [[Liavek]] [[shared world|shared-world]] anthologies. She is a member of the [[Pre-Joycean Fellowship]].
+
+As of 2012, Dean reports that ''Going North,'' the future "joint sequel to ''The Dubious Hills'' and ''The Whim of the Dragon'', has been rejected by [[Viking Press]], leaving her to make further revisions and seek alternative methods for publication.<ref>[http://pameladean.livejournal.com/148001.html Going South] at Dean's blog, dated 2012-09-11.</ref><ref>[http://dd-b.net/pddb/ Official website]</ref>
+
+== Personal life ==
+Dean graduated from Carleton College in 1975.<ref name=OfftheShelf2016/>
+
+On 30 December 1982,<ref>[http://dd-b.net/dd-b/SnapshotAlbum/data/1982/12300-wedding/ Dyer-Bennet, David. "Pamela's and My Wedding"]</ref> she married fellow [[science fiction fandom|fan]] David Dyer-Bennet (a descendant of [[Dyer baronets#Dyer baronets, of Tottenham (1678)|Sir Thomas Dyer, 9th Baronet]], David Dyer-Bennet is the presumed 17th Baronet since the death in 2018 of the mathematician Sir [[Peter Swinnerton-Dyer]], 16th Baronet).<ref>Burke's Peerage, Baronetage and Knightage, 107th edition, vol. 1, ed. Charles Mosley, Burke's Peerage Ltd, p. 1254</ref> Dean practices [[polyamory]].<ref>[http://www.strangehorizons.com/2001/20010101/pamela_dean.shtml Interview: Pamela Dean], by [[Mary Anne Mohanraj]]; at ''[[Strange Horizons]]''; published January 1, 2001; retrieved October 9, 2013</ref>
+
+==Bibliography==
+
+===Novels===
+*''The Secret Country'' (1985, reissued in 2003)
+*''The Hidden Land'' (The Secret Country Trilogy, Vol. 2) (1986, reissued in 2003)
+*''The Whim of the Dragon'' (The Secret Country Trilogy, Vol. 3) (1989, reissued in 2003)
+*''[[Tam Lin (novel)|Tam Lin]]'' (1991, reissued in 2006)
+*''The Dubious Hills'' (1994, reissued in 2007)
+*''[[Juniper, Gentian, and Rosemary]]'' (1998)
+
+===Short stories===
+*"The Green Cat" (1985), in ''[[Liavek]]'' anthology
+*"Two Houses in Saltigos" (1986), in ''Liavek: The Players of Luck'' anthology
+*"Paint the Meadows with Delight" (1987), in ''Liavek: Wizard's Row'' anthology
+*"The Last Part of the Tragic History of Acrilat" (1988), in ''Liavek: Spells of Binding'' anthology
+*"A Necessary End" (1990), in ''Liavek: Festival Week'' anthology
+*"Juniper, Gentian and Rosemary" (1989), in ''Things That Go Bump In The Night'' anthology
+*"Owlswater" (1993), in ''Xanadu'' anthology
+*"This Fair Gift" (1996), in ''Sisters in Fantasy II'' anthology
+*"Cousins" (2006), in ''Firebirds Rising'' anthology
+
+===Non-fiction===
+*"Read This" (1994), in ''[[The New York Review of Science Fiction]]'', April 1994
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikiquote}}
+*[http://www.dd-b.net/pddb/ Pamela Dean's web site]
+*{{isfdb name|id=Pamela_Dean|name=Pamela Dean}}
+*[https://web.archive.org/web/20061020235301/http://scifan.com/writers/dd/DeanPamela.asp Bibliography] on SciFan
+*[http://www.strangehorizons.com/2001/20010101/pamela_dean.shtml 2001 Interview]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dean, Pamela}}
+[[Category:1953 births]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American writers]]
+[[Category:21st-century American women writers]]
+[[Category:American fantasy writers]]
+[[Category:Carleton College alumni]]
+[[Category:Living people]]
+[[Category:Science fiction fans]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Novelists from Minnesota]]
+[[Category:American women novelists]]
+[[Category:Wives of baronets]]

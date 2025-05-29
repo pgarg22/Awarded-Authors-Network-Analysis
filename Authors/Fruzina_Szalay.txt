@@ -1,0 +1,58 @@
+{{eastern name order|Szalay Fruzina}}
+{{short description|Hungarian poet and translator}}
+{{Infobox Person
+| name        = Fruzina Szalay
+| image       = Szalay Fruzina-1.jpg
+| image_size  =
+| caption     =
+| birth_name  =
+| birth_date  = {{Birth date|1864|09|10|df=y}}
+| birth_place = [[Kaposvár]], Austria-Hungary
+| death_date  = {{Death date and age|1926|07|10|1864|09|10|df=y}}
+| death_place = [[Kaposvár]], Hungary
+| residence   =
+| other_names =
+| known_for   =
+| education   =
+| spouse      =Károly Obetkó 
+| children    =
+| relatives   =
+| footnotes   =
+| nationality = [[Hungary|Hungarian]]
+}}
+'''Fruzina Szalay''' (10 September 1864 – 10 July 1926) was a Hungarian poet and translator.
+
+Fruzina Szalay was born in [[Kaposvár]], 10  September 1864 to lawyer Károly Szalay and poet [[Atala Kisfaludy]]. Her career began when she started translating poets and had her work published in the Metropolitan Papers and in the [[Szana Tamás]]'s ''Koszorú''.  In 1886 Szalay married Károly Obetkó who was Attorney General in Somogy County in Kaposvár. Her translations again appeared in 1889 From 1890 she was a regular contributor to [[József Kiss]]'s ''A Hét'', ''Vasárnapi Újság'', ''Hazánk'' (1904), and ''Kert'' (1904). Szalay was a member of the Countess [[Sándorné Teleki]]'s salon and wrote stories and articles as well as poetry of her own and the translations of others poetry. Szalay died in [[Kaposvár]] of tuberculosis in 1926.<ref name="Zirin">{{cite book | last1=Zirin | first1=M. | last2=Livezeanu | first2=I. | last3=Worobec | first3=C.D. | last4=Farris | first4=J.P. | title=Women and Gender in Central and Eastern Europe, Russia, and Eurasia: A Comprehensive Bibliography Volume I: Southeastern and East Central Europe (Edited by Irina Livezeanu with June Pachuta Farris) Volume II: Russia, the Non-Russian Peoples of the Russian | publisher=Taylor & Francis | year=2015 | isbn=978-1-317-45197-6 | url=https://books.google.com/books?id=imisBwAAQBAJ&pg=PA647 | access-date=2019-12-12 | page=647}}</ref><ref name="Hawkesworth 2001">{{cite book | last=Hawkesworth | first=C. | title=A History of Central European Women's Writing | publisher=Palgrave Macmillan UK | series=Studies in Russia and East Europe | year=2001 | isbn=978-0-333-98515-1 | url=https://books.google.com/books?id=dPOFDAAAQBAJ&pg=PA104 | access-date=2019-12-12 | page=104}}</ref><ref name="Arcanum">{{cite web | title=Szalay Fruzina - Magyar életrajzi lexikon - Kézikönyvtár | website=Arcanum | url=https://www.arcanum.hu/hu/online-kiadvanyok/Lexikonok-magyar-eletrajzi-lexikon-7428D/sz-77C95/szalay-fruzina-77D5B/ | language=hu | access-date=2019-12-12}}</ref><ref name="Kezdőlap">{{cite web | title=Szalay Fruzina | website=Kezdőlap | url=http://ironok.elte.hu/index.php/portrek/szalay-fruzina | language=hu | access-date=2019-12-12}}</ref>
+
+==Bibliography==
+*{{cite web | title=Magyar Poetry : Loew, William N.| date=1908 | url=https://archive.org/details/in.ernet.dli.2015.42801 }}
+*Poems, 1893
+*A handful of flowers, 1898
+*Bébi és Micóka, 1906
+
+==References and sources==
+{{Reflist}}
+
+== External links ==
+[https://www.flickr.com/photos/134364534@N04/sets/72157652733389794 Photos of her home and street]
+
+
+{{Authority control}}
+
+{{DEFAULTSORT:Szalay, Fruzina}}
+[[Category:1864 births]]
+[[Category:1926 deaths]]
+[[Category:People from Kaposvár]]
+[[Category:Hungarian women poets]]
+[[Category:19th-century Hungarian poets]]
+[[Category:19th-century Hungarian women writers]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century Hungarian women writers]]
+[[Category:20th-century deaths from tuberculosis]]
+[[Category:Tuberculosis deaths in Hungary]]
+[[Category:Hungarian translators]]
+[[Category:19th-century translators]]
+[[Category:20th-century translators]]
+
+
+{{Hungary-poet-stub}}

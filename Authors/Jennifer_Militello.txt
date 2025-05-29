@@ -1,0 +1,86 @@
+{{short description|American poet and professor}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Jennifer Militello
+| embed = 
+| honorific_prefix = 
+| honorific_suffix = 
+| image = Jennifer Militello 155545.jpg
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date =    <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = New York City
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation = 
+| language = 
+| nationality = American
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre =   Poetry      <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  <!-- or: | notablework = -->
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = Alice Fay di Castagnola Award
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''Jennifer Militello''' (born {{when?|date=November 2021}}) is an [[United States|American]] poet and professor. She is author of the award-winning memoir ''Knock Wood'' which appeared from [[Dzanc Books]]<ref>{{cite web|url=http://www.dzancbooks.org/print-books-in-eformat-/knock-wood-by-jennifer-militello?rg=knock%20wood}}</ref> in 2019, and five collections of poetry including ''The Pact'', Tupelo Press, 2021. Her first full-length collection of poetry, ''Flinch of Song,'' was published in 2009 by [[Tupelo Press]],<ref>{{cite web|url=http://www.tupelopress.org/books/flinchofsong|title=Tupelo Press — Flinch of Song by Jennifer Militello|author=Tupelo Press|work=tupelopress.org|accessdate=22 August 2015}}</ref> and won the Tupelo Press/''Crazyhorse'' First Book Prize. 
+Her second collection, ''Body Thesaurus'', was named a finalist for the [[Poetry Society of America]]'s Alice Fay di Castagnola Award by [[Marilyn Hacker]] in 2010.<ref name="tupelo1">{{cite web|url=http://www.tupelopress.org/authors/jmilitello|title=Tupelo Press — Jennifer Militello|author=Tupelo Press|work=tupelopress.org|accessdate=22 August 2015}}</ref><ref name="ownsitebio">{{cite web|url=http://www.jennifermilitello.com/bio|title=Jennifer Militello|work=jennifermilitello.com|accessdate=22 August 2015}}</ref> Her third book ''A Camouflage of Specimens and Garments'' was a finalist for the Eric Hoffer Book Award and the Sheila Margaret Motton Prize. Her chapbook ''Anchor Chain, Open Sail'' appeared from Finishing Line Press in 2006.
+
+==Life==
+Militello was born in [[New York City]] and raised in [[Rhode Island]]. She has taught at [[Brown University]], the [[Rhode Island School of Design]], and the [[University of Massachusetts Lowell]]. She is currently teaching in the MFA program at [[New England College]], and living in [[Goffstown, New Hampshire]].<ref name="ownsitebio" /><ref>{{cite web|url=http://www.nh.gov/nharts/artsandartists/poetshowcase/poetlaureate60.html|title=NH Arts - Poet Laureate|work=nh.gov|accessdate=22 August 2015}}</ref>
+
+Her poetry can be found in literary journals and magazines including ''[[AGNI (magazine)|AGNI]]'',<ref>{{cite web|url=http://www.bu.edu/agni/poetry/online/2006/militello.html|title=AGNI Online: Summary of Roots by Jennifer Militello|work=bu.edu|accessdate=22 August 2015}}</ref> ''[[American Poetry Review]]'', ''[[The Kenyon Review]]'', ''[[The New Republic]]'', ''[[North American Review|The North American Review]]'', ''[[The Paris Review]]'',<ref>{{cite web|url=http://www.theparisreview.org/back-issues/165|title=Writers, Quotes, Interviews, Artist, Biography - Paris Review|work=theparisreview.org|accessdate=22 August 2015}}</ref> ''[[Poetry (magazine)|Poetry]]'', ''[[Tin House]]'', ''[[Virginia Quarterly Review|The Virginia Quarterly Review]]'',<ref>{{Cite web |url=http://www.vqronline.org/search/?q=militello |title=VQR > Search > Militello |access-date=2011-08-29 |archive-url=https://archive.is/20130416094316/http://www.vqronline.org/search/?q=militello |archive-date=2013-04-16 |url-status=dead }}</ref> ''[[Boston Review]]''<ref>[http://www.bostonreview.net/BR33.4/militello.php ''Boston Review'' > July/August 2008 > ''Interview under Hypnosis'' by Jennifer Militello]</ref> and in anthologies including ''[[Best New Poets]]'' ([[University of Virginia Press]]).
+
+==Awards==
+Militello's honors include grants and fellowships from the New Hampshire State Council on the Arts, the Barbara Deming Memorial Fund, Writers at Work, and the [[Millay Colony for the Arts]]. She is a Ruskin Art Club Poetry Award recipient and five-time [[Pushcart Prize]] nominee.<ref name="tupelo1" />
+
+==Works==
+*''Flinch of Song'', Tupelo Press; November 1, 2009, {{ISBN|1932195769}}
+*''Body Thesaurus'',  Tupelo Press, May 31, 2013, {{ISBN|978-1936797288}}
+*''A Camouflage of Specimens and Garments'', Tupelo Press, May 1, 2016, {{ISBN|978-1-936797-75-2}}
+*''Knock Wood'', Dzanc Books, August 29, 2019, {{ISBN|978-1-945814-96-9}}
+
+== References ==
+{{Reflist}}
+* {{cite web |url=https://www.dzancbooks.org/print-books-in-eformat/knock-wood-by-jennifer-militello?rq=knock%20wood |title=Knock Wood by Jennifer Militello |publisher=Dzanc Books |access-date=2020-11-21}}
+
+==External links==
+* {{official website|http://www.jennifermilitello.com}}
+* [http://www.nh.gov/nharts/artsandartists/2009%20Fellows/jennifermilitello.htm New Hampshire Council on the Arts > Jennifer Militello]
+
+{{authority control}}
+
+{{DEFAULTSORT:Militello, Jennifer}}
+[[Category:Living people]]
+[[Category:Poets from New Hampshire]]
+[[Category:Poets from Rhode Island]]
+[[Category:Poets from New York (state)]]
+[[Category:People from Goffstown, New Hampshire]]
+[[Category:American women poets]]
+[[Category:Chapbook writers]]
+[[Category:21st-century American poets]]
+[[Category:21st-century American women writers]]
+[[Category:Writers from New York City]]
+[[Category:Brown University faculty]]
+[[Category:Rhode Island School of Design faculty]]
+[[Category:University of Massachusetts Lowell faculty]]
+[[Category:Year of birth missing (living people)]]
+[[Category:American women academics]]

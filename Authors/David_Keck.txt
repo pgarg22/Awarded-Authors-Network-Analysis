@@ -1,0 +1,58 @@
+{{short description|Canadian author, and teacher}}
+{{For|the American botanist (1903–1995)|David D. Keck}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+ | name        = David Keck
+ | image       =
+ | imagesize   = 200px
+ | caption     = 
+ | pseudonym   =
+ | birth_date  = 
+ | birth_place = [[Winnipeg|Winnipeg, Manitoba]], Canada
+ | death_date  =
+ | death_place =
+ | occupation  = [[Novelist]], [[Teacher]]
+ | period      = 1996-Present
+ | genre       = [[Fantasy]]
+ | subject     =
+ | movement    =
+ | spouse      = Kate Brallier
+ | signature   =
+ | website     = {{URL|keckbooks.com}}
+}}
+
+'''David Keck''' is a [[Canadians|Canadian]] author, and teacher, who has [[Masters Degree]]s in [[English Literature]], [[History]], and [[Education]].<ref name="davidkeck2.wordpress.com">{{Cite web | url=http://davidkeck2.wordpress.com/biography/ | title=About| date=2007-10-21}}</ref> He is best known for his novels featuring [[protagonist]] Durand Col.<ref name="tor-forge.com">{{Cite web | url=http://www.tor-forge.com/author/davidkeck | title=David Keck &#124; Authors &#124; Macmillan}}</ref> His works have received generally positive reviews from critics, yet have not reached the mainstream so far.<ref name="sffworld.com">{{Cite web |url=http://www.sffworld.com/interview/181p1.html |title=Archived copy |access-date=2009-02-19 |archive-url=https://web.archive.org/web/20080718200636/http://www.sffworld.com/interview/181p1.html |archive-date=2008-07-18 |url-status=dead }}</ref>
+
+==Biography==
+David Keck was born in, and grew up in, [[Winnipeg|Winnipeg, Manitoba]], Canada.<ref name="davidkeck2.wordpress.com" /> Whilst living in Winnipeg he attended the [[University of Winnipeg]], where he got master's degrees in English Literature, History, and Education.<ref name="davidkeck2.wordpress.com" /> He subsequently moved to the [[Great Britain|UK]] to get a master's degree in [[Creative Writing]] from the [[University of Sussex]].<ref name="davidkeck2.wordpress.com" /> In 2004 he moved to [[New York City]],<ref name="davidkeck2.wordpress.com" /> [[United States of America|America]], to marry Kate Brallier<ref>{{Cite web | url=https://www.mcnallyrobinson.com/editorial-696/An-Interview-With-David-Keck | title=An Interview with David Keck - McNally Robinson Booksellers}}</ref> (an author herself),<ref>{{Cite web | url=http://www.katebrallier.com/ | title=This Web site coming soon}}</ref> and to teach [[middle school]] in New York's [[Washington Heights, Manhattan|Washington Heights]].<ref name="davidkeck2.wordpress.com" />
+
+==Works==
+Keck's novels all recount the adventures of protagonist Durand Col,<ref name="tor-forge.com" /> yet there is currently no series name. The first novel in the series was ''In the Eye of Heaven'',<ref>{{Cite web | url=http://davidkeck2.wordpress.com/previews/in-the-eye-of-heaven-preview/ | title=In the Eye of Heaven| date=2007-10-21}}</ref> and was published in the UK in 2006,<ref>{{cite web|url=https://www.amazon.co.uk/s/?url=search-alias=aps&field-keywords=david+keck|title=Amazon.co.uk: david keck|website=www.amazon.co.uk|accessdate=4 January 2019}}</ref> and the US and Canada in 2007,<ref>{{cite web|url=https://www.amazon.com/s/?url=search-alias=aps&field-keywords=david+keck|title=Amazon.com: david keck|website=www.amazon.com|accessdate=4 January 2019}}</ref><ref>{{cite web|url=https://www.amazon.ca/s/?url=search-alias=aps&field-keywords=david+keck|title=Amazon.ca: david keck|website=www.amazon.ca|accessdate=4 January 2019}}</ref> by Tor.<ref name="tor-forge.com" /> The novel went through many versions before publication, with fellow Canadian author, [[Steven Erikson]], having a hand in reading and editing the drafts.<ref>{{Cite web | url=http://www.sffworld.com/interview/181p0.html | title=Interview with David Keck – SFFWorld}}</ref> Keck's writing style has been compared to Erikson, mainly because he likes to go against the grain. He says that he "flinch[es] at an elf who's a dab hand with a longbow. Conventions and clichés: it's all in the smiles and cringes."<ref name="sffworld.com"/>
+
+==Bibliography==
+
+===Novels===
+
+====The Tales of Durand====
+* ''Book One: In the Eye of Heaven'' (2006)
+* ''Book Two: In A Time of Treason'' (2008)
+*''Book Three: A King in Cobwebs'', Tor Books, 2018<ref>{{cite web|url=https://www.nyjournalofbooks.com/book-review/king-cobwebs | title=Reviewed by Michael Thomas Barry in New York Journal of Books |date=2018-12-04 |accessdate=2018-12-12}}</ref>
+
+==Footnotes==
+{{reflist}}
+
+==External links==
+*{{official website|http://www.keckbooks.com David Keck}}
+* [http://www.tor-forge.com/author/davidkeck David Keck's Tor Page]
+*{{isfdb name|id=David_Keck|name=David Keck}}
+
+===Interviews===
+* [http://fantasybookcritic.blogspot.com/2008/02/interview-with-david-keck.html Interview at fantasybookcritic]
+* [http://www.sffworld.com/interview/181p0.html Interview at sffworld]
+* [https://www.mcnallyrobinson.com/editorial-696/An-Interview-With-David-Keck Interview by Chadwick Ginther for mcnallyrobinson.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Keck, David}}
+[[Category:Living people]]
+[[Category:Canadian fantasy writers]]
+[[Category:Year of birth missing (living people)]]

@@ -1,0 +1,58 @@
+{{Infobox writer
+| name         =
+| image        = John Reuben Thompson-Southern Life in Southern Literature 266.png
+| imagesize    = 200px
+| caption      =
+| pseudonym    =
+| birth_name    = John Reuben Thompson
+| birth_date    = {{birth date|mf=yes|1823|10|23}}
+| birth_place   = [[Richmond, Virginia|Richmond]], [[Virginia]], U.S.
+| death_date    = {{death date and age|mf=yes|1873|4|30|1823|10|23}}
+| death_place   = [[New York City|New York]], [[New York (state)|New York]], U.S.
+| occupation   =
+| nationality  = American
+| genre        =
+| movement     =
+| spouse       = 
+| signature    =
+}}'''John Reuben Thompson''' (October 23, 1823 – April 30, 1873) was an American poet, journalist, editor and publisher.<ref>{{cite book |author1=Giemza, Bryan Albin |author2=Flora, Joseph M. |author3=Vogel, Amber |title=Southern writers: a new biographical dictionary |publisher=Louisiana State University Press |location=Baton Rouge |year=2006 |pages=400 |isbn=0-8071-3123-7 }} [https://books.google.com/books?id=xxd451POnpYC&pg=PA400 on Google Books]</ref><ref>{{cite wikisource |editor-first=Maurice Garland |editor-last=Fulton |chapter=John Reuben Thompson |wslink=Southern Life in Southern Literature |plaintitle=Southern Life in Southern Literature |year=1917 |publisher=Ginn & Co., Boston}}</ref>
+
+== Biography ==
+
+John Reuben Thompson was born in [[Richmond, Virginia]], in 1823. He graduated in law from the [[University of Virginia]] in 1845.
+
+Thompson did not pursue a career in the legal field, but instead dedicated himself to journalism and editorship. In 1847, he became the editor of the ''[[Southern Literary Messenger]]'' in Richmond, and in 1859 editor of ''[[The Southern Field and Fireside]]'' in Augusta, Georgia. Thompson did not take part in the [[American Civil War|Civil War]] due to health reasons.  Instead, he went to [[London]], from where he supported the [[Confederate States of America|Confederacy]] by writing articles in English magazines.
+
+In 1866 he became editor of the ''[[New York Evening Post]]'', a position that he maintained until his death in New York in 1873.
+
+Thompson was also a poet, most of his works being war-poems.
+
+During his career and travels, Thompson had the chance to work closely with [[Edgar Allan Poe]], and many notable Southern authors, such as [[William Gilmore Simms]], [[Henry Timrod]], [[Paul Hamilton Hayne]] and [[Philip Pendleton Cooke]], as well as European authors.
+
+== Works ==
+* ''Genius and Character of Edgar Allan Poe''
+* ''Poems of John R. Thompson''
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thompson, John Reuben}}
+[[Category:1823 births]]
+[[Category:1873 deaths]]
+[[Category:Writers from Richmond, Virginia]]
+[[Category:American male poets]]
+[[Category:American newspaper editors]]
+[[Category:American newspaper publishers (people)]]
+[[Category:Poets from Virginia]]
+[[Category:University of Virginia School of Law alumni]]
+[[Category:19th-century American journalists]]
+[[Category:American male journalists]]
+[[Category:19th-century American poets]]
+[[Category:Journalists from Virginia]]
+[[Category:19th-century American male writers]]
+[[Category:19th-century American businesspeople]]
+
+
+{{US-journalist-19thC-stub}}

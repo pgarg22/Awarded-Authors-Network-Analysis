@@ -1,0 +1,49 @@
+{{short description|Japanese poet}}
+[[File:Takarai Kikaku.jpg|thumb|180px|Portrait by Oguri Kanrei (小栗寛令)]]
+{{family name hatnote|Takarai|lang=Japanese}}
+'''Takarai Kikaku''' ({{lang-ja|宝井其角}}; 1661–1707) also known as '''Enomoto Kikaku''', was a [[Japan]]ese [[haikai]] [[poet]] and among the most accomplished disciples of [[Matsuo Bashō]].<ref>''Eighteen Haiku by Kikaku, translated by Michael K. Bourdaghs'', in [http://www.nycbigcitylit.com/feb2004/contents/poetrybourdaghs.html Big City Lit, Feb 2004] {{Webarchive|url=https://web.archive.org/web/20070716125325/http://www.nycbigcitylit.com/feb2004/contents/poetrybourdaghs.html |date=2007-07-16 }}</ref><ref name=kato159>Katō, Shūichi and Sanderson, Don. ''A History of Japanese Literature: From the Man'yōshū to Modern Times'',Routledge, 1997, {{ISBN|978-1-873410-48-6}} p.159</ref> His father was an [[Edo]] doctor, but Kikaku chose to become a professional haikai poet rather than follow in his footsteps.<ref name=kato159 />
+
+Kikaku set the tone for haikai from Basho  death until the time of [[Yosa Buson]] in the late 18th century;<ref name=kato159 /> and he also left an important historical document, describing Bashō's final days, and the immediate aftermath of his death, which has been translated into English.<ref>Takarai, Kikaku. ''An Account of Our Master Basho's Last Days'', translated by Nobuyuki Yuasa in ''Springtime in Edo''. Keisuisha, 2006. {{ISBN|4-87440-920-2}}, pp.15-26</ref>
+
+==Later influence==
+
+In commemoration of the 300th anniversary of Kikaku's death, Nobuyuki Yuasa led an international bilingual (Japanese and English) [[renku]], or collaborative linked poem, which opened with the following [[hokku]] by Kikaku:<ref>Yuasa, Nobuyuki et al. ''Springtime in Edo''. Keisuisha, 2006. {{ISBN|4-87440-920-2}}, pp.3-9</ref>
+
+:鐘ひとつ賣れぬ日はなし江戸の春
+
+:Springtime in Edo,
+:Not a day passes without
+:A temple bell sold.
+
+==Bashō's criticism==
+*Kikaku wrote of coarser subjects than Bashō, and in this respect his poetry was closer to earlier haikai, as well as to [[senryu]],<ref>R H Blyth, ''A History of Haiku Vol I'' (1963) p. p. 132</ref> and his master is known to have denigrated Kikaku's 'flippant efforts'.
+
+*Comparing Kikaku's paired haiku in 'The Rustic Haiku Contest', Bashō remarked of one that "these are artifices within a work of art; too much craft has been expended here".<ref>Makoto Ueda, ''Matsuo Bashō'' (1982) p. 153</ref>
+
+*'''<nowiki>{{</nowiki>[[Template:Dubious|Dubious]]<nowiki>}}</nowiki>'''<br /> One day, Kikaku composed a haiku,
+:''Red dragonfly / break off its wings / Sour cherry'' 
+which Bashō changed to, 
+:''Sour cherry / add wings to it / Red dragonfly''; 
+thus saying that poetry should add life to life, not take life away from life.<ref>[http://www.midwestbookreview.com/rbw/oct_01.htm MBR: Reviewer's Bookwatch, October 2001<!-- Bot generated title -->]</ref><ref>[http://www.williammichaelian.com/conversation/conversation29.html The Conversation Continues - Page 28<!-- Bot generated title -->]</ref> '''<nowiki>{{</nowiki>[[Template:Dubious|Dubious]]<nowiki>}}</nowiki>''' 
+
+==See also==
+*[[Hattori Ransetsu]]
+*[[Mukai Kyorai]]
+
+==References==
+<references/>
+
+==External links==
+*[http://www.thegreenleaf.co.uk/HP/Kikaku/00haiku.htm A selection of Kikaku's haiku translated into English]
+*[http://simplyhaiku.com/SHv4n3/features/Nobuyuki.html Kikaku's ''An Account of Our Master Basho's Last Days'']
+*[http://simplyhaiku.com/SHv4n4/renku/springtime.html ''Springtime in Edo''], the international [[renku]] composed in memory of the 300th anniversary of Kikaku's death
+
+{{Authority control}}
+{{DEFAULTSORT:Takarai, Kikaku}}
+[[Category:1661 births]]
+[[Category:1707 deaths]]
+[[Category:Japanese poets]]
+[[Category:Japanese writers of the Edo period]]
+[[Category:Japanese haiku poets]]
+
+{{japan-poet-stub}}

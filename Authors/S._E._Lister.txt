@@ -1,0 +1,90 @@
+{{Use British English|date=June 2016}}
+{{Use dmy dates|date=June 2016}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = S. E. Lister
+| honorific_prefix = 
+| honorific_suffix = 
+| image       = 
+| image_size  = 
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{birth date and age|1988|04|26|df=y}}
+| birth_place = 
+| death_date  = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| occupation  = Novelist
+| nationality = British
+| education   = Bachelor of Arts
+| alma_mater = [[University of Warwick]]
+| genres = [[Historical fiction]], [[mystery fiction]], [[Thriller (genre)|thriller]]
+| years_active = 2014–present
+}}
+
+'''S. E. Lister''' (born 26 April 1988) is an English [[historical fiction]] author. In 2015 she was nominated for the Edinburgh First Book Award for her [[debut novel]] ''Hideous Creatures''.
+
+==Life and career==
+S. E. Lister was born on 26 April 1988, and grew up in [[Newent]], [[Gloucestershire]].<ref name="DKW 1"/> In 2006 she began a Creative Writing course at the [[University of Warwick]].<ref name="DKW 1"/><ref name=Edinburgh/>
+
+==Reviews==
+In May 2014, Lister released her debut novel, ''Hideous Creatures'', through Old Street Publishing.<ref name=Housham/> Jane Housham of ''[[The Guardian]]'' gave the book a positive review, describing it as "a gothic road novel" and saying that its pace was "well-handled throughout".<ref name=Housham/> Author [[Maxim Jakubowski]] also praised the novel, saying that "[it] grips and enchants and you never want it to end". [[Marcus Sedgwick]] commended the book as "what all the best fiction should be; something rich and strange".<ref name="DKW 2"/> In 2015 Lister received a nomination for ''Hideous Creatures'' for that year's Edinburgh First Book Award<ref name="DKW 1"/> – the prize ultimately went to [[Colin MacIntyre]] for ''The Letters of Ivor Punch''.<ref name=Williams/>
+
+Lister's follow-up to ''Hideous Creatures'', ''The Immortals'', appeared in September 2015, again from Old Street.<ref name=Monks/> David Duff of [[We Love This Book]] reviewed described the story as "extraordinary" and the characters as "fascinating". He remarked: "S. E. Lister has done a commendable job of turning a well-trodden concept into something quite new."<ref name=Duff/> Isabella Silvers of ''[[InStyle]]'' recommended the book as one of six to read that summer, saying that she was "gripped" by it.<ref name=Silvers/> Jakubowski again praised Lister, saying that ''The Immortals'' was "truly the stuff of dreams".<ref name="DKW 3"/>
+
+A mixed review came from Rebecca Monks of ''[[The List (magazine)|The List]]'', who awarded the book three points out of five. Monks praised the "fast-paced plot... strong characters and witty, energetic dialogue", and felt that Lister's style was "charming", but criticised the novel's premise as "familiar".<ref name=Monks/> Jane Jakeman of ''[[The Independent]]'' similarly felt that about the book's evocations of "lush", but that "Lister takes us whirling through time so fast that nothing makes any great impression".<ref name=Jakeman/>
+
+==Awards and accolades==
+{|class="wikitable plainrowheaders"
+!scope=col|Year
+!scope=col|Award
+!scope=col|Details
+!scope=col|Result
+!scope=col|{{Tooltip|Ref.|Reference}}
+|-
+|2015
+!scope=row|Edinburgh First Book Award
+|''Hideous Creatures''
+|{{Nom}}
+|align=center|<ref name="DKW 1"/>
+|}
+
+==References==
+{{Reflist|30em|refs=
+<ref name="DKW 1">{{Cite web|url=http://dkwlitagency.co.uk/authors/s-lister|title=S E Lister|year=2014|publisher=DKW Literary Agency|location=London, UK|archive-url=https://web.archive.org/web/20140423025328/http://dkwlitagency.co.uk/authors/s-lister|archive-date=23 April 2014|url-status=live|access-date=1 June 2016}}</ref>
+
+<ref name="DKW 2">{{Cite web|url=http://dkwlitagency.co.uk/books/hideous-creatures|title=Hideous Creatures|year=2014|publisher=DKW Literary Agency|location=London, UK|archive-url=https://web.archive.org/web/20140422001402/http://dkwlitagency.co.uk/books/hideous-creatures|archive-date=22 April 2014|url-status=live|access-date=3 June 2016}}</ref>
+
+<ref name="DKW 3">{{Cite web|url=http://dkwlitagency.co.uk/books/the-immortals|title=The Immortals|year=2015|publisher=DKW Literary Agency|location=London, UK|archive-url=https://web.archive.org/web/20151014061850/http://dkwlitagency.co.uk/books/the-immortals|archive-date=14 October 2015|url-status=live|access-date=3 June 2016}}</ref>
+
+<ref name=Duff>{{Cite web|url=http://www.welovethisbook.com/reviews/the-immortals|title=The Immortals|last=Duff|first=David|date=16 September 2015|publisher=[[We Love This Book]]|location=London, UK|archive-url=https://web.archive.org/web/20150919080020/http://www.welovethisbook.com/reviews/the-immortals|archive-date=19 September 2015|url-status=live|access-date=1 June 2016}}</ref>
+
+<ref name=Edinburgh>{{Cite web|url=https://www.edbookfest.co.uk/writers/s-e-lister|title=S E Lister|year=2014|publisher=[[Edinburgh International Book Festival]]|location=Edinburgh, UK|archive-url=https://web.archive.org/web/20140712172120/https://www.edbookfest.co.uk/writers/s-e-lister|archive-date=12 July 2014|url-status=live|access-date=1 June 2016}}</ref>
+
+<ref name=Housham>{{Cite news|url=https://www.theguardian.com/books/2014/may/30/hideous-creatures-se-lister-review|title=Hideous Creatures by SE Lister review – a gothic road novel driven by demons|first=Jane|last=Housham|date=30 May 2014|newspaper=[[The Guardian]]|publisher=[[Guardian News and Media]]|location=London, UK|issn=0261-3077|oclc=60623878|access-date=1 June 2016|archive-url=https://web.archive.org/web/20140531093640/http://www.theguardian.com/books/2014/may/30/hideous-creatures-se-lister-review|archive-date=31 May 2014|url-status=live}}</ref>
+
+<ref name=Jakeman>{{Cite news|url=https://www.independent.co.uk/arts-entertainment/books/features/historical-fiction-round-up-sherlock-holmes-secrets-and-a-hefty-dose-of-nordic-noir-10474809.html|title=Historical fiction round-up: Sherlock Holmes, secrets and a hefty dose of Nordic noir|first=Jane|last=Jakeman|date=27 August 2015|newspaper=[[The Independent]]|publisher=Independent Print Limited|location=London|issn=0951-9467|oclc=185201487|access-date=1 June 2016|archive-url=https://web.archive.org/web/20151210232249/http://www.independent.co.uk/arts-entertainment/books/features/historical-fiction-round-up-sherlock-holmes-secrets-and-a-hefty-dose-of-nordic-noir-10474809.html|archive-date=10 December 2015|url-status=live}}</ref>
+
+<ref name=Monks>{{Cite journal|url=https://www.list.co.uk/article/74600-se-lister-the-immortals/|title=SE Lister – The Immortals|last=Monks|first=Rebecca|date=10 September 2015|journal=[[The List (magazine)|The List]]|publisher=[[The List Ltd.|The List]]|location=Edinburgh, UK|archive-url=https://web.archive.org/web/20150926211738/https://www.list.co.uk/article/74600-se-lister-the-immortals|archive-date=26 September 2015|url-status=live|access-date=1 June 2016}}</ref>
+
+<ref name=Silvers>{{Cite journal|last1=Silvers|first1=Isabella|date=20 May 2016|title=The 6 Books To Read On Your Summer Holiday (If You Hate Chick Lit)|url=http://www.instyle.co.uk/travel/holiday-reads|url-status=live|journal=[[InStyle]]|publisher=[[Time Inc.|Time]]|issn=1076-0830|oclc=42615366|archive-url=https://web.archive.org/web/20160521130222/http://www.instyle.co.uk/travel/holiday-reads|archive-date=21 May 2016|access-date=3 June 2016}}</ref>
+
+<ref name=Williams>{{Cite news|url=http://www.heraldscotland.com/news/13898273.Pop_singer_turned_author__wins_Edinburgh_first_book_prize/|title=Pop singer turned author wins Edinburgh first book prize|first=Martin|last=Williams|date=25 October 2015|newspaper=[[The Herald (Glasgow)|The Herald]]|publisher=Herald & Times Group|location=Glasgow, UK|issn=0965-9439|oclc=29991088|access-date=3 June 2016|archive-url=https://web.archive.org/web/20151028114748/http://www.heraldscotland.com/news/13898273.Pop_singer_turned_author__wins_Edinburgh_first_book_prize|archive-date=28 October 2015|url-status=live}}</ref>}}
+
+==External links==
+*{{Official website|selisterauthor.com}}
+*{{Worldcat id|lccn-n2016003641}}
+
+{{Portal bar|United Kingdom|Books|Literature|Biography}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lister, S. E.}}
+[[Category:Living people]]
+[[Category:1988 births]]
+[[Category:21st-century British novelists]]
+[[Category:21st-century English women writers]]
+[[Category:Alumni of the University of Warwick]]
+[[Category:English women novelists]]
+[[Category:British historical novelists]]
+[[Category:People from Newent]]
+[[Category:Women mystery writers]]
+[[Category:Women thriller writers]]

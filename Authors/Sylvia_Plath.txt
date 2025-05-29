@@ -1,0 +1,398 @@
+{{short description|American poet, novelist and short story writer}}
+{{redirect|Plath|other people|Plath (surname)}}
+{{Use mdy dates|date=February 2021}}
+{{good article}}
+{{Infobox writer
+|name          = Sylvia Plath
+|image         = Sylvia Plath.jpg
+|alt           = A black-and-white photo of a woman with her hair up, looking to the left of the camera lens
+|caption       = Plath in July 1961,<br>at her [[Chalcot Square]] flat in London
+|pseudonym     = Victoria Lucas 
+|birth_date    = {{Birth date|mf=yes|1932|10|27}}
+|birth_place   = [[Boston]], [[Massachusetts]], U.S.
+|death_date    = {{Death date and age |1963|2|11 |1932|10|27 |mf=yes}}
+|death_place   = [[London]], England
+|resting_place = [[Heptonstall|Heptonstall Church]], England
+|occupation    = {{hlist |Poet |novelist |short story writer}}
+|alma_mater    = [[Smith College]]<br>[[Newnham College, Cambridge]]
+|language      = English
+|period        = 1960–63
+|genre         = {{hlist |Poetry |fiction |short story}}
+|movement      = [[Confessional poetry]]
+|notableworks  = ''[[The Bell Jar]]'' and ''[[Ariel (Plath)|Ariel]]''
+|spouse        = {{marriage|[[Ted Hughes]]|1956}}
+|children      = {{ubl|[[Frieda Hughes]]|[[Nicholas Hughes]]}}
+|relatives     = {{ubl|[[Otto Plath]] (father)|[[Aurelia Plath|Aurelia Schober]] (mother)}}
+|awards        = {{ubl|[[Fulbright Scholarship]]|{{awd|award=[[Glascock Prize]]|year=1955|title=[[Two Lovers and a Beachcomber by the Real Sea]]}}|{{awd|award=[[Pulitzer Prize for Poetry]]|year=1982|title=The Collected Poems}} ([[Posthumous promotion|posthumously]])}}
+|signature     = Sylvia Plath signature (Mademoiselle 1953).svg
+|signature_alt = Sylvia Plath
+}}
+
+'''Sylvia Plath''' ({{IPAc-en|p|l|æ|θ}}; October 27, 1932&nbsp;– February 11, 1963) was an American poet, novelist, and short-story writer. She is credited with advancing the genre of [[confessional poetry]] and is best known for two of her published collections, ''[[The Colossus and Other Poems]]'' (1960) and ''[[Ariel (poetry collection)|Ariel]]'' (1965), as well as ''[[The Bell Jar]]'', a [[semi-autobiographical novel]] published shortly before her death in 1963. ''The Collected Poems'' were published in 1981, which included previously unpublished works. For this collection Plath was awarded a [[Pulitzer Prize]] in Poetry in 1982, making her the fourth to receive this honour posthumously.<ref>{{cite news |last1=Kihss |first1=Peter |title=Sessions, Sylvia Plath and Updike Are Among Pulitzer Prize Winners |url=https://archive.nytimes.com/www.nytimes.com/books/98/03/01/home/plath-pulitzer.html |access-date=10 March 2021 |work=[[The New York Times]] }}</ref>
+
+Born in [[Boston, Massachusetts]], Plath studied at [[Smith College]] in Massachusetts and at [[Newnham College]] in [[Cambridge]], England. She married fellow poet [[Ted Hughes]] in 1956, and they lived together in the United States and then in England. Their relationship was tumultuous and, in her letters, Plath alleges abuse at his hands.<ref>{{Cite news|url=https://www.theguardian.com/books/2017/apr/11/unseen-sylvia-plath-letters-claim-domestic-abuse-by-ted-hughes|title=Unseen Sylvia Plath letters claim domestic abuse by Ted Hughes|last=Kean|first=Danuta|date=11 April 2017|work=The Guardian|access-date=9 March 2021|issn=0261-3077|quote=The letters are part of an archive amassed by feminist scholar Harriet Rosenstein seven years after the poet’s death, as research for an unfinished biography. }}</ref>  They had two children before separating in 1962.
+
+Plath was [[Major depressive disorder|clinically depressed]] for most of her adult life, and was treated multiple times with [[electroconvulsive therapy]] (ECT). She killed <!-- Please do not change to "committed suicide" or "died by suicide". See Talk page.-->herself in 1963.
+
+==Life and career==
+
+===Early life===
+Sylvia Plath was born on October 27, 1932, in [[Boston]], [[Massachusetts]].<ref>{{cite web|url=https://www.poets.org/poetsorg/poet/sylvia-plath |title=Sylvia Plath – Poet &#124; Academy of American Poets |publisher=Poets.org |date= February 4, 2014|access-date=March 9, 2018}}</ref><ref name="ODNB">{{Cite ODNB|id=37855|title=Plath [married name Hughes], Sylvia|last1=Brown|first1=Sally|last2=Taylor|first2=Clare L.|year=2017}}</ref> Her mother, [[Aurelia Plath|Aurelia Schober Plath]] (1906–1994), was a second-generation American of [[Austrian American|Austrian descent]], and her father, [[Otto Plath]] (1885–1940), was from [[Grabow]], [[German Empire|Germany]].<ref>Kirk (2004) [https://books.google.com/books?id=NBlJYGHVESwC&pg=PA9 p. 9]</ref> Plath's father was an [[entomologist]] and a professor of biology at [[Boston University]] who authored a book about [[bumblebee]]s.<ref name="Axelrod">{{cite encyclopedia |last=Axelrod |first=Steven |date=April 24, 2007 |orig-year=First published <!--September 17, -->2003 |title=Sylvia Plath |encyclopedia=[[The Literary Encyclopedia (English)|The Literary Encyclopedia]] |url=http://www.litencyc.com/php/speople.php?rec=true&UID=3579 |access-date=June 1, 2007 |url-access=subscription}}</ref>
+
+On April 27, 1935, Plath's brother Warren was born.<ref name="ODNB"/> In 1936 the family moved from 24 Prince Street in [[Jamaica Plain]], Massachusetts, to 92 Johnson Avenue, [[Winthrop, Massachusetts|Winthrop]], Massachusetts.<ref>{{cite web |last=Steinberg |first=Peter K. |year=2007 |orig-year=First published 1999 |url=http://www.sylviaplath.info/biography.html |title=A celebration, this is |work=sylviaplath.info |archive-url=https://web.archive.org/web/20150319215120/http://www.sylviaplath.info/biography.html |archive-date=March 19, 2015 |url-status=live}}</ref> Plath's mother, Aurelia, had grown up in Winthrop, and her maternal grandparents, the Schobers, had lived in a section of the town called Point Shirley, a location mentioned in Plath's poetry. While living in Winthrop, eight-year-old Plath published her first poem in the ''[[Boston Herald]]''{{'}}s children's section.<ref>Kirk (2004) p. 23</ref> Over the next few years, Plath published multiple poems in regional magazines and newspapers.<ref name="poets1">{{cite web |title=Sylvia Plath |publisher=Academy of American Poets |url=https://www.poets.org/poetsorg/poet/sylvia-plath |archive-url=https://web.archive.org/web/20170204042226/https://www.poets.org/poetsorg/poet/sylvia-plath |archive-date=February 4, 2017 |url-status=live|date=February 4, 2014 }}</ref> At age 11, Plath began keeping a journal.<ref name="poets1"/> In addition to writing, she showed early promise as an artist, winning an award for her paintings from the [[Alliance for Young Artists & Writers|Scholastic Art & Writing Awards]] in 1947.<ref>Kirk (2004) p. 32</ref> "Even in her youth, Plath was ambitiously driven to succeed".<ref name="poets1"/> Plath also had an [[Intelligence quotient|IQ]] of around 160.<ref>{{cite book |url= https://books.google.com/books?id=PynC8TFoqOYC&pg=PA27 |title=Sylvia Plath: Method and Madness  |page=27 |last=Butscher |first=Edward |publisher=IPG |date=2003 |isbn=978-0971059825}}</ref><ref>{{cite book |url= https://books.google.com/books?id=cpc7CJH1-s8C&pg=RA1-PA388 |title=Encyclopedia of Creativity, Two-Volume Set |page=388 |editor1-last=Runco |editor1-first=Mark A. |editor2-last=Pritzker |editor2-first=Steven R.| publisher=Academic Press |date=1999 |isbn=978-0122270758}}</ref>
+
+Otto Plath died on November 5, 1940, a week and a half after Plath's eighth birthday,<ref name="Axelrod"/> of complications following the [[amputation]] of a foot due to untreated [[diabetes mellitus|diabetes]]. He had become ill shortly after a close friend died of [[lung cancer]]. Comparing the similarities between his friend's symptoms and his own, Otto became convinced that he, too, had lung cancer and did not seek treatment until his diabetes had progressed too far. Raised as a [[Unitarianism|Unitarian]], Plath experienced a loss of faith after her father's death and remained ambivalent about religion throughout her life.<ref>Peel (2007) pp. 41–44</ref> Her father was buried in [[Winthrop, Massachusetts|Winthrop]] Cemetery, in Massachusetts. A visit to her father's grave later prompted Plath to write the poem "Electra on Azalea Path". After Otto's death, Aurelia moved her children and her parents to 26 Elmwood Road, [[Wellesley, Massachusetts]] in 1942.<ref name="Axelrod"/> In one of her last prose pieces, Plath commented that her first nine years "sealed themselves off like a ship in a bottle—beautiful, inaccessible, obsolete, a fine, white flying myth".<ref name="ODNB"/><ref>Plath, Sylvia ''Johnny Panic'', p. 124.</ref> Plath attended Bradford Senior High School (now [[Wellesley High School]]) in Wellesley, graduating in 1950.<ref name="ODNB"/> Just after graduating from high school, she had her first national publication in the ''[[The Christian Science Monitor|Christian Science Monitor]].''<ref name="poets1"/>
+
+===College years and depression===
+[[File:Smith College.jpg|alt=|thumb|left|[[Smith College]], in [[Northampton, Massachusetts]]]]
+
+In 1950, Plath attended [[Smith College]], a private women's liberal arts college in Massachusetts. She excelled academically. While at Smith, she lived in Lawrence House, and a plaque can be found outside her old room. She edited ''The Smith Review.'' After her third year of college, Plath was awarded a coveted position as a guest editor at ''[[Mademoiselle (magazine)|Mademoiselle]]'' magazine, during which she spent a month in New York City.<ref name="ODNB" /> The experience was not what she had hoped for, and many of the events that took place during that summer were later used as inspiration for her novel ''[[The Bell Jar]].<ref name=":0">{{cite web|title=Sylvia Platt|url=https://sophia.smith.edu/blog/smithipedia/alumnae/sylvia-plath-1955/|access-date=20 June 2021|website=Smith College|publisher=Smith College}}</ref>''
+
+She was furious at not being at a meeting the editor had arranged with Welsh poet [[Dylan Thomas]]—a writer whom she loved, said one of her boyfriends, "more than life itself." She hung around the [[White Horse Tavern (New York City)|White Horse Tavern]] and the [[Hotel Chelsea|Chelsea Hotel]] for two days, hoping to meet Thomas, but he was already on his way home. A few weeks later, she slashed her legs to see if she had enough "courage" to kill herself.<ref>Thomas (2008) p. 35</ref> During this time she was refused admission to the Harvard writing seminar.<ref name="ODNB-online">Brown & Taylor (2004), ''ODNB'' online</ref> Following [[electroconvulsive therapy]] for depression, Plath made her first medically documented suicide attempt on August 24, 1953<ref>http://www.sylviaplath.info/documents/Steinberg_2010_Search.pdf</ref> by crawling under the front porch and taking her mother's sleeping pills.<ref>Kibler (1980) pp. 259–264</ref>
+
+[[File:Cambridge Newnham.JPG|right|thumb|Sidgwick Hall at [[Newnham College]]]]
+
+She survived this first suicide attempt, later writing that she "blissfully succumbed to the whirling blackness that I honestly believed was eternal oblivion."<ref name="ODNB"/> She spent the next six months in psychiatric care, receiving more electric and [[Insulin shock therapy|insulin shock treatment]] under the care of [[Ruth Beuscher]].<ref name="ODNB"/> Her stay at [[McLean Hospital]] and her Smith Scholarship were paid for by [[Olive Higgins Prouty]], who had successfully recovered from a mental breakdown herself. Plath seemed to make a good recovery and returned to college.
+
+In January 1955, she submitted her thesis, ''The Magic Mirror: A Study of the Double in Two of [[Fyodor Dostoevsky|Dostoyevsky]]'s Novels'', and in June graduated from Smith with an [[A.B.]] ''[[summa cum laude]]''.<ref name="Kirk-xix" /> She was a member of the [[Phi Beta Kappa]] academic [[honor society]].<ref name=":0" />
+
+She obtained a [[Fulbright Scholarship]] to study at [[Newnham College, Cambridge|Newnham College]], one of the two women-only colleges of the [[University of Cambridge]] in England, where she continued actively writing poetry and publishing her work in the student newspaper ''[[Varsity (Cambridge)|Varsity]]''. At Newnham, she studied with [[Dorothea Krook]], whom she held in high regard.<ref>Peel (2007) p. 44</ref> She spent her first year winter and spring holidays traveling around Europe.<ref name="ODNB"/>
+
+===Career and marriage===
+[[File:Administration Building, McLean Hospital, Belmont MA.jpg|alt=|thumb|Plath's stay at [[McLean Hospital]] inspired her novel ''[[The Bell Jar]]'']]
+
+Plath first met poet [[Ted Hughes]] on February 25, 1956. In a 1961 BBC interview (now held by the [[British Library Sound Archive]]),<ref name="Guardian-2010">{{cite web |title=Sylvia Plath and Ted Hughes talk about their relationship |date=April 15, 2010 |location=London |work=[[The Guardian]] |url=https://www.theguardian.com/books/audio/2010/apr/15/sylvia-plath-ted-hughes |access-date=July 9, 2010}} Extract from the 1961 BBC interview with Plath and Hughes. Now held in the [[British Library]] Sound Archive.</ref> Plath describes how she met Hughes:
+<blockquote>
+I'd read some of Ted's poems in this magazine and I was very impressed and I wanted to meet him. I went to this little celebration and that's actually where we met... Then we saw a great deal of each other. Ted came back to Cambridge and suddenly we found ourselves getting married a few months later... We kept writing poems to each other. Then it just grew out of that, I guess, a feeling that we both were writing so much and having such a fine time doing it, we decided that this should keep on.<ref name="Guardian-2010"/>
+</blockquote> Plath described Hughes as "a singer, story-teller, lion and world-wanderer" with "a voice like the thunder of God."<ref name="ODNB"/>
+
+The couple married on June 16, 1956, at [[St George the Martyr, Holborn]] in London (now in the [[London Borough of Camden|Borough of Camden]]) with Plath's mother in attendance, and spent their honeymoon in Paris and [[Benidorm]]. Plath returned to Newnham in October to begin her second year.<ref name="ODNB"/> During this time, they both became deeply interested in [[astrology]] and the supernatural, using [[ouija]] boards.<ref>Bloom, Harold (2007) ''Sylvia Plath'', Infobase Publishing p. 76</ref>
+
+In June 1957, Plath and Hughes moved to the United States, and from September, Plath taught at Smith College, her alma mater. She found it difficult to both teach and have enough time and energy to write,<ref name="Kirk-xix">Kirk (2004) p. xix</ref> and in the middle of 1958, the couple moved to [[Boston]]. Plath took a job as a receptionist in the psychiatric unit of [[Massachusetts General Hospital]] and in the evening sat in on creative writing seminars given by poet [[Robert Lowell]] (also attended by the writers [[Anne Sexton]] and [[George Starbuck]]).<ref name="Kirk-xix"/>
+
+Both Lowell and Sexton encouraged Plath to write from her experience and she did so. She openly discussed her depression with Lowell and her suicide attempts with Sexton, who led her to write from a more female perspective. Plath began to consider herself as a more serious, focused poet and short-story writer.<ref name="ODNB"/> At this time Plath and Hughes first met the poet [[W. S. Merwin]], who admired their work and was to remain a lifelong friend.<ref>Helle (2007){{page needed|date=July 2017}}</ref> Plath resumed psychoanalytic treatment in December, working with Ruth Beuscher.<ref name="ODNB"/>
+
+[[File:Chalcot Square - geograph.org.uk - 1005457.jpg|thumb|right|[[Chalcot Square]], near [[Primrose Hill]] in London, Plath and Hughes' home from 1959]]
+Plath and Hughes traveled across Canada and the United States, staying at the [[Yaddo]] artist colony in [[Saratoga Springs, New York]] in late 1959. Plath says that it was here that she learned "to be true to my own weirdnesses", but she remained anxious about writing confessionally, from deeply personal and private material.<ref name="ODNB"/><ref>''Journals'' pp. 520–521</ref> The couple moved back to England in December 1959 and lived in London at 3 Chalcot Square, near the [[Primrose Hill]] area of [[Regent's Park]], where an [[English Heritage]] plaque records Plath's residence.<ref name="Kirk-xx">Kirk (2004) p. xx</ref><ref name="London Remembers">{{cite web |title=Plaque: Sylvia Plath |work=London Remembers |url=http://www.londonremembers.com/memorials/sylvia-plath |archive-url=https://web.archive.org/web/20160322105555/http://www.londonremembers.com/memorials/sylvia-plath |archive-date=March 22, 2016 |url-status=live}}</ref> Their daughter [[Frieda Hughes|Frieda]] was born on April 1, 1960, and in October, Plath published her first collection of poetry, ''[[The Colossus and Other Poems|The Colossus]]''.<ref name="Kirk-xx"/>
+
+In February 1961, Plath's second pregnancy ended in miscarriage; several of her poems, including "Parliament Hill Fields", address this event.<ref>Kirk (2004) p. 85</ref> In a letter to her therapist, Plath wrote that Hughes beat her two days before the miscarriage.<ref name="Kean-2017">{{cite news |last=Kean |first=Danuta |date=April 11, 2017 |title=Unseen Sylvia Plath letters claim domestic abuse by Ted Hughes |location=London |work=[[The Guardian]] |url= https://www.theguardian.com/books/2017/apr/11/unseen-sylvia-plath-letters-claim-domestic-abuse-by-ted-hughes |access-date=April 14, 2017}}</ref> In August she finished her semi-autobiographical novel ''[[The Bell Jar]]'' and immediately after this, the family moved to [[Court Green]] in the small market town of [[North Tawton]] in [[Devon]]. [[Nicholas Hughes|Nicholas]] was born in January 1962.<ref name="Kirk-xx"/> In mid-1962 Plath and Hughes began to [[beekeeping|keep bees]], which would be the subject of many Plath poems.<ref name="ODNB"/>
+
+In 1961, the couple rented their flat at Chalcot Square to [[Assia Wevill|Assia Wevill (née Gutmann)]] and [[David Wevill]]. Hughes was immediately struck with the beautiful Assia, as she was with him.<ref>{{Cite web|url=http://www.elainefeinstein.com/TedHughes-Devon.shtml|title=Ted Hughes – Devon – Assia|website=www.elainefeinstein.com}}</ref> In June 1962, Plath had a car accident which she described as one of many suicide attempts. In July 1962, Plath discovered Hughes had been having an affair with Assia Wevill; in September Plath and Hughes separated.<ref name="Kirk-xx"/>
+
+Beginning in October 1962, Plath experienced a great burst of creativity and wrote most of the poems on which her reputation now rests, writing at least 26 of the poems of her posthumous collection ''[[Ariel (poetry collection)|Ariel]]'' during the final months of her life.<ref name="Kirk-xx"/><ref>{{cite web |title=Sylvia Plath |work=The Poetry Archive |url=http://www.poetryarchive.org/poet/sylvia-plath |archive-url=https://web.archive.org/web/20170703202957/http://www.poetryarchive.org/poet/sylvia-plath |archive-date=July 3, 2017 |url-status=live}}</ref><ref name="Ted Hughes and Sylvia Plath—a marriage examined">[https://web.archive.org/web/20051218022114/http://findarticles.com/p/articles/mi_m2242/is_1669_286/ai_n13247735 ''Ted Hughes and Sylvia Plath&nbsp;– a marriage examined''. From ''The Contemporary Review''. Essay by Richard Whittington-Egan 2005] accessed July 9, 2010</ref> In December 1962, she returned alone to London with their children, and rented, on a five-year lease, a flat at 23 Fitzroy Road—only a few streets from the Chalcot Square flat. [[William Butler Yeats]] once lived in the house, which bears an English Heritage [[blue plaque]] for the Irish poet. Plath was pleased by this fact and considered it a good omen.
+
+The northern winter of 1962–1963 was one of the coldest in 100 years; the pipes froze, the children—now two years old and nine months—were often sick, and the house had no telephone.<ref name="Gifford-2008">Gifford (2008) p. 15</ref> Her depression returned but she completed the rest of her poetry collection, which would be published after her death (1965 in the UK, 1966 in the US). Her only novel, ''The Bell Jar,'' was published in January 1963, under the pen name Victoria Lucas, and was met with critical indifference.<ref name="Kirk-xxi">Kirk (2004) p. xxi</ref>
+
+===Final depressive episode and death===
+Before her death, Plath tried several times to take her own life.<ref name="Cooper-2003">{{cite journal |last=Cooper |first=Brian |date=June 2003 |title=Sylvia Plath and the depression continuum |journal=[[J R Soc Med]] |volume=96 |issue=6 |pmc=539515 |pmid=12782699 |pages=296–301 |doi=10.1258/jrsm.96.6.296}}</ref> On August 24, 1953, she overdosed on [[sleeping pill]]s<ref>{{Cite book|url=https://www.google.co.uk/books/edition/The_Journals_of_Sylvia_Plath/-_ROQ1v4l68C?hl=en&gbpv=1&dq=%22sylvia+plath%22+overdose+August+24+1953&pg=PT205&printsec=frontcover|isbn=9780571266357|title=The Journals of Sylvia Plath|date=February 17, 2011|publisher=Faber & Faber}}</ref> then, in June{{nbsp}}1962, she drove her car off the side of the road, into a river, which she later said was an attempt to take her own life.<ref>''The Dedalus Book of Literary Suicides: Dead Letters'' (2008) Gary Lachman, Dedalus Press, University of Michigan p. 145</ref>
+
+In January{{nbsp}}1963, Plath spoke with [[John Horder]], her [[general practitioner]]<ref name="Cooper-2003"/> and a close friend who lived near her. She described the current depressive episode she was experiencing; it had been ongoing for six or seven months.<ref name="Cooper-2003"/> While for most of the time she had been able to continue working, her depression had worsened and become severe, "marked by constant agitation, suicidal thoughts and inability to cope with daily life."<ref name="Cooper-2003"/> Plath struggled with [[insomnia]], taking medication at night to induce sleep, and frequently woke up early.<ref name="Cooper-2003"/> She lost 20{{nbsp}}pounds (9&nbsp;kg).<ref name="Cooper-2003"/> However, she continued to take care of her physical appearance and did not outwardly speak of feeling guilty or unworthy.<ref name="Cooper-2003"/>
+[[File:23 Fitzroy Road, London - Sylvia Plath - W.B. Yeats.jpg|thumb|upright|left|23 Fitzroy Road, near [[Primrose Hill]], London, where Plath died by suicide]]
+
+Horder prescribed her an anti-depressant, a [[monoamine oxidase inhibitor]],<ref name="Cooper-2003"/> a few days before her suicide. Knowing she was at risk alone with two young children, he says he visited her daily and made strenuous efforts to have her admitted to a hospital; when that failed, he arranged for a live-in nurse. Commentators have argued that because anti-depressants may take up to three weeks to take effect, her prescription from Horder would not have taken full effect.<ref>Alexander (2003) p. 325</ref>
+
+The nurse was due to arrive at nine on the morning of February 11, 1963, to help Plath with the care of her children. Upon arrival, she could not get into the flat but eventually gained access with the help of a workman, Charles Langridge. They found Plath dead with her head in the oven, having sealed the rooms between her and her sleeping children with tape, towels and cloths.<ref>Stevenson (1990) p. 296</ref> She was 30{{nbsp}}years old.<ref name="Feinmann-1993"/>
+
+Plath's intentions have been debated. That morning, she asked her downstairs neighbor, a Mr.{{nbsp}}Thomas, what time he would be leaving. She also left a note reading "Call Dr.{{nbsp}}Horder," including the doctor's phone number. It is argued Plath turned on the gas at a time when Thomas would have been able to see the note.<ref>Kirk (2004) p. 103</ref> However, in her biography ''Giving Up: The Last Days of Sylvia{{nbsp}}Plath,'' Plath's best friend, [[Jillian Becker]], wrote, "According to Mr.{{nbsp}}Goodchild, a police officer attached to the coroner's office, [Plath] had thrust her head far into the gas oven and had really meant to die."<ref>Becker (2003)</ref> Horder also believed her intention was clear. He stated that "No one who saw the care with which the kitchen was prepared could have interpreted her action as anything but an irrational compulsion."<ref name="Feinmann-1993"/> Plath had described the quality of her despair as "owl's talons clenching my heart."<ref>{{cite news |last=Guthmann |first=Edward |date=October 30, 2005 |title=The Allure: Beauty and an easy route to death have long made the Golden Gate Bridge a magnet for suicides |work=[[San Francisco Chronicle]] |url=http://www.sfgate.com/bayarea/article/Lethal-Beauty-The-Allure-Beauty-and-an-easy-3302966.php#page-6 |archive-url=https://web.archive.org/web/20170525104344/http://www.sfgate.com/bayarea/article/Lethal-Beauty-The-Allure-Beauty-and-an-easy-3302966.php |archive-date=May 25, 2017 |url-status=live}}</ref> In his 1971 book on suicide, friend and critic [[Al Alvarez]] claimed that Plath's suicide was an unanswered cry for help,<ref name="Feinmann-1993"/> and spoke, in a BBC interview in March{{nbsp}}2000, about his failure to recognize Plath's depression, saying he regretted his inability to offer her emotional support: "I failed her on that level. I was thirty{{nbsp}}years old and stupid. What did I know about chronic clinical depression? She kind of needed someone to take care of her. And that was not something I could do."<ref name="Thorpe-2000"/>
+
+[[File:Plath Grave15.jpg|thumb|upright=0.7|Plath's grave at [[Heptonstall]] church, [[West Yorkshire]]|alt=Flowers in front of a simple headstone bearing the inscription, "In  memory Sylvia Plath Hughes 1932–1963 Even amidst fierce flames the golden lotus can be planted."]]
+
+===Following Plath's death===
+An inquest was held on February 15 and gave a ruling of suicide as a result of [[carbon monoxide poisoning]].<ref>Edward Butscher (2004) ''Sylvia Plath: Method and Madness'' p364</ref> Hughes was devastated; they had been separated for six months. In a letter to an old friend of Plath's from Smith College, he wrote, "That's the end of my life. The rest is posthumous."<ref name="Gifford-2008"/><ref>Smith College. ''Plath papers. Series 6'', Hughes. Plath archive.</ref> Plath's gravestone, in [[Heptonstall]]'s parish churchyard of St Thomas the Apostle bears the inscription that Hughes chose for her:<ref name="Kirk p104">Kirk (2004) p. 104</ref> "Even amidst fierce flames the golden lotus can be planted." Biographers attribute the source of the quote to the Hindu text the ''[[Bhagavad Gita]]''<ref name="Kirk p104"/> or to the 16th-century Buddhist novel ''[[Journey to the West]]'' written by [[Wu Cheng'en]].<ref>Carmody & Carmody (1996)</ref><ref>[[Cheng'en Wu]], translated and abridged by [[Arthur Waley]] (1942) ''[[Monkey (novel)|Monkey: Folk Novel of China]]''. [[UNESCO]] collection, Chinese series. Grove Press</ref>
+
+The daughter of Plath and Hughes, [[Frieda Hughes]], is a writer and artist. On March 16, 2009, [[Nicholas Hughes]], their son, hanged himself at his home in [[Fairbanks, Alaska|Fairbanks]], Alaska, following a history of depression.<ref>{{cite news |last=Bates |first=Stephen |date=March 23, 2009 |title=Son of poets Sylvia Plath and Ted Hughes kills himself |location=London |work=[[The Guardian]] |url=https://www.theguardian.com/books/2009/mar/23/sylvia-plath-son-kills-himself |archive-url=https://web.archive.org/web/20170312080113/https://www.theguardian.com/books/2009/mar/23/sylvia-plath-son-kills-himself |archive-date=March 12, 2017 |url-status=live}}</ref><ref>{{cite news |date=March 23, 2009 |title=Poet Plath's son takes own life |location=London |work=[[BBC]] |url=http://news.bbc.co.uk/2/hi/entertainment/7958876.stm |archive-url=https://web.archive.org/web/20090326040506/http://news.bbc.co.uk/2/hi/entertainment/7958876.stm |archive-date=March 26, 2009 |url-status=live}}</ref>
+
+==Works==
+{{main|Sylvia Plath bibliography}}
+Plath wrote poetry from the age of eight, her first poem appearing in the ''[[Boston Evening Traveller|Boston Traveller]]''.<ref name="ODNB"/> By the time she arrived at Smith College she had written over 50 short stories and been published in a raft of magazines.<ref name="Stevenson-1994">Stevenson (1994)</ref> In fact Plath desired much of her life to write prose and stories, and she felt that poetry was an aside. But, in sum, she was not successful in publishing prose. At Smith she majored in English and won all the major prizes in writing and scholarship. Additionally, she won a summer editor position at the young women's magazine ''[[Mademoiselle (magazine)|Mademoiselle]]'',<ref name="ODNB" /> and, on her graduation in 1955, she won the [[Glascock Prize]] for "[[Two Lovers and a Beachcomber by the Real Sea]]". Later, she wrote for the university publication, ''[[Varsity (Cambridge)|Varsity]]''.
+
+===''The Colossus''===
+{{Main|The Colossus and Other Poems}}
+
+{{Quote box |align=right |quoted=true |bgcolor=#FFFFF0 |salign=right
+ |quote =<poem>
+Nights, I squat in the cornucopia
+Of your left ear, out of the wind,
+
+Counting the red stars and those of plum-color.
+The sun rises under the pillar of your tongue.
+My hours are married to shadow.
+No longer do I listen for the scrape of a keel
+On the blank stones of the landing.
+</poem>
+ |source =from "The Colossus", <br>''[[The Colossus and Other Poems]], 1960''
+}}
+
+By the time [[Heinemann (book publisher)|Heinemann]] published her first collection, ''The Colossus and Other Poems'' in the UK in late 1960, Plath had been short-listed several times in the [[Yale Series of Younger Poets Competition|Yale Younger Poets]] book competition and had had work printed in ''[[Harper's Magazine|Harper's]]'', ''[[The Spectator]]'' and ''[[The Times Literary Supplement]]''. All the poems in ''The Colossus'' had already been printed in major US and British journals and she had a contract with ''[[The New Yorker]]''.<ref name="Wagner">Wagner-Martin (1988) pp. 2–5</ref> It was, however, her 1965 collection ''Ariel'', published posthumously, on which Plath's reputation essentially rests. "Often, her work is singled out for the intense coupling of its violent or disturbed imagery and its playful use of alliteration and rhyme."<ref name="poets1"/>
+
+''The Colossus'' received largely positive UK reviews, highlighting Plath's voice as new and strong, individual and American in tone. [[Peter Dickinson]] at ''[[Punch (magazine)|Punch]]'' called the collection "a real find" and "exhilarating to read", full of "clean, easy verse".<ref name="Wagner"/> [[Bernard Bergonzi]] at the ''[[Manchester Guardian]]'' said the book was an "outstanding technical accomplishment" with a "virtuoso quality".<ref name="Wagner"/> From the point of publication she became a presence on the poetry scene. The book went on to be published in America in 1962 to less-glowing reviews. Whilst her craft was generally praised, her writing was viewed as more derivative of other poets.<ref name="Wagner"/>
+
+===''The Bell Jar''===
+{{Main|The Bell Jar}}
+
+Plath's semi-autobiographical novel&mdash;her mother wanted  to block publication&mdash;was published in 1963 and in the US in 1971.<ref name="Kirk-xxi"/><ref>McCullough (2005) p. xii</ref> Describing the compilation of the book to her mother, she wrote, "What I've done is to throw together events from my own life, fictionalising to add color&mdash;it's a [[potboiler|pot boiler]] really, but I think it will show how isolated a person feels when he is suffering a breakdown... I've tried to picture my world and the people in it as seen through the distorting lens of a bell jar".<ref>Plath ''Biographical Note'' 294–295. From Wagner-Martin (1988) p. 107</ref> She described her novel as "an autobiographical apprentice work which I had to write in order to free myself from the past".<ref>Plath ''Biographical Note 293''. From Wagner-Martin (1988) p. 112</ref> She dated a [[Yale]] senior named Dick Norton during her junior year. Norton, upon whom the character of Buddy in ''[[The Bell Jar]]'' is based, contracted [[tuberculosis]] and was treated at the [[Ray Brook Sanatorium]] near [[Saranac Lake, New York|Saranac Lake]]. While visiting Norton, Plath broke her leg skiing, an incident that was fictionalized in the novel.<ref>Taylor (1986)</ref> Plath also used the novel to highlight the issue of women in the workforce during the 1950s. She strongly believed in women's abilities to be writers and editors, while society forced them to fulfill secretarial roles.<ref>{{cite journal |last=Jernigan |first=Adam T. |date=January 1, 2014 |title=Paraliterary Labors in Sylvia Plath's The Bell Jar: Typists, Teachers, and the Pink-Collar Subtext |journal=[[Modern Fiction Studies]] |volume=60 |issue=1 |pages=1–27 |oclc=5561439112 |doi=10.1353/mfs.2014.0010|s2cid=162359742 }}</ref>
+
+=== ''Double Exposure'' ===
+In 1963, after ''The Bell Jar'' was published, Plath began working on another literary work titled ''Double Exposure.'' It was never published and the manuscript disappeared around 1970.<ref name="Ferretter-2009">Ferretter (2009)</ref> According to Hughes, Plath left behind "some 130 [typed] pages of another novel, provisionally titled ''Double Exposure''."<ref>{{cite web |url=https://lostmanuscripts.com/2010/09/20/the-ghost-of-plaths-double-exposure |title=The Ghost of Plath's Double Exposure |publisher=Lost Manuscripts |date=August 29, 2010 |access-date=April 6, 2012 }}</ref> Theories about what happened to the unfinished manuscript are repeatedly brought up in the book ''Sylvia Plath's Fiction: A Critical Study'' by Luke Ferretter including the claim that the rare books department at Smith College in Massachusetts has a secret copy of the work under seal<ref name="Ferretter-2009"/> or that the draft of ''Double Exposure'' may have been destroyed, stolen, or even lost. He also postulates in his book that the draft may lie unfound in a university archive.<ref name="Ferretter-2009"/>
+
+===''Ariel''===
+{{Main|Ariel (Plath)}}
+
+{{Quote box |align=right |quoted=true |bgcolor=#FFFFF0 |salign=right
+ |quote =<poem>And I
+Am the arrow,
+
+The dew that flies
+Suicidal, at one with the drive
+Into the red
+
+Eye, the cauldron of morning.</poem>
+ |source=from the poem "[[Ariel (poem)|Ariel]]", October 12, 1962<ref>{{cite news |last=Plath |first=Sylvia |date=March 13, 2008 |title=Ariel |location=London |work=[[The Guardian]] |url=https://www.theguardian.com/books/2008/mar/13/poetry.sylviaplath4 |archive-url=https://web.archive.org/web/20170312080603/https://www.theguardian.com/books/2008/mar/13/poetry.sylviaplath4 |archive-date=March 12, 2017 |url-status=live}}</ref>}}
+
+The posthumous publication of ''Ariel'' in 1965 precipitated Plath's rise to fame.<ref name="ODNB"/>  The poems in ''[[Ariel (Plath)|Ariel]]'' mark a departure from her earlier work into a more personal arena of poetry. [[Robert Lowell]]'s poetry may have played a part in this shift as she cited Lowell's 1959 book ''[[Life Studies]]'' as a significant influence, in an interview just before her death.<ref name="WM184">Wagner-Martin (1988) p. 184</ref> The impact of ''Ariel'' was dramatic, with its dark and potentially autobiographical descriptions of mental illness in poems such as "[[Tulips (poem)|Tulips]]", "[[Daddy (poem)|Daddy]]" and "[[Lady Lazarus]]".<ref name="WM184"/> Plath's work is often held within the genre of [[confessional poetry]] and the style of her work compared to other contemporaries, such as [[Robert Lowell]] and [[W. D. Snodgrass]]. Plath's close friend [[Al Alvarez]], who wrote about her extensively, said of her later work: "Plath's case is complicated by the fact that, in her mature work, she deliberately used the details of her everyday life as raw material for her art. A casual visitor or unexpected telephone call, a cut, a bruise, a kitchen bowl, a candlestick—everything became usable, charged with meaning, transformed. Her poems are full of references and images that seem impenetrable at this distance, but which could mostly be explained in footnotes by a scholar with full access to the details of her life."<ref>Alvarez (2007) p. 214</ref> Many of Plath's later poems deal with what one critic calls the "domestic surreal" in which Plath takes everyday elements of life and twists the images, giving them an almost nightmarish quality. Plath's poem "Morning Song" from ''Ariel'' is regarded as one of her  finest poems on ''freedom of expression'' of an artist.<ref>{{Cite web|title=10 Most Famous Poems by Sylvia Plath {{!}} Learnodo Newtonic|url=https://learnodo-newtonic.com/sylvia-plath-famous-poems|website=learnodo-newtonic.com|access-date=May 30, 2020}}</ref>
+
+Plath's fellow confessional poet and friend [[Anne Sexton]] commented: "Sylvia and I would talk at length about our first suicide, in detail and in depth—between the free potato chips. Suicide is, after all, the opposite of the poem. Sylvia and I often talked opposites. We talked death with burned-up intensity, both of us drawn to it like moths to an electric lightbulb, sucking on it. She told the story of her first suicide in sweet and loving detail, and her description in ''The Bell Jar'' is just that same story."<ref>[http://www.theparisreview.org/viewinterview.php/prmMID/4073 ''The Paris Review'' Interviews: "The Art of Poetry No. 15. Anne Sexton". Interview by Barbara Kevles. Issue 52, Summer 1971]. Accessed July 15, 2010</ref> The confessional interpretation of Plath's work has led to some dismissing certain aspects of her work as an exposition of sentimentalist melodrama; in 2010, for example, [[Theodore Dalrymple]] asserted that Plath had been the "patron saint of self-dramatisation" and of [[self-pity]].<ref>Dalrymple (2010) p. 157</ref> Revisionist critics such as Tracy Brain have, however, argued against a tightly autobiographical interpretation of Plath's material.<ref>Brain (2001); Brain (2006); Brain (2007)</ref>
+
+===Other works===
+In 1971, the volumes ''Winter Trees'' and ''Crossing the Water'' were published in the UK, including nine previously unseen poems from the original manuscript of ''Ariel''.<ref name="Kirk-xxi"/> Writing in ''[[New Statesman]],'' fellow poet [[Peter Porter (poet)|Peter Porter]] wrote:
+
+<blockquote>
+''Crossing the Water'' is full of perfectly realised works. Its most striking impression is of a front-rank artist in the process of discovering her true power. Such is Plath's control that the book possesses a singularity and certainty which should make it as celebrated as ''The Colossus'' or ''Ariel''.<ref>Plath, Sylvia. ''The Colossus and Other Poems'', Faber and Faber, 1977.</ref>
+</blockquote>
+
+The ''Collected Poems'', published in 1981, edited and introduced by Ted Hughes, contained poetry written from 1956 until her death. Plath was posthumously awarded the [[Pulitzer Prize for Poetry]].<ref name="Kirk-xxi"/> In 2006 [[Anna Journey]], then a graduate student at [[Virginia Commonwealth University]], discovered a previously unpublished [[sonnet]] written by Plath titled [[Ennui (sonnet)|"Ennui"]]. The poem, composed during Plath's early years at Smith College, was published in the online journal ''[[Blackbird (online journal)|Blackbird]]''.<ref>{{cite news | url = https://www.theguardian.com/books/2006/oct/31/news |title = Unpublished Plath sonnet goes online tomorrow | agency= Associated Press | date = October 31, 2006 | access-date = April 29, 2012}}</ref>{{efn|1=Two poems titled ''Ennui (I)'' and ''Ennui (II)'' are listed in a partial catalogue of Plath's [[juvenilia]] in the ''Collected Poems''. A note explains that the texts of all but half a dozen of the many pieces listed are in the Sylvia Plath Archive of juvenilia in the [[Lilly Library]] at Indiana University. The rest are with the Sylvia Plath Estate.}}
+
+===Journals and letters===
+Plath's letters were published in 1975, edited and selected by her mother [[Aurelia Plath]]. The collection, ''Letters Home: Correspondence 1950–1963'', came out partly in response to the strong public reaction to the publication of ''The Bell Jar'' in America.<ref name="Kirk-xxi"/> Plath began keeping a diary from the age of 11 and continued doing so until her suicide. Her adult diaries, starting from her first year at Smith College in 1950, were first published in 1982 as ''The Journals of Sylvia Plath,'' edited by Frances McCullough, with Ted Hughes as consulting editor. In 1982, when Smith College acquired Plath's remaining journals, Hughes sealed two of them until February 11, 2013, the 50th anniversary of Plath's death.<ref name="Kirk-xxii">Kirk (2004) p. xxii</ref>
+
+During the last years of his life, Hughes began working on a fuller publication of Plath's journals. In 1998, shortly before his death, he unsealed the two journals, and passed the project onto his children by Plath, Frieda and Nicholas, who passed it on to Karen V. Kukil. Kukil finished her editing in December 1999, and in 2000 [[Random House|Anchor Books]] published ''The Unabridged Journals of Sylvia Plath'' (Plath 2000). More than half of the new volume contained newly released material;<ref name="Kirk-xxii"/> the American author [[Joyce Carol Oates]] hailed the publication as a "genuine literary event". Hughes faced criticism for his role in handling the journals: he claims to have destroyed Plath's last journal, which contained entries from the winter of 1962 up to her death. In the foreword of the 1982 version, he writes, "I destroyed [the last of her journals] because I did not want her children to have to read it (in those days I regarded forgetfulness as an essential part of survival)."<ref name="ODNB"/><ref name="WML">Wagner-Martin (1988) p. 313</ref>
+
+==Hughes controversies==
+{{Quote box  |align=right |quoted=true |bgcolor=#FFFFF0 |salign=right
+ |quote =<poem>
+And here you come, with a cup of tea
+Wreathed in steam.
+The blood jet is poetry,
+There is no stopping it.
+You hand me two children, two roses.
+</poem>
+ |source =from "Kindness", written February 1, 1963. ''[[Ariel (book)|Ariel]]''
+}}
+
+As Hughes and Plath were legally married at the time of her death, Hughes inherited the Plath estate, including all her written work. He has been condemned repeatedly for burning Plath's last journal, saying he "did not want her children to have to read it."<ref name="Christodoulides-2005">Christodoulides (2005) p. ix</ref> Hughes lost another journal and an unfinished novel, and instructed that a collection of Plath's papers and journals should not be released until 2013.<ref name="Christodoulides-2005"/><ref>{{cite news |last=Viner |first=Katharine |date=October 20, 2003 |title=Desperately seeking Sylvia |location=London |work=The Guardian |url=https://www.theguardian.com/film/2003/oct/20/poetry.gender |archive-url=https://web.archive.org/web/20170312080530/https://www.theguardian.com/film/2003/oct/20/poetry.gender |archive-date=March 12, 2017 |url-status=live}}</ref> He has been accused of attempting to control the estate for his own ends, although royalties from Plath's poetry were placed into a trust account for their two children, Frieda and Nicholas.<ref>Gill (2006) pp. 9–10</ref><ref>Hughes, Frieda (2004) p. xvii</ref>
+
+Plath's gravestone has been repeatedly vandalized by those aggrieved that "Hughes" is written on the stone; they have attempted to chisel it off, leaving only the name "Sylvia Plath."<ref name="ReferenceA">{{YouTube|p1l_caV_bdk|Short news report on Plath's grave, featuring some of her poetry}}</ref> When Hughes' mistress [[Assia Wevill]] killed herself and their four-year-old daughter Shura in 1969, this practice intensified. After each defacement, Hughes had the damaged stone removed, sometimes leaving the site unmarked during repair.<ref name="Press">{{cite news|url=http://articles.latimes.com/1988-06-05/news/mn-6426_1_sylvia-plath|title=Sylvia Plath's Tombstone in England Defaced, Removed : 25 Years After Her Suicide, Tormented American Poet Finds No Peace|agency=Associated Press|date=June 5, 1988|access-date=September 13, 2018|newspaper=Los Angeles Times}}</ref> Outraged mourners accused Hughes in the media of dishonoring her name by removing the stone.<ref name="Badia-Phegley-2005">Badia & Phegley (2005) p. 252</ref> Wevill's death led to claims that Hughes had been abusive to both Plath and Wevill.<ref>{{cite news|author=Nadeem Azam |url=http://1lit.tripod.com/june2001.html |title='Ted Hughes: A Talented Murderer' December 11, 2001 |work=The Guardian |date= 2001|access-date=February 17, 2018 | location=London}}</ref><ref name="Thorpe-2000">{{cite news |last=Thorpe |first=Vanessa |date=March 19, 2000 |title=I failed her. I was 30 and stupid |location=London |work=The Guardian |url=https://www.theguardian.com/books/2000/mar/19/poetry.features |archive-url=https://web.archive.org/web/20160320035529/http://www.theguardian.com/books/2000/mar/19/poetry.features |archive-date=March 20, 2016 |url-status=live}}</ref>
+
+Radical feminist poet [[Robin Morgan]] published the poem "Arraignment", in which she openly accused Hughes of the battery and murder of Plath. Her book ''Monster'' (1972) "included a piece in which a gang of Plath aficionados are imagined castrating Hughes, stuffing his penis into his mouth and then blowing out his brains."<ref Name=Lrb>[https://www.lrb.co.uk/v38/n06/mark-ford/sorrows-of-a-polygamist "Sorrows of a Polygamist"], ''London Review of Book''. March 17, 2016</ref><ref name="Badia-Phegley-2005"/><ref>{{cite web |title=Monster: Poems |publisher=Robin Morgan |url=http://www.robinmorgan.net/blog/book/monster/ |archive-url=https://web.archive.org/web/20170318164231/http://www.robinmorgan.net/blog/book/monster/ |archive-date=March 18, 2017 |url-status=live}}<!--older url: http://www.robinmorgan.us/robin_morgan_bookDetails.asp?ProductID=21--></ref> Hughes threatened to sue Morgan. The book was withdrawn by the publisher [[Random House]], although it remained in circulation among feminists.<ref>Robin Morgan, ''Saturday's Child: A Memoir'' (2014), Open Road Media.</ref> Other feminists threatened to kill Hughes in Plath's name and pursue a conviction for murder.<ref name="Feinmann-1993">{{cite news |last=Feinmann |first=Jane |date=February 16, 1993 |title=Rhyme, reason and depression |location=London |work=The Guardian |url=https://www.theguardian.com/books/1993/feb/16/biography.sylviaplath |archive-url=https://web.archive.org/web/20161227203359/https://www.theguardian.com/books/1993/feb/16/biography.sylviaplath |archive-date=December 27, 2016 |url-status=live}}</ref><ref Name=Lrb/> Plath's poem "The Jailor", in which the speaker condemns her husband's brutality, was included in Morgan's 1970 anthology ''[[Sisterhood Is Powerful: An Anthology of Writings from the Women's Liberation Movement]].''<ref>Morgan (1970)</ref>
+
+In 1989, with Hughes under public attack, a battle raged in the letters pages of ''[[The Guardian]]'' and ''[[The Independent]]''. In ''The Guardian'' on April 20, 1989, Hughes wrote the article "The Place Where Sylvia Plath Should Rest in Peace": "In the years soon after [Plath's] death, when scholars approached me, I tried to take their apparently serious concern for the truth about Sylvia Plath seriously. But I learned my lesson early. [...] If I tried too hard to tell them exactly how something happened, in the hope of correcting some fantasy, I was quite likely to be accused of trying to suppress Free Speech. In general, my refusal to have anything to do with the Plath Fantasia has been regarded as an attempt to suppress Free Speech [...] The Fantasia about Sylvia Plath is more needed than the facts. Where that leaves respect for the truth of her life (and of mine), or for her memory, or for the literary tradition, I do not know."<ref name="Badia-Phegley-2005"/><ref>{{cite news |last=Hughes |first=Ted |date=April 20, 1989 |title=The Place Where Sylvia Plath Should Rest in Peace |location=London |work=The Guardian}}</ref>
+
+Still the subject of speculation and opprobrium in 1998, Hughes published ''[[Birthday Letters]]'' that year, his own collection of 88 poems about his relationship with Plath. Hughes had published very little about his experience of the marriage and Plath's subsequent suicide, and the book caused a sensation, being taken as his first explicit disclosure, and it topped best seller charts. It was not known at the volume's release that Hughes was suffering from terminal cancer and would die later that year. The book went on to win the [[Forward Poetry Prize]], the [[T. S. Eliot Prize]] for Poetry, and the [[Whitbread Prize|Whitbread Poetry Prize]]. The poems, written after Plath's death, in some cases long after, try to find a reason why Plath took her own life.<ref>{{cite news |last=Rose |first=Jacqueline |date=February 1, 1998 |title=The happy couple |location=London |work=The Guardian |url=https://www.theguardian.com/books/1998/feb/01/poetry.tedhughes |archive-url=https://web.archive.org/web/20170312080214/https://www.theguardian.com/books/1998/feb/01/poetry.tedhughes |archive-date=March 12, 2017 |url-status=live}}</ref>
+
+In October 2015, the [[BBC Two]] documentary ''Ted Hughes: Stronger Than Death'' examined Hughes' life and work; it included audio recordings of Plath reciting her own poetry. Their daughter Frieda spoke for the first time about her mother and father.<ref>{{cite web |title=BBC Two – Ted Hughes: Stronger Than Death |date=October 10, 2015 |publisher=BBC |url=http://www.bbc.co.uk/programmes/b06j7pkl |archive-url=https://web.archive.org/web/20161217134053/http://www.bbc.co.uk/programmes/b06j7pkl |archive-date=December 17, 2016 |url-status=live }}</ref>
+
+==Themes and legacy==
+{{Quote box |align=right |quoted=true |bgcolor=#FFFFF0 |salign=right
+|quote =<poem>
+Love set you going like a fat gold watch.
+The midwife slapped your footsoles, and your bald cry
+Took its place among the elements.
+</poem>
+|source=from "Morning Song", ''[[Ariel (book)|Ariel]]'', 1965<ref>{{cite web |title=Morning Song, Plath, Sylvia |work=[[Jeanette Winterson]] |url=http://www.jeanettewinterson.com/pages/content/index.asp?PageID=475 |archive-url=https://web.archive.org/web/20101227162034/http://www.jeanettewinterson.com/pages/content/index.asp?PageID=475 |archive-date=December 27, 2010}}</ref>
+}}
+
+Sylvia Plath's early poems exhibit what became her typical imagery, using personal and nature-based depictions featuring, for example, the moon, blood, hospitals, fetuses, and skulls. They were mostly imitation exercises of poets she admired such as [[Dylan Thomas]], [[W. B. Yeats]] and [[Marianne Moore]].<ref name="Stevenson-1994"/> Late in 1959, when she and Hughes were at the Yaddo writers' colony in New York State, she wrote the seven-part "Poem for a Birthday", echoing [[Theodore Roethke]]'s ''Lost Son'' sequence, though its theme is her own traumatic breakdown and suicide attempt at 20. After 1960 her work moved into a more surreal landscape darkened by a sense of imprisonment and looming death, overshadowed by her father. ''The Colossus'' is shot through with themes of death, redemption and resurrection. After Hughes left, Plath produced, in less than two months, the 40 poems of rage, despair, love, and vengeance on which her reputation mostly rests.<ref name="Stevenson-1994"/>
+
+Plath's landscape poetry, which she wrote throughout her life, has been described as "a rich and important area of her work that is often overlooked ... some of the best of which was written about the [[North York Moors|Yorkshire moors]]." Her September 1961 poem "Wuthering Heights" takes its title from the [[Emily Brontë]] novel, but its content and style is Plath's own particular vision of the [[Pennines|Pennine]] landscape.<ref>{{cite web |title=A Poet's Guide to Britain: Sylvia Plath |date=May 11, 2009 |work=[[BBC]] |url=http://www.bbc.co.uk/programmes/b00kfc1f |access-date=July 31, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130901081412/http://www.bbc.co.uk/programmes/b00kfc1f |archive-date=September 1, 2013 }}</ref>
+
+It was Plath's publication of ''Ariel'' in 1965 that precipitated her rise to fame. As soon as it was published, critics began to see the collection as the charting of Plath's increasing desperation or death wish. Her dramatic death became her most famous aspect, and remains so.<ref name="ODNB"/> ''[[Time (magazine)|Time]]'' and ''[[Life (magazine)|Life]]'' both reviewed the slim volume of ''Ariel'' in the wake of her death.<ref name="Feinmann-1993"/> The critic at ''Time'' said: "Within a week of her death, intellectual London was hunched over copies of a strange and terrible poem she had written during her last sick slide toward suicide. 'Daddy' was its title; its subject was her morbid love-hatred of her father; its style was as brutal as a truncheon. What is more, 'Daddy' was merely the first jet of flame from a literary dragon who in the last months of her life breathed a burning river of bile across the literary landscape. [...] In her most ferocious poems, 'Daddy' and 'Lady Lazarus,' fear, hate, love, death and the poet's own identity become fused at black heat with the figure of her father, and through him, with the guilt of the German exterminators and the suffering of their Jewish victims. They are poems, as [[Robert Lowell]] says in his preface to ''Ariel'', that 'play Russian roulette with six cartridges in the cylinder.'"<ref>{{cite magazine |title=The Blood Jet Is Poetry |date=June 10, 1966 |magazine=[[Time (magazine)|Time]] |url=http://content.time.com/time/magazine/article/0,9171,942057-1,00.html |url-access=subscription |access-date=July 9, 2010}} Book review, ''Ariel''.</ref>{{efn|1=Plath has been criticized for her numerous and controversial allusions to [[the Holocaust]].<ref>{{cite journal |last1=Strangeways |first1=Al |last2=Plath |first2=Sylvia |date=Autumn 1996 |title='The Boot in the Face': The Problem of the Holocaust in the Poetry of Sylvia Plath |journal=[[Contemporary Literature (journal)|Contemporary Literature]] |volume=37 |issue=3 |pages=370–390 |jstor=1208714 |jstor-access=free|doi=10.2307/1208714 |s2cid=164185549 |url=https://pdfs.semanticscholar.org/5e4c/b8e6e9190da634036d64dc79ec083d2ac7fb.pdf |archive-url=https://web.archive.org/web/20200212082724/https://pdfs.semanticscholar.org/5e4c/b8e6e9190da634036d64dc79ec083d2ac7fb.pdf |url-status=dead |archive-date=2020-02-12 }}</ref>}}
+
+Some in the feminist movement saw Plath as speaking for their experience, as a "symbol of blighted female genius."<ref name="Feinmann-1993"/> Writer [[Honor Moore]] describes ''Ariel'' as marking the beginning of a movement, Plath suddenly visible as "a woman on paper", certain and audacious. Moore says: "When Sylvia Plath's ''Ariel'' was published in the United States in 1966, American women noticed. Not only women who ordinarily read poems, but housewives and mothers whose ambitions had awakened [...] Here was a woman, superbly trained in her craft, whose final poems uncompromisingly charted female rage, ambivalence, and grief, in a voice with which many women identified."<ref>{{cite web |last=Moore |first=Honor |date=March<!--/April--> 2009 |title=After ''Ariel'': Celebrating the poetry of the women's movement |work=[[Boston Review]] |url=http://bostonreview.net/archives/BR34.2/moore.php |archive-url=https://web.archive.org/web/20170711213731/http://bostonreview.net/archives/BR34.2/moore.php |archive-date=July 11, 2017 |url-status=live}}</ref> Some feminists threatened to kill Hughes in Plath's name.<ref name="Feinmann-1993"/>
+
+Smith College, Plath's alma mater, holds her literary papers in the Smith College Library.<ref>{{cite web|url=https://www.smith.edu/libraries/special-collections/research-collections/resources-lists/rare-book-collection|title=Rare Books & Literary Archives {{!}} Smith College Libraries|website=www.smith.edu|language=en|access-date=October 23, 2017}}</ref>  
+
+The [[United States Postal Service]] introduced a postage stamp featuring Plath in 2012.<ref>{{cite news |last=Thorpe |first=Vanessa |date=September 17, 2011 |title=Sylvia Plath given stamp of approval |location=London |work=[[The Guardian]] |url=https://www.theguardian.com/books/2011/sep/18/sylviaplath-tedhughes |archive-url=https://web.archive.org/web/20170312080259/https://www.theguardian.com/books/2011/sep/18/sylviaplath-tedhughes |archive-date=March 12, 2017 |url-status=live}}</ref><ref>{{Cite web|url=https://www.linns.com/news/us-stamps-postal-history/u.s.-twentieth-century-poets-block-in-demand|title=U.S. Twentieth-Century Poets block in demand}}</ref><ref>{{Cite web|url=https://about.usps.com/postal-bulletin/2012/pb22332/html/info_008.htm|title=Stamp Announcement 12-25: Twentieth-Century Poets}}</ref> An English Heritage plaque records Plath's residence at 3 Chalcot Square, in London.<ref name="London Remembers"/>
+
+In 2018, ''[[The New York Times]]'' published an obituary for Plath<ref>{{cite news|author=Anemona Hartocollis |url=https://www.nytimes.com/interactive/2018/obituaries/overlooked-sylvia-plath.html |title=Sylvia Plath, a Postwar Poet Unafraid to Confront Her Own Despair |date= March 8, 2018|access-date=March 9, 2018|newspaper=The New York Times }}</ref> as part of the [[Overlooked (obituary feature)|Overlooked history project]].<ref>{{Cite news|url=https://www.nytimes.com/2018/03/08/insider/overlooked-obituary.html|title=How an Obits Project on Overlooked Women Was Born|last=Padnani|first=Amisha|date=March 8, 2018|work=The New York Times|access-date=March 24, 2018|language=en-US|issn=0362-4331}}</ref><ref>{{Cite news|url=https://www.nytimes.com/interactive/2018/obituaries/overlooked.html,%20https://www.nytimes.com/interactive/2018/obituaries/overlooked.html|title=Remarkable Women We Overlooked in Our Obituaries|last=Padnani|first=Amisha|date=March 8, 2018|work=The New York Times|access-date=March 24, 2018|language=en-US|issn=0362-4331}}</ref>
+
+===Portrayals in media===
+Plath's voice is heard in a BBC documentary about her life, recorded in London in late 1962.<ref>{{Cite web|url=https://www.openculture.com/2013/05/hear_sylvia_plath_read_fifteen_poems_from_her_final_collection_ariel_in_1962_recording.html|title = Hear Sylvia Plath Read 18 Poems from Her Final Collection, Ariel, in 1962 Recording &#124; Open Culture}}</ref> Of the BBC recording [[Elizabeth Hardwick (writer)|Elizabeth Hardwick]] wrote:
+<blockquote>
+I have never before learned anything from a poetic reading, unless the clothes, the beard, the girls, the poor or good condition of the poet can be considered a kind of knowledge. But I was taken aback by Sylvia Plath’s reading. It was not anything like I could have imagined. Not a trace of the modest, retreating, humorous Worcester, Massachusetts, of [[Elizabeth Bishop]]; nothing of the swallowed plain Pennsylvania of [[Marianne Moore]]. Instead these bitter poems—"Daddy," "Lady Lazarus," "The Applicant," "Fever 103°"—were beautifully read, projected in full-throated, plump, diction-perfect, Englishy, mesmerizing cadences, all round and rapid, and paced and spaced. Poor recessive Massachusetts had been erased. "I have done it again!" Clearly, perfectly, staring you down. She seemed to be standing at a banquet like [[Timon of Athens|Timon]], crying, "Uncover, dogs, and lap!"<ref>{{Cite magazine|last=Malcolm|first=Janet|title=The Mystery of Sylvia Plath|url=https://www.newyorker.com/magazine/1993/08/23/the-silent-woman-i-ii-iii|access-date=January 28, 2021|magazine=The New Yorker|date=August 15, 1993|language=en-us}}</ref>
+</blockquote>
+
+[[Gwyneth Paltrow]] portrayed Plath in the biopic ''[[Sylvia (2003 film)|Sylvia]]'' (2003). Despite criticism from Elizabeth Sigmund, a friend of Plath and Hughes, that Plath was portrayed as a "permanent depressive and possessive person," she conceded that "the film has an atmosphere towards the end of her life which is heartbreaking in its accuracy."<ref>{{cite web |last1=Carrell |first1=Severin |title=Sylvia Plath film has lost the plot, says her closest friend |url=https://www.independent.co.uk/news/media/sylvia-plath-film-has-lost-the-plot-says-her-closest-friend-84184.html |website=Independent |publisher=Independent|date=December 28, 2003 }}</ref>   [[Frieda Hughes]], now a poet and painter, who was two years old when her mother died, was angered by the making of entertainment featuring her parents' lives. She accused the "peanut crunching" public of wanting to be titillated by the family's tragedies.<ref>{{cite news |title=Plath film angers daughter |date=February 3, 2003 |work=[[BBC]] |url=http://news.bbc.co.uk/2/hi/entertainment/2720021.stm |archive-url=https://web.archive.org/web/20160306115426/http://news.bbc.co.uk/2/hi/entertainment/2720021.stm |archive-date=March 6, 2016 |url-status=live}}</ref> In 2003, Frieda reacted to the situation in the poem "My Mother" in ''[[Tatler]]'':<ref>{{cite news |author=Hughes, Frieda |title=My Mother |work=The Book of Mirrors |date=2003 |url=http://www.bloodaxebooks.com/articles.asp?id=62 |url-status=dead |archive-url=https://web.archive.org/web/20120528162310/http://www.bloodaxebooks.com/articles.asp?id=62 |archive-date=May 28, 2012}}</ref>
+<blockquote>
+<poem>
+Now they want to make a film
+For anyone lacking the ability
+To imagine the body, head in oven,
+Orphaning children
+
+ [...] they think
+I should give them my mother's words
+To fill the mouth of their monster,
+Their Sylvia Suicide Doll
+</poem>
+</blockquote>
+
+In the 2019 film ''[[How to Build a Girl]]'', Plath is one of the figures in Johanna's [[collage]] who "talk" to her.<ref>[https://www.scriptslug.com/assets/uploads/scripts/how-to-build-a-girl-2020.pdf ''How to Build a Girl'' screenplay] retrieved June 2, 2021</ref>
+
+==Works==
+===Poetry collections===
+* ''[[The Colossus and Other Poems]]'' (1960, [[William Heinemann]])
+* ''[[Ariel (Plath)|Ariel]]'' (1965, [[Faber and Faber]])
+* ''Three Women: A Monologue for Three Voices'' (1968, Turret Books)<ref>{{cite web|url=https://www.bonhams.com/auctions/24633/lot/381/|title=Bonhams : PLATH (SYLVIA) Three Women. A Monologue for Three Voices... |website=www.bonhams.com}}</ref>
+* ''[[Crossing the Water]]'' (1971, Faber and Faber)
+* ''[[Winter Trees]]'' (1971, Faber and Faber)
+* ''The Collected Poems'' (1981, Faber and Faber)
+* ''Selected Poems'' (1985, Faber and Faber)
+* ''Ariel: The Restored Edition'' (2004, Faber and Faber)
+
+===Collected prose and novels===
+* ''[[The Bell Jar]]'', under the pseudonym "Victoria Lucas" (novel, 1963, [[Heinemann (publisher)|Heinemann]])
+* ''[[Letters Home: Correspondence 1950–1963]]'' (1975, [[Harper (publisher)|Harper & Row]], US; [[Faber and Faber]], UK)
+* ''[[Johnny Panic and the Bible of Dreams|Johnny Panic and the Bible of Dreams: Short Stories, Prose, and Diary Excerpts]]'' (1977, Faber and Faber)
+* ''The Journals of Sylvia Plath'' (1982, [[Dial Press]])
+* ''The Magic Mirror'' (1989), Plath's Smith College senior thesis
+* ''The Unabridged Journals of Sylvia Plath'', edited by Karen V. Kukil (2000, [[Random House|Anchor Books]])
+* ''The Letters of Sylvia Plath, Volume 1'', edited by Peter K. Steinberg and Karen V. Kukil (2017, Faber and Faber)
+* ''The Letters of Sylvia Plath, Volume 2'', edited by Peter K. Steinberg and Karen V. Kukil (2018, Faber and Faber)
+* ''Mary Ventura and the Ninth Kingdom'' (2019, Faber and Faber)<ref>{{Cite web|url=http://www.theguardian.com/books/2018/dec/29/exclusive-sylvia-plath-extract-mary-ventura-and-the-ninth-kingdom|title=Exclusive Sylvia Plath extract: Mary Ventura and the Ninth Kingdom|date=December 29, 2018|website=The Guardian}}</ref><ref>{{Cite web|url=https://www.vox.com/culture/2019/1/22/18188354/sylvia-plath-mary-ventura-and-the-ninth-kingdom-review|title=Sylvia Plath wrote this short story in 1952. It's now out in print for the first time.|first=Constance|last=Grady|date=January 22, 2019|website=Vox}}</ref>
+
+===Children's books===
+* ''The Bed Book'', illustrated by [[Quentin Blake]] (1976, Faber and Faber)
+* ''The It-Doesn't-Matter Suit'' (1996, Faber and Faber)
+* ''Mrs. Cherry's Kitchen'' (2001, Faber and Faber)
+* ''Collected Children's Stories'' (UK, 2001, Faber and Faber)
+
+==See also==
+{{portal|Poetry|Biography}}
+* [[Sylvia Plath effect]]
+
+==References==
+===Notes===
+{{notelist}}
+
+===Citations===
+{{reflist|30em}}
+
+===Sources===
+{{refbegin|30em}}
+* Alexander, Paul. (1991). ''Rough Magic: A Biography of Sylvia Plath''. New York: Da Capo Press. {{ISBN|0-306-81299-1}}.
+** ——— (2003). ''Rough Magic: A Biography of Sylvia Plath''. Cambridge, MA: Da Capo Press. {{ISBN|0-306-81299-1}}.
+* [[Al Alvarez|Alvarez, Al]]. (2007). ''Risky Business: People, Pastimes, Poker and Books''. London: Bloomsbury. {{ISBN|978-0-7475-8744-6}}.
+* Axelrod, Steven Gould. (1992). ''Sylvia Plath: The Wound and the Cure of Words''. Baltimore, MD: Johns Hopkins University. {{ISBN|0-8018-4374-X}}.
+* Badia, Janet and Phegley, Jennifer. (2005). ''Reading Women: Literary Figures and Cultural Icons from the Victorian Age to the Present''. University of Toronto Press. {{ISBN|0-8020-8928-3}}.
+* [[Jillian Becker|Becker, Jillian]]. (2003). ''Giving Up: The Last Days of Sylvia Plath''. New York: St Martins Press. {{ISBN|0-312-31598-8}}.
+* Brain, Tracy. (2001). ''The Other Sylvia Plath''. Harlow, Essex: Longman. {{ISBN|0-582-32729-6}}.
+* Brain, Tracy. (2006). [https://books.google.com/books?id=aMUkBQ-3mnUC&pg=PA11 "Dangerous Confessions: The Problem of Reading Sylvia Plath Biographically"]. ''Modern Confessional Writing: New Critical Essays''. Ed. Jo Gill. London: Routledge. pp. 11–32. {{ISBN|0-415-33969-3}}.
+* Brain, Tracy. (2007). "The Indeterminacy of the Plath Canon". In Helle (2007) pp. 17–38.
+* Brown, Sally and Taylor, Clare L. (2004), ''ODNB''. "Plath, Sylvia (1932–1963)". ''Oxford Dictionary of National Biography''. Oxford University Press. {{ISBN|0-19-861411-X}}.
+** ——— (2004), ''ODNB'' online. {{Cite ODNB|id=37855|title=Sylvia Plath}}<!-- is this title correct? -->
+* Butscher, Edward. (2003). ''Sylvia Plath: Method and Madness''. Tucson, AZ: Schaffner Press. {{ISBN|0-9710598-2-9}}.
+* Carmody, Denise Lardner and Carmody, John Tully. (1996). ''Mysticism: Holiness East and West''. Oxford University Press. {{ISBN|0-19-508819-0}}.
+* Christodoulides, Nephie. (2005). ''Out of the Cradle Endlessly Rocking: Motherhood in Sylvia Plath's Work''. Amsterdam: Rodopi. {{ISBN|90-420-1772-4}}.
+* [[Theodore Dalrymple|Dalrymple, Theodore]]. (2010). ''[[Spoilt Rotten: The Toxic Cult of Sentimentality]]''. London: Gibson Square Books. {{ISBN|1-906142-61-0}}.
+* Ferretter,Luke. (2009). ''[https://www.jstor.org/stable/10.3366/j.ctt1r25c0 Sylvia Plath's Fiction: A Critical Study]''. Edinburgh University Press. 1st ed. {{ISBN|0-7486-2510-0}}.
+* Gifford, Terry. (2008). ''[https://books.google.co.uk/books/about/Ted_Hughes.html?id=_2IMmQEACAAJ&redir_esc=y Ted Hughes]''. Routledge. {{ISBN|0-415-31189-6}}.
+* Gill, Jo. (2006). ''[https://www.google.co.uk/books/edition/The_Cambridge_Companion_to_Sylvia_Plath/Mj7Ox9Bmz6IC?hl=en&gbpv=1 The Cambridge Companion to Sylvia Plath]''. Cambridge University Press. {{ISBN|0-521-84496-7}}.
+* [[Ronald Hayman|Hayman, Ronald]]. (1991). ''The Death and Life of Sylvia Plath''. Secaucus, NJ: Carol Publishing. {{ISBN|1-55972-068-9}}.
+* Helle, Anita (Ed). (2007). ''[https://books.google.com/books?id=6YnYc0dhYXQC&pg=PR4 The Unraveling Archive: Essays on Sylvia Plath]''. Ann Arbor, MI: University of Michigan Press. {{ISBN|0-472-06927-6}}.
+* Hemphill, Stephanie. (2007). ''Your Own, Sylvia: A Verse Portrait of Sylvia Plath''. New York: Alfred A. Knopf. {{ISBN|0-375-83799-X}}.
+* Hughes, Frieda (2004). [https://www.bl.uk/20th-century-literature/articles/foreword-to-ariel-the-restored-edition "Foreword"]. In Plath, Sylvia. ''Ariel: The Restored Edition''. London: Faber and Faber. {{ISBN|0-06-073259-8}}. Via [[British Library]].
+* Kibler, James E. Jr (Ed.). (1980). ''American Novelists Since World War II''. 2nd ed. ''Dictionary of Literary Biography''. Volume 6. Detroit: A Bruccoli Clark Layman Book, The Gale Group. {{ISBN|0-8103-0908-4}}.
+* [[Connie Ann Kirk|Kirk, Connie Ann]]. (2004). ''[https://books.google.com/books?id=NBlJYGHVESwC&pg=PR7 Sylvia Plath: A Biography]''. Westport, CT: Greenwood Press. {{ISBN|0-313-33214-2}}.
+* [[Barry Kyle|Kyle, Barry]]. (1976). ''Sylvia Plath: A Dramatic Portrait; Conceived and Adapted from Her Writings''. London: Faber and Faber. {{ISBN|0-571-10698-6}}.
+* [[Janet Malcolm|Malcolm, Janet]]. (1995). ''The Silent Woman: Sylvia Plath and Ted Hughes''. New York: Vintage. {{ISBN|0-679-75140-8}}.
+* McCullough, Frances. (2005). "Introduction". In Plath, Sylvia. (2005) [Originally published 1963]. ''The Bell Jar''. New York: Perennial Classics. 1st Harper Perennial Classics ed. {{ISBN|0-06-093018-7}}.
+* [[Diane Middlebrook|Middlebrook, Diane]]. (2003). ''Her Husband: Hughes and Plath&nbsp;– a Marriage''. New York: Viking. {{ISBN|0-670-03187-9}}.
+* [[Robin Morgan|Morgan, Robin]]. (1970). ''[[Sisterhood Is Powerful: An Anthology of Writings from the Women's Liberation Movement]]''. New York: Random House. {{ISBN|0-394-45240-2}}.
+* Peel, Robin. (2007). "The Political Education of Sylvia Plath". In Helle (2007) pp.&nbsp;39–64.
+* Plath, Sylvia. (2000). ''The Unabridged Journals of Sylvia Plath''. Edited by Karen V. Kukil. New York: Anchor. {{ISBN|0-385-72025-4}}
+* Steinberg, Peter K. (2004). ''Sylvia Plath''. Philadelphia, PA: Chelsea House. {{ISBN|0-7910-7843-4}}.
+* [[Anne Stevenson|Stevenson, Anne]]. (1990) [originally published 1989]. ''Bitter Fame: A Life of Sylvia Plath''. London: Penguin. {{ISBN|0-14-010373-2}}.
+* Stevenson, Anne. "Plath, Sylvia". (1994). ''The Oxford Companion to Twentieth-Century Poetry in English''. Hamilton, Ian (Ed.). Oxford University Press. {{ISBN|0-19-866147-9}}.
+* Tabor, Stephen. (1988). ''Sylvia Plath: An Analytical Bibliography''. London: Mansell. {{ISBN|0-7201-1830-1}}.
+* Taylor, Robert. (1986). ''Saranac: America's Magic Mountain''. Boston: Houghton Mifflin. {{ISBN|0-395-37905-9}}.
+* Thomas, David N. (2008). ''Fatal Neglect: Who Killed Dylan Thomas?''. Bridgend: Seren. {{ISBN|978-1-85411-480-8}}.
+* [[Erica Wagner|Wagner, Erica]]. (2002). ''Ariel's Gift: Ted Hughes, Sylvia Plath, and the Story of [[Birthday Letters]]''. New York: W.W. Norton. {{ISBN|0-393-32301-3}}.
+* Wagner-Martin, Linda (Ed). (1988). ''Sylvia Plath (Critical Heritage)''. London: Routledge. {{ISBN|0-415-00910-3}}.
+* Wagner-Martin, Linda. (2003). ''Sylvia Plath: A Literary Life''. Basingstoke, Hampshire: Palgrave Macmillan. {{ISBN|0-333-63114-5}}.
+{{refend}}
+
+==Further reading==
+* {{cite book |first=Bruce |last=Bawer |editor-first=Harold |editor-last=Bloom |title=Sylvia Plath |chapter=Chapter 1:On Sylvia Plath and Confessional Poetry |pages=7–20 |chapter-url=https://books.google.com/books?id=6eQ_rw-oKBwC&q=on+sylvia+plath+and+confessional+poetry&pg=PA7 |publisher=Bloom's Literary Criticism |date=2007|isbn=9781438121710 }}
+*{{Cite book|last=Clark|first=Heather L.|url=https://www.worldcat.org/oclc/1128061536|title=Red Comet: The short life and blazing art of Sylvia Plath|publisher=Knopf|year=2020|isbn=978-0-307-96116-7|edition=First|location=New York|oclc=1128061536}}
+* {{cite journal |last=Egeland |first=M. |date=2014 |title=Before and After a Poet's Suicide: The Reception of Sylvia Plath |journal=International Journal of the Book |volume=11 |number=3 |pages=27–36|doi=10.18848/1447-9516/CGP/v11i03/37023 }}
+* {{cite journal |last=Miceli |first=Barbara |title=Sylvia Plath beyond the Confessional Poetry: A Close Reading of the Poem "On the Decline of Oracles" |url=https://scholar.google.it/citations?user=ENJ1Or4AAAAJ&hl=en |journal=Polifemo |publisher=Libera Università di Lingue e Comunicazione IULM |number=11–12 |year=2016 |pages=111–123}}
+* {{cite journal |last=Meyers |first=Jeffrey |date=June–July 2014 |title=Plath's rapist |journal=[[The London Magazine]] |pages=137–144}}
+* {{cite web |url=http://celestialtimepiece.com/2015/11/24/joyce-carol-oates-on-sylvia-plath/ |title=Essays on Plath |first=Joyce Carol |last=Oates |author-link=Joyce Carol Oates |date=November 24, 2015}}
+* {{cite journal |last=Parker |first=James |date=June 2013 |title=Why Sylvia Plath haunts us |department=The Culture File. The Omnivore |journal=[[The Atlantic]] |volume=311 |issue=5 |pages=34, 36 |url=https://www.theatlantic.com/magazine/archive/2013/06/why-sylvia-plath-haunts-american-culture/309310/ |access-date=July 6, 2015}}
+* {{cite news |last=Taylor |first=Tess |author-link=Tess Taylor |date=February 12, 2013 |title=Reading Sylvia Plath 50 Years After Her Death Is A Different Experience |work=[[NPR]] |url=https://www.npr.org/2013/02/12/171837305/reading-sylvia-plath-50-years-after-her-death-is-a-different-experience |access-date=July 11, 2017}}
+* {{cite journal |last1=Wadsworth |first1=F. B. |last2=Vasseur |first2=J. |last3=Damby |first3=D. E. |date=2017 |title=Evolution of vocabulary in the poetry of Sylvia Plath. |journal=Digital Scholarship in the Humanities |volume=32 |number=3 |pages=660–671}}
+
+==Further viewing==
+* {{cite AV media |title=The Lady in the Book – Sylvia Plath, portraits |first=Gesa |last=Matthies |location=France |date=2016 |url=https://www.smith.edu/poetrycenter/wp/the-lady-in-the-book/ |access-date=September 13, 2018 |archive-url=https://web.archive.org/web/20180914022331/https://www.smith.edu/poetrycenter/wp/the-lady-in-the-book/ |archive-date=September 14, 2018 |url-status=dead }}
+* {{cite AV media |url=https://www.anafilms.com/documentaire/the-lady-in-the-book/ |title=The lady in the book |publisher=Ana Films |access-date=September 13, 2018}}
+* [http://www.bbc.co.uk/poetryseason/poets/sylvia_plath.shtml BBC] profile and video. [https://www.bbc.co.uk/arts/poetry/outloud/plath.shtml BBC archive]. Plath reading "Lady Lazarus" from ''Ariel'' (sound file)
+
+==External links==
+{{sisterlinks|d=Q133054|s=Author:Sylvia Plath|wikt=no|b=no|v=no|voy=no|species=no|n=no|mw=no|m=no}}
+* {{Curlie|Arts/Literature/Authors/P/Plath%2C_Sylvia/}}
+* Peter K. Steinberg's [http://www.sylviaplath.info A celebration, this is]
+* [http://www.poets.org/poet.php/prmPID/11 Plath profile from American Academy of Poets]
+* [https://www.telegraph.co.uk/culture/culturepicturegalleries/8846565/Sylvia-Plath-drawings-at-The-Mayor-Gallery.html Sylvia Plath drawings at The Mayor Gallery] ''[[The Daily Telegraph]]''
+* {{FadedPage|id=Plath, Sylvia|name=Sylvia Plath|author=yes}}
+* [https://www.bl.uk/people/sylvia-plath Sylvia Plath] at the British Library
+* [http://voyager.library.uvic.ca/vwebv/holdingsInfo?bibId=2017999 Ted Hughes and Sylvia Plath collection] at University of Victoria, Special Collections
+*[https://rose.library.emory.edu/ Stuart A. Rose Manuscript, Archives, and Rare Book Library], Emory University: [http://pid.emory.edu/ark:/25593/mp32k Sylvia Plath collection, 1952–1989]
+*[https://rose.library.emory.edu/ Stuart A. Rose Manuscript, Archives, and Rare Book Library], Emory University: [http://pid.emory.edu/ark:/25593/v42kp Harriet Rosenstein research files on Sylvia Plath, 1910–2018]
+*[https://findingaids.smith.edu/repositories/3/resources/1282 Sylvia Plath Collection] at the [[Mortimer Rare Book Collection]], Smith College Special Collections
+
+{{Sylvia Plath|state=expanded}}
+{{PulitzerPrize PoetryAuthors 1976–2000}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Plath, Sylvia}}
+[[Category:Sylvia Plath| ]]
+[[Category:1932 births]]
+[[Category:1963 suicides]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American poets]]
+[[Category:20th-century American women writers]]
+[[Category:20th-century American short story writers]]
+[[Category:20th-century essayists]]
+[[Category:Alumni of Newnham College, Cambridge]]
+[[Category:American child writers]]
+[[Category:American diarists]]
+[[Category:American essayists]]
+[[Category:American expatriates in England]]
+[[Category:American people of Austrian descent]]
+[[Category:American people of German descent]]
+[[Category:American Unitarians]]
+[[Category:American women essayists]]
+[[Category:American women novelists]]
+[[Category:American women poets]]
+[[Category:American women short story writers]]
+[[Category:Burials in West Yorkshire]]
+[[Category:Glascock Prize winners]]
+[[Category:McLean Hospital patients]]
+[[Category:Novelists from Massachusetts]]
+[[Category:People from Jamaica Plain]]
+[[Category:People from Winthrop, Massachusetts]]
+[[Category:People with mood disorders]]
+[[Category:Poets from Massachusetts]]
+[[Category:Pseudonymous women writers]]
+[[Category:Pulitzer Prize for Poetry winners]]
+[[Category:Smith College alumni]]
+[[Category:Suicides by carbon monoxide poisoning]]
+[[Category:Suicides by gas]]
+[[Category:Suicides in London]]
+[[Category:Wellesley High School alumni]]
+[[Category:Women diarists]]
+[[Category:Writers from Boston]]
+[[Category:Ted Hughes]]
+[[Category:20th-century pseudonymous writers]]
+[[Category:20th-century diarists]]

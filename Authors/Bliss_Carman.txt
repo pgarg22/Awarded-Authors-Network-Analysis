@@ -1,0 +1,268 @@
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| honorific_suffix = {{Post-nominals|country=CAN|FRSC|size=100%}}
+| image         = Bliss Carman cph.3b15835.jpg
+| imagesize     = 
+| alt           = 
+| caption       = Photo by [[Pirie MacDonald]]
+| pseudonym     = 
+| birth_name    = William Bliss Carman
+| birth_date    = {{birth date|1861|04|15}}
+| birth_place   = Fredericton, New Brunswick
+| death_date    = {{death date and age|1929|06|08|1861|04|15}}
+| death_place   = New Canaan, Connecticut
+| resting_place = Fredericton, New Brunswick
+| occupation    = poet
+| language      = English
+| nationality   = Canadian
+| citizenship   = British subject
+| education     = University of New Brunswick; University of Edinburgh; Harvard University 
+| genre         = Poetry
+| movement      = [[Confederation Poets]], [[The Song Fishermen]]
+| notableworks  = ''Low Tide on Grand Pré, <br /> Songs from Vagabondia, <br /> Sappho: 100 Lyrics''
+| awards        = [[Lorne Pierce Medal]] <small>(1928)</small><br />[[Robert Frost Medal]] <small>(1930)</small><br />FRSC
+}}
+
+'''William Bliss Carman''' {{Post-nominals|country=CAN|FRSC}} (April 15, 1861 – June 8, 1929) was a [[Canadian poetry|Canadian poet]]  who lived most of his life in the United States, where he achieved international fame. He was acclaimed as Canada's [[poet laureate]]<ref>Not to be confused with the official title of [[Canadian Parliamentary Poet Laureate]] which exists since 2001.</ref> during his later years.<ref>{{cite encyclopedia |title=Carman, Bliss |work=Encyclopedia of Canada|location=Toronto|publisher=University Associates|date=1948|volume=I |page=392}}</ref><ref name="adams">{{cite book|first=John Coldwell|last=Adams|chapter-url=http://www.canadianpoetry.ca/confederation/John%20Coldwell%20Adams/Confederation%20Voices/chapter%203.html|chapter=III - Bliss Carman (1861-1929)|title=Confederation Voices: Seven Canadian Poets |publisher=[[Canadian Poetry Press]]|date=2007|access-date=March 23, 2011}}</ref>
+
+In Canada, Carman is classed as one of the [[Confederation Poets]], a group which also included [[Charles G.D. Roberts]] (his cousin), [[Archibald Lampman]], and [[Duncan Campbell Scott]].<ref>{{cite book |first=Malcolm |last=Ross |chapter=Introduction |title=Poets of the Confederation: Carman, Lampman, Roberts, Scott |location=Toronto |publisher=[[McClelland & Stewart]] |date=1960 |page=vii |url={{google books|E3IIAQAAIAAJ|plainurl=yes|page=vii}} |access-date=September 23, 2015}}.</ref> "Of the group, Carman had the surest lyric touch and achieved the widest international recognition. But unlike others, he never attempted to secure his income by novel writing, popular journalism, or non-literary employment. He remained a poet, supplementing his art with critical commentaries on literary ideas, philosophy, and aesthetics."<ref name="vincent">{{cite web|first=Thomas B.|last=Vincent|url=http://hpcanpub.mcmaster.ca/case-study/bliss-carman-life-literary-publishing|title=Bliss Carman: A Life in Literary Publishing|website=Historical Perspectives on Canadian Publishing|publisher=McMaster University|access-date=March 23, 2011|url-status=dead|archive-url=https://web.archive.org/web/20110724204654/http://hpcanpub.mcmaster.ca/case-study/bliss-carman-life-literary-publishing|archive-date=July 24, 2011}}</ref>
+
+==Life==
+He was born '''William Bliss Carman''' in [[Fredericton]], [[New Brunswick]]. "Bliss" was his mother's maiden name. He was the great grandson<ref>Of Loyalist Richard Carman who landed in Saint John NB in 1783, according to Carman Family Scrapbook #2, microfilm F10048 at New Brunswich Archives, scrapbook compiled by the Rev. Wm. O. Raymond, undated but likely around 1900 http://archives.gnb.ca/Archives/Default.aspx?culture=en-CA</ref> of [[United Empire Loyalists]] who fled to [[Nova Scotia]] after the [[American Revolution]], settling in [[New Brunswick]] (then part of Nova Scotia).<ref name="DCB">{{cite DCB|title=Carman, William Bliss|first=D.M.R.|last=Bentley|volume=15|url=http://www.biographi.ca/en/bio/carman_william_bliss_15E.html|accessdate=September 23, 2015}}</ref> His literary roots run deep with an ancestry that includes a mother who was a descendant of Daniel Bliss of Concord, Massachusetts, the great-grandfather of [[Ralph Waldo Emerson]]. His sister, Jean, married the botanist and historian [[William Francis Ganong]]. And on his mother's side he was a first cousin to Charles (later Sir Charles) G. D. Roberts.<ref name="adams"/>
+
+===Education and early career===
+Carman was educated at the [[Fredericton Collegiate School]] and the [[University of New Brunswick]] (UNB), from which he received a [[Bachelor of Arts|B.A.]] in 1881. At the Collegiate School he came under the influence of headmaster [[George Robert Parkin]], who gave him a love of [[classical literature]]<ref name=hodd/> and introduced him to the poetry of [[Dante Gabriel Rossetti]] and [[Algernon Charles Swinburne]].<ref name="robertsadams">{{cite web |first=John Coldwell |last=Adams |url=http://www.canadianpoetry.ca/confederation/John%20Coldwell%20Adams/Confederation%20Voices/chapter%202.html |title=Sir Charles G.D. Roberts |work=Confederation Voices: Seven Canadion Poets |publisher=Canadian Poetry Press |date=2007 |access-date=March 2, 2011 |archive-url=https://web.archive.org/web/20150923200130/http://www.canadianpoetry.ca/confederation/John%20Coldwell%20Adams/Confederation%20Voices/chapter%202.html |archive-date=September 23, 2015 |url-status=dead }}</ref> His first published poem was in the ''UNB Monthly'' in 1879. He  then spent a year at [[Oxford University|Oxford]] and the [[University of Edinburgh]] (1882–1883), but returned home to receive his [[Master of Arts|M.A.]] from UNB in 1884.<ref name=allan>Kelsey Allan, "William Bliss Carman," ''New Brunswick Literary Encyclopedia, STU.ca, Web, Apr. 16, 2011.</ref>
+
+After the death of his father in January 1885 and his mother in February 1886,<ref name=allan/> Carman enrolled in [[Harvard University]] (1886–1887).<ref name="DCB"/> At Harvard he moved in a literary circle that included [[American poetry|American poet]] [[Richard Hovey]], who would become his close friend and his collaborator on the successful ''Vagabondia'' poetry series.<ref>{{cite encyclopedia|title=Bliss Carman|work=The Oxford Companion to Canadian Literature|edition=2nd|editor-first1=Eugene|editor-last1=Benson|editor-first2=William|editor-last2=Toye|date=2006|location=Don Mills, Ontario|publisher=[[Oxford University Press]]|url=http://www.oxfordreference.com/view/10.1093/acref/9780195411676.001.0001/acref-9780195411676-e-236?rskey=1W55WL&result=1|isbn=978-0-1917-3514-1|access-date=September 24, 2015|url-access=subscription }}</ref> Carman and Hovey were members of the "[[Visionists]]" circle along with Herbert Copeland and F. Holland Day, who would later form the Boston publishing firm Copeland & Day that would launch ''Vagabondia''.<ref name="adams"/>
+
+After Harvard Carman briefly returned to Canada, but was back in [[Boston]] by February 1890. "Boston is one of the few places where my critical education and tastes could be of any use to me in earning money," he wrote. "New York and [[London]] are about the only other places."<ref name="vincent"/> Unable to find employment in Boston, he moved to [[New York City]] and became literary editor of the ''New York Independent'' at the grand sum of $20/week.<ref name="vincent"/> There he could help his Canadian friends get published, in the process "introducing Canadian poets to its readers."<ref name="gundy">{{cite encyclopedia |first=H.P. |last=Gundy |url=http://www.thecanadianencyclopedia.ca/en/article/bliss-carman/ |date=February 7, 2008 |title=Bliss Carman |encyclopedia=[[The Canadian Encyclopedia]] |publisher=[[Historica Canada]] |edition=online |access-date=September 23, 2015}}</ref> However, Carman was never a good fit at the semi-religious weekly, and he was summarily dismissed in 1892. "Brief stints would follow with ''Current Literature'', ''[[Cosmopolitan (magazine)|Cosmopolitan]]'', ''[[The Chap-Book]]'', and ''[[The Atlantic Monthly]]'', but after 1895 he would be strictly a contributor to the magazines and newspapers, never an editor in any department."<ref name="adams"/>
+
+To make matters worse, Carman's first book of poetry, 1893's ''[[#Grand|Low Tide on Grand Pré]]'', was not a success; no Canadian company would publish it, and the U.S. edition stiffed when its publisher went [[bankrupt]].<ref name="vincent"/>
+
+===Literary success===
+At this low point, ''[[#Vagabondia|Songs of Vagabondia]],'' the first Hovey-Carman collaboration, was published by Copeland & Day in 1894. It was an immediate success. "No one could have been more surprised at the tremendous popularity of these care-free celebrations (the first of the three collections went through seven rapid editions) than the young authors, Richard Hovey and Bliss Carman."<ref>{{cite encyclopedia |editor-first=Louis |editor-last=Untermayer |chapter=Preface |url={{google books|Xb8dRuY6jEUC|plainurl=yes|page=xxvii}} |work=Modern American Poetry |location=New York |publisher=[[Harcourt, Brace]] |date=1921 |edition=2nd |page=xxvii |ref=Untermayer |access-date=September 24, 2015}}.</ref> ''Songs of Vagabondia'' would ultimately "go through sixteen printings (ranging from 500 to 1000 copies) over the next thirty years. The three ''Vagabondia'' volumes that followed fell slightly short of that record, but each went through numerous printings. Carman and Hovey quickly found themselves with a cult following, especially among college students, who responded to the poetry's anti-materialistic themes, its celebration of individual freedom, and its glorification of comradeship."<ref name="adams"/>
+
+The success of ''Songs of Vagabondia'' prompted another Boston firm, Stone & Kimball, to reissue ''Low Tide...'' and to hire Carman as the editor of its literary journal, ''The Chapbook''. The next year, though, the editor's job went West (with Stone & Kimball) to Chicago, while Carman opted to remain in Boston.<ref name="vincent"/>
+
+"In Boston in 1895, he worked on a new poetry book, ''[[#Arras|Behind the Arras]]'', which he placed with a prominent Boston publisher (Lamson, Wolffe).... He published two more books of verse with Lamson, Wolffe."<ref name="vincent"/> He also began writing a weekly column for the Boston ''Evening Transcript'', which ran from 1895 to 1900.<ref name="DCB"/>
+
+In 1896 Carman met Mary Perry King, who became the greatest and longest-lasting female influence in his life. Mrs. King became his patron: "She put pence in his purse, and food in his mouth, when he struck bottom and, what is more, she often put a song on his lips when he despaired, and helped him sell it."  According to Carman's roommate, [[Mitchell Kennerley]], "On rare occasions they had intimate relations at 10 E. 16 which they always advised me of by leaving a bunch of violets — Mary Perry's favorite flower — on the pillow of my bed."<ref>{{cite journal |first=H. Pearson |last=Gundy |title=Kennerley on Carman |journal=Canadian Poetry: Studies/Documents/Reviews |publisher=Canadian Poetry Press |volume=14 |date=Spring–Summer 1984 |url=http://www.canadianpoetry.ca/cpjrn/vol14/gundy.htm |access-date=September 24, 2015 |archive-url=https://web.archive.org/web/20160304202401/http://www.canadianpoetry.ca/cpjrn/vol14/gundy.htm |archive-date=March 4, 2016 |url-status=dead }}</ref> If he knew of the latter, Dr. King did not object: "He even supported her involvement in the career of Bliss Carman to the extent that the situation developed into something close to a ''[[ménage à trois]]''" with the Kings.<ref name="adams"/>
+
+Through Mrs. King's influence Carman became an advocate of 'unitrinianism,' a philosophy which "drew on the theories of [[François Delsarte|François-Alexandre-Nicolas-Chéri Delsarte]] to develop a strategy of mind-body-spirit harmonization aimed at undoing the physical, psychological, and spiritual damage caused by urban modernity."<ref name="DCB"/> This shared belief created a bond between Mrs. King and Carman but estranged him somewhat from his former friends.{{citation needed|date=April 2016}}
+
+In 1899 Lamson, Wolffe was taken over by the Boston firm of Small, Maynard & Co., who had also acquired the rights to ''Low Tide...'' "The rights to all Carman's books were now held by one publisher and, in lieu of earnings, Carman took a financial stake in the company. When Small, Maynard failed in 1903, Carman lost all his assets."<ref name="vincent"/>
+
+Down but not out, Carman signed with another Boston company, [[L.C. Page & Company|L.C. Page]], and began to churn out new work. Page published seven books of new Carman poetry between 1902 and 1905. As well, the firm released three books based on Carman's ''Transcript'' columns, and a prose work on unitrinianism, ''[[#Personality|The Making of Personality]]'', that he'd written with Mrs. King.<ref name="gundy"/> "Page also helped Carman rescue his 'dream project,' a deluxe edition of his collected poetry to 1903.... Page acquired distribution rights with the stipulation that the book be sold privately, by subscription. The project failed; Carman was deeply disappointed and became disenchanted with Page, whose grip on Carman's copyrights would prevent the publication of another collected edition during Carman's lifetime."<ref name="vincent"/>
+
+Carman also picked up some needed cash in 1904 as editor-in-chief of the 10-volume project, The World's Best Poetry''.<ref name="DCB"/>
+
+===Later years===
+[[File:BlissCarmamMem2 2014.jpg|thumb|Bliss Carman Memorial, Forest Hill Cemetery, Fredericton NB]]
+After 1908 Carman lived near the Kings' [[New Canaan, Connecticut]], estate, "Sunshine", or in the summer in a cabin near their summer home in the [[Catskills]], "Moonshine."<ref name="adams"/> Between 1908 and  1920, literary taste began to shift, and his fortunes and health declined.<ref name="vincent"/>
+
+"Although not a political activist, Carman during the [[First World War]] was a member of the Vigilantes, who supported American entry into the conflict on the [[Allies of World War I|Allied]] side."<ref name="parker">{{cite encyclopedia|last=George L.|first=Parker|url=http://www.jrank.org/literature/pages/7543/Bliss-Carman.html|title=Bliss Carman biography (1861-1929)|work=Encyclopedia of Literature|access-date=March 25, 2011|url-status=dead|archive-url=https://web.archive.org/web/20110822054856/http://www.jrank.org/literature/pages/7543/Bliss-Carman.html |archive-date=August 22, 2011 }}</ref>
+
+By 1920, Carman was impoverished and recovering from a near-fatal attack of [[tuberculosis]].<ref name="parker"/> That year he revisited Canada and "began the first of a series of successful and relatively lucrative reading tours, discovering 'there is nothing worth talking of in book sales compared with reading.'"<ref name="vincent"/> "'Breathless attention, crowded halls, and a strange, profound enthusiasm such as I never guessed could be,' he reported to a friend. 'And  good thrifty money too. Think of it! An entirely new life for me, and I am the most surprised person in Canada.'" Carman was feted at "a dinner held by the newly formed Canadian Authors' Association at the [[Ritz-Carlton Montreal|Ritz Carlton Hotel in Montreal]] on 28 October 1921 where he was crowned Canada's Poet Laureate with a wreath of maple leaves."<ref name="adams"/>
+
+The tours of Canada continued, and by 1925 Carman had finally acquired a Canadian publisher. "[[McClelland & Stewart]] (Toronto) issued a collection of selected earlier verses and became his main publisher. They benefited from Carman's popularity and his revered position in Canadian literature, but no one could convince L.C. Page to relinquish its copyrights. An edition of collected poetry was published only after Carman's death, due greatly to the persistence of his literary executor, [[Lorne Pierce]]."<ref name="vincent"/>
+
+During the 1920s, Carman was a member of the [[Halifax Regional Municipality|Halifax]] literary and social set, [[The Song Fishermen]]. In 1927 he edited ''The Oxford Book of American Verse''.<ref>{{cite web|url=https://books.google.com/books?id=1k8GAQAAIAAJ&focus=searchwithinvolume&q=carman|title=The Oxford book of American verse|first=Bliss|last=Carman|date=30 December 2017|publisher=Oxford University Press|access-date=30 December 2017|via=Google Books}}</ref>
+
+Carman died of a [[brain hemorrhage]] at the age of 68 in New Canaan, and was [[cremated]] in New Canaan. "It took two months, and the influence of [[Premier of New Brunswick|New Brunswick's Premier]] [[John B. M. Baxter|J.B.M. Baxter]] and [[Canadian Prime Minister]] [[W.L.M. King]], for Carman's ashes to be returned to Fredericton."<ref name=allan/>  "His ashes were buried in Forest Hill Cemetery, Fredericton, and a national memorial service was held at the [[Christ Church Cathedral (Fredericton)|Anglican cathedral]] there." Twenty-five years later, on May 13, 1954, a scarlet maple tree was planted at his gravesite, to grant his request in his 1892 poem "The Grave-Tree":<ref name="DCB"/>
+
+:::Let me have a scarlet maple
+:::For the grave-tree at my head,
+:::With the quiet sun behind it,
+:::In the years when I am dead.
+
+==Writing==
+
+===''Low Tide on Grand Pré''===
+As a student at Harvard, Carman "was heavily influenced by [[Josiah Royce|Royce]], whose spiritualistic [[idealism]], combined with the [[transcendentalism]] of [[Ralph Waldo Emerson]], lies centrally in the background of his first major poem, "Low Tide on Grand Pré" written in the summer and winter of 1886."<ref name="DCB"/> "Low Tide..." was published in the Spring, 1887 ''[[The Atlantic|Atlantic Monthly]]'', giving Carman a literary reputation while still at Harvard.<ref name="vincent"/> It was also included in the 1889 anthology, ''[[Songs of the Great Dominion]].''
+
+[[Literary critic]] [[Desmond Pacey]] considered "Low Tide..." to be "the most nearly perfect single poem to come out of Canada. It will withstand any amount of critical scrutiny."<ref name=ware>{{cite journal |first=Tracy |last=Ware |url=http://www.canadianpoetry.ca/cpjrn/vol14/ware.htm |title=The Integrity of Carman's 'Low Tide on Grand Pré' |journal=Canadian Poetry: Studies/Documents/Reviews |publisher=Canadian Poetry Press |volume=14 |date=Spring–Summer 1984 |access-date=April 16, 2011 |archive-url=https://web.archive.org/web/20120812043234/http://www.canadianpoetry.ca/cpjrn/vol14/ware.htm |archive-date=August 12, 2012 |url-status=dead }}</ref>
+
+"Low Tide..." served as the title poem for Carman's first book. "The poems in this volume have been collected with reference to their similarity of tone," Carman wrote in his preface; a [[Nostalgia|nostalgic]] tone of pervading loss and melancholy. Three outstanding examples are "The Eavesdropper," "In Apple Time" and "Wayfaring." However, "none can equal the artistry of the title poem. What is more, although Carman would publish over thirty other volumes during his lifetime, none of them contains anything that surpasses this poem he wrote  when he was barely twenty-five years old."<ref name="adams"/>
+
+===''Vagabondia''===
+Carman rose to prominence in the 1890s, a decade the poetry of which anthologist [[Louis Untermeyer]] has called marked by "a cheerless evasion, a humorous unconcern; its most representative craftsmen were, with four exceptions, the writers of light verse." The first two of those four exceptions were Richard Hovey and Bliss Carman. For Untermeyer: "The poetry of this period ... is dead because it detached itself from the world.... But ... revolt openly declared itself with the publication of ''[[#Vagabondia|Songs from Vagabondia]]'' (1894), ''[[#MoreVagabondia|More Songs from Vagabondia]]'' (1896), and ''[[#LastVagabondia|Last Songs from Vagabondia]]'' (1900).... It was the heartiness, the gypsy jollity, the rush of high spirits, that conquered. Readers of the ''Vagabondia'' books were swept along by their speed faster than by their philosophy."<ref>[[#Untermayer|Untermayer (1921)]], p. xxviii</ref>
+
+Even [[Modernist poetry|modernists]] loved ''Vagabondia''. In the "October, 1912 issue of the ''London Poetry Review,'' [[Ezra Pound]] noted that he had 'greatly enjoyed ''The Songs of Vagabondia'' by Mr. Bliss Carman and the late Richard Hovey.'"<ref name="bentley">{{cite journal |first=D.M.R. |last=Bentley |url=http://www.canadianpoetry.ca/cpjrn/vol14/bentley.htm |title=Preface: Minor Poets of a Superior Order |volume=14 |date=Spring–Summer 1984 |journal=Canadian Poetry: Studies/Documents/Reviews |publisher=Canadian Poetry Press |access-date=March 24, 2011}}</ref>
+
+Carman's most famous poem from the first volume is arguably "The Joys of the Open Road." ''More Songs...'' contains "A Vagabond Song," once familiar to a generation of Canadians. "Canadian youngsters who were in grade seven anytime between the mid-1930s and the 1950s were probably exposed to ... 'A Vagabond Song' [which] appeared in ''The Canada Book of Prose and Verse, Book One'', the school reader that was used in nearly every province" (and was edited by Lorne Pierce).<ref name="adams"/>
+
+In 1912 Carman would publish ''[[#EchoesVagabondia|Echoes from Vagabondia]]'' as a solo work. (Hovey had died in 1900). More of a remembrance book than part of the set, it has a distinct elegiac tone. It contains the lyric "The Flute of Spring".<ref>{{Cite web|url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/echoes_vagabondia/the_flute_of_spring.htm|title=Bliss Carman - Echoes from Vagabondia - Confederation Poets - Canadian Poetry|website=www.canadianpoetry.ca|access-date=2018-02-01|archive-url=https://web.archive.org/web/20160612044511/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/echoes_vagabondia/the_flute_of_spring.htm|archive-date=2016-06-12|url-status=dead}}</ref>
+
+===''Behind the Arras''===
+With ''[[#Arras|Behind the Arras]]'' (1895), Carman continued his practice of "bringing together poems that were 'in the same key.' Whereas ''Low Tide on Grand Pré'' is elegiacal and melancholy, ''Songs from Vagabondia'' is mostly light and jaunty, while ''Behind the Arras'' is philosophical and heavy."<ref name="adams"/>
+
+"Behind the Arras" the poem is a long meditation that uses the speaker's house and its many rooms as a symbol of life and its choices. The poem does not succeed: "there are so many asides that the allegory is lost along with any point the poet hoped to make."<ref name="adams"/>
+
+===''Ballad of Lost Haven''===
+In keeping with the "same key" idea, Carman's ''Ballad of Lost Haven'' (1897) was a collection of poetry about the sea. Its notable poems include the [[macabre]] [[sea shanty]] ''The Gravedigger''.<ref>{{Cite web|url=https://www.bookrix.com/book.html?bookID=librarian_1251882525.9794800282#0,522,41328|title=Ballads of Lost Heaven (Bliss Carman)|website=www.bookrix.com|language=de|access-date=2017-01-20}}</ref>
+
+===''By the Aurelian Wall''===
+"By the Aurelian Wall" is Carman's [[elegy]] to [[John Keats]]. It served as the title poem of his 1898 collection, a book of [[#Aurelian|formal elegies]].
+
+In the last poem in the book, "The Grave-Tree," Carman writes about his own death.{{citation needed|date=April 2016}}
+
+===''The Pipes of Pan''===
+"[[Pan (god)|Pan]], the goat-god, traditionally associated with poetry and with the fusion of the earthly and the divine, becomes Carman's organizing symbol in the five volumes issued between 1902 and 1905" under the above title.<ref name="parker"/> Under the influence of Mrs. King, Carman had begun to write in both prose and poetry about the ideas of 'unitrinianism,' "a strategy of mind-body-spirit harmonization aimed at undoing the physical, psychological, and spiritual damage caused by urban modernity ... therapeutic ideas [which] resulted in the five volumes of verse assembled in ''Pipes of Pan''." The ''Dictionary of Canadian Biography (DCB)'' calls the series  "a collection that contains many superb lyrics but, overall, evinces the dangers of a soporific aesthetic."<ref name="DCB"/>
+
+The 'superb lyrics' include the much-anthologized "The Dead Faun" from Volume I, ''From the Book of Myths''; "From the Green Book of the Bards", the title poem of Volume II; "Lord of My Heart's Elation" from the same volume; and many of the erotic poems of Volume III, ''Songs of the Sea Children'' (such as LIX "I loved you when the tide of prayer"). As a whole, though, the Pan series shows (perhaps more than any other work) the truth of [[Northrop Frye]]'s 1954 observation that Carman "badly needs a skillful and sympathetic selection."
+
+===''Sappho: One Hundred Lyrics''===
+{{Main|Sappho: One Hundred Lyrics}}
+[[File:sappho.png|thumb|First edition of ''Sappho'', 1904.]]
+There were no such problems with Carman's next book. Perhaps because of the underlying concept, ''[[#Sappho|Sappho: One Hundred Lyrics]]'' (1904) has a structure and unity that helps make it what has been called Carman's "finest volume of poetry."<ref name="DCB"/>
+
+[[Sappho]] was an [[Ancient Greece|Ancient Greek]] poet from the island of [[Lesbos]], who was  included in the Greek [[Western canon|canon]] of [[nine lyric poets]]. Most of her poetry, which was well-known and greatly admired throughout antiquity, has been lost, but her reputation has endured, supported by the surviving fragments of some of her poems.<ref>{{cite web|title=Sappho|website=Poets.org|publisher=Academy of American Poets|location=New York|url=https://www.poets.org/poetsorg/poet/sappho|access-date=September 24, 2015}}</ref>
+
+Carman's method, as Charles G.D. Roberts saw it in his Introduction to the book,"apparently, has been to imagine each lost lyric as discovered, and then to translate it; for the indefinable flavor of the translation is maintained throughout, though accompanied by the fluidity and freedom of purely original work." It was a daunting task, as Roberts admits: "It is as if a sculptor of to-day were to set himself, with reverence, and trained craftsmanship, and studious familiarity with the spirit, technique, and atmosphere of his subject, to restore some statues of [[Polykleitos|Polyclitus]] or [[Praxiteles]] of which he had but a broken arm, a foot, a knee, a finger upon which to build."<ref>{{cite web|first=Bliss|last=Carman|title=Introduction by Charles G.D. Roberts|work=Sappho: One Hundred Lyrics|publisher=Canadian Poetry Press|url=http://www.uwo.ca/english/canadianpoetry/confederation/Bliss%20Carman/sappho/introduction.htm|access-date=March 24, 2011}}</ref> Yet, on the whole, Carman succeeded.
+
+"Written more or less contemporaneously with the love poems in ''Songs of the Sea Children'', the Sappho reconstructions continue the amorous theme from a feminine point of view. Nevertheless, the feelings ascribed to Sappho are pure Carman in their sensitive and elegiac melancholy."<ref name="adams"/>
+
+Virtually all of the lyrics are of high quality; some often-quoted are XXIII ("I loved thee, Atthis, in the long ago,"), LIV ("How soon will all my lovely days be over"), LXXIV ("If death be good"), LXXXII ("Over the roofs the honey-coloured moon").{{citation needed|date=April 2016}}
+
+"Next to ''Low Tide on Grand Pré'',  ''Sappho: One Hundred Lyrics'' seems to be the collection that continues to find the most favour among Carman's critics. D.M.R. Bentley, for example, calls it 'undoubtedly one of the most attractive, engaging and satisfying works of any of the Confederation poets.'"<ref name="adams"/> Bentley argued that "the brief, crisp lyrics of the ''Sappho'' volume almost certainly contributed to the aesthetic and practice of [[Imagism]].<ref name=bentley1>{{cite journal|first=D.M.R.|last=Bentley|url=http://www.canadianpoetry.ca/cpjrn/vol14/bentley.htm|title=Preface: Minor Poets of a Superior Order|journal=Canadian Poetry: Studies/Documents/Reviews |publisher=Canadian Poetry Press|volume=14|date=Spring–Summer 1984|access-date=April 16, 2011}}</ref>
+
+===Later work===
+In his review of 1954's ''Selected Poems of Bliss Carman'', [[literary critic]] [[Northrop Frye]] compared Carman and the other Confederation Poets to the [[Group of Seven (artists)|Group of Seven]]: "Like the later painters, these poets were lyrical in tone and romantic in attitude; like the painters, they sought for the most part uninhabited landscape." But Frye added: "The lyrical response to landscape is by itself, however, a kind of emotional photography, and like other forms of photography is occasional and epigrammatic.... Hence the lyric poet, after he has run his gamut of impressions, must die young, develop a more intellectualized attitude, or start repeating himself. Carman's meeting of this challenge was only partly successful."<ref>{{cite book |first=Northrop |last=Frye |chapter-url=http://northropfrye-thebushgarden.blogspot.com/2009/02/from-letters-in-canada-1954.html |chapter=Letters in Canada - 1954 |title=The Bush Garden Essays on the Canadian Imagination |location=Toronto |publisher=House of Anansi |date=1995 |orig-year=1971 |edition=2nd. |page=34 |access-date=September 24, 2015}}</ref>
+
+It is true that Carman had begun to repeat himself after ''Sappho.'' "Much of Carman's writing in poetry and prose during the decade preceding World War I is as repetitive as the title of ''Echoes from Vagabondia'' (1912) intimates" says the ''DCB''.<ref name="DCB"/> What had made his poetry so remarkable at the beginning &ndash; that every new book was completely new &ndash; was gone.
+
+However, Carman's career was by no means over. He "published four other collections of new poetry during his lifetime and two more were ready for publication at the time of his death: ''[[#Rough|The Rough Rider, and Other Poems]]'' (1908), ''[[#Painter|A Painter's Holiday, and Other Poems]]'' (1911), ''[[#April|April Airs]]'' (1916), ''[[#Horizons|Far Horizons]]'' (1925), ''[[#Sanctuary|Sanctuary]]'' (1929), and ''[[#Wild|Wild Garden]]'' (1929). James Cappon's comment on ''Far Horizons'' applies almost equally to the other five volumes: 'There is nothing new in its poetic quality which has the sweet sadness of age rehearsing old tunes with an art which is now very smooth though with less vivacity than it used to have.'"<ref name="adams"/>
+
+Not only did Carman continue to write, but he continued to write fine poems: poems such as "The Old Grey Wall" (''April Airs''), the [[Wilfred Campbell]]-ish "Rivers of Canada" (''Far Horizons''), "The Ghost-yard of the Goldenrod" and "The Ships of Saint John" (''[[#LaterPoems|Later Poems]]'', 1926), and "The Winter Scene" (''Sanctuary: The "Sunshine House" sonnets''). The best of these have the same nostalgic air of melancholy and loss with which Carman began in "Low Tide...," but now even more poignant as the poet approached his own death.
+
+==Recognition==
+In 1906 Carman received honorary degrees from UNB  and [[McGill University]].<ref name=allan/> He was elected a corresponding Fellow of the Royal Society of Canada in 1925.<ref name="DCB"/> The Society awarded him its Lorne Pierce Gold Medal in 1928.<ref name="gundy"/> He was awarded a medal from the American Academy of Arts and Letters in 1929.<ref name=allan/>
+
+In 1945, Carman was recognized as a [[Persons of National Historic Significance|Person of National Historic Significance]] by the government of Canada.<ref>{{DFHD|10186|Carman, Bliss National Historic Person}}</ref>
+
+Carman is honored by a sculpture erected on the UNB campus in 1947, which portrays him with fellow poets Sir Charles G.D. Roberts and [[Francis Joseph Sherman]].<ref name=hodd>{{cite encyclopedia|first=Thomas|last=Hodd|url=http://w3.stu.ca/stu/sites/nble/r/roberts_g_d.html|title=Charles G.D. Roberts|work=New Brunswick Literary Encyclopedia|publisher=St. Thomas University|edition=online|access-date=April 16, 2011|archive-url=https://web.archive.org/web/20150813182707/http://w3.stu.ca/stu/sites/nble/r/roberts_g_d.html|archive-date=August 13, 2015|url-status=dead}}</ref>
+
+Bliss Carman Middle School in [[Fredericton]], [[New Brunswick]]<ref>{{cite web|title=Home Page|website=Bliss Carman Middle School|url=http://blisscarman.nbed.nb.ca|access-date=September 24, 2015}}</ref> and Bliss Carman Senior Public School in [[Toronto]], [[Ontario]]<ref>{{cite web|title=Home Page|website=Bliss Carman Senior Public School|publisher=Toronto District School Board|url=http://schoolweb.tdsb.on.ca/blisscarman/Home.aspx|access-date=September 24, 2015}}</ref> were named after him.
+
+"Bliss Carman Heights" (an extension of the Skyline Acres subdivision) is a subdivision located in Fredericton, New Brunswick overlooking the [[Saint John River (Bay of Fundy)|Saint John River]]. It consists of Essex Street, Gloucester Crescent, Reading Street, Ascot Court, and Ascot Drive. An extension of the Bliss Carman Heights subdivision is named "Poet's Hill" and consists of Bliss Carman Drive, Poets Lane and Windflower Court (named for one of Carman's poems of the same name).{{citation needed|date=April 2016}}
+
+In October 1916, American composer [[Leo Sowerby]] was inspired to write his best-known organ piece, "[[Comes Autumn Time]]," after reading Carman's poem, "Autumn," in the Literature section of the Sunday Edition of the ''[[Chicago Tribune]]'' on October 16 of that year.{{citation needed|date=April 2016}}  "Autumn" was reprinted from ''The Atlantic'' on page 6 of the Chicago Daily Tribune on October 5, 1916.<ref>{{cite web|url=http://archives.chicagotribune.com/1916/10/05/page/6/|title=Chicago Tribune - Historical Newspapers|newspaper=[[Chicago Tribune]]|via=Archives.chicagotribune.com|access-date=30 December 2017}}</ref>
+
+[[Theodora Thayer]]'s “fine portrait of Bliss Carman is considered one of the memorable achievements in American miniature painting.”<ref> Opitz, Glenn B, Editor, ''Mantle Fielding's Dictionary of American Painters, Sculptors & Engravers'', Apollo Book, Poughkeepsie NY, 1986 p. 930</ref>
+
+==Publications==
+===Poetry collections===
+* {{cite book |title=Low Tide on Grand Pre: A Book Of Lyrics |location=New York |publisher=Charles L. Webster |date=1893 |ref=Grand |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/low_tide/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304201448/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/low_tide/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google book|ZM89AAAAYAAJ|Low Tide on Grand Pré: A Book of Lyrics}}
+* {{cite book |first1=Bliss |last1=Carman |first2=Richard |last2=Hovey |title=Songs From Vagabondia |others=Tom B. Meteyard, Illus |location=Boston |publisher=Copeland & Day |date=1894 |ref=Vagabondia |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/vagabondia/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304192443/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/vagabondia/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google books|HqYAAAAAMAAJ|Songs from Vagabondia}} - {{google books|0a-ZBQAAQBAJ|A Vagabondia Songs (2013 Reprint)}}
+* {{cite book |title=A Seamark: A Threnody for Robert Louis Stevenson |url=https://archive.org/details/aseamarkathreno00carmgoog |location=Boston |publisher=Copeland & Day |date=1895}} - {{google books|dqsNAAAAYAAJ|A Seamark: A Threnody for Robert Louis Stevenson}}
+* {{cite book |title=Behind The Arras: A Book Of The Unseen |others=Tom B. Meteyard, Illus |location=Boston |publisher=Lamson, Wolffe |date=1895 |ref=Arras |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/behind_the_arras/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160612013738/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/behind_the_arras/index.htm |archive-date=2016-06-12 |url-status=dead }}
+* {{cite book |title=Ballads of Lost Haven: A Book Of The Sea |location=Boston |publisher=Lamson, Wolffe |date=1897 |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/ballads_of_lost_haven/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304201027/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/ballads_of_lost_haven/index.htm |archive-date=2016-03-04 |url-status=dead }}
+* {{cite book |title=By The Aurelian Wall: And Other Elegies |location=Boston |publisher=Lamson, Wolffe |date=1898 |ref=Aurelian |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/aurelian/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304092736/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/aurelian/index.htm |archive-date=2016-03-04 |url-status=dead }}
+* {{cite book |first1=Bliss |last1=Carman |first2=Richard |last2=Hovey |title=More Songs From Vagabondia |others=Tom B. Meteyard, Illus |location=Boston |publisher=Copeland & Day |date=1896 |ref=MoreVagabondia |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/more_vagabondia/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304191015/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/more_vagabondia/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google books|yIMrAAAAMAAJ|More Songs from Vagabondia}} - {{google books|0a-ZBQAAQBAJ|A Vagabondia Songs (2013 Reprint)}}
+* {{cite book |title=A Winter Holiday |location=Boston |publisher=Small, Maynard |date=1899 |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/winter_holiday/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304192937/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/winter_holiday/index.htm |archive-date=2016-03-04 |url-status=dead }}
+* {{cite book |first1=Bliss |last1=Carman |first2=Richard |last2=Hovey |title=Last Songs From Vagabondia |others=Tom B. Meteyard, Illus |location=Boston |publisher=Small, Maynard |date=1901 |ref=LastVagabondia |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/last_vagabondia/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304201614/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/last_vagabondia/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google books|NmZDAQAAIAAJ|Last Songs from Vagabondia}} - {{google books|0a-ZBQAAQBAJ|A Vagabondia Songs (2013 Reprint)}}
+* {{cite book |title=Ballads and Lyrics |location=London |publisher=A.H. Bullen |date=1902 |url={{google books|95xYAAAAMAAJ|plainurl=yes}} }}
+* {{cite book |title=Ode on the Coronation of King Edward |location=Boston |publisher=L.C. Page |date=1902 |url={{google books|5H0PAAAAMAAJ|plainurl=yes}} }}
+* {{cite book |title=Pipes Of Pan: From the Book of Myths |location=Boston |publisher=L.C. Page |date=1902 |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/myths/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304200152/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/myths/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google books|0N5KAAAAMAAJ|Pipes Of Pan: From the Book of Myths}}
+* {{cite book |title=Pipes Of Pan: From the Green Book of the Bards |location=Boston |publisher=L.C. Page |date=1903 |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/from_green/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304093951/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/from_green/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google books|wXE1AQAAMAAJ|Pipes Of Pan: From the Green Book of the Bards}}
+* {{cite book |title=Pipes Of Pan: Songs of the Sea Children |location=Boston |publisher=L.C. Page |date=1904 |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/sea_children/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304202513/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/sea_children/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google books|XJQLAQAAIAAJ|Pipes Of Pan: Songs of the Sea Children}}
+* {{cite book |title=Pipes Of Pan: Songs From a Northern Garden |location=Boston |publisher=L.C. Page |date=1904 |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/northern_garden/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304202101/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/northern_garden/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google books|wbxKAQAAMAAJ|Pipes Of Pan: Songs From a Northern Garden}}
+* {{cite book |title=Pipes Of Pan: From the Book of Valentines |location=Boston |publisher=L.C. Page |date=1905 |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/from_valentines/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160612044516/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/from_valentines/index.htm |archive-date=2016-06-12 |url-status=dead }} - {{google books|gJQLAQAAIAAJ|Pipes Of Pan: From the Book of Valentines}}
+* {{cite book |title=Sappho: One Hundred Lyrics |others=Intro. by Charles G.D. Roberts |location=Boston |publisher=L.C. Page |date=1904 |ref=Sappho |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/sappho/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20150925094654/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/sappho/index.htm |archive-date=2015-09-25 |url-status=dead }}
+*''Poems''. (London: Chiswick P, 1905).
+* {{cite book |title=The Rough Rider: And Other Poems |location=New York |publisher=M. Kennerley |date=1909 |ref=Rough |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/rough_rider/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160612043539/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/rough_rider/index.htm |archive-date=2016-06-12 |url-status=dead }}
+* {{cite book |title=A Painter's Holiday, and Other Poems |location=New York |publisher=F.F. Sherman |ref=Painter |date=1911}}
+* {{cite book |title=Echoes From Vagabondia |location=Boston |publisher=Small, Maynard |date=1912 |ref=EchoesVagabondia |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/echoes_vagabondia/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304202006/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/echoes_vagabondia/index.htm |archive-date=2016-03-04 |url-status=dead }}
+* {{cite book |title=April Airs: A Book Of New England Lyrics |location=Boston |publisher=Small, Maynard |date=1916 |ref=April |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/april_airs/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304190706/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/april_airs/index.htm |archive-date=2016-03-04 |url-status=dead }}
+* {{cite book |first1=Bliss |last1=Carman |first2=Mary Perry |last2=King |title=The Man of The Marne:  And Other Poems |location=New Canaan, Connecticut |publisher=[[Ponus Press]] |date=1918}}
+* {{cite book |title=The Vengeance of Noel Brassard: A Tale of the Acadian Expulsion |location=Cambridge, Massachusetts |publisher=[[Cambridge University Press|The University Press]]|access-date=1 October 2018 |date=1919 |url=http://beq.ebooksgratuits.com/english/Carman-vengeance.pdf|format=PDF}}
+* {{cite book |title=Far Horizons |location=Boston |publisher=Small, Maynard and Company |date=1925 |ref=Horizons |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/far_horizons/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304191227/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/far_horizons/index.htm |archive-date=2016-03-04 |url-status=dead }} - {{google books|17w-AAAAIAAJ|Far Horizons}}
+* {{cite book |title=Later Poems |location=Toronto |publisher=McClelland & Steward |date=1926 |ref=LaterPoems |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/later_poems/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20151203022237/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/later_poems/index.htm |archive-date=2015-12-03 |url-status=dead }}
+* {{cite book |title=Sanctuary: Sunshine House Sonnets |others=Whitman Bailey, Illus |location=Toronto |publisher=McClelland & Steward |date=1929 |ref=Sanctuary |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/sanctuary/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304202625/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/sanctuary/index.htm |archive-date=2016-03-04 |url-status=dead }}
+* {{cite book |title=Wild Garden |location=Toronto |publisher=McClelland & Steward |date=1929 |ref=Wild |url=http://www.canadianpoetry.ca/confederation/Bliss%20Carman/wild_garden/index.htm |access-date=2015-09-24 |archive-url=https://web.archive.org/web/20160304201824/http://www.canadianpoetry.ca/confederation/Bliss%20Carman/wild_garden/index.htm |archive-date=2016-03-04 |url-status=dead }}
+* {{cite book |title=Bliss Carman's Poems |location=New York |publisher=Dodd, Mead |date=1931}} - {{google books|Y39dAAAAMAAJ|Bliss Carman's Poems}}
+* {{cite book |title=The Selected Poems Of Bliss Carman |editor-first1=Lorne |editor-last1=Pierce|editor-link1=Lorne Pierce |location=Toronto |publisher=McClelland & Stewart |date=1954}}
+* {{cite book |title=A Vision Of Sappho |location=Toronto |publisher=Canadiana House |date=1968}}
+* {{cite book |title=The Poems of Bliss Carman |location=Toronto |publisher=McClelland & Stewart |date=1976 |ISBN=978-0-7710-9509-2}}
+* {{cite book |title=Windflower: Poems Of Bliss Carman |editor-first1=Raymond |editor-last1=Souster |editor-link1=Raymond Souster |editor-first2=Douglas  |editor-last2=Lochhead  |location=Ottawa |publisher=Tecumseh |date=1985 |ISBN=978-0-919662-07-0}}
+
+===Drama===
+* Bliss Carman and Mary Perry King. ''Daughters of Dawn: A Lyrical Pageant of Series of Historical Scenes for Presentation With Music and Dancing''. (New York: M. Kennerley, 1913).<ref name=online/>
+* Bliss Carman and Mary Perry King. ''Earth Deities: And Other Rhythmic Masques''. (New York: M. Kennerley, 1914).<ref name=online>"[http://www.track0.com/ogwc/authors/carman_b.html Bliss Carman]," Online Guide to Writing in Canada, Web, Apr. 10, 2011.</ref>
+
+===Prose collections===
+* {{cite book |title=The Kinship Of Nature |location=Boston |publisher=L. C. Page |date=1904 |url={{google books|8C_QAAAAMAAJ|plain-url=yes}} }}
+* {{cite book |title=The Poetry Of Life |url=https://archive.org/details/poetrylife01carmgoog |location=Boston |publisher=L. C. Page |date=1905}} - {{google books|TeMOAAAAYAAJ|The poetry of life (1906 ed.)}}
+* {{cite book |title=The Friendship of Art |location=Boston |publisher=L. C. Page |date=1908 |url={{google books|Sk_TAAAAMAAJ|plain-url=yes}} }} - {{cite book |title=The Friendship of Art |edition=Scholar's Choice |isbn=978-1-2981-9930-0}}
+* {{cite book |title=The Making of Personality |url=https://archive.org/details/makingofpersonal0000carm |location=Boston |publisher=L. C. Page |date=1908 |ref=Personality}} - {{google books|FjnWAAAAIAAJ|The Making of Personality}}
+* {{cite speech |title=Talks on Poetry and Life; Being a Series of Five Lectures Delivered Before the University of Toronto, December 1925 |others=transcribed by Blanche Hume |date=1926}}<ref name=online/>
+* {{cite book |title=Bliss Carman's Scrap-Book: A Table Of Contents |editor-first=Lorne |editor-last=Pierce |location=Toronto |publisher=Ryerson |date=1931}}
+* {{cite book |title=Letters of Bliss Carman |url=https://archive.org/details/lettersofblissca00carm |url-access=registration |editor-first=H. Pearson |editor-last=Gundy |location=Kingston, Ontario |publisher=[[McGill-Queen's University Press]] |date=1982}}<ref name=online/>
+
+===Edited===
+* {{cite encyclopedia |title=The World's Best Poetry (10 volumes) |location=New York |publisher=The University Society |date=1904}} - {{google books|IwkbAQAAMAAJ|The World's best poetry, Volume 1}}
+* {{cite book |title=The Oxford Book of American Verse |edition=U.S. |location=New York |publisher=Albert & Charles Boni |date=1927}}
+* {{cite book |editor-first1=Bliss |editor-last1=Carman |editor-first2=Lorne |editor-last2=Pierce |title=Our Canadian Literature: Representative Verse, English and French |url=https://archive.org/details/ourcanadianliter0000carm |url-access=registration |location=Toronto |publisher=Ryerson |date=1935}}
+
+===Archive===
+* [http://www.oac.cdlib.org/findaid/ark:/13030/tf4b69n72n Bliss Carman Papers, 1889–1927] (2 linear ft.) are housed in the [https://web.archive.org/web/20080604212605/http://library.stanford.edu/depts/spc/spc.html Department of Special Collections and University Archives]  at [http://library.stanford.edu/ Stanford University Libraries]
+
+==See also==
+{{Portal|Poetry|Biography|Canada}}
+*[[Canadian literature]]
+*[[Canadian poetry]]
+*[[List of Canadian poets]]
+
+==Sources==
+*"Bliss Carman's Letters To Margaret Lawrence, 1927-1929". ''Post-Confederation Poetry: Texts And Contexts''.  Ed. D.M.R. Bentley. London: Canadian Poetry P, 1995.
+*''Bliss Carman : A Reappraisal''. Ed. Gerald Lynch.  Ottawa: [[University of Ottawa Press]], 1990.
+*''Letters of Bliss Carman''.  Ed. H. Pearson Gundy.  Kingston: [[McGill-Queen's University Press]], 1981.
+*Hugh McPherson. ''The Literary Reputation Of Bliss Carman : A Study In The Development Of Canadian Taste In Poetry''. 1950.
+*Muriel Miller. ''Bliss Carman, A Portrait''.  Toronto: Ryerson, 1935.
+*Muriel Miller. ''Bliss Carman : Quest And Revolt''.  St. John's, Nfld.: Jesperson P, 1985.
+*Donald G Stephens. ''Bliss Carman''. 1966.
+*Donald G. Stephens.  ''The Influence Of English Poets Upon The Poetry Of Bliss Carman''. 1955.
+*Margaret A. Stewart.  ''Bliss Carman : Poet, Philosopher, Teacher''.  1976.
+
+==Further reading==
+*Robert Gibbs, "Voice and Persona in Carman and Roberts," in ''Atlantic Provinces Literature Colloquium Papers'' [ed. by Kenneth MacKinnon] (1977)
+* {{cite journal |first=C. |last=Nelson-McDermott |title=Passionate Beauty: Carman's Sappho Poems |journal=Canadian Poetry: Studies/Documents/Reviews |url=http://www.canadianpoetry.ca/cpjrn/vol27/nelson_mcdermott.htm |publisher=Canadian Poetry Press |volume=27 |date=Fall–Winter 1990 |pp=40–45 |access-date=2011-03-26 |archive-url=https://web.archive.org/web/20120322123703/http://www.canadianpoetry.ca/cpjrn/vol27/nelson_mcdermott.htm |archive-date=2012-03-22 |url-status=dead }}
+*Malcolm Ross, "A Strange Aesthetic Ferment," ''Canadian Literature'', 68-69 (Spring-Summer 1976)
+*John Robert Sorfleet, "Transcendentalist, Mystic, Evolutionary Idealist: Bliss Carman 1886-1894," in ''Colony and Confederation'' [ed. George Woodcock](1974)
+*Thomas B. Vincent, "[https://web.archive.org/web/20110724204654/http://hpcanpub.mcmaster.ca/case-study/bliss-carman-life-literary-publishing Bliss Carman: A Life in Literary Publishing]," Historical Perspectives on Canadian Publishing, McMaster.ca. Web.
+* {{cite journal |first=Arthur |last=Symons |title=Arthur Symons' Reviews of Bliss Carman |journal=Canadian Poetry: Studies/Documents/Reviews |editor-first=Tracy |editor-last=Ware |url=http://www.canadianpoetry.ca/cpjrn/vol37/ware.htm |publisher=Canadian Poetry Press |volume=37 |date=Fall–Winter 1995 |pp=100–113 |access-date=2011-03-26 |archive-url=https://web.archive.org/web/20120322123752/http://www.canadianpoetry.ca/cpjrn/vol37/ware.htm |archive-date=2012-03-22 |url-status=dead }}
+*Terry Whalen, ''Canadian Writers and Their Work: Volume Two'' [ed. Robert Lecker, Ellen Quigley, & Jack David] (1983)
+
+==Notes==
+{{Reflist}}
+
+==External links==
+{{wikisource author}}
+{{wikiquote}}
+* {{Gutenberg author |id=Carman,+Bliss | name=Bliss Carman}}
+* {{FadedPage|id=Carman, Bliss (William Bliss)|name=Bliss (William Bliss) Carman|author=yes}}
+* {{Internet Archive author |sname=Bliss Carman}}
+* {{Librivox author |id=723}}
+* [https://web.archive.org/web/20110518025322/http://rpo.library.utoronto.ca/poet/56.html Selected Poetry of Bliss Carman - Biography and poems]
+* [http://digital.library.upenn.edu/women/garvin/poets/carman.html Bliss Carman in ''Canadian Poets''], John Garvin ed. - Biography and 8 poems (Earth Voices, A Mountain Gateway, Garden Shadows, The Tent of Noon, Spring's Saraband, Low Tide on Grand Pré, Threnody for a Poet, At the Making of Man)
+* [http://theotherpages.org/poems/poem-cd.html#carman Index entry for Bliss Carman at Poets' Corner]
+*[http://www.thecanadianencyclopedia.ca/en/article/bliss-carman/ Bliss Carman's] entry  in [[The Canadian Encyclopedia]]
+* [https://archives-manuscripts.dartmouth.edu/repositories/2/resources/1501 The Papers of Bliss Carmen] at Dartmouth College Library
+
+{{Authority control}}
+
+{{DEFAULTSORT:Carman, Bliss}}
+[[Category:1861 births]]
+[[Category:1929 deaths]]
+[[Category:19th-century Canadian poets]]
+[[Category:Canadian male poets]]
+[[Category:20th-century Canadian poets]]
+[[Category:20th-century Canadian male writers]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Canadian Anglicans]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Harvard University alumni]]
+[[Category:Persons of National Historic Significance (Canada)]]
+[[Category:Romantic poets]]
+[[Category:University of New Brunswick alumni]]
+[[Category:Writers from Fredericton]]
+[[Category:19th-century Canadian male writers]]

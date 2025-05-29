@@ -1,0 +1,56 @@
+{{short description|Austrian actor}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox person
+| image        = Barylli stehend.jpg
+| caption      = Gabriel Barylli in 2008
+| name         = Gabriel Barylli
+| birth_date   = {{Birth date and age|1957|5|31|df=yes}}
+| birth_place  = [[Vienna]], Austria
+| death_date   = 
+| death_place  = 
+| occupation   = Actor<br>Film director
+| yearsactive  = 1981-present
+}}
+
+'''Gabriel Barylli''' (born 31 May 1957) is an Austrian actor and [[film director]].<ref>{{cite web|url=https://www.filmportal.de/en/person/gabriel-barylli_ef7358b860228304e03053d50b37578c |title=Gabriel Barylli |work=Film Portal |access-date=25 May 2020}}</ref> He has appeared in more than 40 films and television shows since 1981. He won the Silver St. George award for Best Actor for his role in ''[[A French Woman]]'' at the [[19th Moscow International Film Festival]].<ref name="Moscow1995">{{cite web|url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1995 |title=19th Moscow International Film Festival (1995) |access-date=20 March 2013 |work=MIFF |url-status=dead |archiveurl=https://web.archive.org/web/20130322162953/http://moscowfilmfestival.ru/miff34/eng/archives/?year=1995 |archivedate=22 March 2013  }}</ref>
+
+==Selected filmography==
+'''As actor'''
+* ''{{Interlanguage link multi|Der Schüler Gerber|de|3=Der Schüler Gerber (Film)|lt=Der Schüler Gerber}}'' (1981), as Kurt Gerber
+* ''{{Interlanguage link multi|Eine blassblaue Frauenschrift|de|3=Eine blassblaue Frauenschrift (Film)}}'' (1984, TV film), as Leonidas Tachezy
+* ''{{Interlanguage link multi|Die Frau ohne Körper und der Projektionist|lb}}'' (1984), as Michael Blank
+* ''{{Interlanguage link multi|Wohin und zurück 2 – Santa Fe|fr|Welcome in Vienna: Santa Fe}}'' (1986, TV film), as Freddy Wolff
+* ''[[Welcome in Vienna|Wohin und zurück 3 – Welcome in Vienna]]'' (1986, TV film), as Freddy Wolff
+* ''[[Mit meinen heißen Tränen]]'' (1986, TV film), as [[Moritz von Schwind]]
+* ''[[Franza]]'' (1987, TV film), as Martin
+* ''[[Storms in May (1987 film)|Storms in May]]'' (1987, TV film), as Leopold Holzner
+* ''[[The Distant Land]]'' (1987), as Otto
+* ''Butterbrot'' (1990), as Martin
+* ''[[A French Woman]]'' (1995), as Mathias Behrens
+* ''{{ill|Honigmond|de}}'' (1996), as Taxi driver
+* ''{{Interlanguage link multi|Krambambuli (1998 film)|de|3=Krambambuli (1998)|lt=Krambambuli}}'' (1998, TV film), as Georg Walch
+
+'''As director'''
+* ''Butterbrot'' (1990)
+* ''{{ill|Honigmond|de}}'' (1996)
+* ''{{Interlanguage link multi|Wer liebt, dem wachsen Flügel|de}}'' (1999)
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|0059509|Gabriel Barylli}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barylli, Gabriel}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:Austrian male film actors]]
+[[Category:Austrian male television actors]]
+[[Category:Austrian film directors]]
+[[Category:Austrian television directors]]
+[[Category:Male actors from Vienna]]
+[[Category:20th-century Austrian male actors]]
+[[Category:21st-century Austrian male actors]]
+{{Austria-actor-stub}}

@@ -1,0 +1,38 @@
+{{BLP sources|date=March 2011}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = Stefan-Canev-portret-ot-Maia-Liubenov2012.jpg
+| name        = Stefan Tsanev
+| pseudonym   =
+| birth_date   = {{Birth date and age|1936|8|7|mf=y}}
+| birth_place  = [[Chervena Voda]],<br>near [[Rousse]], [[Bulgaria]]
+| death_date   =
+| death_place  =
+| occupation  = Novelist, essayist, playwright, poet
+| nationality = Bulgarian
+| period      =
+| genre       = poem, novel
+| subject     =
+| movement    =
+| notableworks =
+| influences  =
+| influenced  =
+| website     =
+}}
+'''Stefan Nedelchev Tsanev''' ({{lang-bg|Стефан Неделчев Цанев}}) (b. 7 August 1936) is a contemporary [[Bulgaria]]n writer, known for his [[essays]], [[Play (theatre)|plays]],<ref>{{cite news|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=NewsLibrary&p_multi=BBAB&d_place=BBAB&p_theme=newslibrary2&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0F97A4AC65A1035B&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM|title=Bulgarian news agency review of the Bulgarian press for 13 Sep 01|date=13 September 2001|quote=Renowned playwright and poet Stefan Tsanev says in "Troud," "There is more in store. Hatred will bury us like an avalanche....|work=BTA News Agency via [[BBC]]|accessdate=30 March 2011}}</ref> [[poems]], and [[historical novels]].<ref>Стефан Цанев "Български Хроники" Пловдив Книгоиздателска къща Труд, София, 2006 {{ISBN|978-954-528-610-0}}</ref>
+
+His books include ''Ubiytsite sa mezhdu nas'' ({{lang-bg|Убийците са между нас}}; ''The killers are among us''), and his plays, ''Istinskiyat Ivaylo'' ({{lang-bg|Истинският Ивайло}}; ''The true Ivaylo''), which was banned.{{Why?|date=January 2011}}
+
+Tsanev's latest four-volume work, ''Bulgarian Chronicles'', uncovers previously hidden facts, added to the well-known, in Bulgaria's history: 2137 BC to the present.{{Citation needed|date=January 2011}}<ref>Stefan Tsanev "Bulgarian Chronicles" Vol.1 Plovdiv, Publisher "Trud", 2006, {{ISBN|954-528-610-5}}</ref> 
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Tsanev, Stefan}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:Bulgarian writers]]
+[[Category:People from Ruse, Bulgaria]]
+
+
+{{Bulgaria-writer-stub}}

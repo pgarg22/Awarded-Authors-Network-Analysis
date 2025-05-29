@@ -1,0 +1,55 @@
+{{Short description|Croatian-Hungarian poet}}
+{{Hungarian name|Csezmiczei János}}
+[[Image:Janus Pannonius Pécs.JPG|thumb|right|Janus Pannonius]]
+'''Janus Pannonius''' ({{lang-la|Ioannes [[Pannonia|Pannonius]]}}, {{lang-hr|Ivan Česmički}}, {{lang-hu|Csezmiczei János}} or {{lang|hu|Kesencei János}}; 29 August 1434 &ndash; 27 March 1472) was a [[Croats|Croatian]]-[[Hungarians|Hungarian]] [[Latin language|Latinist]], [[poet]], [[diplomat]] and [[Bishop of Pécs]]. He was the most significant poet of the [[Renaissance]] in the [[Lands of the Crown of St. Stephen|Kingdom of Hungary]] and one of the better-known figures of [[humanism|humanist]] poetry in Europe.
+
+==Life==
+Born in [[Slavonia]],{{sfn|Birnbaum|1981|p=10}}<ref name="Makkai" /> Janus's father was a [[Croats|Croatian]]<ref name="Makkai">Ádám Makkai, [https://books.google.com/books?id=6WSiAjJBUoEC&pg=PA41&dq=janus+pannonius+father&hl=en&sa=X&ei=YzhwT_bgMKey0QWOuZmNAg&ved=0CEEQ6AEwAw#v=onepage&q=janus%20pannonius%20father&f=false ''In quest of the 'miracle stag': the poetry of Hungary : an anthology of Hungarian poetry in English translation from the 13th century to the present in commemoration of the 1100th anniversary of the foundation of Hungary and the 40th anniversary of the Hungarian Uprising of 1956''], University of Illinois Press, 1996, p. 41</ref> whose social status and relation to the nobility is unclear.{{sfn|Birnbaum|1981|p=18}} His mother, Borbála Vitéz, was [[Hungarian people|Hungarian]].
+
+[[Pope Pius II]] wrote that Pannonius was of Slavonian origin (''de origine Slavonica''). His biographer and friend [[Vespasiano da Bisticci]] said that he was of Slavic nationality. According to Ronsano of Palermo, he was from Dalmatia (''di natione Dalmata''). M. Franičević, in citing Ronsano, notes that many Italians saw all “Croats” as Dalmatians. Ludovik Tuberon Crijević, writing of Pannonius, says that he was born a Slav (''genere itidem Sclavenum'') in that part of interior Dalmatia that lies between the Sava and Drava rivers.{{sfn|V. A. Fine|2010|p=147}}
+
+Pannonius was brought up by his mother; in 1447 his uncle sent him to Italy for a [[Renaissance Humanism|humanist]] schooling. He attended the School of [[Guarino da Verona]] at [[Ferrara]], where the pupils were educated in Latin and Greek authors under the guidance of a noted teacher of the [[Italian Renaissance]]. The boy was considered the brightest pupil of his generation by both his teachers and fellow-students. He wrote poetry according to the rules of classical prosody; he was around thirteen when he wrote his first epigrams. His higher education was completed at the [[University of Padua]] in canon law.<ref name="Jugoslovenski književni leksikon">{{cite book |author=Milorad Živančević |editor = Živan Milisavac |date=1971 |title=Jugoslovenski književni leksikon |trans-title=Yugoslav Literary Lexicon |publisher=[[Matica srpska]] |language=sh |location= [[Novi Sad]] ([[Socialist Autonomous Province of Vojvodina|SAP Vojvodina]], [[Socialist Republic of Serbia|SR Serbia]]) |page=70 }}</ref> After making an educational tour of Rome, he returned to Hungary in 1458, the year of [[Matthias Corvinus|Matthias's]] accession to the throne.
+
+For a time, he worked at the Royal Chancery, and soon was appointed as the [[Bishop of Pécs]] and later Vice-Chancellor of the country. Janus Pannonius was an influential intellectual in the kingdom; he kept his connections with some of the leading philosophers of his time. He also collected a significant library of humanist works (probably dispersed in 1526).<ref name=staikos2012>{{Citation |isbn = 9781584561828 |publication-place = New Castle, DE |publisher= Oak Knoll Press |year= 2012 |title = History of the Library in Western Civilization: From Petrarch to Michelangelo |author = Konstantinos Staikos }}</ref>
+
+He served as the [[Ban of Slavonia]] in 1469.{{sfn|Bietenholz|Deutscher|2003|p=234}}
+
+He died in the [[Medvedgrad]] castle near [[Zagreb]].<ref name="Jugoslovenski književni leksikon"/>
+
+==References==
+{{Reflist}}
+
+==Sources==
+{{Commons category|Janus Pannonius}}
+* {{cite book | editor-first1 = Peter G. | editor-last1 = Bietenholz | editor-first2 = Thomas Brian | editor-last2 = Deutscher | url = https://books.google.com/books?id=hruQ386SfFcC | title = Contemporaries of Erasmus: A Biographical Register of the Renaissance and Reformation | chapter = Janus Pannonius | publisher = University of Toronto Press | year = 2003 | pages = 233–234 | isbn = 978-0-8020-8577-1 }}
+* {{cite book | title = Janus Pannonius, poet and politician | first = Marianna D. | last = Birnbaum | publisher = [[Yugoslav Academy of Sciences and Arts]] | year = 1981 | series = Works of the Yugoslav Academy of Sciences and Arts philology department | volume = 56 | oclc = 461824985 | url = https://books.google.com/books?id=YsUGAQAAIAAJ }}
+* {{cite book|last=V. A. Fine|first=John Jr.|title=When Ethnicity Did Not Matter in the Balkans: A Study of Identity in Pre-Nationalist Croatia, Dalmatia, and Slavonia in the Medieval and Early-Modern Periods|url=https://books.google.com/books?id=wEF5oN5erE0C&pg=PA147|year=2010|publisher=University of Michigan Press|isbn=978-0-472-02560-2}}
+
+==Works==
+* [http://real-r.mtak.hu/170/ Opera], Basel, 1555
+
+{{Croatian literature}}
+{{Hungarian literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pannonius, Janus}}
+[[Category:1432 births]]
+[[Category:1472 deaths]]
+[[Category:15th-century Roman Catholic bishops in Hungary]]
+[[Category:15th-century Latin writers]]
+[[Category:15th-century Croatian poets]]
+[[Category:15th-century Croatian nobility]]
+[[Category:Hungarian male poets]]
+[[Category:Medieval Croatian nobility]]
+[[Category:Hungarian people of Croatian descent]]
+[[Category:Baranya (region)]]
+[[Category:History of Baranya (region)]]
+[[Category:People from Čazma]]
+[[Category:Bishops of Pécs]]
+[[Category:Royal treasurers (Kingdom of Hungary)]]
+[[Category:Chief Justices of Hungary]]
+[[Category:Book and manuscript collectors]]
+[[Category:Croatian male poets]]
+[[Category:15th-century Hungarian poets]]
+[[Category:15th-century Hungarian writers]]

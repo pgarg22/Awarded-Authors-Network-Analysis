@@ -1,0 +1,116 @@
+{{short description|Chinese-American fantasy writer}}
+{{Use American English|date=September 2019}}
+{{Use mdy dates|date=September 2019}}
+{{Infobox writer
+| name             = Rebecca F. Kuang
+| image            = 
+| alt              = 
+| caption          = 
+| native_name      = 匡靈秀
+| native_name_lang = Chinese
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = {{birth date and age|1996|05|29}}<ref name="locusinterview">{{cite news |url=https://locusmag.com/2019/07/r-f-kuang-distortions/ |title=R.F. Kuang: Distortions |magazine=[[Locus (magazine)|Locus]] |date=2019-07-15}}</ref>
+| birth_place      = [[Guangzhou]], [[Guangdong]], [[China]]
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place      = 
+| resting_place    = 
+| occupation       = Fantasy writer
+| language         = English
+| residence        = 
+| nationality      = 
+| citizenship      = 
+| education        = [[Odyssey Writing Workshop]]<br>[[Yale University]] (currently attending)
+| alma_mater       = {{ublist|[[Georgetown University]] (BA)|[[University of Cambridge]] (MPhil)|[[University of Oxford]] (MSc)}}
+| period           = 
+| genre            = Fantasy
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notableworks     = <!-- or: | notablework = -->
+| awards           = {{ublist|[[Crawford Award]] (2019)|[[Compton Crook Award]] (2019)|[[Astounding Award for Best New Writer]] (2020)}}
+| years_active     = 2018–present
+| module           = {{Infobox chinese|child=yes|t={{linktext|匡|靈|秀}}|s={{linktext|匡|灵|秀}}|p=Kuāng Língxiù}}
+| website          = {{URL|rfkuang.com}}
+| portaldisp       = <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Rebecca F. Kuang''' is a [[Chinese Americans|Chinese-American]] [[fantasy]] writer.<ref name="Georgetown">{{Cite news |url=http://www.thehoya.com/georgetown-author-r-f-kuang-speaks-upcoming-novel-poppy-war/ |title=Georgetown Author R.F. Kuang Speaks on Upcoming Novel 'The Poppy War' |date=2017-12-10 |access-date=2018-05-12 |language=en-US |newspaper=[[The Hoya]] |first=Rachel |last=Linton}}</ref> Her first novel, ''[[The Poppy War]]'', was released in 2018, followed by the sequel ''The Dragon Republic'' in 2019.<ref name="Verge">{{cite news |last1=Liptak |first1=Andrew |title=10 new science fiction and fantasy novels to check out this August |url=https://www.theverge.com/2019/8/1/20697718/science-fiction-fantasy-books-recommendations-august-kuang-brown-hartsuyker |access-date=2019-08-06 |work=[[The Verge]] |date=2019-08-01}}</ref> Kuang has won the [[Compton Crook Award]],<ref name=Compton>{{cite news |url=https://locusmag.com/2019/04/kuang-wins-compton-crook-award/ |title=Kuang Wins Compton Crook Award |magazine=[[Locus (magazine)|Locus]] |date=2019-04-15}}</ref> the [[Crawford Award]],<ref name=Crawford>{{cite news |url=https://locusmag.com/2019/02/kuang-wins-crawford-award/ |title=Kuang Wins Crawford Award |magazine=[[Locus (magazine)|Locus]] |date=2019-02-01}}</ref> and the 2020 [[Astounding Award for Best New Writer]],<ref>{{Cite web|title=Astounding Award|url=http://www.thehugoawards.org/campbell-history/|date=2007-08-09|website=The Hugo Awards|language=en-US|access-date=2020-05-19}}</ref> along with being a finalist for the [[Nebula Award for Best Novel|Nebula]],<ref>{{Cite web|title=R.F. Kuang|url=https://nebulas.sfwa.org/nominees/r-f-kuang/|last=|first=|date=|website=Nebula Awards|access-date=17 May 2020}}</ref> [[Locus Award|Locus]],<ref>{{Cite web|title=2019 Locus Awards Winners|url=https://locusmag.com/2019/06/2019-locus-awards-winners/|last=locusmag|date=2019-06-29|website=Locus Online|language=en-US|access-date=2020-05-21}}</ref> [[World Fantasy Award—Novel|World Fantasy]],<ref>{{Cite web|title=World Fantasy Awards℠ 2019 {{!}} World Fantasy Convention|url=http://www.worldfantasy.org/world-fantasy-awards%e2%84%a0-2019/|language=en-US|access-date=2020-05-17}}</ref> [[The Kitschies]],<ref>{{cite web |url=http://www.thekitschies.com/previous-awards/2018-awards/ |title=2018 Awards |work=[[The Kitschies]]}}</ref> and [[British Fantasy Awards|British Fantasy]]<ref>{{cite web |url=https://www.britishfantasysociety.org/news/british-fantasy-awards-2019/ |title=British Fantasy Awards 2019 |date=July 23, 2019 |work=[[British Fantasy Society]]}}</ref> awards for her first novel.
+
+== Early life and education ==
+Kuang immigrated to the United States from [[Guangzhou]], [[China]], with her family when she was four years old.<ref name="Randall22">{{cite news |last1=Randall |first1=Kayla |title=How a Georgetown Student Published Her Epic Fantasy Debut—Before She Turned 22 |url=https://www.washingtoncitypaper.com/arts/books/blog/21014341/how-rebecca-f-kuangs-wrote-the-poppy-war |access-date=6 September 2018 |work=[[Washington City Paper]] |date=20 July 1018}}</ref><ref name="Without End">{{Cite web|url=https://www.worldswithoutend.com/author.asp?id=5808|title=R. F. Kuang|website=Worlds Without End|language=en|access-date=2018-05-12}}</ref> Her father grew up in [[Leiyang]], in [[Hunan]] province, and her mother grew up on [[Hainan Island]].<ref name="KiddNovel"/> Her maternal grandfather fought for [[Chiang Kai-shek]].<ref name="KiddNovel"/> Her father's family experienced the Japanese conquest of Hunan.<ref name="KiddNovel"/><ref name="JunzhouShilong">{{cite news |last1=Junzhou |first1=Qiu |last2=Shilong |first2=Yang |title=Feature: Young Chinese American writer tells forgotten WWII history in fantasy setting |url=http://www.xinhuanet.com/english/2018-06/07/c_137235766.htm |access-date=2018-09-06 |work=[[Xinhua News Agency|Xinhua]] |date=2018-06-07}}</ref>
+
+Kuang grew up in [[Dallas, Texas]] and graduated from [[Greenhill School (Addison, Texas)|Greenhill School]] in 2013.<ref name="GreenhillSchool">{{cite news |title=Alumna Rebecca Kuang '13 Awarded 2018 Marshall Scholarship |url=https://www.greenhill.org/page/news-detail?pk=972644# |access-date=2018-09-06 |work=Greenhill School |date=2017-09-05}}</ref> She went on to [[Georgetown University]], attracted by the college's well-known [[Debate#Competitive debating|debating team]] after winning the [[Tournament of Champions (debate)|Tournament of Champions]].<ref name="Randall22" />  Halfway through college, Kuang was 19 when she began writing ''Poppy War'' during a [[gap year]] in China, where she worked as a debate coach; the book was published when she was 22.<ref name="Randall22" /><ref name="GeorgetownUniversity">{{cite news |title=First Novel in Trilogy by Recent Grad Draws on Georgetown Studies |url=https://www.georgetown.edu/news/first-novel-in-trilogy-by-recent-grad-reflects-georgetown-studies |access-date=2018-09-06 |work=Georgetown University |date=2018-07-17}}</ref>  Kuang graduated from the [[Odyssey Writing Workshop]] in 2016 and attended the [[Center for the Study of Science Fiction#Writing Workshops|CSSF Novel Writing Workshop]] in 2017.<ref name="Without End" /> She graduated from Georgetown's [[School of Foreign Service]] in June 2018. She spent the summer after graduation coaching a debate camp in Colorado.<ref name="KiddNovel">{{cite news |last1=Kidd |first1=James |title=China's bloody history and Game of Thrones-style fantasy unite in author R.F. Kuang's debut novel |url=https://www.scmp.com/magazines/post-magazine/books/article/2156653/chinas-bloody-history-and-game-thrones-style-fantasy |access-date=2018-09-06 |work=[[South China Morning Post]]|date=2018-07-25}}</ref><ref name="Randall22"/><ref name="GeorgetownUniversity"/>
+
+She attended [[Magdalene College]], [[University of Cambridge]] as a recipient of a 2018 [[Marshall Scholarship]], where she gained a [[Master of Philosophy#United Kingdom|Master of Philosophy]] in [[Sinology|Chinese Studies]].<ref name="Georgetown" /><ref name="GeorgetownUniversity"/><ref name="About">{{Cite web|url=https://rfkuang.com/about/|title=About|date=2017-08-04|website=Rebecca F. Kuang|language=en|access-date=2020-01-09}}</ref> The following academic year, she studied at [[University of Oxford|Oxford University]] and received a MSc in Contemporary Chinese Studies.<ref name="About" /> Kuang returned to the United States in the fall of 2020 to pursue a PhD in East Asian Languages and Literatures at [[Yale University]].<ref>{{cite web |url=https://www.itsrealmagazine.org/interview-with-rebecca-kuang.html |title=Interview with Rebecca Kuang |work=It's Real Magazine |first=Ana |last=Chen |date=2020}}</ref><ref name="npr-2020nov24">{{cite news |url=https://www.npr.org/2020/11/24/937995479/in-the-poppy-war-series-r-f-kuang-asks-what-if-mao-was-a-teenage-girl |title=In The Poppy War Series, R.F. Kuang Asks: 'What If Mao Was A Teenage Girl?' |website=[[NPR]] |date=November 24, 2020 |first=Alan |last=Yu}}</ref>
+
+Kuang was originally scheduled to deliver the 8th annual [[The J.R.R. Tolkien Lecture on Fantasy Literature|J.R.R. Tolkien Lecture on Fantasy Literature]] at [[Pembroke College, Oxford]] in 2020,<ref>{{cite web |url=https://tolkienlecture.org/2020/02/29/rebecca-f-kuang-to-deliver-the-2020-tolkien-lecture-at-pembroke/ |title=Rebecca F. Kuang to deliver the Eighth Tolkien Lecture at Pembroke |date=February 29, 2020 |work=[[Pembroke College, Oxford|Pembroke College]]}}</ref> but it was postponed to the following year due to the world-wide COVID-19 pandemic. She took part in a virtual seminar that was held in place of the postponed annual seminar.<ref>{{cite web |url=https://www.pmb.ox.ac.uk/news/digital-tolkien-symposium-attracts-1500-participants |title=Digital Tolkien Symposium attracts 1,500 participants |date=May 26, 2020 |work=[[Pembroke College, Oxford|Pembroke College]]}}</ref>
+
+==Literary works==
+Her debut novel ''[[The Poppy War]]'', a Chinese military fantasy, was published by [[HarperCollins|Harper Voyager]] in 2018 and is the first book in the Poppy War trilogy.<ref name="RTBR">{{Cite news |url=https://www.rtbookreviews.com/bonus-content/q-a/the-poppy-war-rf-kuang |archive-url=https://web.archive.org/web/20180513011422/https://www.rtbookreviews.com/bonus-content/q-a/the-poppy-war-rf-kuang |url-status=dead |archive-date=2018-05-13 |title=R.F. Kuang Stuns With Her Debut Fantasy Novel, The Poppy War |work=RT Book Reviews |access-date=2018-05-12 |first=Alyssa |last=Duspiva}}</ref> ''The Poppy War'' has received mainly favorable reviews, with [[Publishers Weekly]] calling it "a strong and dramatic launch to Kuang’s career".<ref>{{Cite news |url=https://www.publishersweekly.com/978-0-06-266256-9 |title=Fiction Book Review: The Poppy War by R.F. Kuang. Harper Voyager, $26.99 (544p) |isbn=978-0-06-266256-9 |newspaper=[[Publishers Weekly]] |access-date=2018-05-12 |language=en |date=2018-03-05|last1=Kuang |first1=R. F. }}</ref> In October 2020, her first two books in the Poppy Wars trilogy were include in [[Time Magazine]]'s ''The 100 Best Fantasy Books of All Time'' (The Burning God was not available when the article was published).<ref name="tm-2020oct15a">{{cite news |url=https://time.com/collection/100-best-fantasy-books/5898525/the-poppy-war/ |title=The Poppy War by R.F. Kuang |magazine=[[Time (magazine)|Time]] |date=October 15, 2020 |author=<!--Staff writer(s); no by-line.--> |url-access=subscription}}</ref><ref name="tm-2020oct15b">{{cite news |url=https://time.com/collection/100-best-fantasy-books/5898531/the-dragon-republic/ |title=The Dragon Republic by R.F. Kuang |magazine=[[Time (magazine)|Time]] |date=October 15, 2020 |author=<!--Staff writer(s); no by-line.--> |url-access=subscription}}</ref> In December 2020, Starlight Media, the U.S. film subsidiary of China-based Starlight Culture Entertainment Group, [[optioned]] the rights to adapt Kuang's Poppy Wars trilogy for television.<ref name="deadline.com-2020dec08">{{cite news |url=https://deadline.com/2020/12/starlight-media-tv-adaptation-of-rebecca-f-kuangs-fantasy-books-the-poppy-war-1234651757/ |title=Starlight Media Developing TV Adaptation Of Rebecca F. Kuang's Fantasy Books Including 'The Poppy War' |website=[[Deadline Hollywood]] |date=December 8, 2020 |author=Peter White}}</ref>
+
+In 2020, she wrote a short story in the [[Star Wars]] universe called ''Against All Odds'' about a [[Rebel Alliance]] defender on the ice planet [[Hoth]] named Dak Ralter. It was published in the anthology ''From a Certain Point of View: 40 Stories celebrating 40 years of The Empire Strikes Back''.<ref>{{cite web |url=https://www.laughingplace.com/w/news/2020/06/11/the-empire-strikes-back-from-a-certain-point-of-view-star-wars-anthology-book-announced/ |title="The Empire Strikes Back: From a Certain Point of View" Star Wars Anthology Book Announced |work=Laughing Place |date=October 6, 2020}}</ref>
+
+=== ''Poppy Wars trilogy''===
+==== ''The Poppy War'' ====
+{{main|The Poppy War}}
+''The Poppy War'', a [[grimdark]] fantasy, draws its plot and politics from mid-20th-century China,<ref name="Barnes and Noble">{{Cite news |url=https://www.barnesandnoble.com/blog/sci-fi-fantasy/cover-story-poppy-war-epic-debut-inspired-20th-century-china/ |title=Cover Story: R.F. Kuang's The Poppy War, an Epic Debut Inspired by 20th Century China |date=2018-01-11 |work=The B&N Sci-Fi and Fantasy Blog |access-date=2018-05-12 |language=en-US |first=Joel |last=Cunningham}}</ref><ref>{{Cite news |url=https://www.nerdmuch.com/books/154577/best-new-sci-fi-fantasy-books/ |title=15 Best New Sci-Fi & Fantasy Books: May 2018 |date=2018-05-01 |work=Nerd Much? |access-date=2018-05-12 |language=en-US |first=Peter |last=McPherson}}</ref><ref name="MasonReview">{{cite news |last1=Mason |first1=Everdeen |title=Best science fiction and fantasy books out this month (brief book review) |url=https://www.washingtonpost.com/entertainment/books/best-science-fiction-and-fantasy-books-out-this-month/2018/05/02/bdd0e262-4d4f-11e8-b725-92c89fe3ca4c_story.html |access-date=2018-09-02 |newspaper=[[Washington Post]] |date=2018-05-02}}</ref> with the conflict in the novel based on the [[Second Sino-Japanese War]], and an atmosphere inspired by the [[Song dynasty]].<ref name="Bookpage">{{Cite news |url=https://bookpage.com/interviews/22654-r-f-kuang |title=R.F. Kuang - Interview |work=BookPage |access-date=2018-05-12 |language=en |first=Chris |last=Pickens |date=2018-05-01}}</ref> ''The Poppy War'' was nominated for the 2019 [[World Fantasy Award—Novel|World Fantasy Award for Best Novel]].<ref>{{Cite web |url=http://www.worldfantasy.org/world-fantasy-awards%e2%84%a0-2019/ |title=World Fantasy Awards℠ 2019 |work=[[World Fantasy Convention]] |language=en-US |access-date=2019-07-25}}</ref>
+
+==== ''The Dragon Republic'' ====
+Released in 2019, ''The Dragon Republic'' is the sequel to ''The Poppy War''. The Nikan Empire begins to fall apart due to in fighting and the Hesperians return. The reviewer for Fantasy Book Review wrote "Kuang excels at wreaking emotional havoc while delivering a powerful meditation on war and survival."<ref>{{cite web |url=https://www.fantasybookreview.co.uk/R-F-Kuang/The-Dragon-Republic.html |title=The Dragon Republic by R F Kuang (The Poppy War #2) |work=Fantasy Book Review |first=Adam |last=Weller}}</ref> Publishers Weekly said that "Kuang brings brilliance to this invigorating and complex military fantasy sequel to The Poppy War."<ref>{{Cite news |url=https://www.publishersweekly.com/978-0-06-266263-7 |title=Fiction Book Review: The Dragon Republic by R.F. Kuang. Harper Voyager, $26.99 (672p) |work=[[Publishers Weekly]] |date=2019-05-22}}</ref>
+
+==== ''The Burning God'' ====
+Released in 2020, ''The Burning God'' is the sequel to ''The Dragon Republic'' and the conclusion to the ''Poppy Wars'' series. Rin fights the forces that have torn her country apart into a civil war. A reviewer for ''The Fantasy Hive'' wrote, "Rebecca Kuang's conclusion to her debut trilogy, ''The Poppy War'', is testament to her growth as a writer; not only is it a fitting close to an ambitious series."<ref>{{cite web |url=https://fantasy-hive.co.uk/2020/12/the-burning-god-by-r-f-kuang-book-review/ |title=The Burning God by R. F. Kuang—Book Review |work=The Fantasy Hive |first=Filip |last=Magnus |date=2020-12-10}}</ref> The reviewer for ''Publishers Weekly'' said that "[t]he result is a satisfying if not happy end to the series."<ref>{{cite web |url=https://www.publishersweekly.com/978-0-06-266262-0 |title=Fiction Book Review: The Burning God by R.F. Kuang. Harper Voyager, $26.99 (640p) |work=[[Publishers Weekly]] |date=2020-08-04}}</ref>
+
+=== ''Babel'' ===
+In May 2021, Kuang announced the August 2022 release of her fourth novel, ''Babel, or The Necessity of Violence: An Arcane History of the Oxford Translators' Revolution'', by Harper Voyager. Unlike her previous works, this novel is set in 1830s England.<ref>{{cite news |url=https://www.tor.com/2021/05/06/poppy-war-rf-kuang-announces-new-novel-babel/ |title=Poppy War Author R.F. Kuang Announces New Novel, Babel |work=[[Tor.com]] |first=Andrew |last=Liptak |date=May 6, 2021}}</ref><ref>{{cite web |url=https://tinyletter.com/kuangrf/letters/announcing-babel-out-august-2022 |title=Announcing BABEL, out August 2022 |first=Rebecca |last=Kuang |date=May 5, 2021 |work=R.F. Kuang Author Newsletter}}</ref>
+
+== Awards ==
+
+Kuang's novel ''The Poppy War'' was finalist for the [[Nebula Award for Best Novel|Nebula]], [[Locus Award for Best Fantasy Novel|Locus]], and [[World Fantasy Award—Novel|World Fantasy Awards]]. The novel won the 2019 [[Compton Crook Award]] for best first English language novel of the year<ref name=Compton /> and the 2019 [[Crawford Award]], presented annually by the [[International Association for the Fantastic in the Arts]].<ref name=Crawford />
+
+Kuang was also a finalist for the 2019 [[John W. Campbell Award for Best New Writer|Campbell Award for Best New Writer]], and won the renamed 2020 Astounding Award for Best New Writer.
+
+== Bibliography ==
+=== Poppy War series ===
+* ''[[The Poppy War]]'' (May 2018), {{ISBN|978-0062662569}}
+* ''The Dragon Republic'' (August 2019), {{ISBN|978-0062662637}}
+* ''The Burning God'' (November 2020), {{ISBN|978-0062662620}}
+
+===Short stories===
+* "The Nine Curves River" in the anthology ''The Book of Dragons'' (July 2020; edited by Jonathan Strahan {{ISBN| 978-0062877161}} ([https://chtbl.com/track/288D49/traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/d7b69935-6f2f-4116-b8df-aae900107d55/e5e4f90b-71bd-409d-b0e7-ac21016e2036/audio.mp3?utm_source=Podcast&in_playlist=573b320f-9f59-467a-be34-aae900107d84 story read by LeVar Burton] via [https://www.levarburtonpodcast.com/ the LeVar Burton Podcast])
+* "Against All Odds" in the anthology ''From a Certain Point of View: 40 stories celebrating 40 years of The Empire Strikes Back'' (November 2020) {{ISBN|978-0593157749}}
+
+==Academic lectures and symposia==
+* {{cite AV media |url=https://tolkienlecture.org/2020/05/24/tolkien-symposium-2020-video-recording-and-resource-list/ |title=Tolkien Symposium 2020: Video Recording and Resource List |date=May 24, 2020 |work=[[Pembroke College, Oxford|Pembroke College]] |via=[[YouTube]]}} (includes reading list of topics mentioned in the symposium)
+* {{cite AV media |url=https://www.youtube.com/watch?v=e9xxcOh6Rg0 |title=R.F. Kuang Lecture "The Poppy War in Context: Asian American Speculative Fiction" |date=October 28, 2020 |work=[[University of Manitoba]] |via=[[YouTube]]}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{official}}
+* {{twitter}}
+* {{ISFDB name|269436}}
+* {{sfadb|R_F_Kuang|R.F. Kuang}}
+*Academic lectures and symposia
+:* {{cite AV media |url=https://tolkienlecture.org/2020/05/24/tolkien-symposium-2020-video-recording-and-resource-list/ |title=Tolkien Symposium 2020: Video Recording and Resource List |date=May 24, 2020 |work=[[Pembroke College, Oxford|Pembroke College]] |via=[[YouTube]]}} (includes reading list of topics mentioned in the symposium)
+:* {{cite AV media |url=https://www.youtube.com/watch?v=e9xxcOh6Rg0 |title=R.F. Kuang Lecture "The Poppy War in Context: Asian American Speculative Fiction" |date=October 28, 2020 |work=[[University of Manitoba]] |via=[[YouTube]]}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Kuang, R. F.}}
+[[Category:21st-century American novelists]]
+[[Category:21st-century American women writers]]
+[[Category:American fantasy writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Chinese-American literature]]
+[[Category:1996 births]]
+[[Category:Living people]]
+[[Category:Writers from Guangzhou]]
+[[Category:Georgetown University alumni]]
+[[Category:Alumni of Magdalene College, Cambridge]]
+[[Category:21st-century Chinese women writers]]
+[[Category:21st-century Chinese writers]]
+[[Category:Marshall Scholars]]
+[[Category:Greenhill School alumni]]
+[[Category:John W. Campbell Award for Best New Writer winners]]

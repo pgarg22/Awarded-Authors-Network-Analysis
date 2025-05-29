@@ -1,0 +1,127 @@
+{{short description|American fantasy author|bot=PearBOT 5}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = James P. Blaylock
+| image = 
+| caption = 
+| pseudonym =
+| birth_date = {{Birth date and age|1950|9|20}}
+| birth_place = [[Long Beach, California]], United States
+| death_date =
+| death_place =
+| occupation = Writer
+| period = 
+| genre = [[Fantasy]], [[Science fiction]]
+| subject =
+| movement = [[Steampunk]]
+| website = {{URL|sybertooth.com/blaylock}}
+}}
+'''James Paul Blaylock''' (born September 20, 1950) is an American [[Fantasy fiction|fantasy]] author.<ref>Mark Wingenfeld, "James P. Blaylock" in [[Richard Bleiler|Bleiler, Richard]], Ed. ''Supernatural Fiction Writers: Contemporary Fantasy and Horror''. New York: Thomson/Gale, 2003. (pp. 89-98) {{ISBN|9780684312507}}</ref>  He is noted for a distinctive, humorous style, as well as being one of the pioneers of the [[steampunk]] genre of science fiction.  Blaylock has cited [[Jules Verne]], [[H. G. Wells]], [[Robert Louis Stevenson]], [[Arthur Conan Doyle]] and [[Charles Dickens]] as his inspirations.<ref name="geek">{{cite web|url=http://www.thegeekgirlproject.com/2013/05/23/interview-with-james-p-blaylock/|title=Interview with Steampunk Legend Author James P. Blaylock|website=The Geek Girl Project|date=23 May 2013}}</ref>
+
+He was born in [[Long Beach, California]]; studied English at [[California State University, Fullerton]], receiving an M.A. in 1974; and lives in [[Orange, California]], teaching creative writing at [[Chapman University]]. He taught at the Orange County School of the arts until 2013. Many of his books are set in [[Orange County, California]], and can more specifically be termed "fabulism"{{spaced ndash}}that is, fantastic things happen in our present-day world, rather than in traditional fantasy, where the setting is often some other world. His works have also been categorized as [[magic realism]].
+
+He and his friends [[Tim Powers]] and [[K. W. Jeter]] were mentored by [[Philip K. Dick]]. Along with Powers, Blaylock invented the poet [[William Ashbless]]. Blaylock and Powers have often collaborated with each other on writing stories, including "The Better Boy", "On Pirates", and "The William Ashbless Memorial Cookbook".
+
+Blaylock previously served as director of the Creative Writing Conservatory at the [[Orange County High School of the Arts]] until 2013, where Powers has also been Writer in Residence.<ref name="geek" /><ref>{{Citation
+  | title = CW Alumni Mixer & Farewell to Jim Blaylock
+  | website = OCSA Calendar
+  | date = August 2, 2013
+  | access-date = August 24, 2016
+  | url = http://www.ocsarts.net/calendar?cgid=2&ceid=4649&cerid=0&cdt=8%2F2%2F2013
+  | archive-url = https://web.archive.org/web/20160911154114/http://www.ocsarts.net/calendar?cgid=2&ceid=4649&cerid=0&cdt=8%2F2%2F2013
+  | archive-date = September 11, 2016
+  | url-status = dead
+  }}</ref>
+
+He has been married to his wife, Viki Blaylock, for more than 40 years. They have two sons, John and Danny.
+
+==Awards==
+Blaylock's short story "Thirteen Phantasms" won the 1997 [[World Fantasy Award]] for best Short Fiction.<ref>{{cite web|author=World Fantasy Convention |year=2010 |title=Award Winners and Nominees |url=http://www.worldfantasy.org/awards/awardslist.html/ |access-date=4 Feb 2011 |url-status=dead |archive-url=https://web.archive.org/web/20101201074405/http://worldfantasy.org/awards/awardslist.html |archive-date=2010-12-01 }}</ref>  "Paper Dragons" won the award in 1986.<ref>{{cite web |url=http://www.worldfantasy.org/awards/1986.html |title=1986 World Fantasy Award Winners and Nominees|access-date=2011-03-19 |url-status=dead |archive-url=https://web.archive.org/web/20131015020103/http://www.worldfantasy.org/awards/1986.html |archive-date=2013-10-15 }}</ref> ''Homunculus'' won the Philip K. Dick award in 1987.<ref>{{cite web|archive-url=https://web.archive.org/web/20090414083124/http://www.locusmag.com/SFAwards/Db/Pkd1987.html|archive-date=14 April 2009|url=http://www.locusmag.com/SFAwards/Db/Pkd1987.html|title=1987 Philip K. Dick Award|website=Locus}}</ref>
+
+==Novels==
+
+===The "Balumnia" Trilogy===
+Whimsical fantasy inspired, according to the author, by ''[[Wind in the Willows]]'' and ''[[The Hobbit]]''.
+* ''[[The Elfin Ship]]'' (1982)
+* ''[[The Disappearing Dwarf]]'' (1983)
+* ''[[The Stone Giant (novel)|The Stone Giant]]'' (1989)
+* ''[[The Man in the Moon (novel)|The Man in the Moon]]'' (2002){{spaced ndash}}The original manuscript, initially rejected, from which ''The Elfin Ship'' was reworked, with commentary and an additional short story.
+
+===The "Narbondo" Series===
+====Novels====
+Sharing the character of villain Ignacio Narbondo; ''The Digging Leviathan'' and its sequel ''Zeuglodon'' are contemporary fantasies set in 1960s California, while the remainder are [[steampunk]] novels set in [[Victorian England]].
+* ''[[The Digging Leviathan]]'' (1984)
+* ''[[Homunculus (novel)|Homunculus]]'' (1986)
+* ''[[Lord Kelvin's Machine]]'' (1992) {{spaced ndash}} Expansion of the eponymous 1985 novelette.
+* ''[[Zeuglodon (novel)|Zeuglodon]]'' (2012; sequel to ''[[The Digging Leviathan]]'')
+* ''[[The Aylesford Skull]]'' (2013; a Langdon St. Ives novel)
+* ''[[Beneath London]]'' (2015; a Langdon St. Ives novel)
+
+====Short fiction and novellas====
+* "The Ape-Box Affair" (1978)
+* "The Idol's Eye" (1984)
+* "Lord Kelvin's Machine" (1985) {{spaced ndash}} Expanded into a novel in 1992.
+* "Two Views of a Cave Painting" (1987)
+* "The Hole in Space" (2002)
+* ''The Ebb Tide'' (2009; a Langdon St. Ives novella)
+* ''The Affair of the Chalk Cliffs'' (2011; a Langdon St. Ives novella)
+* ''[[The Adventure of the Ring of Stones]]'' (2014; a Langdon St. Ives novella)
+* "The Here-and-Thereians" (2016)
+* "Earthbound Things" (2016)
+* ''River's Edge'' (2017; a Langdon St. Ives novella)
+* ''The Gobblin’ Society'' (2020; a Langdon St. Ives novella) ({{ISBN|978-1-59606-948-0}})
+
+====Collections====
+All short fiction (except for the novelette ''Lord Kelvin's Machine'') and two novels have appeared in two collections by [[Subterranean Press]]:
+* ''The Adventures of Langdon St. Ives'' (2008) {{spaced ndash}} Omnibus of ''Homunculus'', ''Lord Kelvin's Machine'', and the stories "The Ape-Box Affair", "The Idol's Eye", "Two Views of a Cave Painting", "The Hole in Space".
+* ''The Further Adventures of Langdon St. Ives'' (2016) {{spaced ndash}} Omnibus of ''The Ebb Tide'', ''The Affair of the Chalk Cliffs'', ''The Adventure of the Ring of Stones'', and the new stories "The Here-and Thereians'' and "Earthbound Things".
+
+===The "Christian" Trilogy===
+Present-day fantasy using [[Christianity|Christian]] elements, such as the [[Holy Grail]] and the silver coins paid to [[Judas Iscariot|Judas]].
+* ''The Last Coin'' (1988)
+* ''The Paper Grail'' (1991)
+* ''All the Bells on Earth'' (1995)
+
+===The "Ghosts" Trilogy===
+Present-day Californian ghost stories.
+* ''Night Relics'' (1994)
+* ''Winter Tides'' (1997)
+* ''The Rainy Season'' (1999)
+
+===Others===
+* ''The Complete Twelve Hours of the Night'' (1986){{spaced ndash}}Joke pamphlet co-written by Tim Powers and published by [[Cheap Street]] Press.
+* ''Land of Dreams'' (1987)
+* ''The Magic Spectacles'' (1991){{spaced ndash}}Young adult book.
+* ''13 Phantasms'' (2000){{spaced ndash}}Short story collection.
+* ''On Pirates'' (2001){{spaced ndash}}Short story collection with Tim Powers.
+* ''The Devils in the Details'' (2003){{spaced ndash}}Short story collection with Tim Powers.
+* ''In for a Penny'' (2003){{spaced ndash}}Short story collection.
+* ''The Knights of the Cornerstone'' (2008) {{ISBN|9780441016532}}
+* ''The Shadow on the Doorstep'' (2009){{spaced ndash}}Short story collection.
+* ''Home Sweet Home'' and ''Postscript to Home Sweet Home'' (2012){{spaced ndash}}Nonfiction essays included in ''A Comprehensive Dual Bibliography of James P. Blaylock & Tim Powers'' {{ISBN|9780976748601}}.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://jamespblaylock.com James P. Blaylock] - Official website
+*[http://www.sybertooth.com/blaylock/ Website and discussion forum about Blaylock's writing]
+*{{isfdb name|id=177|name=James P. Blaylock}}
+*[http://protectingprojectpulp.com/protecting-project-pulp-no-29-james-blaylock/ Interview with Blaylock regarding his novel 'The Aylesford Skull' and a reading of his story "The Pink of Fading Neon"]
+{{World Fantasy Award Best Short Fiction}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Blaylock, James}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:American fantasy writers]]
+[[Category:Writers from California]]
+[[Category:California State University, Fullerton alumni]]
+[[Category:Chapman University faculty]]
+[[Category:Steampunk writers]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American novelists]]
+[[Category:American male novelists]]
+[[Category:21st-century American male writers]]

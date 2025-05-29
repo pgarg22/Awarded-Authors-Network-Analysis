@@ -1,0 +1,101 @@
+{{more footnotes|date=October 2012}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Thomas Lux
+| image       = Tomlux.jpg
+| imagesize   = 150px |
+| birth_name = Thomas Norman Lux
+| birth_date  = {{birth date|1946|12|10}}
+| birth_place = [[Northampton, Massachusetts|Northampton]], [[Massachusetts]]
+| death_date  = {{death date and age|2017|2|5|1946|12|10}}
+| death_place = [[Atlanta, Georgia]]
+| occupation  = [[Poet]], college teacher
+| language =
+| nationality = 
+| citizenship = 
+| education = | alma_mater = | period = | genre = <!-- or: | genres = --> | subject = <!-- or: | subjects = --> | movement = | notableworks = <!-- or: | notablework = --> | spouse = <!-- or: | spouses = --> | partner = <!-- or: | partners = --> | children = | relatives = | awards =[[Kingsley Tufts Poetry Award]] | signature = | signature_alt = | years_active = | module = | website = <!-- {{URL|example.org}} --> | portaldisp = <!-- "on", "yes", "true", etc; or omit --> }}
+
+'''Thomas Lux''' (December 10, 1946 – February 5, 2017) was an [[United States|American]] [[poet]] who held the Margaret T. and [[Henry C. Bourne, Jr.]] Chair in Poetry at the [[Georgia Institute of Technology]] and ran Georgia Tech's "Poetry @ Tech" program.<ref name="tech">{{Cite web |url=https://poetry.gatech.edu/bourne-chair |title=The Margaret T. and Henry C. Bourne, Jr. Chair in Poetry: Thomas Lux |website=Poetry at Tech |publisher=[[Ivan Allen College of Liberal Arts]] |access-date=2012-10-21}}</ref><ref>{{Cite web|url=https://www.poetryfoundation.org/poets/thomas-lux|title=Thomas Lux|date=2018-03-22|website=Poetry Foundation|language=en-us|others=Poetry Foundation|access-date=2018-03-22}}</ref> He was the author of fourteen books of poetry.<ref name="gatech.edu">{{cite web|url=https://poetry.gatech.edu/poets/thomas-lux|title=Thomas Lux – Poetry @ Tech|publisher=|accessdate=7 February 2017}}</ref>
+
+==Early life and education==
+Thomas Lux was born in [[Northampton, Massachusetts]], son of a milkman and a [[Sears & Roebuck]] switchboard operator, neither of whom graduated from high school. Lux was raised in Massachusetts on a dairy farm.<ref name="ajc">{{Cite web |url=http://www.ajc.com/news/local-obituaries/thomas-lux-esteemed-georgia-tech-teacher-and-poet/wewY41fQeneWb0Ey8CxoIM/ |title=Noted Georgia Poet Thomas Lux dies |last=Emerson |first=Bo |date=February 6, 2017 |publisher=Atlanta Journal-Constitution}}</ref>
+
+Lux graduated from [[Emerson College]] in [[Boston]], where he was also poet in residence from 1970–1975. His first book—''Memory's Handgrenade''—was published shortly after.<ref name="ajc"/>
+
+==Academic career==
+Lux was a member of the writing faculty at [[Sarah Lawrence College]], where he taught for twenty-seven years, from 1975 until 2001.<ref name="gatech.edu"/> He was also a core faculty member of the [[Warren Wilson College|Warren Wilson M.F.A. Program for Writers]]. In 1996 he was a visiting professor at [[University of California, Irvine]].<ref name="gatech.edu"/> A former [[Guggenheim Fellow]] and three times a recipient of grants from the [[National Endowment for the Arts]], Lux received, in 1995, the $50,000 [[Kingsley Tufts Poetry Award]] for his sixth collection, ''Split Horizons.''<ref name="auto">{{cite web|url=https://www.nytimes.com/2017/02/22/books/thomas-lux-died-poet.html|title=Thomas Lux, Poet Who Wrote of Life’s Absurdities, Dies at 70|first=William|last=Grimes|date=22 February 2017|publisher=|via=NYTimes.com}}</ref> In 2003, Lux was awarded an honorary doctorate of Letters from Emerson College.<ref name="gatech.edu"/> His poems were featured in many notable anthologies, including ''American Alphabets: 25 Contemporary Poets'' (2006). In 2012, Lux received the Robert Creeley Award.<ref>{{Cite web|url=http://robertcreeleyfoundation.org/robert-creeley-award/|title=Robert Creeley Foundation   » Award – Robert Creeley Award|website=robertcreeleyfoundation.org|language=en-US|access-date=2018-03-22}}</ref>
+
+At the time of his death in February 2017, Lux was the Margaret T. and [[Henry C. Bourne, Jr.]] Chair in Poetry at the [[Georgia Institute of Technology]] where he began teaching in 2001.<ref name="ajc"/>  At Georgia Tech he ran their "Poetry at Tech" program,<ref name="tech"/> which included one of the best known poetry reading series in the country, along with community outreach classes and workshops.<ref>Lux describes the genesis and development of the program in "The Poem Is a Bridge: Poetry@Tech," in: ''Humanistic Perspectives in a Technological World'', ed. Richard Utz, Valerie B. Johnson, and Travis Denton (Atlanta: School of Literature, Media, and Communication, Georgia Institute of Technology, 2014), pp. 72–5.</ref>
+
+Before his death, Lux edited (and wrote the Introduction to) [[Bill Knott (poet)|Bill Knott]]'s posthumous publication ''I Am Flying into Myself: Selected Poems 1960–2014'' which appeared in February 2017.<ref name="gatech.edu"/><ref name="auto"/>
+
+==Death==
+Lux died of lung cancer at his home in Atlanta, Georgia on February 5, 2017. He is survived by his wife Jennifer Holley Lux and a daughter from a previous marriage, Claudia Lux.<ref name="auto"/>
+
+==Bibliography==
+{{Expand list|date=February 2020}}
+
+===Poetry===
+;Collections
+* {{cite book |author=Lux, Thomas |title=Memory's handgrenade |location=Cambridge, Mass. |publisher=Pym-Randall |year=1972 <!--lccn=72081169-->}}
+* ''The Glassblower's Breath'' (1976)
+* ''Sunday'' (1979)
+* ''Half Promised Land'' (1986)
+* ''The Drowned River'' (1990)
+* ''Split Horizon'' (1994)
+* ''The Blind Swimmer: Selected Early Poems, 1970–1975'' (1996)
+* ''New and Selected Poems, 1975–1995'' (1997)
+* ''The Street of Clocks'' (2001)
+* ''The Cradle Place'' (2004)
+* ''God Particles'' (2008)
+* ''Child Made of Sand'' (2012)
+* ''Selected Poems'' (Bloodaxe Books, UK, 2014) {{ISBN|978-1-78037-115-3}}
+* ''To the Left of Time'' (2016)
+;Chapbooks
+* ''The Land Sighted'' (chapbook, 1970)
+* ''Madrigal on the Way Home'' (chapbook, 1976)
+* ''Like a Wide Anvil from the Moon the Light'' (chapbook, 1980)
+* ''Massachusetts'' (chapbook, 1981)
+* ''Tarantulas on the Lifebuoy'' (chapbook, 1983)
+* ''A Boat in the Forest'' (chapbook, 1992)
+* ''Pecked to Death by Swans'' (chapbook, 1993)
+;List of poems
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+|-
+|Cow chases boys
+|2015
+|{{cite journal |author=Lux, Thomas |date=March 23, 2015 |title=Cow chases boys |journal=The New Yorker |volume=91 |issue=5 |pages=46 |url=https://www.newyorker.com/magazine/2015/03/23/cow-chases-boys <!--accessdate=2020-02-21-->}}
+| 
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+* [http://www.cerisepress.com/01/01/love-it-hard-thomas-lux-on-poetry ''Love It Hard'': Thomas Lux On Poetry, profile and interview with Sally Molini in ''Cerise Press,'' Summer 2009]
+* [http://www.poets.org/poet.php/prmPID/115 Academy of American Poets profile]
+* [http://plagiarist.com/poetry/poets/35/ A few poems by Thomas Lux]
+* [http://www.cortlandreview.com/issue/8/lux8i.htm Online interview with Lux]
+* [http://www.poetry.gatech.edu/index.php Poetry at Tech]
+* {{YouTube|kj5fChchEYg|Thomas Lux (1946-2017): Bloodaxe Books filmed reading and interview from 2014}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lux, Thomas}}
+[[Category:1946 births]]
+[[Category:2017 deaths]]
+[[Category:20th-century American poets]]
+[[Category:21st-century American poets]]
+[[Category:Emerson College alumni|Lux,Thomas]]
+[[Category:Georgia Tech faculty]]
+[[Category:Iowa Writers' Workshop alumni]]
+[[Category:Iowa Writers' Workshop faculty]]
+[[Category:The New Yorker people]]
+[[Category:Sarah Lawrence College faculty]]
+[[Category:Writers from Northampton, Massachusetts]]

@@ -1,0 +1,217 @@
+{{Short description|British children's book author, born 1944}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox writer <!-- for more information see Template:Infobox writer -->
+|name = Jenny Nimmo
+|image = 
+|imagesize = 
+|caption = 
+|birth_name = 
+|birth_date = {{Birth date and age|df=yes|1944|1|15}}<ref name=weeweb/>
+|birth_place = [[Windsor, Berkshire|Windsor]], England, UK
+|nationality = British
+|education = 
+|alma_mater = 
+|occupation = Writer
+|period = 1974–present
+|genre = [[Children's literature|Children's]] [[fantasy]] and [[adventure novel]]s, picture books
+|notableworks = {{plainlist|
+*''[[The Snow Spider]]''
+*''[[Children of the Red King]]''
+}}
+|influences = 
+|spouse = David Wynn Millward<ref name=biography/> <!-- VIAF=43468268 LCCN=n/90/693821 -->
+|children = {{plainlist|
+*Myfanwy (born 1975)
+*Ianto (1976)
+*Gwenhwyfar (1980) <!-- Gwen Millward below as at VIAF=16675326 LCCN=n/2007/040890 -->
+}}
+|website = {{url|http://jennynimmo.me.uk/}}
+}}
+'''Jenny Nimmo''' (born 15 January 1944)<ref name=weeweb/><ref name=notable/><!-- see TALK --> is a British author of children's books, including fantasy and adventure novels, [[chapter books]], and picture books. Born in England, she has lived mostly in Wales for 40 years. She is probably best known for two series of fantasy novels: ''[[The Magician Trilogy]]'' (1986–1989), contemporary stories rooted in Welsh myth, and ''[[Children of the Red King]]'' (2002–2010), featuring schoolchildren endowed with magical powers. ''The Snow Spider'', first of the Magician books, won the second annual [[Nestlé Smarties Book Prize]]{{efn |name=smarties}} and the 1987 [[Tir na n-Og Award]] as the year's best originally English-language book with an authentic Welsh background. ''The Stone Mouse'' was highly commended for the 1993 [[Carnegie Medal (literary award)|Carnegie Medal]].<ref name=ccsu/>{{efn |name=HC}} Several others of hers have been shortlisted for children's book awards.
+
+==Biography==
+Jenny Nimmo was born in [[Windsor, Berkshire|Windsor]], England.<ref name=biography/><ref name=gale/> She was an only child, and her father died when she was five. She was a [[wikt:voracious|voracious]] reader as a child, which led her to write her own stories to share with friends.<ref name=scholastic/>
+
+After working for a time in theatre, Nimmo spent several years with the [[BBC]], partly on adapting other writers' stories for television, including 40 episodes (eight "stories") for ''[[Jackanory]]'' readings.<ref name=imdb/> Her first book, ''The Bronze Trumpeter'', began life as a television script.<ref name=scholastic/> It was published by [[Angus & Robertson]] in January 1975.<ref name=isfdb/><!-- copyright 1974 iiuc -->
+
+That year, Nimmo married David Wynn Millward, a Welsh artist and illustrator. Their two daughters and one son were born between 1975 and 1980. She currently lives in [[Wales]], sharing her time between writing and helping her husband with a summer art school.
+
+Millward is the writer or illustrator of a few published books himself, including four collaborations with Nimmo (1994–2000, marked ‡ below).<ref name=worldcat-david/> Nimmo and their younger daughter Gwen Millward have collaborated on one picture book written by Jenny and illustrated by Gwen, ''The Beasties'' ([[Egmont UK]], 2010).<ref name=beasties/><!-- unpaged; publisher quotes SLJ: "A feast for the eyes, and a spark for the imagination, this invitation to become a storyteller will appeal to creative youngsters everywhere." --> Gwen's first published book as both writer and illustrator was ''Bear and Bird'' (Egmont, September 2012).<ref>[http://www.gwenmillward.co.uk/ Gwen Millward: Welcome to my Website]. Gwen Millward. Retrieved 18 October 2012.</ref><!-- 2010-10-18, 3 September 2012 book launch is featured on the homepage. See also [http://www.egmont.co.uk/product.asp?prodid=2868 --><ref>[http://www.worldcat.org/identities/lccn-n2007-040890 "Millward, Gwen"]. WorldCat. Retrieved 16 December 2012.</ref><!-- for her book WorldCat oclc=751742145 gives Summary but incorrect date 2011; 32 pp. 9781405254267 -->
+
+==Writer==
+===Charlie Bone and the Red King===
+Her best-known work may be ''[[Children of the Red King]]'', also known as the Charlie Bone series or Red King series, in which Charlie Bone's magical talent embroils him in the sinister intrigues of his new school. By 2006 ''Charlie Bone'' titles had been published in nine foreign-language editions. Translations into eleven other languages were in progress.<ref name=bone>[http://www.jennynimmo.me.uk/CharlieBonePg02.html "Welcome to the Charlie Bone Page"]. Jenny Nimmo's Official Website. Copyright 2006. Retrieved 15 June 2012.</ref>{{efn |name=bone}}
+Originally it was the Red King Quintet after which Nimmo contracted for a new trilogy.<ref>"New Charlie Bone trilogy for Egmont". ''The Bookseller'' 29 July 2005, p. 15. Retrieved 22 January 2006 via [[InfoTrac]].</ref> The story climaxes in the fifth book and again in the eighth. Recently there is a new ''Red King'' series.<ref name=isfdb-series/>
+
+==Publications==
+<div class="noprint">
+<!-- is this complete? if we know, we should say
+ -->
+{{Col-begin}}
+{{Col-break}}
+
+===Non-fiction===
+*''An Interview with Jenny Nimmo'' by Wendy Cooling (London: [[Constable & Robinson|Mammoth Books]], 1999, {{ISBN|0749738626}}) <!-- source is WorldCat; see Talk for more info
+ -->
+
+===Short stories===
+*"Centuries of Stories"<ref name=books/>
+*"Sisters"
+*"Take Your Knee Off My Heart"
+*"The Animals' Bedtime Story"
+*"Your Late Dad"
+
+===Picture books===
+*''The Bears Will Get You'' (1990)<ref name=books/>
+*''The Starlight Cloak'' (1990)
+*''The Witches and the Singing Mice'' (1993)
+*''Gwion and the Witch'' ([[Gwasg Gomer]] Legends from Wales, 1996)
+*''Branwen'' (Gomer Legends from Wales, 1997)
+*''Esmeralda and the Children Next Door'' (1999)
+*''The Strongest Girl in the World'' (2001)
+*''Something Wonderful'' (2001)
+*''Pig on a Swing'' (2003)
+*''The Beasties'' (2010), illustrated by Nimmo's daughter Gwen Millward<ref name=beasties>
+[http://www.worldcat.org/title/beasties/oclc/781009160?referer=di&ht=edition "The beasties"] (first edition). [[WorldCat]]. Retrieved 18 October 2012.</ref>
+
+===Chapter books===
+;Box Boys
+*''The Box Boys and the Bonfire Cat'' (1999)
+*''The Box Boys and the Dog in the Mist'' (1999)
+*''The Box Boys and the Fairground Ride'' (1999)
+*''The Box Boys and the Magic Shell'' (1999)
+;Delilah
+*''Delilah and the Dogspell'' (1991)
+*''Delilah and the Dishwasher Dogs'' (1993)
+*''Delilah Alone'' (1995)
+;Other illustrated books<ref name=books/>
+*''Tatty Apple'' (1984)
+*''The Red Secret'' (1989)
+*''Jupiter Boots'' (1990)
+*''The Stone Mouse'' (1993)
+*''The Breadwitch'' (1993)
+*''Wilfred's Wolf'' (1994) ‡
+*''Ronnie and the Giant Millipede'' (1995)
+*''Granny Grimm's Gruesome Glasses'' (1995) ‡
+*''The Witch's Tears'' (1996)
+*''The Alien on the 99th Floor'' (1996)
+*''Hot Dog, Cool Cat'' (1997) ‡
+*''Seth and the Strangers'' (1997)
+*''[[The Owl Tree]]'' (1997)
+*''The Dragon's Child'' (1997)
+*''The Dog Star'' (1999)
+*''Toby in the Dark'' (1999)
+*''Ill Will, Well Nell'' (2000) ‡
+*''The Bodigulpa'' (2001)
+*''Tom and the Pterosaur'' (2001)
+*''Beak and Whisker'' (2002)
+*''Matty Mouse'' (2003)
+*''The Night of the Unicorn'' (2003)
+*''Invisible Vinnie'' (2003)
+{{Col-break}}
+
+===Novels===
+;''Children of the Red King''
+{{main|Children of the Red King}}
+There are eight books in the series, all first published by [[Egmont Group#UK branch|Egmont Press]] in British [[Paperback#Trade paperback|trade paperback]] editions with cover art by [[David Wyatt (artist)|David Wyatt]].<ref name=isfdb-series/>
+#''Midnight for Charlie Bone'' (2002)
+#''The Time Twister'' (2003)
+#''The Blue Boa'' (2004)
+#''The Castle of Mirrors'' (2005)
+#''Charlie Bone and the Hidden King'' (2006)
+#''Charlie Bone and the Wilderness Wolf'' (2007)
+#''Charlie Bone and the Shadow of Badlock'' (2008)
+#''Charlie Bone and the Red Knight'' (2009)
+Five volumes have variant titles in the United States.<ref name=isfdb-series/>
+;''Chronicles of the Red King''
+#''The Secret Kingdom'' (2011)
+#''The Stones of Ravenglass'' (2012) 
+#''Leopards' Gold'' (Egmont, August 2013, {{ISBN|978-1-4052-5734-3}})<ref name=isfdb-series>
+{{isfdb series |31162 |Charlie Bone Universe}} (ISFDB). Retrieved 26 April 2012.</ref>
+;’ Novels linked to the ‘Children of the Red King’ Series’
+#‘’Henry and the Guardians of the Lost’’ (2016)
+#‘’Gabriel and the Phantom Sleepers’’ (2018)
+;''The Magician Trilogy''
+{{main|The Magician Trilogy}}
+In Britain this series has been published in one volume entitled ''The Snow Spider Trilogy''.<ref name=isfdb/>
+#‘’The Snow Spider'' (1986)
+#''Emlyn's Moon'' (1987); first US title, ''Orchard of the Crescent Moon''<ref name=isfdb/>
+#''The Chestnut Soldier'' (1989)
+;Other novels<ref name=books/>
+*''The Bronze Trumpeter'' (Angus & Robertson, 1975)
+*''Ultramarine'' (1990)
+*''Rainbow and Mr Zed'' (1992), sequel to ''Ultramarine''
+*''Griffin's Castle'' (1994)
+*''The Rinaldi Ring'' (1999)
+*''Milo's Wolves'' (2001)
+{{col-end}}
+‡ Four 55- to 64-page books are illustrated by Nimmo's husband David Wynn Millward (1994 to 2000).<ref name=worldcat-david>
+[http://www.worldcat.org/identities/lccn-n90-693821 "Millward, David Wynn"]. WorldCat. Retrieved 16 December 2012.</ref>
+</div>
+
+==Adaptations==
+''The Snow Spider'' and its sequels were [[film adaptation|adapted]] for television by the screenwriter [[Julia Jones (dramatist)|Julia Jones]], as three miniseries that [[ITV Wales & West|HTV]] aired 1989 to 1991. The series introduced Osian Roberts as Gwyn Griffiths with [[Siân Phillips]] as grandmother Nain Griffiths, [[Robert Blythe (actor)|Robert Blythe]] and [[Sharon Morgan]] as his parents, and [[Gareth Thomas (actor)|Gareth Thomas]] as Mr. Llewellyn.<ref name=imdb/><!-- some detail should be exported to The Magician Trilogy only -->
+
+==See also==
+{{Portal bar |Children's literature |Fantasy |Wales }} <!-- delete "bar" when there are about two ordinary See also -->
+
+==Notes==
+{{notelist |25em |notes=
+{{efn |name=HC |1=
+Today there are usually eight books on the Carnegie shortlist. According to CCSU some runners up through 2002 were Commended (in 1954) or Highly Commended (in 1966). The latter distinction became approximately annual in 1979; there were 29 highly commended books in 24 years including Nimmo and one other in 1993.
+}}
+{{efn |name=smarties |1=
+For two years there was a single Nestlé Prize for children's books. Three age categories were introduced for 1987 publications and retained as long as the prize continued. Nimmo and ''The Owl Tree'' won the 1997 prize in category 6 to 8 years, the middle age group also called "younger readers". By that time there was no overall prize. 
+}}
+{{efn |name=bone |1= 
+"Jenny's Books" (copyright date 2006) lists forthcoming languages of translation Greek, Portuguese, Dutch, Serbian, Croatian, Norwegian, Vietnamese, Thai, Indonesian, Turkish and Romanian. Meanwhile it displays book covers for three to five volumes in each of nine foreign languages alongside those for the first six volumes in the British and American editions; the sixth was first published in 2007.<!-- some detail should be exported to ''Children of the Red King'' --and it should be updated (first by Nimmo!) -->
+}}
+}}
+
+==References==
+{{reflist |25em |refs= 
+<!-- biographical
+ "Jenny's Biography" may make some others redundant
+ -->
+<ref name=books>
+[http://www.jennynimmo.me.uk/books02.html "Jenny's Books"]. Copyright 2006. Jenny Nimmo's Official Website. Retrieved 19 October 2012.</ref>
+<ref name=biography>
+[http://www.jennynimmo.me.uk/Biography.html "Jenny's Biography"]. Copyright 2006. Jenny Nimmo's Official Website. Retrieved 18 October 2012.</ref>
+<ref name=weeweb><!-- REDUNDANT except birth date so it should be deleted if we learn it is wrong about birth date; see TALK -->
+[http://www.theweeweb.co.uk/public/author_profile.php?id=875 "Jenny Nimmo"]. The Wee Web authors & illustrators archive. Retrieved 18 October 2012.</ref> 
+<ref name=scholastic>
+[http://www.scholastic.com/teachers/bookwizard/books-by/jenny-nimmo "Jenny Nimmo"]. Scholastic: Teachers. Retrieved 18 October 2012.</ref> 
+<ref name=gale>
+"Jenny Nimmo". ''[http://gdc.gale.com/gale-literature-collections/contemporary-authors/#Contemporary Authors Online]''. Farmington Hills, Mich.: Thomson Gale. 23 February 2004. Retrieved 22 January 2006. {{subscription required}}</ref>
+<ref name=isfdb>
+{{isfdb name |5089 |Jenny Nimmo}}. Retrieved 18 October 2012.</ref>
+<ref name=imdb>
+{{IMDb name |1597699}}. Retrieved 19 October 2012.</ref>
+<ref name=notable>
+[http://www.notablebiographies.com/news/Li-Ou/Nimmo-Jenny.html "Jenny Nimmo Biography"]. [2004]. ''Encyclopedia of World Biography''. ''notablebiographies.com''. Retrieved 19 October 2012.</ref>
+
+<ref name=ccsu>
+[http://web.ccsu.edu/library/nadeau/award%20books/CarnegieMedal.htm "Carnegie Medal Award"]. 2007(?). Curriculum Lab. Elihu Burritt Library. [[Central Connecticut State University]] ('''CCSU'''). Retrieved 18 October 2012.</ref>
+}}
+
+==External links==
+{{Portal |Children's literature |Speculative fiction |Wales }}
+*{{Official website}}
+*{{writers of wales|129762|nimmo-jenny}}
+*[http://www.iblist.com/author7337.htm Jenny Nimmo at Internet Book List]
+*[http://www.fantasticfiction.co.uk/n/jenny-nimmo/ Jenny Nimmo at Fantastic Fiction] —with many cover images <!-- no biog blurb -->
+*[https://web.archive.org/web/20130312114511/http://www.randomhouse.com.au/authors/jenny-nimmo.aspx Jenny Nimmo at Random House Australia] —bibliog. data including cover images for RHA editions <!-- redundant biog blurb -->
+*{{isfdb name|5089}}
+*{{LCAuth|n86077773|Jenny Nimmo|27|ue}}
+
+{{Jenny Nimmo}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nimmo, Jenny}}
+[[Category:1944 births]]<!-- see TALK -->
+[[Category:British children's writers]]
+[[Category:Welsh fantasy writers]]
+[[Category:People from Windsor, Berkshire]]
+[[Category:Living people]]

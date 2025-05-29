@@ -1,0 +1,92 @@
+{{Infobox person
+| name               = Ivan Vladislavić
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| birth_name         = Ivan Vladislavić
+| birth_date         = {{Birth date and age|1957|09|17}}
+| birth_place        = [[Pretoria, South Africa]]
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date) -->
+| death_place        = 
+| nationality        = South African
+| other_names        = 
+| occupation         = Author, editor, professor
+| years_active       = 
+| known_for          = 
+| notable_works      = 
+}}
+'''Ivan Vladislavić''' (born 17 September 1957) is a [[South Africa|South African]] author, editor and professor.<ref name="Stories">{{cite web |title=Ivan Vladislavić |url=https://www.andotherstories.org/authors/ivan-vladislavic/ |website=And Other Stories |accessdate=10 May 2019 |language=en}}</ref><ref name="Take Two">{{cite web |last1=MacKenzie |first1=Craig |title=Vladislavic: Take two |url=https://mg.co.za/article/2011-05-20-vladislavic-take-two |website=The M&G Online |accessdate=10 May 2019 |language=en |date=20 May 2011}}</ref> Vladislavić's style has been described as [[Postmodern literature|postmodern]], innovative, humorous and unpredictable.<ref name=":1">{{Cite book|last=Cornwell|first=Gareth|url=http://archive.org/details/columbiaguidetos0000corn|title=The Columbia guide to South African literature in English since 1945|date=2010|publisher=New York : Columbia University Press|others=|isbn=978-0-231-50381-5|pages=196-197}}</ref><ref>{{Cite web|last=Kitamura|first=Katie|title=Ivan Vladislavić|url=https://bombmagazine.org/articles/ivan-vladislavić/|url-status=live|access-date=2021-11-15|website=[[Bomb Magazine]]}}</ref><ref>{{Cite book|last=Walder|first=Dennis|url=http://archive.org/details/essaysstudies0053unse|title=Reading the 'New' Literatures in a Postcolonial Era|date=2000|publisher=D. S. Brewer|others=|editor-last=Susheila|editor-first=Nasta|location=Cambridge|pages=157|chapter=The Necessity of Error: Memory and Representation in the New Literatures}}</ref> Despite receiving critical acclaim, his work is not well known outside his home county.<ref name=":2" />
+
+== Biography ==
+Vladislavić was born in Pretoria in 1957.<ref name=":1" /> His father was a mechanic of [[Croats|Croatian heritage]] and his mother was a housewife. He attended the [[University of the Witwatersrand]] and graduated in 1979.<ref name=":2">{{Cite web|last=Hoby|first=Hermione|date=2017-08-08|title=The South African Parables of Ivan Vladislavic|url=https://www.newyorker.com/books/page-turner/the-south-african-parables-of-ivan-vladislavic|url-status=live|access-date=2021-11-15|website=The New Yorker|language=en-US}}</ref> 
+
+He has worked as Social Studies Editor for anti-apartheid publishing house [[Ravan Press]] and as an editor for ''[[Staffrider]]'' magazine.<ref>{{Cite journal|last=Reid|first=Katie|date=2021-05-04|title=Small and joined in print: Ivan Vladislavić, “Tsafendas’s Diary,” and Staffrider magazine (1988)|url=https://doi.org/10.1080/02533952.2021.1973335|journal=Social Dynamics|volume=47|issue=2|pages=264–287|doi=10.1080/02533952.2021.1973335|issn=0253-3952}}</ref> 
+
+He lives in [[Johannesburg|Johannesburg, South Africa]] and is a Professor of Creative Writing at the [[University of the Witwatersrand]].<ref>{{Cite web|last=|first=|date=2020-10-02|title=Q&A: Words on the Times with Ivan Vladislavic on “The Distance”|url=https://africainwords.com/2020/10/02/qa-words-on-the-times-with-ivan-vladislavic/|url-status=live|access-date=2021-11-15|language=en}}</ref><ref name=":1" />
+
+==Bibliography==
+
+=== Novels (fiction) ===
+*''The Folly'' (1993; [[Archipelago Books]], 2015; [[And Other Stories]], 2015)
+*''[[The Restless Supermarket]]'' (David Krut Publishing, 2001; And Other Stories, 2014)
+* ''[[The Exploded View]]'' (Random House, 2004, 2017; Archipelago Books, 2017)
+* ''Double Negative'' (2011; And Other Stories, 2013)
+** Originally published in a joint project, alongside 300 photos from photographer David Goldblatt, under the title ''TJ/Double Negative'' (2010)<ref name=":0">{{Cite web|last=|first=|date=2020|title=Ivan Vladislavic - Books|url=https://www.ivanvladislavic.com/|url-status=live|archive-url=|archive-date=|access-date=4 October 2020|website=Ivan Vladislavic}}</ref>
+* ''A Labour of Moles'' (2012)
+** Illustrated novella designed by Sunandini Banerjee
+* ''The Distance'' (2019; Archipelago Books, 2020)
+
+=== Collections ===
+
+* ''Missing Persons'' (1989)
+* ''[[Propaganda by Monuments|Propaganda by Monuments and Other Stories]]'' (1996)
+* ''Flashback Hotel: Early Stories'' (2010; Archipelago Books, 2019)
+* ''101 Detectives'' (2015; And Other Stories, 2015)
+
+=== Essays & Nonfiction ===
+*''Willem Boshoff'' (David Krut Publishing, 2004)'','' extended essay on the work of conceptual artist [[Willem Boshoff]]
+*''[[Portrait with Keys]]'' (2006)
+*''The Loss Library'' (2012) 
+**A hybrid work blending "essay, fiction and literary genealogy"<ref name=":0" />
+
+==Interviews==
+
+*Steyn, Jan, "Interview with Ivan Vladislavić," ''The White Review,'' August 2012 [http://www.thewhitereview.org/interviews/interview-with-ivan-vladislavic/]
+*De Kok, Ingrid, "Ivan Vladislavić: The Restless Supermarket," ''World Literature Today,'' January 2002
+*De Vries, Fred, "Joburg’s ambiguity mirrored in Portrait," ''The Weekender'', 9 September 2006
+*Jooste, Pamela, "In Conversation with Ivan Vladislavić," ''LitNet'', March 2005 [https://web.archive.org/web/20050925105623/http://www.litnet.co.za/chain/pamela_jooste_vs_ivan_vladislavic.asp]
+*Warnes, Christopher, "Interview with Ivan Vladislavić," ''Modern fiction studies'', 46 (1) Spring, 2000: pp 280.
+*[https://web.archive.org/web/20070926221227/http://www.the-ledge.com/flash/ledge.php?conversation=47&lan=UK Interview with Ivan Vladislavić] on ''The Ledge,'' an independent platform for world literature. Includes excerpt and audio.
+
+==Awards and honors==
+
+*1991: [[Olive Schreiner Prize]], ''Missing Persons''
+*1993: [[CNA Literary Award]], ''The Folly''
+*1994: [[Thomas Pringle Prize]], "Propaganda by Monuments" and "The WHITES ONLY Bench"
+*1997: Honorable Mention, [[Noma Award|Noma Award for Publishing in Africa]], "Propaganda by Monuments"
+*2002: [[The Sunday Times Fiction Prize|Sunday Times Fiction Prize]], ''[[The Restless Supermarket]]''
+*2007: [[Alan Paton Award|Sunday Times Alan Paton Award for Nonfiction]], ''Portrait with Keys''
+*2007: [[University of Johannesburg Prize]], ''Portrait with Keys''<ref name="Take Two"/>
+*2009: Long-listed, [[Warwick Prize for Writing]], ''Portrait with Keys''
+*2011: [[University of Johannesburg Prize]], ''Double Negative''<ref name="Take Two"/>
+*2011: [[M-Net Literary Awards]], ''Double Negative''
+*2015: [[Windham–Campbell Literature Prize]] for Fiction, valued at $150,000<ref>{{cite web |url=http://windhamcampbell.org/2015/winner/ivan-vladislavić |title=Prize Citation for Ivan Vladislavić |publisher=Windham–Campbell Literature Prize |date=February 24, 2015 |accessdate=February 25, 2015 |archive-url=https://web.archive.org/web/20150226063749/http://windhamcampbell.org/2015/winner/ivan-vladislavi%C4%87 |archive-date=February 26, 2015 |url-status=dead }}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://bombmagazine.org/article/0754229/ivan-vladislavi Ivan Vladislvić by Katie Kitamura] ''[[Bomb (magazine)|Bomb]]''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vladislavic, Ivan}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:South African male novelists]]
+[[Category:People from Pretoria]]
+[[Category:South African people of Croatian descent]]
+[[Category:South African male short story writers]]
+[[Category:South African short story writers]]
+[[Category:South African non-fiction writers]]
+[[Category:Male non-fiction writers]]

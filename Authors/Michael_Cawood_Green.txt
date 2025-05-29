@@ -1,0 +1,58 @@
+{{short description|South African born academic and writer (born 1954)}}
+{{Multiple issues|
+{{BLP sources|date=October 2019}}
+{{Notability|Biographies|date=October 2019}}
+}}
+{{Use dmy dates|date=April 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image = 
+| imagesize = |
+| name        = Michael Cawood Green
+| caption     = 
+| pseudonym   = 
+| birth_name = 
+| birth_date  = {{Birth date and age|1954|4|10|df=y}}
+| birth_place = [[Natal Province|Natal]], South Africa
+| death_date  = 
+| death_place = 
+| occupation  = Academic, writer
+| nationality =South African
+| period = 
+| genre       = 
+| subject     = 
+| movement    = 
+| notableworks = 
+| influences  = 
+| influenced  = 
+| signature   = 
+| website     = 
+}}
+'''Michael Cawood Green''' (born 10 April 1954) is a South African born academic and writer.
+
+Green is most noted for his monograph, ''Novel Histories'' which explores the uses of history in [[South African fiction]]. He is the author of two works of historical fiction, ''Sinking: A Verse Novella'' about the 1964 [[Blyvooruitzicht]] sinkhole disaster, and ''For the Sake of Silence'' about the [[Trappists]] in South Africa. His 2019 ''The Ghosting of Anne Armstrong'' is a literary thriller about a 17th Century Northumberland witch accuser, published by Goldsmiths Press and MIT.
+
+Green's fiction forms part of a 'new wave' of writing which explores the altered landscape of [[Post-apartheid South Africa]]. His work, as critic Leon de Kock puts it, "...speaks to the muteness of history, ... that ruptures the silence of time past, and further, ...talks so very eloquently about those who would not speak at all..."<ref>[https://web.archive.org/web/20110714083149/http://michaelcawoodgreen.com/index_files/Page967.htm](Review: Leon de Kok, Sunday Times online, 15 June 2008)</ref>
+
+Green is Professor in English and Creative Writing at [[Northumbria University]].{{cn|date=October 2019}}
+
+== ''For The Sake of Silence'' ==
+Winner of the 2009 Olive Schreiner Prize.<ref>[https://archive.is/20130421225355/http://news.book.co.za/blog/2010/04/21/michael-cawood-green-wins-the-olive-schreiner-prize-for-prose-for-for-the-sake-of-silence/]</ref>
+ 
+[[J. M. Coetzee]] writes, "Of the Trappist enterprise in nineteenth-century South Africa, with all its passionate personal rivalries and Byzantine internal politics, Michael Cawood Green has made a work of history cum fiction that will grip and sometimes amaze the reader."<ref>[https://web.archive.org/web/20110327123758/http://www.quartetbooks.co.uk/bookpages/forthesakeofsilence.html]</ref>
+
+== References==
+{{reflist}}
+
+==External links==
+* [http://michaelcawoodgreen.co.uk Official website]
+* [https://www.northumbria.ac.uk/about-us/news-events/news/400-year-old-tale-of-witchcraft-is-the-focus-of-new-novel]
+* [https://web.archive.org/web/20100219234301/http://www.quartetbooks.co.uk/newtitles.html Quartet Books]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Green, Michael Cawood}}
+[[Category:Living people]]
+[[Category:1954 births]]
+[[Category:University of Natal alumni]]
+[[Category:South African male novelists]]
+[[Category:Historical novelists]]

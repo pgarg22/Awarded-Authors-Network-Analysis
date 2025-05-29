@@ -1,0 +1,82 @@
+{{short description|Spanish playwright}}{{Infobox playwright
+| name = Jacinto Grau
+| birth_date = 1877
+| death_date = 14 August 1958
+| birth_place = [[Barcelona]], [[Spain]]
+| death_place = [[Buenos Aires]], [[Argentina]]
+| nationality = [[Catalans|Catalan]]
+}}
+
+'''Jacinto Grau Delgado''' (1877 &ndash; 14 August 1958) was a [[Spain|Spanish]] writer. Best known for his plays, and his theoretical approach to theater, he also wrote essays, short stories, and criticism.<ref name=":2" />
+
+== Life ==
+Grau was born in Barcelona. He served as the [[Envoy extraordinary and minister plenipotentiary|Envoy Extraordinary and Minister Plenipotentiary]] of [[Second Spanish Republic|Loyalist Spain]] to Panama during the [[Spanish Civil War]].<ref>{{Cite news|last=TIMES|first=Special Cable to THE NEW YORK|date=1937-11-20|title=PANAMA RECEIVES GRAU; Minister of Loyalist Spain Is Presented to Arosemena (Published 1937)|language=en-US|work=The New York Times|url=https://www.nytimes.com/1937/11/20/archives/panama-receives-grau-minister-of-loyalist-spain-is-presented-to.html|access-date=2021-02-21|issn=0362-4331}}</ref> Following the war he [[Emigration|emigrated]] to Argentina, where he died in exile in 1958.<ref>{{Cite web|title=Grau, Jacinto {{!}} Encyclopedia.com|url=https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/grau-jacinto|access-date=2021-02-21|website=www.encyclopedia.com}}</ref>
+
+== Career ==
+Grau published twenty-five plays over the course of fifty-five years.<ref name=":0">{{Cite journal|last=Kronik|first=John W.|date=1969|title=Art and Ideology in the Theater of Jacinto Grau|url=http://www.tandfonline.com/doi/abs/10.1080/03648664.1969.9932985|journal=Kentucky Romance Quarterly|language=en|volume=16|issue=3|pages=261–276|doi=10.1080/03648664.1969.9932985|issn=0364-8664}}</ref> His most celebrated work is ''El señor de Pigmalión'' (1921), which remained relatively unknown in Spain during his lifetime, though it was successful in Europe and Latin America.<ref name=":2">DÍAZ, JANET WINECOFF, 'Jacinto Grau and His Concept of the Theater', in ''Revista de Estudios Hispánicos''; University, Alabama Vol. 5, Iss. 2,  (May 1, 1971): 203. </ref> Grau has stated that he writes plays 'with the greatest intensity possible within the limits of classical harmony'.<ref name=":1" /><sup>:23-24</sup>  
+
+His work is 'anti-realistic', and heavily influenced by [[George Bernard Shaw]], as well as [[Henrik Ibsen]], [[Jean Anouilh|Jean Anouihl]] and [[Antonio Buero Vallejo|Buero Vallejo]].<ref name=":0" /><sup>:269-70</sup> His contemporary critics 'universally' identified his theatre as avant-garde, though Grau 'scorned avant-garde theatre'.<ref>{{Cite book|last=Ezell|first=Richard Lee|url=https://shareok.org/bitstream/handle/11244/3017/7126548.PDF?sequence=1|title=The Theatre of Jacinto Grau: A Depiction of Man|publisher=Doctoral Dissertation, University of Oklahoma|year=1971}}</ref> Modern scholars have identified him as a 'psychological idealist'.<ref name=":1">{{Cite book|last=Peers|first=Edgar Allison|url=https://books.google.com/books?id=Wf83AAAAIAAJ&q=Jacinto+Grau|title=A History of the Romantic Movement in Spain|date=1964|publisher=CUP Archive|isbn=978-1-001-40971-9|language=en}}</ref><sup>:23</sup> 
+
+ 
+
+He was nominated for a [[Nobel Prize in Literature]] in 1949.<ref>{{Cite web|last=Nobel Prize|date=2020-04-01|title=Nomination Archive|url=https://www.nobelprize.org/nomination/archive/show.php?id=1425|url-status=live|access-date=2021-02-21|website=NobelPrize.org|language=en-US}}</ref>[[File:El_conde_Alarcos_-_tragedia_romancesca_en_tres_actos_(IA_elcondealarcostr24718grau).pdf|thumb|El conde Alarcos - tragedia romancesca en tres actos (IA elcondealarcostr24718grau)]]
+
+== Plays ==
+{| class="wikitable"
+!Play
+!Year Published
+!Year Premiered
+!Location Premiered
+|-
+|''El Conde Alarcos''
+|1917
+|
+|
+|-
+|''El hijo pródigo''
+|1918
+|1918
+|
+|-
+|''El Mismo daño''
+|1921
+|
+|
+|-
+|''[[El señor de Pigmalión]]''
+|1921
+|1923 
+|[[Charles Dullin|Charles Dullin's]] L'Atelier (Paris)<ref>{{Cite journal|last=Giuliano|first=William|date=1950|title=Jacinto Grau's "El señor de Pigmalión"|url=https://www.jstor.org/stable/318839|journal=The Modern Language Journal|volume=34|issue=2|pages=135–143|doi=10.2307/318839|jstor=318839|issn=0026-7902}}</ref><sup>:135</sup>
+|-
+|''La Casa del Diablo''
+|1933
+|
+|
+|-
+|''En Ildaria''
+|
+|
+|
+|-
+|''Entre Llamas''
+|
+|
+|
+|-
+|''El Caballero Varona''
+|
+|
+|
+
+|}
+
+== References ==
+<references />{{Authority control}}
+
+{{DEFAULTSORT:Grau, Jacinto}}
+[[Category:1877 births]]
+[[Category:1958 deaths]]
+[[Category:Spanish dramatists and playwrights]]
+[[Category:Spanish male dramatists and playwrights]]
+
+{{Spain-dramatist-stub}}

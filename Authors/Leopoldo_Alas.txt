@@ -1,0 +1,83 @@
+{{short description|Spanish author}}
+{{expand Spanish|date=June 2018}}
+{{family name hatnote|García-Alas|Ureña|lang=Spanish}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Leopoldo Alas "Clarín"
+| pseudonym   = Clarín
+| image       = LeopoldoAlasClarin.jpg
+| birth_name  = Leopoldo Enrique García-Alas y Ureña
+| birth_date  = {{birth date|1852|4|25|df=y}}
+| birth_place = [[Zamora, Spain|Zamora]], Spain
+| death_date  = {{death date and age|1901|6|13|1852|4|25|df=y}}
+| death_place = [[Oviedo]], Spain
+| occupation  = Novelist, short story writer, journalist, critic, professor
+}}
+
+'''Leopoldo Enrique García-Alas y Ureña''' (25 April 1852 – 13 June 1901), also known as '''Clarín''', was a [[Spanish people|Spanish]] [[Spanish Realist literature|realist]] novelist born in [[Zamora (Spain)|Zamora]]. His inflammatory articles, known as ''paliques'' (“chitchat”), as well as his advocacy of [[liberalism]] and anti-clericalism, made him a formidable and controversial critical voice.<ref>{{cite book |last1=Vieira |first1=Estela |title=Interiors and Narrative: The Spatial Poetics of Machado de Assis, Eça de Queirós, and Leopoldo Alas |date=2012 |publisher=Bucknell University Press |page=27}}</ref> He died in [[Oviedo]].
+
+==Biography==
+[[File:200pelas.JPG|thumb|"Clarín" on the 200 [[Spanish peseta|Pesetas]] 1980s banknote.]]
+Alas was born in Zamora, from [[Asturias|Asturian]] parents who moved to that city. He spent his childhood living in [[León, Spain|León]] and [[Guadalajara, Spain|Guadalajara]], until he moved to [[Oviedo]] (Asturias) in 1863. There he studied for the  ''Bachillerato'' (Secondary Education) and began his law studies. He lived in [[Madrid]] from 1871 to 1878, where he began his career as a journalist (adopting the pen-name "Clarín" in 1875) and he graduated with the [[thesis]] ''El Derecho y la Moralidad'' (''Law and Morality'') in 1878. He taught in [[Zaragoza]] from 1882 to 1883. In 1883 he returned to Oviedo to take up a position as professor of Roman law.
+
+Above all, Clarín is the author of ''[[La Regenta]]'', his masterpiece and one of the best novels of the 19th century. It is a long work, similar to [[Flaubert|Flaubert's]] ''[[Madame Bovary]]'', one of its influences. Other influences included [[Naturalism (literature)|Naturalism]] and ''[[Krausism]]'', a philosophical current which promoted the cultural and ethical regeneration of Spain.
+
+''La Regenta'' is special for its great wealth of characters and secondary stories, while the main character's description is left slightly unfocused and vague. On the other hand, the downfall of the provincial lady has a place amidst two very diverse suitors: the most handsome man in the city and the cathedral's priest. The depiction of this priest is a key part of the book.
+
+For the description of the provincial atmosphere and the city's collective life, ''Clarín'' used techniques such as the internal [[monologue]] or the free indirect style, which makes the story be narrated by the characters themselves and allows the reader to witness and experience their intimacy.
+
+In 1890, he published a new novel, ''Su único hijo''. Even though most critics consider it as a lesser novel in comparison with ''La Regenta'', it is equal to the former in the skill with which the technical resources are used.  ''Su único hijo'' was originally meant to be the introduction to a trilogy, but aside from an outline and a few fragments of the two sequels, ''Su único hijo'' was Clarín's last full-length novel.
+
+Apart from these works, ''Clarín'' is also the author of magnificent stories and of a large number of journalistic articles.  He also wrote an essay, "La Literatura en 1881" (1882), in collaboration with [[Armando Palacio Valdés]].
+
+Leopoldo Alas remains a rather enigmatic figure in the Spanish literary world, leaving a legacy that encouraged the search for God and [[humanism]] simultaneously. This aberrant confluence has facilitated the presence of various interpretations regarding the author's writings, most noticeably of his masterpiece, ''La Regenta''.
+
+==Works==
+{{div col}}
+
+===Fiction===
+*''[[La Regenta]]'' (The Regent's Wife) (1884–85) [Novel]
+*''Su único hijo'' (His Only Son) (1890) [Novel]
+*''[[Doña Berta]]'' (1892)
+*''[[¡Adiós, Cordera!]]'' (1892)
+*''Cuentos morales'' (Moral Stories) (1896)
+*''El gallo de Sócrates'' (Socrates' Rooster) (1900)
+
+===Essays===
+* "Solos de saxofon alto 1er" (1881)
+* "La literatura en 1881" (1882)
+* "Sermón perdido" (1885)
+* "Nueva campaña" (1887)
+* "Ensayos y revistas" (1892)
+* "Palique" (1894)
+{{div col end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{See also author
+|Wikisource=es:Leopoldo Alas ("Clarín")
+|Wikiquote=Leopoldo Alas
+|Wikicommons=Leopoldo Alas ("Clarín")
+|Gutenberg=Leopoldo_Alas
+|Cervantes=16
+|DominioPu=1940
+|DomiPubli=1940
+}}
+* {{Gutenberg author |id=Alas,+Leopoldo | name=Leopoldo Alas}}
+* {{Internet Archive author |sname=Leopoldo Alas}}
+* {{Librivox author |id=670}}
+*[http://cervantesvirtual.com/bib_autor/Clarin/ A good website on the author, containing his works in digital version (In Spanish)]
+*[http://www.polyglotproject.com/books/Spanish/dona_berta Text of Doña Berta in original Spanish]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alas Y Urena, Leopoldo}}
+[[Category:1852 births]]
+[[Category:1901 deaths]]
+[[Category:People from Zamora, Spain]]
+[[Category:19th-century Spanish novelists]]
+[[Category:Spanish male novelists]]
+[[Category:People from Asturias]]
+[[Category:University of Oviedo alumni]]
+[[Category:19th-century male writers]]

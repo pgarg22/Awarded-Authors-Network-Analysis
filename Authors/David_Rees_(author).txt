@@ -1,0 +1,74 @@
+{{Use dmy dates|date=December 2015}}
+{{Use British English|date=December 2015}}
+'''David Bartlett Rees''' (8 May 1936 – 22 May 1993)<ref name=burton/> was an English author, lecturer and reviewer, known especially for [[children's literature|children's]] and [[young adult fiction]]. For ''[[The Exeter Blitz]]'' he won the 1978 [[Carnegie Medal (literary award)|Carnegie Medal]] from the  [[CILIP|Library Association]], recognising the year's best children's book by a [[British subject]].<ref name=medal1978/>
+
+==Life==
+
+David Rees was born in [[Surbiton]] in 1936.<ref>{{cite web|url=http://www.archiveshub.ac.uk/news/0602rees.html |archive-url=https://archive.today/20120719112351/http://www.archiveshub.ac.uk/news/0602rees.html |url-status=dead |archive-date=2012-07-19 |title=Literary papers of David Rees |publisher=[[Mimas (data centre)|Mimas]], [[University of Manchester]] }}</ref>  He attended [[King's College School]], Wimbledon, and [[Queens' College, Cambridge]], where he attained a BA in 1958 and an MA in 1961. He worked as a school teacher before becoming a lecturer at [[St Luke's Campus|St. Luke's College]], Exeter, in 1968. Ten years later he became lecturer in education when the college became a part of the [[University of Exeter]]. He remained at the University until 1984, when he began to write full-time. In 1986 he founded the publishing company Third House with fellow writer Peter Robins. His autobiography, ''Not For Your Hands'', was published in 1992.
+
+Rees died in London, 22 May 1993. He was afflicted with [[HIV/AIDS]] and had once said, "I've nothing left to write about and it's Aids as much as anything that has done that," but he did not stop writing until 1992.<ref name=burton/>
+
+==Writer==
+
+Much of his work can be classed as [[young adult fiction]]. Some of his fiction was contemporary, some [[historical fiction|historical]], with settings including [[Devon]] and Ireland. ''Quintin's Man'' (1976) and ''In the Tent'' (1979) were the first teen books in the UK to have gay central characters.<ref>{{cite journal |url=http://booksforkeeps.co.uk/issue/151/childrens-books/articles/editorial/editorial-march-2005 |title=Editorial |first=Rosemary |last=Stones |journal=Books for Keeps |date=March 2005}}</ref> ''The Milkman's on his Way'' (1982) was cited in the [[House of Lords]] for promoting homosexuality, in 1999 debate on [[Section 28]]. Baroness Knight of Collingtree said that it "explicitly described homosexual intercourse and, indeed, glorified it, encouraging youngsters to believe that it was better than any other sexual way of life."<ref>[https://hansard.parliament.uk/lords/1999-12-06/debates/2e5d2009-bcbb-466e-ae5e-995c6a59fbfb/LocalGovernmentBillHl#contribution-f7ad79bc-f0e6-418a-925f-ae01c9a56a2b "Lords Hansard text for 6 Dec 1999 (191206-10)"] {{webarchive |url=https://web.archive.org/web/20070930012922/http://www.parliament.the-stationery-office.co.uk/pa/ld199900/ldhansrd/vo991206/text/91206-10.htm |date=30 September 2007 }}, Column 1102. [[Hansard]]. ''www.parliament.uk'', the UK Parliament Website. Retrieved 2012-11-21.</ref><!-- was there any rebuttal or comment, in our out of Parliament? -->
+
+Rees published two collections of essays on contemporary writers of fiction for children and young adults: ''The Marble in the Water'' (1980) and ''Painted Desert, Green Shade'' (1984).<ref>{{cite journal|title=On Katherine Paterson, Alexander Pope, myself, and some others |journal=Children's Literature in Education |first=David |last=Rees |year=1983 |volume=14 |number=3 |pages=160–170 |doi=10.1007/bf01142203|s2cid=161536439 }}</ref>
+
+==Selected works==
+{{colbegin}}
+*''Storm Surge'' (1975)
+*''Quintin's Man'' (1976)
+*''The Ferryman'' (1977)
+*''The House that Moved'' (1978)
+*''The Exeter Blitz'' (1978)
+*''The Green Bough of Liberty'' (1979)
+*''In the Tent'' (1979)
+*''Silence'' (1979)
+*''The Marble in the Water'' (1980) —essays
+*''The Milkman's on His Way'' (1982); ''Wellenreiter - Roman'', aus dem Englischen übersetzt von Stefan Grütering, Berlin : Verlag Rosa Winkel, 1991, {{ISBN|3-921495-96-2}}
+*''The Estuary'' (1983)
+*''Painted Desert, Green Shade'' (1984) —essays
+*''Islands'' (1984)
+*''A Better Class of Blond; A California Diary'' (1985) —memoir
+*''The Hunger'' (1986)
+*''Twos and Threes'' (1987)
+*''The Wrong Apple'' (1987)
+*''The Flying Island'' (1988)
+*''The Colour of His Hair'' (1989)
+*''Letters to Dorothy'' (1991)
+*''Flux'' (1991)
+*''Not For Your Hands'' (1992) —autobiography
+*''Words & Music'' (1993) —essays
+{{colend}}
+
+==See also==
+{{Portal bar |Children's literature}} <!-- delete the word "bar" if/when there are enough ordinary See also -->
+
+==References==
+{{reflist |25em |refs=
+<ref name=burton>
+{{cite news|url=https://www.independent.co.uk/news/people/obituary-david-rees-2325097.html |title=Obituary: David Rees |first=Peter |last=Burton |date=25 May 1993 |newspaper=[[The Independent]]}}</ref>
+
+<ref name=medal1978>
+[http://www.carnegiegreenaway.org.uk/livingarchive/title.php?id=80 (Carnegie Winner 1978)] {{Webarchive|url=https://web.archive.org/web/20120222024738/http://www.carnegiegreenaway.org.uk/livingarchive/title.php?id=80 |date=22 February 2012 }}. Living Archive: Celebrating the Carnegie and Greenaway Winners. [[CILIP]]. Retrieved 2012-08-17.</ref>
+}}
+
+==External links==
+* {{LCAuth|n80049695|David Rees|18|ue}}
+
+{{University of Exeter|state=collapsed}}
+{{Portal bar|United Kingdom|Biography}}
+{{Authority control}} <!-- VIAF does not evidently report any GND record for this David Rees. GND reportedly attributes ''The marble in the water'' to David Bernard Rees. http://viaf.org/viaf/58568511/#Rees,_David --> <!-- [ref name=burton] is our source for middle name Bartlett, not specified by any VIAF records http://viaf.org/viaf/search?query=local.names+all+%22rees,%20david%20%22&stylesheet=/viaf/xsl/results.xsl&sortKeys=holdingscount&maximumRecords=100 -->
+
+{{DEFAULTSORT:Rees, David}}
+[[Category:Academics of the University of Exeter]]
+[[Category:English children's writers]]
+[[Category:Carnegie Medal in Literature winners]]
+[[Category:English gay writers]]
+[[Category:People educated at King's College School, London]]
+[[Category:Alumni of Queens' College, Cambridge]]
+[[Category:1936 births]]
+[[Category:1993 deaths]]
+[[Category:English LGBT novelists]]
+[[Category:20th-century English novelists]]
+[[Category:AIDS-related deaths in England]]

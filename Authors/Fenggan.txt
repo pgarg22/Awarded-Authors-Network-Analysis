@@ -1,0 +1,110 @@
+{{Infobox religious biography
+|name = Fenggan
+|image = Priest Bukan, detail, by Hashimoto Gaho - Hakone Museum of Art - Hakone, Kanagawa, Japan - DSC08118.jpg
+|caption = ''Bukan'' by [[Hashimoto Gahō]] (detail)
+|birth name = 
+|alias = 
+|dharma name = 
+|birth_date = 
+|birth_place = [[China]]
+|death_date = 
+|death_place = 
+|nationality = [[Chinese people|Chinese]]
+|religion = [[Buddhism]]
+|school = [[Ch'an]]
+|lineage = 
+|title = monk<br />[[poet]]
+|location = 
+|education = 
+|occupation = 
+|teacher = 
+|reincarnation of = 
+|predecessor = 
+|successor = 
+|students = 
+|spouse = 
+|partner = 
+|children = 
+|website = 
+}}
+'''Fenggan''' ({{zh|t=豐干|s=丰干|p=Fēnggān|w='''Fengkan'''|l=Big Stick}}, Japanese '''Bukan''', fl. 9th century) was a [[China|Chinese]] [[Zen]] monk-poet lived in the [[Tang Dynasty]], associated with [[Hanshan (poet)|Hanshan]] and [[Shide (monk)|Shide]] in the famed "[[Tiantai]] Trio" (天台三聖).
+
+==Biography==
+Legendarily, Feng appeared one day at [[Guoqing Temple]] (located by the [[East China Sea]], in the Tiantai mountain range), a {{convert|6|ft|m|adj=mid|-tall}} monk with an unshaven head, riding a tiger.  From then on, he took up residence in the temple behind the library, where he would hull rice and chant [[sutra]]s.
+
+The few accounts of him record that he became close friends to Hanshan, and was the one who found the orphaned Shide, named him, and brought him to the temple. From these and other anecdotes, it appears that Feng was the oldest of the three.
+
+The circumstances of his death are as murky as his life: the stories in which Feng is any more than a name or [[foil (literature)|foil]] for Hanshan cease after he healed a local prefect. It has been conjectured that Hanshan's Poem 50 refers to his death:
+
+::Show me the person who doesn't die;
+::death remains impartial.
+::I recall a towering man
+::who is now a pile of dust-
+::the World Below knows no dawn
+::plants enjoy another spring
+::but those who visit this sorrowful place
+::the pine wind slays with grief.
+
+==Poetry==
+Very few of Feng's poems survive, but the ones which do are very revealing; the third of the four confirms Feng's relationships with the other members of the Tientai Trio:
+
+::Whenever [[Hanshan (poet)|Cold Mountain]] stops to visit,
+::or [[Shide (monk)|Pick-Up]] pays his usual call,
+::we talk about the mind the moon
+::or wide open space-
+::reality has no limits
+::so anything real includes it all.
+
+The first of the poems appears to confirm the stories of how he was an itinerant monk prior to stopping at Kuoching Temple (and even then he would depart at least once for a pilgrimage to [[Wutai Shan|Mount Wutai]]):
+
+::I have been to Tientai
+::maybe a million times
+::like a cloud or river
+::drifting back and forth.
+::Roaming free of trouble
+::trusting the [[Gautama Buddha|Buddha]]'s spacious [[Middle way|path]]
+::while the world's forked mind
+::only brings men pain.
+
+The fourth poem is especially important, since it unmistakably references the challenge the Fifth Patriarch of Zen set his would-be successors ~713 C. E. making it impossible for Feng (and by extension Hanshan and Shide) to predate the 720's, thereby eliminating many other dating possibilities:
+
+::Actually there isn't a thing
+::much less any dust to wipe away.
+::Who can master this
+::doesn't need to sit there stiff.
+
+(The exchange referenced was between two potential successors Shenxiu and [[Huineng]]. Shenxiu to demonstrate his mastery of Zen wrote the following poem: ''The body is the [[Bodhi Tree]] \ the mind like a clear mirror. \ Always wipe it clean, \ don't let it gather dust.''  Huineng retorted with ''Bodhi isn't a tree, \ what's clear isn't a mirror. \ Actually, there isn't a thing- \ where do you get this dust?'')
+
+It is difficult to judge Feng's poetic oeuvre with only four works to judge by, and only one really poetic. But it appears that his poetry's formal structures were fairly conventional, and in ideas, from a strictly Buddhist perspective; Hanshan, in contrast, often played with rhymes and tones and structure, and very often dropped in [[Taoism|Taoist]] references, to the point where his actual religious orientation is in some doubt.  See for example Feng's second poem, which expresses strictly Buddhist ideas:
+
+::Sinking like a rock in the Sea,
+::drifting through the Three Worlds-
+::poor ethereal creature
+::forever immersed in scenes
+::until a flash of lightning shows
+::that life and death are dust in space.
+
+(The 'Three Worlds' refer to either those of the past, present, and future; or alternatively, those of form, formlessness, and becoming.)
+
+==See also==
+{{portal|Poetry}}
+*[[Chinese Poetry]]
+*[[Classical Chinese poetry]]
+*[[Hanshan (poet)|Hanshan]]
+*[[Hanshan Temple]]
+*[[Shide (monk)|Shide]]
+*[[Zen]]
+
+==References==
+*''The Collected Songs of Cold Mountain'', [[Bill Porter (author)|Red Pine]], {{ISBN|1-55659-140-3}}
+
+==Further reading==
+* Rouzer, Paul [translator], Nugent, Christopher M. B. [editor] (2017). [https://www.degruyter.com/view/product/449925 The Poetry of Hanshan (Cold Mountain), Shide, and Fenggan] {{openaccess}}. ''De Gruyter Mouton''. {{ISBN|978-1-5015-0191-3}}
+
+{{Buddhism topics}}
+
+[[Category:Tang dynasty poets]]
+[[Category:Chan Buddhist monks]]
+[[Category:Chinese Zen Buddhists]]
+[[Category:Tang dynasty Buddhist monks]]
+[[Category:9th-century Chinese poets]]

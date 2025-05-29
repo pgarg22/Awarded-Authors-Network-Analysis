@@ -1,0 +1,39 @@
+{{for|the composer|Gino Redi}}
+[[Image:Pulci.jpg|thumb|220px|Luigi Pulci in a fresco by [[Filippino Lippi]].]] 
+'''Luigi Pulci''' ({{IPA-it|luˈiːdʒi ˈpultʃi}}; 15 August 1432 – 11 November 1484) was an [[Italy|Italian]] [[diplomat]] and [[poet]] best known for his ''[[Morgante]]'', an epic and [[parody|parodistic]] poem about a giant who is converted to [[Christianity]] by [[Roland|Orlando]] and follows the knight in many adventures.
+
+Pulci was born in [[Florence]]. His patrons were the [[Medici]]s, especially [[Lorenzo Medici]], who sent Pulci on diplomatic missions. Even so, sometime around 1470 Pulci needed more money and went into the service of Robert Sanseverino, a northern ''[[condottiere]]''.
+
+His brother Luca (1431–1470) was also a writer. His brother Luca's works, all in the Italian language, include ''Pistole'', ''Driadeo d'amore'', and ''Ciriffo Calvaneo''.
+
+==''Morgante''==
+{{main|Morgante}}
+The poem ''Morgante'' is composed of 28 ''cantari'' (chapters) written in [[ottava rima]]. The subject was loosely derived from the [[Charlemagne|Carolingian]] epic tradition, but Pulci drew many characters and motives also from the popular poems usually sung by storytellers in Florence's [[piazza]]s and developed a rich series of comic and parodistic episodes.<ref name="testo" /> The work was commissioned by [[Lucrezia Tornabuoni]], Lorenzo Medici's mother.{{sfn|Tomas|2003|p=44}}  The poem in progress was read at the Medicis' court, where the public appreciated the funny characters, partly new, partly recreated from the epic tradition. Popular Florentine humour, [[bourgeois]] way of thinking and living, and free imagination are expressed in a language based upon the Florentine [[dialect]] and extends from criminal [[argot]] to literary or scientific Latin. This language is very far from the early [[Renaissance]] [[classicism|classicistic]] model, proposed by [[Poliziano]] in those same years in the Medicis' court.<ref name="testo">{{in lang|it}} Baldi, Giusso, Razetti, Zaccaria, ''Dal testo alla storia. Dalla storia al testo'', vol. 1b, Paravia, Torino, 1999</ref>
+
+==See also==
+* [[Torre dei Pulci]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+*{{cite book | last=Tomas | first=Natalie R. | title=The Medici Women: Gender and Power in Renaissance Florence | publisher=Ashgate | location=Aldershot | year=2003 | isbn=0754607771}}
+
+== External links ==
+* {{Gutenberg author |id=Pulci,+Luigi | name=Luigi Pulci}}
+* {{Internet Archive author |sname=Luigi Pulci}}
+* [http://trionfi.com/0/g/12/ Luigi Pulci / Links and some notes]
+* [http://hdl.loc.gov/loc.rbc/vollbehr.72052.1 ''Strabotti de Luigi Pulci Fiorentino''] From the Collections at the [[Library of Congress]]
+* {{Cite CE1913|wstitle=Luigi Pulci |short=x}}
+* {{Cite EB1911|wstitle=Pulci, Luigi |short=x}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pulci, Luigi}}
+[[Category:1432 births]]
+[[Category:1484 deaths]]
+[[Category:15th-century people of the Republic of Florence]]
+[[Category:Italian poets]]
+[[Category:Italian male poets]]
+[[Category:Writers from Florence]]
+[[Category:Diplomats from Florence]]

@@ -1,0 +1,450 @@
+{{Use mdy dates|date=November 2021}}
+{{short description|American novelist, playwright, and essayist}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Don DeLillo
+| image        = Don DeLillo, author.jpg
+| image_size   = 
+| caption      = DeLillo in 1988
+| birth_name   = Donald Richard DeLillo
+| birth_date   = {{Birth date and age|1936|11|20|mf=y}}
+| birth_place  = [[New York City]], U.S.
+| penname = Cleo Birdwell
+| death_date   =
+| death_place  =
+| occupation   = Novelist
+| notableworks = ''[[The Names (novel)|The Names]]'' (1982)<br /> ''[[White Noise (novel)|White Noise]]'' (1985) <br /> ''[[Libra (novel)|Libra]]'' (1988)<br /> ''[[Mao II]]'' (1991) <br /> ''[[Underworld (novel)|Underworld]]'' (1997)<br /> ''[[The Angel Esmeralda]]'' (2011)
+| movement     = [[Postmodern literature|Postmodernism]]
+| alma_mater   = [[Fordham University]]
+| website      =
+}}
+
+'''Donald Richard DeLillo''' (born November 20, 1936) is an American novelist, short story writer, playwright, screenwriter and essayist. His works have covered subjects as diverse as television, [[nuclear war]], sports, the complexities of language, performance art, the [[Cold War]], mathematics, the advent of the digital age, politics, economics, and global terrorism.
+
+DeLillo was initially a well-regarded cult writer, but the publication of ''[[White Noise (novel)|White Noise]]'' in 1985 brought him widespread recognition, and he won the [[National Book Award]] for fiction. It was followed in 1988 by ''[[Libra (novel)|Libra]]'', a [[bestseller]]. DeLillo has twice been a [[Pulitzer Prize for Fiction]] finalist (for ''[[Mao II]]'' in 1992 and for ''[[Underworld (DeLillo novel)|Underworld]]'' in 1998),<ref>{{cite web|url=http://www.pulitzer.org/bycat/Fiction |title=The Pulitzer Prizes &#124; Fiction |publisher=Pulitzer.org |access-date=November 23, 2013}}</ref> won the [[PEN/Faulkner Award]] for ''Mao II'' in 1992 (receiving another PEN/Faulkner Award nomination for ''[[The Angel Esmeralda]]'' in 2012), won the 1999 [[Jerusalem Prize]], was granted the [[PEN/Saul Bellow Award for Achievement in American Fiction]] in 2010, and won the [[Library of Congress Prize for American Fiction]] in 2013.<ref name="loc.gov">{{cite web|url=https://www.loc.gov/today/pr/2013/13-079.html |title=Prize for American Fiction Awarded to Don DeLillo |publisher= [[Library of Congress]] |date=April 25, 2013 |access-date=November 23, 2013}}</ref>
+
+DeLillo has described his fiction as concerned with "living in dangerous times",<ref>{{cite news|first=Kevin|last=Nance |url=http://articles.chicagotribune.com/2012-10-12/features/ct-prj-1014-don-delillo-20121012_1_mao-ii-angel-esmeralda-printers-row/3 |title=Don DeLillo Talks About Writing – Page 3 |newspaper=Chicago Tribune |date=October 12, 2012 |access-date=November 23, 2013}}</ref> and in a 2005 interview said, "Writers must oppose systems. It's important to write against power, corporations, the state, and the whole system of consumption and of debilitating entertainments [...] I think writers, by nature, must oppose things, oppose whatever power tries to impose on us."<ref name="ReferenceC">{{cite web|url=http://perival.com/delillo/interview_panic_2005.html |title=Panic interview with DeLillo – 2005 |publisher=Perival.com |access-date=November 23, 2013}}</ref>
+
+==Early life and influences==
+DeLillo was born in New York City and grew up in a working-class Italian Catholic family with ties to [[Molise]], Italy, in an Italian-American neighborhood of the [[Bronx]] not far from [[Arthur Avenue, Bronx|Arthur Avenue]].<ref name="nytimes.com">{{Cite news
+|first=Vince
+|last=Passaro
+|title=Dangerous Don DeLillo
+|url=https://www.nytimes.com/books/97/03/16/lifetimes/del-v-dangerous.html
+|work=The New York Times
+|date =May 19, 1991
+}}</ref> Reflecting on his childhood in The Bronx, DeLillo said he was "always out in the street. As a little boy I whiled away most of my time pretending to be a baseball announcer on the radio. I could think up games for hours at a time. There were eleven of us in a small house, but the close quarters were never a problem. I didn't know things any other way. We always spoke English and Italian all mixed up together. My grandmother, who lived in America for fifty years, never learned English."<ref name="dumpendebat.net">{{cite news |last1=Amend |first1=Christoph |last2=Diez |first2=Georg |url=http://dumpendebat.net/static-content/delillo-diezeit-Oct2007.html |archive-url=https://web.archive.org/web/20080115100418/http://dumpendebat.net/static-content/delillo-diezeit-Oct2007.html |url-status=dead |archive-date=January 15, 2008 |title=Dum Pendebat Filius: Translation of "Ich kenne Amerika nicht mehr" ("I don't know America anymore") |newspaper=Die Zeit |date=October 11, 2007 |access-date=December 30, 2011 }}</ref>
+
+As a teenager, DeLillo was not interested in writing until a summer job as a parking attendant, where hours spent waiting and watching over vehicles led to a reading habit. Reflecting on this period, in a 2010 interview, he stated, "I had a personal golden age of reading in my 20s and my early 30s, and then my writing began to take up so much time".<ref name="theaustralian1">{{cite news|url=http://www.theaustralian.com.au/news/arts/dancing-to-the-music-of-time/story-e6frg8nf-1225836068982 |title=Dancing to the music of time |newspaper=The Australian |date=March 6, 2010 |access-date=March 16, 2010}}</ref> Among the writers DeLillo read and was inspired by in this period were [[James Joyce]], [[William Faulkner]], [[Flannery O'Connor]], and [[Ernest Hemingway]], who was a major influence on DeLillo's earliest attempts at writing in his late teens.<ref>{{cite web |url=http://www.perival.com/delillo/ddinterview_henning.html |title=DeLillo Interview by Peter Henning, 2003 |publisher=Perival.com |access-date=December 30, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111123024148/http://www.perival.com/delillo/ddinterview_henning.html |archive-date=November 23, 2011}}</ref>
+
+As well as the influence of [[Modernist literature|modernist]] fiction, DeLillo has also cited the influence of jazz music—"guys like [[Ornette Coleman]] and [[Charles Mingus|Mingus]] and [[John Coltrane|Coltrane]] and [[Miles Davis]]"—and postwar cinema: "[[Michelangelo Antonioni|Antonioni]] and [[Jean-Luc Godard|Godard]] and [[François Truffaut|Truffaut]], and then in the '70s came the Americans, many of whom were influenced by the Europeans: [[Stanley Kubrick|Kubrick]], [[Robert Altman|Altman]], [[Francis Ford Coppola|Coppola]], [[Martin Scorsese|Scorsese]] and so on. I don't know how they may have affected the way I write, but I do have a visual sense."<ref>{{cite news|first=Kevin|last=Nance |url=http://articles.chicagotribune.com/2012-10-12/features/ct-prj-1014-don-delillo-20121012_1_mao-ii-angel-esmeralda-printers-row/2 |title=Don DeLillo talks about writing – Page 2 |newspaper=Chicago Tribune |date=October 12, 2012 |access-date=November 23, 2013}}</ref> Of the influence of film, particularly European cinema, on his work, DeLillo has said, "European and Asian cinemas of the 1960s shaped the way I think and feel about things. At that time I was living in New York, I didn't have much money, didn't have much work, I was living in one room...I was a man in a small room. And I went to the movies a lot, watching Bergman, Antonioni, Godard. When I was little, in the Bronx, I didn't go to the cinema, and I didn't think of the American films I saw as works of art. Perhaps, in an indirect way, cinema allowed me to become a writer."<ref name="perival_b">[http://www.perival.com/delillo/delillo_panic_interview_2005.html ]{{dead link|date=November 2013}}</ref> He also credits his parents' leniency and acceptance of his desire to write for encouraging him to pursue a literary career: "They ultimately trusted me to follow the course I’d chosen. This is something that happens if you’re the eldest son in an Italian family: You get a certain leeway, and it worked in my case."<ref name="washingtonpost.com">{{cite news|first=Ron|last=Charles |url=https://www.washingtonpost.com/lifestyle/style/don-delillo-is-first-recipient-of-library-of-congress-prize-for-american-fiction/2013/04/24/ae1ff5f8-acd5-11e2-b6fd-ba6f5f26d70e_story.html |title=Don DeLillo is first recipient of Library of Congress Prize for American Fiction |newspaper=The Washington Post |date= April 25, 2013|access-date=November 23, 2013}}</ref>
+
+After graduating from [[Cardinal Hayes High School]] in the Bronx in 1954 and from [[Fordham University]] in the Bronx with a bachelor's degree in communication arts in 1958, DeLillo took a job in advertising because he could not get one in publishing. He worked for five years as a copywriter at [[Ogilvy & Mather]] on [[Fifth Avenue]],<ref name="entertainment.timesonline.co.uk"/> writing image ads for [[Sears Roebuck]] among others, working on "Print ads, very undistinguished accounts....I hadn’t made the leap to television. I was just getting good at it when I left, in 1964."<ref name="guernicamag.com">{{cite web |url=http://www.guernicamag.com/interviews/373/intensity_of_a_plot/ |title=Intensity of a Plot: Mark Binelli interviews Don DeLillo |publisher=Guernica |date=July 2007 |access-date=December 30, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120214222458/http://www.guernicamag.com/interviews/373/intensity_of_a_plot/ |archive-date=February 14, 2012}}</ref>
+
+DeLillo published his first short story in 1960—"The River Jordan", in ''Epoch'', [[Cornell University]]'s literary magazine—and began to work on his first novel in 1966. Of the beginning of his writing career, DeLillo has said, "I did some short stories at that time but very infrequently. I quit my job just to quit. I didn't quit my job to write fiction. I just didn't want to work anymore."<ref>{{cite news
+| author = Passaro, Vince
+| title = Dangerous Don DeLillo
+| url = https://www.nytimes.com/books/97/03/16/lifetimes/del-v-dangerous.html?_r=2&oref=slogin&oref=login
+| work=The New York Times
+| date = May 19, 1991
+}}</ref>
+Reflecting in 1993 on his relatively late start in writing fiction, DeLillo said, "I wish I had started earlier, but evidently I wasn’t ready. First, I lacked ambition. I may have had novels in my head but very little on paper and no personal goals, no burning desire to achieve some end. Second, I didn’t have a sense of what it takes to be a serious writer. It took me a long time to develop this."<ref name="theparisreview.org">{{cite magazine|author=Interviewed by Adam Begley |url=http://www.theparisreview.org/interviews/1887/the-art-of-fiction-no-135-don-delillo |title=Don DeLillo, The Art of Fiction No. 135: Interviewed by Adam Begley |magazine=The Paris Review |date=Fall 1993 |access-date=December 30, 2011}}</ref>
+
+==Works==
+
+===1970s===
+DeLillo's inaugural decade of novel writing has been his most productive to date, resulting in the writing and publication of six novels between 1971 and 1978.<ref name="theaustralian1"/>
+
+He resigned from the advertising industry in 1964, moved into a modest apartment near the [[Queens-Midtown Tunnel]] ("It wasn’t Paris in the 1920s, but I was happy"), and began work on his first novel.<ref>{{cite web|url=http://www.artforum.com/diary/id=36810 |title=mean streak – artforum.com / scene & herd |publisher=Artforum.com |access-date=November 23, 2013}}</ref> Of the early days of his writing career, he remarked: "I lived in a very minimal kind of way. My telephone would be $4.20 every month. I was paying a rent of sixty dollars a month. And I was becoming a writer. So in one sense, I was ignoring the movements of the time."<ref name="guernicamag.com"/> His first novel, ''[[Americana (novel)|Americana]]'', was written over four years<ref name="nytimes.com"/> and finally published in 1971, to modest critical praise. ''Americana'' concerned "a television network programmer who hits the road in search of the big picture".<ref name="nytimes.com"/>
+
+DeLillo revised the novel in 1989 for paperback reprinting. Reflecting on the novel later in his career, he said, "I don't think my first novel would have been published today as I submitted it. I don't think an editor would have read 50 pages of it. It was very overdone and shaggy, but two young editors saw something that seemed worth pursuing and eventually we all did some work on the book and it was published."<ref name="online.wsj.com">{{cite news|last=Alter |first=Alexandra |url=https://www.wsj.com/articles/SB10001424052748703906204575027094208914032 |title=Don DeLillo Deconstructed|publisher=Wall Street Journal|date=January 29, 2010 |access-date=March 16, 2010}}</ref> Later still, DeLillo continued to feel a degree of surprise that ''Americana'' was published: "I was working on my first novel, ''Americana,'' for two years before I ever realized that I could be a writer [...] I had absolutely no assurance that this book would be published because I knew that there were elements that I simply didn't know how to improve at that point. So I wrote for another two years and finished the novel. It wasn’t all that difficult to find a publisher, to my astonishment. I didn't have a representative. I didn’t know anything about publishing. But an editor at [[Houghton Mifflin]] read the manuscript and decided that this was worth pursuing."<ref name="washingtonpost.com"/>
+
+''Americana'' was followed in rapid succession by the American college football / nuclear war black comedy ''[[End Zone (novel)|End Zone]]'' (1972)—written under the working titles "The Self-Erasing Word" and "Modes of Disaster Technology"<ref name="newyorker.com">{{cite magazine|author=D. T. Max |url=https://www.newyorker.com/magazine/2007/06/11/final-destination |title=Letter from Austin: Final Destination |magazine=[[The New Yorker]] |access-date=November 23, 2013}}</ref>—and the rock and roll satire ''[[Great Jones Street (novel)|Great Jones Street]]'' (1973), which DeLillo later felt was "one of the books I wish I’d done differently. It should be tighter, and probably a little funnier."<ref name="guernicamag.com"/> He married Barbara Bennett, a former banker turned landscape designer, in 1975.
+
+DeLillo's fourth novel, ''[[Ratner's Star]]'' (1976)—which according to DeLillo is "structure[d] [...] on the writings of [[Lewis Carroll]], in particular ''[[Alice in Wonderland]]'' and ''[[Alice Through the Looking Glass]]''<ref name="ReferenceC"/>—took two years to write<ref name="theparisreview.org"/> and drew numerous favorable comparisons to the works of [[Thomas Pynchon]]. This "conceptual monster", as DeLillo scholar Tom LeClair has called it, is "the picaresque story of a 14-year-old math genius who joins an international consortium of mad scientists decoding an alien message."<ref>{{cite web|author=Published |url=https://nymag.com/arts/books/features/31522/ |title=Our Guide to the Don DeLillo Oeuvre – New York Magazine |publisher=Nymag.com |date=May 7, 2007 |access-date=March 16, 2010}}</ref> DeLillo has said it was both one of the most difficult books for him to write<ref name="nytimes">{{cite news|last=Harris|first=Robert R.| url=https://www.nytimes.com/books/97/03/16/lifetimes/del-v-talk1982.html |title=A Talk with Don DeLillo |newspaper=The New York Times|date=October 10, 1982}}</ref> and his personal favorite of his novels.
+
+Following this early attempt at a major long novel, DeLillo ended the decade with two shorter works. ''[[Players (DeLillo novel)|Players]]'' (1977), originally conceived as "based on what could be called the intimacy of language—what people who live together really sound like",<ref name="perival">{{cite web|url=http://perival.com/delillo/players.html |title=Players – Don DeLillo – 1977 |publisher=Perival.com |date=December 18, 2012 |access-date=November 23, 2013}}</ref> concerned the lives of a young yuppie couple as the husband gets involved with a cell of domestic terrorists.<ref name="perival" /> Its 1978 successor, ''[[Running Dog (novel)|Running Dog]]'' (1978), written in four months,<ref name="guernicamag.com"/> was a thriller about a hunt for a celluloid reel of Hitler's sexual exploits.
+
+Of ''Running Dog'', DeLillo remarked, "What I was really getting at in ''Running Dog'' was a sense of the terrible acquisitiveness in which we live coupled with a final indifference to the object. After all the mad attempts to acquire the thing, everyone suddenly decides that, well, maybe we really don't care about this so much anyway. This was something I felt characterized our lives at the time the book was written in the mid to late seventies. I think this was part of American consciousness then."<ref>{{cite web|url=http://perival.com/delillo/runningdog.html |title=Running Dog – Don DeLillo – 1978 |publisher=Perival.com |date=January 30, 2010 |access-date=November 23, 2013}}</ref>
+
+In 1978, DeLillo was awarded the [[Guggenheim Fellowship]], which he used to fund a trip around the Middle East before settling in Greece, where he wrote his next novels, ''[[Amazons (novel)|Amazons]]'' and ''[[The Names (novel)|The Names]]''.<ref name="theaustralian1"/>
+
+Of his first six novels and his rapid writing turnover later in his career, DeLillo said, "I wasn't learning to slow down and examine what I was doing more closely. I don't have regrets about that work, but I do think that if I had been a bit less hasty in starting each new book, I might have produced somewhat better work in the 1970s. My first novel took so long and was such an effort that once I was free of it, I almost became carefree in a sense and moved right through the decade, stopping, in a way, only at ''Ratner's Star'' (1976), which was an enormous challenge for me and probably a bigger challenge for the reader. But I slowed down in the 1980s and '90s."<ref name="theaustralian1"/> DeLillo has also acknowledged some of the weaknesses of his 1970s works, reflecting in 2007: "I knew I wasn’t doing utterly serious work, let me put it that way."<ref name="guernicamag.com"/>
+
+===1980s===
+The beginning of the 1980s saw the most unusual and uncharacteristic publication in DeLillo's career. The sports novel ''[[Amazons (novel)|Amazons]]'', a mock memoir of the first woman to play in the National Hockey League, is a far more lighthearted and more evidently commercial novel than his previous and subsequent ones. DeLillo published the novel under the pseudonym Cleo Birdwell, and later requested publishers compiling a bibliography for a reprint of a later novel to expunge the novel from their lists.
+
+While DeLillo was living in Greece,<ref name="latimes.com">{{cite news|last=Rayner |first=Richard |url=https://www.latimes.com/entertainment/news/arts/la-caw-paperback-writers3-2010jan03,0,4308244.story |title=Tuning back in to 'White Noise' |work=Los Angeles Times |date=January 3, 2010 |access-date=March 16, 2010}}</ref> he took three years<ref name="nytimes"/> to write ''[[The Names (novel)|The Names]]'' (1982), a complex thriller about "a risk analyst who crosses paths with a cult of assassins in the Middle East".<ref name="nytimes.com"/> While lauded by an increasing number of literary critics, DeLillo was still relatively unknown outside small academic circles and did not reach a wide readership with this novel. Also in 1982, DeLillo finally broke his self-imposed ban on media coverage by giving his first major interview to [[Tom LeClair]],<ref name="jstor.org">{{cite journal|title=An Interview with Don DeLillo: Conducted by Thomas LeClair|journal=Contemporary Literature|date=Winter 1982|volume=23|issue=1|pages=19–31|jstor=1208140|doi=10.2307/1208140|last1=Leclair|first1=Thomas|last2=Delillo|first2=Don}}</ref> who had first tracked DeLillo down for an interview while he was in Greece in 1979. On that occasion, DeLillo handed LeClair a business card with his name printed on it and beneath that the message "I don't want to talk about it."<ref name="jstor.org"/>
+
+With the 1985 publication of his eighth novel, ''[[White Noise (novel)|White Noise]]'', DeLillo rapidly became a noted and respected novelist. ''White Noise'' was arguably a major breakthrough both commercially and artistically for DeLillo, earning him a [[National Book Award for Fiction]]<ref name=nba1985/> and a place in the canon of contemporary postmodern novelists. DeLillo remained as detached as ever from his growing reputation: when called upon to give an acceptance speech for the award, he simply said, "I'm sorry I couldn't be here tonight, but I thank you all for coming," and then sat down.<ref name="entertainment.timesonline.co.uk"/><ref name="online">{{cite news|last=Alter |first=Alexandra |url=https://www.wsj.com/articles/SB10001424052748704094304575029673526948334?mod=WSJ_Books_LS_Books_11 |title=Don DeLillo on Point Omega and His Writing Methods - WSJ.com |publisher=Online.wsj.com |date=January 30, 2010 |access-date=March 16, 2010}}</ref>
+
+''White Noise'''s influence can be seen in the writing of [[David Foster Wallace]], [[Jonathan Lethem]], [[Jonathan Franzen]], [[Dave Eggers]], [[Martin Amis]], [[Zadie Smith]] and [[Richard Powers]] (who provides an introduction to the 25th anniversary edition of the novel).<ref name="latimes.com"/> Among the 39 proposed titles for the novel were "All Souls", "Ultrasonic",<ref name="newyorker.com"/> "The American Book of the Dead", "Psychic Data" and "Mein Kampf".<ref name="perival_a">{{cite web|url=http://perival.com/delillo/whitenoise.html |title=White Noise – Don DeLillo – 1985 |publisher=Perival.com |access-date=November 23, 2013}}</ref> In 2005 DeLillo said "White Noise" was a fine choice, adding, "Once a title is affixed to a book, it becomes as indelible as a sentence or a paragraph."<ref name="perival_a" />
+
+DeLillo followed ''White Noise'' with ''[[Libra (novel)|Libra]]'' (1988), a speculative fictionalized life of [[Lee Harvey Oswald]] up to the 1963 assassination of [[John F. Kennedy]]. DeLillo undertook a vast research project, which included reading at least half of the [[Warren Commission]] report (which DeLillo called "the Oxford English Dictionary of the assassination and also the Joycean novel. This is the one document that captures the full richness and madness and meaning of the event, despite the fact that it omits about a ton and a half of material."<ref name="theparisreview.org"/>) Written with the working titles "American Blood" and "Texas School Book", ''Libra'' became an international bestseller,<ref name="nytimes.com"/> one of five finalists for the National Book Award,<ref name=nba1988/> and the winner of the next year's ''Irish Times'' Aer Lingus International Fiction Prize.
+
+The novel also elicited fierce critical division, with some critics praising DeLillo's take on the Kennedy assassination while others decried it. [[George Will]], in a ''Washington Post'' article,<ref name="perival.com">{{cite web|url=http://perival.com/delillo/detractors.html |title=DeLillo Detractors |publisher=Perival.com |access-date=March 16, 2010}}</ref> declared the book an affront to America and "an act of literary vandalism and bad citizenship".<ref name="perival.com"/> DeLillo has frequently reflected on the significance of the Kennedy assassination to not only his own work but American culture and history as a whole, remarking in 2005, "November 22nd, 1963, marked the real beginning of the 1960s. It was the beginning of a series of catastrophes: political assassinations, the war in Vietnam, the denial of Civil Rights and the revolts that occasioned, youth revolt in American cities, right up to Watergate. When I was starting out as a writer it seemed to me that a large part of the material you could find in my novels—this sense of fatality, of widespread suspicion, of mistrust—came from the assassination of JFK."<ref name="perival_b" />
+
+===1990s===
+DeLillo's concerns about the position of the novelist and the novel in a media- and terrorist-dominated society were made clear in his next novel, ''[[Mao II]]'' (1991). Clearly influenced by the events surrounding the fatwa placed on the author [[Salman Rushdie]] and the intrusion of the press into the life of the writer [[J. D. Salinger]],<ref name="nytimes.com"/> ''Mao II'' earned DeLillo significant critical praise from, among others, [[John Banville]] and [[Thomas Pynchon]]. He earned a PEN/Faulkner Award and a Pulitzer Prize finalist nomination for ''Mao II'' in 1991 and 1992, respectively.
+
+Following ''Mao II'', DeLillo went underground and spent several years writing and researching his 11th novel. Aside from the publication of a folio short story, "[[Pafko at the Wall]]", in a 1992 issue of ''[[Harper's Magazine]]'', and one short story in 1995, little was seen or heard of him for a number of years.
+
+In 1997, DeLillo finally emerged with his long-awaited novel, the epic Cold War history ''[[Underworld (DeLillo novel)|Underworld]]''. The book was widely heralded as a masterpiece, with novelist and critic [[Martin Amis]] saying it marked "the ascension of a great writer."<ref>{{cite news
+| author = Amis, Martin
+| title = Survivors of the Cold War
+| url = https://www.nytimes.com/books/97/10/05/reviews/971005.05amisdt.html
+| work = The New York Times
+| date = October 5, 1997
+}}</ref>
+
+''Underworld'' went on to become DeLillo's most acclaimed novel to date, achieving mainstream success and earning nominations for the National Book Award<ref name=nba1997/> and the New York Times Best Books of the Year in 1997, and a second Pulitzer Prize for Fiction nomination in 1998. The novel won the 1998 American Book Award, the 1999 [[Jerusalem Prize]], and both the William Dean Howells Medal and Riccardo Bacchelli International Award in 2000. It was a runner-up in the 2006 ''New York Times''' survey of the best American fiction of the last 25 years. ''White Noise'' and ''Libra'' were also recognized by the anonymous jury of contemporary writers.
+
+DeLillo later expressed surprise at ''Underworld'''s success. In 2007, he remarked: "When I finished with ''Underworld'', I didn't really have any all-too-great hopes, to be honest. It's some pretty complicated stuff: 800 pages, more than 100 different characters—who's going to be interested in that?"<ref name="dumpendebat.net"/>
+After rereading it in 2010, over ten years after its publication, DeLillo said that rereading it "made me wonder whether I would be capable of that kind of writing now—the range and scope of it. There are certain parts of the book where the exuberance, the extravagance, I don’t know, the overindulgence....There are city scenes in New York that seem to transcend reality in a certain way."<ref name="entertainment.timesonline.co.uk"/>
+
+===2000s===
+Although they have received some acclaim in places, DeLillo's post-''[[Underworld (DeLillo novel)|Underworld]]'' novels have been often viewed by critics as "disappointing and slight, especially when held up against his earlier, big-canvas epics",<ref name="online"/> marking a shift "away from sweeping, era-defining novels such as "White Noise," "Libra" and "Underworld" to a more "spare and oblique"<ref name="online"/> style, characterized by "decreased length, the decommissioning of plot machinery and the steep deceleration of narrative time".<ref>{{cite news|first=Mark|last=O'Connell |url=https://www.theguardian.com/books/2012/sep/09/angel-esmeralda-don-delillo-review?newsfeed=true |title=The Angel Esmeralda: Nine Stories by Don DeLillo – review |newspaper=[[The Observer]]  |date= September 9, 2012|access-date=November 23, 2013 |location=London}}</ref>
+
+DeLillo has said of this shift to shorter novels, "If a longer novel announces itself, I’ll write it. A novel creates its own structure and develops its own terms. I tend to follow. And I never try to stretch what I sense is a compact book."<ref name="entertainment.timesonline.co.uk"/> In a March 2010 interview, it was reported that DeLillo's deliberate stylistic shift had been informed by his having recently reread several slim but seminal European novels, including [[Albert Camus]]'s ''[[The Stranger (Camus novel)|The Stranger]]'', [[Peter Handke]]'s ''[[The Goalie's Anxiety at the Penalty Kick]]'', and [[Max Frisch]]'s ''[[Man in the Holocene]]''.<ref name="theaustralian1"/>
+
+After the publication and extensive publicity drive for ''Underworld'', DeLillo once again retreated from the spotlight to write his 12th novel, surfacing with ''[[The Body Artist (novel)|The Body Artist]]'' in 2001. The novel has many established DeLillo preoccupations, particularly its interest in performance art and domestic privacies in relation to the wider scope of events. But it is very different in style and tone from the epic history of ''Underworld'', and met with mixed critical reception.
+
+DeLillo followed ''The Body Artist'' with 2003's ''[[Cosmopolis (novel)|Cosmopolis]]'', a modern reinterpretation of [[James Joyce]]'s ''[[Ulysses (novel)|Ulysses]]'' transposed to New York around the time of the collapse of the dot-com bubble in 2000. This novel was met at the time with a largely negative reception from critics, with several high-profile critics and novelists—notably [[John Updike]]—voicing their objections to its style and tone.
+
+When asked in 2005 how he felt about the novel's mixed reception compared to the broader positive consensus afforded to ''[[Underworld (DeLillo novel)|Underworld]]'', DeLillo remarked: "I try to stay detached from that aspect of my work as a writer. I didn't read any reviews or articles. Maybe it [the negative reception] was connected to September 11. I'd almost finished writing the book when the attacks took place, and so they couldn't have had any influence on the book's conception, nor on its writing. Perhaps for certain readers this upset their expectations."<ref name="perival_b" /> Critical opinions have since been revised, the novel latterly being seen as prescient for its focus on the flaws and weaknesses of the international financial system and cybercapital.
+
+DeLillo's papers were acquired in 2004 by the [[Harry Ransom Humanities Research Center]] at the [[University of Texas at Austin]],<ref>{{cite news| title =Ransom Center Acquires Archive of Noted American Novelist Don DeLillo| url =http://www.hrc.utexas.edu/news/press/2004/delillo.html| work =HRC News| date =October 20, 2004| url-status=dead| archive-url =https://web.archive.org/web/20070423141147/http://www.hrc.utexas.edu/news/press/2004/delillo.html| archive-date =April 23, 2007}}</ref> reputedly for "half a million dollars".<ref name="newyorker.com"/> There are "[one] hundred and twenty-five boxes" of DeLillo materials, including various drafts and correspondence.<ref name="newyorker.com"/> Of his decision to donate his papers to the Ransom Center, DeLillo has said: "I ran out of space and also felt, as one does at a certain age, that I was running out of time. I didn’t want to leave behind an enormous mess of papers for family members to deal with. Of course, I’ve since produced more paper—novel, play, essay, etc.—and so the cycle begins again."<ref name="newyorker.com"/>
+
+DeLillo published his final novel of the decade, ''[[Falling Man (novel)|Falling Man]]'', in 2007. The novel concerns the impact on one family of the [[9/11]] terrorist attacks on the [[World Trade Center (1973–2001)|World Trade Center]] in New York, "an intimate story which is encompassed by a global event".<ref name="dumpendebat.net"/> DeLillo said he originally "didn't ever want to write a novel about 9/11" and "had an idea for a different book" he had "been working on for half a year" in 2004 when he came up with the idea for the novel, beginning work on it following the reelection of [[George W. Bush]] that November.<ref name="dumpendebat.net"/>
+
+Although highly anticipated and eagerly awaited by critics, who felt that DeLillo was one of the contemporary writers best equipped to tackle the events of 9/11 in novelistic form, the novel met with a mixed critical reception and garnered no major literary awards or nominations. DeLillo remained unconcerned by this relative lack of critical acclaim, remarking in 2010, "In the 1970s, when I started writing novels, I was a figure in the margins, and that’s where I belonged. If I’m headed back that way, that’s fine with me because that’s always where I felt I belonged. Things changed for me in the 1980s and 1990s, but I’ve always preferred to be somewhere in the corner of a room, observing."<ref name="entertainment.timesonline.co.uk"/>
+
+On April 25, 2009, DeLillo received another significant literary award, the 2009 Common Wealth Award for Literature, given by PNC Bank of Delaware.<ref>{{cite web|url=http://perival.com/delillo/ddevents.html |title=Don DeLillo – Events of Interest |publisher=Perival.com |access-date=March 16, 2010}}</ref>
+
+On July 24, 2009, ''Entertainment Weekly'' announced that the director David Cronenberg (''[[A History of Violence]]'', ''[[Naked Lunch]]'') would adapt ''[[Cosmopolis (novel)|Cosmopolis]]'' for the screen, with "a view to eventually direct."<ref>{{cite web |url=https://ew.com/article/2009/07/24/david-cronenberg-cosmopolis/ |title=David Cronenberg journeys to 'Cosmopolis' |publisher=Entertainment Weekly |date=July 24, 2009 |access-date=March 16, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20090726094922/http://news-briefs.ew.com/2009/07/david-cronenberg-cosmopolis.html |archive-date=July 26, 2009}}</ref> ''[[Cosmopolis (film)|Cosmopolis]]'', eventually released in 2012, became the first direct adaptation for the screen of a DeLillo novel, although both ''Libra'' and ''Underworld'' had previously been optioned for screen treatments. There were discussions about adapting ''[[End Zone]]'', and DeLillo has written an original screenplay for the film ''[[Game 6]]''.
+
+On November 30, 2009, DeLillo published a new short story, "Midnight in Dostoevsky", in ''[[New Yorker (magazine)|The New Yorker]]'' magazine. It was his first short story published since "Still Life" in 2007.<ref>{{cite web|first=Don|last=DeLillo |url=https://www.newyorker.com/magazine/2009/11/30/midnight-in-dostoevsky |title=Midnight in Dostoevsky |work=The New Yorker |date=January 7, 2009 |access-date=October 26, 2021}}</ref>
+
+DeLillo ended the decade by making an unexpected appearance at a PEN event on the steps of the New York City Public Library in support of Chinese dissident writer [[Liu Xiaobo]], who was sentenced to 11 years in prison for "inciting subversion of state power" on December 31, 2009.<ref>{{cite web |url=http://www.pen.org/viewmedia.php/prmMID/4453/prmID/172 |title=PEN American Center – Writers Rally for Release of Liu Xiaobo |publisher=Pen.org |date=December 31, 2009 |access-date=March 16, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100327125404/http://www.pen.org/viewmedia.php/prmMID/4453/prmID/172 |archive-date=March 27, 2010}}</ref>
+
+===2010s===
+[[File:Don delillo nyc 02-cropped.jpg|right|thumb|DeLillo in New York City, 2011]]
+DeLillo published ''[[Point Omega]]'', his 15th novel, in February 2010. According to DeLillo, the novel considers an idea from "the writing of the Jesuit thinker and paleontologist [Pierre] Teilhard de Chardin."<ref name="online.wsj.com"/> The Omega Point of the title "[is] the possible idea that human consciousness is reaching a point of exhaustion and that what comes next may be either a paroxysm or something enormously sublime and unenvisionable."<ref name="online.wsj.com"/> ''Point Omega'' is DeLillo's shortest novel to date, and he has said it could be considered a companion piece to ''[[The Body Artist]]'': "In its reflections on time and loss, this may be a [[philosophical fiction|philosophical novel]] and maybe, considering its themes, the book shares a place in my work with ''The Body Artist'', another novel of abbreviated length."<ref>{{cite web |last=Hales |first=Dianne R. |url=http://bnreview.barnesandnoble.com/t5/Interview/Don-DeLillo/ba-p/2144 |title=Don DeLillo – The Barnes & Noble Review |publisher=[[Barnes & Noble]] |date=February 1, 2010 |access-date=November 23, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131111035507/http://bnreview.barnesandnoble.com/t5/Interview/Don-DeLillo/ba-p/2144 |archive-date=November 11, 2013}}</ref> 
+Reviews were polarized, with some saying the novel was a return to form and innovative, while others complained about its brevity and lack of plot and engaging characters. Upon its initial release, ''Point Omega'' spent one week on ''[[The New York Times Best Seller list]]'', peaking at #35 on the extended version of the list during its one-week stay on the list.<ref>{{cite news|last=Schuessler |first=Jennifer |url=https://www.nytimes.com/2010/02/28/books/review/InsideList-t.html |title=TBR – Inside the List |newspaper=NYTimes.com |date=February 18, 2010 |access-date=March 16, 2010}}</ref>
+
+In a January 29, 2010, interview with ''The Wall Street Journal'', DeLillo discussed at great length ''Point Omega'', his views of writing, and his plans for the future. When asked why his recent novels had been shorter, DeLillo replied, "Each book tells me what it wants or what it is, and I'd be perfectly content to write another long novel. It just has to happen."<ref name="online.wsj.com"/> While DeLillo is open to the idea of returning to the form of the long novel, the interview also revealed that he had no interest in doing as many of his literary contemporaries have done and writing a memoir.<ref name="online.wsj.com"/> DeLillo also made some observations on the state of literature and the challenges facing young writers:
+<blockquote>It's tougher to be a young writer today than when I was a young writer. I don't think my first novel would have been published today as I submitted it. I don't think an editor would have read 50 pages of it. It was very overdone and shaggy, but two young editors saw something that seemed worth pursuing and eventually we all did some work on the book and it was published. I don't think publishers have that kind of tolerance these days, and I guess possibly as a result, more writers go to writing class now than then. I think first, fiction, and second, novels, are much more refined in terms of language, but they may tend to be too well behaved, almost in response to the narrower market.<ref name="online.wsj.com"/></blockquote>
+
+In a February 21, 2010, interview with ''The Times'', DeLillo reaffirmed his belief in the validity and importance of the novel in a technology- and media-driven age, offering a more optimistic opinion of the future of the novel than his contemporary [[Philip Roth]] had done in a recent interview:
+
+<blockquote>It is the form that allows a writer the greatest opportunity to explore human experience....For that reason, reading a novel is potentially a significant act. Because there are so many varieties of human experience, so many kinds of interaction between humans, and so many ways of creating patterns in the novel that can’t be created in a short story, a play, a poem or a movie. The novel, simply, offers more opportunities for a reader to understand the world better, including the world of artistic creation. That sounds pretty grand, but I think it’s true.<ref name="entertainment.timesonline.co.uk"/></blockquote>
+
+DeLillo received two further significant literary awards in 2010: the [[St. Louis Literary Award]] for his entire body of work to date on October 21, 2010 (previous recipients include [[Salman Rushdie]], [[E.L. Doctorow]], [[John Updike]], [[William Gass]], [[Joyce Carol Oates]], [[Joan Didion]] and [[Tennessee Williams]]);<ref>{{cite news|last=Henderson |first=Jane |url=https://www.stltoday.com/entertainment/books-and-literature/book-blog/article_79a4da40-afa4-11df-8002-00127992bc8b.html |title=DeLillo to receive STL Literary Award |newspaper=St. Louis Post-Dispatch |date=August 24, 2010 |access-date=December 30, 2011}}</ref> and his second [[PEN American Center|PEN Award]], the [[PEN/Saul Bellow Award for Achievement in American Fiction]], on October 13, 2010.
+
+DeLillo's first collection of short stories, ''The Angel Esmeralda: Nine Stories'', covering short stories published between 1979 and 2011, was published in November 2011.<ref>{{cite book|url=http://books.simonandschuster.com/Angel-Esmeralda/Don-DeLillo/9781451655841 |title=Books: The Angel Esmeralda |date=November 15, 2011 |publisher=Simon & Schuster |isbn=9781442346482 |access-date=December 30, 2011}}</ref> It received favorable reviews and was a finalist for both the 2012 Story Prize award<ref>{{cite web|url=http://www.thestoryprize.org/ |title=The Story Prize |publisher=[[The Story Prize]] |access-date=November 23, 2013}}</ref> and the 2012 PEN/Faulkner award for Fiction,<ref>[http://www.penfaulkner.org/2012/03/26/about-the-winner-finalists/#DeLilloAbout ] {{webarchive |url=https://web.archive.org/web/20121220182917/http://www.penfaulkner.org/2012/03/26/about-the-winner-finalists/#DeLilloAbout |date=December 20, 2012 }}</ref> as well as being longlisted for the [[Frank O'Connor International Short Story Award]].<ref>{{cite web |url=http://www.frankoconnor-shortstory-award.net/ |title=The Frank O'Connor |publisher=Frankoconnor-shortstory-award.net |access-date=November 23, 2013 |archive-url=https://web.archive.org/web/20131203032031/http://www.frankoconnor-shortstory-award.net/ |archive-date=December 3, 2013 |url-status=dead }}</ref> New York Times Book Review contributor Liesl Schillinger praised it, saying, "DeLillo packs fertile ruminations and potent consolation into each of these rich, dense, concentrated stories."<ref>{{cite news|last=Schillinger|first=Liesl|title=Don DeLillo and the Varieties of American Unease|url=https://www.nytimes.com/2011/11/20/books/review/the-angel-esmeralda-nine-stories-by-don-delillo-book-review.html?pagewanted=all|newspaper=The New York Times|date=November 17, 2011}}</ref>
+
+DeLillo received the 2012 Carl Sandburg Literary Award on October 17, 2012, on the campus of the [[University of Illinois at Chicago]]. The prize is "presented annually to an acclaimed author in recognition of outstanding contributions to the literary world and honors a significant work or body of work that has enhanced the public's awareness of the written word."<ref>{{cite web |url=http://www.cplfoundation.org/site/PageServer?pagename=events_sandburgawards_co |title=Carl Sandburg Literary Awards Dinner |publisher=[[Chicago Public Library]] Foundation |date=October 23, 2013 |access-date=November 23, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131202230958/http://www.cplfoundation.org/site/PageServer?pagename=events_sandburgawards_co |archive-date=December 2, 2013}}</ref>
+
+On January 29, 2013, ''[[Variety (magazine)|Variety]]'' announced that [[Luca Guadagnino]] would direct an adaptation of ''The Body Artist'' called ''Body Art''.<ref>{{cite magazine|first=John|last=Hopewell |url=https://www.variety.com/article/VR1118065323/ |title=Cronenberg, DeLillo, Branco reteam for 'Body Art' |magazine=[[Variety (magazine)|Variety]] |date=January 29, 2013 |access-date=November 23, 2013}}</ref> On April 26, 2013, it was announced that DeLillo had received the inaugural Library of Congress Prize for American Fiction (formerly the Library of Congress Creative Achievement Award for Fiction), with the presentation of the award due to take place during the 2013 Library of Congress National Book Festival, Sept. 21–22, 2013.<ref name="loc.gov"/><ref name="washingtonpost">{{cite news|url=https://www.washingtonpost.com/lifestyle/style/don-delillo-is-first-recipient-of-library-of-congress-prize-for-american-fiction/2013/04/24/ae1ff5f8-acd5-11e2-b6fd-ba6f5f26d70e_story_1.html |title=Don DeLillo is first recipient of Library of Congress Prize for American Fiction |newspaper=The Washington Post |date= April 25, 2013|access-date=November 23, 2013 |first=Ron |last=Charles}}</ref><ref>{{cite web|url=http://www.thedailybeast.com/cheats/2013/04/25/delillo-wins-inaugural-library-of-congress-prize-for-american-fiction.html |title=DeLillo Wins Inaugural Library of Congress Prize for American Fiction |website=[[The Daily Beast]] |date=April 25, 2013 |access-date=November 23, 2013}}</ref><ref name="artsbeat.blogs.nytimes.com">{{cite news| url=http://artsbeat.blogs.nytimes.com/2013/04/25/new-literary-prize-goes-to-old-pro-delillo/ | work=The New York Times | first=John | last=Williams | title=New Literary Prize Goes to DeLillo | date=April 25, 2013}}</ref>
+
+The prize honors "an American literary writer whose body of work is distinguished not only for its mastery of the art but for its originality of thought and imagination. The award seeks to commend strong, unique, enduring voices that—throughout long, consistently accomplished careers—have told us something about the American experience."<ref name="loc.gov"/> In a statement issued in response to the award, DeLillo said, "When I received news of this award, my first thoughts were of my mother and father, who came to this country the hard way, as young people confronting a new language and culture. In a significant sense, the Library of Congress Prize is the culmination of their efforts and a tribute to their memory."<ref name="artsbeat.blogs.nytimes.com"/>
+
+In November 2012, DeLillo revealed that he was at work on a new novel, his 16th, and that "the [main] character spends a lot of time watching file footage on a wide screen, images of a disaster."<ref>{{cite web|url=http://ohnotheydidnt.livejournal.com/68430780.html |title=Cosmopolis Interviews – Rob Pattinson, David Cronenberg, Don Delillo |publisher=[[Oh No They Didn't]]com |date=April 23, 2012 |access-date=November 23, 2013}}</ref><ref>{{cite news|first=Kevin|last=Nance |url=http://articles.chicagotribune.com/2012-10-12/features/ct-prj-1014-don-delillo-20121012_1_mao-ii-angel-esmeralda-printers-row |title=Don DeLillo talks about writing |newspaper=Chicago Tribune |date=October 12, 2012 |access-date=November 23, 2013}}</ref> In August 2015, DeLillo's US publishers Simon and Schuster announced that the novel, ''Zero K'', would be published in May 2016.<ref name="books.simonandschuster.com">{{Cite book|url=https://www.simonandschuster.com/books/Zero-K/Don-DeLillo/9781501138072|title=Zero K|date=May 3, 2016|isbn=9781501138072|via=www.simonandschuster.com|last1=Delillo|first1=Don}}</ref> The advanced blurb for the novel is as follows:
+
+<blockquote>Jeffrey Lockhart’s father, Ross, is a George Soros-like billionaire now in his sixties, with a younger wife, Artis, whose health is failing. Ross is the primary investor in a deeply remote and secret compound where death is controlled and bodies are preserved until a future moment when medicine and technology can reawaken them. Jeffrey joins Ross and Artis at the compound to say "an uncertain farewell" to her as she surrenders her body. Ross Lockhart is not driven by the hope for immortality, for power and wealth beyond the grave. He is driven by love for his wife, for Artis, without whom he feels life is not worth living. It is that which compels him to submit to death long before his time. Jeffrey heartily disapproves. He is committed to living, to "the mingled astonishments of our time, here, on earth. "Thus begins an emotionally resonant novel that weighs the darkness of the world—terrorism, floods, fires, famine, death—against the beauty of everyday life; love, awe, "the intimate touch of earth and sun." Brilliantly observed and infused with humor, Don Delillo’s ''Zero K'' is an acute observation about the fragility and meaning of life, about embracing our family, this world, our language, and our humanity.<ref name="books.simonandschuster.com"/></blockquote>
+
+In November 2015, DeLillo received the 2015 Medal for Distinguished Contribution to American Letters at the 66th National Book Awards Ceremony. The ceremony was held on November 8 in New York City, and he was presented his award by Pulitzer Prize winner [[Jennifer Egan]], a writer profoundly influenced by DeLillo's work.<ref>{{Cite web|url=https://www.flavorwire.com/535906/don-delillo-to-receive-national-book-award-for-contribution-to-american-letters|title=Don DeLillo to Receive National Book Award for Contribution to American Letters|first=Jonathon|last=Sturgeon|website=Flavorwire}}</ref> In his acceptance speech, DeLillo reflected upon his career as a reader as well as a writer, recalling examining his personal book collection and feeling a profound sense of personal connection to literature: "Here I’m not the writer at all, I’m a grateful reader. When I look at my bookshelves I find myself gazing like a museum-goer."<ref>{{Cite web |url=http://www.nationalbook.org/amerletters_2015_ddelillo.html |title=Archived copy |access-date=April 26, 2016 |archive-url=https://web.archive.org/web/20160423042118/http://www.nationalbook.org/amerletters_2015_ddelillo.html |archive-date=April 23, 2016 |url-status=dead}}</ref> In February 2016, DeLillo was the guest of honor at an academic conference dedicated to his work, "Don DeLillo: Fiction Rescues History", a three-day event at the [[Sorbonne Nouvelle]] in Paris.<ref>{{cite web |url=http://delilloparisconf.byethost12.com/ |title=Archived copy |access-date=April 26, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20151118044936/http://delilloparisconf.byethost12.com/ |archive-date=November 18, 2015}}</ref>
+
+Speaking to ''The Guardian'' in November 2018, DeLillo revealed work on a new novel, his 17th, "set three years in the future. But I’m not trying to imagine the future in the usual terms. I’m trying to imagine what has been torn apart and what can be put back together, and I don’t know the answer. I hope I can arrive at an answer through writing the fiction."<ref>{{cite news|last=Brooks |first=Xan |url=https://www.theguardian.com/stage/2018/nov/05/don-delillo-trumps-america-love-lies-bleeding |title=Don DeLillo on Trump's America: 'I'm not sure the country is recoverable' |newspaper=The Guardian |date=November 6, 2018 |access-date=November 8, 2018}}</ref>
+
+===2020s===
+DeLillo's 17th novel, ''[[The Silence (novel)|The Silence]]'', was published by [[Charles Scribner's Sons|Scribner]] in October 2020.
+
+DeLillo lives near New York City in the suburb of [[Bronxville, New York|Bronxville]] with his wife, Barbara Bennett.<ref name="entertainment.timesonline.co.uk">{{cite news|first=Ed |last=Caesar |title=Don DeLillo: A writer like no other |url= https://www.thetimes.co.uk/article/don-delillo-a-writer-like-no-other-rdsg66wdj67|work=The Sunday Times |date=February 21, 2010 |access-date=August 20, 2010 |location=London}}</ref>
+
+==Plays==
+Since 1979, in addition to his novels and occasional essays, DeLillo has been active as a playwright. To date, DeLillo has written five major plays: ''The Engineer of Moonlight'' (1979), ''The Day Room'' (1986), ''Valparaiso'' (1999), ''Love Lies Bleeding'' (2006), and, most recently, ''The Word For Snow'' (2007). Stage adaptations have also been written for DeLillo's novels ''Libra'' and ''Mao II''.
+
+Of his work as a playwright, DeLillo has said that he feels his plays are not influenced by the same writers as his novels: "I'm not sure who influenced me [as a playwright]. I've seen some reviews that mention [[Samuel Beckett|Beckett]] and [[Harold Pinter|Pinter]], but I don't know what to say about that. I don't feel it myself."<ref>{{cite news|first=John|last=Freeman |url=http://www.sfgate.com/books/article/Q-A-Don-DeLillo-It-s-not-as-easy-as-it-looks-2502943.php#page-2 |title=Q&A: Don DeLillo / It's not as easy as it looks / DeLillo talks about writing plays, watching sports and movies, and defining love and death |newspaper=[[San Francisco Chronicle]] |date=March 5, 2006 |access-date=November 23, 2013}}</ref>
+
+==Themes and criticism==
+DeLillo's work displays elements of both [[modernism]] and [[postmodernism]].<ref name="Duvall2008">{{cite book|author=John N. Duvall|title=The Cambridge Companion to Don DeLillo|url=https://archive.org/details/cambridgecompani00duva|url-access=limited|date=May 29, 2008|publisher=Cambridge University Press|isbn=978-1-139-82808-6|page=[https://archive.org/details/cambridgecompani00duva/page/n23 13]}}</ref><ref name="DaCunhaLewin&Ward2018">{{cite book|author=Katherine Da Cunha Lewin & Kiron Ward|title=Don DeLillo|date=October 4, 2018|publisher=Bloomsbury Academic|isbn=9781350040878|pages=1–4}}</ref> (Though it is worth noting that DeLillo himself claims not to know if his work is postmodern: "It is not [postmodern]. I'm the last guy to ask. If I had to classify myself, it would be in the long line of modernists, from James Joyce through William Faulkner and so on. That has always been my model.")<ref name=Singer>{{cite web|last1=Singer|first1=Dale|title=Take Five: Don't call Don DeLillo's fiction 'postmodern'|url=https://www.stlbeacon.org/#!/content/18046/take_five_dont_call_don_delillos_fiction_postmodern|access-date=July 16, 2014|url-status=dead|archive-url=https://web.archive.org/web/20150423025332/http://stlbeacon.org/#!/content/18046/take_five_dont_call_don_delillos_fiction_postmodern|archive-date=April 23, 2015}}</ref> He has said the primary influences on his work and development are "abstract expressionism, foreign films, and jazz."<ref>{{cite book
+ | last = DePietro
+ | first = Thomas (ed.)
+ | title = Conversations With Don DeLillo
+ | publisher = [[University Press of Mississippi]]
+ | year = 2005
+ | page = 128
+ | isbn = 1-57806-704-9}}</ref> Many of DeLillo's books (notably ''White Noise'') [[satirize]] academia and explore [[postmodern]] themes of rampant consumerism, novelty intellectualism, underground conspiracies, the disintegration and re-integration of the family, and the promise of rebirth through violence.
+
+In several of his novels, DeLillo explores the idea of the increasing visibility and effectiveness of terrorists as societal actors and, consequently, the displacement of what he views to be artists', and particularly novelists', traditional role in facilitating social discourse (''Players'', ''Mao II'', ''Falling Man''). Another perpetual theme in DeLillo's books is the saturation of [[mass media]] and its role in forming [[simulacrum|simulacra]], resulting in the removal of an event from its context and the consequent draining of meaning (see the highway shooter in ''[[Underworld (DeLillo novel)|Underworld]]'', the televised disasters longed for in ''White Noise'', the planes in ''Falling Man'', the evolving story of the interviewee in ''[[Valparaiso (play)|Valparaiso]]''). The psychology of crowds and the capitulation of individuals to group identity is a theme DeLillo examines in several of his novels, especially in the prologue to ''Underworld'', ''Mao II'', and ''Falling Man''. In a 1993 interview with Maria Nadotti, DeLillo explained
+
+{{quote|My book (''Mao II''), in a way, is asking who is speaking to these people. Is it the writer who traditionally thought he could influence the imagination of his contemporaries or is it the totalitarian leader, the military man, the terrorist, those who are twisted by power and who seem capable of imposing their vision on the world, reducing the earth to a place of danger and anger. Things have changed a lot in recent years. One doesn't step onto an airplane in the same spirit as one did ten years ago: it's all different and this change has insinuated itself into our consciousness with the same force with which it insinuated itself into the visions of Beckett or Kafka.<ref>{{cite book
+ | last = DePietro
+ | first = Thomas (ed.)
+ | title = Conversations With Don DeLillo
+ | publisher = [[University Press of Mississippi]]
+ | year = 2005
+ | page = 110
+ | isbn = 1-57806-704-9}}</ref>}}
+
+Many younger [[English-language]] authors such as [[Bret Easton Ellis]], [[Jonathan Franzen]], and [[David Foster Wallace]] have cited DeLillo as an influence. Literary critic [[Harold Bloom]] named him as one of the four major American novelists of his time,<ref>{{cite news|last=Bloom |first=Harold |url=https://www.boston.com/news/globe/editorial_opinion/oped/articles/2003/09/24/dumbing_down_american_readers/ |title=Dumbing down American readers |newspaper=The Boston Globe |date=September 24, 2003 |access-date=March 16, 2010}}</ref> along with [[Thomas Pynchon]], [[Philip Roth]], and [[Cormac McCarthy]], though he questions the classification of DeLillo as a "postmodern novelist." Asked if he approves of this designation, DeLillo has responded: "I don't react. But I'd prefer not to be labeled. I'm a novelist, period. An American novelist."<ref>{{cite book
+ | last = DePietro
+ | first = Thomas (ed.)
+ | title = Conversations With Don DeLillo
+ | publisher = [[University Press of Mississippi]]
+ | year = 2005
+ | page = 115
+ | isbn = 1-57806-704-9}}</ref>
+
+Critics of DeLillo argue that his novels are overly stylized and intellectually shallow. In [[James Wood (critic)|James Wood's]] review of [[Zadie Smith|Zadie Smith's]] 2000 novel ''[[White Teeth]]'', he dismissed the work of authors like DeLillo, Wallace, and Smith as "[[hysterical realism]]".<ref>{{Cite magazine|url=https://newrepublic.com/article/61361/human-inhuman|title=Human, All Too Inhuman|date=July 24, 2000|magazine=New Republic|access-date=February 8, 2017}}</ref> [[Bruce Bawer]] famously condemned DeLillo's novels insisting they weren't actually novels at all but "tracts, designed to batter us, again and again, with a single idea: that life in America today is boring, benumbing, dehumanized...It's better, DeLillo seems to say in one novel after another, to be a marauding murderous maniac – and therefore a ''human'' – than to sit still for America as it is, with its air conditioners, assembly lines, television sets, supermarkets, synthetic fabrics, and credit cards."<ref name="ny">Remnick, David, "Exile on Main Street: Don DeLillo's Undisclosed Underworld", ''The New Yorker'', September 15, 1997.</ref><ref>{{Cite book|url=https://books.google.com/books?id=8840OLQ2P0EC|title=Hegel on the Modern Arts|last=Rutter|first=Benjamin|date=July 29, 2010|publisher=Cambridge University Press|isbn=9781139489782|language=en}}</ref>
+
+[[George Will]] proclaimed the study of [[Lee Harvey Oswald]] in ''Libra'' as "sandbox existentialism" and "an act of literary vandalism and bad citizenship."<ref name="ny"/> DeLillo responded "I don't take it seriously, but being called a 'bad citizen' is a compliment to a novelist, at least to my mind. That's exactly what we ought to do. We ought to be bad citizens. We ought to, in the sense that we're writing against what power represents, and often what government represents, and what the corporation dictates, and what consumer consciousness has come to mean. In that sense, if we're bad citizens, we're doing our job."<ref name="ny"/> In the same interview DeLillo rejected Will's claim that DeLillo blames America for Lee Harvey Oswald, countering that he instead blamed America for George Will. DeLillo also figured prominently{{clarify|date=July 2015}} in [[B. R. Myers]]'s critique of recent American literary fiction, ''[[A Reader's Manifesto]]''.
+
+==References in popular culture==
+
+===In film===
+* In ''[[The Proposal (2009 film)|The Proposal]]'' (2009), the Canadian-born editor in chief of a New York publisher risks deportation to meet DeLillo at the [[Frankfurt Book Fair]].
+
+===In music===
+;Band names
+* The band [[The Airborne Toxic Event]] takes its name from a chemical gas leak of the same name in DeLillo's ''White Noise''.
+* The Too Much Joy spin-off band, [[Wonderlick]], takes its name from an intentional misspelling of the name of the protagonist from ''[[Great Jones Street (novel)|Great Jones Street]]''.
+
+;Lyrics
+* [[Rhett Miller]] references ''Libra'' in his song "World Inside the World", saying: "I read it in DeLillo, like he'd written it for me". (The phrase "There is a world inside the world" appears several times in the book.)
+* [[Bright Eyes (band)|Bright Eyes]] begins their song "Gold Mine Gutted" from ''[[Digital Ash in a Digital Urn]]'' with: "It was Don DeLillo, whiskey neat, and a blinking midnight clock. Speakers on the TV stand, just a turntable to watch.".
+* [[Too Much Joy]]'s song "Sort of Haunted House", from ''[[Mutiny (Too Much Joy album)|Mutiny]]'', is inspired by DeLillo.
+* [[Milo (musician)]]'s song "The Gus Haynes Cribbage League" mentions him with the line: "I got hair like a pad of Brillo, and date girls whose dad could be Don DeLillo."
+
+===In publications===
+* [[Paul Auster]] dedicated his books ''[[In the Country of Last Things]]'' and ''[[Leviathan (Auster novel)|Leviathan]]'' to his friend Don DeLillo.
+* [[Ryan Boudinot]] and [[Neal Pollack]]<ref>{{cite web |url=http://www.mcsweeneys.net/2001/02/16outback.html |title=McSweeney's Internet Tendency: DeLillo in the Outback |publisher=Mcsweeneys.net |access-date=March 16, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100529164023/http://www.mcsweeneys.net/2001/02/16outback.html |archive-date=May 29, 2010}}</ref> contributed humor pieces to the journal ''[[Timothy McSweeney's Quarterly Concern|McSweeney's]]'' satirizing DeLillo.
+* A fictionalized DeLillo blogs for ''[[The Onion]]''.<ref>{{cite web|url=http://www.theonion.com/content/whitehousewar/blog/don |title=Don DeLillo &#124; The Onion – America's Finest News Source |publisher=The Onion |access-date=March 16, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100219011219/http://www.theonion.com/content/whitehousewar/blog/don |archive-date=February 19, 2010 }}</ref>
+* A fictionalized version of DeLillo makes a few appearances as a minor character in A.M. Homes' 2012 novel ''[[May We Be Forgiven]]''.
+* A fictionalized version of a younger, pre-fame DeLillo during his career as an advertising copywriter in New York, appears briefly as a minor character in [[David Bowman (writer)|David Bowman]]'s posthumous third novel ''Big Bang'' (2019)<ref>{{Cite web|url=https://www.latimes.com/books/la-ca-jc-david-bowman-big-bang-review-20190115-story.html|title='Big Bang' is a quixotic quasi-history of the wild years before JFK's assassination|date=January 15, 2019|website=Los Angeles Times}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2019/02/10/books/review-big-bang-david-bowman.html|title=An Encyclopedic Novel Intent on Reliving the Baby Boomers' Touchstone Moments. All of Them.|first=John|last=Williams|newspaper=The New York Times|date=February 10, 2019}}</ref>
+* [[Emma Cline]]'s short story "White Noise", published June 1, 2020, by ''[[The New Yorker]]'', features a fictionalized version of DeLillo. Harvey, the central character of the story and a fictionalized version of [[Harvey Weinstein]], mistakes his neighbor for DeLillo and fantasizes about the two of them collaborating on a film version of ''White Noise''.<ref>{{Cite magazine|last=Cline|first=Emma|title=White Noise|url=https://www.newyorker.com/magazine/2020/06/08/white-noise|access-date=August 6, 2020|magazine=The New Yorker|language=en-us}}</ref><ref>{{Cite magazine|last=Davidson|first=Willing|title=Emma Cline on Fictionalizing a #MeToo Villain|url=https://www.newyorker.com/books/this-week-in-fiction/emma-cline-06-08-20|access-date=August 6, 2020|magazine=The New Yorker|language=en-us}}</ref>
+
+===In reviews===
+* [[David Foster Wallace]] saluted DeLillo, [[Cynthia Ozick]], and [[Cormac McCarthy]] as three of the greatest living fiction authors in the United States.<ref>[https://www.amherst.edu/aboutamherst/magazine/extra/node/66410 Brief Interview with a Five Draft Man], ''Amherst Magazine''</ref>
+
+==Bibliography==
+{{Expand list|date=June 2015}}
+
+===Novels===
+* ''[[Americana (novel)|Americana]]'' (1971)
+* ''[[End Zone (novel)|End Zone]]'' (1972)
+* ''[[Great Jones Street (novel)|Great Jones Street]]'' (1973)
+* ''[[Ratner's Star]]'' (1976)
+* ''[[Players (DeLillo novel)|Players]]'' (1977)
+* ''[[Running Dog (novel)|Running Dog]]'' (1978)
+* ''[[Amazons (novel)|Amazons]]'' (1980) (under pseudonym "Cleo Birdwell")
+* ''[[The Names (novel)|The Names]]'' (1982)
+* ''[[White Noise (novel)|White Noise]]'' (1985)
+* ''[[Libra (novel)|Libra]]'' (1988)
+* ''[[Mao II]]'' (1991)
+* ''[[Underworld (DeLillo novel)|Underworld]]'' (1997) 
+* ''[[The Body Artist]]'' (2001)
+* ''[[Cosmopolis (novel)|Cosmopolis]]'' (2003)
+* ''[[Falling Man (novel)|Falling Man]]'' (2007)
+* ''[[Point Omega]]'' (2010)
+* ''[[Zero K (novel)|Zero K]]'' (2016)
+* ''[[The Silence (novel)|The Silence]]'' (2020)
+
+===Short fiction===
+
+====Collections====
+* ''[[The Angel Esmeralda|The Angel Esmeralda: Nine Stories]]'' (2011)
+
+====Short stories====
+* {{cite journal |last=DeLillo |first=Don |date=Winter 1960 |title=The River Jordan |journal=Epoch |volume=10 |issue=2 |pages=105–120 }}
+* "[[Take the "A" Train (short story)|Take the "A" Train]]" (1962) (First published in ''Epoch'' 12, No. 1 (Spring 1962) pp.&nbsp;9–25.)
+* "Spaghetti and Meatballs" (1965) (First published in ''Epoch'' 14, No. 3 (Spring 1965) pp.&nbsp;244–250)
+* "Coming Sun.Mon.Tues." (1966) (First published in ''Kenyon Review'' 28, No. 3 (June 1966), pp.&nbsp;391–394.)
+* "Baghdad Towers West" (1967) (First published in ''Epoch'' 17, 1968, pp.&nbsp;195–217.)
+* "The Uniforms" (1970) (First published in ''[[Carolina Quarterly]]'' 22, 1970, pp.&nbsp;4–11.)
+* "In the Men's Room of the Sixteenth Century" (1971) (First published in ''Esquire'', Dec. 1971, pp.&nbsp;174–177, 243, 246.)
+* "Total Loss Weekend"  (1972) (First published in ''Sports Illustrated'', November 27, 1972, pp.&nbsp;98–101+)
+* "Creation" (1979) (First published in ''Antaeus'' No. 33, Spring 1979, pp.&nbsp;32–46.)
+* "The Sightings" (1979) (First published in ''Weekend Magazine'' (Summer Fiction Issue, out of Toronto), August 4, 1979, pp.&nbsp;26–30.)
+* "[[Human Moments in World War III]]" (1983) (First published in ''Esquire'', July 1983, pp.&nbsp;118–126.)
+* "The Ivory Acrobat" (1988) (First published in ''Granta'' 25, Autumn 1988, pp.&nbsp;199–212.)
+* "The Runner" (1988) (First published in ''Harper's'', Sept. 1988, pp.&nbsp;61–63.)
+* "[[Pafko at the Wall]]" (1992) (First published in ''Harper's'', Oct. 1992, pp.&nbsp;35–70.)
+* "The Angel Esmeralda" (1995) (First published in ''Esquire'', May 1994, pp.&nbsp;100–109.)
+* "Baader-Meinhof" (2002) (First published in ''The New Yorker'', April 1, 2002, pp.&nbsp;78–82.)
+* "Still Life" (2007) (First published in ''The New Yorker'', April 9, 2007)
+* "Midnight in Dostoevsky" (2009) (First Published in ''The New Yorker'', November 30, 2009)
+* "The Border of Fallen Bodies" (2009) (First Published in ''Esquire'', April 21, 2009)
+* "[[Hammer and Sickle (short story)|Hammer and Sickle]]" (2010) (First published in ''Harper's'', Dec. 2010, pp.&nbsp;63–74)
+* "The Starveling" (2011) (First published in ''Granta'' 117, Autumn 2011)
+* "The Itch" (2017) (First published in ''The New Yorker'', July 31, 2017)
+
+===Plays===
+* ''The Engineer of Moonlight'' (1979)
+* ''[[The Day Room (play)|The Day Room]]'' (first production 1986)
+* ''[[Valparaiso (play)|Valparaiso]]'' (first production 1999)
+* ''[[Love-Lies-Bleeding (play)|Love-Lies-Bleeding]]'' (first production 2005)
+* ''[[The Word for Snow (play)|The Word for Snow]]'' (first production in 2007)
+
+===Screenplays===
+* ''[[Game 6 (film)|Game 6]]'' (2005), the story of a playwright (played by [[Michael Keaton]]) and his obsession with the [[Boston Red Sox]] and the [[1986 World Series]], was written in the early 1990s, but wasn't produced until 2005, ironically one year after the [[Boston Red Sox|Red Sox]] won their first [[World Series]] title in 86 years. To date, it is DeLillo's only work for film.
+
+===Essays and reporting===
+* "American Blood: A Journey through the Labyrinth of Dallas and JFK" (1983) (Published in ''Rolling Stone'', December 8, 1983. DeLillo's first major published essay. Seen as signposting his interest in the JFK assassination that would ultimately lead to ''Libra'')
+* "Salman Rushdie Defense" (1994) (Co-written with [[Paul Auster]] in defense of [[Salman Rushdie]], following the announcement of a [[fatwa]] upon Rushdie after the publication of ''[[The Satanic Verses]]'')
+* "The Artist Naked in a Cage" (1997) (A short piece ran in ''The New Yorker'' on May 26, 1997, pages 6–7. An address delivered on May 13, 1997, at the [[New York Public Library]]'s event "Stand In for [[Wei Jingsheng]].")
+* "The Power of History" (1997) (Published in the September 7, 1997, issue of the ''New York Times Magazine''. Preceded the publication of ''[[Underworld (DeLillo novel)|Underworld]]'' and was viewed by many as a rationale for the novel{{citation needed|date=April 2015}})
+* "A History of the Writer Alone in a Room" (1999) (This piece is the acceptance address given by DeLillo on the occasion of being awarded the [[Jerusalem Prize]] in 1999. A small pamphlet was printed with this address, an address by Scribner editor-in-chief Nan Graham, the Jury's Citation, and an address by Jerusalem mayor [[Ehud Olmert]].{{citation needed|date=April 2015}} It was reprinted in a German translation in ''[[Die Zeit]]'' in 2001. The piece is in five numbered sections, and is about five pages long.){{citation needed|date=April 2015}}
+* "In the Ruins of the Future" (Dec 2001) (This short essay appeared in ''[[Harper's Magazine]]''. It concerns the [[September 11, 2001|September 11]] incidents, terrorism, and America and comprises eight numbered sections.)<ref>{{cite news|author=DeLillo, Don|work=Harper's Magazine|title=In the Ruins of the Future|date=December 2001|pages= 33–40}}</ref>
+* {{cite journal |last=DeLillo |first=Don |date=Autumn 2009 |title=Remembrance |journal=[[Granta]] |issue=108 |pages=68–69}} [[Nelson Algren]]
+
+==Awards and award nominations==
+* 1979 – [[Guggenheim Fellowship]]
+* 1984 – Award in Literature from the [[American Academy of Arts and Letters|American Academy and Institute of Arts and Letters]]
+* 1985 – [[National Book Award]] ([[National Book Award for Fiction|Fiction]]) for ''[[White Noise (novel)|White Noise]]''<ref name=nba1985>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1985 "National Book Awards – 1985"]. [[National Book Foundation]]. Retrieved 2012-03-28. <br />(With essays by Courtney Eldridge, Matthew Pitt, and [[Jess Walter]] from the Awards 60-year anniversary blog.)</ref>
+* 1985 – [[National Book Critics Circle Award]] finalist (Fiction, 1985) for ''[[White Noise (novel)|White Noise]]''
+* 1988 – National Book Critics Circle Award finalist (Fiction, 1988) for ''Libra''
+* 1988 – ''[[The New York Times]]'' Best Books of the Year (1988) for ''Libra''
+* 1988 – National Book Award finalist (Fiction) for ''Libra''<ref name=nba1988>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1988 "National Book Awards – 1988"]. National Book Foundation. Retrieved March 28, 2012.</ref>
+* 1989 – Election to the [[American Academy of Arts and Letters]].<ref>{{cite web|url=https://artsandletters.org/academy-members/|title=American Academy of Arts and Letters Members|website=www.artsandletters.org}}</ref>
+* 1989 – ''Irish Times'', Aer Lingus International Fiction Prize for ''Libra''
+* 1992 – [[PEN/Faulkner Award]] for ''[[Mao II]]''
+* 1992 – [[Pulitzer Prize]] for Fiction nomination for ''[[Mao II]]''
+* 1995 – [[Lila Bell Wallace|Lila Wallace-Reader's Digest Award]]
+* 1997 – National Book Award finalist (Fiction) for ''[[Underworld (DeLillo novel)|Underworld]]''<ref name=nba1997>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1997 "National Book Awards – 1997"]. National Book Foundation. Retrieved March 28, 2012.</ref>
+* 1997 – National Book Critics Circle Award finalist (Fiction, 1997) for ''[[Underworld (DeLillo novel)|Underworld]]''
+* 1997 – New York Times Best Books of the Year nominee for ''[[Underworld (DeLillo novel)|Underworld]]''
+* 1998 – Pulitzer Prize for Fiction nomination for ''[[Underworld (DeLillo novel)|Underworld]]''
+* 1998 – [[American Book Award]] for ''[[Underworld (DeLillo novel)|Underworld]]''
+* 1999 – [[Jerusalem Prize]]
+* 1999 – [[International Dublin Literary Award]] shortlist for ''[[Underworld (DeLillo novel)|Underworld]]''
+* 2000 – [[William Dean Howells Medal]] awarded for ''[[Underworld (DeLillo novel)|Underworld]]''
+* 2000 – "[[Riccardo Bacchelli]]" International Award for ''[[Underworld (DeLillo novel)|Underworld]]''
+* 2001 – [[James Tait Black Memorial Prize]] shortlist (Fiction, 2001) for ''[[The Body Artist]]''
+* 2003 – [[International Dublin Literary Award]] longlist for ''[[The Body Artist]]''
+* 2006 – New York Times: Best Work of American Fiction of the Last 25 Years (Runner-Up) for ''[[Underworld (DeLillo novel)|Underworld]]''
+* 2007 – ''The New York Times'' Notable Book of the Year (Fiction and Poetry) for ''[[Falling Man]]''
+* 2007 – Booklist Top of the List: A Best of Editors Choice for ''[[Falling Man]]''
+* 2007 – Nominee for [[Man Booker International Prize]]
+* 2009 – [[Common Wealth Award of Distinguished Service]] for achievements in literature
+* 2009 – [[International Dublin Literary Award]] longlist for ''[[Falling Man]]''
+* 2010 – [[St. Louis Literary Award]] from the [[Saint Louis University]] Library Associates<ref>{{Cite web|url=http://www.slu.edu/libraries/associates/award.html|title=Website of St. Louis Literary Award|access-date=July 25, 2016|archive-date=August 23, 2016|archive-url=https://web.archive.org/web/20160823003924/http://www.slu.edu/libraries/associates/award.html|url-status=dead}}</ref>
+* 2010 – [[PEN/Saul Bellow Award for Achievement in American Fiction]]<ref>{{cite news|last=Cohen |first=Patricia |url=http://artsbeat.blogs.nytimes.com/2010/09/23/pen-american-center-names-award-winners/ |title=PEN American Center Names Award Winners |work=ArtsBeat |publisher=The New York Times |date=September 23, 2010 |access-date=December 30, 2011}}</ref>
+* 2011 – ''[[The New York Times]]'' 100 Notable Books of 2011 list for ''The Angel Esmeralda''
+* 2012 – [[The Story Prize]] finalist for ''The Angel Esmeralda''
+* 2012 – PEN/Faulkner Award for Fiction finalist for ''The Angel Esmeralda''
+* 2012 – [[Frank O'Connor International Short Story Award|Frank O’Connor International Short Story Award]] longlist for ''The Angel Esmeralda''
+* 2012 – [[Carl Sandburg]] Literary Award
+* 2012 – [[International Dublin Literary Award]] longlist for ''[[Point Omega]]''
+* 2013 – [[Library of Congress Prize for American Fiction]]<ref name="loc.gov"/><ref name="washingtonpost" /><ref>{{cite news|first=Husna|last=Haq |url=http://www.csmonitor.com/Books/chapter-and-verse/2013/0425/Don-DeLillo-becomes-first-writer-to-receive-the-Library-of-Congress-Prize-for-American-Fiction |title=Don DeLillo becomes first writer to receive the Library of Congress Prize for American Fiction |newspaper=[[Christian Science Monitor]] |date=April 25, 2013 |access-date=November 23, 2013}}</ref>
+* 2014 – [[Norman Mailer Prize|Norman Mailer Prize for Lifetime Achievement]]<ref>http://www.sys-con.com/node/3159143</ref>
+* 2015 – National Book Foundation Medal for Distinguished Contribution to American Letters
+
+== See also ==
+
+* [[Postmodern literature]]
+* [[Hysterical realism]]
+
+==Further reading==
+* Adelman, Gary, ''Sorrow's Rigging: The Novels of Cormac McCarthy, Don Delillo, and Robert Stone'', McGill-Queen's University Press, 2012.
+* Bloom, Harold (ed.), ''Don DeLillo (Bloom's Major Novelists)'', Chelsea House, 2003.
+* Boxall, Peter, ''Don DeLillo: The Possibility of Fiction'', Routledge, 2006.
+* Civello, Paul, ''American Literary Naturalism and its Twentieth-century Transformations: Frank Norris, Ernest Hemingway, Don DeLillo'', University of Georgia Press, 1994.
+* Cowart, David, ''Don DeLillo – The Physics of Language'', University of Georgia Press, 2002.
+* Da Cunha Lewin, Katherine (ed.), Ward, Kiron (ed.), ''Don DeLillo: Contemporary Critical Perspectives'', Bloomsbury Press, 2018.
+* Dewey, Joseph, ''Beyond Grief and Nothing: A Reading of Don DeLillo'', University of South Carolina Press, 2006.
+* Dewey, Joseph (ed.), Kellman, Steven G. (ed.), Malin, Irving (ed.), ''Underwords: Perspectives on Don DeLillo's Underworld'', University of Delaware Press, 2002.
+* Duvall, John, ''Don DeLillo's Underworld: A Reader's Guide'', Continuum International Publishing Group, 2002.
+* Duvall, John (ed.), ''The Cambridge Companion to Don DeLillo'', Cambridge UP, 2008.
+* Ebbeson, Jeffrey, ''Postmodernism and its Others: The Fiction of Ishmael Reed, Kathy Acker, and Don DeLillo (Literary Criticism and Cultural Theory)'', Routledge, 2010.
+* Engles, Tim (ed.), Duvall, John (ed.), ''Approaches to Teaching DeLillo's White Noise'', Modern Language Association Press, 2006.
+* Giaimo, Paul, "Appreciating Don DeLillo: The Moral Force of A Writer's Work", Praeger Publishers Inc, 2011.
+* Herren, Graley. ''The Self-Reflexive Art of Don DeLillo.'' Bloomsbury Press, 2020.
+* Halldorson, Stephanie, ''The Hero in Contemporary American Fiction: The Works of Saul Bellow and Don DeLillo'', 2007.
+* Hantke, Steffen, ''Conspiracy and Paranoia in Contemporary American Fiction: The works of Don DeLillo and Joseph McElroy'', Peter Lang Publishing, 1994.
+* Hugonnier, Francois, ''Archiving the Excesses of the Real: Don DeLillo's Falling Man'', Presses Universitaires de Paris Ouest, 2016.
+* Kavadlo, Jesse, ''Don DeLillo: Balance at the Edge of Belief'', Peter Lang Publishing, 2004.
+* Keesey, Douglas, ''Don DeLillo'', Macmillan, 1993.
+* Laist, Randy, ''Technology and Postmodern Subjectivity in Don DeLillo's Novels'', Peter Lang Publishing, 2010.
+* LeClair, Tom ''In the Loop – Don DeLillo and the Systems Novel'', University of Illinois Press, 1987.
+* Lentricchia, Frank (ed.), ''Introducing Don DeLillo'', Duke University Press, 1991.
+* Lentricchia, Frank (ed.), ''New Essays on White Noise'', Cambridge University Press, 1991.
+* Martucci, Elise, ''The Environmental Unconscious in the Fiction of Don DeLillo'', Routledge, 2007.
+* Morley, Catherine, ''The Quest for Epic in Contemporary American Literature'', Routledge, 2008.
+* Naas, Michael. ''Don DeLillo, American Original: Drugs, Weapons, Erotica, and Other Literary Contraband'', Bloomsbury, 2020.
+* Olster, Stacy (ed.), ''Don DeLillo: Mao II, Underworld, Falling Man (Continuum Studies in Contemporary North America Fiction)'', Continuum, 2011.
+* Orr, Leonard, ''White Noise: A Reader's Guide'' Continuum International Publishing Group, 2003.
+* Osteen, Mark ''American Magic and Dread: Don DeLillo's Dialogue with Culture'', University of Pennsylvania Press, 2000.
+* Rey, Rebecca, ''Staging Don DeLillo'', Routledge, 2016.
+* Ruppersburg, Hugh (ed.), Engles, Tim (ed.), ''Critical Essays on Don DeLillo'', G.K. Hall, 2000.
+* Schneck, Peter & Schweighauser, Philipp (eds.),''Terrorism, Media, and the Ethics of Fiction: Transatlantic Perspectives on Don Delillo'', Continuum, 2010.
+* Schuster, Marc, "Don DeLillo, Jean Baudrillard, and the Consumer Conundrum", Cambria Press, 2008.
+* Shapiro, Michael J. "The politics of fear: DeLillo's postmodern burrow". In: Shapiro, Michael J. Reading the postmodern polity. Minneapolis: University of Minnesota Press, pp.&nbsp;122–139, 1992. 
+* Sozalan, Azden, ''The American Nightmare: Don DeLillo's Falling Man and Cormac McCarthy's The Road'', Authorhouse Publishing, 2011.
+* Taylor, Mark C, ''Rewiring the Real: In Conversation with William Gaddis, Richard Powers, Mark Danielewski, and Don DeLillo (Religion, Culture and Public Life)'', Columbia University Press, 2013.
+* Trainini, Marco, ''Don DeLillo'', prefazione di [[Fabio Vittorini]], Castelvecchi, Roma, 2016. {{ISBN|978-88-6944-739-6}}
+* Veggian, Henry, ''Understanding Don DeLillo'', University of South Carolina Press, 2014.
+* Weinstein, Arnold, ''Nobody's Home: Speech, Self, and Place in American Fiction From Hawthorne to DeLillo'', Oxford University Press, 1993.
+
+==References==
+{{reflist|colwidth=30em}}
+
+==External links==
+{{wikiquote}}
+{{commons category|Don DeLillo}}
+{{Library resources box|by=yes|viaf=17253973}}
+* [https://www.nytimes.com/books/01/02/04/specials/delillo.html DeLillo 'Featured Authors' page at NY Times]
+* [http://research.hrc.utexas.edu:8080/hrcxtf/view?docId=ead/00313.xml&query=delillo&query-join=and DeLillo Collection] at the [[Harry Ransom Humanities Research Center]] at the [[University of Texas at Austin]]
+* [http://www.litencyc.com/php/speople.php?rec=true&UID=1214 Literary Encyclopedia Biography]
+* {{worldcat id|id=lccn-n79-59951}}
+* [http://www.perival.com/delillo/delillo.html Don DeLillo's America] website focused on Don DeLillo's work since 1996
+* [http://www.perival.com/delillo/ddbiblio.html Don DeLillo Bibliography] listing all work by DeLillo, including interviews, profiles, blurbs and other miscellaneous DeLillo writings
+* Jacobs, Timothy. "Don DeLillo." ''Conspiracy Theories in American History: An Encyclopedia''. Ed. Peter Knight. Oxford: ABC-CLIO Press, 2003. 219–220.
+* [http://www.granta.com/New-Writing/Interview-Don-DeLillo Don DeLillo interview with Granta Magazine]
+* Bookworm Interviews (Audio) with [[Michael Silverblatt]]: [http://www.kcrw.com/news-culture/shows/bookworm/don-delillo/ January 1998], [http://www.kcrw.com/news-culture/shows/bookworm/don-delillo-part-i/ June 2003], [http://www.kcrw.com/news-culture/shows/bookworm/don-delillo-part-ii/ June 2003]
+
+{{Don DeLillo}}
+{{Navboxes
+|title=Awards received by Don DeLillo
+|list1=
+{{NBA for Fiction 1975–1999}}
+{{Mondello Prize}}
+{{American Book Awards}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Delillo, Don}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:American satirists]]
+[[Category:American writers of Italian descent]]
+[[Category:Copywriters]]
+[[Category:Fordham University alumni]]
+[[Category:Jerusalem Prize recipients]]
+[[Category:Members of the American Academy of Arts and Letters]]
+[[Category:National Book Award winners]]
+[[Category:PEN/Faulkner Award for Fiction winners]]
+[[Category:Postmodern writers]]
+[[Category:21st-century American novelists]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:American male novelists]]
+[[Category:American male essayists]]
+[[Category:American male dramatists and playwrights]]
+[[Category:American male short story writers]]
+[[Category:Writers from the Bronx]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American short story writers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American essayists]]
+[[Category:Journalists from New York City]]
+[[Category:Novelists from New York (state)]]
+[[Category:American Book Award winners]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:Cardinal Hayes High School alumni]]
+[[Category:20th-century pseudonymous writers]]
+[[Category:21st-century pseudonymous writers]]

@@ -1,0 +1,44 @@
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Edmund John
+| pseudonym     = 
+| birth_date    = 27 November 1883
+| birth_place   = [[United Kingdom]]
+| death_date    = {{Death date and age|1917|02|28|1883|11|27|df=y}}
+| death_place   = [[Taormina]], [[Sicily]]
+| occupation    = poet
+| language      = English
+| education     = 
+| period        = 
+| genre         = [[Symbolist]]
+| movement      = 
+| notableworks  = "The Flute of Sardonyx "; "The Wind in the Temple";"Symphonie symbolique"
+}}
+[[File:Edmund John ( Poet ).jpg|thumb|Gravestone in [[Taormina]], [[Sicily]]]]
+'''Edmund John''' (27 November 1883 – 28 February 1917) was a [[United Kingdom|British]] [[poet]] of the [[Uranian poetry]] school. His verses were modeled on the [[Symbolist]] poetry of [[Algernon Charles Swinburne]] and other earlier poets.  Much of his work was condemned by critics for being overly decadent and unfashionable. He fought in the [[World War I|First World War]] but was invalided out in 1916.  He died a year later in [[Taormina]], [[Sicily]].<ref>*D'Arch Smith, Timothy (1970). ''Love in Earnest''. London: Routledge & Kegan Paul.</ref>
+
+==Bibliography==
+* ''The Flute of Sardonyx: Poems''  (1913)
+* ''The Wind in the Temple: Poems''  (1915)
+* ''Symphonie Symbolique''  (1919)
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.oldstilepress.com/osp_book/the-flute-of-sardonyx/ ''The Flute of Sardonyx: Poems''  (1913) at www.oldstilepress]
+
+{{authority control}}
+
+{{DEFAULTSORT:John, Edmund}}
+[[Category:1883 births]]
+[[Category:1917 deaths]]
+[[Category:British gay writers]]
+[[Category:Artists' Rifles soldiers]]
+[[Category:British male poets]]
+[[Category:20th-century British poets]]
+[[Category:20th-century British male writers]]
+[[Category:British Army personnel of World War I]]
+[[Category:British LGBT poets]]
+
+
+{{UK-poet-stub}}

@@ -1,0 +1,93 @@
+{{short description|Hungarian novelist and dramatist}}
+{{Expand Hungarian|Hunyady Sándor|topic=culture|date=August 2010}}
+{{eastern name order|Hunyady Sándor}}
+{{Infobox person
+| name                      = Sándor Hunyady
+| image                     = Hunyady Sándor.jpg
+| alt                       = 
+| caption                   = Sándor Hunyady c. 1940
+| birth_name                = 
+| birth_date                = {{birth date|1890|8|15}}
+| birth_place               = [[Kolozsvár]], Austria-Hungary
+| death_date                = {{death date and age|1942|10|10|1890|8|15}}
+| death_place               = [[Budapest, Hungary]]
+| death_cause               = 
+| resting_place             = Fiumei Road Graveyard
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality               = 
+| other_names               = 
+| ethnicity                 = <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship               = Hungary
+| education                 = 
+| alma_mater                = 
+| occupation                = novelist, dramatist
+| years_active              = 1933-1942
+| known_for                 = 
+| notable_works             = 
+| spouse                    = 
+| partner                   = 
+| children                  = 
+| parents                   =  [[Sándor Bródy (writer)|Sándor Bródy]]<br/>{{ill|Margit Hunyady|hu|Hunyady Margit}}
+| relatives                 = 
+}}
+
+'''Sándor Hunyady''' (1890–1942) was a [[Hungarians|Hungarian]] novelist and dramatist.
+
+==Works==
+
+=== Novels ===
+*Diadalmas katona (elbeszélések), 1930 
+*[[Géza és Dusán]] (regény), 1932
+*[[Téli sport]] (regény), 1934
+*[[Családi album]] (regény), 1934
+*Az ötpengős leány (elbeszélések), 1935
+*A vöröslámpás ház (elbeszélések), 1937
+*A tigriscsíkos kutya (eleszélések), 1938
+*[[Nemes fém]] (regény), 1938 
+*[[Jancsi és Juliska (regény)|Jancsi és Juliska]] (regény), 1939
+*[[Kártyabotrány asszonyok között]] (regény), 1940
+*[[A fattyú]] (regény), 1942 
+*Havasi levegőn (elbeszélések), 1952
+*Olasz vendéglő (elbeszélések), 1956
+*A hajó királynője (regény), Téli Sport (kisregény), 1969 ([[Réz Pál]] utószavával)
+*Három kastély (cikkgyűjtemény), 1971
+*''[[Aranyifjú: Elbeszélések]]'' (1986) 963-207-722-9  (szerk. [[Illés Endre]])
+*''Árnyék a napsütésben: Hunyady Sándor (1890-1942) elbeszélései, tárcái, karcolatai, valamint dokumentumok, visszaemlékezések'' (2000) 963-85829-7-9  (szerk. [[Urbán László]] [[Alexander Brody (businessman and writer)|Alexander Brody]] előszavával)
+*''[[Családi album: önéletrajz, 1934]]'' (2000) 963-9048-70-4
+*''[[Aranyfüst: összegyűjtött novellák]]'' (2006) {{ISBN|963-7416-93-5}}  (szerk. [[Réz Pál]])
+
+=== Plays ===
+*[[Júliusi éjszaka]] (1929)
+*[[Feketeszárú cseresznye]] (1930)
+*[[Pusztai szél]] (1931)
+*[[Bakaruhában (dráma)|Bakaruhában]] (1931)
+*[[Erdélyi kastély]] (1932)
+*[[Ritz, 1919]] (1933)
+*[[Aranyifjú]] (1933)
+*[[A három sárkány]] (1935)
+*[[Lovagias ügy]] (1935)
+*[[Bors István]] (1938)
+*[[Havasi napsütés]] (1939)
+*[[Kártyázó asszonyok]] (1939)
+*[[Nyári zápor]] (1941)
+
+==References==
+{{Reflist}}	
+
+== External links ==
+{{Commons}}
+* {{imdb name|0403216}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Huny, Sand}}
+[[Category:20th-century Hungarian dramatists and playwrights]]
+[[Category:20th-century Hungarian novelists]]
+[[Category:1892 births]]
+[[Category:1942 deaths]]
+[[Category:Hungarian male dramatists and playwrights]]
+[[Category:Hungarian male novelists]]
+[[Category:20th-century Hungarian male writers]]
+
+
+{{Hungary-writer-stub}}

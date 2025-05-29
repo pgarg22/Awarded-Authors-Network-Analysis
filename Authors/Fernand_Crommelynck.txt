@@ -1,0 +1,65 @@
+{{Use dmy dates|date=July 2013}}
+{{Infobox person
+| name        = Fernand Crommelynck
+| image       =
+| image_size  =
+| alt         =
+| caption     =
+| birth_name  =
+| birth_date  = {{birth date|df=yes|1886|11|19}}
+| birth_place = [[Paris]], France
+| death_date  = {{death date and age|df=yes|1970|3|17|1886|11|19}}
+| death_place = [[Saint-Germain-en-Laye]], France
+| nationality = Belgian
+| other_names =
+| known_for   =
+| occupation  = dramatist
+}}
+'''Fernand Crommelynck''' (19 November 1886 &ndash; 17 March 1970) was a [[Belgium|Belgian]] [[dramatist]].  His work is known for farces in which commonplace weaknesses are developed into monumental obsessions.
+
+==Biography==
+He was born into a family of actors, the child of a French mother and a Belgian father and he himself was also an [[actor]].  His sons [[Aldo Crommelynck]] (1931–2009), Piero (1934-2001) and Milan were renowned master printmakers, who worked with [[Pablo Picasso]] and many other major artists of the twentieth century.<ref name='ALDO'/>
+
+In his earliest works Crommelynck already demonstrated the grasp of style and content that in his maturity culminated in works of great poetic force.  The dramatic structure in ''Nous n'irons plus au bois'' (1906), ''Le sculpteur de masques'' (1908) and ''Le marchand de regrets'' (1913), was already based on the logical development of an absurd premise.
+
+Crommelynck's masterpiece was ''[[Le Cocu magnifique]]'' (1920), a 'lyrical farce' on the theme of a lover's jealousy. Staged with constructivist sets by [[Vsevolod Meyerhold]] — the first of their kind — the [[theatre]] play was such a hit that Crommelynck was able to give up acting and devote himself to writing. In ''Tripes d'or'' (1926) he satirized the passion for money and the spurious prestige it confers, while in ''Carine, ou la jeune fille folle de son âme'' (1929) he contrasted love and sensuality in the story of a chaste young girl who is faithful to her ideals of love to the bitter end.
+
+Both in language and dramatic technique, Crommelynck has been one of the most lyrical and original writers of the 20th century theatre.
+
+==Select works==
+[[File:Crommelynck - Le Sculpteur de Masques 001.jpg|thumb|Illustration by [[Léon Spilliaert]] for ''Le Sculpteur de Masques'' (Brussels, [[Edmond Deman]], 1908)]]
+*''Le Sculpteur de masques'' (1908)
+*''L'Histoire de Minna Claessens'' (Alfred Machin, 1912)
+*''L'agent Rigolo et son chien policier'' (Alfred Machin, 1912)
+*''Le Marchand de regrets'' (1913)
+*''Maudite soit la guerre'' (Alfred Machin, 1914)
+*''Le Cocu magnifique''  (drama)' (1921)
+*''Les Amants puérils'' (1921)
+*''Tripes d'or'' (1930)
+*''Le Cadavre n° 5'' (Gaston Schoukens, 1932)
+*''Une Femme qu'a le cœur trop petit'' (1934)
+*''Chaud et froid'' (1936)
+
+==Selected filmography==
+* ''[[The Judge (1921 film)|The Judge]]'' (1921)
+* ''[[Miarka (1937 film)|Miarka]]'' (1937)
+* ''[[The Novel of Werther]]'' (1938)
+* ''[[I Am with You (film)|I Am with You]]'' (1943)
+
+==References==
+{{reflist | refs =
+<ref name='ALDO'>{{cite news | first = WILLIAM | last = GRIMES | title = Aldo Crommelynck, Master Printer for Prominent Artists, Is Dead at 77 | date = 29 January 2009 | url = https://www.nytimes.com/2009/01/29/arts/design/29crommelynck.html?_r=1 | work = The New York Times | accessdate = 2012-05-27}}</ref>
+}}
+
+==External links==
+*[https://web.archive.org/web/20070515052904/http://www.servicedulivre.be/fiches/c/crommelynck.htm Fernand Crommelynck Bio-and Bibliography]
+*{{IMDb name|0188632}}
+*[http://www.britannica.com/eb/article-9027965/Fernand-Crommelynck Fernand Crommelynck in Britannica Online Encyclopedia]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crommelynck, Fernand}}
+[[Category:1886 births]]
+[[Category:1970 deaths]]
+[[Category:20th-century Belgian dramatists and playwrights]]
+[[Category:Male dramatists and playwrights]]

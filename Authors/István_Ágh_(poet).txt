@@ -1,0 +1,62 @@
+{{short description|Hungarian poet (born 1938)}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = István Ágh
+| embed = 
+| honorific_prefix = 
+| honorific_suffix = 
+| image = Istvan Ágh - Hungarian poet 2016.jpg
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date =   24 March 1938
+| birth_place = Iszkáz
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation = 
+| language = 
+| nationality = 
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  <!-- or: | notablework = -->
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''István Ágh''' (born ''István Nagy''; 24 March 1938 in [[Iszkáz]]) is a Hungarian poet.<ref>{{Cite web|url=http://www.hunlit.hu/aghistvan,en|title = HUNLIT a Magyar Könyv Alapítvány Többnyelvű Irodalmi Adatbázisa}}</ref><ref>{{Cite web|url=http://www.mma.hu/de/muveszeti-hirek/-/event/10180/a-75-eves-agh-istvan-koszontese|title=A 75 éves Ágh István köszöntése &#124; Magyar Művészeti Akadémia}}</ref> He is the younger brother of [[László Nagy (poet)|László Nagy]] who was also a poet.
+
+==Awards==
+*[[Kossuth Prize]] (1992)
+*[[Attila József Prize]] (1969) and (1980)
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Agh, Istvan}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:20th-century Hungarian poets]]
+[[Category:Hungarian male poets]]
+[[Category:People from Veszprém County]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Attila József Prize recipients]]

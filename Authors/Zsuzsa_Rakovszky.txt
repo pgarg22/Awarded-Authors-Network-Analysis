@@ -1,0 +1,38 @@
+{{short description|Hungarian translator and writer (born 1950)}}
+{{Infobox person/Wikidata | fetchwikidata=ALL}}
+'''Zsuzsa Rakovszky''' (born 4 December 1950) is a [[Hungary|Hungarian]] translator and writer.<ref name=who>{{cite book |url=https://books.google.com/books?id=EcinRfSQImAC&pg=PA1289 |title=International Who's Who in Poetry 2005 |page=1289 |publisher=Taylor & Francis |year=2004 |isbn=185743269X}}</ref> Her surname also appears as '''Rakovsky'''.
+
+She was born in [[Sopron]] and earned a teaching certificate in [[Hungarian language|Hungarian]] and English from the [[Eötvös Loránd University|University of Budapest]].{{when|date=May 2020}} From 1975 to 1981, she worked as a librarian. She published two poetry collections: ''Jóslatok és határidők'' (Prophecies and Deadlines) in 1981 and ''Tovább egy házzal'' (One house up) in 1987. Rakovszky received the [[Attila József Prize]] in 1987.<ref>{{cite book |url=https://books.google.com/books?id=sF6TnmJFFYEC&pg=PA473 |title=Contemporary East European Poetry: An Anthology |page=473 |last=George |first=Emery Edward |year=1993 |isbn=0195086368}}</ref> She has won the Tibor Déry Prize and the (Robert) Graves Prize.<ref name=columbia/>
+
+Rakovszky has translated works by a number of English and American poets into Hungarian.<ref name=columbia>{{cite book |url=https://archive.org/details/columbiaguidetol00sege |url-access=registration |title=The Columbia Guide to the Literatures of Eastern Europe Since 1945 |publisher=Columbia University Press |pages=[https://archive.org/details/columbiaguidetol00sege/page/460 460]–61 |last=Segel |first=Harold B |year=2003 |isbn=0231114044}}</ref>
+
+== Selected works<ref name=columbia/> ==
+* ''Fehér-fekete'' (white-black), poems (1991)
+* ''Egyirányú utca'' (One way street), poems (1998)
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{IMDb name |id=1488006}}
+
+{{Hungarian literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rakovszky, Zsuzsa}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:20th-century Hungarian poets]]
+[[Category:Hungarian translators]]
+[[Category:Eötvös Loránd University alumni]]
+[[Category:People from Sopron]]
+[[Category:Hungarian women poets]]
+[[Category:International Writing Program alumni]]
+[[Category:20th-century Hungarian women writers]]
+[[Category:Hungarian librarians]]
+[[Category:Women librarians]]
+[[Category:Attila József Prize recipients]]
+
+
+{{Hungary-writer-stub}}

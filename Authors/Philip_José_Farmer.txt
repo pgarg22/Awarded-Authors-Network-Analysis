@@ -1,0 +1,209 @@
+{{short description|American writer}}
+{{Use mdy dates|date=April 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = Philip-jos-farmer.jpg
+| imagesize   = 
+| name        = Philip José Farmer
+| caption     = Philip José Farmer
+| pseudonym   = more than a dozen<ref name=isfdb/> [[#Pseudonyms|(below)]]
+| birth_date  = {{birth date|1918|1|26|mf=y}}
+| birth_place = [[North Terre Haute, Indiana]], U.S.
+| death_date  = {{death date and age|2009|2|25|1918|1|26|mf=y}}
+| death_place = [[Peoria, Illinois]], U.S.
+| occupation  = Novelist, short story writer
+| period      = {{circa|1952–2009}}
+| genre       = Fantasy, science fiction
+| website     = {{URL|www.pjfarmer.com}}
+}}
+'''Philip José Farmer''' (January 26, 1918 – February 25, 2009) was an American author known for his science fiction and [[fantasy fiction|fantasy]] novels and [[short story|short stories]].<ref name = "telegraphObit">
+{{cite news | title = Philip José Farmer | newspaper = The Telegraph
+| date = March 4, 2009
+| url = https://www.telegraph.co.uk/news/obituaries/4939303/Philip-Jos-Farmer.html
+| access-date = 2012-05-31}} Obituary.</ref>
+
+Farmer is best known for his sequences of novels, especially the ''[[World of Tiers]]'' (1965–93) and ''[[Riverworld]]'' (1971–83) series. He is noted for the pioneering use of sexual and religious themes in his work, his fascination for, and reworking of, the lore of celebrated [[pulp hero]]es, and occasional tongue-in-cheek pseudonymous works written as if by fictional characters. Farmer often mixed real and classic fictional characters and worlds and real and fake authors as epitomized by his [[Wold Newton family]] group of books. These tie all classic fictional characters together as real people and blood relatives resulting from an alien conspiracy. Such works as ''[[The Other Log of Phileas Fogg]]'' (1973) and ''[[Doc Savage: His Apocalyptic Life]]'' (1973) are early examples of literary [[mashup novel]].
+
+Literary critic [[Leslie Fiedler]] compared Farmer to [[Ray Bradbury]] as both being "provincial American eccentrics" who "strain at the classic limits of the [science fiction] form," but found Farmer distinctive in that he "manages to be at once naive and sophisticated in his odd blending of theology, pornography, and adventure."<ref>Fiedler, Leslie A., ed. (1975), ''In Dreams Awake: A Historical-Critical Anthology of Science Fiction'', New York City: [[Dell Books|Dell Publishing Company]], pg 120.</ref>
+
+==Biography==
+
+[[File:Philip José Farmer and his great-grandson in 1995.jpg|thumb|right|Philip José Farmer and his great-grandson in 1995]]
+
+Farmer was born in [[North Terre Haute, Indiana]]. According to colleague [[Frederik Pohl]], his middle name was in honor of an aunt, Josie.<ref>{{cite web
+  | last = Pohl
+  | first = Frederik
+  | author-link = Frederik Pohl
+  | title = Josie!
+  | work = The Way the Future Blogs
+  | date = February 28, 2009
+  | url = http://www.thewaythefutureblogs.com/2009/02/josie/
+  | access-date = 2009-03-01
+  | archive-url = https://web.archive.org/web/20100318052847/http://www.thewaythefutureblogs.com/2009/02/josie/
+  | archive-date = March 18, 2010
+  | url-status = dead
+  }}</ref> Farmer grew up in [[Peoria, Illinois]], where he attended [[Peoria High School (Peoria, Illinois)|Peoria High School]]. His father was a civil engineer and a supervisor for the local power company. A voracious reader as a boy, Farmer said he resolved to become a writer in the fourth grade. He became an agnostic at the age of 14. At age 23, in 1941, he married Bette V. Andre and eventually fathered a son and a daughter. After washing out of flight training in [[World War II]], he went to work in a local steel mill. He continued his education, however, earning a [[bachelor's degree]] in [[English studies|English]] from [[Bradley University]] in 1950.<ref name=nyt-obituary>{{cite news|url=https://www.nytimes.com/2009/02/27/books/27farmer.html|title=Philip José Farmer, Daring Science Fiction Writer, Dies at 91|last=Jonas|first=Gerald|newspaper=[[The New York Times]]|date=February 26, 2009}}</ref>
+
+Farmer had his first literary success when his novella ''The Lovers'' was published by Samuel Mines in ''[[Startling Stories]]'', August 1952,<ref name=isfdb/> which features a sexual relationship between a human and an [[Extraterrestrial life|extraterrestrial]]. He won a [[Hugo Award]] for Best New SF Author or Artist in 1953, the first of three Hugos awards he won in his career. Thus encouraged, he quit his job to become a full-time writer, entered a publisher's contest, and promptly won first prize for a novel, ''Owe for the Flesh'', that contained the germ of his later ''[[Riverworld]]'' series. But the book was not published and Farmer did not get the $4,000 prize money that was supposed to go to the winner.<ref>{{cite web|url=https://www.theguardian.com/books/2009/feb/27/philip-jose-farmer-obituary|title=Obituary: Philip José Farmer|first=Michael|last=Carlson|date=February 27, 2009|website=the Guardian}}</ref> Literary success did not translate into financial security, so he left Peoria in 1956 to launch a career as a [[technical writer]]. He spent the next 14 years working in that capacity for various [[defense contractor]]s, from [[Syracuse, New York]] to Los Angeles, while writing science fiction in his spare time.<ref name=nyt-obituary/>
+
+He won a second Hugo award in 1968, in the category Best Novella, for ''[[Riders of the Purple Wage]]'';<ref name=SFAwards/> a [[pastiche]] of [[James Joyce]]'s ''[[Finnegans Wake (novel)|Finnegans Wake]]'' as well as a satire on a futuristic, cradle-to-grave [[welfare state]]. Reinvigorated, Farmer became a full-time writer again in 1969.<ref>[[John Clute|Clute, John]] and [[Peter Nicholls (writer)|Peter Nicholls]] (1993, 1995), ''[[The Encyclopedia of Science Fiction]]'', New York: [[St. Martin's Griffin]], pp 417–419.</ref> Upon moving back to Peoria in 1970, he entered his most prolific period, publishing 25 books in 10 years. His novel ''[[To Your Scattered Bodies Go]]'' (a reworked, previously unpublished version of the prize-winning first novel of 20 years before) won him a third Hugo in 1972, for Best Novel.<ref name=SFAwards/>
+
+A 1975 novel, ''[[Venus on the Half-Shell]]'', created a stir in the larger literary community and media. It purported to be written in the [[First-person narrative|first person]] by one "[[Kilgore Trout]]," a fictional character appearing as an underappreciated science fiction writer in several of [[Kurt Vonnegut]]'s novels. The escapade did not please Vonnegut when some reviewers not only concluded that it had been written by Vonnegut himself, but that it was a worthy addition to his works. Farmer did have permission from Vonnegut to write the book, though Vonnegut later said he regretted giving permission.<ref>[http://www.vonnegutweb.com/vonnegutia/trout/kt_chapman.html Chapman, Edgar, ''The Magic Labyrinth of Philip Jose Farmer,'' Borgo Press, 1984. Pps. 64-6.]</ref>
+
+Farmer had both critical champions and detractors. [[Leslie Fiedler]] proclaimed him "the greatest science fiction writer ever"<ref>Stoler, Peter (1980), [https://web.archive.org/web/20111225080723/http://www.time.com/time/magazine/article/0,9171,922099-2,00.html “’Riverworld’ Revisited”], ''[[Time magazine|Time]]'', July 28.</ref> and lauded his approach to storytelling as a "gargantuan lust to swallow down the whole cosmos, past, present and to come, and to spew it out again."<ref>Fiedler, Leslie A. (1972), "Getting into the Task of Now Pornography" ''[[The Los Angeles Times]]'', April 23. (Reprinted in slightly different form as "Thanks for the Feast: Notes on Philip Jose Farmer," In: Farmer, Philip Jose (1973), ''The Book of Philip Jose Farmer, or the Wares of Simple Simon's Custard Pie and Space Man'', New York: [[Daw Books|Daw Books, Inc]], pp 233–239.)</ref> [[Isaac Asimov]] praised Farmer as an "excellent science fiction writer; in fact, a far more skillful writer than I am...."<ref>''I, Asimov.'' Isaac Asimov. Bantam Books. p. 504. 1994.</ref> But [[Christopher Lehmann-Haupt]] dismissed him in ''[[The New York Times]]'' in 1972 as "a humdrum toiler in the fields of science fiction."<ref name=nyt-obituary/>
+
+In 2001 Farmer won the [[World Fantasy Award for Life Achievement]] and the [[Science Fiction Writers of America]] made him its 19th [[SFWA Grand Master]] in the same year.<!--probably announced 2000--><ref name=SFAwards/><ref name=SFWA/>
+
+Farmer died on February 25, 2009.<ref name="telegraphObit"/><ref>{{cite web|url=http://www.pjfarmer.com/|title=The Official Philip José Farmer Web Page - Home|website=www.pjfarmer.com}}</ref> He was survived by his wife Bette, two children, five grandchildren, and six great-grandchildren.<ref>{{cite news|url = http://www.latimes.com/local/obituaries/la-me-philip-farmer4-2009mar04-story.html|work = Los Angeles Times|title = Philip Jose Farmer dies at 91; acclaimed science fiction writer|date= 4 March 2009|last = McLellan|first = Dennis}}</ref>
+
+==Novel sequences==
+
+[[File:Fantastic 196304.jpg|thumb|right|Farmer's novelette "Some Fabulous Yonder" was the cover story on the April 1963 issue of ''[[Fantastic (magazine)|Fantastic]]'']]
+
+===''Riverworld'' series===
+{{Main|Riverworld}}
+
+The ''Riverworld'' series follows the adventures of such diverse characters as [[Richard Francis Burton]], [[Hermann Göring]], and [[Samuel Clemens]] through a bizarre afterlife in which every human ever to have lived is simultaneously resurrected along a single river valley that stretches over an entire planet. The series consists of ''[[To Your Scattered Bodies Go]]'' (1971), ''[[The Fabulous Riverboat]]'' (1971), ''[[The Dark Design]]'' (1977), ''[[The Magic Labyrinth]]'' (1980) and ''[[Gods of Riverworld]]'' (1983). Although ''Riverworld and Other Stories'' (1979) is not part of the series as such, it does include the second-published [[Riverworld]] story, which is free-standing rather than integrated into one of the novels.
+
+The first two [[Riverworld]] books were originally published as novellas, "The Day of the Great Shout" and "The Suicide Express," and as a two-part serial, "The Felled Star," in the science fiction magazines ''[[Worlds of Tomorrow]]'' and ''[[If (magazine)|If]]'' between 1965 and 1967. The separate novelette "Riverworld" ran in ''Worlds of Tomorrow'' in January 1966. A final pair of linked novelettes appeared in the 1990s: "Crossing the Dark River" (in ''Tales of Riverworld'', 1992) and "Up the Bright River" (in ''Quest to Riverworld'', 1993). Farmer introduced himself into the series as Peter Jairus Frigate (PJF).
+
+The Riverworld series originated in a novel, ''Owe for the Flesh'', written in one month in 1952 as a contest entry. It won the contest, but the book was left unpublished and orphaned when the prize money was misappropriated, and Farmer nearly gave up writing altogether.<ref name="ReferenceA">[[#Far83|Farmer 1983]]: Author's Introduction</ref> The original manuscript of the novel was lost, but years later Farmer reworked the material into the Riverworld magazine stories mentioned above. Eventually, a copy of a revised version of the original novel surfaced in a box in a garage and was published as ''[[River of Eternity]]'' by [[Phantasia Press]] in 1983. Farmer's introduction to this edition gives the details of how it all happened.<ref name="ReferenceA"/>
+
+===''World of Tiers'' series===
+{{Main|World of Tiers}}
+
+The series is set within a number of artificially constructed [[Parallel universe (fiction)|parallel universe]]s<ref>{{cite web|url = http://io9.com/5160340/rip-philip-jose-farmer|title = R.I.P. Philip José Farmer|last = Anders|first = Charlie Jane|work = io9|date = 25 February 2009|publisher = Gizmodo}}</ref> (of which Earth is one), created tens of thousands of years ago by a race of human beings not from Earth who had achieved an advanced level of technology which gave them almost godlike power and immortality. The principal universe in which these stories take place, and from which the series derives its name, consists of an enormous tiered planet, shaped like a stack of disks or squat cylinders, of diminishing radius, one atop the other. The series follows the adventures of several of these godlike humans and several "ordinary" humans from Earth who [[Accidental travel|accidentally travel]] to these artificial universes. (One of those "ordinary" humans was Paul Janus Finnegan [PJF], who becomes the main character in the series.) The series consists of ''The Maker of Universes'' (1965), ''The Gates of Creation'' (1966), ''A Private Cosmos'' (1968), ''Behind the Walls of Terra'' (1970), ''The Lavalite World'' (1977) and ''More Than Fire'' (1993). [[Roger Zelazny]] has mentioned that ''The World of Tiers'' was something he had in his mind when he created his [[Amber (fictional realm)|Amber]] series.<ref>{{cite web |url=http://zelazny.corrupt.net/19780408int.html |title=A Conversation With Roger Zelazny 8th April, 1978 |access-date=2007-09-13 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20070701010155/http://zelazny.corrupt.net/19780408int.html |archive-date=July 1, 2007 |df=mdy-all }}</ref> A related novel is ''[[Red Orc's Rage]]'' (1991), which does not involve the principal characters of the other books directly, but does provide background information to certain events and characters portrayed in the other novels. This is the most "psychological" of Farmer's novels.
+
+==Literary themes==
+
+===Sexual===
+
+Farmer's work often handles sexual themes; some early works were notable for their ground-breaking introduction of such to science fiction literature.<ref name="#Clu93|Clute 1993">[[#Clu93|Clute 1993]]</ref> His first (with one minor exception) published science fiction story, the novella ''The Lovers'', earned him the [[Hugo Award]] for Best New SF Author or Artist in 1953, and is critically recognized as the story that broke the taboo on [[sex in science fiction]].<ref>[[#Mer03|Merrick 2003]]</ref> It instantly put Farmer on the literary map.<ref>[[#Car07|Carey 2007]]</ref> The short story collection ''Strange Relations'' (1960) was a notable event in the genre.<ref name="#Clu93|Clute 1993"/> He was one of three persons to whom [[Robert A. Heinlein]] dedicated ''[[Stranger in a Strange Land]]'' (1961), a novel which explored sexual freedom as one of its primary themes.<ref>[[#Hei03|Heinlein 1991]]</ref> Moreover, ''Fire and the Night'' (1962) is a mainstream novel about an interracial romance; it features [[sociology|sociological]] and [[psychosexual]] twists. In ''[[Night of Light]]'' (1966), he devised an alien race where aliens have only one mother but several fathers, perhaps because of an unusual or untenable physical position that cannot be reached or continued by two individuals acting alone. Both ''[[Image of the Beast (novel)|Image of the Beast]]'' and the sequel ''Blown'' from 1968–1969 explore [[group sex]], interplanetary travel, and interplay between fictional figures like Herald Childe and real people like [[Forrest J. Ackerman|Forry Ackerman]]. In the ''World of Tiers'' series he explores [[Oedipus complex|Oedipal]] themes.
+
+===Religious===
+
+His work also sometimes contains religious themes. Jesus shows up as a character in both the ''Riverworld'' series (in the novelette "Riverworld" but not in the novels, except for the mentioning of him dying early in ''The Magic Labyrinth'') and ''[[Jesus on Mars]]''. ''[[Night of Light]]'' (1957, expanded 1966) takes the rather unholy Father John Carmody on an odyssey on an alien world where spiritual forces are made manifest in the material world. In ''[[Flesh (novel)|Flesh]]'' (1960) astronauts return to an Earth 800 years in their future dominated by a [[Paganism|pagan]] goddess-worshiping religion. Other examples include the short stories "J.C. on the Dude Ranch", "The God Business", "The Making of Revelation, Part I", and the novels ''[[Inside Outside (novel)|Inside, Outside]]'' (1964) (which may or may not be set in Hell) and ''[[Traitor to the Living]]'' (1973), among many others.
+
+===Pulp heroes===
+
+Many of Farmer's works rework existing characters from fiction and history,<ref name="telegraphObit"/>
+as in ''The Wind Whales of Ishmael'' (1971), a far-future sequel to [[Herman Melville]]'s ''[[Moby-Dick]]''; ''[[The Other Log of Phileas Fogg]]'' (1973), which fills in the missing time periods from [[Jules Verne]]'s ''[[Around the World in Eighty Days (book)|Around the World in Eighty Days]]''; and ''[[A Barnstormer in Oz]]'' (1982), in which [[Dorothy Gale|Dorothy's]] adult son, a pilot, flies to the [[Land of Oz]] by accident.
+
+He has often written about the [[pulp magazine#Notable original characters|pulp heroes]] [[Tarzan]] and [[Doc Savage]], or pastiches thereof: In his novel ''[[The Adventure of the Peerless Peer]]'', Tarzan and [[Sherlock Holmes]] team up. Farmer's [[Lord Grandrith]] and [[Doc Caliban]] series portray analogues of Tarzan and Doc Savage. It consists of ''[[A Feast Unknown]]'' (1969), ''[[Lord of the Trees]]'' (1970) and ''[[The Mad Goblin]]'' (1970). Farmer has also written two mock biographies of both characters, ''[[Tarzan Alive]]'' (1972) and ''[[Doc Savage: His Apocalyptic Life]]'' (1973), which adopt the premise that the two were based on real people fictionalized by their original chroniclers, and connect them genealogically with a large number of other well-known fictional characters in a schema now known as the "[[Wold Newton family]]."  Further, Farmer wrote both an authorized [[Doc Savage]] novel, ''Escape from Loki'' (1991) and an authorized Tarzan novel, ''[[The Dark Heart of Time]]'' (1999). In his 1972 novel ''Time's Last Gift,'' Farmer also explored the Tarzan theme combined with [[time travel]], using the transparently reverse-syllabled name of "Sahhindar" for his hero (and the book's initials, TLG, as code for "Tarzan, Lord Greystoke"). A short story on this theme is "The Jungle Rot Kid on the Nod" (1968): "if [[William S. Burroughs|William S.]] rather than [[Edgar Rice Burroughs|Edgar Rice]] [Burroughs] had written Tarzan,"  Farmer also wrote ''Lord Tyger'' (1970) about a ruthless millionaire who tries to create a real Tarzan by having a child kidnapped and then brought up subject to the same tragic events which shaped Tarzan in the original books.
+
+In his incomplete historical Khokarsa cycle&nbsp;— ''[[Hadon of Ancient Opar]]'' (1974) and ''[[Flight to Opar]]'' (1976)&nbsp;— Farmer portrayed the "lost city" of [[Opar (fictional city)|Opar]], which plays an important part in the Tarzan saga, in the time of its glory as a colony city of the empire of Khokarsa. One of the books mentions a mysterious grey-eyed traveller, clearly "Sahhindar"/Tarzan.
+
+===Pseudonyms=== <!-- linked from infobox -->
+
+Farmer wrote ''[[Venus on the Half-Shell]]'' (1975) under the name [[Kilgore Trout]], a fictional author who appears in the works of [[Kurt Vonnegut]]. He had planned to write more of Trout's fictional books (notably ''Son of Jimmy Valentine''), but Vonnegut put an end to those plans.<ref>[http://www.pjfarmer.com/trout.htm Trout] {{webarchive|url=https://web.archive.org/web/20081224184629/http://www.pjfarmer.com/trout.htm |date=December 24, 2008 }}</ref> Farmer's use of the pseudonym had caused confusion among many readers, who for some time assumed that Vonnegut was behind it; when the truth of ''Venus on the Half-Shell'''s authorship came out, Vonnegut was reported as being "not amused." In an issue of the semi-prozine The Alien Critic/Science Fiction Review, published by Richard E. Geis, Farmer claimed to have received an angry, obscenity-laden telephone call from Vonnegut about it. Thereafter Farmer wrote a number of pseudonymous "fictional author" stories, mostly for ''The Magazine of Fantasy and Science Fiction''. These were stories whose "authors" are characters in other stories. The first such story was "by" Jonathan Swift Somers III (invented by Farmer himself in ''Venus on the Half-Shell'' but inspired by one of the dead voices of ''[[Spoon River Anthology]]'').   Later Farmer used the "Cordwainer Bird" byline, a pseudonym invented by [[Harlan Ellison]] for film and television projects from which he wished to disassociate himself, and perhaps related to the name [[Cordwainer Smith]], a pseudonym used by Paul Myron Anthony Linebarger.
+
+==Awards and honors==
+
+;Awards<ref name=SFAwards/>
+*1953: [[Hugo Award]] for Best New SF Author or Artist, ''The Lovers''
+*1968: [[Hugo Award for Best Novella]], ''[[Riders of the Purple Wage]]''
+*1972: [[Hugo Award for Best Novel]], ''To Your Scattered Bodies Go''<ref name="WWE-1972">{{cite web
+| url = http://www.worldswithoutend.com/books_year_index.asp?year=1972
+| title = 1972 Award Winners & Nominees
+| work = Worlds Without End
+| access-date=2009-10-05
+}}</ref>
+*2000: [[Damon Knight Memorial Grand Master Award]], lifetime achievement in fantasy and SF<ref name=SFWA/>
+*2001: [[World Fantasy Award for Life Achievement]]<ref>{{cite web|author=World Fantasy Convention|year=2010|title=Award Winners and Nominees|url=http://www.worldfantasy.org/awards/awardslist.html/|access-date=February 4, 2011|archive-url=https://web.archive.org/web/20101201074405/http://worldfantasy.org/awards/awardslist.html|archive-date=December 1, 2010|url-status=dead}}</ref>
+*2003: Forry Award for Lifetime Achievement, presented by the Los Angeles Science Fantasy Society<ref>{{cite web |url=http://www.pjfarmer.com/awards.htm |title=Archived copy |access-date=2014-10-23 |url-status=dead |archive-url=https://web.archive.org/web/20131220184009/http://www.pjfarmer.com/awards.htm |archive-date=December 20, 2013 |df=mdy-all }}</ref>
+
+;Runners-up, etc<ref name=SFAwards/>
+*1960: [[Hugo Award for Best Short Story]], "The Alley Man"
+*1961: Hugo Award for Best Short Story, "Open to Me, My Sister"
+*1966: Hugo Award for Best Short Story, "The Day of the Great Shout"
+*1967: [[Nebula Award for Best Novella]], ''[[Riders of the Purple Wage]]''
+*1972: [[Locus Award]] for Best Science Fiction Novel, ''To Your Scattered Bodies Go''<ref name="WWE-1972"/>
+*1974: [[Nebula Award for Best Short Story]], "After King Kong Fell"
+
+==Bibliography==
+{{Main|Philip José Farmer bibliography}}
+In a writing career spanning more than 60 years (1946–2008), Farmer published almost 60 novels, over 100 short stories and novellas (many expanded or combined into novels), two "fictional biographies" and numerous essays, articles and ephemera in fan publications.
+
+==See also==
+{{Portal |speculative fiction}}
+* [[Dungeon series]]
+* [[Riverworld (2003 film)]]
+* [[Riverworld (2010 film)]]
+* [[Wold Newton family]]
+
+==References==
+{{Reflist |25em |refs=
+<ref name=isfdb>
+{{isfdb name |26}} (ISFDB). Retrieved 2013-04-05.</ref>
+
+<ref name=SFAwards>
+[http://www.locusmag.com/SFAwards/Db/NomLit46.html#1626 "Farmer, Philip Jose"]. ''The Locus Index to SF Awards: Index of Literary Nominees''. [[Locus Publications]]. Retrieved 2013-04-05.</ref>
+<ref name=SFWA>
+[http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ "Damon Knight Memorial Grand Master"] {{webarchive|url=https://web.archive.org/web/20110701114233/http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ |date=July 1, 2011 }}. Science Fiction and Fantasy Writers of America (SFWA). Retrieved 2013-04-05.</ref>
+
+}}
+
+==Sources==
+* Brizzi, Mary ([[Mary Turzillo]]). ''Reader's Guide to Philip José Farmer'', Starmont House, Mercer Island, WA., (Starmont Reader's Guides to Contemporary Science Fiction and Fantasy Authors series, No. 3, ed. Roger C. Schlobin) {{ISBN|0-916732-05-3}}, 1981.
+* {{cite web |url=http://www.zone-sf.com/philfarm.html |title=The Grand Master of Peoria: Philip José Farmer's Immortal Legacy |access-date=2008-07-29 |last=Carey |first=Christopher Paul |publisher=The Zone |archive-url=https://web.archive.org/web/20070206145227/http://www.zone-sf.com/philfarm.html |archive-date=February 6, 2007 }}
+* {{cite book |last=Farmer |first=Philip José | author-link=Philip Jose Farmer |year=1983 |title=River of Eternity |publisher=Phantasia Press |location=Huntington Woods, Michigan |isbn=0-932096-28-X |ref=Far83}}
+* {{cite book |last=Heinlein |first=Robert A. | author-link=Robert A. Heinlein |year=1991 |title=[[Stranger in a Strange Land]] |publisher=Ace/Putnam |location=New York: New York |isbn=0-399-13586-3 |ref=Hei91}}
+* {{cite book |last=Merrick |first=Helen |year=2003 |title=The Cambridge Companion to Science Fiction |editor=John Clute |editor-link=John Clute |editor2=Peter Nicholls |editor2-link=Peter Nicholls (writer) |publisher=Cambridge University Press |isbn=0-521-81626-2}}
+* [http://www.pjfarmer.com/ The Official Philip José Farmer Home Page]
+
+== External links ==
+{{commons category}}
+{{wikiquote}}
+<!--======================== {{No more links}} ============================
+    | PLEASE BE CAUTIOUS IN ADDING MORE LINKS TO THIS ARTICLE. Wikipedia  |
+    | is not a collection of links nor should it be used for advertising. |
+    |                                                                     |
+    |           Excessive or inappropriate links WILL BE DELETED.         |
+    | See [[Wikipedia:External links]] & [[Wikipedia:Spam]] for details.  |
+    |                                                                     |
+    | If there are already plentiful links, please propose additions or   |
+    | replacements on this article's discussion page, or submit your link |
+    | to the relevant category at the Open Directory Project (dmoz.org)   |
+    | and link back to that category using the {{dmoz}} template.         |
+    ======================= {{No more links}} =============================-->
+* [http://www.pjfarmer.com/ The ''Official'' Philip José Farmer Web Page]
+*{{curlie|Arts/Literature/Genres/Science_Fiction/Authors/F/Farmer,_Philip_Jose|Farmer, Philip Jose}}
+* [https://web.archive.org/web/20030210064453/http://www.scifiworld.cz/author.php?AuthorID=53 P. J. Farmer] at SciFiWorld
+* [https://www.philipjosefarmer.com Philip José Farmer International Bibliography]
+* [http://www.pjfarmer.com/woldnewton/Pulp2.htm An Expansion of Philip José Farmer's Wold Newton Universe]
+* [https://web.archive.org/web/20080120232357/http://www.pjfarmer.com/farmerphile.htm ''Farmerphile: The Magazine of Philip José Farmer'']
+* {{isfdb name|26}}
+* {{IBList|type=author|id=1114|name=Philip José Farmer}}
+*{{Find a Grave|34556159}}
+* [http://www.locusmag.com/Features/2008/08/yesterdays-tomorrows-philip-jos-farmer.html "Yesterday's Tomorrows: Philip José Farmer" by Graham Sleight]
+* [http://rmoa.unm.edu/docviewer.php?docId=wyu-ah08387.xml Philip Jose Farmer papers] at the [[University of Wyoming]] – [[American Heritage Center]]
+* {{Gutenberg author |id=Farmer,+Philip+José | name=Philip José Farmer}}
+* {{Internet Archive author |sname=Philip José Farmer |sopt=t}} 
+* {{Librivox author |id=643}}
+
+{{Philip José Farmer}}
+{{World Fantasy Award Life Achievement}}
+{{Damon Knight Memorial Grand Master Awards}}
+{{Authority control}}
+
+{{DEFAULTSORT:Farmer, Philip Jose}}
+[[Category:1918 births]]
+[[Category:2009 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American alternate history writers]]
+[[Category:American erotica writers]]
+[[Category:American fantasy writers]]
+[[Category:American science fiction writers]]
+[[Category:American male short story writers]]
+[[Category:American male novelists]]
+[[Category:Bradley University alumni]]
+[[Category:Cthulhu Mythos writers]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Novelists from Illinois]]
+[[Category:Novelists from Indiana]]
+[[Category:SFWA Grand Masters]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Writers from Peoria, Illinois]]
+[[Category:Writers from Terre Haute, Indiana]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

@@ -1,0 +1,78 @@
+{{short description|Hungarian writer, educator, journalist and translator}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Agnes Gergely
+| honorific_suffix  = 
+| image             = Agnes Gergely.jpg
+| imagesize         =
+| caption           = Ágnes Gergely, Hungarian poet, writer, translator
+| native_name       = Gergely Ágnes
+| native_name_lang  = hu
+| pseudonym = Gergely Ágnes
+| birth_name= Guttmann Ágnes
+| birth_date =  {{Birth date and age|1933|10|05}} 
+| birth_place = Endrőd, Hungary
+| death_date  =       
+| death_place = 
+| nationality = 
+| education  = [[University of Budapest]]
+| occupation = {{cslist | writer |  educator | journalist | translator}}
+| period = 
+| genre = [[Poetry]], [[prose]], [[essay]], [[translation]]
+| subject =
+| movement =
+| notableworks =  {{unbulleted list|''A tolmács'' (The interpreter, 1973)|''Ajtófélfámon jel vagy'' (Sign on my door jamb, 1963)}}
+| spouse = 
+| partner =
+| children = 
+| relatives =
+| website = 
+| signature = 
+}}
+
+'''Ágnes Gergely''' (born 1933) is a [[Hungary|Hungarian]] writer, educator, journalist and translator.
+
+==Biography==
+
+She was born '''Ágnes Guttmann''' in family of Fenákel Rózsika and György Guttmann<ref>{{cite web |url=http://dia.jadox.pim.hu/jetspeed/displayXhtml?docId=0000002184&secId=0000429982&mainContent=true&mode=html |title=Gergely Ágnes Hajtogatós |language=hu |accessdate=2018-07-20 |quote=Ágnes szülei: Fenákel Rózsika és Guttmann György (Ágnes's parents: Fenákel Rózsika and György Guttmann) }}</ref>  in Endrőd,<ref name=jewish/> a village on the [[Great Hungarian Plain]].<ref name=wilson>{{cite book |url=https://books.google.com/books?id=2Wf1SVbGFg8C&pg=PA454 |title=An Encyclopedia of Continental Women Writers |page=454 |volume=Volume 1 |last=Wilson |first=Katharina M |year=1991 |isbn=0824085477}}</ref>  She took her pen name "Gergely" from the novel [[Eclipse of the Crescent Moon]] by the Hungarian writer [[Géza Gárdonyi]] because Agnes Gergely wished to be courageous like the hero from the story, [[Gergely Bornemissza]].<ref name="szombat: A nevem Guttmann volt">{{cite web |url=http://www.szombat.org/archivum/remelem-odaat-nagyon-eros-a-szeretet-gergely-agnes-koltovel-regenyiroval-varnai-pal-beszelget-1352774061 |title=REMÉLEM, ODAÁT NAGYON ERŐS A SZERETET – GERGELY ÁGNES KÖLTŐVEL, REGÉNYÍRÓVAL VÁRNAI PÁL BESZÉLGET. |website=Szombat |date=2003-10-01 |language=hu 
+ |accessdate=2018-07-20  |quote=A nevem Guttmann volt (My name was Guttmann)... }}</ref>
+
+Her father György Guttmann was murdered in [[the Holocaust]].<ref name=jewish>{{cite book |url=https://books.google.com/books?id=a0TRrvxytGAC&pg=PA195 |title=Contemporary Jewish Writing in Hungary: An Anthology |page=195 |last=Suleiman |first=Susan Rubin |author2=Forgács, Éva |year=2003 |isbn=0803242751}}</ref>
+
+She began work in a factory in 1950 but later went on to study Hungarian and English literature at the [[University of Budapest]]. She taught secondary school, was a radio producer and was feature editor for the weekly literary magazine ''Nagyvilág''.<ref name=wilson/> From 1973 to 1974, Gergely took part in the [[International Writing Program]] at the [[University of Iowa]]. She also has translated English and American works into Hungarian and has lectured on English literature at [[Eötvös Loránd University]].<ref name=who/>
+
+In 1963, she published her first poetry collection ''Ajtófélfámon jel vagy'' (Sign on my door jamb).
+
+Ágnes Gergely published her first novel ''A tolmács'' (The interpreter) in 1973, a story about tragedy of Jewish community during Nazist regime.<ref name="book_google">{{cite book |last=Gyáni |first=Gábor |date=Jul 12, 2020 |url=https://books.google.com/books?id=S1rsDwAAQBAJ&q=%C3%A1gnes+gergely+A+tolm%C3%A1cs&pg=PT126 |title=A Nation Divided by History and Memory: Hungary in the Twentieth Century and Beyond |publisher=Routledge  |isbn=9781000090758 }}</ref>
+
+Gergely was awarded the [[Attila József Prize]] in 1977 and 1987 and the [[Kossuth Prize]] in 2000.<ref name=jewish/><ref name=who>{{cite book |url=https://books.google.com/books?id=EcinRfSQImAC&pg=PA579 |title=International Who's Who in Poetry 2005 |page=579 |year=2004 |isbn=185743269X|last1=Publications |first1=Europa Europa }}</ref>
+
+== References ==
+{{reflist}}
+
+{{Hungarian literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gergely, Agnes}}
+[[Category:1933 births]]
+[[Category:Living people]]
+[[Category:Hungarian Jews]]
+[[Category:Hungarian translators]]
+[[Category:Eötvös Loránd University alumni]]
+[[Category:Hungarian academics]]
+[[Category:Hungarian women novelists]]
+[[Category:Hungarian women poets]]
+[[Category:20th-century Hungarian women writers]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century Hungarian novelists]]
+[[Category:21st-century Hungarian novelists]]
+[[Category:21st-century Hungarian women writers]]
+[[Category:Eötvös Loránd University faculty]]
+[[Category:20th-century translators]]
+[[Category:21st-century translators]]
+[[Category:International Writing Program alumni]]
+[[Category:Attila József Prize recipients]]
+[[Category:21st-century Hungarian poets]]
+
+
+{{Hungary-writer-stub}}

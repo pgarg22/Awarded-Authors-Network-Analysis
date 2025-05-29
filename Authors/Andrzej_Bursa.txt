@@ -1,0 +1,64 @@
+{{Use dmy dates|date=July 2018}}
+{{Infobox writer
+| name    = Andrzej Bursa
+| image        = File:Andrzej Bursa 2.jpg
+| imagesize    = 180px
+| alt          =
+| caption      = 
+| birth_name   = 
+| birth_date   = {{Birth date|1932|3|21|df=y}}
+| birth_place  = [[Kraków]]
+| death_date   = {{death date and age|1957|11|15|1932|3|21|df=y}}
+| death_place  = Kraków
+| resting_place= [[Rakowicki Cemetery]], Kraków.
+| occupation   = poet, novelist, journalist
+| nationality  = [[Polish people|Polish]]
+| alma_mater   = 
+| citizenship  = 
+| education    = 
+| period       = 
+| genre        = 
+| subject      = 
+| movement     = 
+| spouse = {{marriage|Ludwika Szemioth|1952|1957}}
+| partner      = 
+| children     = 
+| relatives    = 
+| awards       = 
+| signature    = 
+| website      = 
+| portaldisp   = 
+}}
+'''Andrzej Bursa''' (21 March 1932 – 15 November 1957) was a Polish poet and writer.
+
+Born in [[Kraków]], he studied journalism, then [[Bulgarian language|Bulgarian]] at [[Jagiellonian University]] in [[Kraków]]. In 1954–1957 Bursa worked as a journalist and reporter for the Kraków newspaper ''[[Dziennik Polski]]''. Many of his contemporaries attributed his early death at the age of 25 to suicide, while the true cause of it was a congenital heart disease. He was buried at the [[Rakowicki Cemetery]].
+
+Bursa published his first poem in 1954. A prolific writer, he published 37 poems and a short story in different magazines during his lifetime. He died of a heart attack in 1957. Shortly thereafter, his first poetry collection was published, an important event in Polish poetry. Presently, there is a poetry prize named after Bursa which many living Polish poets have won (e.g. [[Ewa Lipska]] and [[Stanisław Barańczak]]).
+
+==External links==
+* [https://web.archive.org/web/20071013135419/http://www.guernicamag.com/poetry/242/complaint/ Andrzej Bursa Poetry, at www.guernicamag.com]
+* [https://web.archive.org/web/20160303185052/http://www.andrzejbursa.republika.pl/ Andrzej Bursa Poetry, at www.andrzejbursa.republika.pl]
+*[https://poezja.org/wz/Bursa_Andrzej/ Andrzej Bursa] biography at poezja.org
+* [https://web.archive.org/web/20060613185142/http://jezyk-polski.eza.pl/materialy/poezja/andrzej_bursa/andrzej_bursa.htm Page about Bursa, at jezyk-polski.eza.pl]
+* [http://cafeirreal.alicewhittenburg.com/bursa.htm Translation of two prose pieces] available at ''[[The Cafe Irreal]]''
+
+==Further reading==
+* Stanisław Stanuch: Andrzej Bursa. Warszawa: Państwowy Instytut Wydawniczy, 1984. {{ISBN|83-06-01100-7}}. 
+* Maciej Chrzanowski: Andrzej Bursa: czas, twórczość, mit. Kraków: Krajowa Agencja Wydawnicza, 1986. {{ISBN|83-03-01454-4}}. 
+* Maciej Chrzanowski: "Luiza" i inne utwory. Kraków: Krajowa Agencja Wydawnicza, 1988. {{ISBN|83-203-2806-3}}. 
+* Maciej Chrzanowski: Twórczość literacka Andrzeja Bursy. Kraków: Zakład Narodowy im. Ossolińskich, 1978. 
+* Ewa Dunaj-Kozakow: Bursa. Kraków: Wydawnictwo Literackie, 1996. {{ISBN|83-08-02626-5}}.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bursa, Andrzej}}
+[[Category:1932 births]]
+[[Category:1957 deaths]]
+[[Category:Writers from Kraków]]
+[[Category:People from Kraków Voivodeship (1919–1939)]]
+[[Category:Burials at Rakowicki Cemetery]]
+[[Category:20th-century Polish poets]]
+[[Category:20th-century Polish male writers]]
+
+
+{{Poland-poet-stub}}

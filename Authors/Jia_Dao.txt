@@ -1,0 +1,74 @@
+[[Image:Zhuan shu.png|142px|thumb|right|《尋隱者不遇》<br/> 賈島<br/>
+松下問童子<br/>
+言師採藥去<br/>
+只在此山中<br/>
+雲深不知處<br/>
+<br/>
+'''Seeking the Master but not Meeting''' by '''Jia Dao'''<br/>
+<br/>
+Beneath a pine I asked a little child. /
+He said the Master went to gather herbs. /
+Alone was he upon this mountainside, /
+The clouds so deep he knew not where he was.]]
+{{family name hatnote|[[Jia (surname)|Jia]]|lang=Chinese}}
+
+'''Jia Dao''' ({{CJKV|t=賈島|s=贾岛|p=Jiǎ Dǎo|w='''Chia Tao'''}}) (779–843), [[courtesy name]] '''Langxian''' ({{lang|zh|浪仙}}), was a Chinese Buddhist monk and [[Chinese poetry|poet]] active during the [[Tang dynasty]].
+
+== Biography ==
+Jia Dao was born near modern [[Beijing]]; after a period as a [[Buddhist]] [[monk]], he went to [[Chang'an]]. He became one of [[Han Yu]]'s disciples, but failed the ''[[Jinshi (imperial examination)|jinshi]]'' exam several times. He wrote both discursive ''[[Shi (poetry)#Gushi|gushi]]'' and [[Lyric poetry|lyric]] ''[[Shi (poetry)#Jintishi|jintishi]]''. His works were criticised as "thin" by [[Su Shi]], and some other commentators have considered them limited and artificial.<ref>[https://web.archive.org/web/20010717221551/http://www.renditions.org/renditions/authors/jiadao.html Renditions Magazine]</ref>
+
+According to Dr. James J.Y. Liu (1926–1986), a professor of Chinese and comparative literature, Jia's poem "The Swordsman" ({{lang|zh-hant|劍客}}) "seems...to sum up the spirit of [[Chinese knight errant|knight errantry]] in four lines."<ref name=liu>Liu, James J.Y. ''The Chinese Knight Errant''. London: Routledge and Kegan Paul, 1967 ({{ISBN|0-2264-8688-5}})</ref><ref>[http://histsoc.stanford.edu/pdfmem/LiuJ.pdf MEMORIAL RESOLUTION] {{webarchive|url=https://web.archive.org/web/20070609210613/http://histsoc.stanford.edu/pdfmem/LiuJ.pdf |date=2007-06-09 }}</ref> "The Swordsman" reads in Liu's translation as follows:
+
+:''For ten years I have been polishing this sword;''
+:''Its frosty edge''<ref>Extremely sharp.</ref>'' has never been put to the test.''
+:''Now I am holding it and showing it to you, sir:''
+:''Is there anyone suffering from injustice?''<ref name=liu/>
+
+A metric translation of the original Chinese poem with one [[iamb (poetry)|iamb]] per Chinese character<ref>Tian Min, 2020. [https://medium.com/@meltsunriseoath/swordsman-%E5%8A%8D%E5%AE%A2-d00e0b2a0227?source=friends_link&sk=6d18426221047a367308081a3a2b544b Medium article.]</ref> reads as follows:
+
+:''A decade long I honed a single sword,''
+:''Its steel-cold blade still yet to test its song.''
+:''Today I hold it out to you, my lord,''
+:''and ask: "Who seeks deliverance from a wrong?"''
+
+==See also==
+*[[Classical Chinese poetry]]
+*[[Han Yu]]
+*[[Li He]]
+*[[Luoyang]]
+*[[Meng Jiao]]
+*[[Tang poetry]]
+
+==References==
+
+{{Reflist}}
+
+==Sources==
+Pine, Red, and Mike O'Connor. ''The clouds should know me by now: Buddhist poet monks of China.'' Boston: Wisdom Publications, 1999. Includes selection of dual-language poems.
+
+== External links ==
+* {{Librivox author |id=11076}}
+*Books of the ''[[Quan Tangshi]]'' that include collected poems of Jia Dao at the [[Chinese Text Project]]:
+**[http://ctext.org/quantangshi/571 Book 571]
+**[http://ctext.org/quantangshi/572 Book 572]
+**[http://ctext.org/quantangshi/573 Book 573]
+**[http://ctext.org/quantangshi/574 Book 574]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jia, Dao}}
+
+[[Category:779 births]]
+[[Category:843 deaths]]
+[[Category:8th-century Chinese poets]]
+[[Category:9th-century Chinese poets]]
+[[Category:Poets from Hebei]]
+[[Category:Tang dynasty Buddhist monks]]
+[[Category:Three Hundred Tang Poems poets]]
+[[Category:Writers from Baoding]]
+
+
+
+
+
+{{China-poet-stub}}

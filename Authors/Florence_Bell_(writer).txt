@@ -1,0 +1,67 @@
+{{about||the alpine skier from Ireland|Florence Bell (skier)|the British suffragist and socialist|Florence Harrison Bell}}
+{{Infobox writer 
+ | name        = Florence Bell
+ | image       = Florence Eveleen Eleanore (née Olliffe), Lady Bell.png
+ | image_size  = 250px
+ | caption     = by "J. Weston & Son" 1910s
+ | pseudonym   = 
+ | birth_name  = Florence Eveleen Eleanore Olliffe
+ | birth_date  = {{birth date|1851|9|9|df=yes}}
+ | birth_place = [[Paris]], [[France]]
+ | death_date  = {{death date and age|1930|5|16|1851|9|9|df=yes}}
+ | death_place = [[Chelsea, London]]
+ | occupation  = Writer, playwright
+ | nationality = [[British people|British]]
+ | period      = 20th century
+ | genre       = Plays, fiction
+ | spouse      = [[Sir Hugh Bell, 2nd Baronet|Sir Hugh Bell, 2nd Baronet Bell of Rounton Grange]] (1871-1930; her death)}}
+
+'''Dame Florence Eveleen Eleanore Bell''', {{post-nominals|country=GBR|DBE|JP|sep=,|size=100%}} (née Olliffe; 9 September 1851 - 16 May 1930)<ref name=obit>{{cite news | title = Lady Bell | newspaper = The Times | location = London, England | date = 17 May 1930 | page = 14}}</ref> was a [[United Kingdom|British]] writer and playwright.
+
+==Biography==
+Bell was born in [[Paris]], [[France]] in 1851,<ref>The National Archives, RG33/71/page4,  Foreign Registers & Returns, Baptisms, Consular/Overseas: Paris, France. 
+Florence Eveline Eleanor Olliffe.
+Baptism date: 17 Apr 1851.
+Father: Joseph Olliffe.
+Mother: Laura.
+Father's occupation Physician</ref> the youngest of four children of Irish-born [[Joseph Francis Olliffe]] (later Sir Joseph Olliffe) and Laura Cubitt.<ref>{{cite web |first=Angela V. |last=John |url=http://www.oxforddnb.com/view/article/41106 |title=Bell, Florence Eveleen Eleanore, Lady Bell (1851–1930) |publisher=Oxford Dictionary of National Biography, Oxford University Press |date=2004}}</ref> She was the second wife of [[Sir Hugh Bell, 2nd Baronet|Sir Hugh Bell, 2nd Baronet Bell of Rounton Grange]], and was styled Lady Florence Bell. The couple had three children:
+
+* Hugh Lowthian Bell (21 October 1878 – 2 February 1926)
+* Florence Elsa Bell (c. 1880 – 3 May 1971, married [[Herbert Richmond|Admiral Sir Herbert Richmond]])
+* [[Mary Trevelyan (Lady)|Mary Katherine Bell]], OBE (c. 1882 - 8 October 1966, married [[Charles Philips Trevelyan]])<ref>{{Cite ODNB|title=Trevelyan [née Bell], Mary Katharine [Molly], Lady Trevelyan (1881–1966), political hostess and voluntary worker|url=https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-53939|access-date=2021-05-04|year = 2004|language=en|doi=10.1093/ref:odnb/53939}}</ref>
+
+Bell was the stepmother to her husband's children from his first marriage: [[United Kingdom|British]] explorer and key political figure in the [[Middle East]], [[Gertrude Bell]] (1868–1926) and [[Sir Maurice Hugh Lowthian Bell, 3rd Baronet|Maurice, 3rd Baronet]] (1871–1944).
+
+In 1918 she was appointed as Dame Commander of the [[Order of the British Empire]] (DBE). She died on 16 May 1930 at her home, 95 Sloane Street, [[Chelsea, London|Chelsea]].
+
+==Works==
+*''Alan's Wife'' (with [[Elizabeth Robins]], 1893)
+*''A Collection of Plays and Monologues for the Drawing Room''
+*''At the Works: Study of a Manufacturing Town, Middlesbrough'' (1907)
+*''The Letters of Gertrude Bell, Volume 1'' (1927)
+*''The Letters of Gertrude Bell, Volume II'' (1927)
+*''French Without Tears: Book I''
+*''French Without Tears: Book II''
+*''French Without Tears: Book III''
+*''Petit theâtre des enfants: twelve tiny french plays for children''
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Gutenberg author | id=Bell,+Florence+Eveleen+Eleanore+Olliffe,+Lady | name=Florence Eveleen Eleanore Olliffe Bell}}
+* {{FadedPage|id=Bell, Florence Eveleen Eleanore, Baroness of Routon Grange|name=Florence Bell|author=yes}}
+* {{Librivox author |id=11219}}
+* {{Internet Archive author |sname=Florence Bell |sopt=t}}
+* [http://www.librarything.com/author/belllady Lady Bell bibliography]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bell, Florence}}
+[[Category:1851 births]]
+[[Category:1930 deaths]]
+[[Category:British dramatists and playwrights]]
+[[Category:Dames Commander of the Order of the British Empire]]
+[[Category:People from Northallerton]]
+[[Category:People from Middlesbrough]]
+[[Category:Wives of baronets]]

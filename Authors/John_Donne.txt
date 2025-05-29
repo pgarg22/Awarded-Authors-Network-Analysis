@@ -1,0 +1,275 @@
+{{Short description|16th- and 17th-century English poet and cleric}}
+{{Other people}}
+{{Use British English|date=October 2012}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox writer
+| name = John Donne
+| honorific_prefix = [[The Very Reverend]]
+| image = John Donne by Isaac Oliver.jpg
+| caption = Donne painted by [[Isaac Oliver]]
+| birth_date = 22 January 1572{{sfn|Long|2013|p=}}
+| birth_place = [[London]], [[Kingdom of England|England]]
+| death_date = {{death date and age|1631|03|31|1572|01|22|df=y}}<!--31 March 1631 (aged 59)-->{{sfn|Colclough|2011}}
+| death_place = London, England
+| occupation = {{flatlist|
+* Poet
+* priest
+* lawyer
+}}
+| nationality = English
+| alma_mater = [[Hart Hall, Oxford]]<br />[[University of Cambridge]]
+| genre = Satire, love [[poetry]], [[elegy]], [[sermon]]s
+| subject = Love, [[Human sexuality|sexuality]], religion, death
+| movement = [[Metaphysical poetry]]
+}}
+
+'''John Donne''' ({{IPAc-en|d|ʌ|n}} {{respell|DUN}}; 22 January 1572{{sfn|Long|2013|p=}} – 31 March 1631) was an English poet, scholar, soldier and secretary born into a [[Recusancy|recusant]] family, who later became a [[clergy|cleric]] in the [[Church of England]].{{sfn|Grierson|1971|pp=xiv-xxxiii}} Under royal patronage, he was made [[Dean of St Paul's]] Cathedral in [[London]] (1621–1631).{{sfn|Colclough|2011}} He is considered the preeminent representative of the [[metaphysical poets]]. His poetical works are noted for their [[metaphor]]ical and sensual style and include [[sonnet]]s, love poems, religious poems, [[Latin]] translations, [[epigram]]s, [[Elegy|elegies]], songs, and satires. He is also known for his [[sermon]]s.
+
+Donne's style is characterised by abrupt openings and various paradoxes, ironies and dislocations. These features, along with his frequent dramatic or everyday speech rhythms, his tense syntax and his tough eloquence, were both a reaction against the smoothness of conventional Elizabethan poetry and an adaptation into English of European baroque and mannerist techniques.{{sfn|Bloom|2009|pp=14–15}} His early career was marked by poetry that bore immense knowledge of English society and he met that knowledge with sharp criticism.{{Citation needed|date=January 2020}} Another important theme in Donne's poetry is the idea of true religion, something that he spent much time considering and about which he often theorised. He wrote secular poems as well as erotic and love poems. He is particularly famous for his mastery of metaphysical [[conceit]]s.
+
+Despite his great education and poetic talents, Donne lived in poverty for several years, relying heavily on wealthy friends. He spent much of the money he inherited during and after his education on womanising, literature, pastimes, and travel. In 1601, Donne secretly married Anne More, with whom he had twelve children.{{sfn|Jokinen|2006}} In 1615 he was ordained deacon and then [[Anglican]] priest, although he did not want to take Holy Orders and only did so because the king ordered it. He also served as a member of Parliament in 1601 and in 1614.
+
+==Biography==
+===Early life===
+[[File:John Donne BBC News.jpg|thumb|upright=1.15|A portrait of Donne as a young man, c. 1595, in the [[National Portrait Gallery, London]]<ref name="NPG" />]]
+
+Donne was born in London in 1571 or 1572, into a [[recusant]] Roman Catholic family when practice of that religion was illegal in England.<ref name="Schama" /> Donne was the third of six children. His father, also named John Donne, married to one Elizabeth Heywood, was of Welsh descent and a warden of the [[Ironmongers Company]] in the [[City of London]]. However, he avoided unwelcome government attention out of fear of persecution.<ref name="Colly" />{{sfn|Kunitz|Haycraft|1952|pp=156–158}}
+
+His father died in 1576, when Donne was four years old, leaving his mother, Elizabeth, with the responsibility of raising the children alone.{{sfn|Colclough|2011}} Heywood was also from a [[recusancy|recusant]] Roman Catholic family, the daughter of [[John Heywood]], the playwright, and sister of the Reverend [[Jasper Heywood]], a Jesuit priest and translator.{{sfn|Colclough|2011}} She was also a great-niece of [[Thomas More]].{{sfn|Colclough|2011}} A few months after her husband died, Donne's mother married Dr. John Syminges, a wealthy widower with three children of his own.
+
+Donne was educated privately; however, there is no evidence to support the popular claim that he was taught by [[Society of Jesus|Jesuits]].{{sfn|Colclough|2011}} In 1583, at the age of 11, he began studies at [[Hart Hall]], now [[Hertford College, Oxford]]. After three years of studies there, Donne was admitted to the [[University of Cambridge]], where he studied for another three years.<ref name="Venn" /> Donne, however, could not obtain a degree from either institution because of his Catholicism, since he refused to take the [[Oath of Supremacy]] required to graduate.{{sfn|Walton|1999|p=}} In 1591 he was accepted as a student at the [[Thavies Inn]] legal school, one of the [[Inns of Chancery]] in London.{{sfn|Colclough|2011}} On 6 May 1592 he was admitted to [[Lincoln's Inn]], one of the [[Inns of Court]].{{sfn|Colclough|2011}}
+
+In 1593, five years after the defeat of the [[Spanish Armada]] and during the intermittent [[Anglo-Spanish War (1585–1604)]], Queen Elizabeth issued the first English statute against sectarian dissent from the Church of England, titled "An Act for restraining Popish recusants". It defined "Popish recusants" as those "convicted for not repairing to some Church, Chapel, or usual place of Common Prayer to hear Divine Service there, but forbearing the same contrary to the tenor of the laws and statutes heretofore made and provided in that behalf". Donne's brother Henry was also a university student prior to his arrest in 1593 for harbouring a Catholic priest, [[William Harrington (priest)|William Harrington]], and died in [[Newgate Prison]] of [[bubonic plague]], leading Donne to begin questioning his Catholic faith.{{sfn|Kunitz|Haycraft|1952|pp=156–158}}
+
+During and after his education, Donne spent much of his considerable inheritance on women, literature, pastimes and travel.<ref name="Colly"/> Although no record details precisely where Donne travelled, he did cross Europe and later fought alongside the [[Earl of Essex]] and Sir [[Walter Raleigh]] against the Spanish [[Capture of Cádiz|at Cadiz (1596)]] and [[Islands Voyage|the Azores (1597)]], and witnessed the loss of the Spanish flagship, the ''[[San Felipe (Spanish ship)|San Felipe]]''.{{sfn|Colclough|2011}}{{sfn|Durant|Durant|1961|p=154}} According to his earliest biographer, 
+{{quote|... he returned not back into England till he had stayed some years, first in Italy, and then in Spain, where he made many useful observations of those countries, their laws and manner of government, and returned perfect in their languages.|source={{harvnb|Walton|1888|p=20}}}}
+
+By the age of 25 he was well prepared for the diplomatic career he appeared to be seeking.{{sfn|Durant|Durant|1961|p=154}} He was appointed chief secretary to the [[Lord Keeper of the Great Seal]], Sir [[Thomas Egerton, 1st Viscount Brackley|Thomas Egerton]], and was established at Egerton's London home, [[York House, Strand]] close to the [[Palace of Whitehall]], then the most influential social centre in England.
+
+===Marriage to Anne More===
+During the next four years, Donne fell in love with Egerton's niece Anne More, and they were secretly married just before Christmas<ref name=" Schama"/> in 1601, against the wishes of both Egerton and [[George More]], who was Lieutenant of the Tower and Anne's father.  Upon discovery, this wedding ruined Donne's career, getting him dismissed and put in [[Fleet Prison]], along with the Church of England priest [[Samuel Brooke]], who married them,{{sfn|Lee|1886}} and the man who acted as a witness to the wedding.  Donne was released shortly thereafter when the marriage was proved to be valid, and he soon secured the release of the other two.  Walton tells us that when Donne wrote to his wife to tell her about losing his post, he wrote after his name: ''John Donne, Anne Donne, Un-done.''<ref>{{Cite journal|last=II|first=Ernest W. Sullivan|date=2016-08-30|title="John Donne, Anne Donne, Vn-done" Redone|url=https://www.tandfonline.com/doi/abs/10.1080/19403364.1989.11755209|journal=ANQ: A Quarterly Journal of Short Articles, Notes and Reviews|volume=2|issue=3|pages=101–103|language=en|doi=10.1080/19403364.1989.11755209|issn=1940-3364}}</ref>  It was not until 1609 that Donne was reconciled with his father-in-law and received his wife's [[dowry]].
+
+[[File: John Donne house Pyrford.jpg|thumb|Part of the house where Donne lived in [[Pyrford]]]]
+
+After his release, Donne had to accept a retired country life in a small house in [[Pyrford]], Surrey, owned by Anne's cousin, Sir [[Francis Wooley]], where they resided until the end of 1604.{{sfn|Colclough|2011}}{{sfn|Jokinen|2006}} In spring 1605 they moved to another small house in [[Mitcham, London]], where he scraped a meager living as a lawyer, while Anne Donne bore a new baby almost every year.  Though he also worked as an assistant pamphleteer to [[Thomas Morton (bishop)|Thomas Morton]] writing anti-Catholic pamphlets, Donne was in a constant state of financial insecurity.{{sfn|Colclough|2011}}
+
+Anne gave birth to 12 children in 16 years of marriage, (including two [[stillbirth]]s—their eighth and then, in 1617, their last-child); indeed, she spent most of her married life either pregnant or [[Breastfeeding|nursing]]. The 10 surviving children were Constance, [[John Donne the Younger|John]], [[George Donne|George]], Francis, Lucy (named after Donne's patron [[Lucy, Countess of Bedford]], her godmother), Bridget, Mary, Nicholas, Margaret, and Elizabeth. Three (Francis, Nicholas, and Mary) died before they were ten. In a state of despair that almost drove him to kill himself, Donne noted that the death of a child would mean one mouth fewer to feed, but he could not afford the burial expenses.  During this time, Donne wrote but did not publish ''[[Biathanatos]]'', his defense of suicide.{{sfn|Greenblatt|2012|pp=1370–1372}} His wife died on 15 August 1617, five days after giving birth to their twelfth child, a still-born baby.{{sfn|Colclough|2011}} Donne mourned her deeply, and wrote of his love and loss in his [[s:en:Holy Sonnets|17th]] [[Holy Sonnets|Holy Sonnet]].
+
+===Career and later life===
+In 1602 John Donne was elected as Member of Parliament (MP) for the [[Brackley (UK Parliament constituency)|constituency of Brackley]], but the post was not a paid position.{{sfn|Colclough|2011}} Queen [[Elizabeth I]] died in 1603, being succeeded by King [[James VI]] of Scotland as King James I of England.  The fashion for coterie poetry of the period gave Donne a means to seek patronage, and many of his poems were written for wealthy friends or patrons, especially for MP Sir [[Robert Drury (Hawsted MP)|Robert Drury]] of [[Hawsted]] (1575–1615), whom he met in 1610 and who became his chief patron, furnishing him and his family an apartment in his large house in [[Drury Lane]].{{sfn|Durant|Durant|1961|p=154}}
+
+In 1610 and 1611 Donne wrote two [[anti-Catholic]] [[polemic]]s: ''[[Pseudo-Martyr]]'' and ''[[Ignatius His Conclave]]'' for Morton.{{sfn|Colclough|2011}} He then wrote two Anniversaries, ''[[s:An Anatomy of the World—The First Anniversery|An Anatomy of the World]]'' (1611) and ''Of the Progress of the Soul''<ref name="poet_Ofth" /> (1612) for Drury.
+
+Donne sat as an MP again, this time for [[Taunton (UK Parliament constituency)|Taunton]], in the [[Addled Parliament]] of 1614 but though he attracted five appointments within its business he made no recorded speech.<ref>{{cite web |last1=Ferris |first1=John P. |title=DONNE, John (1572-1631), of Drury Lane, Westminster; formerly of Mitcham, Surr. |url=http://www.historyofparliamentonline.org/volume/1604-1629/member/donne-john-1572-1631 |website=historyofparliamentonline.org |access-date=5 November 2021}}</ref> Although King James was pleased with Donne's work, he refused to reinstate him at court and instead urged him to take holy orders.{{sfn|Kunitz|Haycraft|1952|pp=156–158}} At length, Donne acceded to the king's wishes, and in 1615 was ordained priest in the [[Church of England]].{{sfn|Durant|Durant|1961|p=154}}
+
+In 1615 Donne was awarded an honorary doctorate in divinity from [[Cambridge University]], and became a [[Ecclesiastical Household|Royal Chaplain]] in the same year, and a reader of divinity at Lincoln's Inn in 1616,{{sfn|Colclough|2011}} where he served in the chapel as minister until 1622.<ref name="linc_" /> In 1618 he became chaplain to [[James Hay, 1st Earl of Carlisle|Viscount Doncaster]], who was on an embassy to the [[:Category:German princes|princes of Germany]]. Donne did not return to England until 1620.{{sfn|Jokinen|2006}} In 1621 Donne was made [[Dean of St Paul's]], a leading and well-paid position in the [[Church of England]], which he held until his death in 1631.{{sfn|Colclough|2011}}  
+
+At the same time he was granted the living as rector of a number of parishes, including Blunham, in Bedfordshire. Blunham Parish Church has an imposing stained glass window commemorating Donne, designed by Derek Hunt. During Donne's period as dean his daughter Lucy died, aged eighteen.  In late November and early December 1623 he suffered a nearly fatal illness, thought to be either typhus or a combination of a cold followed by a period of fever.{{sfn|Colclough|2011}}
+
+During his convalescence he wrote a series of meditations and prayers on health, pain, and sickness that were published as a book in 1624 under the title of ''[[Devotions upon Emergent Occasions]]''. One of these meditations, [[s:Meditation XVII|Meditation XVII]], contains the well known phrases "No man is an ''Iland''" (often modernised as "[[No Man Is an Island (disambiguation)|No man is an island]]<!--intentional link to DAB page-->") and "[[For Whom the Bell Tolls (disambiguation)|...for whom the ''bell'' tolls]]". In 1624 he became [[vicar]] of [[St Dunstan-in-the-West]], and 1625 a [[prolocutor]] to [[Charles I of England|Charles I]].{{sfn|Colclough|2011}} He earned a reputation as an eloquent preacher and 160 of his sermons have survived, including [[Death's Duel]], his famous [[s:Death's Duell, or A Consolation to the Soul, against the dying Life and the living Death of the Body|sermon]] delivered at the [[Palace of Whitehall]] before King [[Charles I of England|Charles I]] in February 1631.
+
+===Death===
+[[File:John Donne sculpture St. Paul's.jpg|thumb|upright|Memorial to John Donne, St Paul's Cathedral]]
+
+Donne died on 31 March 1631 and was buried in [[old St Paul's Cathedral]],<ref>"Memorials of St Paul's Cathedral" [[William Sinclair (Archdeacon of London)|Sinclair, W.]] p. 464: London; Chapman & Hall, Ltd; 1909.</ref> where a memorial statue of him by [[Nicholas Stone]] was erected with a Latin epigraph probably composed by himself.{{sfn|Sinclair|1909|p=93}} The memorial was one of the few to survive the [[Great Fire of London]] in 1666 and is now in [[St Paul's Cathedral]]. The statue was said by Izaac Walton in his biography to have been modelled from the life by Donne in order to suggest his appearance at the resurrection; it was to start a vogue in such monuments during the course of the 17th century.<ref name = "Monument" /> In 2012 a [[John Donne Memorial|bust of the poet]] by Nigel Boonham was unveiled outside in the cathedral churchyard.<ref name="stpa_NewJ" />
+
+==Writings==
+Donne's earliest poems showed a developed knowledge of English society coupled with sharp criticism of its problems. His satires dealt with common [[Elizabethan England|Elizabethan]] topics, such as corruption in the legal system, mediocre poets, and pompous courtiers. His images of sickness, vomit, manure, and [[bubonic plague|plague]] reflected his strongly satiric view of a society populated by fools and knaves. His third satire, however, deals with the problem of true religion, a matter of great importance to Donne. He argued that it was better to examine carefully one's religious convictions than blindly to follow any established tradition, for none would be saved at the [[Final Judgment]], by claiming "A Harry, or a Martin taught [them] this."{{sfn|Greenblatt|2006|pp=600–602}}
+
+Donne's early career was also notable for his erotic poetry, especially his [[Elegy|elegies]], in which he employed unconventional [[metaphor]]s, such as a [[The Flea (poem)|flea biting two lovers being compared to sex]].{{sfn|Durant|Durant|1961|p=154}} Donne did not publish these poems, although they circulated widely in manuscript form.{{sfn|Durant|Durant|1961|p=154}} One such, a previously unknown manuscript that is believed to be one of the largest contemporary collections of Donne's work (among that of others), was found at [[Melford Hall]] in November 2018.<ref>{{cite web |last1=Flood |first1=Alison |title=Unknown John Donne Manuscript Discover in Suffolk |url=https://www.theguardian.com/books/2018/nov/30/unknown-john-donne-manuscript-discovered-in-suffolk |website=The Guardian |date=30 November 2018 |access-date=3 December 2018}}</ref>
+
+Some have speculated that Donne's numerous illnesses, financial strain, and the deaths of his friends all contributed to the development of a more sombre and [[piety|pious]] tone in his later poems.{{sfn|Durant|Durant|1961|p=154}} The change can be clearly seen in "[[s:An Anatomy of the World—The First Anniversery|An Anatomy of the World]]" (1611), a poem that Donne wrote in memory of Elizabeth Drury, daughter of his patron, Sir Robert Drury of Hawstead, Suffolk. This poem treats Elizabeth's demise with extreme gloominess, using it as a symbol for the [[Fall of Man]] and the destruction of the [[universe]].{{sfn|Durant|Durant|1961|p=154}}
+
+The increasing gloominess of Donne's tone may also be observed in the religious works that he began writing during the same period. Having converted to the [[Anglican Church]], Donne quickly became noted for his sermons and religious poems. Towards the end of his life Donne wrote works that challenged death, and the fear that it inspired in many men, on the grounds of his belief that those who die are sent to [[Heaven]] to live eternally. One example of this challenge is his Holy Sonnet X, "[[Death Be Not Proud (poem)|Death Be Not Proud]]".{{sfn|Durant|Durant|1961|p=154}}{{sfn|Greenblatt|2012|pp=1370–1372}}{{sfn|Sherwood|1984|p=}}
+
+Even as he lay dying during [[Lent]] in 1631, he rose from his sickbed and delivered the [[Death's Duel|Death's Duel sermon]], which was later described as his own funeral sermon. Death's Duel portrays life as a steady descent to suffering and death; death becomes merely another process of life, in which the 'winding sheet' of the womb is the same as that of the grave. Hope is seen in salvation and immortality through an embrace of God, Christ and the [[Resurrection]].{{sfn|Durant|Durant|1961|p=154}}{{sfn|Greenblatt|2012|pp=1370–1372}}{{sfn|Sherwood|1984|p=}}
+
+==Style==
+His work has received much criticism over the years, especially concerning his metaphysical form. Donne is generally considered the most prominent member of the [[metaphysical poets]], a phrase coined in 1781 by [[Samuel Johnson]], following a comment on Donne by [[John Dryden]]. Dryden had written of Donne in 1693: "He affects the metaphysics, not only in his satires, but in his amorous verses, where nature only should reign; and perplexes the minds of the fair sex with nice speculations of philosophy, when he should engage their hearts, and entertain them with the softnesses of love."{{sfn|Dryden|1693|p=}} 
+
+In ''Life of Cowley'' (from Samuel Johnson's 1781 work of biography and criticism ''[[Lives of the Most Eminent English Poets]]''), Johnson refers to the beginning of the seventeenth century in which there "appeared a race of writers that may be termed the metaphysical poets". Donne's immediate successors in poetry therefore tended to regard his works with ambivalence, with the [[Neoclassical poets]] regarding his conceits as abuse of the [[metaphor]]. However he was revived by [[Romantic poets]] such as [[Samuel Taylor Coleridge|Coleridge]] and [[Robert Browning|Browning]], though his more recent revival in the early twentieth century by poets such as [[T. S. Eliot]] and critics like [[F R Leavis]] tended to portray him, with approval, as an anti-Romantic.{{sfn|Bloom|2004|pp=138–139}}
+
+Donne is considered a master of the [[metaphysical conceit]], an extended metaphor that combines two vastly different ideas into a single idea, often using imagery.{{sfn|Greenblatt|2006|pp=600–602}} An example of this is his equation of lovers with saints in "[[The Canonization]]". Unlike the conceits found in other Elizabethan poetry, most notably [[Petrarchan]] conceits, which formed clichéd comparisons between more closely related objects (such as a rose and love), [[Metaphysics|metaphysical]] conceits go to a greater depth in comparing two completely unlike objects. One of the most famous of Donne's conceits is found in "[[A Valediction: Forbidding Mourning]]" where he compares the apartness of two separated lovers to the working of the legs of a [[Compass (drafting)|compass]].
+
+Donne's works are also witty, employing [[paradox]]es, [[pun]]s, and subtle yet remarkable analogies. His pieces are often ironic and cynical, especially regarding love and human motives. Common subjects of Donne's poems are love (especially in his early life), death (especially after his wife's death), and religion.{{sfn|Greenblatt|2012|pp=1370–1372}}
+
+John Donne's poetry represented a shift from classical forms to more personal poetry. Donne is noted for his [[poetic metre]], which was structured with changing and jagged rhythms that closely resemble casual speech (it was for this that the more classical-minded [[Ben Jonson]] commented that "Donne, for not keeping of accent, deserved hanging").{{sfn|Greenblatt|2012|pp=1370–1372}}
+
+Some scholars believe that Donne's literary works reflect the changing trends of his life, with love [[poetry]] and satires from his youth and religious [[sermons]] during his later years. Other scholars, such as [[Helen Gardner (critic)|Helen Gardner]], question the validity of this dating—most of his poems were published posthumously (1633). The exception to these is his ''Anniversaries'', which were published in 1612 and ''[[Devotions upon Emergent Occasions]]'' published in 1624. His sermons are also dated, sometimes specifically by date and year.
+
+==Legacy==
+[[File:Bust of John Donne (14074586548).jpg|thumb|upright|[[John Donne Memorial]] by Nigel Boonham, 2012, St Paul's Cathedral Churchyard]]
+Donne is remembered with a [[Commemoration (Anglicanism)|commemoration]] as a [[priest]] and [[poet]]<ref>{{Cite web|title=The Calendar|url=https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar|access-date=2021-04-02|website=The Church of England|language=en}}</ref> in the [[Calendar of saints (Church of England)|calendar]]<ref>{{Cite web|title=The Calendar|url=https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar|access-date=2021-04-10|website=The Church of England|language=en}}</ref> of the [[Church of England]]<ref name="CofE" /> and in the [[Calendar of Saints (Lutheran)|Calendar of Saints]] of the [[Evangelical Lutheran Church in America]] on [[March 31|31 March]].<ref name="ELW" />
+
+During his lifetime several likenesses were made of the poet. The earliest was the anonymous portrait of 1594 now in the [[National Portrait Gallery, London]] which has been recently restored.{{sfn|Cooper|2012}} One of the earliest Elizabethan portraits of an author, the fashionably dressed poet is shown darkly brooding on his love. The portrait was described in Donne's will as "that picture of myne wych is taken in the shaddowes", and bequeathed by him to [[Robert Kerr, 1st Earl of Ancram]].<ref name="NPG2" /> Other paintings include a 1616 head and shoulders after [[Isaac Oliver]], also in the National Portrait Gallery,<ref name="NPG3" /> and a 1622 head and shoulders in the [[Victoria and Albert Museum]].<ref name="VandA" /> In 1911 the young [[Stanley Spencer]] devoted a visionary painting to ''John Donne arriving in heaven'' (1911) which is now in the [[Fitzwilliam Museum]].<ref name="wikiart" />
+
+Donne's reception until the twentieth century was influenced by the publication of his writings in the seventeenth century. Because Donne avoided publication during his life,{{sfn|Pebworth|2006|p=23-35}} the majority of his works were brought to the press by others in the decades after his death. These publications present what Erin McCarthy calls a "teleological narrative of Donne’s growth" from young rake "Jack Donne" to reverend divine "Dr. Donne."{{sfn|McCarthy|2013|p=59}} For example, while the first edition of ''[http://name.umdl.umich.edu/A69225.0001.001 Poems, by J. D.]'' (1633) mingled amorous and pious verse indiscriminately, all editions after 1635 separated poems into "Songs and Sonnets" and "Divine Poems." This organization "promulgated the tale of Jack Donne’s transformation into Doctor Donne and made it the dominant way of understanding Donne’s life and work."{{sfn|McCarthy|2013|p=59}} 
+
+A similar effort to justify Donne's early writings appeared in the publication of his prose. This pattern can be seen in a 1652 volume that combines texts from throughout Donne's career, including flippant works like ''[[Ignatius His Conclave|Ignatius his Conclave]]'' and more pious writings like ''[[Essays in Divinity]].'' In the preface, Donne's son "unifies the otherwise disparate texts around an impression of Donne’s divinity" by comparing his father's varied writing to [[Jesus]]' miracles.{{sfn|Christoffersen|2018|pp=46-47}} Christ “''began his first'' Miracle ''here'', ''by turning'' [[Marriage at Cana|Water ''into'' Wine]], ''and made it his last to [[Ascension of Jesus|ascend from]]'' [[Ascension of Jesus|Earth ''to'' Heaven]].”<ref name="Donne, John 1652">Donne, John (1652). ''Paradoxes, Problemes, Essayes, Characters'', A2-A6.</ref> 
+
+Donne first wrote “''things conducing to cheerfulness & entertainment of'' Mankind," and later "''change[d] his conversation from'' Men ''to'' Angels.”<ref name="Donne, John 1652"/> Another figure who contributed to Donne's legacy as a rake-turned-preacher was Donne's first biographer [[Izaak Walton]]. Walton's biography separated Donne's life into two stages, comparing Donne's life to the transformation of [[St. Paul]]. Walton writes, "where [Donne] had been a Saul… in his irregular youth,” he became “a Paul, and preach[ed] salvation to his brethren.”<ref>Walton, Izaak (1658). ''Life of John Donne,'' 86-88.</ref>
+
+The idea that Donne's writings reflect two distinct stages of his life remains common; however, many scholars have challenged this understanding. In 1948, [[Evelyn M. Simpson|Evelyn Simpson]] wrote, "a close study of his works... makes it clear that his was no case of dual personality. He was not a Jekyll-Hyde in Jacobean dress... There is an essential unity underlying the flagrant and manifold contradictions of his temperament."<ref>Simpson, Evelyn (1948). ''A Study of the Prose Works of John Donne''. Oxford University Press. pp. 4–5.</ref>
+
+===In literature===
+After Donne's death, a number of poetical tributes were paid to him, of which one of the principal (and most difficult to follow) was his friend [[Lord Herbert of Cherbury]]'s "Elegy for Doctor Donne".<ref name="Herbert" /> Posthumous editions of Donne's poems were accompanied by several "Elegies upon the Author" over the course of the next two centuries.{{sfn|Donne|1633|p=373}} Six of these were written by fellow churchmen, others by such courtly writers as [[Thomas Carew]], [[Sidney Godolphin (poet)|Sidney Godolphin]] and [[Endymion Porter]]. In 1963 came [[Joseph Brodsky]]'s "The Great Elegy for John Donne".{{sfn|Maxton|1983|pp=62–64}}
+
+Beginning in the 20th century, several historical novels appeared taking as their subject various episodes in Donne's life. His courtship of Anne More is the subject of [[Elizabeth Gray Vining]]'s ''Take Heed of Loving Me: A novel about John Donne'' (1963)<ref name="NYROB" /> and Maeve Haran's ''The Lady and the Poet'' (2010).{{sfn|Haran|2009|p=}} Both characters also make interspersed appearances in [[Mary Novik]]'s ''[[Conceit (novel)|Conceit]]'' (2007), where the main focus is on their rebellious daughter Pegge. English treatments include [[Garry O'Connor (writer)|Garry O'Connor]]'s ''Death's Duel: a novel of John Donne'' (2015), which deals with the poet as a young man.<ref name="O'Connor" /> 
+
+He also plays a significant role in Christie Dickason's ''The Noble Assassin'' (2012), a novel based on the life of Donne's patron and (the author claims) his lover, [[Lucy Russell, Countess of Bedford]].{{sfn|Dickason|2011|p=}} Finally there is Bryan Crockett's ''Love's Alchemy: a John Donne Mystery'' (2015), in which the poet, blackmailed into service in Robert Cecil's network of spies, attempts to avert political disaster and at the same time outwit Cecil.{{sfn|Crockett|2015|p=}}
+
+===Musical settings===
+There were musical settings of Donne's lyrics even during his lifetime and in the century following his death. These included [[Alfonso Ferrabosco the younger]]'s ("So, so, leave off this last lamenting kisse" in his 1609 Ayres); [[John Cooper (composer)|John Cooper]]'s ("The Message"); [[Henry Lawes]]' ("Break of Day"); [[John Dowland]]'s ("Break of Day" and "To ask for all thy love");<ref>{{youtube|id=EyQYbCnlyaE|title= To ask for all thy love performed by John Dowland}}</ref> and settings of "[[A Hymn to God the Father]]" by [[John Hilton the younger]]<ref>{{youtube|id=cyFvyRZbsLI|title= Wilt Thou Forgive? performed by Connor Burrowes}}</ref> and [[Pelham Humfrey]] (published 1688).<ref>{{youtube|id=ElRN0CMGVzc |title= Hymn to God the Father, music composed by Pelham Humfrey}}</ref> 
+
+After the 17th century there were no more until the start of the 20th century with [[Havergal Brian]] ("A nocturnal on St Lucy's Day", first performed in 1905), [[Eleanor Everest Freer]] ("Break of Day, published in 1905) and Walford Davies ("The Cross", 1909) among the earliest. In 1916–18, the composer [[Hubert Parry]] set Donne's "Holy Sonnet 7" ("At the round earth's imagined corners") to music in his choral work, ''[[Songs of Farewell]]''.<ref name="shrock">{{cite book |last1=Shrock |first1=Dennis |title=Choral Repertoire |date=2009 |publisher=Oxford University Press, USA |isbn=9780195327786 |url=https://books.google.com/books?id=-SVnDAAAQBAJ&lpg=PA536}}</ref> In 1945, [[Benjamin Britten]] set nine of Donne's Holy Sonnets in his [[song cycle]] for voice and piano ''[[The Holy Sonnets of John Donne]]''. Among them is also the choral setting of "Negative Love" that opens ''[[Harmonium (Adams)|Harmonium]]'' (1981), as well as the aria setting of "Holy Sonnet XIV" at the end of the 1st act of ''[[Doctor Atomic]]'', both by John Adams.<ref>{{youtube|id=LytizCfS4IM |title=A choral setting of "Negative Love"}}</ref><ref>{{YouTube|id=AlUHKHLk_VU |title=An aria setting of "Holy Sonnet XIV"}}</ref>
+
+There have been settings in popular music as well. One is the version of the song "Go and Catch a Falling Star" on [[John Renbourn]]'s debut album ''[[John Renbourn (album)|John Renbourn]]'' (1966), in which the last line is altered to "False, ere I count one, two, three".<ref>{{youtube|id=yhmwesdFkAc |title=John Renbourn}}</ref> On their 1992 album ''Duality'', the English [[Neoclassical Dark Wave]] band [[In The Nursery]] used a recitation of the entirety of Donne's "A Valediction: Forbidding Mourning" for the track "Mecciano"<ref>{{youtube|id=giJV9Rwd0lY |title=Mecciano}}</ref> and an augmented version of "A Fever" for the track "Corruption."<ref>{{youtube|id=FzR6hQAkPzs |title=In the Nursery – Corruption}}</ref>
+Prose texts by Donne have also been set to music. In 1954, [[Priaulx Rainier]] set some in her ''[[Cycle for Declamation]]'' for solo voice.<ref>{{youtube|id=Naf1ldpVHQU|title=Priaulx Rainier – Cycle for Declamation}}</ref> In 2009, the American [[Jennifer Higdon]] composed the choral piece ''[[On the Death of the Righteous]]'', based on Donne's sermons.<ref name="Webster" /><ref>{{youtube|id=kd7gAjPkcUw |title=On the Death of the Righteous}}</ref> Still more recent is the Russian minimalist [[Anton Batagov]]'s " I Fear No More, selected songs and meditations of John Donne" (2015).<ref name="Batagov" /><ref>{{youtube|id=aDaHIOGewus|title= Fear no more:Selected songs and meditations of John Donne performed by Anton Bagatov}}</ref>
+
+==Works==
+* ''[[Biathanatos]]'' (1608)
+* ''[[Pseudo-Martyr]]'' (1610)
+* ''[[Ignatius His Conclave]]'' (1611)
+* ''The First Anniversary: An Anatomy of the World'' (1611)
+* ''The Second Anniversary: Of the Progress of the Soul'' (1612)
+* ''[[Devotions upon Emergent Occasions]]'' (1624)
+* ''Poems'' (1633)
+*''Juvenilia: or Certain Paradoxes and Problems'' (1633)
+*''LXXX Sermons'' (1640)
+*''Fifty Sermons'' (1649)
+*''Essays in Divinity'' (1651)
+*''Letters to severall persons of honour'' (1651)
+*''XXVI Sermons'' (1661)
+
+==References==
+===Notes===
+{{notelist}}
+
+===Citations===
+{{Reflist|refs=
+
+<ref name="Schama">{{youtube|id=wChabJFhPlQ|title=Simon Schama's John Donne}}</ref>
+<ref name="Colly">{{cite book|title=Donne, John|first= Richard W. |last=Langstaff|work=[[Collier's Encyclopedia]]|volume= Vol 8|editor-first= Bernard |editor-last=Johnston|publisher= P.F. Colliers |location= New York|date= 1988|pages= 346–349}}</ref>
+<ref name="NPG">{{npg name|id=01330}}</ref>
+<ref name="Venn">{{acad|id=DN615J|name=Donne, John}}</ref>
+<ref name="poet_Ofth">{{Cite web | title = Of the Progress of the Soul: The Second Anniversary | last = Donne | first = John | work = Poetry Foundation | access-date = 27 October 2017 | url = https://www.poetryfoundation.org/poems/44123/of-the-progress-of-the-soul-the-second-anniversary }}</ref>
+<ref name="CofE">{{cite web |title=The Calendar |url=https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar |website=Church of England |access-date=23 March 2021 |language=en}}</ref>
+<ref name="linc_">{{Cite web | title = John Donne (1572–1631) and Lincoln's Inn | last = Hutchings | first = Josephine | work = lincolnsinn.org.uk | access-date = 27 October 2017 | url = https://www.lincolnsinn.org.uk/images/word/Library/johndonne.pdf }}</ref>
+<ref name="stpa_NewJ">{{Cite web | title = New John Donne statue unveiled in the shadow of St Paul's | work = St Paul's Cathedral | date = 15 June 2012 | access-date = 27 October 2017 | url = https://www.stpauls.co.uk/news-press/news-archive/2012/New-John-Donne-statue-unveiled-in-the-shadow-of-St-Pauls }}</ref>
+<ref name = "Monument">{{Cite web | title = The John Donne Monument (d. 1631) by Nicholas Stone St Paul's Cathedral, London | last = Cottrell | first = Philip | work = churchmonumentssociety.org | access-date = 27 October 2017 | url = http://churchmonumentssociety.org/Monument%20of%20the%20Month%20Archive/2010_11.html }}</ref>
+<ref name="ELW">{{Cite book|year=2006 |title=Evangelical Lutheran Worship – Final Draft |publisher=Augsburg Fortress Press |url=http://www.renewingworship.org/ELW/content/PDF/ChurchYear_asm_20060119.pdf |url-status=dead |archive-url=https://web.archive.org/web/20070124193430/http://www.renewingworship.org/ELW/content/PDF/ChurchYear_asm_20060119.pdf |archive-date=24 January 2007 }}</ref>
+
+<ref name="Herbert">{{cite web|url=http://www.poetryexplorer.net/poem.php?id=10070803|title=Elegy for Doctor Donne|work=Poetry Explorer}}</ref>
+<ref name="VandA">{{cite web|url=https://collections.vam.ac.uk/item/O131468/portrait-of-john-donne-1573-oil-painting-unknown |work=V&A|title=Portrait of John Donne (1573–1631) at the age of 49}}</ref>
+<ref name="NPG2">{{Cite web | title = John Donne  | work = National Portrait Gallery | access-date = 27 October 2017 | url = http://www.npg.org.uk/collections/search/portrait/mw111844/John-Donne#description }}</ref>
+<ref name="NPG3">{{Cite web | title = John Donne| work = National Portrait Gallery | access-date = 27 October 2017 | url = http://www.npg.org.uk/collections/search/portraitLarge/mw01900/John-Donne }}</ref>
+<ref name="wikiart">{{Cite web | title = John Donne Arriving in Heaven | last = Spencer | first = Stanley | work = www.wikiart.org | date = 1911 | access-date = 27 October 2017 | url = https://www.wikiart.org/en/stanley-spencer/john-donne-arriving-in-heaven-1911 }}</ref>
+<ref name="NYROB">{{Cite magazine | title = This Is Your Life, John Donne | last = Hollander | first = John | magazine = The New York Review of Books | date = 2 April 1964 | access-date = 27 October 2017 | url = http://www.nybooks.com/articles/1964/04/02/this-is-your-life-john-donne/ }}</ref>
+<ref name="O'Connor">{{Cite book | title = Death's Duel: A Novel of John Donne | last = O'Connor | first = Garry | publisher= Endeavour | date = 2015 | asin=B019E0NQ1G }}</ref>
+<ref name="Webster">{{cite web |last=Webster |first=Daniel |title=Two stirring requiems: One old, the other new |work=[[The Philadelphia Inquirer]] |date=31 March 2009 |url=http://articles.philly.com/2009-03-31/news/25277894_1_requiem-aeternam-verdi-higdon |access-date=14 September 2015}}</ref>
+<ref name="Batagov">{{cite web |title=Anton Batagov – I fear no more |work=FANCYMUSIC |date=1 June 2015 |url=http://fancymusic.ru/anton-batagov-i-fear-no-more-selected-songs-and-meditations-of-john-donne/ |access-date=23 October 2015}}</ref>
+
+}}
+
+===Sources===
+{{refbegin|2|indent=yes}}
+
+* {{cite book|last=Bald|first=Robert Cecil |title=John Donne, a Life|url=https://archive.org/details/johndonnelife00bald|url-access=registration|year=1970|publisher=Oxford University Press}}
+*{{cite book|last=Bloom|first=Harold |title=The Best Poems of the English Language: From Chaucer Through Frost| url = https://archive.org/details/bestpoemsofeng00bloo|url-access=registration|year=2004|publisher=HarperCollins|location=New York|isbn=978-0-06-054041-8}}
+*{{cite book |last1=Bloom |first1=Harold |title=John Donne : comprehensive research and study guide |date=2009 |publisher=Chelsea House | location = Broomall, PA |isbn=9781438115733}}
+*{{cite ODNB|last=Colclough|first=David|title=Donne, John (1572–1631)|id=7819|date=19 May 2011}}
+* {{cite book|editor1-first=Julie |editor1-last=Rivkin|editor2-first=Michael |editor2-last=Ryan|last=Brooks|first=Cleanth |author-link=Cleanth Brooks|title=Literary Theory: An Anthology|url=https://books.google.com/books?id=y9qrJ2BHLqoC|edition=2nd| year=2004| publisher=Wiley| isbn=978-1-4051-0696-2| chapter=The Language of Paradox| pages=28–39}}
+*{{cite thesis|type=Honours|last=Christoffersen|first= Will|date=2018|title=A Little World Made Cunningly: The Formation of John Donne in the Civil War Period|doi=10.17615/7571-p676|publisher=University of North Carolina at Chapel Hill}}
+*{{Cite web | title = John Donne nearly finished... –  | last = Cooper | first = Tarnya | work = National Portrait Gallery | date = 16 May 2012 | access-date = 27 October 2017 | url = http://www.npg.org.uk/research/conservation/john-donne-and-his-picture.php }}
+*{{cite book|last=Crockett|first=Bryan |title=Love's Alchemy|url=https://books.google.com/books?id=wpHAoQEACAAJ|year=2015|publisher=Cengage Gale|isbn=978-1-4328-3025-0}}
+*{{cite book|last=Dickason|first=Christie |title=The Noble Assassin|url=https://books.google.com/books?id=Rt1eCuosfMUC|year=2011|publisher=HarperCollins Publishers|isbn=978-0-00-738381-8}}
+*{{cite book|last=Donne|first=John |title=Poems, by J.D. With elegies on the authors death|url=http://quod.lib.umich.edu/e/eebo/A69225.0001.001/1:119?rgn=div1;view=fulltext|year=1633|publisher=Iohn Marriot|location=London}}
+*{{cite book|last=Dryden|first=John |author-link=John Dryden|title=A Discourse Concerning the Original and Progress of Satire|url=https://books.google.com/books?id=Awt3OwAACAAJ|year=1693|location=London}}
+*{{cite book|last1=Durant|first1=Will |author-link1=Will Durant|last2=Durant|first2=Ariel |author-link2=Ariel Durant|title=The Age of Reason Begins: A History of European Civilization in the Period of Shakespeare, Bacon, Montaigne, Rembrandt, Galileo, and Descartes: 1558–1648|url=https://archive.org/details/ageofreasonbegin07dura_0|url-access=registration|year=1961|publisher=Simon and Schuster|isbn=978-0-671-01320-2|location=New York}}
+*{{cite book|last=Greenblatt|first=Stephen|title=The Norton Anthology of English Literature Major Authors Edition: The Middle Ages Through the Restoration And the Eighteenth Century|url=https://books.google.com/books?id=v4DoQgAACAAJ|year=2006|publisher=Norton|isbn=978-0-393-92830-3}}
+*{{cite book|editor-last=Grierson|editor-first= Herbert J. C.|editor-link=Herbert Grierson|title=Donne Poetical Works|publisher=[[Oxford University Press]]|date=1971|pages=|isbn=0-19-281113-4}}
+*{{Cite book |year=2012 |editor-first=Stephen |editor-last=Greenblatt |title=Norton Anthology of English Literature |edition=9 |volume=Vol B |publisher=Norton |location=New York |isbn=9780393912500 |chapter=John Donne, 1572–1631}}
+*{{cite book|last=Haran|first=Maeve |title=The Lady and the Poet|url=https://books.google.com/books?id=HBeiUKd8jpMC|year=2009|publisher=Pan Macmillan|isbn=978-0-330-50538-3}}
+*{{cite web|last=Jokinen|first= Anniina| url=http://www.luminarium.org/sevenlit/donne/donnebio.htm|title=The Life of John Donne (1572–1631)|date=22 June 2006|access-date=27 October 2017|work=Luminarium}}
+*{{cite DNB |wstitle=Brooke, Samuel|first=Sidney |last=Lee|volume=6}}
+*{{cite book|last=Long|first=William J. |title=English Literature: Its History and Significance for the Life of the English-Speaking World|url=https://books.google.com/books?id=Q-xEAwAAQBAJ|year=2013|publisher=Start Classics|isbn=978-1-62793-876-1}}
+*{{cite book|editor-last1=Kunitz|editor-first1=Stanley |editor-last2=Haycraft|editor-first2=Howard|title=British Authors Before 1800: A Biographical Dictionary|url=https://archive.org/details/britishauthorsbe00kuni|url-access=registration|year=1952|publisher=Wilson|location=New York|isbn=978-0-8242-0006-0}}
+*{{Cite journal | title = Josef Brodsky and "The Great Elegy for John Donne" | last = Maxton | first = Hugh | journal = The Crane Bag|volume=7|issue=1 | date = 1983 | jstor=30060547|pages=62–64}}
+*{{cite journal|last=McCarthy|first= Erin |date=2013|title=Poems, by J. D. (1635) and the Creation of John Donne's Literary Biography|journal=John Donne Journal|volume=32|pages=57–85|hdl=10379/5258}}
+*{{cite book|last=Pebworth|first=Ted-Larry|editor=Achsah Guibbory|title=The Cambridge Companion to John Donne|url=https://books.google.com/books?id=Z3Mb5T5SJiYC|date= 2006|publisher=Cambridge University Press|isbn=978-0-521-83237-3|chapter=The Text of Donne’s Writings}}
+*{{cite book|last=Sherwood|first=Terry Grey |title=Fulfilling the Circle: A Study of John Donne's Thought|url=https://archive.org/details/fulfillingcircle0000sher|url-access=registration|year=1984|publisher=University of Toronto Press|isbn=978-0-8020-5621-4}}
+*{{cite book|last=Sinclair|first=William Macdonald |authorlink=William Sinclair (archdeacon of London)|title=Memorials of St. Paul's Cathedral|url=https://books.google.com/books?id=IXJEAQAAMAAJ|year=1909|publisher=George W. Jacobs & Company}}
+*{{cite book|last=Walton|first=Izaak |author-link=Izaak Walton|title=Izaak Walton's Lives of John Donne, Henry Wotton, Richard Hooker and George Herbert|url=https://archive.org/details/izaakwaltonsliv00morlgoog|year=1888|orig-year=1658|publisher=George Routledge and Sons|location=London}}
+*{{cite book|last=Walton|first=Izaak|author-link=Izaak Walton|title=Devotions Upon Emergent Occasions: And, Death's Duel|url=https://archive.org/details/devotionsuponeme00john|url-access=registration|year=1999|publisher=Vintage Books|isbn=978-0-375-70548-9}}
+{{refend}}
+
+===Further reading===
+{{refbegin|2|indent=yes}}
+
+* Bald, R. C.: ''Donne's Influence in English Literature.'' Peter Smith, Gloucester, Massachusetts USA, 1965
+* {{cite book|author-link=Antoine Berman|last=Berman|first= Antoine|title=[[Pour une critique des traductions: John Donne]]|publisher= Gallimard|location= Paris|date= 1995|translator= [[Françoise Massardier-Kenney]] |trans-title=Towards a Translation Criticism: John Donne|language=fr}}
+* {{cite book|author-link=John Carey (critic)|last=Carey|first= John|title=John Donne. Life, Mind and Art|publisher= Faber and Faber |location= London|date= 1981}} Revised and republished 1990.
+* {{cite book|last=Colclough|first=David |title=John Donne's Professional Lives|url=https://books.google.com/books?id=vehTu2WHAKEC|year=2003|publisher=DS Brewer|isbn=978-0-85991-775-9}}
+*{{cite book|editor-last= Grierson|editor-first= Herbert J. C. |date=1902|title=The Poems of John Donne|publisher= University Press|location=Oxford}} In two volumes
+*{{cite book|editor-last=Guibbory|editor-first= Achsah |title=The Cambridge Companion to Donne|publisher= University Press|location=Cambridge|date= 2006}}
+* {{DNB|no-icon=1|prescript=|wstitle=Donne, John (1573-1631)|first=Augustus |last=Jessopp}}
+* {{cite book|last=Le Comte|first= Edward|title=Grace to a Witty Sinner: A Life of Donne|url=https://archive.org/details/gracetowittysinn00leco|url-access=registration|publisher=Walker|date= 1965}}
+* {{Cite book |last=Stephen |first=Leslie |author-link=Leslie Stephen |year=1898 |title=Studies of a Biographer |publisher=Duckworth and Co. |location=London |pages=36–82 |chapter=[[s:Studies of a Biographer/John Donne|John Donne]]}}
+* {{cite book|last=Lim|first= Kit|title=John Donne: An Eternity of Song|publisher=Penguin|date= 2005}}
+* {{cite book|last=Morrissey|first=Mary |title=Politics and the Paul's Cross Sermons, 1558–1642|url=https://books.google.com/books?id=j7smutvuRcYC|year=2011|publisher=OUP |location=Oxford|isbn=978-0-19-957176-5|doi=10.1093/acprof:oso/9780199571765.001.0001}}
+* {{cite book|last=Stubbs|first=John |title=John Donne: The Reformed Soul|url=https://books.google.com/books?id=IZacmGFUVu8C|year=2007|publisher=Penguin Books Limited|isbn=978-0-14-190241-8}}
+* {{Cite book |last=Sullivan|first= Ceri|title=The Rhetoric of the Conscience in Donne, Herbert, and Vaughan|publisher= University Press|location=Oxford|date=2008}} 
+* {{cite book|last=Warnke|first=Frank J. |title=John Donne|url=https://archive.org/details/johndonne0000warn|url-access=registration|year=1987|publisher=Twayne|isbn=978-0-8057-6941-8}}
+{{refend}}
+
+==External links==
+{{Wikisource author}}
+{{wikiquote}}
+{{commons category|John Donne}}
+* [http://www.britannica.com/EBchecked/topic/169175/John-Donne John Donne] on ''[[Encyclopædia Britannica]]''
+*{{Gutenberg author|id=8886}}
+* {{Internet Archive author |sname=John Donne}}
+* {{Librivox author |id=742}}
+* [http://www.poetryfoundation.org/bio/john-donne#about Poems by John Donne at PoetryFoundation.org]
+* [http://www.poetsgraves.co.uk/donne.htm John Donne's Monument, St Paul's Cathedral]
+* [http://www.sparknotes.com/poetry/donne/ John Donne: Sparknotes]
+* [http://digitaldonne.tamu.edu/index.html Digital Donne (digital images of early Donne editions and manuscripts)]
+* {{youtube|id=uxJ-L8tSvIM|title= Michael John Trotta's setting of Break of Day for SATB/piano/English Horn}}
+* [http://www.eng-poetry.ru/english/Poet.php?PoetId=15 Poems by John Donne at English Poetry]
+
+{{John Donne}}
+{{Metaphysical poetry}}
+{{St Paul's Cathedral}}
+{{Portal bar|Christianity|Biography|Poetry|Saints}}
+{{Authority control}}
+
+{{DEFAULTSORT:Donne, John}}
+[[Category:1572 births]]
+[[Category:1631 deaths]]
+[[Category:16th-century English poets]]
+[[Category:16th-century translators]]
+[[Category:17th-century English Anglican priests]]
+[[Category:17th-century English poets]]
+[[Category:17th-century male writers]]
+[[Category:17th-century translators]]
+[[Category:Alumni of Hart Hall, Oxford]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Anglican poets]]
+[[Category:Christian poets]]
+[[Category:Anglican saints]]
+[[Category:Burials at St Paul's Cathedral]]
+[[Category:Converts to Anglicanism from Roman Catholicism]]
+[[Category:Deans of St Paul's]]
+[[Category:English male non-fiction writers]]
+[[Category:English people of Welsh descent]]
+[[Category:English MPs 1601]]
+[[Category:English MPs 1614]]
+[[Category:English songwriters]]
+[[Category:English translators]]
+[[Category:Epigrammatists]]
+[[Category:People celebrated in the Lutheran liturgical calendar]]
+[[Category:People from the City of London]]
+[[Category:Inmates of Fleet Prison]]
+[[Category:Sonneteers]]
+[[Category:Writers from London]]
+[[Category:17th-century Anglican theologians]]

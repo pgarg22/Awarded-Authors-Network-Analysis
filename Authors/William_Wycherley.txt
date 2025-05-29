@@ -1,0 +1,97 @@
+{{short description|English dramatist of the Restoration period}}
+{{Use dmy dates|date=December 2015}}
+{{Use British English|date=December 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = William Wycherley
+| image = William Wycherley by Sir Peter Lely.jpg
+| caption = William Wycherley by Sir Peter Lely, c. 1668
+| birth_date = 1641 <!--{{birth date|df=yes|1631|8|9}}-->
+| birth_place = [[Clive, Shropshire]], England
+| death_date = {{death date|df=yes|1716|01|01}} (aged 74)
+| death_place = London, England
+| occupation =poet; playwright
+| alma_mater = 
+| notableworks = ''[[The Country Wife]]''; ''[[The Plain Dealer (play)|The Plain Dealer]]''
+}}
+'''William Wycherley''' (baptised 8 April 1641{{snd}}1 January 1716) was an [[England|English]] [[dramatist]] of the [[English Restoration|Restoration]] period, best known for the plays ''[[The Country Wife]]'' and ''[[The Plain Dealer (play)|The Plain Dealer]]''.
+
+==Early life==
+Wycherley was born at [[Clive, Shropshire|Clive]] near [[Shrewsbury]], [[Shropshire]],<ref name=ODNB>{{cite ODNB|first=Kate|last=Bennett|title=Wycherley, William (bap. 1641, d. 1716)|year=2004|edition=Online|url=http://www.oxforddnb.com/view/article/30120|access-date=2015-08-04|doi=10.1093/ref:odnb/30120}} </ref> although his birthplace has been said to be Trench Farm to the north near [[Wem]] later the birthplace of another writer, [[John Ireland (writer)|John Ireland]], who was said to have been adopted by Wycherley's widow following the death of Ireland's parents.<ref name="DNB">{{cite DNB|first=Lionel Henry|last=Cust|wstitle=Ireland, John (d.1808)|volume=29}} {{PD-notice}}</ref> He was baptised on 8 April 1641 at [[Whitchurch, Hampshire]],<ref name=ODNB/> son of Daniel Wycherley (1617–1697) and his wife Bethia, daughter of William Shrimpton. His family was settled on a moderate estate of about £600 a year and his father was in the business service of the Marquess of Winchester.<ref name=ODNB/> Wycherley lived during much of his childhood at Trench Farm, one his paternal family's properties,<ref>{{cite book|last=Dickins|first=Gordon|title=An Illustrated Literary Guide to Shropshire|year=1987|publisher=Shropshire Libraries|pages=84–85, 117|isbn=0-903802-37-6}}</ref> then spent some three years of his adolescence in [[France]], where he was sent, at fifteen, to be educated on the banks of the [[Charente]].{{sfn|Chisholm|1911|p=863}}<ref name=":1">{{Cite book|url=https://books.google.com/books?id=6KEiAgAAQBAJ&q=charente&pg=PR5|title=The Broad View anthology of restoration and eighteenth century comedy : edited by Brian Corman|last=Corman|first=Brian|date=2013|isbn=9781460402719}}</ref>
+
+While in France, Wycherley converted to [[Roman Catholicism]].  
+He returned to England shortly before the restoration of King [[Charles II of England|Charles II]], and lived at [[The Queen's College, Oxford|Queen's College, Oxford]] where [[Thomas Barlow (bishop)|Thomas Barlow]] was provost.<ref name=":1" />  
+Under Barlow's influence, Wycherley returned to the [[Church of England]].<ref name=ODNB/>
+
+[[Thomas Macaulay]] hints that Wycherley's subsequent turning back to Roman Catholicism once more was influenced by the patronage and unwonted liberality of the Duke of York, the future [[James II of England|King James II]].<ref name=":0">{{Cite book|title=A Complete Manual of English Literature|last=Shaw|first=Thomas B.|publisher=Sheldon & Company|year=1867|location=New York}}</ref>  As a professional fine gentleman, at a period when, as Major Pack wrote, "the amours of Britain would furnish as diverting memoirs, if well related, as those of France published by [[Roger de Rabutin, Comte de Bussy|Rabutin]], or those of [[Nero]]'s court writ by [[Petronius]]", Wycherley was obliged to be a loose liver. However, his nickname of "Manly Wycherley" seems to have been earned by his straightforward attitude to life.{{sfn|Chisholm|1911|p=863}}
+
+Wycherley left Oxford and took up residence at the [[Inner Temple]], which he had initially entered in October 1659 but gave little attention to studying law and ceased to live there after 1670.{{sfn|Chisholm|1911|p=864}} Nor did he reside in London continuously. He was serving in [[Ireland]] in 1662 as a soldier with the Earl of Ancram's Regiment of Guards; during 1664–65 he was attached on a diplomatic mission by Sir Richard Fanshawe in [[Madrid]], and claimed to have fought in the [[Second Anglo-Dutch War]] in 1665.<ref name=ODNB/>
+
+==First two plays==
+Pleasure and the stage were his only interests.  His play, ''[[Love in a Wood (play)|Love in a Wood]]'', was produced early in 1671 at the [[Theatre Royal, Drury Lane|Theatre Royal]], [[Drury Lane]]. It was published the next year.  Though Wycherley boasted of having written the play at the age of nineteen, before going to Oxford, this is probably untrue.  Macaulay points to the allusions in the play to gentlemen's [[periwig]]s, to guineas, to the vests which Charles ordered to be worn at court, to the [[Great Fire of London]], etc., as showing that the comedy could not have been written the year before the author went to Oxford.{{sfn|Chisholm|1911|p=864}}
+
+That the writer of a play far more daring than [[George Etherege]]'s ''[[She Would If She Could]]''—and far more brilliant too—should at once become the talk of the court was inevitable; equally inevitable was it that the author of the song at the end of the first act, in praise of harlots and their offspring, should attract the attention of the king's mistress, [[Barbara Villiers]], Duchess of Cleveland. Possibly Wycherley intended this famous song as a glorification of the Duchess and her profession, for he seems to have been more delighted than surprised when, as he passed in his coach through [[Pall Mall, London|Pall Mall]], he heard her address him from her coach window as a "rascal" and a "villain", and the son of a woman such as that mentioned in the song. His answer was perfect: "Madam, you have been pleased to bestow a title on me which belongs only to the fortunate."  Seeing that she received the compliment in the spirit in which it was meant, he lost no time in calling upon her, and was from that moment the recipient of those "favours" to which he alludes with pride in the dedication of the play to her. [[Voltaire]]'s story (in his ''Letters on the English Nation'') that the Duchess used to go to Wycherley's chambers in the Temple disguised as a country wench, in a straw hat, with pattens on and a basket in her hand, may be apocryphal, for disguise was superfluous in her case, but it shows how general was the opinion that, under such patronage as this, Wycherley's fortune as poet and dramatist was now made.{{sfn|Chisholm|1911|p=864}}
+
+Whether Wycherley's experiences as a sea-borne officer, which he alludes to in his lines "On a Sea Fight which the Author was in betwixt the English and the Dutch", occurred before or after the production of ''Love in a Wood'' is a point upon which opinions differ, but probably took place not only after the production of ''Love in a Wood'' but after the production of ''The Gentleman Dancing Master'', in 1673. Macaulay claims that he went to sea simply because it was the "polite" thing to do so—because, as he says in the epilogue to ''The Gentleman Dancing Master'', "all gentlemen must pack to sea".  This second comedy was published in 1673, but was probably acted late in 1671. In ''The Gentleman Dancing Master'' the mingling of discordant elements destroys a play that would never in any circumstances have been strong.{{sfn|Chisholm|1911|pp=864–865}}
+
+His military service in the [[Third Anglo-Dutch War]] is known. He was commissioned "Captain-Lieutenant" in a company of the [[George Villiers, 2nd Duke of Buckingham|Duke of Buckingham]]'s regiment of foot on 19 June 1672. He was sent on an expedition that ended in his company being deployed on the [[Isle of Wight]] to pre-empt any Dutch landings in July 1673. He was promoted to Captain proper on 26 February 1674 but resigned on 6 March and returned home. His time was plagued by difficulties obtaining pay and supplies for the troops, some of whom, after his departure complained of having had "ill-usage" from their captain.<ref name=ODNB/>
+
+==Last two plays==
+It is, however, his two last comedies, ''[[The Country Wife]]'' and ''[[The Plain Dealer (play)|The Plain Dealer]]'', that sustain Wycherley's reputation. ''The Country Wife'', produced in 1672 or 1673 and published in 1675, is full of wit, ingenuity, high spirits and conventional humour.{{sfn|Chisholm|1911|p=865}} The play reflects an [[aristocracy|aristocratic]] and anti-[[Puritan]] ideology, and was controversial for its sexual explicitness even in its own time. The title itself contains a lewd pun with regard to the first syllable of "[[cunt|country]]". It is based on several plays by [[Molière]], with added features that 1670s London audiences demanded: [[colloquialism|colloquial]] [[prose]] [[dialogue]] in place of Molière's [[Poetry|verse]], a complicated, fast-paced plot tangle, and many sex jokes. It turns on two indelicate plot devices: a [[rake (character)|rake]]'s trick of pretending [[impotence]] to safely have clandestine affairs with married women, and the arrival in London of an inexperienced young "country wife", with her discovery of the joys of town life, especially the fascinating London men.
+
+''The Plain Dealer'', based on Molière's ''[[Le Misanthrope]]'', was highly praised by [[John Dryden]] and [[John Dennis (dramatist)|John Dennis]], though it was equally condemned for its obscenity by many. The title character is Captain Manly, a sailor who doubts the motives of everyone he meets except for his sweetheart, Olivia, and his friend, Vernish. When Olivia jilts him and marries Vernish, he attempts to gain revenge by sending a pageboy (who, unknown to him, is a girl in disguise and is in love with him) to seduce Olivia. When the truth of the page's identity is discovered, Manly marries her instead.
+
+Wycherley had no title or wealth, but had by 1675 already recommended himself by his two well-received comedies and had been admitted to the inner court circle, sharing the conversation and sometimes the [[Mistress (lover)|mistresses]] of King Charles II, who "was extremely fond of him upon account of his wit".<ref>Richardson Pack, ''Memoirs of Mr. Wycherley's Life'' (1728), 8; quoted by Ogden, 4.</ref> Charles had determined to bring up his bastard son, the [[Charles Lennox, 1st Duke of Richmond|Duke of Richmond]], like a prince, sought as his tutor a man as qualified as Wycherley to impart a "princely education", engaging him in 1679 and it seems clear that, if not for Wycherley's marriage, the education of the young man would actually have been entrusted to him as a reward for having written ''Love in a Wood''.{{sfn|Chisholm|1911|p=864}}
+
+Wycherley's efforts to bring to the Duke of Buckingham's notice the case of [[Samuel Butler (1612-1680)|Samuel Butler]] shows that the writer of even such plays as ''[[The Country Wife]]'' may have generous impulses, while his defence of Buckingham, when the duke in his turn fell into trouble, show that the inventor of so shameless a fraud as that which forms the pivot of ''The Plain Dealer'' may in actual life possess that passion for fair play which is seldom believed to be an English quality. But among the "ninety-nine" religions with which Voltaire accredited England there is one whose permanency has never been shaken — the worship of gentility. To this Wycherley remained as faithful to the day of his death as [[William Congreve|Congreve]] himself. And, if his relations to that "other world beyond this", which the [[Puritans]] had adopted, were liable to change with his environments, it was because that "other world" was really out of fashion altogether.{{sfn|Chisholm|1911|p=864}}
+
+==First marriage==
+It was after the success of ''The Plain Dealer'' that the turning point came in Wycherley's career.<ref name=":0" /> The great dream of all the men about town in Charles's time, as Wycherley's plays all show, was to marry a widow, young and handsome, a peer's daughter if possible — but in any event rich, and spend her money upon wine and women. While talking to a friend in a bookseller's shop at [[Tunbridge Wells]] where he was staying at the spa during the spring of 1678, Wycherley heard ''The Plain Dealer'' asked for by a lady who, in the person of the countess of Drogheda (Letitia Isabella Robartes, eldest daughter of the [[John Robartes, 1st Earl of Radnor|1st Earl of Radnor]] and widow of the 2nd [[Earl of Drogheda]]), answered all the requirements. They secretly married on 29 September 1679,<ref name=ODNB/> for, fearing to lose the king's patronage and the income therefrom, Wycherley still thought it politic to pass as a bachelor.{{sfn|Chisholm|1911|p=866}}
+
+However the king was displeased when he came to know of Wycherley's secret marriage. Wycherley lost the appointment that was so nearly within his grasp—lost indeed the royal favour for ever. He never had an opportunity of regaining it, for the countess seems to have really loved him, and ''Love in a Wood'' had proclaimed the writer to be the kind of husband whose virtue prospers best when closely guarded at the domestic hearth. Wherever he went the countess followed trim, and when she did allow him to meet his boon companions it was in a tavern in [[Bow Street]] opposite to his own house, and even there under certain protective conditions. In summer or in winter he was obliged to sit with the window open and the blinds up, so that his wife might see that the party included no women.{{sfn|Chisholm|1911|p=866}}
+
+She died, however, by July 1685<ref name=ODNB/> and left him the whole of her fortune but the title to the property was disputed; the costs of the litigation were so heavy that his father was unable (or otherwise unwilling) to come to financially aid him. He was thrown into the [[Fleet Prison]] where he remained, being finally released by the liberality of James II. James had been so much gratified by seeing ''The Plain Dealer'' acted that, finding a parallel between Manly's "manliness" and his own, such as no spectator had before discovered, he paid off Wycherley's execution creditor and settled on him a pension of £200 a year.{{sfn|Chisholm|1911|p=866}}<ref name=":0" /> In 1689, while his father was still alive, he fled back to Shropshire after the accession of [[William III of Great Britain|William III]] displaced James II. He feuded with his father over his debts but eventually achieved a settlement to pay off £1,000 of these, enabling him to return to London.<ref>''An Illustrated Literary Guide to Shropshire'', p.85.</ref>
+
+==Later life==
+Other debts still troubled Wycherley, however, and he never was released from his embarrassments, not even after succeeding to a life estate in the family property at Clive after his father's death in 1697.{{sfn|Chisholm|1911|p=866}} He took a mortgage of £1000 from lands there to pay further debts and continued to live in London, only calling on the estate to collect rents.<ref name=ODNB/>
+
+At the age of seventy-four, in poor health, and by special licence dated 20 December 1715, he married young Elizabeth Jackson, who was mistress of a cousin, Captain Thomas Shrimpton, who had collusively and somewhat coercively introduced her to Wycherley. Wycherley was said to have done so in order to spite his nephew, the next in succession, knowing that he would shortly die and that the jointure would impoverish the estate.{{sfn|Chisholm|1911|p=866}} Wycherley died at his lodging house, having returned to the Catholic Church before his remarriage, in the early hours of 1 January 1716, and was buried in the vault of [[St Paul's, Covent Garden]] on 5 January.<ref name=ODNB/>
+
+There was a lawsuit by the nephew to overturn the validity of the marriage but it was upheld on the grounds Wycherley was sane at the time of the marriage. Three months after Wycherley's death, she married Shrimpton.<ref name=ODNB/>
+
+==Legacy==
+The scandalous language and content of Wycherley's plays restricted their publication and performances for nearly two centuries, and over most of that time the original versions were replaced with [[Thomas Bowdler|bowdlerised]] versions, such as the adaptation of ''The Plain Dealer'' by [[Isaac Bickerstaffe]] and a cleaned-up and bland version of ''The Country Girl'' by [[David Garrick]]. These are now forgotten curiosities.{{cn|date=November 2020}}
+
+William Wycherley may have coined the expression "[[nincompoop]]" (certainly, the word occurs in ''The Plain Dealer''). The ''[[Oxford English Dictionary]]'' also cites Wycherley as the first user of the phrase "happy-go-lucky", in 1672.
+
+Voltaire was a great admirer of Wycherley's plays, and once said of them: {{quote|Il semble que les Anglais prennent trop de liberté et que les Françaises n'en prennent pas assez{{sfn|Chisholm|1911|p=863}} (It seems that the Englishmen take too much liberty and the Frenchwomen don't take enough).}}
+
+Composer [[Malcolm Arnold]] (and librettist Joe Mandoza) turned ''The Gentleman Dancing Master'' into a one act opera in 1952. It was originally intended as a television opera but was rejected as too racy. It was recorded in 2020.<ref>[https://www.prestomusic.com/classical/products/8813781--malcolm-arnold-the-dancing-master Arnold, Malcolm. ''The Dancing Master'', op 34. Resonus CD 10269 (2020)]</ref>
+
+==Bibliography==
+* ''William Wycherley'' Edited with an Introduction and Notes by W C Ward, part of ''[[Mermaid Series]]'' Includes biography of Wycherley, together with the following written in play format ''Love in a Wood or St James's Park'', ''The Gentleman Dancing Master'', ''The Country Wife'' and the ''Plain Dealer''.<ref>Detail from a copy of the book published by Fisher Unwin [[London]] with no date (c.&nbsp;1950) with no ISBN</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{EB1911|wstitle = Wycherley, William|volume=28|pages=863–866}}
+*{{cite DNB|wstitle = Wycherley, William|volume=63|first=George Atherton|last= Aitken|authorlink=George Atherton Aitken}}
+*{{cite ODNB|first=Kate |last=Bennett|title=Wycherley, William (bap. 1641, d. 1716)|id=30120}}
+
+==External links==
+{{wikisource author}}
+{{Commons category}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/william-wycherley}}
+
+{{Restoration comedy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wycherley, William}}
+[[Category:1641 births]]
+[[Category:1716 deaths]]
+[[Category:Converts to Roman Catholicism]]
+[[Category:English dramatists and playwrights]]
+[[Category:Alumni of The Queen's College, Oxford]]
+[[Category:People imprisoned for debt]]
+[[Category:English male dramatists and playwrights]]

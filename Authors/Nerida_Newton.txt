@@ -1,0 +1,43 @@
+{{short description|Australian novelist (born 1972)}}
+{{Use dmy dates|date=August 2015}}
+{{Use Australian English|date=August 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = 
+| name        = Nerida Newton
+| birth_date  = {{birth year and age|1972}}<ref name="homepage">{{cite web|url=http://www.neridanewton.com/about|title=About Nerida Newton|accessdate=2013-03-31}}</ref>
+| birth_place = [[Brisbane, Queensland]], Australia<ref name="homepage"/>
+| occupation  = Literary author
+| nationality = Australian<ref name="homepage"/>
+| period      = 2003 - 2006
+| genre       = historical fiction; literary fiction
+| subject     = 
+| notableworks = 
+| influences  = 
+| website     = {{URL|http://www.neridanewton.com/}}
+}}
+'''Nerida Newton''' (born 1972) is an [[Australian]] novelist whose first novel, ''[[The Lambing Flat]]'' won the Emerging Author category for the [[Queensland Premier's Literary Awards]]
+<ref name="qldpremiersaward">{{cite web|url=http://www.qld.gov.au/about/events-awards-honours/awards/literary-awards/past-winners/ |title=Past winners |accessdate=2013-03-31 |publisher=Queensland Premier's Department |url-status=dead |archiveurl=https://web.archive.org/web/20120717073830/http://www.qld.gov.au/about/events-awards-honours/awards/literary-awards/past-winners/ |archivedate=17 July 2012 }}</ref> and was shortlisted for [[The Australian/Vogel Literary Award]].<ref name="middlemiss">{{cite web|url=http://www.middlemiss.org/lit/prizes/ozvogel.html|title=Australian Vogel|accessdate=2013-03-31|publisher=middlemiss}}</ref> In 2004 the novel was shortlisted the [[Commonwealth Writers' Prize]] for the Asia/Pacific region (Best First Book) and One Book One Brisbane. Later that year, Newton was named by the ''[[Sydney Morning Herald]]'' as one of Australia's best young novelists. Her second novel, ''[[Death of a Whaler]]'' was released in 2006.
+
+She has had short stories published in Australian Short Stories and Inkspot, articles published in ''[[The Courier-Mail]]'', and has presented at various writer's festivals around Australia.
+
+==Published works==
+*{{cite book | author=Newton, Nerida| title=[[The Lambing Flat]] | publisher=UQP | year=2003 | isbn=0-7022-3386-2}}
+*{{cite book | author=Newton, Nerida| title=[[Death of a Whaler]] | publisher=Allen & Unwin | year=2006 | isbn=1-74114-791-3}}
+
+==References==
+<references />
+
+{{Authority control}}
+
+{{DEFAULTSORT:Newton, Nerida}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:21st-century Australian novelists]]
+[[Category:Australian historical novelists]]
+[[Category:Australian women short story writers]]
+[[Category:Australian women novelists]]
+[[Category:People from Brisbane]]
+[[Category:Queensland University of Technology alumni]]
+[[Category:21st-century Australian women writers]]
+[[Category:Women historical novelists]]
+[[Category:21st-century Australian short story writers]]

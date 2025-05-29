@@ -1,0 +1,42 @@
+{{infobox person
+|name=George Aiken
+|image=George L. Aiken.jpg
+|birth_date={{birth date|1830|12|19}}
+|birth_place=[[Boston, Massachusetts]]
+|death_date={{death date and age|1876|4|27|1830|12|19}}
+|death_place=[[Jersey City, New Jersey]]
+| resting_place = [[Mount Auburn Cemetery]]<ref>{{cite web|url=http://www.mountauburn.org/map/ |title=Map &#124; Mount Auburn Cemetery |publisher=Mountauburn.org |date= |accessdate=2012-09-01}}</ref><br>[[Cambridge, Massachusetts]]
+|occupation=[[Stage actor]]
+}}
+[[File:George Aiken's original manuscript for his stage adaptation of Uncle Tom's Cabin.png|thumb|left|180px|George Aiken's original manuscript for his stage adaptation of ''[[Uncle Tom's Cabin]]'', 1852]]
+'''George L. Aiken''' (December 19, 1830{{spaced ndash}}April 27, 1876) was a 19th-century American playwright and actor best known for writing the most popular of the numerous stage adaptations of [[Harriet Beecher Stowe]]'s ''[[Uncle Tom's Cabin]]''.
+
+Aiken was a writer of [[dime novel]]s before he turned to theatre. He became an actor in the troupe of his cousin [[George C. Howard]]. In 1852, shortly after the publication of Stowe's ''Uncle Tom's Cabin'', Aiken wrote his stage adaptation. It was performed by Howard's company, with Aiken playing the hero George Harris. The play became a spectacular success. His other works include a dramatization of [[Ann S. Stephens]]' novel ''The Old Homestead''. He retired from the stage in 1867.
+
+Aiken's original manuscripts for ''Uncle Tom's Cabin'' were passed through the family along with other memorabilia from Howard's company. The family placed the collection at the [[Harry Ransom Center]] in 1963.<ref>{{Cite web|url=http://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00058|title=George C. (George Cunnibell) Howard and Family: An Inventory of Their Collection at the Harry Ransom Center|website=norman.hrc.utexas.edu|access-date=2017-03-15}}</ref>
+
+==References==
+{{reflist}}
+*''Who Was Who in America, Historical Volume, 1607-1896''. Chicago: Marquis Who's Who, 1963.
+* {{cite book |title=Racial Innocence: Performing American Childhood from Slavery to Civil Rights |url=https://books.google.com/books?id=f_mgPpS-xXsC&q=racial+innocence |last=Bernstein|first=Robin|year=2011|publisher=New York University Press |isbn=978-0-8147-8708-3}}
+
+==External links==
+{{Portal|Biography}}
+*{{IBDB name}}
+*{{Find a Grave|6382784|George Aiken}}
+*[http://www.iath.virginia.edu/utc/onstage/scripts/aikenhp.html ''Uncle Tom's Cabin''] Play Text of ''Uncle Tom's Cabin''
+*[http://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00058 George C. Howard and Family Collection] at the [[Harry Ransom Center]], University of Texas at Austin
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aiken, George}}
+[[Category:1830 births]]
+[[Category:1876 deaths]]
+[[Category:American male stage actors]]
+[[Category:19th-century American male actors]]
+[[Category:19th-century American dramatists and playwrights]]
+[[Category:Dime novelists]]
+
+
+{{US-dramatist-stub}}
+{{US-theat-actor-1830s-stub}}

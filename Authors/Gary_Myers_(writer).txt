@@ -1,0 +1,71 @@
+{{short description|American writer of fantasy and horror (born 1952)}}
+{{Use mdy dates|date=May 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image            = Gary Myers (writer).jpg
+| image_size       = 150px
+| name             = Gary Myers
+| birth_name       = Gary Clayton Myers
+| caption          = 
+| pseudonym        = 
+| birth_date       = {{birth date and age|1952|8|15}}
+| birth_place      = [[Lynwood, California|Lynwood]], [[California]], United States
+| death_date       = 
+| death_place      = 
+| occupation       = {{flatlist|
+* Short-story writer
+* novelist
+* illustrator
+}}
+| nationality      = [[United States|American]]
+| period           = 
+| genre            = [[Fantasy]], [[horror fiction|horror]]
+| spouse           = Jennifer McIlwee Myers
+}}
+
+'''Gary Clayton Myers''' (born August 15, 1952) is an American writer of [[fantasy]] and [[horror fiction|horror]]. He is a resident of [[Fullerton, California]].
+
+Myers's first story, "The House of the Worm," appeared in a 1970 issue of ''[[The Arkham Collector]]'', edited by [[H. P. Lovecraft]]’s friend and publisher [[August Derleth]], when Myers was 17. Two further stories appeared in the same magazine.
+
+Later in the '70s, Myers's work appeared in a series of anthologies edited by [[Lin Carter]]. These included one volume of the [[Ballantine Adult Fantasy Series]] and two volumes of ''[[The Year's Best Fantasy Stories (series)|The Year's Best Fantasy Stories]]''.
+
+In the ’80s and ’90s, Myers’ work appeared mainly in little magazines like [[Crypt of Cthulhu]], and in a number of Lovecraft-themed anthologies, usually edited by [[Robert M. Price]].
+
+Myers's first book, ''[[The House of the Worm]]'', was a collection of [[Cthulhu Mythos]] stories in the fantasy manner of Lovecraft and [[Lord Dunsany]]; it was published by [[Arkham House]] in 1975 with illustrations by [[Allan Servoss]].<ref name="Page 1975 p. 278">{{cite book |last=Page |first=G.W. |title=Nameless places |publisher=Arkham House |year=1975 |isbn=978-0-87054-073-8 |url=https://books.google.com/books?id=YMgLAQAAMAAJ |access-date=May 4, 2019 |page=278 |quote=... His The House of the Worm, a book-length pastiche of Lovecraft and Dunsany, published recently by Arkham House ...}}</ref> It is now out of print.<ref name="Lovecraft 2008">{{cite web |last=Lovecraft |first=H.P. |title=Out-of-Print Titles |website=arkhamhouse.com |date=April 20, 2008 |url=http://www.arkhamhouse.com/OutofPrint.htm |archive-url=https://web.archive.org/web/20080420132158/http://www.arkhamhouse.com/OutofPrint.htm |archive-date=April 20, 2008 |url-status=dead |access-date=May 4, 2019}}</ref>
+
+His second book, ''Dark Wisdom: New Tales of the Old Ones'', was a collection of [[Cthulhu Mythos]] stories in a more contemporary horror mode; it was published by [[Mythos Books]] in 2007 with illustrations by the author. It was reprinted as ''Dark Wisdom: Tales of the Old Ones'', without the illustrations, through [[CreateSpace]] in 2013
+
+His third book, ''The Country of the Worm: Excursions Beyond the Wall of Sleep'', was an expansion of his first, adding thirteen stories to the original ten of ''The House of the Worm''; it was self-published through CreateSpace in 2013. Myers has continued to expand this collection at the rate of better than a story a year. At the start of 2019 the story count stood at thirty-one.
+
+His fourth book, ''Gray Magic: An Episode of Eibon'', was his first and only novel, a fantasy adventure of [[Eibon]] of Mhu Thulan, a character and milieu invented by [[Clark Ashton Smith]]; it was self-published through CreateSpace in 2013.
+
+His fifth book, ''Lovecraft's Syndrome: An Asperger's Appraisal of the Writer's Life'', co-authored with [[Jennifer McIlwee Myers]], was his first non-fiction work; it was self-published through CreateSpace in 2015.
+
+Myers is the illustrator for most of his books.  He contributed ten black-and-white interior illustrations to the Mythos Books edition of ''Dark Wisdom''. He also contributed color cover illustrations to the CreateSpace editions of ''The Country of the Worm'', ''Dark Wisdom'', ''Gray Magic'' and ''Lovecraft's Syndrome''.
+
+== References ==
+{{Reflist}}
+* {{cite book |last=Myers |first=Gary |title=The House of the Worm |location=Sauk City, WI |publisher=Arkham House |year=1975 |isbn=0-87054-071-8}}
+* {{cite book |last=Myers |first=Gary |title=Dark Wisdom: New Tales of the Old Ones |location=Poplar Bluff, MO |publisher=Mythos Books |year=2007 |isbn=0-9789911-3-3}}
+* {{cite book |last=Myers |first=Gary |title=The Country of the Worm: Excursions Beyond the Wall of Sleep |publisher=CreateSpace |year=2013 |isbn=978-1-4848-0197-0}}
+* {{cite book |last=Myers |first=Gary |title=Dark Wisdom: Tales of the Old Ones |publisher=CreateSpace |year=2013 |isbn=978-1-4848-0196-3}}
+* {{cite book |last=Myers |first=Gary |title=Gray Magic: An Episode of Eibon |publisher=CreateSpace |year=2013 |isbn=978-1-4848-0194-9}}
+* {{cite book |last1=Myers |first1=Gary |last2=Myers |first2=Jennifer McIlwee |title=Lovecraft's Syndrome: An Asperger's Appraisal of the Writer's Life |publisher=CreateSpace |year=2015 |isbn=978-1-5029-9441-7}}
+
+== External links ==
+* [http://lovecraftzine.com/2013/09/25/spawn-of-dark-dreams-an-interview-with-gary-myers-by-jason-thompson/ Spawn of Dark Dreams: An Interview with Gary Myers, by Jason Thompson] at [[Lovecraft eZine]]
+* [http://michelesmusingsonmummies.blogspot.com/2018/08/episode-21-lovecraftian-writer-gary.html Lovecraftian Writer Gary Myers Chats About "From Inner Egypt" Short Story] at [[Michele's Musings on Mummies]]
+* {{isfdb name|id=Gary_Myers|name=Gary Myers}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Myers, Gary}}
+[[Category:1952 births]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American horror writers]]
+[[Category:American male novelists]]
+[[Category:American short story writers]]
+[[Category:Cthulhu Mythos writers]]
+[[Category:Living people]]
+[[Category:American male short story writers]]
+[[Category:21st-century American male writers]]

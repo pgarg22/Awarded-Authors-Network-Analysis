@@ -1,0 +1,329 @@
+{{Short description|English playwright}}
+{{Other people|John Osborne}}
+{{Use dmy dates|date=August 2021}}
+{{Use British English|date=May 2012}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = John Osborne
+| image        = File:John_Osborne_(playwright).jpg
+| caption      = Osborne rehearsing on the set of ''First Love'' (1970)
+| birth_name   = John James Osborne
+| birth_date   = {{birth date|1929|12|12|df=y}}
+| birth_place  = [[Fulham]], [[London]], England
+| death_date   = {{death date and age|1994|12|24|1929|12|12|df=y}}
+| death_place  = [[Clun]], [[Shropshire]], England
+| occupation   = {{Hlist | Playwright | Political activist}}
+| nationality  = British
+| genre        = {{Hlist | [[Social realism]] | [[Kitchen sink realism|Kitchen sink drama]]}}
+| movement     = [[Angry young men|Angry Young Men]]
+| period       = 1950–1992
+| notableworks = ''[[Look Back in Anger]]''<br />''[[The Entertainer (play)|The Entertainer]]''<br />''[[Inadmissible Evidence]]''
+| website      = 
+| spouse       = Pamela Lane<br />[[Mary Ure]]<br />[[Penelope Gilliatt]]<br />[[Jill Bennett (British actress)|Jill Bennett]]<br />[[Helen Osborne|Helen Dawson]]
+| children     = 1 daughter (with Gilliatt)
+}}
+
+'''John James Osborne''' (12 December 1929 – 24 December 1994) was an English [[playwright]], [[screenwriter]] and actor, known for his excoriating prose and intense critical stance towards [[the Establishment|established]] social and political norms. The success of his 1956 play ''[[Look Back in Anger]]'' transformed English theatre.
+
+In a productive life of more than 40 years, Osborne explored many themes and genres, writing for stage, film and TV. His personal life was extravagant and iconoclastic.<ref>see [[John Osborne#Personal life]]</ref> He was notorious for the ornate violence of his language, not only on behalf of the political causes he supported but also against his own family, including his wives and children.
+
+Osborne was one of the first writers to address Britain's purpose in the post-imperial age.<ref>Heilpern pp. 93–102</ref> During his peak (1956–1966), he helped make contempt an acceptable onstage emotion.{{citation needed|reason=9 June 2010|date=June 2010}}
+
+== Early life ==
+Osborne was born on 12 December 1929<ref>{{harvnb|Heilpern|2006|p=23}}</ref> in [[London]], the son of Thomas Godfrey Osborne, a commercial artist and advertising [[Copywriting|copywriter]] of [[South Wales|South Welsh]] extraction, and Nellie Beatrice Grove, a [[Cockney]] barmaid.<ref>{{harvnb|Heilpern|2006|p=24}}</ref>
+
+In 1935 the family moved to the north Surrey suburb of [[Stoneleigh, Surrey|Stoneleigh]], near [[Ewell]], in search of a better life, though Osborne would regard it as a cultural desert – a schoolfriend declared subsequently that "he thought [we] were a lot of dull, uninteresting people, and probably a lot of us were. He was right."<ref>Schoolfriend Hilda Berrington, speaking on ''Osborne: Angry Man'', Channel Four.</ref> He adored his father and hated his mother, who he later wrote taught him "The fatality of hatred … She is my disease, an invitation to my sick room", and described her as "hypocritical, self-absorbed, calculating and indifferent."{{citation needed|date=September 2018}}
+
+Thomas Osborne died in 1941, leaving the young boy an insurance settlement which he used to finance a private education at [[Belmont College (England)|Belmont College]], a minor public school in [[Barnstaple]]<ref>{{harvnb|Heilpern|2006|p=64}}</ref> that closed in the 1960s.<ref>{{cite web |title=Historic Environment Record MDV32669 |url=https://www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV32669&resourceID=104 |website=Heritage Gateway |publisher=Historic England |access-date=21 January 2021 |date=24 April 2014}}</ref> He entered the school in 1943, but was expelled in the summer term of 1945. Osborne claimed this was for hitting the headmaster, who had struck him for listening to a broadcast by [[Frank Sinatra]], but another former pupil asserted that Osborne was caught fighting other pupils and did not assault the headmaster.<ref name="Whitebrook">{{cite book |last1=Whitebrook |first1=Peter |title=John Osborne : 'anger is not about ... ' |date=2015 |publisher=Oberon Books |location=London |isbn=9781783198764 |page=51 |url=https://books.google.com/books?id=sTU2DwAAQBAJ&pg=PP51 |access-date=21 January 2021}}</ref> A [[School Certificate (United Kingdom)|School Certificate]] was the only formal qualification he acquired.
+
+After school, Osborne went home to his mother in London and briefly tried [[trade journalism]]. A job tutoring a touring company of junior actors introduced him to the theatre. He soon became involved as a [[stage management|stage manager]] and acting, joining [[Anthony Creighton]]'s provincial touring company.<ref>{{harvnb|Heilpern|2006|p=90}}</ref> Osborne tried his hand at writing plays, co-writing his first, ''The Devil Inside Him'', with his mentor [[Stella Linden]], who then directed it at the Theatre Royal in [[Huddersfield]] in 1950. In June 1951 he also married Pamela Lane.<ref name=PamLanobit>{{cite web |title=Pamela Lane [1930-2010] obituary |author=John Heilpern |author-link=John Heilpern |work=The Guardian |quote=Stalwart of British theatre and first wife of John Osborne |url=https://www.theguardian.com/stage/2010/nov/21/pamela-lane-obituary |date=21 November 2010 |access-date=19 April 2018}}</ref> His second play ''[[Personal Enemy]]'' was written with Anthony Creighton (with whom he later wrote ''[[Epitaph for George Dillon]]'' staged at the [[Royal Court Theatre|Royal Court]] in 1958). ''Personal Enemy'' was staged in regional theatres before he submitted ''[[Look Back in Anger]]''.
+
+== ''Look Back in Anger'' ==
+''[[Look Back in Anger]]'' was written in 17 days in a deck chair on [[Morecambe]] pier where Osborne was performing in [[Hugh Hastings (playwright)|Hugh Hastings']] play ''[[Seagulls over Sorrento]]'' in a [[repertory theatre]]. Osborne's play is largely autobiographical,<ref>Heilpern pp. 114–119 "Look Back in Anger was based on the breakdown of Osborne's marriage to Lane"</ref> based on his time living, and arguing, with Pamela Lane in cramped accommodation in [[Derby]] while she [[cuckold]]ed him with a local dentist.<ref>Osborne (1991) p.2; Heilpern p.128</ref> It was submitted to several agents in London, who rejected it. In his autobiography, Osborne writes: "The speed with which it had been returned was not surprising, but its aggressive dispatch did give me a kind of relief. It was like being grasped at the upper arm by a testy policeman and told to move on". Finally it was sent to the newly formed [[English Stage Company]] at London's [[Royal Court Theatre]].
+
+Formed by actor-manager and [[artistic director]] [[George Devine]], the company had seen its first three productions flop and urgently needed a success if it was to survive. Devine was prepared to gamble on this play because he saw in it a powerful articulation of a new post-war spirit. Osborne was living on a houseboat on Cubitts Yacht Basin in [[Chiswick]]<ref name="CBF Writers Trail">{{cite web |title=Writers Trail |url=https://www.chiswickbookfestival.net/chiswick-timeline-writers-trail/ |publisher=Chiswick Book Festival |access-date=10 August 2021 |archive-url=https://web.archive.org/web/20210605163630/https://www.chiswickbookfestival.net/chiswick-timeline-writers-trail/ |archive-date=5 June 2021 |date=2021}}</ref> on the [[River Thames]] at the time with Creighton, eating stewed [[Urtica dioica|nettles]] from the riverbank. So keen was Devine to contact Osborne that he rowed out to the boat to tell him he would like to make the play the fourth production to enter [[repertory]]. The play was directed by [[Tony Richardson]] and starred [[Kenneth Haigh]], [[Mary Ure]] and [[Alan Bates]]. George Fearon, a part-time press officer at the theatre, invented the phrase "[[Angry young men|angry young man]]". He told Osborne that he disliked the play and feared it would be impossible to market.<ref>{{harvnb|Little|McLaughlin|2007|p=25}}</ref>
+
+In 1993, a year before his death, Osborne wrote that the opening night was "an occasion I only partly remember, but certainly with more accuracy than those who subsequently claimed to have been present and, if they are to be believed, would have filled the theatre several times over". Reviews were mixed. Most of the critics who attended the first night felt it was a failure, and it looked as if the English Stage Company was going to go into liquidation.<ref>{{harvnb|Little|McLaughlin|2007|p=326}}, cite a letter from Stephen Daldry "I have in our archives letters from members of the audience from the original production of ''Look Back in Anger'' demanding their money back. Had we honoured every one of those requests, this theatre would not have been able to survive"</ref> [[Milton Shulman]] in the ''[[Evening Standard]]'', for example, called the play "a failure" and "a self-pitying snivel". But the following Sunday, [[Kenneth Tynan]] of ''[[The Observer]]'' – the most influential [[critic]] of the day – praised it to the skies: "I could not love anyone who did not wish to see ''Look Back in Anger''", he wrote, "It is the best young play of its decade". [[Harold Hobson]] of ''[[The Sunday Times]]'' called Osborne "a writer of outstanding promise". During production the married Osborne began a relationship with Mary Ure, and would divorce his wife, Pamela Lane, to marry Ure in 1957.
+
+The play became an enormous commercial success, transferring to the [[West End of London|West End]] and [[Broadway theatre|Broadway]], and touring to [[Moscow]]. A film version was released in May 1959 with [[Richard Burton]] and Mary Ure in the leading roles. The play turned Osborne from a struggling playwright into a wealthy and famous angry young man and won him the [[Evening Standard Awards|''Evening Standard'' Drama Award]] as the most promising playwright of 1956.
+
+== ''The Entertainer'' and into the 1960s ==
+[[File:John Osborne by Reginald Gray.jpg|thumb|180px|right|Osborne by Irish artist [[Reginald Gray (artist)|Reginald Gray]], London (1957)]]
+When he first saw ''Look Back in Anger'', [[Laurence Olivier]] was dismissive, viewing the play as unpatriotic and bad theatre, "a travesty on England".<ref name="It's me, isn't it?">{{cite news|newspaper=[[The Guardian]] |date=6 March 2007 |url=http://arts.guardian.co.uk/theatre/comedy/story/0,,2027355,00.html |title='It's me, isn't it?'}}</ref> At the time, Olivier was making a film of Rattigan's ''[[The Prince and the Showgirl]]'' co-starring [[Marilyn Monroe]], and she was accompanied to London by her then-husband [[Arthur Miller]]. Olivier asked the American dramatist what plays he might want to see in London. Based on its title, Miller suggested Osborne's work; Olivier tried to dissuade him, but the playwright was insistent and the two of them saw it together.
+
+Miller found the play revelatory, and they went backstage to meet Osborne. Olivier was impressed by the American's reaction, and asked Osborne for a part in his next play. [[John Heilpern]] suggests the great actor's about-face was due to a midlife crisis, Olivier seeking a new challenge after decades of success in Shakespeare and other classics, and fearful of losing his pre-eminence to this new kind of theatre. [[George Devine]], artistic director of the Royal Court, sent Olivier the incomplete script of ''[[The Entertainer (play)|The Entertainer]]'' (1957, [[The Entertainer (film)|film version]] released in 1960) and Olivier initially wanted to play Billy Rice, the lead character's decent elderly father. On seeing the finished script, he changed his mind and took the central role as failing music-hall performer Archie Rice, playing to great acclaim both at the Royal Court and then in the West End.<ref name="It's me, isn't it?" />
+
+''The Entertainer'' uses the metaphor of the dying [[music hall]] tradition and its eclipse by early [[rock and roll]] to comment on the moribund state of the [[British Empire]] and its eclipse by the power of the [[United States]], something flagrantly revealed during the [[Suez Crisis]] of November 1956 that elliptically forms the backdrop to the play. An experimental piece, ''The Entertainer'' was interspersed with music hall performances. Most critics praised the development of an exciting writing talent:
+
+{{quote|A real pro is a real man, all he needs is an old backcloth behind him and he can hold them on his own for half an hour. He's like the general run of people, only he's a lot more like them than they are themselves, if you understand me.}}
+
+The words are Billy Rice's, though as with much of Osborne's work they could be said to represent his own sentiments, as with this quote from ''Look Back in Anger'':
+
+{{quote|Oh, heavens, how I long for a little ordinary human enthusiasm. Just enthusiasm—that's all. I want to hear a warm, thrilling voice cry out 'Hallelujah! Hallelujah. I'm alive!'}}
+
+Osborne followed ''The Entertainer'' with ''[[The World of Paul Slickey]]'' (1959) a musical that satirizes the tabloid press, the unusual television documentary play ''A Subject of Scandal and Concern'' (1960), and the double bill ''Plays for England'', comprising ''[[The Blood of the Bambergs]]'' and ''[[Under Plain Cover]]'' (1962).
+
+''[[Luther (play)|Luther]]'', depicting the life of [[Martin Luther]], the archetypal rebel of an earlier century, was first performed in 1961; it transferred to Broadway and won Osborne a [[Tony Award]]. ''[[Inadmissible Evidence]]'' was first performed in 1964. In between these plays, Osborne won an [[Academy Awards|Oscar]] for his 1963 screenplay adaptation of ''[[Tom Jones (1963 film)|Tom Jones]]''. ''[[A Patriot for Me]]'' (1965) drawing on the Austrian [[Alfred Redl|Redl]] case, is a tale of turn-of-the-century [[homosexuality]] and espionage which helped to [[Theatres Act 1968|end]] (along with ''[[Saved (play)|Saved]]'' by [[Edward Bond]]) the system of theatrical [[censorship]] under the [[Lord Chamberlain#Theatre censorship|Lord Chamberlain]].
+
+Both ''A Patriot For Me'' and ''The Hotel in Amsterdam'' (1968) won [[Evening Standard Awards|''Evening Standard'' Best Play of the Year awards]]. The latter play features three showbiz couples in a hotel suite, having fled a tyrannical and unpleasant movie producer, referred to as "K.L." John Heilpern<ref>{{harvnb|Heilpern|2006|p=359}}</ref> confirms the rumour that "K.L." was in fact a portrait of [[Tony Richardson]], seen through Osborne's eyes. Laurie, a screenwriter, a role created by [[Paul Scofield]], is a self-portrait: Osborne at mid-career.
+
+== 1970s and later life ==
+John Osborne's plays in the 1970s included ''West of Suez'' which starred [[Ralph Richardson]], ''A Sense of Detachment'', first produced at the Royal Court in 1972, and the disappointing ''Watch It Come Down'', first produced at the [[Royal National Theatre|National Theatre]], starring [[Frank Finlay]].
+
+During that decade Osborne made his best-remembered acting appearance, lending gangster Cyril Kinnear a sense of civil menace in ''[[Get Carter]]'' (1971). Later, he appeared in ''[[Tomorrow Never Comes]]'' (1978), as an actor, and ''[[Flash Gordon (film)|Flash Gordon]]'' (1980).<ref>[https://www.imdb.com/name/nm0651570/ John Osborne at IMDB]</ref>
+
+Throughout the 1980s Osborne played in his real life the role of [[Shropshire]] squire with great pleasure and a heavy dose of irony.<ref>Heilpern p.1</ref> He wrote a diary for ''[[The Spectator]]''.<ref>''Times'' obituary, 27 December 1994</ref> He opened his garden to raise money for the church roof, from which he threatened to withdraw covenant-funding unless the vicar restored the [[Book of Common Prayer]] (he had returned to the [[Church of England]] in about 1974).<ref>{{harvnb|Heilpern|2006|loc=Chapter 45}}</ref>
+
+In his latter years Osborne published two remarkably frank volumes of [[autobiography]], ''[[A Better Class of Person]]'' (Osborne, 1981) and ''Almost a Gentleman'' (Osborne, 1991). ''A Better Class of Person'' was filmed by [[Thames Television]] in 1985, featuring [[Eileen Atkins]] and [[Alan Howard]] as his parents, and Gary Capelin and [[Neil McPherson (artistic director)|Neil McPherson]] as Osborne. It was nominated for the [[Prix Italia]]. At his memorial service in 1995, a playwright of the next generation, [[David Hare (dramatist)|David Hare]], said:
+
+{{quote|It is, if you like, the final irony that John's governing love was for a country which is, to say the least, distrustful of those who seem to be both clever and passionate. There is in English public life an implicit assumption that the head and the heart are in some sort of opposition. If someone is clever, they get labelled cold. If they are emotional, they get labelled stupid. Nothing bewilders the English more than someone who exhibits great feeling and great intelligence. When, as in John's case, a person is abundant in both, the English response is to take in the washing and bolt the back door.}}
+
+His last play was ''[[Déjàvu]]'' (1991), a sequel to ''Look Back in Anger''. Various newspaper and magazine writings appeared in a collection entitled ''Damn You, England'' (1994), while the two volumes of autobiography were reissued as ''Looking Back – Never Explain, Never Apologise'' (1999).
+
+== Critical responses, idols and effect ==
+Osborne was a great fan of [[Max Miller (comedian)|Max Miller]]<ref>{{harvnb|Heilpern|2006|p=136}}</ref> and saw parallels between them. 'I love him (Max Miller), because he embodied a kind of theatre I admire most. 'Mary from the Dairy' was an overture to the danger that (Max) might go too far. Whenever anyone tells me that a scene or a line in a play of mine goes too far in some way then I know my instinct has been functioning as it should. When such people tell you that a particular passage makes the audience uneasy or restless, then they seem (to me) as cautious and absurd as landladies and girls-who-won't.'<ref>{{harvnb|Osborne|1991|pp=39–40}}</ref>
+
+Osborne's work transformed British theatre.<ref>Heilpern p.xv</ref> He helped to make it artistically respected again, throwing off the formal constraints of the former generation, and turning our attention once more to language, theatrical rhetoric, and emotional intensity. He saw theatre as a weapon with which ordinary people could break down the class barriers and that he had a 'beholden duty to kick against the pricks'. He wanted his plays to be a reminder of real pleasures and real pains. David Hare said in his memorial address:
+
+{{quote|John Osborne devoted his life to trying to forge some sort of connection between the acuteness of his mind and the extraordinary power of his heart.<ref>{{harvnb|Heilpern|2006|p=477}}</ref>}}
+
+Osborne did change the world of theatre, influencing playwrights such as [[Edward Albee]] and [[Mike Leigh]]. However, work of his kind of authenticity and originality would remain the exception rather than the rule. This did not surprise Osborne; nobody understood the tackiness of the theatre better than the man who had played [[Hamlet]] on [[Hayling Island]].<ref>{{harvnb|Osborne|1991|p=7}}</ref> He was awarded a [[Lifetime Achievement Award]] from the [[Writer's Guild of Great Britain]].
+
+Osborne joined the [[Campaign for Nuclear Disarmament]] in 1959. Later he drifted to the [[Libertarianism|libertarian]], unorganized right, considering himself "a radical who hates change".
+
+== Personal life ==
+
+=== Relationships ===
+Osborne had many affairs over the course of his life and frequently mistreated his wives and lovers. He was married five times, all marriages except his last being unhappy unions.
+
+His wives and lovers were not always kept apart, either. In his 2006 [[biography]],<ref>{{harvnb|Heilpern|2006|p=267}}</ref> John Heilpern describes at length a holiday in [[Valbonne]],<ref>It was from Valbonne that Osborne wrote the infamous "Damn You, England" letter that was published in ''Tribune'' on 18 August 1961. ({{harvnb|Heilpern|2006|p=239}})</ref> [[France]], in 1961, that Osborne shared with [[Tony Richardson]], a distraught [[George Devine]], and others. Feigning bafflement over the romantic entanglements of the time, Heilpern writes:
+{{quote|Let's see: Osborne is on a besieged holiday with his aggrieved mistress<ref>Costume designer Jocelyn Rickards</ref> while having a passionate affair with his future third wife<ref>Gilliatt</ref> as the founding artistic director of the [[Royal Court Theatre|Royal Court]] has a nervous breakdown and his current wife<ref>Ure</ref> gives birth to a son that isn't his.<ref>Colin, who took the name Osborne but was and is the spitting image of [[Robert Shaw (actor)|Robert Shaw]], with whom Mary Ure was starring at the Royal Court when she became pregnant.</ref>}}
+
+==== Pamela Lane (1951–57)<ref name=PamLanobit /> ====
+In Volume 1 of his [[autobiography]] ''A Better Class of Person'', Osborne describes feeling an immediate and intense attraction towards his first wife. The pair were both members of an acting troupe in [[Bridgwater]].
+{{quote|She had just recently shorn her hair down to a defiant auburn stubble and I was impressed by the hostility she had created by this self-isolating act… her huge green eyes which mock or plead affection, preferably both, at least… She startled and confused me… There was no calculation in my instant obsession.}}
+
+Though Alison Porter in ''[[Look Back in Anger]]'' was based on Pamela, Osborne describes Lane's respectable middle-class parents – her father a successful draper, her mother of a family of minor rural gentry –<ref>{{cite news|author=John Heilpern |url=https://www.theguardian.com/stage/2010/nov/21/pamela-lane-obituary |title=Pamela Lane obituary |work=The Guardian |date=21 November 2010}}</ref> as "much coarser" and how at one point they hired a private detective to follow him after a fellow actor was seen 'fumbling' with his knee in a teashop. Though he admits that it was true at least that the actor in question did have a homosexual crush on him.
+{{quote|I began to feel surrounded and outflanked by hostility.. I had set off a crest of anger that had not been much more than drowsy before my arrival… It was scarcely important. Pamela was the battlement I was determined on.}}
+
+Lane and Osborne married in secret in nearby [[Wells, Somerset|Wells]] and then left Bridgwater the following Sunday amidst an uneasy truce with Lane's parents (Osborne's hated mother was not aware of the union until the couple were divorcing), spending their first night as a married couple together in the [[Cromwell Road]] in [[London]].
+
+{{quote|I was unable to take my eyes off her. I watched her eating, walking, bathing, making-up, dressing, undressing, my curiosity was insatiable. Seeing her clothes lying around the floor (she was hopelessly untidy, in contrast to my own spinsterish habits). There was little doubt in my otherwise apprehensive spirit that I had carried off a unique prize…. Perhaps I interpreted what might have been bland complacency for the complaisance of a generous and loving heart.}}
+
+The two lived a fairly itinerant and reasonably happy married existence at first, living at a number of digs around London and finding work in London at first, then touring, staying in [[Kidderminster]] in Osborne's case. While Lane's acting career flourished in Derby, Osborne's floundered, and she began an affair with a rich dentist. It was an ironic situation as Osborne had been playing a dentist in the company's production of [[George Bernard Shaw|Shaw]]'s ''[[You Never Can Tell (play)|You Never Can Tell]]'' and that it was Osborne who had inadvertently introduced them by succumbing to a toothache he attributed to marital woes.
+
+This was in the summer of 1955 and Osborne spent much of the next two years before their divorce hoping they would reconcile. In 1956, after ''[[Look Back in Anger]]'' had opened, Osborne met her at the railway station in [[York]], at which meeting she told Osborne of her recent abortion and enquired after his relationship with [[Mary Ure]], of which she was aware. In April 1957, Osborne was granted a divorce from Lane, on the grounds of his adultery.<ref>Osborne, pp. 43–44</ref> It later emerged that in the 1980s, Lane and Osborne corresponded frequently and met in secret before he became angered by her request for a loan.<ref>Peter Whitebrook (ed.). 2018. ''Dearest Squirrel: The Intimate Letters of John Osborne and Pamela Lane''.  Oberon, pp.416.</ref>
+
+==== Mary Ure (1957–1963) ====
+Osborne began a relationship with Ure shortly after meeting her when she was cast as Alison in ''[[Look Back in Anger]]'' in 1956. The affair swiftly progressed; and the two moved in together in Woodfall Road, [[Chelsea, London]]. He wrote later:
+
+{{quote| Mary was one of those unguarded souls who can make themselves understood by penguins or the wildest dervishes .. I was not in love. There was fondness and pleasure, but no groping expectations, just a feeling of fleeting heart's ease. For the present we were both content enough.}}
+
+Contentment, in Osborne's case, grew into a jealousy and slight contempt for Ure's stable family background and the banalities of her communication with them and a somewhat withering regard for her acting abilities.
+
+{{quote|I had stopped concealing from myself, if I ever had, that Mary was not much of an actress. She had a rather harsh voice and a tiny range. Her appearance was pleasing but without any personal sweep to it. Like most actors, she was hysterical when unemployed and resentful when appearing every night to full houses. She also entertained the common belief that a writer is only working when he can be seen head down at his desk. Why are you drinking/dreaming/farting/fornicating instead of making typewriter noises?}}
+
+There was infidelity on both sides; and, after an affair with [[Robert Webber]], Ure eventually left Osborne for [[Robert Shaw (actor)|Robert Shaw]].
+
+{{quote|The fact that my coltish liaison with Francine had been pre-empted by Mary's conduct with Webber explained her oddly restrained behaviour in [[New York City|New York]]… Betrayal might end in the bedroom but I found it naive to assume it necessarily began there.}}
+
+Osborne described visiting her after she had left him and having sex with her while she was pregnant with the first of four children she would bear to Shaw. Of their divorce, Osborne wrote of being surprised that she repeatedly refused to return to him treasured postcards drawn for him by his father but is circumspect at her suicide in 1975.
+
+{{quote|Destiny dragged her so pointlessly from a life better contained by the softly lapping waters of the [[River Clyde]].}}
+
+This is in marked contrast to his later revelling in the suicide of fourth wife [[Jill Bennett (British actress)|Jill Bennett]].<ref>Osborne, pp. 255–9</ref>
+
+==== Penelope Gilliatt (1963–68) ====
+Osborne met his third wife, writer [[Penelope Gilliatt]], initially through social connections, and she then interviewed him.
+
+From Osborne's autobiography ''Almost a Gentleman'':
+{{quote|It was not so much chastity that troubled me, but the withdrawal of feminine intimacy. And now, here I was, giving a routine interview to a young, animated woman, seemingly very informed and quick to laugh… I was already engaged in the prospect of mild and easy flirtation. I hadn't marked Penelope down in any appraising way as a future sportive fancy, but I had always been addicted to flirtation as a game worth playing for itself.}}
+One main attraction Penelope held for Osborne was her red hair: "I took red hair to be the mantle of goddesses". Despite her being married and Osborne knowing her husband, Gilliatt set out to seduce Osborne and succeeded in doing so. "Penelope's behaviour and my own during the weeks that followed were probably grotesquely indefensible", he wrote.
+
+Osborne details some of the brazen subterfuges he created in order to commit adultery with Gilliatt before they were married, which included inventing a film festival in [[Folkestone]] so they could go away together.<ref>Osborne, pp. 181–3, for example</ref> Osborne proposed marriage by asking Gilliatt: "Will you marry me? It's risky, but you'd get fucked regularly."
+
+Osborne and Gilliatt were married for five years (together for seven), and became the parents of his only natural daughter, Nolan.<ref>The name was chosen in honour of [[Captain Nolan]], who led the famous [[Charge of the Light Brigade]] in the [[Crimean War]]. At the time of her birth, Osborne was researching that war and writing the screenplay of the film his next wife would star in. (Osborne, p. 240)</ref> Osborne had an abusive relationship with his daughter: he cast her out of his house when she was 17; they never spoke again.<ref>{{harvnb|Heilpern|2006|pp=421–2}}</ref> Osborne and Gilliatt's marriage suffered through what Osborne perceived to be an unnecessary obsession on her part with her work, writing film reviews for ''[[The Observer]]''. "I tried to point out that it seemed an inordinate amount of time and effort to expend on a thousand-word review to be read by a few thousand film addicts and forgotten almost at once." Osborne, a misogynist, wanted Gilliatt to give up her careers as a film critic, theatre critic, short story writer, novelist, opera librettist, screenwriter, and writer of books on movie comedy and film directors, and move with him to a country house where she would tend his needs, including his growing alcoholism. Osborne had put a refrigerator in the couple's bedroom and filled it with champagne to alleviate his night terrors, which Gilliatt helped guide him through. Behind her back, he conducted a long-term affair with Jill Bennett, who passed herself off as Gilliatt's best friend. Kenneth Tynan described Osborne and Bennett's behavior as the most duplicitous that he had ever witnessed. It was only after this betrayal that Gilliatt's drinking increased. She refused to give up her ambitions and careers and Osborne demonized her for it. He remained a misogynist and homophobe until the end of his life.
+
+He also observed in her a growing pretentiousness. "She was to become increasingly obsessed with fripperies and titles … She took to calling herself 'Professor Gilliatt'."<ref>Osborne, p. 240</ref> Strains in the marriage, exacerbated by Gilliatt's [[alcoholism]] and what Osborne felt was malignant behaviour, led to Osborne conducting an affair with [[Jill Bennett (British actress)|Jill Bennett]], soon followed by their marriage. Osborne had numerous affairs behind her back. He could not cope with her decision to not give up her professional life in its entirety to take care of him in obscurity in an old country house. He began hurling criticism of her afterward, in rages of misogyny.  He also hated her friends in the LGBTQ+ community. Gilliatt was also well known as his intellectual superior, which he hated. All comments about Gilliatt made by Osborne are suspect and should be interpreted in the light of his assorted bigotries and alcoholism.
+
+==== Jill Bennett (1968–1977) ====
+Osborne had a turbulent nine-year marriage to the actress [[Jill Bennett (British actress)|Jill Bennett]], whom he came to loathe. Their marriage degenerated into mutual abuse and insult with Bennett goading Osborne, calling him "impotent" and "homosexual" in public as early as 1971.<ref name="Heilpern Guardian">{{cite news |url=https://www.theguardian.com/stage/2006/apr/29/theatre.biography |work=The Guardian |location=London |title=A sense of failure |date=29 April 2006 |access-date=7 May 2010 |author=John Heilpern}}</ref> This was cruelty which Osborne reciprocated, turning his feelings of bitterness and resentment about his waning career onto his wife. Bennett's suicide in 1990 is generally believed to have been a result of Osborne's rejection of her. He said of Bennett, "She was the most evil woman I have come across", and showed open contempt for her suicide.<ref>Heilpern writes ({{harvnb|Heilpern|2006|p=443}}) that the second volume of Osborne's [[autobiography]] was ready to go to press at [[Faber and Faber]]. Bennett's suicide freed Osborne from the restraining order arising from their bitter divorce. He sat down and wrote a new chapter for the book, specifically to excoriate his ex-wife.</ref>
+
+{{quote|She was a woman so demoniacally possessed by avarice that she died of it. How many people have died in such a manner, of avarice? … This final, fumbled gesture, after a lifetime of glad-rags borrowings, theft and plagiarism, must have been one of the few original or spontaneous gestures in her loveless life… During the nine years I lived beneath the same roof with her, she spent half the day in bed. There was a short period when she took dressage lessons, that most intensive course in aids to severe [[narcissism]].}}
+
+{{quote|"[She] had a voice sounding like a puppy with a mouthful of lavatory paper. I did everything I could to scrub up her diction, but it never improved. Indeed after we separated and she was consigned to lesser parts it became even worse. During a television series… even by the pier-end standards of sit-com, she was quite incomprehensive and cried out for sub-titles.}}
+
+{{quote|Adolf [Osborne's nickname for her] has left half a million to [[Battersea Dogs' Home]]. She never bought a bar of soap in all the time she lived with me. Always, she cried poverty… It is the most perfect act of misanthropy, judged with the tawdry, kindless theatricality she strove to achieve in life. She had no love in her heart for people and only a little more for dogs. Her brand of malignity, unlike [[Penelope Gilliatt|Penelope]]'s went beyond even the banality of ambition…. Her frigidity was almost total. She loathed men and pretended to love women, whom she hated even more. She was at ease only in the company of homosexuals, who she also despised but whose narcissism matched her own. I never heard her say an admiring thing of anyone… Everything about her life had been a pernicious confection, a sham.}}
+
+He concluded by stating that his only regret is that he could not "look down upon her open coffin and, like that bird in the Book of Tobit, drop a good, large mess in her eye."<ref>Osborne 1991, p. 259</ref>
+
+==== Helen Dawson (1978–1994) ====
+[[Helen Osborne|Helen Dawson]] (1939–2004) was a former arts journalist and critic for ''[[The Observer]]''. This final marriage of Osborne's, which lasted until his death, seems to have been Osborne's first happy union. Until her death in 2004, Dawson worked tirelessly to preserve and promote Osborne's legacy.<ref name="helen">{{cite news| url=https://www.independent.co.uk/news/obituaries/helen-osborne-549298.html | archive-url=https://web.archive.org/web/20101210051802/http://www.independent.co.uk/news/obituaries/helen-osborne-549298.html | url-status=dead | archive-date=10 December 2010 | work=The Independent | location=London | title=Helen Osborne | date=19 January 2004 | access-date=7 May 2010}}</ref>
+
+Osborne died deeply in debt; his final word to Dawson was: "Sorry".<ref>{{cite news| url=https://www.theguardian.com/books/2006/may/20/featuresreviews.guardianreview7 | work=The Guardian | location=London | title=Stage-boor Johnny | first=Blake | last=Morrison | date=20 May 2006 | access-date=7 May 2010}}</ref> After her death in 2004, Dawson was buried next to Osborne.
+
+=== Vegetarianism ===
+[[File:JohnOsborne.jpg|thumb|right|Graves of Osborne and his fifth wife in [[Clun]] churchyard]]
+
+Around the time of ''Look Back in Anger'', Osborne was a [[vegetarian]], something which was considered unusual at the time. In ''Almost a Gentleman'' he gives some insight into this lifestyle choice:
+
+{{quote|My own vegetarianism had been prompted by self-interest. I wanted to confound my pitted complexion, implacable daily headaches, throbbing glands, dish-cloth hair and dandruff. That my appearance had marginally improved (though not the headaches) was no doubt due a little to less toxic input… Meat could be equated with inner squalor. Vegetarianism might banish that, too.<ref>Osborne, p. 2</ref>}}
+
+== Death ==
+After a serious liver crisis in 1987, Osborne became [[Diabetes mellitus|diabetic]], injecting insulin twice a day. He died in 1994 from complications from his diabetes at the age of 65 at his home in [[Clunton]], near [[Craven Arms]], [[Shropshire]].<ref>{{harvnb|Heilpern|2006|pp=470–479}}</ref>
+He is buried in St George's churchyard, [[Clun]], Shropshire.  His last wife, Helen Dawson, who died in 2004, is buried next to him.
+
+== Archive ==
+Osborne began placing his papers at the [[Harry Ransom Center]] at the [[University of Texas in Austin]] in the 1960s, with additions made throughout his life and by relatives in the years after his death. The primary archive is over 50 boxes and includes typescripts and manuscripts for all of his works, correspondence, newspaper and magazine articles, scrapbooks, posters, programmes, and business documents.<ref>{{cite web|url=http://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00168|title=John Osborne: A Preliminary Inventory of His Papers at the Harry Ransom Humanities Research Center|website=norman.hrc.utexas.edu|access-date=2017-12-12}}</ref>
+
+In 2008, the Ransom Center purchased an additional archive of over 30 boxes that had been held by Helen Dawson Osborne. While largely focusing on the latter years of Osborne's life, the collection also includes a series of notebooks that he had kept separately from his original archive.<ref>{{cite web|url=http://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00604|title=John Osborne and Helen Dawson Osborne: A Preliminary Inventory of Their Papers at the Harry Ransom Center|website=norman.hrc.utexas.edu|access-date=2017-12-12}}</ref>
+
+== Works ==
+{| class="wikitable sortable"
+|-
+! Title !! Type !! Year
+! class="unsortable"|Notes
+|-
+| ''The Devil Inside Him'' || Theatre || 1950 || with [[Stella Linden]]
+|-
+| ''The Great Bear'' || Theatre || 1951 || blank verse, never produced
+|-
+| ''[[Personal Enemy]]'' || Theatre || 1955 ||with [[Anthony Creighton]]
+|-
+| ''[[Look Back in Anger]]'' || Theatre || 1956 ||
+|-
+| ''[[The Entertainer (play)|The Entertainer]]'' || Theatre || 1957 ||
+|-
+| ''[[Epitaph for George Dillon]]'' || Theatre || 1958<ref>Written before LBIA but not staged at the Royal Court Theatre until 2 years later.</ref> || with [[Anthony Creighton]]
+|-
+| ''[[The World Of Paul Slickey]]'' || Theatre || 1959 ||<ref>This musical, performed at the Palace Theatre, was an adaptation of Osborne's own never-produced play, provisionally titled ''An Artificial Comedy'' or ''Love in a Myth'', written in 1955 while he was waiting for ''Look Back in Anger'' to be staged. It was a critical and commercial disaster</ref>
+|-
+| ''A Subject of Scandal and Concern'' || TV || 1960 ||
+|-
+| ''[[Luther (play)|Luther]]'' || Theatre || 1961 ||
+|-
+| ''[[The Blood of the Bambergs]]'' || Theatre || 1962 ||
+|-
+| ''[[Under Plain Cover]]'' || Theatre || 1962 ||
+|-
+| ''[[Tom Jones (1963 film)|Tom Jones]]'' || Screenplay || 1963 ||
+|-
+| ''[[Inadmissible Evidence]]'' || Theatre || 1964 ||
+|-
+| ''[[A Patriot for Me]]'' || Theatre || 1965 ||
+|-
+| ''A Bond Honoured'' || Theatre || 1966 || One-act adaptation of Lope de Vega's ''La fianza satisfecha''
+|-
+| ''The Hotel in Amsterdam'' || Theatre || 1968 ||
+|-
+| ''Time Present'' || Theatre || 1968 ||
+|-
+| ''[[The Charge of the Light Brigade (1968 film)|The Charge of the Light Brigade]]'' || Screenplay<ref>Uncredited, due to a script war with director Tony Richardson.</ref> || 1968 ||
+|-
+| ''The Parachute'' || TV || 1968 ||
+|-
+| ''[[Play for Today#The Right Prospectus|The Right Prospectus]]'' || TV || 1970 ||
+|-
+| ''West of Suez'' || Theatre || 1971 ||
+|-
+| ''A Sense of Detachment'' || Theatre || 1972 ||
+|-
+| ''The Gift of Friendship'' || TV || 1972 ||
+|-
+| ''[[Hedda Gabler]]'' || Theatre || 1972 || Ibsen adaptation
+|-
+| ''A Place Calling Itself Rome'' ||Theatre || 1973) || [[Coriolanus (play)|Coriolanus]] adaptation, unproduced
+|-
+| ''Ms, Or Jill And Jack'' || TV || 1974 ||
+|-
+| ''The End of Me Old Cigar'' || Theatre || 1975 ||
+|-
+| ''[[The Picture Of Dorian Gray]]'' || Theatre || 1975 || Wilde adaptation
+|-
+| ''Almost A Vision'' || TV || 1976 ||
+|-
+| ''Watch It Come Down'' || Theatre || 1976 ||
+|-
+| ''Try A Little Tenderness'' || Theatre || 1978 || unproduced
+|-
+| ''Very Like A Whale'' || TV || 1980 ||
+|-
+| ''You're Not Watching Me, Mummy'' || TV || 1980 ||
+|-
+| ''A Better Class of Person'' || Book || 1981 || autobiography volume I
+|-
+| ''[[A Better Class of Person]]<ref>This was a TV adaptation of the first volume of Osborne's autobiography</ref>'' || TV || 1985 ||
+|-
+| ''[[God Rot Tunbridge Wells!]]'' || TV || 1985 ||
+|-
+| ''[[The Father (Strindberg)|The Father]]'' || Theatre || 1989 || Strindberg adaptation
+|-
+| ''Almost a Gentleman'' || Book || 1991 || autobiography volume II
+|-
+| ''[[Déjàvu]]'' || Theatre || 1992 ||
+|}
+
+=== Filmography ===
+{| class="wikitable sortable"
+|-
+! Title !! Year !! Role !! Notes
+|-
+| ''[[First Love (1970 film)|First Love]]'' || 1970 || Maidanov ||
+|-
+| ''[[The Chairman's Wife]]'' || 1971 || Bernard Howe ||
+|-
+|''[[Get Carter]]'' || 1971 || Cyril Kinnear ||
+|-
+|''[[Tomorrow Never Comes (film)|Tomorrow Never Comes]]'' || 1978|| Lyne ||
+|-
+|''[[Flash Gordon (film)|Flash Gordon]]'' || 1980 || Arborian Priest ||
+|}
+
+== Notes ==
+{{Reflist|30em}}
+
+== References ==
+{{refbegin}}
+* {{cite book |last=Heilpern |first=John |author-link=John Heilpern |title=John Osborne: A Patriot for Us |url=https://archive.org/details/johnosbornepatri0000heil |url-access=registration |publisher=[[Chatto & Windus]] |year=2006 |isbn=978-0-7011-6780-6 }}
+* {{cite book |last=Osborne |first=John |title=A Better Class of Person: An Autobiography, 1929–56 |publisher=Penguin Books Ltd |year=1982 |isbn=978-0-14-006288-5 |edition=paperback }}
+* {{cite book |last=Osborne |first=John |title=Almost a Gentleman: An Autobiography, 1955–66 |publisher=[[Faber and Faber]] |year=1991 |isbn=0-571-16635-0 |url-access=registration |url=https://archive.org/details/almostgentlemana0000osbo |edition=paperback }}
+* {{cite book |last1=Little |first1=Ruth |last2=McLaughlin |first2=Emily |title=The Royal Court Theatre Inside Out |publisher=Oberon Books |year=2007 |isbn=978-1-84002-763-1 }}
+* [http://www.doollee.com/PlaywrightsO/osborne-john.html Doollee.com] {{Webarchive|url=https://web.archive.org/web/20130806062511/http://doollee.com/PlaywrightsO/osborne-john.html |date=6 August 2013 }}
+{{refend}}
+
+== External links ==
+*[https://www.parliament.uk/about/living-heritage/transformingsociety/private-lives/relationships/collections1/parliament-and-the-1960s/joint-committee-theatre-censorship/ Parliament & the 1960s - 1966 Theatre Censorship Committee - UK Parliament Living Heritage]
+* [http://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00168 John Osborne Papers] at the [[Harry Ransom Center]]
+* [http://norman.hrc.utexas.edu/fasearch/findingAid.cfm?eadid=00604 John Osborne and Helen Dawson Osborne Collection] at the [[Harry Ransom Center]]
+* [https://library.leeds.ac.uk/special-collections-explore/230479 Select Papers of the English Stage Company] at the [[University of Leeds]]
+* {{Wikiquote-inline|John Osborne}}
+* {{Screenonline name|id=452881|name=John Osborne}}
+* [https://web.archive.org/web/20110628182920/http://www.bl.uk/eblj/2010articles/article2.html/ 'A Poor Jonah': John Osborne's Roads to Freedom] describing the discovery of John Osborne's pre-''Look Back in Anger'' plays at the [http://www.bl.uk/ British Library]
+* {{NPG name}}
+
+{{John Osborne}}
+{{Navboxes
+| title = Awards for John Osborne
+| list =
+{{AcademyAwardBestAdaptedScreenplay 1961–1980}}
+{{BAFTA Award for Best British Screenplay}}
+}}
+{{Angry young men}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Osborne, John}}
+[[Category:1929 births]]
+[[Category:1994 deaths]]
+[[Category:20th-century English dramatists and playwrights]]
+[[Category:20th-century English male writers]]
+[[Category:English male dramatists and playwrights]]
+[[Category:English people of Welsh descent]]
+[[Category:Best British Screenplay BAFTA Award winners]]
+[[Category:Best Adapted Screenplay Academy Award winners]]
+[[Category:Deaths from diabetes]]
+[[Category:English Anglicans]]
+[[Category:Male screenwriters]]
+[[Category:People from Epsom and Ewell (district)]]
+[[Category:People from Fulham]]
+[[Category:20th-century screenwriters]]
+[[Category:People from Chiswick]]

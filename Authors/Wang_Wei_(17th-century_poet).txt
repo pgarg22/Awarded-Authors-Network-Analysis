@@ -1,0 +1,105 @@
+{{short description|Chinese poet}}
+{{Use dmy dates|date=October 2019}}
+{{family name hatnote|[[Wang (surname)|Wang]]|lang=Chinese}}
+{{Infobox writer
+| name = Wang Wei
+| native_name = 王微
+| native_name_lang = Chinese
+| image = 
+| caption = 
+| pseudonym = Caoyi daoren 草衣道人 ([[Taoist]] in the straw coat)
+| birth_name = 
+| birth_date = 1597
+| birth_place = [[Yangzhou]], [[Ming dynasty|Ming China]]
+| death_date = {{Death year and age |1647 |1597}}
+| death_place = [[Qing dynasty|Qing China]]
+| occupation =  [[Courtesan]], Poet
+| language = Chinese
+| spouse = Xu Yuqing
+}}
+'''Wang Wei''' ({{zh|c=王微}}; 1597–1647), also known by her [[courtesy name]] '''Xiuwei''' ({{zh|c=修微}}),{{sfnp|Xu|1909}}{{sfnp|Lowry|2005|p=318}} was a Chinese [[courtesan]], poet, and traveller during the late-[[Ming dynasty]].{{sfnp|Lee|Wiles|2014|p=427}}
+
+==Biography==
+Nothing is known of her family background. At age seven, when Wang's father died, she was orphaned.{{sfnp|Lee|Wiles|2014|p=427}} She was taken in by somebody in the [[brothel]] district of [[Yangzhou]] and trained to be a courtesan. The training included literacy and artistic skills.{{sfnp|Lee|Wiles|2014|p=427}} During this time she developed a friendship with another courtesan, Yan Wang, the two calling themselves "sworn sisters".{{sfnp|Lee|Wiles|2014|p=427}} Wang referred to herself as the "Straw-coated Daoist".{{sfnp|Chang|Saussy|Kwong|1999|p=333}} As a courtesan she travelled by [[skiff]] between [[Suzhou]] and Kuaiji (now [[Shaoxing]]). The boat carried many books and she was often accompanied by well known literary figures of the day,{{sfnp|Lee|Wiles|2014|p=428}} including [[Zhong Xing]] and [[Tan Yuanchun]], founders of the Jingling school of poetry.{{sfnp|Chang|Saussy|Kwong|1999|p=320}} She also travelled to [[West Lake]] in Wulin (now [[Hangzhou]]),{{sfnp|Lei|1916|p=13a}} a hotspot for literati at the time, and as far as [[Hunan]].{{sfnp|Berg|2006|p=282}}
+
+Wishing to change her life, she turned to Buddhism and started to travel, dressed in a simple cotton robe. During her travels she climbed to the peaks of [[Dabie Mountains|mount Dabie]], Mount Xuan, [[Mount Tianzhu]], Mount Kuang and [[Mount Lu]]. After travelling she settled in Wulin. She intended to spend the rest of her life there and prepared a tomb for her eventual death.{{sfnp|Lee|Wiles|2014|p=428}} As the [[Ming dynasty]] began to crumble, the time became chaotic and Wang was raped in the early 1640s, after which she turned away from Buddhism.{{sfnp|Lee|Wiles|2014|p=428}}
+
+Wang married a [[Censorate]] official, {{ill|Xu Yuqing|zh|許譽卿}}. Xu was a man of integrity, and was later dismissed from his post after disagreements with the [[Chongzhen Emperor]]. The couple were uprooted after Ming fell in 1644, and moved around the south. Although the couple vowed to live and die together, when Wang died of an illness in 1647, Xu lived on to mourn her.{{sfnp|Lee|Wiles|2014|pp=428–9}}
+
+==Writing==
+Wang was a writer and anthologist of [[Travel literature|travelogues]].<ref>Xu (1909), "王微常經船載書往來五湖問自傷".</ref> Tina Lu has argued that nature was only the secondary topic of her work, with the primary focus being a, 'landscape of nostalgia,' that Wang used to express her identity as a traveller.{{sfnp|Lu|2011|p=97}} She wrote several hundred travelogues.{{sfnp|Lee|Wiles|2014|p=429}} These may have been part of a commercial venture catering to the late Ming travel boom.{{sfnp|Berg|2006|p=282}} One of her works, ''Ming shan ji'' (Records of the Famous Mountains), ran to several hundred chapters.{{sfnp|Chang|Saussy|Kwong|1999|p=320}}
+
+Her poetry appears in the anthology of late Ming-early Qing female poets [[:zh:眾香詞|''Zhong Xiang Ci'']].{{sfnp|Xu|1909}}
+
+Wang's [[Shi (poetry)|shi poems]] were described by [[Qing dynasty]] commentators as comparable to those of [[Li Qingzhao]] and [[Zhu Shuzhen]] in their beauty and serenity.{{sfnp|Zhong (1621–1644)|p=36.1a}}{{sfnp|Xu|1909}}
+
+==References==
+===Notes===
+{{reflist}}
+
+===Works cited===
+* {{cite book |last1=Berg |first1=Daria |title=Reading China: Fiction, History and the Dynamics of Discourse. Essays in Honour of Professor Glen Dudbridge |date=2006 |publisher=BRILL |isbn=9789047411468 |url=https://books.google.com/books?id=2tCvCQAAQBAJ&q=Wang+Wei+%28courtesan%29&pg=PA282 |language=en}}
+* {{cite book |last1=Chang |first1=Kang-i Sun |last2=Saussy |first2=Haun |last3=Kwong |first3=Charles Yim-tze |title=Women Writers of Traditional China: An Anthology of Poetry and Criticism |date=1999 |publisher=Stanford University Press |isbn=9780804732314 |url=https://books.google.com/books?id=xRNnU-SpDyYC&q=Wang+Wei+%28courtesan%29&pg=PA320 |language=en}}
+* {{cite book |last1=Lee |first1=Lily Xiao Hong |last2=Wiles |first2=Sue |title=Biographical Dictionary of Chinese Women: Tang Through Ming, 618–1644 |date=2014 |publisher=M.E. Sharpe |isbn=9780765643162 |url=https://books.google.com/books?id=Cw0pAwAAQBAJ&q=Wang+Wei+%28courtesan%29&pg=PA427 |language=en}}
+*{{cite book
+| chapter=王微 | trans-chapter=Wang Wei
+| language=Chinese
+| title=青樓詩話﹕二卷(雷瑨輯) | trans-title=Poetry from the pleasure quarters: 2 volumes (edited by Lei Jin)
+| editor1=Lei Jin 雷瑾
+| publisher=Saoyeshan fang yinben 掃葉山房石印本
+| date=1916
+| chapter-url=http://digital.library.mcgill.ca/mingqing/search/details-poem.php?poemID=25116&language=eng
+| ref={{harvid|Lei|1916}}
+}}
+* {{cite book |last1=Lowry |first1=Kathryn A. |title=The Tapestry of Popular Songs in 16th- and 17th Century China: Reading, Imitation, And Desire |date=2005 |publisher=BRILL |isbn=9789004145863 |url=https://books.google.com/books?id=yGJK10ZPl2oC&q=Wang+Wei+%28courtesan%29&pg=PA318 |language=en}}
+*{{cite book
+| chapter=The literary culture of the late Ming (1573–1644)
+| last1=Lu | first1=Tina
+| pages=63–151
+| title=[[The Cambridge History of Chinese Literature]] | volume=Volume 2: From 1375
+| editor1=Kang-i Sun Chang | editor-link=Kang-i Sun Chang|editor2=Stephen Owen|editor2-link=Stephen Owen (sinologist)
+| location=Cambridge | publisher=[[Cambridge University Press]]
+| date=2011
+| doi=10.1017/CHOL9780521855594
+| isbn=9781139095426
+}}
+*{{cite book
+| chapter=王微 | trans-chapter=Wang Wei
+| pages=6.12a
+| language=Chinese
+| title=閨秀詞鈔﹕十六卷(清徐乃昌輯) | trans-title=Lyrics of well-bred young ladies: 16 volumes (edited by Xu Naichang in the Qing Dynasty)
+| editor1=Xu Naichang 徐乃昌
+| publisher=Xiao tanle shi keben 小檀欒室刻本
+| date=1909
+| chapter-url=http://digital.library.mcgill.ca/mingqing/search/details-poem.php?poemID=10692&language=eng
+| ref={{harvid|Xu|1909}}
+}}
+*{{cite book
+| chapter=王微 | trans-chapter=Wang Wei
+| language=Chinese
+| title=名媛詩歸﹕三十六卷(鍾惺點次) | trans-title=Collection of poems by ladies of note: 36 volumes (compiled by Zhong Xing)
+| editor1=Zhong Xing 鍾惺
+| date=1621–1644
+| chapter-url=http://digital.library.mcgill.ca/mingqing/search/details-poem.php?poemID=34273&language=eng
+| ref={{harvid|Zhong (1621–1644)}}
+}}
+
+==External links==
+*[http://digital.library.mcgill.ca/mingqing/search/details-poet.php?poetID=1000&showworks=&showanth=&showshihuaon=&showpoems=&language=eng Wang Wei in the ''Ming Qing Women's Writings'' Database]
+*[http://ftm.shicimingju.com/chaxun/zuozhe/48.html Collection of Wang Wei's poems online]
+
+{{Prostitution in China}}
+{{authority control}}
+
+{{DEFAULTSORT:Wang, Wei}}
+
+[[Category:1597 births]]
+[[Category:1647 deaths]]
+[[Category:17th-century Chinese women writers]]
+[[Category:17th-century Chinese writers]]
+[[Category:Ming dynasty courtesans]]
+[[Category:Chinese travel writers]]
+[[Category:Chinese women poets]]
+[[Category:Ming dynasty poets]]
+[[Category:Poets from Jiangsu]]
+[[Category:Writers from Yangzhou]]

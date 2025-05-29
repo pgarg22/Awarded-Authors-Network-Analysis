@@ -1,0 +1,332 @@
+{{Short description|American writer}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = James Ellroy
+| image        = James Ellroy in Toulouse 9023 - January 2011.jpg
+| caption      = Ellroy in 2011
+| birth_name   = Lee Earle Ellroy
+| birth_date   = {{birth date and age|1948|3|4}}
+| birth_place  = [[Los Angeles]], [[California]], U.S.
+| nationality  = American
+| occupation   = [[Crime writer]], [[essayist]]
+| genre        = [[Crime fiction]], [[historical fiction]], [[mystery fiction]], [[noir fiction]]
+| years_active = 1981–present
+| notableworks = [[Lloyd Hopkins Trilogy]]<br />[[L.A. Quartet]]<br />[[Underworld USA Trilogy]]
+| website      = {{URL|http://jamesellroy.net}}
+}}
+
+'''Lee Earle "James" Ellroy''' (born March 4, 1948) is an American [[crime fiction|crime fiction writer]] and [[essayist]]. Ellroy has become known for a telegrammatic [[prose style]] in his most recent work, wherein he frequently omits connecting words and uses only short, [[staccato]] sentences,<ref name = "Miller">{{Cite news
+  | last = Miller
+  | first = Laura
+  |author-link=Laura Miller (writer)
+  | title = Beyond the Grassy Knoll
+  | newspaper = New York Times
+  | date = May 20, 2001
+  | url = https://www.nytimes.com/books/01/05/20/reviews/010520.20millert.html
+  }}</ref> and in particular for the novels ''[[The Black Dahlia (novel)|The Black Dahlia]]'' (1987), ''[[The Big Nowhere]]'' (1988), ''[[L.A. Confidential]]'' (1990), ''[[White Jazz]]'' (1992), ''[[American Tabloid]]'' (1995), ''[[The Cold Six Thousand]]'' (2001), and ''[[Blood's a Rover]]'' (2009).
+
+==Life and career==
+Ellroy was born in [[Los Angeles, California]]. His mother, Geneva Odelia (née Hilliker), was a nurse. His father, Armand, was an accountant and a onetime business manager of [[Rita Hayworth]].<ref>{{cite web
+|url=http://www.filmreference.com/film/55/James-Ellroy.html
+ |title=James Ellroy Biography (1948-)
+ |publisher=Filmreference.com
+ |access-date=February 25, 2010}}</ref> After his parents' divorce, Ellroy and his mother moved to [[El Monte, California]].<ref name="Murder by the Book">{{cite episode|title=James Ellroy|series=Murder by the Book|airdate=November 13, 2006|season=1|number=1}}</ref> On June 22, 1958, when Ellroy was ten years old, his mother was raped and murdered.<ref>{{cite web|title = My Mother and the Dahlia {{!}} VQR Online|url = http://www.vqronline.org/essay/my-mother-and-dahlia|website = www.vqronline.org|access-date =October 31, 2015}}</ref> Ellroy later described his mother as "sharp-tongued [and] bad-tempered",<ref name="Dark"/> unable to keep a steady job, alcoholic and sexually promiscuous. His first reaction upon hearing of her death was relief: he could now live with his father, whom he preferred.<ref>{{cite web |last1=Blott |first1=Chris |title=Shooting at shadows |url=https://archive.list.co.uk/the-list/1995-02-24/11/ |publisher=The List |access-date=3 July 2019 |date=24 February 1995}}</ref> The police never found the perpetrator, and the case remains unsolved. The murder, along with reading ''The Badge'' by [[Jack Webb]] (a book comprising sensational cases from the files of the [[Los Angeles Police Department]], a birthday gift from his father), were important events of Ellroy's youth.<ref name="Murder by the Book" /><ref name="Dark">{{cite book|last=Ellroy|first=James|title=[[My Dark Places (book)|My Dark Places]]|publisher=Knopf|year=1996|location=New York|isbn=0-679-44185-9}}</ref>
+
+Ellroy's inability to come to terms with the emotions surrounding his mother's murder led him to [[transference|transfer]] them onto another murder victim, [[Elizabeth Short]]. Nicknamed the "Black Dahlia," Short was a young woman murdered in 1947, her body cut in half and discarded in Los Angeles, in a notorious and unsolved crime. Throughout his youth, Ellroy used Short as a surrogate for his conflicting emotions and desires.<ref name="Murder by the Book" /><ref>{{cite web|url=http://www.vqronline.org/articles/2006/summer/ellroy-mother-dahlia/|date= Summer 2006|access-date=May 7, 2007|last=Ellroy|first=James|title=My Mother and the Dahlia|work=[[The Virginia Quarterly Review]]}}</ref> His confusion and trauma led to a period of intense [[clinical depression]], from which he recovered only gradually.<ref name="Murder by the Book" /><ref name="Dark"/>
+
+Ellroy dropped out of school and joined the [[United States Army|US Army]] for a short while. During his teens and 20s, he drank heavily and abused [[Propylhexedrine#Recreational use|Benzedrex inhalers]].<ref name="Desert Island Discs">''Desert Island Discs'' Interview, BBC Radio 4, January 17, 2010</ref> He was engaged in minor crimes<ref name="auto4">{{cite web|url=http://thehollywoodinterview.blogspot.com/2008/02/james-ellroy-hollywood-interview.html |archive-url=https://web.archive.org/web/20170202105932/http://thehollywoodinterview.blogspot.com/2008/02/james-ellroy-hollywood-interview.html |title=Great Conversations: James Ellroy |first1=Alex |last1=Simon |archive-date= February 2, 2017 |date=April 2001 |work=thehollywoodinterview.blogspot.com |access-date=February 2, 2017 |url-status=dead }}</ref> (especially shoplifting, house-breaking, and burglary) and was often homeless. After serving some time in jail and suffering from [[pneumonia]], during which he developed an [[lung abscess|abscess on his lung]] "the size of a large man's fist," Ellroy stopped drinking and began working as a [[golf]] [[caddie]] while pursuing writing.<ref name="Dark"/><ref name="Desert Island Discs"/> He later said, "Caddying was good tax-free cash and allowed me to get home by 2 p.m. and write books.... I caddied right up to the sale of my fifth book."<ref name="Marling">{{cite web|last=Marling|first=William|title=James Ellroy|work=Hard-Boiled Fiction|publisher=Case Western Reserve University|date=June 2007|url=http://www.detnovel.com/Ellroy.html|access-date=March 13, 2009|archive-url=https://web.archive.org/web/20080615210902/http://www.detnovel.com/Ellroy.html|archive-date=2008-06-15|url-status=dead}}</ref>
+
+After a second marriage in the mid-1990s to Helen Knode (author of the 2003 novel ''The Ticket Out''),<ref>{{cite book
+  | last = Knode
+  | first = Helen
+  | title = The Ticket Out
+  | url = https://archive.org/details/ticketout00knod
+  | url-access = registration
+  | publisher = Harcourt
+  | year = 2003
+  | location = New York
+  | isbn = 9780156029056
+ }}</ref> the couple moved from California to [[Kansas City, Missouri|Kansas City]] in 1995.<ref name = "Feast">{{cite video
+  | people = Vikram Jayanti (Director)
+  | title = James Ellroy's Feast of Death
+  | medium = Film
+  | publisher = Showtime / BBC Arena
+  |date = 2001}}</ref> In 2006, after their divorce, Ellroy returned to Los Angeles.<ref name = "Right Place">{{cite news
+  | last = Ellroy
+  | first = James
+  | title = The Great Right Place: James Ellroy Comes Home
+  | publisher = [[L.A. Times]]
+  | date = July 30, 2006
+  | url = http://articles.latimes.com/2006/jul/30/magazine/tm-ellroy31
+  | access-date = March 13, 2009}}</ref> He is a self-described recluse who possesses very few technological amenities, including television, and claims never to read contemporary books by other authors, aside from [[Joseph Wambaugh]]'s ''[[The Onion Field]]'', out of concern that they might influence his own.<ref>{{cite news| url=https://www.nytimes.com/2006/11/05/magazine/05wwln_q4.html | work=The New York Times | title=The Mother Load | first=Deborah | last=Solomon | date=November 5, 2006 | access-date=April 2, 2010}}</ref> However, this does not mean that Ellroy does not read at all, as he claims in ''[[My Dark Places (book)|My Dark Places]]'' to have read at least two books a week growing up, eventually shoplifting more to satisfy his love of reading. He then goes on to say that he read works by [[Dashiell Hammett]] and [[Raymond Chandler]].<ref name="auto1">{{Cite news|title = James Ellroy, The Art of Fiction No. 201|url = http://www.theparisreview.org/interviews/5948/the-art-of-fiction-no-201-james-ellroy|newspaper = [[Paris Review]]|date =January 1, 2009|access-date =October 31, 2015|issn = 0031-2037|issue = 190|first = Nathaniel|last = Rich}}</ref><ref name="auto2">{{cite web|url=https://www.theguardian.com/books/2007/sep/29/crime.fiction|title=The poet of collision (on Dashiell Hammett)|first=James|last=Ellroy|date= September 29, 2007|access-date= February 2, 2017|work=[[The Guardian]]}}</ref>
+
+===Literary career===
+In 1981, Ellroy published his first novel, ''[[Brown's Requiem (novel)|Brown's Requiem]]'', a detective story drawing on his experiences as a caddie.<ref>{{cite book
+  | last = Ellroy
+  | first = James
+  | title = Brown's Requiem
+  | publisher = Avon Books
+  | year = 1981
+  | location = New York
+  | isbn = 0-380-78741-5}}</ref> He then published ''Clandestine'' and ''Silent Terror'' (which was later published under the title ''Killer on the Road''). Ellroy followed these three novels with the [[Lloyd Hopkins Trilogy]]. The novels are centered on Hopkins, a brilliant but disturbed LAPD robbery-homicide detective, and are set mainly in the 1980s.
+
+==Writing style==
+Hallmarks of his work include dense plotting and a relentlessly [[pessimistic]]—albeit [[Morality|moral]]—worldview.<ref name="Salon">{{Cite news
+ |last         = Barra
+ |first        = Allen
+ |title        = ''The Cold Six Thousand'' by James Ellroy
+ |newspaper    = [[Salon (website)|Salon]]
+ |date         = June 13, 2001
+ |url          = http://archive.salon.com/books/review/2001/06/13/ellroy/index.html
+ |access-date  = February 20, 2009
+ |archive-url  = https://web.archive.org/web/20081205100054/http://archive.salon.com/books/review/2001/06/13/ellroy/index.html
+ |archive-date = December 5, 2008
+ |url-status     = dead
+ |df           = mdy-all
+}}</ref><ref name = "Onion">{{Cite news
+  | last = Phillips
+  | first = Keith
+  | title = James Ellroy
+  | newspaper = Onion A/V Club
+  | date = December 1, 2004
+  | url = http://www.avclub.com/articles/james-ellroy,13905/
+  }}</ref> His work has earned Ellroy the nickname "Demon dog of American crime fiction."<ref>{{cite video
+  | people = Reinhard Jud (director)
+  | title = James Ellroy: Demon Dog of American Crime Fiction
+  | url = https://www.imdb.com/title/tt0107250/
+  | medium = Film
+  | publisher = Fischer Film
+  |date = 1993}}</ref>
+
+Ellroy writes longhand on legal pads rather than on a computer.<ref>{{cite news
+  | last = Brantingham
+  | first = Barney
+  | title = Barney Chats with James Ellroy
+  | publisher = [[Santa Barbara Independent]]
+  | date = October 1, 2008
+  | url = http://www.independent.com/news/2008/oct/01/barney-chats-james-ellroy
+  | access-date = March 13, 2009}}</ref> He prepares elaborate outlines for his books, most of which are several hundred pages long.<ref name="Onion"/>
+
+Dialogue and narration in Ellroy novels often consists of a "heightened pastiche of [[jazz slang]], cop patois, creative profanity and drug vernacular" with a particular use of period-appropriate [[slang]].<ref name = "Timberg">{{cite news
+  | last = Timberg
+  | first = Scott
+  | title = The Ellroy Enigma
+  | publisher = [[L.A. Times]]
+  | date = April 6, 2008
+  | url = http://articles.latimes.com/2008/apr/06/entertainment/ca-ellroy6
+  | access-date = December 12, 2012}}</ref> He often employs a sort of telegraphese (stripped-down, staccato-like sentence structures), a style that reaches its apex in ''[[The Cold Six Thousand]]''. Ellroy describes it as a "direct, shorter-rather-than-longer sentence style that's declarative and ugly and right there, punching you in the nards."<ref name="Onion"/> This signature style is not the result of a conscious experimentation but of chance and came about when he was asked by his editor to shorten his novel ''[[L.A. Confidential]]'' by more than one hundred pages. Rather than removing any subplots, Ellroy abbreviated the novel by cutting every unnecessary word from every sentence, creating a unique style of prose.<ref name="auto1"/>  While each sentence on its own is simple, the cumulative effect is a dense, [[baroque]] style.<ref name = "Timberg"/>
+
+===The L.A. Quartet===
+[[File:JamesEllroy.jpg|thumb|Ellroy at the [[LA Times Festival of Books]], April 2009]]
+
+{{main|L.A. Quartet}}
+
+While his early novels earned him a cult following and notice among crime fiction buffs, Ellroy earned much greater success and critical acclaim with the [[L.A. Quartet]]''—[[The Black Dahlia (novel)|The Black Dahlia]]'', ''[[The Big Nowhere]]'', ''[[L.A. Confidential]]'', and ''[[White Jazz]]''.<ref name = "Onion" /> The four novels represent Ellroy's change of style from the tradition of classic modernist [[noir fiction]] of his earlier novels to what has been classified as [[postmodern]] [[historiographic metafiction]].<ref>{{cite book
+  | last = Tibbetts
+  | first = John C.
+  | author-link = John C. Tibbetts
+  | author2 = James M. Walsh
+  | title = Novels into Film: The Encyclopedia of Movies Adapted from Books
+  | publisher = Checkmark Books
+  | date = September 1999
+  | isbn = 0-8160-3961-5
+  | url = https://archive.org/details/novelsintofilmen00tibb
+  }}</ref> ''The Black Dahlia'', for example, fused the real-life murder of Elizabeth Short with a fictional story of two police officers investigating the crime.<ref name = "Dahlia">{{cite book
+  | last = Ellroy
+  | first = James
+  | title = [[The Black Dahlia (novel)|The Black Dahlia]]
+  | publisher = [[The Mysterious Press]]
+  | year = 1987
+  | isbn = 0-89296-206-2}}</ref>
+
+===Underworld USA Trilogy===
+{{main|Underworld USA Trilogy}}
+In 1995, Ellroy published ''[[American Tabloid]]'', the first novel in a series informally dubbed the "[[Underworld USA Trilogy]]"<ref name = "Salon"/> that Ellroy describes as a "secret history" of the mid-to-late 20th century.<ref name = "Onion"/> ''Tabloid'' was named ''[[Time magazine|TIME]]''{{'}}s [[fiction]] book of the year for 1995. Its follow-up, ''[[The Cold Six Thousand]]'', became a bestseller.<ref name = "Salon"/> The final novel, ''[[Blood's a Rover]]'', was released on September 22, 2009.
+
+===''My Dark Places''===
+After publishing ''American Tabloid'', Ellroy began a [[memoir]], ''[[My Dark Places (book)|My Dark Places]]'', based on his memories of his mother's murder, the unconventional relationship he had with her, and his investigation of the crime.<ref name="Dark"/> In the memoir, Ellroy mentions that his mother's murder received little [[News media (United States)|news coverage]] because the media were still fixated on the stabbing death of mobster [[Johnny Stompanato]], who was dating actress [[Lana Turner]]. [[Frank C. Girardot]], a reporter for ''[[The San Gabriel Valley Tribune]]'', accessed files on Geneva Hilliker Ellroy's murder from detectives with Los Angeles Police Department.<ref name="Dark"/> Based on the [[cold case (criminology)|cold case]] file, Ellroy and investigator Bill Stoner worked the case but gave up after 15 months, believing any suspects to be dead.<ref name="Dark"/> After the final pages of ''My Dark Places'', a contact page is provided, stating: "The investigation continues. Information on the case can be forwarded to Detective Stoner either through the toll-free number, 1-800-717-6517, or his e-mail address, detstoner@earthlink.net."<ref>{{cite book |last1=Ellroy |first1=James |title=My Dark Places: An L.A. Crime Memoir |year=1997 |publisher=Vintage Books |isbn=0-679-76205-1 |page=431 |edition=First Vintage Books Edition, August 1997}}</ref> In 2008, [[The Library of America]] selected the essay "My Mother's Killer" from ''[[My Dark Places (book)|My Dark Places]]'' for inclusion in its two-century retrospective of American True Crime.
+
+=== Future writings ===
+Ellroy is currently writing a "Second L.A. Quartet" taking place during the [[Second World War]], with some characters from the first ''L.A. Quartet'' and the ''Underworld USA Trilogy'' reappearing in younger depictions. The first book, ''[[Perfidia (James Ellroy novel)|Perfidia]]'', was released on September 9, 2014.<ref>{{cite web|url=http://www.thebookseller.com/news/second-la-quartet-william-heinemann.html|title=Second LA Quartet to William Heinemann}}</ref><ref>{{cite web|url=http://venetianvase.co.uk/2010/12/06/ellrovian-prose/|title=Ellrovian Prose|work=The Venetian Vase|date=6 December 2010}}</ref><ref>{{cite web|url=http://venetianvase.co.uk/2009/12/17/james-ellroy-to-write-second-la-quartet/|title=James Ellroy to Write Second LA Quartet|work=The Venetian Vase|date=17 December 2009}}</ref><ref name="auto3">{{cite web|url=http://www.thechannels.org/features/2012/11/29/the-channels-interviews-james-ellroy/ |title=James Ellroy interview|first=Emerson|last=Malone|date=November 29, 2012|work=The Channels|access-date= February 2, 2017|publisher=Santa Barbara City College}}</ref> The second book is titled ''[[This Storm (Ellroy novel)|This Storm]]'' <ref>{{Cite news|url=http://www.publishersweekly.com/pw/by-topic/international/Frankfurt-Book-Fair/article/71572-the-big-titles-u-s-agencies-will-be-selling-at-the-frankfurt-book-fair.html|title=The Big Titles U.S. Agencies Will be Selling at the 2016 Frankfurt Book Fair|work=PublishersWeekly.com|access-date=May 16, 2017|language=en}}</ref> which had a release date of May 14, 2019.<ref>{{cite web|url=https://www.fantasticfiction.com/e/james-ellroy/this-storm.htm|title=This Storm at Fantastic Fiction}}</ref> It was released May 30, 2019, in the United Kingdom, and June 4, 2019 in the United States.
+
+A [[Waterstones]] exclusive limited edition of ''Perfidia'' was published two days after its initial release and included an essay by Ellroy titled "Ellroy's History — Then and Now"<ref>{{cite web|url=http://www.waterstones.com/waterstonesweb/products/james%20ellroy/perfidia%20-%20waterstones%20exclusive%20edition/10289447/|title=Perfidia by James Ellroy - Waterstones|work=waterstones.com|access-date= February 2, 2017}}</ref><!-- retrieved 10 September 2014 -->. Ellroy [[Dedication (publishing)|dedicated]] ''Perfidia'' "To Lisa Stafford." The [[Epigraph (literature)|epigraph]] is "Envy thou not the oppressor, And choose none of his ways" from [[Book of Proverbs|Proverbs]] 3:31.
+
+In collaboration with the Los Angeles Police Museum and Glynn Martin, the museum's [[executive director]], Ellroy released ''[[LAPD '53]]'' on May 19, 2015.<ref>{{cite web|url=http://www.jamesellroy.net/book/lapd-53 |archive-date=2015-05-20 |archive-url=https://web.archive.org/web/20150520232454/http://www.jamesellroy.net/book/lapd-53 |title=LAPD '53 |work=James Ellroy |url-status=dead }}</ref> Photography from the museum's archives are presented alongside Ellroy's writings about crime and law enforcement during that era.
+
+In the fall of 2017, Ellroy investigated the murder of [[Sal Mineo]]. Reminiscent of how he investigated his mother's unsolved murder, Ellroy worked with Glynn Martin, an ex-LAPD officer, the LAPD Museum's current executive director, and co-author of ''LAPD '53''. Ellroy wrote about this investigation for ''[[The Hollywood Reporter]]'' in digital form on December 21, 2018, and it also appeared in published form in the December 18th, 2018 issue of ''The Hollywood Reporter'' magazine.<ref>{{cite web |last1=Ellroy |first1=James |title=James Ellroy: Cracking the Case of Murdered Actor Sal Mineo |url=https://www.hollywoodreporter.com/features/investigation-murder-sal-mineo-1169880 |website=www.hollywoodreporter.com |publisher=[[The Hollywood Reporter]] |access-date= April 3, 2019 |archive-url=https://web.archive.org/web/20190102053619/https://www.hollywoodreporter.com/features/investigation-murder-sal-mineo-1169880 |archive-date=January 2, 2019 |date=December 21, 2018}}</ref>
+
+Early in January 2019, Ellroy posted news on jamesellroy.net, writing, "I’m digitally illiterate, so you’ve got to gas on the fact that I’m breaking ''baaaaaaaaad'' from tradition, in order to post this announcement."<ref>{{cite web |last1=Ellroy |first1=James | title=jamesellroy.net |url=https://www.jamesellroy.net/ |website=James Ellroy |access-date= January 27, 2019 |date=2019|quote=Dear readers, Ellroy fans, and seditious sustainers of the American literary tradition: This is James Ellroy—the Demon Dog of American Literature himself—baying at you from his posh pad at an undisclosed location in the American West/Near Midwest. As you may know, I’m digitally illiterate, so you’ve got to gas on the fact that I’m breaking baaaaaaaaad from tradition, in order to post this announcement.}}</ref> Ellroy posted that he had been inducted into the [[Everyman's Library]] series.<ref>{{cite web |last1=Ellroy |first1=James |author-link1=James Ellroy |title=jameselllroy.net |url=https://www.jamesellroy.net/ |website=James Ellroy |access-date= January 27, 2019 |date=2019|quote=I’ve been inducted into the prongingly prestigious Everyman’s Library. I’m now in the achingly august company of hotshots like Albert Camus, John Updike, Chinua Achebe, Katherine Mansfield, Saul Bellow, Joseph Heller, and the kooly contemporary Joan Didion and Salman Rushdie—kats who, of kourse, I’ve never read.}}</ref> Three Everyman's Library editions will be reprinted: ''The L.A. Quartet'',<ref>{{cite web |last1=Ellroy |first1=James |title=The L.A. Quartet |url=https://www.jamesellroy.net/books/everymans-classics-the-la-quartet/ |website=jamesellroy.net |access-date= January 27, 2019 |date=2019}}</ref> ''The Underworld U.S.A. Trilogy, Volume I''<ref>{{cite web |last1=Ellroy |first1=James |title=The Underworld U.S.A. Trilogy, Volume I |url=https://www.jamesellroy.net/books/everymans-classics-the-underworld-usa-trilogy-volume-1/ |website=jamesellroy.net |access-date= January 27, 2019 |date=2019}}</ref> and ''The Underworld U.S.A. Trilogy, Volume II''.<ref>{{cite web |last1=Ellroy |first1=James |title=The Underworld U.S.A. Trilogy, Volume II |url=https://www.jamesellroy.net/books/everymans-classics-the-underworld-usa-trilogy-volume-2/ |website=jamesellroy.net |access-date= January 27, 2019 |date=2019}}</ref> The release dates for these editions, as well as ''[[This Storm (Ellroy novel)|This Storm: A Novel]]'', is June 4, 2019.<ref>{{cite web |last1=Ellroy |first1=James |title=James Ellroy |url=https://www.jamesellroy.net/ |website=jamesellroy.net |access-date= January 27, 2019 |date=2019 |quote=Why mince words, kats? June 4, 2019 announces my confounding canonization in the hellaciously hallowed halls of the Great American Novelist Brigade!!!!!}}</ref> Ellroy added, "Stay stirringly tuned to this website for further updates." and simply signed the finished post, ''Ellroy'', inserting a dog's pawprint below it.<ref>{{cite web |last1=Ellroy |first1=James |title=James Ellroy |url=https://www.jamesellroy.net/ |website=jamesellroy.net |access-date= January 27, 2019 |date=2019|quote=The Demon Dog will be putting his pustulent pawprint on yet more kalamitous kommuniques. Stay stirringly tuned to this website for further updates.}}</ref><ref>{{cite web |last1=Ellroy |first1=James |author-link1=James Ellroy |title=James Ellroy |url=https://www.jamesellroy.net/ |website=jamesellroy.net |access-date= February 16, 2019 |archive-url=https://web.archive.org/web/20190214155612/https://www.jamesellroy.net/ |archive-date= February 14, 2019}}</ref>
+
+==Public life and views==
+In media appearances, Ellroy has adopted an outsized, stylized public persona of hard-boiled [[nihilism]] and self-reflexive subversiveness.<ref name = "Onion"/> He frequently begins public appearances with a monologue such as:
+
+<blockquote>Good evening peepers, prowlers, pederasts, panty-sniffers, punks and pimps. I'm James Ellroy, the demon dog with the hog-log, the foul owl with the death growl, the white knight of the far right, and the slick trick with the donkey dick. I'm the author of 16 books, masterpieces all; they precede all my future masterpieces. These books will leave you reamed, steamed and drycleaned, tie-dyed, swept to the side, true-blued, tattooed and bah fongooed. These are books for the whole fuckin' family, if the name of your family is Manson.<ref>{{cite web| last = Guillen| first = Michael | title = NOIR CITY 6—James Ellroy Intro to Dalton Trumbo Doublebill|publisher = The Evening Class| date = January 28, 2008
+  |url = http://theeveningclass.blogspot.com/2008/01/noir-city-6james-ellroy-intro-to-dalton.html|access-date = March 13, 2009}}</ref><ref name="auto">{{cite web|url=https://www.youtube.com/watch?v=32M2N3zD-Tk|title=JAMES ELLROY UNLOADS ON EVERYONE in 2005 BOOK TOUR!!!!!!!!!|last=vakvagany|date= February 19, 2010|access-date= February 2, 2017|via=YouTube}}</ref></blockquote>
+
+Another aspect of his public persona involves an almost comically grand assessment of his work and his place in literature. For example, he told the ''[[New York Times]]'', "I am a master of fiction. I am also the greatest crime novelist who ever lived. I am to the crime novel in specific what [[Tolstoy]] is to the Russian novel and what [[Beethoven]] is to music."<ref>{{Cite news| last = Solomon| first = Deborah| title = The Mother Load: Questions for James Ellroy| newspaper = [[New York Times Magazine]]|date = November 5, 2006| url = https://www.nytimes.com/2006/11/05/magazine/05wwln_q4.html}}</ref>
+
+Ellroy has frequently espoused [[conservative]] political views, which have ranged from a vague anti-[[liberalism]] to [[authoritarianism]].<ref name="Onion"/> In an October 15, 2009, ''[[Rolling Stone]]'' interview, Ellroy said that in the 1960s and 1970s "I was never a peacemaker; I was a fuck-you right-winger." He has also been an outspoken and unquestioning admirer of the Los Angeles Police Department (despite his explicit depictions of brutality, corruption and Machiavellian bureaucratic  scheming in the LAPD that appear in some of his works), and he dismisses the department's flaws as aberrations, telling the ''[[National Review]]'' that the coverage of the [[Rodney King]] beating and [[LAPD Rampart Division|Rampart police scandals]] were overblown by a [[Media bias|biased media]].<ref>{{cite news |last = Dunphy| first = Jack|title = Ellroy Confidential|newspaper = National Review| date = November 15, 2005| url = http://www.nationalreview.com/dunphy/dunphy200511150827.asp| access-date = March 13, 2009}}</ref> Nevertheless, like other aspects of his persona, he often deliberately obscures where his public persona ends and his actual views begin. When asked about his "right-wing tendencies," he told an interviewer, "Right-wing tendencies? I do that to fuck with people."<ref name="RollingStone">{{cite news | last = Woods | first = Sean | title = James Ellroy's American apocalypse: The master of modern noir has completed an epic secret history of America — a trilogy so dark that he lost his mind writing it | url=https://www.rollingstone.com/culture/features/james-ellroys-american-apocalypse-20091015 | work = Rolling Stone | date = October 15, 2009 | pages = 60–63 }}</ref> Similarly, in the film ''Feast of Death,'' his (now ex-) wife describes his politics as "bullshit," an assessment to which Ellroy responds only with a knowing smile.<ref name = "Feast"/> Privately, Ellroy opposes the [[death penalty]] and [[gun control]] (he owns more than 30 guns).<ref>{{cite news |last = Duncan| first = Paul (editor)| title = Call Me Dog| work = The Third Degree: Crime Writers in Conversation| publisher = No Exit Press| year = 1997| location = Harpenden, Great Britain   }}</ref>  In a 2009 interview with ''Rolling Stone'', he discussed the contemporary political environment:
+
+<blockquote>I thought [[George W. Bush|Bush]] was a slimeball and the most disastrous American president in recent times. I voted for [[Barack Obama|Obama]]. He's a lot like [[John F. Kennedy|Jack Kennedy]]—they both have big ears and infectious smiles. But Obama is a deeper guy. Kennedy was an appetite guy. He wanted pussy, hamburgers, booze. Jack did a lot of dope.<ref name=RollingStone/></blockquote>
+
+Ellroy has subsequently denied voting for Obama and admitted that most of his statements on modern politics are willful misrepresentations.<ref>[https://www.youtube.com/watch?v=Ud_OPLt8gY4 "James Ellroy on why he denies the modern world"], ''Overheard with Evan Smith'', November 5, 2014. YouTube video.</ref>
+
+Structurally, several of Ellroy's books, such as ''The Big Nowhere'', ''L.A. Confidential'', ''American Tabloid'', and ''The Cold Six Thousand'', have three disparate [[point of view (literature)|points of view]] through different characters, with chapters alternating between them. Starting with ''The Black Dahlia'', Ellroy's novels have mostly been historical dramas about the relationship between corruption and law enforcement.<ref name = "Dahlia" />
+
+A predominant theme of Ellroy's work is the myth of "closure". "Closure is bullshit",<ref>{{cite web|url=http://www.filmthreat.com/interviews/1110/ |archive-url=https://web.archive.org/web/20100309211255/http://www.filmthreat.com/interviews/1110/ |archive-date= 9 March 2010 |title=CLOSURE IS BULLSHIT: AN INTERVIEW WITH JAMES ELLROY |author=Tony DuShane |work=filmthreat.com |access-date= February 2, 2017 |url-status=dead }}</ref> Ellroy often remarks, "and I would love to find the man who invented closure and shove a giant closure plaque up his ass."<ref>{{cite web| last = McFarland| first = Melanie|title = Why James Ellroy Will Never Be Asked to Host Masterpiece Theater| work = TV Gal| publisher = Seattle Post-Intelligencer| date = January 11, 2006| url = http://blog.seattlepi.nwsource.com/tv/archives/101072.asp|access-date = March 13, 2009}}</ref>  In his works characters often die or vanish quickly before otherwise traditional closure points in order to capitalize this idea.
+
+Ellroy has claimed that he is done writing noir crime novels.<ref name="auto4"/> "I write big political books now," he says. "I want to write about LA exclusively for the rest of my career. I don't know where and when."<ref>{{cite web| last = Green| first = Hannah| title = James Ellroy, I'm an LA Guy| publisher = GreenCine| date = September 15, 2006| url = http://www.greencine.com/article?action=view&articleID=332| access-date = March 13, 2009| url-status = dead| archive-url = https://web.archive.org/web/20110607092212/http://www.greencine.com/article?action=view&articleID=332| archive-date = June 7, 2011}}</ref>
+
+On April 29, 2015, Ellroy and [[Lois Duncan]] were the Grandmasters at the 2015 [[Edgar Award]]s.<ref>{{cite web|url=http://www.theedgars.com/nominees.html |archive-url=https://web.archive.org/web/20150223225727/http://www.theedgars.com/nominees.html |title=Edgar Award Nominees |archive-date=23 February 2015 |work=TheEdgars.com |access-date= February 2, 2017 |url-status=dead }}</ref>
+
+==Film adaptations and screenplays==
+Several of Ellroy's works have been adapted to film, including ''[[Blood on the Moon (novel)|Blood on the Moon]]'' (adapted as ''[[Cop (film)|Cop]]''), ''[[L.A. Confidential (film)|L.A. Confidential]]'', ''[[Brown's Requiem (film)|Brown's Requiem]]'', ''[[Killer on the Road]]/Silent Terror'' (adapted as ''[[Stay Clean]]''), and ''[[The Black Dahlia (film)|The Black Dahlia]]''. In each instance, screenplays based on Ellroy's work have been penned by other screenwriters.
+
+While he has frequently been disappointed by these adaptations (such as ''Cop''), he was very complimentary of [[Curtis Hanson]] and [[Brian Helgeland]]'s screenplay for ''L.A. Confidential'' at the time of its release.<ref>{{cite video| people = Curtis Hanson (Director)
+|title = L.A. Confidential| publisher = Warner Home Video DVD|date = 1998}}</ref> In succeeding years, however, his comments have been more reserved:
+
+{{quote|
+''L.A. Confidential'', the movie, is the best thing that happened to me in my career that I had ''absolutely nothing to do with''. It was a fluke—and a wonderful one—and it is ''never going to happen again''—a movie of that quality.
+
+Here's my final comment on ''L.A. Confidential'', the movie:  I go to a video store in [[Prairie Village, Kansas]]. The youngsters who work there know me as the guy who wrote ''L.A. Confidential''. They tell all the little old ladies who come in there to get their G-rated family flick. They come up to me, they say, "OOOO… you wrote ''L.A. Confidential''.... Oh, what a wonderful, wonderful movie. I saw it four times. You don't see storytelling like that on the screen anymore." ... I smile, I say, "Yes, it's a wonderful movie, and a salutary adaptation of my wonderful novel. But listen, Granny:  You love the movie. ''Did you go out and buy the book''?" And Granny invariably says, "Well, no, I didn't." And I say to Granny, "Then ''what the fuck good are you to me?''"<ref name="Feast"/>}}
+
+Shortly after viewing three hours of unedited footage<ref name="Seitz">{{cite web| last = Seitz| first = Matt Zoller| title = F****** gorgeous| publisher = The House Next Door| date = January 15, 2006| url = http://www.thehousenextdooronline.com/2006/01/f-gorgeous_15.html| access-date = March 29, 2009| url-status = dead| archive-url = https://web.archive.org/web/20110716201325/http://www.thehousenextdooronline.com/2006/01/f-gorgeous_15.html| archive-date = July 16, 2011}}</ref> for [[Brian De Palma]]'s adaptation of ''[[The Black Dahlia (film)|The Black Dahlia]]'', Ellroy wrote an essay, "Hillikers," praising De Palma and his film.<ref>{{cite news| last = Ellroy| first = James|title = Hillikers: An Afterword to The Black Dahlia| work = Reprinted in The Black Dahlia|publisher = Mysterious Press (paperback, 6th edn)| date = August 16, 2006| isbn = 0-446-69887-3}}</ref> Ultimately, nearly an hour was removed from the final cut. Of the released film, Ellroy told the [[Seattle Post-Intelligencer]], "Look, you're not going to get me to say anything negative about the movie, so you might as well give up."<ref name="Timberg"/> He had, however, mocked the film's director, cast, and production design before it was filmed.<ref name="auto"/>
+
+Ellroy co-wrote the original screenplay for the 2008 film ''[[Street Kings]]'' but refused to do any publicity for the finished film.<ref name="Timberg"/>
+
+In 2008, ''[[Variety (magazine)|Daily Variety]]'' reported that [[HBO]], along with [[Tom Hanks]]'s production company, [[Playtone]], was developing ''American Tabloid'' and ''The Cold Six Thousand'' for either a miniseries or ongoing series.<ref>{{Cite news| last = Fleming| first = Michael| title = 'Tabloid' news for HBO| newspaper = Daily Variety| date = September 18, 2008| url = http://www.encyclopedia.com/doc/1G1-186382844.html}}</ref> In a 2009 interview, Ellroy himself stated, "All movie adaptations of my books are dead."<ref>{{cite web|url=http://chuckpalahniuk.net/interviews/authors/james-ellroy|title=You're digging it, right? James Ellroy interview|last=Conley|first=Stephen|publisher=Chuckpalahniuk.net|access-date=February 25, 2010}}</ref>
+
+In a 2012 interview, when asked about how movie adaptations distort his books, he remarked, "[Film studios] can do whatever the f–k they want as long as they pay me."<ref name="auto3"/>
+
+In an October 13, 2017, interview with ''[[The New York Times]]'' Tom Hanks stated he would be interested in playing the part of Lloyd Hopkins if a film or stage adaptation was put into production.<ref>[http://nyti.ms/2g9oN3i "Tom Hanks: By the Book"], ''The New York Times'', October 13, 2017.</ref>
+
+== Bibliography ==
+* ''[[Brown's Requiem (novel)|Brown's Requiem]]'' (1981)
+* ''[[Clandestine (novel)|Clandestine]]'' (1982)
+* ''[[Killer on the Road]]'' (originally published as ''Silent Terror'') (1986)
+* ''[[Widespread Panic (Ellroy novel)|Widespread Panic]]'' (2021)
+
+=== Lloyd Hopkins Trilogy ===
+* ''[[Blood on the Moon (novel)|Blood on the Moon]]'' (1984)
+* ''[[Because the Night (novel)|Because the Night]]'' (1984)
+* ''[[Suicide Hill (novel)|Suicide Hill]]'' (1986)
+(also published in an [[omnibus edition]] as 'L.A. Noir' (1997))<ref>{{cite book |last1=Ellroy |first1=James |title=L.A. Noir |date=1997 |publisher=[[Arrow Books]] |isbn=978-0-09-925509-3}}</ref>
+
+=== L.A. Quartet ===
+* ''[[The Black Dahlia (novel)|The Black Dahlia]]'' (1987)
+* ''[[The Big Nowhere]]'' (1988)
+* ''[[L.A. Confidential]]'' (1990)
+* ''[[White Jazz]]'' (1992)
+* ''The L.A. Quartet'' (2019)<ref>{{cite book |last1=Ellroy |first1=James |title=The L.A. Quartet |date=2019 |publisher=[[Everyman's Library]] |isbn=978-1-101-90805-1}}</ref>
+
+=== Underworld USA Trilogy ===
+[[File:Bookbits - 2009-11-02 James Ellroy-Blood's A Rover.vorb.oga|thumb|right|James Ellroy talks about Blood's A Rover on Bookbits radio.]]
+* ''[[American Tabloid]]'' (1995)
+* ''[[The Cold Six Thousand]]'' (2001)
+* ''[[Blood's a Rover]]'' (2009)
+* ''The Underworld U.S.A. Trilogy, Volume I'' (2019)<ref>{{cite book |last1=Ellroy |first1=James |title=The Underworld U.S.A. Trilogy, Volume I |date=2019 |publisher=[[Everyman's Library]] |isbn=978-1-101-90804-4}}</ref>
+* ''The Underworld U.S.A Trilogy, Volume II'' (2019)<ref>{{cite book |last1=Ellroy |first1=James |title=The Underworld U.S.A. Trilogy, Volume II |date=2019 |publisher=[[Everyman's Library]] |isbn=978-1-101-90814-3}}</ref>
+
+=== The Second L.A. Quartet ===
+* ''[[Perfidia (James Ellroy novel)|Perfidia]]'' (2014)
+* ''[[This Storm (Ellroy novel)|This Storm]]'' (2019)
+
+=== Short stories and essays ===
+* ''Dick Contino's Blues'' (issue number 46 of [[Granta]] magazine, Winter 1994)
+* ''[[Hollywood Nocturnes]]'' (1994; UK title: ''[[Dick Contino]]'s Blues and Other Stories'')
+* ''[[Crime Wave (book)|Crime Wave]]'' (1999)
+* ''[[Destination: Morgue!]]'' (2004)
+* ''Shakedown'' (2012) ([[e-book]]) {{ISBN|978-1-61452-047-4}}<ref>{{cite book |last1=Ellroy |first1=James |title=Shakedown |date=2012 |publisher=Byliner Inc. |isbn=978-1-61452-047-4}}</ref>
+* ''[[LAPD '53]]'' (2015)
+
+=== Autobiography ===
+* ''[[My Dark Places (book)|My Dark Places]]'' (1996)
+* ''[[The Hilliker Curse: My Pursuit of Women]]'' (2010)
+
+=== Editor ===
+* ''The Best American Mystery Stories 2002'' (2002)
+* ''The Best American Crime Writing 2005'' (2005)
+* {{cite book |editor1-last=Ellroy |editor1-first=James |editor2-last=Penzler |editor2-first=Otto |editor2-link=Otto Penzler |title=The Best American Noir of the Century |date=2010 |publisher=[[Houghton Mifflin Harcourt]] |isbn=978-0-547-33077-8 |url=https://archive.org/details/bestamericannoir00jame }} (Note: Part of ''[[The Best American Series]]'')
+
+== Documentaries ==
+* 1993 ''James Ellroy: Demon Dog of American Crime Fiction''
+* 1995 ''White Jazz''
+* 2001 ''James Ellroy's Feast of Death''
+* 2005 ''James Ellroy: American Dog''
+* 2006 ''Murder by the Book'': "James Ellroy"
+* 2011 ''James Ellroy's L.A.: City of Demons''
+
+== Films ==
+* 1988 ''[[Cop (film)|Cop]]''
+* 1997 ''[[L.A. Confidential (film)|L.A. Confidential]]''
+* 1998 ''[[Brown's Requiem (film)|Brown's Requiem]]''
+* 2002 ''Stay Clean''
+* 2002 ''Vakvagany''
+* 2002 ''[[Dark Blue (movie)|Dark Blue]]''
+* 2003 ''Das Bus''
+* 2005 ''James Ellroy presents Bazaar Bizarre''
+* 2006 ''[[The Black Dahlia (film)|The Black Dahlia]]''
+* 2008 ''[[Street Kings]]''
+* 2008 ''Land of the Living''
+* 2011 ''[[Rampart (film)|Rampart]]''
+
+== Television ==
+* 1992 "Since I Don't Have You" adapted by [[Steven A. Katz]] for [[Showtime (TV channel)|Showtime's]] ''[[Fallen Angels (American TV series)|Fallen Angels]]''.
+* 2011 ''James Ellroy's L.A.: City of Demons''<ref>{{Cite news | last=Timberg | first=Scott | title ='James Ellroy's L.A.: City of Demons' takes light look at grim L.A. crime | newspaper=Los Angeles Times | date=January 18, 2011 | url=http://articles.latimes.com/2011/jan/18/entertainment/la-et-james-ellroy-20110118}}</ref> for [[Investigation Discovery]]. {{IMDb title|id=1819952|title=James Ellroy's L.A.: City of Demons}}
+
+== Other works, influences, and adaptations ==
+* {{cite web |last1=Ellroy |first1=James |title=James Ellroy: Cracking the Case of Murdered Actor Sal Mineo |url=https://www.hollywoodreporter.com/features/investigation-murder-sal-mineo-1169880 |website=www.hollywoodreporter.com |publisher=[[The Hollywood Reporter]] |access-date=12 April 2019 |archive-url=https://web.archive.org/web/20190102053619/https://www.hollywoodreporter.com/features/investigation-murder-sal-mineo-1169880 |archive-date=January 2, 2019 |date=December 21, 2018}}
+*{{cite book |editor1-last=Powell |editor1-first=Steven |title=The Big Somewhere: Essays on James Ellroy's Noir World |date=2018 |publisher=[[Bloomsbury Publishing]] |isbn=978-15013-3133-6}}
+*{{cite book |last1=Matz |last2=Fincher |first2=David |author-link1=Alexis Nolent |author-link2=David Fincher |editor1-last=Hahn |editor1-first=Sierra |title=[[The Black Dahlia (graphic novel)|The Black Dahlia: A Crime Graphic Novel]] |date=2016 |publisher=[[Archaia Entertainment]], [[Boom! Studios]] |isbn=978-1-60886-868-1 |edition=1st |language=en}}
+
+==References==
+{{reflist|30em}}
+
+== Further reading ==
+* {{cite journal |last1=Comyn |first1=Joshua |title=Hard-Boiled Queers and Communists: James Ellroy's ''The Big Nowhere'' |journal=Clues: A Journal of Detection |date=2020 |volume=38 |issue=1 |pages=28–36}}
+* {{cite book |last1=Mancall |first1=Jim |editor1-last=Foxwell |editor1-first=Elizabeth |title=James Ellroy: A Companion to the Mystery Fiction |date=2014 |publisher=[[McFarland & Company, Inc.]] |isbn=978-0-7864-3307-0}} [https://mcfarlandbooks.com/product/james-ellroy/ ''James Ellroy: A Companion to the Mystery Fiction'']
+* {{cite journal| url=http://mcfarland.metapress.com/content/ht44t8801673m263/| archive-url=https://archive.today/20140504130907/http://mcfarland.metapress.com/content/ht44t8801673m263/| url-status=dead| archive-date=May 4, 2014| journal=Clues: A Journal of Detection 24.4| author=Mancall, Jim (2006)| title='You're a Watcher, Lad': Detective Fiction, Pornography, and Ellroy's LA Quartet}}
+* Powell, Steven, ed. (2012) [https://web.archive.org/web/20180328062528/http://www.upress.state.ms.us/books/1415 ''Conversations with James Ellroy''] {{ISBN|978-1-61703-104-5}}
+
+{{Portal|Literature|Biography}}
+
+== External links ==
+{{Library resources box|by=yes|viaf=27090921}}
+{{sisterlinks|d=Q318487|c=category:James Ellroy|q=no|n=no|b=no|v=no|voy=no|m=no|mw=no|s=no|wikt=no|species=no}}
+* [https://archives.library.sc.edu/repositories/5/resources/104 James Ellroy archive] at the University of South Carolina Irvin Department of Rare Books and Special Collections.
+* {{IMDb name|id=0255278|name=James Ellroy}}
+* {{IMDb title|id=1819952|title=James Ellroy's L.A.: City of Demons}}
+* {{cite web|url=http://www.identitytheory.com/people/birnbaum13.html |title=James Ellroy|author=Robert Birnbaum|date= March 13, 2001|work=IdentityTheory.com|access-date= February 2, 2017}}
+* {{cite web|url=http://edition.cnn.com/2006/TRAVEL/02/03/losangeles.qa/ |title=CNN.com - Q & A: James Ellroy |date=March 3, 2006|work=cnn.com|access-date= February 2, 2017}}
+* {{cite web|url=http://www.shortlist.com/entertainment/books/james-ellroy |title=James Ellroy|author=Ben Isaacs |work=shortlist.com|date=19 February 2014|access-date= February 2, 2017}}
+* {{cite web|url=http://www.iblist.com/author576.htm|title=Author Information: James Ellroy|last=Internet Book List|work=iblist.com|access-date= February 2, 2017|archive-url=https://web.archive.org/web/20160303194955/http://www.iblist.com/author576.htm|archive-date=March 3, 2016|url-status=dead}}
+* {{cite web|url=http://www.blackbirdsnest.net/ellroy.html |title=An Evening With James Ellroy|author=Blackbird's Nest|work=blackbirdsnest.net|access-date= February 2, 2017}}
+* {{cite web|url=http://manschoolshow.com/blog/2014/3/26/class-55-love-and-passion-james-ellroy|title=Class #55: Love and Passion with James Ellroy|work=manschoolshow.com|access-date= February 2, 2017|archive-url=https://web.archive.org/web/20170203075825/http://manschoolshow.com/blog/2014/3/26/class-55-love-and-passion-james-ellroy|archive-date=February 3, 2017|url-status=dead}}
+* {{cite web|url=http://manschoolshow.com/blog/2014/7/28/class-68-twice-divorced-with-james-ellroy|title=Class #68: Divorced Twice with James Ellroy|work=manschoolshow.com|access-date= February 2, 2017|archive-url=https://web.archive.org/web/20170203075340/http://manschoolshow.com/blog/2014/7/28/class-68-twice-divorced-with-james-ellroy|archive-date=February 3, 2017|url-status=dead}}
+* [https://www.nytimes.com/2017/10/13/books/review/tom-hanks-by-the-book.html Tom Hanks wants to play Lloyd Hopkins] from ''The New York Times''
+{{James Ellroy}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ellroy, James}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:American crime fiction writers]]
+[[Category:American mystery novelists]]
+[[Category:American non-fiction crime writers]]
+[[Category:Maltese Falcon Award winners]]
+[[Category:20th-century American novelists]]
+[[Category:Organized crime novelists]]
+[[Category:Writers of historical fiction set in the modern age]]
+[[Category:Edgar Award winners]]
+[[Category:Writers from Los Angeles]]
+[[Category:People from El Monte, California]]
+[[Category:American autobiographers]]
+[[Category:American short story writers]]
+[[Category:21st-century American novelists]]
+[[Category:American male novelists]]
+[[Category:American male essayists]]
+[[Category:American male short story writers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American essayists]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

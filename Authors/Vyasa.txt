@@ -1,0 +1,158 @@
+{{short description|Sage in ancient India}}
+{{about||the title for the divider of Vedas|Vyasa (title)|other uses}}
+{{Use Indian English|date=August 2021}} 
+{{Use dmy dates|date=August 2021}} 
+{{Infobox Hindu leader
+| image              = Vyasa2.jpg
+| caption            = A painting of Vyasa sitting on a throne
+| religion           = [[Historical Vedic religion|Vedism]] or [[Sanātana Dharma]] or [[Hinduism]]
+| weapon             = 
+| parents            = {{bulleted list|[[Parashara]] (Father)|[[Satyavati]] (Mother)}}
+| spouse             = Vatikā {{sfn|Dalal|2019}}
+| relatives          = '''Step-Brothers''' (From [[Shantanu]]) {{bulleted list|[[Chitrāngada]]|[[Vichitravirya]]}}
+| children = '''Legitimate''' (from Vatikā) {{bulleted list|[[Shuka]] (son)}} '''Extra-Marital''' ''{{small|see [[Niyoga]]}}'' {{bulleted list|[[Dhritarashtra]] (from [[Ambika (Mahabharata)|Ambika]])|[[Pandu]] (from [[Ambalika]])|[[Vidura]] (from [[Characters in the Mahabharata#Ambika's maid|Parishrami]])}}
+| honours            = Festival of ''[[Guru Purnima]]'', is dedicated to him, and also known as the ''Vyasa Purnima''
+| birth_name         = Krishna Dvaipayana
+| known_for          = '''[[Mahabharata]]'''
+| disciples          = {{bulleted list|[[Shuka]]|[[Jaimini]]|[[Vaishampayana]]|Sumantu}}
+}}
+{{Hindu philosophy}}
+'''Krishna Dvaipayana''' ({{lang-sa|कृष्णद्वैपायन|Kṛṣṇadvaipāyana}}), better known as '''Vyasa''' ({{IPAc-en|ˈ|v|j|ɑː|s|ə}}; {{lang-sa|व्यासः|Vyāsaḥ|compiler}}) or '''Veda Vyasa''' (वेदव्यासः, ''Veda-vyāsaḥ'', "the one who classified the [[Vedas]]"), was a legendary  [[rishi|sage]] portrayed in the [[Hindu epic]] ''[[Mahabharata]]'', and regarded by Hindu-tradition as the compiler of that work. As a [[Shaktyavesha Avatar]] (śaktyāveśa-avatāra) of [[Vishnu]], he is also regarded by tradition as the arranger of the [[mantra]]s'' of the [[Vedas]]'', as well as the author of the eighteen ''[[Puranas]]'' and the [[Brahma Sutras]].
+
+==Name==
+{{Main article|Vyasa (title)}}
+
+Vyasa's birth name is ''Krishna Dvaipayana'', which refers to his dark complexion and birthplace.<ref>[https://books.google.com/books?id=KnCxH85Vra4C&pg=PA205&lpg=PA205&dq=vyasa+born+yamuna&source=bl&ots=aX4O103DiT&sig=1pMtLNI3Ajf8Bz56WirIu2leukM&hl=en&sa=X&ei=E-jyU7eVBpaPuAS46YGIBw&ved=0CDcQ6AEwBA#v=onepage&q=vyasa%20born%20yamuna&f=false Essays on the Mahābhārata], Arvind Sharma, Motilal Banarsidass Publisher, p. 205</ref> He is often referred to as "Veda Vyasa" (''Veda Vyāsa'') as he is believed to have arranged  the single eternal ''Veda'' into four parts {{mdash}} ''[[Rigveda]], [[Samaveda]], [[Yajurveda]]'' and ''[[Atharvaveda]]''.<ref name = "Vyasa" ></ref><ref name = "Bruce's views" >{{Cite book|last=Sullivan|first=Bruce M.|url=https://books.google.com/books?id=8XO3Im3OMi8C&q=birth+date+of+Vyasa|title=Seer of the Fifth Veda: Kr̥ṣṇa Dvaipāyana Vyāsa in the Mahābhārata|date=1999|publisher=Motilal Banarsidass Publ.|isbn=978-81-208-1676-3|language=en}}</ref>
+
+The word "Vyasa" (''Vyāsa'') refers to "compiler," "arranger,"<ref name=SD/><ref>{{cite book |title=India through the ages |url=https://archive.org/details/indiathroughages00mada |last=Gopal |first=Madan |year= 1990| page= [https://archive.org/details/indiathroughages00mada/page/158 158] |editor=K.S. Gautam |publisher=Publication Division, Ministry of Information and Broadcasting, Government of India}}</ref> and also means "separation," "division."<ref name=SD>Sanskrit Dictionary for Spoken Sanskrit, [https://www.learnsanskrit.cc/index.php?mode=3&direct=au&script=hk&tran_input=vyasa ''Vyasa'']</ref> Other meanings are "split," "differentiate" or "describe." It is also a title, given to "a holy sage or a pious learned man," and applied to "persons distinguished for their writings."<ref>{{cite book |title=India through the ages |url=https://archive.org/details/indiathroughages00mada |last=Gopal |first=Madan |year= 1990| page= [https://archive.org/details/indiathroughages00mada/page/129 129] |editor=K.S. Gautam |publisher=Publication Division, Ministry of Information and Broadcasting, Government of India}}</ref>
+
+Hindus traditionally hold that Vyasa categorized the primordial single [[Veda]] into three canonical collections, and that the fourth one, known as [[Atharvaveda]], was recognized as Veda only very much later. Hence he was called Veda Vyasa, or "Splitter of the Vedas," the splitting being a feat that allowed people to understand the divine knowledge of the Veda. 
+
+The ''Vishnu Purana'' elaborates on the role of Vyasa in Hindu chronology.<ref>'' Encyclopaedic Dictionary of Puranas'', Volume 1 (2001), page 1408</ref> The Hindu view of the universe is that of a cyclic phenomenon that comes into existence and dissolves repeatedly. Each ''[[Kalpa (aeon)|kalpa]]'' cycle is presided over by a number of [[Manu (Hinduism)|Manu]]s, one for each ''[[manvantara]]'', and each ''manvantara'' has a number of ''[[Yuga Cycle]]s'', each with four ''[[yuga]]'' ages of declining virtues. The ''[[Dvapara Yuga]]'' is the third ''yuga''. The ''Vishnu Purana'' (Book 3, Ch 3) says:
+{{quote|In every third world age (Dvapara), Vishnu, in the person of Vyasa, in order to promote the good of mankind, divides the Veda, which is properly but one, into many portions. Observing the limited perseverance, energy and application of mortals, he makes the Veda fourfold, to adapt it to their capacities; and the bodily form which he assumes, in order to effect that classification, is known by the name of Veda-Vyasa. Of the different Vyasas in the present Manvantara and the branches which they have taught, you shall have an account.
+Twenty-eight times have the Vedas been arranged by the great Rishis in the Vaivasvata Manvantara [...] and consequently, eight and twenty Vyasa's have passed away; by whom, in the respective periods, the Veda has been divided into four. The first... distribution was made by Svayambhu (Brahma) himself; in the second, the arranger of the Veda (Vyasa) was Prajapati [...] (and so on up to twenty-eight).<ref>{{cite web|title=Vishnu Purana|url=http://www.sacred-texts.com/hin//vp/vp077.htm|access-date=2014-03-15}}</ref>}}
+
+According to the Vishnu Purana, Guru [[Drona]]'s son [[Aswatthama]] will become the next sage ([[Vyasa (title)|Vyasa]]) and will divide the Veda in 29th [[Yuga Cycle|Maha Yuga]] of 7th [[Manvantara]].<ref>[http://www.sacred-texts.com/hin/vp/vp077.htm Vishnu Purana -Drauni or Asvathama as Next Vyasa] Retrieved 2015-03-22</ref>
+
+== Attributed texts ==
+
+===The ''Mahabharata''===
+{{Main article|Mahabharata}}
+
+[[File: Ganesa writing the Mahabharat.jpeg|thumb|left|[[Ganesha]] writing the ''Mahabharat'']]
+
+[[File: Angkor Wat 006.JPG|thumb|Vyasa narrating the ''Mahabharata'' to [[Ganesha]], his scribe, [[Angkor Wat]].]]
+
+Vyasa is traditionally known as the chronicler of this epic and also features as an important character in ''Mahābhārata'', Vyasa asks Ganesha to assist him in writing the text. Ganesha imposes a precondition that he would do so only if Vyasa would narrate the story without a pause. Vyasa set a counter-condition that Ganesha understands the verses first before transcribing them. Thus Vyasa narrated the entire ''Mahābhārata'' and all the [[Upanishads]] and the 18 [[Purana]]s, while Lord Ganesha wrote.
+
+Vyasa's ''Jaya'' (literally, "victory"), the core of the ''Mahabharata'', is a dialogue between Dhritarashtra (the [[Kuru Kingdom|Kuru]] king and the father of the Kauravas, who opposed the [[Pāndavas]] in the [[Kurukshetra War]]) and [[Sanjaya]], his adviser and charioteer. Sanjaya narrates the particulars of the Kurukshetra War, fought in eighteen days, chronologically. Dhritarashtra at times asks questions and expresses doubts, sometimes lamenting, fearing the destruction the war would bring on his family, friends and kin.
+
+Large and elaborate lists are given, describing hundreds of kingdoms, tribes, provinces, cities, towns, villages, rivers, mountains, forests, etc. of the (ancient) Indian subcontinent (Bhārata Varsha). Additionally, he gives descriptions of the military formations adopted by each side on each day, the death of individual heroes and the details of the war-races. Eighteen chapters of Vyasa's Jaya constitute the [[Bhagavad Gita]], a sacred text in [[Hinduism]]. The Jaya deals with diverse subjects, such as geography, history, warfare, religion and morality.
+
+The final version of Vyasa's work is the ''[[Mahābhārata]]''. It is structured as a narration by [[Ugrasrava Sauti]], a professional storyteller, to an assembly of [[rishi]]s who, in the [[Naimiṣāraṇya (forest)|forest of Naimisha]], had just attended the 12-year sacrifice known as Saunaka, also known as Kulapati.
+
+===Other texts attributed===
+[[File:Narada meetsVyasa.jpg|thumb|right|[[Narada]] meets Vyasa]]
+
+==== Puranas ====
+{{main article|Puranas}}
+Vyasa is also credited with the writing of the eighteen major [[Purāṇa]]s,<ref name = "Bruce's views" /> which are works of Indian literature that cover an encyclopedic range of topics covering various scriptures. He narrated the [[Devi-Bhagavata Purana]] to Parikshit's son [[Janamejaya]].
+
+==== Yoga Bhashya ====
+The ''Yoga Bhashya'', a commentary on the [[Yoga Sutras]] of [[Patanjali]], is attributed to unknown author called Vyasa, but was probably Patañjali's own work.<ref>{{cite book|title=The Integrity of the Yoga Darsana: A Reconsideration of Classical Yoga|page=320|author=Ian Whicher|publisher=SUNY Press}}</ref>{{sfn|Maas|2006}}
+
+==== Brahma Sutras ====
+The [[Brahma Sutras]], one of the foundational texts of [[Vedanta]], are attributed to [[Badarayana]].<ref name=sradhakrish22>{{cite book  | last = Radhakrishna  | first = Sarvepalli  | author-link = Sarvepalli Radhakrishnan  | title = Brahma Sutra, The Philosophy of Spiritual Life  | url = https://archive.org/stream/Sarvepalli.Radhakrishnan-Brahma.Sutra-The.Philosophy.of.Spiritual.Life/Radhakrishnan-Brahma.Sutra-The.Philosophy.of.Spiritual.Life#page/n21/mode/2up  | year = 1960  | page = 22 with footnote 3 and 4}}</ref> In some texts, Badarayana is also called ''Vyasa'', which literally means "one who arranges".<ref name=sradhakrish22/> [[Vaishnava|Vaishnava Acharya]]s acknowledge Badarayana as Vyasa.{{source?|date=June 2021}} Some modern historians,{{who|date=January 2017}} though, suggest that these were two different personalities. There may have been more than one Vyasa, or the name Vyasa may have been used at times to give credibility to a number of ancient texts.<ref>The Yoga Sutras of Patanjali. Edwin F. Bryant 2009 page xl</ref> Much ancient Indian literature was a result of long oral tradition with wide cultural significance rather than the result of a single author. However, Vyasa is credited with documenting, compiling, categorizing and writing commentaries on much of this literature.
+
+==In the ''Mahabharata''==
+
+===Birth===
+During her youth, Satyavati was a fisherwoman who used to drive a boat. One day, she helped [[Parashara]] to cross the river [[Yamuna]]. He was enchanted by her beauty and wanted an heir from her. Initially, Satyavati did not agree, telling that if others would see them, then her purity would be questioned. Parashara created a secret place in bushes of a nearby island and a blanket of thick fog. She conceived and immediately gave birth to a son.<ref name="Vyasa" /> Parashara named him '''Krishna Dvaipayana''', referring to his dark complexion and birthplace.<ref>{{Cite book|last=Monier-Williams|first=Sir Monier|url=https://books.google.com/books?id=IewdAAAAMAAJ&q=375|title=Indian Wisdom, Or, Examples of the Religious, Philosophical, and Ethical Doctrines of the Hindūs: With a Brief History of the Chief Departments of Sanskṛit Literature, and Some Account of the Past and Present Condition of India, Moral and Intellectual|date=1875|publisher=Wm. H. Allen & Company|language=en}}</ref> Dvaipayana became an adult and promised his mother that he would come to her when needed. Parashara restored Satyavati's virginity, gifted her an enchanting smell and left with his son. Satyavati kept this incident a secret, not telling even King [[Shantanu]] whom she was married to later.<ref name="Vyasa">{{cite book|author=Mani|first=Vettam|url=https://archive.org/details/puranicencyclopa00maniuoft|title=Puranic Encyclopaedia: A Comprehensive Dictionary With Special Reference to the Epic and Puranic Literature|publisher=Motilal Banarsidass|year=1975|isbn=0-8426-0822-2|location=Delhi|pages=[https://archive.org/stream/puranicencyclopa00maniuoft#page/885/mode/2up 885 (Vyāsa)]|author-link=Vettam Mani}}</ref><ref name = "Dalal">{{Cite book|url=https://books.google.com/books?id=zrk0AwAAQBAJ&q=Parashara+vyasa|title = Hinduism: An Alphabetical Guide|isbn = 9788184752779|last1 = Dalal|first1 = Roshen|date = 18 April 2014}}</ref>
+
+===''Niyoga'' and birth of Vichitravirya's sons===
+[[File: Vyasa with his mother.jpg|thumb|Vyasa with his mother ([[Satyavati]])]]
+Shantanu and Satyavati had two sons, named [[Chitrāngada]] and [[Vichitravirya]]. Both of them died early without leaving an heir, but Vichitravirya had two wives - [[Ambika (Mahabharata)|Ambika]] and [[Ambalika]]. A widowed Satyavati initially asked her stepson, [[Bhishma]], to marry both the queens, but he refused, citing his vow of celibacy. Satyavati revealed her secret past and requested him to bring her firstborn to impregnate the widows under a tradition called [[Niyoga]].<ref name = "Niyoga1" >{{Cite book|last=Bhawalkar|first=Vanamala|url=https://books.google.com/books?id=8v5OAQAAIAAJ&q=Satyavati+vyasa|title=Eminent women in the Mahābhārata|date=2002|publisher=Sharada|isbn=9788185616803|language=en}}</ref> By this time, Vyasa had compiled the Vedas.
+
+Sage Vyasa was unkempt because of months of meditation in the forest. Hence upon seeing him, Ambika who was rather scared shut her eyes, resulting in their child, [[Dhritarashtra]], being born blind. The other queen, Ambalika, turned pale upon meeting Vyasa, which resulted in their child, [[Pandu]], being born pale. Alarmed, Satyavati requested that Vyasa meet Ambika again and grant her another son. Ambika instead sent [[Characters in the Mahabharata#Ambika's maid|her maid]] to meet Vyasa. The duty-bound maid was calm and composed; she had a healthy child who was later named [[Vidura]].
+
+===Connection with the Pandavas and Kauravas===
+[[File: Vyas ki vardhan.jpg|left|thumb|Gandhari serving Vyasa]]
+When the children of Vichitravirya grew up, [[Bhishma]] got them married to different women. [[Dhritarashtra]] was married to [[Gandhari (Mahabharata)|Gandhari]], princess of Gandhara. [[Pandu]] married [[Kunti]] and [[Madri]]. Pandu left the kingdom, leaving Dhritarashtra as the acting king. Gandhari, during her adolescence, received a boon to have a hundred children but her pregnancy was taking a long period of time. After two years of pregnancy, Gandhari aborted her developing fetus, giving birth to a hard mass that looked like an iron ball. Vyasa came to the kingdom and using his knowledge, he asked to divide the mass into one hundred and one-pieces and put them into pots for incubation. After a year, 101 babies were born. Meanwhile, Kunti was blessed with two sons and later three more children were born upon Pandu's requests.
+
+While everybody rejoiced at the news of the birth of the Pandavas and Kauravas, misery took place in the forest. Pandu, who was cursed, died because of his attempt to make love with Madri. Kunti and the Pandavas returned to [[Hastinapur]]a. Vyasa, feeling sorrow for his mother's fate, asked her to leave the kingdom and come with him to live a peaceful life. Satyavati, along with her two daughters-in-law, went to the forest.
+
+==Disciples==
+Vyasa had a son named [[Shuka]], who was his spiritual successor and heir.{{refn|group=note|Later, Vyasa became the surrogate father of Kuru princes {{mdash}} Pandu and Dhritrashtra}} As per ''[[Skanda Purana]]'', Vyasa married Vatikā, alias Pinjalā, who was the daughter of a sage named Jābāli. It is described that Vyasa's union with her produced his heir, who repeated everything that he heard, thus receiving the name Shuka (lit. Parrot).{{sfn|Dalal|2019}}{{sfn|Pattanaik|2000}}<ref>Skanda Purāṇa, Nāgara Khanda, ch. 147</ref> Other texts including the ''[[Devi Bhagavata Purana]]'' also narrate the birth of Shuka but with drastic differences. Vyasa was desiring an heir, when an ''[[apsara]]'' (celestial damsel) named Ghritachi flew in front of him in form of a beautiful parrot, causing him sexual arousal. He discharges his semen, which fell on some sticks and a son developed. This time, he was named Shuka because of the role of the celestial parrot.<ref name = "Vyasa" ></ref> Shuka appears occasionally in the story as a spiritual guide to the young Kuru princes.
+
+Besides his heir, Vyasa had four other disciples {{mdash}} Paila, [[Jaimini]], [[Vaishampayana]] and Sumantu.<ref name = "Bruce's views" /> Each one of them was given the responsibility to spread one of the four Vedas. Paila was the made the incharge of ''[[Rigveda]]'', Jaimini of the ''[[Samaveda]]'', Vaishampayana of the ''[[Yajurveda]]'' and Sumantu of ''[[Atharvaveda]]''.<ref>{{Cite book|last1=Shastri|first1=J. L.|url=https://books.google.com/books?id=YWPsDwAAQBAJ&q=Paila+Jaimini+Sumantu+&pg=PA37|title=Ancient Indian Tradition and Mythology Volume 7: The Bhagavata-Purana Part 1|last2=Tagare|first2=Ganesh Vasudeo|date=2004-01-01|publisher=Motilal Banarsidass|isbn=978-81-208-3874-1|language=en}}</ref>
+
+Vyasa is believed to have lived on the banks of [[Ganga]] in modern-day [[Uttarakhand]]. The site was also the ritual home of the sage [[Vashishta]], along with the [[Pandavas]], the five brothers of the ''[[Mahabharata]]''.<ref>{{cite journal |title=The Master's Narrative: Swami Sivananda and the Transnational Production of Yoga |jstor= 3814692 |publisher=Indiana University Press |volume=23 |issue= 2/3 |last=Strauss |first=Sarah |journal=Journal of Folklore Research |year=2002 |page=221}}</ref>
+
+Also a town in India is named after him - Vyasanagar (a very famous town in Odisha).
+
+==Festival==
+The festival of [[Guru Purnima]] is dedicated to him. It is also known as ''Vyasa Purnima'', the day believed to be both of his birth and when he divided the Vedas.<ref name=ci>{{cite book |title=Awakening Indians to India |url= https://books.google.com/books?id=AIU4LzftaPAC&q=%22Guru+Purnima%22+-inpublisher%3Aicon&pg=PA167 |year=2008 |publisher=Chinmaya Mission |isbn=978-81-7597-434-0 |page=167}}</ref><ref name=ed>{{cite book |title=What Is Hinduism?: Modern Adventures Into a Profound Global Faith |url=https://books.google.com/books?id=9XC9bwMMPcwC&q=%22Guru+Purnima%22+-inpublisher%3Aicon&pg=RA1-PA230 |publisher=Himalayan Academy Publications |isbn=978-1-934145-00-5 |page=230|year = 2007}}</ref>
+
+The mythological Vyasa Sarovara is located at Vyasangar. It hosts an 11-day fair in celebration of Lord Vyasadeva in the month of March.
+
+==In Sikhism==
+In ''Brahm Avtar'', one of the compositions in [[Dasam Granth]], the Second Scripture of Sikhs, [[Guru Gobind Singh]] mentions Rishi Vyas as an avatar of [[Brahma]].<ref name=" Dasam Granth, Dr. SS Kapoor">[https://books.google.com/books?id=8-h8ptzp0lUC&pg=PA76&dq=brahma+avtar&hl=en&sa=X&ei=fsbgT_PEB4nMrQeMyaSTDQ&ved=0CD4Q6AEwAQ#v=onepage&q=brahma%20avtar&f=false Dasam Granth, Dr. SS Kapoor]</ref> He is considered the fifth incarnation of Brahma. Guru Gobind Singh wrote a brief account of Rishi Vyas's compositions about great kings— Manu, Prithu, Bharath, Jujat, Ben, Mandata, Dilip, Raghu Raj and Aj<ref name=" Dasam Granth, Dr. SS Kapoor"/><ref>Line 8, Brahma Avtar, Dasam Granth</ref>— and attributed to him the store of Vedic learning.<ref>Line 107, Vyas Avtar, Dasam Granth</ref>
+
+==See also==
+{{Portal|Hinduism|Poetry}}
+* [[Chiranjivi]]
+* [[Parashara]]
+* [[Guru Gita]]
+* [[Gnana Saraswati Temple, Basar]]
+* [[Vedic mythology]]
+{{Clear}}
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{Reflist|30em}}
+
+==Sources==
+{{refbegin}}
+<!-- D -->
+* {{Cite book|last=Dalal|first=Roshen|url=https://books.google.com/books?id=trh9DwAAQBAJ&q=vatika&pg=PT170|title=The 108 Upanishads: An Introduction|date=2019-01-06|publisher=Penguin Random House India Private Limited|isbn=978-93-5305-377-2|language=en}}
+<!-- M -->
+* {{Citation | last=Maas | first=Philipp A. | year=2006 | title=Samādhipāda. Das erste Kapitel des Pātañjalayogaśāstra zum ersten Mal kritisch ediert. (Samādhipāda. The First Chapter of the Pātañjalayogaśās-tra for the First Time Critically Edited). | publisher=Aachen: Shaker}}
+<!-- P -->
+* {{Cite book|last=Pattanaik|first=Devdutt|url=https://books.google.com/books?id=IVsoDwAAQBAJ&q=vatik%C4%81+jabali&pg=PT59|title=The Goddess in India: The Five Faces of the Eternal Feminine|date=2000-09-01|publisher=Simon and Schuster|isbn=978-1-59477-537-6|language=en}}
+{{refend}}
+
+==Further reading==
+* The Mahabharata of Krishna-Dwaipayana Vyasa, translated by [[Kisari Mohan Ganguli]], published between 1883 and 1896
+* [https://web.archive.org/web/20070706200542/http://www.mssu.edu/projectsouthasia/history/primarydocs/Arthashastra/index.htm The Arthashastra, translated by Shamasastry, 1915]
+* The Vishnu-Purana, translated by H. H. Wilson, 1840
+* The Bhagavata-Purana, translated by [[A. C. Bhaktivedanta Swami Prabhupada]], 1988 copyright [[Bhaktivedanta Book Trust]]
+* The Jataka or Stories of the Buddha's Former Births, edited by E. B. Cowell, 1895
+
+==External links==
+* {{wikiquote-inline}}
+* {{commons category inline|Vyasa}}
+* {{wikisource author-inline}}
+* [http://www.sacred-texts.com/hin/maha/index.htm The ''Mahābhārata''] – Ganguli translation, full text at sacred-texts.com
+
+{{Mahābhārata}}
+{{VishnuAvatars}}
+{{Rishis of Hindu mythology}}
+{{HinduMythology}}
+{{Caitanya sampradaya}}
+{{Indian Philosophy}}
+{{Authority control}}
+
+[[Category: Ancient Indian philosophers]]
+[[Category:Hindu philosophers and theologians]]
+[[Category: Hindu poets]]
+[[Category: Epic poets]]
+[[Category:Rishis]]
+[[Category: Mahabharata]]
+[[Category: Characters in the Mahabharata]]
+[[Category: Characters in the Bhagavata Purana]]
+[[Category: Forms of Vishnu]]
+[[Category: Ancient Indian poets|V]]
+[[Category: Chiranjivins]]
+[[Category: Writers about Kali (demon)]]

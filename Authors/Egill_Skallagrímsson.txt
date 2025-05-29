@@ -1,0 +1,197 @@
+{{Short description|Viking Age Icelandic poet, warrior and farmer}}
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = Egill Skallagrímsson
+| honorific_suffix = 
+| image            = Egil Skallagrimsson 17c manuscript.jpg
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = Picture of Egil in a 17th-century manuscript of ''[[Egils Saga]]''
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = 904
+| birth_place      = [[Iceland]]
+| death_date       = {{Death year and age|995|904}} 
+| death_place      = [[Mosfellsbær]], Iceland
+| resting_place    = 
+| occupation       = [[Poet]], warrior and farmer
+| language         = [[Old Norse]]
+| education        = 
+| alma_mater       = 
+| home_town        = 
+| period           = [[Viking Age]]
+| genre            = <!-- or: | genres = -->
+| subject          = <!-- or: | subjects = -->
+| movement         = [[Skaldic poetry]]
+| notableworks     = [[Höfuðlausn]], [[Sonatorrek]]
+| spouse           = Ásgerðr Björnsdóttir
+| partner          = <!-- or: | partners = -->
+| children         = [[Þorgerðr Egilsdóttir]], Bera Egilsdóttir, Böðvar Egilsson, Gunnar Egilsson and Þorsteinn Egilsson
+| relatives        = [[Skalla-Grímr]] and Bera Yngvarsdóttir
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc.; or omit -->
+}}
+{{icelandic name|Egill|male}}
+
+'''Egill Skallagrímsson''' ([[Old Norse]]: {{IPA-non|ˈeɣelː ˈskɑlːɑˌɡriːmsˌson|}}; [[Modern Icelandic]]: {{IPA-is|ˈeijɪtl̥ ˈskatlaˌkrimsˌsɔːn|}}; {{c.}} 904{{spaced ndash}}{{c.}} 995)<ref>Palsson and Edwards pp. 248–49</ref> was a [[Viking Age]] [[war poet]], sorcerer, [[berserker]], and farmer.<ref name="Thorsson">Thorsson, 3</ref> He is known mainly as the [[anti-hero]] of ''[[Egils saga|Egil's Saga]]''. ''Egil's Saga'' historically narrates a period from approximately 850 to 1000&nbsp;AD and is believed to have been written between 1220 and 1240&nbsp;AD.<ref name="Thorsson"/>
+
+==Life==
+{{hatnote|The following is based on the Icelandic saga ''[[Egil's saga]]''; like many [[saga]]s, it can be unreliable as a source of historical fact.}}
+[[Image:Johannes-flintoe-egil-skallarimsson.jpg|300px|right|thumb|Egill engaging in [[holmgang]] with Berg-Önundr; painting by [[Johannes Flintoe]]]]
+
+Egill is born in [[Iceland]], to [[Skalla-Grímr|Skalla-Grímr Kveldúlfsson]]<ref>''Skalla-'' refers to his baldness and ''Grímr'' was a frequent name, being one of the names of [[Óðinn]], but also being a [[heiti]] for ''snake'', ''billy-goat'' and ''dwarf''</ref> and Bera Yngvarsdóttir; he is the grandson of [[Kveld-Úlfr]] (whose name means "evening Wolf"). Another of his ancestors, Hallbjörn, is Norwegian-[[Sami people|Sami]].<ref>{{cite journal |last1=Pálsson |first1=Hermann |title=The Sami People in Old Norse Literature |journal=Nordlit |date=1999 |volume=3 |issue=1 |pages=29–53 |doi=10.7557/13.2143|doi-access=free|quote="The following nouns were used about people of mixed parentage:".."halftroll 'a half troll'. This is used as the nickname of Hallbjorn of Ramsta in [[Namdalen]], father of Ketill hoengr, and ancestor of some of the settlers of Iceland, including Skalla-Grimr."}}</ref>
+
+Skalla-Grímr is a respected chieftain, and mortal enemy of King [[Harald Fairhair]] of [[Norway]]. He migrates to Iceland, settling at [[Borg á Mýrum|Borg]], the place where his father's coffin lands.
+
+Egill composed his first poem at the age of three years. He exhibits [[berserker (Viking)|berserk]] behaviour, and this, together with the description of his large and unattractive head, has led to the theory that he might have suffered from [[Paget's disease of bone|Paget's disease]], which causes a thickening of the bones and may lead eventually to blindness.<ref name=":0">{{cite web |url= http://www.viking.ucla.edu/Scientific_American/Egils_Bones.htm|title= Egil's Bones|last= Byock|first= Jesse L.|publisher= Scientific American |access-date= 2015-07-06|pages=82–87|date=January 1995|volume=272 #1|via=[http://www.viking.ucla.edu/ The Viking Site]}}</ref>
+
+At the age of seven, Egill is cheated in a game with local boys. Enraged, he goes home, procures an axe, and, returning to the boys, splits the skull to the teeth of the boy who had cheated him.<ref>{{cite book|title=Egil's Saga|date=1930|publisher=Cambridge University Press|location=Cambridge|page=75|chapter=Egil at the Ball-Play}}</ref> After Berg-Önundr refuses to allow Egill to claim his wife Ásgerðr's share of her father's inheritance, he challenged Önundr to a man-to-man fight on an island (a [[holmgang|''hólmganga'']]). Berg-Önundr refuses the challenge but is later killed along with his brother Hadd by Egill. Egill is later to kill the last of the brothers, Atli the Short, by biting through Atli's neck during a holmgangr.
+
+Later, after being grievously insulted, Egill kills Bárðr of Atley, a retainer of King [[Eirik Bloodaxe|Eiríkr Bloodaxe]] and kinsman of Queen Gunnhildr, both of whom spend the remainder of their lives trying to take vengeance. Seething with hatred, Gunnhildr orders her two brothers, [[Eyvind Braggart|Eyvindr Braggart]] and  Álfr Aksmann, to assassinate Egill and his brother Þórólfr, who has been on good terms with her previously. However, Egill slays the Queen's brothers when they attempt to confront him.
+
+In spring Þórólfr and Egill prepare a large warship and raid along the [[Route from Varangians to Greeks|Eastern route]] (''Austrvegr''), where they win much wealth and have many battles. In [[Courland]] they make a peace for half a month and trade with the men of the land (ch. 46).
+
+That same summer, [[Harald Fairhair|Haraldr Fairhair]] dies. In order to secure his place as sole King of Norway, [[Eric I of Norway|Eiríkr Bloodaxe]] murders his two brothers. He then declares Egill an outlaw in Norway. Berg-Önundr gathers a company of men to capture Egill, but is killed during his attempt to do so. Before escaping from Norway, Egill also slays Rögnvaldr, the son of King Eiríkr and Queen Gunnhildr. He then curses the King and Queen, setting a horse's head on a ''[[Nithing pole]]'' and saying
+:"Here I set up a ''níð''-pole, and declare this ''níð'' against King Eiríkr and Queen Gunnhildr,"&mdash;he turned the horse-head to face the mainland&mdash;"I declare this ''níð'' at the land-spirits there, and the land itself, so that all will fare astray, not to hold nor find their places, not until they wreak King Eiríkr and Gunnhildr from the land." He set up the pole of níð in the cliff-face and left it standing; he faced the horse's eyes on the land, and he carved runes upon the pole, and said all the formal words of the curse. (ch. 57).
+
+Gunnhildr also puts a spell on Egill, cursing him to feel restless and depressed until they meet again.
+
+Soon afterwards, Eiríkr and Gunnhildr are forced to flee to the [[Kingdom of Northumbria]] by Prince [[Haakon the Good|Hákon]]. In [[Saxon England]], they become King and Queen of [[Northumbria]] in rivalry with King [[Athelstan of England]]. In time, Egill is shipwrecked in Northumbria and comes to know who rules the land. Egill seeks out the house of his good friend Arinbjörn, where they arm themselves and march to Eiríkr's court. Arinbjörn tells Egill "now you must go and offer the king your head and embrace his foot. I will present your case to him." Arinbjörn presents Egill's case and Egill composes a short ''[[drápa]]'', reciting it with Eiríkr's foot in his hand, but Eiríkr is not impressed. He explains that Egill's wrongs to him were far too great to be forgiven so easily. Gunnhildr calls for the immediate execution of Egill, but Arinbjörn convinces the king not to kill him until the morning.
+
+Arinbjörn tells Egill that he should stay up all night and compose a mighty head-ransom poem or ''drápa'' fit for such a king, a poem in praise of his enemy. In the morning Egill goes back before king Eiríkr and recites the great ''drápa''. This twenty-stanza long head-ransom poem appears in Chapter 63 of ''[[Egil's saga|Egils saga]]''. Eiríkr is so surprised by the quality of the poem that he decides to give Egill his life, even though Egill has killed Eiríkr's own son. The complex nature of these poems, with complex [[Metre (poetry)|poetic metres]] and metaphors (including [[kenning]]s), as well as the fact that they were often about kings reliably attested in the historical record, provides some basis for supposing that they might have been composed by a historically real Egill Skallagrímsson, descending more or less unchanged through [[oral tradition]] from the time of their composition to the writing of ''Egils saga''. [[Egil's saga|''Egils saga'']] and some other Icelandic sagas appear to hang on a skeletal framework of such complex poetry, a spine of historical truth.<ref>{{Cite web|url = https://www.youtube.com/watch?v=JoV0HnkNXyE|title = What Made the Vikings Tick?|last = Johnson|first = Kevin}}</ref>
+
+Egill also fights at the [[Battle of Brunanburh]] in the service of King Æthelstan; his brother Þórólfr dies there, for which Egill receives two chests of silver from Æthelstan in compensation.<ref>"Egil's Saga". ''The Sagas of Icelanders''. Penguin Books, 2000. 109–119. Print.</ref>
+
+Ultimately, Egill returns to his family farm in [[Iceland]], where he remains a force to be reckoned with in local politics. He lives into his eighties, grows blind, and dies shortly before the [[Christianisation of Iceland]]. Before Egill dies he buries his silver near [[Mosfellsbær]]. In his last act of violence he kills the servants who help him bury his treasure.
+
+When a Christian [[chapel]] is constructed at the family homestead, Egill's body is exhumed by his son and re-buried near the [[Altar (Catholicism)|altar]]. According to the saga, the exhumed skull bone was hit with an axe, and it only turned white, showing the strength of the warrior, but also, according to one modern interpretations, suggesting the traits of [[Paget's disease of bone|Paget's disease]].<ref name=":0"/>
+
+==Issue==
+According to ''Egils saga'', Egill has five children with Ásgerðr Björnsdóttir: [[Thorgerd Egilsdottir|Þorgerðr Egilsdóttir]], Bera Egilsdóttir, Böðvar Egilsson, Gunnar Egilsson and Þorsteinn Egilsson. In later years, Iceland's [[Mýrasýsla|Mýrar]] [[clan]] claimed descent from him.
+
+==Poems==
+Apart from being a warrior of immense might in literary sources, Egill is also celebrated for his poetry, considered by many historians to be the finest of the ancient Scandinavian poets<ref name=":0"/><ref>{{Cite web|title = Egil Skallagrimsson and the Viking Ideal|url = http://www.medievalists.net/2013/03/18/egil-skallagrimsson-and-the-viking-ideal/|website = Medievalists.net|date = 19 March 2013|access-date = 2016-01-03}}</ref> and ''[[Sonatorrek]]'', the dirge over his own sons, has been called "the birth of Nordic personal lyric poetry".  His poems were also the first Old Norse verses to use [[end rhyme]].<ref name="Jansson26f">Jansson 1980:26-27</ref> The following works are attributed to Egill:
+
+#''Aðalsteinsdrápa''. ''[[Drápa]]'' for the Anglo-Saxon [[Athelstan of England|King Æthelstan]].
+#''[[Höfuðlausn]]'' ("The Head Ransom", sometimes referred to as "Head-Ransom"), with which Egill bought his life from [[Eric I of Norway|Eiríkr Bloodaxe]], who had sentenced him to death in [[England]].
+#''[[Sonatorrek]]'' ("The Loss of a Son"). After the death of his son Böðvar who drowned during a storm.
+#''[[Arinbjarnarkviða]]''. Dedicated to his companion Arinbjörn
+#''Skjaldardrápa''.
+#''Berudrápa''.
+#''Lausavísur''.
+#Fragments
+
+The following is one of Egill's ''Lausavísur'' (no. 3), found in chapter 40 of ''Egils Saga'':
+
+<!-- translations follow -->
+{|
+|
+:'''Edition'''<ref>Edited by [[Margaret Clunies Ross]] at [http://skaldic.arts.usyd.edu.au/db.php?table=poems&id=167 Skaldic Poetry of the Scandinavian Middle Ages] {{Webarchive|url=https://web.archive.org/web/20070831155641/http://skaldic.arts.usyd.edu.au/db.php?table=poems&id=167 |date=2007-08-31 }}.</ref>
+:''Þat mælti mín móðir'',
+:''at mér skyldi kaupa''
+:''fley ok fagrar árar,''
+:''fara á brott með víkingum,''
+:''standa upp í stafni,''
+:''stýra dýrum knerri,''
+:''halda svá til hafnar''
+:''höggva mann ok annan.''
+|
+:'''Translation by Herman Pálsson and Paul Edwards'''<ref>Herman Pálsson and Paul Edwards (trs.). ''Egil's Saga''. Harmondsworth, 1976. p. 94</ref>
+:"My mother wants a price paid
+:To purchase my proud-oared ship
+:Standing high in the stern
+:I'll scour for plunder.
+:The stout Viking steersman
+:Of this shining vessel:
+:Then home to harbour
+:After hewing down a man or two."
+|
+:'''More literal translation (Wikipedia)'''
+:"Thus spake my mother
+:That for me should they buy
+:A barque and beauteous oars
+:To go forth with vikings.
+:Stand in the stern,
+:Steer a dear vessel,
+:Hold course for a [[wiktionary:haven|haven]],
+:Hew down many foemen."
+|
+:'''Translation used in [[Vikings (2013 TV series)]]'''
+:"My Mother told me 
+:Some day I will buy 
+:A galley with good oars 
+:And sail to distant shores. 
+:Stand up on the prow, 
+:Noble bark I steer, 
+:A steady course to the haven, 
+:Hew many foemen."
+|}
+
+==Runes==
+Egill was also a scholar of [[runes]].  His apparent mastery of their magic powers assisted him several times during his journeys.  During a feast at Atla-isle, Bard's attempt to poison Egill failed when a rune carved by Egill shattered his poisoned cup.
+
+At a companion's request, he examined a sick woman.  A local land owner, after being denied her hand in marriage, had attempted to carve love-runes.  Instead, he had mistakenly carved runes causing illness.  Egill burned the offending runes and carved runes for health, and the woman recovered.  He then sang a poem declaring that "Runes none should grave ever/Who knows not to read them."
+
+As for the sick young woman, in addition to burning the runes, Egill ordered her to be lifted out of bed and her old bedding to be thrown away and replaced with new sheets. Recovery was swift.
+
+Runes were also employed by Egill during the raising of the Nithing Pole against King Eirik Bloodaxe and Queen Gunnhildr.
+
+==Egill in popular culture==
+* The Icelandic brewery [[Egill Skallagrímsson Brewery|Ölgerðin Egill Skallagrímsson]] is named after him.
+* There is a talk show on Icelandic television called ''Egill's Silver'', named after Egill's hidden treasure (the title is also a play on words with the host's name being Egill.)
+* "Egill's Silver" is also the name of a song by [[Megas]], from [[Megas (album)|his first album]].
+* In the [[Society for Creative Anachronism]] Barony of Adiantum there is an "Egil Skallagrimsson Memorial Tournament" held annually on memorial day weekend.
+* The novelist [[Poul Anderson]] (a member of the SCA) wrote ''[[Mother of Kings]]'',<ref>New York: Tor ({{ISBN|0-765-34502-1}}, {{ISBN|978-0-7653-4502-8}}), 2001, 2003</ref> a historical fantasy centered on [[Gunnhild]]r and the long feud that she, [[Eirik Bloodaxe|Eirikr]], and their children had with Egill.  The novel is based on ''[[Heimskringla]]'' and ''[[Egils Saga]]''.
+* "Egil Saga" is a song on the album ''Licht'' by the German band, [[Faun (band)|Faun]]. The lyrics are taken from "[[Egils Saga]]" and tell the story of the girl made sick by the runes and how Egil cured her.
+* Egil Skallagrímsson is a character in the historical fiction series [[The Saxon Stories|Saxon Stories]] by [[Bernard Cornwell]], who settles in Northumbria for a time as a close friend and ally to a fictionalized Uhtred of Bebbanburg. Similar to his historical counterpart, he fights at the [[Battle of Brunanburh]], alongside his brother Thorolfr and Lord Uhtred.
+
+==Footnotes==
+{{reflist}}
+
+==References==
+*Jansson, Sven B. (1980). ''Runstenar''. STF, Stockholm. {{ISBN|91-7156-015-7}}
+*Palsson, Hermann and Edwards, Paul (Translators), ''Egil's Saga'' 1976, Penguin Classics
+*Thorsson, Örnólfur, ed. (2000). ''The Sagas of the Icelanders'': A Selection. New York, New York: Penguin Putnam. {{ISBN|0-14-100003-1}}
+
+==External links==
+{{commons category|Egill Skallagrímsson}}
+*[https://web.archive.org/web/20110330115823/http://skaldic.arts.usyd.edu.au/db.php?table=skalds&id=45 Poems], Skaldic Poetry of the Scandinavian Middle Ages
+
+In [[English language|English]]:
+*[http://www.sagadb.org/egils_saga.en Egil's saga] - English translation (W. C. Green) at the Icelandic Saga Database, with original Old Norse and Icelandic text
+*[http://fathom.lib.uchicago.edu/1/777777122294/ Egil Skallagrimsson and the Viking Ideal] by Christina von Nolcken, from a [[University of Chicago]] website
+*[http://www.viking.ucla.edu/Scientific_American/Egils_Bones.htm Egil's Bones], from a [[University of California, Los Angeles]] website
+*[https://web.archive.org/web/20070227231449/http://www.northvegr.org/lore/egils_saga/index.php Text of the saga], translated into English by Rev. W. C. Green in 1893, from the [[Northvegr Foundation]]
+{{wikisourcelang|is|Egill Skalla-Grímsson|Egill Skallagrímsson}}
+In {{flagicon|Iceland}} [[Icelandic language|Icelandic]]:
+*[http://www.sagadb.org/egils_saga Egils saga]—Text of Egils saga at the Icelandic Saga Database, modern spelling and Old Norse version
+*[http://www.snerpa.is/net/isl/egils.htm Text of Egill's saga], with modern spelling
+*[http://www.skolavefur.is/lok/almennt/ljodskald_man/Egill_Skallagrimsson/Forsida_hofundar.htm Höfundur Egill Skallagrímsson]
+*[http://www.medievalists.net/2013/03/18/egil-skallagrimsson-and-the-viking-ideal/]
+
+<!-- No surname to sort by; see [[Icelandic name]] -->
+
+{{Heathen Skalds}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Egill Skallagrimsson}}
+[[Category:10th-century Icelandic people]]
+[[Category:900s births]]
+[[Category:990s deaths]]
+[[Category:Year of birth uncertain]]
+[[Category:Year of death uncertain]]
+[[Category:Icelandic poets]]
+[[Category:Viking Age poets]]
+[[Category:Viking warriors]]
+[[Category:Skalds]]
+[[Category:10th-century Icelandic poets]]

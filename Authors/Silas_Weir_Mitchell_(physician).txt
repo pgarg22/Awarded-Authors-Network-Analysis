@@ -1,0 +1,144 @@
+{{Use mdy dates|date=December 2014}}
+{{Infobox scientist
+|name              = Silas Weir Mitchell
+|image             = Silas Weir Mitchell.jpg
+|image_size        =
+|caption           = 
+|birth_date        = {{birth date|1829|2|15}}
+|birth_place       = [[Philadelphia, Pennsylvania]]
+|death_date        = {{death date and age|1914|1|4|1829|2|15}}
+|death_place       = Philadelphia, Pennsylvania
+|religion          =
+|nationality       = 
+|work_institutions =
+|alma_mater        = [[Jefferson Medical College]]
+|doctoral_advisor  =
+|doctoral_students =
+|known_for         = neurology research
+|author_abbrev_bot =
+|author_abbrev_zoo =
+|influences        =
+|influenced        =
+|prizes            =
+|residence         =
+|footnotes         =
+|signature         =
+}}
+
+'''Silas Weir Mitchell''' (February 15, 1829 – January 4, 1914) was an American physician, scientist, novelist, and poet. He is considered the father of medical [[neurology]], and he discovered [[causalgia]] (complex regional pain syndrome) and [[erythromelalgia]], and pioneered the [[bed rest|rest cure]].
+
+==Biography==
+Silas Weir Mitchell was born on February 15, 1829, in [[Philadelphia, Pennsylvania]], to [[John Kearsley Mitchell]] and Sarah Henry Mitchell.
+
+He studied at Philadelphia's renowned [[University of Pennsylvania]] and later earned the degree of [[Doctor of Medicine|MD]] at the city's [[Thomas Jefferson University|Jefferson Medical College]] in 1850. During the [[American Civil War|Civil War]], he was director of treatment of nervous injuries and maladies at Turners Lane Hospital, Philadelphia, and at the close of the war became a specialist in [[neurology]]. In this field Mitchell pioneered the [[rest cure]] for diseases now termed "psychiatric", particularly [[neurasthenia]] and [[hysteria]], subsequently taken up by the medical world.<ref name=Ellenberger2008>{{cite book |author=Ellenberger, Henri F. |authorlink=Henri Ellenberger |title=The Discovery of the Unconscious: The History and Evolution of Dynamic Psychiatry |url=https://books.google.com/books?id=Ke1jd_e7AyYC&pg=PA244 |date=August 2008 |publisher=Basic Books |isbn=978-0-7867-2480-2 |page=244}}</ref> The treatment consisted primarily in isolation, confinement to bed, [[dieting]], [[electrotherapy]] and [[massage]]; and was popularly known as 'Dr Diet and Dr Quiet'.<ref name=Ellenberger2008/> Mitchell advocated a high-fat diet to his patients.<ref>Morris, David B. (1991). ''The Culture of Pain''. University of California Press. p. 113. {{ISBN|978-0-520-08276-2}}</ref><ref>Foxcroft, Louise. (2012). ''Calories & Corsets: A History of Dieting Over 2, 000 Years''. Profile Books. p. 99. {{ISBN|978-1-84668-425-8}} </ref> He believed that a diet rich in fat would "fatten and redden" his patients, leading to a cure. To achieve this, large quantities of [[milk]] were prescribed. He requested his patients to consume two quarts or more milk a day.<ref>Adams, Henry. (2005). ''Eakins Revealed: The Secret Life of an American Artist''. Oxford University Press. p. 460. {{ISBN|978-0195156683}}</ref>
+
+His medical texts include ''Injuries of Nerves and Their Consequences'' (1872) and ''Fat and Blood'' (1877). [[Mitchell's disease]] ([[erythromelalgia]]) is named after him. He also coined the term [[phantom limb]] during his study of an amputee.<ref name=Woodhouse2005>{{cite journal |last1=Woodhouse |first1=Annie |title=Phantom limb sensation |journal=Clinical and Experimental Pharmacology and Physiology |volume=32 |issue=1–2 |year=2005 |pages=132–134 |issn=0305-1870 |doi=10.1111/j.1440-1681.2005.04142.x|pmid=15730449|s2cid=35696871 }}</ref> Mitchell discovered and treated [[causalgia]] (today known as [[Complex regional pain syndrome|CRPS]]/RSD), a condition most often encountered by hand surgeons. Mitchell is considered the father of medical neurology and a pioneer of "evidence-based" or "scientific" medicine. He was also a psychiatrist, toxicologist, author, poet, and celebrity in Europe as well as America. His contemporaries considered him a [[genius]] no less than [[Benjamin Franklin]].
+
+In 1866, he published a short story in the ''[[Atlantic Monthly]]'' resting upon both somatic and psychological insights entitled "The Case of George Dedlow".<ref>{{Cite journal|first=Silas Weir |last=Mitchell |date=July 1866 |title=The Case of George Dedlow |accessdate=2014-01-21 |url=https://www.theatlantic.com/magazine/archive/1866/07/the-case-of-george-dedlow/308771/ |journal=[[The Atlantic|Atlantic Monthly]]}}</ref> From that point onward, Mitchell divided his attention between scientific and literary pursuits. In the former field, he produced monographs on [[rattlesnake]] [[venom]], intellectual [[hygiene]], injuries to the [[nerve]]s, [[neurasthenia]], nervous diseases of women, the effects of gunshot wounds upon the nervous system, and relations between nurse, physician, and patient; in the latter, he wrote juvenile stories, several volumes of respectable [[poem|verse]] (''The Hill of Stones and Other Poems'' was published in 1883 by [[Houghton, Mifflin and Co.]]), and prose fiction of varying merit, which earned him a leading place among American authors at the close of the 19th century. His historical novels in particular, notably ''[[Hugh Wynne]]'' (1897), ''The Adventures of François'' (1898), ''The Youth of Washington'' (1904), and ''[[The Red City]]'' (1909), are among the best of their genre.
+
+He died on January 4, 1914 in Philadelphia and is interred at [[The Woodlands Cemetery]].<ref>{{cite web |title=Dr Silas Weir Mitchell |url=https://www.findagrave.com/memorial/11826114/silas-weir-mitchell |website=www.findagrave.com |accessdate=6 April 2019}}</ref>
+
+==Prominent patients==
+He was [[Charlotte Perkins Gilman]]'s doctor and his use of a [[rest cure]] on her provided the idea for "[[The Yellow Wallpaper]]", a short story in which the narrator is driven insane by this treatment. 
+
+His treatment was also used on [[Virginia Woolf]], who wrote a savage satire of it in her novel ''[[Mrs. Dalloway]]'' (1925): "you invoke proportion; order rest in bed; rest in solitude; silence and rest; rest without friends, without books, without messages; six months rest; until a man who went in weighing seven stone six comes out weighing twelve".<ref>{{cite book |author=Lee, Hermione |authorlink=Hermione Lee |title=Virginia Woolf |publisher=Chatto & Windus |location=London |year=1996 |page=194 |isbn=9780701165079}}</ref>
+
+===Influence on Freud===
+[[Sigmund Freud]] reviewed Mitchell's book on ''The Treatment of Certain Forms of Neurasthenia and Hysteria'' in 1887;<ref>{{cite book |first=Ernest |last=Jones |authorlink=Ernest Jones |title=The Life and Work of Sigmund Freud |title-link=The Life and Work of Sigmund Freud |year=1964 |page=210}}</ref> and used [[electrotherapy]] in his work into the 1890s.<ref name=Gay2006>{{cite book|first=Peter |last=Gay|authorlink=Peter Gay |title=Freud: A Life for Our Time |url=https://books.google.com/books?id=lVdU8yNRLN8C&pg=PA62|year=2006|publisher=W. W. Norton |isbn=978-0-393-32861-5 |page=62}}</ref>
+
+Freud also adopted Mitchell's use of physical relaxation as an adjunct to therapy, which arguably led to the institutionalization of the psychoanalytic couch.<ref>Ellenberger, p. 518.</ref>
+
+==Honors and recognition==
+Mitchell's eminence in science and letters was recognized by honorary degrees conferred upon him by several universities at home and abroad and by membership, honorary or active, in many American and foreign learned societies.  In 1887 he was president of the [[Association of American Physicians]] and in 1908–09 president of the [[American Neurological Association]].
+
+The American Academy of Neurology award for young researchers, the S. Weir Mitchell Award, is named for him.<ref name="aan">[http://tools.aan.com/science/awards/?fuseaction=home.info&id=19 American Academy of Neurology: S. Weir Mitchell award]</ref>
+
+''[[Crotalus mitchellii]]'', the speckled rattlesnake, was named after Mitchell.<ref>{{cite book|author1=Beolens, Bo|author2=Watkins, Michael|author3=Grayson, Michael|title=The Eponym Dictionary of Reptiles|url=https://books.google.com/books?id=3ovZoFyLhzkC&pg=PA180|date=2011|location=Baltimore|publisher=Johns Hopkins University Press|isbn=978-1-4214-0135-5|page=180}}</ref>
+
+==Terms==
+*'''Weir Mitchell skin''' – a red, glossy, perspiring skin seen in cases of incomplete irritative lesion of a nerve
+*'''Weir Mitchell treatment''' – a method of treating neurasthenia, hysteria, etc., by absolute [[bed rest]] (aka a rest cure), frequent and abundant feeding, and the systematic use of massage and electricity
+*'''Mitchell's disease''' – [[erythromelalgia]]
+:[[Dorland's Medical Dictionary]] (1938)
+
+==Selected publications==
+
+*[http://corescholar.libraries.wright.edu/special_books/5/ ''Rest in the Treatment of Nervous Disease''] (1875)
+*[https://archive.org/details/fatbloodhowtomak00mitc/page/n5 ''Fat and Blood: And How to Make Them''] (1877)
+*[https://archive.org/details/fatbloodneura00mitcuoft/page/n6 ''Fat and Blood: An Essay on the Treatment of Certain Forms of Neurasthenia and Hysteria''] (1884)
+*Mitchell, S. Weir and Edward T. Reichert. 1886. ''[https://archive.org/details/researchesuponve00mitcrich Researches upon the Venoms of Poisonous Serpents]''. Smithsonian Contributions to Knowledge, Number 647. The Smithsonian Institution. Washington, District of Columbia. 179 pp.
+*"[https://books.google.com/books?id=-B1aXa27OhQC&printsec=frontcover&dq=characteristics+weir+mitchell&hl=en&sa=X&ei=qdSNVca7A4v7oQTN3JzABg&ved=0CB0Q6AEwAA#v=onepage&q=characteristics%20weir%20mitchell&f=false Characteristics]" by S. Weir Mitchell, 1910 The Century Co., New York, NY, USA.
+*"[https://archive.org/details/cihm_75162 Circumstance]" by S. Weir Mitchell, MD. LL.D. Harvard and Edinburgh. Published 1902 by The Century Co.
+*''[https://archive.org/details/cu31924014324416 The Autobiography of a Quack and other stories]'' by S. Weir Mitchell, M.D. printed 1903
+
+==Cultural Club Founder ==
+Mitchell and 8 other members of the University Club at Penn founded [[The Franklin Inn Club]] in 1902.   
+
+==Art patron==
+He was a friend and patron of the artist [[Thomas Eakins]], and owned the painting ''Whistling for Plover''.<ref name=Reason2010>{{cite book|first=Akela |last=Reason|title=Thomas Eakins and the Uses of History|url=https://books.google.com/books?id=TuJT8Friy50C&pg=PA200|year=2010|publisher=University of Pennsylvania Press|isbn=978-0-8122-4198-3|page=200}}</ref> The Philadelphia Chippendale chairs seen in several Eakins paintings – such as ''[[William Rush and His Model|William Rush Carving his Allegorical Figure of Schuylkill River]]'' (1877) and the bas-relief ''Knitting'' (1883) – were borrowed from Mitchell.  Following Eakins's 1886 forced resignation from the [[Pennsylvania Academy of the Fine Arts]], Mitchell may have recommended the artist's trip to the [[Badlands]] of [[South Dakota]].
+
+The artist [[John Singer Sargent]] painted two portraits of Mitchell: one is in the collection of the [[College of Physicians of Philadelphia]]; the other, commissioned by the Mutual Assurance Company of Philadelphia in 1902, was recently sold (see External Links, below).
+
+The sculptor [[Augustus Saint-Gaudens]] modeled an 1884 bronze portrait plaque of Mitchell.<ref>[http://collections.si.edu/search/results.htm?q=record_ID:siris_jul_128983 ''Silas Weir Mitchell'' by Saint-Gaudens] from Smithsonian Institution.</ref> Mitchell commissioned Saint-Gaudens to create a monument to his deceased daughter Maria: ''The Angel of Purity'', a white marble version of the sculptor's ''Amor Caritas''. Originally installed in [[St. Stephen's Episcopal Church (Philadelphia)|Saint Stephen's Church, Philadelphia]], it is now at the [[Philadelphia Museum of Art]].
+
+<gallery class="center" widths="200px">
+File:Eakins, Whistling For Plover 1874.jpg|<sup>Brooklyn Museum</sup><br />''Whistling for Plover'' (1874)<br /> by [[Thomas Eakins]].
+File:Seventy-Years-Ago-(1877)-Eakins.jpg|<sup>Princeton University</sup><br />''Seventy Years Ago'' (1877)<br /> by Thomas Eakins.
+File:Augustus Saint-Gaudens, The Angel of Purity (Maria Mitchell Memorial) (1902).jpg|<sup>Philadelphia Museum of Art</sup><br />''The Angel of Purity'' (1902)<br /> by [[Augustus Saint-Gaudens]].
+</gallery>
+
+==Ghost story==
+Some time during the late 1800s, a ghost story was published about Dr. Mitchell that he was never able to lay to rest. The story tells how a very young girl in rags and threadbare shawl came to his door in bad weather and begged him to come take care of her sick mother. The girl guided Mitchell to the sick woman, who turned out to be a former house servant of his who was suffering from pneumonia. Mitchell helped the woman, then congratulated her on having such a fine daughter, but the woman told him her daughter died a month earlier. In a cupboard, Mitchell found the shawl the girl had been wearing; it had not been worn out that night.
+
+A 2011 study determined that the ghost story was likely originally told by Mitchell himself as entertainment at a medical meeting, then took on a life of its own. In his 1910 book "Characteristics," Mitchell wrote about a man who told a story "about a little dead child who rang up a doctor one night, and took him to see her dying mother;" the man was then constantly bothered by believers and disbelievers, and unable to stop the story. In context, it seems that Mitchell was referring to himself.<ref>[http://anomalyinfo.com/Stories/18481900-dr-s-weir-mitchells-strange-encounter ''Dr. S. Weir Mitchell's Strange Encounter''] by Garth Haslam, from the Anomalies website.</ref>
+
+=="The Yellow Wallpaper"==
+[[Charlotte Perkins Gilman]] claimed her short story "[[The Yellow Wallpaper#Gilman.27s interpretation|The Yellow Wallpaper]]" was directed at Mitchell that he might reconsider the rest cure.<ref>{{cite web|last1=Wayne|first1=Teddy, ed.|last2=Vincent|first2=Caitlin, ed.|title=The Yellow Wallpaper Study Guide|url=http://www.gradesaver.com/the-yellow-wallpaper|website=Grade Saver|accessdate=16 November 2015}}</ref> Although she has claimed to have sent a copy of the story, Mitchell never acknowledged his connection to the infamous story or that he ever received a copy. Perkins Gilman also claimed that Mitchell altered his Rest Cure treatment after reading "[[The Yellow Wallpaper]]," but there is no evidence that Mitchell ever changed or altered the Rest Cure.
+
+==References==
+{{Reflist|colwidth=40em}}
+
+==Further reading==
+* [[Anna Robeson Brown|Anna Robeson Brown Burr]], [https://books.google.com/books/about/Weir_Mitchell.html?id=6mJsAAAAMAAJ ''Weir Mitchell: His Life and Letters''] (Duffield & Company 1929). 
+* Nancy Cervetti, ''S. Weir Mitchell, 1829–1914: Philadelphia's Literary Physician.'' University Park, PA: Pennsylvania State University Press, 2012. {{ISBN|0271054042}}
+* [[Ellis Paxson Oberholtzer|E. P. Oberholtzer]], "[http://hdl.handle.net/2027/njp.32101077277133?urlappend=%3Bseq=146 Personal Memories of Weir Mitchell]," in the ''[[The Bookman (New York)|Bookman]]'', vol. 39 (1914). p.&nbsp;132
+* A. Proust and G. Ballet, ''[https://archive.org/details/treatmentneuras00smitgoog The Treatment of Neurasthenia].'' 1902.
+* Tucker, Beverly R., ''[https://archive.org/details/sweirmitchellbri00tuck S. Weir Mitchell].'' Gorham Press, Boston, 1914.
+* [[Talcott Williams]], "[http://hdl.handle.net/2027/mdp.39076000391172?urlappend=%3Bseq=150 Dr. S. Weir Mitchell]" in the ''[[The Century Magazine|Century Magazine]]'', vol. 57 (1898).
+* Talcott Williams, in several articles in the ''[[Book News Monthly]]'', vol. 26 (1907).
+* ''[https://archive.org/details/b24749898 A Catalogue of the Scientific and Literary Work of S. Weir Mitchell].'' Philadelphia, 1894.
+
+==External links==
+{{Wikiquote}}
+{{Commons category}}
+{{Library resources box|by=yes|onlinebooksby=yes| viaf=56749017}}
+* Finding aid to the [http://hdl.library.upenn.edu/1017/d/ead/upenn_rbml_MsColl413 S. Weir Mitchell collection] at the [http://www.library.upenn.edu/ University of Pennsylvania Libraries]
+*[http://www.whonamedit.com/doctor.cfm/959.html Silas Weir Mitchell]. Biography at ''WhoNamedIt''
+*[http://www.kansasmemory.org/item/223274 Silas Weir Mitchell papers from the Historic Psychiatry Collection, Menninger Archives, Kansas Historical Society]
+* {{Gutenberg author |id=Mitchell,+S.+Weir+(Silas+Weir)}}
+* {{Internet Archive author |sname=Silas Weir Mitchell}}
+*[http://dmr.bsu.edu/cdm4/results.php?CISOOP1=exact&CISOFIELD1=CISOSEARCHALL&CISOROOT=/HistChldBks&CISOBOX1=Mitchell%2C+S.+Weir+%28Silas+Weir%29%2C+1829-1914 Works by Silas Weir Mitchell] in the Ball State University Digital Media Repository
+*[http://www.schwarzgallery.com/catalog.php?id=78&sort=plate&plate=4&menu=1&group=0 Portrait of Silas Weir Mitchell by John Singer Sargent]
+*[https://web.archive.org/web/20090815010701/http://www.aan.com/science/awards/?fuseaction=home.info&id=19 S. Weir Mitchell Award of the American Academy of Neurology]
+*{{Find a Grave|11826114}}
+*{{Biographical Memoirs|mitchell-silas}}
+
+==Sources==
+{{EB1911|wstitle=Mitchell, Silas Weir|volume=18|page=618}}
+
+{{Authority control}}
+{{DEFAULTSORT:Mitchell, Silas Weir}}
+
+[[Category:1829 births]]
+[[Category:1914 deaths]]
+[[Category:19th-century American male writers]]
+[[Category:19th-century American physicians]]
+[[Category:American male non-fiction writers]]
+[[Category:American medical writers]]
+[[Category:American neurologists]]
+[[Category:Burials at The Woodlands Cemetery]]
+[[Category:Foreign Members of the Royal Society]]
+[[Category:High-fat diet advocates]]
+[[Category:Members of the American Philosophical Society]]
+[[Category:Physicians from Philadelphia]]
+[[Category:Thomas Jefferson University alumni]]

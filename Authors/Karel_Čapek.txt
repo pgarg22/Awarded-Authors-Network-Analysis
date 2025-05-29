@@ -1,0 +1,213 @@
+{{Short description|Early 20th-century Czech writer and playwright famous for his science fiction}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox writer
+| name   = Karel Čapek
+| image     = Karel-capek.jpg
+| caption  =
+| birth_date  = {{Birth date|df=y|1890|1|9}}
+| birth_place = [[Malé Svatoňovice]], [[Austria-Hungary]]
+| death_date  = {{death date and age|df=y|1938|12|25|1890|1|5}}
+| death_place = [[Prague]], [[Second Czechoslovak Republic|Czechoslovakia]]
+| nationality = [[Czech people|Czech]]
+| pseudonym =  K. Č., B. Č.
+| alma_mater  = [[Charles University in Prague]]
+| genre          = [[Science fiction]], [[Fairy tales]], [[Political satire]]
+| notableworks   = ''[[R.U.R]]''<br>''Válka s mloky'' ''([[War with the Newts]])''<br>''Bílá nemoc'' ''([[The White Disease]])''<br>''Továrna na absolutno'' ''([[The Absolute at Large]])''<br>''[[Krakatit]]''
+| occupation     = Novelist, dramatist, journalist, theorist
+| spouse         = [[Olga Scheinpflugová]]
+| relatives      = [[Josef Čapek]] <small>(brother)</small><br>Helena Čapková <small>(sister)</small>
+| awards         = {{flagicon image|TCH_Rad_T-G-Masaryka_1tr_(1990)_BAR.svg}} [[Order of Tomáš Garrigue Masaryk]] <small>(in memoriam)</small>
+| signature      = Karel Capek signature.svg
+}}
+
+'''Karel Čapek''' ({{IPA-cs|ˈkarɛl ˈtʃapɛk|lang|Cs-Karel Capek.ogg}}; 9 January 1890&nbsp;– 25 December 1938) was a Czech writer, playwright and critic. He has become best known for his [[science fiction]], including his novel ''[[War with the Newts]]'' (1936) and play ''[[R.U.R.]]'' (''Rossum's Universal Robots'', 1920), which introduced the word ''[[robot]]''.<ref name="ort">{{cite book|last= Ort |first= Thomas |title= Art and Life in Modernist Prague: Karel Capek and His Generation, 1911-1938 |publisher= Palgrave Macmillan |date= 2013 |isbn= 978-1-349-29532-6}}</ref><ref name=OED>Oxford English Dictionary: robot n2</ref> He also wrote many politically charged works dealing with the social turmoil of his time. Influenced by American pragmatic liberalism,<ref>{{cite book|last= Hanley|first= Seán|title= The New Right in the New Europe: Czech Transformation and Right-Wing |year= 2008 |publisher= Routledge |isbn= 978-0-415-34135-6 |page= 169 | url = https://books.google.com/books?id=UdZ-AgAAQBAJ | quote = The philosopher Vaclav Belohradsky, one of the few Czech intellectuals supportive of the 'civic' right during the early 1990s, [...] viewed Klaus's thinking as a return to the American-influenced pragmatic liberalism of the Czech essayist and writer Karel Capek [...].}}</ref> he campaigned in favour of free expression and strongly opposed the rise of both [[fascism]] and [[communism]] in Europe.<ref name="misterova">{{cite journal|url= http://www.literarylondon.org/london-journal/september2010/misterova.html |last= Misterova |first= Ivona |title= Letters from England: Views on London and Londoners by Karel Capek, the Czech "Gentleman Stroller of London Streets |journal= Literary London: Interdisciplinary Studies in the Representation of London. |volume= 8 |issue= 2 |date= 2010 |access-date= 20 July 2016}}</ref>{{sfn|Ort|2013|p= 3}}
+
+Though nominated for the [[Nobel Prize in Literature]] seven times,<ref>{{cite web|title= Nomination Database |url= https://www.nobelprize.org/nomination/archive/show_people.php?id=1590 |website= The Official Web Site of the Nobel Prize |access-date= 20 July 2016}}</ref> Čapek never received it. However, several awards commemorate his name,<ref>{{cite web|url= http://www.fit-ift.org/karel-capek/ |title= Karel Čapek Medal for Translation from a Language of Limited Diffusion |publisher= International Federation of Translators |access-date= 20 July 2016}}</ref><ref>{{cite web|url= http://www.databazeknih.cz/literarni-ceny/cena-karla-capka-cena-fandomu-mlok-30 |title= Cena Karla Čapka (cena fandomu - Mlok) |publisher= DatabazeKnih.cz |access-date= 20 July 2016}}</ref> such as the Karel Čapek Prize, awarded every other year by the Czech PEN Club for literary work that contributes to reinforcing or maintaining democratic and humanist values in society.<ref>{{cite web|url= http://www.czechlit.cz/en/czech-pen-club-awards-karel-capek-prize-to-petr-sabach/ |title= Czech PEN Club awards Karel Čapek Prize to Petr Šabach |date= 19 January 2016 |publisher= Ministry of Culture of the Czech Republic |access-date= 20 July 2016 | quote = The prize is awarded every other year for prosaic, dramatic or essayistic work by a Czech author which comprehensibly contributes to reinforcing or maintaining democratic and humanist values in society.}}</ref> He also played a key role in establishing the Czechoslovak PEN Club as a part of [[International PEN]].<ref name="sayer">Derek Sayer, ''The Coasts of Bohemia: A Czech History''. Princeton University Press, 2000 {{ISBN|069105052X}}, (p.22-3).</ref>
+
+Čapek died on the brink of [[World War II]] as the result of a lifelong medical condition.<ref name="ct24">
+{{cite web
+|last1= Strašíková|first1= Lucie
+|title =Čapek stihl zemřít dřív, než si pro něj přišlo gestapo
+|url= http://www.ceskatelevize.cz/ct24/exkluzivne-na-ct24/39843-capek-stihl-zemrit-driv-nez-si-pro-nej-prislo-gestapo/
+|language= cs|website= Česká televize|access-date= 4 June 2015
+}}
+</ref>
+His legacy as a literary figure became well established after the war.<ref name="misterova" />
+
+== Life ==
+[[Image:Capkuv dum.jpg|left|thumb|House of Čapek brothers in Prague 10, Vinohrady]]
+
+=== Early life and education ===
+Karel Čapek was born in 1890 in the village of [[Malé Svatoňovice]] in the [[Bohemia]]n mountains. However, six months after his birth, the Čapek family moved to their own house in [[Úpice]].{{sfn|Ort|2013|p= 17}} Karel Čapek's father, Antonín Čapek, worked as a doctor at the local textile factory.<ref name="oregon">{{cite web|url= http://journalism.uoregon.edu/~russial/cyberj/prism/people/jagernauth/capekwork.html |title= Life of Karel Čapek |publisher= Prism: UO Stories, University of Oregon |access-date= 20 July 2016}}</ref> Antonín was a very active person; apart from his work as a doctor, he also co-funded the local museum and was a member of the town council.<ref name="zena">{{cite web|url= http://zena-in.cz/clanek/bozena-capkova-sberatelka-maminka-slavnych-potomku |title= Božena Čapková, sběratelka, maminka slavných potomků |language= cs |publisher= ŽENA-IN.cz |author= Jana Ládyová |date= 23 June 2016 |access-date= 28 July 2016}}</ref> Despite opposing his father's [[materialism|materialist]] and [[positivism|positivist]] views, Karel Čapek loved and admired his father, later calling him “a good example... of the generation of [[Czech national revival|national awakeners]]”.{{sfn|Ort|2013|p= 19}} Karel's mother, Božena Čapková, was a homemaker.<ref name="oregon" /> Unlike her husband, she did not like life in the country, and she suffered from long-term depression.<ref name="zena" /> Despite that, she assiduously collected and recorded local folklore, such as legends, songs and stories.{{sfn|Ort|2013|pp= 17-18}} Karel was the youngest of three siblings. He would maintain an especially close relationship with his brother [[Josef Čapek|Josef]], a highly successful painter, living and working with him throughout his adult life.<ref name=Klima>{{cite book|last= Klíma|first= Ivan|title= Karel Čapek: Life and Work|year= 2001|publisher= Catbird Press|location= New Haven, CT|isbn= 978-0-945774-53-2 |pages= 191–199}}</ref> His sister, Helena, was a talented pianist who later become a writer and published several memoirs about Karel and Josef.<ref>{{cite web|url= http://www.mestohronov.cz/osobnosti-mesta/clanek/helena-capkova |title= Helena Čapková |language= cs |publisher= Město Hronov |access-date= 28 July 2016}}</ref>
+
+After finishing elementary school in Úpice, Karel moved with his grandmother to [[Hradec Králové]], where he started attending high school. Two years later the school expelled him for taking part in an illegal students' club.<ref name="oregon" /> Čapek later described the club as a "very non-murderous anarchist society".<ref>{{cite book|last1= Čapek |first1= Karel |last2= Čapek |first2= Josef |title= Ze společné tvorby: Krakonošova zahrada, Zářivé hlubiny a jiné prózy, Lásky hra osudná, Ze života hmyzu, Adam stvořitel |publisher= Československý spisovatel |date= 1982 |chapter= Předmluva autobiografická |language= cs |page= 13}}</ref> After this incident he moved to [[Brno]] with his sister and attempted to finish high school there, but two years later he moved again, to [[Prague]], where he finished high school at the Academic Grammar School in 1909.<ref name="oregon" /><ref>{{cite web|url= http://www.spisovatele.cz/karel-capek |title= Karel Čapek |publisher= Osobnosti.cz |language= cs |access-date= 20 July 2016}}</ref> During his teenage years Čapek became enamored with the visual arts, especially [[Cubism]], which influenced his later writing.<ref name="harkins">{{cite book |last= Harkins |first= William |editor-last= Čapek |editor-first= Karel |title= Three Novels: Hordubal, Meteor, An Ordinary Life |publisher= Catbird Press |date= 1990 |chapter= Introduction |isbn= 978-0-945774-08-2 |url= https://archive.org/details/isbn_9780945774082 }}</ref> After graduating from high school, he studied philosophy and aesthetics in Prague at [[Charles University]], but he also spent some time at the [[Humboldt University of Berlin|Friedrich Wilhelm University]] in Berlin and at the [[Sorbonne]] University in Paris.<ref name="oregon" /><ref name=Tobranova-Kuhnnova>{{cite book|last= Tobranova-Kuhnnova|first= Sarka|title= Believe in People: The essential Karel Capek|year= 1988|publisher= Faber and Faber|location= London|isbn= 978-0-571-23162-1|pages= xvii&nbsp;– xxxvi}}</ref> While still a university student he wrote some works on contemporary art and literature.{{sfn|Ort|2013|p= 21}} He graduated with a doctorate of philosophy in 1915.<ref>
+{{cite web|url= https://www.private-prague-guide.com/article/karel-capek-josef-capek/ |title= The artistic genius of Karel and Josef Čapek |publisher= Custom Travel Services s.r.o. (Ltd) |author= Tracy A. Burns |access-date= 20 July 2016}}
+</ref>
+
+=== World War I and Interwar period ===
+
+Exempted from military service due to the spinal problems that would haunt him his whole life, Čapek observed World War I from Prague. His political views were strongly affected by the war, and as a budding journalist he began to write on topics like [[nationalism]], [[totalitarianism]] and [[consumerism]].<ref name="js">[[James Sallis]], Review of '' Karel Capek: Life and Work'' by Ivan Klima. ''The Magazine of Fantasy and Science Fiction'', (pp. 37–40).</ref> Through social circles, the young author developed close relationships with many of the political leaders of the nascent Czechoslovak state, including [[Tomáš Garrigue Masaryk]], Czechoslovak patriot and the first [[President of Czechoslovakia]], and his son [[Jan Masaryk]],<ref>{{cite book|last=Liehm |first=Antonín J. |title=Closely Watched Films: The Czechoslovak Experience |publisher=Routledge |date=2016 |isbn=978-1138658059}} (p. 56)</ref><ref name="newsome">{{cite book|last=Newsome |first=Geoffrey |editor-last=Čapek |editor-first=Karel |title=Letters from England |publisher=Continuum |date=2001 |chapter=Introduction |isbn=0-8264-8485-9}} (p. 3)</ref> who would later become minister of foreign affairs. T. G. Masaryk was a regular guest at Čapek's "[[Friday Men]]" [[Garden party|garden parties]] for leading Czech intellectuals. Čapek was also a member of Masaryk's ''[[Hrad (politics)|Hrad]]'' political network.<ref>{{cite web|url=http://dejinyasoucasnost.cz/archiv/2007/1/t-g-masaryk-zrozen-k-mytu-/ |title=T. G. Masaryk: zrozen k mýtu |author=Šedivý, Ivan |publisher=Dějiny a současnost |language=cs |access-date=20 July 2016}}</ref> Their frequent conversations on various topics later served as the basis for Čapek's book ''Talks with T. G. Masaryk''.<ref>{{google books|e-udK8SWIQEC|Talks with T. G. Masaryk}}</ref>
+[[Image:Vysehrad_Nahrobek_Karla_Capka_a_Olgy_Scheinpflugove.jpg|right|thumb|Tomb of Karel Čapek and Olga Scheinpflugová at Vyšehrad cemetery]]
+Čapek began his writing career as a journalist. With his brother Josef, he worked as an editor for the Czech paper ''[[Národní listy]]'' ''(The National Newspaper)'' from October 1917 to April 1921.<ref name="pamatnik">{{cite web|url=http://www.capek-karel-pamatnik.cz/EN/vismo/dokumenty2.asp?id_org=200086&id=1012 |title=The Life of Karel Čapek |publisher=Památník Karla Čapka |date=16 February 2015 |access-date=20 July 2016}}</ref> Upon leaving, he and Josef joined the staff of ''[[Lidové noviny]]'' ''(The People's Paper)'' in April 1921.<ref>Sarka Tobrmanova-Kuhnova, "Introduction," to Karel Čapek, "Believe in People: the essential Karel Čapek."London, Faber and Faber 2010, 2010, {{ISBN|9780571231621}} (p.xxiv-xxv).</ref>
+
+Čapek's early attempts at fiction were short stories and plays for the most part written with his brother [[Josef Čapek|Josef]].<ref>{{cite web|url=http://www.aktualne.cz/wiki/osobnosti/zaslouzili-umelci/josef-capek/r~0fccd4cceffd11e3b78f0025900fea04/ |title=Josef Čapek |publisher=aktualne.cz |language=cs |date=9 June 2014 |access-date=18 July 2016}}</ref><ref name="radio">{{cite web|url=http://www.radio.cz/en/section/czechs/karel-capek |title=Karel Čapek |publisher=Český rozhlas |date=12 January 2000 |author=Nick Carey |access-date=20 July 2016}}</ref> Čapek's first international success was ''[[R.U.R.]]'', a dystopian work about a bad day at a factory populated with [[Sentience|sentient]] [[android (robot)|androids]]. The play was translated into English in 1922, and was being performed in the UK and America by 1923. Throughout the 1920s, Čapek worked in many writing genres, producing both fiction and non-fiction, but worked primarily as a journalist.<ref name="js" /> In the 1930s, Čapek's work focused on the threat of brutal [[national socialist]] and fascist dictatorships; by the mid-1930s, Čapek had become "an outspoken anti-fascist".<ref name="js" /> He also became a member of [[International PEN]] Club. Established, and was the first president of the Czechoslovak PEN Club.<ref name="sayer" />
+
+=== Late life and death ===
+
+In 1935 Karel Čapek married actress [[Olga Scheinpflugová]], after a long acquaintance.<ref name="oregon" />{{sfn|Klíma|2001|pp=200-206}} In 1938 it became clear that the Western allies, namely [[French Third Republic|France]] and the [[United Kingdom]], would fail to fulfil the pre-war treaty agreements, and they [[Western betrayal|refused to defend]] Czechoslovakia against [[Nazi Germany]]. Although offered the chance to go to exile in England, Čapek refused to leave his country&nbsp;– even though the Nazi [[Gestapo]] had named him "public enemy number two".<ref name="mailbox">{{cite web|url=http://www.radio.cz/en/section/mailbox/mailbox-2012-03-03 |title=Radio Prague - Mailbox |publisher=Český rozhlas |date=3 March 2012 |access-date=19 July 2016}}</ref> While repairing flood damage to his family's summer house in [[Stará Huť]], he contracted a common cold.<ref name="pamatnik" /> As he had suffered all his life from [[spondyloarthritis]] and was also a heavy smoker, Karel Čapek died of [[pneumonia]], on 25 December 1938.<ref name="radio" />
+
+Surprisingly, the Gestapo was not aware of his death. Several months later, just after the [[German occupation of Czechoslovakia|German invasion of Czechoslovakia]], Nazi agents came to the Čapek family house in Prague to arrest him.<ref name="ct24" /> Upon discovering that he had already been dead for some time, they arrested and interrogated his wife Olga.<ref>{{cite web|url=http://www.spisovatele.cz/karel-capek |title=Olga Scheinpflugová |publisher=Osobnosti.cz |language=cs |access-date=20 July 2016}}</ref> His brother Josef was arrested in September and eventually died in the [[Bergen-Belsen concentration camp]] in April 1945.<ref>[[Adam Roberts (British writer)|Adam Roberts]], "Introduction", to  ''RUR & War with the Newts''. London, Gollancz, 2011, {{ISBN|0575099453}} (p.vi).</ref> Karel Čapek and his wife are buried at the [[Vyšehrad cemetery]] in Prague. The inscription on the tombstone reads: "Here would have been buried Josef Čapek, painter and poet. Grave far away."<ref name="mailbox" />
+
+== Writing ==
+[[Image:Karel_%C4%8Capek_-_rukopis.jpg|thumb|Karel Čapek's handwriting]]
+Karel Čapek wrote on a wide variety of subjects. His works are known for their precise description of reality.<ref>{{cite web|url=http://slovoasmysl.ff.cuni.cz/node/16 |title=Karel Čapek - pragmatista a ironik |publisher=Slovo a smysl (Word & Sense) |language=cs |access-date=18 July 2016}}</ref> Čapek is renowned for his work with the [[Czech language]].<ref>{{cite journal |last=Jedlička |first=Alois |date=1991 |title=Jazykové a jazykovědné zájmy Karla Čapka |url=http://nase-rec.ujc.cas.cz/archiv.php?lang=en&art=6978 |journal=Naše řeč |language=cs |volume=74 |issue=1 |pages=6–15 |access-date=18 July 2016}}</ref><ref>{{cite web|url=https://www.aktualne.cz/wiki/osobnosti/zaslouzili-umelci/karel-capek/r~e6f033fac0f411e3a1ef002590604f2e/ |title=Karel Čapek |publisher=aktualne.cz |language=cs |date=10 April 2014 |access-date=18 July 2016}}</ref> He is known as a [[science fiction author]], who wrote before science fiction became widely recognized as a separate genre. Many of his works also discuss ethical aspects of industrial inventions and processes already anticipated in the first half of the 20th century. These include [[mass production]], [[nuclear weapon]]s and intelligent artificial beings such as robots or androids. His most productive years were during [[History of Czechoslovakia (1918–1938)|The First Republic of Czechoslovakia]] (1918–1938).
+
+Čapek also expressed fear of social disasters, dictatorship, violence, human stupidity, the unlimited power of corporations, and greed.  Čapek tried to find hope, and the way out.
+
+From the 1930s onward, Čapek's work became increasingly [[anti-fascist]], [[anti-militarist]], and critical of what he saw as "irrationalism".<ref name="ds">[[Darko Suvin]], "Capek, Karel" in
+''[[Twentieth-Century Science-Fiction Writers]]'' by Curtis C. Smith. St. James Press, 1986, {{ISBN|0-912289-27-9}} (p.842-4).</ref>
+
+[[Ivan Klíma]], in his biography of Čapek, notes his influence on modern Czech literature, as well as on the development of Czech as a written language. Čapek, along with contemporaries like [[Jaroslav Hašek]], spawned part of the early 20th-century revival in written Czech thanks to their decision to use the vernacular. Klíma writes, "It is thanks to Čapek that the written Czech language grew closer to the language people actually spoke".<ref name=Klima />  Čapek was also a translator, and his translations of French poetry into the language inspired a new generation of Czech poets.<ref name=Klima />
+
+His other books and plays include [[Detective fiction|detective stories]], novels, [[fairy tale]]s and [[Play (theatre)|theatre plays]], and even a book on gardening.<ref>''The Gardener's Year'', illustrated by Josef Čapek. First published in Prague, 1929. English edition London: George Allen & Unwin, 1931</ref> His most important works attempt to resolve problems of [[epistemology]], to answer the question: "What is knowledge?" Examples include ''Tales from Two Pockets'', and the first book of the trilogy of novels ''[[Hordubal]],'' ''Meteor,'' and ''An Ordinary Life.'' He also co-wrote (with his brother Josef) the libretto for [[Zdeněk Folprecht (composer)|Zdeněk Folprecht]]'s opera ''Lásky hra osudná'' in 1922.<ref>"Karel Čapek". ''[[The New Grove Dictionary of Music and Musicians]]''. 2nd edition, Oxford, 2001.</ref>
+
+After World War II, Čapek's work was only reluctantly accepted by the communist government of Czechoslovakia, because during his life he had refused to accept communism as a viable alternative. He was the first in a series of influential non-Marxist intellectuals who wrote a newspaper essay in a series called "Why I am not a Communist".<ref>K. Čapek, [http://capek.misto.cz/english/communist.html ''Why I am not a Communist?''] {{webarchive|url=https://web.archive.org/web/20100105062749/http://capek.misto.cz/english/communist.html |date=5 January 2010 }} [[Přítomnost]] 4 December 1924.</ref>
+
+In 2009 (70 years after his death), a book was published containing extensive correspondence by Karel Čapek, in which the writer discusses the subjects of [[pacifism]] and his [[Conscientious Objectors|conscientious objection]] to military service with lawyer Jindřich Groag from [[Brno]]. Until then, only a portion of these letters were known.<ref>[http://nakladatelstvi-nzb.abchistory.cz/index.html?pod=/_0002-vojaku-vladimire----karel-capek--jindrich-groag-a-odpiraci-vojenske-sluzby.htm ''„Vojáku Vladimíre...“: Karel Čapek, Jindřich Groag a odpírači vojenské služby''], Nakladatelství Zdeněk Bauer, Prague 2009.</ref>
+
+[[Arthur Miller]] wrote in 1990: <blockquote>I read Karel Čapek for the first time when I was a college student long
+ago in the Thirties. There was no writer like him...prophetic assurance mixed with surrealistic humour and hard-edged social satire: a unique combination...he is a joy to read.<ref>Miller, Arthur. "Foreword" to ''Toward the Radical Center: A Karel Capek Reader'',
+edited by Peter Kussi.Catbird Press, 1990, {{ISBN|0945774079}} .</ref></blockquote>
+
+== Etymology of ''robot'' ==
+[[Image:R.U.R._by_Karel_%C4%8Capek_1939.jpg|right|thumb|R.U.R. theatrical poster, 1939]]
+Karel Čapek introduced and made popular the frequently used international word ''[[robot]]'', which first appeared in his play ''[[R.U.R. (Rossum's Universal Robots)|R.U.R.]]'' in 1920. While it is frequently thought that he was the originator of the word, he wrote a short letter in reference to an article in the ''[[Oxford English Dictionary]]'' [[etymology]] in which he named his brother, painter and writer [[Josef Čapek]], as its actual inventor.<ref>[http://capek.misto.cz/english/robot.html Karel Capek&nbsp;– Who did actually invent the word "robot" and what does it mean?] {{webarchive|url=https://web.archive.org/web/20120204135259/http://capek.misto.cz/english/robot.html |date=4 February 2012 }} at capek.misto.cz</ref><ref>[[Ivan Margolius]],'The Robot of Prague',  Newsletter, The Friends of Czech Heritage no. 17, Autumn 2017, pp. 3 - 6.  https://czechfriends.net/images/RobotsMargoliusJul2017.pdf</ref> In an article in the Czech journal ''[[Lidové noviny]]'' in 1933, he also explained that he had originally wanted to call the creatures ''laboři'' (from Latin ''labor'', work). However, he did not like the word, seeing it as too artificial, and sought advice from his brother Josef, who suggested ''roboti'' (''robots'' in English).
+
+The word ''robot'' comes from the word ''robota''. The word robota means literally "[[corvée]]", "serf labor", and figuratively "drudgery" or "hard work" in Czech. It also means "work", "labor" in [[Slovak (language)|Slovak]], archaic Czech, and many other Slavic languages (e.g., [[Bulgarian (language)|Bulgarian]], [[Russian (language)|Russian]], [[Serbian (language)|Serbian]], [[Polish (language)|Polish]], [[Macedonian (language)|Macedonian]], [[Ukrainian (language)|Ukrainian]], etc.). It derives from the reconstructed [[Proto-Slavic language|Proto-Slavic]] word [[wikt:Reconstruction:Proto-Slavic/orbota|*orbota]], meaning "work, hard work, obligatory work for the king, or a short form used for plowing".
+
+==Awards and honours==
+The asteroid [[1931 Čapek]], discovered by [[Luboš Kohoutek]] was named after him.<ref name="springer">{{cite book |title = Dictionary of Minor Planet Names – (1931) Čapek  |last  = Schmadel | first = Lutz |publisher  = [[Springer Berlin Heidelberg]]  |page  = 155  |date  = 2007 |isbn  = 978-3-540-00238-3|doi  = 10.1007/978-3-540-29925-7_1932 |chapter  = (1931) Čapek }}</ref>
+
+Čapek received the [[Order of Tomáš Garrigue Masaryk]],  in memoriam, in 1991.
+
+[[Richard E. Pattis]] named the [[Karel (programming language)|Karel (Programming Language)]] for Čapek. <ref>{{Cite web|title=Programming in Karel|url=https://web.stanford.edu/class/cs106j/lectures/02-Programming-In-Karel/02-Programming-In-Karel.pdf|url-status=live}}</ref>
+
+== Selected works ==
+
+=== Plays ===
+* 1920&nbsp;– ''The Outlaw'' (''Loupežník'')
+* 1920&nbsp;– ''[[R.U.R.]]'' (''Rossum's Universal Robots''), (''Rossumovi univerzální roboti'')&nbsp;– play with one of the first examples of artificial intelligence human-like beings in art and literature.
+* 1921&nbsp;– ''[[Pictures from the Insects' Life]]'' (''Ze života hmyzu''), also known as ''The Insect Play'' or ''The Life of the Insects'', with Josef Čapek, a satire in which insects stand in for various human characteristics: the flighty, vain [[butterfly]], the obsequious, self-serving [[dung beetle]].
+* 1922&nbsp;– ''[[The Makropulos Affair]]'' (''Věc Makropulos'')&nbsp;– play about human immortality, not really from a science-fiction point of view. [[Leoš Janáček|Leoš Janáček's]] opera is based on that.
+* 1927&nbsp;– ''Adam the Creator'' (''Adam stvořitel'') – The titular hero tries to destroy the world and replace it with a better one.<ref name="ds" /> It was adapted into [[Japan Animator Expo|an animated short]] by Japanese director [[Mahiro Maeda]] in 2015.
+* 1937&nbsp;– ''[[The White Disease]]'' (''Bílá nemoc'')&nbsp;– earlier translated as (''Power and Glory''). About the conflict between a pacifist doctor and the fascistic Marshal. This was the answer to coming Nazi era in the air, just before the start of WWII.<ref name="ds" />
+* 1938&nbsp;– ''[[The Mother (Matka)|The Mother'' (''Matka'')]]
+
+=== Novels ===
+* 1922&nbsp;– ''[[The Absolute at Large]]'' (''Továrna na absolutno'')&nbsp;– novel which can be interpreted as a vision of [[consumer society]].
+* 1922&nbsp;– ''[[Krakatit]]''&nbsp;– novel, the plot of which includes a prediction of a nuclear-weapon-like explosive.
+* 1933&nbsp;– ''[[Hordubal]]'' – First part of the "[[Nous|Noetic]] Trilogy".
+* 1934&nbsp;– ''Meteor'' (''Povětroň'') – Second part of the "Noetic Trilogy".
+* 1934&nbsp;– ''An Ordinary Life'' (''Obyčejný život'') – Third part of the "Noetic Trilogy".
+* 1936&nbsp;– ''[[War with the Newts]]'' (''Válka s mloky'')&nbsp;– satirical [[dystopia]]n novel.
+* 1937&nbsp;– ''The First Rescue Party'' (''První parta'') - novel based on the experiences of members of a rescue squad at the site of a mining accident. Became the basis for [[První parta (film)|a film]] in 1959.
+* 1939&nbsp;– ''[[Life and Work of the Composer Foltýn]]'' (''Život a dílo skladatele Foltýna'') – unfinished, published posthumously
+
+=== Travel books ===
+*''Letters from Italy'' (Italské listy, 1923)<ref>{{google books|860JAQAAIAAJ|Letters from Italy}}</ref>
+*''Letters from England'' (Anglické listy, 1924)<ref>{{google books|qGBgpDuTcRYC|Letters from England}}, translated by Geoffrey Newsome in 2001</ref>
+*''Letters from Spain'' (Výlet do Španěl, 1930)<ref>{{google books|IgESwyhx-coC|Letters from Spain}}</ref>
+*''Letters from Holland'' (Obrázky z Holandska, 1932)<ref>{{google books|HU48jZn4Z0kC|Letters from Holland}}</ref>
+*''Travels in the North'' (Cesta na Sever, 1936)<ref>{{google books|qidjAAAAIAAJ|Travels in the North}}</ref>
+
+=== Other works ===
+* ''Stories from a Pocket'' and ''Stories from Another Pocket'', (Povídky z jedné a z druhé kapsy)&nbsp;– a common name for a cycle of short detective stories (5–10 pages long) that shared common attitude and characters, including The Last Judgement.
+* ''How it is Made'' (''Jak se co dělá'') – satiric novels on the life of theater, newspaper and movie studio.
+* ''The Gardener's Year'' (''Zahradníkův rok'', 1929) is exactly what it says it is: a year-round guide to gardening, charmingly written, with illustrations by his brother Josef Čapek.<ref>{{Google books|xize7b1KG4oC|The Gardener's Year}}</ref>
+* ''Apocryphal Tales'' (''Kniha apokryfů'', 1932, 2nd edition 1945)<ref>{{Google books|kZD5ZeKILtwC|Apocryphal Tales}}</ref> – short stories about literary and historical characters, such as [[Hamlet]], a struggling playwright, [[Pontius Pilate]], [[Don Juan]], [[Alexander the Great|Alexander]] arguing with his teacher [[Aristotle]], and [[Sarah]] and [[Abraham]] attempting to name ten good people so [[Sodom and Gomorrah|Sodom]] can be saved.
+* ''Nine Fairy Tales: And One More Thrown in for Good Measure'' (''Devatero Pohádek a ještě jedna od Josefa Čapka jako přívažek'', 1932) –  a collection of [[fairy tale]]s, aimed at children.
+* ''Dashenka, or the Life of a Puppy'' (''Dášeňka čili Život štěněte'', 1933)<ref>{{google books|sfQuAAAAIAAJ|Dashenka, or the Life of a Puppy}}</ref>
+* ''The Shirts '' (short story)
+
+== Selected bibliography ==
+{{clarify|date=September 2018|reason=relation to Selected works and Other works above}}
+* ''The Absolute at Large'', 1922 (in Czech), 1927, The Macmillan Company, New York, translator uncredited. Also published June 1975, Garland Publishing {{ISBN|0-8240-1403-0}},
+* ''[https://books.google.com/books?id=kZD5ZeKILtwC Apocryphal Tales]'', 1945 (in Czech), May 1997, Catbird Press Paperback {{ISBN|0-945774-34-6}}, Translated by Norma Comrada
+* ''An Atomic Phantasy: Krakatit'' or simply ''Krakatit'', 1924 (in Czech)
+* ''Believe in People : the essential Karel Čapek : previously untranslated journalism and letters'' 2010. Faber and Faber, {{ISBN|9780571231621}}. Selected and translated with an introduction by Šárka Tobrmanová-Kühnová ; preface by [[John Carey (critic)|John Carey]].
+* ''The Cheat''. Allen and Unwin, 1941.
+* ''Cross Roads'', 2002, Catbird Press, {{ISBN|0-945774-55-9}} cloth; 0-945774-54-0 trade paperback. Translation by Norma Comrada of "Boží muka" (1917) and "Trapné povídky" (1921).
+* ''I Had a Dog and a Cat''. Allen & Unwin, 1940.
+* ''Nine Fairy Tales: And One More Thrown in for Good Measure'', October 1996, Northwestern Univ Press Paperback Reissue Edition, {{ISBN|0-8101-1464-X}}. Illustrated by Josef Capek, Translated by Dagmar Herrmann
+* ''R.U.R'', March 1970, Pocket Books {{ISBN|0-671-46605-4}}
+* ''Tales from Two Pockets'' 1928-9 (in Czech), 1994, Catbird Press Paperback, {{ISBN|0-945774-25-7}}. Translation by Norma Comrada.
+* ''Talks With T. G. Masaryk'' (non-fiction). Biography of [[Tomáš Garrigue Masaryk|T. G. Masaryk]], founder of Czechoslovakia.
+* ''Three Novels: Hordubal, Meteor, An Ordinary Life'', 1933–34, Translated by [[M. and R. Weatherall]], 1990, Catbird Press
+* ''Toward the Radical Center: A Karel Capek Reader''. Collection of stories, plays and columns. Edited by [[Peter Kussi]], Catbird Press {{ISBN|0-945774-07-9}}
+* ''[[War with the Newts]]'' 1936 (in Czech), May 1967, Berkley Medallion Edition Paperback. Translated by [[M. & R. Weatherall]], March 1990, Catbird Press paperback, {{ISBN|0-945774-10-9}}, October 1996, Northwestern University Press paperback {{ISBN|0-8101-1468-2}}. Another English translation by Ewald Osers {{ISBN|978-0-945774-10-5}}
+
+== See also ==
+*[[Brothers Čapek]]
+*[[Czech science fiction and fantasy]] Czechoslovak science-fiction
+
+== References ==
+{{Reflist|25em}}
+
+== Further reading ==
+* Šulcová, Marie. Čapci, Ladění pro dvě struny, Poločas nadějí, Brána věčnosti. Praha: Melantrich 1993-98
+* Šulcová, Marie. Prodloužený čas Josefa Čapka. Praha: Paseka 2000
+* Harkins, William Edward. Karel Čapek. New York: Columbia University Press, 1962.
+* Gabriel, Jiří, ed. Slovník Českých Filozofů. V Brne: Masarykova univerzita, 1998, 79–82 (in Czech).
+* Swirski, Peter. "Chapter 4 Karel Čapek and the Politics of Memory" ''From LowBrow to Nobrow''. Montreal, London: McGill-Queen's University Press, 2005.
+* Milner, Andrew. "Chapter 6 From Rossums Universal Robots to Buffy the Vampire Slayer" ''Literature, Culture and Society''. London, New York: Routledge, 2005.
+* Margolius, Ivan. 'The Robot of Prague',  Newsletter, The Friends of Czech Heritage no. 17, Autumn 2017, pp.&nbsp;3 – 6.  https://czechfriends.net/images/RobotsMargoliusJul2017.pdf
+* Preclík, Vratislav. ''Masaryk a legie, Masaryk and legions'', first issue váz. kniha, 219 pages, vydalo nakladatelství Paris Karviná, Žižkova 2379 (734 01 Karviná, Czechia) ve spolupráci s Masarykovým demokratickým hnutím (in cooperation with Masaryk Democratic Movement, Prague), 2019, {{ISBN|978-80-87173-47-3}}
+
+;Čapek biographies in English
+* ''Karel Čapek: An Essay'' by Alexander Matuška, George Allen & Unwin Ltd., 1964. Translation from the Slovak by Cathryn Alan of ''Člověk proti zkáze: Pokus o Karla Čapka''.
+* ''Karel Čapek'' by William E. Harkins, Columbia University Press, 1962.
+* ''Karel Čapek: In Pursuit of Truth, Tolerance and Trust'' by Bohuslava R. Bradbrook, Sussex Academic Press, 1998, {{ISBN|1-898723-85-0}}.
+* ''Karel Čapek: Life and Work'' by Ivan Klíma, Catbird Press, 2002, {{ISBN|0-945774-53-2}}. Translation from the Czech by Norma Comrada of ''Velký věk chce mít též velké mordy: Život a dílo Karla Čapka''.
+
+== External links ==
+{{Commons category|Karel Čapek}}
+{{Wikisource author|Karel Čapek}}
+{{wikiquote}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/karel-capek}}
+* {{Gutenberg author |id=4823 | name=Karel Čapek}}
+* {{FadedPage|id=Čapek, Karel|name=Karel Čapek|author=yes}}
+* {{Internet Archive author |sname=Karel Čapek |sopt=w}}
+* {{Librivox author |id=10580}}
+* {{Books and Writers |id=capek |name=Karel Čapek}}
+* [http://cscs.umich.edu/~crshalizi/notebooks/capek.html Karel Čapek, 1890—1938]&nbsp;– brief biography, with information about the writer's plays and novels
+* [http://www.karelcapek.com/ KarelCapek.com]
+* [http://www.catbirdpress.com/authorpages/capek.htm Karel Čapek page at ''Catbird Press'', a publisher of several Čapek translations]
+* {{Isfdb name|id=161|name=Karel Čapek}}
+* [https://ebooks.adelaide.edu.au/c/capek/karel/ Čapek in English translation by David Wyllie]
+* [http://www.ekniznica.sk/kniha/capek_karel_valka_s_mloky_1_andrias_sheuchzeri_kapitola_1.php Čapek, Karel: Válka s Mloky] Czech version, online book
+* [http://www.litencyc.com/php/speople.php?rec=true&UID=728 Karel Čapek entry at the Literary Encyclopedia]
+* [http://www.mlp.cz/karelcapek/ {{in lang|cs}} Complete work of Karel Capek is available in fulltext on the web sites of Municipal library in Prague]
+* [http://baila.net/autor/169201673/karel-capek Karel Čapek at Czechoslovak book network Baila.net]
+* {{LCAuth|n50035042|Karel Čapek|300|ue}}
+* [https://lccn.loc.gov/n88092947 Bratří Čapkové] (The Brothers Čapek) at LC Authorities, with 6 records
+
+{{Authority control}}
+
+{{DEFAULTSORT:Capek, Karel}}
+[[Category:Karel Čapek| ]]
+[[Category:1890 births]]
+[[Category:1938 deaths]]
+[[Category:Charles University alumni]]
+[[Category:Czech anti-fascists]]
+[[Category:Czech anti-communists]]
+[[Category:20th-century Czech dramatists and playwrights]]
+[[Category:Czech male dramatists and playwrights]]
+[[Category:Czech science fiction writers]]
+[[Category:Modernist theatre]]
+[[Category:Modernist writers]]
+[[Category:People from the Kingdom of Bohemia]]
+[[Category:People from Trutnov District]]
+[[Category:Recipients of the Order of Tomáš Garrigue Masaryk]]
+[[Category:Writers who illustrated their own writing]]
+[[Category:Czech male novelists]]
+[[Category:Burials at Vyšehrad Cemetery]]

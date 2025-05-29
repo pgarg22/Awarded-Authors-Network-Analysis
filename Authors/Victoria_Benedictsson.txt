@@ -1,0 +1,44 @@
+{{Sources exist|date=July 2020}}
+{{Use mdy dates|date=April 2020}}
+
+{{infobox person/Wikidata | fetchwikidata=ALL|birth_place=[[Trelleborg Municipality|Domme]]|birth_name=Victoria Maria Bruzelius}}
+'''Victoria Benedictsson''' (March 6, 1850 in [[Trelleborg Municipality|Domme]] – July 21, 1888) was a Swedish author. She was born as '''Victoria Maria Bruzelius''' in Domme, a village in the province of [[Skåne]]. She wrote under the pen name '''Ernst Ahlgren'''. Notable works include ''Pengar'' (1885) and ''Fru Marianne'' (1887).<ref>{{Cite web|title=Benedictsson, Victoria (pseud. Ernst Ahlgren)|url=https://nordicwomensliterature.net/writers/benedictsson-victoria-pseud-ernst-ahlgren/|access-date=2020-11-09|website=Nordic Women's Literature|language=en-GB}}</ref>
+
+== Life ==
+Benedictsson grew up on a farm in Sweden. At 21 she married a 49-year-old widower from [[Hörby]]. After an illness left her bed-bound, Benedictsson turned to writing, publishing her first collection of stories, ''Från Skåne,'' in 1884.<ref>{{Cite web|title=Victoria Benedictsson {{!}} Swedish author|url=https://www.britannica.com/biography/Victoria-Benedictsson|access-date=2020-11-09|website=Encyclopedia Britannica|language=en}}</ref> 
+She is, together with [[August Strindberg]], regarded as one of the greatest proponents of the [[Swedish realism|Swedish realist]] writing style. In her novels she described the inequality of marriage and often debated women's rights issues in her writings. Current critics see her as an early feminist; earlier the focus was on her love affair with [[Georg Brandes]].<ref>{{Cite web|url=https://www.skbl.se/en/article/VictoriaBenedictsson|title=skbl.se – Victoria Maria Benedictsson|website=skbl.se|access-date=September 13, 2019}}</ref>
+
+She committed suicide in a room in Leopold's Hotel on Hovedvagtsgade – near [[Kongens Nytorv]] in Copenhagen.<ref>[https://www.webcitation.org/67Hufmmp1?url=http://www.columbia.edu/cu/swedish/vb/biog.html A Brief Biography of Victoria Benedictsson]</ref>
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+* {{SKBL}}
+
+==External links==
+{{commons|Victoria Benedictsson|Victoria Benedictsson}}
+
+* {{Gutenberg author | id=Benedictsson,+Victoria }}
+* {{Internet Archive author |name=Ernst Ahlgren}}
+* {{Librivox author |id=2763}}
+* [https://web.archive.org/web/20070804140451/http://www.columbia.edu/cu/swedish/vb/victorialives.html ''Victoria Lives!'' Columbia University conference, March 10–11, 2000, on the occasion of her 150th birthday]
+
+{{expand Swedish |topic=bio|Victoria Benedictsson|date=September 2020}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Benedictsson, Victoria}}
+[[Category:1850 births]]
+[[Category:1888 deaths]]
+[[Category:People from Trelleborg Municipality]]
+[[Category:Swedish-language writers]]
+[[Category:Suicides by sharp instrument in Denmark]]
+[[Category:Pseudonymous women writers]]
+[[Category:19th-century Swedish women writers]]
+[[Category:19th-century Swedish dramatists and playwrights]]
+[[Category:1880s suicides]]
+[[Category:19th-century pseudonymous writers]]
+
+
+{{Sweden-writer-stub}}

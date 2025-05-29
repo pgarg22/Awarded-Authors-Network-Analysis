@@ -1,0 +1,163 @@
+{{short description|Italian author and poet}}
+{{Redirect|Boccaccio}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+ | name        = Giovanni Boccaccio
+ | image       = Boccaccio by Morghen.jpg
+ | caption     = Portrait by [[Raffaello Sanzio Morghen|Raffaello Morghen]], circa 1822
+ | imagesize   = 200 px
+ | spouse =
+ | relatives   = Boccaccino di Chellino (father)<br />Margherita de' Mardoli (stepmother) 
+ | birth_date  = 16 June 1313
+ | birth_place = [[Certaldo]], [[Republic of Florence]]
+ | death_date  = 21 December 1375<br />(aged 62)
+ | death_place = [[Certaldo]], [[Republic of Florence]]
+ | occupation  = Writer, poet
+ | nationality = Italian
+ | period      = [[Late Middle Ages]]
+}}
+[[File:Italian (Florentine) School - Boccaccio (1313–1375) (Giovanni Boccaccio) - 355512 - National Trust.jpg|thumb|Giovanni Boccaccio]]
+'''Giovanni Boccaccio''' ({{IPAc-en|UK|b|ə|ˈ|k|æ|tʃ|i|oʊ}}, {{IPAc-en|US|b|oʊ|ˈ|k|ɑː|tʃ|(|i|)|oʊ|,_|b|ə|-}}, {{IPA-it|dʒoˈvanni bokˈkattʃo|lang}}; 16 June 1313&nbsp;– 21 December 1375){{refn|group=nb|Birth date from a book chapter of the book "Civilization of the Italian Renaissance".{{sfn|Bartlett|1992|pp=43–44}}}} was an Italian writer, poet, correspondent of [[Petrarch]], and an important [[Renaissance humanism|Renaissance humanist]]. He was known [[Antonomasia|par excellence]] as the Certaldese,{{refn|group=nb|Although he was known by the name of his origin, this is an excerpt from an Italian language grammar in German, which describe in short this term as follows; [..] or the baptismal name was omitted altogether and simply said: il Certaldése, the one from Certaldo (Boccaccio) [..].{{sfn|Blanc|1844|p=166}}}} and one of the most important figures in the European literary panorama of the [[14th century|fourteenth century]]. Some scholars (including [[Vittore Branca]]) define him as the greatest European prose writer of his time, a versatile writer who amalgamated different literary trends and genres, making them converge in original works, thanks to a creative activity exercised under the banner of experimentalism.
+
+His most notable works are ''[[The Decameron]]'', a collection of short stories which in the following centuries was a determining element for the Italian literary tradition, especially after [[Pietro Bembo]] elevated the Boccaccia style to a model of Italian prose in the [[16th century|sixteenth century]], and ''[[De Mulieribus Claris|On Famous Women]]''. He wrote his imaginative literature mostly in [[Tuscan dialect|Tuscan]] [[vernacular]], as well as other works in Latin, and is particularly noted for his realistic dialogue which differed from that of his contemporaries, [[medieval literature|medieval writers]] who usually followed formulaic models for character and plot. The influence of Boccaccio's works was not limited to the Italian cultural scene but extended to the rest of Europe, exerting influence on authors such as [[Geoffrey Chaucer]],<ref>{{Cite journal|last=Farrell|first=Thomas|date=2003|title=Source or Hard Analogue? "Decameron X, 10" and the "Clerk's Tale".|journal=The Chaucer Review|volume=37|issue=4|pages=346–364|doi=10.1353/cr.2003.0011|via=JSTOR}}</ref> a key figure in [[English literature]], or later on [[Miguel de Cervantes]], [[Lope de Vega]] and the Spanish classical theater.
+
+Boccaccio, together with [[Dante Alighieri]] and [[Petrarca|Francesco Petrarca]], is part of the so-called "Three Crowns" of Italian literature.<ref>{{Cite book|url=https://www.worldcat.org/oclc/137313891|title=Italy's three crowns : reading Dante, Petrarch and Boccaccio|date=2007|publisher=Bodleian Library|others=Zygmunt G. Barański, M. L. McLaughlin|isbn=978-1-85124-301-3|location=Oxford|oclc=137313891}}</ref> He is remembered for being one of the precursors of [[Renaissance humanism|humanism]], of which he helped lay the foundations in the city of [[Florence]], in conjunction with the activity of his friend and teacher Petrarch. He was the one who initiated Dante's criticism and philology: Boccaccio devoted himself to copying codes of the ''[[Divine Comedy]]'' and was a promoter of Dante's work and figure.
+
+In the twentieth century, Boccaccio was the subject of critical-philological studies by Vittore Branca and Giuseppe Billanovich, and his ''Decameron'' was [[The Decameron (1971 film)|transposed to the big screen]] by the director and writer [[Pier Paolo Pasolini]].
+
+{{Quote |A kindly thing it is to have compassion of the afflicted and albeit it well beseemeth every one, yet of those is it more particularly required who have erst had need of comfort and have found it in any, amongst whom, if ever any had need thereof or held it dear or took pleasure therein aforetimes, certes, I am one of these.|Giovanni Boccaccio, ''Decameron'', Proemio}}
+
+== Biography ==
+=== Florentine childhood, 1313–1327 ===
+
+[[File:Andrea del Castagno Giovanni Boccaccio c 1450.jpg|thumb|left|Portrait by [[Andrea del Castagno]], circa 1450 ]]
+The details of Boccaccio's birth are uncertain. He was born in [[Florence]] or in a village near [[Certaldo]] where his family was from.<ref>{{cite book|title=The elegy of Lady Fiammetta|author1=Giovanni Boccaccio |author2=Mariangela Causa-Steindler |author3=Thomas Mauch |page=XI}}</ref><ref>{{cite book|title=Renaissance and Reformation|author=James Patrick}}</ref> He was the son of [[Florence|Florentine]] merchant Boccaccino di Chellino and an unknown woman; he was likely born out of wedlock.{{sfn|Bartlett|1992|p=43}} Boccaccio's stepmother was called Margherita de' Mardoli.<ref>Prudence Allen. ''The Concept of Woman: The Early Humanist Reformation, 1250–1500'', Part 1, [https://books.google.com/books?id=SfnTRPSlvl0C&pg=PA277 page 277].</ref>
+
+Boccaccio grew up in Florence. His father worked for the [[Compagnia dei Bardi]] and, in the 1320s, married Margherita dei Mardoli, who was of a well-to-do family. Boccaccio may have been tutored by Giovanni Mazzuoli and received from him an early introduction to the works of [[Dante Alighieri|Dante]]. In 1326, his father was appointed head of a bank and moved with his family to [[Naples]]. Boccaccio was an apprentice at the bank but disliked the banking profession. He persuaded his father to let him study law at the ''[[Studium generale|Studium]]''{{sfn|Bartlett|1992|p=43}} (the present-day [[University of Naples Federico II|University of Naples]]), where he studied [[canon law]] for the next six years. He also pursued his interest in scientific and literary studies.<ref>''New Standard Encyclopedia'', 1992. "Boccaccio, Giovanni"; Volume B, p. 316. Chicago: Standard Educational Corporation</ref>
+
+His father introduced him to the Neapolitan nobility and the French-influenced court of [[Robert, King of Naples|Robert the Wise]] (the king of Naples) in the 1330s. At this time, he fell in love with a married daughter of the king, who is portrayed as "[[Fiammetta]]" in many of Boccaccio's prose romances, including ''Il Filocolo'' (1338). Boccaccio became a friend of fellow Florentine [[Niccolò Acciaioli]], and benefited from his influence as the administrator, and perhaps the lover, of [[Catherine II, Latin Empress|Catherine of Valois-Courtenay]], widow of [[Philip I, Prince of Taranto|Philip I of Taranto]]. Acciaioli later became counselor to Queen [[Joanna I of Naples]] and, eventually, her ''[[Seneschal|Grand Seneschal]]''.
+
+It seems that Boccaccio enjoyed law no more than banking, but his studies allowed him the opportunity to study widely and make good contacts with fellow scholars. His early influences included Paolo da Perugia (a curator and author of a collection of [[myths]] called the ''Collectiones''), humanists Barbato da Sulmona and Giovanni Barrili, and theologian [[Dionigi di Borgo San Sepolcro]].
+
+=== Neapolitan adolescence, 1327–1340 ===
+==== A cosmopolitan environment: self-taught training ====
+
+Boccaccino wanted his son to enter the profession of merchant, according to the family tradition. After having made him do a short internship in Florence, in 1327 Boccaccino decided to take his young son with him to Naples, the city where he played the role of business broker for the Bardi family.{{sfn|Branca|1977|pp=12–13}}
+
+===Adult years===
+[[File:Boccaccio01.jpg|thumb|upright|1845 statue of Boccaccio by [[Odoardo Fantacchiotti|Fantacchiotti]] in [[Uffizi Gallery]]]]
+
+In Naples, Boccaccio began what he considered his true vocation of poetry. Works produced in this period include ''[[Il Filostrato]]'' and ''[[Teseida]]'' (the sources for [[Geoffrey Chaucer|Chaucer]]'s ''[[Troilus and Criseyde]]'' and ''[[The Knight's Tale]]'', respectively), ''[[The Filocolo]]'' (a prose version of an existing French romance), and ''La caccia di Diana'' (a poem in ''[[terza rima]]'' listing Neapolitan women).<ref>{{cite web|url=http://www.brown.edu/Departments/Italian_Studies/dweb/the_project/|title=Complete list of Boccaccio works at Decameron|access-date=5 October 2014}}</ref> The period featured considerable formal innovation, including possibly the introduction of the [[Sicilian octave]], where it influenced [[Petrarch]].
+
+Boccaccio returned to Florence in early 1341, avoiding the [[Bubonic plague|plague]] of 1340 in that city, but also missing the visit of Petrarch to Naples in 1341. He had left Naples due to tensions between the Angevin king and Florence. His father had returned to Florence in 1338, where he had gone bankrupt. His mother died shortly afterward (possibly, as she was unknown – see above). Boccaccio continued to work, although dissatisfied with his return to Florence, producing ''Comedia delle ninfe fiorentine'' in 1341 (also known as ''Ameto''), a mix of prose and poems, completing the fifty-[[canto]] allegorical poem ''Amorosa visione'' in 1342, and ''[[Elegia di Madonna Fiammetta|Fiammetta]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/10006 |title=Boccaccio, Giovanni ''La Fiammetta'' (1342), Project Gutenberg |via=Project Gutenberg|date=1 November 2003 |access-date=17 February 2010}}</ref> in 1343. The pastoral piece "Ninfale fiesolano" probably dates from this time, also. In 1343, Boccaccio's father remarried to Bice del Bostichi. His other children by his first marriage had all died, but he had another son named Iacopo in 1344.
+
+[[File:Giovanni Boccaccio and Florentines who have fled from the plague.jpg|thumb|left|Boccaccio and others fleeing the plague; illumination of a French edition of the [[The Decameron|Decamerone]] (c. 1485)]]
+
+In Florence, the overthrow of [[Walter VI, Count of Brienne|Walter of Brienne]] brought about the government of ''popolo minuto'' ("small people", workers). It diminished the influence of the nobility and the wealthier merchant classes and assisted in the relative decline of Florence. The city was hurt further in 1348 by the [[Black Death]], which killed some three-quarters of the city's population, later represented in the ''Decameron''.
+
+From 1347, Boccaccio spent much time in Ravenna, seeking new patronage and, despite his claims, it is not certain whether he was present in plague-ravaged Florence. His stepmother died during the epidemic and his father was closely associated with the government efforts as minister of supply in the city. His father died in 1349 and Boccaccio was forced into a more active role as head of the family.
+
+Boccaccio began work on ''[[The Decameron]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/3726 |title=Boccaccio, Giovanni ''The Decameron'', Volume I, Project Gutenberg |via=Project Gutenberg|date=1 February 2003 |access-date=17 February 2010}}</ref><ref>{{cite book|url=https://www.gutenberg.org/ebooks/13102 |title=Boccaccio, Giovanni ''The Decameron'', Volume II, Project Gutenberg |via=Project Gutenberg|date=3 August 2004 |access-date=17 February 2010}}</ref> around 1349. It is probable that the structures of many of the tales date from earlier in his career, but the choice of a hundred tales and the frame-story ''lieta brigata'' of three men and seven women dates from this time. The work was largely complete by 1352. It was Boccaccio's final effort in literature and one of his last works in Tuscan vernacular; the only other substantial work was ''[[Corbaccio]]'' (dated to either 1355 or 1365). Boccaccio revised and rewrote ''The Decameron'' in 1370–1371. This manuscript has survived to the present day.
+
+From 1350, Boccaccio became closely involved with Italian humanism (although less of a scholar) and also with the Florentine government. His first official mission was to [[Romagna]] in late 1350. He revisited that city-state twice and also was sent to [[Brandenburg]], Milan and [[Avignon]]. He also pushed for the study of Greek, housing [[Barlaam of Seminara|Barlaam of Calabria]], and encouraging his tentative translations of works by [[Homer]], [[Euripides]], and [[Aristotle]]. In these years, he also took [[minor orders]].<ref>{{cite web | title= Encyclopedia of medieval literature – Boccaccio, Giovanni | url= http://medieval_literature.enacademic.com/80/Boccaccio,_Giovanni | access-date= 4 December 2013 | archive-url= https://web.archive.org/web/20130625193909/http://medieval_literature.enacademic.com/80/Boccaccio%2C_Giovanni | archive-date= 25 June 2013 | url-status= dead }}</ref>
+
+In October 1350, he was delegated to greet Francesco Petrarch as he entered Florence and also to have Petrarch as a guest at Boccaccio's home, during his stay. The meeting between the two was extremely fruitful and they were friends from then on, Boccaccio calling Petrarch his teacher and ''magister''. Petrarch at that time encouraged Boccaccio to study classical Greek and Latin literature. They met again in [[Padua]] in 1351, Boccaccio on an official mission to invite Petrarch to take a chair at the university in Florence. Although unsuccessful, the discussions between the two were instrumental in Boccaccio writing the ''[[Genealogia deorum gentilium]]''; the first edition was completed in 1360 and this remained one of the key reference works on classical mythology for over 400 years. It served as an extended defense for the studies of ancient literature and thought. Despite the Pagan beliefs at its core, Boccaccio believed that much could be learned from antiquity. Thus, he challenged the arguments of clerical intellectuals who wanted to limit access to classical sources to prevent any moral harm to Christian readers. The revival of classical antiquity became a foundation of the Renaissance, and his defense of the importance of ancient literature was an essential requirement for its development.<ref>King, Margaret L. "The Renaissance in Europe". Laurence King Publishing, 2003, p.54.</ref> The discussions also formalized Boccaccio's poetic ideas. Certain sources also see a conversion of Boccaccio by Petrarch from the open humanist of the ''Decameron'' to a more ascetic style, closer to the dominant fourteenth century ethos. For example, he followed Petrarch (and Dante) in the unsuccessful championing of an archaic and deeply allusive form of Latin poetry. In 1359, following a meeting with [[Pope Innocent VI]] and further meetings with Petrarch, it is probable that Boccaccio took some kind of religious mantle. There is a persistent (but unsupported) tale that he repudiated his earlier works as profane in 1362, including ''The Decameron''.
+
+[[File:De claris mulieribus.jpg|thumb|[[Circe]]s: illustration of one of the women featured in the 1374 biographies of 106 famous women, ''De Claris Mulieribus'', by Boccaccio – from a German translation of 1541]]
+In 1360, Boccaccio began work on ''[[De mulieribus claris]]'', a book offering biographies of one hundred and six famous women, that he completed in 1374.
+
+A number of Boccaccio's close friends and other acquaintances were executed or exiled in the purge following the failed coup of 1361. It was in this year that Boccaccio left Florence to reside in Certaldo, although not directly linked to the conspiracy, where he became less involved in government affairs. He did not undertake further missions for Florence until 1365, and traveled to Naples and then on to Padua and [[Venice]], where he met up with Petrarch in grand style at [[Palazzo Molina, Venice|Palazzo Molina]], Petrarch's residence as well as the place of [[Petrarch's library]]. He later returned to [[Certaldo]]. He met Petrarch only once again in Padua in 1368. Upon hearing of the death of Petrarch (19 July 1374), Boccaccio wrote a commemorative poem, including it in his collection of lyric poems, the ''Rime''.
+
+He returned to work for the Florentine government in 1365, undertaking a mission to [[Pope Urban V]]. The papacy returned to Rome from [[Avignon]] in 1367, and Boccaccio was again sent to Urban, offering congratulations. He also undertook diplomatic missions to Venice and Naples.
+
+Of his later works, the moralistic biographies gathered as ''De casibus virorum illustrium'' (1355–74) and ''De mulieribus claris'' (1361–1375) were most significant.<ref>{{cite book|url=http://digilander.libero.it/il_boccaccio/index.html |title=The chronological archives of his complete works |publisher=Digilander.libero.it |access-date=17 February 2010}}</ref> Other works include a dictionary of geographical allusions in classical literature, ''De montibus, silvis, fontibus, lacubus, fluminibus, stagnis seu paludibus, et de nominibus maris liber''. He gave a series of lectures on Dante at the Santo Stefano church in 1373 and these resulted in his final major work, the detailed ''Esposizioni sopra la Commedia di Dante''.<ref>[http://www.intratext.com/Catalogo/Autori/AUT47.HTM Works of Giovanni Boccaccio] text, concordances and frequency lists</ref> Boccaccio and Petrarch were also two of the most educated people in early Renaissance in the field of [[archaeology]].<ref>{{Cite journal |last=Coulter |first=Cornelia C. |date=1937 |title=Boccaccio's Archaeological Knowledge |url=https://www.jstor.org/stable/498505 |journal=American Journal of Archaeology |volume=41 |issue=3 |pages=397–405 |doi=10.2307/498505 |jstor=498505}}</ref>
+
+Boccaccio's change in writing style in the 1350s was due in part to meeting with Petrarch, but it was mostly due to poor health and a premature weakening of his physical strength. It also was due to disappointments in love. Some such disappointment could explain why Boccaccio came suddenly to write in a bitter ''Corbaccio'' style, having previously written mostly in praise of women and love, though elements of misogyny are present in ''Il Teseida''. Petrarch describes how Pietro Petrone (a [[Carthusian]] monk) on his death bed in 1362 sent another Carthusian (Gioacchino Ciani) to urge him to renounce his worldly studies.<ref>{{cite encyclopedia|url=http://www.britannica.com/shakespeare/article-756 |title=Encyclopædia Britannica 2007, ''Petrarch and Boccaccio's mature years.'' |encyclopedia=Britannica.com |access-date=17 February 2010}}</ref> Petrarch then dissuaded Boccaccio from burning his own works and selling off his personal library, letters, books, and manuscripts. Petrarch even offered to purchase Boccaccio's library, so that it would become part of [[Petrarch's library]]. However, upon Boccaccio's death, his entire collection was given to the monastery of [[Santo Spirito, Florence|Santo Spirito, in Florence]], where it still resides.<ref>{{cite web|url=http://oll.libertyfund.org/Home3/HTML-voice.php?recordID=0558 |title=Library of Liberty |publisher=Oll.libertyfund.org |access-date=17 February 2010 }}{{dead link|date=January 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+His final years were troubled by illnesses, some relating to obesity and what often is described as [[dropsy]], severe edema that would be described today as [[congestive heart failure]]. He died on 21 December 1375 in Certaldo, where he is buried.
+
+==Works==
+[[File:Genealogia deorum gentilium.tif|thumb|''Genealogia deorum gentilium'', 1532]]
+;Alphabetical listing of selected works:
+
+*''[[Amorosa visione]]'' (1342)
+*''[[Buccolicum carmen]]'' (1367–1369)
+*''[[Caccia di Diana]]'' (1334–1337)
+*''[[Comedia delle ninfe fiorentine]]'' (''Ninfale d'Ameto'', 1341–1342)
+*''[[Corbaccio]]'' (around 1365, this date is disputed)
+*''[[De Canaria]]''  (within 1341–1345)
+*''[[De Casibus Virorum Illustrium]]'' ({{circa|1360}}). Facsimile of 1620 Paris ed., 1962, Scholars' Facsimiles & Reprints, {{ISBN|978-0-8201-1005-9}}.
+*''[[De mulieribus claris]]'' (1361, revised up to 1375)
+*''[[The Decameron]]'' (1349–52, revised 1370–1371)
+*''[[Elegia di Madonna Fiammetta]]'' (1343–1344)
+*''[[Esposizioni sopra la Comedia di Dante]]'' (1373–1374)
+*''[[Filocolo]]'' (1336–1339)
+*''[[Filostrato]]'' (1335 or 1340)
+*''[[Genealogia deorum gentilium libri]]'' (1360, revised up to 1374)
+*''[[Ninfale fiesolano]]'' (within 1344–46, this date is disputed)
+*''[[Rime (Giovanni Boccaccio)|Rime]]'' (finished 1374)
+*''[[Teseida delle nozze di Emilia]]'' (before 1341)
+*''[[Trattatello in laude di Dante]]'' (1357, title revised to ''De origine vita studiis et moribus viri clarissimi Dantis Aligerii florentini poetae illustris et de operibus compositis ab eodem'')
+*''[[Zibaldone Magliabechiano]]'' (within 1351–1356)
+
+See Consoli's bibliography for an exhaustive listing.<ref>Consoli, Joseph P. (1992) ''Giovanni Boccaccio: an Annotated Bibliography''. New York: Garland. {{ISBN|0-8240-3147-4}}.</ref>
+
+==See also==
+{{Portal|Italy|Literature}}
+* [[Influence of Italian humanism on Chaucer]]
+
+== Notes ==
+{{reflist|group=nb}}
+{{reflist|group=note}}
+
+== Citations ==
+{{Reflist|30em|refs=
+}}
+
+== Sources ==
+* {{cite book |last=Bartlett |first=Kenneth R. |title=The Civilization of the Italian Renaissance: A Sourcebook |date=1992 |publisher=D.C. Heath |isbn=0-669-20900-7 |location=Lexington, Mass. |chapter=Florence in the Renaissance}}
+* {{cite book |last=Blanc |first=Ludwig G. |url=https://books.google.com/books?id=j-tDAAAAcAAJ |title=Grammatik der italienischen Sprache |date=1844 |publisher=Carl August Schwetschke und Sohn |location=Halle |language=de |trans-title=Italian language grammar |chapter=Die Eigennamen |trans-chapter=The proper names}}
+* {{cite book |last=Branca |first=Vittore |url=https://books.google.com/books?id=EVgHAQAAIAAJ |title=Giovanni Boccaccio: profilo biografico |date=1977 |publisher=[[Sansoni (publisher)|G. C. Sansoni]] |isbn=978-88-383-6502-7 |language=it}}
+* {{cite book |last1=Cataldi |first1=Pietro  |title=La scrittura e l'interpretazione : Storia e antologia della letteratura italiana nel quadro della civiltà europea. |last2=Donnarumma |first2=Raffaele |last3=Luperini |first3=Romano |last4=Marchese |first4=Franco |last5=Marchiani |first5=Lidia |date=1998 |publisher=Palumbo |isbn=88-8020-225-1 |volume=1st |location=Palermo |language=it |trans-title=Writing and interpretation: History and anthology of Italian literature in the framework of European civilization. }}
+* Çoban, R. V. (2020). The Manzikert Battle and Sultan Alp Arslan with European Perspective in the 15st Century in the Miniatures of Giovanni Boccaccio's "De Casibus Virorum Illustrium"s 226 and 232. French Manuscripts in Bibliothèque Nationale de France. S. Karakaya ve V. Baydar (Ed.), in 2nd International Muş Symposium Articles Book (pp. 48-64). Muş: Muş Alparslan University. [https://www.academia.edu/48958867/Giovanni_Boccaccio_nun_De_Casibus_Virorum_Illustrium_Adl%C4%B1_Eserinin_Biblioth%C3%A8que_Nationale_de_France_daki_226_ve_232_Numaral%C4%B1_Frans%C4%B1zca_N%C3%BCshalar%C4%B1nda_Yer_Alan_Minyat%C3%BCrlerde_XV_Y%C3%BCzy%C4%B1l_da_Avrupal%C4%B1_G%C3%B6z%C3%BCyle_Malazgirt_Sava%C5%9F%C4%B1_ve_Sultan_Alp_Arslan_a_Bak%C4%B1%C5%9F Source]
+* Patrick, James A.(2007). ''Renaissance And Reformation''. Marshall Cavendish Corp. {{ISBN|9780761476504}}.
+
+== Further reading ==
+* ''On Famous Women'', edited and translated by Virginia Brown. Cambridge, MA: Harvard University Press, 2001 {{ISBN|0-674-00347-0}} (Latin text and English translation)
+* ''The Decameron'', {{ISBN|0-451-52866-2}}
+* ''The Life of Dante'', translated by Vincenzo Zin Bollettino. New York: Garland, 1990 {{ISBN|1-84391-006-3}}
+* ''The Elegy of Lady Fiammetta'', edited and translated [from the Italian] by Mariangela Causa-Steindler and Thomas Mauch; with an introduction by Mariangela Causa-Steindler. Chicago: University of Chicago Press, 1990 {{ISBN|0-226-06276-7}}.
+
+==External links==
+{{Sister project links|s=Author:Giovanni Boccaccio|wikt=no|voy=no|b=No|n=no|v=no}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/giovanni-boccaccio}}
+* {{Gutenberg author | id=1279}}
+* {{FadedPage|id=Boccaccio, Giovanni|name=Giovanni Boccaccio|author=yes}}
+* {{Internet Archive author |sname=Giovanni Boccaccio}}
+* {{cite EB1911|wstitle=Boccaccio, Giovanni}}
+* {{Librivox author |id=3201}}
+* [http://hdl.loc.gov/loc.rbc/rosenwald.0047.1 De claris mulieribus]{{Dead link|date=October 2019 |bot=InternetArchiveBot |fix-attempted=yes }} From the [https://www.loc.gov/rr/rarebook/ Rare Book and Special Collections Division] at the [[Library of Congress]]
+* [http://roderic.uv.es/uv_ms_0291 Genealogie deorum gentilium Johannis Boccacii de Certaldo liber] at [http://roderic.uv.es/handle/10550/43 Somni]
+* [http://roderic.uv.es/uv_ms_0845 De mulieribus claris] at [http://roderic.uv.es/handle/10550/43 Somni]
+
+{{Giovanni Boccaccio|state=uncollapsed}}
+{{Authority control}}
+{{Petrarch|state=collapsed}}
+
+{{DEFAULTSORT:Boccaccio, Giovanni}}
+[[Category:Giovanni Boccaccio| ]]
+[[Category:1313 births]]
+[[Category:1375 deaths]]
+[[Category:People from Certaldo]]
+[[Category:Italian Renaissance humanists]]
+[[Category:Italian Renaissance writers]]
+[[Category:Italian male poets]]
+[[Category:Italian Roman Catholics]]
+[[Category:Medieval Italian diplomats]]
+[[Category:Medieval Latin poets]]
+[[Category:14th-century people of the Republic of Florence]]
+[[Category:14th-century Italian historians]]
+[[Category:14th-century Italian poets]]
+[[Category:14th-century Latin writers]]
+[[Category:14th-century diplomats]]
+[[Category:Deaths from edema]]

@@ -1,0 +1,75 @@
+{{Use mdy dates|date=June 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Wm. Mark Simmons
+| image = Wm. Mark Simmons in 2007.jpg
+| imagesize = 250px
+| caption = Author Wm. Mark Simmons in his study in 2007
+| pseudonym = 
+| birth_date = {{birth date and age|1953|02|20}}
+| birth_place = [[Independence, Missouri]]
+| death_date = 
+| death_place = 
+| occupation = {{flatlist|
+* Broadcaster
+* actor
+* journalist 
+* novelist
+}}
+| nationality = American
+| period = 
+| genre = [[Fantasy literature|Fantasy]], [[speculative fiction]], science fiction, humor, [[horror fiction|horror]]
+| subject = 
+| movement = 
+| notableworks = 
+| influences = 
+| influenced = 
+}}
+'''Wm. (William) Mark Simmons''', born 1953 in [[Independence, Missouri]], is an American writer best known for his humorous [[fantasy]] and [[horror fiction|horror]] novels.
+
+Simmons has worked as a journalist, educator, entertainer, and broadcaster, spending more than 30 years in the latter category working in classical music formats for [[National Public Radio]] affiliates.
+
+Although he garnered awards as a journalist in his twenties, he did not turn his talents to long-form fiction until his late thirties, publishing his first novel in 1990. A [[Compton Crook Award]] finalist, he made [[Locus Magazine]]'s "Best Lists" in 1991.
+
+A member of the [[Science Fiction and Fantasy Writers of America]] (SFWA), Simmons presently lives in [[Hutchinson, Kansas]] where he is the Music Director and Classical Morning host for the [[Radio Kansas]] network.
+
+In 2010 Simmons was the Interfilk guest musician at FilkOntario 20, a yearly [[Filk music]] conference and convention in [[Ontario]], Canada.
+
+==Bibliography==
+
+===The Dreamland Chronicles===
+* ''In the Net of Dreams'' (1990, {{ISBN|0-445-21016-8}}) (Compton Crook Award finalist; LOCUS Best List, 1991)
+* ''When Dreams Collide'' (1992, {{ISBN|0-446-36154-2}})
+* ''The Woman of His Dreams'' (2002)
+Anthologised as ''The Dreamland Chronicles'' ({{ISBN|1-892065-60-6}}) in 2002.
+
+===Chris Cséjthe (Half/Life) series===
+* ''One Foot in the Grave'' (1996, {{ISBN|0-671-87721-6}})
+* ''Dead on My Feet'' (2003, {{ISBN|0-7434-3610-5}} hardcover, {{ISBN|1-4165-0910-0}} trade paperback)
+* ''Habeas Corpses'' (2005, {{ISBN|1-4165-0913-5}})
+* ''Dead Easy'' (2007, {{ISBN|1-4165-2132-1}} hardback)
+* ''A Witch in Time'' (2019)
+
+===Pathfinder (serialized in episodic novellas)===
+* ''Pathfinder I'' (2007, {{ISBN|1-893687-75-9}} chapbook)
+
+==External links==
+* {{webarchive |url=https://web.archive.org/web/20170227040601/http://sff.net/people/wm.mark.simmons/ |date=February 27, 2017 |title=PerSimmons}} — official website
+* {{webarchive |url=https://web.archive.org/web/20150905195739/http://scifan.com/writers/ss/SimmonsMWilliam.asp |date=September 5, 2015 |title=Bibliography}} at SciFan
+* {{isfdb name|name=Wm Mark Simmons}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Simmons, Wm Mark}}
+[[Category:1953 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:Writers from Independence, Missouri]]
+[[Category:Radio personalities from Kansas]]
+[[Category:People from Hutchinson, Kansas]]
+[[Category:Writers from Kansas]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:Novelists from Missouri]]

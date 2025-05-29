@@ -1,0 +1,58 @@
+{{hatnote|Not to be confused with [[János Vaszary]] (1867–1939), the Hungarian painter and graphic artist.}}
+{{Use dmy dates|date=June 2018}}
+{{Infobox person
+| name          = Johann von Vásáry
+| image         = File:Vaszary János 1925 körül.JPG
+| imagesize     = 
+| caption       = 
+| birth_date    = {{birth date|df=yes|1899|1|11}}<ref>{{Cite web|url=https://szinhaz.hu/2013/11/27/az_50_eve_elhunyt_vaszary_janos_bohozatat_mutatja_be_az_ujszinhaz|title = Az 50 éve elhunyt Vaszary János bohózatát mutatja be az Újszínház}}</ref>
+| birth_place   = [[Budapest]], [[Austro-Hungarian Empire]] 
+| death_date    = {{death date and age|df=yes|1963|11|20|1899|1|11}}
+| death_place   = [[Madrid]], Spain
+| othername     = Vaszary János 
+| occupation    = Director, writer
+| yearsactive   = 1923–1957 (film)
+| spouse        = Janka Siklossy (1929-1938)<ref>{{Cite web|url=https://www.hangosfilm.hu/filmenciklopedia/vaszary-janos|title = Vaszary János}}</ref><br>Lili Muráti (1941-1963)<ref>{{Cite web|url=https://cultura.hu/kultura/vaszary-janos-a-szinhaz-vonzasaban/|title = Vaszary János, a színház vonzásában|date = 20 November 2013}}</ref>
+}}
+'''Johann von Vásáry''' or '''János Vaszary''' (1899–1963) was a Hungarian actor, screenwriter, playwright and film director. Several of his plays were adapted into films including ''[[I Entrust My Wife to You]]'' in 1943.<ref>Rentschler p.344</ref>
+
+==Selected filmography==
+* ''[[Stars of Eger (1923 film)|Stars of Eger]]'' (1923)
+* ''[[Peter (1934 film)|Peter]]'' (1934)
+* ''[[A Night in Venice (1934 Hungarian film)|A Night in Venice]]'' (1934)
+* ''[[Hannerl and Her Lovers (1936 film)|Hannerl and Her Lovers]]'' (1936)
+* ''[[Mother (1937 film)|Mother]]'' (1937)
+* ''[[Roxy and the Wonderteam]]'' (1938)
+* ''[[Duel for Nothing]]'' (1940)
+* ''[[One Night in Transylvania]]'' (1941)
+* ''[[Love Me (1942 film)|Love Me]]'' (1942)
+* ''[[I Married an Angel (film)|I Married an Angel]]'' (1942, based on the Broadway musical ''[[I Married an Angel]]'' based on his play)
+* ''[[I Entrust My Wife to You]]'' (1943, based on his play)
+* ''{{Ill|Ich hab’ von dir geträumt|de}}'' (1944, based on his story)
+* ''[[Tell the Truth (film)|Tell the Truth]]'' (1946, based on his play)
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* Eric Rentschler. ''German Film & Literature''. Routledge, 2013.
+
+==External links==
+* {{IMDb name|0903160}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Vasary, Johann von}}
+[[Category:1899 births]]
+[[Category:1963 deaths]]
+[[Category:Hungarian film directors]]
+[[Category:Hungarian screenwriters]]
+[[Category:Film people from Budapest]]
+[[Category:20th-century Hungarian dramatists and playwrights]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Hungarian male dramatists and playwrights]]
+[[Category:Theatre people from Budapest]]
+[[Category:20th-century screenwriters]]
+
+
+{{Hungary-bio-stub}}

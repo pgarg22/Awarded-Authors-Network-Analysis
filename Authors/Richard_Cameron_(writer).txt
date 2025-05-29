@@ -1,0 +1,30 @@
+{{Infobox person
+| name        = Richard Cameron
+| birth_date  = {{birth date and age|1948|6|16|df=y}}
+| birth_place = [[Doncaster]], Yorkshire, UK
+| occupation  = British playwright
+}}
+
+{{Use dmy dates|date=June 2015}}
+{{Use British English|date=June 2015}}
+'''Richard Cameron''' (born 16 June 1948) is an English [[playwright]] from [[Doncaster]] . His themes are Northern [[post-industrial society]], [[working class]] life, tough women and violent men.  Cameron's plays include ''Pond Life'' (1992), ''Not Fade Away'' (1993), ''The Mortal Ash'' (1994), ''Almost Grown'' (1994), ''All of You Mine'' (1996), ''The Glee Club'' (2002), ''Gong Donkeys'' (2004), ''Flower Girls'' (2007), and ''Can't Stand Up For Falling Down''.<ref>{{cite magazine|url=http://archive.tribunemagazine.co.uk/article/12th-june-1992/9/growing-pains|title= Growing pains|magazine=[[Tribune Magazine]]|date=12 June 1992|accessdate=30 August 2012}}</ref><ref name="Theatre record">{{cite book|title=Theatre record|url=https://books.google.com/books?id=QpgrAQAAIAAJ|accessdate=30 August 2012|year=1993|publisher=I. Herbert|page=228}}</ref><ref name="Plays and players">{{cite book|title=Plays and players|url=https://books.google.com/books?id=6clBAQAAIAAJ|accessdate=30 August 2012|year=1994|publisher=Hansom Books}}</ref><ref>{{cite news|url=http://www.cix.co.uk/~shutters/reviews/97003.htm|title=ALL OF YOU MINE |newspaper=[[Financial Times]]|accessdate=30 August 2012}}</ref><ref>{{cite news|author=Billington, Michael|url=https://www.theguardian.com/stage/2004/nov/08/theatre|title=Gong Donkeys|newspaper=[[The Guardian]]|location=London|date=9 November 2004}}</ref><ref>{{cite web|url=http://www.bbc.co.uk/suffolk/content/articles/2007/10/09/flower_girls_review_feature.shtml|title=Flower Girls|publisher=[[BBC]]|date=9 October 2007|accessdate=30 August 2012}}</ref>
+
+Cameron wrote ''[[Dear Nobody]]'' starring [[Sean Maguire]], and ''Stone, Scissors, Paper'' for BBC ([[1997 in television|1997]]).  He has also contributed to the popular TV series [[Midsomer Murders]], writing the script for the episode "Midsomer Rhapsody".
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.curtisbrown.co.uk/tft/client/user238/ Profile at Curtis Brown agency]
+*[https://www.amazon.co.uk/dp/0413716600 Plays, Vol.1 ((Methuen Contemporary Dramatists))]
+*[http://www.whatsonsouthwest.co.uk/article.php?id=14946 Interview in What's On South West]{{dead link|date=April 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://arts.guardian.co.uk/critic/review/0,,657883,00.html ''The Glee Club'' - review in guardian.co.uk]
+*{{IMDb name}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Cameron, Richard}}
+[[Category:People from Doncaster]]
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:English male dramatists and playwrights]]

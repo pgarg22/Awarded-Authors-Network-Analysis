@@ -1,0 +1,127 @@
+{{short description|English Metaphysical poet, satirist and politician}}
+{{Use dmy dates|date=December 2013}}
+{{Use British English|date=December 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Andrew Marvell
+| image       = Andrew Marvell.jpg
+| caption     = Andrew Marvell (between c. 1655 and c. 1660)
+| birth_date  = {{birth date|1621|3|31|df=y}}
+| birth_place = [[Winestead]], England
+| death_date  = {{death date and age|1678|8|16|1621|3|31|df=y}}
+| death_place = [[London]], England
+| occupation  = Poet
+| alma_mater  = [[Trinity College, Cambridge]]
+| notableworks = "[[To His Coy Mistress]]", "[[The Garden (poem)|The Garden]]", "An Horatian Ode"
+}}
+
+'''Andrew Marvell''' ({{IPAc-en|ˈ|m|ɑːr|v|əl|,_|m|ɑːr|ˈ|v|ɛ|l}}; 31 March 1621 – 16 August 1678) was an [[England|English]] [[Metaphysical poets|metaphysical poet]], satirist and politician who sat in the [[House of Commons of England|House of Commons]] at various times between 1659 and 1678. During the [[Commonwealth of England|Commonwealth]] period he was a colleague and friend of [[John Milton]]. His poems range from the love-song "[[To His Coy Mistress]]", to evocations  of an aristocratic [[country house poem|country house]] and garden in "[[Upon Appleton House]]" and "[[The Garden (poem)|The Garden]]", the political address "An [[Horatian]] Ode upon [[Cromwellian conquest of Ireland|Cromwell's Return from Ireland]]", and the later personal and political satires "Flecknoe" and "The Character of Holland".
+
+==Early life==
+[[File:Andrew Marvell portrait.jpg|thumb|Portrait attributed to Sir [[Godfrey Kneller]], [[Trinity College, Cambridge]]]]
+[[File:Andrew Marvell engraving.jpg|thumb|right|Andrew Marvell]]
+
+Marvell was born in [[Winestead|Winestead-in-Holderness]], [[East Riding of Yorkshire]], near the city of [[Kingston upon Hull]], the son of a [[Church of England]] clergyman also named Andrew Marvell. The family moved to Hull when his father was appointed Lecturer at [[Holy Trinity Church, Hull|Holy Trinity Church]] there, and Marvell was educated at [[Hull Grammar School]]. A [[secondary school]] in the city, the Andrew Marvell Business and Enterprise College, is named after him.<ref>{{cite web|title=Andrew Marvell College|url=http://www.andrew-marvell.com/}}</ref>
+
+At the age of 13, Marvell attended [[Trinity College, Cambridge]] and eventually received a BA degree.<ref>{{acad|id=MRVL633A|name=Marvell, Andrew}}</ref>  A portrait of Marvell attributed to [[Godfrey Kneller]] hangs in Trinity College's collection.<ref>{{cite web|title=Trinity College, University of Cambridge|url=https://www.bbc.co.uk/arts/yourpaintings/paintings/search/located_at/trinity-college-cambridge-5846_locations|publisher=BBC Your Paintings|access-date=12 February 2018|archive-url=https://archive.today/20140511164255/http://www.bbc.co.uk/arts/yourpaintings/paintings/search/located_at/trinity-college-cambridge-5846_locations|archive-date=11 May 2014|url-status=dead|df=dmy-all}}</ref>
+
+Afterwards, from the middle of 1642 onwards, Marvell probably travelled in continental Europe. He may well have served as a [[tutor]] for an aristocrat on the [[Grand Tour]], but the facts are not clear on this point. While England was embroiled in the [[English Civil War|civil war]], Marvell seems to have remained on the continent until 1647. In Rome in 1645 he probably met the [[Villiers family|Villiers]] brothers, Lord Francis and the [[George Villiers, 2nd Duke of Buckingham|2nd]] [[Duke of Buckingham#Dukes of Buckingham, second creation (1623)|Duke of Buckingham]], as well as [[Richard Flecknoe]], about whom he would later on write a satirical poem.<ref>[[Edward Chaney]], ''The Grand Tour and the Great Rebellion'' (Geneva, 1985), pp. 347-50.</ref> It is not known exactly where his travels took him except that Milton later reported that Marvell had mastered four [[language]]s, including [[French language|French]], [[Italian language|Italian]] and [[Spanish language|Spanish]].<ref>Nicholas Murray, ''Andrew Marvell'' (1999), pp. 24–35.</ref>
+
+==First poems and Marvell's time at Nun Appleton==
+Marvell's first poems, which were written in [[Latin]] and [[Greek language|Greek]] and published when he was still at Cambridge, lamented a visitation of the [[Plague (disease)|plague]] and celebrated the birth of a child to King [[Charles I of England|Charles I]] and Queen [[Henrietta Maria of France|Henrietta Maria]].  He only belatedly became sympathetic to the successive regimes during the [[Interregnum (1649–1660)|Interregnum]] after Charles I's execution on 30 January 1649.  His "Horatian Ode", a political poem dated to early 1650, responds with lament to the regicide even as it praises [[Oliver Cromwell]]'s return from Ireland.<ref>Full title "An Horatian Ode upon Cromwell's Return from Ireland".</ref><ref>{{cite web|title=Online text |url=http://www.geocities.com/bjlandry_00/Otherwriters/marvellhoratianode.html |archive-url=https://web.archive.org/web/20091025041402/http://geocities.com/bjlandry_00/Otherwriters/marvellhoratianode.html |archive-date=25 October 2009 |url-status=dead |df=dmy }}</ref><ref>[http://writing.upenn.edu/~afilreis/50s/marvell-per-newcrits.html Understanding Poetry (Brooks/Penn Warren): Marvell's Horatian Ode<!-- Bot generated title -->]</ref>
+
+Circa 1650–52, Marvell served as tutor to the daughter of the Lord General [[Thomas Fairfax, 3rd Lord Fairfax of Cameron|Thomas Fairfax]], who had recently relinquished command of the [[Roundhead|Parliamentary army]] to Cromwell. He lived during that time at [[Nun Appleton Hall]], near [[York]], where he continued to write poetry.  One poem, "Upon Appleton House, To My Lord Fairfax", uses a description of the estate as a way of exploring Fairfax's and Marvell's own situation in a time of war and political change.<ref>{{cite web|url=http://www.luminarium.org/sevenlit/marvell/appleton.htm|title=Upon Appleton House, to my Lord Fairfax|first=Andrew|last=Marvell|publisher=Luminarium|access-date=6 August 2017}}</ref> Probably the best-known poem he wrote at this time is "[[To His Coy Mistress]]".
+
+==Anglo-Dutch War and employment as Latin secretary==
+During the period of increasing tensions leading up to the [[First Anglo-Dutch War]] of 1652,  Marvell wrote the satirical "Character of Holland," repeating the then-current [[stereotype]] of the Dutch as "drunken and profane": "This indigested vomit of the Sea,/ Fell to the Dutch by Just Propriety."
+
+He became a tutor to Cromwell's ward, William Dutton, in 1653, and moved to live with his pupil at the house of [[John Oxenbridge]] in [[Eton, Berkshire|Eton]]. Oxenbridge had made two trips to [[Bermuda]], and it is thought that this inspired Marvell to write his poem ''Bermudas''. He also wrote several poems in praise of Cromwell, who was by this time [[Lord Protector]] of England. In 1656 Marvell and Dutton travelled to France, to visit the Protestant [[Academy of Saumur]].<ref>[http://www.luminarium.org/sevenlit/marvell/timeline.htm Andrew Marvell: Chronology of Important Dates<!-- Bot generated title -->]</ref><ref>Nicholas Murray, ''Andrew Marvell'' (1999), pp. 92–3.</ref>
+
+In 1657, Marvell joined Milton, who by that time had lost his sight, in service as Latin secretary to Cromwell's [[Council of State (England)|Council of State]] at a salary of £200 a year, which represented financial security at that time. Oliver Cromwell died in 1658. He was succeeded as Lord Protector by his son [[Richard Cromwell|Richard]]. In 1659 Marvell was elected [[Member of Parliament]] for [[Kingston upon Hull (UK Parliament constituency)|Kingston upon Hull]] in the [[Third Protectorate Parliament]].<ref name=HOP>[http://www.historyofparliamentonline.org/volume/1660-1690/member/marvell-andrew-1621-78  History of Parliament Online – Marvell, Andrew]</ref> He was paid a rate of 6 shillings, 8 pence per day during sittings of parliament, a financial support derived from the contributions of his constituency.<ref>[[John Stuart Mill]], ''[[Considerations on Representative Government]]'', Chapter X, last paragraph p.369 Oxford World's Classic edition, ''On Liberty And Other Essays'', 1991, reed. 1998</ref> He was re-elected MP for Hull in 1660 for the [[Convention Parliament (1660)|Convention Parliament]].
+
+==After the Restoration==
+[[File:Andrew marvell statue.jpg|thumb|upright=0.6|A statue of Andrew Marvell, located in the Marketplace, [[Kingston upon Hull]], [[United Kingdom|UK]]]]
+The monarchy was restored to Charles II in 1660. Marvell avoided punishment for his own co-operation with republicanism, and he helped convince the government of [[Charles II of England|Charles II]] not to execute John Milton for his antimonarchical writings and revolutionary activities.<ref>Andrew Crozier's introduction to ''The Works of Andrew Marvell'', Ware 1995, p.vi</ref> The closeness of the relationship between the two former colleagues is indicated by the fact that Marvell contributed an eloquent prefatory poem, entitled "[[On Mr. Milton's Paradise Lost]]", to the second edition of Milton's [[epic poetry|epic]] ''[[Paradise Lost]]''. According to a biographer: "Skilled in the arts of self-preservation, he was not a toady."<ref>Nicholas Murray, ''Andrew Marvell'' (1999), p. 117.</ref>
+
+In 1661 Marvell was re-elected MP for Hull in the [[Cavalier Parliament]].<ref name=HOP/> He eventually came to write several long and bitterly satirical verses against the corruption of the court. Although circulated in manuscript form, some finding anonymous publication in print, they were too politically sensitive and thus dangerous to be published under his name until well after his death. Marvell took up opposition to the 'court party', and satirised them anonymously. In his longest verse satire, ''Last Instructions to a Painter'', written in 1667, Marvell responded to the political corruption that had contributed to English failures during the [[Second Anglo-Dutch War]]. The poem did not find print publication until after the Revolution of 1688–9. The poem instructs an imaginary painter how to picture the state without a proper navy to defend them, led by men without intelligence or courage, a corrupt and dissolute court, and dishonest officials. Of another such satire, [[Samuel Pepys]], himself a government official, commented in his [[Diary of Samuel Pepys|diary]], "Here I met with a fourth Advice to a Painter upon the coming in of the Dutch and the End of the War, that made my heart ake to read, it being too sharp and so true."<ref>16 September 1667, ''The Diary of Samuel Pepys'', [https://books.google.com/books?id=VxA5AQAAMAAJ&lpg=PA657&ots=Nq_VMQ6dqf&dq=%22%20%22Here%20I%20met%20with%20a%20fourth%20Advice%20to%20a%20Painter%20upon%20the%20coming%20in%20of%20the%20Dutch%20%22&pg=PA657#v=onepage&q=%22%20%22Here%20I%20met%20with%20a%20fourth%20Advice%20to%20a%20Painter%20upon%20the%20coming%20in%20of%20the%20Dutch%20%22&f=false Volume 2, p.657]</ref>
+
+From 1659 until his death in 1678, Marvell was serving as London agent for the Hull Trinity House, a shipmasters' [[guild]].{{citation needed|date=December 2012}} He went on two missions to the continent, one to the [[Dutch Republic]] and the other encompassing Russia, Sweden, and Denmark.{{citation needed|date=December 2012}} He spent some time living in a cottage on Highgate Hill in north London, where his time in the area is recorded by a bronze plaque that bears the following inscription:<blockquote>Four feet below this spot is the stone step, formerly the entrance to the cottage in which lived Andrew Marvell, poet, wit, and satirist; colleague with John Milton in the foreign or Latin secretaryship during the Commonwealth; and for about twenty years M.P. for Hull. Born at Winestead, Yorkshire, 31st March, 1621, died in London, 18th August, 1678, and buried in the church of St. Giles-in-the-Fields. This memorial is placed here by the London County Council, December, 1898.<ref>[http://www.londonremembers.com/memorials/andrew-marvell-s-cottage Andrew Marvell's cottage : London Remembers, Aiming to capture all memorials in London<!-- Bot generated title -->]</ref></blockquote> A floral sundial in the nearby [[Lauderdale House]] bears an inscription quoting lines from his poem "The Garden".<ref>[http://more.poetrysociety.org.uk/landmark/display.php?id=211 Poetry Landmarks - Individual Landmark<!-- Bot generated title -->]</ref>
+
+He died suddenly in 1678, while in attendance at a popular meeting of his old constituents at Hull. His health had previously been remarkably good; and it was supposed by many that he was poisoned by some of his political or clerical enemies. Marvell was buried in the church of [[St Giles in the Fields]] in central London. His monument, erected by his grateful constituency, bears the following inscription:<blockquote>Near this place lyeth the body of Andrew Marvell, Esq., a man so endowed by Nature, so improved by Education, Study, and Travel, so consummated by Experience, that, joining the peculiar graces of Wit and Learning, with a singular penetration and strength of judgment; and exercising all these in the whole course of his life, with an unutterable steadiness in the ways of Virtue, he became the ornament and example of his age, beloved by good men, feared by bad, admired by all, though imitated by few; and scarce paralleled by any. But a Tombstone can neither contain his character, nor is Marble necessary to transmit it to posterity; it is engraved in the minds of this generation, and will be always legible in his inimitable writings, nevertheless. He having served twenty years successfully in Parliament, and that with such Wisdom, Dexterity, and Courage, as becomes a true Patriot, the town of Kingston-upon-Hull, from whence he was deputed to that Assembly, lamenting in his death the public loss, have erected this Monument of their Grief and their Gratitude, 1688.</blockquote>
+
+==Prose works==
+Marvell also wrote anonymous prose satires criticizing the monarchy and Roman Catholicism, defending [[Puritan]] dissenters, and denouncing censorship.
+
+''The Rehearsal Transpros'd'', an attack on [[Samuel Parker (English bishop)|Samuel Parker]], was published in two parts in 1672 and 1673.
+
+In 1676, ''Mr. Smirke; or The Divine in Mode'', a work critical of intolerance within the Church of England, was published together with a "Short Historical Essay, concerning General Councils, Creeds, and Impositions, in matters of Religion."
+
+Marvell's pamphlet ''An Account of the Growth of Popery and Arbitrary Government in England'', published in late 1677, alleged that: "There has now for diverse Years, a design been carried on, to change the Lawfull Government of ''England'' into an Absolute Tyranny, and to convert the established Protestant Religion into down-right Popery".<ref>Andrew Marvell, ''An Account of the Growth of Popery and Arbitrary Government in England'' (Gregg International Publishers Limited, 1971), p. 3.</ref> [[John Phillipps Kenyon|John Kenyon]] described it as "one of the most influential pamphlets of the decade"<ref>John Kenyon, ''The Popish Plot'' (Phoenix, 2000), p. 24.</ref> and [[G. M. Trevelyan]] called it: "A fine pamphlet, which throws light on causes provocative of the formation of the [[Whig (British political faction)|Whig party]]".<ref>G. M. Trevelyan, ''England under the Stuarts'' (Routledge, 2002), p. 513.</ref>
+
+A 1678 work published anonymously ("by a Protestant") in defense of [[John Howe (Puritan)|John Howe]] against the attack of his fellow-dissenter, the severe Calvinist [[Thomas Danson]], is also probably by Marvell.  Its full title is ''Remarks upon a late disingenuous discourse, writ by one T.D. under the pretence de causa Dei, and of answering Mr. John Howe's letter and postscript of God's prescience, &c., affirming, as the Protestant doctrine, that God doth by efficacious influence universally move and determine men to all their actions, even to those that are most wicked''.
+
+==Views==
+Although Marvell became a [[Roundhead|Parliamentarian]] and was opposed to [[episcopacy]], he was not a [[Puritan]]. Later in life especially, he seems to have been a conforming Anglican.<ref>{{Cite ODNB|url=http://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-18242|isbn=978-0-19-861412-8|doi=10.1093/ref:odnb/18242|year=2004|last1=Kelliher|first1=W. H.|title=Marvell, Andrew (1621–1678), poet and politician}}</ref> Marvell positively identifies himself as "a Protestant" in pamphlets.<ref>{{Cite ODNB|url=http://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-1824|isbn = 978-0-19-861412-8|doi = 10.1093/ref:odnb/1824|year = 2004|last1 = Cameron|first1 = James K.|title = Beaton, James (C. 1473–1539), administrator and archbishop of St Andrews}}</ref>  He had flirted briefly with Catholicism as a youth,<ref>John Dixon Hunt ''Andrew Marvell: his life and writings'' (Paul Elek, 1978)  pp.&nbsp;24–25</ref> and was described in his thirties (on the Saumur visit) as "a notable English Italo-[[Machiavelli|Machiavellian]]".<ref>http://www.english.ox.ac.uk/Old%20Site/lists/MarvellDates.htm  {{webarchive |url=https://web.archive.org/web/20090113053703/http://www.english.ox.ac.uk/Old%20Site/lists/MarvellDates.htm |date=13 January 2009 }}</ref><ref>Robert R. Hay, ''An Andrew Marvell Companion'' (Routledge, 1998), p. 101.</ref>
+
+His strong Biblical influence is clear in poems such as "[[The Garden (poem)|The Garden]]", the "Coronet" and "The Bermudas".<ref>{{Cite web|url=http://www.gradesaver.com/andrew-marvell-poems/study-guide/summary-bermudas|title=Andrew Marvell: Poems "Bermudas" Summary and Analysis &#124; GradeSaver}}</ref>
+
+Vincent Palmieri noted that Marvell is sometimes known as the "British [[Aristides]]" for his incorruptible integrity in life and poverty at death. Many of his poems were not published until 1681, three years after his death, from a collection owned by Mary Palmer, his housekeeper. After Marvell's death she laid dubious claim to having been his wife, from the time of a secret marriage in 1667.<ref>Nicholas Murray, ''Andrew Marvell'' (1999), pp. 296–9.</ref>
+
+==Marvell's poetic style==
+Marvell is said to have adhered to the established stylized forms of his contemporary neoclassical tradition. These include the carpe diem lyric tradition which also forms the basis of his famous lyric "To His Coy Mistress". He adopted familiar forms and infused them with his unique conceits, analogies, reflections and preoccupations with larger questions about life and death<ref>{{Cite journal|last=Moldenhauer|first=Josheph J.|date=1968|title=The Voices of Seduction in "To His Coy Mistress": A Rhetorical Analysis|url=http://www.jstor.org/stable/40753986|journal=Texas Studies in Literature and Language|volume=10|issue=2|pages=189–206|jstor=40753986|via=JSTOR}}</ref> [[T.S. Eliot]] wrote of Marvell's style that "It is more than a technical accomplishment, or the vocabulary and syntax of an epoch; it is, what we have designated tentatively as wit, a tough reasonableness beneath the slight lyric grace". He also identified Marvell and the metaphysical school with the "dissociation of sensibility" that occurred in 17th-century English literature; Eliot described this trend as "something which...happened to the mind of England...it is the difference between the intellectual poet and the reflective poet".<ref>T S. Eliot."The Metaphysical Poets" and "Andrew Marvell". Selected Prose of T.S. Eliot. ed. Frank Kermode. Harcourt, 1975.</ref> Poets increasingly developed a self-conscious relationship to tradition, which took the form of a new emphasis on craftsmanship of expression and an idiosyncratic freedom in allusions to Classical and Biblical sources. 
+
+"To His Coy Mistress", Marvell's most celebrated poem, combines an old poetic conceit (the persuasion of the speaker's lover by means of a carpe diem philosophy) with Marvell's typically vibrant imagery and easy command of rhyming couplets. Other works incorporate topical satire and religious themes.
+
+==Legacy==
+A [[secondary school]] in Hull, the Andrew Marvell Business and Enterprise College, is named after him.<ref>{{cite web|title=Andrew Marvell College|url=http://www.andrew-marvell.com/}}</ref>
+
+==See also==
+*[[List of works by Andrew Marvell]]
+*[[The Marvell College]]
+*{{ship||Andrew Marvel|1812 ship}} - ship built at [[Kingston upon Hull]] that made some 24 voyages as a [[Whaling#Greenland|Greenland whaler]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* A. B. Chambers (1991). ''Andrew Marvell and Edmund Waller: Seventeenth-Century Praise and Restoration Satire''. University Park, PA.
+* Warren L. Chernaik (1983). ''The poet's time: politics and religion in the work of Andrew Marvell''. Cambridge University Press.
+* Will Davenport. ''The Painter''. HarperCollins. {{ISBN|0-00-651460-X}}. This novel about Rembrandt features Andrew Marvell as a character.
+* Kenneth R. Friedenreich (ed.) (1978). ''Tercentenary Essays in Honor of Andrew Marvell''. Hamden, CT.
+* Nicholas McDowell (2008). ''Poetry and Allegiance in the English Civil Wars: Marvell and the Cause of Wit''. Oxford: Oxford University Press.
+* Nigel Smith (2010). ''Andrew Marvell: The Chameleon''. New Haven, CT. {{ISBN|978-0-300-11221-4}}.
+
+==External links==
+{{wikiquote}}
+{{wikisource author}}
+* Works by Marvell:
+** {{Gutenberg author | id=Marvell,+Andrew | name=Andrew Marvell}}
+** {{Internet Archive author |sname=Andrew Marvell}}
+** {{Librivox author |id=30}}
+** Poems: [http://www.luminarium.org/sevenlit/marvell/marvbib.htm Luminarium]
+** Correspondence and prose works: in [http://nrs.harvard.edu/urn-3:HUL.FIG:001519814 Grosart's edition] (via Google Books)
+* Biography: [http://www.poetryfoundation.org/archive/poet.html?id=4423 Poetry Foundation]; {{gutenberg|no=17388|name=Andrew Marvell}} by [[Augustine Birrell]]
+* [http://www.poetsgraves.co.uk/marvell.htm Andrew Marvell's Grave]
+* {{NPG name}}
+* {{UK National Archives ID}}
+* Andrew Marvell, Sir Thomas Widdrington and Appleton House (Notes and Queries 1996); www.phoenixlodger.co.uk
+* Andrew Marvell at Nun Appleton (TLS 1994); www.phoenixlodger.co.uk
+
+{{Andrew Marvell}}
+{{Metaphysical poetry}}
+{{Authority control}}
+
+{{DEFAULTSORT:Marvell, Andrew}}
+[[Category:1621 births]]
+[[Category:1678 deaths]]
+[[Category:17th-century English poets]]
+[[Category:17th-century male writers]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:English male poets]]
+[[Category:English MPs 1659]]
+[[Category:English MPs 1660]]
+[[Category:English MPs 1661–1679]]
+[[Category:People educated at Hull Grammar School]]
+[[Category:Politicians from Kingston upon Hull]]
+[[Category:Writers from Kingston upon Hull]]
+[[Category:17th-century Latin-language writers]]
+[[Category:New Latin-language poets]]

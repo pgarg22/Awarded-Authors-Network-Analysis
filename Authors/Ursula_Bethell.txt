@@ -1,0 +1,84 @@
+{{short description|New Zealand poet and social worker 1874–1945}}
+{{Use dmy dates|date=December 2020}}
+{{Use New Zealand English|date=December 2020}}
+{{Infobox writer
+|embed = 
+|honorific_prefix = 
+|name = Ursula Bethell
+|honorific_suffix = 
+|image = File:Ursula Bethell, c1900s 01.jpg
+|image_size = 
+|image_upright = 
+|alt = 
+|caption = Ursula Bethell, {{circa|1900}}
+|pseudonym = Evelyn Hayes
+|birth_name = Mary Ursula Bethell
+|birth_date = {{Birth date|1874|10|06|df=y}}
+|birth_place = [[Horsell]], Surrey, England
+|death_date = {{Death date and age|1945|01|15|1874|10|06|df=y}}
+|death_place = [[Christchurch]], New Zealand
+|occupation = {{Cslist |Poet |social worker}}
+}}
+'''Mary Ursula Bethell''' ([[pseudonym]], '''Evelyn Hayes'''; 6 October 1874 – 15 January 1945), was a New Zealand social worker and poet. She settled at the age of 50 at Rise Cottage on the [[Cashmere, New Zealand|Cashmere]] Hills near [[Christchurch]], with her companion Effie Pollen, where she created a sheltered garden with views over the city and towards the [[Southern Alps]], and began writing poems about the landscape.<ref name="BNZW">{{Cite book |last1=Mary |first1=Alison |last2=Laura |first2=Valerie |title=The Book of New Zealand Women: Ko Kui Ma Te Kaupapa |date=1995 |publisher=Bridget Williams Books Ltd |location=Wellington, NZ |isbn=0-908912-04-8 |pages=83–86 |chapter=Ursula Bethell |edition=4th}}</ref> Although she considered herself "by birth and choice English", and spent her life travelling between England and New Zealand, she was one of the first distinctively New Zealand poets, seen today as a pioneer of its modern poetry.<ref name="Whiteford">{{Cite journal |last1=Whiteford |first1=Peter |title=Ursula Bethell, 1874–1945 |journal=Kōtare: New Zealand Notes & Queries |date=June 2008 |volume=7 |issue=3 |page=90 |doi=10.26686/knznq.v7i3.707 |url=https://ojs.victoria.ac.nz/kotare/article/view/707 |access-date=14 December 2020|doi-access=free}}</ref><ref name="Residency">{{Cite web |title=Ursula Bethell Residency in Creative Writing |url=https://www.canterbury.ac.nz/arts/schools-and-departments/english/ursula-bethell-residency/ |website=University of Canterbury |access-date=14 December 2020}}</ref>
+
+==Background and social work==
+Bethell was the eldest daughter of the well-to-do sheep farmer Richard Bethell and his wife Isabel Anne, née Lillie, and was born in [[Horsell]], Surrey, England, in 1874.<ref name="DNZB Bethell">{{DNZB |Laura |Valerie |4b29 |Mary Ursula Bethell |10 December 2011}}</ref> Her parents had both lived in New Zealand in the 1860s, but returned to London where they married.<ref name="Whiteford"/><ref name="DNZB Bethell"/> Shortly after her birth, in 1875, her parents returned with her to New Zealand, where her two younger siblings were born.<ref name="Feminist">''The Feminist Companion to Literature in English'', ed. Virginia Blain, Patricia Clements and Isobel Grundy (London: Batsford, 1990), p. 90.</ref> She was educated at [[Rangiora#Education|Rangiora Primary School]] and [[Christchurch Girls' High School]],<ref name="Whiteford"/> and developed a love of the Canterbury landscape that would last for the rest of her life.<ref name="BNZW"/> In later years, she wrote of the [[Ashley River / Rakahuri|Ashley River]]:
+
+{{quote|<poem>It was the river, the river. We played there,
+out, out of the house, out of the garden, out under the wide sky.</poem>
+|
+|"By The Ashley River"<ref>{{Cite web |last1=Bethell |first1=Ursula |title=By The River Ashley |url=http://www.nzepc.auckland.ac.nz/authors/bethell/ashley1.asp |website=New Zealand Electronic Poetry Centre |publisher=University of Auckland |access-date=11 February 2021}}</ref>}}
+
+Her father died in April 1885.<ref name="BNZW"/><ref name="Whiteford"/> Two years later, at age 15, she travelled back to England and boarded with the family of [[Mary Ruth Mayhew|Ruth Mayhew]], who became a lifelong friend,<ref name="Secrets">{{Cite web |last1=Whiteford |first1=Peter |title=Secrets of Felicity: Letters of Ursula Bethell |url=http://www.nzepc.auckland.ac.nz/authors/bethell/letters_intro.asp |website=New Zealand Electronic Poetry Centre |access-date=14 December 2020}}</ref> as she attended [[Oxford High School, England|Oxford High School for Girls]] and a Swiss finishing school. She returned to New Zealand in 1892 and devoted herself to charitable work,<ref name="OCNZL">{{Cite encyclopedia |last=Whiteford |first=Peter |editor1-last=Robinson |editor1-first=Roger |editor2-last=Wattie |editor2-first=Nelson |encyclopedia=The Oxford Companion to New Zealand Literature |title=Bethell, (Mary) Ursula |url= https://www.oxfordreference.com/view/10.1093/acref/9780195583489.001.0001/acref-9780195583489-e-115 |access-date=14 December 2020 |date=2006 |publisher=[[Oxford University Press]] |isbn=978-0-1917-3519-6 |oclc=865265749 |doi=10.1093/acref/9780195583489.001.0001}}</ref> before again returning to Europe in 1895 to study painting in Geneva and music in Dresden.<ref name="Feminist"/> Having enough private wealth to support herself, she took up social work in London with the Anglican organisation Women Workers for God, or "Grey Ladies".<ref name="Whiteford"/><ref name="OCNZL"/> She continued to perform social work in a religious context in England and New Zealand, travelling between the two, including in the war years.<ref name="Whiteford"/><ref name="OCNZL"/>
+
+In 1924 Bethell permanently settled in New Zealand, in the Cashmere Hills near Christchurch.<ref name="Whiteford"/> She bought a newly built home, Rise Cottage in Westenra Terrace, which she shared with another returnee New Zealander, Effie Pollen.<ref name="Whiteford"/><ref name="O'Sullivan">{{Cite book |last1=O'Sullivan |first1=Vincent |title=Ursula Bethell: Collected Poems |date=1997 |publisher=Victoria University Press |location=Wellington, New Zealand |edition=2nd |url= http://www.nzepc.auckland.ac.nz/authors/bethell/osullivan.asp |access-date=14 December 2020 |chapter=Introduction}}</ref> The theory that Bethell's relationship with Pollen was homosexual (which would have sat ill with her Anglicanism and her social aspirations in that period) was explored in some detail by the fellow poet [[Janet Charman]], as a visiting scholar at the [[University of Auckland]] in 1997.<ref name="Charman">Janet Charman: "My Ursula Bethell", ''Women's Studies Journal'' 14.2 (Spring 1998), pp. 91–108 [http://www.nzepc.auckland.ac.nz/misc/charman.asp. Retrieved 8 April 2015.]</ref> Bethell herself described the relationship as "prevailingly maternal", but there is no way of knowing for sure what the relationship between them was, except that it was a close and loving relationship.<ref name="Whiteford"/>
+
+==Poet and salonnière==
+[[File:Ursula Bethell, 1942.jpg|thumb|Bethell in 1942|left|upright]]
+Bethell only began to write poetry at the age of about 50. Most of it was written during her years at Rise Cottage with Pollen.<ref name="OCNZL"/> At first she had no design to publish her poems, but wrote them as messages to send in letters to her friends.<ref name="Whiteford"/> She was deeply affected by Pollen's death in 1934, writing to a friend that the event was "a complete shattering of my life.... [for] from her I have had love, tenderness, and understanding... and close and happy companionship".<ref name="OCNZL"/> She wrote little more afterwards,<ref name="Feminist"/> so that most of her output dates from the one decade of 1924 to 1934. [[Vincent O'Sullivan (New Zealand poet)|Vincent O'Sullivan]] said, "She was surprised that people admired her 'garden' poems, often written as casual messages to friends.... By the late 1920s, she was also writing the more deliberate and intellectually adventurous poems which took their place in her later two books."<ref name="O'Sullivan"/> After Pollen's death, she sold Rise Cottage and moved into a room in a house she had gifted to the Anglican church.<ref name="OCNZL"/>
+
+Her first collection, ''From a Garden in the Antipodies'' (1929), is her best-known work; its poems have often been anthologised. It expresses an awareness of her separation from "loved and lost London", and themes of religious thought and nature that marked all her work. Her later collections include poems for which there had been no place in the first collection, and memorial poems to Pollen.<ref name="OCNZL"/> Her poetry is ascribed by the ''Oxford Companion to Twentieth-Century Literature in English'' "a plainness and spareness (as well as freshness of image) which distinguishes it from the more ornamented verse the country had previously produced."<ref name="OCTCL">{{Cite encyclopedia |editor1-last=Stringer |editor1-first=Jenny |encyclopedia=The Oxford Companion to Twentieth-Century Literature in English |title=Bethell, Ursula |url=https://www.oxfordreference.com/view/10.1093/acref/9780192122711.001.0001/acref-9780192122711-e-250 |access-date=14 December 2020 |date=2005 |publisher=[[Oxford University Press]] |isbn=978-0-1917-2757-3}}</ref>
+
+The New Zealand writer [[Charles Brasch]], visiting Bethell in the late 1930s, found her at "the centre of an astonishingly diverse circle of interesting people, many of the younger of whom were so close to her that she almost directed their lives."<ref name="Indirections">{{Cite book |last= Brasch |first= Charles |title= Indirections: A Memoir 1909–1947 |year= 1980 |publisher= Oxford University Press |location=Wellington, New Zealand |isbn= 0-19-558050-8 |url=http://nzetc.victoria.ac.nz/tm/scholarly/tei-BraIndi.html |access-date=12 December 2020}}</ref>{{rp|302}} Among them were the crime writer [[Ngaio Marsh]], the essayist [[M. H. Holcroft]], the artists R. H. Field and [[Evelyn Margaret Page]], the poets [[Blanche Edith Baughan]] and J. H. E. Schroder, and the musician [[Frederick Joseph Page]].<ref name="Indirections"/>{{rp|304}} She acted as a mentor to younger local poets, notably [[Allen Curnow]] and [[Denis Glover]].<ref name="OCTCL"/>
+
+All Bethell's work appeared anonymously, as she felt that publicity in "provincial New Zealand" would be a "painful affair".<ref name="Whiteford"/> She said her pseudonym, Evelyn Hayes, came from a great-great-grandfather, Sir Henry Hayes of [[Cork (city)|Cork]], who was "deported for life to [[Botany Bay]] for attempted abduction of a [[Quakers|Quaker]] heiress."<ref>Letter to Sidgwick and Jackson, Bethel's London publishers, July 1929. Quoted by O'Sullivan.</ref> In later life, she became less keen to be anonymous, and before her death asked that her collected poems be published under her own name.<ref name="Whiteford"/>
+
+==Death and legacy==
+Bethell died in Christchurch on 15 January 1945.<ref name="O'Sullivan"/> A volume of her ''Collected Poems'' appeared posthumously in 1950 and was reprinted in 1985 with an introduction by O'Sullivan.<ref name="OCTCL"/> In 1948, after her death, several New Zealand authors contributed personal reflections to [[Landfall (journal)|''Landfall'']]. The educator and writer [[Crawford Somerset]] opined, "New Zealand has produced no other poetry so clearly original and so delicately sensitive as Ursula Bethell's."<ref name="Personal">{{Cite journal |title=Ursula Bethell: Some Personal Memories |journal=Landfall |date=December 1948 |volume=2 |issue=4 |url=http://www.landfallarchive.org/omeka/items/show/22170 |access-date=14 December 2020}}</ref>{{rp|281}} The poet and journalist [[Walter D'Arcy Cresswell|D'Arcy Cresswell]] said that in literature "New Zealand wasn't truly discovered, in fact, until Ursula Bethell, 'very earnestly digging', raised her head to look at the mountains. Almost everyone had been blind before."<ref name="Personal"/>{{rp|283}}
+
+She featured prominently in both of Curnow's notable anthologies, ''A Book of New Zealand Verse 1923–1945'' (1945) (in which 19 of her poems were printed, more than any other poet)<ref name="O'Sullivan"/> and ''The Penguin Book of New Zealand Verse'' (1960), and later in ''The Penguin Book of New Zealand Verse'' (1985) edited by [[Ian Wedde]] and [[Harvey McQueen]].<ref>{{Cite book |editor1-last=Wedde |editor1-first=Ian |editor2-last=McQueen |editor2-first=Harvey |title=The Penguin Book of New Zealand Verse |date=1985 |publisher=Penguin |location=Auckland, New Zealand |isbn=978-0-1404-2333-4 |url=http://www.nzepc.auckland.ac.nz/authors/wedde/penguin.asp |access-date=14 December 2020}}</ref>
+
+In 1979, the [[University of Canterbury]] founded the Ursula Bethell Residency in Creative Writing to support and encourage New Zealand writing. It goes to writers of "proven merit". Notable recipients have included [[Margaret Mahy]], [[Keri Hulme]] and [[Eleanor Catton]].<ref name="Residency"/>
+
+==Published works==
+*(As Evelyn Hayes) ''From a Garden in the Antipodes'' (London: Sidgwick and Jackson, 1929)
+*(As "The Author of ''Poems From a Garden in the Antipodes''") ''Time and Place'' (Christchurch: Caxton, 1936)
+*(As "The Author of ''Time and Place''") ''Day and Night: Poems 1924–1934'', (Christchurch: Caxton, 1939)
+*''Collected Poems'', ed. Helen Simpson, (Christchurch: Caxton Press, 1950), (Kindle edition 2016, ASIN: B016QNELZ4) 
+*''Collected Poems'', ed. Vincent O’Sullivan, (Wellington: Victoria University Press, 1985 [1950])
+*''Vibrant with Words: The Letters of Ursula Bethell'', ed. Peter Whiteford (Wellington: Victoria University Press, 2005). {{ISBN|9780864735041}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.nzepc.auckland.ac.nz/authors/bethell/index.asp Ursula Bethell], author page at the New Zealand Electronic Poetry Centre
+*[https://www.read-nz.org/writer/bethell-mary-ursula/ Bethell, (Mary) Ursula], profile at [[Read NZ Te Pou Muramura]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bethell, Ursula}}
+[[Category:1874 births]]
+[[Category:1945 deaths]]
+[[Category:New Zealand social workers]]
+[[Category:English emigrants to New Zealand]]
+[[Category:New Zealand poets]]
+[[Category:New Zealand women poets]]
+[[Category:New Zealand Anglo-Catholics]]
+[[Category:20th-century New Zealand poets]]
+[[Category:People educated at Christchurch Girls' High School]]
+[[Category:People educated at Oxford High School, England]]
+[[Category:People from Christchurch]]
+[[Category:Pseudonymous women writers]]
+[[Category:20th-century pseudonymous writers]]
+[[Category:20th-century New Zealand women writers]]

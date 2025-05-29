@@ -1,0 +1,116 @@
+{{short description|Canadian fantasy author}}
+{{Infobox person
+| name        = Evan Winter
+| image       = 
+| alt         = 
+| caption     = 
+| birth_date  = <!-- {{Birth year and age|YYYY}} -->
+| birth_place = England
+| death_date  = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place = 
+| nationality = 
+| other_names = 
+| known_for   = His self-published debut novel earned him a four-book deal
+| occupation  = Writer
+}} 
+'''Evan Winter''' is a [[Canadian people|Canadian]] [[fantasy]] author.  His first novel, ''The Rage of Dragons'', was originally self-published.<ref name=cbc2019-11-06/> In 2020, [[Time magazine]] named it one of the 100 best fantasy books of all time, and [[CBC Books]] included Winter's 2020 novel ''The Fires of Vengeance'' on its list of Canadian fiction to watch for in 2020.<ref name=cbc2020-02-05/> Following its initial publication, [[Orbit Books]] re-released ''Rage of Dragons'' and signed Winter to a four-book deal.
+ 
+''The Rage of Dragons'' was on the long list of the CBC{{'}}s 2020 ''[[Canada Reads]]''.<ref name=winnipegfreepress2020-01-18/>
+
+Winter was born in [[London, England]], and CBC Books describes his series as African-inspired fantasy.<ref name=cbc2020-02-04/><ref name=registercitizen2020-01-28/>
+
+== Biography ==
+Winter was born in England and raised in Zambia.<ref>{{Cite web|date=July 2019|title=Interview: Evan Winter|url=https://www.lightspeedmagazine.com/nonfiction/interview-evan-winter/|url-status=live|access-date=25 February 2021|website=Lightspeed Magazine}}</ref> He has worked as a filmmaker.
+
+== Bibliography ==
+===The Burning series===
+* ''The Rage of Dragons'' (2019)
+* ''The Fires of Vengeance'' (November 10, 2020)
+* ''The Lord of Demons'' (Book 3, release date is unknown)
+
+== References ==
+{{reflist|refs=
+<ref name=cbc2020-02-04>
+{{cite news     
+| url         = https://www.cbc.ca/books/six-canadian-writers-of-black-heritage-to-watch-in-2020-1.5446522
+| title       = Six Canadian writers of black heritage to watch in 2020
+| work        = [[CBC Books]]
+| author      = Ryan B. Patrick
+| date        = 2020-02-04
+| archiveurl  = 
+| archivedate = 
+| accessdate  = 2020-02-07
+| url-status  = live
+| quote       = In his fantasy novel debut, The Rage of Dragons, a world with an African-inspired setting is caught in an eternal war — and the book's main protagonist Tau is his people's only hope for survival.
+}}
+</ref>
+
+<ref name=winnipegfreepress2020-01-18>
+{{cite news     
+| url         = https://www.winnipegfreepress.com/arts-and-life/entertainment/books/romance-writers-rift-widens-567101772.html
+| title       = Romance writers' rift widens
+| work        = [[Winnipeg Free Press]]
+| author      = Bob Armstrong
+| date        = 2020-01-18
+| archiveurl  = 
+| archivedate = 
+| accessdate  = 2020-02-07
+| url-status  = live      
+| quote       = The two outliers were a fantasy novel, Evan Winter’s ''The Rage of Dragons'', and a collection of science fiction novellas, Cory Doctorow’s ''Radicalized''.
+}}
+</ref>
+
+<ref name=registercitizen2020-01-28>
+{{cite news     
+| url         = https://www.registercitizen.com/opinion/article/John-Breunig-The-Ballad-of-The-Innocent-Man-15003974.php
+| title       = John Breunig: The Ballad of The Innocent Man
+| work        = [[Register Citizen]]
+| author      = John Breunig
+| date        = 2020-01-28
+| archiveurl  = 
+| archivedate = 
+| url-status  = live
+| accessdate  = 2020-02-07
+| quote       = He’d leave for food, watch a little TV. Mostly, he read (he recommends “The Rage of Dragons,” by Evan Winter, who also was raised in Africa).
+}}
+</ref>
+
+<ref name=cbc2019-11-06>
+{{cite news     
+| url         = https://www.cbc.ca/books/with-african-epic-the-rage-of-dragons-evan-winter-wrote-the-book-he-d-want-to-read-1.5277942
+| title       = With African epic The Rage of Dragons, Evan Winter wrote the book he'd want to read
+| work        = [[CBC Books]]
+| author      = Ryan B. Patrick
+| date        = 2019-11-06
+| archiveurl  = 
+| archivedate = 
+| accessdate  = 2020-02-07
+| url-status  = live
+| quote       = The self-published book was a bestseller and was acquired and re-released by Orbit Books as part of a four-book deal. It is the first book in a planned series.
+}}
+</ref>
+
+<ref name=cbc2020-02-05>
+{{cite news     
+| url         = https://www.cbc.ca/books/47-works-of-canadian-fiction-to-watch-for-in-spring-2020-1.5426273
+| title       = 47 works of Canadian fiction to watch for in spring 2020
+| work        = [[CBC Books]]
+| date        = 2020-02-05
+| archiveurl  = 
+| archivedate = 
+| accessdate  = 2020-02-07
+| url-status  = live
+| quote       = Here are 47 works of Canadian fiction to watch for in spring 2020.
+}}
+</ref>
+}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Winter, Evan}}
+[[Category:21st-century Canadian novelists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Canadian fantasy writers]]
+[[Category:Living people]]
+[[Category:Black speculative fiction authors]]

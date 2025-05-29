@@ -1,0 +1,218 @@
+{{short description|English poet}}
+{{Use dmy dates|date=July 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name          = T. E. Hulme
+| image         = T.E. Hulme 1912.jpg
+| caption       = T.E. Hulme in 1912
+| birth_name    = Thomas Ernest Hulme
+| birth_date    = {{birth date|1883|9|16|df=yes}}
+| birth_place   = [[Endon]], [[Staffordshire]], Britain
+| death_date    = {{Death date and age|1917|9|28|1883|9|16|df=yes}}
+| death_place   = [[Oostduinkerke]], [[West Flanders]], Belgium
+| occupation    = Poet, critic
+| notableworks  = 
+| influenced    = 
+| signature     = 
+}}
+
+'''Thomas Ernest Hulme''' ({{IPAc-en|h|j|uː|m}}; 16 September 1883 &ndash; 28 September 1917) was an English critic and poet who, through his writings on art, literature and politics, had a notable influence upon [[modernism]].<ref>"Though Ezra Pound coined the word "Imagist" and served as chief publicist for the movement, it was the theories supplied by T. E. Hulme which gave the early Imagist experiments their 'authority and direction.' Both men served their common purpose well; together they called the tune for one of the most lively phases of the prewar poetic renascence. With Hulme as metaphysician and Pound as impresario, the Imagists 'did a lot of useful pioneering work. They dealt a blow at the post-Victorian magazine poets... They livened things up a lot. They made free verse popular... And they tried to attain an exacting if narrow standard of style in poetry.' Indirectly they did more. The Imagists, above all other prewar coteries, put into the hands of the poets of the twenties the technical charts and compasses by which to find their poetic way across the hard dry sands of the Wasteland." — Ross, Robert H. (1968). [https://archive.org/stream/backgroundstomod00perrrich#page/38/mode/2up "Sound and Fury."] In: ''Backgrounds to Modern Literature''. San Francisco: Chandler Publishing Company, p. 58.</ref> He was an aesthetic philosopher and the 'father of imagism'.<ref>Hughes, Glenn, 'Imagism & Imagism', Stanford University Press 1931</ref>
+
+==Early life==
+
+Hulme was born at Gratton Hall, [[Endon]], [[Staffordshire]], the son of Thomas and Mary Hulme.  He was educated at [[Newcastle-under-Lyme]] High School and, from 1902, [[St John's College, Cambridge]], where he read mathematics, but was sent down in 1904 after rowdy behaviour on [[Boat Race]] night.<ref>"In 1902, Hulme won a mathematics exhibition to St. John’s College, Cambridge. A teetotaler himself, Hulme apparently consorted with some who were not. He was at any rate sent down in 1904 for what Herbert Read delicately called "indulging in a brawl". (A college document that might have slipped out of Bertie Wooster’s dossier mentions "over-stepping the limits of the traditional license allowed by the authorities on Boat Race night.")" — Kimball, Roger (1997). [http://www.newcriterion.com/articles.cfm/importanceoftehulme-kimball-3385 "The Importance of T. E. Hulme,"] ''The New Criterion'', Vol. XV, p. 18.</ref> He was thrown out of Cambridge a second time after a scandal involving a [[Roedean School|Roedean]] girl. He returned to his studies at [[University College London]], before travelling around [[Canada]] and spending time in [[Brussels]] acquiring languages.
+
+==Proto-modernist==
+[[File:Bust of T. E. Hulme.jpg|thumbnail|Bust of T. E. Hulme by [[Jacob Epstein]]]]
+
+From about 1907 Hulme became interested in [[philosophy]],<ref>Mead, Henry (2008). "T. E. Hulme, Bergson, and The New Philosophy," ''European Journal of English Studies'', Vol. XII, No. 3, pp. 245–260.</ref> translating works by [[Henri Bergson]]<ref>Gibson, Matthew (2011). "Contradictory Images: The Conflicting Influences of Henri Bergson and William James on T. E. Hulme, and the Consequences for Imagism," ''Review of English Studies'' 62, pp. 275–295.</ref> and sitting in on lectures at Cambridge. He translated [[Georges Sorel]]'s ''Reflections on Violence''. The most important influences on his thought were Bergson, who asserted that 'human experience is relative, but religious and ethical values are absolute'<ref>Pratt, William (1985). Introduction to ''The Influence of French Symbolism on Modern American Poetry,'' by Rene Taupin. New York: AMS Press Inc. {{ISBN|0-404-61579-1}}</ref> and, later, [[Wilhelm Worringer]] (1881–1965), German art historian and critic – in particular his ''Abstraktion und Einfühlung'' (''Abstraction and Empathy'', 1908).<ref>Jones, Alun R. (1960). "T. E. Hulme, Wilhelm Worringer and the Urge to Abstraction", ''British Journal of Aesthetics'', Vol. I, pp. 1–6.</ref> Hulme was influenced by [[Remy de Gourmont]]'s aristocratic concept of art and his studies of sensibility and style.<ref>Burne, Glen S. (1963). ''Remy de Gourmont: His Ideas & Influence in England & America''. Southern Illinois University Press.</ref> From 1909 Hulme contributed critical articles to ''[[The New Age]]'', edited by [[A. R. Orage]].
+ 
+Hulme developed an interest in poetry<ref>"It was probably the contrast between the sensory image and a traditional diction that first suggested to T. E. Hulme the isolation of the image. If the image could be identified as the only poetic force within a poem, why not proceed to identify poem and image, as had been the common practice in China or Japan? To cut the cackle – that was to be the first aim of a modern poetry." — Read, Herbert (1955). "The Drift of Modern Poetry," ''Encounter'', Vol. IV, No. 1, p. 6.</ref> and wrote a small number of poems. He was made secretary of the [[Poets' Club]], attended by such establishment figures as [[Edmund Gosse]] and [[Henry Newbolt]]. There he encountered [[Ezra Pound]] and [[F. S. Flint]].<ref>Isaacs, Jacob (1952). [https://archive.org/stream/backgroundofmode00isaarich#page/34/mode/2up "The Coming of the Image,"] in ''The Background of Modern Poetry''. New York: E. P. Dutton & Co., Inc., pp. 34–51.</ref> In late 1908 Hulme delivered his paper ''[[A Lecture on Modern Poetry]]'' to the club. Hulme's poems "Autumn" and "A City Sunset", both published in 1909 in a Poets' Club anthology,<ref>''For Christmas MDCCCCVIII'' (London: The Poets' Club), 1909.</ref> have the distinction of being the first [[Imagist]] poems.<ref>Schmidt, Michael (1998). ''Lives of the Poets''. London: Weidenfeld & Nicolson {{ISBN|978-0-297-84014-5}} 
+</ref> A further five poems were published in ''The New Age'' in 1912 as ''The Complete Poetical Works of T. E. Hulme''.<ref>{{cite journal|last=Hulme|first=T. E.|year=1912|title=The Complete Poetical Works of T. E. Hulme|url=http://dl.lib.brown.edu/pdfs/114081409614388.pdf#page=19|journal=The New Age|location=London|publisher=The New Age Press Ltd.|page=124}} They were reprinted, with a short introduction by Pound, in ''[https://archive.org/stream/ripostesofezrapo00pounrich#page/n5/mode/2up Ripostes of Ezra Pound: Whereto are Appended the Complete Poetical Works of T. E. Hulme]'' (1915). London: Elkin Mathew, pp. 58–64</ref> Despite this misleading title, Hulme in fact wrote about 25 poems totalling some 260 lines, of which the majority were possibly written between 1908 and 1910.<ref>{{cite book
+ |first=Flemming  |last=Olsen
+ |title=Between Positivism and T. S. Eliot: Imagism and T.E. Hulme |series=Studies in Literature, Vol. 52 |location=Odense
+ |publisher=University Press of Southern Denmark |year=2008 |page=124|isbn=978-87-7674-283-6
+ |url=http://www.oapen.org/download?type=document&docid=355830#page=124}}</ref> [[Robert Frost]] met Hulme in 1913 and was influenced by his ideas.<ref>Hoffman, Tyler (2001). ''Robert Frost and the Politics of Poetry.'' University Press of New England, p. 54 {{ISBN|1-58465-150-4}}</ref> The publisher of the book 'Ripostes' (to which Pound appended the 'complete' poetical works of T. E. Hulme) spoke in that book of Hulme 'the meta-physician, who achieves great rhythmical beauty in curious verse-forms.'<ref>Appendix to  ''[https://archive.org/stream/ripostesofezrapo00pounrich#page/n69/mode/2up Ripostes]'', Stephen Swift & Co., Ltd., 1912.</ref>
+
+In his critical writings Hulme distinguished between [[Romanticism]],<ref>Krieger, Murray (1953). "The Ambiguous Anti-Romanticism of T. E. Hulme," ''ELH'', Vol. 20, No. 4, pp. 300–314.</ref> a style informed by a belief in the infinite in man and nature, characterised by Hulme as "spilt religion", and [[Classicism]], a mode of art stressing human finitude, formal restraint, concrete imagery and, in Hulme's words, "dry hardness".<ref>Hulme, T. E. (2003). "Romanticism and Classicism." In: ''Selected Writings.'' Ed. Patrick McGuinness. New York: Routledge, pp. 68–83.</ref><ref>Hadjiyiannis, Christos (2013). "Romanticism versus Classicism in 1910: T. E. Hulme, Edward Storer and The Commentator," ''Literature and History'', Vol. XXII, No. 1, pp. 25–41.</ref> Similar views were later expressed by [[T. S. Eliot]].<ref>"The English critic and philosopher T. E. Hulme had written, in the years immediately preceding his death in World War I in 1917, a series of essays in which he attacked the subjectivism and vagueness of romantic literature and advocated "dry and hard" images in poetry as well as objectivity and discipline in art in general. Hulme believed that "man is by nature bad or limited, and can consequently only accomplish anything of value by disciplines, ethical, heroic or political", and he saw one consequence of this belief as an abandonment of romantic optimism about the nature and potentialities of man. Hulme's views influenced T. S. Eliot and are reflected in Eliot's influential essay, ''Tradition and the Individual Talent'', which first appeared in 1917." — Daiches, David (1962). [https://archive.org/stream/timeofharvestam00spil#page/94/mode/2up "The New Criticism."] In: ''Time of Harvest, American Literature, 1910–1960''. New York: Hill and Wang, p. 96.</ref> Hulme's ideas had a major effect on [[Wyndham Lewis]] (quite literally when they came to blows over [[Kate Lechmere]]; Lewis ended the worse for it, hung upside down by the cuffs of his trousers from the railings of Great Ormond Street).<ref>McGuinness, Patrick (1998), Ed. ''T. E. Hulme: Selected Writings''. Manchester: Fyfield Books, p. xvi.</ref> He championed the art of [[Jacob Epstein]] and [[David Bomberg]], was a friend of [[Gaudier-Brzeska]], and was in on the debut of Lewis's [[literary magazine]] ''[[BLAST (magazine)|BLAST]]'' and [[vorticism]].
+
+Hulme's politics were conservative, and he moved further to the right after 1911 as a result of contact with [[Pierre Lasserre]], who was associated with ''[[Action Française]]''.
+
+==First World War==
+
+[[File:Hulme 1.jpg|right|thumb|180px|Lieut. T. E. Hulme in uniform]]
+
+Hulme volunteered as an artilleryman in 1914 and served with the [[Honourable Artillery Company]] and later the [[Royal Marine Artillery]] in France and Belgium. He kept up his writing for ''The New Age''. Notable publications during this period for that magazine were "War Notes", written under the pen name "North Staffs", and "A Notebook", which contains some of his most organised critical writing. He was wounded in 1916. Back at the front in 1917, he was killed by a shell at [[Oostduinkerke]] near [[Nieuwpoort, Belgium|Nieuwpoort]], in [[West Flanders]].
+
+<blockquote>[...] On 28 September 1917, four days after his thirty-fourth birthday, Hulme suffered a direct hit from a large shell which literally blew him to pieces. Apparently absorbed in some thought of his own he had failed to hear it coming and remained standing while those around threw themselves flat on the ground. What was left of him was buried in the Military Cemetery at Koksijde, West-Vlaanderen, in Belgium where—no doubt for want of space—he is described simply as 'One of the War poets'."<ref>Ferguson, Robert (2002). ''The Short Sharp Life of T. E. Hulme''. London: Allen Lane, p. 270.</ref></blockquote>
+
+==Works==
+
+* ''[http://catalog.hathitrust.org/Record/002101343 Notes on Language and Style]'' (1929, University of Washington Book Store); in ''The Criterion'', Vol. 3, No. 12, (July 1925) (ed. [[Herbert Read]])
+* ''[https://archive.org/stream/speculations031991mbp#page/n7/mode/2up Speculations: Essays on Humanism and the Philosophy of Art]'' (1936, K. Paul, Trench, Trubner & Co., Ltd.), edited by [[Herbert Read]]
+* ''Further Speculations of T. E. Hulme'' (1955, University of Minnesota), edited by Samuel Hynes
+* ''The Collected Writings of T. E. Hulme'' (1996, OUP), edited by Karen Csengeri
+* ''Selected Writings of T. E. Hulme'' (2003, Fyfield Books), edited by [[Patrick McGuinness]]
+
+===Selected poems===
+
+* ''Above the Dock''
+* ''Autumn''
+* ''A City Sunset''
+* ''Conversion''
+* ''The Embankment''
+* ''Mana Aboda''
+* ''The Man in the Crow's Nest''
+* ''Susan Ann and Immortality''
+* ''The Poet''
+* ''A Tall Woman''
+* ''A Sudden Secret''
+*  ''In the Quiet Land''
+* ''At Night!''
+* ''Town Sky-line''
+
+===As translator===
+
+* [[Henri Bergson]], ''[https://archive.org/stream/anintroductiont00berggoog#page/n6/mode/2up An Introduction to Metaphysics]'', (1912)
+* [[Georges Sorel]], ''[https://archive.org/stream/reflectionsonvio00soreuoft#page/n5/mode/2up Reflections on Violence]'', (1915)
+
+===Articles===
+{{Col-begin}}
+
+{{Col-3}}
+* [http://dl.lib.brown.edu/pdfs/1140813821124077.pdf "Belated Romanticism,"] ''The New Age'', Vol. IV, No. 17, 1909.
+* [http://dl.lib.brown.edu/pdfs/1140813850140028.pdf "The New Philosophy,"] ''The New Age'', Vol. V, No. 10, 1909.
+* [http://dl.lib.brown.edu/pdfs/1140813854359402.pdf "Bergson and Bax,"] ''The New Age'', Vol. V, No. 13, 1909.
+* [http://dl.lib.brown.edu/pdfs/1140813855765498.pdf "Searchers after Reality: Bax,"] ''The New Age'', Vol. V, No. 14, 1909.
+* [http://dl.lib.brown.edu/pdfs/1140813859921538.pdf "Searchers after Reality: Haldane,"] ''The New Age'', Vol. V, No. 17, 1909.
+* [http://dl.lib.brown.edu/pdfs/1140813873906180.pdf "A Note on 'La Foi',"] ''The New Age'', Vol. V, No. 27, 1909.
+* [http://dl.lib.brown.edu/pdfs/1140813882359770.pdf "Searchers after Reality: Jules De Gaultier,"] ''The New Age'', Vol. VI, No. 5, 1909.
+* [http://dl.lib.brown.edu/pdfs/1140814020671884.pdf "Notes on the Bologna Congress,"] ''The New Age'', Vol. VIII, No. 26, 1911.
+* [http://dl.lib.brown.edu/pdfs/1140814035452918.pdf "Bergsonism in Paris,"] ''The New Age'', Vol. IX, No. 8, 1911.
+* [http://dl.lib.brown.edu/pdfs/1140814045640662.pdf "Bax on Bergson,"] ''The New Age'', Vol. IX, No. 14, 1911.
+* [http://dl.lib.brown.edu/pdfs/1140814067374528.pdf "Notes on Bergson,"] ''The New Age'', Vol. IX, No. 25, 1911.
+* [http://dl.lib.brown.edu/pdfs/1140814068858843.pdf "Notes on Bergson II,"] ''The New Age'', Vol. IX, No. 26, 1911.
+* [http://dl.lib.brown.edu/pdfs/1140814075253343.pdf "Mr. Balfour, Bergson, and Politics,"] ''The New Age'', Vol. X, No. 2, 1911.
+* [http://dl.lib.brown.edu/pdfs/1140814078171867.pdf "Notes on Bergson III,"] ''The New Age'', Vol. X, No. 4, 1911.
+* [http://dl.lib.brown.edu/pdfs/1140814080982996.pdf "Notes on Bergson IV,"] ''The New Age'', Vol. X, No. 5, 1911.
+* [http://dl.lib.brown.edu/pdfs/1140814103280675.pdf "Notes on Bergson V,"] ''The New Age'', Vol. X, No. 17, 1912.
+* [http://library.brown.edu/pdfs/1140814260105227.pdf "Mr. Epstein and the Critics,"] ''The New Age'', Vol. XIV, No. 8, 1913.
+{{Col-3}}
+* [https://archive.org/stream/poetrydrama02monruoft#page/220/mode/2up "German Chronicle"], ''Poetry and Drama'', Vol. II, 1914.
+* [http://library.brown.edu/pdfs/1140814264825325.pdf "Modern Art: The Grafton Group,"] ''The New Age'', Vol. XIV, No. 11, 1914.
+* [http://library.brown.edu/pdfs/1140814272750182.pdf "Modern Art: A Preface Note and Neo-Realism,"] ''The New Age'', Vol. XIV, No. 15, 1914.
+* [http://library.brown.edu/pdfs/1140814282682256.pdf "Modern Art: The London Group,"] ''The New Age'', Vol. XIV, No. 21, 1914.
+* [http://library.brown.edu/pdfs/1140814305338554.pdf "Modern Art: Mr. David Bomberg's Show,"] ''The New Age'', Vol. XV, No. 10, 1914.
+* [http://library.brown.edu/pdfs/1140814407407178.pdf "The Translator's Preface to Sorel's 'Reflections on Violence',"] ''The New Age'', Vol. XVII, No. 24, 1915.
+* [http://library.brown.edu/pdfs/114081441344229.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 2, 1915 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814414593312.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 3, 1915 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814416135741.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 4, 1915 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814417688323.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 5, 1915 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814417688323.pdf "A Notebook,"] ''The New Age'', Vol. XVIII, No. 5, 1915.
+* [http://library.brown.edu/pdfs/1140814419280859.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 6, 1915 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814419280859.pdf "A Notebook,"] ''The New Age'', Vol. XVIII, No. 6, 1915.
+* [http://library.brown.edu/pdfs/1140814420885946.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 7, 1915 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814420885946.pdf "A Notebook,"] ''The New Age'', Vol. XVIII, No. 7, 1915.
+* [http://library.brown.edu/pdfs/1140814422405948.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 8, 1915 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814422405948.pdf "A Notebook,"] ''The New Age'', Vol. XVIII, No. 8, 1915.
+* [http://library.brown.edu/pdfs/1140814423948260.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 9, 1915 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814425515174.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 10, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814425515174.pdf "A Notebook,"] ''The New Age'', Vol. XVIII, No. 10, 1916.
+{{Col-3}}
+* [http://library.brown.edu/pdfs/1140814427108150.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 11, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814428608676.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 12, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814430107749.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 13, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814430107749.pdf "A Notebook,"] ''The New Age'', Vol. XVIII, No. 13, 1916.
+* [http://library.brown.edu/pdfs/1140814431647554.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 14, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814433249203.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 15, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814433249203.pdf "A Notebook,"] ''The New Age'', Vol. XVIII, No. 15, 1916.
+* [http://library.brown.edu/pdfs/1140814435264528.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 16, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814436853654.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 17, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/1140814438419706.pdf "War Notes,"] ''The New Age'', Vol. XVIII, No. 18, 1916 (as ''North Staffs'').
+* [http://library.brown.edu/pdfs/114081493864707.pdf "The Note-Books of T. E. Hulme,"] ''The New Age'', Vol. XXX, No. 12, 1922.
+* [http://library.brown.edu/pdfs/1140814939851153.pdf "The Note-Books of T. E. Hulme: II,"] ''The New Age'', Vol. XXX, No. 13, 1922.
+* [http://library.brown.edu/pdfs/1140814942785387.pdf "The Note-Books of T. E. Hulme: III,"] ''The New Age'', Vol. XXX, No. 15, 1922.
+* [http://library.brown.edu/pdfs/1140814944246081.pdf "The Note-Books of T. E. Hulme: IV,"] ''The New Age'', Vol. XXX, No. 16, 1922.
+* [http://library.brown.edu/pdfs/1140814953300596.pdf "The Note-Books of T. E. Hulme: Bergson's Theory of Art,"] ''The New Age'', Vol. XXX, No. 22, 1922.
+* [http://library.brown.edu/pdfs/1140814954720182.pdf "The Note-Books of T. E. Hulme: Bergson's Theory of Art, II"], ''The New Age'', Vol. XXX, No. 23, 1922.
+* [http://library.brown.edu/pdfs/1140814956113496.pdf "The Note-Books of T. E. Hulme: Bergson's Theory of Art, III"], ''The New Age'', Vol. XXX, No. 24, 1922.
+{{Col-end}}
+
+==Notes==
+{{Reflist|40em}}
+
+==Further reading==
+{{Refbegin|30em}}
+
+* Beasley, Rebecca (2007). ''Theorists of Modernist Poetry. T. S. Eliot, T. E. Hulme, Ezra Pound''. London: Routledge. 
+* Belgion, Montgomery (1927). "In Memory of T. E. Hulme," ''The Saturday Review'', Vol. IV, No. 10, pp.&nbsp;154–155.
+* Brookner, Jewel Spears, (1984). ''T. E. Hulme and Irving Babbitt: An Annotated Bibliography''. New York: Garland.
+* Coffman, Stanley K., Jr. (1951). ''Imagism: A Chapter for the History of Modern Poetry''. University of Oklahoma Press.
+* Collin, W. E. (1930). "Beyond Humanism: Some Notes on T. E. Hulme," ''The Sewanee Review'', Vol. 38, No. 3, pp.&nbsp;332–339.
+* Comentale, Edward P.; Andrzej Gasiorek (2013). ''T. E. Hulme and the Question of Modernism''. Aldershot: Ashgate Publishing, Ltd.
+* Csengeri, K. E. (1982). "T. E. Hulme's Borrowings from the French," ''Comparative Literature'', Vol. 34, No. 1, pp.&nbsp;16–27.
+* [[T. S. Eliot|Eliot, T. S.]] (1932). ''Selected Essays, 1917-1932''. London: Faber and Faber.
+* Epstein, Jacob (1955). "T.E. Hulme and his Friends." In: ''Epstein: An Autobiography''. New York: E.P. Dutton & Company, pp.&nbsp;59–62.
+* Ferguson, Robert (2002). The Short Sharp Life of T. E. Hulme. London: Allen Lane
+* [[F. S. Flint|Flint, F. S.]] (1915). [http://dl.lib.brown.edu/pdfs/130693648162504.pdf "The History of Imagism,"] ''The Egoist'', Vol. II, No. 5, pp.&nbsp;70–71.
+* Hadjiyiannis, Christos (2013). "Ezra Pound, T. E. Hulme, Edward Storer: Imagism as Anti-Romanticism in the Pre-Des Imagistes Era". In: ''Imagism: Essays on its Initiation, Impact and Influence''. Ed. John Gery, Daniel Kempton, and H. R. Stoneback, The University of New Orleans Press, pp.&nbsp;35–46.
+* Harmer, J. B. (1975). ''Victory in Limbo: Imagism 1908-1917''. London: Secker & Warburg.
+* Hoeres, Peter (2003). [http://www.geschichte.uni-wuerzburg.de/fileadmin/05040000/T_E_Hulme.pdf "T. E. Hulme - Ein konservativer Revolutionär aus England"], in: ''Zeitschrift für Politik'', 50, pp.&nbsp;187–204.
+* Hughes, Glenn, (1931). ''Imagism and the Imagists''. Stanford, CA.: Stanford University Press.
+* Jones, Alun (1960). ''The Life and Opinions of T. E. Hulme''. London: Victor Gollancz.
+* Kamerbeek, Jr., J. (1969). "T. E. Hulme and German Philosophy: Dilthey and Scheler," ''Comparative Literature'', Vol. 21, No. 3, pp.&nbsp;193–212.
+* Kishler, Thomas C. (1976). "Original Sin and T. E. Hulme's Aesthetics," ''Journal of Aesthetic Education'', Vol. 10, No. 2, pp.&nbsp;99–106.
+* Kuhn, Elizabeth (2011). "Toward an Anti-Humanism of Life: The Modernism of Nietzsche, Hulme and Yeats," ''Journal of Modern Literature'', Vol. 34, No. 4, pp.&nbsp;1–20.
+* Levenson, Michael H. (1984). ''A Genealogy of Modernism. A Study of English Literary Doctrine 1908-1922''. Cambridge University Press. 
+* Litz, A. Walton (2000). ''Modernism and the New Criticism''. Cambridge University Press.
+* Nott, Kathleen (1954). [https://archive.org/stream/emperorsclothes029977mbp#page/n71/mode/2up "Mr. Hulme's Sloppy Dregs."] In: ''The Emperor Clothes''. London: William Heinemann Ltd., pp.&nbsp;56–104.
+* [[A. R. Orage|Orage, A. R.]] (1920). [http://library.brown.edu/pdfs/114081482976354.pdf "Readers and Writers,"] ''The New Age'', Vol. XXVII, No. 17, pp.&nbsp;259–260.
+* Paige, D. D. (1951). [https://archive.org/stream/LettersOfEzraPound1907-1941/letters#page/n5/mode/2up ''The Letters of Ezra Pound, 1907-1941'']. London: Faber and Faber. 
+* Rackin, Phyllis (1967). "Hulme, Richards, and the Development of Contextualist Poetic Theory," ''The Journal of Aesthetics and Art Criticism'', Vol. 25, No. 4, pp.&nbsp;413–425.
+* Rae, Patricia (1997). ''The Practical Muse. Pragmatist Poetics in Hulme, Pound, and Stevens''. Bucknell University Press. 
+* Read, Herbert (1953). "The Isolation of the Image: T.E. Hulme." In: ''The True Voice of Feeling.'' London: Faber & Faber, pp.&nbsp;101–115.
+* [[Michael Roberts (writer)|Roberts, Michael]] (1938). ''T. E. Hulme''. London: Faber & Faber (Rep. by Carcanet Press, 1982).
+* Salter, K. W. (1965). [https://archive.org/stream/thomastrahernemy010381mbp#page/n141/mode/2up "Traherne and a Romantic Heresy."] In: ''Thomas Traherne: Mystic And Poet''. New York: Barnes and Noble, Inc., pp.&nbsp;130–135.
+* Schuchard, Ronald (2003). "Did Eliot Know Hulme? Final Answer," ''Journal of Modern Literature'', Vol. 27(1/2), pp.&nbsp;63–69. 
+* Shusterman, Richard (1985). "Remembering Hulme: A Neglected Philosopher-Critic-Poet," ''Journal of the History of Ideas'', Vol. 46, No. 4, pp.&nbsp;559–576.
+* Tatham, Jr., Lewis Charles (1965). [https://archive.org/stream/shelleyhistwenti00tathrich#page/64/mode/2up "T. E. Hulme."] In: ''Shelley and his Twentieth-Century Detractors''. (M.A. Thesis) University of Florida.
+* Tigani, Francesco (2016). "Fra immaginazione e realtà: dalla critica del Romanticismo alla teologia politica negli scritti di Thomas Ernest Hulme e Carl Schmitt'", ''Información Filosófica'', XIII, pp.&nbsp;91–110.
+* [[Tindall, William York]] (1955). [https://archive.org/stream/literarysymbol030100mbp#page/n5/mode/2up ''The Literary Symbol'']. Columbia University Press.
+* Wilhelm, J. J. (2010). ''Ezra Pound in London and Paris, 1908–1925''. Penn State Press {{ISBN|0271040998}}
+* Williams, Raymond (1960). [https://archive.org/stream/culturesociety17001850mbp#page/n227/mode/2up "T. E. Hulme."] In: ''Culture & Society 1780-1950''. New York: Doubleday & Company, Inc., pp.&nbsp;205–210.
+{{Refend}}
+
+==External links==
+{{portal|Biography|Poetry}}
+{{wikiquote}}
+* {{Gutenberg author | id=Hulme,+T.E.}}
+* {{Internet Archive author |sname=Thomas Ernest Hulme |sopt=t}}
+* {{Librivox author |id=6599}}
+* [http://www.oapen.org/download?type=document&docid=355830 Critical discussion of Hulme's work], including texts of 16 poems ([http://www.sdu.dk/en/ Univ. of Southern Denmark])
+* [http://www.keele.ac.uk/library/specarc/collections/tehulme/Hulme.pdf List of manuscript and typescript poems, etc.] held at [http://www.ac.uk/depts/li Keele University Library]{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}
+* [http://www.poetryfoundation.org/learning/essay/238694 Romanticism and Classicism]
+* [http://www.theamericanconservative.com/repository/a-note-on-the-art-of-political-conversion/ A Note on the Art of Political Conversion]
+* [http://www.tate.org.uk/art/research-publications/camden-town-group/rebecca-beasley-a-definite-meaning-the-art-criticism-of-te-hulme-r1104352#fn_1_1 ‘A Definite Meaning’: The Art Criticism of T. E. Hulme]
+* [http://dl.lib.brown.edu/mjp/render.php?view=mjp_object&id=mjp.2005.00.096 The Evolution of T. E. Hulme's Thought]
+* [http://www.theimaginativeconservative.org/2010/07/te-hulme-first-conservative-of.html T. E. Hulme: The First Conservative of the Twentieth Century]
+* [http://www.theimaginativeconservative.org/2013/09/t-e-hulme-reconsidered.html Hulme Reconsidered and Reappreciated]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hulme, TE}}
+[[Category:1883 births]]
+[[Category:1917 deaths]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:Alumni of University College London]]
+[[Category:Royal Marines officers]]
+[[Category:Royal Marines personnel of World War I]]
+[[Category:British military personnel killed in World War I]]
+[[Category:Imagists]]
+[[Category:English literary critics]]
+[[Category:People from Endon]]
+[[Category:People educated at Newcastle-under-Lyme School]]
+[[Category:English male poets]]
+[[Category:20th-century English poets]]
+[[Category:20th-century English male writers]]
+[[Category:English male non-fiction writers]]
+[[Category:British Army personnel of World War I]]
+[[Category:Honourable Artillery Company officers]]

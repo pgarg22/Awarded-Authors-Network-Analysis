@@ -1,0 +1,50 @@
+{{short description|Poet, writer from Hungary}}
+{{eastern name order|Kisfaludy Atala}}
+{{Infobox Person
+| name        = Atala Kisfaludy
+| image       = Kisfaludy Atala-1.jpg
+| image_size  =
+| caption     =
+| birth_name  =
+| birth_date  = 6 April 1836
+| birth_place = [[Kötcse]], [[Kingdom of Hungary]]
+| death_date  = {{d-da|18 February 1911|6 April 1836}}
+| death_place = [[Kaposvár]], [[Kingdom of Hungary]]
+| death_cause =
+| residence   =
+| other_names =
+| known_for   =
+| education   =
+| spouse      =Károly Szalay 
+| children    =[[Fruzina Szalay]]
+| parents     =Mihály Kisfaludy <br /> Amália Hanovszky
+| relatives   =[[Károly Kisfaludy]] <br />[[Sándor Kisfaludy]] <br /> [[Pál Ányos]]
+| signature   =
+| website     =
+| footnotes   =
+| nationality = Hungarian
+}}
+'''Atala Kisfaludy''' (6 April 1836 – 18 February 1911) was a [[Hungarians|Hungarian]] poet, writer from Hungary. She was the first woman to be a member of the [[Sándor Petőfi|Petőfi]] Society.
+
+==Biography==
+Atala Kisfaludy was born on 6 April 1836 in [[Vojvodina]], [[Kötcse]] to the Kisfaludy family, of noble origin in [[Kisfalud]].  Her father was Captain Mihály Kisfaludy, and her mother was Amália Hanovszky. She was related to [[Károly Kisfaludy|Károly]] and [[Sándor Kisfaludy]] as well as [[Pál Ányos]]. Kisfaludy loved poetry immensely. In 1852, she married the lawyer Károly Szalay (also written Kálolyné Szalay) and they lived in [[Kaposvár]] where they had three daughters. Kisfaludy was a member of the cultural life in the city but in 1858, she fell ill. During this time, she began to write poetry. Her poems appeared in ''Hölgyfutár'' and then ''Vasárnapi Újság''. Her work was published only under her given name, Atala. She only began to use her family name in 1876, and was never published under it. Kisfaludy was the first woman in the Petőfi Society in 1878. In 1861, she founded and edited a children's magazine with Richard Szabó. She died on 18 February 1911 in [[Kaposvár]].<ref name="Arcanum">{{cite web | title=Kisfaludy Atala (kisfaludi), - Magyar írók élete és munkái – Szinnyei József - Kézikönyvtár | website=Arcanum | url=https://www.arcanum.hu/hu/online-kiadvanyok/Lexikonok-magyar-irok-elete-es-munkai-szinnyei-jozsef-7891B/k-8D2C5/kisfaludy-atala-kisfaludi-8FEFC | language=hu | access-date=2019-12-12}}</ref><ref name="Nőkért.hu 2019">{{cite web | title=Kisfaludy Atala költő, író (1836–1911) | website=Nőkért.hu | date=2019-06-07 | url=https://nokert.hu/p-20190607-2249/2697/8/kisfaludy-atala-kolto-iro-1836-1911 | language=hu | access-date=2019-12-12}}</ref><ref name="Hawkesworth 2001">{{cite book | last=Hawkesworth | first=C. | title=A History of Central European Women's Writing | publisher=Palgrave Macmillan UK | series=Studies in Russia and East Europe | year=2001 | isbn=978-0-333-98515-1 | url=https://books.google.com/books?id=dPOFDAAAQBAJ&pg=PA98 | access-date=2019-12-12 | page=98}}</ref><ref name="Zirin">{{cite book | last1=Zirin | first1=M. | last2=Livezeanu | first2=I. | last3=Worobec | first3=C.D. | last4=Farris | first4=J.P. | title=Women and Gender in Central and Eastern Europe, Russia, and Eurasia: A Comprehensive Bibliography Volume I: Southeastern and East Central Europe (Edited by Irina Livezeanu with June Pachuta Farris) Volume II: Russia, the Non-Russian Peoples of the Russian | publisher=Taylor & Francis | year=2015 | isbn=978-1-317-45196-9 | url=https://books.google.com/books?id=G2isBwAAQBAJ&pg=PT1140 | access-date=2019-12-12 | page=1140}}</ref><ref name="Citatum • Idézetek">{{cite web | title=Kisfaludy Atala idézetek | website=Citatum • Idézetek | url=https://www.citatum.hu/szerzo/Kisfaludy_Atala | language=hu | access-date=2019-12-12}}</ref><ref name="Kisfaludy Atala">{{cite web | title=MEK-17486&#93; | website=Kisfaludy Atala: Kisfaludy Atala összes költeményei &#91;Magyar Elektronikus Könyvtár | date=2017-11-08 | url=https://mek.oszk.hu/17400/17486/ | language=hu | access-date=2019-12-12}}</ref>
+
+==Bibliography==
+* Atala költeményei (Poems of Atala), 1861
+* {{cite book | last=Kisfaludy | first=A. | title=Rajzok | publisher=Franklin | year=1879 | url=https://books.google.com/books?id=5hROaNJ0bwMC | language=de | access-date=2019-12-12 | page=}}
+* {{cite book | last=Kisfaludy | first=A. | title=Kisfaludy Atala összes költeményei | publisher=Jeiteles Herman Ny. | year=1880 | url=https://books.google.com/books?id=6obuMgEACAAJ | language=hu | access-date=2019-12-12 | page=}}
+
+==References and sources==
+{{Reflist}}
+
+==External links==
+*{{cite web | website=Somogy Temetkezési Kft.- Céginformációk | url=http://www.somogyitemetkezes.hu/elodeink/nev-szerinti-lista/6 | title= Gravestone|language=hu | access-date=2019-12-12}}
+*{{cite web | title=Kisfaludy Atala | website=PLM Namespace | url=https://resolver.pim.hu/auth/PIM60962|publisher=The Petőfi Museum of Literature| access-date=2019-12-12}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kisfaludy, Atala}}
+[[Category:1836 births]]
+[[Category:1911 deaths]]
+[[Category:Hungarian women poets]]
+[[Category:19th-century Hungarian poets]]

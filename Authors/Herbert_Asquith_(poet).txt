@@ -1,0 +1,55 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image = Herbert Asquith (1881-1947).jpg
+| caption = 1918 photograph of Asquith
+| honorific_prefix = [[The Honourable]]
+| name = Herbert Asquith
+| birth_date = {{birth date|1881|3|11|df=y}}
+| birth_place =  [[Hampstead]], London, England<ref>''1901 England Census''</ref>
+| death_date = {{death date and age|1947|8|5|1881|7|1|df=y}}
+| death_place = [[Bath, Somerset]], England<ref name="times"/>
+| occupation = Lawyer and writer
+| spouse = {{marriage|[[Lady Cynthia Asquith|Lady Cynthia Charteris]]|1910}}
+| parents = {{plain list|
+* [[H. H. Asquith]] (father)
+* Helen Melland (mother)
+}}
+| signature   = 
+}}
+'''Herbert Dixon Asquith''' (11 March 1881 &ndash; 5 August 1947) was an English poet, novelist, and lawyer.<ref name="times">{{cite news |title=Mr. Herbert Asquith – Poet and Novelist|work=[[The Times]] |page= 7|date=8 August 1947 }}</ref> Nicknamed "Beb" by his family, he was the second son of [[H. H. Asquith]], British [[Prime Minister]], with whom he is frequently confused{{by whom?|date=May 2021}}, and the younger brother of [[Raymond Asquith]].<ref name="times"/>
+
+Asquith was greatly affected by his service with the [[Royal Artillery]] in [[World War I]].<ref>{{cite journal |last1=Guest |first1=Philip |last2=Guest |first2=Wendy |year= 2012|title=A Prime Minister and his Family at War: Part II |journal= Siegfried's Journal|volume= 22|issue= Summer 2012|pages= 17–23|publisher= Siegfried Sassoon Fellowship}}</ref> His poems included "The Volunteer" and "The Fallen Subaltern", the latter being a tribute to fallen soldiers. His poem "Soldiers at Peace" was set to music by [[Ina Boyle]]. His novels include the best-selling ''Young Orland'' (set during and after the First World War), ''Wind's End'', ''Mary Dallon'', and ''Roon''.<ref name="times"/>
+
+In 1910, he married [[Lady Cynthia Asquith|Lady Cynthia Charteris]], who was also a writer. She was the eldest daughter of [[Hugo Charteris, 11th Earl of Wemyss]], and his wife, [[Mary Constance Wyndham]].<ref name="times"/> They had three sons.{{cn|date=September 2021}}
+
+==References==
+{{reflist}}
+
+==External links==
+*{{wikisource-inline|Author:Herbert Asquith (1881–1947)}}
+* [https://books.google.com/books?id=WHRHyuQYRbMC&pg=PA396&lpg=PA396&dq=%22herbert+asquith%22+poet&source=web&ots=WGo8D0OivB&sig=iuttxZI7rvurGxyHRYLieDVRz68&hl=en Profile]
+
+{{H. H. Asquith|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Asquith, Herbert}}
+[[Category:1881 births]]
+[[Category:1947 deaths]]
+[[Category:English barristers]]
+[[Category:Presidents of the Oxford Union]]
+[[Category:Younger sons of earls]]
+[[Category:Children of prime ministers of the United Kingdom]]
+[[Category:British Army personnel of World War I]]
+[[Category:Royal Artillery officers]]
+[[Category:Asquith family|Herbert Asquith]]
+[[Category:English World War I poets]]
+[[Category:20th-century English male writers]]
+[[Category:People from Hampstead]]
+[[Category:20th-century English poets]]
+[[Category:20th-century English novelists]]
+[[Category:English male poets]]
+[[Category:English male novelists]]
+[[Category:20th-century English lawyers]]
+
+
+{{England-poet-stub}}

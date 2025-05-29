@@ -1,0 +1,962 @@
+{{pp|small=yes}}
+{{short description|American fantasy and science fiction writer}}
+{{Use mdy dates|date=July 2021}}
+{{Infobox writer
+| name         = Brandon Sanderson
+| image        = Brandon Sanderson - Lucca Comics & Games 2016.jpg
+| caption      = Sanderson at the 2016 [[Lucca Comics & Games]] convention
+| birth_date   = {{Birth date and age|1975|12|19}}
+| birth_place  = [[Lincoln, Nebraska]], U.S.
+| death_date   = 
+| death_place  = 
+| education    = [[Brigham Young University]] ([[Bachelor of Arts|BA]], [[Master of Arts|MA]])
+| period       = 2005–present
+| genre        = [[Fantasy]], [[science fiction]]
+| notableworks = ''[[Mistborn series|Mistborn]]''<br>''[[The Stormlight Archive]]''<br>Final three books in [[Robert Jordan]]'s ''[[The Wheel of Time]]''<br>''[[The Reckoners]]''<br>''[[Skyward (novel)|Skyward]]
+| spouse       = Emily Bushman
+| children     = 3
+| website      = {{url|brandonsanderson.com|Official website}}
+}}
+'''Brandon Sanderson''' (born December 19, 1975) is an American author of [[epic fantasy]] and [[science fiction]]. He is best known for the Cosmere [[fictional universe]], in which most of his fantasy novels, most notably the [[Mistborn|''Mistborn'' series]] and ''[[The Stormlight Archive]]'', are set. Outside of the Cosmere, he has written several [[Young adult fiction|young adult]]{{Efn|''[[The Reckoners]]'' and the [[Skyward (novel)|''Skyward'']] series are published as adult outside of the US.{{citation needed|date=July 2021}}}} and juvenile series including ''[[The Reckoners]]'', the [[Skyward (novel)|''Skyward'']] series, and the [[Alcatraz Versus the Evil Librarians|''Alcatraz'']] series. He is also known for finishing [[Robert Jordan]]'s [[epic fantasy|high fantasy]] series ''[[The Wheel of Time]]'' and has created several [[graphic novel]] fantasy series including the [[White Sand (graphic novel)|''White Sand'']] and [[Dark One (graphic novel)|''Dark One'']].
+
+He created [[Brandon Sanderson#Sanderson's Laws of Magic|Sanderson's Laws of Magic]] and popularized the terms "hard and soft [[magic system]]s". In 2008, Sanderson started a podcast with author [[Dan Wells (author)|Dan Wells]] and cartoonist [[Howard Tayler]] called ''[[Writing Excuses]]'', involving topics about creating genre writing and [[webcomic]]s.
+
+In 2016, the American media company [[DMG Entertainment]] licensed the movie rights to Sanderson's entire Cosmere universe.<ref>{{Cite web|url=https://variety.com/2016/film/news/brandon-sanderson-cosmere-movie-adaptation-dmg-1201902500/|title=DMG Nabs Rights to Brandon Sanderson's 'Cosmere' Book Universe in Massive Deal (EXCLUSIVE)|date=October 27, 2016}}</ref>
+
+==Life and career==
+===Early life and education===
+Brandon Sanderson was born on December 19, 1975, in [[Lincoln, Nebraska]].<ref name="writertopia"/><ref name="mormon"/>  He was the eldest of four children. Sanderson became a passionate reader of [[high fantasy]] novels while a teenager, and he made several early attempts at writing his own stories.<ref name="About"/> After graduating from high school in 1994, he went to [[Brigham Young University]] (BYU) as a [[biochemistry]] major.  He took a two-year leave of absence from 1995 to 1997 to serve as a volunteer [[Missionaries (LDS Church)|missionary]] for the [[Church of Jesus Christ of Latter-day Saints]] and was assigned to serve in [[South Korea]].<ref name="About"/>
+
+After completing his missionary service, Sanderson returned to BYU and changed his [[major (academic)|major]] to [[English literature]]. While an undergraduate, Sanderson took a job as a [[night auditor]] at a local hotel in [[Provo, Utah]], as it allowed him to write while working.<ref name="About"/> One of Sanderson's roommates at BYU was [[Ken Jennings]], who nearly ten years later became famous during his 74-game win streak on the American game show ''[[Jeopardy!]]''.<ref name="ken jennings"/> Sanderson graduated with a [[B.A.]] in English in 2000, then continued on as a graduate student at BYU, receiving an [[Master of Arts|M.A.]] in English with an emphasis in [[creative writing]] in 2004.<ref name="masters"/> While at BYU, Sanderson was on the staff of ''[[Leading Edge (fiction magazine)|Leading Edge]]'', a semi-professional [[speculative fiction]] magazine published by the university, and served as its editor-in-chief for one year.
+
+In 2006, Sanderson married Emily Bushman, a fellow English major and teacher,<ref name="July2006"/> who later became his business manager.<ref name="About"/> They have three sons and reside in [[American Fork, Utah]].<ref name="newsletter february 2010"/> They have a pet scarlet macaw called Magellan.
+
+===Early writing career===
+[[File:Brandon Sanderson with a German copy of Elantris.jpg|thumb|right|353px|Sanderson in 2007]]
+Sanderson wrote consistently throughout his undergraduate and graduate studies, and by 2003 he had written twelve novels, though no publisher had accepted any of them for publication.<ref name="sanderson history as a writer"/> While in the middle of a graduate program at BYU, [[Tor Books]] editor Moshe Feder contacted him to say that he wanted to acquire one of his books. Sanderson had submitted the manuscript of his sixth novel,<ref name="elantris acquisition"/> ''[[Elantris]]'', a year and a half earlier.<ref name="About"/> ''Elantris'' was published by [[Tor Books]] on April 21, 2005, to generally positive reviews.<ref name="Elantris review by Orson Scott Card"/><ref name="Review blurbs on Sanderson's site"/> This was followed in 2006 by ''[[Mistborn: The Final Empire]]'', the first book in his [[Mistborn series|''Mistborn'']] fantasy trilogy, in which "allomancers"—people with the ability to 'burn' metals and alloys after ingesting them—gain enhanced senses and control over powerful supernatural forces.
+
+He published the second book of the ''Mistborn'' series ''[[Mistborn: The Well of Ascension|The Well of Ascension]]'' in 2007. Later that year, Sanderson published the children's novel ''[[Alcatraz Versus the Evil Librarians]]'', about a boy named Alcatraz with a talent for breaking things. Alcatraz confronts a group of evil librarians who are bent on taking over the world. The first of his "[[Hard and soft magic systems#Sanderson's Laws of Magic|laws of magic]]" were first published in 2007, with the second and third published in 2012 and 2013 (respectively).<ref name="first law"/><ref name="second law"/><ref name="third law"/> In 2008, the third and final book in the Mistborn trilogy was published, titled ''[[Mistborn: The Hero of Ages|The Hero of Ages]]'', as well as the second book in the Alcatraz series, titled ''[[Alcatraz Versus the Scrivener's Bones]]''. That same year, he started the [[podcast]] ''[[Writing Excuses]]'' with [[Howard Tayler]] and [[Dan Wells (author)|Dan Wells]].<ref name="writing excuses about"/>
+
+===Wheel of Time===
+Sanderson became better known in late 2007 when [[Harriet McDougal]], the wife and editor of author [[Robert Jordan]], chose Sanderson to complete the final books in Jordan's epic fantasy series ''[[The Wheel of Time]]'' after Jordan's death. McDougal asked him to finish the series after being deeply impressed by his first ''[[Mistborn series|Mistborn]]'' novel, ''[[The Final Empire]]''.<ref name="dragonmount interview 2007"/> [[Tor Books]] made the announcement on December 7, 2007.<ref name="tor-jordan"/> After reviewing what was necessary to complete the series, Sanderson and Tor announced on March 30, 2009, that a final three books would be published instead of just one. The first of these, ''[[The Gathering Storm (novel)|The Gathering Storm]]'', was published on October 27, 2009, and reached the number-one spot on the ''New York Times'' bestseller list for hardcover fiction.<ref name="nytbest-gathering-storm"/><ref name="Sanders-Sooner"/> ''[[Towers of Midnight]]'', the second-to-last ''[[Wheel of Time]]'' book, was published just over a year after ''[[The Gathering Storm (novel)|The Gathering Storm]]'' on November 2, 2010, debuting at number one on the bestseller list.<ref name="nyt2010-11-21"/> In early 2013, the series was completed with the publication of ''[[A Memory of Light]]''.
+
+===After the Wheel of Time===
+
+In 2009, Tor Books published ''[[Warbreaker]]'', which originally appeared serially on Sanderson's website while he was writing the novel from 2006 to 2009. In the same year, the third ''Alcatraz'' book was published, titled ''[[Alcatraz Versus the Knights of Crystallia]]''. In 2010, Sanderson published ''[[The Way of Kings]],'' the first of a planned ten-book series called ''[[The Stormlight Archive]]''. It achieved the number seven slot on the ''New York Times'' hardcover fiction bestseller list.<ref name="way of kings 1"/> The fourth Alcatraz novel, ''[[Alcatraz Versus the Shattered Lens]]'', followed soon after.
+
+In October 2011, he finished a novella e-book, ''[[Infinity Blade: Awakening]]'', based on the [[Action role-playing game|action role-playing]], [[iOS (Apple)|iOS]] [[video game]] ''[[Infinity Blade]]'', developed by [[Chair Entertainment]] and [[Epic Games]].<ref name="infinity"/> In November 2011, he published a sequel to the ''Mistborn'' trilogy, ''[[Mistborn: The Alloy of Law]]''. It was originally planned as a standalone novel set about 300 years after the original trilogy, but it was later expanded into a four-book series. It debuted at number seven on the ''New York Times'' bestseller list.
+
+On August 31, 2012, Sanderson published a science fiction novella entitled ''[[Legion (novella)|Legion]],'' followed by another short work titled ''[[The Emperor's Soul]]''. In 2013, Sanderson published two new young adult series. These series included ''[[Rithmatist series|The Rithmatist]]''  and the first of ''[[The Reckoners]]'' series titled ''[[The Reckoners|Steelheart]]''<ref name="steelheart-announcement"/><ref name="gollancz steelheart announcement"/> In March 2014, ''[[Words of Radiance]]'', the second book in ''The Stormlight Archive'', was published.<ref name="amazon words of radiance"/>
+
+Later that year, Sanderson also published the second novella in the ''Legion'' series, ''[[Legion (series)|Legion: Skin Deep]]''. In January 2015, the second book of ''[[The Reckoners]]'', titled ''[[The Reckoners#Firefight|Firefight]]'', was published. Nine months later, Sanderson published ''[[Mistborn: Shadows of Self]]'' as a direct sequel to ''The Alloy of Law''. On November 16, 2015, Sanderson's agency (JABberwocky Literary Agency) announced that Sanderson officially sold over 7 million copies worldwide.<ref name="awful agent 7 million"/>
+
+On January 26, 2016, ''[[Mistborn: The Bands of Mourning]]'' was published as the sequel to ''Shadows of Self''. On February 16, 2016, the third and final book of the [[Reckoners]] trilogy, titled ''[[The Reckoners#Calamity|Calamity]]'', was published. In June 2016, Sanderson's first [[graphic novel]] ''[[White Sand (graphic novel)|White Sand]]''— written with Rik Hoskin — was released. The series is planned as a trilogy.<ref name="white sands"/> The graphic novels are based on an original manuscript by Sanderson.<ref name="white sands - may 2014"/> On September 6, 2016, the fifth ''Alcatraz'' book was published, called ''[[Alcatraz Versus the Dark Talent]]''.
+
+On November 22, 2016, an anthology of Cosmere short stories and novellas was published, titled ''[[Arcanum Unbounded: A Cosmere Collection]]''. The third book in ''[[The Stormlight Archive]]'', ''[[Oathbringer]]'', was published on November 14, 2017.<ref name="tor.com 20161209"/> The first book of the ''Defiant'' series, ''[[Skyward (novel)|Skyward]]'', was published on November 6, 2018.<ref name="skyward release"/> The second book in the series, ''[[Starsight]]'', was released on November 26, 2019. In September 2020, a collaboration project with author [[Mary Robinette Kowal]] called ''The Original'', was released. ''[[Rhythm of War]]'', the fourth Stormlight novel, was published on November 17, 2020.<ref>{{Cite web|url=https://www.tor.com/2020/09/24/brandon-sandersons-rhythm-of-war-launch-event/|title = Brandon Sanderson's Rhythm of War Launches with a Special Event and Signed Books|date = September 24, 2020}}</ref> In 2020, Sanderson's agency updated his number of copies sold to over 18 million worldwide,<ref name="awful agent 18 million"/> and in early 2021, to over 21 million.<ref name="awful agent 21 million"/>
+In March 2021, Brandon Sanderson announced a "Weekly Update" in his Youtube channel which will give updates on his current projects every week. On May 26, Brandon Sanderson revealed the title and cover for "Cytonic", the third book of his Skyward series, which was published on November 23, 2021.
+
+In June 2021, Sanderson started a new podcast called 'Intentionally Blank', with friend and fellow science fiction author [[Dan Wells (author)|Dan Wells]].<ref>{{Cite web|url=https://www.youtube.com/playlist?list=PLSH_xM-KC3Zv3L2dLcX3WmtbQsfB8YSSw|title=Intentionally Blank Podcast - Brandon Sanderson on Youtube|website=[[YouTube]]}}</ref>
+
+==Cosmere==
+The cosmere is the name of the universe in which ''[[Elantris]]'', ''[[Mistborn]]'', ''[[Warbreaker]]'', ''[[The Stormlight Archive]]'', ''[[White Sand (graphic novel)|White Sand]]'', and stories contained in ''[[Arcanum Unbounded: The Cosmere Collection]]'' are all set. This idea came from Sanderson's desire to create an epic-length series without requiring readers to buy a ridiculous number of books. Because of that, he hides connections to his other works within each book, creating a "hidden epic".<ref>{{cite web|first=Brandon|last=Sanderson|title=How/When Did You Come Up With The Idea Of The Cosmere?|url=https://faq.brandonsanderson.com/knowledge-base/how-when-did-you-come-up-with-the-idea-of-the-cosmere/|access-date=September 23, 2020|website=brandonsanderson.com|date=October 20, 2018}}</ref> He has estimated that the cosmere sequence could conclude with at least 40 books.<ref name="reddit state of the sanderson 2016"/>
+
+The story of the cosmere is about a mysterious being called Adonalsium, who existed on a world known as Yolen. Adonalsium was killed by a group of sixteen conspirators, causing its power to shatter into sixteen different Shards, each of which bears immense power.<ref name="Adonalsium"/> The sixteen people then took these Shards and traveled to new worlds, populating them with different [[Magic system|systems of magic]]. In one case, the Shards ''Ruin'' and ''Preservation'' worked together to actually create a planet and its people (Scadrial, as featured in ''[[Mistborn]]'').
+
+Each Shard has an Intent, such as ''Ambition'' or ''Honor'', and a Vessel's personality is changed over time to bring them more in-line with their Intent. ''Odium'' has killed{{mdash}}or Splintered{{mdash}}several shards. On Sel, he splintered ''Devotion'' and ''Dominion'', accidentally creating the Dor, from which Seons and Skaze have emerged. On Roshar, ''Odium'' splintered ''Honor'', and brought about the Everstorm and the True Desolation. He has also Splintered ''Ambition'', in the Threnody system. A man named Hoid is seen or mentioned in most Cosmere books. He travels the so-called Shardworlds, using the people of those worlds to further an unknown agenda.<ref name="thewertzone 2012"/>
+
+== Sanderson's Laws of Magic ==
+{{redirect|Hard and soft magic systems|magic systems in general|Magic system}}
+The idea of '''hard magic and soft magic''' was popularized by Sanderson for world building and creating magic systems in fictional settings.<ref name=LeviJohnson>{{cite web |last1=Johnson |first1=Levi |title=How to Choose Between a Hard or Soft Magic System |url=https://www.campfiretechnology.com/2020/02/how-to-choose-between-a-hard-or-soft-magic-system/ |website=Campfire Technology |access-date=June 10, 2020 |date=February 3, 2020}}</ref><ref>{{cite web |last1=Alexander |first1=Alison |title=How to Build Your Novel's Magic System |url=https://www.mythosink.com/how-to-build-your-novels-magic-system/ |website=Mythos Ink |access-date=June 10, 2020 |date=March 7, 2019}}</ref><ref>{{cite book |last1=Howard |first1=Jeff |title=Game Magic: A Designer's Guide to Magic Systems in Theory and Practice |date=April 22, 2014 |publisher=[[CRC Press]] |isbn=9781466567870 |pages=262–264 |url=https://www.google.com/books/edition/Game_Magic/_1rSBQAAQBAJ?hl=en |access-date=June 10, 2020}}</ref> The terminology of hard and soft originate from [[hard and soft science]]s, [[hard science fiction]], [[hard fantasy]] and [[soft science fiction]] and both terms are approximate ways of characterizing two ends of a spectrum.<ref name="first law">{{Cite web
+|url=https://brandonsanderson.com/sandersons-first-law/
+|title=Sanderson's First Law
+|first=Brandon 
+|last=Sanderson 
+|author-link=Brandon Sanderson 
+|date=February 20, 2007
+|access-date=October 30, 2019
+|language=en-US
+|archive-date=October 17, 2019 |archive-url=https://web.archive.org/web/20191017050117/https://brandonsanderson.com/sandersons-first-law/
+|url-status=live
+}}</ref><ref>{{cite web |last1=Rowenson |first1=Clark R. |title=Types of Magic Part 1: Hard Magic, Soft Magic, and In-Between |url=https://crrowenson.com/magic/types-of-magic/types-of-magic/ |website=crrowenson.com |access-date=June 10, 2020 |date=December 11, 2016}}</ref> Hard magic systems follow specific rules, the magic is controlled and explained to the reader in the narrative detailing the mechanics behind the way the magic 'works', and can be used for building interesting worlds that revolve around the magic system.<ref>{{cite journal |last1=Strand |first1=Emily |title=Dobby the Robot: the Science Fiction in ''Harry Potter'' |journal=[[Mythlore]] |date=October 2019 |volume=38 |issue=1 |url=https://dc.swosu.edu/cgi/viewcontent.cgi?article=2181&context=mythlore |access-date=June 12, 2020 |issn=0146-9339}}</ref><ref>{{cite web |last1=Nair |first1=Aditya |title=How To Build Magic Systems Using Sanderson's Laws Of Magic |url=https://www.thecuriousreader.in/features/laws-of-magic/ |website=The Curious Reader |access-date=June 12, 2020 |date=November 7, 2019}}</ref> Soft magic systems may not have clearly defined rules or limitations, or provide limited exposition regarding their workings, and are used to create a sense of wonder to the reader.<ref name=LeviJohnson /><ref>{{cite web |last1=Raizman |first1=Alex |title=Hard Vs Soft Magic – Strengths, Weaknesses, and Which to Use |url=https://alexraizman.com/2019/05/26/hard-vs-soft-magic-strengths-weaknesses-and-which-to-use/ |website=alexraizman.com |date=May 26, 2019 |access-date=June 10, 2020}}</ref><ref>{{cite web |last1=Olson |first1=Matthew A. |title=Hard vs Soft Magic: A Fantasy Spectrum |url=https://www.chaoticanwriter.com/hard-vs-soft-magic-a-fantasy-spectrum/ |website=chaoticanwriter.com |access-date=June 10, 2020 |date=June 7, 2020}}</ref>
+
+Sanderson's three laws of magic are creative writing guidelines that can be used to create magic systems for fantasy stories.
+# {{anchor|Sanderson's First Law}}An author's ability to solve conflict with magic is directly proportional to how well the reader understands said magic.<ref name="first law"/>
+# {{anchor|Sanderson's Second Law}}Weaknesses, limits and costs are more interesting than powers.<ref name="second law">{{Cite web
+|url=https://brandonsanderson.com/sandersons-second-law/
+|title=Sanderson's Second Law 
+|first=Brandon 
+|last=Sanderson 
+|author-link=Brandon Sanderson 
+|date=January 16, 2012
+|access-date=October 30, 2019
+|language=en-US
+|archive-date=August 31, 2019
+|archive-url=https://web.archive.org/web/20190831220622/https://brandonsanderson.com/sandersons-second-law/
+|url-status=live
+}}</ref><ref>{{cite AV media|date=March 5, 2020|title=Lecture #5: Worldbuilding Part One — Brandon Sanderson on Writing Science Fiction and Fantasy|medium=YouTube|url=https://www.youtube.com/watch?v=ATNvOk5rIJA&t=2379s| archive-url=https://ghostarchive.org/varchive/youtube/20211031/ATNvOk5rIJA| archive-date=2021-10-31 | url-status=live|access-date=May 25, 2021|time=39:39|publisher=Brandon Sanderson|quote="Sanderson's second law is that flaws or limitations are more interesting than powers."}}{{cbignore}}</ref>
+# {{anchor|Sanderson's Third Law}}The author should expand on what is already a part of the magic system before something entirely new is added, as this may otherwise entirely change how the magic system fits into the fictional world.<ref name="third law">{{Cite web
+|url=https://brandonsanderson.com/sandersons-third-law-of-magic/
+|title=Sanderson's Third Law of Magic 
+|first=Brandon 
+|last=Sanderson 
+|author-link=Brandon Sanderson 
+|date=September 25, 2013
+|access-date=October 30, 2019
+|language=en-US
+|archive-date=August 31, 2019 |archive-url=https://web.archive.org/web/20190831220625/https://brandonsanderson.com/sandersons-third-law-of-magic/
+|url-status=live
+}}</ref>
+
+Additionally, there is a zeroth law. 
+# <li value = "0"> {{anchor|Sanderson's Zeroth Law}} Always err on the side of what's awesome.<ref name=":3">{{Cite web
+|url=https://wob.coppermind.net/adv_search/?query=Zeroth/
+|title=Sanderson's Zeroth Law of Magic
+|first=Brandon
+|last=Sanderson
+|author-link=Brandon Sanderson
+|date=September 3, 2016
+|access-date=February 13, 2020
+|language=en-US
+|url-status=live
+}}</ref> </li>
+
+==Teaching==
+Sanderson is adjunct faculty at [[Brigham Young University]], teaching a creative writing course once per year.<ref name="byu staff directory"/><ref name="deadline for creative writing 2014"/> Sanderson also participates in the weekly podcast ''[[Writing Excuses]]'' with authors [[Dan Wells (author)|Dan Wells]], [[Mary Robinette Kowal]], and web cartoonist [[Howard Tayler]].
+
+==Bibliography==
+{{Main|Brandon Sanderson bibliography}}
+
+==Selected awards and honors==
+Sanderson has been nominated for and also won multiple awards for his various works. See ''[[Writing Excuses]]'' for additional awards and nominations.
+
+{| class="wikitable" style="width:95%;" cellpadding="5"
+|-
+! scope="col" style="width:30px;"|  Year
+! scope="col" style="width:120px;"|  Organization
+! scope="col" style="width:150px;"|  Award title,<br/>Category
+! scope="col" style="width:150px;"|  Work
+! scope="col" style="width:10px;"|  Result
+! scope="col" style="width:10px;"|  Refs
+<!-- Use the template below for each row
+|-
+| YEAR
+| ORGANIZATION
+| TITLE,<br/>CATEGORY
+| WORK
+| {{nom}} or {{won}}
+| REFERENCES
+-->
+|-
+| 2005
+| ''Romantic Times''
+| Reviewers' Choice Best Book Award,<br/>Best Epic Fantasy Novel Award
+| ''[[Elantris]]''
+| {{won}}
+| <ref name="rtbookreviews2005"/>
+|-
+| scope="row" rowspan=2| 2006
+| [[World Science Fiction Convention]]
+| [[John W. Campbell Award for Best New Writer]]
+| --
+| {{nom}}
+| 
+|-
+| ''Romantic Times''
+| Reviewers' Choice Best Book Award,<br/>Best Epic Fantasy Novel Award
+| ''[[Mistborn: The Final Empire|Mistborn]]''
+| {{nom}}
+| <ref name="rtbookreviews2006"/>
+|-
+| scope="row" rowspan=5| 2007
+| [[World Science Fiction Convention]]
+| [[John W. Campbell Award for Best New Writer]]
+| --
+| {{nom}}
+| 
+|-
+| ''Romantic Times''
+| Reviewers' Choice Best Book Award,<br/>Best Epic Fantasy Novel Award
+| ''[[Mistborn: The Well of Ascension|The Well of Ascension]]''
+| {{nom}}
+| <ref name="rtbookreviews2007"/>
+|-
+| [[Polytechnic University of Catalonia]]
+| [[Polytechnic University of Catalonia#Science Fiction Award|UPC Science Fiction Award]]
+| ''Defending Elysium''
+| {{won}}
+| <ref name="upc 2007"/>
+|-
+| scope="row" rowspan=2| LDStorymakers
+| [[Whitney Awards]],<br/>Best Speculative Fiction
+| ''The Well of Ascension''
+| {{nom}}
+| scope="row" rowspan=2| <ref name="Whitney Awards 2007 Finalists"/>
+|-
+| [[Whitney Awards]],<br/>Best Youth Fiction
+| ''[[Alcatraz Versus the Evil Librarians]]''
+| {{nom}}
+|-
+| scope="row" rowspan=2| 2008
+| ''Romantic Times''
+| Reviewers' Choice Best Book Award,<br/>Best Epic Fantasy Novel Award
+| ''[[The Hero of Ages]]''
+| {{won}}
+| <ref name="rtbookreviews 2008"/>
+|-
+| LDStorymakers
+| [[Whitney Awards]],<br/>Best Speculative Fiction Award
+| ''The Hero of Ages''
+| {{won}}
+| <ref name="whitney awards 2008"/>
+|-
+| 2009
+| LDStorymakers
+| [[Whitney Awards]],<br/>Best Speculative Fiction
+| ''[[Warbreaker]]''
+| {{nom}}
+| <ref name="whitney awards 2009"/>
+|-
+| scope="row" rowspan=3| 2010
+| LDStorymakers
+| [[Whitney Awards]],<br/>Best Speculative Fiction Award
+| ''[[The Way of Kings]]''
+| {{won}}
+| <ref name="Whitney Awards 2010 Winners"/>
+|-
+| LDStorymakers
+| [[Whitney Awards]],<br/>Best Novel of the Year Award
+| ''The Way of Kings''
+| {{won}}
+| <ref name="Whitney Awards 2010 Winners"/>
+|-
+| [[Goodreads]]
+| Goodreads Choice Awards 2010,<br/>Best Fantasy of 2010
+| ''[[Towers of Midnight]]''
+|{{won}}
+| <ref name="goodreads choice 2010"/>
+|-
+| scope="row" rowspan=2| 2011
+| DGLA
+| [[David Gemmell Legend Award]]
+| ''The Way of Kings''
+| {{won}}
+| <ref name="gemellaward"/>
+|-
+| LDStorymakers
+| [[Whitney Awards]],<br/>Best Speculative Fiction Award
+| ''[[The Alloy of Law]]''
+| {{won}}
+| <ref name="whitney awards 2011"/>
+|-
+| scope="row" rowspan=1| 2012
+| [[Goodreads]]
+| Goodreads Choice Awards 2012,<br/>Best Fantasy of 2012
+|''[[The Emperor's Soul]]''
+| {{nom}}
+| <ref name="goodreads choice 2012"/>
+|-
+| scope="row" rowspan=5| 2013
+| [[World Science Fiction Society]]
+| [[Hugo Award]],<br/>Best Novella
+| ''The Emperor's Soul''
+| {{won}}
+| <ref name="hugo 2013"/>
+|-
+| [[World Fantasy Convention]]
+| [[World Fantasy Award]],<br/>Best Novella
+| ''The Emperor's Soul''
+| {{nom}}
+| <ref name="world fantasy 2013"/>
+|-
+| [[Goodreads]]
+| Goodreads Choice Awards 2013,<br/>Best Fantasy of 2013
+| ''[[A Memory of Light]]''
+| {{nom}}
+| <ref name="goodreads choice 2013"/>
+|-
+| LDStorymakers
+| [[Whitney Awards]],<br/>Best Young Adult—Speculative
+| ''[[The Reckoners|Steelheart]]''
+| {{won}}
+|<ref name="whitney awards 2013"/>
+|-
+| [[Goodreads]]
+| Goodreads Choice Awards 2013,<br/>Best Young Adult Fantasy of 2013
+| ''Steelheart''
+| {{nom}}
+| <ref name="goodreads choice 2013 ya"/>
+|-
+| scope="row" rowspan=4| 2014
+| [[World Science Fiction Society]]
+| [[Hugo Award]],<br/>Best Novel
+| ''[[The Wheel of Time]]''
+| {{nom}}
+| <ref name="hugo 2014"/>
+|-
+| DGLA
+| [[David Gemmell Legend Award]],<br/>Best Novel
+| ''A Memory of Light''
+| {{nom}}
+| <ref name="gemmell 2015"/>
+|-
+| [[Goodreads]]
+| Goodreads Choice Awards 2014,<br/>Best Fantasy of 2014
+| ''[[Words of Radiance]]''
+|{{nom}}
+| <ref name="goodreads choice 2014"/>
+|-
+| [[Whitney Awards]]
+| 2014 Whitney Finalists,<br/>Speculative
+| ''Words of Radiance''
+| {{won}}
+|<ref name="whitney awards 2014"/>
+|-
+| scope="row" rowspan=3| 2015
+| DGLA
+| [[David Gemmell Legend Award]],<br/>Legend Award
+| ''Words of Radiance''
+| {{won}}
+|
+|-
+| scope="row" rowspan=2| [[Goodreads]]
+| Goodreads Choice Awards 2015,<br/>Best Fantasy of 2015
+| ''[[Mistborn: Shadows of Self|Shadows of Self]]''
+|{{nom}}
+| <ref name="goodreads choice 2015 fantasy"/>
+|-
+| Goodreads Choice Awards 2015,<br/>Best Young Adult Fantasy of 2015
+| ''[[The Reckoners#Firefight|Firefight]]''
+|{{nom}}
+| <ref name="goodreads choice 2015 ya"/>
+|-
+| scope="row" rowspan=2 | 2016
+| World Science Fiction Society
+| Hugo Award,<br/>Best Novella
+| ''[[Perfect State]]''
+|{{nom}}
+| <ref name="hugo 2016"/>
+|-
+| [[Dragon Con]]
+| Dragon Award,<br/>Best Young Adult / Middle Grade Novel
+| ''[[The Reckoners#Calamity|Calamity]]''
+| {{nom}}
+| <ref name="dragon 2016"/>
+|-
+|2017
+|DGLA
+|[[David Gemmell Legend Award]],<br />Legend Award
+|''[[Mistborn: The Bands of Mourning|The Bands of Mourning]]''
+| {{nom}}
+|
+|-
+| rowspan="2" | 2018
+| DGLA
+| David Gemmell Legend Award,<br/>Best Fantasy Novel
+| ''[[Oathbringer]]''
+| {{nom}}
+| <ref name="gemmell 2018"/>
+|-
+| World Science Fiction Society
+| Hugo Award,<br/>Best Series
+| ''[[The Stormlight Archive]]''
+| {{nom}}
+| <ref name="hugo 2018"/>
+|-
+|2021
+|Dragon Con
+|Dragon Award,<br/>Best Fantasy Novel (Including Paranormal)
+|[[Rhythm of War]]
+| {{nom}}
+|<ref>{{Cite web|title=2021 Dragon Award Ballot – The Dragon Award|url=https://www.dragoncon.org/awards/2021-dragon-award-ballot/|access-date=2021-10-11|language=en-US}}</ref>
+|}
+
+== See also ==
+* [[Magic (game terminology)]]
+* [[Magic system]]
+
+==References==
+=== Notes ===
+{{notelist}}
+
+=== Citations ===
+{{Reflist|3|refs= <!-- Please list references alphabetically by reference name -->
+
+<ref name="About">{{cite web
+|title=About Brandon
+|url=https://brandonsanderson.com/about-brandon/
+|website=brandonsanderson.com
+|date=November 23, 2009
+|access-date=October 19, 2017
+}}</ref>
+
+<ref name="Adonalsium">{{cite book 
+|last1=Sanderson 
+|first1=Brandon 
+|author-link1=Brandon Sanderson 
+|date=January 26, 2016 |chapter= Part Three, Chapter 2 
+|title= Mistborn: Secret History 
+|series=[[Mistborn series]] 
+|publisher=Dragonsteel Entertainment 
+|isbn=978-1-938570-12-4 
+|quote=Anyway, there was a God. Adonalsium. I don't know if it was a force or a being, though I suspect the latter. Sixteen people, together, ''killed'' Adonalsium, ripping it apart and dividing its essence between them, becoming the first who Ascended. 
+}}</ref>
+
+<ref name="amazon words of radiance">{{cite book
+|title=Words of Radiance (The Stormlight Archive, Book 2) (Stormlight Archive, The)
+|isbn=978-0765326362
+|last1=Sanderson
+|first1=Brandon
+|date=March 4, 2014
+}}</ref>
+
+<ref name="awful agent 7 million">{{cite web 
+|url=http://awfulagent.com/brandon-sanderson-sells-over-7-million-copies 
+|title=Brandon Sanderson Sells Over 7 Million Copies! 
+|website=awfulagent.com 
+|date=November 16, 2015 |access-date=August 14, 2017 |archive-url=https://web.archive.org/web/20160206102211/http://awfulagent.com/brandon-sanderson-sells-over-7-million-copies 
+|archive-date=February 6, 2016 |url-status=dead 
+}}</ref>
+
+<ref name="byu staff directory">{{cite web
+|url=http://humanities.byu.edu/about-the-college/faculty-staff-directory/
+|title=Faculty & Staff Directory
+|publisher=Department of Humanities, Brigham Young University
+|access-date=December 19, 2014
+|archive-date=October 31, 2019
+|archive-url=https://web.archive.org/web/20191031192116/https://humanities.byu.edu/about-the-college/faculty-staff-directory/
+|url-status=live
+}}</ref>
+
+<ref name="deadline for creative writing 2014">{{cite web
+|url=http://brandonsanderson.com/application-deadline-for-my-byu-creative-writing-class-is-monday/
+|title=Application deadline for my BYU creative writing class is Monday
+|first=Brandon
+|last=Sanderson
+|date= December 20, 2013
+|access-date=December 19, 2014
+|publisher=Dragonsteel Entertainment
+}}</ref>
+
+<ref name="dragon 2016">{{cite web
+|url=http://www.isfdb.org/cgi-bin/ay.cgi?63+2016
+|title=2016 Dragon Award
+|website=sfdb.org
+|publisher=[[Internet Speculative Fiction Database]]
+|access-date=September 7, 2016
+}}</ref>
+
+<ref name="dragonmount interview 2007">{{cite web
+|url=http://www.dragonmount.com/Books/Memory_of_Light/brandon_interview_01.php
+|title=An interview with Brandon Sanderson
+|date=December 8, 2007
+|url-status=dead
+|archive-url=https://web.archive.org/web/20071211120530/http://www.dragonmount.com/Books/Memory_of_Light/brandon_interview_01.php
+|archive-date=December 11, 2007
+}}</ref>
+
+<ref name="elantris acquisition">{{cite web
+|url=https://brandonsanderson.com/annotation-elantris-chapter-7/ 
+|title=Annotation Elantris Chapter 7 
+|last=Sanderson 
+|first=Brandon 
+|website=brandonsanderson.com 
+|date=June 24, 2005 |access-date=August 12, 2017
+}}</ref>
+
+<ref name="Elantris review by Orson Scott Card">{{cite web
+|url=http://www.hatrack.com/osc/reviews/everything/2004-10-31.shtml
+|title=Review by Orson Scott Card
+|access-date=December 18, 2010
+}}</ref>
+
+<ref name="first law">{{Cite web
+|url=https://brandonsanderson.com/sandersons-first-law/
+|title=Sanderson's First Law
+|first=Brandon 
+|last=Sanderson 
+|author-link=Brandon Sanderson 
+|date=February 20, 2007
+|access-date=October 30, 2019
+|language=en-US
+|archive-date=October 17, 2019 |archive-url=https://web.archive.org/web/20191017050117/https://brandonsanderson.com/sandersons-first-law/
+|url-status=live
+}}</ref>
+
+<ref name="gemellaward">{{cite web
+|url=http://gemmellaward.com/page/previous-winners
+|title=The David Gemmell Legend Award for Fantasy Previous Winners
+|publisher=gemmellaward.com
+|access-date=April 16, 2013
+|url-status=dead
+|archive-url=https://web.archive.org/web/20130226221457/http://gemmellaward.com/page/previous-winners|archive-date=February 26, 2013
+}}</ref>
+
+<ref name="gemmell 2015">{{cite web 
+|url=http://www.gemmellaward.com/page/2323348:Page:17503 
+|title=The Gemmell Awards 
+|access-date=March 13, 2015 |archive-url=https://web.archive.org/web/20151208072743/http://www.gemmellaward.com/page/2323348:Page:17503
+|archive-date=December 8, 2015 |url-status=dead 
+}}</ref>
+
+<ref name="gemmell 2018">{{Cite web
+|url=http://www.sfadb.com/David_Gemmel_Legend_Awards_2018
+|title=David Gemmel Legend Awards 2018
+|website=sfadb.com
+|access-date=October 28, 2019
+}}</ref>
+
+<ref name="gollancz steelheart announcement">{{cite web 
+|url=http://www.gollancz.co.uk/2012/06/gollancz-buys-new-brandon-sanderson-series-steelheart/ 
+|title=Gollancz acquires new Brandon Sanderson series – STEELHEART is coming! 
+|publisher=[[Victor Gollancz Ltd|Gollancz]] 
+|date=June 13, 2012 |access-date=July 9, 2012 |archive-url=https://www.webcitation.org/6921V8jSJ?url=http://www.gollancz.co.uk/2012/06/gollancz-buys-new-brandon-sanderson-series-steelheart/ 
+|archive-date=July 9, 2012 |url-status=dead 
+}}</ref>
+
+<ref name="goodreads choice 2010">{{cite web 
+|url=https://www.goodreads.com/choiceawards/best-fantasy-books-2010
+|title=Best Fantasy of 2010 
+|date=2011
+}}</ref>
+
+<ref name="goodreads choice 2012">{{cite web 
+|url=http://www.goodreads.com/choiceawards/best-fantasy-books-2012 
+|title=Best Fantasy of 2012 
+|date=2012 
+}}</ref>
+
+<ref name="goodreads choice 2013">{{cite web 
+|url=http://www.goodreads.com/choiceawards/best-fantasy-books-2013 
+|title=Best Fantasy of 2013 
+|date=2013
+}}</ref>
+
+<ref name="goodreads choice 2013 ya">{{cite web 
+|url=http://www.goodreads.com/choiceawards/best-young-adult-fantasy-books-2013 
+|title=Best Young Adult Fantasy Books of 2013 
+|date=2013
+}}</ref>
+
+<ref name="goodreads choice 2014">{{cite web 
+|url=http://www.goodreads.com/choiceawards/best-fantasy-books-2014
+|title=Best Fantasy of 2014 
+|date=2015
+}}</ref>
+
+<ref name="goodreads choice 2015 fantasy">{{cite web 
+|url=https://www.goodreads.com/choiceawards/best-fantasy-books-2015
+|title=Best Fantasy Books of 2015 
+|date=2015
+}}</ref>
+
+<ref name="goodreads choice 2015 ya">{{cite web 
+|url=https://www.goodreads.com/choiceawards/best-young-adult-fantasy-books-2015
+|title=Best Young Adult Fantasy Book of 2015 
+|date=2015
+}}</ref>
+
+<ref name="hugo 2013">{{cite web
+|url=http://www.thehugoawards.org/2013/09/2013-hugo-award-winners/
+|title=The Hugo Award 2013 Hugo Awards
+|publisher=thehugoawards.org
+|access-date=April 16, 2013
+}}</ref>
+
+<ref name="hugo 2014">{{cite web
+|url=http://www.thehugoawards.org/2014/08/2014-hugo-award-winners/
+|title=2014 Hugo Award Winners
+|date=August 17, 2014
+|access-date=March 13, 2015
+|archive-url=https://web.archive.org/web/20140819083711/http://www.thehugoawards.org/2014/08/2014-hugo-award-winners/
+|archive-date=August 19, 2014
+|url-status=dead
+}}</ref>
+
+<ref name="hugo 2016">{{cite web 
+|url=http://www.thehugoawards.org/hugo-history/2016-hugo-awards/
+|title=2016 Hugo Awards 
+|date=April 2016
+}}</ref>
+
+<ref name="hugo 2018">{{Cite web
+|url=http://www.sfadb.com/Hugo_Awards_2018
+|title=Hugo Awards 2018
+|website=sfadb.com
+|access-date=October 28, 2019
+}}</ref>
+
+<ref name="infinity">{{cite web 
+|url=http://kotaku.com/5679808/the-first-epic-iphone-game-is-now-infinity-blade 
+|title=The First Epic iPhone Game Is Now 'Infinity Blade' 
+|first=Michael 
+|last=McWhertor 
+|date=November 2, 2010 |work=[[Kotaku]] 
+|publisher=[[Gawker Media]]
+}}</ref>
+
+<ref name="July2006">{{cite web
+|url=http://www.brandonsanderson.com/article.php?id=35
+|title=Newsletter, July 2006
+|access-date=August 10, 2006
+|url-status=dead
+|archive-url=https://web.archive.org/web/20061006005730/http://www.brandonsanderson.com/article.php?id=35
+|archive-date=October 6, 2006
+}}</ref>
+
+<ref name="ken jennings">{{cite web 
+|last1=Jennings 
+|first1=Ken 
+|title=Ken Jennings - Blog 
+|url=http://ken-jennings.com/blog/archives/662 
+|website=ken-jennings.com 
+|date=December 11, 2007
+|access-date=August 31, 2018
+}}</ref>
+
+<ref name="masters">{{cite web
+|url=https://magazine.byu.edu/article/profiles-31/
+|work=BYU Magazine
+|title=Winter 2006 Alumni Profiles Update
+|access-date=December 9, 2019
+}}</ref>
+
+<ref name="mormon">{{cite web
+|url=http://morgannews.us/auth.html 
+|title=Famous Mormon Writers and Authors
+|access-date=August 10, 2006
+|archive-url = https://web.archive.org/web/20060815004428/http://morgannews.us/auth.html 
+|archive-date=August 15, 2006
+}}</ref>
+
+<ref name="newsletter february 2010">{{cite web
+|url=http://www.brandonsanderson.com/article/60/Brandon-Sanderson-Newsletter-for-February-2010
+|title=Newsletter, February 2010
+|access-date=January 6, 2013
+|archive-url=https://web.archive.org/web/20130418161451/http://www.brandonsanderson.com/article/60/Brandon-Sanderson-Newsletter-for-February-2010
+|archive-date=April 18, 2013
+|url-status=dead
+}}</ref>
+
+<ref name="nyt2010-11-21">{{cite web 
+|url=https://www.nytimes.com/best-sellers-books/2010-11-21/hardcover-fiction/list.html
+|title=Best Sellers: Hardcover Fiction
+|newspaper=The New York Times
+|date=November 21, 2010
+}}</ref>
+
+<ref name="nytbest-gathering-storm">{{cite web
+|url=https://www.nytimes.com/2009/11/15/books/bestseller/besthardfiction.html?_r=1&ref=bestseller
+|title=Best Sellers: Hardcover Fiction
+|date=November 5, 2009
+|work=The New York Times
+|access-date=November 7, 2009
+}}</ref>
+
+<ref name="reddit state of the sanderson 2016">{{cite web
+|url=https://www.reddit.com/r/Stormlight_Archive/comments/5j8bkb/no_spoilersstate_of_the_sanderson_2016/dbgizmb/ 
+|title=[No spoilers]State of the Sanderson 2016 
+|last=Sanderson 
+|first=Brandon 
+|website=Reddit 
+|date=December 21, 2016 |access-date=October 5, 2017 |archive-url=https://web.archive.org/web/20171005163043/https://www.reddit.com/r/Stormlight_Archive/comments/5j8bkb/no_spoilersstate_of_the_sanderson_2016/dbgizmb/ 
+|archive-date=October 5, 2017 |url-status=live 
+}}</ref>
+
+<ref name="Review blurbs on Sanderson's site">{{cite web
+|url=http://www.brandonsanderson.com/book.php?id=1&section=2
+|title=Review blurbs on Sanderson's site
+|access-date=December 18, 2010
+|url-status=dead
+|archive-url=https://web.archive.org/web/20071008023527/http://www.brandonsanderson.com/book.php?id=1&section=2
+|archive-date=October 8, 2007
+}}</ref>
+
+<ref name="rtbookreviews2005">{{cite web
+|url=http://www.rtbookreviews.com/rt-awards/nominees-and-winners?year=2005#Sci-Fi/Fantasy
+|title=2005 RT Award Nominees & Winners
+|publisher=rtbookreviews.com
+|access-date=April 16, 2013
+|archive-date=October 21, 2013
+|archive-url=https://web.archive.org/web/20131021195223/http://www.rtbookreviews.com/rt-awards/nominees-and-winners?year=2005
+|url-status=dead
+}}</ref>
+
+<ref name="rtbookreviews2006">{{cite web
+|url=http://www.rtbookreviews.com/award/2006/epic-fantasy-novel
+|title=2006 RT Award Nominees & Winners
+|publisher=rtbookreviews.com
+|access-date=July 13, 2013
+|archive-date=September 23, 2015
+|archive-url=https://web.archive.org/web/20150923064246/http://www.rtbookreviews.com/award/2006/epic-fantasy-novel
+|url-status=dead
+}}</ref>
+
+<ref name="rtbookreviews2007">{{cite web
+|url=http://www.rtbookreviews.com/rt-awards/nominees-and-winners?year=2007#Sci-Fi/Fantasy
+|title=2007 RT Award Nominees & Winners
+|publisher=rtbookreviews.com
+|access-date=April 16, 2013
+|archive-date=January 23, 2012
+|archive-url=https://web.archive.org/web/20120123212829/http://www.rtbookreviews.com/rt-awards/nominees-and-winners?year=2007
+|url-status=dead
+}}</ref>
+
+<ref name="rtbookreviews 2008">{{cite web
+|url=http://www.rtbookreviews.com/rt-awards/nominees-and-winners?year=2008#Sci-Fi/Fantasy
+|title=2008 RT Award Nominees & Winners
+|publisher=rtbookreviews.com
+|access-date=April 16, 2013
+|archive-date=October 21, 2013
+|archive-url=https://web.archive.org/web/20131021200505/http://www.rtbookreviews.com/rt-awards/nominees-and-winners?year=2008
+|url-status=dead
+}}</ref>
+
+<ref name="Sanders-Sooner">{{cite web
+|url=http://brandonsanderson.com/blog/815/The-Gathering-Storm-coming-sooner-than-expected
+|title=The Gathering Storm coming sooner than expected
+|access-date=September 8, 2009
+|archive-url=https://web.archive.org/web/20101224020400/http://brandonsanderson.com/blog/815/The-Gathering-Storm-coming-sooner-than-expected
+|archive-date=December 24, 2010
+|url-status=dead
+}}</ref>
+
+<ref name="sanderson history as a writer">{{cite web
+|url=https://faq.brandonsanderson.com/knowledge-base/my-history-as-a-writer/
+|title=My History as a Writer {{!}} Brandon Sanderson
+|last=Sanderson 
+|first=Brandon 
+|website=faq.brandonsanderson.com 
+|date=October 19, 2008 |access-date=March 1, 2021
+}}</ref>
+
+<ref name="second law">{{Cite web
+|url=https://brandonsanderson.com/sandersons-second-law/
+|title=Sanderson's Second Law 
+|first=Brandon 
+|last=Sanderson 
+|author-link=Brandon Sanderson 
+|date=January 16, 2012
+|access-date=October 30, 2019
+|language=en-US
+|archive-date=August 31, 2019
+|archive-url=https://web.archive.org/web/20190831220622/https://brandonsanderson.com/sandersons-second-law/
+|url-status=live
+}}</ref>
+
+<ref name="skyward release">{{cite web
+|url=https://brandonsanderson.com/skyward-is-out-today/ 
+|title=Skyward is out today! 
+|website=brandonsanderson.com/ 
+|date=November 6, 2018 |access-date=November 26, 2018 |archive-url=https://web.archive.org/web/20181126142849/https://brandonsanderson.com/skyward-is-out-today/ 
+|archive-date=November 26, 2018 |url-status=live 
+}}</ref>
+
+<ref name="steelheart-announcement">{{cite web
+|url=http://sfscope.com/2012/06/delacorte-press-acquires-steel.html
+|title=Delacorte Press Acquires ''Steelheart'' by Brandon Sanderson
+|publisher=SFScope.com
+|date=June 13, 2012
+|access-date=June 14, 2012
+|archive-url=https://web.archive.org/web/20120618091259/http://sfscope.com/2012/06/delacorte-press-acquires-steel.html
+|archive-date=June 18, 2012
+|url-status=dead
+}}</ref>
+
+<ref name="thewertzone 2012">{{cite web
+|last=Whitehead
+|first=Adam
+|title=Brandon Sanderson plans 36-volume fantasy series
+|url=https://thewertzone.blogspot.com/2012/02/brandon-sanderson-plans-36-volume.html
+|publisher=Wertzone
+|access-date=September 21, 2013
+|archive-url=https://web.archive.org/web/20190808140423/https://thewertzone.blogspot.com/2012/02/brandon-sanderson-plans-36-volume.html
+|archive-date=August 8, 2019
+|url-status=dead
+}}</ref>
+
+<ref name="third law">{{Cite web
+|url=https://brandonsanderson.com/sandersons-third-law-of-magic/
+|title=Sanderson's Third Law of Magic 
+|first=Brandon 
+|last=Sanderson 
+|author-link=Brandon Sanderson 
+|date=September 25, 2013
+|access-date=October 30, 2019
+|language=en-US
+|archive-date=August 31, 2019 |archive-url=https://web.archive.org/web/20190831220625/https://brandonsanderson.com/sandersons-third-law-of-magic/
+|url-status=live
+}}</ref>
+
+<ref name="tor-jordan">{{cite web
+|url=http://www.tor-forge.com/NewsArticle.aspx?articleId=647
+|title=Tor announces that the final novel in bestselling Robert Jordan's legendary ''Wheel of Time'' fantasy series will be completed by author Brandon Sanderson
+|publisher=Tor-Forge.com
+|date=December 7, 2007
+|access-date=December 10, 2007
+|archive-url = https://web.archive.org/web/20071212090331/http://www.tor-forge.com/NewsArticle.aspx?articleId=647 <!-- Bot retrieved archive --> 
+|archive-date = December 12, 2007
+}}</ref>
+
+<ref name="tor.com 20161209">{{cite web 
+|url=http://www.tor.com/2016/12/09/first-draft-oathbringer-stormlight-archive/ 
+|title=Brandon Sanderson Has Completed the First Draft of Oathbringer, Book 3 of The Stormlight Archive 
+|website=Tor.com 
+|date=December 9, 2016 |access-date=January 9, 2017 |archive-url=https://web.archive.org/web/20161210121057/http://www.tor.com/2016/12/09/first-draft-oathbringer-stormlight-archive/ 
+|archive-date=December 10, 2016 |url-status=dead 
+}}</ref>
+
+<ref name="upc 2007">{{cite web
+|url=http://www.upc.edu/saladepremsa/al-dia/mes-noticies/2007/The-Board-of-Trustees-awarded-the-First-Prize-of?set_language=en
+|title= Universitat Politecnica de Catalunya
+|publisher=www.upc.edu
+|access-date=August 28, 2013
+}}</ref>
+
+<ref name="way of kings 1">{{cite web
+|url=http://torforge.wordpress.com/2010/09/08/the-way-of-kings-is-a-new-york-times-bestseller/
+|title=The Way of Kings is a New York Times Bestseller
+|access-date=September 8, 2010
+}}</ref>
+
+<ref name="white sands">{{cite web
+|url=http://www.newsarama.com/29004-brandon-sanderson-s-fantasy-epic-comes-to-comic-books-with-white-sand-preview.html
+|title=BRANDON SANDERSON's Fantasy Epic Comes To Comic Books With WHITE SAND Preview
+|date=April 26, 2016
+|access-date=June 2, 2014
+|publisher=Newsarama
+}}</ref>
+
+<ref name="white sands - may 2014">{{cite web
+|url=http://brandonsanderson.com/hugo-voter-packet-with-the-wheel-of-time-convention-deadlines-white-sand-graphic-novels/
+|title=Hugo Voter Packet with The Wheel of Time, Convention Deadlines, White Sand Graphic Novels
+|date=May 30, 2014
+|first=Brandon
+|last=Sanderson
+|access-date=December 19, 2014
+|publisher=Dragonsteel Entertainment
+}}</ref>
+
+<ref name="Whitney Awards 2007 Finalists">{{cite web
+|url=http://whitneyawards.com/wordpress/2007-finalists/
+|title=Whitney Awards 2007 Finalists
+|publisher=whitneyawards.com
+|access-date=April 16, 2013
+}}</ref>
+
+<ref name="whitney awards 2008">{{cite web
+|url=http://whitneyawards.com/wordpress/winners/2008-winners/
+|title=Whitney Awards 2008 Winners
+|publisher=whitneyawards.com
+|access-date=April 16, 2013
+}}</ref>
+
+<ref name="whitney awards 2009">{{cite web
+|url=http://whitneyawards.com/wordpress/2009-finalists/
+|title=Whitney Awards 2009 Finalists
+|publisher=whitneyawards.com
+|access-date=April 16, 2013
+}}</ref>
+
+<ref name="Whitney Awards 2010 Winners">{{cite web
+|url=http://whitneyawards.com/wordpress/winners/2010-winners/
+|title=Whitney Awards 2010 Winners
+|publisher=whitneyawards.com
+|access-date=April 16, 2013
+}}</ref>
+
+<ref name="whitney awards 2011">{{cite web
+|url=http://whitneyawards.com/wordpress/2011-winners/
+|title=Whitney Awards 2011 Winners
+|publisher=whitneyawards.com
+|access-date=April 16, 2013
+}}</ref>
+
+<ref name="whitney awards 2013">{{cite web 
+|url=http://whitneyawards.com/2013-winners/ 
+|title=2013 Winners 
+}}</ref>
+
+<ref name="whitney awards 2014">{{cite web 
+|url=http://whitneyawards.com/2015/05/18/2014-winners/ 
+|title=2014 Whitney Finalists 
+|publisher=2014 Whitney Awards Committee 
+|date=2015
+}}</ref>
+
+<ref name="world fantasy 2013">{{cite web
+|url=http://www.worldfantasy.org/awards/
+|title=The World Fantasy Awards 2013
+|publisher=worldfantasy.org
+|access-date=August 15, 2013
+|url-status=dead
+|archive-url=https://web.archive.org/web/20121027005155/http://www.worldfantasy.org/awards/
+|archive-date=October 27, 2012
+}}</ref>
+
+<ref name="writertopia">{{cite web
+|url=http://www.writertopia.com/profiles/BrandonSanderson
+|publisher=Writertopia
+|title=Profile for Brandon Sanderson
+|access-date=August 10, 2006
+}}</ref>
+
+<ref name="writing excuses about">{{cite web 
+|url=https://writingexcuses.com/about-2/about/ 
+|title=What is Writing Excuses? 
+|access-date=October 31, 2019 |publisher=[[Writing Excuses]] 
+|archive-date=October 31, 2019 |archive-url=https://web.archive.org/web/20191031182648/https://writingexcuses.com/about-2/about/ 
+|url-status=dead 
+}}</ref>
+
+<ref name="awful agent 18 million">{{cite web 
+|url=https://www.awfulagent.com/jabclients/brandon-sanderson/ 
+|title=Brandon Sanderson – JABberwocky Literary Agency, Inc
+|website=awfulagent.com 
+|access-date=December 4, 2020
+|archive-date=September 30, 2020
+|archive-url=https://web.archive.org/web/20200930050757/https://www.awfulagent.com/jabclients/brandon-sanderson/
+}}</ref>
+
+<ref name="awful agent 21 million">{{cite web
+|url=https://www.awfulagent.com/jabclients/brandon-sanderson/
+|title=Brandon Sanderson – JABberwocky Literary Agency, Inc
+|website=awfulagent.com
+|access-date=February 14, 2020
+}}</ref>
+
+}}
+
+==External links==
+{{Commons category|Brandon Sanderson}}
+{{wikiquote}}
+* {{official}}
+* {{isfdb name|32726}}
+* [https://17thshard.com/ 17th Shard] - Official fansite of Brandon Sanderson
+* [https://www.reddit.com/user/mistborn Reddit user mistborn] - Brandon answers questions and participates on reddit using the name "mistborn"
+* [https://www.goodreads.com/author/show/38550.Brandon_Sanderson Brandon Sanderson on Goodreads]
+* [https://mormonarts.lib.byu.edu/people/brandon-sanderson/ Brandon Sanderson] at the [[Mormon Literature & Creative Arts|MLCA Database]]
+* [https://coppermind.net/ The Coppermind] – Fan-made wiki for all of Brandon's Sanderson's books
+
+{{Brandon Sanderson}}
+{{The Wheel of Time}}
+{{Fantasy fiction}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sanderson, Brandon}}
+[[Category:1975 births]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American children's writers]]
+[[Category:Latter Day Saints from Nebraska]]
+[[Category:American male novelists]]
+[[Category:American Mormon missionaries in South Korea]]
+[[Category:American science fiction writers]]
+[[Category:Brigham Young University alumni]]
+[[Category:Brigham Young University faculty]]
+[[Category:Living people]]
+[[Category:The Wheel of Time]]
+[[Category:Novelists from Utah]]
+[[Category:People from American Fork, Utah]]
+[[Category:Writers from Lincoln, Nebraska]]
+[[Category:Latter Day Saints from Utah]]
+[[Category:21st-century American male writers]]

@@ -1,0 +1,63 @@
+{{Short description|French theologian}}
+{{Infobox person
+ | name             = 
+ | image            = Brueys, David Augustin.jpg
+ | imagesize        = 
+ | caption          = 
+ | birth_name       = 
+ | birth_date       = 18 September 1641
+ | birth_place      =  [[Aix-en-Provence]]
+ | death_date       = {{Death date and age|df=yes|1723|11|25|1641|09|18}}
+ | death_place      = [[Montpellier]]
+ | othername   =     
+ | occupation  = Theologian<br>Playwright
+ | years_active     = 
+ | spouse           = 
+ | signature        = 
+}}
+
+'''David-Augustin de Brueys''' (18 September 1641{{snd}}25 November 1723) was a French [[theology|theologian]] and [[playwright]]. He was born in [[Aix-en-Provence]]. His family was [[Calvinism|Calvinist]], and he studied theology. After writing a critique of [[Jacques-Bénigne Bossuet]]'s work, he was in turn converted to [[Catholicism]] by [[Jacques-Bénigne Bossuet|Bossuet]] in 1681, and later became a [[priest]].<ref>[http://www.newadvent.org/cathen/03004c.htm David-Augustine de Brueys] - [[Catholic Encyclopedia]] article</ref>
+
+After his conversion, he was actively engaged in propagating the faith. He also managed to be joint editor with [[Palaprat]] in the production of plays.<ref>{{Nuttall|title=Brueys, David Augustin de|inline=1}}</ref> He died in [[Montpellier]].
+
+== Publications ==
+*1682: '' Réponse au livre de Mr de Condom, intitulé « Exposition de la doctrine de l'Église catholique sur les matières de controverse »''
+*1683: ''Examen des raisons qui ont donné lieu à la séparation des Protestans''
+*1686: ''Défense du culte extérieur de l'Eglise catholique, avec la réfutation des deux réponses faites à l'examen des raisons qui ont donné lieu à la séparation des Protestants et aux nouveaux convertis'' 
+*1686: ''Réponse aux plaintes des Protestans contre les moyens que l'on employe en France pour les réunir à l'Église, où l'on réfute les calomnies qui sont contenuës dans le livre intitulé « La Politique du clergé de France », et dans les autres libelles de cette nature''
+*1686: ''Traité de l'Eucharistie, en forme d'entretiens'' 
+*1687: ''Traité de l'Église, en forme d'entretiens, ce qui sert de réfutation aux derniers livres de Messieurs Claude et Jurieu'' 
+*1690: ''Action de grâces pour remercier Dieu des prospéritez de la France'' 
+*1692: ''Histoire du fanatisme de nostre temps, et le dessein que l'on avoit de soulever en France les mécontens des calvinistes''
+*1700: ''Traité de la sainte messe''
+*1709: ''Traité de l'obéissance des chrétiens aux puissances temporelles'' 
+*1727: ''Traité du légitime usage de la raison, principalement sur les objets de la foy'' <small>[http://gallica.bnf.fr/ark:/12148/bpt6k730782 Read online]</small>
+;Theatre
+*1691: ''Le Grondeur'', comedy in 3 acts and in prose, Paris, Comédie-Française, 3 February
+*1691: ''Le Muet'', comedy in 5 acts and in prose, Paris, Théâtre-Français, 22 June 
+*1692: ''La Fille de bon sens'', comedy in three acts, with Jean de Palaprat, Paris, Hôtel de Bourgogne, 2 November
+*1694: ''L'Important de cour'', comedy, with Jean de Palaprat 
+*1698: ''Les Empiriques'', comedy in 3 acts 
+*1699: ''Gabinie'', Christian tragedy 
+*1706: ''L'Avocat Patelin'', comedy in 3 acts, with Jean de Palaprat, Paris, Comédiens français ordinaires du Roi, 4 June
+*1721: ''La Force du sang, ou le Sot toujours sot'', comedy in three acts, Paris, Théâtres Français et Italien, 21 April
+*1725: ''L'Opiniâtre'', comedy in three acts
+;Collected works
+*1712: ''Œuvres choisies de Brueys et de Palaprat'', preface by [[Louis-Simon Auger]] (2 volumes) <small>[http://gallica.bnf.fr/ark:/12148/bpt6k206883d Read online 1] [http://gallica.bnf.fr/ark:/12148/bpt6k206884s 2]</small>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [https://archive.is/20120711040228/http://cesar.org.uk/cesar2/people/people.php?fct=edit&person_UOID=100154 His plays] on [http://cesar.org.uk CÉSAR]
+
+{{Subject bar |portal1= Biography |portal2= Catholicism |portal3= France}}
+{{Authority control}}
+{{DEFAULTSORT:Brueys, David-Augustin de}}
+[[Category:1640 births]]
+[[Category:1723 deaths]]
+[[Category:People from Aix-en-Provence]]
+[[Category:17th-century French Catholic theologians]]
+[[Category:17th-century French dramatists and playwrights]]
+[[Category:18th-century French dramatists and playwrights]]
+[[Category:Converts to Roman Catholicism from Calvinism]]

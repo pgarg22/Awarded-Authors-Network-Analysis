@@ -1,0 +1,44 @@
+[[File:WilhelmMeinhold.jpg|thumb|Wilhelm Meinhold]]
+'''Johannes Wilhelm Meinhold''' (27 February 1797<ref name=Bridgwater213>Bridgwater (2000), p. 213.</ref>&nbsp;– 30 November 1851) was a [[Pomerania]]n priest and author.
+
+==Life==
+
+Meinhold was born in [[Lütow]] on the island of [[Usedom]], where his father Georg Wilhelm Meinhold (1767–1728) was a [[Pomeranian Evangelical Church|Lutheran]] priest.
+
+Growing up in the atmosphere of the [[Napoleonic Wars]], he enrolled as a student at  the [[University of Greifswald]] in  [[Swedish Pomerania]] in the fall of 1813.<ref name=Bridgwater213/> After his theological education, he was priest in [[Koserow]] on Usedom from 1821 until 1827.<ref>Goetz (2007), p. 81.</ref> For the next 17 years, he was priest in [[Krummin]], also on Usedom, before he relocated to [[Farther Pomerania]].
+
+He retired early on account of his insubordinate behavior and died in 1851 in [[Berlin-Charlottenburg]].<ref name=Dubilski>Dubilski (2003), p. 109.</ref>
+
+Meinhold was a poet, playwright, and novelist.<ref name="Mike Ashley 1977">Mike Ashley (1977) ''Who's Who in Horror and Fantasy Fiction'', p. 130.</ref>
+
+==Works==
+Meinhold's best known works are two historical [[Gothic romance]] novels:
+
+* ''Maria Schweidler, die Bernsteinhexe'', which was first published anonymously in 1838.<ref name=Garland >{{cite book |last=Garland |first=Henry |date=1997| edition= 3rd |page=574 |title=The Oxford Companion to German Literature |location=Oxford |publisher=Oxford University Press |isbn=0-19-815896-3 }}</ref> It was  translated into English as ''[[The Amber Witch]]'' by [[Lucie, Lady Duff-Gordon]] (1821–1869) in 1843.<ref name=Dubilski/>
+* ''Sidonia von Bork, die Klosterhexe'' (1847),<ref name=Garland /> which was translated into English as ''Sidonia the Sorceress'' by [[Jane Wilde]], the mother of [[Oscar Wilde]], in 1849.<ref name="Mike Ashley 1977"/> The book was printed by [[William Morris]]' Kelmscott Press in 1894. (See [[Sidonia von Borcke]].)
+
+==References==
+{{Reflist}}
+
+===Source list===
+* {{cite book |last1=Bridgwater |first1=Patrick |editor1-last=Stark |editor1-first=Susanne |title=The novel in Anglo-German context: cultural cross-currents and affinities ; papers from the conference held at the University of Leeds from 15 to 17 September 1997 |chapter=Who is Afraid of Sidonia von Bork? |url=https://archive.org/details/novelinanglogerm0000unse |accessdate=2009-07-14 |year=2000 |publisher=Rodopi |isbn=90-420-0698-6 |url-access=registration }}
+* {{cite book |last1=Dubilski |first1=Petra |language=German |title=Usedom |chapter=Der Pfarrer von Koserow und die Bernsteinhexe |url=https://archive.org/details/usedom00petr |accessdate=2009-07-14 |year=2003 |publisher=DuMont |isbn=3-7701-5978-0 |url-access=registration }}
+* {{cite book |last1=Goetz |first1=Rolf | last2=Walden-Awodu | first2=Dagmar | language=German | title=ADAC Reiseführer Usedom | chapter=Seebad Koserow |chapter-url=https://www.google.com/books?id=YkvFS0sohh0C&pg=PA81&dq= |accessdate=2009-07-14 |year=2007 |publisher=ADAC Verlag |isbn=978-3-89905-523-8}}
+
+==External links==
+* [http://sites.google.com/site/sidoniavonborkdieklosterhexe Sidonia von Bork die Klosterhexe, original German Text 1847-1848]
+* {{Gutenberg author | id=Meinhold,+Wilhelm }}
+* {{Internet Archive author |sname=Wilhelm Meinhold}}
+* {{LCAuth|n82132707|Wilhelm Meinhold|11|ue}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Meinhold, Wilhelm}}
+[[Category:1797 births]]
+[[Category:1851 deaths]]
+[[Category:People from Vorpommern-Greifswald]]
+[[Category:German historical novelists]]
+[[Category:Romanticism]]
+[[Category:People from the Province of Pomerania]]
+[[Category:German male novelists]]
+[[Category:19th-century German novelists]]

@@ -1,0 +1,72 @@
+{{short description|American fantasy and science fiction author}}
+{{Infobox writer
+| birth_name = Roberta Ann MacAvoy
+| birth_date = {{birth date and age|1949|12|13}}
+| nationality = American
+| birth_place = [[Cleveland]], [[Ohio]], U.S.
+| occupation = Author
+| awards = [[John W. Campbell Award for Best New Writer]] (1984)
+| alma_mater = [[Case Western Reserve University]]
+| spouse = {{marriage|Ronald Allen Cain|1978}}
+| genre = [[Fantasy]]<br>[[Science fiction]]
+| website = {{URL|http://ramacavoy.com/}}
+}}
+
+'''Roberta Ann MacAvoy''' (born December 13, 1949) is an American [[fantasy]] and [[science fiction]] author. Several of her books draw on [[Celtic mythology|Celtic]] or [[Zen]] themes. She won the [[John W. Campbell Award for Best New Writer]] in 1984.
+
+==Biography==
+R. A. MacAvoy was born in [[Cleveland, Ohio]]. She attended [[Case Western Reserve University]] and received a [[Bachelor of Arts|B.A.]] in 1971. She worked from 1975 to 1978 as an assistant to the financial aid officer of [[Columbia College of Columbia University]] and from 1978 to 1982 as a computer programmer at [[SRI International]] before turning to full-time writing in 1982. She married Ronald Allen Cain in 1978.<ref>D. Jones & J.D. Jorgenson (eds.) ''Contemporary Authors, New Revision Series'', vol. 59, pp. 248&ndash;250. Gale Research, 1998.</ref>
+
+R. A. MacAvoy was diagnosed with [[dystonia]] (a neuro-muscular disorder causing painful sustained muscle contractions) following the publication of her Lens of the World series in the early 1990s. She now has the disorder under control and has returned to writing.<ref>Steven Gould [http://www.lightspeedmagazine.com/nonfiction/feature-interview-r-a-macavoy/ "Interview: R.A. MacAvoy"], ''Lightspeed'' magazine, 20, January 2012.</ref>
+
+==Bibliography==
+
+===The Black Dragon series===
+* ''[[Tea with the Black Dragon]]'' (1983)
+* ''Twisting the Rope'' (1986)
+
+===The Damiano series===
+* ''[[Damiano (novel)|Damiano]]'' (1983, [[Bantam Books|Bantam]])
+* ''[[Damiano's Lute]]'' (1984, Bantam)
+* ''Raphael'' (1984, Bantam<ref>{{Cite web|last=Christie|first=Mike|date=|title="Raphael" by R.A. MacAvoy (Book Review) - ProQuest|url=https://search.proquest.com/openview/9b4301c0511efe426c49773d10a9d8eb/1?pq-origsite=gscholar&cbl=1816914|url-status=live|archive-url=|archive-date=|access-date=2020-10-06|website=search.proquest.com|language=en}}</ref>)
+* omnibus edition titled ''A Trio for Lute''
+These books were adapted by Bantam Software into a text adventure, ''I, Damiano: The Wizard of Partestrada'', for MS-DOS and Apple IIe computers.
+
+===The Lens of the World series===
+* ''Lens of the World'' (1990)
+* ''King of the Dead'' (1991)
+* ''Winter of the Wolf'' [vt ''The Belly of the Wolf''] (1993)
+
+===Ewen Young===
+* ''The Go-Between'' (2005) – Amazon Shorts e-book, republished with editorial changes as ''In Between'' (2009)
+* ''Death and Resurrection'' (2011, [[Prime Books]]<ref>{{Cite web|last=|first=|date=2011-04-28|title=Spotlight on: Sean Wallace, Editor|url=https://locusmag.com/2011/04/spotlight-on-sean-wallace-editor/|url-status=live|archive-url=|archive-date=|access-date=2020-10-06|website=Locus Online|language=en-US|quote=R.A. MacAvoy’s Death and Resurrection which combines kung fu, Asian mysticism, a Native American veterinarian, mystery, and more.}}</ref>) – includes ''The Go-Between/In Between''
+
+===Other novels===
+* ''The Book of Kells'' (1985)
+* ''The Grey Horse'' (1987)
+* ''The Third Eagle'' (1989)
+* ''Albatross'' (with Nancy Palmer) (2016)
+* ''Shimmer'' (with Nancy Palmer) (2018)
+
+==References==
+{{reflist}}
+
+==External links==
+* {{isfdb name|id=R._A._MacAvoy|name=R. A. MacAvoy}}
+* [http://ramacavoy.com/ RAMacavoy.com] – blog 
+* [http://www.ansible.co.uk/writing/shortrev.html#macavoy Review of ''Damiano'' & ''Damiano's  Lute''] at ''Ansible''.co.uk, by editor [[David Langford]] 
+
+{{Authority control}}
+
+{{DEFAULTSORT:Macavoy, R. A.}}
+[[Category:1949 births]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American novelists]]
+[[Category:21st-century American women writers]]
+[[Category:American fantasy writers]]
+[[Category:American science fiction writers]]
+[[Category:American women novelists]]
+[[Category:John W. Campbell Award for Best New Writer winners]]
+[[Category:Living people]]
+[[Category:Women science fiction and fantasy writers]]

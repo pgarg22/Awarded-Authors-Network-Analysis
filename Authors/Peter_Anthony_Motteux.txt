@@ -1,0 +1,98 @@
+{{Use dmy dates|date=August 2021}}
+{{Use British English|date=May 2012}}
+{{Infobox person
+| name          = Peter Anthony Motteux
+| image         = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = Pierre Antoine Motteux
+| birth_date    = {{Birth date|df=yes|1663|02|25}}
+| birth_place   = [[Rouen]] France
+| death_date    = {{Death date and age|df=yes|1718|02|18|1663|02|25}}
+| death_place   = London
+| nationality   = British
+| other_names   = 
+| occupation    = Editor, journalist, translator, playwright
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+'''Peter Anthony Motteux''' (born '''Pierre Antoine Motteux''' {{IPA-fr|mɔtø|lang}}; 25 February 1663 – 18 February 1718) was a French-born English author, playwright, and translator. Motteux was a significant figure in the evolution of English journalism in his era, as the publisher and editor of ''The Gentleman's Journal'', "the first English magazine,"<ref>Jackson, p. 215.</ref> from 1692 to 1694.
+
+==Life==
+A native of [[Rouen]], he was a French [[Huguenot]] who came to England in 1685 after the revocation of the [[Edict of Nantes]]. At first he lived with his godfather, Paul Dominique, and made his living as an auctioneer; by 1706 he maintained a shop in [[Leadenhall Street]], selling imports from China, Japan, and India, and (in his own words) "silks, lace, linens, pictures, and other goods." He also held a position with the Post Office in the first decade of the 18th century.
+
+His death in a bawdy house was thought to be suspicious, and caused a good deal of legal disturbance.<ref>MacDonald, p. 272 n. 3.</ref> Five people were tried for his murder, but were acquitted. He was survived by his widow Priscilla, two sons and a daughter.
+
+==Translations==
+Motteux is perhaps best known for completing Sir [[Thomas Urquhart]]'s translation of [[Rabelais]]' ''[[Gargantua and Pantagruel]]''. Books I and II of Urquhart's translation of Rabelais had been published in 1653; Motteux (with outside help) revised these, completed Urquart's translation of Book III, and translated Book IV and the possibly-spurious Book V. The entire work was published in 1693 and 1694 (reprinted in 1708; revised by John Ozell in 1737).
+
+While Urquhart's original version of Rabelais has sometimes been acclaimed as a masterpiece in itself, critics have had reservations about Motteux's continuation. In part, Motteux suffered for frankly rendering the vulgarity of Rabelais, to a generation of readers less prepared to tolerate it than Urquhart's had been.<ref>Gillespie and Hopkins, p. 329.</ref>
+
+Motteux produced an important translation of the [[Miguel de Cervantes]] novel ''[[Don Quixote]]''; this 4-volume 1700–03 edition (3rd edition in 1712) was credited as "translated from the original by many hands and published by Peter Motteux." Very popular in its own era, Motteux's version of the work has been condemned by later translators. [[John Ormsby (translator)|John Ormsby]] listed numerous faults he found with Motteux's translation, and described it as "worse than worthless ... worthless as failing to represent, worse than worthless as misrepresenting" the spirit and flavour of the original.<ref>{{cite book|chapter-url=http://cervantes.tamu.edu/english/ctxt/DonQ-JohnOrmsby/DonQ-JohnOrmsby.html |archive-url=https://web.archive.org/web/20100823072058/http://cervantes.tamu.edu/english/ctxt/DonQ-JohnOrmsby/DonQ-JohnOrmsby.html |url-status=dead |archive-date=23 August 2010 |title=Don Quixote by Miguel de Cervantes, Translated by John Ormsby |chapter=Translator's Preface: About this translation }}</ref>
+
+Motteux translated other works as well, one example being ''The Present State of the Empire of Morocco'' (1695) by French diplomat [[François Pidou de Saint-Olon]].
+
+==Dramas==
+Motteux wrote a series of plays and musical librettos that were produced during the 1690s and early 18th century, including:
+
+* ''The Loves of Mars and Venus'' (1695)
+* ''Love's a Jest'' (1696)
+* ''She Ventures and He Wins'' (1696)
+* ''The Novelty, or Every Act a Play'' (1697)
+* ''[[Beauty in Distress]]'' (1698)
+* ''Britain's Happiness'' (1704)
+* ''[[The Stage Coach]]'' (1704)
+* ''The Amorous Miser, or the Younger the Wiser'' (1705)
+* ''[[Thomyris, Queen of Scythia]]'' (1707)
+* ''Love's Triumph'' (1708)
+
+—among others. As its subtitle indicates, ''The Novelty'' was an anthology of five short plays in different genres, [[comedy]], [[tragedy]], [[pastoral]], [[masque]], and [[farce]].
+
+Motteux worked in the English stage genre then called "opera," which were semi-operas somewhat comparable to modern musicals; works like ''The Rape of Europa by Jupiter'' (1694), ''Acis and Galatea'' (1701), and ''[[Arsinoe, Queen of Cyprus]]'' (1705), ''[[Thomyris, Queen of Scythia]]'' (17078 the first two with music by [[John Eccles (composer)|John Eccles]], the third with music by [[Thomas Clayton (composer)|Thomas Clayton]] and the fourth arranged by [[Johann Christoph Pepusch]]. His final works are translations and adaptations of opera libretti from the Italian.
+
+As was typical of [[English Restoration|Restoration]] drama, Motteux's plays often adapted earlier works; and his plays in turn were adapted by others into new forms. His semi-opera ''The Island Princess, or the Generous Portuguese'' (1699) was an adaptation of [[John Fletcher (playwright)|John Fletcher]]'s play ''[[The Island Princess]]'', with music by [[Daniel Purcell]], [[Richard Leveridge]] and Jeremiah Clarke. The mezzo-soprano, [[Mary Lindsey|Mrs Lindsey]] sang interludes at its first performance at [[Theatre Royal, Drury Lane|Drury Lane]] in February 1699.<ref>{{Cite ODNB|title=Lindsey, Mary (fl. 1697–1713), singer|url=https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-70111;jsessionid=55A10DD9E4E4A4BC25AD51CDD03D7513|access-date=2020-11-13|year = 2004|language=en|doi=10.1093/ref:odnb/70111}}</ref>
+
+After his death, the comic subplot of ''Acis and Galatea'' was transformed into "a comic mask" called ''Roger and Joan, or the Country Wedding'' (1739). Much later, [[David Garrick]] adapted ''The Novelty'' into a farce titled ''The Lying Varlet'', published in 1823.
+
+==Journalism==
+Motteux edited ''The Gentleman's Journal, or the Monthly Miscellany'' from its initial issue, dated January 1692, to its last of November 1694; evidence suggests he wrote most of the prose in each issue as well. (The plan was for monthly issues, though some were late, and some were missed.) Motteux may have been influenced by ''Le Mercure Galant'', a French periodical of the 1670s devoted to Court news and gossip—though Motteux's ''Journal'' was more ambitious. The ''Journal'' published "News, History, Philosophy, Poetry, Musick, Translations, &c." It covered a wider range of topics than other periodicals of its era like ''The Athenian Gazette'', giving it some claim as the first "general interest" magazine in English. Motteux reviewed plays by [[John Dryden]] (a personal friend) and [[William Congreve]] among others; he published verse by the poets of the era, including [[Matthew Prior]] and [[Charles Sedley]]; he covered the musical career of [[Henry Purcell]] and printed several of his songs. The ''Journal'' even featured a "Lovers' Gazette," foreshadowing the advice-to-the-lovelorn columns of later generations of popular journalism.
+
+Though its existence was relatively brief in historical terms, the ''Journal'' provided a precedent for later publications of the same type, notably ''[[The Gentleman's Magazine]]'' and ''[[The London Magazine]]''. One curiosity of the ''Journal'' is that the title page of its first issue bore the motto ''[[E pluribus unum]]'', apparently the earliest use of what would later become the motto of the United States of America. Motteux used the phrase in the sense of "one chosen among many," rather than its common later connotation.<ref>Arnold, pp. 288–92.</ref> (Classicists have attempted to trace possible sources for the motto, ranging from [[Vergil]] to [[Aristotle]] to [[Horace]] to [[Cicero]] to [[Augustine of Hippo|St. Augustine]].)<ref>Baldwin, p. 52.</ref>
+
+Motteux published early arguments in favor of the equality of the sexes; he re-titled the October 1693 issue of the ''Journal'' "The Lady's Journal," and devoted it to articles by and about women.
+
+==Notes==
+{{Reflist}}
+
+==References==
+*Arnold, Howard Payson. ''Historical Side-Lights''. New York, Harper & Brothers, 1899.
+*Baldwin, Neil. ''The American Revelation.'' New York, St. Martin's Griffin, 2006.
+*Cervantes, Miguel de. ''The History of Don Quixote De La Mancha''. Translated by John Ormsby. Chicago, Encyclopædia Britannica Press, 1952.
+*Cunningham, Robert Newton. ''Peter Anthony Motteux: A Biographical and Critical Study.'' Oxford, Basil Blackwell, 1933.
+*Gillespie, Stuart, and David Hopkins, eds. ''The Oxford History of Literary Translation in English.'' Oxford, Oxford University Press, 2005.
+*Jackson, Mason. ''The Pictorial Press: Its Origin and Progress.'' London, Hurst and Blackett, 1885.
+*MacDonald, Hugh. ''John Dryden: A Bibliography of Early Editions and of Drydeniana.'' Oxford, Clarendon Press, 1939; reprinted Kessinger, 2006.
+*Owen, Susan J. ''A Companion to Restoration Drama.'' London, Blackwell, 2001.
+*Van Laun, Henri. "Life," in: ''Motteux's Don Quixote'', edited by [[John Gibson Lockhart]]; 4 Volumes, reprinted London, J. M. Dent, 1880.
+*{{EB1911|wstitle=Motteux, Pierre Antoine|volume=18|page=931}}
+
+==External links==
+{{Wikisource author}}
+* {{Gutenberg author | id=Motteux,+Peter+Anthony | name=Peter Anthony Motteux}}
+* {{Internet Archive author |sname=Peter Anthony Motteux}}
+* {{Librivox author |id=7169}}
+* [http://www.letrs.indiana.edu/cgi-bin/eprosed/eprosed-idx?type=boolean;layer=2;rgn1=period;q1=Res&size=100&slice=2 Three Motteux plays online.]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Motteux, Peter Anthony}}
+[[Category:French–English translators]]
+[[Category:English dramatists and playwrights]]
+[[Category:People from Rouen]]
+[[Category:1663 births]]
+[[Category:1718 deaths]]
+[[Category:English male dramatists and playwrights]]
+[[Category:Translators of Don Quixote]]
+[[Category:17th-century journalists]]
+[[Category:18th-century British journalists]]

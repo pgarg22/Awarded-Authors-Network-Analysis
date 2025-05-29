@@ -1,0 +1,41 @@
+{{short description|German film director}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox person
+|image = 
+| name         = Jörg Graser
+| birthname    = 
+| birth_date   = {{birth date and age|df=yes|1951|12|30}}
+| birth_place  = [[Heidelberg]], [[West Germany]]
+| death_date   = 
+| death_place  = 
+| occupation   = [[Film director]]<br>[[Screenwriter]]
+| yearsactive  = 1981-1997
+}}
+
+'''Jörg Graser''' (born 30 December 1951) is a German [[film director]] and [[screenwriter]]. His film ''[[Abraham's Gold]]'' was screened in the [[Un Certain Regard]] section at the [[1990 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/194/year/1990.html |title=Festival de Cannes: Abraham's Gold |accessdate=7 August 2009|work=festival-cannes.com}}</ref>
+
+==Filmography==
+* ''[[Trokadero]]'' (dir. [[Klaus Emmerich (director)|Klaus Emmerich]], 1981)
+* ''[[Der Mond is nur a nackerte Kugel]]'' (1981)
+* ''[[Magdalena (1983 film)|Magdalena]]'' (1983, TV film) — (based on a play by [[Ludwig Thoma]])
+* ''[[Via Mala (TV series)|Via Mala]]'' (dir. [[Tom Toelle]], 1985, TV miniseries) — (based on ''[[Via Mala (novel)|Via Mala]]'' by [[John Knittel]])
+* ''[[Storms in May (1987 film)|Storms in May]]'' (dir. [[Xaver Schwarzenberger]], 1987, TV film) — (based on ''[[Storms in May (novel)|Storms in May]]'' by [[Ludwig Ganghofer]])
+* ''[[Abraham's Gold]]'' (1990)
+* ''[[Ich schenk dir die Sterne]]'' (1991)
+* ''[[Drei Sekunden Ewigkeit]]'' (1995, TV film)
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|0335825|Jörg Graser}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Graser, Jorg}}
+[[Category:1951 births]]
+[[Category:Living people]]
+[[Category:Film people from Baden-Württemberg]]
+[[Category:Mass media people from Heidelberg]]
+
+{{Germany-film-director-stub}}

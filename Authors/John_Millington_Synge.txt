@@ -1,0 +1,176 @@
+{{short description|Irish playwright, poet, prose writer, and collector of folklore}}
+{{EngvarB|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox person <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = John Millington Synge
+| image       = John Millington Synge.jpg
+| caption     = John Millington Synge
+| birthname   = Edmund John Millington Synge
+| birth_date  = {{Birth date|1871|4|16|df=y}}
+| birth_place = [[Rathfarnham]], [[County Dublin]], Ireland
+| death_date  = {{death date and age|1909|3|24|1871|4|16|df=y}}
+| death_place = Elpis Nursing Home, Dublin, Ireland
+| occupation  = Novelist, short story writer, playwright, poet, essayist
+| nationality = [[Irish people|Irish]] 
+| known_for = Drama, [[prose|fictional prose]]
+| movement    = [[Irish Folklore|Folklore]]<br>[[Irish Literary Revival]]
+}}
+
+'''Edmund John Millington Synge''' ({{IPAc-en|s|ɪ|ŋ}}; 16 April 1871 – 24 March 1909) was an Irish playwright, poet, writer, collector of [[folklore]], and a key figure in the [[Celtic Revival|Irish Literary Revival]]. His best known play ''[[The Playboy of the Western World]]'' was poorly received, due to its bleak ending, depiction of Irish peasants, and idealisation of [[parricide]], leading to hostile audience reactions and riots in Dublin during its opening run at [[Abbey Theatre]], Dublin, which he had co-founded with [[W. B. Yeats]] and [[Augusta, Lady Gregory|Lady Gregory]]. His other major works include "[[In the Shadow of the Glen]]" (1903), "[[Riders to the Sea]]" (1904), "[[The Well of the Saints]]" (1905), and "[[The Tinker's Wedding]]" (1909).
+
+Although he came from a wealthy Anglo-Irish background, his writings mainly concern working-class Catholics in rural Ireland, and with what he saw as the essential [[paganism]] of their world view. Owing to ill health, Synge was home schooled. His early interest was in music, leading to a scholarship and degree at [[Trinity College Dublin]], and he went to Germany in 1893 to study music. He abandoned this career path in 1894 with a move to Paris where he took up poetry and literary criticism, where he met Yeats and then returned to Ireland. 
+
+Synge suffered from [[Hodgkin's lymphoma|Hodgkin's disease]].  He died aged 37 from Hodgkin's related cancer, while writing "Deirdre of Sorrow", considered by some as his unfinished masterpiece. Although he left relatively few works behind, they are nonetheless widely regarded as of high cultural significance.
+
+==Biography==
+
+===Early life===
+Synge was born on 16 April 1871, in Newtown Villas, [[Rathfarnham]], [[County Dublin]],<ref name="Smith xiv">Smith 1996 xiv</ref> the youngest of eight children of upper-middle-class Protestant parents.<ref name="Smith xiv"/> His father, John Hatch Synge was a barrister, and came from a family of [[landed gentry]] in Glanmore Castle, [[County Wicklow]]. Synge's paternal grandfather, also named John Synge, was an evangelical Christian involved in the movement that became the [[Plymouth Brethren]], and his maternal grandfather, [[Robert Traill (clergyman)|Robert Traill]], had been a [[Church of Ireland]] rector in [[Schull|Schull, County Cork]], who died in 1847 during the [[Great Irish Famine]].<ref>W. J. McCormack, "Synge, (Edmund) John Millington (1871–1909)", ''Oxford Dictionary of National Biography'', Oxford University Press, 2004; online edn, May 2010 [http://www.oxforddnb.com/view/article/36402, accessed 20 March 2017]</ref> He was a descendant of Edward Synge, Archbishop of Tuam, and Edward's son Nicholas Bishop of Killaloe.{{Sfn|Clesham|2013|p=262}} His nephews included mathematician [[John Lighton Synge]] and optical microscopy pioneer [[Edward Hutchinson Synge]].<ref>''[https://www.livingedition.at/en/isbn/9783901585173/ Review of ''The Life and Works of Edward Hutchinson Synge]'' Living Edition</ref>
+
+Synge's father died from [[smallpox]] in 1872 at the age of 49. He was buried on his son's first birthday. His mother moved the family to the house next door to her own mother's house in Rathgar, County Dublin. Although often ill, Synge had a happy childhood there. He developed an interest in bird-watching along the banks of the [[River Dodder]],<ref>Greene and Stephens 1959, pp. 4–5</ref> and during family holidays at the seaside resort of [[Greystones]], County Wicklow, and the family estate at Glanmore.<ref>Greene and Stephens 1959, p. 6</ref>
+
+Synge was educated at home and at times at schools in Dublin and [[Bray, County Wicklow|Bray]],<ref>McCormack 2010</ref> and later studied piano, flute, violin, [[music theory]] and [[counterpoint]] at the [[Royal Irish Academy of Music]]. He travelled to the continent to study music, but changed his mind and decided to focus on literature.<ref name="Smith xiv"/> He was a talented student and won a scholarship in counterpoint in 1891. The family moved to the suburb of Kingstown (now [[Dún Laoghaire]]) in 1888, and Synge entered [[Trinity College, Dublin]] the following year. He graduated with a bachelor's degree in 1892, having studied [[Irish language|Irish]] and [[Hebrew language|Hebrew]], as well as continuing his music studies and playing with the Academy Orchestra in the Antient Concert Rooms.<ref>Greene and Stephens 1959, pp. 16–19, 26</ref> Between November 1889 and 1894 he took private music lessons with [[Robert Prescott Stewart]].<ref>Parker, Lisa: Robert Prescott Stewart (1825–1894): A Victorian Musician in Dublin (Ph.D. thesis, NUI Maynooth, 2009), unpublished.</ref>
+
+Synge later developed an interest in Irish antiquities and the [[Aran Islands]], and became a member of the [[Maud Gonne#Early career|Irish League]] for a year.<ref name="Smith xv">Smith 1996 xv</ref> He left the League because, as he told [[Maud Gonne]], "my theory of regeneration for Ireland differs from yours&nbsp;... I wish to work on my own for the cause of Ireland, and I shall never be able to do so if I get mixed up with a revolutionary and semi-military movement."<ref>Greene and Stephens 1959, pp. 62–63</ref> In 1893 he published his first known work, a poem influenced by [[William Wordsworth|Wordsworth]], ''Kottabos: A College Miscellany''.
+
+===Early work===
+After graduating, Synge moved to Germany to study music. He stayed in [[Koblenz|Coblenz]] during 1893 and later to [[Würzburg]] in January 1894.<ref>Greene and Stephens 1959, 35</ref> Partly because he was shy about performing in public, and partly because of doubt about his ability, he decided to abandon music and pursue his literary interests. He returned to Ireland in June 1894, and moved to Paris in January 1895 to study literature and languages at the [[University of Paris|Sorbonne]].<ref>Greene and Stephens 1959, pp. 43–47</ref>
+
+He met Cherrie Matheson during summer breaks with his family in Dublin. He proposed to her in 1895 and again the next year, but she turned him down on both occasions because of their differing views on religion. This rejection affected Synge greatly and reinforced his determination to spend as much time as possible outside Ireland.<ref>Greene and Stephens 1959, pp. 48–52</ref>
+
+In 1896, he visited Italy to study the language before returning to Paris. He planned on making a career in writing about French authors for the English press.<ref>Ellmann 1948, p. 130</ref> That same year he met [[William Butler Yeats|W. B. Yeats]], who encouraged him to live for a while in the [[Aran Islands]], and then return to Dublin and devote himself to creative work. In 1899 he joined with Yeats, [[Augusta, Lady Gregory]], and [[George William Russell]] to form the Irish National Theatre Society, which later established the Abbey Theatre.<ref>Mikhail 1987, p. 54</ref><ref name="Smith xv"/> He wrote some pieces of literary criticism for Gonne's ''Irlande Libre'' and other journals, as well as unpublished poems and prose in a decadent [[fin de siècle]] style.<ref>Greene and Stephens 1959, 60</ref> (These writings were eventually gathered in the 1960s for his ''Collected Works''.<ref>Price 1972, 292</ref>) He also attended lectures at the Sorbonne by the noted Celtic scholar [[Marie Henri d'Arbois de Jubainville|Henri d'Arbois de Jubainville]].<ref>Greene and Stephens 1959, p. 72</ref>
+
+===Aran Islands and first plays===
+[[File:Synge, John Millington - Ein Inselbewohner auf Inishmaan, einer der Aran-Inseln im Westen Irlands (Zeno Fotografie).jpg|thumb|John Millington Synge<br/>A resident of the island of Inishmaan]]
+In 1897, Synge suffered his first attack of Hodgkin's, after which an enlarged gland was removed from his neck.<ref>Greene and Stephens 1959, p. 70</ref> He visited [[Lady Gregory]]'s home, at Coole Park near Gort, County Galway, where he met Yeats again and also [[Edward Martyn]]. He spent the following five summers there, collecting stories and folklore, perfecting his Irish, but living in Paris for most of the rest of each year.<ref>Greene and Stephens 1959, pp. 74–88</ref> He also visited [[Brittany]] regularly.<ref>Greene and Stephens 1959, p. 95</ref> During this period he wrote his first play, ''When the Moon Has Set'' which he sent to Lady Gregory for the [[Irish Literary Theatre]] in 1900, but she rejected it. The play was not published until it appeared in his ''Collected Works''.<ref>Price 1972, p. 293</ref>
+
+Synge's first account of life on the Aran Islands was published in the ''New Ireland Review'' in 1898 and his book, ''[[s:The Aran Islands|The Aran Islands]]'', completed in 1901 and published in 1907 with illustrations by [[Jack Butler Yeats]].<ref name="Smith xiv"/> Synge considered the book "my first serious piece of work".<ref name="Smith xiv"/> Lady Gregory read the manuscript and advised Synge to remove any direct naming of places and to add more folk stories, but he declined to do either because he wanted to create something more realistic.<ref name="Smith 1996 xvi">Smith 1996, xvi</ref> The book conveys Synge's belief that beneath the Catholicism of the islanders it was possible to detect a substratum of the pagan beliefs of their ancestors. His experiences in the Arans formed the basis for the plays about Irish rural life that Synge went on to write.<ref>Greene and Stephens 1959, pp. 96–99</ref>
+
+Synge left Paris for London in 1903. He had written two one-act plays, ''[[Riders to the Sea]]'' and ''The Shadow of the Glen'', the previous year. These met with Lady Gregory's approval and ''The Shadow of the Glen'' was performed at the Molesworth Hall in October 1903.<ref name="Smith xvii">Smith 1996, xvii</ref> ''Riders to the Sea'' was staged at the same venue in February the following year. ''The Shadow of the Glen'', under the title ''In the Shadow of the Glen'', formed part of the bill for the opening run of the Abbey Theatre from 27 December 1904 to 3 January 1905.<ref name="Smith xvii"/> Both plays were based on stories that Synge had collected in the Arans, and Synge relied on props from the Arana to help set the stage for each of them.<ref name="Smith xvii"/> He also relied on Hiberno-English, the English dialect of Ireland, to reinforce its usefulness as a literary language, partly because he believed that the Irish language could not survive.<ref name="Smith xxiv">Smith 1996, xxiv</ref>
+
+[[File:AbbeyPosterOpeningNight.jpg|left|thumb|upright|Poster for opening of Abbey Theatre featuring ''In the Shadow of the Glen'']]
+''The Shadow of the Glen'' is based on a story about an unfaithful wife, and was criticised by the [[Irish nationalism|Irish nationalist]] leader [[Arthur Griffith]] as "a slur on Irish womanhood".<ref name="Smith xxiv"/> Years later Synge wrote: "When I was writing ''The Shadow of the Glen'' some years ago I got more aid than any learning could have given me from a chink in the floor of the old Wicklow house where I was staying, that let me hear what was being said by the servant girls in the kitchen."<ref>Synge "Preface" to ''The Playboy''</ref> Griffith's criticism encouraged more attacks alleging that Synge described Irish women in an unfair manner.<ref name="Smith xxiv"/> ''Riders to the Sea'' was also attacked by nationalists, this time including [[Patrick Pearse]], who decried it because of the author's attitude to God and religion. Pearse, [[Arthur Griffith]] and other conservative-minded Catholics claimed Synge had done a disservice to Irish nationalism by not idealising his characters,<ref name="Smith xiii">Smith 1996, xiii</ref> but later critics have stated he idealised the Irish peasantry too much.<ref name="Smith xiii"/> A third one-act play, ''The Tinker's Wedding'', was drafted around this time, but Synge initially made no attempt to have it performed, largely because of a scene in which a priest is tied up in a sack, which, as he wrote to the publisher [[Elkin Mathews]] in 1905, would probably upset "a good many of our Dublin friends".<ref name="Smith xviii">Smith 1996, xviii</ref>
+
+When the Abbey Theatre was set up, Synge was appointed literary adviser and became one of the directors, along with Yeats and Lady Gregory. He differed from Yeats and Lady Gregory on what he believed the Irish theatre should be, as he wrote to [[Stephen MacKenna]]:<blockquote>I do not believe in the possibility of "a purely fantastic, unmodern, ideal, breezy, spring-dayish, Cuchulainoid National Theatre" ... no drama can grow out of anything other than the fundamental realities of life, which are never fantastic, are neither modern nor unmodern and, as I see them, rarely spring-dayish, or breezy or Cuchulanoid.<ref>Greene and Stephens 1959, p. 157</ref></blockquote>
+
+Synge's next play, ''[[The Well of the Saints]]'', was staged at the Abbey in 1905, again to nationalist disapproval, and then in 1906 at the [[Deutsches Theater (Berlin)|Deutsches Theater]] in Berlin.<ref name="Smith xix">Smith 1996, xix</ref> The critic Joseph Holloway asserted that the play combined "lyric and dirt".<ref>Hogan and O'Neill 1967, p. 53</ref>
+
+===''Playboy'' riots and after===
+{{main|The Playboy of the Western World}}
+[[File:John Millington Synge - Project Gutenberg eText 19028.jpg|thumb|left|upright|John Millington Synge]]
+Synge's widely regarded masterpiece, ''The Playboy of the Western World'', was first performed on 26 January 1907, at the Abbey Theatre. A comedy about apparent [[patricide]], it attracted a hostile reaction from sections of the Irish public. The ''[[Freeman's Journal]]'' described it as "an unmitigated, protracted libel upon Irish peasant men, and worse still upon Irish girlhood".<ref name="ferriter">Ferriter 2004, pp. 94–95</ref> Arthur Griffith, who believed that the Abbey Theatre was insufficiently politically committed, described the play as "a vile and inhuman story told in the foulest language we have ever listened to from a public platform",<ref>Foster 1998, p. 363</ref> and perceived a slight on the virtue of Irish womanhood in the line "...&nbsp;a drift of chosen females, standing in their [[Chemise|shifts]]&nbsp;..."<ref>''Playboy of the Western World'', Act III</ref>  At the time, a shift was known as a symbol representing [[Katharine O'Shea|Kitty O'Shea]] and her adulterous relationship with [[Charles Stuart Parnell]].<ref>Price 1961, pp. 15, 25</ref> 
+
+A section of the audience at the opening rioted, causing the third act to be acted out in [[dumbshow]].<ref>{{cite journal| page= [https://books.google.com/books?id=JIEl3vK7gtsC&pg=PA417&dq=%22The+Playboy+of+the+Western+World%22+Synge+dumbshow&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwid2OOsyqbtAhWhwFkKHdRCAcIQ6AEwB3oECAcQAg#v=onepage&q=%22The%20Playboy%20of%20the%20Western%20World%22%20Synge%20dumbshow&f=false 417] | journal= The Irish Monthly |volume= 49 |issue= 2 |publisher= McGlashan & Gill |year= 1921|title=The Abbey Theatre|author=Sutton, Graham}}</ref> The disturbances continued for a week, interrupting the following performances.<ref>Foster 1998, p. 361</ref> Yeats said the audience had "disgraced yourselves again. Is this to be an ever-recurring celebration of the arrival of Irish genius? Synge first and then O'Casey?"<ref>Gassner 2002, p. 468</ref>
+
+Although the writing of ''The Tinker's Wedding'' began at the same time as ''Riders to the Sea'' and ''[[In the Shadow of the Glen]]'', it took Synge five years to complete, and was not finished in 1907.<ref name="Smith xviii"/> ''Riders'' was performed in the Racquet Court theatre in Galway 4–8 January 1907 but not performed again until 1909, and only then in London. The first critic to respond to the play was [[Daniel Corkery (author)|Daniel Corkery]], who said, "One is sorry Synge ever wrote so poor a thing, and one fails to understand why it ever should have been staged anywhere."<ref>Corkery 1931, p. 152</ref>
+
+==Death==
+Synge died from [[Hodgkin lymphoma]] at the Elpis Nursing Home in Dublin on 24 March 1909, aged 37,<ref>Synge 1971, p. 85</ref> and was buried in [[Mount Jerome Cemetery and Crematorium|Mount Jerome Cemetery]], [[Harold's Cross]], Dublin.<ref>Dunne 1997, p. 24</ref> A collected volume, ''Poems and Translations'', with a preface by Yeats, was published by the [[Cuala Press]] on 8 April 1909. Yeats and actress and one-time fiancée Molly Allgood ([[Maire O'Neill]])<ref>Mikhail 1987, p. 81-82</ref> completed Synge's unfinished final play, ''Deirdre of the Sorrows'', and it was presented by the Abbey players on Thursday 13 January 1910 with Allgood as Deirdre.<ref name="Smith xiii"/>
+
+==Personality==
+[[John Masefield]], who knew Synge, wrote that he "gave one from the first the impression of a strange personality".<ref>Masefield 1916, p. 6</ref> Masefield said that Synge's view of life originated in his poor health. In particular, Masefield said "His relish of the savagery made me feel that he was a dying man clutching at life, and clutching most wildly at violent life, as the sick man does".<ref>Masefield 1916, p. 22</ref>
+
+Yeats described Synge as timid and shy, who "never spoke an unkind word" yet his art could "fill the streets with rioters".<ref>Yeats 1965, p. 231</ref> [[Richard Ellmann]], the biographer of Yeats and [[James Joyce]], stated that Synge "built a fantastic drama out of Irish life.<ref>Ellmann 1948, p. 130</ref> 
+
+Yeats described Synge in the poem "In Memory of Major Robert Gregory":
+:...And that enquiring man John Synge comes next,
+:That dying chose the living world for text
+:And never could have rested in the tomb
+:But that, long travelling, he had come
+:Towards nightfall upon certain set apart
+:In a most desolate stony place,
+:Towards nightfall upon a race
+:Passionate and simple like his heart.<ref>Grene (1975), preface</ref>
+
+Synge was a political radical, immersed in the socialist literature of [[William Morris]], and in his own words "wanted to change things root and branch." Much to the consternation of his mother, he went to Paris in 1896 to become more involved in radical politics, and his interest in the topic lasted until his dying days when he sought to engage his nurses on the topic of feminism.<ref>Kiberd 1995, p. 175</ref>
+
+==Legacy==
+[[File:Teach Synge Inishmaan.JPG|thumb|right|The cottage where Synge lodged on [[Inis Meáin]], now the Teach Synge museum]]
+Yeats said that Synge was "the greatest dramatic genius of Ireland".<ref>Yeats 1965, p. 138</ref> His plays helped set the dominant style at the Abbey Theatre until the 1940s. The stylised [[Literary realism|realism]] of his writing was reflected in the training given at the theatre's school of acting, and plays of peasant life were the main staple of the repertoire until the end of the 1950s. Sean O'Casey, the next major dramatist to write for the Abbey, knew Synge's work well and attempted to do for the Dublin working classes what Synge had done for the rural poor. [[Brendan Behan]], [[Brinsley MacNamara]], and [[Lennox Robinson]] were all indebted to Synge.<ref>Greene 1994, p. 26</ref>
+
+The Irish literary critic [[Vivian Mercier]] was among the first to recognise [[Samuel Beckett]]'s debt to Synge.<ref>Mercier 1977, p. 23</ref> Beckett was a regular member of the audience at the Abbey in his youth and particularly admired the plays of Yeats, Synge and O'Casey. Mercier points out parallels between Synge's casts of tramps, beggars and peasants and many of the figures in Beckett's novels and dramatic works.<ref>Mercier 1977, pp. 20–23</ref>
+
+Synge's cottage in the Aran Islands has been restored as a tourist attraction. An annual Synge Summer School has been held every summer since 1991 in the village of [[Rathdrum, County Wicklow]].<ref>[http://www.syngesummerschool.org Irish Theatre and the World Stage] {{Webarchive|url=https://web.archive.org/web/20080702065547/http://www.syngesummerschool.org/ |date=2 July 2008 }}, SyngeSummerSchool.org; retrieved 27 August 2008.</ref> Synge is the subject of Mac Dara Ó Curraidhín's 1999 documentary film, ''Synge agus an Domhan Thiar'' (''Synge and the Western World''). [[Joseph O'Connor]] wrote a novel, ''Ghost Light'' (2010), loosely based on Synge's relationship with Molly Allgood.<ref>{{cite web|url=http://www.josephoconnorauthor.com/novel-ghost-light.html|title=Ghost Light by Joseph O'Connor|publisher=Josephoconnorauthor.com|access-date=21 May 2011}}</ref><ref>{{cite web|url=http://www.irishtimes.com/newspaper/weekend/2010/0529/1224271349221.html|title=Brimming with sympathy and skill|publisher=The Irish Times|date=29 May 2010|access-date=21 May 2011}}</ref>
+
+Synge’s correspondence with his cousin, composer [[Mary Helena Synge]], is archived at Trinity College Dublin.
+
+==Works==
+* ''[[In the Shadow of the Glen]]'', 1903
+* ''[[Riders to the Sea]]'', 1904
+* ''[[The Well of the Saints]]'', 1905
+* ''The Aran Islands'', 1907 (The book at wikisource: [[s:The Aran Islands|The Aran Islands]])
+* ''[[The Playboy of the Western World]]'', 1907
+* ''[[The Tinker's Wedding]]'', 1908
+*  ''Poems and Translations'', 1909
+* ''[[Deirdre of the Sorrows]]'' 1910
+* ''In Wicklow and West Kerry'', 1912
+* ''Collected Works of John Millington Synge'' 4 vols, 1962–1968
+** Volume 1 ''Poems'', 1962
+** Volume 2 ''Prose'', 1966
+** Volumes 3 and 4 ''Plays'', 1968
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+* {{cite book|last=Clesham|first=Bridgid|title=The Church of Ireland: An illustrated history|publisher=Booklink|year=2013|isbn=978-1-906886-56-1|location=Dublin|page=262|chapter=The Province of Armagh: Tuam, Killala and Achonry|editor-last1=Costecalde|editor-first1=Claude|editor-last2=Walker|editor-first2=Brian}}
+* [[Daniel Corkery (author)|Corkery, Daniel]]. ''Synge and Anglo-Irish Literature''. Cork University Press, 1931. {{OCLC|503316737}}
+* Dunne, Seán and George O'Brien. ''The Ireland Anthology''. St. Martin's Press, 1997. {{ISBN|9780717129386}}
+* [[Richard Ellmann|Ellmann, Richard]]. ''Yeats: The Man and the Masks''. Macmillan, 1948.
+* [[Diarmaid Ferriter|Ferriter, Diarmaid]]. ''The Transformation of Ireland 1900–2000''.  Profile Books, 2004. 94–95. {{isbn|1-86197-307-1}}
+* [[R. F. Foster (historian)|Foster, R.F.]], ''W.B. Yeats:  A Life. I: The Apprentice Mage 1864—1914''.  Oxford University Press, 1998.
+* [[John Gassner|Gassner, John]] & Quinn, Edward. "The Reader's Encyclopedia of World Drama". Dover Publications, May 2002. {{ISBN|0-486-42064-7}}
+* [[David H. Greene|Greene, David H.]] & Stephens, Edward M. "J.M. Synge 1871–1909" (The MacMillan Company New York 1959)
+* Greene, David. "J.M. Synge: A Reappraisal" in ''Critical Essays on John Millington Synge'', ed. Daniel J. Casey, 15–27. New York: G. K. Hall & Co., 1994
+* Grene, Nichola. "Synge: A Critical Study of His Plays". Lanham MD: Rowman and Littlefield, 1975. {{ISBN|978-0-8747-1775-4}}
+* Hogan, Robert and  O'Neill, Michael. ''Joseph Holloway's Abbey Theatre''. Carbondale, Southern Illinois University Press, 1967.
+* [[Denis Johnston|Johnston, Denis]]. "John Millington Synge", ''Columbia Essays on Modern Writers Series'', #12. New York: [[Columbia University Press]], 1965.
+* [[Declan Kiberd|Kiberd, Declan]]. ''Inventing Ireland: The Literature of the Modern Nation'', Jonathan Cape, 1995.
+* McCormack, W.J. "Synge, (Edmund) John Millington", ''Oxford Dictionary of National Biography'', 2010.  {{doi|10.1093/ref:odnb/36402}}
+* Mikhail, E. H. (ed.). ''The Abbey Theatre: Interviews and Recollections'', Rowman & Littlefield, 1987.
+* [[John Edward Masefield|Masefield, John]]. ''John M. Synge: A Few Personal Recollections With Biographical Notes'', Netchworth: Garden City Press Ltd., 1916.
+* [[Vivian Mercier|Mercier, Vivian]]. ''Beckett/Beckett''. Oxford: Oxford University Press, 1977. {{ISBN|0-19-281269-6}}
+* Price, Alan. "Synge and Anglo-Irish Drama". London: Methuen, 1961.
+* Price, Alan. "A Survey of Recent Work on J. M. Synge" in ''A Centenary Tribute to J. M. Synge 1871–1909''. Ed. S. B. Bushrui. New York: Barnes & Noble, 1972. {{ISBN|0-389-04567-5}}.
+* Smith, Alison. "Introduction" in ''Collected Plays, Poems, and The Aran Islands''. Edited by Alison Smith. London: Everyman, 1996.
+* Synge, John Millington. ''Collected Works''. Edited by Robin Skelton, Alan Price, and Ann Saddlemeyer. Gerrards Cross: Smythe, 1982. {{ISBN|0-86140-058-5}}
+* Synge, John Millington. ''Some Letters of John M. Synge to Lady Gregory and W. B. Yeats''. Cuala Press, 1971.
+* Yeats, William Butler.  ''The Autobiography of William Butler Yeats''.  Macmillan, 1965.
+<!--* Burke, Mary. '''Tinkers': Synge and the Cultural History of the Irish Traveller''. Oxford University Press, 2009.
+* Watson, George. ''Irish Identity and the Literary Revival''. London: Croom Helm, 1979.-->
+
+==External links==
+{{Commons category|John Millington Synge}}
+{{wikiquote|John Millington Synge}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/j-m-synge}}
+* [http://www.gutenberg.org/ebooks/author/504 Works by John Millington Synge at Project Gutenberg]
+* {{Internet Archive author|sname=John Millington Synge}}
+* {{Librivox author|id=2424}}
+* {{UK National Archives ID}}
+* {{NPG name}}
+
+{{John Millington Synge}}
+{{The Playboy of the Western World}}
+{{Authority control}}
+{{featured article}}
+{{DEFAULTSORT:Synge, John Millington}}
+[[Category:1871 births]]
+[[Category:1909 deaths]]
+[[Category:University of Paris alumni]]
+[[Category:Abbey Theatre]]
+[[Category:Irish Anglicans]]
+[[Category:Irish male poets]]
+[[Category:Irish male dramatists and playwrights]]
+[[Category:Deaths from lymphoma]]
+[[Category:Deaths from cancer in the Republic of Ireland]]
+[[Category:Alumni of Trinity College Dublin]]
+[[Category:People from Rathfarnham]]
+[[Category:Burials at Mount Jerome Cemetery and Crematorium]]
+[[Category:Alumni of the Royal Irish Academy of Music]]
+[[Category:19th-century Irish poets]]
+[[Category:19th-century Irish dramatists and playwrights]]
+[[Category:20th-century Irish poets]]
+[[Category:20th-century Irish dramatists and playwrights]]
+[[Category:20th-century male writers]]
+[[Category:19th-century male writers]]
+[[Category:Synge family|John Millington]]

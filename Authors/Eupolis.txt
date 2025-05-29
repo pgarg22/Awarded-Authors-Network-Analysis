@@ -1,0 +1,97 @@
+{{about|the Greek poet|the spider genus|Agyneta}}
+[[File:Eupolis.jpg|thumb|[[Herma]] portraying Eupolis recovered in 1988 (current location: [[National Archaeological Museum, Athens]])]]
+'''Eupolis''' ({{lang-grc-gre|Εὔπολις}}; c. 446{{snd}}c. 411 BC) was an [[Athens|Athenian]] [[poet]] of the [[Ancient Greek comedy#Old Comedy (archaia)|Old Comedy]], who flourished during the time of the [[Peloponnesian War]].{{sfnp|Chisholm|1911}}
+
+==Biography==
+Nothing whatsoever is known of his personal history. His father was named Sosipolis.<ref>[http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0104:entry=eupolis-bio-1 A Dictionary of Greek and Roman biography and mythology, Eupolis]</ref> There are few sources on when he first appeared on the stage. A short history of Greek Comedy, written by an anonymous writer of antiquity, reports that Eupolis first produced in the year where Apollodorus was the [[Eponymous archon]], which would be 430/429 BC. The same source claims [[Phrynichus (comic poet)|Phrynichus]] also debuted that year.  The [[Chronicon (Eusebius)|Chronicon]] of [[Eusebius of Caesarea]] instead places his debut in 428–27 BC and adds that [[Aristophanes]] also started producing that year. This is the version preserved in the Latin translation by [[Jerome]]. But the Armenian translation places the event in 427/426 BC.{{sfnp|Storey|2003|pp=54–56}}
+
+[[Cyril of Alexandria]] placed the debut of Eupolis at some point between 428 and 424 BC, placing the debuts of Aristophanes and [[Plato (comic poet)|Plato the comic poet]] within the same period. [[George Syncellus]] gives the same dates, but merely states that Eupolis and Aristophanes were becoming prominent, not when they debuted. Syncellus extends the phrase to include [[Sophocles]].{{sfnp|Storey|2003|pp=54–56}} Sophocles had actually become the pre-eminent playwright in Athens c. 456 BC, when [[Aeschylus]] died.{{sfnp|Sommerstein|2002|p=41}}
+
+Based on the primary sources above, modern historians conclude that Eupolis debuted in the 420s BC, probably in 429 BC. His first production was probably at the [[Lenaia]], the lesser theatrical festival of his time. The Lenaia are thought to have allowed novices to compete, so they could prove themselves before presenting plays at the [[Dionysia]] festival. His first known play was either ''Prospaltioi'' or ''Heilotes''.{{sfnp|Storey|2003|pp=54–56}} Surviving fragments from the ''Prospaltioi'' include allusions to, and near-quotations of, [[Sophocles]]' ''[[Antigone (Sophocles)|Antigone]]'' (442 BC).{{sfnp|Taplin|1994|pp=87-88}} Scholars are convinced the play targeted [[Pericles]],{{sfnp|Storey|2003|p=231}} due to a famous reference to [[Aspasia]]. This makes it likely that Pericles, who died in 429 BC, was still alive when Eupolis was working on the text.{{sfnp|Storey|2003|p=263}}
+
+The [[Suda]] claims Eupolis was only 17 years old when he started his career. (This would place his birth c. 447–446 BC.) Sources also claim Aristophanes and [[Menander]] were adolescents ([[Ephebos|epheboi]]) at the start of their own careers. This suggests a tradition concerning the precociousness of poets.{{sfnp|Storey|2003|pp=54–56}}
+
+Although he was at first on good terms with Aristophanes, their relations subsequently became strained, and they accused each other, in most virulent terms, of imitation and [[plagiarism]].{{sfnp|Chisholm|1911}}{{efn|[[Aristophanes]]}}, in the [[parabasis]] of his play ''[[The Clouds]]'', publicly accused Eupolis' play ''Maricas'' to be a plagiarism of fellow comic [[Phrynichus (comic poet)|Phrynichus]] and his own ''[[The Knights|Knights]]'':
+<blockquote>Eupolis, indeed, first of all craftily introduced his ''Maricas'', / having basely, base fellow, spoiled by altering my play of the ''Knights'', / having added to it, for the sake of the cordax, a drunken old woman, whom / Phrynichus long ago poetized, whom the whale was for devouring. —(Chorus [leader], in ''The Clouds'', line 553–556, transl. William James Hickie, 1871)</blockquote>
+
+==Works==
+Eupolis obtained first prize seven times, but only fragments remain of the 19 titles attributed to him. Of these, the best known are: 
+* ''Kolakes'' ("Flatterers"), in which he pilloried the spendthrift [[Callias III|Callias]], who wasted his money on sophists and parasites.  This play won first prize in the City Dionysia of 421 BC, defeating Aristophanes' ''[[Peace (play)|Peace]]''.<ref>''[[Peace (play)|Peace]]'', introduction</ref>
+* ''Maricas'', an attack on [[Hyperbolus]], the successor of [[Cleon]], under a fictitious name.
+* ''Baptai'' ("Dippers," Latinization: Baptae),{{sfnp|Storey|2003|pp=56–57}} against [[Alcibiades]] and his groups, at which profligate foreign rites were practised.  The word ''Baptai'' was a name given to the priests of the Thracian goddess [[Kotys (Thracian goddess)#Daco-Thracian|Cotytto]].
+* ''Demoi'' ("[[Deme]]s") and ''Poleis'' ("Cities") were political plays, dealing with the desperate condition of the state and with the allied (or tributary) cities.
+
+Other people he attacked in his plays were [[Socrates]], [[Cimon]], and [[Cleon]].  The following 14 titles (with associated fragments) are also ascribed to Eupolis:
+{|
+|
+* ''Aiges'' ("Goats")
+* ''Astrateutoi'' ("People Exempt From Military Service"), or ''Androgynai'' ("Hermaphrodites")
+* ''Autolykos'' ("Autolycus", two versions)
+* ''Diaiton'' ("Arbiter")
+* ''Dias'' ("Dias")
+* ''Heilotes'' ("[[Helots]]")
+* ''Klopai'' ("Thefts")
+|
+* ''Lakones'' ("Laconians")
+* ''Noumeniai'' ("New-Moon Festival"), which won third prize at the Lenaea of 425 BC.<ref>''[[Acharnians]]'', introduction</ref>
+* ''Prospaltioi'' ("Men From [[Prospalta (Attica)|Prospalta]]")
+* ''Taxiarchoi'' ("Brigadiers")
+* ''Hybristodikai'' ("Abusers of Justice")
+* ''Philoi'' ("Friends")
+* ''Chrysoun Genos'' ("The Golden Race (or Species)")
+|
+|}
+
+Storey estimates a total output of 14 or 15 works for Eupolis, noting the doubtful paternity of some of the works attributed to the poet. He considers his career to have lasted from 429 to 411 BC, a period of 18 years.{{sfnp|Storey|2003|p=5}}
+
+==Death and burial==
+Ian Storey notes that there are "four ancient traditions" on the manner of death and burial of Eupolis, each with details impossible to reconcile to each other. The first tradition is "the well-known story" concerning [[Alcibiades]]. Eupolis targeted that politician in his play ''Baptai'', but then found himself serving under Alcibiades in the [[Sicilian Expedition]]. Alcibiades retaliated by having the poet drowned on the way to [[Sicily]]. This would place Eupolis' death in "the late spring or early summer" of 415 BC.{{sfnp|Storey|2003|pp=56–57}} The story, with small variations, can be found in the writings of [[Juvenal]], [[Aelius Aristides]], [[Themistius]], Platonios, [[John Tzetzes]] and the Anonymus Crameri. The latter two add two new details. First, that Eupolis made fun of Alcibiades' [[Rhotacism (speech impediment)|rhotacism]]. Second, that soldiers dunked the poet repeatedly in the sea, making it unclear if the poet drowned or survived the experience.{{sfnp|Storey|2003|p=58}} The story was reported in several ancient sources, but it also had its detractors. [[Eratosthenes]] pointed out that there were works by Eupolis which were produced following the Sicilian Expedition. [[Cicero]] quoted Eratosthenes and considered him a reliable source on the matter.{{sfnp|Storey|2003|pp=56–57}}
+
+The second tradition is recorded by [[Pausanias (geographer)|Pausanias the geographer]]. He reported that Eupolis was buried away from Athens, his tomb being located in the vicinity of [[Sicyon]] and the river [[Asopus]].{{sfnp|Storey|2003|pp=56–57}} Pausanias never explains the reason for a burial away from home. But it might point to Eupolis having a family connection with Sicyon. Storey notes that there was one Athenian family with known connections to this city: the [[Alcmaeonidae]].{{sfnp|Storey|2003|p=57}}
+
+The third tradition is recorded by [[Claudius Aelianus]]. He first narrates a tale concerning Augeas, a [[Molossus (dog)|Molossus dog]] owned by Eupolis, and how it protected the property of its master from a thief. He then mentions that Eupolis eventually died and was buried in [[Aegina]]. Augeas maintained constant vigil and lamented over the grave of its master until passing away himself. The location was reportedly named "Dog's Lament" (Ancient Greek: {{lang|grc|Κυνὸς Θρῆνος}}) following that event.{{sfnp|Storey|2003|pp=56–57}} Modern scholars have pointed out that this account follows a familiar pattern in ancient literary biography of adding in a tale concerning a faithful dog and how its presence benefited its master (the said master invariably being the subject of the biography). Storey suggests that the story may have started as a tale mentioned in comedy. Then later writers might have mistaken it for a historical account. He finds more intriguing the connection of Eupolis with Aegina. Verses 652-655 of "[[The Acharnians]]" imply that [[Aristophanes]] was also connected with this island.{{sfnp|Storey|2003|p=57}}
+
+The fourth tradition can be found in the [[Suda]]. It claims Eupolis was one of the casualties from the [[Peloponnesian War]], dying "in a shipwreck" within the Hellespont (the [[Dardanelles]]). The source for the information is not given. Neither is the death associated with any particular naval battle. Storey notes that the death might be connected to either of three major battles in the region: the [[Battle of Cynossema]] (411 BC), the [[Battle of Arginusae]] (406 BC) or the [[Battle of Aegospotami]] (405 BC).{{sfnp|Storey|2003|pp=56–57}}
+
+==Reputation==
+[[Horace]] listed Eupolis, [[Cratinus]], and [[Aristophanes]] (in that order) as the most prominent writers of [[Old Comedy]], noting how they would "single out" the immoral in their comedies.<ref>Horace, ''Sermones" 1.4.1ff</ref> [[Persius]] addressed his works to those inspired by "bold Cratinus", "angry Eupolis", and "the grand old man" (Aristophanes). The Saturnalia by [[Macrobius]] mentions: "Everyone knows Eupolis, who must be considered among the elegant poets of Old Comedy."{{sfnp|Storey|2003|pp=1–2}}
+
+Eupolis combined a lively and fertile imagination with sound practical judgment. He was reputed to equal Aristophanes in the elegance and purity of his diction, and Cratinus in his command of irony and sarcasm.
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Sources==
+* Braun, Thomas. (2000). The Choice of Dead Politicians in Eupolis's ''Demoi'': Themistocles' Exile, Hero-cult and Delayed Rehabilitation, Pericles and the Origins of the Peloponnesian War. In ''The Rivals of Aristophanes: Studies in Athenian Old Comedy.'' Edited by David Harvey and John Wilkins, 191–231. London: Duckworth and the Classical Press of Wales.
+* Lozanova, Vanya. (1996). "Eupolis' Comedy ''Baptai'' and Some Religious Aspects of the Policy of Alcibiades." In ''New Studies on the Black Sea Littoral.'' Edited by Gocha R. Tsetskhladze, 31–40. Colloquia Pontica 1. Oxford: Oxbow.
+* Marshall, Christopher W., and George A. Kovacs, eds. (2012). ''No Laughing Matter: Studies in Athenian Comedy.'' London: Bloomsbury.
+* Nesselrath, Hans-Günther. (2000). "Eupolis and the Periodization of Athenian Comedy." In ''The Rivals of Aristophanes: Studies in Athenian Old Comedy.'' Edited by David Harvey and John Wilkins, 233–246. London: Duckworth and the Classical Press of Wales.
+* Parker, Letitia P. E. (1988). Eupolis the Unruly. ''Proceedings of the Cambridge Philological Society'' 34:115–122.
+* Rosen, Ralph M. (1998). "The Gendered Polis in Eupolis' ''Cities.''" In ''The City as Comedy. Society and Representation in Athenian Drama.'' Edited by Gregory Dobrov.   Chapel Hill:  University of North Carolina Press. 
+* Ruffell, Ian A. (2000). "The World Turned Upside Down: Utopia and Utopianism in the Fragments of Old Comedy." In ''The Rivals of Aristophanes: Studies in Athenian Old Comedy.'' Edited by David Harvey and John Wilkins, 473-506. London: Duckworth and the Classical Press of Wales. 
+* Sidwell, Keith. (1993). "Authorial Collaboration? Aristophanes' Knights and Eupolis." ''Greek, Roman and Byzantine Studies'' 34.4: 365-389.
+* {{citation|last=Sommerstein|first=Alan Herbert|year=2002|title=Greek Drama and Dramatists|publisher=Routledge|isbn=0-415-26027-2}}
+* {{citation|last=Storey|first=Ian Christopher|title=Eupolis: Poet of Old Comedy|year=2003|publisher=Oxford University Press|isbn=978-0-19-925992-2|url=https://books.google.com/books?id=-D6BPGiE89oC}}
+* {{citation|last=Taplin|first=Oliver|title=Comic Angels: And Other Approaches to Greek Drama Through Vase-Paintings|year=1994|publisher=Oxford University Press|isbn=978-0-19-815000-8|url=https://books.google.com/books?id=QUtg0HptJfAC}}
+* Wright, Matthew. (2007). "Comedy and the Trojan War." ''The Classical Quarterly'', 57(2), 412-431.
+* {{EB1911|wstitle=Eupolis|volume=9|page=900}}
+* Zimmermann, Bernhard. (2000). "Lyric in the Fragments of Old Comedy." In ''The Rivals of Aristophanes: Studies in Athenian Old Comedy.'' Edited by David Harvey and John Wilkins, 273-284. London: Duckworth and the Classical Press of Wales.
+
+==External links==
+{{wikisource author}}
+{{commons category-inline}}
+* [http://www.attalus.org/poetry/eupolis.html English translation of Eupolis, ''The Demes''] : [[Denys Page]], ''Select Papyri III: Literary Papyri'', 1941, at ''attalus.org''
+* {{in lang|el|la}} [https://books.google.com/books?id=WvQCAAAAMAAJ&pg=PA158 444 fragments of Eupolis (Ancient Greek text, Latin commentary)] : [[Augustus Meineke]], ''Fragmenta comicorum graecorum'', editio minor, 1847, t. I, p.&nbsp;158 to 228, at [[Google Books]]
+* {{in lang|el|la}} [https://books.google.it/books?id=zS_qpM0g6eUC?pg=PA81 ''Pherecratis et Eupolidis fragmenta''. Collegit et adnotationem adiecit Martinus Runkelius], Lipsiae, Libraria Weidmannia G. Reimer, 1829, p.&nbsp;81 to 178, at Google Books
+
+{{Authority control}}
+
+[[Category:440s BC births]]
+[[Category:410s BC deaths]]
+[[Category:5th-century BC Athenians]]
+[[Category:Ancient Greek dramatists and playwrights]]
+[[Category:Old Comic poets]]
+[[Category:5th-century BC writers]]

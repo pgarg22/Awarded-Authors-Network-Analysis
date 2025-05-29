@@ -1,0 +1,90 @@
+{{Short description|German writer}}
+{{Use mdy dates|date=May 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Hans Bemman
+| image       = Hans Bemmann Fritz Berger pinx.jpg
+| caption     = ''Hans Bemman Portrait''
+| birth_date = {{birth date|1922|4|27|mf=y}}
+| birth_place = [[Groitzsch]] near [[Leipzig]], Germany
+| death_date  = {{death date and age|2003|4|1|1922|4|27|}}
+| death_place = [[Bonn]], Germany
+| occupation  =
+| notableworks =
+| genre       = 
+| influences  =
+| influenced  = 
+| networth    =
+| website =
+}}
+
+'''Hans Bemmann''' (April 27, 1922 in [[Groitzsch]] near [[Leipzig]] – April 1, 2003 in [[Bonn]]) was a German writer.
+
+Hans Bemmann studied [[German Studies|German language and literature]] and [[musicology]] in [[Innsbruck]]. He worked as an editor at the Austrian ''Borromäuswerk'', an association of [[Roman Catholic Church|Catholic]] libraries,<ref>{{cite web
+| last =
+| first =
+| title =Borromäuswerk, Österreichisches
+| publisher =Encyclopedia of Austria
+| year=
+| url =http://aeiou.iicm.tugraz.at/aeiou.encyclop.b/b654661.htm;internal&action=_setlanguage.action?LANGUAGE=en
+| access-date = 2008-09-27 }}
+</ref> from 1954 and continued to work in this function in Bonn from 1956 to 1987. Between 1971 and 1983 he gave lectures in German studies at the ''Pädagogische Hochschule Bonn''. He also worked as a lecturer at the ''Bonner Bibliothekar-Lehrinstitut'' until 1993. In the 1960s he used the pen name Hans Martinson for his publications.
+
+== Work ==
+Hans Bemmann's literary breakthrough was the [[fairytale fantasy]] novel ''The Stone and the Flute'', published in 1983, which tells the adventures of a young man called ''Listener'' in an idyllic [[fairy tale|fairytale]] world. A magic stone and a magic flute are meant to show him the way to happiness, but because of his lack of knowledge of human nature and his naiveté he abuses his power and makes fateful choices. Fantastic encounters and many hardships give him new perspectives and deep insights into the human condition. The story of ''Listener'''s life is interwoven with his love story.
+
+Bemmann's next book, ''Erwins Badezimmer'' (Erwin's bathroom), an [[epistolary novel]], shows the reader a dictatorship that controls its population by systematically simplifying its language. The good-natured linguist ''Albert S.'' accidentally stumbles upon an underground movement, that is directed by ''Erwin'' from an illegal [[microform]] library in this bathroom. ''Albert'' finds the love of his life and learns to see the world from a new point of view based on the ambiguous use of language. The idea of manipulation by systematic use of language is also present in [[George Orwell]]'s [[dystopia]] ''[[Nineteen Eighty-Four|1984]]''.
+
+''Stern der Brüder'' (star of the brothers) is also set in the modern world and describes the lives of two brothers in a society lurching towards a dictatorship. A musician and a geologist, they choose opposing sides of the political spectrum, only to meet again at the end of the novel.
+
+''The Broken Goddess'' follows a fairytale researcher on a journey from reality into a fairytale world. A special encounter leads him there to search for, court and in the end find an enchanting woman. The novel mixes reality and fairytale and leaves the hero with a warmer and less mechanical view of the world.
+
+''Die Gärten der Löwin'' (the gardens of the lioness) can be read as a novel on its own, but is also a sequel to ''The Broken Goddess'', in which the heroine relates her story. This book differs from its prequel in syntax and choice of language, enabling the author to paint a different emotional world.
+
+The third part in this series is ''Massimo Battisti''. Here many obscurities are resolved in the person of the mage ''Massimo Battisti''.
+
+== Bibliography ==
+
+* ''Jäger im Park'' (hunter in the park). Narrative. (1961) – under the pen name Hans Martinson
+* ''Lästiger Besuch'' (annoying visit). Novel. (1963) – under the pen name Hans Martinson
+* ''Der klerikale Witz'' (the clerical joke) (1970) – editor
+* ''The Stone and the Flute'' (''Stein und Flöte, und das ist noch nicht alles''). A fairytale novel. (1983, translated 1988 by [[Anthea Bell]]<ref>{{cite book
+| title =The Stone and the Flute
+| year=1987
+| isbn =0140074457
+| last1 =Bemmann
+| first1 =Hans
+}}
+</ref>)
+* ''Erwins Badezimmer, oder die Gefährlichkeit der Sprache'' (Erwin's bathroom or the danger of language). (1984)
+* ''Stern der Brüder'' (star of the brothers). (1986)
+* Trilogy ''Die Verzauberten'' (the enchanted)
+** ''The Broken Goddess'' (''Die beschädigte Göttin''). (1990, translated 1995 by Anthea Bell<ref>{{cite book
+| title =The Broken Goddess (Roc Fantasy)
+| year=1995
+| isbn =0451454871
+| last1 =Bemmann
+| first1 =Hans
+}}
+</ref>)
+** ''Die Gärten der Löwin'' (the gardens of the lioness). (1993)
+** ''Massimo Battisti – Von einem, der das Zaubern lernen wollte'' (Massimo Battisti – about one who wanted to learn to do magic). (1998)
+
+== Awards ==
+In 2002 Hans Bemmann was awarded the [[Rheinischer Literaturpreis Siegburg]].
+
+==Footnotes==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20110718201027/http://www.ava-international.de/autoren/hbemmann_en.php AVA-Autorenrubrik Hans Bemmann]
+* {{DNB portal|122308050|TYP=}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bemmann, Hans}}
+[[Category:1922 births]]
+[[Category:2003 deaths]]
+[[Category:People from Groitzsch]]
+[[Category:German fantasy writers]]
+[[Category:German male writers]]
+[[Category:Writers from Saxony]]

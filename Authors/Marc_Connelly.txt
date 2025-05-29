@@ -1,0 +1,83 @@
+{{Short description|American playwright (1890–1980)}}
+{{about|the American playwright|the British historian|Mark Connelly}}
+{{Use mdy dates|date=January 2020}}
+{{Infobox writer
+| name             = Marc Connelly
+| image            = Marcconnelly.jpg
+| caption          = photographed by [[Carl Van Vechten]], 1937
+| birth_name       = Marcus Cook Connelly
+| birth_date       = {{birth date|1890|12|13}}
+| birth_place      = [[McKeesport, Pennsylvania]], US
+| death_date       = {{death date and age|1980|12|21|1890|12|12}}
+| death_place      = New York City, US
+| spouse           = [[Madeline Hurlock]] (m.1930–div.1935)
+| awards           = [[Pulitzer Prize for Drama]] (1930)
+}}
+
+'''Marcus Cook Connelly''' (December 13, 1890 – December 21, 1980) was an American playwright, director, producer, performer, and lyricist. He was a key member of the [[Algonquin Round Table]], and received the [[Pulitzer Prize for Drama]] in 1930.
+
+==Biography==
+Connelly was born to actor and hotelier Patrick Joseph Connelly and actress Mabel Louise Cook in [[McKeesport, Pennsylvania]]. He began writing plays at the age of five, and would later become a journalist for the ''[[Pittsburgh Sun-Telegraph]]'' until he moved to New York City. In 1919 he joined the [[Algonquin Round Table]].
+
+Connelly had contributed to several Broadway musicals before teaming up with his most important collaborator, [[George S. Kaufman]], in 1921.  During their four-year partnership, they wrote five comedies – ''[[Dulcy (play)|Dulcy]]'' (1921), ''[[To the Ladies]]'' (1922), ''[[Merton of the Movies (play)|Merton of the Movies]]'' (1922), ''The Deep Tangled Wildwood'' (1923) and ''[[Beggar on Horseback]]'' (1924) – and also co-directed and contributed sketches to the 1922 revue ''The '49ers'', collaborated on the book to the musical comedy ''Helen of Troy, New York'' (1923), and wrote both the book and lyrics for another musical comedy, ''Be Yourself'' (1924).
+
+Connelly received the [[Pulitzer Prize for Drama]] for ''[[The Green Pastures]]'' in 1930. The play, a re-telling of episodes from the [[Old Testament]], was a landmark in American drama; boasting the first all-black [[Broadway theatre|Broadway]] cast.  He contributed verse and articles to ''[[Life (magazine)|Life]]'', ''Everybody's'', and other magazines.
+
+Connelly was one of the wittiest members of the [[Algonquin Round Table]]. He said, "I always knew children were anti-social. But the children of the West Side – they're savage."
+
+Connelly was a drama teacher at [[Yale University]] from 1946 to 1950.<ref>https://www.britannica.com/biography/Marc-Connelly</ref> In 1968, Connelly published his memoirs, ''Voices Offstage''. Over the years, Connelly appeared as an actor in 21 movies, including ''[[The Spirit of St. Louis (film)|The Spirit of St. Louis]]'' (1957) with [[James Stewart]].
+
+A film about the Round Table members, ''[[The Ten-Year Lunch]]'' (1987), won the [[Academy Award for Best Documentary Feature]] and featured Connelly, who was the last survivor. The 1994 film ''[[Mrs. Parker and the Vicious Circle]]'', a fictional account of the group, featured actor [[Matt Malloy]] as Connelly.
+
+==Filmography==
+{| class="wikitable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+|1920|| ''The Sleep of Cyma Roget'' || Minor Role ||
+|-
+|1957|| ''[[The Spirit of St. Louis (film)|The Spirit of St. Louis]]'' || Father Hussman ||
+|-
+|1960|| ''[[Tall Story]]'' || Prof. Charles Osman ||
+|}
+
+==References==
+{{Reflist}}
+* {{cite web | author=Dennis Rodgers, Jr.  | title=Author Biographies: Marc Connelly | url=https://secureapps.libraries.psu.edu/PACFTB/bios/biography.cfm?AuthorID=1307 | publisher=Pennsylvania Center for the Book | year=2008 | access-date=December 15, 2008}}
+* {{cite news | author=Alden Whitman | title=Marc Connelly, playwright, Dies | url=https://www.nytimes.com/1980/12/22/archives/marc-connelly-playwright-dies-won-fame-with-green-pastures-marc.html | work=The New York Times | pages=A1| date=December 22, 1980 | access-date=December 12, 2008}}
+
+==External links==
+* {{Internet Archive author |sname=Marc Connelly}}
+* {{IBDB name}}
+* {{IMDb name|175091}}
+*[http://www.dorothyparker.com/walk.html Algonquin Round Table Walking Tours]
+*[http://www.algonquinhotel.com/round-table Algonquin Round Table page at the Algonquin Hotel's web site]
+*[http://www.davidpietrusza.com/Algonquin-Circle-Links.html Algonquin Circle Links]
+*[https://web.archive.org/web/20120304032938/http://www.stephenwilde.tv/ Stephen Wilde Official Website]
+
+{{PulitzerPrize DramaAuthors 1926-1950}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Connelly, Marc}}
+[[Category:1890 births]]
+[[Category:1980 deaths]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:People from McKeesport, Pennsylvania]]
+[[Category:Writers from Pennsylvania]]
+[[Category:Writers from New York City]]
+[[Category:Pulitzer Prize for Drama winners]]
+[[Category:American male journalists]]
+[[Category:American male dramatists and playwrights]]
+[[Category:20th-century American male actors]]
+[[Category:American male film actors]]
+[[Category:American male television actors]]
+[[Category:The New Yorker people]]
+[[Category:Journalists from Pennsylvania]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American journalists]]
+[[Category:Algonquin Round Table]]

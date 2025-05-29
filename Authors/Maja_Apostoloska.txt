@@ -1,0 +1,64 @@
+{{Infobox artist
+| honorific_prefix = 
+| name             = Maja Apostoloska
+| honorific_suffix = 
+| image            = <!-- just the pagename, without the File:/Image: prefix or [[brackets]] -->
+| image_size       = 
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| birth_name       = <!--only use if different from name-->
+| birth_date       = 7 December 1976
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} --> 
+| death_place      =
+| resting_place    = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality      = North Macedonia
+| education        = B.A. in [[Comparative Literature]] from the "Blaže Koneski" Faculty of Philology
+| alma_mater       = 
+| known_for        = [[North Macedonia|Macedonian]] poet, essayist and literary critic
+| notable_works    = 
+* "Именувањето" (''Naming''; poetry). Skopje: Dom na kultura 'Kočo Racin', 2009. 
+* "Зад текстовите" (''Behind the Texts''; literary criticism, essays and studies). Skopje: Makedonska reč, 2007. 
+* "Прекин на комуникацијата" (''Communication Breakdown''; poetry). Skopje: Bata press, 2004.
+* "Заиграј, веќе, мастилаво!" (''Play at Last, Inky!''; poetry). Skopje: Zumpres, 2000. 
+| style            = 
+| movement         = 
+| spouse           = 
+| awards           = <!-- {{awd|award|year|title|role|name}} (optional) -->
+| elected          = 
+| patrons          = 
+| memorials        = 
+| website          = <!-- {{URL|Example.com}} -->
+| module           =
+}}
+
+'''Maja Apostoloska''' ({{lang-mk|Маја Апостолоска}}; born 7 December 1976) is a [[North Macedonia|Macedonian]] poet, essayist and literary critic. She holds a B.A. in [[Comparative Literature]] from the "Blaže Koneski" Faculty of Philology in Skopje, where she is currently attending Macedonian language postgraduate studies. She is an editor of literary magazine "Kniževno žitie".
+
+==Books==
+* "Именувањето" (''Naming''; poetry). Skopje: Dom na kultura 'Kočo Racin', 2009. 43 p.&nbsp;{{ISBN|978-9989-2835-1-2}}
+* "Зад текстовите" (''Behind the Texts''; literary criticism, essays and studies). Skopje: Makedonska reč, 2007. 165 p.&nbsp;{{ISBN|978-9989-163-44-9}}
+* "Прекин на комуникацијата" (''Communication Breakdown''; poetry). Skopje: Bata press, 2004. 48 p.&nbsp;{{ISBN|9989-819-25-4}}
+* "Заиграј, веќе, мастилаво!" (''Play at Last, Inky!''; poetry). Skopje: Zumpres, 2000. 48 p.&nbsp;{{ISBN|9989-42-087-4}}
+
+==Other literary works==
+Together with [[Jovica Tasevski-Eternijan]], she has edited a selection of contemporary Macedonian poetry containing Biblical, religious and apocryphal elements, which was published as a thematic issue of the "Stremež" magazine (No. 11-12, 2000).
+
+==References==
+* [http://www.blesok.com.mk/avtor.asp?lang=eng&id=743 Blesok: Maja Apostoloska]
+* [https://web.archive.org/web/20071126055238/http://www.culture.in.mk/story.asp?id=22162&rub=39 www.culture.in.mk: New book by Maja Apostoloska]
+* [https://web.archive.org/web/20110727035010/http://www.culture.in.mk/story.asp?id=30641&rub=58 www.culture.in.mk: Maja Apostoloska awarded with Beli Mugri]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Apostoloska, Maja}}
+[[Category:Macedonian poets]]
+[[Category:Macedonian women poets]]
+[[Category:1976 births]]
+[[Category:Living people|Apostoloska Maja]]
+[[Category:20th-century Macedonian poets]]
+[[Category:21st-century Macedonian poets]]
+
+
+{{NorthMacedonia-writer-stub}}

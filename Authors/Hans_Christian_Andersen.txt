@@ -1,0 +1,462 @@
+{{Short description|Danish author, fairy tale writer, and poet}}
+{{other uses}}
+{{Use dmy dates|date=March 2021}}
+{{Use British English|date=June 2021}}
+
+{{Infobox writer
+| name             = Hans Christian Andersen
+| embed            = 
+| honorific_prefix = 
+| honorific_suffix = 
+| image            = HCA by Thora Hallager 1869.jpg
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = Andersen in 1869
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = {{Birth date|1805|4|2|df=y}}
+| birth_place      = [[Odense, Funen]], [[Denmark–Norway|Kingdom of Denmark–Norway]]
+| death_date       = {{Death date and age|1875|8|4|1805|4|2|df=y}}
+| death_place      = [[Østerbro, Copenhagen]] (København), Denmark
+| resting_place    = [[Assistens Cemetery (Copenhagen)|Assistens Cemetery]], [[Copenhagen]] (København)
+| occupation       = Writer
+| language         = Danish 
+| citizenship      = 
+| education        = 
+| alma_mater       = 
+| period           = [[Danish Golden Age]]
+| genres           = [[Children's literature]], [[travel literature|travelogue]]
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notableworks     = "[[The Little Mermaid]]"<br />"[[The Ugly Duckling]]"<br />""[[The Snow Queen]]"<br />"[[The Emperor's New Clothes]]"<br />"[[The Little Match Girl]]"
+| partner          = <!-- or: | partners         = -->
+| awards           = 
+| signature        = Hans Christian Andersen Signature.svg
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = {{URL|andersen.sdu.dk|Hans Christian Andersen Centre}}
+| portaldisp       = <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''Hans Christian Andersen''' ({{IPAc-en|ˈ|æ|n|d|ər|s|ən}}, {{IPA-da|ˈhænˀs ˈkʰʁestjæn ˈɑnɐsn̩|lang|Da-Hans_Christian_Andersen.ogg}}; 2 April 1805&nbsp;– 4 August 1875) was a Danish author. Although a prolific writer of plays, [[travelogue (literature)|travelogue]]s, novels, and poems, he is best remembered for his [[fairy tales]].
+
+Andersen's fairy tales, consisting of 156 stories across nine volumes<ref>{{Cite web|url=https://andersen.sdu.dk/vaerk/register/eventyr_e.html|title=Hans Christian Andersen : Fairy tales|website=andersen.sdu.dk}}</ref> and translated into more than 125 languages,<ref name=cphpost>{{cite news|last=Wenande |first=Christian |title=Unknown Hans Christian Andersen fairy tale discovered |url=http://cphpost.dk/news/international/unknown-hans-christian-andersen-fairy-tale-discovered |access-date=15 December 2012 |newspaper=The Copenhagen Post |date=13 December 2012 |url-status=dead |archive-url=https://web.archive.org/web/20121214223500/http://cphpost.dk/news/international/unknown-hans-christian-andersen-fairy-tale-discovered |archive-date=14 December 2012 }}</ref> have become culturally embedded in the West's [[collective consciousness]], readily accessible to children, but presenting lessons of virtue and resilience in the face of adversity for mature readers as well.<ref name="Wullschläger 2002">{{harvnb|Wullschläger|2002}}</ref> His most famous fairy tales include "[[The Emperor's New Clothes]]," "[[The Little Mermaid]]," "[[The Nightingale (fairy tale)|The Nightingale]]," "[[The Steadfast Tin Soldier]]", "[[The Red Shoes (fairy tale)|The Red Shoes]]", "[[The Princess and the Pea]]," "[[The Snow Queen]]," "[[The Ugly Duckling]]," "[[The Little Match Girl]]," and "[[Thumbelina]]." His stories have inspired ballets, plays, and animated and live-action films.<ref name="Bredsdorff 1975">{{harvnb|Bredsdorff|1975}}</ref> One of [[Copenhagen]]'s widest and busiest boulevards, skirting [[City Hall Square, Copenhagen|Copenhagen City Hall Square]] at the corner of which Andersen's larger-than-life bronze statue sits, is named "[[H. C. Andersens Boulevard]]."<ref>Google Maps, by City Hall Square (Rådhuspladsen), continues eastbound as the bridge "Langebro"</ref>
+
+==Early life==
+
+{{Quote box |width=25em |quote="It doesn't matter about being born in a duckyard, as long as you are hatched from a swan's egg"|source="[[The Ugly Duckling]]"}}
+Hans Christian Andersen was born in [[Odense]], Denmark on 2 April 1805. He had a stepsister named Karen.<ref>{{cite web|url=https://andersen.sdu.dk/liv/biografi/familie_e.html|website=SDU Hans Christian Andersen Centret|title=Life|access-date=June 10, 2021}}</ref> His father, also named Hans, considered himself related to nobility (his paternal grandmother had told his father that their family had belonged to a higher social class,<ref name="Rossel 1996 6">{{harvnb|Rossel|1996|p=6}}</ref> but investigations have disproved these stories).<ref name="Rossel 1996 6"/><ref>{{cite web |last=Askgaard |first=Ejnar Stig |title=The Lineage of Hans Christian Andersen |publisher=Odense City Museums |url=http://museum.odense.dk/knowledge/knowledge-hans-christian-andersen/publications-on-hca-/the-lineage-of-hca.aspx |archive-url=https://web.archive.org/web/20120504132508/http://www.museum.odense.dk/knowledge/knowledge-hans-christian-andersen/publications-on-hca-/the-lineage-of-hca.aspx |archive-date=4 May 2012}}</ref> Although it has been challenged<ref name="Rossel 1996 6"/>, a persistent speculation suggests that Andersen was an illegitimate son of King [[Christian VIII of Denmark|Christian VIII]].  Danish historian Jens Jørgensen supported this idea in his book ''H.C. Andersen, en sand myte'' [a true myth]<ref>H.C. Andersen, en sand myte, Hovedland (January 1, 1987)</ref>.
+
+Hans Christian Andersen was baptised on 15 April 1805 in [[Saint Hans Church]] (St John's Church) in [[Odense]], Denmark. His certificate of birth was not drafted until November 1823, according to which six Godparents were present at the baptising ceremony: Madam Sille Marie Breineberg, Maiden Friederiche Pommer, shoemaker Peder Waltersdorff, journeyman carpenter Anders Jørgensen, Hospital portner Nicolas Gomard, and Royal Hatter Jens Henrichsen Dorch.
+
+Andersen's father, who had received an elementary school education, introduced his son to literature, reading to him the ''[[Arabian Nights]]''.<ref name=Rossel>{{harvnb|Rossel|1996|p=7}}</ref> Andersen's mother, Anne Marie Andersdatter, was an illiterate washerwoman. Following her husband's death in 1816, she remarried in 1818.<ref name=Rossel /> Andersen was sent to a local school for poor children where he received a basic education and had to support himself, working as an [[apprentice]] to a weaver and, later, to a tailor. At fourteen, he moved to [[Copenhagen]] to seek employment as an actor. Having an excellent soprano voice, he was accepted into the [[Royal Danish Theatre]], but his voice soon changed. A colleague at the theatre told him that he considered Andersen a poet. Taking the suggestion seriously, Andersen began to focus on writing.
+
+[[File:H.C. Andersens Barndomshjemmet2.JPG|thumb|left|Andersen's childhood home in Odense]]
+[[Jonas Collin]], director of the Royal Danish Theatre, held great affection for Andersen and sent him to a [[grammar school]] in [[Slagelse]], persuading [[Frederick VI of Denmark|King Frederick VI]] to pay part of the youth's education.<ref>[http://www.danishnet.com/info.php/cultural/hans-christian-andersen-281.html Hans Christian Andersen - Childhood and Education]. Danishnet.</ref> Andersen had by then published his first story, "The Ghost at Palnatoke's Grave" (1822). Though not a stellar pupil, he also attended school at [[Helsingør|Elsinore]] until 1827.<ref>{{cite web|url=http://www.hcandersen-homepage.dk/?page_id=3257 |title=H.C. Andersens skolegang i Helsingør Latinskole |publisher=Hcandersen-homepage.dk |access-date=2 April 2010}}</ref>
+
+He later said that his years at this school were the darkest and most bitter years of his life. At one particular school, he lived at his schoolmaster's home. There he was abused and was told that it was done in order "to improve his character". He later said that the dogs had discouraged him from writing, which then resulted in a depression.{{sfn|Wullschläger|2002|p=56}}
+
+{{Clear|left}}
+
+==Career==
+[[File:Hans Christian Andersen - The Shepherdess and the Chimney Sweep - silhouette.jpg|upright|thumb|right|Paper chimney sweep [[Scherenschnitte|cut]] by Andersen]]
+
+===Early work===
+A very early fairy tale by Andersen, "[[The Tallow Candle]]" ({{lang-da|Tællelyset}}), was discovered in a Danish archive in October 2012. The story, written in the 1820s, is about a candle that did not feel appreciated. It was written while Andersen was still in school and dedicated to one of his benefactors. The story remained in that family's possession until it turned up among other family papers in a local archive.<ref>{{cite web|title=Local historian finds Hans Christian Andersen's first fairy tale|url=http://politiken.dk/newsinenglish/ECE1841147/local-historian-finds-hans-christian-andersens-first-fairy-tale/|publisher=Politiken.dk|access-date=2 June 2013}}</ref>
+
+In 1829, Andersen enjoyed considerable success with the short story "A Journey on Foot from Holmen's Canal to the East Point of Amager." Its protagonist meets characters ranging from [[Saint Peter]] to a talking cat. Andersen followed this success with a theatrical piece, ''Love on St. Nicholas Church Tower'', and a short volume of poems. He made little progress in writing and publishing immediately following the issue of these poems but he did receive a small travel grant from the king in 1833. This enabled him to set out on the first of many journeys throughout Europe. At [[Canton of Jura|Jura]], near [[Le Locle]], Switzerland, Andersen wrote the story "Agnete and the Merman". The same year he spent an evening in the Italian seaside village of [[Sestri Levante]], the place which inspired the title of "The Bay of Fables".<ref>{{cite web|url=http://andersenfestival.it |title=Andersen Festival, Sestri Levante|publisher=Andersen Festival|access-date=2 June 2013}}</ref> He arrived in [[Rome]] in October 1834. Andersen's travels in Italy were reflected in his first novel, a fictionalized autobiography titled ''[[The Improvisatore]]'' ({{lang|da|Improvisatoren}}), published in 1835 to instant acclaim.<ref name="Murray2013">{{cite book|author=Christopher John Murray|title=Encyclopedia of the Romantic Era, 1760-1850|url=https://books.google.com/books?id=8GS8DWMLRYEC&pg=PA20|date=13 May 2013|publisher=[[Routledge]]|isbn=978-1-135-45579-8|page=20}}</ref><ref name="Sjåvik2006">{{cite book|author=Jan Sjåvik|title=Historical Dictionary of Scandinavian Literature and Theater|url=https://books.google.com/books?id=tCBpiKsi7a0C&pg=RA1-PA8|date=19 April 2006|publisher=Scarecrow Press|isbn=978-0-8108-6501-3|page=20}}</ref>
+
+===Fairy Tales===
+'''''Fairy Tales Told for Children. First Collection.''''' ([[Danish language|Danish]]: ''Eventyr, fortalt for Børn. Første Samling.'') is a collection of nine [[fairy tales]] by Hans Christian Andersen. The tales were published in a series of three installments by C. A. Reitzel in [[Copenhagen, Denmark]] between May 1835 and April 1837, and represent Andersen's first venture into the fairy tale genre.
+
+The first installment of sixty-one unbound pages was published 8 May 1835 and contained "[[The Tinderbox]]", "[[Little Claus and Big Claus]]", "[[The Princess and the Pea]]" and "Little Ida's Flowers". The first three tales were based on folktales Andersen had heard in his childhood while the last tale was completely Andersen's creation and created for Ida Thiele, the daughter of Andersen's early benefactor, the folklorist [[Just Mathias Thiele]]. Reitzel paid Andersen thirty rixdollars for the manuscript, and the booklet was priced at twenty-four shillings.<ref name="WullschlagerP150">{{Harvnb|Wullschläger|2002|p=150}}</ref><ref>{{Harvnb|Frank|2005|p=13}}</ref>
+
+The second booklet was published on 16 December 1835 and contained "[[Thumbelina]]", "The Naughty Boy" and "The Traveling Companion". "Thumbelina" was completely Andersen's creation although inspired by "[[Tom Thumb]]" and other stories of miniature people. "The Naughty Boy" was based on a poem by [[Anacreon]] about [[Cupid]], and "The Traveling Companion" was a ghost story Andersen had experimented with in the year 1830.<ref name="WullschlagerP150" />
+
+The third booklet contained "[[The Little Mermaid]]" and "[[The Emperor's New Clothes]]", and it was published on 7 April 1837. "The Little Mermaid" was completely Andersen's creation though influenced by [[Friedrich de la Motte Fouqué|De la Motte Fouqué]]'s "Undine" (1811) and the lore about mermaids. This tale established Andersen's international reputation.<ref>{{Harvnb|Wullschläger|2002|p=174}}</ref> The only other tale in the third booklet was "The Emperor's New Clothes", which was based on a medieval Spanish story with Arab and Jewish sources. On the eve of the third installment's publication, Andersen revised the conclusion of his story, (the Emperor simply walks in procession) to its now-familiar finale of a child calling out, "The Emperor is not wearing any clothes!"<ref>{{Harvnb|Wullschläger|2002|p=176}}</ref>
+
+Danish reviews of the first two booklets first appeared in 1836 and were not enthusiastic. The critics disliked the chatty, informal style and immorality that flew in the face of their expectations. Children's literature was meant to educate rather than to amuse. The critics discouraged Andersen from pursuing this type of style. Andersen believed that he was working against the critics' preconceived notions about fairy tales, and he temporarily returned to novel-writing. The critics' reaction was so severe that Andersen waited a full year before publishing his third installment.<ref>{{Harvnb|Wullschläger|2002|pp=150,165}}</ref>
+
+The nine tales from the three booklets were combined and then published in one volume and sold at seventy-two shillings. A title page, a table of contents, and a preface by Andersen were published in this volume.<ref>{{Harvnb|Wullschläger|2002|p=178}}</ref>
+
+In 1868 [[Horace Scudder]], the editor of ''[[Riverside Magazine For Young People]]'', offered Andersen $500 for a dozen new stories. Sixteen of Andersen’s stories were published in the American magazine, and ten of them appeared there before they were printed in Denmark.<ref>Rossel, Sven Hakon, ''Hans Christian Anderson, Writer and Citizen of the World'', Rodopi, 1996</ref>
+
+===Travelogues===
+In 1851 he published ''In Sweden'', a volume of travel sketches. The publication received wide acclaim. A keen traveler, Andersen published several other long [[travel literature|travelogues]]: ''Shadow Pictures of a Journey to the Harz, Swiss Saxony, etc. etc. in the Summer of 1831'', ''A Poet's Bazaar'', ''In Spain'' and ''A Visit to Portugal in 1866''. (The last describes his visit with his [[Portugal|Portuguese]] friends Jorge and José O'Neill, who were his friends in the mid-1820s while he was living in Copenhagen.) In his travelogues, Andersen took heed of some of the contemporary conventions related to travel writing but he always developed the style to suit his own purpose. Each of his travelogues combines documentary and descriptive accounts of his experiences, adding additional philosophical passages on topics such as what it is to be an author, general immortality, and the nature of fiction in literary travel reports. Some of the travelogues, such as ''In Sweden'', even contain fairy-tales.
+
+In the 1840s, Andersen's attention again returned to the theatre stage, but with little success. He had better luck with the publication of the ''Picture-Book without Pictures'' (1840). A second series of fairy tales was started in 1838 and a third series in 1845. Andersen was now celebrated throughout Europe although his native Denmark still showed some resistance to his pretensions.
+
+Between 1845 and 1864, H. C. Andersen lived at [[Nyhavn 67]], Copenhagen, where a memorial plaque is placed on a building.<ref name="Official Tourism Site of Copenhagen">{{cite web |url=http://www.visitcopenhagen.com/content/press/press_information/hans_christian_andersen/in_the_footsteps_of_andersen |archive-url=https://web.archive.org/web/20080725103354/http://www.visitcopenhagen.com/content/press/press_information/hans_christian_andersen/in_the_footsteps_of_andersen |url-status=dead |archive-date=25 July 2008 |title=Official Tourism Site of Copenhagen |publisher=Visitcopenhagen.com |access-date=2 April 2010 }}</ref>
+
+The works of Hans Andersen became known throughout the world. Rising from a poor social class, the works made him into an acclaimed author. Royal families of the world were patrons of the writings including the monarchy of Denmark, the [[House of Glücksburg|House of Schleswig-Holstein-Sonderburg-Glücksburg]]. An unexpected invitation from [[Christian IX of Denmark|King Christian IX]] to the royal palace would not only entrench the Andersen folklore in Danish royalty but would [[The Snow Queen (1957 film)#Context and history|inexplicably be transmitted to the Romanov dynasty in Russia]].<ref>{{Cite web|last=Кудряшов|first=Константин|date=25 November 2017|title=Дагмар — принцесса на русской горошине. Как Андерсен вошёл у нас в моду|url=https://aif.ru/society/history/dagmar_princessa_na_russkoy_goroshine_kak_andersen_voshyol_u_nas_v_modu|access-date=20 December 2020|website=aif.ru}}</ref>
+
+==Personal life==
+
+===Søren Kierkegaard===
+In ‘Andersen as a Novelist’, [[Søren Kierkegaard]] remarks that Andersen is characterized as, “...a possibility of a personality, wrapped up in such a web of arbitrary moods and moving through an elegiac duo-decimal scale [i.e., a [[chromatic scale]]. Proceeding by semitones, and therefore including sharps as well as flats, such a scale is associated more with lament or elegy than is an ordinary [[diatonic scale]]] of almost echoless, dying tones just as easily roused as subdued, who, in order to become a personality, needs a strong life-development.”
+
+===Meetings with Charles Dickens===
+In June 1847, Andersen paid his first visit to England and he enjoyed a triumphal social success during this summer. The [[Marguerite Gardiner, Countess of Blessington|Countess of Blessington]] invited him to her parties where intellectual people would meet, and it was at one of such parties where he met [[Charles Dickens]] for the first time. They shook hands and walked to the veranda, which Andersen wrote about in his diary: "We were on the veranda, and I was so happy to see and speak to England's now-living writer whom I do love the most."<ref name="dickens">{{cite web|url=http://www.hcandersen-homepage.dk/?page_id=3704 |title=H.C. Andersen og Charles Dickens 1857 |publisher=Hcandersen-homepage.dk |access-date=16 January 2015}}</ref>
+
+The two authors respected each other's work and as writers, they shared something important in common: depictions of the poor and the underclass who often had difficult lives affected both by the [[Industrial Revolution]] and by abject poverty. In the [[Victorian era]] there was a growing sympathy for children and an idealization of the innocence of childhood.
+
+Ten years later, Andersen visited England again, primarily to meet Dickens. He extended the planned brief visit to Dickens' home at [[Gads Hill Place]] into a five-week stay, much to the distress of Dickens' family. After Andersen was told to leave, Dickens gradually stopped all correspondence between them, this to the great disappointment and confusion of Andersen, who had quite enjoyed the visit and could never understand why his letters went unanswered.<ref name="dickens"/>
+
+===Love life===
+[[File:Edvard Collin by Wilhelm Marstrand.jpg|thumb|Edvard Collin]]
+In Andersen's early life, his private journal records his [[Celibacy|refusal to have sexual relations]].<ref name=Guardian>{{cite news |author-link=Robert Lepage| first = Robert | last = Lepage | url = http://books.guardian.co.uk/departments/classics/story/0,6000,1689053,00.html | title = Bedtime stories | newspaper = The Guardian | date =18 January 2006| access-date = 19 July 2006 }}</ref><ref name=Garfield>Recorded using "special Greek symbols".{{cite web<!--|EXISTING REFERENCE--> |archive-url=https://web.archive.org/web/20120321031708/http://www.patriciagarfield.com/publications/anderson_2004IASD.pdf |archive-date=22 March 2012 |url-status=dead|url=http://www.patriciagarfield.com/publications/anderson_2004IASD.pdf |title=The Dreams of Hans Christian Andersen |date=21 June 2004 |access-date=19 August 2020 |last=Garfield |first=Patricia |page=29 }}</ref>
+[[File:Charles Alexander (1818-1901).jpg|thumb|[[Charles Alexander, Grand Duke of Saxe-Weimar-Eisenach|Carl Alexander (1818-1901), Grand Duke of Saxe-Weimar-Eisenach]]]]
+[[File:Hans Christian Andersen 2.jpg|thumb|left|upright|Portrait of Andersen by [[Franz Hanfstaengl]], dated July 1860]]
+Andersen experienced [[same-sex attraction]],<ref name=":0">{{Cite book|last=Booth|first=Michael|title=Just As Well I'm Leaving: To the Orient With Hans Christian Andersen|publisher=Vintage|year=2005|isbn=978-1-44648-579-8|location=London|pages=Pos. 2226|language=English}}</ref> he wrote to Edvard Collin:<ref>''Hans Christian Andersen's correspondence'', ed Frederick Crawford6, London. 1891.</ref> "I languish for you as for a pretty [[Calabria]]n wench&nbsp;... my sentiments for you are those of a woman. The femininity of my nature and our friendship must remain a mystery."<ref>Seriality and Texts for Young People: The Compulsion to Repeat
+edited by M. Reimer, N. Ali, D. England, M. Dennis Unrau, Melanie Dennis Unrau</ref> Collin, who preferred women, wrote in his own memoir: "I found myself unable to respond to this love, and this caused the author much suffering." Andersen's infatuation for [[Carl Alexander, Grand Duke of Saxe-Weimar-Eisenach|Carl Alexander]], the young hereditary duke of [[Saxe-Weimar-Eisenach]],<ref name="eiruaghklfsdivwelafassss xewdgAlexander">{{cite news | first = Claudia | last = Pritchard | url = http://enjoyment.independent.co.uk/books/features/article8437.ece | title = His dark materials | newspaper = The Independent | date = 27 March 2005 | access-date = 23 July 2006 | url-status = dead | archive-url = https://web.archive.org/web/20070314153313/http://enjoyment.independent.co.uk/books/features/article8437.ece | archive-date = 14 March 2007 | df = dmy-all }}</ref> did result in a relationship: <blockquote>"The Hereditary Grand Duke walked arm in arm with me across the courtyard of the castle to my room, kissed me lovingly, asked me always to love him though he was just an ordinary person, asked me to stay with him this winter . . . Fell asleep with the melancholy, happy feeling that I was the guest of this strange prince at his castle and loved by him . . . It is like a fairy tale."<ref name=":0" /> </blockquote>
+
+There is a sharp division in opinion over Andersen's physical fulfillment in the sexual sphere. The Hans Christian Andersen Center of [[University of Southern Denmark]] and biographer Jackie Wullschlager hold contradictory views.<ref>http://hcandersen.org/en/research-and-knowledge/</ref>
+
+Wullschlager’s biography maintains he was possibly lovers with Danish dancer [[Harald Scharff]]<ref name="Scharff">{{cite web|url=http://www.andersen.sdu.dk/liv/tidstavle/vis_e.html?date=1862-00-00 |title=The Life of Hans Christian Andersen. Day By Day |access-date=22 July 2006 |last=de Mylius |first=Johan |publisher=Hans Christian Andersen Center}}</ref> and Andersen's "[[The Snowman (fairy tale)|The Snowman]]" was inspired by their relationship.<ref name="WullschlagerPP373,3792">{{Harvnb|Wullschlager|2000|pp=373,379}}</ref> Scharff first met Andersen when the latter was in his fifties. Andersen was clearly infatuated and Wullschlager sees his journals as implying that their relationship was sexual.<ref>{{cite news|date=2001-11-01|title=Hans Christian Andersen: The Life of a Storyteller|publisher=Gay & Lesbian Review Worldwide|url=http://www.accessmylibrary.com/coms2/summary_0286-7326345_ITM|access-date=2009-06-10}}</ref> Scharff had various dinners alone with Andersen and his gift of a silver toothbrush to Andersen on his fifty-seventh birthday marked their relationship as incredibly close.<ref>{{cite news|date=2005-04-26|title=Andersen's Fairy Tales|publisher=The Advocate|url=http://www.accessmylibrary.com/coms2/summary_0286-29288855_ITM|access-date=2009-06-10}}</ref> Wullschlager asserts that in the winter of 1861&ndash;62 the two men entered a full-blown love affair that brought "him joy, some kind of sexual fulfillment and a temporary end to loneliness."<ref name="Wullschlager3">{{Harvnb|Wullschlager|2000|pp=387&ndash;389}}</ref> He was not discreet in his conduct with Scharff, and displayed his feelings much too openly. Onlookers regarded the relationship as improper and ridiculous. In his diary for March 1862, Andersen referred to this time in his life as his "erotic period".<ref name="AndersenJ3">{{Harvnb|AndersenJ|2005|pp=475&ndash;476}}Wullschlager</ref> On 13 November 1863, Andersen wrote, "Scharff has not visited me in eight days; with him it is over."<ref name="AndersenJP477">{{Harvnb|AndersenJ|2005|p=477}}Wullschlager</ref> Andersen took the end calmly and the two thereafter met in overlapping social circles without bitterness, though Andersen attempted to rekindle their relationship a number of times without success.<ref name="WullschlagerP392–393">{{Harvnb|Wullschlager|2000|pp=392&ndash;393}}</ref><ref group="note">While on holiday, for example, Andersen and Scharff were forced to spend the night in Helsingør. Andersen reserved a double room for them both but Scharff insisted upon having his own.</ref><ref group="note">Andersen continued to follow Scharff's career with interest but in 1871 an injury during rehearsal forced Scharff permanently from the ballet stage. Scharff tried acting without success, married a ballerina in 1874, and died in the St. Hans insane asylum in 1912.</ref><ref name="AndersenJPP477-479">{{Harvnb|AndersenJ|2005|pp=477&ndash;479}}Wullschlager</ref>
+
+In contrast to Wullschlager's assertions are Klara Bom and Anya Aarenstrup from the H. C. Andersen Centre of [[University of Southern Denmark]]. They state "it is correct to point to the very ambivalent (and also very traumatic) elements in Andersen's emotional life concerning the sexual sphere, but it is decidedly just as wrong to describe him as homosexual and maintain that he had physical relationships with men. He did not. Indeed, that would have been entirely contrary to his moral and religious ideas, aspects that are quite outside the field of vision of Wullschlager and her like."<ref>Hans Christian Andersen Center, [http://www.andersen.sdu.dk/rundtom/faq/index_e.html?emne=homo Hans Christian Andersen – FAQ]</ref>
+
+Andersen also fell in love with unattainable women, and many of his stories are interpreted as references.<ref>{{cite web|last=Hastings|first=Waller|title=Hans Christian Andersen|url=http://www.northern.edu/hastingw/hcandersen.htm|publisher=Northern State University|access-date=15 December 2012|archive-url=https://web.archive.org/web/20071123053333/http://www.northern.edu/hastingw/hcandersen.htm|archive-date=23 November 2007|date=4 April 2003}}</ref> At one point, he wrote in his diary: "Almighty God, thee only have I; thou steerest my fate, I must give myself up to thee! Give me a livelihood! Give me a bride! My blood wants love, as my heart does!"<ref>{{cite web|url=http://scandinavian.wisc.edu/mellor/hca_summer/glossary/bachelor.html |title=The Tales of Hans Christian Andersen |publisher=Scandinavian.wisc.edu |access-date=2 April 2010}}</ref> A girl named Riborg Voigt was the [[unrequited love]] of Andersen's youth. A small pouch containing a long letter from Voigt was found on Andersen's chest when he died several decades after he first fell in love with her, and after, he presumably fell in love with others. Other disappointments in love included Sophie Ørsted, the daughter of the physicist [[Hans Christian Ørsted]], and Louise Collin, the youngest daughter of his benefactor Jonas Collin. One of his stories, "[[The Nightingale (fairy tale)|The Nightingale]]", was written as an expression of his passion for [[Jenny Lind]] and became the inspiration for her nickname, the "Swedish Nightingale".<ref>{{cite web|url=http://altomhistorie.dk/artikler/h-c-andersen-og-jenny-lind/|title=H.C. Andersen og Jenny Lind|date=2 July 2014}}</ref> Andersen was often shy around women and had extreme difficulty in proposing to Lind. When Lind was boarding a train to go to an opera concert, Andersen gave Lind a letter of proposal. Her feelings towards him were not the same; she saw him as a brother, writing to him in 1844: "farewell&nbsp;... God bless and protect my brother is the sincere wish of his affectionate sister, Jenny".<ref>{{cite web|url=http://www.hcandersen-homepage.dk/?page_id=22484 |title=H.C. Andersen homepage (Danish) |publisher=Hcandersen-homepage.dk |access-date=2 April 2010}}</ref> It is suggested that Andersen expressed his disappointment by portraying Lind as the eponymous anti-heroine of his [[The Snow Queen|Snow Queen]].<ref>Charlie Connelly, Great European Lives #219 Jenny Lind,   [[The New European]] October 18-November 5 2021. page 47.</ref>
+
+==Death==
+[[File:Melchior Family Group Rolighed c. 1867.jpg|thumb|left|upright|Andersen at Rolighed: Israel Melchior (c. 1867)]]
+[[File:Hans Christian Andersen Grave.jpg|thumb|upright|Andersen's refreshed gravestone at [[Assistens Cemetery (Copenhagen)|Assistens Cemetery]] in the [[Nørrebro]] district of Copenhagen.]]
+In early 1872, at age 67, Andersen fell out of his bed and was severely hurt; he never fully recovered from the resultant injuries. Soon afterward, he started to show signs of liver cancer.<ref name="Bryant">Bryant, Mark: ''Private Lives'', 2001, p. 12.</ref>
+
+He died on 4 August 1875, in a house called ''[[Rolighed (Østerbro)|Rolighed]]'' (literally: calmness), near Copenhagen, the home of his close friends, the banker Moritz Melchior and his wife.<ref name="Bryant"/> Shortly before his death, Andersen had consulted a composer about the music for his funeral, saying: "Most of the people who will walk after me will be children, so make the beat keep time with little steps."<ref name="Bryant"/>
+
+His body was interred in the [[Assistens Cemetery (Copenhagen)|Assistens Kirkegård]] in the [[Nørrebro]] area of [[Copenhagen]], in the family plot of the Collins. However, in 1914 the stone was moved to another cemetery (today known as ''"Frederiksbergs ældre kirkegaard"''), where younger Collin family members were buried. For a period, his, Edvard Collin's and Henriette Collin's graves were unmarked. A second stone has been erected, marking H.C. Andersen's grave, now without any mention of the Collin couple, but all three still share the same plot.<ref>in Danish, http://www.hcandersen-homepage.dk/?page_id=6226</ref>
+
+At the time of his death, Andersen was internationally revered, and the Danish Government paid him an annual stipend as a "national treasure".<ref>{{Cite web|url=https://www.biography.com/writer/hans-christian-andersen|title=Hans Christian Andersen|website=Biography}}</ref> 
+{{clear left}}
+
+==Legacy and cultural influence==
+[[File:Denmark-Stamp-1935-HansChristianAndersen.jpg|thumb|upright|right|[[Postage stamp]], Denmark, 1935]]
+[[File:Stamp of Kazakhstan 541.jpg|thumb|upright|[[Postage stamp]], Kazakhstan, 2005]]
+
+===Archives, collections and museums===
+*The [[Hans Christian Andersen Museum]] or H.C. Andersens Odense, is a set of museums/buildings dedicated to the famous author Hans Christian Andersen in Odense, Denmark, some of which, at various times in history, have functioned as the main Odense-based museum on the author.
+*The [[Solvang, California#Museums|Hans Christian Andersen Museum]] in [[Solvang, California]], a city founded by Danes, is devoted to presenting the author's life and works. Displays include models of Andersen's [[#Childhood|childhood home]] and of "[[The Princess and the Pea]]". The museum also contains hundreds of volumes of Andersen's works, including many illustrated first editions and correspondence with Danish composer [[Asger Hamerik]].<ref>{{cite web|url=http://www.solvangca.com/museum/h1.htm|title=The Hans Christian Andersen Museum|website=SolvangCA.com|access-date=16 September 2010|archive-url=https://web.archive.org/web/20101129150511/http://solvangca.com/museum/h1.htm|archive-date=29 November 2010|url-status=dead}}</ref>
+*The [[Library of Congress]] Rare Book and Special Collections Division was bequeathed an extensive collection of Andersen materials by the Danish-American actor [[Jean Hersholt]].<ref>{{cite web|url=https://www.loc.gov/rr/rarebook/coll/114.html |title=Jean Hersholt Collections |publisher=Loc.gov |date=15 April 2009 |access-date=2 April 2010}}</ref> Of particular note is an original scrapbook Andersen prepared for the young Jonas Drewsen.<ref>[http://lcweb2.loc.gov/cgi-bin/ampage?collId=rbc3&fileName=rbc0001_2008gen51371page.db "Billedbog til Jonas Drewsen"]. (15 April 2009) Retrieved 2 November 2009.</ref>
+
+===Art, entertainment and media===
+
+====Audio recordings====
+Noteworthy recordings in English include:
+* ''Tales of Hans Christian Andersen'' ([[Caedmon Audio|Caedmon Records]] TC-1073, 1958), read by [[Michael Redgrave]]
+* ''The Snow Queen'' (Caedmon Records TC-1229, 1958), read by [[Cathleen Nesbitt]]
+* ''Tales of Hans Christian Andersen'' (Caedmon Records TC-1109, 1959), read by [[Boris Karloff]]; Karloff also narrated ''Hans Christian Andersen: The Little Match Girl and Other Fairy Tales'' (Caedmon Records TC-1117, 1960)
+* ''Hans Christian Andersen's Fairy Tales'' ([[Golden Records]] LP-74, 1962), read by [[Danny Kaye]]; re-issued on CD in 2008 as part of ''Danny Kaye Re-Tells Grimm's and Hans Christian Andersen's Fairy Tales'' (Golden Records 826663-11082)
+* ''[[Victor Borge]] presents His Own Enchanting Version of Hans Christian Andersen'' ([[Decca Records]] DL7-34406, 1966)
+* ''The Little Mermaid'' (Caedmon Records TC-1230, 1967), read by [[Cathleen Nesbitt]]
+* ''Hans Christian Andersen: His Poems and the Story of His Life'' (Caedmon Records TC-1366, 1972), read by [[Siobhan McKenna]]
+* ''Hans Christian Andersen's Fairy Stories'' ([[Pye Records]] PKL-5520, 1978), performed by [[Dame Edith Evans]] and [[Sir John Betjeman]]
+* ''The Steadfast Tin Soldier'' ([[Windham Hill Records]] WH-0702, 1987), read by [[Jeremy Irons]]
+* ''The Emperor and the Nightingale'' (Windham Hill Records WH-0706, 1987), read by [[Glenn Close]]
+* ''The Ugly Duckling'' (Windham Hill Records WH-0705, 1987), read by [[Cher]]
+* ''The Emperor's New Clothes'' (Windham Hill Records WH-0719, 1990), read by [[John Gielgud]]
+* ''The Snow Queen'' (Delos DE-6004, 1991), read by [[Natalia Makarova]]
+* ''The Snow Queen'' (Lightyear 75108-2, 1991), read by [[Sigourney Weaver]]
+* ''The Emperor's New Clothes: An All-Star Retelling of the Classic Fairy Tale'' (Starbright Foundation, 1998) ''NOTE'': this was an audio CD included with the printed book; the cast included [[Liam Neeson]], [[John Lithgow]], [[Melissa Mathison]], [[Harrison Ford]], [[Nathan Lane]], [[Ruth Westheimer|Dr. Ruth Westheimer]], [[Robin Williams]], [[Carrie Fisher]], [[Penny Marshall]], [[Jonathan Taylor Thomas]], [[Melissa Joan Hart]], [[Jay Leno]], [[Jason Alexander]], [[Rosie O'Donnell]], [[Calvin Klein]], [[Dan Aykroyd]], [[Steven Spielberg]], [[Jeff Goldblum]], [[Joan Rivers]], [[Madonna (entertainer)|Madonna]], [[Fran Drescher]], [[Angela Lansbury]] and [[Norman Schwarzkopf Jr.|General Norman Schwarzkopf]].
+
+''[[Tale Spinners for Children]]'' released seven LP's of dramatizations of Andersen stories:
+* "The Ugly Duckling" (UAC 11008)
+* "The Tinder Box" (which was included with "The Pied Piper") (UAC 11017)
+* "The Emperor's New Clothes" (which was included with "Hop O' My Thumb") (UAC 11021)
+* "Thumbelina" (UAC 11038)
+* "The Little Mermaid" (UAC 11042)
+* "The Snow Queen" (UAC 11061)
+* "The Red Shoes" (UAC 11063)
+
+====Films====
+* ''La petite marchande d'allumettes'' (1928; in English: ''The Little Match Girl''), film by [[Jean Renoir]]<ref>{{IMDb title|0019267|La petite marchande d'allumettes|(1928)}}</ref> based on "The Little Match Girl"
+* ''[[The Ugly Duckling (1931 film)|The Ugly Duckling]]'' (1931), an animated short film produced by [[Walt Disney Feature Animation]], based on ''[[The Ugly Duckling]]''.
+*Andersen was played by [[Joachim Gottschalk]] in the German film ''[[The Swedish Nightingale (film)|The Swedish Nightingale]]'' (1941), which portrays his relationship with the singer [[Jenny Lind]].
+*''[[The Red Shoes (1948 film)|The Red Shoes]]'' (1948) British drama film written, directed, and produced by the team of Michael Powell and Emeric Pressburger based on "[[The Red Shoes (fairy tale)|The Red Shoes]]".
+*''[[Hans Christian Andersen (film)|Hans Christian Andersen]]'' (1952), an American musical film starring [[Danny Kaye]] that, though inspired by Andersen's life and literary legacy, was meant to be neither historically nor biographically accurate; it begins by saying, "This is not the story of his life, but a fairy tale about this great spinner of fairy tales"
+*''[[The Snow Queen (1957 film)|The Snow Queen]]'' (1957), a Soviet Union animated film based on ''[[The Snow Queen]]'' by [[Lev Atamanov|Lev Atmanov]] of [[Soyuzmultfilm]], authentic depiction of the fairy tale that garnered critical acclaim<ref>{{Cite news|last=Crowther|first=Bosley|date=14 April 1960|title=Screen: Disney ala Soviet: The Snow Queen' at Neighborhood Houses (Published 1960)|language=en-US|work=The New York Times|url=https://www.nytimes.com/1960/04/14/archives/screen-disney-ala-soviet-the-snow-queen-at-neighborhood-houses.html|access-date=22 November 2020|issn=0362-4331}}</ref><ref>{{Cite news|last=Weiler|first=A. H.|date=7 June 1959|title=BY WAY OF REPORT; Soviet 'Snow Queen,' Other Animated Features Due -- 'Snowman's' Story (Published 1959)|language=en-US|work=The New York Times|url=https://www.nytimes.com/1959/06/07/archives/by-way-of-report-soviet-snow-queen-other-animated-features-due-snow.html|access-date=22 November 2020|issn=0362-4331}}</ref>
+*Carevo novo ruho (The emperor's new clothes), a 1961 Croatian film, directed by Ante Babaja.<ref>{{Cite web|url=http://www.imdb.com/title/tt0193044/|title=The King's New Clothes|via=www.imdb.com}}</ref>
+*The [[Rankin/Bass Productions]]-produced fantasy film, ''[[The Daydreamer (film)|The Daydreamer]]'' (1966), depicts the young Hans Christian Andersen imaginatively conceiving the stories he would later write.
+* ''[[The World of Hans Christian Andersen]]'' (1968), a Japanese anime fantasy film from Toei Doga, based on the works of Danish author Hans Christian Andersen
+*The Pine Tree (c1974) 23 mins, colour. Commentary by [[Liz Lochhead]]<ref>{{cite web |title=The Pine Tree |url=https://movingimage.nls.uk/film/6901 |website=National Library of Scotland |publisher=Moving Image Archive}}</ref>
+* ''[[The Little Mermaid (1989 film)|The Little Mermaid]]'' (1989), an animated film based on ''[[The Little Mermaid]]'' created and produced at [[Walt Disney Feature Animation]] in [[Burbank, CA]]
+* ''[[Thumbelina (1994 film)|Thumbelina]]'' (1994), an animated film based on the "[[Thumbelina]]" created and produced at [[Sullivan Bluth Studios]] Dublin, Ireland
+* ''[[The Little Matchgirl (2006 film)|The Little Matchgirl]]'' (2006), an animated short film by the [[Walt Disney Animation Studios]] directed by [[Roger Allers]] and produced by [[Don Hahn]]
+* ''Hans Christian Andersen: My Life as a Fairy Tale'' (2003), a British made-for-television film directed by [[Philip Saville]], a fictionalized account of Andersen's early successes, with his fairy stories intertwined with events in his own life.<ref>{{Cite web|url=http://www.imdb.com/title/tt0294611/|title=Hans Christian Andersen: My Life as a Fairy Tale|via=www.imdb.com}}</ref>
+* One segment in ''[[Fantasia 2000]]'' is based on ''The Steadfast Tin Soldier'', against [[Dmitri Shostakovich|Shostakovich]]'s Piano Concerto No. 2, Movement #1: "Allegro".
+*''[[The Snow Queen (2012 film)|The Snow Queen]]'' (2012), a Russian 3D animated film based on ''[[The Snow Queen]]'', the first film of ''The Snow Queen'' series produced by [[Wizart Animation]]<ref>{{Cite web|last=Milligan|first=Mercedes|date=2 June 2012|title=Russian Animation on Ice|url=https://www.animationmagazine.net/features/russian-animation-on-ice/|access-date=22 November 2020|website=Animation Magazine|language=en-US}}</ref>
+* ''[[Frozen (2013 film)|Frozen]]'' (2013), a 3D computer-animated musical film produced by [[Walt Disney Animation Studios]] that is loosely inspired by ''[[The Snow Queen]]''.
+*''[[Ginger's Tale]]'' (2020), a Russian 2D traditional animated film loosely based on ''[[The Tinderbox]]'', produced at Vverh Animation Studio in Moscow<ref>{{Cite news|date=22 June 2020|title=Annecy 2020, Ginger's Tale, recensione, un principe da salvare - Cineblog|language=it-IT|work=Cineblog|url=https://www.cineblog.it/post/951497/annecy-2020-gingers-tale-recensione-un-principe-da-salvare|access-date=22 November 2020}}</ref>
+
+====Literature====
+See also [[List of The Little Mermaid Adaptations]]
+
+Andersen's stories laid the groundwork for other children's classics, such as ''[[The Wind in the Willows]]'' (1908) by [[Kenneth Grahame]] and ''[[Winnie-the-Pooh]]'' (1926) by [[A. A. Milne]]. The technique of making inanimate objects, such as toys, come to life ("Little Ida's Flowers") would later also be used by [[Lewis Carroll]] and [[Beatrix Potter]].<ref>{{Cite book|last=Sherry|first=Clifford J.|url=https://books.google.com/books?id=0SlU_9Pui_oC&q=wiki&pg=PA17|title=Animal Rights: A Reference Handbook|date=2009|publisher=ABC-CLIO|isbn=978-1-59884-191-6|language=en}}</ref><ref>{{Cite web|title=Ledger Legends: J.M Barrie, Beatrix Potter and Lewis Carroll {{!}} Barclays|url=https://home.barclays/news/2018/11/ledger-legends--j-m-barrie--beatrix-potter-and-lewis-carroll/|website=home.barclays|language=en|access-date=30 May 2020}}</ref>
+
+* "Match Girl", a short story by Anne Bishop (published in ''Ruby Slippers, Golden Tears'')<ref name="DatlowWindling2014">{{cite book|author1=Ellen Datlow|author2=Terri Windling|title=Ruby Slippers, Golden Tears|url=https://books.google.com/books?id=dSJEBAAAQBAJ&pg=PT165|date=30 September 2014|publisher=Open Road Media Sci-Fi & Fantasy|isbn=978-1-4976-6858-4|page=165}}</ref>
+* "The Chrysanthemum Robe", a short story by [[Kara Dalkey]] (based on "The Emperor's New Clothes" and published in ''The Armless Maiden'')<ref>{{Cite book|last=Dozois|first=Gardner|url=https://archive.org/details/yearsbestscience00gard_2|url-access=registration|quote=The Chrysanthemum Robe Dalkey.|title=The Year's Best Science Fiction: Thirteenth Annual Collection|publisher=St. Martin's Press|year=1996|isbn=978-0-312-14452-4|location=New York, NY|pages=[https://archive.org/details/yearsbestscience00gard_2/page/699 699]}}</ref>
+* ''The Nightingale'' by [[Kara Dalkey]], lyrical adult fantasy novel set in the courts of old Japan<ref>{{Cite web|url=https://www.publishersweekly.com/978-0-441-57973-0|title=Fiction Book Review: Nightengale|website=www.publishersweekly.com|access-date=4 March 2019}}</ref>
+* ''The Girl Who Trod on a Loaf'' by Kathryn Davis, a contemporary novel about fairy tales and opera<ref>{{Cite web|url=https://www.goodreads.com/work/best_book/752132-the-girl-who-trod-on-a-loaf-a-novel|title=The Girl Who Trod on a Loaf|website=www.goodreads.com|access-date=24 October 2019}}</ref>
+* "Sparks", a short story by Gregory Frost (based on "The Tinder Box", published in ''Black Swan, White Raven'')<ref>{{Cite book|url=https://books.google.com/books?id=TK0fOeuFiA0C&q=sparks%20tinder%20box%20gregory%20frost&pg=PA261|title=Tales, Then and Now: More Folktales as Literary Fictions for Young Adults|last1=Altmann|first1=Anna E.|last2=De Vos|first2=Gail|publisher=Libraries Unlimited|year=2001|isbn=978-1-56308-831-5|page=261|language=en}}</ref>
+* "The Pangs of Love", a short story by Jane Gardam (based on "The Little Mermaid", published in ''Close Company: Stories of Mothers and Daughters'')<ref>{{Cite book|title=The Facts on File Companion to the British Short Story|url=https://archive.org/details/factsonfilecompa00maun|url-access=limited|last=Maunder|first=Andrew|publisher=Facts on File|year=2007|isbn=978-0-8160-5990-4|location=New York|page=[https://archive.org/details/factsonfilecompa00maun/page/n179 163]|quote="...The pangs of love ... is a self-consciously feminist reworking of Hans Christian Anderson's [sic] story of 'The Little Mermaid'... "}}</ref>
+* "The Last Poems About the Snow Queen", a poem cycle by Sandra Gilbert (published in ''Blood Pressure'').<ref>{{cite web|url=http://ir.uiowa.edu/cgi/viewcontent.cgi?article=4126&context=iowareview|title=Learning to Read the Mother Tongue: On Sandra Gilbert's "Blood Pressure"|last=Clark|first=Kevin|date=1992|website=University of Iowa}}</ref>
+* ''The Snow Queen'' by Eileen Kernaghan, a gentle Young Adult fantasy novel that brings out the tale's subtle pagan and shamanic elements<ref>{{cite web|title=Anchors Landing. A residential community in Granite Falls, North Carolina|url=http://www.anchorslandinghoa.org/news_details.php?view=article&ref=archive&month=4&year=2010&id=95|website=www.anchorslandinghoa.org}}</ref><ref>{{Cite book|last=Kernaghan, Eileen.|url=https://www.worldcat.org/oclc/43710621|title=The snow queen|date=2000|publisher=Thistledown Press|isbn=1-894345-14-2|location=Saskatoon|oclc=43710621}}</ref>
+* ''The Wild Swans'' by Peg Kerr, a novel that brings Andersen's fairy tale to colonial and modern America<ref>{{Cite book|title=Fairy Tales Reimagined: Essays on New Retellings|last=Bear|first=Bethany Joy|publisher=McFarland|year=2009|isbn=978-0-7864-4115-0|pages=44–57}}</ref>
+* "Steadfast", a short story by Nancy Kress (based on "The Steadfast Tin Soldier", published in ''Black Swan, White Raven'')<ref>{{cite web|title=Nancy Kress Bibliography|url=http://nancykress.com/bibliography/|website=Nancy Kress|access-date=15 January 2017}}</ref>
+* "In the Witch's Garden" (October 2002), a short story by Naomi Kritzer (based on "The Snow Queen", published in ''Realms of Fantasy'' magazine)<ref>{{Cite web|title=Naomi Kritzer's short fiction|url=https://naomikritzer.com/naomi-kritzers-short-fiction/|date=13 October 2013|website=Will Tell Stories For Food|language=en|access-date=30 May 2020}}</ref>
+* ''Daughter of the Forest'' by Juliet Marillier, a romantic fantasy novel, set in early Medieval Ireland (thematically linked to "The Six Swans")<ref>{{Cite news|url=http://www.julietmarillier.com/books/daughter-of-the-forest/|title=Daughter of the Forest|work=Juliet Marillier {{!}} The Official Site {{!}} Author of Historical Fantasy|access-date=20 November 2018|language=en-AU}}</ref>
+* "The Snow Queen", a short story by Patricia A. McKillip (published in ''Snow White, Blood Red'')<ref>{{Cite news|url=https://www.tor.com/2018/02/08/fairy-tale-retellings-for-adults-snow-white-blood-red/comment-page-1/|title=Fairy Tale Retellings for Adults: Snow White, Blood Red|date=8 February 2018|work=Tor.com|access-date=22 November 2018|language=en-US}}</ref>
+* "You, Little Match Girl", a short story by [[Joyce Carol Oates]] (published in ''Black Heart, Ivory Bones'')<ref>{{Cite web|url=http://www.isfdb.org/cgi-bin/pl.cgi?275375|title=Publication: Black Heart, Ivory Bones|website=www.isfdb.org|language=en-us|access-date=22 November 2018}}</ref>
+* "The Real Princess", a short story by Susan Palwick (based on "The Princess and the Pea", published in ''Ruby Slippers, Golden Tears'')<ref name="The Real Princess">{{cite web|last1=The Sum of a Life|title=Stories and Movement|url=https://berniegourley.com/2017/01/31/book-review-ruby-slippers-golden-tears-ed-by-ellen-datlow-and-terri-windling/|website=Bernie Gourley|access-date=14 February 2017}}</ref>
+* "The Naked King" ("Голый Король (Goliy Korol)" 1937), "The Shadow" ("Тень (Ten)" 1940), and "The Snow Queen" ("Снежная Королева (Sniezhenaya Koroleva)" 1948) by [[Eugene Schwartz]], reworked and adapted to the contemporary reality plays by one of Russia's playwrights. Schwartz's versions of ''The Shadow'' and ''The Snow Queen'' were later made into movies (1971 and 1967, respectively).<ref>{{cite web| title = Snezhnaya koroleva (The Snow Queen) | website = imdb.com | url = https://www.imdb.com/title/tt0254782/?ref_=nm_flmg_wr_21 | access-date = 21 January 2017}}</ref><ref>{{cite web| title = Ten (The Shadow) | website = imdb.com | url = https://www.imdb.com/title/tt0217841/?ref_=nm_flmg_wr_19 | access-date = 21 January 2017}}</ref>
+* "The Sea Hag", a short story by Melissa Lee Shaw (based on "The Little Mermaid", published in ''Silver Birch, Blood Moon'')<ref>{{cite web|url=https://www.sfsite.com/05a/silv56.htm|title=The SF Site Featured Review: Silver Birch, Blood Moon|first=Rodger|last=Turner|website=www.sfsite.com|access-date=18 January 2018}}</ref>
+* ''The Snow Queen'' by [[Joan D. Vinge]], an award-winning novel that reworks "The Snow Queen"'s themes into epic science fiction<ref>{{Cite news|url=https://us.macmillan.com/thesnowqueen-1/joandvinge/9780765381774/|title=The Snow Queen {{!}} Joan D. Vinge {{!}} Macmillan|work=US Macmillan|access-date=18 January 2018|language=en-US}}</ref>
+* "The Steadfast Tin Soldier", a short story by Joan D. Vinge (published in ''Women of Wonder'')<ref>{{Cite web|title=The Steadfast Tin Soldier|url=https://www.storynory.com/the-steadfast-tin-soldier/|date=22 May 2006|website=Storynory|language=en|access-date=30 May 2020}}</ref>
+*  [http://hazlitt.net/authors/sophia-foster-dimino "Swim Thru Fire"], a comic by [http://www.hellophia.com/ Sophia Foster-Dimino] and [http://heyanniemok.com/ Annie Mok], based partially on "The Little Mermaid".
+
+====Mobile app====
+* GivingTales – the storytelling app for children was created in aid of UNICEF in 2015. Hans Christian Andersen's fairy tales are read by [[Roger Moore]], [[Stephen Fry]], [[Ewan McGregor]], [[Joan Collins]] and [[Joanna Lumley]].<ref>{{cite web|url=https://www.imdb.com/title/tt4926058/|title=GivingTales|date=18 June 2015|via=IMDb}}</ref>
+
+====Monuments and sculptures====
+{{Gallery
+|width=150
+|lines=4
+|align=center
+|File:NYC Hans C Andersen.jpg|Statue in [[Central Park]], New York commemorating Andersen and ''The Ugly Duckling''
+|File:Hans Christian Andersen statue in Kongens Have - Copenhagen - DSC07861.JPG|Andersen statue at the [[Rosenborg Castle Gardens]], Copenhagen
+|File:Sculpture Hans Christian Andersen in odense Harbor 3.jpg|Statue in [[Odense]] being led out to the harbour during a public exhibition
+|File:Sculpture of Hans Christian Andersen in odense harbor 2.jpg|Odense statue half-submerged in the water
+|File:Hans Andersen Solvang.jpg|Statue in [[Solvang, California]], a city built by Danish immigrants.
+|File:Statue of Hans Christian Andersen in Bratislava, Slovakia 01.jpg|Statue in [[Bratislava, Slovakia]]
+|File:Bust of Hans Christian Andersen in Sydney.jpg|Portrait bust in [[Sydney]] unveiled by the Crown Prince and Princess of Denmark in 2005
+}}
+
+*[[List of public art in Rosenborg Castle Gardens|''Hans Christian Andersen'']] (1880), even before his death, steps had already been taken to erect, in Andersen's honour, a large statue by sculptor [[August Saabye]], which can now be seen in the [[Rosenborg Castle Gardens]] in Copenhagen.<ref name="Bredsdorff 1975"/>
+* [[Lincoln Park#Public art|''Hans Christian Andersen'']] (1896) by the Danish sculptor [[Johannes Gelert]], at [[Lincoln Park]] in Chicago, on Stockton Drive near Webster Avenue<ref>{{cite news|url=http://flps.newberry.org/article/5410780_2_1350|title=The Hans Christian Andersen Statue |work= Skandinaven|date=17 September 1896}}</ref>
+*''[[List of sculptures in Central Park#Writers and poets|Hans Christian Andersen]]'' (1956), a statue by sculptor [[Georg J. Lober]] and designer [[Otto Frederick Langman]], at [[Central Park Lake]] in New York City, opposite East 74th Street (40.7744306°N, 73.9677972°W)
+* [[:es:Estatua de Hans Christian Andersen|Hans Christian Andersen]] (2005) Plaza de la Marina in Malaga, Spain
+
+====Music====
+* [[Hans Christian Andersen (album)|''Hans Christian Andersen'' (album)]], a 1994 album by Franciscus Henri
+* ''The Song is a Fairytale'' (''Sangen er et Eventyr''), a song cycle based on fairy tales by Hans Christian Andersen, composed by [[Frederik Magle]]
+* ''[https://open.spotify.com/album/3bzaiZzloO33CQRgzL7sTT?highlight=spotify:track:3VfRlGhiKYXrcnd84ZYuhd Atonal Fairy Tale]'', From the album ''It Is What It Isn't, Too!'', (2020) by [https://open.spotify.com/artist/5JHqyF8Gy6ySOwhxrchh3d Smart Dad Living], music composed by Gregory Reid Davis Jr. and the fairy tale, ''The Elfin Mound'', by Hans Christian Andersen is read by Smart Dad Living
+
+====Radio====
+* ''The Wild Swans'' (BBC Radio 4, 1980), an adaptation of Andersen's story by John Peacock directed by Jane Morgan, with [[Angela Pleasence]].<ref>{{Cite web|url=https://genome.ch.bbc.co.uk/7f7cae8d3d3b4a96b818ae34d127fc52|title=Afternoon Theatre|date=26 December 1980|issue=2980|pages=59|via=BBC Genome}}</ref>
+* ''The Snow Queen'' (BBC Radio 4, 1994), an adaptation of Andersen's story by Bertie Doherty, directed by Janet Whitaker and featuring [[Diana Rigg]] (in the title role) and [[Dirk Bogarde]] as the Narrator.<ref>{{Cite web|url=https://www.bbc.co.uk/programmes/b00pgyd8|title=BBC Radio 4 Extra - Hans Christian Andersen - The Snow Queen|website=BBC}}</ref>
+* ''Hans Christian Andersen'' (BBC Radio 4, 2005), a two-part radio play by Hattie Naylor dramatizing Andersen's life.<ref>{{Cite web|url=https://genome.ch.bbc.co.uk/e2b1f74f90864b18a3ab303c42951b53|title=Afternoon Play: Hans Christian Andersen|date=25 May 2005|issue=4234|pages=131|via=BBC Genome}}</ref>
+* ''The Beautiful Ugly'' (BBC Radio 4, 2012), a radio play by Lavinia Murray directed by Pauline Harris, imagining a day in the life of Andersen as a child, combining fact with fantasy.<ref>{{Cite web|url=https://www.bbc.co.uk/programmes/b01k9wfn|title=BBC Radio 4 Extra - Drama, Lavinia Murray - The Beautiful Ugly|website=BBC}}</ref>
+* ''The Red Shoes'' (BBC Radio 4, 2017), an adaptation of Andersen's story by Frances Byrnes and directed by Eoin O'Callaghan.<ref>{{Cite web|url=https://www.bbc.co.uk/programmes/b09k8hp4|title=BBC Radio 4 - Saturday Drama, The Red Shoes|website=BBC}}</ref>
+* ''Dance 'Til You Bleed: The World According to Hans Christian Andersen'' (BBC Radio 3, 2019): a dramatization by Lucy Catherine of five Andersen stories directed by Gemma Jenkins.<ref>{{Cite web|url=https://www.bbc.co.uk/programmes/m000btx0|title=BBC Radio 3 - Drama on 3, Dance Til You Bleed: The World According to Hans Christian Andersen|website=BBC}}</ref> Each story was introduced by author [[Joanne Harris]] and starred [[Toby Jones]] as Andersen, who also acted as narrator.
+
+====Stage productions====
+
+For opera and ballet see also [[List of The Little Mermaid Adaptations]]
+
+* ''[[Little Hans Andersen]]'' (1903), a children's [[pantomime]] at the [[Adelphi Theatre]]
+* ''Sam the Lovesick Snowman'' at the [[Center for Puppetry Arts]]: a contemporary puppet show by Jon Ludwig inspired by The Snow Man.<ref>{{cite web|url=http://puppet.org/perform/snowman.shtml |title=Jon Ludwig's ''Sam the Lovesick Snowman'' |publisher=Puppet.org |access-date=2 April 2010}}</ref>
+* ''Striking Twelve,'' a modern musical take on "The Little Match Girl", created and performed by [[Groovelily|GrooveLily]].<ref>{{Cite web|url=https://variety.com/2006/legit/reviews/striking-12-1200512017/|title=Striking 12|first1=Mark|last1=Blankenship|date=13 November 2006}}</ref>
+* The musical comedy ''[[Once Upon a Mattress]]'' is based on Andersen' work 'The Princess and the Pea'.<ref>{{Cite book|url=https://www.google.com/books/edition/Operas_in_English/Y8bQAwAAQBAJ?hl=en&gbpv=1&bsq=Once%20Upon%20a%20Mattress&pg=PP1&printsec=frontcover|title=Operas in English: A Dictionary|last=Ross Griffel|first=Margaret|publisher=Scarecrow Press|year=2013|isbn=978-0-8108-8325-3|pages=393}}</ref>
+
+====Television====
+* ''The Snow Queen'' (1955), a British TV mini-series starring [[April Olrich]]
+* ''The Emperor's New Clothes'' (1967) starring The Prince Street Players
+* ''[[Andersen Monogatari (TV series)|Andersen Monogatari]]'' (1971), an animated anthology of Andersen's works
+* ''The Little Match Girl'' (1974) starring [[Lynsey Baxter]]
+* ''[[Faerie Tale Theatre|Shelley Duvall's Faerie Tale Theatre]]'' (1982–87), an live-action anthology series which originally aired on [[Showtime (TV network)|Showtime]]; stories by Andersen which were dramatized included "The Nightingale", "The Little Mermaid", "The Princess and the Pea", "Thumbelina", "The Emperor's New Clothes" and "The Snow Queen".
+* ''[[Hans Christian Andersen: My Life as a Fairytale]]'' (2003), a semi-biographical television miniseries that fictionalizes the young life of Danish author Hans Christian Andersen and includes fairy tales as short interludes, intertwined into the events of the young author's life.
+* ''The Little Match Girl'' (1986) starring [[Michael Hordern]], [[Twiggy]], [[Roger Daltrey]] and Natalie Morse as The Match Girl
+* ''The Little Match Girl'' (1990), an animated film starring [[F. Murray Abraham]]
+* In the "Metal Fish" episode of the [[Walt Disney Television|Disney TV series]] ''[[The Little Mermaid (TV series)|The Little Mermaid]]'', Andersen is a vital character whose inspiration for writing his tale is shown to have been granted by an encounter with the show's protagonists.
+* ''Snow Queen'' (2002) starring [[Bridget Fonda]]
+* ''[[The Fairytaler]]'' (2004), a Danish animated television series based on the fairy tales of Hans Christian Andersen.
+* ''[[Young Andersen]]'' (2005), a biographical television miniseries that tells of the formative boarding school years of the fairy tale writer.
+
+====Webseries====
+* ''[[Classic Alice]]'' (2014), a [[YouTube]] webseries, had a five-episode arc based on "The Butterfly"
+
+====Video Games====
+* Andersen appears in the mobile game ''[[Fate/Grand Order]]'' as a Caster class servant. In the London chapter, set in 1888, he is summoned by the Demonic Fog surrounding London. He allies himself with the player in order to find more information about the [[Holy Grail]] War.
+* Andersen appears in ''[[Fate/Extra|Fate/Extra CCC]]'' as Caster, Kiara's servant.
+* Andersen appears in the mobile game ''[[Grimms Notes]]'' as a playable Hero and an important figure in the story.
+
+===Awards===
+* [[Hans Christian Andersen Award]]s, prizes awarded annually by the [[International Board on Books for Young People]] to an author and illustrator whose complete works have made lasting contributions to children's literature.<ref>{{cite web|url=http://www.ibby.org/index.phpid=1367 |title=Hans Christian Andersen Awards|website= International Board on Books for Young People}}</ref>
+* [[Hans Christian Andersen Literature Award]], a Danish literary award established in 2010
+* Andersen's fable "The Emperor's New Clothes" was inducted in 2000 into the Prometheus Hall of Fame for Best Classic Fiction <ref>{{Cite web|url=http://www.lfs.org/awards.shtml|title=Libertarian Futurist Society|website=www.lfs.org}}</ref>
+
+===Events and holidays===
+*Andersen's birthday, 2 April, is celebrated as [[International Children's Book Day]].<ref>{{cite web |title=International Children's Book Day |access-date=17 December 2012 |publisher=International Board on Books for Young People |url=http://www.ibby.org/index.php?id=269 |quote=Since 1967, on or around Hans Christian Andersen's birthday, 2 April, International Children's Book Day (ICBD) is celebrated to inspire a love of reading and to call attention to children's books.}}</ref>
+*The year 2005, designated "Andersen Year" in Denmark,<ref name=Brabant>{{cite news|last=Brabant|first=Malcolm|title=Enduring legacy of author Andersen|url=http://news.bbc.co.uk/1/hi/entertainment/4351829.stm|work=BBC News|publisher=BBC|access-date=17 December 2012|date=1 April 2005}}</ref> was the bicentenary of Andersen's birth, and his life and work was celebrated around the world.
+*In Denmark, a well-attended "once in a lifetime" show was staged in Copenhagen's [[Parken Stadium]] during "Andersen Year" to celebrate the writer and his stories.<ref name=Brabant />
+*The annual [[H.C. Andersen Marathon]], established in 2000, is held in [[Odense]], Denmark
+
+===Places named after Andersen===
+* [[H. C. Andersens Boulevard]], a major road in Copenhagen formerly known as Vestre Boulevard (Western Boulevard), received its current name in 1955 to mark the 150-year anniversary of the writer's birth
+* [[Hans Christian Andersen Airport]], small airport servicing the Danish city of Odense
+* [[Instituto Hans Christian Andersen]], Chilean high school located in San Fernando, Colchagua Province, Chile
+*Hans Christian Andersen Park, [[Solvang, California]]
+* [https://www.colegioandersen.net/ CEIP Hans Christian Andersen], Primary Education School in Malaga, Spain.
+
+===Postage stamps===
+* Andersen's legacy includes the postage stamps of Denmark and [[:File:Stamp of Kazakhstan 541.jpg|of Kazakhstan]] depicted above, depicting Andersen's profile.
+
+===Theme parks===
+*In Japan, the city of [[Funabashi (city)|Funabashi]] has a children's theme park named after Andersen.<ref>{{cite web|url=http://www.city.funabashi.lg.jp/funabashistyle/en/003/p042886.html|title=H.C. Andersen Park - Funabashi|publisher=City of Funabashi Tourism|access-date=12 April 2017}}</ref> Funabashi is a [[Twin towns and sister cities|sister city]] to Odense, the city of Andersen's birth.
+*In China, a $32US million theme park based on Andersen's tales and life was expected to open in Shanghai's [[Yangpu District]] in 2017.<ref name=Sina>{{cite web|url=http://sh.sina.com.cn/news/k/2016-11-11/detail-ifxxsmif2745144.shtml|title=安徒生童话乐园明年开园设七大主题区|trans-title=Andersen fairy tales opening next year to set up seven theme areas|last=Fan|first=Yanping|website=[[Sina Corp]]|date=11 November 2016|access-date=12 April 2017}}</ref> Construction on the project began in 2005.<ref>{{cite web|url=http://www.shanghaidaily.com/business/it/Fairytale-park-takes-shape-in-city/shdaily.shtml|title=Fairy-tale park takes shape in city|last=Zhu|first=Shenshen|website=[[Shanghai Daily]]|date=16 July 2013|access-date=12 April 2017}}</ref>
+
+===Cultural references===
+In [[Gilbert and Sullivan]]'s [[Savoy Opera]] ''[[Iolanthe]]'', the Lord Chancellor mocks the Fairy Queen with a reference to Andersen, thereby implying that her claims are fictional:<ref>{{Cite web|url=http://www.stagebeauty.net/plays/th-iola1.html|title=W.S.Gilbert - Iolanthe, ACT I|website=www.stagebeauty.net}}</ref>
+
+<blockquote><poem>It seems that she's a fairy
+From Andersen's library,
+And I took her for
+The proprietor
+Of a Ladies' Seminary!</poem></blockquote>
+
+In [[Stephen Sondheim]]'s ''[[A Little Night Music]]'', the middle-aged Frederik contemplates reading erotic literature to his young, virginal bride in order to seduce her, but concludes: "Her taste is much blander / I'm sorry to say / But is Hans Christian Ander- / Sen ever risqué?"
+
+==Language==
+Titles like "The Ugly Duckling" and "The Emperor's New Clothes" have become idiomatic in several languages.
+
+==Works==
+{{Further|Hans Christian Andersen bibliography}}
+Andersen's fairy tales include:
+{{div col|colwidth=22em}}
+* "[[The Angel (fairy tale)|The Angel]]" (1843)
+* "[[The Bell (fairy tale)|The Bell]]" (1845)
+* "[[Blockhead Hans]]" (1855)
+* "[[The Elf Mound]]" (1845)
+* "[[The Emperor's New Clothes]]" (1837)
+* "[[The Fir-Tree]]" (1844)
+* "[[The Flying Trunk]]" (1839)
+* "[[The Galoshes of Fortune]]" (1838)
+* "[[The Garden of Paradise]]" (1839)
+* "[[The Goblin and the Grocer]]" (1852)
+* "[[Golden Treasure]]" (1865)
+* "[[The Happy Family (fairy tale)|The Happy Family]]" (1847)
+* "[[The Ice-Maiden]]" (1861)
+* "[[It's Quite True (fairy tale)|It's Quite True]]" (1852)
+* "[[The Jumpers]]" (1845)
+* "[[Little Claus and Big Claus]]" (1835)
+* "[[Little Ida's Flowers]]" (1835)
+* "[[The Little Match Girl]]" (1845)
+* "[[The Little Mermaid]]" (1837)
+* "[[Little Tuk (fairy tale)|Little Tuk]]" (1847)
+* "[[The Most Incredible Thing]]" (1870)
+* "[[The Naughty Boy]]" (1835)
+* "[[The Nightingale (fairy tale)|The Nightingale]]" (1843)
+* "[[The Old House (fairy tale)|The Old House]]" (1847)
+* "[[Ole Lukoie]]" (1841)
+* "[[The Philosopher's Stone (fairy tale)|The Philosopher's Stone]]" (1858)
+* "[[The Princess and the Pea]]" (1835)
+* "[[The Red Shoes (fairy tale)|The Red Shoes]]" (1845)
+* "[[The Rose Elf]]" (1839)
+* "[[The Shadow (fairy tale)|The Shadow]]" (1847)
+* "[[The Shepherdess and the Chimney Sweep]]" (1845)
+* "[[The Snow Queen]]" (1844)
+* "[[The Snowman (fairy tale)|The Snowman]]" (1861)
+* "[[The Steadfast Tin Soldier]]" (1838)
+* "[[The Storks]]" (1839)
+* "[[The Story of a Mother]]" (1847)
+* "[[The Sweethearts; or, The Top and the Ball]]" (1843)
+* "[[The Swineherd]]" (1841)
+* "[[The Tallow Candle]]" (1820s)
+* "[[The Teapot]]" (1863)
+* "[[Thumbelina]]" (1835)
+* "[[The Tinderbox]]" (1835)
+* "[[The Traveling Companion]]" (1835)
+* "[[The Ugly Duckling]]" (1843)
+* "[[Gudbrand on the Hill-side|What the Old Man Does is Always Right]]" (1861)
+* "[[The Wild Swans]]" (1838)
+{{div col end}}
+
+==See also==
+{{portalbar|biography|children's literature|Denmark|poetry}}
+* ''[[Kjøbenhavnsposten]]'', a Danish newspaper in which Andersen published one of his first poems
+* [[Pleated Christmas hearts]], invented by Andersen
+* [[Vilhelm Pedersen]], the first illustrator of Andersen's fairy tales
+* Collastoma anderseni sp. nov. (Rhabdocoela: Umagillidae: Collastominae), an endosymbiont from the intestine of the sipunculan Themiste lageniformis, for a species named after Andersen.
+
+==Notes==
+{{reflist|group=note}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*{{Cite book|title=Fairy Tales |last=Andersen |first=Hans Christian |editor=Jackie Wullschläger |year=2005 |orig-year=2004 |publisher=Viking |location=New York|isbn=0-670-03377-4 |others=Tiina Nunnally}}
+* {{Cite book |title=Hans Christian Andersen: A New Life |last=Andersen |first=Jens |year=2005 |orig-year=2003 |publisher=Overlook Duckworth |location=New York, Woodstock, and London |isbn=978-1-58567-737-5 |others=Tiina Nunnally}}
+*{{cite book |author=Binding, Paul |title=Hans Christian Andersen : European witness |publisher=Yale University Press |year=2014 <!--|isbn=9780300169232-->}}
+*{{cite book|last=Bredsdorff|first=Elias|title=Hans Christian Andersen: the story of his life and work 1805–75|year=1975|publisher=Phaidon|isbn=0-7148-1636-1|url=https://books.google.com/books?id=HZg9AAAAIAAJ&pg=PA168|access-date=4 April 2012}}
+* Stig Dalager, ''Journey in Blue'', historical, [[biographical novel]] about H.C.Andersen, Peter Owen, London 2006, McArthur & Co., Toronto 2006.
+* Roes, André, ''[[Søren Kierkegaard|Kierkegaard]] en Andersen, Uitgeverij Aspekt'', Soesterberg (2017) {{ISBN|978-94-6338-215-1}}
+* [[Ruth Manning-Sanders]], ''Swan of Denmark: The Story of Hans Christian Andersen'', Heinemann, 1949
+* {{cite book |title=Hans Christian Andersen: Danish Writer and Citizen of the World |last=Rossel |first=Sven Hakon |publisher=Rodopi |year=1996 |isbn=90-5183-944-8 }}
+* {{Cite book |title=The Wild Swan: The Life and Times of Hans Christian Andersen |url=https://archive.org/details/wildswanlifetime00stir |url-access=registration |last=Stirling |first=Monica |publisher=Harcourt, Brace & World, Inc |location=New York |year=1965}}
+* {{Cite book |title=The King's Ballet Master |last=Terry |first=Walter |publisher=Dodd, Mead & Company |location=New York |year=1979 |isbn=0-396-07722-6 }}
+* {{Cite book |title=Hans Christian Andersen: The Life of a Storyteller |last=Wullschläger |first=Jackie |publisher=University of Chicago Press |location=Chicago |year=2002 |orig-year=2000 |isbn=0-226-91747-9 |url-access=registration |url=https://archive.org/details/hanschristianand0000wull }}
+* {{Cite book |title=Hans Christian Andersen: The Misunderstood Storyteller |last=Zipes |first=Jack |year=2005 |publisher=Routledge |location=New York and London |isbn=0-415-97433-X }}
+
+==External links==
+{{sisterlinks|Hans Christian Andersen|s=Author:Hans Christian Andersen|voy=Travels of Hans Christian Andersen|n=no|v=no|wikt=no|}}
+* {{Gutenberg author | id=Andersen,+H.+C.+(Hans+Christian) | name=Hans Christian Andersen}}
+* {{FadedPage|id=Andersen, Hans Christian|name=Hans Christian Andersen|author=yes}}
+* {{Internet Archive author |sname=Hans Christian Andersen}}
+* {{Librivox author |id=122}}
+* {{OL author|OL25931A}}
+*[https://archive.org/stream/storyofmylif00ande#page/n17/mode/2up ''The Story of My Life''] (1871) by Hans Christian Andersen - English
+*[http://www.hcandersen-homepage.dk Hans Christian Andersen Information Odense] 
+*[https://derevo-kazok.org/kazki-gansa-hristiana-andersena/ Electronic collection of H. C. Andersen's Fairy Tales] 
+*[http://www.hcandersen-homepage.dk/?page_id=14071 Hans Christian Andersen biography] 
+*[http://andersenfairytales.com Andersen Fairy Tales] 
+*[https://www.nytimes.com/2005/04/04/arts/04hans.html And the cobbler's son became a princely author] Details of Andersen's life and the celebrations.
+*[https://web.archive.org/web/20110122130548/http://www.andersen.sdu.dk/index_e.html The Hans Christian Andersen Centre] - contains many Andersen's stories in Danish and English
+*The Hans Christian Andersen Museum in Odense has a large digital collection of Hans Christian Andersen [http://www.museum.odense.dk/andersen/klip/billedstart.asp?language=en papercuts], [http://webarchive.loc.gov/all/20120706135443/http://museum.odense.dk/andersen/tegning/billedstart.asp?language%3Den drawings] and [http://webarchive.loc.gov/all/20120706135515/http://museum.odense.dk/andersen/portraet/billedstart.asp?language%3Den portraits] - You can follow his [http://webarchive.loc.gov/all/20120706140909/http://museum.odense.dk/andersen/rejser/index.aspx?language%3Den travels] across Europe and explore his [http://www.museum.odense.dk/andersen/nyhavn/nyhavnuk.asp Nyhavn study].
+*The [https://web.archive.org/web/20051120004806/http://www.omsd.dk/themes/hc_andersen_uk/uk_hc_andersen_main_frame.htm Orders and Medals Society of Denmark] has descriptions of Hans Christian Andersen's Medals and Decorations.
+* [https://www.loc.gov/rr/rarebook/coll/114.html Jean Hersholt Collections of Hans Christian Andersen] From the [https://www.loc.gov/rr/rarebook/ Rare Book and Special Collections Division] at the [[Library of Congress]]
+* {{IMDb name|0026153}}
+{{Hans Christian Andersen|state=expanded}}
+{{Romanticism}}
+{{Navboxes
+|title = Associated subjects
+|list1=
+{{Thumbelina}}
+{{The Princess and the Pea}}
+{{The Little Mermaid (Andersen)}}
+{{The Steadfast Tin Soldier}}
+{{The Ugly Duckling}}
+{{The Nightingale}}
+{{The Snow Queen}}
+{{The Little Match Girl}}
+{{The Red Shoes}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Andersen, Hans Christian}}
+[[Category:Hans Christian Andersen| ]]
+[[Category:1805 births]]
+[[Category:1875 deaths]]
+[[Category:19th-century Danish novelists]]
+[[Category:19th-century Danish poets]]
+[[Category:19th-century male writers]]
+[[Category:Danish letter writers]]
+[[Category:Bisexual men]]
+[[Category:Bisexual writers]]
+[[Category:LGBT writers from Denmark]]
+[[Category:Christian writers]]
+[[Category:Collectors of fairy tales]]
+[[Category:Danish children's writers]]
+[[Category:Danish Christians]]
+[[Category:Danish fantasy writers]]
+[[Category:Danish folklore]]
+[[Category:Danish male poets]]
+[[Category:Disease-related deaths in Denmark]]
+[[Category:People from Odense]]
+[[Category:LGBT Christians]]
+[[Category:Scandinavian folklore]]
+[[Category:Danish male novelists]]

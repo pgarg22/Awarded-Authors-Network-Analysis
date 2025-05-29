@@ -1,0 +1,217 @@
+{{More citations needed|date=August 2007}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Comte de Lautréamont
+| image = Lautreamont1.jpg
+| caption = Possibly a photo representing Lautréamont 
+| birth_name = Isidore Lucien Ducasse
+| birth_date = {{birth date|1846|4|4|df=y}}
+| birth_place = [[Montevideo]], [[Uruguay]]
+| death_date = {{death date and age|1870|11|24|1846|4|4|df=y}}
+| death_place = Paris, France
+| occupation = Poet
+}}
+{{French literature sidebar}}
+
+'''Comte de Lautréamont''' ({{IPA-fr|lotʁeamɔ̃|lang}}) was the ''[[Pen name|nom de plume]]'' of '''Isidore Lucien Ducasse''' (4 April 1846 &ndash; 24 November 1870), a [[French language|French]] poet born in [[Uruguay]]. His only works, ''[[Les Chants de Maldoror]]''<ref>{{cite book |last=Comte de Lautréamont |date=1978 |title=Maldoror and Poems |translator-last1=Knight |translator-first1=Paul |location=New York |publisher=Penguin |isbn=9780140443424}}</ref> and ''Poésies'', had a major influence on modern arts and literature, particularly on the [[Surrealism|Surrealists]] and the [[Situationist International|Situationists]]. Ducasse died at the age of 24.
+
+==Biography==
+
+===Youth===
+Ducasse was born in [[Montevideo]], [[Uruguay]], to François Ducasse, a French [[Consul (representative)|consul]]ar officer, and his wife Jacquette-Célestine Davezac. Very little is known about Isidore's childhood, except that he was baptized on 16 November 1847 in the [[Montevideo Metropolitan Cathedral]] and that his mother died soon afterwards, probably due to an epidemic. In 1851, as a five-year-old, he experienced the end of the eight-year [[Uruguayan Civil War#The Great Siege|Siege of Montevideo]] in the [[Argentina|Argentine]]-[[History of Uruguay|Uruguayan]] War. He was brought up speaking three languages: French, Spanish, and English.
+
+In October 1859, at the age of thirteen, he was sent to high school in France by his father. He was trained in French education and technology at the Imperial [[Lycée]] in [[Tarbes]]. In 1863 he enrolled in the Lycée Louis Barthou in [[Pau, Pyrénées-Atlantiques|Pau]], where he attended classes in rhetoric and philosophy. He excelled at arithmetic and drawing and showed extravagance in his thinking and style. Isidore was a reader of [[Edgar Allan Poe]] and particularly favored [[Percy Bysshe Shelley]] and [[Lord Byron|Byron]], as well as [[Adam Mickiewicz]], [[John Milton|Milton]], [[Robert Southey]], [[Alfred de Musset]], and [[Charles Baudelaire|Baudelaire]] (see the letter of 23 October 1869 cited extensively below). At school he was fascinated by [[Jean Racine|Racine]] and [[Pierre Corneille|Corneille]], and by the scene of the blinding in [[Sophocles]]' ''[[Oedipus Rex]]''. According to his schoolmate Paul Lespès, he displayed obvious folly "by self-indulgent use of adjectives and an accumulation of terrible death images" in an essay.{{cn|date=September 2020}} After graduation he lived in Tarbes, where he started a friendship with Georges Dazet, the son of his guardian, and decided to become a writer.
+
+===Years in Paris===
+After a brief stay with his father in Montevideo, Ducasse settled in Paris at the end of 1867. He began studies in view of entering the [[École Polytechnique]], only to abandon them one year later. Continuous allowances from his father made it possible for Ducasse to dedicate himself completely to his writing. He lived in the "Intellectual Quarter", in a hotel in the ''Rue Notre-Dame-des-Victoires'', where he worked intensely on the first [[canto]] of ''Les Chants de Maldoror''. It is possible that he started this work before his passage to Montevideo, and also continued the work during his ocean journey.
+
+Ducasse was a frequent visitor to nearby libraries, where he read [[Romanticism|Romantic]] literature, as well as scientific works and encyclopaedias. The publisher Léon Genonceaux described him as a "large, dark, young man, beardless, mercurial, neat and industrious", and reported that Ducasse wrote "only at night, sitting at his piano, declaiming wildly while striking the keys, and hammering out ever new verses to the sounds".  However, this account has no corroborating evidence, and is considered unreliable.<ref>Knight, pp. 7-8.</ref><ref>{{cite web |url=https://www.lrb.co.uk/v17/n21/harry-mathews/shark-shagger |title=Shark-Shagger |last1=Mathews |first1=Harry |website=London Review of Books |date=November 2, 1995}}</ref>
+
+In late 1868, Ducasse published (anonymously and at his own expense) the first canto of ''Les Chants de Maldoror'' (Chant premier, par ***), a booklet of thirty-two pages.
+
+On 10 November 1868, Ducasse sent a letter to the writer [[Victor Hugo]], in which he included two copies of the first canto, and asked for a recommendation for further publication. A new edition of the first canto appeared at the end of January 1869, in the anthology ''Parfums de l'Âme'' in Bordeaux. Here Ducasse used his pseudonym Comte de Lautréamont for the first time. His chosen name was based on the character of Latréaumont from a popular 1837 French [[gothic novel]] by [[Eugène Sue]], which featured a haughty and blasphemous anti-hero similar in some ways to Isidore's Maldoror. The title was possibly paraphrasing ''l'autre à Mont(evideo)'',<ref>{{Cite web|url=https://www.gerhard-richter.com/fr/exhibitions/l-39autre-a-montevideo-homenaje-a-isidore-ducasse-1076/portrait-of-lautreacuteamont-13882/?p=1|title=Portrait de Lautréamont » L|website=www.gerhard-richter.com}}</ref><ref>{{Cite web|url=https://ofazedordeauroras.blogspot.com/2015/03/lautre-mont-lautreamont-em-montevideo.html|title=O Fazedor de Auroras: L'autre à Mont (Lautréamont em Montevideo)|date=March 14, 2015}}</ref> although it can also be interpreted as ''l'autre Amon'' (the other [[Amon (demon)|Amon]]) or "l'autre Amont" (the other side of the river: 'En amont' = French for: 'Upstream') or, finally, from  ''[[The Count of Monte Cristo]]'', "L'autre Mond" (the other world's count).{{Citation needed|date=February 2007}}
+
+Thanks to his father's money and the banker Darasse's good offices, a total of six cantos were to be published during late 1869, by [[Albert Lacroix]] in Brussels, who had also published Eugène Sue. The book was already printed when Lacroix refused to distribute it to the booksellers as he feared prosecution for [[blasphemy]] or [[obscenity]]. Ducasse considered that this was because "life in it is painted in too harsh colors" (letter to the banker Darasse from 12 March 1870).
+
+Ducasse urgently asked [[Auguste Poulet-Malassis]], who had published [[Charles Baudelaire|Baudelaire]]'s ''[[Les Fleurs du mal]]'' (''The Flowers of Evil'') in 1857, to send copies of his book to the critics. They alone could judge "the commencement of a publication which will see its end only later, and after I will have seen mine". He tried to explain his position, and even offered to change some "too strong" points for future editions:
+
+{{quote|text=I have written of evil as Mickiewicz, Byron, Milton, Southey, A. de Musset, Baudelaire and others have all done. Naturally I pulled the registers in a slightly exaggerated way, in order to create something new in the sense of a sublime literature that sings of despair only in order to oppress the reader, and make him desire the good as the remedy. Thus it is always, after all, the good which is the subject, only the method is more philosophical and less naive than that of the old school. (...) Is that evil? No, certainly not.|sign=letter from 23 October 1869.}}
+
+Poulet-Malassis announced the forthcoming publication of the book the same month in his literary magazine ''Quarterly Review of Publications Banned in France and Printed Abroad''. Otherwise, few people took heed of the book. Only the ''Bulletin du Bibliophile et du Bibliothécaire'' noticed it in May 1870, saying: "The book will probably find a place under the bibliographic curiosities".
+
+===Death===
+During spring 1869, Ducasse frequently changed his address, from 32 Rue du Faubourg Montmartre to 15 Rue Vivienne, then back to Rue Faubourg Montmartre, where he lodged in a hotel at number 7. While still awaiting the distribution of his book, Ducasse worked on a new text, a follow-up to his "phenomenological description of evil", in which he wanted to sing of good. The two works would form a whole, a dichotomy of good and evil. The work, however, remained a fragment.
+
+In April and June 1870, Ducasse published the first two installments of what was obviously meant to be the preface to the planned "chants of the good" in two small brochures, ''Poésies'' I and II; this time he published under his real name, discarding his pseudonym. He differentiated the two parts of his work with the terms [[philosophy]] and [[poetry]], announcing that the beginning of a struggle against evil was the reversal of his other work:
+
+{{quote|text=I replace melancholy with courage, doubt with certainty, despair with hope, malice with good, complaints with duty, scepticism with faith, sophisms with cool equanimity and pride with modesty.}}
+
+At the same time Ducasse took texts by famous authors and cleverly inverted, corrected and openly plagiarized for ''Poésies'':
+
+{{quote|text=Plagiarism is necessary. It is implied in the idea of progress. It clasps the author's sentence tight, uses his expressions, eliminates a false idea, replaces it with the right idea.}}
+
+Among the works plagiarized were [[Blaise Pascal]]'s ''[[Pensées]]'' and [[François de La Rochefoucauld (writer)|La Rochefoucauld]]'s ''Maximes'', as well as the work of [[Jean de La Bruyère]], [[Luc de Clapiers, marquis de Vauvenargues|Luc de Clapiers]], [[Dante Alighieri|Dante]], [[Immanuel Kant|Kant]] and [[Jean de La Fontaine|La Fontaine]]. It even included an improvement of his own ''Les Chants de Maldoror''. The brochures of [[aphoristic]] prose did not have a price; each customer could decide which sum they wanted to pay for it.
+
+On 19 July 1870, [[Napoleon III]] declared war on Prussia, and after his capture, Paris was [[Siege of Paris (1870–1871)|besieged]] on 17 September, a situation with which Ducasse was already familiar from his early childhood in Montevideo. The living conditions worsened rapidly during the siege, and according to the owner of the hotel he lodged at, Ducasse became sick with a "bad fever".
+
+Lautréamont died at the age of 24, on 24 November 1870, at 8 am in his hotel. On his death certificate, "no further information" was given. Since many were afraid of epidemics while Paris was besieged, Ducasse was buried the next day after a service in Notre Dame de Lorette in a provisional grave at the [[Montmartre Cemetery|Cimetière du Nord]]. In January 1871, his body was put into another grave elsewhere.
+
+In his ''Poésies'' Lautréamont announced: "I will leave no memoirs", and as such, the life of the creator of the ''Les Chants de Maldoror'' remains for the most part unknown.
+
+==''Les Chants de Maldoror''==
+{{Main|Les Chants de Maldoror}}
+''Les Chants de Maldoror'' is based on a character called Maldoror, a figure of unrelenting evil who has forsaken [[God]] and mankind. 
+The book combines a violent narrative with vivid and often surrealistic imagery.
+
+The critic Alex De Jonge writes: "Lautréamont forces his readers to stop taking their world for granted. He shatters the complacent acceptance of the reality proposed by their cultural traditions and makes them see that reality for what it is: an unreal nightmare all the more hair-raising because the sleeper believes he is awake".<ref>Alex De Jonge, ''Nightmare Culture: Lautréamont and Les Chants de Maldoror'' (London: Secker and Warburg, 1973), p. 1.</ref>
+
+There is a wealth of Lautréamont criticism, interpretation and analysis in [[French Language|French]] (including an esteemed biography by Jean-Jacques Lefrère), but little in English.
+
+Lautréamont's writing has many bizarre scenes, vivid imagery and drastic shifts in tone and style. There is much "[[black humor]]"; De Jonge argues that Maldoror reads like "a sustained sick joke".<ref>De Jonge, p. 55.</ref>
+
+[[File:Editions_Chants_de_Maldoror.png|thumb|upright|First edition of "Les Chants de Maldoror": the booklet, sold for 30 cents, is anonymous (August 1868).]]
+
+==''Poésies''==
+
+''Poésies'' (Poems, Poetry) is Ducasse's other, minor surviving work, and is divided into two parts.  Unlike ''Maldoror'', ''Poésies'' was published under Ducasse's given name.<ref>Knight, p. 10.</ref>
+
+Both parts consist of a series of [[Maxim (philosophy)|maxims]] or [[aphorism]]s in prose, which express [[Aesthetics|aesthetic opinions]] concerning literature and poetry.  These statements frequently refer to authors of the [[western canon]] and compare their works and talents in rhetorical language; cited authors include the [[Greek tragedy|Greek tragedians]], [[Edgar Allan Poe]], and especially many French authors of Ducasse's period, including [[Charles Baudelaire]], [[Alexander Dumas]], and [[Victor Hugo]].  ''Poésies'' is therefore not a collection of ''poetry'' as its title suggests, but instead a work of [[literary criticism]], or [[poetics]].  ''Poésies'' also contrasts with the negative themes of ''Maldoror'' in the sense that it uses far more positive, uplifting, and [[Humanism|humanistic]] language.  Goodness and conventional moral values are regularly praised, even as authors familiar to Ducasse are sometimes denigrated:
+
+{{Quote|text=Do not deny the immortality of the soul, God's wisdom, the value of life, the order of the universe, physical beauty, the love of the family, marriage, social institutions.  Ignore the following baneful pen-pushers: Sand, Balzac, Alexander Dumas, Musset, Du Terrail, Féval, Flaubert, Baudelaire, Leconte and the [[François Coppée|Grève des Forgerons]]!|title=''Poésies, Part I''<ref>Knight, p. 264.</ref>}}
+
+Despite this, there are commonalities with ''Maldoror''.  Both works regularly describe animals by way of [[simile]] or colorful analogy, and although [[God]] is praised, other passages suggest on the contrary a humanism which places man above God: "Elohim is made in man's image."<ref>Knight, p. 278.</ref>
+
+==Surrealism==
+In 1917, French writer [[Philippe Soupault]] discovered a copy of ''Les Chants de Maldoror'' in the mathematics section of a small Parisian bookshop, near the military hospital to which he had been admitted. In his memoirs Soupault wrote:
+
+<blockquote>By the light of a candle that was permitted to me, I began reading. It was like an enlightenment. In the morning I read the ''Chants'' again, convinced that I had dreamed... The day after, [[André Breton]] came to visit me. I gave him the book and asked him to read it. The following day he brought it back, enthusiastic as I had been.</blockquote>
+
+Due to this find, Lautréamont was introduced to the [[Surrealism|Surrealists]]. Soon they called him their prophet. As one of the ''[[poète maudit|poètes maudits]]'' (accursed poets), he was elevated to the Surrealist pantheon beside [[Charles Baudelaire]] and [[Arthur Rimbaud]], and acknowledged as a direct precursor to Surrealism. In the first edition of the [[Surrealist Manifesto|Manifeste du Surréalisme]] (1924) Breton wrote: "With ''Les Chants de Maldoror'' the Surrealism was born. Older examples can only be traced all the way back to the time of prophets and oracles".<ref>André Breton ''Manifest du Surrealisme'', Èditions du Sagittaire, October 15, 1924.</ref> [[André Gide]] regarded him — even more than Rimbaud — as the most significant figure, as the "gate-master of tomorrow's literature", meriting Breton and Soupault "to have recognized and announced the literary and ultra-literary importance of the amazing Lautréamont".
+
+[[Louis Aragon]] and Breton discovered the only copies of the ''Poésies'' in the [[Bibliothèque nationale de France|National Library of France]], and published the text in April and May 1919 in two sequential editions of their magazine ''Literature''. In 1925, a special edition of the Surrealist magazine ''Le Disque Vert'' was dedicated to Lautréamont, under the title "Le cas Lautréamont" (The Lautréamont case). It was the 1927 publication by Soupault and Breton that assured him a permanent place in [[French literature]] and the status of patron saint in the Surrealist movement. In 1930, Aragon called Lautréamont the "veritable initiator of the modern marvelous",<ref>Louis Aragon, "La peinture au défi". Reprinted in ''Les Collages'' (Paris: Hermann, 1965), p. 39.</ref> with "the marvelous" being a primary feature of Breton's Surrealism.<ref>André Breton, "Manifesto of Surrealism" [1924], in ''Manifestoes of Surrealism'', transl. [[Richard Seaver]] and [[Helen R. Lane]] (Ann Arbor: University of Michigan, 1972).</ref> In 1940, Breton incorporated him into his ''Anthology of Black Humour''.
+
+The title of an object by American artist [[Man Ray]], called ''L'énigme d'Isidore Ducasse'' (''The Enigma of Isidore Ducasse''), created in 1920, contains a reference to a famous line in Canto VI, Chapter 3. Lautréamont describes a young boy as "beautiful as the chance meeting on a dissecting-table of a sewing-machine and an umbrella".<ref>{{Cite web|url=https://nga.gov.au/International/Catalogue/Detail.cfm?IRN=43741|title=International Paintings and Sculpture &#124; The enigma of Isidore Ducasse|website=nga.gov.au}}</ref> Similarly, Breton often used this line as an example of Surrealist dislocation. In direct reference to Lautréamont's "chance meeting on a dissection table", [[Max Ernst]] defined the structure of the surrealist painting as "a linking of two realities that by all appearances have nothing to link them, in a setting that by all appearances does not fit them." Referencing this line, the debut record by the experimental/[[industrial music]] group [[Nurse With Wound]] is titled [[Chance meeting on a dissecting table of a sewing machine and an umbrella]].
+
+''Maldoror'' inspired many artists: [[Fray De Geetere]], [[Salvador Dalí]], [[Man Ray]], [[Jacques Houplain]], [[Jindřich Štyrský]], [[René Magritte]], [[Georg Baselitz]] and [[Victor Man]]. Individual works have been produced by [[Max Ernst]], [[Victor Brauner]], [[Óscar Domínguez]], [[André Masson]], [[Joan Miró]], [[Aimé Césaire]], [[Roberto Matta]], [[Wolfgang Paalen]], [[Kurt Seligmann]] and [[Yves Tanguy]]. The artist [[Amedeo Modigliani]] always carried a copy of the book with him and used to walk around [[Montparnasse]] quoting from it.
+
+[[File:Lautréamont by Vallotton.jpg|thumb|An imagined portrait of Lautréamont by [[Félix Vallotton]] in ''The Book of masks'' from [[Remy de Gourmont]] (1898).]]
+[[Félix Vallotton]] and Dalí made "imaginary" portraits of Lautréamont, since no photograph was available.
+
+==Influence on others==
+[[Kadour Naimi]] realized an adaptation of ''Les Chants de Maldoror'', in theater in 1984, and as a film in 1997.
+
+A portion of ''Maldoror'' is recited toward the end of [[Jean-Luc Godard]]'s 1967 film ''[[Week End (1967 film)|Week End]]''.
+
+[[Situationist]] founder, filmmaker and author [[Guy Debord]] developed a section from ''Poésies II'' as thesis 207 in ''[[The Society of the Spectacle]]''. The thesis covers plagiarism as a necessity and how it is implied by progress. It explains that plagiarism embraces an author's phrase, makes use of his expressions, erases a false idea, and replaces it with the right idea. His fellow Situationist [[Raoul Vaneigem]] placed considerable importance on the insights of Lautréamont, stating in the Introduction to ''[[The Revolution of Everyday Life]]'' that: "For as long as there have been men — and men who read Lautréamont — everything has been said and few people have gained anything from it."
+
+The writers [[Jean Paulhan]] and [[Henri Michaux]] have both counted Lautréamont as an influence on their work.{{citation needed|date=November 2015}}
+
+[[Kenneth Anger]] claimed to have tried to make a film based on ''Maldoror'', under the same title, but could not raise enough money to complete it.<ref>{{Cite web|url=https://www.interviewmagazine.com/film/kenneth-anger|title=Kenneth Anger|date=June 30, 2014|website=Interview Magazine}}</ref>
+
+In recent years, invoking an obscure clause in the [[Napoleonic Code|French civil code]], Article 171, modern [[performance artist]] Shishaldin petitioned the government for permission to marry the author posthumously.<ref>{{Cite web|url=https://brooklynrail.org/2004/04/artseen/shishald|title=Shishaldin: Untimely Career Retrospective|first=Sonya|last=Shrier|date=April 1, 2004|website=The Brooklyn Rail}}</ref>
+
+[[John Ashbery]], an American poet influenced by surrealism, entitled his 1992 collection ''[[Hotel Lautréamont]]'', and the English edition notes that Lautréamont is "one of the forgotten presences alive" in the book.
+
+[[Brazil]]ian author [[Joca Reiners Terron]] depicts the character of Isidoro Ducasse as one of the seven angels of the [[Apocalypse]] in his first novel, ''Não Há Nada Lá''. Ducasse's character becomes obsessed with an edition of ''[[Les Fleurs du Mal]]'' in the novel, while taking a trip by train through Europe.
+
+Lautréamont and his ''Chants de Maldoror'' are briefly mentioned in [[Jô Soares]]' 1995 novel ''[[A Samba for Sherlock|O Xangô de Baker Street]]''.
+
+Isidore Ducasse is the given name of the fashion creator in William Klein's 1966 movie ''[[Who Are You, Polly Maggoo?]]''.
+
+Lautréamont, as an unnamed "South American", appears as a character in [[Julio Cortázar]]'s short story "The Other Heaven", which also uses quotations from ''Maldoror'' as epigraphs.<ref>Cortázar, Julio. ''Cartas'' (tomo 4) p.415.</ref>
+
+French philosopher [[Gilles Deleuze]] and psychiatrist [[Félix Guattari]] cited Lautréamont twice over the course of their joint two-volume work, [[Capitalism and Schizophrenia]], once in [[Anti-Oedipus|each]] [[A Thousand Plateaus|volume]].{{efn|In this domain as in the others, isn't there a properly libidinal conflict between a paranoiac-Oedipalizing element of science, and a schizorevolutionary element?  That very conflict that leads Lacan to say there exists a drama for the scientist. ("J.R. Mayer, Cantor, I will not draw up an honor roll of these dramas that sometimes lead to madness..., a list that could not include itself in Oedipus, unless it were to call Oedipus in question." Since, in point of fact, Oedipus does not intervene in these dramas as a familial figure or even as a mental structure; its intervention is determined by an axiomatic acting as an oedipalizing factor, resulting in a specifically scientific Oedipus.)  And in contrast to Lautréamont's song that rises up around the paranoiac-Oedipal-narcissistic pole-"O rigorous mathematics....Arithmetic!  algebra! geometry! imposing trinity! luminous triangle!"-there is another song: O schizophrenic mathematics, uncontrollable and mad desiring-machines!<ref>{{cite book |last1=Deleuze |first1=Gilles |last2=Guattari |first2=Félix |title=Anti-Oedipus |url=https://archive.org/details/antioedipuscapit00dele_367 |url-access=limited |date=1972 |publisher=[[University of Minnesota Press]] |isbn=9780816612253 |page=[https://archive.org/details/antioedipuscapit00dele_367/page/n389 371] }}</ref>}}{{efn|In contrast to natural history, man is now no longer the eminent term of the series; that term may be an animal for man, the lion, crab, bird of prey, or louse, in relation to a given act or function, in accordance with a given demand of the unconscious.  Bachelard wrote a fine Jungian book when he elaborated the ramified series of Lautréamont, taking into account the speed coefficient of the metamorphoses and the degree of perfection of each term in relation to a pure aggressiveness as the principle of the series: the serpent's fang, the horn of the rhinocerous, the dog's tooth, the owl's beak; and higher up, the claw of the eagle or the vulture, the pincer of the crab, the legs of the louse, the suckers of the octopus.<ref>{{cite book |last1=Deleuze |first1=Gilles |last2=Guattari |first2=Félix |translator-last1=Massumi |translator-first1=Brian |title=A Thousand Plateaus |url=https://archive.org/details/thousandplateaus00dele |url-access=limited |date=1980 |publisher=[[University of Minnesota Press]] |isbn=9780816614028 |page=[https://archive.org/details/thousandplateaus00dele/page/n256 236] }}</ref>}}
+
+==Bibliography==
+* ''Les Chants de Maldoror - Chant premier'', par *** (1st canto, published anonymously), Imprimerie Balitout, Questroy et Cie, Paris, August 1868 
+* ''Les Chants de Maldoror - Chant premier'', par Comte de Lautréamont (1st canto, published under the pseudonym Comte de Lautréamont), in: "Parfums de l'Ame" (anthology, edited by Evariste Carrance), Bordeaux, 1869 
+* ''Les Chants de Maldoror'' (first complete edition, not delivered to the booksellers), A. Lacroix, Verboeckhoven et Cie, Brussels, 1869 
+* ''Poésies I'', Librairie Gabrie, Balitout, Questroy et Cie, Paris, 1870
+* ''Poésies II'', Librairie Gabrie, Balitout, Questroy et Cie, Paris, 1870
+* ''Les Chants de Maldoror'', Typ. de E. Wittmann, Paris and Brussels, 1874 (1869's complete edition, with new cover)
+* ''Les Chants de Maldoror'', preface by Léon Genonceaux, with a letter by Lautréamont, Éditions Léon Genonceaux, 1890 (new edition)
+* ''Les Chants de Maldoror'', with 65 illustrations by Frans De Geetere, Éditions Henri Blanchetière, Paris, 1927
+* ''Les Chants de Maldoror'', with 42 illustrations by [[Salvador Dalí]]; Albert Skira Éditeur, Paris, 1934
+* ''Œuvres Complètes'', with a preface by [[André Breton]] und illustrations by [[Victor Brauner]], [[Óscar Domínguez]], [[Max Ernst]], [[Henri Espinouze|Espinoza]], [[René Magritte]], [[André Masson]], [[Joan Miró]], [[Roberto Matta]], [[Wolfgang Paalen]], [[Man Ray]], [[Kurt Seligmann]] and [[Yves Tanguy]], G.L.M. (Guy Levis Mano), Paris, 1938
+* ''Maldoror'', with 27 illustrations by Jacques Houplain, Société de francs-bibliophiles, Paris, 1947
+* ''Les Chants de Maldoror''. with 77 illustrations by [[René Magritte]]; Éditions de "La Boetie", Brussels, 1948
+* ''Œuvres complètes. Fac-similés des éditions originales'' (facsimiles of the original editions), La Table Ronde, Paris, 1970 
+* ''Œuvres complètes'', based on the edition of 1938, with all historical prefaces by Léon Genonceaux (Édition Genouceaux, Paris, 1890), [[Rémy de Gourmont]] (Édition de la Sirène, Paris, 1921), [[Edmond Jaloux]] (Éditions Librairie José Corti, Paris, April 1938), [[Philippe Soupault]] (Éditions Charlot, Paris, 1946) [[Julien Gracq]] (La Jeune Parque, Paris, 1947), [[Roger Caillois]] (Éditions Librairie José Corti 1947), [[Maurice Blanchot]] (Éditions du Club français du livre, Paris, 1949), Éditions Librairie José Corti, Paris, 1984
+* ''Les Chants de Maldoror'', with 81 illustrations by Tagliamani; {{Ill|Éditions de la Baconnière|fr}}, Genève, 2012
+* ''Lautréamont, Subject to Interpretation'', Brill/Rodopi, Amsterdam, 2015
+
+===Translations===
+* ''The Lay of Maldoror''. London: [[Casanova Society]], 1924. First English translation, by [[John Rodker]]. Illustrated with 3 plates by [[Odilon Redon]]
+* ''Maldoror''. Translated by Guy Wernham; [[New Directions Publishing]], 1943; 0-8112-0082-5
+* ''Lautréamont's Maldoror''. Translated by [[Alexis Lykiard]]; London: [[Allison & Busby]], 1970; vi+218 pp. Paperback 1972, {{ISBN|0-85031-084-9}}
+* ''Maldoror (Les Chants de Maldoror)''. New York: [[Thomas Y. Crowell Company]], 1970; English translation by Alexis Lykiard
+* ''Maldoror''. Great Britain: Penguin Books, "Penguin Classics" series, 1977. Fourth English translation (after Rodker, Wernham and Lykiard) by Paul Knight. Also contains "Poesies" and several "lettres". Extensive introduction by translator.
+* ''Poésies and Complete Miscellanea'', translated by Alexis Lykiard. London: Allison & Busby, 1977. {{ISBN|0-85031-238-8}}
+* ''Maldoror (and the Complete Works of the Comte de Lautréamont)''. Cambridge, MA: [[Exact Change]], 1994; Translated into English by Alexis Lykiard with updated notes and bibliography; {{ISBN|1-878972-12-X}}
+* ''Maldoror and Poems''. Translated, with Introduction, by Paul Knight. New York: Penguin Books, 1988. Cover illustration is a color reproduction of Antoine Wiertz' "Buried Alive" (detail); 288 pp.; {{ISBN|0-14-044342-8}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+There is a wealth of Lautréamont criticism, interpretation and analysis in French, including an esteemed biography by Jean-Jacques Lefrère, but little in English.
+
+* ''Le Cas Lautréamont'', special edition of "Le Disque Vert", with an introduction by André Gide, and texts by [[Philippe Soupault]], [[René Crevel]], [[Giuseppe Ungaretti]], [[Herbert Read]], [[Albert Thibaudet]], André Breton, [[Marcel Arland]], [[Maurice Maeterlinck]], [[Paul Valéry]], [[Paul Éluard]], [[Henri Michaux]], [[Jean Cocteau]], [[Léon Bloy]], [[Rémy de Gourmont]], [[André Malraux]] a.o., and a portrait by Odilon-Jean Périer; René van den Berg, Paris/Brussels 1925
+* Paul Zweig, ''Lautréamont: The Violent Narcissus'', Kennikat, 1972
+* [[Gaston Bachelard]], ''Lautréamont'', Dallas Institute, 1986
+* [[Jeremy Reed (writer)|Jeremy Reed]], ''Isidore: A Novel about the Comte de Lautreamont'', London: [[Peter Owen Publishers]], 1991 ("fictional biography")
+* Alex de Jonge, ''Nightmare Culture: Lautréamont and Les Chants de Maldoror'', London: Secker and Warburg, 1973. Creation Books, 2007 1840681268
+* [[Maurice Blanchot]], '' Lautreamont and Sade''. Meridian, Stanford University Press
+* Peter W. Nesselroth, "Lautréamont's Imagery: a stylistic approach" Geneva: Droz, 1969
+* {{cite encyclopedia
+|author-link=:es:Daniel Eisenberg
+|first=Daniel
+|last=Eisenberg
+|contribution=Lautréamont
+|title=[[Encyclopedia of Homosexuality]]
+|location=New York
+|publisher=[[Garland]]
+|year=1990
+|pages=681–682
+|contribution-url=http://users.ipfw.edu/jehle/deisenbe/encyclopedia/Lautreamont.pdf
+|archive-url=https://web.archive.org/web/20160313203216/http://users.ipfw.edu/jehle/deisenbe/encyclopedia/lautreamont.pdf
+|archive-date=March 13, 2016}}
+* {{in lang|it}} [https://web.archive.org/web/20171024075301/http://athena.unige.ch/athena/lautreamont/lautreamont.html Fortunato Zocchi, ''L'Arte della Mistificazione e la Mistificazione nell'Arte di Lautréamont'', ''La Similitudine nei 'Chants de Maldoror''', ''Il 'Bestiaire' di Lautréamont'', at athena.unige.ch]
+* {{in lang|fr}} [https://web.archive.org/web/20171024075301/http://athena.unige.ch/athena/lautreamont/lautreamont.html Fortunato Zocchi, ''Le Paysage dans 'Les Chants de Maldoror''', at athena.unige.ch]
+* {{in lang|es}} [[Ruperto Long]], [https://web.archive.org/web/20130525050418/http://www.prisaediciones.com/uploads/ficheros/libro/dossier-prensa/201204/dossier-prensa-no-dejare-memorias.pdf ''No dejaré memorias. El enigma del Conde de Lautréamont''], Aguilar, 2012
+
+==External links==
+{{wikiquote}}
+* {{Gutenberg author |id=Lautréamont,+comte+de | name=Comte de Lautréamont}}
+* {{Internet Archive author |sname=Lautréamont}} 
+* {{Librivox author |id=4635}}
+* {{in lang|fr}} [https://web.archive.org/web/20070204111109/http://www.cavi.univ-paris3.fr/phalese/MaldororHtml/documents/Biographie.htm "Chronologie d’Isidore Ducasse"]
+* {{in lang|fr}} [http://fr.wikisource.org/wiki/Comte_de_Lautr%C3%A9amont Lautréamont on French wikisource]
+* {{in lang|fr}} [https://web.archive.org/web/20171024075301/http://athena.unige.ch/athena/lautreamont/lautreamont.html Comte de Lautréamont, ''Les Chants de Maldoror''], at athena.unige.ch
+* {{in lang|fr}} [https://web.archive.org/web/20051023102722/http://www.maldoror.org/ Maldoror: Le Site]
+* {{in lang|fr}} [https://web.archive.org/web/20070203150825/http://www.chass.utoronto.ca/french/sable/recherche/catalogues/lautreamont/index.htm Lautreamont]
+* [http://www.diariodeumladrao.com/ Lautréamont] illustrated by Ricardo Castro
+* [https://web.archive.org/web/20151119090530/http://www.kadour-naimi.com/e-photo_theatre_maldoror.html Page about 1984 theater adaptation of ''Les Chants de Maldoror'']
+* [https://web.archive.org/web/20150626112606/http://www.kadour-naimi.com/e-film-movie-maldoror.htm Page about 1997 film adaptation of ''Les Chants de Maldoror'']
+* [http://www.rfv.ch/news/cd-news/2017/schammasch-the-maldoror-chants-hermaphrodite.html The Maldoror Chants: Hermaphrodite, Avantgarde-Metal-Album of the band Schammasch, 2017]
+
+{{Poète maudit}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lautreamont, Comte de}}
+[[Category:1846 births]]
+[[Category:1870 deaths]]
+[[Category:People from Montevideo]]
+[[Category:French-language poets]]
+[[Category:Poètes maudits]]
+[[Category:Uruguayan emigrants to France]]
+[[Category:French surrealist writers]]
+[[Category:Symbolist poets]]
+[[Category:Symbolist writers]]
+[[Category:19th-century French writers]]
+[[Category:Aphorists]]
+[[Category:19th-century French poets]]
+[[Category:French male poets]]
+[[Category:19th-century French male writers]]

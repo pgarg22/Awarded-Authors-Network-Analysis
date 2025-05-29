@@ -1,0 +1,67 @@
+{{short description|British poet|bot=PearBOT 5}}
+{{Use British English|date=January 2017}}
+{{Use dmy dates|date=March 2018}}
+{{Infobox person
+| name          = Alison Brackenbury
+| image         =
+| alt           = 
+| caption       = 
+| birth_name    = 
+| birth_date     = 
+| birth_place    = 
+| death_date     = 
+| death_place   = 
+| nationality   = British
+| alma_mater    =
+| other_names   = 
+| occupation    = 
+| years_active  = 
+| known_for     = 
+| notable_works = 
+| spouse        = 
+}}
+
+'''Alison Brackenbury''' (born 1953 [[Gainsborough, Lincolnshire]]<ref name=pa>[https://www.poetryarchive.org/poet/alison-brackenbury Alison Brackenbury | poetryarchive.org] Retrieved 2018-02-14.</ref> ) is a British poet.
+
+==Life==
+After studying English at [[St Hugh's College, Oxford]]<ref name=pa/> she now lives in [[Gloucestershire]].<ref>{{Cite web|url = http://www.the-chimaera.com/October2007/Various/Brackenbury.html|title = The Chimaera, October 2007: Alison Brackenbury|website = www.the-chimaera.com|access-date = 2016-04-11|archive-url = https://web.archive.org/web/20160303185106/http://www.the-chimaera.com/October2007/Various/Brackenbury.html|archive-date = 3 March 2016|url-status=dead|df = dmy-all}}</ref> Her work has appeared in the ''Kenyon Review'',<ref>{{cite journal|jstor=4337249 |title=Alison Brackenbury |journal=The Kenyon Review |date=1995 |volume=17 |issue=3/4 |pages=77–78|last1=Brackenbury |first1=Alison }}</ref> ''Ploughshares''.<ref>{{Cite web|url = http://www.pshares.org/authors/author-detail.cfm?authorID=185|title = Read By Author {{!}} Ploughshares|website = www.pshares.org|access-date = 2016-04-11}}</ref> ''Stand'',<ref>{{Cite book|url = https://books.google.com/books?id=dIhZAAAAIAAJ|title = Stand|language = en}}</ref>
+
+==Awards==
+* Eric Gregory Award
+* Poetry Book Society Recommendation.
+* 1997 [[Cholmondeley Award]]
+
+==Works==
+* [https://web.archive.org/web/20160303185106/http://www.the-chimaera.com/October2007/Various/Brackenbury.html "In the gap"; "Affairs"; "Plucked from", ''The Chimera'', October 2007]
+* [https://web.archive.org/web/20080509194309/http://www.nthposition.com/whenmudmarchending.php "When"; "Mud"; "March ending"; "Passing", ''nthposition'', March 2008]
+* [https://www.theguardian.com/books/2008/feb/02/featuresreviews.guardianreview31 "6.25", ''The Guardian'', 2 February 2008]
+* {{cite journal| url=http://magmapoetry.com/archive/magma-39/poems/obit/| title=Obit| journal=Magma 39| date=November 2007 }}
+* {{cite journal| url=http://magmapoetry.com/archive/magma-19-new-love-poems/poems/autumn-street/| title=Autumn Street| journal=Magma 19  }}
+* {{cite journal| url=http://www.signalsmagazine.co.uk/1/brackenbury.htm| title=Have you heard?; The story of Sigurd; A fuel blockade| journal=Signals|date=Summer 2004  }}
+* {{cite book| title=Dreams of Power | publisher=Carcanet New Press| year=1981| isbn=978-0-85635-352-9 }}
+* {{cite book| title=Breaking Ground | publisher=Carcanet| year=1985| isbn=978-0-85635-503-5 }}
+* {{cite book| title=Christmas Roses | publisher=Carcanet| year=1988| isbn=978-0-85635-750-3 }}
+* {{cite book| title=Selected Poems | publisher=Carcanet| year=1991| isbn=978-0-85635-924-8 }}
+* {{cite book| title=1829 | publisher=Carcanet| year=1995| isbn=978-1-85754-122-9 }}
+* {{cite book| title=After Beethoven | publisher=Carcanet| year=2000| isbn=978-1-85754-454-1 }}
+* {{cite book| title=Bricks and Ballads | publisher=Carcanet| year=2004| isbn=978-1-85754-751-1 }}
+* {{cite book| title=Singing in the dark | publisher=Carcanet| year=2008| isbn=978-1-85754-914-0 }}
+* {{cite book| title=Shadow | publisher=HappenStance| year=2009 | isbn=978-1-905939-35-0 }}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://web.archive.org/web/20080509104306/http://www.xpf13.dial.pipex.com/index.shtml "Author's website"]
+* [https://web.archive.org/web/20071030192202/http://www.poetcasting.co.uk/?p=22 Alison Brackenbury reads poems on PoetCasting]
+* [https://web.archive.org/web/20090912232754/http://www.the-chimaera.com/May2008/Spotlight/Interview.html "Interview: Alison Brackenbury talks to Paul Stevens", ''The Chimaera'', May 2008]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brackenbury, Alison}}
+[[Category:Living people]]
+[[Category:1953 births]]
+[[Category:People from Gainsborough, Lincolnshire]]
+[[Category:Alumni of St Hugh's College, Oxford]]
+[[Category:English women poets]]
+[[Category:People from Gloucestershire]]

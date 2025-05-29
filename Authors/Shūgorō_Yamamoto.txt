@@ -1,0 +1,62 @@
+{{short description|Japanese novelist and short-story writer}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Shūgorō Yamamoto
+| image       = Yamamoto Shugoro.jpg
+| caption     = Shūgorō Yamamoto
+| birth_date  = {{birth date|1903|6|22|df=y}}
+| birth_place = [[Otsuki, Yamanashi]], [[Japan]]
+| death_date  = {{Death date and age|1967|2|14|1903|6|22}}
+| death_place = [[Yokohama]], Japan
+| occupation  = Writer
+| genre       = Novels, short stories
+}}
+
+{{nihongo|'''Satomu Shimizu'''|清水 三十六|''Shimizu Satomu''|extra= June 22, 1903 – February 14, 1967}}, better known by the [[pen name]] of {{nihongo|'''Shūgorō Yamamoto'''|山本 周五郎|Yamamoto Shūgorō}}, was a [[Japanese people|Japanese]] novelist and [[short story|short-story]] writer active during the [[Shōwa period]] of [[Japan]]. He was noted for his popular literature, and is known to have published works under at least fourteen different pen names.
+
+==Early life==
+Yamamoto was born in what is now [[Otsuki, Yamanashi|Otsuki]] city in [[Yamanashi prefecture]], to a family in impoverished circumstances.  Lack of money forced him to drop out of secondary school, but he continued his education part-time, while living as a boarder above a [[used bookstore]]. His pen-name came from the name of the store where he lived.
+
+==Literary career==
+Yamamoto's literary debut was with a [[short story]] called ''Sumadera fukin'', and a stage drama in three acts, called ''Horinji iki'', which were both published in 1926. His early works were aimed primarily at children. In 1932, he turned to popular stories for adults with ''Dadara Dambei'', which received little serious notice from the literary world, so he continued to write popular [[detective story|detective stories]] and adventure stories for juvenile audiences. These included a series of short stories with ''[[samurai]]'' themes from 1940–1945, and stories on heroic historical women from 1942–1945, both themes being preeminently suitable for [[Empire of Japan|wartime Japan]].
+
+His preference for [[historical fiction|historically themed writings]] carried over into the postwar era, with ''Momi no ki wa nokotta'' (The Fir Trees Remain) and the ''Flower Mat''. His works are characterized by a marked sympathy for the underdog, a dislike of authority, and with homage to traditional, popular virtues. His ''Nihon Fujin Fudoki'' (Lives of Great Japanese Women) was nominated for the 17th [[Naoki Award]], one of Japan’s most prestigious [[literary prize]]s, but Shūgorō refused to accept, stating modestly that his “popular writings” should not be considered “literature”.
+
+Yamamoto died in [[Yokohama]] of acute [[pneumonia]], and his grave is at the [[Kamakura, Kanagawa|Kamakura]] Public Cemetery.
+
+==Legacy==
+A [[literary prize]], the '''[[Yamamoto Shūgorō Prize]]''', was established in 1987 on the twentieth anniversary of the founding of the Shinchō Society for the Promotion of Literary Arts (''Shinchō Bungei Shinkō Kai''). It is awarded annually to a new work of fiction considered to exemplify the art of storytelling. The winner receives a commemorative gift and a cash award of 1 million [[yen]].<ref>Fukue, Nastuko, "[http://www.japantimes.co.jp/text/nn20120214i1.html Literary awards run spectrum]", ''[[Japan Times]]'', 14 February 2012, p. 3.</ref><ref>[http://www.booksfromjapan.jp/awards/item/673-yamamoto-shugoro-prize J'Lit | Awards : Yamamoto Shugoro Prize | Books from Japan] {{in lang|en}}</ref>
+
+Many of his works were turned into [[film]]s or into [[television series]], notably by [[Akira Kurosawa]] into the films ''[[Sanjuro]]'' (adaptation of the short story ''Nichinichi hei-an'' ("Peaceful Days")), and ''[[Dodes'ka-den]]'' (adaptation of the book ''Kisetsu no nai machi'' ("The Town Without Seasons")). [[Takashi Miike]] also filmed his novel ''Sabu''. 
+
+== Major works ==
+* ''Lives of Great Japanese Women'' (日本婦道記, 1942–1945)
+* ''The Fir Trees Remain'' (樅ノ木は残った, 1954–1958)
+* ''The Tales of Dr. Redbeard'' (赤ひげ診療譚, 1958)
+* ''The Tale of Blue Beka Boat'' (青べか物語, 1960)
+* ''A City Without Seasons'' (季節のない街, 1962)
+* ''Sabu'' (さぶ, 1963)
+
+==See also==
+* [[Japanese literature]]
+* [[List of Japanese authors]]
+
+==Further reading==
+* Yamamoto, Shugoro. ''The Flower Mat''. Tuttle Publishing (2006). {{ISBN|0-8048-3333-8}}.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.booksfromjapan.jp/authors/item/352-shugoro-yamamoto Shugoro Yamamoto] at J'Lit Books from Japan {{in lang|en}}
+
+{{Portal bar|Children's literature|Biography|Japan}}
+{{Authority control}}
+
+{{DEFAULTSORT:Yamamoto, Shugoro}}
+[[Category:1903 births]]
+[[Category:1967 deaths]]
+[[Category:Japanese children's writers]]
+[[Category:Japanese male short story writers]]
+[[Category:People from Ōtsuki, Yamanashi]]
+[[Category:Writers from Yamanashi Prefecture]]
+[[Category:Deaths from pneumonia in Japan]]

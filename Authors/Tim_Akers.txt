@@ -1,0 +1,78 @@
+{{short description|American author of speculative fiction (born 1972)}}
+{{Infobox writer
+|name         = John Timothy Akers
+|image        = 
+|caption      = 
+|pseudonym    = Tim Akers
+|birth_date   = {{birth date and age|1972|12|12}}
+|birth_place  = [[Buncombe County, North Carolina]], USA
+|death_date   = 
+|death_place  = 
+|occupation   = Author
+|genre        = [[Science fiction]], [[fantasy]]
+|movement     = 
+|magnum_opus  = 
+|debut_works  = 
+|influences   = 
+|influenced   = 
+|website      = {{URL|https://www.timakers.net/}}
+}}
+
+'''John Timothy Akers''' is an American author of [[speculative fiction]].<ref name="Abt">Akers, Tim. "[https://www.timakers.net/about/ About]," on timakers.net.</ref><ref name="ISFDB">{{isfdb name|id=108248|name=Tim Akers}}</ref> He writes as '''Tim Akers'''.<ref name="Abt"/><ref name="ISFDB"/>
+
+==Life==
+John Timothy Akers was born in rural [[Buncombe County, North Carolina]], the only son of John Nance Akers, a theologian.<ref name="Abt"/><ref name="GR">[https://www.goodreads.com/author/show/207694.Tim_Akers Tim Akers] on goodreads.com.</ref><ref name="NCBI">North Carolina. Register of Deeds. ''North Carolina Birth Indexes, 1800-2000''. Raleigh, North Carolina: North Carolina State Archives, v. 61, p. 2387.</ref> He moved to [[Chicago]], [[Illinois]] for college, and has resided that area since.<ref name="Abt"/><ref name="GR"/> He is married.<ref name="Abt"/><ref name="GR"/>
+
+==Writing career==
+Akers has been active in the speculative fiction field since 2004.<ref name="ISFDB"/> His work has appeared in various periodicals and anthologies, including ''[[Apex Magazine]]'', ''ChiZine'', ''[[Clarkesworld Magazine]]'', ''[[Electric Velocipede]]'', ''[[Interzone (magazine)|Interzone]]'', ''The Solaris Book of New Science Fiction, Volume Three'', ''[[Strange Horizons]]'', and ''Transmissions from Beyond''.<ref name="ISFDB"/>
+
+==Bibliography==
+=== Burn Cycle===
+#''Heart of Veridon'' (2009)
+#''Dead of Veridon'' (2011)
+*''Bones of Veridon'' (collection) (2013)
+
+===The Hallowed War===
+#''The Pagan Night'' (2016)
+#''The Iron Hound'' (2017)
+#''The Winter Vow'' (2018)
+
+===Other novels===
+*'' The Horns of Ruin'' (2010)
+*''Knight Watch'' (2020)
+
+===Short stories===
+{{div col|content=
+*"Memory Analog" (2004)
+*"A Walking of Crows" (2006)
+*"The Song" (2006)
+*"Distro" (2006)
+*"Toke" (2007)
+*"The Algorithm" (2007)
+*"A Soul Stitched to Iron" (2009)
+*"The Quiet Front" (2013)
+*"The Angel of Divine Intent" (2016)
+*"A Death in the Wayward Drift" (2017)
+}}
+
+===Nonfiction===
+{{div col|content=
+*"Faith in the Fantastic" (2012) 
+}}
+
+==Awards==
+''The Pagan Night'' was a preliminary nominee for the 2017 [[David Gemmell Awards for Fantasy|Gemmell Award]].<ref name="ISFDB"/>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Akers, Tim}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:21st-century American novelists]]
+[[Category:American speculative fiction writers]]
+[[Category:Novelists from North Carolina]]
+[[Category:American male novelists]]
+[[Category:21st-century American male writers]]

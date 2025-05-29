@@ -1,0 +1,115 @@
+{{short description|British writer and poet}}
+{{Use dmy dates|date=October 2016}}
+{{Use British English|date=October 2016}}
+{{Infobox writer <!-- for information see [[Template:Infobox writer/doc]] -->
+| name = Mary Soon Lee
+| image =
+| imagesize = 250px
+| caption =
+| pseudonym = 
+| birth_name =
+| birth_date = 1965
+| birth_place = [[London, England]]
+| death_date = 
+| alma_mater    = Trinity Hall, [[Cambridge University]]
+| occupation = Writer, poet
+| nationality = British
+| period = 
+| genre = [[speculative fiction]] 
+| notableworks = 
+| spouse        = Andrew Moore
+| website = {{URL|marysoonlee.com}}
+}}
+'''Mary Soon Lee'''  (born 1965) <ref>[http://www.isfdb.org/cgi-bin/ea.cgi?1362 ISFDB]</ref> is a [[British people|British]] [[speculative fiction]] writer and poet.<ref>{{cite web|last=Jones|first=Donna|title=On Spec: The Canadian Magazine Of The Fantastic vol 17 no. 3 # 62 Fall 2005|url=http://www.sfcrowsnest.com/articles/books/2006/On-Spec-The-Canadian-Magazine-Of-The-Fantastic-vol-17-no-3--62-Fall-2005-10068.php|publisher=SF Crowsnest|accessdate=26 June 2013|archive-url=https://web.archive.org/web/20170804084253/http://www.sfcrowsnest.com/articles/books/2006/On-Spec-The-Canadian-Magazine-Of-The-Fantastic-vol-17-no-3--62-Fall-2005-10068.php|archive-date=4 August 2017|url-status=dead}}</ref>
+
+==Life and career==
+Mary Soon Lee was born in [[London, England]], and attended Trinity Hall, [[Cambridge University]], where she graduated with a [[Master of Arts]] in mathematics and a diploma in [[computer science]]. After graduating, she worked as a Lisp programmer at the software company [[Harlequin (software company)|Harlequin]]. She began writing in 1991 on TV scripts, and in 1992 turned to short stories, making her first short story sale to ''Strange Days'' magazine.<ref>{{cite web|last=Walters|first=Trent|title=A Conversation With Mary Soon Lee|url=http://www.sfsite.com/02b/msl122.htm|publisher=SF Site|accessdate=26 June 2013}}</ref> Her work has appeared in several professional magazines and anthologies including ''[[The Magazine of Fantasy & Science Fiction|Fantasy & Science Fiction]]'', ''[[Interzone (magazine)|Interzone]]'' and ''[[Analog Science Fiction and Fact|Analog]]''.<ref>{{cite web|last=Yant|first=Christie|title=Author Spotlight: Mary Soon Lee|url=http://www.lightspeedmagazine.com/nonfiction/author-spotlight-mary-soon-lee/|publisher=[[Lightspeed (magazine)|Lightspeed]]|accessdate=26 June 2013}}</ref> She currently resides in the United States.
+
+==Bibliography==
+{{Col-begin}}
+{{Col-break}}
+
+Selected works include:
+
+===Short stories===
+*''Ebb Tide'' (1995)
+*''Assembly Line'' (1995)
+*''The Tinkerbell Theory'' (1995)
+*''Silent in the Cities'' (1996)
+*''The Hollow Dancer'' (1997)
+*''Universal Grammar'' (1997)
+*''Monstrosity'' (1997)
+*''Puppetta'' (1997)
+*''Interior Landscape'' (1998)
+*''Ex Terra, Ex Astris'' (1998)
+*''The Day Before They Came'' (1998)
+*''Cause and Consequence'' (1998)
+*''Luna Incognita'' (1999)
+*''Lifework'' (1999)
+*''Tranquillity'' (1999)
+*''1-800-Clone-Me'' (1999)
+*''Murder Absolute'' (2000)
+*''Rewind'' (2000)
+{{Col-break}}
+*''PauseTime'' (2000)
+*''Luna Classifieds'' (2001)
+*''The Fall of the Kingdom'' (2001)
+*''Clever People'' (2001)
+*''Patterns'' (2001)
+*''Crew-Dog'' (2001)
+*''The Strangers'' (2001)
+*''New World'' (2002)
+*''Homecoming'' (2002)
+*''Making Fields'' (2002)
+*''Immigrants'' (2003)
+*''Coming of Age'' (2003)
+*''Growing Pains'' (2003)
+*''Shen's Daughter'' (2003)
+*''Sarai'' (2004)
+
+===Collections===
+*''Winter Shadows & Other Tales'' (2001)
+*''Ebb Tides and Other Tales'' (2002)
+
+===Books===
+*''The Sign of the Dragon'' (2015)
+
+{{col-end}}
+
+==Honors and awards==
+*"Shen's Daughter" - included in [[The Year's Best Fantasy Stories (series)|The Year's Best Fantasy #4]]
+*"Homecoming" - included in the Best of the Rest 3: The Best Unknown SF and Fantasy of 2001
+*"Insignificant Others" - nominated for the [[Rhysling Award]], 2001
+*"PauseTime" - Honorable Mention in the Year's Best Science Fiction #18
+*"Lifework" - reprinted in The Year's Best SF #5
+*"Cause and Consequence" - 1st place in the Best of Soft SF Contest, 1998 
+*"The Day Before They Came" - reprinted in The Year's Best SF #4, shortlist for the British Science Fiction Association Awards, Honorable Mention in the Year's Best Science Fiction #16
+*"Mail-A-Day" - 3rd place in the Best of Soft SF Contest, 1996
+*"To Have And To Hold"- 2nd place in the Best of Soft SF Contest, 1995.<ref>{{cite web |title=Mary Soon Lee Bibliography|publisher=Carnegie Mellon|url=https://www.cs.cmu.edu/~mslee/cr.html|accessdate=24 June 2013}}</ref>
+*"Interregnum" - Rhysling Award for Best Long Poem, 2014
+
+==References==
+{{reflist|2}}
+
+==External links==
+*{{official website|http://www.marysoonlee.com/}}
+*{{official website|http://marysoonlee.s3-website-us-east-1.amazonaws.com/bib.html|Full bibliography}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lee, Mary Soon}}
+[[Category:20th-century American women writers]]
+[[Category:21st-century American women writers]]
+[[Category:British fantasy writers]]
+[[Category:British science fiction writers]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:Living people]]
+[[Category:Writers from London]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Writers from Pennsylvania]]
+[[Category:American women short story writers]]
+[[Category:American short story writers]]
+[[Category:1965 births]]
+[[Category:British women short story writers]]
+[[Category:20th-century British short story writers]]
+[[Category:21st-century British short story writers]]

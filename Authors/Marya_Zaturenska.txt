@@ -1,0 +1,89 @@
+{{short description|American poet}}
+{{Infobox writer
+| name          = Marya Zaturenska
+| image         = Marya Zaturenska.jpg
+| image_size    = 
+| alt           = 
+| caption       = 
+| pseudonym     = 
+| birth_name    = 
+| birth_date    = September 12, 1902
+| birth_place   = [[Kyiv]], [[Ukraine]]
+| death_date    = {{death date and age|1982|1|19|1902|9|12}}
+| death_place   = [[Shelburne Falls, Massachusetts]]
+| resting_place = 
+| occupation    = 
+| language      = 
+| nationality   = 
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = [[Valparaiso University]]<br>[[University of Wisconsin–Madison]]
+| period        = 
+| genre         = [[Lyric poetry]]
+| subject       = 
+| movement      = 
+| notableworks  = ''Cold Morning Sky''
+| spouse        = [[Horace Gregory]] (m. 1925)
+| partner       = 
+| children      = 
+| relatives     = 
+| influences    = 
+| influenced    = 
+| awards        = [[Pulitzer Prize for Poetry]] (1938)
+| signature     = 
+| signature_alt = 
+| website       = 
+| portaldisp    = 
+}}
+
+'''Marya Zaturenska''' (September 12, 1902 &ndash; January 19, 1982) was an [[United States|American]] [[Lyric poetry|lyric poet]], winner of the [[Pulitzer Prize for Poetry]] in 1938.<ref name="nytimes.com">{{cite news| url=https://www.nytimes.com/1982/01/21/obituaries/marya-zaturenska-lyric-poet-received-pulitzer-prize-in-38.html| title=MARYA ZATURENSKA, LYRIC POET RECEIVED PULITZER PRIZE IN '38| date=January 21, 1982| work=The New York Times}}</ref>
+
+==Life==
+She was born in [[Kyiv]] and her family emigrated to the United States, when she was eight and lived in New York. Like many immigrants, she worked in a clothing factory during the day, but was able to attend night high school. She was an outstanding student and won a scholarship to [[Valparaiso University]];<ref>http://www.jpress.nli.org.il/Olive/APA/NLI_heb/SharedView.Article.aspx?href=FRW%2F1926%2F02%2F14&id=Ar00300&sk=5658D096</ref><ref>http://www.jpress.nli.org.il/Olive/APA/NLI_heb/SharedView.Article.aspx?href=FRW%2F1926%2F02%2F14&id=Ar01503&sk=2E4805F6</ref> she later transferred to the [[University of Wisconsin–Madison]], receiving a degree in library science.<ref>{{cite book| chapter-url=https://books.google.com/books?id=18J48gmmwrAC&q=Marya+Zaturenska&pg=PA122| chapter=Marya Zaturenska| title=The tenement saga: the Lower East Side and early Jewish American writers| author=Sanford V. Sternlicht| publisher=Terrace Books| year=2004| isbn=978-0-299-20484-6 }}</ref> She met her husband, the prize-winning poet [[Horace Gregory]] there; they married in 1925.<ref name="nytimes.com"/>  Her two children were Patrick and Joanna Gregory. She wrote eight volumes of poetry, including the [[Pulitzer Prize]]-winning ''Cold Morning Sky'', and she edited six anthologies of poetry.
+
+Her work appeared in ''The New York Times'',<ref>{{cite news| url=https://query.nytimes.com/search/query?frow=0&n=10&srcht=s&query=Marya+Zaturenska&srchst=p&submit.x=36&submit.y=7&submit=sub&hdlquery=&bylquery=Marya+Zaturenska&daterange=full&mon1=01&day1=01&year1=1981&mon2=06&day2=19&year2=2009 | work=The New York Times | first=Marya | last=Zaturenska | accessdate=May 12, 2010}}</ref> ''Poetry Magazine'',<ref>http://www.poetryfoundation.org/search.html?q=Marya%20Zaturenska&refinement=poetry_magazine&disp_type=Poetry%20Magazine{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Awards==
+* 1938 Pulitzer Prize
+
+==Works==
+
+===Poetry===
+
+* {{cite book| title=Threshold and Heart| publisher=The Macmillan company| year=1934 }}
+* {{cite book| title=Cold Morning Sky| publisher=Macmillan| year=1937 }}
+* {{Cite book| title=The Golden Mirror| place=New York| publisher=The Macmillan company| year=1944 }}
+* {{cite book| title=Selected poems| publisher=Grove Press| year=1954 }}
+* {{cite book| title=Collected Poems| url=https://archive.org/details/collectedpoems00thor| url-access=registration| publisher=Viking Press| year=1965 }}
+* {{cite book| title=The Hidden Waterfall: poems| url=https://archive.org/details/hiddenwaterfall00mary| url-access=registration| publisher=[[Vanguard Press]]| year=1974 }}
+* {{cite book| title=New selected poems of Marya Zaturenska| editor=Robert S. Phillips| publisher=Syracuse University Press| year=2002| isbn=978-0-8156-0717-5 }}
+
+===Editor===
+* {{cite book| title=Selected poems of Christina Rossetti| author=Christina Georgina Rossetti| editor=Marya Zaturenska| publisher=Macmillan| year=1970 }}
+
+===Non-fiction===
+* {{cite book| title=The diaries of Marya Zaturenska, 1938-1944| editor=Mary Beth Hinton| publisher=Syracuse University Press| year=2002| isbn=978-0-8156-0714-4 }}
+* {{cite book| title=A History of American poetry, 1900-1940| url=https://archive.org/details/in.ernet.dli.2015.215305|authors=Marya Zaturenska, Horace Gregory| publisher=Harcourt, Brace and Co.| year=1946 }}
+
+==References==
+{{reflist}}
+
+{{PulitzerPrize PoetryAuthors 1922–1950}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zaturenska, Marya}}
+[[Category:1902 births]]
+[[Category:1982 deaths]]
+[[Category:Pulitzer Prize for Poetry winners]]
+[[Category:American women poets]]
+[[Category:Valparaiso University alumni]]
+[[Category:University of Wisconsin–Madison School of Library and Information Studies alumni]]
+[[Category:20th-century American poets]]
+[[Category:Emigrants from the Russian Empire to the United States]]
+[[Category:20th-century American women writers]]
+[[Category:People from Shelburne Falls, Massachusetts]]
+
+
+{{US-poet-1900s-stub}}

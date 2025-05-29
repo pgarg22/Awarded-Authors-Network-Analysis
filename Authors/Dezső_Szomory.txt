@@ -1,0 +1,73 @@
+{{short description|Hungarian writer and dramatist}}
+{{Eastern name order|Szomory Dezső}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Dezső Szomory
+| honorific_prefix = 
+| honorific_suffix = 
+| image = Szomory Dezso.jpg
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = Moshe Weisz
+| birth_date =   {{Birth date|1869|6|2|df=yes}}
+| birth_place =  [[Pest, Hungary|Pest]], [[Lands of the Crown of Saint Stephen|Hungary]], [[Austria-Hungary]]
+| death_date =   {{death date and age|1944|11|30|1869|6|2|df=yes}}
+| death_place =  [[Budapest]], [[Kingdom of Hungary|Hungary]]
+| resting_place = 
+| occupation = 
+| language = 
+| nationality = Hungarian
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre = Novel, [[history play]]      
+| subject =     
+| movement = [[Art Nouveau]], [[Naturalism (theatre)|naturalism]], [[romanticism]]
+| notableworks =  ''Hermelin''<br />''The Paris Story''
+| spouse =        
+| partner =      
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    
+}}
+'''Dezső Szomory''' (born Moshe Weisz;{{sfn|Fenyvesi|2003|p=23}} 2 June 1869 – 30 November 1944) was a Hungarian Jewish writer and dramatist. In his [[history play]]s and other works, he developed a unique tone and style of Budapest Hungarian;{{sfn|Sarlos|1969|p=441}} his work has been compared to that of [[Marcel Proust]].{{sfn|Fenyvesi|2003|p=23}} He died during the [[Holocaust in Hungary|Holocaust]] while living under [[Raoul Wallenberg#Mission to Budapest|Swedish protection]] in Budapest, suffering "starvation, loneliness, and depression".{{sfn|Turán|2013|p=49}}
+
+==References==
+
+{{reflist}}
+
+===Bibliography===
+
+{{refbegin}}
+*{{cite book|last=Fenyvesi|first=Charles|title=When Angels Fooled the World: Rescuers of Jews in Wartime Hungary|year=2003|place=Madison, WI|publisher=The University of Wisconsin Press}}
+*{{cite encyclopedia|last=Sarlos|first=Robert K.|title=Hungary|editor-last=Gassner|editor-first=John|editor-last2=Quinn|editor-first2=Edward|encyclopedia=The Reader's Encyclopedia of World Drama|year=2002|edition=2nd|place=New York, NY|publisher=Dover|pages=437–43}}
+*{{cite encyclopedia|last=Turán|first=Tamás|title=Two Peoples, Seventy Nations: Parallels of National Destiny in Hungarian Intellectual History and Ancient Jewish Thought|editor-last=Hatos|editor-first=Pál|editor-last2=Novák|editor-first2=Attila|encyclopedia=Between Minority and Majority: Hungarian and Jewish/Israeli Ethnical and Cultural Experiences in Recent Centuries|year=2013|place=Budapest|publisher=Balassi Institute}}
+{{refend}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Szomory, Dezso}}
+[[Category:1869 births]]
+[[Category:1944 deaths]]
+[[Category:19th-century Hungarian male writers]]
+[[Category:Hungarian Jews who died in the Holocaust]]
+[[Category:Hungarian male dramatists and playwrights]]
+[[Category:19th-century Hungarian dramatists and playwrights]]
+[[Category:20th-century Hungarian dramatists and playwrights]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Theatre people from Budapest]]
+[[Category:Deaths by starvation]]
+
+
+{{Hungary-writer-stub}}

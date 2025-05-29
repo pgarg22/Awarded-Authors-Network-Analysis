@@ -1,0 +1,79 @@
+{{short description|British author}}
+{{Use dmy dates|date=January 2019}}
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = Judy Turner
+| honorific_suffix = 
+| image            = 
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = Katie Flynn<br/> Judith Saxton<br/>
+| birth_name       = 
+| birth_date       = {{birth year|1936}}
+| birth_place      = [[Norwich]], [[Norfolk]], England
+| death_date       = {{Death date|2019|1|1|df=y}} (aged 82)
+| death_place      = 
+| resting_place    = 
+| occupation       = 
+| language         = 
+| residence        = 
+| nationality      = 
+| citizenship      = 
+| education        = 
+| alma_mater       = 
+| home_town        = 
+| period           = 
+| genre            = <!-- or: | genres = -->
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notableworks     = <!-- or: | notablework = -->
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = {{url|katieflynn.com}}
+| portaldisp       = <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Judy Turner''' (1936 – 1 January 2019),<ref>{{cite web|url=https://www.bbc.co.uk/news/uk-england-norfolk-46747172|title=Romantic fiction author Katie Flynn dies|website=Bbc.co.uk|accessdate=4 January 2019}}</ref> who wrote under several [[pseudonym]]s including '''Katie Flynn''' and '''Judith Saxton''',<ref>{{cite web|url=http://www.randomhouse.co.uk/authors/judith-saxton|title=Judith Saxton|website=Randomhouse.co.uk|accessdate=4 January 2019}}</ref> was a British author who wrote numerous popular [[historical fiction|historical]] and [[romance novel|romantic fiction]] novels.<ref>{{cite web|url=https://www.amazon.com/Katie-Flynn/e/B00O816D9E|title=Katie Flynn|website=Amazon.com|accessdate=4 January 2019}}</ref>
+
+==Biography ==
+She was born in [[Norwich]], and lived in [[Wrexham]] after her marriage.  She started her career by writing short stories and articles.  She had over 90 novels published under various pseudonyms.  She continued to write, even after being diagnosed with [[myalgic encephalomyelitis]], with her daughter Holly working as her assistant.<ref>{{cite web|url=https://www.penguin.co.uk/company/about-us.html|title=About us|website=Penguin.co.uk|accessdate=4 January 2019}}</ref><ref>{{cite web|url=https://www.bbc.com/news/uk-england-norfolk-46747172|title=Romantic fiction author Katie Flynn dies|date=3 January 2019|accessdate=4 January 2019|website=BBC}}</ref>
+
+She died on 1 January 2019, aged 82.<ref>{{cite web|url=https://www.thebookseller.com/news/judy-turner-who-wrote-katie-flynn-and-judith-saxton-dies-aged-82-923681|title=Judy Turner, who wrote as Katie Flynn and Judith Saxton, dies aged 82 – The Bookseller|website=www.thebookseller.com|date=3 January 2019|accessdate=8 January 2019}}</ref>
+
+==Selected works ==
+*''Darkest Before Dawn'' (1988)
+*''Tales for Christmas: Free festive tasters to warm your heart'' (2013)
+*''Christmas at Tuppenny Corner'' (2018)
+*''A Mother's Love'' (2019)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.randomhouse.co.uk/minisites/katie_flynn/ Katie Flynn] Random House
+* [http://www.fantasticfiction.co.uk/f/katie-flynn/ Katie Flynn] Fantastic Fiction
+* [https://web.archive.org/web/20110611035929/http://www.seekbooks.com.au/booksearchresults.asp?storeurl=seekau&searchbycriteria=Katie+Flynn Katie Flynn] Seekbooks
+
+{{Authority control}}
+
+{{DEFAULTSORT:Flynn, Katie}}
+[[Category:1936 births]]
+[[Category:2019 deaths]]
+[[Category:People with chronic fatigue syndrome]]
+[[Category:British romantic fiction writers]]
+[[Category:British historical novelists]]
+
+
+{{UK-novelist-stub}}

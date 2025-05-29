@@ -1,0 +1,212 @@
+{{short description|Classical Sanskrit poet and playwright}}
+{{about|the author|the insect genus|Kalidasa (bug)}}
+{{redirect|Kalidas}}
+{{EngvarB|date=July 2015}} 
+{{Use dmy dates|date=July 2015}}{{Use Indian English|date=April 2021}}
+{{Infobox writer
+| image = Kalidasa inditing the cloud Messenger, A.D. 375.jpg
+| caption = A 20th-century [[artist's impression]] of Kālidāsa composing the ''[[Meghadūta]]''
+| period = {{circa|4th–5th century CE}}
+| occupation = Poet, Dramatist
+| nationality = 
+| ethnicity = 
+| language = [[Sanskrit]], [[Prakrit]]
+| education = 
+| genre = [[Sanskrit drama]], [[Classical literature]]
+| subject = [[Epic poetry]], [[Puranas]]
+| movement = 
+| notableworks = ''[[Kumārasambhava]]m'', ''[[Abhijñānaśākuntalam]]'', ''[[Raghuvaṃśa]]'', ''[[Meghadūta]]'', ''[[Vikramōrvaśīyam]]''
+| partner = 
+| children = 
+| relatives = 
+}}
+
+'''Kālidāsa''' (Devanagari: कालिदास; ''fl.'' 4th–5th century CE) was a [[Classical Sanskrit]] author who is often considered [[ancient India]]'s greatest playwright and dramatist. His plays and poetry are primarily based on the [[Vedas]], the [[Ramayana|Rāmāyaṇa]], the [[Mahabharata|Mahābhārata]] and the [[Puranas|Purāṇas]].<ref>{{Cite web|title = Kalidasa - Kalidasa Biography - Poem Hunter|url = http://www.poemhunter.com/kalidasa/biography/|website = www.poemhunter.com|access-date = 2015-10-05}}</ref>  His surviving works consist of three plays, two epic poems and two shorter poems.
+
+Much about his life is unknown except what can be inferred from his poetry and plays.<ref>{{cite book|last=Kālidāsa|title=The Recognition of Sakuntala: A Play In Seven Acts|year=2001|publisher=Oxford University Press|pages=ix|url=https://books.google.com/books?id=6miC3HNB90oC|isbn=9780191606090}}</ref> His works cannot be dated with precision, but they were most likely authored before the 5th century CE.
+
+==Early life==
+Scholars have speculated that Kālidāsa may have lived near the [[Himalayas]], in the vicinity of [[Ujjain]], and in [[Kalinga (historical region)|Kalinga]]. This hypothesis is based on Kālidāsa's detailed description of the Himalayas in his ''[[Kumārasambhava]]'', the display of his love for [[Ujjain]] in ''[[Meghadūta]]'', and his highly eulogistic descriptions of Kalingan emperor Hemāngada in ''[[Raghuvaṃśa]]'' (sixth ''sarga'').
+
+Lakshmi Dhar Kalla (1891–1953), a Sanskrit scholar and a [[Kashmiri Pandit]], wrote a book titled ''The birth-place of Kalidasa'' (1926), which tries to trace the birthplace of Kālidāsa based on his writings. He concluded that Kālidāsa was born in [[Kashmir]], but moved southwards, and sought the patronage of local rulers to prosper. The evidence cited by him from Kālidāsa's writings includes:<ref>{{Harvnb|Gopal|1984|p=3}}.</ref><ref name="Bamzai1994">{{cite book|author=P. N. K. Bamzai|author-link=Prithivi Nath Kaul Bamzai |title=Culture and Political History of Kashmir|volume=1|url=https://books.google.com/books?id=1eMfzTBcXcYC&pg=PR261|date=1 January 1994|publisher=M.D. Publications Pvt. Ltd.|pages=261–262|isbn=978-81-85880-31-0}}</ref><ref name="Kaw2004">{{cite book|author=M. K. Kaw|title=Kashmir and Its People: Studies in the Evolution of Kashmiri Society|url=https://books.google.com/books?id=QpjKpK7ywPIC&pg=PR388|date=1 January 2004|publisher=APH Publishing|pages=388|isbn=978-81-7648-537-1}}</ref>
+
+* Description of flora and fauna that is found in Kashmir, but not Ujjain or Kalinga: the [[saffron]] plant, the [[Cedrus deodara|deodar]] trees, [[Kashmir musk deer|musk deer]] etc.
+* Description of geographical features common to Kashmir, such as [[tarn (lake)|tarns]] and [[glade (geography)|glades]]
+* Mention of some sites of minor importance that, according to Kalla, can be identified with places in Kashmir. These sites are not very famous outside Kashmir, and therefore, could not have been known to someone not in close touch with Kashmir.
+* Reference to certain legends of Kashmiri origin, such as that of the [[Nikumbha]] (mentioned in the Kashmiri text ''[[Nilamata Purana|Nīlamata Purāṇa]]''); mention (in ''Shakuntala'') of the legend about Kashmir being created from a lake. This legend, mentioned in ''Nīlamata Purāṇa'', states that a tribal leader named Ananta drained a lake to kill a demon. Ananta named the site of the former lake (now land) as "Kashmir", after his father [[Kashyapa|Kaśyapa]].
+* According to Kalla, ''Śakuntalā'' is an allegorical dramatization of [[Pratyabhijna]] philosophy (a branch of [[Kashmir Shaivism]]). Kalla further argues that this branch was not known outside of Kashmir at that time.
+
+Still other{{which|date=December 2020}} scholars posit [[Garhwal division|Garhwal]] in [[Uttarakhand]] to be Kalidasa's birthplace.<ref>{{Cite book|url=https://books.google.com/books?id=tyX2DAAAQBAJ&q=Lakshmi%20Dhar%20Kalla&pg=PT6|title=The Story of Kalidas|last=Shailesh|first=H D Bhatt|publisher=Publications Division Ministry of Information & Broadcasting|isbn=9788123021935}}</ref>{{page needed|date=December 2020}}
+
+According to folklore, a scholarly princess once decides to find a suitable groom by testing men in her kingdom for their intelligence. When no man is able to pass the test, the frustrated citizens decide to send Kālidāsa, an uneducated man, for an interview with the princess.
+
+In another version, the court's chief minister is insulted when the princess rejects his son's marriage proposal. To avenge this insult, the minister finds the most unfit person, the shepherd Kālidāsa, to send to the princess.
+
+In any case Kālidasa fares poorly, and is greatly humiliated by the princess. Thus challenged, he visits a Kāli temple, is inspired to learn Sanskrit, studies the [[Puranas|Purāṇas]] and other ancient texts, and becomes a great poet.
+
+He then writes three epics starting with the words of his insult: "अस्ति कश्चित् वाग्विशेष?"(asti kaścit vagviśeṣa? is there anything particularly intelligent you can now say?, implying, have you attained any profound knowledge that should make me give you a special welcome?){{clarify|date=September 2018}}.{{citation needed|date=September 2018}}
+
+From these three words he embraces, he writes his three classic books. From “asti” = asti-uttarasyaam diśi, he produces the epic “Kumārasambhava”; from “Kaścit”  = kaścit-kāntā, he writes the poem “Meghadūta” and from “Vāgviśeṣa”= vāgarthāviva, he wrote the epic “[[Raghuvamsa|Raghuvaṃśa]]".{{citation needed|date=December 2020}}
+
+Another old legend recounts that Kālidāsa visits [[Kumaradasa|Kumāradāsa]], the king of Lanka and, because of treachery, is murdered there.<ref name=academi>{{cite web |title=About Kalidasa |url=http://www.kalidasaakademi.nic.in/About_Kalidasa/about_kalidasa.html |publisher=Kalidasa Academi |access-date=30 December 2015 |url-status=dead |archive-url=https://web.archive.org/web/20130728012216/http://www.kalidasaakademi.nic.in/About_Kalidasa/about_kalidasa.html |archive-date=28 July 2013 |df=dmy-all }}</ref>
+
+== Period ==
+Several ancient and medieval books state that Kālidāsa was a court poet of a king named Vikramāditya. A legendary king named [[Vikramāditya]] is said to have ruled from Ujjain around the 1st century BCE. A section of scholars believe that this legendary Vikramāditya is not a historical figure at all. There are other kings who ruled from Ujjain and adopted the title ''Vikramāditya'', the most notable ones being [[Chandragupta II]] (r. 380 CE – 415 CE) and [[Yasodharman|Yaśodharman]] (6th century CE).<ref name="CR_2005">{{cite book |url=https://books.google.com/books?id=v0RWnRKTWp0C&pg=PT267 |title=The Loom Of Time |author=Chandra Rajan |publisher=Penguin UK |year=2005 |pages=268–274 |isbn=9789351180104 }}</ref>
+
+The most popular theory is that Kālidāsa flourished during the reign of Chandragupta II, and therefore lived around the 4th-5th century CE. Several Western scholars have supported this theory, since the days of [[William Jones (philologist)|William Jones]] and [[Arthur Berriedale Keith|A. B. Keith]].<ref name="CR_2005"/> Modern western Indologists and scholars like [[Stanley Wolpert]] also support this theory.<ref>{{Cite book|last=Wolpert|first=Stanley|title=India|publisher=[[University of California Press]]|year=2005|isbn=978-0-520-24696-6|pages=38|author-link=Stanley Wolpert}}</ref> Many Indian scholars, such as [[Vasudev Vishnu Mirashi]] and Ram Gupta, also place Kālidāsa in this period.<ref>{{cite book |url=https://books.google.com/books?id=sueiThBrP4gC&pg=PA1 |title=Kālidāsa; Date, Life, and Works |author=Vasudev Vishnu Mirashi and Narayan Raghunath Navlekar |publisher=Popular Prakashan |year=1969 |pages=1–35 |isbn=9788171544684 }}</ref><ref>{{Harvnb|Gopal|1984|p=14}}.</ref> According to this theory, his career might have extended to the reign of [[Kumaragupta I|Kumāragupta I]] (r. 414 – 455 CE), and possibly, to that of [[Skandagupta]] (r. 455 – 467 CE).<ref>{{cite book |url=https://books.google.com/books?id=N8fBQ5vH34gC&pg=PR7 |title=Works of Kālidāsa |volume=1 |author=C. R. Devadhar |publisher=[[Motilal Banarsidass]] |year=1999 |isbn=9788120800236 |pages=vii–viii }}</ref><ref>{{harvnb|Sastri|1987|pp=77–78}}.</ref>
+
+The earliest paleographical evidence of Kālidāsa is found in a Sanskrit inscription dated c. 473 CE, found at [[Mandsaur]]'s Sun temple, with some verses that appear to imitate [[Meghaduta|Meghadūta]] Purva, 66;  and the [[Ritusamhara|ṛtusaṃhāra]] V, 2–3, although Kālidāsa is not named.<ref name="Gopal1984p8">{{Harvnb|Gopal|1984|p=8}}.</ref> His name, along with that of the poet [[Bharavi|Bhāravi]], is first mentioned in a stone inscription dated 634 C.E. found at [[Aihole]], located in present-day [[Karnataka]].<ref>{{harvnb|Sastri|1987|p=80}}.</ref>
+
+== Theory of multiple Kālidāsas ==
+
+Some scholars, including M. Srinivasachariar and T. S. Narayana Sastri, believe that works attributed to "Kālidāsa" are not by a single person. According to Srinivasachariar, writers from 8th and 9th centuries hint at the existence of three noted literary figures who share the name Kālidāsa. These writers include Devendra (author of ''Kavi-Kalpa-Latā''), [[Rajashekhara (Sanskrit poet)|Rājaśekhara]] and Abhinanda. Sastri lists the works of these three Kalidasas as follows:<ref name="MS_1974_multiple">{{cite book |url=https://books.google.com/books?id=4dVRvVyHaiQC&pg=PA112 |title=History of Classical Sanskrit Literature |author=M. Srinivasachariar |publisher=Motilal Banarsidass |year=1974 |isbn=9788120802841 |pages=112–114 }}</ref>
+
+# Kālidāsa alias Mātṛgupta, author of ''Setu-Bandha'' and three plays (''[[Abhijñānaśākuntalam]]'', ''[[Mālavikāgnimitram]]'' and ''[[Vikramōrvaśīyam]]'').
+# Kālidāsa alias Medharudra, author of ''[[Kumārasambhava]]'', ''[[Meghadūta]]'' and ''[[Raghuvaṃśa]]''.
+# Kālidāsa alias Kotijit: author of ''[[Ṛtusaṃhāra]]'', ''Śyāmala-Daṇḍakam'' and ''Śṛngāratilaka'' among other works.
+
+Sastri goes on to mention six other literary figures known by the name "Kālidāsa": Parimala Kālidāsa alias Padmagupta (author of ''[[Nava-sahasanka-charita|Navasāhasāṅka Carita]]''), Kālidāsa alias Yamakakavi (author of ''Nalodaya''), Nava Kālidāsa (author of ''Champu Bhāgavata''), [[Akbariya Kalidasa]] (author of several ''samasya''s or riddles), Kālidāsa VIII (author of ''Lambodara Prahasana''), and Abhinava Kālidāsa alias Mādhava (author of ''Saṅkṣepa-Śaṅkara-Vijayam'').<ref name="MS_1974_multiple"/>
+
+According to K. Krishnamoorthy, "Vikramāditya" and "Kālidāsa" were used as common nouns to describe any patron king and any court poet respectively.<ref name="KK_1994">{{cite book |author=K. Krishnamoorthy |title=Eng Kalindi Charan Panigrahi |url=https://books.google.com/books?id=tFThcivb1-oC&pg=PR9 |year=1994 |publisher=Sahitya Akademi |isbn=978-81-7201-688-3 |pages=9–10}}</ref>
+
+==Works==
+
+===Poems===
+
+====Epic poems====
+Kālidāsa is the author of two [[mahakavya|mahākāvyas]], ''[[Kumārasambhava]]'' (Kumāra meaning [[Kartikeya]], and sambhava meaning possibility of an event taking place, in this context a birth. Kumārasambhava thus means the birth of a Kartikeya) and ''[[Raghuvaṃśa]]'' ("Dynasty of Raghu").
+
+*''Kumārasambhava'' describes the birth and adolescence of the goddess [[Parvati|Pārvatī]], her marriage to [[Shiva|Śiva]] and the subsequent birth of their son [[Kartikeya|Kumāra]] (Kārtikeya).
+*''Raghuvaṃśa'' is an epic poem about the kings of the Raghu dynasty.
+
+====Minor poems====
+Kālidāsa also wrote two ''khaṇḍakāvyas'' (minor poems):
+
+* Descriptive:<ref name="J. M. Dent & sons, Limited">{{Cite book|title = Kalidasa Translations of Shakuntala, and Other Works|url = https://books.google.com/books?id=JbpfAAAAMAAJ|publisher = J. M. Dent & sons, Limited|date = 1920-01-01}}</ref> ''[[Ṛitusaṃhāra|Ṛtusaṃhāra]]'' describes the six seasons by narrating the experiences of two lovers in each of the seasons.<ref name="Iyer" group="N">Ṛtusaṃhāra was translated into Tamil by Muhandiram [[T. Sathasiva Iyer]].</ref>
+* Elegiac: Kālidāsa created his own genre of poetry with ''[[Meghadūta]]'' (''The Cloud Messenger''),<ref name="J. M. Dent & sons, Limited"/> the story of a [[Yaksha|Yakṣa]] trying to send a message to his lover through a cloud. Kālidāsa set this poem to the [[Mandakranta metre|mandākrāntā]] meter, which is known for its lyrical sweetness. It is one of Kālidāsa's most popular poems and numerous commentaries on the work have been written.
+
+Kalidasa also wrote the shyamala Dandakam  descripting the beauty of Goddess [[Matangi]].
+
+===Plays===
+Kālidāsa wrote three plays. Among them, ''[[Abhijñānaśākuntalam]]'' ("Of the recognition of Śakuntalā") is generally regarded as a masterpiece. It was among the first Sanskrit works to be translated into English, and has since been translated into many languages.<ref>{{Cite web|title=Kalidas|url=https://www.cs.colostate.edu/~malaiya/kalidas.html|access-date=2021-04-07|website=www.cs.colostate.edu}}</ref>
+[[Image:Raja Ravi Varma - Mahabharata - Shakuntala.jpg|thumb|175px|Śakuntalā stops to look back at Duṣyanta, Raja Ravi Varma (1848-1906).]]
+
+*''[[Mālavikāgnimitram]]'' (''Pertaining to Mālavikā and Agnimitra'') tells the story of King [[Agnimitra]], who falls in love with the picture of an exiled servant girl named Mālavikā. When the queen discovers her husband's passion for this girl, she becomes infuriated and has Mālavikā imprisoned, but as fate would have it, Mālavikā is in fact a true-born princess, thus legitimizing the affair.
+*''[[Abhijñānaśākuntalam]]'' (''Of the recognition of Śakuntalā'') tells the story of King [[Dushyanta|Duṣyanta]] who, while on a hunting trip, meets [[Shakuntala|Śakuntalā]], the adopted daughter of the sage Kanu and real daughter of [[Vishwamitra]] and [[Menaka]] and marries her. A mishap befalls them when he is summoned back to court: Śakuntala, pregnant with their child, inadvertently offends a visiting [[Durvasa]] and incurs a curse, whereby Duṣyanta forgets her entirely until he sees the ring he has left with her. On her trip to Duṣyanta's court in an advanced state of [[pregnancy]], she loses the ring, and has to come away unrecognized by him. The ring is found by a fisherman who recognizes the royal seal and returns it to Duṣyanta, who regains his memory of Śakuntala and sets out to find her. [[Goethe]] was fascinated by Kālidāsa's ''Abhijñānaśākuntalam'', which became known in Europe, after being translated from English to German.
+*''[[Vikramōrvaśīyam]]'' (''Ūrvaśī Won by Valour'') tells the story of King [[Pururavas]] and celestial nymph [[Urvashi|Ūrvaśī]] who fall in love. As an immortal, she has to return to the heavens, where an unfortunate accident causes her to be sent back to the earth as a mortal with the curse that she will die (and thus return to heaven) the moment her lover lays his eyes on the child which she will bear him. After a series of mishaps, including Ūrvaśī's temporary transformation into a vine, the curse is lifted, and the lovers are allowed to remain together on the earth.
+
+====Translations====
+Montgomery Schuyler, Jr. published a bibliography of the editions and translations of the drama ''[[Abhijñānaśākuntalam|Śakuntalā]]'' while preparing his work "Bibliography of the Sanskrit Drama".<ref name="Bibliography" group="N">It was later published as the third volume of the 13-volume [[Columbia University Indo-Iranian Series]], published by the [[Columbia University Press]] in 1901-32 and edited by [[A. V. Williams Jackson]].</ref><ref>{{cite journal|last=Schuyler, Jr.|first=Montgomery|title=The Editions and Translations of Çakuntalā|journal=Journal of the American Oriental Society|year=1901|volume=22|pages=237–248|jstor=592432|doi=10.2307/592432}}</ref> Schuyler later completed his bibliography series of the dramatic works of Kālidāsa by compiling bibliographies of the editions and translations of ''[[Vikramōrvaśīyam]]'' and ''[[Mālavikāgnimitram|Mālavikāgnimitra]]''.<ref>{{cite journal|last=Schuyler, Jr.|first=Montgomery|title=Bibliography of Kālidāsa's Mālavikāgnimitra and Vikramorvaçī|journal=Journal of the American Oriental Society|year=1902|volume=23|pages=93–101|jstor=592384|doi=10.2307/592384}}</ref> Sir William Jones published an English translation of ''Śakuntalā'' in 1791 C.E. and ''Ṛtusaṃhāra'' was published by him in original text during 1792 C.E.<ref>{{Harvnb|Sastri|1987|p=2}}.</ref>
+
+==Influence==
+Kālidāsa has had a great influence on several Sanskrit works, on all Indian literature.<ref name="Gopal1984p8" /> He also had a great impact on [[Rabindranath Tagore]]. Meghadūta's romanticism is found in Tagore's poems on the monsoons.<ref>{{Cite web|date=2011-09-16|title=Rabindranath Tagore on Kalidasa's Meghadoota|url=https://rrkelkar.wordpress.com/2011/09/16/rabindranath-tagore-on-kalidasas-meghadoota/|access-date=2021-04-07|website=Cloud and Sunshine|language=en}}</ref> Sanskrit plays by Kālidāsa influenced late eighteenth and early nineteenth-century European literature.<ref>{{Cite web|title = Translations of Shakuntala and Other Works - Online Library of Liberty|url = http://oll.libertyfund.org/titles/1261|website = oll.libertyfund.org|access-date = 2015-10-05}}</ref> According to [[Dale Carnegie]], Father of Modern Medicine [[Sir William Osler]] always kept on his desk a poem written by Kalidasa.<ref>{{Cite book|last=Carnegie|first=Dale|url=https://books.google.com/books?id=qKFaDwAAQBAJ&q=How+To+Stop+Worrying+And+Start+Living+By+Dale+Carnegie|title=How to Stop Worrying and Start Living|date=2017|publisher=Manjul Publishing House|isbn=978-81-8322-802-2|language=en|author-link=Dale Carnegie}}</ref>
+
+== Critical reputation ==
+[[Bāṇabhaṭṭa]], the 7th-century Sanskrit prose-writer and poet, has written: ''nirgatāsu na vā kasya kālidāsasya sūktiṣu, prītirmadhurasārdrāsu mañjarīṣviva jāyate''. ("When Kālidāsa's sweet sayings, charming with sweet sentiment, went forth, who did not feel delight in them as in honey-laden flowers?")<ref>{{Harvnb|Kale|p=xxiv}}.</ref>
+
+[[Jayadeva]], a later poet, has called Kālidāsa a ''kavikulaguru'', 'the lord of poets' and the ''vilāsa'', 'graceful play' of the muse of poetry.<ref>{{Harvnb|Kale|p=xxv}}.</ref>
+
+Kālidāsa has been called the Shakespeare of India. The scholar and philologist [[William Jones (philologist)|Sir William Jones]] is said to be the first to do so. Writing about this, author and scholar MR Kale says "the very comparison of Kālidāsa to [[William Shakespeare|Shakespeare]] is the highest form of eulogy that could be bestowed upon him."<ref>{{Harvnb|Kale|p=xxvi}}.</ref>
+
+The Indologist Sir [[Monier Monier-Williams|Monier Williams]] has written: "No composition of Kālidāsa displays more the richness of his poetical genius, the exuberance of his imagination, the warmth and play of his fancy, his profound knowledge of the human heart, his delicate appreciation of its most refined and tender emotions, his familiarity with the workings and counterworkings of its conflicting feelings - in short more entitles him to rank as the Shakespeare of India."<ref>{{Harvnb|Kale|pp=xxvi-xxvii}}.</ref>
+
+{{Col-begin}}
+{{Col-2}}
+{{blockquote
+|''Willst du die Blüthe des frühen, die Früchte des späteren Jahres,<br />
+Willst du, was reizt und entzückt, willst du was sättigt und nährt,<br />
+Willst du den Himmel, die Erde, mit Einem Namen begreifen;<br />
+Nenn’ ich, Sakuntala, Dich, und so ist Alles gesagt.''
+|Goethe}}
+{{Col-2}}
+{{blockquote
+|Wouldst thou the young year's blossoms and the fruits of its decline<br />
+And all by which the soul is charmed, enraptured, feasted, fed,<br />
+Wouldst thou the earth and heaven itself in one sole name combine?<br />
+I name thee, O Sakuntala! and all at once is said.
+|translation by [[E. B. Eastwick]]}}
+{{Col-end}}
+{{blockquote|"Here the poet seems to be in the height of his talent in representation of the natural order, of the finest mode of life, of the purest moral endeavor, of the most worthy sovereign, and of the most sober divine meditation; still he remains in such a manner the lord and master of his creation."|Goethe, quoted in Winternitz<ref name="WinternitzWinternitz2008">{{cite book|author1=Maurice Winternitz|author2=Moriz Winternitz|title=History of Indian Literature|url=https://books.google.com/books?id=ql0BmInD1c4C&pg=PA238|date=1 January 2008|publisher=Motilal Banarsidass|isbn=978-81-208-0056-4|pages=238}}</ref>}}
+Philosopher and linguist [[Wilhelm von Humboldt|Humboldt]] writes, "Kālidāsa, the celebrated author of the Śākuntalā, is a masterly describer of the influence which Nature exercises upon the minds of lovers. Tenderness in the expression of feelings and richness of creative fancy have assigned to him his lofty place among the poets of all nations."<ref>{{Harvnb|Kale|p=xxvii}}.</ref>
+
+==Later culture==
+Many scholars have written commentaries on the works of Kālidāsa. Among the most studied commentaries are those by [[Mallinātha Sūri|Kolāchala Mallinātha Suri]], which were written in the 15th century during the reign of the [[Vijayanagara Empire|Vijayanagara]] king, [[Deva Raya II|Deva Rāya II]]. The earliest surviving commentaries appear to be those of the 10th-century Kashmirian scholar Vallabhadeva.<ref>{{Cite book|last1=Vallabhadeva|url=https://books.google.com/books?id=VGUaAQAAIAAJ|title=The Raghupaãncik-a of Vallabhadeva|last2=Goodall|first2=Dominic|last3=Isaacson|first3=H.|date=2003|publisher=E. Forsten|isbn=978-90-6980-138-4|language=en|jstor=10.1163/j.ctt1w76wzr.11}}</ref> Eminent Sanskrit poets like [[Bāṇabhaṭṭa]], [[Jayadeva]] and [[Rajashekhara (Sanskrit poet)|Rajasekhara]] have lavished praise on Kālidāsa in their tributes. A well-known Sanskrit verse ("Upamā Kālidāsasya...") praises his skill at ''upamā'', or [[simile]]s. [[Anandavardhana]], a highly revered critic, considered Kālidāsa to be one of the greatest Sanskrit poets ever. Of the hundreds of pre-modern Sanskrit commentaries on Kālidāsa's works, only a fraction have been contemporarily published. Such commentaries show signs of Kālidāsa's poetry being changed from its original state through centuries of manual copying, and possibly through competing oral traditions which ran alongside the written tradition.
+
+Kālidāsa's ''[[Abhijñānaśākuntalam]]'' was one of the first works of Indian literature to become known in Europe. It was first translated to English and then from English to German, where it was received with wonder and fascination by a group of eminent poets, which included [[Johann Gottfried Herder|Herder]] and [[Johann Wolfgang von Goethe|Goethe]].<ref>{{Cite book|last=Haksar|first=A. N. D.|url=https://books.google.com/books?id=cytqBgAAQBAJ|title=Madhav & Kama: A Love Story from Ancient India|date=2006-01-01|publisher=Roli Books Private Limited|isbn=978-93-5194-060-9|pages=[https://books.google.co.in/books?id=cytqBgAAQBAJ&pg=PT86&hl=en&newbks=1 58]|language=en}}</ref>
+
+Kālidāsa's work continued to evoke inspiration among the artistic circles of Europe during the late 19th century and early 20th century, as evidenced by [[Camille Claudel]]'s sculpture ''Shakuntala''.
+
+[[Koodiyattam]] artist and [[Natya Shastra|Nāṭya Śāstra]] scholar [[Māni Mādhava Chākyār]] (1899–1990) choreographed and performed popular Kālidāsa plays including Abhijñānaśākuntala, Vikramorvaśīya and Mālavikāgnimitra.
+
+The [[Kannada]] films ''[[Mahakavi Kalidasa]]'' (1955), featuring Honnappa Bagavatar, B. Sarojadevi and later ''[[Kaviratna Kalidasa]]'' (1983), featuring [[Dr. Rajkumar|Rajkumar]] and [[Jayaprada]],<ref>{{Citation|title=Kavirathna Kaalidaasa (1983) - IMDb|url=http://www.imdb.com/title/tt0309764/|access-date=2021-04-07}}</ref> were based on the life of Kālidāsa. ''[[Kaviratna Kalidasa]]'' also used Kālidāsa's [[Shakuntala]] as a sub-plot in the movie.[[V. Shantaram]] made the Hindi movie ''[[Stree (1961 film)|Stree]]'' (1961) based on Kālidāsa's [[Shakuntala]]. R.R. Chandran made the Tamil movie ''[[Mahakavi Kalidas (1966 film)|Mahakavi Kalidas]]'' (1966) based on Kālidāsa's life. [[Ordre des Arts et des Lettres|Chevalier]] Nadigar Thilagam [[Sivaji Ganesan]] played the part of the poet himself. ''[[Mahakavi Kalidasu]]'' (Telugu, 1960) featuring [[Akkineni Nageswara Rao]] was similarly based on Kālidāsa's life and work.<ref>{{Citation|last=Rao|first=Kamalakara Kameshwara|title=Mahakavi Kalidasu|url=https://www.imdb.com/title/tt0261033/|type=Drama, History, Musical|others=Akkineni Nageshwara Rao, S. V. Ranga Rao, Sriranjani, Seeta Rama Anjaneyulu Chilakalapudi|publisher=Sarani Productions|access-date=2021-04-07}}</ref>
+
+[[Surendra Verma]]'s Hindi play ''Athavan Sarga'', published in 1976, is based on the legend that Kālidāsa could not complete his epic ''Kumārasambhava'' because he was cursed by the goddess [[Parvati|Pārvatī]], for obscene descriptions of her conjugal life with Śiva in the eighth canto. The play depicts Kālidāsa as a court poet of Chandragupta who faces a trial on the insistence of a priest and some other moralists of his time.
+
+''Asti Kashchid Vagarthiyam'' is a five-act [[Sanskrit]] play written by Krishna Kumar in 1984. The story is a variation of the popular legend that Kālidāsa was mentally challenged at one time and that his wife was responsible for his transformation. Kālidāsa, a mentally challenged shepherd, is married to Vidyottamā, a learned princess, through a conspiracy. On discovering that she has been tricked, Vidyottamā banishes Kālidāsa, asking him to acquire scholarship and fame if he desires to continue their relationship. She further stipulates that on his return he will have to answer the question, ''Asti Kaścid Vāgarthaḥ''" ("Is there anything special in expression?"), to her satisfaction. In due course, Kālidāsa attains knowledge and fame as a poet. Kālidāsa begins Kumārsambhava, Raghuvaṃśa and Meghaduta with the words ''Asti'' ("there is"), ''Kaścit'' ("something") and ''Vāgarthaḥ'' ("spoken word and its meaning") respectively.
+
+Bishnupada Bhattacharya's "Kalidas o Robindronath" is a comparative study of Kalidasa and the Bengali poet [[Rabindranath Tagore]].
+
+''[[Ashadh Ka Ek Din]]'' is a Hindi play based on fictionalized elements of Kalidasa's life.
+
+==See also==
+* [[Sanskrit literature]]
+* [[Sanskrit drama]]
+* [[Bhāsa]]
+* [[Bhavabhuti|Bhavabhūti]]
+
+== References ==
+
+=== Citation ===
+{{Reflist}}
+
+===Notes===
+{{Reflist|group=N}}
+
+===Bibliography===
+{{refbegin|}}
+* {{cite journal|last=Raghavan|first=V.|author-link=V. Raghavan|title=A Bibliography of translations of Kalidasa's works in Indian Languages|url=|journal=Indian Literature|date=January–March 1968|volume=11|issue=1|pages=5–35|jstor=23329605}}
+* {{cite book|author=Śāstrī|title=A Concise History of Classical Sanskrit Literature|first=Gaurīnātha|url=https://books.google.com/books?id=QYxpvZLg4hAC|year=1987|publisher=Motilal Banarsidass|isbn=978-81-208-0027-4|location=|pages=|ref={{SfnRef|Sastri|1987}}}}
+* {{cite book|author=Gopal|title=Kālidāsa: His Art and Culture|first=Ram|url=https://books.google.com/books?id=HwHk-Y9S9UMC&pg=PR3|date=1 January 1984|publisher=Concept Publishing Company|isbn=|location=|pages=}}
+* {{cite book|last=Kale|first=M.R.|title=The Abhijñānaśākuntalam of Kālidāsa|year=1969|publisher=Motilal Banarsidass|isbn=978-8120802834}}
+
+==Further reading==
+* {{Cite book|last=Kālidāsa|title=The Plays of Kālidāsa: Theater of Memory|publisher=[[Columbia University Press]]|year=1984|isbn=978-81-208-1681-7|editor-last=Miller|editor-first=Barbara Stoler|publication-place=[[New York City|New York]]|language=en}}
+* {{Cite book|last=Sethna|first=Kaikhushru Dhunjibhoy|url=https://books.google.com/books?id=TUhuAAAAMAAJ&q=Problems+of+Ancient+India,+p.+79-120+(chapter:+%22The+Time+of+Kalidasa%22)|title=Problems of Ancient India|date=2000|publisher=Aditya Prakashan|isbn=978-81-7742-026-5|pages=79–120|language=en|author-link=K. D. Sethna}}
+* {{Cite book|last=Venkatachalam|first=V.|url=https://books.google.com/books?id=UetjAAAAMAAJ&q=Fresh+light+on+Kalidasa's+historical+perspective+by+V.+Venkatachalam|title=Bhāsa|date=1986|publisher=Sahitya Akademi|pages=130–140|language=en|chapter=Kalidasa Special Number (X), The Vikram|author-link=V. Venkatachalam}}
+
+==External links==
+{{Sister project links| wikt=no | commons=Category:Kālidāsa | b=no | n=no | q=Kālidāsa | s=Author:Kālidāsa | v=no | voy=no | species=no | d=Q7011}}
+* [http://www.sacred-texts.com/hin/sha/index.htm ''Kalidasa: Translations of Shakuntala and Other Works''] by [[Arthur W. Ryder]]
+* [https://web.archive.org/web/20140407100726/http://www.imagi-nation.com/moonstruck/clsc60.html Biography of Kalidasa]
+* {{Gutenberg author |id=4247}}
+* {{Internet Archive author |search=(K*lid*sa)}}
+*{{Worldcat author|lccn-n79145177}}
+* [http://www.claysanskritlibrary.org Clay Sanskrit Library] publishes classical Indian literature, including the works of Kalidasa with Sanskrit facing-page text and translation. Also offers searchable corpus and downloadable materials.
+* [https://web.archive.org/web/20070427232044/http://oll.libertyfund.org/Home3/AuthorBioPage.php?recordID=0140 Kalidasa] at ''The Online Library of Liberty''
+*{{IMDb name|1359914}}
+*{{Banglapedia}}
+* [https://archive.org/details/in.ernet.dli.2015.56544 Epigraphical Echoes of Kalidasa]
+{{refend}}
+{{Portal bar|Poetry|Theatre|Hinduism|India|Biography}}
+{{Kālidāsa}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kalidasa}}
+[[Category:Kalidasa| ]]
+[[Category:4th-century births]]
+[[Category:5th-century deaths]]
+[[Category:Indian male poets]]
+[[Category:Hindu poets]]
+[[Category:Epic poets]]
+[[Category:Sanskrit dramatists and playwrights]]
+[[Category:Sanskrit poets]]
+[[Category:5th-century Indian poets]]
+[[Category:Ancient Indian dramatists and playwrights]]
+[[Category:Indian male dramatists and playwrights]]
+[[Category:Indian Hindus]]
+[[Category:Ancient Indian poets]]
+[[Category:Ancient Hinduism]]
+[[Category:Ancient Indian grammarians]]
+[[Category:Artist authors]]
+[[Category:Indian male artists]]
+[[Category:People from Ujjain]]

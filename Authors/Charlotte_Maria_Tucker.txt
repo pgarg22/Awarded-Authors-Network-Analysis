@@ -1,0 +1,73 @@
+{{Short description|English writer for children and adults, 1821–1893}}
+{{Use dmy dates|date=December 2015}}
+{{Use British English|date=December 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|name = Charlotte Maria Tucker
+|image = File:Charlotte Maria Tucker (cropped).jpg
+|imagesize = 200px
+|caption = 
+|pseudonym  = A.L.O.E. (a Lady of England)
+|birth_date = {{birth date|df=y|1821|5|2}}
+|birth_place = [[Chipping Barnet|Barnet]], [[Middlesex]], England
+|death_date = {{death date and age|df=y|1893|12|2|1821|5|2}}
+|death_place = [[Amritsar]], India
+|occupation = Writer
+|nationality = English
+|period = 19th century
+|genre = Children's Literature
+|subject = 
+|movement = 
+|influences = 
+|influenced = 
+|signature = 
+|website = 
+}}
+'''Charlotte Maria Tucker''' (8 May 1821 – 2 December 1893) was a prolific English writer and poet for children and adults, who wrote under the pseudonym '''A.L.O.E.''' (a Lady of England). Late in life she spent a period as a volunteer missionary in India, where she died.
+
+==Early life==
+Charlotte Tucker was born at Friern Hatch near [[Friern Barnet]], [[Middlesex]], the daughter of [[Henry St George Tucker]] (1771/2–1851), twice elected chairman of the [[British East India Company]], and his wife Jane Boswell (died 1869), the daughter of an [[Edinburgh]] [[writer to the signet]]. The family moved to London in 1822. Her father was the author of ''Tragedies: 'Harold' and 'Camoens''' (London, 1835).<ref>{{cite ODNB|title=Henry St George Tucker|first= Katherine|last=Prior.|id=27789}}</ref>
+
+Charlotte had a secular upbringing, and her first writings were poems and plays to amuse the family. In 1847, she took charge of the education of her brother Robert's three children. Her earliest book ''The Claremont Tales'' (1852) was, she said, "originally composed for young children under my charge."<ref name="ODNB1">{{cite ODNB|title=Charlotte Maria Tucker|first= Kimberley|last=Reynolds. |id=27788 }}</ref>
+
+==Moral tales==
+The work of Charlotte Tucker as a children's writer was imbued with her [[Evangelicalism|Evangelical religious beliefs]]. Most of her stories were allegories with a clear moral, but she leavened her didacticism with a degree of realism and naturalism.<ref>Orlando Project. [http://orlando.cambridge.org/public/svPeople?person_id=tuckch Retrieved 12 October 2012.]</ref> As she explained in an 1851 letter to a publisher, "My position in life renders me independent of any exertions of my own; I pray but for God's blessing upon my attempts to instruct His lambs in the things which concern their everlasting welfare."<ref>Quoted in [[Gillian Avery]]: ''Nineteenth Century Children...'' (London: Hodder & Stoughton, 1965), p. 101.</ref>
+
+Many of her 150 or more titles appeared in magazines before being collected into books. Among her titles were ''The Rambles of a Rat'' (1857), ''Parliament in the Play-Room'' (1861),<ref>[https://books.google.hu/books?id=9XdqyWmtwZUC&pg=PA301&lpg=PA301&dq=%22Parliament+in+the+Play-Room%22&source=bl&ots=_mXgfNOO1M&sig=ACfU3U1XTIWMjx1XTgjE08BzY-9MHQnE4A&hl=en&sa=X&ved=2ahUKEwj91tey_MLoAhXMo4sKHagGBeYQ6AEwD3oECAoQAQ#v=onepage&q=%22Parliament%20in%20the%20Play-Room%22&f=false ''Dictionary of Anonymous and Pseudonymous English Literature'' (Vol. 4, 1971, New York: Haskell House Publishers, p. 303. Retrieved 30 March 2020.]</ref> ''Triumph over Midian'' (1866), ''A Wreath of Smoke'' (1871) and ''Pomegranates from the Punjab'' (1878). A biography by a fellow children's writer, [[Agnes Giberne]], appeared in 1895.<ref>''A Lady of England. The Life and Letters of Charlotte Maria Tucker'' (London : Hodder & Stoughton, 1895). [https://archive.org/details/ladyofenglandlif00gibe Retrieved 12 October 2012.]</ref>
+
+The proceeds from her writings she often devoted to missionary or charity work. Tucker's contemporaries criticized the strong didacticism in her writing, but her creed was concerned not with original sin but with the chance of improvement for all people and races. Her realistic portrayals of the poor may have drawn on her experience as a [[workhouse]] visitor in [[Marylebone]].<ref name ="ODNB1" /> Titles of hers are still occasionally reissued by publishers specializing in Christian books, including Lamplighter Ministries, an American nonprofit organization headquartered in [[Mount Morris, New York]], best known for its Lamplighter Family Collection series.<ref>E. g. [http://www.christianbook.com/Christian/Books/search?author=Charlotte%20Maria%20Tucker&detailed_search=1&action=Search Retrieved 12 October 2012.]</ref>
+
+==Missionary work==
+Many of Tucker's most interesting stories are set in [[India]]. Some were translated into Indian languages. She set out for India in 1875, at the age of 54, having taught herself [[Hindustani language|Hindustani]]. There she worked as a self-supporting volunteer missionary to [[Amritsar]], [[Punjab]], through the Indian Female Normal School and Instruction Society. Three years later she moved to nearby [[Batala]], where she worked in a boys' school and as a teacher of Christian beliefs to native women. She died in Amritsar on 2 December 1893.<ref name= "ODNB1" />
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*{{cite EB1911|wstitle=Tucker, Charlotte Maria|volume=27 }}
+*{{cite DNB|wstitle=Tucker, Charlotte Maria|volume=57|first=Elizabeth |last=Lee}}
+*{{cite ODNB|first=Kimberley|last=Reynolds|title=Tucker, Charlotte Maria (1821–1893)|id= 27788}}
+
+==Further reading==
+*[[Agnes Giberne]], ''A Lady of England. The life and letters of Charlotte Maria Tucker'' (1895)
+
+==External links==
+{{Portal |Children's literature}}
+*{{Gutenberg author |id=31385 |name=A. L. O. E.}}
+*{{FadedPage|id=Tucker, Charlotte Maria|name=Charlotte Maria Tucker|author=yes}}
+*{{Internet Archive author |name=A.L.O.E.}}
+*{{Internet Archive author |sname=Charlotte Maria Tucker}}
+*{{Librivox author |id=10553}}
+
+{{Victorian children's literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tucker, Charlotte Maria}}
+[[Category:1821 births]]
+[[Category:1893 deaths]]
+[[Category:19th-century British women writers]]
+[[Category:19th-century British writers]]
+[[Category:English children's writers]]
+[[Category:English Protestant missionaries]]
+[[Category:English evangelicals]]
+[[Category:Protestant writers]]

@@ -1,0 +1,97 @@
+{{Short description|American dramatist}}
+{{about||the English translator|Edward Sheldon (translator)|the American educator|Edward Austin Sheldon}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+ | name        = Edward Sheldon
+ | image       = Edward Sheldon cph.3b12047.jpg
+ | imagesize   = 
+ | caption     = Edward Sheldon in 1914
+ | pseudonym   =
+ | birth_date  = {{birth date|mf=y|1886|2|4}}
+ | birth_place = [[Chicago, Illinois]], U.S.
+ | death_date  = {{death date and age|mf=y|1946|4|1|1886|2|4}} ([[lymphatic cancer]])
+ | death_place = [[New York City, New York]], U.S.
+ | occupation  = playwright
+ | nationality = American
+ | period      = 
+ | genre       = 
+ | subject     = 
+ | movement    = 
+ | influences  = 
+ | influenced  = 
+ | signature   = 
+ | website     = 
+ | other names     =
+}}
+
+'''Edward Brewster (Ned) Sheldon''' ([[Chicago, Illinois]], February 4, 1886 – April 1, 1946, [[New York City]]) was an American dramatist. His plays include ''Salvation Nell'' (1908) and ''[[Romance (Sheldon play)|Romance]]'' (1913), which was made into a motion picture with [[Greta Garbo]].
+
+After becoming ill at age 29 with crippling [[rheumatoid arthritis]], which eventually claimed his sight (around 1930), Sheldon became a source of emotional and creative support for his many friends, notably [[Mrs. Fiske|Minnie Maddern Fiske]] (he wrote ''Salvation Nell'' for her), [[Julia Marlowe]], [[John Barrymore]] (his closest friend and confidante), [[Thornton Wilder]], [[Alexander Woollcott]], [[Anne Morrow Lindbergh]], [[Ruth Gordon]], [[Helen Hayes]]. While in hospital his advice was received by those in the theatrical profession as gospel. Actress and librettist [[Dorothy Donnelly]] formed a close friendship with Sheldon, and after he became bedridden often assisted with transcribing, editing, and supporting his work.
+
+In May 1915 Sheldon narrowly missed sailing on the ''[[RMS Lusitania|Lusitania]]'''s infamous last voyage. He had been asked by theater impresario [[Charles Frohman]] to accompany him to England. A Harvard classmate of Sheldon's was getting married on May 11 and asked Sheldon to be best man. Sheldon then declined Frohman's offer.
+
+A 1936 lawsuit against [[Metro-Goldwyn-Mayer]] for copyright infringement claimed that the script MGM used for the [[1932 in film|1932]] motion picture ''[[Letty Lynton]]'' plagiarized material from the play ''Dishonored Lady'' by Sheldon and [[Margaret Ayer Barnes]]. The film is still unavailable today because of this lawsuit.
+
+His life is detailed in ''The Man Who Lived Twice'' by [[Eric Wollencott Barnes]]. In this biography Barnes states that Sheldon was in love all his adult life with [[Doris Keane]], the actress who starred in ''Romance'' in 1913. 
+
+ {{multiple image
+<!-- Essential parameters -->
+| align     = right
+| direction = vertical
+| width     = 260
+
+<!-- Image 1 -->
+| image1    = Scene from The High Road by Edward Sheldon 1912.jpg
+| width1    =
+| alt1      =
+| caption1  = [[Mrs. Fiske|Minnie Maddern Fiske]] and Frederick Perry in ''The High Road'' (1912)
+<!-- Image 2 -->
+| image2    = Romance (1920) - Sydney & Keane.jpg
+| width2    =
+| alt2      =
+| caption2  = [[Basil Sydney]] and [[Doris Keane]] in the [[Romance (1920 film)|film ''Romance'']] (1920)
+<!-- Image 3 -->
+| image3    =
+| width3    =
+| alt3      =
+| caption3  =
+}}
+
+==Works==
+* ''Salvation Nell'' (1908), made into the 1915, [[Salvation Nell (1921 film)|1921]], and [[Salvation Nell (1931 film)|1931]] motion pictures of the same name
+* ''[[The Nigger]]'' (1909), made into the 1915 motion picture of the same name (aka ''The New Governor'' or ''The Mystery of Morrow's Rest'') produced by [[William Fox (producer)|William Fox]]
+* ''The Boss'' (1911), made into the [[The Boss (1915 film)|1915 motion picture of the same name]]
+* ''The High Road'' (1912), made into the 1915 motion picture of the same name
+* ''[[Romance (Sheldon play)|Romance]]'' (1913), notable for its London run of 1,049 performances. Made into a [[Romance (1920 film)|1920 silent film]] by [[United Artists]] starring Doris Keane, the actress who appeared in the role on stage. Also made into a [[Romance (1930 film)|1930 motion picture]] starring [[Greta Garbo]]. Produced in New York as a musical, ''My Romance'', with music by [[Sigmund Romberg]] and book and lyrics by [[Rowland Leigh]], in 1948.
+* ''[[The Song of Songs (play)|The Song of Songs]]'' (1914), dramatization of the novel by [[Hermann Sudermann]], made into films in 1918 (''[[The Song of Songs (1918 film)|The Song of Songs]]''), 1924 (''[[Lily of the Dust]]''), and in 1933 (''[[The Song of Songs (1933 film)|The Song of Songs]]'', starring [[Marlene Dietrich]], [[Brian Aherne]], and [[Lionel Atwill]])
+* ''The Garden of Paradise'' (1914), from "[[The Little Mermaid]]" by [[Hans Christian Andersen]]
+* ''[[The Call of Her People]]'' (1916), a silent film for Ethel Barrymore, from Sheldon's own play ''Egypt''.
+* ''The Jest'' (1919), adaptation from the Italian of [[Sem Benelli]]
+* ''The Czarina'' (1922), adaptation of the Hungarian play by [[Melchior Lengyel]] and [[Lajos Bíró]], made into the 1924 silent ''[[Forbidden Paradise]]'' with [[Pola Negri]].
+* ''Bewitched'' (1924), with [[Sidney Howard]]
+* ''Lulu Belle'' (1926), with [[Charles MacArthur]], starring [[Lenore Ulric]]; made into the [[Lulu Belle (film)|1948 motion picture of the same name]], starring [[Dorothy Lamour]]
+* ''Jenny'' (1929), with [[Margaret Ayer Barnes]]
+* ''Dishonored Lady'' (1930), with Barnes, made into the [[Dishonored Lady|1947 motion picture of the same name]], starring [[Hedy Lamarr]] and directed by [[Robert Stevenson (director)|Robert Stevenson]] (alternate title ''Sins of Madeleine'')
+
+==References==
+* Barnes, Eric. ''The Man Who Lived Twice''. New York: Scribner, 1956. {{OCLC|458626002}}
+{{Reflist}}
+
+==External links==
+{{Commons category|Edward Sheldon}}
+{{Portal|Biography}}
+
+* {{Internet Archive author |sname=Edward Sheldon |sopt=t}}
+* {{Librivox author |id=7204}}
+* {{IBDB name}}
+* {{IMDb name|id=0791017|name=Edward Sheldon}}
+* [http://harvardmagazine.com/2001/03/edward-sheldon.html ''Harvard Magazine'' article, with portrait]
+* {{Find a Grave|8970731}}
+* [http://nrs.harvard.edu/urn-3:FHCL.Hough:hou00667 Correspondence with Edward Sheldon] at [https://web.archive.org/web/20111121125844/http://hcl.harvard.edu/libraries/houghton/ Houghton Library], Harvard University
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sheldon, Edward}}
+[[Category:1886 births]]
+[[Category:1946 deaths]]
+[[Category:Writers from Chicago]]
+[[Category:20th-century American dramatists and playwrights]]

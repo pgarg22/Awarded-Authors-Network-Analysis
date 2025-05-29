@@ -1,0 +1,90 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Jaime Sabines
+| image = 
+| caption = 
+| birth_date = {{birth date|1926|03|25}}
+| birth_place = [[Tuxtla Gutiérrez]], [[Chiapas]], [[Mexico]]
+| death_date = {{death date and age|1999|03|19|1926|03|25}}
+| death_place = [[Mexico City]], Mexico
+| alma_mater = [[National Autonomous University of Mexico|UNAM]]
+| period = 1951–1994
+| awards = {{awd|[[Xavier Villaurrutia Award]]|1972|Lifetime achievements}}
+| occupation = [[Poet]]
+| influences = 
+| influenced = 
+| birth_name = Jaime Sabines Gutiérrez
+| language = Spanish
+| nationality = Mexican
+| spouse = Josefa «Chepita» Rodríguez Zebadúa
+}}
+'''Jaime Sabines Gutiérrez''' (March 25, 1926 – March 19, 1999) was a [[Mexico|Mexican]] contemporary [[Mexican poetry|poet]]. Known as “the sniper of Literature” {{Citation needed|date=July 2008}} as he formed part of a group that transformed literature into reality, he wrote ten volumes of poetry, and his work has been translated into more than twelve languages. His writings chronicle the experience of everyday people in places such as the street, hospital, and playground. Sabines was also a politician.
+
+==Biography==
+Jaime Sabines Gutiérrez was born on March 25, 1926 in [[Tuxtla Gutiérrez, Chiapas]]. He is of [[Lebanon|Lebanese]]<ref>[http://www.elsiglodetorreon.com.mx/noticia/883856.el-libanes.html El libanés Por: SERGIO SARMIENTO]</ref> and [[Spain|Spanish]]{{citation needed|date=September 2014}} descent.
+
+Before he devoted himself to the study of literature, he spent three years studying medicine before moving on to his real vocation:literature, studying at UNAM [[Universidad Nacional Autónoma de México]]. Sabines was an outstanding member of the [[Mexican Writers Centre]] from 1964 to 1965 and part of the jury for the [[Casa de las Americas prize]]. In addition to his literary activity, he participated in politics and became a [[Chamber of Deputies of Mexico|federal deputy]] for the [[First Federal Electoral District of Chiapas|First District]] of  [[Chiapas]] from 1976 to 1979, and for the [[Federal District]] in 1988. Sabines was awarded the Chiapas Award (1979), the [[Xavier Villaurrutia Award]] (1972), the Elias Sourasky Award (1982) and the National Literature Award (1983).
+
+A collection of his work, ''Nuevo recuento de poemas'', was issued by the publisher Joaquín Mortiz in 1977, and the [[Secretariat of Public Education]] in 1986. In 1994 he received from the [[Senate of Mexico]] the [[Belisario Domínguez Medal of Honor]]; in 1995, his selected poems, ''Pieces of Shadow'' (trans. W.S. Merwin), was brought out in a bilingual edition by Papeles Privados; and in 2004 Exile Editions (Toronto, Canada) published a bilingual volume of two early Sabines books, Adam and Eve & Weekly Diary and Poems in Prose (trans. Colin Carberry.) Octavio Paz considered him “one of the greatest contemporary poets of our [Spanish] language.”
+
+Sabines died on March 19, 1999.
+
+==Published poetry==
+*''Horal'' (1950)
+*''La señal'' (1951)
+*''Adán y Eva'' (1952)
+*''Tarumba'' (1956)
+*''Diario semanario y poemas en prosa'' (1961)
+*''Poemas sueltos'' (1951–1961)
+*''Yuria'' (1967)
+*''Espero curarme de ti'' (1967)
+*''Tlatelolco'' (1968)
+*''Maltiempo'' (1972)
+*''Algo sobre la muerte del Mayor Sabines'' (1973)
+*''Otros poemas sueltos'' (1973–1994)
+*''Nuevo recuento de poemas'' (1977)
+*''No es que muera de amor'' (1981)
+*''Los amorosos: Cartas a Chepita'' (1983)
+*''La luna'' (1988)
+*''Love Poems'' Translated by Colin Carberry (2011, Biblioasis)
+
+==Awards ==
+
+*1959 Chiapas, El Ateneo de Ciencias y Artes de Chiapas Prize.
+*1964 Scholarship granted by Centro Mexicano de Escritores (Mexican Center of Writers)
+*1973 [[Xavier Villaurrutia Award]] for ''Maltiempo''.<ref>{{Cite web |url=http://www.epdlp.com/premios.php?premio=Xavier%20Villaurrutia |title=Visited on December 7, 2009; edited by El Poder de la Palabra |access-date=August 16, 2011 |archive-url=https://web.archive.org/web/20170911171943/http://www.epdlp.com/premios.php?premio=Xavier%20Villaurrutia |archive-date=September 11, 2017 |url-status=dead }}</ref>
+*1982 [[Elías Sourasky Award]]
+*1983 [[National Prize for Arts and Sciences (Mexico)|National Prize for Language and Literature]].<ref>[http://www.ecultura.gob.mx/artistas_y_grupos_artisticos/pnca/indiceac/pnca_anoycampo.pdf Visited on December 1, 2009, and edited by Mexico's Secretariat of Public Education] {{webarchive|url=https://web.archive.org/web/20110722225045/http://www.ecultura.gob.mx/artistas_y_grupos_artisticos/pnca/indiceac/pnca_anoycampo.pdf |date=July 22, 2011 }}</ref>
+*1986 [[Juchimán de Plata Award (Mexico)|Juchimán de Plata Award]]
+*1991 [[Mexico City]] Medal
+*1994 [[Belisario Domínguez Medal of Honor]]
+*1996 [[Premio Mazatlán de Literatura]], for ''Pieces of shadow''
+
+==See also==
+{{wikisource author}}
+*[[Mexican literature]]
+
+==References==
+{{Reflist}}
+
+{{s-start}}
+{{succession box 
+  | title  = [[Belisario Domínguez Medal of Honor]] 
+  | years  = 1994
+  | before = [[Andrés Henestrosa Morales]] 
+  | after  = [[Miguel León-Portilla]]
+}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sabines, Jaime}}
+[[Category:1926 births]]
+[[Category:1999 deaths]]
+[[Category:Mexican male poets]]
+[[Category:Mexican male writers]]
+[[Category:Writers from Chiapas]]
+[[Category:People from Tuxtla Gutiérrez]]
+[[Category:Mexican people of Lebanese descent]]
+[[Category:Recipients of the Belisario Domínguez Medal of Honor]]
+[[Category:20th-century Mexican poets]]
+[[Category:20th-century male writers]]

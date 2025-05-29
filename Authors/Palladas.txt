@@ -1,0 +1,29 @@
+[[File:Plan of Alexandria c 30 BC Otto Puchstein 1890s EN.svg|thumb|Plan of Alexandria, c. 30 BC]]
+'''Palladas''' ({{lang-grc-gre|Παλλαδᾶς}}; fl. 4th century AD) was a [[Ancient Greece|Greek]] poet, who lived in [[Alexandria]], [[Egypt (Roman province)|Egypt]]. All that is known about this poet has been deduced from his 151 [[epigram]]s preserved in the ''[[Greek Anthology]]'' (''Anthologia graeca''); another twenty-three appear in that collection under his name, but his authorship is suspect. His poems describe the [[persona]] of a [[Paganism|pagan]] schoolteacher resigned to life in a [[Christianity|Christian]] city, and bitter about his quarrelsome wife.
+
+One of the epigrams attributed to him on the authority of [[Maximus Planudes]] is a [[eulogy]] on the celebrated [[Hypatia]], daughter of [[Theon of Alexandria]], whose death took place in 415. Another was, according to a ''scholium'' in the Palatine Manuscript (the most important source for our knowledge of Greek epigram), written in the reign of the joint emperors [[Valentinian I|Valentinian]] and [[Valens]] (364–375). A third epigram on the destruction of [[Beirut]] (''Anth. Gr.'' 9.27) suggests an alternative chronology dating Palladas' activity to the age of [[Constantine the Great]].<ref>"Palladas and the Age of Constantine'", ''[[Journal of Roman Studies]]'', '''99''' (2009), pp. 36–60.</ref> It is based on his edition of a [[papyrus]] [[codex]] that arrived from a private collection to the [[Beinecke Library]] at [[Yale University]] in 1996.<ref>Kevin W. Wilkinson, ''New Epigrams of Palladas: A Fragmentary Papyrus Codex (P.CtYBR inv. 4000)'' (Durham, NC: The American Society of Papyrologists, 2012). {{ISBN|978-0-9799758-5-1}} See the review by Lucia Floridi, [http://www.camws.org/CJ/files/reviews/2014/2014.04.07%20Floridi%20on%20Wilkinson.pdf CJ-Online 2014.04.07]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}.</ref> Some of his arguments in favor of this new chronology have, however, been called into question.<ref>Cf. reviews by R. Ast, in [http://bmcr.brynmawr.edu/2014/2014-02-23.html BMCR 2014.02.23], and J. Dijkstra, in ''[[Phoenix (classics journal)|Phoenix]]'', '''68''' (2014), 370–373, with Wilkinson's response in "More Evidence for the Date of Palladas" ''[[Zeitschrift für Papyrologie und Epigraphik]]'', '''196''' (2015), 67–71, and "ΠΡΥΤΑΝΙΣ and Cognates in Documentary Papyri and Greek Literature" ''Zeitschrift für Papyrologie und Epigraphik'', '''196''' (2015), 88–93; see, most recently, A. Cameron, "The Date of Palladas" ''Zeitschrift für Papyrologie und Epigraphik'', '''198''' (2016), 49–52.</ref>
+
+An anonymous epigram (''Anth. Gr.'' 9.380) speaks of Palladas as having a high poetical reputation. However, [[Isaac Casaubon]] dismisses him in two contemptuous words as ''versificator insulsissimus'' ("a most coarse poet"). [[John William Mackail]] concurs with Casaubon, writing that "this is true of a great part of his work, and would perhaps be true of it all but for the savage indignation which kindles his verse, not into the flame of poetry, but to a dull red heat."
+
+There is little direct allusion in his epigrams to the struggle against the onslaught of Christianity. One epigram speaks obscurely of the destruction of the "idols" of Alexandria popular in the [[Patriarch of Alexandria|archiepiscopate]] of [[Pope Theophilus of Alexandria|Theophilus]] in 389; another in even more enigmatic language (''Anth. Gr.'' 10.90) seems to be a bitter attack on the doctrine of the [[Resurrection]]; and a scornful couplet against the swarms of Egyptian monks might have been written by a Reformer of the 16th century. For the most part his sympathy with the Greco-Roman pagan tradition is only betrayed in his despondency over all things. But it is in his criticism of life that the power of Palladas lies; with a remorselessness like that of [[Jonathan Swift]] he tears the coverings from human frailty and holds it up in its meanness and misery. The lines on the ''Descent of Man'' (''Anth. Gr.'' 10.45), fall as heavily on the [[Neo-Platonism|Neo-Platonic]] martyr as on the Christian persecutor, and remain even now among the most mordant and crushing sarcasms ever passed upon mankind.
+
+Mackail groups Palladas to the same period with [[Aesopus (poet)|Aesopus]] and [[Glycon (poet)|Glycon]], each the author of a single epigram in the ''Greek Anthology''. All three belong to the age of the [[Byzantine Empire|Byzantine]] translators, when infinite pains were taken to rewrite well-known poems or passages in different metres, by turning [[Homer]] into [[elegiac]]s or [[Iamb (foot)|iambics]], and recasting pieces of [[Euripides]] or [[Menander]] as epigrams.
+
+==Notes==
+{{reflist}}
+
+==References==
+*K. W. Wilkinson, "Palladas and the Age of Constantine", ''The Journal of Roman Studies'', '''99''' (2009), 36–60.
+*John William Mackail, ''[https://www.gutenberg.org/ebooks/2378 Select epigrams from the Greek Anthology]''
+*[https://www.amazon.com/dp/1453629335 Harold Anthony Lloyd, ''The Complete Palladas''] (complete verse translation of all the epigrams)
+* "Palladas", William Smith, ed., ''[[Dictionary of Greek and Roman Biography and Mythology]]'', vol. 3, p. [https://quod.lib.umich.edu/m/moa/ACL3129.0003.001/102?rgn=full+text;view=image 94.]
+==External links==
+* {{wikisourcelang-inline|el|Παλλαδάς|Παλλαδᾶς}}
+
+{{Authority control}}
+[[Category:4th-century poets]]
+[[Category:Epigrammatists of the Greek Anthology]]
+[[Category:Christianity in the Roman Empire]]
+[[Category:Roman-era Alexandrians]]
+[[Category:Year of birth unknown]]
+[[Category:Year of death unknown]]

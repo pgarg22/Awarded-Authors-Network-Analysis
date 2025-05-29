@@ -1,0 +1,71 @@
+
+{{expand Italian|date=July 2018}}
+{{Infobox person
+| name = Vitaliano Brancati
+| image = Vitaliano Brancati.jpg 
+| birth_date = {{birth date|df=yes|1907|7|24}}
+| birth_place = [[Pachino]], [[Sicily]], [[Italy]]
+| death_date = {{death date and age|df=yes|1954|9|25|1907|7|24}}
+| death_place = [[Turin]], [[Italy]]
+| occupation = author
+| spouse = [[Anna Proclemer]]<br> 30 May 1923 – 25 April 2013
+| children =1
+}}
+'''Vitaliano Brancati''' ({{IPA-it|vitaˈljaːno braŋˈkaːti}}; 24 July 1907 – 25 September 1954) was an Italian novelist, dramatist, poet and screenwriter.
+
+==Biography==
+Born in [[Pachino]], [[Syracuse, Sicily|Syracuse]],  Brancati studied in [[University of Catania|Catania]], where he graduated in letters and where he spent the most part of his life.<ref name=bio>{{cite news|last1=Alberto Rossi|title=La morte di Vitaliano Brancati|issue=230|newspaper=[[La Stampa]]|date=1954-09-26|page=3}}</ref> While he started writing at young age and at 25 years old he was already the author of six books, which were largely influenced by [[Italian Fascism|fascist ideals]] and which were later rejected by the same Brancati, critics tend to set the starting point of his career in 1935, when he released the collection of short stories ''In search of a cause''.<ref name="bio"/> Brancati got his first and probably major success in 1941, with the novel ''[[Don Giovanni in Sicilia (novel)|Don Giovanni in Sicilia]]'', a vibrant and humorous portrait of the Sicilian temperament.<ref name="bio"/>
+
+In 1944 he wrote the novel ''Gli anni perduti'' ("The Lost Years"), a bold satire of [[Benito Mussolini]]'s megalomania, and in 1946 ''Vecchio con gli stivali'' ("Old Man in Boots"), a satirical short story inspired by the vicissitudes of the Italian fascism which won the Vendemmia Award and which was adapted into a successful film, ''[[Difficult Years]]'' by [[Luigi Zampa]].<ref name="bio"/> In 1950 he won the [[Bagutta Prize]] with one another well-known novel, ''Il bell'Antonio'' ("The Handsome Antonio").<ref name="bio"/>
+
+He died in a clinic in [[Turin]] after a major surgery.<ref name="bio"/> He was married to actress [[Anna Proclemer]] and the couple had a daughter together.<ref name="bio"/>
+
+==Selected works==
+===Novels and short stories===
+* ''[[Don Giovanni in Sicilia (novel)|Don Giovanni in Sicilia]]'' (1941), adapted into the film internationally released as [[Don Juan in Sicily]] (1967)
+* ''Gli anni perduti'' (1944) (''The Lost Years'' (1992), trans. [[Patrick Creagh]])
+* ''Il bell'Antonio'' (1949) (''Antonio: The Great Lover'' (1952), ''Beautiful Antonio'' (1993), trans. [[Patrick Creagh]]); adapted into the film [[Il bell'Antonio]] (1960)
+* ''Vecchio con gli stivali'' (1946), a short story, adapted into the film ''Anni difficili'' (''[[Difficult Years]]'') (1948)
+
+===Screenplays===
+* ''La bella addormentata'' (''[[Sleeping Beauty (1942 film)|Sleeping Beauty]]'') (1942)
+* ''[[Don Cesare di Bazan]]'' (1942)
+* ''Gelosia'' (''[[Jealousy (1942 film)|Jealousy]]'') (1942)
+* ''Signori, in carrozza!'' (''[[Rome-Paris-Rome]]'') (1951)
+* ''È più facile che un cammello...'' (''[[His Last Twelve Hours]]'') (1951)
+* ''Anni facili'' (''[[Easy Years]]'') (1953)
+* ''L'arte di arrangiarsi'' (''[[The Art of Getting Along]]'') (1954)
+* ''Paolo il caldo'' (''[[Paolo il caldo|Hot Paolo]]'') (1955)
+
+== References ==
+
+<references />
+
+==Further reading==
+
+*{{DBI|author=Nino Borsellino | url=http://www.treccani.it/enciclopedia/vitaliano-brancati_(Dizionario_Biografico)/ | title=BRANCATI, Vitaliano | volume=13}}
+*{{in lang|it}} Sarah Zappulla Muscarà (edited by), ''Vitaliano Brancati'', Catania, Giuseppe Maimone Editore, 1986. {{ISBN|978-88-7751-003-7}}.
+*{{in lang|it}} Sarah Zappulla Muscarà (edited by), ''Narratori siciliani del secondo dopoguerra'', Catania, Giuseppe Maimone Editore, 1990. {{ISBN|978-88-7751-031-0}}.
+
+{{Bagutta Prize}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brancati, Vitaliano}}
+[[Category:1907 births]]
+[[Category:1954 deaths]]
+[[Category:Writers from Sicily]]
+[[Category:People from the Province of Syracuse]]
+[[Category:Italian dramatists and playwrights]]
+[[Category:20th-century Italian screenwriters]]
+[[Category:20th-century Italian novelists]]
+[[Category:20th-century Italian male writers]]
+[[Category:20th-century Italian dramatists and playwrights]]
+[[Category:Italian male novelists]]
+[[Category:Italian male dramatists and playwrights]]
+[[Category:University of Catania alumni]]
+[[Category:Italian male screenwriters]]
+
+
+{{Italy-writer-stub}}
+{{Sicily-stub}}

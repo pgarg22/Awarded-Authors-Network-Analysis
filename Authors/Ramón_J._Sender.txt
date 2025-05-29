@@ -1,0 +1,112 @@
+{{short description|Spanish writer}}
+{{Distinguish|Ramon Sender}}
+{{Use dmy dates|date=November 2019}}
+{{family name hatnote|Sender|Garcés|lang=Spanish}}
+{{Infobox writer
+| name          = Ramón J. Sender
+| image         = Ramon J Sender.jpg
+| imagesize     = 
+| alt           = 
+| caption       = 
+| pseudonym     = 
+| birth_name    = {{nowrap|Ramón José Sender Garcés}}
+| birth_date    = {{birth date|df=yes|1901|02|03}}
+| birth_place   = [[Chalamera]], Spain
+| death_date    = {{death date and age|df=yes|1982|01|16|1901|02|03}}
+| death_place   = [[San Diego, California|San Diego]], U.S.
+| resting_place = 
+| occupation    = Professor
+| language      = [[Spanish language|Spanish]]
+| nationality   = Spanish
+| ethnicity     = 
+| citizenship   = [[United States of America|American]]
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = 
+| subject       = 
+| movement      = Post-Spanish Civil War literature
+| notableworks  = 
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| influences    = 
+| influenced    = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| website       = 
+| portaldisp    = 
+}}
+'''Ramón José Sender Garcés''' (3 February 1901 – 16 January 1982) was a [[Spain|Spanish]] novelist, essayist and journalist. Several of his works were translated into English by the distinguished zoologist, [[Sir Peter Chalmers Mitchell]], including ''Seven Red Sundays (Siete domingos rojos)'', ''Mr Witt Among the Rebels (Mr Witt en el cantón)'' and ''The War in Spain (Contraataque)''.<ref>{{cite book |last=Sir Peter Chalmers Mitchell|title=My House in Málaga|url=https://theclaptonpress.com//my-house-in-malaga-by-sir-peter-chalmers-mitchell/|publisher=[[The Clapton Press]], London|isbn=978-1-9996543-5-1|date=29 May 2019}}</ref>
+
+Sender's son is the composer and writer [[Ramon Sender|Ramón Sender]]. One of his several grandchildren is Sol Sender, a designer best known for his work on the [[Obama campaign logo]].<ref>{{cite book |last=Barkan |first=Elliott Robert |title=Immigrants in American History: Arrival, Adaptation, and Integration |url=https://books.google.com/books?id=AP7QCteb0o0C&pg=PA1315 |year=2013 |publisher=[[ABC-CLIO]] |isbn=978-1-59884-219-7 |page=1315 |editor-last=Schmid |editor-first=Carol L.}}</ref>
+
+==Publications==
+===In Spanish===
+* ''Imán'' (1930)
+* ''Siete domingos rojos'' (1932)
+* ''Mr. Witt en el cantón'' (1935)
+* ''Contraataque'' (1937)
+* ''El lugar de un hombre'' (1939)
+* ''Mexicayotl'' (1940)
+* ''Crónica del alba'' (1942)
+* ''La esfera'' (1947)
+* ''El rey y la reina'' (1949)
+* ''El verdugo afable'' (1952)
+* ''Mosén Millán'' (1953) (republished later in 1960 renamed as ''Requiem por un campesino español'')
+* ''Bizancio'' (1956)
+* ''[[La tesis de Nancy]]'' (1962)
+* ''[[El bandido adolescente]]'' (1965)
+* ''La aventura equinoccial de Lope de Aguirre'' (1968)
+
+===In English Translation===
+* ''Mr. Witt Among the Rebels'' (1937) Original Spanish: ''Mr. Witt en el cantón''
+* ''Seven Red Sundays'' (1938) Original Spanish: ''Siete domingos rojos''
+* ''The War in Spain: A Personal Narrative'' (1937) Original Spanish: ''Contraataque''
+* ''Chronicle of Dawn'' (1945) Original Spanish: ''Crónica del alba''
+* ''[[Requiem for a Spanish Peasant]]'' (1960) Original Spanish: ''Requiem por un campesino español''
+* ''The Affable Hangman'' (1964) Original Spanish: ''El verdugo afable''
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+
+{{refbegin}}
+
+* {{cite web |url=http://cvc.cervantes.es/actcult/sender/biografia.htm |title=Ramón J. Sender Garcés (1901–1982) |work=Centro Virtual Cervantes |last=Ara Torralba |first=Juan Carlos |publisher=[[Instituto Cervantes]] |language=es |access-date=6 August 2018}}
+* {{Cite news |last1=Conte |first1=Rafael |title=Crítica: Un centenario interminable |work=El País |date=22 December 2001 |url=https://elpais.com/diario/2001/12/22/babelia/1008982217_850215.html |language=es |issn=1134-6582 |location=Madrid  }}
+* {{Cite book |editor-last1=Pérez |editor-first1=Janet |editor-last2=Aycock |editor-first2=Wendell M. |last1=King |first1=Charles L. |chapter=Ramón Sender's Civil War |title=The Spanish Civil War in Literature |pages=109–120 |date=1990 |isbn=978-0-89672-196-8 |publisher=[[Texas Tech University Press]] |location=Lubbock, Texas |series=Studies in Comparative Literature  }}
+* {{Cite book |last1=Nonoyama |first1=Michiko |title=El anarquismo en las obras de Ramón J. Sender. |date=1979 |publisher=Playeor |location=Madrid |oclc=163455230  }}
+* {{Cite book |last1=Peñuelas |first1=Marcelino C |title=Conversaciones con Ramón J. Sender |date=1970 |publisher=Editorial Magisterio Español |location=Madrid |oclc=474869  }}
+* {{Cite journal |last1=Pini |first1=Donatella |title=La degradación de Sender, un montaje |journal=Alazet |volume=2 |pages=145–149 |date=1990 |language=es |issn=0214-7602  |hdl=11577/116692 }}
+* {{Cite book |last1=Pini Moro |first1=Donatella |title=Ramón J. Sender tra la guerra e l'esilio |date=1994 |language=Italian |isbn=978-88-7694-163-4 |publisher=Edizioni dell'Orso |location=Roma |oclc=432036211  }}
+* {{cite book |last=Rivas |first=Josefa |year=1967 |title=El escritor y su senda: estudio crítico-literario sobre Ramón J. Sender |publisher=Editores Mexicanos Unidos, [[Sociedad Anónima|S.A.]] |pages=340 |url=https://books.google.com/books?id=nlWxAAAAIAAJ}}
+* {{cite book|editor=Sáenz, Paz|title=Narratives from the Silver Age|translator-last1=Hughes |translator-first1=Victoria |translator-last2=Richmond |translator-first2=Carolyn |translator-link2=Carolyn Richmond|location=Madrid|publisher=Iberia  |year=1988 |isbn=84-87093-04-3}}
+* {{Cite web |title=Sender Garcés, Ramón José |work=[[Gran Enciclopedia Aragonesa Online]] |date=2009 |url=http://www.enciclopedia-aragonesa.com/voz.asp?voz_id=11669 |language=en }}
+* {{Cite journal |last1=Trippett |first1=Anthony M. |title=Nonoyama, Michiko, 'El anarquismo en las obras de R. J. Sender' (Book Review) |journal=[[Bulletin of Hispanic Studies]] |volume=58 |issue=2 |page=150 |date=April 1981 |doi=10.3828/bhs.58.2.150 |issn=1475-3839  }}
+
+{{refend}}
+
+==External links==
+*[http://www.epdlp.com/escritor.php?id=2299 Profile] {{in lang|es}}
+*[https://web.archive.org/web/20051220105443/http://centros4.pntic.mec.es/ies.ramon.j.sender/sender.htm Biography] {{in lang|es}}
+*[https://web.archive.org/web/20050430034639/http://aula.el-mundo.es/aula/noticia.php/2000/01/17/aula947885320.html Ramón J. Sender: One of the most important Spanish  expatriate writers] {{in lang|es}}
+* {{Find a Grave|7563262}}
+
+{{Anarchism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sender Garces, Ramon Jose}}
+[[Category:1902 births]]
+[[Category:1982 deaths]]
+[[Category:People from Bajo Cinca]]
+[[Category:Spanish anarchists]]
+[[Category:Spanish male writers]]
+[[Category:Aragonese writers]]
+[[Category:Spanish people of the Spanish Civil War (Republican faction)]]
+[[Category:Exiles of the Spanish Civil War in France]]
+[[Category:Exiles of the Spanish Civil War in Mexico]]
+[[Category:Exiles of the Spanish Civil War in the United States]]

@@ -1,0 +1,387 @@
+{{Short description|English children's fantasy writer}}
+{{Use dmy dates|date=March 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Diana Wynne Jones
+| image = Diana Wynne Jones.jpg
+| imagesize = 
+| image_caption = 
+| birth_date = {{Birth date|1934|8|16|df=y}}
+| birth_place = [[London]], England, UK
+| death_date = {{Death date and age|2011|3|26|1934|8|16|df=y}}
+| death_place = [[Bristol]], England, UK
+| occupation = Novelist
+| genre = [[Science fiction]], [[speculative fiction]], [[Children's literature|children's]], [[fantasy]], [[comic fantasy]]
+| years_active = 1968–2011
+| subject = Fantasy fiction, science fiction, surrealism<!-- Tough Guide to Fantasyland; asst. ed. Encyclopedia of Fantasy -->
+| movement = [[Postmodernism]]
+| notableworks = {{plainlist|
+* [[Chrestomanci]] series
+* ''[[Dalemark Quartet]]''
+* ''[[Howl's Moving Castle]]''
+}}
+| awards = {{awd |[[Guardian Prize]] |1978 }} {{awd |[[Mythopoeic Award]] |1996, 1999}} {{awd |[[British Fantasy Award|Karl Edward Wagner Award]] | 1999}}{{awd |[[World Fantasy Award for Life Achievement]] |2007 }}
+}}
+
+'''Diana Wynne Jones''' (16 August 1934 – 26 March 2011)<ref name=guardian/> was an English novelist, poet, academic, literary critic, and short story writer. She principally wrote [[fantasy]] and [[speculative fiction]] novels for [[children's literature|children]] and [[young adult literature|young adults]]. Although usually described as fantasy, some of her work also incorporates [[science fiction]] themes and elements of [[Literary realism|realism]]. Jones' work often explores themes of [[time travel]] and [[Parallel universes in fiction|parallel]] or multiple universes. Some of her better-known works are the [[Chrestomanci]] series, the [[Dalemark Quartet|Dalemark]] series, the three ''[[Howl's Moving Castle|Moving Castle]]'' novels, ''[[Dark Lord of Derkholm]]'', and ''[[The Tough Guide to Fantasyland]]''.
+
+Jones has been cited as an inspiration and muse for several fantasy and science fiction authors including [[Philip Pullman]], [[Terry Pratchett]], [[Penelope Lively]], [[Robin McKinley]], [[Dina Rabinovitch]], [[Megan Whalen Turner]], [[J.K. Rowling]] and [[Neil Gaiman]], with Gaiman describing her as "quite simply the best writer for children of her generation".<ref>{{cite book |last1=Wynne Jones |first1=Diana |title=Reflections |date=April 2012 |publisher=[[David Fickling Books]] |location=Foreword |isbn=978-0062219893 |page=viii |url=https://books.google.com/books?id=oKnjPrGFA2YC&q=%E2%80%9C|access-date=7 June 2021}}</ref><ref>{{cite web |last1=McKinley |first1=Robin |title=Fame. Sort of. |url=http://robinmckinleysblog.com/2010/09/23/fame-sort-of/ |archive-url=https://archive.today/20120714143033/http://robinmckinleysblog.com/2010/09/23/fame-sort-of/ |url-status=dead |archive-date=2012-07-14 |website=Robin McKinley, days in the life, archive |access-date=7 June 2021}}</ref><ref>{{cite web |last1=Ballard |first1=Janine |title=Interview with Megan Whalen Turner |url=https://dearauthor.com/features/interviews/interview-with-megan-whalen-turner/ |website=dearauthor.com |date=16 May 2017 |access-date=7 June 2021}}</ref><ref>{{cite web |title=Diana Wynne Jones |url=https://www.theguardian.com/books/2008/jun/10/dianawynnejones |website=[[The Guardian]] |date=22 July 2008 |access-date=7 June 2021}}</ref> Her work has been nominated for several awards. She was twice a finalist for the [[Hugo Award]], nominated fourteen times for the [[Locus Award]], seven times for the [[Mythopoeic Award]] (which she won twice), twice for a [[British Fantasy Award]] (won in 1999), and twice for a [[World Fantasy Award]], which she would also win in 2007.
+
+==Early life and marriage==
+
+Jones was born in London, the daughter of Marjorie (née Jackson) and Richard Aneurin Jones, both of whom were teachers.<ref name=independent /> When war was announced, shortly after her fifth birthday, she was [[Evacuations of civilians in Britain during World War II|evacuated]] to Wales, and thereafter moved several times, including periods in the [[Lake District]], in [[York]], and back in London. In 1943 her family finally settled in [[Thaxted, Essex]], where her parents worked running an educational conference centre.<ref name=independent>{{cite news |url=https://www.independent.co.uk/news/obituaries/diana-wynne-jones-doyenne-of-fantasy-writers-whose-books-for-children-paved-the-way-for-jk-rowling-2257675.html |title=Diana Wynne Jones: Doyenne of fantasy writers whose books for children paved the way for JK Rowling |last=Butler |first=Charlie |newspaper=The Independent |date=31 March 2011 |access-date=3 June 2013}}</ref> There, Jones and her two younger sisters Isobel (later Professor [[Isobel Armstrong]], the literary critic) and [[Ursula Jones |Ursula]] (later an actress and a children's writer) spent a childhood left chiefly to their own devices. 
+
+After attending [[Friends' School, Saffron Walden]], she studied English at [[St Anne's College, Oxford|St Anne's College]] in [[Oxford]], where she attended lectures by both [[C. S. Lewis]] and [[J. R. R. Tolkien]] before graduating in 1956.<ref name=parsons>{{cite web |url=https://www.bbc.co.uk/bristol/content/goingout/2003/03/05/books.shtml |title=Wrestling with an angel |last=Parsons |first=Caron |publisher=[[BBC]] |work=Going Out in Bristol |date=27 March 2003 |access-date=3 June 2013}}</ref> In the same year she married John Burrow, a scholar of [[medieval literature]], with whom she had three sons, Richard, Michael and Colin. After a brief period in London, in 1957 the couple returned to Oxford, where they stayed until moving to [[Bristol]] in 1976.<ref name=independent />
+
+According to her autobiography, Jones decided she was an [[atheist]] when she was a child.<ref name=autobiog/>
+
+==Career==
+Jones started writing during the mid-1960s "mostly to keep my sanity", when the youngest of her three children was about two years old and the family lived in a house owned by an Oxford college. Besides the children, she felt harried by the crises of adults in the household: a sick husband, a mother-in-law, a sister, and a friend with daughter.<ref name=changeover/> Her first book was a novel for adults published by Macmillan in 1970, entitled ''Changeover''. It originated as the [[British Empire]] was divesting colonies; she recalled in 2004 that it had "seemed like every month, we would hear that yet another small island or tiny country had been granted independence."<ref name=changeover/> ''Changeover'' is set in a fictional African colony during transition, and begins as a memo about the problem of how to "mark changeover" ceremonially is misunderstood to be about the threat of a terrorist named Mark Changeover. It is a farce with a large cast of characters, featuring government, police, and army bureaucracies; sex, politics, and news. In 1965, when [[Rhodesia's Unilateral Declaration of Independence|Rhodesia declared independence unilaterally]] (one of the last colonies and not tiny), "I felt as if the book were coming true as I wrote it."<ref name=changeover>Jones, D. W. (2004). "Introduction: The Origins of Changeover". ''Changeover'' [1970]. London: Moondust Books. {{ISBN|0-9547498-0-4}}.</ref>
+
+Jones' books range from amusing slapstick situations to sharp social observation (''Changeover'' is both), to witty parody of literary forms. Foremost amongst the latter are ''[[The Tough Guide To Fantasyland]]'' and its fictional companion-piece ''[[Dark Lord of Derkholm]]'', which provide a merciless (though not unaffectionate) critique of formulaic sword-and-sorcery epics.{{Citation needed|date=March 2011}}
+
+The ''[[Harry Potter]]'' books are frequently compared to the works of Diana Wynne Jones. Many of her earlier children's books were out of print in recent years, but have now been re-issued for the young audience whose interest in fantasy and reading was spurred by ''Harry Potter''.<ref>{{cite news |url=https://www.theguardian.com/parents/story/0,3605,941676,00.html |title=Wynne-ing ways: Author of the month Diana Wynne Jones |work=[[The Guardian]]|date=23 April 2003 |author-link=Dina Rabinovitch |last=Rabinovitch |first=Dina |access-date=16 August 2014}}</ref><ref>[[Charles de Lint|de Lint, Charles]] (January 2000). "Books To Look For". ''[[Fantasy & Science Fiction]]''. January 2000. <br>&nbsp; [http://www.sfsite.com/fsf/2000/cdl0001.htm Reprint] at SFsite.com retrieved 2014-12-18.</ref>
+
+Jones' works are also compared to those of [[Robin McKinley]] and [[Neil Gaiman]]. She was friends with both McKinley<ref>{{cite web |url=http://robinmckinleysblog.com/2010/09/23/fame-sort-of/ |title=fame. sort of. |author=McKinley, Robin |work=Robin McKinley: Days in the Life* *with footnotes |publisher=Robinmckinleysblog.com |date=23 September 2010 |access-date=16 August 2014 |archive-url=https://web.archive.org/web/20171116074725/http://robinmckinleysblog.com/2010/09/23/fame-sort-of/ |archive-date=16 November 2017 |url-status=dead }}</ref> and Gaiman, and Jones and Gaiman were fans of each other's work; she dedicated her 1993 novel ''Hexwood'' to him after something he said in conversation inspired a key part of the plot.<ref>Gaiman, Neil [date unknown]. [Title unknown]. ''The Magian Line'' 2.2. Refrain: "But I've got a copy of ''[[Hexwood]]'', dedicated to me by Diana Wynne Jones". ''Hexwood'' was published in 1993. <br>&nbsp; [http://www.suberic.net/dwj/personal.html#gaiman Reprint] as "Neil's Thankyou pome" at [[#homepage|''Chrestomanci Castle'']] retrieved 2014-12-18.</ref> Gaiman had already dedicated his 1991 four-part comic book mini-series ''[[The Books of Magic]]'' to "four witches", of whom Jones was one.<ref>{{cite web|last=Gaiman |first=Neil |url=http://journal.neilgaiman.com/2003/03/your-mention-of-miyazaki-and-howls.asp |title=untitled |work=Neil Gaiman's Journal |publisher=Neil Gaiman (journal.neilgaiman.com) |date=13 March 2003 |access-date=16 August 2014}}</ref>
+
+For ''[[Charmed Life (novel)|Charmed Life]]'', the first Chrestomanci novel, Jones won the 1978 [[Guardian Children's Fiction Prize]], a once-in-a-lifetime award by ''The Guardian'' newspaper that is judged by a panel of children's writers.<ref name=relaunch/> Three times she was a commended runner-up{{efn|name=HC}} for the [[Carnegie Medal (literary award)|Carnegie Medal]] from the [[CILIP|Library Association]], recognising the year's best children's book: for ''[[Dogsbody (novel)|Dogsbody]]'' (1975), ''Charmed Life'' (1977), and the fourth Chrestomanci book ''The Lives of Christopher Chant'' (1988).<ref name=ccsu/> She won the [[Mythopoeic Fantasy Award]], children's section, in 1996 for ''[[The Crown of Dalemark]]'' (concluding that series) and in 1999 for ''[[Dark Lord of Derkholm]]''; in four other years she was a finalist for that annual literary award by the [[Mythopoeic Society]].<ref name="SFawards-dwjones"/>{{efn|name=mythopoeic}}
+
+The 1986 novel ''[[Howl's Moving Castle]]'' was inspired by a boy at a school she was visiting, who asked her to write a book called The Moving Castle.<ref>{{cite book|last1=Jones|first1=Diana Wynne|title=Howl's Moving Castle|url=https://archive.org/details/howlsmovingcastl00jone|url-access=registration|date=1986|publisher=New York : Greenwillow Books|isbn=9780784824849}}</ref> It was published first by Greenwillow in the U.S., where it was a runner-up for the annual [[Boston Globe–Horn Book Award]] in children's fiction.<ref name=bghb/> In 2004, [[Hayao Miyazaki]] made the Japanese-language animated movie ''[[Howl's Moving Castle (film)|Howl's Moving Castle]]'', which was nominated for the [[Academy Award for Best Animated Feature]].<ref>{{cite web |title=Howl's Moving Castle Awards |url=https://www.imdb.com/title/tt0347149/awards?ref_=tt_awd |website=IMDb |publisher=IMDb.com, Inc. |access-date=16 June 2019}}</ref> A version dubbed in English was released in the UK and US in 2005, with the voice of Howl performed by [[Christian Bale]].<ref>[https://www.imdb.com/title/tt0347149/fullcredits "Howl's Moving Castle (2004): Full Cast & Crew"]. Internet Movie Database. Retrieved 10 December 2014.</ref> Next year Jones and the novel won the annual [[Phoenix Award]] from the [[Children's Literature Association]], recognising the best children's book published twenty years earlier that did not win a major award (named for [[Phoenix (mythology)|mythical bird phoenix]] to suggest the book's rise from obscurity).<ref name=phoenix/>
+
+''[[Fire and Hemlock]]'' had been the 2005 Phoenix runner-up.<ref name=phoenix/> It is a novel based on Scottish ballads,<!-- source is our lead sentence --> and was a Mythopoeic Fantasy finalist in its own time.{{efn|name=mythopoeic}}
+
+''[[Archer's Goon]]'' (1984) was a runner-up for that year's [[Horn Book Award]].<ref name=bghb/> It was adapted for television in 1992.<ref>{{cite web |title=Archer's Goon (TV series 1992–&nbsp;) |date=8 January 1992 |url=https://www.imdb.com/title/tt0315647 |publisher=Internet Movie Database |access-date=27 April 2013}}</ref> One Jones fansite believes it to be "the only tv adaptation (so far) of one of Diana's books".<ref>[http://www.leemac.freeserve.co.uk/ Home page] {{webarchive|url=https://web.archive.org/web/20050619233203/http://www.leemac.freeserve.co.uk/ |date=19 June 2005 }}, "More Stuff" in the right margin. ''[[#fansite|The Diana Wynne Jones Fansite]]''. Retrieved 18 December 2014.</ref>
+
+Jones' book on clichés in fantasy fiction, ''[[The Tough Guide To Fantasyland]]'' (nonfiction), has a cult following among writers and critics, despite initially being difficult to find due to an erratic printing history. It was reissued in the UK, and has been reissued in the United States in 2006 by [[Firebird Books]]. The Firebird edition has additional material and a completely new design, including a new [[map]].<ref>{{Cite web|title=The Tough Guide to Fantasyland by Diana Wynne Jones: 9780142407226 {{!}} PenguinRandomHouse.com: Books|url=https://www.penguinrandomhouse.com/books/295676/the-tough-guide-to-fantasyland-by-diana-wynne-jones/|access-date=4 August 2020|website=PenguinRandomhouse.com|language=en-US}}</ref>
+
+The [[British Fantasy Society]] recognised her significant impact on fantasy with its Karl Edward Wagner Award in 1999.<ref>{{Cite web|url=https://www.harpercollins.co.uk/author/cr-100375/diana-wynne-jones/|title=Diana Wynne Jones Books & Biography|website=HarperCollins|access-date=14 September 2019}}</ref> She received an honorary [[D.Litt]] from the [[University of Bristol]] in July 2006<ref>[http://www.bristol.ac.uk/pace/graduation/honorary-degrees/graduates.html "Honorary graduates" (1995–present)]. Public and Ceremonial Events Office. University of Bristol (bristol.ac.uk). Retrieved 18 December 2014.</ref> and the [[World Fantasy Award for Life Achievement]] in 2007.<ref name="SFawards-dwjones"/>
+
+In August 2014, Google commemorated Jones with a [[Google Doodle]] created by Google artist [[Sophie Diao]].<ref>{{Cite web|title=Google Doodles|url=http://www.sophiediao.com/google-doodles|access-date=4 August 2020|website=Sophie Diao|language=en-US}}</ref>
+
+==Illness and death==
+
+Jones was diagnosed with lung cancer in the early summer of 2009.<ref>{{cite news |last=Russell |first=Imogen |url=https://www.theguardian.com/books/booksblog/2009/jul/09/fantastic-diana-wynne-jones |title=A fantastic weekend with Diana Wynne Jones  |work=guardian.co.uk |date=9 July 2009 |access-date=15 August 2014}}</ref> She underwent surgery in July and reported to friends that the procedure had been successful.<ref>{{cite web|url=http://journal.neilgaiman.com/2009/07/eleven-days-or-thereabouts.html |work=Neil Gaiman's Journal |title=Eleven Days or Thereabouts |author=Gaiman, Neil |publisher=Neil Gaiman (journal.neilgaiman.com) |date=23 July 2009 |access-date=16 August 2014}}</ref> However, in June 2010 she announced that she would be discontinuing chemotherapy because it only made her feel ill. In mid-2010 she was halfway through a new book with plans for another to follow.<ref>{{cite web|url=http://news.ansible.co.uk/a275.html |title=Ansible 275|publisher=News.ansible.co.uk |date=11 June 2010 |access-date=15 August 2014}}</ref> She died on 26 March 2011 from the disease.<ref name=guardian/> She was surrounded by her husband, three sons, and five grandchildren as she was cremated at Canford Cemetery.
+
+The story in progress when she became too ill to write, ''[[The Islands of Chaldea]]'', was completed by her sister [[Ursula Jones]] in 2014.<ref name=chaldea/>
+Interviewed by ''The Guardian'' in June 2013 after she finished the Chaldea story, Ursula Jones said that "other things were coming to light&nbsp;... She left behind a mass of stuff."<ref name=chaldea/> In 2013 another book was published posthumously, ''[[Vile Visitors.]]''
+
+==Works==
+{{Main|Diana Wynne Jones bibliography}}
+
+==Selected awards and honours==
+Jones has been nominated for and also won multiple awards for her various works.
+
+{| class="wikitable"
+! scope="col"|  Year
+! scope="col"|  Organization
+! scope="col"|  Award title,<br/>Category
+! scope="col"|  Work
+! scope="col"|  Result
+! scope="col"|  Refs
+<!-- Use the template below for each row
+|-
+| YEAR
+| ORGANIZATION
+| TITLE,<br/>CATEGORY
+| WORK
+| {{nom}} or {{won}}
+| REFERENCES
+-->
+|-
+| 1985
+| [[World Fantasy Convention]]
+| [[World Fantasy Award]], [[World Fantasy Award—Novel|Novel]]
+| ''[[Archer's Goon]]''
+| {{nom}}
+| <ref name="isfdb 1985 wfa">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?44+1985 |title=1985 World Fantasy Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=30 June 2020 |archive-url=https://web.archive.org/web/20200630100513/http://www.isfdb.org/cgi-bin/ay.cgi?44+1985 |url-status=live }}</ref>
+|-
+| 1986
+| [[Mythopoeic Society]]
+| [[Mythopoeic Awards]], Fantasy Award
+| ''[[Fire and Hemlock]]''
+| {{nom}}
+| <ref name="isfdb 1986 mytho">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?30+1986 |title=1986 Mythopoeic Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=30 June 2020 |archive-url=https://web.archive.org/web/20200630132606/http://www.isfdb.org/cgi-bin/ay.cgi?30+1986 |url-status=live }}</ref>
+|-
+| 1992
+| [[Mythopoeic Society]]
+| [[Mythopoeic Awards]], Fantasy Award for Children's Literature
+| ''[[Castle in the Air (novel)|Castle in the Air]]''
+| {{nom}}
+| <ref name="isfdb 1992 mytho">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?30+1992 |title=1992 Mythopoeic Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=20 September 2020 |archive-url=https://web.archive.org/web/20200920230104/http://www.isfdb.org/cgi-bin/ay.cgi?30+1992 |url-status=live }}</ref>
+|-
+| 1996
+| [[Mythopoeic Society]]
+| [[Mythopoeic Awards]], Fantasy Award for Children's Literature
+| ''[[The Crown of Dalemark]]''
+| {{won}}
+| <ref name="isfdb 1996 mytho">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?30+1996 |title=1996 Mythopoeic Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=19 February 2021 |archive-url=https://web.archive.org/web/20210219220946/http://www.isfdb.org/cgi-bin/ay.cgi?30+1996 |url-status=live }}</ref>
+|-
+| 1997
+| [[Worldcon]]
+| [[Hugo Award]], [[Hugo Award for Best Related Work]]
+| ''[[The Tough Guide to Fantasyland]]''
+| {{nom}}
+| <ref name="isfdb 1997 hugo">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?23+1997 |title=1997 Hugo Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=10 November 2020 |archive-url=https://web.archive.org/web/20201110163722/http://www.isfdb.org/cgi-bin/ay.cgi?23+1997 |url-status=live }}</ref>
+|-
+| 1997
+| [[Locus (magazine)|''Locus'']]
+| [[Locus Award]], Best Non-fiction
+| ''[[The Tough Guide to Fantasyland]]''
+| {{nom|3}}
+| <ref name="isfdb 1997 locus">{{cite web|title=1997 Locus Poll Award|website=sfdb.org|url=http://www.isfdb.org/cgi-bin/ay.cgi?28+1997|url-status=live|archive-url=https://web.archive.org/web/20200702193347/http://www.isfdb.org/cgi-bin/ay.cgi?28+1997|archive-date=2 July 2020|access-date=19 February 2021|publisher=[[Internet Speculative Fiction Database]]}}</ref>
+|-
+| 1997
+| [[World Fantasy Convention]]
+| [[World Fantasy Award]], [[World Fantasy Special Award—Professional|Special Award—Professional]]
+| ''[[The Tough Guide to Fantasyland]]''
+| {{nom}}
+| <ref name="isfdb 1997 wfa">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?44+1997 |title=1997 World Fantasy Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=9 July 2019 |archive-url=https://web.archive.org/web/20190709022242/http://www.isfdb.org/cgi-bin/ay.cgi?44+1997 |url-status=live }}</ref>
+|-
+| 1999
+| [[British Fantasy Society]]
+| [[British Fantasy Award]], Karl Edward Wagner Award
+| -
+| {{won}}
+| <ref name="isfdb 1999 bfa">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?7+1999 |title=1999 British Fantasy Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=13 August 2020 |archive-url=https://web.archive.org/web/20200813170347/http://www.isfdb.org/cgi-bin/ay.cgi?7+1999 |url-status=live }}</ref>
+|-
+| 1999
+| [[Mythopoeic Society]]
+| [[Mythopoeic Awards]], Fantasy Award for Children's Literature
+| ''[[Dark Lord of Derkholm]]''
+| {{won}}
+| <ref name="isfdb 1999 mytho">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?30+1999 |title=1999 Mythopoeic Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] }}</ref>
+|-
+| 2004
+| [[Locus (magazine)|''Locus'']]
+| [[Locus Award]], Best Young Adult Book
+| ''[[The Merlin Conspiracy]]''
+| {{nom|3}}
+| <ref name="isfdb 2004 locus">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?28+2004 |title=2004 Locus Poll Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=8 November 2020 |archive-url=https://web.archive.org/web/20201108133700/http://www.isfdb.org/cgi-bin/ay.cgi?28+2004 |url-status=live }}</ref>
+|-
+| 2007
+| [[Mythopoeic Society]]
+| [[Mythopoeic Awards]], Fantasy Award for Children's Literature
+| ''[[The Pinhoe Egg]]''
+| {{nom}}
+| <ref name="isfdb 2007 mytho">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?30+2007 |title=2007 Mythopoeic Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=19 February 2021 |archive-url=https://web.archive.org/web/20210219231521/http://www.isfdb.org/cgi-bin/ay.cgi?30+2007 |url-status=live }}</ref>
+|-
+| 2007
+| [[World Fantasy Convention]]
+| [[World Fantasy Award]], [[World Fantasy Award—Life Achievement|Life Achievement]]
+| -
+| {{won}}
+| <ref name="isfdb 2007 wfa">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?44+2007 |title=2007 World Fantasy Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=18 August 2017 |archive-url=https://web.archive.org/web/20170818183407/http://www.isfdb.org/cgi-bin/ay.cgi?44+2007 |url-status=live }}</ref>
+|-
+| 2009
+| [[Mythopoeic Society]]
+| [[Mythopoeic Awards]], Fantasy Award for Children's Literature
+| ''[[House of Many Ways]]''
+| {{nom}}
+| <ref name="isfdb 2009 mytho">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?30+2009 |title=2009 Mythopoeic Award |website=sfdb.org |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=25 September 2017 |archive-url=https://web.archive.org/web/20170925141802/http://www.isfdb.org/cgi-bin/ay.cgi?30+2009 |url-status=live }}</ref>
+|-
+| 2011
+| [[Locus (magazine)|''Locus'']]
+| [[Locus Award]], Best Young Adult Book
+| ''[[Enchanted Glass]]''
+| {{nom|5}}
+| <ref name="">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?28+2011 |title=2011 Locus Poll Award |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=7 November 2020 |archive-url=https://web.archive.org/web/20201107054232/http://www.isfdb.org/cgi-bin/ay.cgi?28+2011 |url-status=live }}</ref>
+|-
+| 2013
+| [[British Fantasy Society]]
+| [[British Fantasy Award]], Best Non-Fiction
+| ''Reflections: On the Magic of Writing''
+| {{nom}}
+| <ref name="isfdb 2013 bfa">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?7+2013 |title=2013 British Fantasy Award |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] |archive-date=14 August 2020 |archive-url=https://web.archive.org/web/20200814141841/http://www.isfdb.org/cgi-bin/ay.cgi?7+2013 |url-status=live }}</ref>
+|-
+| 2015
+| [[Mythopoeic Society]]
+| [[Mythopoeic Awards]], Fantasy Award for Children's Literature
+| ''The Islands of Chaldea''
+| {{nom}}
+| <ref name="isfdb 2015 mytho">{{cite web |url=http://www.isfdb.org/cgi-bin/ay.cgi?30+2015 |title=2015 Mythopoeic Award |access-date=19 February 2021 |publisher=[[Internet Speculative Fiction Database]] }}</ref>
+|}
+
+== Explanatory notes ==
+{{notelist|notes= 
+{{efn|name=HC |1=
+Today there are usually eight books on the Carnegie shortlist.
+According to CCSU, some runners-up through 2002 were Commended (from 1955) or Highly Commended (from 1966); the latter distinction became approximately annual in 1979. There were about 160 commendations of both kinds in 48 years including two for 1975, three for 1977, and six for 1988.
+}}
+{{efn|name=mythopoeic |1=
+''Fire and Hemlock'' was one of six finalists for the Mythopoeic Award in 1986, when there was a single Fantasy award, and Jones was five times one of four or five finalists in the Children's category after dual fiction awards were introduced in 1992.
+}}
+}}
+
+==References==
+=== Citations ===
+{{reflist|refs=
+
+<ref name=autobiog>{{cite book
+|title=Something about the Author Autobiography Series
+|first=
+|last=
+|author-link=
+|editor1-first=
+|editor1-last=
+|editor1-link=
+|date=1989
+|chapter=Diana Wynne Jones
+|volume=7
+|publisher=Gale
+|location=
+|isbn=0810344564
+|page=
+|pages=
+|url=http://www.leemac.freeserve.co.uk/autobiog.htm
+|access-date=18 December 2013
+|archive-url=https://web.archive.org/web/20120522071720/http://www.leemac.freeserve.co.uk/autobiog.htm
+|archive-date=22 May 2012
+|url-status=
+}}</ref>
+
+<ref name=bghb>
+{{cite magazine
+|url=http://archive.hbook.com/bghb/past/past.asp
+|title=Boston Globe–Horn Book Awards Winners and Honor Books 1967 to present
+|magazine=The Horn Book
+|access-date=23 December 2012
+|archive-url=https://web.archive.org/web/20111019092012/http://archive.hbook.com/bghb/past/past.asp
+|archive-date=19 October 2011
+|url-status=dead
+}}</ref>
+
+<ref name=ccsu>{{cite web
+|title=Carnegie Medal Award
+|publisher=Curriculum Lab, [[Central Connecticut State University|CCSU]] Burritt Library
+|url=http://web.ccsu.edu/library/nadeau/award%20books/CarnegieMedal.htm
+|access-date=9 August 2012
+|archive-url=https://web.archive.org/web/20190327101434/http://web.ccsu.edu/library/nadeau/award%20books/CarnegieMedal.htm
+|archive-date=27 March 2019
+|url-status=dead
+}}</ref>
+
+<ref name=chaldea>{{cite book
+|title=Diana Wynne Jones's final book completed by sister
+|first=Alison
+|last=Flood
+|date=24 June 2013
+|work=The Guardian
+|url=https://www.theguardian.com/books/2013/jun/24/diana-wynne-jones-final-book-sister
+|access-date=22 February 2021
+|archive-url=https://web.archive.org/web/20210212021411/https://www.theguardian.com/books/2013/jun/24/diana-wynne-jones-final-book-sister
+|archive-date=12 February 2021
+|url-status=live
+}}</ref>
+
+<ref name=guardian>{{cite news 
+|url=https://www.theguardian.com/books/2011/mar/27/diana-wynne-jones-obituary 
+|title=Diana Wynne Jones obituary 
+|author-link=Christopher Priest (novelist) 
+|last=Priest 
+|first=Christopher 
+|date=27 March 2011 |access-date=27 March 2011 |newspaper=The Guardian
+}}</ref>
+
+<ref name=phoenix>{{cite web
+|url=http://www.childlitassn.org/phoenix-award
+|title=Phoenix Award
+|access-date=22 February 2021
+|publisher=[[Children's Literature Association]]
+|archive-url=https://web.archive.org/web/20210205090945/https://www.childlitassn.org/phoenix-award
+|archive-date=5 February 2021
+|url-status=live
+}}</ref>
+
+<ref name=relaunch>{{cite news
+|url=https://www.theguardian.com/books/2001/mar/12/guardianchildrensfictionprize2001.guardianchildrensfictionprize 
+|title=Guardian children's fiction prize relaunched: Entry details and list of past winners 
+|date=12 March 2001 |access-date=15 August 2014
+}}</ref>
+
+<ref name="SFawards-dwjones">{{cite web
+|title=Diana Wynne Jones
+|date=31 August 2020
+|publisher=Science Fiction Awards Database
+|url=http://www.sfadb.com/Diana_Wynne_Jones
+|access-date=22 February 2021
+|archive-url=https://web.archive.org/web/20201108073204/http://www.sfadb.com/Diana_Wynne_Jones
+|archive-date=8 November 2020
+|url-status=live
+}}</ref>
+
+}}
+
+===Additional works cited===
+* {{anchor|homepage}} {{cite web |url=http://www.suberic.net/dwj/index.html |title=Chrestomanci Castle |website=The Diana Wynne Jones Homepage, or Travels in the Land of Ingary |first=Deborah |last=Kaplan }}
+* {{anchor|fansite}} {{cite web |url=http://www.leemac.freeserve.co.uk/ |title=The Diana Wynne Jones Fansite |access-date=22 February 2021 |archive-url=https://web.archive.org/web/20160725213948/http://www.leemac.freeserve.co.uk/ |archive-date=25 July 2016 |url-status=dead }} Formerly ''The Official Diana Wynne Jones Fansite''.
+
+==Further reading==
+* {{cite book
+| last = Butler
+| first = Charles
+| author-link = Charles Butler (author)
+| title = Four British Fantasists: Place and Culture in the Children's Fantasies of Penelope Lively, Alan Garner, Diana Wynne Jones, and Susan Cooper
+| url = https://archive.org/details/fourbritishfanta0000butl
+| url-access = registration
+| publisher = Scarecrow Press
+| year = 2006
+| isbn = 0-8108-5242-X
+}}
+* {{cite book
+ | last = Mendlesohn
+ | first = Farah
+ | author-link = Farah Mendlesohn
+ | title = Diana Wynne Jones: Children's Literature and the Fantastic Tradition
+ | publisher = Routledge
+ | year = 2005
+ | isbn = 0-415-97023-7
+}}
+* {{cite book
+ | editor1-last = Rosenberg
+ | editor1-first = Teya
+ | editor2-last = Hixon
+ | editor2-first = Martha P.
+ | editor3-last = Scapple
+ | editor3-first = Sharon M.
+ | title = Diana Wynne Jones: An Exciting and Exacting Wisdom
+ | location = New York
+ | publisher = Peter Lang
+ | year = 2002
+ | isbn = 0-8204-5687-X
+}}
+
+==External links==
+{{Wikiquote}}
+* {{isfdb name|593}}
+* [https://web.archive.org/web/20050619233203/http://www.leemac.freeserve.co.uk/ The Diana Wynne Jones fansite]—fan-operated but approved by Jones who also participated
+* [http://sf-encyclopedia.com/entry/jones_diana_wynne "Diana Wynne Jones"], entry in ''[[The Encyclopedia of Science Fiction]]''
+* {{IMDb name|id=1168510}}
+* [https://web.archive.org/web/20011225104225/http://scifan.com/writers/jj/JonesWDiana.asp Diana Wynne Jones] at SciFan
+* {{IBList|type=author|id=1453|name=Diana Wynne Jones}}
+* [https://www.bbc.co.uk/bristol/content/goingout/2003/03/05/books.shtml "Wrestling with an Angel" (2003)], based on an interview with BBC Bristol
+* {{LCAuth|n2002056752|Ursula Jones|8|ue}}
+
+{{World Fantasy Award Life Achievement}}
+{{Diana Wynne Jones}}
+{{Authority control}}
+
+{{DEFAULTSORT:Jones, Diana Wynne}}
+[[Category:1934 births]]
+[[Category:2011 deaths]]
+[[Category:20th-century British short story writers]]
+[[Category:20th-century English novelists]]
+[[Category:20th-century English women writers]]
+[[Category:Alumni of St Anne's College, Oxford]]
+[[Category:British women short story writers]]
+[[Category:British writers of young adult literature]]
+[[Category:Deaths from lung cancer]]
+[[Category:English atheists]]
+[[Category:English children's writers]]
+[[Category:English fantasy writers]]
+[[Category:English women novelists]]
+[[Category:Guardian Children's Fiction Prize winners]]
+[[Category:People educated at Friends School Saffron Walden]]
+[[Category:People from Thaxted]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Women writers of young adult literature]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Deaths from cancer in England]]

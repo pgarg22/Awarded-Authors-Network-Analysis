@@ -1,0 +1,295 @@
+{{Short description|Chinese Tang dynasty poet (712-770)}}
+{{Use dmy dates|date=December 2020}}
+{{family name hatnote|[[Du surname|Du (Tu)]]|lang=Chinese}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Du Fu
+| image = Dufu.jpg
+| image_size = 250px
+| alt = Later portrait of Du Fu with a goatee, a mustache, and black headwear
+| caption = There are no contemporaneous portraits of Du Fu; this is a later artist's impression.
+| birth_date = 712
+| birth_place = [[Gongyi, Henan]], China
+| death_date = 	770 (aged 57–58)
+| death_place =
+| occupation = Poet, politician
+| genre =
+| movement =
+| period =
+| influences =
+| influenced = 
+| children   = Du Zongwen<br />Du Zongwu<br />Du Feng'er
+| relatives  = [[Du Shenyan]] (grandfather)<br />Du Xian (father)
+| website = 
+}}
+{{Infobox Chinese
+| pic=Du Fu (Chinese characters).svg
+| piccap=Du's name in Chinese characters
+| picupright=0.425
+| c=杜甫 
+| p=Dù Fǔ
+| w=Tu<sup>4</sup> Fu<sup>3</sup> 
+| mi={{IPAc-cmn|d|u|4|-|f|u|3}} 
+| gr = Duh Fuu 
+| suz=Dôu Fù
+| j=Dou<sup>6</sup> Fu<sup>2</sup> 
+| y=Douh Fú
+| ci={{IPAc-yue|d|ou|6|-|f|u|2}}
+| poj=Tō͘ Hú
+| tl=Tōo Hú 
+| mc=/duo<sup>X</sup> pɨo<sup>X</sup>/
+| kanji=杜甫
+| hiragana=とほ
+| romaji=To Ho
+|altname = Courtesy name
+|c2 = {{linktext|子|美}}
+|l2 = 
+|p2 = Zǐmeǐ
+|altname3 = Art name
+|c3 = {{linktext|少|陵|野|老}}
+|l3 = 
+|p3 = Shàolíng Yělǎo
+}}
+'''Du Fu''' ([[Wade–Giles]]: '''Tu Fu'''; {{zh|c={{linktext|杜|甫}}}}; 712–770) was a Chinese poet and politician of the [[Tang dynasty]]. Along with his elder contemporary and friend [[Li Bai]] (Li Po), he is frequently called the greatest of the Chinese [[poet]]s.<ref name="ebrey 103">Ebrey, 103.</ref> His  greatest ambition was to serve his country as a successful [[civil servant]], but he proved unable to make the necessary accommodations. His life, like the whole country, was devastated by the [[An Lushan Rebellion]] of 755, and his last 15 years were a time of almost constant unrest.
+
+Although initially he was little-known to other writers, his works came to be hugely influential in both [[Culture of China|Chinese]] and [[Culture of Japan|Japanese]] literary culture.  Of his poetic writing, nearly fifteen hundred poems have been preserved over the ages.<ref name="ebrey 103"/> He has been called the "Poet-Historian" and the "Poet-Sage" by Chinese critics, while the range of his work has allowed him to be introduced to [[Western culture|Western]] readers as "the Chinese [[Virgil]], [[Horace]], [[Ovid]], [[William Shakespeare|Shakespeare]], [[John Milton|Milton]], [[Robert Burns|Burns]], [[William Wordsworth|Wordsworth]], [[Pierre-Jean de Béranger|Béranger]], [[Victor Hugo|Hugo]] or [[Charles Baudelaire|Baudelaire]]".<ref name="hung 1">Hung, 1.</ref>
+
+==Life==
+Traditional Chinese [[literary criticism]] emphasized the life of the author when interpreting a work, a practice which the American scholar [[Burton Watson]] attributed to "the close links that traditional Chinese thought posits between art and morality". Since many of Du Fu's poems feature morality and history, this practice is particularly important.<ref name="Watson xvii">Watson, xvii.</ref> Another reason, identified by the Chinese historian [[William Hung (sinologist)|William Hung]], is that Chinese poems are typically concise, omitting context that might be relevant, but which an informed contemporary could be assumed to know. For modern Western readers, "The less accurately we know the time, the place and the circumstances in the background, the more liable we are to imagine it incorrectly, and the result will be that we either misunderstand the poem or fail to understand it altogether".<ref name="hung 5">Hung, 5.</ref>  [[Stephen Owen (academic)|Stephen Owen]] suggests a third factor particular to Du Fu, arguing that the variety of the poet's work required consideration of his whole life, rather than the "reductive" categorizations used for more limited poets.<ref name="owen1981 184">Owen (1981), 184.</ref>
+
+===Early years===
+Most of what is known of Du Fu's life comes from his poems. His paternal grandfather was [[Du Shenyan]], a noted politician and poet during the reign of Empress [[Wu Zetian]] (r. 690–705). Du Fu was born in 712; the exact birthplace is unknown, except that it was near [[Luoyang]], [[Henan]] province ([[Gongyi|Gong]] county is a favourite candidate). In later life, he considered himself to belong to the capital city of [[Chang'an]], ancestral hometown of the Du family.<ref name="hung x1">Hung, 19.</ref>
+
+Du Fu's mother died shortly after he was born, and he was partially raised by his aunt. He had an elder brother, who died young. He also had three half brothers and one half sister, to whom he frequently refers in his poems, although he never mentions his stepmother.<ref name="hung x1">Hung, 19.</ref>
+
+The son of a minor scholar-official, his youth was spent on the standard education of a future civil servant: study and memorisation of the [[Chinese classic texts|Confucian classics]] of [[philosophy]], history and poetry. He later claimed to have produced creditable poems by his early teens, but these have been lost.<ref name="hung x3">Hung, 21.</ref>
+[[File:Dufuschina.jpg|thumb|left|250px|alt=Map of eastern interior Chinese cities of Luoyang, Chang'an, Qinzhou, Chengdu, [[Kuizhou]], and [[Tanzhou (in modern Hunan)|Tanzhou]]|Du Fu's China]]
+In the early 730s, he travelled in the [[Jiangsu]]/[[Zhejiang]] area; his earliest surviving poem, describing a poetry contest, is thought to date from the end of this period, around 735.<ref name="hung x4">Hung, 24.</ref>
+In that year, he took the [[Imperial examination]], likely in [[Chang'an]]. He failed, to his surprise and that of centuries of later critics. Hung concludes that he probably failed because his [[prose]] style at the time was too dense and obscure, while Chou suggests his failure to cultivate connections in the capital may have been to blame. After this failure, he went back to traveling, this time around [[Shandong]] and [[Hebei]].<ref>Hsieh, 2.</ref><ref>Hung, 25–28.</ref>
+
+His father died around 740. Du Fu would have been allowed to enter the civil service because of his father's rank, but he is thought to have given up the privilege in favour of one of his half brothers.<ref name="hung x5">Hung, 33.</ref> He spent the next four years living in the Luoyang area, fulfilling his duties in domestic affairs.<ref name="chou 9">Chou, 9.</ref>
+
+In the autumn of 744, he met [[Li Bai]] (Li Po) for the first time, and the two poets formed a friendship. David Young describes this as "the most significant formative element in Du Fu's artistic development" because it gave him a living example of the reclusive poet-scholar life to which he was attracted after his failure in the civil service exam.<ref name="young 2">Young, 2.</ref> The relationship was somewhat one-sided, however. Du Fu was by some years the younger, while Li Bai was already a poetic star. We have twelve poems to or about Li Bai from the younger poet, but only one in the other direction. They met again only once, in 745.<ref name="davis 146">Davis, 146</ref>
+
+In 746, he moved to the capital in an attempt to resurrect his official career. He took the civil service exam a second time during the following year, but all the candidates were failed by the [[prime minister]] (apparently in order to prevent the emergence of possible rivals). He never again attempted the examinations, instead petitioning the emperor directly in 751, 754 and probably again in 755. He married around 752, and by 757 the couple had had five children—three sons and two daughters—but one of the sons died in infancy in 755. From 754 he began to have lung problems (probably [[asthma]]), the first of a series of ailments which dogged him for the rest of his life. It was in that year that Du Fu was forced to move his family due to the turmoil of a famine brought about by massive floods in the region.<ref name="ebrey 103"/>
+
+In 755, he received an appointment as Registrar of the Right Commandant's office of the Crown Prince's Palace.<ref name="hung x6">Hung, 86.</ref> Although this was a minor post, in normal times it would have been at least the start of an official career. Even before he had begun work, however, the position was swept away by events.
+
+[[File:DuFuStatue2.jpg|right|thumb|The statue in his [[Du Fu Thatched Cottage|Thatched Cottage]], [[Chengdu]], China ]]
+
+===War===
+The [[An Lushan Rebellion]] began in December 755, and was not completely suppressed for almost eight years. It caused enormous disruption to Chinese society: the census of 754 recorded 52.9&nbsp;million people, but ten years later, the census counted just 16.9&nbsp;million, the remainder having been displaced or killed.<ref name="hung x18">Hung, 202.</ref>
+During this time, Du Fu led a largely itinerant life unsettled by wars, associated famines and [[Emperor of China|imperial]] displeasure. This period of unhappiness was the making of Du Fu as a poet: Eva Shan Chou has written that, "What he saw around him&mdash;the lives of his family, neighbors, and strangers&ndash; what he heard, and what he hoped for or feared from the progress of various campaigns&mdash;these became the enduring themes of his poetry".<ref name="chou 62">Chou, 62.</ref> Even when he learned of the death of his youngest child, he turned to the suffering of others in his poetry instead of dwelling upon his own misfortunes.<ref name="ebrey 103"/> Du Fu wrote:
+
+{{quote|Brooding on what I have lived through, if even I know such suffering, the common man must surely be rattled by the winds.<ref name="ebrey 103"/>}}
+
+In 756, [[Emperor Xuanzong of Tang China|Emperor Xuanzong]] was forced to flee the capital and abdicate. Du Fu, who had been away from the city, took his family to a place of safety and attempted to join the court of the new emperor ([[Emperor Suzong of Tang China|Suzong]]), but he was captured by the rebels and taken to Chang'an.<ref name="hung x8">Hung, 101.</ref> In the autumn, his youngest son, Du Zongwu (Baby Bear), was born. Around this time Du Fu is thought to have contracted malaria.<ref name="hung x9">Hung, 110.</ref>
+
+He escaped from Chang'an the following year, and was appointed Reminder when he rejoined the court in May 757.<ref name="hung x11">Hung, 108.</ref> This post gave access to the emperor but was largely ceremonial. Du Fu's conscientiousness compelled him to try to make use of it: he caused trouble for himself by protesting the removal of his friend and patron [[Fang Guan]] on a petty charge. He was arrested but was [[pardon]]ed in June.<ref name="hung x11">Hung, 108.</ref> He was granted leave to visit his family in September, but he soon rejoined the court and on 8 December 757, he returned to Chang'an with the emperor following its recapture by government forces.<ref name="hung x12">Hung, 121.</ref> However, his advice continued to be unappreciated, and in the summer of 758 he was demoted to a post as Commissioner of Education in Huazhou.<ref name="hung x16">Hung, 130.</ref> The position was not to his taste: in one poem, he wrote:
+
+{{quote
+|text=<poem>{{lang|zh|束帶發狂欲大叫，
+簿書何急來相仍。| size = 115% }}
+
+I am about to scream madly in the office,
+Especially when they bring more papers to pile higher on my desk.</poem>
+|source=from "Early Autumn, Miserable Heat, Papers Piling Up" (Hung translation).<ref name="hung x13">Hung, 132.</ref>
+}}
+
+He moved on in the summer of 759; this has traditionally been ascribed to famine, but Hung believes that frustration is a more likely reason.<ref name="hung x14">Hung, 142.</ref> He next spent around six weeks in Qinzhou (now [[Tianshui]], [[Gansu]] province), where he wrote more than sixty poems.
+
+===Chengdu===
+In December 759, he briefly stayed in Tonggu (modern Gansu). He departed on 24 December for [[Chengdu]] ([[Sichuan]] province),<ref name="hung 158">Hung, 159.</ref> where he was hosted by local Prefect and fellow poet [[Pei Di]].<ref>Chang, 63</ref> Du subsequently based himself in Sichuan for most of the next five years.<ref name="hung x15">Hung, ''passim''.</ref> By the autumn of that year he was in financial trouble, and sent poems begging help to various acquaintances. He was relieved by Yan Wu, a friend and former colleague who was appointed governor general at Chengdu. Despite his financial problems, this was one of the happiest and most peaceful periods of his life. Many of Du's poems from this period are peaceful depictions of his life at [[Du Fu Thatched Cottage]].<ref name="ebrey 103"/>
+In 762, he left the city to escape a rebellion, but he returned in summer 764 when he was appointed an advisor to Yan, who was involved in campaigns against the [[Tibetan Empire]].<ref name="hung x17">Hung, 208.</ref>
+
+===Last years===
+Luoyang, the region of his birthplace, was recovered by government forces in the winter of 762, and in the spring of 765 Du Fu and his family sailed down the [[Yangtze River|Yangtze]], apparently with the intention of making their way there.<ref name="hung x19">Hung, 215.</ref> They traveled slowly, held up by his ill-health (by this time he was suffering from poor eyesight, deafness and general old age in addition to his previous ailments). They stayed in [[Kuizhou]] (in what is now [[Baidicheng]], [[Chongqing]]) at the entrance to the [[Three Gorges]] for almost two years from late spring 766.<ref name="hung x22">Hung, 221.</ref> This period was Du Fu's last great poetic flowering, and here he wrote 400 poems in his dense, late style.<ref name="hung x22">Hung, 221.</ref>
+In autumn 766, Bo Maolin became governor of the region: he supported Du Fu financially and employed him as his unofficial secretary.<ref name="hung x21">Hung, 227.</ref>
+
+In March 768, he resumed his journey and got as far as [[Hunan]] province, where he died in [[Tanzhou (in modern Hunan)|Tanzhou]] (now [[Changsha]]) in November or December 770, in his 58th year. He was survived by his wife and two sons, who remained in the area for some years at least. His last known descendant is a grandson who requested a grave inscription for the poet from [[Yuan Zhen]] in 813.<ref name="Watson xviii">Watson, xviii.</ref>
+
+Hung summarises his life by concluding that, "He appeared to be a filial son, an affectionate father, a generous brother, a faithful husband, a loyal friend, a dutiful official, and a patriotic subject."<ref name="hung x23">Hung, 282.</ref>
+
+Below is an example of one of Du Fu's later works, ''To My Retired Friend Wei'' ({{lang|zh-Hant|贈衛八處士}}).<ref>[http://etext.virginia.edu/chinese/frame.htm University of Virginia's 300 Tang Poems] {{webarchive|url=https://web.archive.org/web/20110806080810/http://etext.virginia.edu/chinese/frame.htm |date=6 August 2011 }}</ref>  Like many other poems in the Tang it featured the theme of a long parting between friends, which was often due to officials being frequently transferred to the provinces:<ref name="ebrey cambridge 120">Ebrey (1999), 120.</ref>
+
+{{poemquote|{{lang|zh-Hant|人生不相見，}} ''It is almost as hard for friends to meet''
+{{lang|zh-Hant|動如參與商。}} ''As for the [[Orion (constellation)|Orion]] and [[Scorpius]].''
+{{lang|zh-Hant|今夕復何夕，}} ''Tonight then is a rare event,''
+{{lang|zh-Hant|共此燈燭光。}} ''Joining, in the candlelight,''
+{{lang|zh-Hant|少壯能幾時，}} ''Two men who were young not long ago''
+{{lang|zh-Hant|鬢髮各已蒼。}} ''But now are turning grey at the temples.''
+{{lang|zh-Hant|訪舊半為鬼，}} ''To find that half our friends are dead''
+{{lang|zh-Hant|驚呼熱中腸。}} ''Shocks us, burns our hearts with grief.''
+{{lang|zh-Hant|焉知二十載，}} ''We little guessed it would be twenty years''
+{{lang|zh-Hant|重上君子堂。}} ''Before I could visit you again.''
+{{lang|zh-Hant|昔別君未婚，}} ''When I went away, you were still unmarried;''
+{{lang|zh-Hant|兒女忽成行。}} ''But now these boys and girls in a row''
+{{lang|zh-Hant|怡然敬父執，}} ''Are very kind to their father's old friend.''
+{{lang|zh-Hant|問我來何方。}} ''They ask me where I have been on my journey;''
+{{lang|zh-Hant|問答乃未已，}} ''And then, when we have talked awhile,''
+{{lang|zh-Hant|兒女羅酒漿。}} ''They bring and show me wines and dishes,''
+{{lang|zh-Hant|夜雨翦春韭，}} ''Spring chives cut in the night-rain''
+{{lang|zh-Hant|新炊間黃粱。}} ''And brown rice cooked freshly a special way.''
+{{lang|zh-Hant|主稱會面難，}} ''My host proclaims it a festival,''
+{{lang|zh-Hant|一舉累十觴。}} ''He urges me to drink ten cups—''
+{{lang|zh-Hant|十觴亦不醉，}} ''But what ten cups could make me as drunk''
+{{lang|zh-Hant|感子故意長。}} ''As I always am with your love in my heart?''
+{{lang|zh-Hant|明日隔山嶽，}} ''Tomorrow the mountains will separate us;''
+{{lang|zh-Hant|世事兩茫茫。}} ''After tomorrow—who can say?''}}
+
+===Health===
+Du Fu is the first person in the historical record identified as a diabetic patient. In his later years, he suffered from [[diabetes]] and [[pulmonary tuberculosis]], and died on board a ship on the [[Yangtze River]], aged 58 years old.<ref>{{cite journal|language=Japanese |last=SAKAMOTO |first=Nobuo |title=Diabetes: A brief historical retrospect |journal=Journal of the Japanese Association of Rural Medicine |date=1990 |volume=38 |issue=6 |pages= 1091–1095 |doi=10.2185/jjrm.38.1091|issn=1349-7421  |doi-access=free }}</ref>
+
+==Works==
+[[File:Dongqichang Dufu Shi.jpg|thumb|400px|A calligraphic copy of Du Fu's poem "Zui Ge Xing" by [[Dong Qichang]]]]
+Criticism of Du Fu's works has focused on his strong sense of history, his moral engagement, and his technical excellence.
+
+===History===
+Since the [[Song dynasty]], critics have called Du Fu the "poet saint" ({{lang|zh-Hant|詩聖}}, ''shī shèng'').<ref name="schmidt 420">Schmidt, 420.</ref> The most directly historical of his poems are those commenting on [[military tactic]]s or the successes and failures of the government, or the poems of advice which he wrote to the emperor. Indirectly, he wrote about the effect of the times in which he lived on himself, and on the ordinary people of China. As Watson notes, this is information "of a kind seldom found in the officially compiled histories of the era".<ref name="chou xvii">Chou, xvii</ref>
+
+Du Fu's political comments are based on emotion rather than calculation: his prescriptions have been paraphrased as, "Let us all be less selfish, let us all do what we are supposed to do". Since his views were impossible to disagree with, his forcefully expressed truisms enabled his installation as the central figure of Chinese poetic history.<ref name="chou 16">Chou, 16.</ref>
+
+===Moral engagement===
+A second favourite [[epithet]] of Chinese critics is that of "poet sage" ({{lang|zh-Hant|詩聖}}, ''shī shèng''), a counterpart to the philosophical sage, [[Confucius]].<ref name="Yao 82">Yao and Li, 82.</ref> One of the earliest surviving works, ''The Song of the Wagons'' (from around 750), gives voice to the sufferings of a [[conscription|conscript]] soldier in the imperial army and a clear-sighted consciousness of suffering. These concerns are continuously articulated in poems on the lives of both soldiers and civilians produced by Du Fu throughout his life.<ref name="Watson xvii">Watson, xvii.</ref>
+
+Although Du Fu's frequent references to his own difficulties can give the impression of an all-consuming [[solipsism]], Hawkes argues that his "famous compassion in fact includes himself, viewed quite objectively and almost as an afterthought". He therefore "lends grandeur" to the wider picture by comparing it to "his own slightly comical triviality".<ref name="hawkes 204">Hawkes, 204.</ref>
+
+Du Fu's compassion, for himself and for others, was part of his general broadening of the scope of poetry: he devoted many works to topics which had previously been considered unsuitable for poetic treatment. Zhang Jie wrote that for Du Fu, "everything in this world is poetry",<ref name="chou 67">Chou, 67.</ref>  Du wrote extensively on subjects such as domestic life, calligraphy, paintings, animals, and other poems.<ref name="Davis 140">Davis, 140.</ref>
+
+===Technical excellence===
+Du Fu's work is notable above all for its range. Chinese critics traditionally used the term {{lang|zh-Hant|集大成}} (jídàchéng, "complete symphony"), a reference to [[Mencius]]' description of [[Confucius]]. [[Yuan Zhen]] was the first to note the breadth of Du Fu's achievement, writing in 813 that his predecessor "united in his work traits which previous men had displayed only singly".<ref name="chou 42">Chou, 42.</ref> He mastered all the forms of [[Chinese poetry]]: Chou says that in every form he "either made outstanding advances or contributed outstanding examples".<ref name="chou 56">Chou, 56.</ref> Furthermore, his poems use a wide range of [[Register (sociolinguistics)|registers]], from the direct and [[colloquial]] to the [[allusion|allusive]] and self-consciously literary.<ref name="owen1981 218-9">Owen (1981), 218–19.</ref> This variety is manifested even within individual works: Owen identifies the, "rapid stylistic and thematic shifts" in poems which enable the poet to represent different facets of a situation,<ref name="owen1981 184">Owen (1981), 184.</ref> while Chou uses the term "juxtaposition" as the major analytical tool in her work.<ref name="chou chapters3-4">Chou, chapters 3–4.</ref> Du Fu is noted for having written more on poetics and painting than any other writer of his time. He wrote eighteen poems on painting alone, more than any other Tang poet. Du Fu's seemingly negative commentary on the prized horse paintings of [[Han Gan]] ignited a controversy that has persisted to the present day.<ref>Lee, 449–50.</ref>
+
+The tenor of his work changed as he developed his style and adapted to his surroundings ("[[chameleon]]-like" according to Watson): his earliest works are in a relatively derivative, courtly style, but he came into his own in the years of the rebellion. Owen comments on the "grim simplicity" of the Qinzhou poems, which mirrors the desert landscape;<ref name="owen1997 425">Owen (1997), 425.</ref> the works from his Chengdu period are "light, often finely observed";<ref name="owen1997 427">Owen (1997), 427.</ref> while the poems from the late Kuizhou period have a "density and power of vision".<ref name="owen1997 433">Owen (1997), 433.</ref>
+
+Although he wrote in all poetic forms, Du Fu is best known for his ''[[Shi (poetry)#Jintishi|lǜshi]]'', a type of poem with strict constraints on form and content, for example:
+
+{{poemquote|
+{{lang|zh-Hant|窈窕清禁闥，
+罷朝歸不同。
+君隨丞相後，
+我往日華東。|size=115%}}
+
+Leaving the Audience by the quiet corridors,
+Stately and beautiful, we pass through the Palace gates,
+Turning in different directions: you go to the West
+With the Ministers of State. I, otherwise.
+
+{{lang|zh-Hant|冉冉柳枝碧，
+娟娟花蕊紅。
+故人得佳句，
+獨贈白頭翁。|size=115%}}
+
+On my side, the willow-twigs are fragile, greening.
+You are struck by scarlet flowers over there.
+Our separate ways! You write so well, so kindly,
+To caution, in vain, a garrulous old man.
+|source="Memorial in Reply to a Friend's Advice" ({{lang|zh|奉答岑參補闕見贈)}}.<ref>Kizer, 228.</ref>}}
+
+About two thirds of Du Fu's 1500 extant works are in this form, and he is generally considered to be its leading exponent. His best ''lǜshi'' use the parallelisms required by the form to add expressive content rather than as mere technical restrictions. Hawkes comments that "it is amazing that Tu Fu is able to use so immensely stylized a form in so natural a manner".<ref name="hawkes 46">Hawkes, 46.</ref>
+
+==Influence==
+[[File:Dufucalligraphy.jpg|thumb|alt=Manuscript with three vertical lines of Chinese characters and the calligrapher's seal|Part of Du Fu's poem "On Visiting the Temple of Laozi", as written by [[Dong Qichang]]]]
+According to the ''[[Encyclopædia Britannica]]'', Du Fu's writings are considered by many literary critics to be among the greatest of all time,<ref name=britannica>{{cite book|title=The New Encyclopædia Britannica, Volume 12|publisher=[[Encyclopædia Britannica, Inc]]|edition=15|year=2003|isbn=978-0-85229-961-6|page=21|quote=Tu Fu, Chinese poet, considered by many literary critics to be the greatest of all time.}}</ref> and it states "his dense, compressed language makes use of all the connotative overtones of a phrase and of all the intonational potentials of the individual word, qualities that no translation can ever reveal."<ref name=britannica/>
+
+In his lifetime and immediately following his death, Du Fu was not greatly appreciated.<ref name="cai 38">Cai, 38.</ref> In part this can be attributed to his stylistic and formal innovations, some of which are still "considered extremely daring and bizarre by Chinese critics."<ref name="hawkes 4">Hawkes, 4.</ref> There are few contemporary references to him—only eleven poems from six writers—and these describe him in terms of affection, but not as a paragon of poetic or moral ideals.<ref name="chou 30">Chou, 30.</ref> Du Fu is also poorly represented in contemporary anthologies of poetry.<ref name="chou 31">Chou, 31.</ref>
+
+However, as Hung notes, he "is the only Chinese poet whose influence grew with time",<ref name="chou 1">Chou, 1.</ref> and his works began to increase in popularity in the ninth century. Early positive comments came from [[Bai Juyi]], who praised the moral sentiments of some of Du Fu's works (although he found these in only a small fraction of the poems), and from [[Han Yu]], who wrote a piece defending Du Fu and [[Li Bai]] on aesthetic grounds from attacks made against them.<ref name="chou 33">Chou, 33.</ref> Both these writers showed the influence of Du Fu in their own poetic work.<ref name="owen1981 217">Owen (1981), 217.</ref> By the beginning of the 10th century, [[Wei Zhuang]] constructed the first replica of his thatched cottage in Sichuan.<ref name="chou 35">Chou, 35.</ref>
+
+It was in the 11th century, during the [[Northern Song]] era that Du Fu's reputation reached its peak. In this period a comprehensive re-evaluation of earlier poets took place, in which [[Wang Wei (Tang dynasty)|Wang Wei]], Li Bai and Du Fu came to be regarded as representing respectively the [[Buddhism|Buddhist]], [[Daoism|Daoist]] and [[Confucianism|Confucian]] strands of Chinese culture.<ref name="chou 26">Chou, 26.</ref> At the same time, the development of [[Neo-Confucianism]] ensured that Du Fu, as its poetic exemplar, occupied the paramount position.<ref name="ch'en 265">Ch'en, 265.</ref> [[Su Shi]] famously expressed this reasoning when he wrote that Du Fu was "preeminent&nbsp;... because&nbsp;... through all his vicissitudes, he never for the space of a meal forgot his sovereign".<ref name="chou 23">Chou, 23.</ref> His influence was helped by his ability to reconcile apparent opposites: political [[Conservatism|conservatives]] were attracted by his loyalty to the established order, while political [[Radicalism (historical)|radicals]] embraced his concern for the poor. Literary conservatives could look to his technical mastery, while literary radicals were inspired by his innovations.<ref name="owen1981 183-4">Owen (1981), 183–84.</ref> Since the establishment of the [[People's Republic of China]], Du Fu's loyalty to the state and concern for the poor have been interpreted as embryonic nationalism and socialism, and he has been praised for his use of simple, "[[Vernacular Chinese|people's language]]".<ref name="chou 66">Chou, 66.</ref>
+
+Du Fu's popularity grew to such an extent that it is as hard to measure his influence as that of Shakespeare in England: it was hard for any Chinese poet ''not'' to be influenced by him.<ref name="owen1997 413">Owen (1997), 413.</ref> While there was never another Du Fu, individual poets followed in the traditions of specific aspects of his work: [[Bai Juyi]]'s concern for the poor, [[Lu You]]'s patriotism, and [[Mei Yaochen]]'s reflections on the quotidian are a few examples. More broadly, Du Fu's work in transforming the ''lǜshi'' from mere [[word play]] into "a vehicle for serious poetic utterance"<ref name="watson 270">Watson, 270.</ref> set the stage for every subsequent writer in the genre.
+
+In the 20th century, he was the favourite poet of [[Kenneth Rexroth]], who has described him as "the greatest non-[[Epic poetry|epic]], non-[[drama]]tic poet who has survived in any language", and commented that "he has made me a better man, as a moral agent and as a perceiving organism".<ref name="rexroth 135 137">Rexroth, 135–37.</ref>
+
+===Influence on Japanese literature===
+Du Fu's poetry has made a profound impact on [[Japanese literature]], especially on the literature from the [[Muromachi period]] and on scholars and poets in the [[Edo period]], including [[Matsuo Bashō]], the very greatest of all [[haiku]] poets.<ref>Suzuki and Kurokawa, 205-219.</ref> Even in modern [[Japanese language|Japanese]], the term {{Nihongo|''Saint of Poetry''|詩聖|''shisei''}} is mostly synonymous with Du Fu.<ref>[[Nihon Kokugo Daijiten]], digital edition {{cite web |url=http://www.japanknowledge.com/ |title=Archived copy |access-date=1 February 2009 |url-status=dead |archive-url=https://web.archive.org/web/20081107073644/http://www.japanknowledge.com/ |archive-date=7 November 2008 }}. 詩聖.</ref>
+
+Until the 13th century, the Japanese preferred Bai Juyi above all poets and there were few references to Du Fu, although his influence can be seen in some [[kanshi (poetry)|kanshi]] ("Chinese poetry made by Japanese poets") anthologies such as ''[[Bunka Shūreishū]]'' in the 9th century.<ref>Suzuki and Kurokawa, 206-207.</ref> The first notable Japanese appreciator of Du Fu's poetry was [[Kokan Shiren]] (1278–1346), a [[Rinzai]] [[Zen]] patriarch and one of the most prominent authors of the [[literature of the Five Mountains]]; he highly praised Du Fu and made a commentary on some poems of Du Fu from the perspective of a Zen priest in Vol. 11 of ''Saihokushū''.<ref>Suzuki and Kurokawa, 207.</ref> His student [[Chūgan Engetsu]] composed many kanshi which were clearly stated to be "influenced by Du Fu" in their prefaces.<ref>Suzuki and Kurokawa, 207-208.</ref> Chūgan's student [[Gidō Shūshin]] had close connection with the Court and [[Ashikaga Shogunate]] and propagated Du Fu's poetry in the mundane world; one day [[Nijō Yoshimoto]], the [[Kampaku]] regent of the Court and the highest authority of [[renga]] poetry, asked Gidō, "Should I learn the poetry of Du Fu and Li Bai?" Gidō dared to reply, "Yes if you do have enough capability. No if do not."<ref>Suzuki and Kurokawa, 208.</ref> Since then, there had been many seminars on Du Fu's poetry both in Zen temples and in the aristocratic society, and as a result his poetry was often cited in Japanese literature in the Muromachi period, e.g., ''[[Taiheiki]]'', a historical epic in the late 14th century, and some [[noh]] plays such as ''Hyakuman'', ''Bashō'', and ''Shunkan''.<ref>Suzuki and Kurokawa, 209-212.</ref>
+
+During the [[Kan'ei]] era of the Edo period (1624–1643), ''Shào Chuán'' ({{lang|zh|邵傳}}) of the [[Ming Dynasty]]'s {{Nihongo|''Collective Commentary on Du Fu's [[Shi (poetry)#Jintishi|Lǜshi]]''|杜律集解|Toritsu Shikkai}} was imported into Japan, and it gained explosive popularity in Confucian scholars and [[chōnin]] (townspeople) class.<ref>Suzuki and Kurokawa, 213-214.</ref> The commentary established Du Fu's fame as the highest of all poets; for instance, [[Hayashi Shunsai]], a notable Confucian scholar, commented in Vol. 37 of ''Gahō Bunshū'' that Zǐměi [Du Fu] was the very best poet in history and praised Shào Chuán's commentary for its simplicity and readability, while he criticized old commentaries during the [[Yuan Dynasty]] as too unfathomable.<ref>Suzuki and Kurokawa, 214.</ref> [[Matsuo Bashō]], the greatest haiku poet, was also strongly influenced by Du Fu; in ''[[Oku no Hosomichi]]'', his masterpiece, he cites the first two lines of ''A Spring View'' ({{lang|zh|春望}}) before a haiku as its introduction<ref>Hisatomi, Tetsuo (Editor); 1980. ''Oku no Hosomichi''. [[Kodansha]]. {{ISBN|4-06-158452-9}}. p. 173.</ref> and also many of his other haiku have similar wording and themes.<ref>Suzuki and Kurokawa, 216-217.</ref> It is said that when he died in [[Osaka]] during a long travel, a copy of Du Fu's poetry was found with him as one of a few precious items which he was able to carry around.<ref>Suzuki and Kurokawa, 216.</ref>
+
+==Translation==
+[[File:Dusieonhae.jpg|thumb|A Korean translated book of Du Fu's poems, 1481]]
+A variety of styles have been used in efforts to translate Du Fu's work into English. As [[Burton Watson]] remarks in ''[[The Selected Poems of Du Fu]]'', "There are many different ways to approach the problems involved in translating Du Fu, which is why we need as many different translations as possible" (p. xxii). The translators have had to contend with bringing out the formal constraints of the original without sounding laboured to a Western ear (particularly when translating regulated verse, or ''lǜshi''), and accommodating the complex allusions contained particularly in the later works (Hawkes writes that "his poems do not as a rule come through very well in translation"—p. ix).
+
+One extreme on each issue is represented by [[Kenneth Rexroth]]'s ''[[One Hundred Poems From the Chinese]]''. His are free translations, which seek to conceal the parallelisms through [[enjambement]] and expansion and contraction of the content; his responses to the allusions are firstly to omit most of these poems from his selection, and secondly to "translate out" the references in those works which he does select.<ref name="rexroth 136-7">Rexroth, 136–37.</ref> Other translators have placed much greater weight on trying to convey a sense of the poetic forms used by Du Fu.{{Citation needed|date=September 2021}} [[Vikram Seth]] in ''[[Three Chinese Poets]]'' uses English-style rhyme schemes, whereas [[Keith Holyoak]] in ''[[Facing the Moon]]'' approximates the Chinese rhyme scheme; both use end-stopped lines and preserve some degree of parallelism. In ''[[The Selected Poems of Du Fu]]'', [[Burton Watson]] follows the parallelisms quite strictly, persuading the western reader to adapt to the poems rather than vice versa. Similarly, he deals with the allusion of the later works by combining literal translation with extensive [[annotation]].<ref name="Watson passim">Watson, ''passim''.</ref> [[Arthur Cooper (translator)|Arthur Cooper]] also translated selected poems of Du Fu and [[Li Bai]], which were published under the [[Penguin Classics]] imprint.<ref>Arthur Cooper, "Li Po and Tu Fu" (Penguin Books 1973).</ref> [[David Hinton]] has also published selected poems for [[New Directions Publishing|New Directions]], first in 1989 followed by an expanded and revised edition in 2020.<ref>{{Cite web|date=2020-02-25|title=The Selected Poems of Tu Fu|url=https://www.ndbooks.com/book/the-selected-poems-of-tu-fu-1/|access-date=2021-09-27|website=www.ndbooks.com|language=en}}</ref> In 2015, [[Stephen Owen (academic)|Stephen Owen]] published annotated translations, with facing Chinese texts, of the complete poetry of Du Fu in six volumes.{{sfnb|Owen|2015}}<ref>{{cite web|url=http://news.harvard.edu/gazette/story/2016/04/translating-nine-pounds-of-poetry/|title=Translating nine pounds of poetry|work=[[Harvard Gazette]]|date=11 April 2016}}</ref>
+
+==See also==
+* "[[Autumn Day in Kui Prefecture]]"
+* [[Classical Chinese poetry]]
+* [[Simians (Chinese poetry)]]
+* [[Tang Dynasty art]]
+* [[Tang poetry]]
+* [[Three perfections]] - integration of calligraphy, poetry and painting
+* [[Du Fu Thatched Cottage]]
+* [[Du Fu River Pavilion]]
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+* Cai, Guoying; (1975). ''Chinese Poems with English Translation''. 正中書局.
+* Chang, H. C. (1977). ''Chinese Literature 2: Nature Poetry''. New York: Columbia University Press. {{ISBN|0-231-04288-4}}
+* Ch'en Wen-hua. ''T'ang Sung tzu-liao k'ao''.
+* Chou, Eva Shan; (1995). ''Reconsidering Tu Fu: Literary Greatness and Cultural Context''. [[Cambridge University Press]]. {{ISBN|0-521-44039-4}}.
+* Cooper, Arthur (translator); (1986). ''Li Po and Tu Fu: Poems''. Viking Press. {{ISBN|0-14-044272-3}}.
+* Davis, Albert Richard; (1971). ''Tu Fu''. Twayne Publishers.
+* Ebrey, Walthall, Palais, (2006). ''East Asia: A Cultural, Social, and Political History''. Boston: Houghton Mifflin Company.
+* Ebrey, Patricia Buckley (1999). ''The Cambridge Illustrated History of China''. Cambridge: Cambridge University Press. {{ISBN|0-521-66991-X}} (paperback).
+* [[David Hawkes (scholar)|Hawkes, David]]; (2016). ''A Little Primer of Tu Fu''. New York Review Books, revised ed., {{ISBN|978-9629966591}}.
+*Hinton, David (translator); (2019). ''The selected poems of Tu Fu''. New York : New Directions Publishing. {{ISBN|9780811228381}}
+* {{cite book |last =  Hinton  |first =  David|year = 2019 |title = Awakened Cosmos: The Mind of Classical Chinese Poetry |url = https://www.shambhala.com/awakened-cosmos.html |publisher = Shambhala Publications| location = Boulder |isbn = 9781611807424 }}  
+* [[Keith Holyoak|Holyoak, Keith]] (translator); (2007). ''Facing the Moon: Poems of Li Bai and Du Fu''. Durham, NH: Oyster River Press. {{ISBN|978-1-882291-04-5}}
+* Hsieh, Daniel; (1994). "Du Fu's 'Gazing at the Mountain'". ''Chinese Literature: Essays, Articles, Reviews (CLEAR)''. 1–18.
+* Hung, William; (1952). ''Tu Fu: China's Greatest Poet''. [[Harvard University Press]].
+* Kizer, Carolyn; (1964). "Versions from Tu Fu". ''The Hudson Review''. Vol. 17, No. 2. 226–230.
+* Lee, Joseph J; (1970). "Tu Fu's Art Criticism and Han Kan's Horse Painting". ''Journal of the American Oriental Society''. Vol. 90, No. 3. 449–461.
+* McCraw, David; (1992). ''Du Fu's Laments from the South''. [[University of Hawaii Press]] {{ISBN|0-8248-1422-3}}
+* Owen, Stephen; (1981). ''The Great Age of Chinese Poetry: The High T'ang''. [[Yale University Press]]. {{ISBN|0-300-02367-7}}.
+* Owen, Stephen (editor); (1997). ''An Anthology of Chinese Literature: Beginnings to 1911''. W.W. Norton & Company. {{ISBN|0-393-97106-6}}.
+* {{cite book |last =  Owen  |first =  Stephen|year = 2015 |title = The Poetry of Du Fu |url = http://www.degruyter.com/view/product/246946 |publisher = De Gruyter| location = Warsaw; Boston |isbn = 9781614517122 }} Complete English translation. [http://www.degruyter.com/viewbooktoc/product/246946 Open Access]
+* [[Kenneth Rexroth|Rexroth, Kenneth]] (translator); (1971). ''One Hundred Poems From the Chinese''. New Directions Press. {{ISBN|0-8112-0180-5}}.
+*[[Vikram Seth|Seth, Vikram]] (translator); (1992). ''Three Chinese Poets: Translations of Poems by Wang Wei, Li Bai, and Du Fu''. Faber & Faber. {{ISBN|0-571-16653-9}}
+*Schmidt, Jerry Dean; (2003). ''Harmony Garden''. [[Routledge]]. {{ISBN|978-0-7007-1525-1}}
+* Suzuki, Torao and Yoichi Kurokawa; (1966) (in Japanese) {{Nihongo|''Poetry of Du Fu, Vol. 8''|杜詩 第八冊|Toshi Dai-hassatsu}}. [[Iwanami Shoten]]. {{ISBN|978-4-00-200305-4}}.
+* [[Burton Watson|Watson, Burton]] (editor); (1984). ''The Columbia Book of Chinese Poetry''. [[Columbia University Press]]. {{ISBN|0-231-05683-4}}.
+*Watson, Burton (translator); (2002). ''The Selected Poems of Du Fu''. Columbia University Press. {{ISBN|0-231-12829-0}}
+* Yao, Dan and Li, Ziliang (2006). ''Chinese Literature''. 五洲传播出版社. {{ISBN|978-7-5085-0979-2}}.
+* Young, David (translator); (2008). ''Du Fu: A Life in Poetry''. [[Random House]]. {{ISBN|0-375-71160-0}}
+
+==Further reading==
+* Motsch, Monika. "[http://books.openedition.org/editionsmsh/1483 Slow Poison or Magic Carpet: The Du Fu Translations by Erwin Ritter von Zach]." ([https://web.archive.org/web/20131206173725/http://books.openedition.org/editionsmsh/1483 Archive]) In: Alleton, Vivianne and Michael Lackner (editors). ''[[De l'un au multiple: traductions du chinois vers les langues européennes Translations from Chinese into European Languages]]''. Éditions de la maison des sciences de l'homme (Les Editions de la MSH, [[:fr:Fondation Maison des sciences de l'homme|FR]]), 1999, [[Paris]]. p.&nbsp;100–111. {{ISBN|2-7351-0768-X}}, 9782735107681.
+* McMullen, David L. "[http://www.ihp.sinica.edu.tw/~asiamajor//pdf/2001b/09%20McMull.pdf Recollection without Tranquility: Du Fu, the Imperial Gardens, and the State]." ([https://web.archive.org/web/20130921150201/http://www.ihp.sinica.edu.tw/~asiamajor/pdf/2001b/09%20McMull.pdf Archive]) ''Asia Major'' ([[:fr:Asia Major|FR]]), vol. 14–2, 2001. p.&nbsp;189–252.
+* Owen, Stephen [translator & editor], Warner, Ding Xiang [editor], Kroll, Paul [editor] (2016). [https://www.degruyter.com/view/product/246946 The Poetry of Du Fu] {{openaccess}}. '' De Gruyter Mouton''. {{ISBN|978-1-5015-0189-0}}
+
+==External links==
+{{Wikiquote}}
+{{Commons}}
+* [https://web.archive.org/web/20040817214247/http://afpc.asso.fr/wengu/wg/wengu.php?l=Tangshi&no=-1&auteur=Du_Fu Tu Fu's poems] included in ''300 Selected Tang poems'', translated by [[Witter Bynner]]
+* [http://www.blackcatpoems.com/f/du_fu.html Du Fu: Poems] A collection of Du Fu's poetry by multiple translators.
+* [http://poemsintranslation.blogspot.com/search/label/Du%20Fu Du Fu in English] at ''Poems Found in Translation''
+* {{curlie|Arts/Literature/Authors/D/Du_Fu/}}
+* [http://www.chinese-poems.com/du.html Du Fu's poems] organized roughly by date written; shows both simplified and traditional characters
+* {{Internet Archive author |sname=Du Fu}}
+* {{Librivox author |id=3146}}
+* {{OL_author|OL6845007A}}
+*Books of the ''[[Quan Tangshi]]'' that include collected poems of Du Fu at the [[Chinese Text Project]]:
+**[http://ctext.org/quantangshi/216 Book 216], [http://ctext.org/quantangshi/217 Book 217], [http://ctext.org/quantangshi/218 Book 218], [http://ctext.org/quantangshi/219 Book 219], [http://ctext.org/quantangshi/220 Book 220],
+**[http://ctext.org/quantangshi/221 Book 221], [http://ctext.org/quantangshi/222 Book 222], [http://ctext.org/quantangshi/223 Book 223], [http://ctext.org/quantangshi/224 Book 224], [http://ctext.org/quantangshi/225 Book 225],
+**[http://ctext.org/quantangshi/226 Book 226], [http://ctext.org/quantangshi/227 Book 227], [http://ctext.org/quantangshi/228 Book 228], [http://ctext.org/quantangshi/229 Book 229], [http://ctext.org/quantangshi/230 Book 230],
+**[http://ctext.org/quantangshi/231 Book 231], [http://ctext.org/quantangshi/232 Book 232], [http://ctext.org/quantangshi/233 Book 233], [http://ctext.org/quantangshi/234 Book 234]
+
+{{Chinese poetry}}
+{{portal bar|China|Asia|Middle Ages|Biography|Poetry|Literature}}
+{{Featured article}}
+{{Authority control}}
+
+{{DEFAULTSORT:Du Fu}}
+[[Category:712 births]]
+[[Category:770 deaths]]
+[[Category:8th-century Chinese poets]]
+[[Category:Du clan of Jingzhao]]
+[[Category:Poets from Henan]]
+[[Category:Politicians from Zhengzhou]]
+[[Category:Tang dynasty politicians from Henan]]
+[[Category:Three Hundred Tang Poems poets]]
+[[Category:Writers from Zhengzhou]]

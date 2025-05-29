@@ -1,0 +1,82 @@
+{{Short description|New Zealand writer, painter and musician}}
+{{Use New Zealand English|date=November 2012}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+| name = Apirana Taylor
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| pseudonym = 
+| birth_name = 
+| birth_date = {{Birth date and age|df=y|1955|3|15}}
+| birth_place = [[Wellington]], New Zealand
+| death_date = <!-- {{Death date and age|df=yes|Year|Month|Day|Year|Month|Day}} -->
+| death_place = 
+| resting_place = 
+| occupation = Poet, novelist
+| language = 
+| nationality = 
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 1979–2004
+| genre = 
+| subject = 
+| movement = 
+| notableworks = 
+| spouse = 
+| partner = 
+| children = 
+| relatives = 
+| influences = 
+| influenced = 
+| awards = 
+| signature = 
+| signature_alt = 
+| website = 
+| portaldisp = 
+}}
+'''Apirana Taylor''' (born 15 March 1955) is a New Zealand poet, novelist, performer, story-teller, musician and painter.
+
+==Biography==
+Born in [[Wellington]], Apirana Taylor is of [[Pākehā]] and [[Māori people|Māori]] descent with affiliations to [[Ngāti Porou]], [[Te Whānau-ā-Apanui]] and [[Ngāti Ruanui]].<ref>''Anthology of New Zealand Poetry in English'', Oxford University Press, 1997.</ref> He was a prominent member of the Māori theatre cooperative Te Ohu Whakaari.  Taylor has published three volumes of poetry – ''Eyes of the Ruru'' (1979), ''Soft Leaf Falls of the Moon'' (1997) and ''Te Ata Kura; the red-tipped dawn'' (2004); three short-story collections; a novel, ''He Tangi Aroha'' (1993); and two plays. He was a runner-up for the [[Pegasus Book Award]] in 1985, for ''He Rau Aroha: A Hundred Leaves of Love''.<ref>''Contemporary Authors Online'', Gale, 2008</ref>
+
+Poetry by Taylor was included in ''UPU,'' a curation of Pacific Island writers’ work which was first presented at the Silo Theatre as part of the Auckland Arts Festival in March 2020.<ref>{{Cite web|date=March 2020|title=UPU|url=https://silotheatre.co.nz/show/upu|url-status=live|access-date=7 June 2021|website=Silo Theatre}}</ref> ''UPU'' was remounted as part of the [[Kia Mau Festival]] in Wellington in June 2021.<ref>{{Cite web|date=June 2021|title=UPU|url=https://kiamaufestival.org/events/upu/|url-status=live|access-date=7 June 2021|website=Kai Mau Festival}}</ref>
+
+==Works==
+* ''3 shades'', by Apirana Taylor, Lindsay Rabbitt, L.E. Scott; with an introduction by [[Alan Loney]], Wellington: Voice Press, 1981
+* ''Ki te ao: new stories'', Penguin Books, 1990
+*''Te ata kura = The red tipped dawn'', Canterbury University Press, 2004
+
+==Notes==
+{{Reflist}}
+
+==References==
+*Apirana Taylor (2004). ''Te Ata Kura, the red-tipped dawn, a collection of poetry by Apirana Taylor''. Canterbury University Press.
+*[http://www.bookcouncil.org.nz/writers/taylorapirana.html New Zealand Book Council profile]
+*[http://www.nzepc.auckland.ac.nz/features/taonga/taylor.asp New Zealand Electronic Poetry Centre profile]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Taylor, Apirana}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:Musicians from Wellington]]
+[[Category:New Zealand male novelists]]
+[[Category:People from Wellington City]]
+[[Category:New Zealand Māori writers]]
+[[Category:20th-century New Zealand novelists]]
+[[Category:21st-century New Zealand novelists]]
+[[Category:20th-century New Zealand painters]]
+[[Category:20th-century New Zealand male writers]]
+[[Category:21st-century New Zealand male writers]]
+[[Category:Ngāti Porou]]
+[[Category:Te Whānau-ā-Apanui]]
+[[Category:Ngāti Ruanui]]
+
+
+{{NewZealand-writer-stub}}
+{{NewZealand-painter-stub}}
+{{NewZealand-musician-stub}}

@@ -1,0 +1,72 @@
+{{Expand Turkish|İlhan Berk|date=November 2020}}{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|name = İlhan Berk
+|image =
+|birth_date = 18 November 1918
+|birth_place = [[Manisa]], [[Ottoman Empire]]
+|death_date = {{death date and age|2008|8|28|1918|11|18|df=yes}}
+|death_place = [[Muğla Province|Muğla]], [[Turkey]]
+|occupation = [[Poet]], [[essayist]] 
+|nationality = [[Turkey|Turkish]]
+|period = 1935–2008
+|movement = [[Postmodern literature]]
+|notableworks =
+|awards = 
+|website = 
+}}
+
+'''İlhan Berk''' (18 November 1918 – 28 August 2008) was a leading [[Turkish people|Turkish]] [[poet]]. He was a dominant figure in the [[postmodern]] current in [[Turkish poetry]] (termed, "İkinci Yeni"; ''"The second new generation"'') and was very influential among Turkish literary circles.<ref>{{cite web|title=İlhan Berk'i kaybettik (Ilhan Berk passes away'')|url=http://press.jrc.it/NewsExplorer/clusteredition/tr/20080828,vatanim-7c293762c866edfe6c9b48eafe641d22.html#related_en.|publisher=Europe Media Monitor News Brief|date=2008-08-28|language=tr|url-status=dead|archive-url=https://web.archive.org/web/20120722100510/http://emm.newsexplorer.eu/NewsExplorer/clusteredition/tr/20080828,vatanim-7c293762c866edfe6c9b48eafe641d22.html|archive-date=2012-07-22}}</ref>
+
+==Biography==
+Berk was born in [[Manisa]], [[Turkey]] in 1918 and as a child witnessed the [[Fire of Manisa]]. He received a teacher's training in [[Balıkesir]]. He graduated from the [[French Language]] Department of [[Gazi University]] in [[Ankara]]. Between 1945 and 1955, Berk served as a teacher. He later began to work for the publishing office of [[Ziraat Bank]] as a translator (1956–1969). He became specialized in translation of poetry notably by translating into Turkish works by [[Arthur Rimbaud]] and [[Ezra Pound]]. In his later years, Berk resided in [[Bodrum]] where he died on 28 August 2008.
+
+==Poetry==
+Berk's poetry evolved from the approach of an epical [[socialist]] to the dreamy vision of a lyrical and erotic individual. He made the "object" visible in its glory and aimed to break down the meaning. Berk's poetry takes its roots from the [[mythology]], and a synthesis of Western and Eastern poetry traditions, yet he accomplishes to create a unique and postmodern approach. [[Peter Riley]], in an analysis of Berk's work published in [[The Fortnightly Review]], suggests the poet sometimes "runs poetry itself to an extremity at which it can no longer function as language."<ref>The Fortnightly Review http://fortnightlyreview.co.uk/2016/06/ilhan-berk/</ref>
+
+History, geography, visual arts, cities such as [[Istanbul]], [[Paris]] and Ankara, feed Berk's poetry and, his themes are supported by a sizable vocabulary that includes colloquial words as well as very specific ones, such as musical terms and local names of plants.
+
+A significant body of Berk's work is now available in [[English language|English]], most notably ''A Leaf About To Fall: Selected Poems'' (2006), ''Madrigals'' (2008), ''The Book of Things'' (2009) and ''New selected poems 1947-2008'' (2016); all translated by [[George Messo]].
+{{History of Turkish literature}}
+
+==Bibliography in English==
+{{refbegin}}
+
+* {{cite book|title = New selected poems 1947-2008, translated by [[George Messo]] |ISBN=978-1-84861-461-1 |publisher = Shearsman Books|year=2016}}
+* {{cite book|title = The Book of Things, translated by [[George Messo]] |ISBN=978-1-84471-523-7 |publisher = Salt Publishing|year=2009}}
+* {{cite book|title = İkinci Yeni: The Turkish Avant-Garde, translated by [[George Messo]] |ISBN=978-1-84861-066-8 |publisher = Shearsman Books|year=2009}}
+* {{cite book|title = Madrigals, translated by [[George Messo]] |ISBN=978-1-905700-73-8 |publisher = Shearsman Books|year=2008}}
+* {{cite book|title = A leaf about to Fall: Selected Poems, translated by [[George Messo]] |ISBN=978-1-84471-274-8 |publisher = Salt Publishing|year=2006}}
+* {{cite book|title = Selected Poems, translated by Önder Otçu |ISBN=978-1-58498-033-9 |publisher = Talisman House Publications|year=2004}}
+* {{cite book|title = History of a Face, translated by [[Talat S. Halman]] |ISBN=978-0-89304-285-1 |publisher = Cross-Cultural Communications|year=1991}}
+{{refend}}
+
+==Awards==
+{{refbegin}}
+*1979 Turkish Language Association Award
+*1980 Behçet Necatigil Poetry Award
+*1983 Yeditepe Poetry Prize
+*1988 [[Sedat Simavi Literature Award]]
+{{refend}}
+
+==See also==
+* [[List of contemporary Turkish poets]]
+
+==References==
+{{reflist}}
+
+==Resources==
+{{refbegin}}
+* {{cite web|title = İlhan Berk bibliography|url = http://www.siirgen.org/siir/i/ilhan_berk/index.html|publisher=siirgen.com|language=tr}}
+
+{{refend}}
+
+{{Turkish Literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Berk, Ilhan}}
+[[Category:1918 births]]
+[[Category:2008 deaths]]
+[[Category:People from Manisa]]
+[[Category:Turkish male poets]]
+[[Category:20th-century Turkish poets]]
+[[Category:20th-century male writers]]

@@ -1,0 +1,49 @@
+{{short description|British author|bot=PearBOT 5}}
+{{Use British English|date=October 2016}}
+{{Use dmy dates|date=October 2016}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Catherine Banner
+| image = 
+| birth_date = {{birth date and age|df=yes|1989|04|22}}
+| birth_place = [[Cambridge]], United Kingdom
+| occupation = Author
+| notableworks = The Eyes of a King
+| website = {{URL|http://www.catherine-banner.com}}
+}}
+'''Catherine Banner''' (born 1989) is a British author, born in [[Cambridge]], England and living in [[Turin]], Italy. She gained international attention with her first book, ''[[The Eyes of a King]]'', which she began writing when she was fourteen and still a school student.<ref>{{Cite news|title = Catherine Banner, 19, poised to be the next J.K. Rowling | work = [[Daily News (New York)]] | date = 2008-06-04 | url = http://www.nydailynews.com/entertainment/2008/06/04/2008-06-04_catherine_banner_19_poised_to_be_the_nex.html | accessdate = 2008-06-15 | first=Nicole | last=Carter}}</ref><ref>{{Cite news| title = UK teen author the new Rowling? | work = [[The Times of India]] | date = 2008-06-09 | url = http://timesofindia.indiatimes.com/World/UK_teen_author_the_new_Rowling/articleshow/3111996.cms | accessdate = 2008-06-16 | archiveurl =https://web.archive.org/web/20080612014444/http://timesofindia.indiatimes.com/World/UK_teen_author_the_new_Rowling/articleshow/3111996.cms | archivedate = 2008-06-12}}</ref><ref>{{Cite news| title = Author, 19, Who Wrote First Book at 14 Hailed as Next J.K. Rowling | work = [[Fox News]] | date = 2008-06-05 | url = http://www.foxnews.com/story/0,2933,363470,00.html | accessdate = 2008-06-16}}</ref>
+
+Banner studied English at [[Fitzwilliam College, Cambridge]], before moving to County Durham where she worked as a secondary school teacher. She has published a trilogy of young adult novels, ''[[The Last Descendants]]''. Her debut adult novel, The House at the Edge of Night, was published in 2016. Her work is translated into 22 languages. She lives in Turin, Italy, with her husband.<ref>{{Cite web|url=http://www.catherine-banner.com/about.html|title=About Carherine Banner}}</ref>
+
+==Bibliography==
+
+===The Last Descendants===
+* 2008 - ''Eyes of a King''
+* 2009 - ''Voices in the Dark''
+* 2015 - ''The Heart at War''
+
+===Other novels===
+* ''The House at the Edge of Night'' (2016)<ref>{{Cite web|url=http://www.catherine-banner.com/blog/the-house-at-the-edge-of-night|title = The House at the Edge of Night}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.catherine-banner.com Official website] 
+* [https://web.archive.org/web/20080730145904/http://www.randomhouse.com.au/house/9780552556590.asp Catherine Banner @ House Of Legends]
+* [https://web.archive.org/web/20080608034915/http://www.randomhouse.ca/catalog/display.pperl?isbn=9780385662321 ''The Eyes of a King''] (''[[The Last Descendants]], Book 1'') at RandomHouse.ca
+*{{isfdb name|id=Catherine_Banner|name=Catherine Banner}}
+* [https://web.archive.org/web/20090221071913/http://fantasy-fan.org/catherine_banner Catherine Banner] on [https://web.archive.org/web/20090131210234/http://fantasy-fan.org/ Fantasy Fan]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Banner, Catherine}}
+[[Category:1989 births]]
+[[Category:Alumni of Fitzwilliam College, Cambridge]]
+[[Category:Living people]]
+[[Category:British fantasy writers]]
+[[Category:English fantasy writers]]
+[[Category:English women novelists]]
+[[Category:Women science fiction and fantasy writers]]
+
+
+{{England-novelist-stub}}

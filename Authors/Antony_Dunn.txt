@@ -1,0 +1,37 @@
+{{Use dmy dates|date=September 2019}}
+{{Infobox person
+| name   = Antony Dunn
+| image     = antonydunn.jpg
+| image_size     = 180px
+| birth_date  = {{birth date|1973|6|26|df=y}}
+| birth_place = [[London, England]]
+
+}}
+
+'''Antony Dunn''' is an [[England|English]] poet and dramatist. He was born in [[London]] in 1973. He won the [[Newdigate Prize]] for ''Judith with the Head of Holofernes'' in 1995<ref>{{citation |url=http://www.gnelson.demon.co.uk/oxpoetry/index/inewd.html |title=The Newdigate Prize}}</ref> and received a [[Society of Authors]] [[Eric Gregory Award]] in 2000. He has published four collections of poems, Pilots and Navigators (Oxford Poets 1998),  Flying Fish (Carcanet OxfordPoets 2002),<ref>{{citation |title=New Writing: Poetry |author=C Bennett |journal=English Studies |year=2004}}</ref> Bugs (Carcanet OxfordPoets 2009) and Take This One to Bed (Valley Press 2016).
+
+He edited and introduced Ex Libris, a posthumous collection of poems by David Hughes (Valley Press 2015).
+
+Antony Dunn was Poet in Residence at the [[University of York]] for 2006 and for the Ilkley Literature Festival in 2010.
+
+His writing for [[theatre]] and [[film]] has included Goose Chase and Shepherds' Delight (both for [[Riding Lights Theatre Company]]), Timewarp 2000 (Barbican, York) and a screen adaption of [[Albert Camus]]' stageplay, Cross Purpose (First Man Productions). In 2006 he contributed lyrics to Mark Ravenhill's pantomime, ''[[Dick Whittington and His Cat]]'' (Barbican, London).
+
+==External links==
+* [http://www.antonydunn.org Official website]
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dunn, Antony}}
+[[Category:1973 births]]
+[[Category:Living people]]
+[[Category:20th-century English poets]]
+[[Category:21st-century English poets]]
+[[Category:21st-century English male writers]]
+[[Category:English male poets]]
+[[Category:20th-century English male writers]]
+
+
+{{UK-poet-stub}}

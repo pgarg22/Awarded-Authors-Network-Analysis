@@ -1,0 +1,45 @@
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Gertrude Tonkonogy Friedberg
+| image         = 
+| image_size    = 
+| alt           = 
+| caption       = Gertrude Friedberg
+| birth_date    = {{Birth date|df=y|1908|03|17}}
+| birth_name    = Gertrude Tonkonogy
+| birth_place   = New York City, New York
+| death_date    = {{Death date and age|df=y|1989|09|17|1908|03|17}}
+| death_place   = Manhattan, New York
+| resting_place = 
+| occupation    = Playwright and author
+| language      = English
+| nationality   = American
+}}
+'''Gertrude Tonkonogy Friedberg''' (17 March 1908 – September 17, 1989) was an American [[playwright]] and author.<ref name="obituary">{{cite web |url=https://www.nytimes.com/1989/09/20/obituaries/gertrude-t-friedberg-playwright-81.html?scp=1&sq=gertrude+friedberg&st=nyt |title=Gertrude T. Friedberg, Playwright, 81 |date=20 September 1989 |work=[[The New York Times]] |accessdate=8 October 2017 |archiveurl=https://archive.is/20130130133926/http://www.nytimes.com/1989/09/20/obituaries/gertrude-t-friedberg-playwright-81.html?scp=1&sq=gertrude+friedberg&st=nyt |archivedate=30 January 2013 |url-status=live }}</ref>
+
+==Life and career==
+Gertrude Tonkonogy was born in New York in 1908 as one of 11 children.  Her siblings included [[Eugene Tonkonogy]]; [[George T. Delacorte, Jr.]] was a half-brother.<ref name=eugene/>
+
+After graduating from [[Barnard College]] with a B.A. in 1929, Tonkonogy made her first professional sale with the play ''Three Cornered Moon'' which was produced on Broadway (opening March 16, 1933) and starred [[Ruth Gordon]] and [[Brian Donlevy]].  It was almost immediately made into a [[Three-Cornered Moon|film of the same name]] starring [[Claudette Colbert]]; the film opened in August 1933.<ref name=obituary/>
+
+Shortly after her success with the play, Tonkonogy married [[Charles K. Friedberg]], a doctor.  She was thereafter credited as Gertrude Friedberg. Her second play, ''Town House'', appeared in 1948.  It was based on stories by [[John Cheever]], and directed by [[George S. Kaufman]].
+
+She wrote several short stories through the 1950s, publishing in the magazines ''[[New World Writing]]'', ''[[Esquire (magazine)|Esquire]]'', ''[[The Atlantic]]'',<ref name=short/> ''[[Story (magazine)|Story]]'' and ''[[The Magazine of Fantasy & Science Fiction]]''.<ref name=about>{{cite book |last=Friedberg |first=Gertrude |date=1980 |title=The Revolving Boy |publisher=[[Del Rey Books]] |section=About the Author |isbn=978-0345287700}}</ref> Friedberg's first—and only—collection was in 1959 in the new writer showcase ''Short Story 2''; this volume featured five of her stories, as well as stories from three other authors including [[Michael Rumaker]].<ref name=short>{{cite web |url=https://www.nytimes.com/1959/10/18/archives/writers-to-watch-short-story-2-stories-by-amo-karlen-sally-weber.html |title=Writer to Watch |author=Peden, William |date=October 18, 1959 |work=[[The New York Times]] |accessdate=7 October 2017 |archiveurl=https://archive.is/20171007235648/http://www.nytimes.com/1959/10/18/archives/writers-to-watch-short-story-2-stories-by-amo-karlen-sally-weber.html |archivedate=7 October 2017 |url-status=live }}</ref> Between 1958 and 1972, Friedberg published three science fiction stories, and one science fiction novel, ''The Revolving Boy'' (1966).<ref name=obituary/> ''[[The Encyclopedia of Science Fiction]]'' characterizes the novel as a "minor classic in the field."<ref>{{cite encyclopedia |url=http://www.sf-encyclopedia.com/entry/friedberg_gertrude |title=Friedberg, Gertrude |date=4 April 2017 |encyclopedia=[[The Encyclopedia of Science Fiction]] |access-date=7 October 2017 |archiveurl=https://archive.is/20171007235635/http://www.sf-encyclopedia.com/entry/friedberg_gertrude |archivedate=7 October 2017 |url-status=live }}</ref> It would be Friedberg's only novel.
+
+According to the back page of an edition of ''The Revolving Boy'' published in 1980, Friedberg lived in New York, where she taught mathematics.<ref name=about/> Friedberg had two children, [[Richard M. Friedberg|Richard]] and Barbara.<ref name=obituary/><ref name=eugene>{{cite web |url=https://www.nytimes.com/2001/01/15/nyregion/eugene-tonkonogy-investor-and-adventurer-dies-at-95.html |title=Eugene Tonkonogy, Investor And Adventurer, Dies at 95 |author=Martin, Douglas |date=January 15, 2001 |work=[[The New York Times]] |accessdate=8 October 2017 |archiveurl=https://archive.is/20120910023932/http://www.nytimes.com/2001/01/15/nyregion/eugene-tonkonogy-investor-and-adventurer-dies-at-95.html |archivedate=10 September 2012 |url-status=live }}</ref>  She died of cancer in her [[Manhattan]] home, aged 81.<ref name=obituary/>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{isfdb name|3136}}
+*{{IMDb name|0867356}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Friedberg, Gertrude}}
+[[Category:1908 births]]
+[[Category:1989 deaths]]
+[[Category:American women dramatists and playwrights]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:20th-century American women writers]]
+[[Category:Barnard College alumni]]

@@ -1,0 +1,216 @@
+{{short description|American poet}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|name=Hart Crane
+|birth_name   = Harold Hart Crane
+| image       = Hart_Crane.jpg
+| imagesize   = 
+| caption     = Crane in 1930
+| birth_date  = {{Birth date|1899|7|21}}
+| birth_place = [[Garrettsville, Ohio]], U.S.
+| death_date  = {{Death date and age|1932|4|27|1899|7|21}}
+| death_place = [[Gulf of Mexico]]
+| occupation  = Poet
+| nationality = American
+| period      = 1916–1932
+| notableworks = ''[[The Bridge (long poem)|The Bridge]]''
+| movement    = [[Modernist poetry|Modernism]]
+| portaldisp = y
+}}
+'''Harold Hart Crane''' (July 21, 1899 – April 27, 1932) was an American poet. Provoked and inspired by [[T. S. Eliot]], Crane wrote modernist poetry that was difficult, highly stylized, and ambitious in its scope. In his most ambitious work, ''[[The Bridge (long poem)|The Bridge]]'', Crane sought to write an epic poem, in the vein of ''[[The Waste Land]]'', that expressed a more optimistic view of modern, urban culture than the one that he found in Eliot's work. In the years following his suicide at the age of 32, Crane has been hailed by playwrights, poets, and literary critics alike (including [[Robert Lowell]], [[Derek Walcott]], [[Tennessee Williams]], and [[Harold Bloom]]), as being one of the most influential poets of his generation.<ref name="Referenced in this NY Times article">[https://www.nytimes.com/2003/06/29/books/review/29PRITCHT.html?pagewanted=2 Referenced in this NY Times article]</ref><ref>Bloom, Harold. "Introduction." ''The Complete Poems of Hart Crane''. New York: Liveright, 2001.</ref><ref>"Hart Crane." Voice and Visions Video Series. Produced by the New York Center for Visual History. 1988. [http://www.learner.org/resources/series57.html] {{Webarchive|url=https://web.archive.org/web/20190630141311/https://www.learner.org/resources/series57.html |date=2019-06-30 }}</ref>
+
+==Life and work==
+Crane was born in [[Garrettsville, Ohio]], the son of Clarence A. Crane and Grace Edna Hart. His father was a successful Ohio businessman who invented the [[Life Savers]] candy and held the [[patent]], but sold it for $2,900 before the brand became popular.<ref name=lockwood/> He made other candy and accumulated a fortune from the candy business with chocolate bars. Crane's mother and father were constantly fighting, and they divorced early in April 1917.<ref group=notes>Exact date seems to be April 1, but is described somewhat unclearly in Mariani p. 35</ref> Crane dropped out of [[East High School (Cleveland, Ohio)|East High School]] in [[Cleveland]] during his junior year and left for [[New York City]], promising his parents he would attend [[Columbia University]] later. His parents, in the middle of their divorce proceedings, were upset. Crane took various copywriting jobs and moved between friends' apartments in Manhattan.<ref name=lockwood/> Between 1917 and 1924 he moved back and forth between New York and [[Cleveland]], working as an advertising copywriter and a worker in his father's factory. From Crane's letters, it appears that New York was where he felt most at home, and much of his poetry is set there.
+
+{{Quote box |width=250px |align=right |bgcolor=#FFFFFF |salign=right
+ |quote  =<poem>
+I am not ready for repentance;
+Nor to match regrets. For the moth
+Bends no more than the still
+Imploring flame. And tremorous
+In the white falling flakes
+Kisses are,
+The only worth all granting.
+</poem>
+ |source =Excerpted from "Legend"<br>published in ''White Buildings'' (1926)<ref name="legend">{{cite web |url=http://www.poetryfoundation.org/archive/poem.html?id=172017 |title=Legend by Hart Crane |publisher=The Poetry Foundation |access-date=February 2, 2011 |archive-url=https://web.archive.org/web/20110210141354/http://www.poetryfoundation.org/archive/poem.html?id=172017 |archive-date=February 10, 2011 |url-status=dead }}</ref>
+}}
+
+===Career===
+Throughout the early 1920s, small but well-respected literary magazines published some of Crane's poems, gaining him among the avant-garde a respect that ''[[White Buildings]]'' (1926), his first volume, ratified and strengthened. ''White Buildings'' contains many of Crane's best poems, including "For the Marriage of Faustus and Helen", and "[[Voyages (poem)|Voyages]]", a sequence of erotic poems. They were written while he was falling in love with Emil Opffer, a Danish merchant mariner. "Faustus and Helen" was part of a larger artistic struggle to meet modernity with something more than despair. Crane identified [[T. S. Eliot]] with that kind of despair, and while he acknowledged the greatness of ''[[The Waste Land]]'', he also said it was "so damned dead",<ref>{{cite book |url=https://books.google.com/books?id=thqU29nSVgUC&pg=PA476 |title=Critical Companion to T. S. Eliot: A Literary Reference to His Life and Work |last=Murphy |first=Russel E. |publisher=Infobase Publishing |page=476 |year=2007 |isbn=9781438108551 |access-date=2013-06-07}}</ref> an impasse,<ref>{{cite book |chapter-url=https://books.google.com/books?id=8Ut4QeGjUGYC&pg=PA116 |last=Altieri |first=Charles |editor-first=Harold |editor-last=Bloom |title=T. S. Eliot |chapter=Eliot's Impact on Twentieth-Century Anglo-American Poetry |year=2009 |publisher=Infobase Publishing |page=116 |isbn=9781438115474 |access-date=2013-06-08}}</ref> and characterized by a refusal to see "certain spiritual events and possibilities".<ref>{{cite web |url=http://www.nybooks.com/articles/archives/2008/apr/17/a-great-american-visionary/?pagination=false |title=A Great American Visionary |last=Tóibín |first=Colm |author-link=Colm Tóibín |work=[[The New York Review of Books]] |date=2008-04-17 |access-date=2013-06-07}}</ref> Crane's self-appointed work would be to bring those spiritual events and possibilities to poetic life, and so create "a mystical synthesis of America".<ref>{{cite book |url=https://archive.org/details/transmembermento0000edel |url-access=registration |first=Lee |last=Edelman |title=Transmemberment of Song: Hart Crane's Anatomies of Rhetoric and Desire |page=[https://archive.org/details/transmembermento0000edel/page/179 179] |publisher=[[Stanford University Press]] |year=1987 |access-date=2013-06-08}}</ref>
+
+Crane returned to New York in 1928, living with friends and taking temporary jobs as a copywriter, or living off unemployment and the charity of friends and his father. For a time he lived in Brooklyn at 77 Willow Street<ref>{{cite book |url=https://archive.org/details/hartcranelife0000fish_s2p9 |url-access=registration |title=Hart Crane: A Life |page=[https://archive.org/details/hartcranelife0000fish_s2p9/page/384 384] |last=Fisher |first=Clive |publisher=[[Yale University Press]] |year=2002 |access-date=2013-06-07}}</ref> until his lover, Opffer, invited him to live in Opffer's father's home at 110 Columbia Heights in [[Brooklyn Heights, Brooklyn|Brooklyn Heights]]. Crane was overjoyed at the views the location afforded him. He wrote his mother and grandmother in the spring of 1924:
+<blockquote>
+Just imagine looking out your window directly on the East River with nothing intervening between your view of the Statue of Liberty, way down the harbour, and the marvelous beauty of Brooklyn Bridge close above you on your right! All of the great new skyscrapers of lower Manhattan are marshaled directly across from you, and there is a constant stream of tugs, liners, sail boats, etc in procession before you on the river! It's really a magnificent place to live. This section of Brooklyn is very old, but all the houses are in splendid condition and have not been invaded by foreigners...<ref name=lockwood/>
+</blockquote>
+
+His ambition to synthesize America was expressed in ''[[The Bridge (long poem)|The Bridge]]'' (1930), intended to be an uplifting counter to [[T. S. Eliot|Eliot's]] ''[[The Waste Land]]''. The [[Brooklyn Bridge]] is both the poem's central symbol and its poetic starting point.<ref Name="PF">[http://www.poetryfoundation.org/bio/hart-crane Poetry Foundation profile]</ref> Crane found a place to start his synthesis in Brooklyn. Arts patron [[Otto Hermann Kahn|Otto H. Kahn]] gave him $2,000 to begin work on the epic poem.<ref name=lockwood/> When he wore out his welcome at the Opffers', Crane left for [[Paris]] in early 1929, but failed to leave his personal problems behind.<ref name=lockwood/> His drinking, always a problem, became notably worse during the late 1920s, while he was finishing ''The Bridge''.<ref>Delany, Samuel R. (1996), ''Longer views: extended essays'', [[Wesleyan University Press]], p. 190 {{ISBN|0819562939}}</ref>
+
+In Paris in February 1929, [[Harry Crosby]], who with his wife [[Caresse Crosby]] owned the fine arts press [[Black Sun Press]], offered Crane the use of their country retreat, Le Moulin du Soleil in [[Ermenonville]]. They hoped he could use the time to concentrate on completing ''The Bridge''. Crane spent several weeks at their estate where he roughed out a draft of the "Cape Hatteras" section, a key part of his epic poem.<ref name=brbio>{{cite web |url=http://www.bookrags.com/biography/harold-hart-crane-dlb/ |title=Dictionary of Literary Biography on (Harold) Hart Crane |access-date=2010-06-13 |publisher=BookRags.com}}</ref> In late June that year, Crane returned from the south of France to Paris. Crosby noted in his journal, "Hart C. back from Marseilles where he slept with his thirty sailors and he began again to drink Cutty Sark." Crane got drunk at the Cafe Select and fought with waiters over his tab. When the Paris police were called, he fought with them and was beaten. They arrested and jailed him, fining him 800 francs.<ref name=lockwood>{{cite news |last=Lockwood |first=Brad |title=On This Day in History: April 27 'Bridge' Poet Leaps Overboard |url=http://50.56.218.160/archive/category.php?category_id=23&id=42988 |access-date=2013-07-06 |newspaper=Brooklyn Daily Eagle |date=April 27, 2011}}</ref> After Hart had spent six days in prison at [[La Santé Prison|La Santé]], Crosby paid Crane's fine and advanced him money for the passage back to the United States,<ref name=brbio/> where he finally finished ''The Bridge''.<ref name=lockwood/> The work received poor reviews, and Crane's sense of failure became crushing.<ref Name="PF"/>
+
+===Death===
+Crane visited [[Mexico]] in 1931–32 on a [[Guggenheim Fellowship]], and his drinking continued as he suffered from bouts of alternating depression and elation.  When [[Peggy Cowley]], wife of his friend [[Malcolm Cowley]], agreed to a divorce, she joined Crane. As far as is known, she was his only heterosexual partner.<ref Name="PF"/> "[[The Broken Tower]]", one of his last published poems, emerged from that affair. Crane still felt himself a failure, in part because he recommenced his homosexual activities in spite of his relationship with Cowley.<ref Name="PF"/>
+
+While ''en route'' to New York aboard the steamship ''[[USS Orizaba|Orizaba]]'',<ref>Mariani (1999) p. 421</ref> he was beaten up after making sexual advances to a male crew member.<ref>{{cite web |url=https://movies.nytimes.com/2012/04/27/movies/james-franco-is-hart-crane-in-the-broken-tower.html?_r=0 |title=Intoxicated by Language, a Poet Is Destroyed by Life: James Franco is Hart Crane in 'The Broken Tower' |last=Holden |first=Stephen |work=The New York Times |date=2012-04-26 |access-date=2013-07-06}}</ref> Just before noon on April 27, 1932, Hart Crane jumped overboard into the [[Gulf of Mexico]]. Although he had been drinking heavily and left no suicide note, witnesses believed his intentions to be suicidal, as several reported that he exclaimed "Goodbye, everybody!" before throwing himself overboard.<ref>{{cite book |title=The Gay Fireside Companion |url=https://archive.org/details/gayfiresidecompa00rutl |url-access=registration |last=Rutledge |first=Leigh W. |year=1989 |publisher=Alyson Publications, Inc. |page=[https://archive.org/details/gayfiresidecompa00rutl/page/182 182]}}</ref> His body was never recovered. A marker on his father's tombstone at Park Cemetery outside Garrettsville, Portage County, Ohio<ref>Wilson, Scott. ''Resting Places: The Burial Sites of More Than 14,000 Famous Persons'', 3d ed.: 2 (Kindle Location 10225). McFarland & Company, Inc., Publishers. Kindle Edition.</ref> includes the inscription, "Harold Hart Crane 1899–1932 lost at sea".<ref>Untrecker (1969)</ref>
+
+==Poetics==
+Crane's critical effort, like those of [[Keats]] and [[Rilke]], is mostly to be found in his letters: he corresponded regularly with [[Allen Tate]], [[Yvor Winters]], and [[Gorham Munson]], and shared critical dialogues with [[Eugene O'Neill]], [[William Carlos Williams]], [[E. E. Cummings]], [[Sherwood Anderson]], [[Kenneth Burke]], [[Waldo Frank]], [[Harriet Monroe]], [[Marianne Moore]], and [[Gertrude Stein]]. He was also an acquaintance of [[H. P. Lovecraft]], who eventually would voice concern over Crane's premature aging due to alcohol abuse.<ref>{{cite web |url=https://www.nytimes.com/2002/07/14/books/condensing-eternity.html |title=Condensing Eternity |last=Epstein |first=Daniel Mark |date=July 14, 2002 |publisher=[[New York Times]] |access-date=October 13, 2021}}</ref> Most serious work on Crane begins with his letters, selections of which are available in many editions of his poetry; his letters to Munson, Tate, Winters, and his patron, [[Otto Hermann Kahn]], are particularly insightful. His two most famous stylistic defenses emerged from correspondences: his "General Aims and Theories" (1925) was written to urge Eugene O'Neill's critical foreword to ''White Buildings'', then passed around among friends, yet unpublished during Crane's life; and the famous "Letter to Harriet Monroe" (1926) was part of an exchange for the publication of "At Melville's Tomb" in ''[[Poetry (magazine)|Poetry]]''.
+
+The literary critic [[Adam Kirsch]] has argued that "[Crane has been] a special case in the canon of American modernism, his reputation never quite as secure as that of [[T. S. Eliot|Eliot]] or [[Wallace Stevens|Stevens]]."<ref>[http://www.newyorker.com/archive/2006/10/09/061009crbo_books1 Kirsch, Adam. "The Mystic Word. ''The New Yorker''. October 9, 2006]</ref>
+
+==="Logic of Metaphor"===
+As with Eliot's "[[objective correlative]]", a certain vocabulary haunts Crane criticism, his "logic of metaphor" being perhaps the most vexed. His most quoted formulation is in the circulated, if long unpublished, "General Aims and Theories": "As to technical considerations: the motivation of the poem must be derived from the implicit emotional dynamics of the materials used, and the terms of expression employed are often selected less for their logical (literal) significance than for their associational meanings. Via this and their metaphorical inter-relationships, the entire construction of the poem is raised on the organic principle of a 'logic of metaphor,' which antedates our so-called pure logic, and which is the genetic basis of all speech, hence consciousness and thought-extension."<ref>Hammer (1997) p. 163</ref>
+
+There is also some mention of it, though it is not so much presented as a critical [[neologism]], in his letter to Harriet Monroe: "The logic of metaphor is so organically entrenched in pure sensibility that it can't be thoroughly traced or explained outside of historical sciences, like philology and anthropology."<ref>Hammer (1997) p. 166</ref> L. S. Dembo's influential study of ''The Bridge'', ''Hart Crane's Sanskrit Charge'' (1960), reads this 'logic' well within the familiar rhetoric of the [[Romanticism|Romantics]]: "The ''Logic of metaphor'' was simply the written form of the 'bright logic' of the imagination, the crucial sign stated, the Word made words.... As practiced, the logic of metaphor theory is reducible to a fairly simple linguistic principle: the symbolized meaning of an image takes precedence over its literal meaning; regardless of whether the vehicle of an image makes sense, the reader is expected to grasp its tenor.<ref>Dembo (1960) p. 34</ref>
+
+===Difficulty===
+
+{{Quote box |width=300px |align=right |quoted=true |bgcolor=#FFFFF0 |salign=right
+ |quote  =<poem>
+The willows carried a slow sound,
+A sarabande the wind mowed on the mead.
+I could never remember
+That seething, steady leveling of the marshes
+Till age had brought me to the sea.
+</poem>
+ |source =From "Repose of Rivers" <br>  from ''White Buildings'' (1926)<ref name="legend"/>
+}}
+The publication of ''[[White Buildings]]'' was delayed by [[Eugene O'Neill]]'s struggle (and eventual failure) to articulate his appreciation in a foreword to it; and many critics since have used Crane's difficulty as an excuse for a quick dismissal.<ref>See article on ''[[White Buildings]]''</ref> Even a young [[Tennessee Williams]], then falling in love with Crane's poetry, could "hardly understand a single line—of course the individual lines aren't supposed to be intelligible. The message, if there actually is one, comes from the total effect.".<ref>Leverich, Lyle. ''Tom: The Unknown Tennessee Williams''. New York: Crown Publishers, 1995. p. 162</ref>  It was not lost on Crane, then, that his poetry was difficult. Some of his best, and practically only, essays originated as encouraging epistles: explications and stylistic apologies to editors, updates to his patron, and the variously well-considered or impulsive letters to his friends. It was, for instance, only his exchange with [[Harriet Monroe]] at ''[[Poetry (magazine)|Poetry]]'', when she initially refused to print "At Melville's Tomb", that urged Crane to describe his "logic of metaphor" in print.<ref>Mariani (1999) p. 191</ref> And describe it he did, then complaining: 
+<blockquote>"If the poet is to be held completely to the already evolved and exploited sequences of imagery and logic—what field of added consciousness and increased perceptions (the actual province of poetry, if not lullabies) can be expected when one has to relatively return to the alphabet every breath or two? In the minds of people who have sensitively read, seen, and experienced a great deal, isn't there a terminology something like short-hand as compared to usual description and dialectics, which the artist ought to be right in trusting as a reasonable connective agent toward fresh concepts, more inclusive evaluations?"<ref>Hammer (1997) p. 281</ref></blockquote>
+
+Monroe was not impressed, though she acknowledged that others were, and printed the exchange alongside the poem: <blockquote>"You find me testing metaphors, and poetic concept in general, too much by logic, whereas I find you pushing logic to the limit in a painfully intellectual search for emotion, for poetic motive."<ref>Hammer (1997) p. 282</ref></blockquote> In any case, Crane had a relatively well-developed rhetoric for the defense of his poems; here is an excerpt from "General Aims and Theories": <blockquote>"New conditions of life germinate new forms of spiritual articulation. ...the voice of the present, if it is to be known, must be caught at the risk of speaking in idioms and circumlocutions sometimes shocking to the scholar and historians of logic."<ref>Hammer (2006) p. 164</ref></blockquote>
+
+==="Homosexual Text"===
+As a boy, he had a sexual relationship with a man.<ref group=notes>"[That] Hart Crane was homosexual was by now well known to most of his friends. He said to Evans that he had been seduced as a boy by an older man." Rathbone, Belinda. ''Walker Evans: A Biography''. Boston: Houghton Mifflin, 1995. p. 4</ref> He associated his sexuality with his vocation as a poet. Raised in the [[Christian Science]] tradition of his mother, he never ceased to view himself as a social pariah. However, as poems such as "Repose of Rivers" make clear, he felt that this sense of alienation was necessary in order for him to attain the visionary insight that formed the basis for his poetic work.{{Original research inline|date=May 2011}}
+
+Recent criticism has suggested reading Crane's poems—"[[The Broken Tower]]," "My Grandmother's Love Letters," the "[[Voyages (poem)|Voyages]]" series, and others—with an eye to homosexual meanings in the text. Queer theorist [[Tim Dean]] argues, for instance, that the obscurity of Crane's style owes partially to the necessities of being a semi-public homosexual—not quite closeted, but also, as legally and culturally necessary, not open: "The intensity responsible for Crane's particular form of difficulty involves not only linguistic considerations but also culturally subjective concerns. This intensity produces a kind of privacy that is comprehensible in terms of the cultural construction of homosexuality and its attendant institutions of privacy."<ref>Dean (1996) p. 84</ref>
+
+Thomas Yingling objects to the traditional, [[New Criticism|New Critical]] and Eliotic readings of Crane, arguing that the "American [[myth criticism]] and [[Formalism (literature)|formalist]] readings" have "depolarized and normalized our reading of American poetry, making any homosexual readings seem [[perversion|perverse]]."<ref>Yingling (1990) p. 3</ref> Even more than a personal or political problem, though, Yingling argues that such "biases" obscure much of what the poems make clear; he cites, for instance, the last lines of "My Grandmother's Love Letters" from ''White Buildings'' as a haunting description of estrangement from the norms of (heterosexual) family life:
+
+{{quote|<poem>
+Yet I would lead my grandmother by the hand
+Through much of what she would not understand;
+And so I stumble. And the rain continues on the roof
+With such a sound of gently pitying laughter.
+</poem>}}
+
+Brian Reed has contributed to a project of critical reintegration of queer criticism with other critical methods, suggesting that an overemphasis on the sexual biography of Crane's poetry can skew a broader appreciation of his overall work.<ref>Reed (2006)</ref> In one example of Reed's approach, he published a close reading of Crane's lyric poem, "Voyages," (a love poem that Crane wrote for his lover Emil Opffer) on the [[Poetry Foundation]] website, analyzing the poem based strictly on the content of the text itself and not on outside political or cultural matters.<ref>Reed, Brian. "[http://www.poetryfoundation.org/learning/poem-guide.html?guide_id=180083 Hart Crane: "Voyages'] {{webarchive|url=https://web.archive.org/web/20110212031616/http://www.poetryfoundation.org/learning/poem-guide.html?guide_id=180083 |date=2011-02-12 }}". The Poetry Foundation. Retrieved February 2, 2011.</ref>
+
+===Influence===
+Crane was admired by artists such as [[Allen Tate]], [[Nat Tate]], [[Eugene O'Neill]], [[Kenneth Burke]], [[Edmund Wilson]], [[E. E. Cummings]] and [[William Carlos Williams]]. Although Hart had his sharp critics, among them [[Marianne Moore]] and [[Ezra Pound]], Moore did publish his work, as did T. S. Eliot, who, moving even further out of Pound's sphere, may have borrowed some of Crane's imagery for ''[[Four Quartets]]'', in the beginning of East Coker, which is reminiscent of the final section of The River, from The Bridge.<ref>Oser, Lee. ''T. S. Eliot and American Poetry.'' Columbia, MO: University of Missouri Press, 1998. pp. 112–114.</ref>
+
+Important mid-century American poets, such as [[John Berryman]] and [[Robert Lowell]], cited Crane as a significant influence. Both poets also wrote about Crane in their poetry. Berryman wrote him one of his famous [[elegy|elegies]] in ''[[The Dream Songs]]'', and Lowell published his "Words for Hart Crane" in ''[[Life Studies]]'' (1959): "Who asks for me, the [[Percy Bysshe Shelley|Shelley]] of my age, / must lay his heart out for my bed and board." Lowell thought that Crane was the most important American poet of the generation to come of age in the 1920s, stating that "[Crane] got out more than anybody else ... he somehow got [[New York City]]; he was at the center of things in the way that no other poet was."<ref name="Referenced in this NY Times article"/> Lowell also described Crane as being "less limited than any other poet of his generation."<ref>[http://www.english.illinois.edu/maps/poets/a_f/crane/bio.htm Hart Crane Biographical Sketch Online]</ref>
+
+Perhaps most reverently, [[Tennessee Williams]] said that he wanted to be "given back to the sea" at the "point most nearly determined as the point at which Hart Crane gave himself back".<ref>Leverich (1995) pp. 9–10</ref> One of Williams's last plays, a "ghost play" titled "Steps Must Be Gentle",  explores Crane's relationship with his mother.<ref>''The Theatre of Tennessee Williams'', V. 6. New York: New Directions, 1971–1992.</ref>
+
+In a 1991 interview with Antonio Weiss of ''[[The Paris Review]]'', the literary critic [[Harold Bloom]] talked about how Crane, along with [[William Blake]], initially sparked his interest in literature at a very young age: <blockquote>I was preadolescent, ten or eleven years old. I still remember the extraordinary delight, the extraordinary force that Crane and Blake brought to me—in particular Blake's rhetoric in the longer poems—though I had no notion what they were about. I picked up a copy of ''The Collected Poems of Hart Crane'' in the Bronx Library. I still remember when I lit upon the page with the extraordinary trope, "O Thou steeled Cognizance whose leap commits / The agile precincts of the lark's return." I was just swept away by it, by the [[Christopher Marlowe|Marlovian rhetoric]]. I still have the flavor of that book in me. Indeed it's the first book I ever owned. I begged my oldest sister to give it to me, and I still have the old black and gold edition she gave me for my birthday back in 1942. . .I suppose the only poet of the twentieth century that I could secretly set above [[Yeats]] and [[Wallace Stevens|Stevens]] would be Hart Crane.<ref>Weiss, Antonio. "Harold Bloom, The Art of Criticism No. 1." ''[[The Paris Review]]''. Spring 1991, No. 118.[http://www.theparisreview.org/interviews/2225/the-art-of-criticism-no-1-harold-bloom]</ref></blockquote>
+
+More recently, the American poet [[Gerald Stern]] wrote an essay on Crane in which he stated, "Some, when they talk about Crane, emphasize his drinking, his chaotic life, his self-doubt, and the dangers of his sexual life, but he was able to manage these things, even though he died at 32, and create a poetry that was tender, attentive, wise, and radically original." At the conclusion of his essay, Stern writes, "Crane is always with me, and whatever I wrote, short poem or long, strange or unstrange—his voice, his tone, his sense of form, his respect for life, his love of the word, his vision have affected me. But I don't want, in any way, to exploit or appropriate this amazing poet whom I am, after all, so different from, he who may be, finally, the great poet, in English, of the twentieth century."<ref>[http://www.poets.org/viewmedia.php/prmMID/22850 "The Poem That Changed My Life: On Hart Crane's 'Eternity'"], Gerald Stern, ''American Poet'', Fall 2011, Issue 41.</ref>
+
+Such important affections have made Crane a "poet's poet". [[Thomas Lux]] offered, for instance: "If the devil came to me and said 'Tom, you can be dead and Hart can be alive,' I'd take the deal in a heartbeat if the devil promised, when arisen, Hart would have to go straight into A.A."<ref>Davis, Peter. ''Poet's book-shelf: Contemporary Poets on Books That Shaped Their Art''. Selma, IN: Barnwood Press, 2005. p. 126</ref>
+
+Yvor Winters, noted for generally-stern criticism, praised some of Crane's poetry in ''In Defense of Reason'', though he heavily criticized Crane's works and poetics.
+
+Beyond poetry, Crane's suicide inspired several works of art by noted artist [[Jasper Johns]], including "Periscope", "Land's End", and "Diver", as well as the "Symphony for Three Orchestras" by Elliott Carter (inspired by ''The Bridge'') and the painting ''Eight Bells' Folly, Memorial for Hart Crane'' by [[Marsden Hartley]].<ref>MacGowan, Christopher John. ''20th-century American Poetry''. Maldon, MA: Blackwell Pub., 2004. p.74</ref>
+
+==Depictions==
+Crane is the subject of ''[[The Broken Tower (film)|The Broken Tower]]'', a [[2011 in film|2011]] [[United States|American]] student film by the actor [[James Franco]] who wrote, directed, and starred in the film which was the master's thesis project for his MFA in filmmaking at New York University. He loosely based his script on [[Paul Mariani]]'s 1999 nonfiction book ''The Broken Tower: A Life of Hart Crane''.<ref name="tcapril">{{cite web |url=http://chronicle.com/blogs/arts/james-franco-brings-hart-crane-to-the-big-screen/29137 |title=James Franco Brings Hart Crane to the Big Screen |first=Peter |last=Monaghan |work=[[The Chronicle of Higher Education]] |date=April 11, 2011 |access-date=June 19, 2011}}</ref> Despite being a student film, ''The Broken Tower'' was shown at the Los Angeles Film Festival in 2011 and received DVD distribution in 2012 by Focus World Films.
+
+Crane appears as a character in [[Samuel R. Delany]]'s novella "[[Atlantis: Three Tales|Atlantis: Model 1924]]", and in ''[[The Illuminatus! Trilogy]]'' by [[Robert Shea]] and [[Robert Anton Wilson]].
+
+==Bibliography==
+*''[[White Buildings]]'' (1926)
+*''[[The Bridge (long poem)|The Bridge]]'' (1930)
+*''The Collected Poems of Hart Crane'', Ed.[[Waldo Frank]]), [[Boriswood]] (1938)
+*''Hart Crane and [[Yvor Winters]]: Their Literary Correspondence'', ed. Thomas Parkinson, Berkeley: [[University of California Press]] (1978)
+*''O My Land, My Friends: The Selected Letters of Hart Crane'', New York: Four Walls Eight Windows (1997)
+*''The Complete Poems of Hart Crane'', ed. Marc Simon, New York: Liveright (1986)
+*''Hart Crane: Complete Poems and Selected Letters'', ed. Langdon Hammer, New York: The Library of America (2006)
+
+==See also==
+{{Portal|Poetry|LGBT}}
+*[[Modernist poetry in English]]
+*[[American poetry]]
+*[[Appalachian Spring]]
+* ''Poems from the Greenberg manuscript: a selection of the poems of Samuel Bernard Greenberg, the unknown poet who influenced HART CRANE ; edited, with biographical notes, by James Laughlin''; New, expanded edition, edited by Garrett Caples, New York : New Directions Publishing, 2019, {{ISBN|978-0-8112-2813-8}}
+
+==Notes==
+{{Reflist|group=notes}}
+
+==References==
+{{reflist|colwidth=30em}}
+
+==Further reading==
+
+===Biographies===
+*Fisher, Clive. ''Hart Crane: A Life.'' New Haven: [[Yale University Press]], 2002. {{ISBN|0-300-09061-7}}.
+*Horton, Philip. ''Hart Crane: The Life of An American Poet.'' New York: W.W. Norton & Company, 1937.
+*Meaker, M.J. ''Sudden Endings, 13 Profiles in Depth of Famous Suicides''. Garden, NY: Doubleday & Company, Inc., 1964. pp.&nbsp;108–133.
+*[[Paul Mariani|Mariani, Paul]]. ''The Broken Tower: A Life of Hart Crane''. New York: W.W. Norton & Company, 1999. {{ISBN|0-393-32041-3}}.
+*Unterecker, John. ''Voyager: A Life of Hart Crane''. New York: [[Farrar, Straus and Giroux]], 1969.
+*Weber, Brom. ''Hart Crane: A Biographical and Critical Study''. New York: The Bodley Press, 1948.
+
+===Selected criticism===
+{{div col|colwidth=22em}}
+*Combs, Robert. ''Vision of the Voyage: Hart Crane and the Psychology of Romanticism''. Memphis, Tennessee: Memphis State University Press, 1978.
+*Corn, Alfred. "Hart Crane's 'Atlantis'". ''The Metamorphoses of Metaphor''. New York: Viking, 1987.
+*Dean, Tim. "Hart Crane's Poetics of Privacy". ''American Literary History'' 8:1, 1996.
+*Dembo, L. S. ''Hart Crane's Sanskrit Charge: A Study of The Bridge''. Ithaca, New York: [[Cornell University Press]], 1960).
+*Gabriel, Daniel. ''Hart Crane and the Modernist Epic: Canon and Genre Formation in Crane, Pound, Eliot and Williams''. New York: Palgrave Macmillan, 2007.
+*Grossman, Allen. "Hart Crane and Poetry: A Consideration of Crane's Intense Poetics With Reference to 'The Return'". ''ELH'' 48:4, 1981.
+*Grossman, Allen. "On Communicative Difficulty in General and 'Difficult' Poetry in Particular: The Example of Hart Crane's 'The Broken Tower'". Poem Present lecture series at the University of Chicago, 2004.
+*Hammer, Langdon. ''Hart Crane & Allen Tate: Janus-Faced Modernism''. Princeton, NJ: [[Princeton University Press]], 1993.
+*Hanley, Alfred. ''Hart Crane's Holy Vision: "White Buildings"''. Pittsburgh, Pennsylvania: Duquesne University Press, 1981.
+*Herman, Barbara. "The Language of Hart Crane", ''The Sewanee Review'' 58, 1950.
+*Lewis, R. W. B. ''The Poetry of Hart Crane: A Critical Study''. Princeton, NJ: Princeton University Press, 1967.
+*Munro, Niall. ''Hart Crane's Queer Modernist Aesthetic''. New York: Palgrave Macmillan, 2015.
+*Nickowitz, Peter. ''Rhetoric and Sexuality: The Poetry of Hart Crane, Elizabeth Bishop, and James Merrill''. New York: Palgrave Macmillan, 2006.
+*Pease, Donald. "Blake, Crane, Whitman, and Modernism: A Poetics of Pure Possibility". ''PMLA'' 96:1, 1981.
+*Ramsey, Roger. "A Poetics for The Bridge". ''Twentieth Century Literature'' 26:3, 1980.
+*Reed, Brian. "Hart Crane's Victrola". ''Modernism/Modernity'' 7.1, 2000.
+*Reed, Brian. ''Hart Crane: After His Lights''. Tuscaloosa, AL: University of Alabama Press, 2006.
+*Riddel, Joseph. "Hart Crane's Poetics of Failure". ''ELH'' 33, 1966.
+*Rowe, John Carlos. "The 'Super-Historical' Sense of Hart Crane's The Bridge". ''Genre'' 11:4, 1978.
+*Schwartz, Joseph. ''Hart Crane: A Reference Guide''. Boston: G.K. Hall & Co., 1983.
+*[[Michael Snediker]]. "Hart Crane's Smile". ''Modernism/modernity'' 12.4, 2005.
+*Trachtenberg, Alan. ''Brooklyn Bridge: Fact and Symbol''. Chicago: [[University of Chicago Press]], 1979.
+*Unterecker, John. "The Architecture of The Bridge". ''Wisconsin Studies in Contemporary Literature'' 3:2, 1962.
+*Winters, Yvor. "The Progress of Hart Crane". ''Poetry'' 36, June 1930.
+*Winters, Yvor ''In Defense of Reason''. New York: The Swallow Press and William Morrow, 1947.
+* Woods, Gregory, "Articulate Flesh: Male Homo-eroticism and Modern Poetry". New Haven & London: Yale University Press, 1987.
+*Yannella, Philip R. "'Inventive Dust': The Metamorphoses of 'For the Marriage of Faustus and Helen'". ''Contemporary Literature'' 15, 1974.
+*Yingling, Thomas E. ''Hart Crane and the Homosexual Text: New Thresholds, New Anatomies''. Chicago: University of Chicago Press, 1990.
+{{div col end}}
+
+== External links ==
+{{Wikiquote}}
+* [https://web.archive.org/web/20080924021754/http://oyc.yale.edu/english/modern-poetry/content/sessions/lecture13.html Yale College Lecture on Hart Crane] audio, video and full transcripts from Open Yale Courses
+* [https://web.archive.org/web/20091130022156/http://dlib.nyu.edu/findingaids/html/fales/crane.html The Fales Library of NYU's guide to the Richard W. Rychtarik/Hart Crane Papers]
+* [http://www.poets.org/poet.php/prmPID/233 Academy of American Poets]
+* [http://www.poetryfoundation.org/bio/hart-crane Poetry Foundation profile]
+* [https://web.archive.org/web/20071023013833/http://poetryfoundation.org/archive/feature.html?id=180083 Brian Reed on ''Voyages'' (at Poetry Foundation)]
+* [http://www.english.uiuc.edu/maps/poets/a_f/crane/crane.htm Modern American Poetry: Hart Crane (1899–1932)]
+* [http://www.nybooks.com/articles/21253 A Great American Visionary] [[Colm Tóibín]] essay on Crane and review of his selected poems and letters from ''[[The New York Review of Books]]''
+* [https://wordandsilence.com/2016/07/15/i-respond-more-to-revelation-hart-crane-on-fire/ Hart Crane on Fire]{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }} A Selection of Crane's Letters
+* {{Librivox author |id=12743}}
+*[https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_4079683 Finding aid to Hart Crane papers at Columbia University. Rare Book & Manuscript Library.]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Crane, Hart}}
+[[Category:1899 births]]
+[[Category:1932 deaths]]
+[[Category:1932 suicides]]
+[[Category:People from Garrettsville, Ohio]]
+[[Category:American male poets]]
+[[Category:Formalist poets]]
+[[Category:Suicides by drowning in the United States]]
+[[Category:People from Greenwich Village]]
+[[Category:Suicides in Florida]]
+[[Category:American LGBT poets]]
+[[Category:LGBT people from Ohio]]
+[[Category:Poets from Ohio]]
+[[Category:20th-century American poets]]
+[[Category:LGBT-related suicides]]
+[[Category:20th-century American male writers]]
+[[Category:People lost at sea]]
+[[Category:Lost Generation writers]]
+[[Category:20th-century LGBT people]]

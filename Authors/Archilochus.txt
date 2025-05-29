@@ -1,0 +1,153 @@
+{{short description|Ancient Greek lyric poet}}
+{{For|the genus of hummingbirds|Archilochus (bird)}}
+[[File:Archilochus 01 pushkin.jpg|right|thumb|Bust of a bearded man (Archilochus?). Roman copy ({{circa}} 2nd century BC) of Greek original (4th century BC)]]
+[[File:Silver stater obverse Thasos Met L.1999.19.71.jpg|thumb|200px|right|Coin from ancient [[Thasos]] showing [[Satyr]] and [[nymph]], late 5th century BC.<br>Archilochus was involved in the Parian colonization of Thasos about two centuries before the coin was minted. His poetry includes vivid accounts of life as a warrior, seafarer and lover.]]
+
+[[File:ArchilochusCapital.jpg|thumb|alt=Ionic capital from the grave of Archilochus.Paros Archaeological Museum|Ionic capital from the grave of Archilochus, with inscription:"Here lies Archilochus,son of Telesicles",  Paros Archaeological Museum]]
+
+'''Archilochus''' ({{IPAc-en|ɑr|ˈ|k|ɪ|l|ə|k|ə|s}}; {{lang-grc-gre|Ἀρχίλοχος}} ''Arkhilokhos''; c. 680–645 BC){{efn|While these have been the generally accepted dates since [[Felix Jacoby]] (1941),<ref>{{cite journal |author-link=Felix Jacoby |first=Felix |last=Jacoby |year=1941 |title=The date of Archilochus |journal=Classical Quarterly |volume=35 |pages=97–109}}</ref> some scholars disagree; for instance, [[Robin Lane Fox]] (2008)<ref>{{cite book |author-link=Robin Lane Fox |first=R.L. |last=Fox |year=2008 |title=Travelling Heroes: Greeks and their myths in the epic age of Homer |place=London, UK |publisher=Allen Lane |ISBN=978-0-7139-9980-8 |page=388}}</ref> dates him c. 740–680&nbsp;BCE.}} was a [[Greek lyric poet]] of the [[Archaic Greece|Archaic period]] from the island of [[Paros]]. He is celebrated for his versatile and innovative use of poetic meters, and is the earliest known Greek author to compose almost entirely on the theme of his own emotions and experiences.{{Sfn|Barron|Easterling|1985|p=117}}{{Sfn|Campbell|1982|p=136}}
+
+Alexandrian scholars included him in their canonic list of [[Iambus (genre)|iambic poets]], along with [[Semonides]] and [[Hipponax]],<ref>Sophie Mills (2006), 'Archilochus', in ''Encyclopaedia of Ancient Greece'', Nigel Wilson (ed.), Routledge, page 76</ref> yet ancient commentators also numbered him with [[Tyrtaeus]] and [[Callinus]] as the possible inventor of the [[elegy]].<ref>Didymus ''ap. Orion'', ''Et. Mag.'' p. 57, Scholiast on Ar. ''Birds'' 217, cited by {{harvnb|Barron|Easterling|1985|p=129 (note 1)}}</ref> Modern critics often characterize him simply as a [[lyric poetry|lyric poet]].<ref>{{cite book |first=Rayor |last=Diane J. |year=1991|title=Sappho's Lyre: Archaic lyric and women poets of ancient Greece |place=Berkeley, CA |publisher=University of California Press |ISBN=978-0-520-07336-4}}</ref> Although his work now only survives in fragments, he was revered by the ancient Greeks as one of their most brilliant authors, able to be mentioned in the same breath as [[Homer]] and [[Hesiod]],{{Sfn|Barron|Easterling|1985|p=118}} yet he was also censured by them as the archetypal poet of blame{{Sfn|Brown|1997|p=49}} – his invectives were even said to have driven his former fiancée and her father to suicide. He presented himself as a man of few illusions either in war or in love, such as in the following elegy, where discretion is seen to be the better part of valour:
+{{Verse translation|italicsoff=y|lang=grc|
+Ἀσπίδι μὲν Σαΐων τις ἀγάλλεται, ἥν παρὰ θάμνῳ
+:ἔντος ἀμώμητον κάλλιπον οὐκ ἐθέλων·
+αὐτὸν δ' ἔκ μ' ἐσάωσα· τί μοι μέλει ἀσπὶς ἐκείνη;
+:Ἐρρέτω· ἐξαῦτις κτήσομαι οὐ κακίω.
+|
+One of the Saians (''Thracian tribe'') now delights in the shield I discarded
+:Unwillingly near a bush, for it was perfectly good,
+But at least I got myself safely out. Why should I care for that shield?
+:Let it go. Some other time I'll find another no worse.<ref>Fragment 5, trans. {{harvnb|Gerber|1999|pp=80&ndash;82}}</ref>}}
+
+Archilochus was much imitated even up to Roman times and three other distinguished poets later claimed to have thrown away their shields – [[Alcaeus of Mytilene|Alcaeus]], [[Anacreon]] and [[Horace]].{{Sfn|Campbell|1982|p=145}}
+
+==Biography==
+
+===Historical sources===
+A considerable amount of information about the life of Archilochus has come down to the modern age via his surviving work, the testimony of other authors and inscriptions on monuments,{{Sfn|Campbell|1982|p=136}} yet it all needs to be viewed with caution – the biographical tradition is generally unreliable and the fragmentary nature of the poems doesn't really support inferences about his personal history.{{Sfn|Brown|1997|p=43}} The vivid language and intimate details of the poems often look autobiographical{{Sfn|Barron|Easterling|1985|p=118}}<ref>Van Sickle (October–November 1975), "Archilochus: A New Fragment of an Epode" ''The Classical Journal'' '''71'''.1:1–15, p. 14.</ref> yet it is known, on the authority of [[Aristotle]], that Archilochus sometimes role-played. The philosopher quoted two fragments as examples of an author speaking in somebody else's voice: in one, an unnamed father commenting on a recent eclipse of the sun and, in the other, a carpenter named Charon, expressing his indifference to the wealth of [[Gyges of Lydia|Gyges]], the king of [[Lydia]].<ref>Aristotle ''Rhetoric'' 3.17.1418b28, cited by {{harvnb|Gerber|1999|pp=93–95}}</ref> There is nothing in those two fragments to suggest that Archilochus is speaking in those roles  (we rely entirely on Aristotle for the context) and possibly many of his other verses involved role-playing too. It has even been suggested by one modern scholar that imaginary characters and situations might have been a feature of the poetic tradition within which Archilochus composed, known by the ancients as [[Iambus (genre)|iambus]].{{Sfn|West|1974|pp=22–39}}
+
+The two poems quoted by Aristotle help to date the poet's life (assuming of course that Charon and the unnamed father are speaking about events that Archilochus had experienced himself). Gyges reigned 687–652&nbsp;BC and the date of the eclipse must have been either 6 April 648&nbsp;BC or 27 June 660&nbsp;BC (another date, 14 March 711&nbsp;BC, is generally considered too early).{{Sfn|Campbell|1982|p=136}}  These dates are consistent with other evidence of the poet's chronology and reported history, such as the discovery at [[Thasos]] of a cenotaph, dated around the end of the seventh century and dedicated to a friend named in several fragments: Glaucus, son of Leptines.{{Sfn|Brown|1997|pp=43–44}} The chronology for Archilochus is complex but modern scholars generally settle for c.680–c.640 BC.{{Sfn|Campbell|1982|p=136}}
+
+Whether or not their lives had been virtuous, authors of genius were revered by their fellow Greeks. Thus a sanctuary to Archilochus (the ''Archilocheion'') was established on his home island Paros sometime in the third century BC, where his admirers offered him sacrifices, as well as to gods such as Apollo, Dionysus, and the Muses.{{Sfn|Barron|Easterling|1985|p=118}} Inscriptions found on [[orthostat]]s from the sanctuary include quoted verses and historical records. In one, we are told that his father Telesicles once sent Archilochus to fetch a cow from the fields, but that the boy chanced to meet a group of women who soon vanished with the animal and left him a lyre in its place – they were the Muses and they had thus earmarked him as their protégé. According to the same inscription, the omen was later confirmed by the oracle at [[Delphi]]. Not all the inscriptions are as fanciful as that. Some are records by a local historian of the time, set out in chronological order according to custom, under the names of [[archons]]. Unfortunately, these are very fragmentary.<ref>{{harvnb|Gerber|1999|pp=16–33}}</ref>
+
+Snippets of biographical information are provided by ancient authors as diverse as [[Tatian]], [[Proclus]], [[Clement of Alexandria]], [[Cicero]], [[Claudius Aelianus|Aelian]], [[Plutarch]], [[Galen]], [[Dio Chrysostom]], [[Aelius Aristides]] and several anonymous authors in the [[Palatine Anthology]]. See [[Archilochus#and other poets|and other poets]] below for the testimony of some famous poets.
+
+===Scholarship and the biographical tradition===
+According to tradition, Archilochus was born to a notable family on Paros. His grandfather (or great-grandfather), Tellis, helped establish the cult of [[Demeter]] on [[Thasos]] near the end of the eighth century, a mission that was famously depicted in a painting at [[Delphi]] by the Thasian [[Polygnotus]].{{Sfn|Barron|Easterling|1985|p=117}} The painting, later described by [[Pausanias (geographer)|Pausanias]], showed Tellis in [[Hades]], sharing [[Charon (mythology)|Charon]]'s boat with the priestess of Demeter.{{efn|"Tellis appears to be in his late teens, Cleoboea as still a girl and she has on her knees a chest of the sort that they are accustomed to make for Demeter. With regard to Tellis I heard only that he was the grandfather of Archilochus and they say that Cleoboea was the first to introduce the rites of Demeter to Thasos from Paros." – Pausanias 10.28.3<ref>translated by {{harvnb|Gerber|1999|p=75}}</ref>}} The poet's father, Telesicles, also distinguished himself in the history of Thasos, as the founder of a Parian colony there. The names 'Tellis' and 'Telesicles' can have religious connotations and some modern scholars infer that the poet was born into a priestly family devoted to Demeter. Inscriptions in the ''Archilocheion'' identify Archilochus as a key figure in the Parian cult of [[Dionysus]]{{Sfn|Brown|1997|pp=45–46}} There is no evidence to back isolated reports that his mother was a slave, named Enipo, that he left Paros to escape poverty, or that he became a mercenary soldier – the slave background is probably inferred from a misreading of his verses; archaeology indicates that life on Paros, which he associated with "figs and seafaring", was quite prosperous; and though he frequently refers to the rough life of a soldier, warfare was a function of the aristocracy in the archaic period and there is no indication that he fought for pay.{{Sfn|Campbell|1982|p=136}}{{efn|The name 'Enipo' has connotations of abuse (enipai), which is curiously apt for the mother of a famous iambographer.{{Sfn|West|1974|p=28}}}}
+[[File:Cumulus23 - NOAA.jpg|thumb|right|"''Look Glaucus! Already waves are disturbing the deep sea and a cloud stands straight round about the heights of Gyrae,{{efn|The ''heights of Gyrae'' is a promontoty on [[Tenos]], or a mythological allusion to the rocks on which the Lesser Ajax met his death.<ref>{{harvnb|Gerber|1999|p=145|loc=n. 1}}</ref>}} a sign of storm; from the unexpected comes fear.''"<br>The trochaic verse was quoted by the Homeric scholar [[Heraclitus (commentator)|Heraclitus]], who said that Archilochus used the image to describe war with the Thracians.{{Sfn|Campbell|1982|p=150}}]]
+The life of Archilochus was marked by conflicts. The ancient tradition identified a Parian, Lycambes, and his daughters as the main target of his anger. The father is said to have betrothed his daughter, [[Neobule]], to Archilochus, but reneged on the agreement, and the poet retaliated with such eloquent abuse that Lycambes, Neobule and one or both of his other daughters committed suicide.{{sfn|Gerber|1999|p=75}}<ref>Gerber, Douglas E., 1997, [https://books.google.com/books?id=Zzlnqb_64SYC&pg=PA50 ''A Companion to the Greek Lyric Poets''], Brill. {{ISBN|90-04-09944-1}}. cf. p.50</ref> The story later became a popular theme for Alexandrian versifiers, who played upon its poignancy at the expense of Archilochus.{{efn|[[Elegy|Elegies]] include the following by a certain Dioscorides, in which the victims are imagined to speak from the grave: "We here, the daughters of Lycambes who gained a hateful reputation, swear by the reverence in which this tomb of the dead is held that we did not shame our virginity or our parents or Paros, pre-eminent among holy islands, but Archilochus spewed forth frightful reproach and a hateful report against our family. We swear by the gods and spirits that we did not set eyes on Archilochus either in the streets or in Hera's great precinct. If we had been lustful and wicked, he would have not wanted to beget legitimate children from us." – ''Palatine Anthology'' 7.351<ref>trans. {{harvnb|Gerber|1999|p=49}}</ref>}} Some modern scholars believe that Lycambes and his daughters were not actually the poet's contemporaries but fictional characters in a traditional entertainment.{{Sfn|West|1974|p=27}} According to another view, Lycambes as an oath-breaker had marked himself out as a menace to society and the poet's invective was not just personal revenge but a social obligation consistent with the practice of 'iambos'.{{Sfn|Brown|1997|p=59}}
+
+The inscriptions in the ''Archilocheion'' imply that the poet had a controversial role in the introduction of the cult of Dionysus to Paros. It records that his songs were condemned by the Parians as "too iambic" (the issue may have concerned phallic worship) but they were the ones who ended up being punished by the gods for impiety, possibly with impotence. The oracle of Apollo then instructed them to atone for their error and rid themselves of their suffering by honouring the poet, which led to the shrine being dedicated to him.{{Sfn|Brown|1997|p=46}}{{Sfn|Campbell|1982|p=138}} His [[hero cult]] lasted on [[Paros]] over 800 years.<ref>Encyclopedia of ancient Greece By Nigel Guy Wilson Page 353 {{ISBN|978-0-415-97334-2}}</ref>
+
+His combative spirit also expressed itself in warfare. He joined the Parian colony on Thasos and battled the indigenous Thracians, expressing himself in his poems as a cynical, hard-bitten soldier fighting for a country he doesn't love ("Thasos, thrice miserable city") on behalf of a people he scorns{{efn|"The [dregs] of all the Greeks have come together in Thasos".{{Sfn|Barron|Easterling|1985|p=121}}}} yet he values his closest comrades and their stalwart, unglamorous commander.{{efn|"I have no liking for a general who is tall, walks with a swaggering gait, takes pride in his curls, and is partly shaven. Let mine be one who is short, has a bent look about the shins, stands firmly on his feet, and is full of courage." – Fragment 114<ref>Fragment 114, trans. {{harvnb|Gerber|1999|p=153}}</ref>}} Later he returned to Paros and joined the fight against the neighbouring island of [[Naxos (island)|Naxos]]. A Naxian warrior named Calondas won notoriety as the man that killed him. The Naxian's fate interested later authors such as Plutarch and Dio Chrysostom, since it had been a fair fight yet he was punished for it by the gods: He had gone to the temple of Apollo at Delphi to consult the oracle and was rebuked with the memorable words: "You killed the servant of the Muses; depart from the temple."<ref>Galen, ''Exhortation to learning'', trans. {{harvnb|Gerber|1999|p=41}}</ref>
+
+====The poet's character====
+{| style="border: 0px; margin-left:30px; white-space:nowrap;"
+! scope="col" width="300px" |
+! scope="col" width="300px" |
+|- border="0"
+|- Valign=top
+|
+{{lang|grc|Εἰμὶ δ' ἐγὼ θεράπων μὲν Ἐνυαλίοιο ἄνακτος,<br/>
+καὶ Μουσέων ἐρατὸν δῶρον ἐπιστάμενος.}}<br />
+|
+I am the servant of Lord [[Enyalius|Enyalios]] [Ares, god of war],<br/>
+and skilled in the lovely gift of the Muses.<ref>Fragment 1, trans. {{harvnb|Gerber|1999|p=77}}</ref>
+|}
+This couplet testifies to a social revolution: Homer's poetry was a powerful influence on later poets and yet in Homer's day it had been unthinkable for a poet to be a warrior.<ref>Denis Page, 'Archilochus and the Oral Tradition', ''Entretiens Hardt'' 10: 117–163, Geneva</ref> Archilochus deliberately broke the traditional mould even while adapting himself to it. "Perhaps there is a special relevance to his times in the particular gestures he elects to make: The abandonment of grandly heroic attitudes in favour of a new unsentimental honesty, an iconoclastic and flippant tone of voice coupled with deep awareness of traditional truths."{{Sfn|Barron|Easterling|1985|p=119}}
+
+Ancient authors and scholars often reacted to his poetry and to the biographical tradition angrily, condemning "fault-finding Archilochus" for "fattening himself on harsh words of hatred" (see Pindar's comment [[Archilochus#and other poets|below]]) and for "the unseemly and lewd utterances directed towards women", whereby he made "a spectacle of himself"<ref>[[Plutarch]], ''de curiositate'' 10.520a-b, trans. {{harvnb|Gerber|1999|p=63}}</ref> He was considered "...&nbsp;a noble poet in other respects if one were to take away his foul mouth and slanderous speech and wash them away like a stain" ([[Suda]]).<ref>[[Suda]] (i.376.11 Adler) = Aelian fr. 80 Hercher, trans. {{harvnb|Gerber|1999|p=39}}</ref> According to [[Valerius Maximus]], the [[Sparta]]ns banished the works of Archilochus from their state for the sake of their children "...&nbsp;lest it harm their morals more than it benefited their talents."<ref>Valerius Maximus, 6.3, ext. 1, trans. {{harvnb|Gerber|1999|p=39}}</ref> Yet some ancient scholars interpreted his motives more sympathetically:
+{{Quote|"For of the two poets who for all time deserve to be compared with no other, namely Homer and Archilochus, Homer praised nearly everything ... But Archilochus went to the opposite extreme, to censure; seeing, I suppose, that men are in greater need of this, and first of all he censures himself&nbsp;...", thus winning for himself "...&nbsp;the highest commendation from heaven." – [[Dio Chrysostom]]<ref>Dio Chrysostom 33.11–12, trans. {{harvnb|Gerber|1999|p=43}}</ref>}}
+
+==Poetry==
+The earliest meter in ''extant'' Greek poetry was the [[Epic poetry|epic]] [[hexameter]] of Homer. Homer did not create the epic hexameter, however, and there is evidence that other meters also predate his work.{{refn|See for example the ''Iliad'' 1.472–474; 16.182–183; 18.493<ref>Jeffrey M. Hurwit, ''The Art and Culture of Early Greece''{{full citation|date=May 2020|reason=year, publisher, etc.}}</ref>}} Thus, though ancient scholars credited Archilochus with the invention of elegy and iambic poetry, he probably built on a "flourishing tradition of popular song" that pre-dated Homer. His innovations however seem to have turned a popular tradition into an important literary medium.{{Sfn|Barron|Easterling|1985|p=119}}
+
+His merits as a poet were neatly summarized by the rhetorician [[Quintilian]]:
+{{quote|"We find in him the greatest force of expression, sententious statements that are not only vigorous but also terse and vibrant, and a great abundance of vitality and energy, to the extent that in the view of some his inferiority to anyone results from a defect of subject matter rather than poetic genius. – [[Quintilian]]<ref>Quintilian, ''Principles of Oratory'' 10.1.60, trans. {{harvnb|Gerber|1999|p=65}}</ref>}}
+[[File:Ringed kingfisher hornopiren chile feb 2010 2.jpg|right|thumb|"''A kingfisher flapped its wings on a protruding rock''" – Archilochus fr. 41<ref>trans. {{harvnb|Gerber|1999|p=113}}</ref><br> The poet, "a frank celebrant of sex",{{Sfn|Barron|Easterling|1985|p=122}} found various ways to describe sexual relations, including allusions. Here the rock is a phallic symbol and the kingfisher represents a female partner.{{Sfn|West|1974|pp=123–124}}]]
+Most ancient commentators focused on his lampoons and on the virulence of his invective{{Sfn|Barron|Easterling|1985|p=123}} as in the comments [[Archilochus#and other poets|below]], yet the extant verses (most of which come from Egyptian papyri<ref>Davenport, Guy (1980), ''Archilochus, Alcman, Sappho: Three Lyric Poets of the Seventh Century B.C.'' University of California Press. {{ISBN|0-520-05223-4}}, p.2.</ref>) indicate a very wide range of poetic interests. Alexandrian scholars collected the works of the other two major iambographers, Semonides and Hipponax, in just two books each, which were cited by number, whereas Archilochus was edited and cited not by book number but rather by poetic terms such as 'elegy', 'trimeters', 'tetrameters' and 'epodes'.{{sfn|Gerber|1999|p=6}} Moreover, even those terms fail to indicate his versatility:
+{{quote|"... not all his iambic and trochaic poetry was invective. In his elegiacs we find neat epigrams, consolatory poems and a detailed prediction of battle; his trochaics include a cry for help in war, an address to his troubled soul and lines on the ideal commander; in his iambics we find an enchanting description of a girl and Charon the carpenter's rejection of tyranny."{{Sfn|Campbell|1982|p=138}}}}
+One convenient way to classify the poems is to divide them between elegy and iambus ({{lang|grc|ἵαμβος}}) – elegy aimed at some degree of decorum, since it employed the stately hexameter of epic, whereas the term 'iambus', as used by Alexandrian scholars, denoted any informal kind of verse meant to entertain (it may have included the iambic meter but was not confined to it). Hence the accusation that he was "too iambic" (see [[Archilochus#Biography|Biography]]) referred not to his choice of meter but his subject matter and tone (for an example of his iambic verse see [[Iambus (genre)#Strasbourg papyrus|Strasbourg papyrus]]). Elegy was accompanied by the [[aulos]] or pipe, whereas the performance of iambus varied, from recitation or chant in iambic trimeter and trochaic tetrameter, to singing of epodes accompanied by some musical instrument (which one isn't known).{{Sfn|Barron|Easterling|1985|pp=120–121}}
+
+Archilochus was not included in the canonic list of [[nine lyric poets]] compiled by Hellenistic scholars – his range exceeded their narrow criteria for lyric ('lyric' meant verse accompanied by the [[lyre]]). He did in fact compose some lyrics but only the tiniest fragments of these survive today. However they include one of the most famous of all lyric utterances, a hymn to [[Heracles]] with which victors were hailed at the [[Olympic Games]], featuring a resounding refrain {{lang|grc|Τήνελλα καλλίνικε}} in which the first word imitates the sound of the lyre.{{Sfn|Campbell|1982|p=138}}
+<blockquote>
+Τήνελλα καλλίνικε,<br />
+χαῖρ' ἄναξ Ἡράκλεες,<br />
+αὐτός τε καὶ Ἰόλαος, αἰχμητὰ δύο.<br />
+Τήνελλα καλλίνικε<br />
+χαῖρ' ἄναξ Ἡράκλεες.
+</blockquote>
+===Style===
+Like other archaic Greek poets, Archilochus relied heavily on Homer's example for his choice of language, particularly when using the same meter, [[dactylic hexameter]] (as for example in [[elegy]]), but even in other meters the debt is apparent – in the verse below, for example, his address to his embattled soul or spirit, {{lang|grc|θυμέ}}, has Homeric echoes.{{refn|See ''[[Odyssey]]'' 20.18 ff, ''[[Iliad]]'' 22.98–99 and 22.122{{Sfn|Campbell|1982|pp=153–154}}}} The meter below is trochaic tetrameter [[catalectic]] (four pairs of [[trochees]] with the final syllable omitted), a form later favoured by Athenian dramatists because of its ''running'' character, expressing aggression and emotional intensity.<ref>L.P.E. Parker, (1997), ''The Songs of Aristophanes'', Oxford, p. 36</ref> The comic poet [[Aristophanes]] employed it for the arrival on stage of an enraged chorus in ''[[The Knights]]'', but Archilochus uses it here to communicate the need for emotional moderation. His use of the meter isn't intentionally ironic, however, since he didn't share the tidy functionalism of later theorists, for whom different meters and verse-forms were endowed with distinctive characters suited to different tasks – his use of meter is "neutral in respect of ethos".{{Sfn|Campbell|1982|p=138}}  The following verse is indicative too of the fragmentary nature of Archilochus's extant work: lines 2 and 3 are probably corrupted and modern scholars have tried to emend them in various ways, none satisfactory, though the general meaning is clear.{{Sfn|Campbell|1982|pp=153–154}}
+{| style="border: 0px; margin-left:30px; white-space:nowrap;"
+! scope="col" width="350px" |
+! scope="col" width="350px" |
+|- border="0"
+|- Valign=top
+|
+{{lang|grc|θυμέ, θύμ᾽ ἀμηχάνοισι κήδεσιν κυκώμενε,<br/>
+ἄνα δέ, δυσμενέων δ᾽ ἀλέξευ προσβαλὼν ἐναντίον<br/>
+στέρνον, ἐν δοκοῖσιν ἐχθρῶν πλησίον κατασταθείς<br/>
+ἀσφαλέως· καὶ μήτε νικῶν ἀμφαδὴν ἀγάλλεο<br/>
+μηδὲ νικηθεὶς ἐν οἴκωι καταπεσὼν ὀδύρεο.<br/>
+ἀλλὰ χαρτοῖσίν τε χαῖρε καὶ κακοῖσιν ἀσχάλα<br/>
+μὴ λίην· γίνωσκε δ᾽ οἷος ῥυσμὸς ἀνθρώπους ἔχει.}}<ref>Archilochus fr. 128, quoted by Stobaeus (3.20.28), cited by {{harvnb|Gerber|1999|p=167}}</ref><br/>
+|
+My Soul, my Soul, all disturbed by sorrows inconsolable,<br/>
+Bear up, hold out, meet front-on the many foes that rush on you<br/>
+Now from this side and now that, enduring all such strife up close,<br/>
+Never wavering; and should you win, don't openly exult,<br/>
+Nor, defeated, throw yourself lamenting in a heap at home,<br/>
+But delight in things that are delightful and, in hard times, grieve<br/>
+Not too much – appreciate the rhythm that controls men's lives.<br/>
+|}
+
+==Recent discoveries==
+[[File:P.Oxy. VI 854.jpg|thumb|A small papyrus scrap first published in 1908 which is derived from the same ancient manuscript of Archilochus that yielded the most recent discovery (P.Oxy. VI 854, 2nd century CE).]]
+Thirty previously unknown lines by Archilochus, in the [[elegiac]] meter, describing events leading up to the [[Trojan War]], in which Achaeans battled [[Telephus]] king of [[Mysia]], have recently been identified among the [[Oxyrhynchus Papyri]] and published in  ''The Oxyrhynchus Papyri'', Volume LXIX (Graeco-Roman Memoirs 89).<ref>{{cite web |url=http://www.papyrology.ox.ac.uk/POxy/monster/demo/Page1.html |title=POxy Oxyrhynchus Online |website=www.papyrology.ox.ac.uk}}</ref>
+
+A discovery of a fragment of writing by Archilochus contained a citation of a proverb that was important to the proper interpretation of a letter in the [[Akkadian (language)|Akkadian]] language from the emperor of the [[Old Assyrian Empire]], [[Shamshi-Adad I]], with the same proverb: "The bitch by her acting too hastily brought forth the blind."<ref>{{cite journal |last1=Moran |first1=William L. |title=An Assyriological gloss on the new Archilochus fragment |journal=Harvard Studies in Classical Philology |year=1978 |volume=82 |pages=18 |doi=10.2307/311017 |jstor=311017}}</ref>
+
+==Quotes==
+* "Keep some measure in the joy you take in luck, and the degree you give way to sorrow." (fragment 67, tr. [[Richmond Lattimore]])<ref>{{cite web |url=http://www.rhapsodes.fll.vt.edu/arkhilokhos67.htm |title=Archived copy |access-date=2008-05-09 |archive-url=https://web.archive.org/web/20120701152549/http://www.rhapsodes.fll.vt.edu/arkhilokhos67.htm |archive-date=2012-07-01 |url-status=dead }}</ref> 
+* "Πόλλ᾽ οἶδ᾽ ἀλώπηξ, ἀλλ' ἐχῖνος ἕν μέγα." (The fox knows many things; the hedgehog one big thing.)<ref>[http://www.mikrosapoplous.gr/arxl/arxl05.htm 151] [Ed.118]; quoted in [[M. L. West]] (ed.), (1971), ''Iambi et elegi Graeci'', Vol. I, Oxford</ref>{{efn|see [[Isaiah Berlin]]'s ''[[The Hedgehog and the Fox]]''}}
+
+==Notes==
+{{notelist|1}}
+
+==References==
+{{reflist|25em}}
+
+=== Bibliography ===
+*{{Cite book|last=Brown|first=Christopher|url=https://books.google.com/books?id=Zzlnqb_64SYC|title=A Companion to the Greek Lyric Poets|date=1997|publisher=Brill|isbn=978-90-04-09944-9|editor-last=Gerber|editor-first=Douglas E.|language=en|chapter=Introduction}}
+*{{Cite book|last=Campbell|first=David A.|url=https://books.google.com/books?id=JFwhwgEACAAJ|title=Greek Lyric Poetry|date=1982|publisher=Bristol Classical Press|isbn=978-0-86292-008-1|language=en}}
+*{{Cite book|last=Barron|first=J. P.|url=https://books.google.com/books?id=zLUzKHNI4qsC|title=The Cambridge History of Classical Literature|last2=Easterling|first2=P. E.|date=1985|publisher=Cambridge University Press|isbn=978-0-521-35981-8|editor-last=Easterling|editor-first=P. E.|language=en|chapter=Elegy and Iambus|editor-last2=Knox|editor-first2=Bernard M. W.}}
+* {{cite book|last=Gerber|first=Douglas E.|title=Greek Iambic Poetry|year=1999|series=Loeb Classical Library|publisher=Harvard University Press|location=Cambridge, MA|isbn=9780674995819}}
+*{{Cite book|last=West|first=Martin L.|url=https://books.google.com/books?id=tBPdEL189PsC|title=Studies in Greek Elegy and Iambus|date=1974|publisher=Walter de Gruyter|isbn=978-3-11-083318-8|language=en|author-link=Martin Litchfield West}}
+
+==External links==
+{{Commons category|Archilochos}}
+{{wikiquote}}
+* {{wikisource author-inline}}
+* [https://web.archive.org/web/20110514084237/http://www.stoa.org/diotima/anthology/archiloch_intro.shtml Introduction to Archilochos and translation of A's longest fragment by Guy Davenport]
+* [https://web.archive.org/web/20081011161214/http://www.poemhunter.com/archilochos/poet-25255/ Web Resources on Archilochos]
+* [https://web.archive.org/web/20050316081205/http://plaza.ufl.edu/caleb98/turner/archilochos1.html The Poetry of Archilochos]
+* [http://www.fh-augsburg.de/~harsch/graeca/Chronologia/S_ante07/Archilochos/arc_intr.html Archilochos fragments in Greek]
+* [http://www.ellopos.net/elpenor/greek-texts/ancient-greece/archilochus.asp Archilochus Bilingual Anthology (in Greek and English, side by side)]
+* [http://demonax.info/doku.php?id=text:archilochus_poems Archilochos Poems] – J. M. Edmonds Edition
+* [http://www.gottwein.de/Grie/lyr/LyrArchil01.php Zweisprachige Textauswahl zu den griechischen Lyrikern mit zusätzlichen Hilfen]
+* [https://web.archive.org/web/20120701152549/http://www.rhapsodes.fll.vt.edu/arkhilokhos67.htm SORGLL:  Archilochos 67; read by Stephen Daitz]
+* [http://www.tritsibidas.gr/en/index.php?option=com_content&view=article&id=42&catid=1&Itemid=11 Archilochos of Paros and Archilochos' Beloved Paros]: documentaries by Yannis Tritsibidas
+
+{{Authority control}}
+
+{{DEFAULTSORT:Archilochus}}
+[[Category:680s BC births]]
+[[Category:640s BC deaths]]
+[[Category:Ancient Greek poets]]
+[[Category:Ionic Greek poets]]
+[[Category:Iambic poets]]
+[[Category:7th-century BC poets]]
+[[Category:Ancient Thasos]]
+[[Category:Ancient Parians]]
+[[Category:Epigrammatists of the Greek Anthology]]

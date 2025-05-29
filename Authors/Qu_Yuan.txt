@@ -1,0 +1,134 @@
+{{short description|Ancient Chinese poet}}
+{{for|the 1977 film|Qu Yuan (film)}}
+{{family name hatnote|[[Qu (surname 屈)|Qu]] ({{linktext|屈}})|lang=Chinese}}
+{{Infobox writer
+| name        = Qu Yuan
+| image       = Qu Yuan Chen Hongshou 2.jpg
+| image_size  = 300px
+| alt         = 
+| caption     = Portrait of Qu Yuan by [[Chen Hongshou]] (17th century)
+| birth_date  = {{circa|lk=no|340}}{{nbsp}}BC
+| birth_place = [[Chu (state)|State of Chu]], in modern-day [[Zigui County]], [[Hubei]], [[China]]
+| death_date  = 278 BC (aged 62)
+| death_place = [[Miluo River]]
+| occupation  = [[Poet]], politician
+| module      = 
+{{Infobox Chinese
+|child=yes
+| name1              = Chinese name
+| c                  = 屈原
+| p                  = Qū Yuán
+| w                  = Ch'ü<sup>1</sup> Yüan<sup>2</sup>
+| mi                 = {{IPAc-cmn|q|v|1|-|yüan|2}}
+| gr                 = Chiu Yuan
+| suz                = Chiueh Nyœ́
+| j                  = Wat<sup>1</sup> Jyun<sup>4</sup>
+| y                  = Wāt Yùhn
+| ci                 = {{IPAc-yue|w|at|1|-|j|yun|4}}
+| tl                 = Khut Guân
+| poj                = Khut Goân
+| oc-bs              = &ast;kʰut N-ɢʷar
+}}
+}}
+'''Qu Yuan''' ({{circa|lk=no|340&nbsp;BC}}&nbsp;&ndash; 278&nbsp;BC)<ref name=yfw205/>{{sfnp|Knechtges|2010|p=745}}{{sfnp|Kern|2010|p=76}} was a Chinese poet and politician in the [[Chu (state)|State of Chu]] during the [[Warring States period]]. He is known for his patriotism and contributions to [[Classical Chinese poetry|classical poetry and verses]], especially through the poems of the ''[[Chu Ci]]'' anthology (also known as ''The Songs of the South'' or ''Songs of Chu''): a volume of poems attributed to or considered to be inspired by his [[Verse (poetry)|verse]] writing. Together with the ''[[Classic of Poetry|Shi Jing]]'', the ''Chu Ci'' is one of the two greatest collections of ancient Chinese verse. He is also remembered in connection to the supposed origin of the [[Dragon Boat Festival]].
+
+Historical details about Qu Yuan's life are few, and his authorship of many ''Chu Ci'' poems has been questioned at length.<ref>Zhao Kuifu 趙逵夫, "''Riben xin de ''Qu Yuan fouding lun'' Chansheng de Lishi Beijing yu Sixiang Genyuan Chutan''" 日本新的 "屈原否定論" 產生的歷史背景與思想根源初探, in ''Fuyin Baokan Ziliao, Zhongguo Gudai Jindai Wenxue Yanjiu'' 複印報刊資料，中國古代近代文學研究, (1995: 10): 89–93.</ref> However, he is widely accepted to have written "[[The Lament]]," a ''Chu Ci'' poem. The first known reference to Qu Yuan appears in a poem written in 174 BC by [[Jia Yi]], an official from [[Luoyang]] who was slandered by jealous officials and banished to [[Changsha]] by [[Emperor Wen of Han]]. While traveling, he wrote a poem describing the similar fate of a previous "Qu Yuan."<ref>Quoted in [[Ban Gu]]'s ''Book of Han'' biography of Jia Yi 《漢書·賈誼傳》, also appears in ''[[Wen Xuan|Wenxuan]]'', "Diào Qū Yuán fù" 弔屈原賦.</ref> Eighty years later, the first known biography of Qu Yuan's life appeared in [[Han dynasty]] historian [[Sima Qian]]'s ''[[Records of the Grand Historian]]'', though it contains a number of contradictory details.{{sfnp|Hawkes|1959|p=52}}
+
+{{anchor|Biography|Legend|History}}
+
+==Life==
+[[Sima Qian]]'s biography of Qu Yuan in the ''[[Records of the Grand Historian|Records of the Grand Historian (Shiji)]]'', though circumstantial and probably influenced greatly by Sima's own identification with Qu,<ref>Hawkes (1959), 53-54.</ref> is the only source of information on Qu's life.{{sfnp|Hartman|1986|p=352}} Sima wrote that Qu was a member of the [[Mi (surname)|Chu royal clan]] and served as an official under [[King Huai of Chu]] (reigned 328–299 BC).
+
+During the early days of King Huai's reign, Qu Yuan was serving the State of Chu as its Left Minister.<ref name=yfw205>{{harvp|CUHK|2007|p=[https://books.google.co.uk/books?id=z-fAxn_9f8wC&pg=PA205 205]}}.</ref> However, King Huai exiled Qu Yuan to the region north of the [[Han River (Hubei)|Han River]], because corrupt ministers slandered him and influenced the king.<ref name=yfw205/> Eventually, Qu Yuan was reinstated and sent on a diplomatic mission to the State of Qi.<ref name=yfw206>{{harvp|CUHK|2007|p=[https://books.google.co.uk/books?id=z-fAxn_9f8wC&pg=PA206 206]}}</ref> He tried to resume relations between Chu and Qi, which King Huai had broken under the false pretense of [[King Huiwen of Qin|King Hui of Qin]] to cede territory near Shangyu.<ref>{{harvp|CUHK|2007|p=[https://books.google.co.uk/books?id=z-fAxn_9f8wC&pg=PA205 205–6]}}</ref>
+
+During [[King Qingxiang of Chu|King Qingxiang]]'s reign, Prime Minister Zilan slandered Qu Yuan.<ref name=yfw206 /> This caused Qu Yuan's exile to the regions south of the [[Yangtze|Yangtze River]].<ref name=yfw206/> It is said that Qu Yuan returned first to his home town. In his [[exile]], he spent much of this time collecting legends and rearranging folk odes while traveling the countryside. Furthermore, he wrote some of the greatest poetry in [[Chinese literature]] and expressed deep concerns about his state.<ref name=yfw206/> According to legend, his anxiety brought him to an increasingly troubled state of health. During his depression, he would often take walks near a certain well to look upon his thin and gaunt reflection in the water. This well became known as the "Face Reflection Well." On a hillside in Xiangluping (at present-day [[Zigui County]], [[Hubei]] Province), there is a well that is considered to be the original well from the time of Qu Yuan.{{fact|date=May 2017}}
+
+In 278 BC, learning of the capture of his country's capital, [[Ying (Chu)|Ying]], by General [[Bai Qi]] of the [[Qin (state)|state of Qin]], Qu Yuan is said to have collected folktales and written the lengthy poem of lamentation called "[[Lament for Ying]]". Eventually, he [[suicide in China|committed suicide]] by wading into the [[Miluo River]] in today's [[Hubei]] Province while holding a rock. The reason why he took his life remained controversial and was argued by Chinese scholars for centuries. Typical explanations including martyrdom for his deeply beloved but falling motherland, which was suggested by the philosopher [[Zhu Xi]] of Song Dynasty, or feeling extreme despair to the situation of the politics in Chu while his lifelong political dream would never be realized. But according to "[[Yu Fu]]," widely considered to be written by Qu himself or at least, a person who was very familiar with Qu, his suicide was an ultimate way to protect his innocence and life principles.{{fact|date=May 2017}}
+
+Qu Yuan is said to have expressed his love for the ruling monarch, [[King Huai of Chu]], through several of this works, including "[[The Lament]]" and "Longing for Beauty".<ref>{{cite web|title=History of Homosexuality|url=http://www.china.org.cn/english/2002/Oct/44940.htm|website=china.org.cn|publisher=Shanghai Star|access-date=26 November 2016|archive-url=https://web.archive.org/web/20031119114502/http://www.china.org.cn/english/2002/Oct/44940.htm|archive-date=Nov 19, 2003}}</ref>
+
+==Legacy==
+[[File:元 佚名 倣趙孟頫 九歌圖 冊-Nine Songs MET DP375119.jpg|thumb|Qu Yuan as depicted in the ''[[Jiu Ge|Nine Songs]]'', imprint of presumably the 14th century]]
+Qu Yuan is regarded as the first author of verse in China to have his name associated to his work, since prior to that time, poetic works were not attributed to any specific authors. He is considered to have initiated the so-called ''sao'' style of verse, which is named after his work "[[The Lament]]," in which he abandoned the classic four-character verses used in poems of ''[[Classic of Poetry|Shi Jing]]'' and adopted verses with varying lengths. This resulted in poems with more rhythm and latitude in expression. Qu Yuan is also regarded as one of the most prominent figures of [[Romanticism]] in Chinese classical literature, and his masterpieces influenced some of the great Romanticist poets in Tang Dynasty. During the [[Han Dynasty]], Qu Yuan became established as a heroic example of how a scholar and official who was denied public recognition suitable to their worth should behave.<ref name=autogenerated1>Davis, xlvii</ref>
+
+===''Chu Ci''===
+{{Main|Chu Ci}}
+Chu was located in what is now the [[Yangtze|Yangzi River]] area of central [[China]]. At this time, Chu represented the southern fringe of the Chinese cultural area, having for a time been part of both the [[Shang dynasty]] and the [[Zhou dynasty]] empires. However, the Chu culture also retained certain characteristics of local traditions such as [[shamanism]], the influence of which can be seen in the ''Chu Ci''.<ref>Hinton, 80</ref>
+
+The ''Chu Ci'' was compiled and annotated by Wang Yi (died AD 158), which is the source of transmission of these poems and any reliable information about them to subsequent times; thus, the role which Qu Yuan had in the authoring, editing, or retouching of these works remains unclear.<ref>Yip, 54</ref> The ''Chu Ci'' poems are important as being direct precursors of the ''[[Fu (poetry)|fu style]]'' of Han Dynasty literature.<ref>Davis, xlviii</ref> The ''Chu Ci'', as a preservation of early literature, has provided invaluable data for linguistic research into the history of the Chinese language, from [[Chen Di]] on.
+
+===Religion===
+Following his suicide, Qu Yuan was sometimes revered as a [[List of water deities|water god]], including by [[Religion in Taiwan|Taiwanese]] [[Taoism|Taoists]], who number him among the [[Shuixian Zunwang|Kings of the Water Immortals]].<ref name=grandma>{{citation |contribution-url=http://www.tainanmazu.org.tw/grand_shuexian.html |contribution=Shuexian Deities |url=http://www.tainanmazu.org.tw/ |title=''Official site'' |location=Tainan |publisher=[[Grand Matsu Temple]] |date=2007}}</ref>
+
+===Patriotism===
+{{see also|Chinese nationalism}}
+Qu Yuan began to be treated in a [[Chinese nationalism|nationalist]] way as "China's first [[patriotism|patriotic]] poet" during [[Second Sino-Japanese War|World War II]].<ref name=hawkeye>{{harvp|Hawkes|1974|p=[https://books.google.com.tw/books?id=wvrnFgUnn-MC&pg=PA42 42]}}.</ref> [[Wen Yiduo]]—a socialist poet and scholar later executed by the [[Kuomintang|KMT]]—wrote in his ''Mythology & Poetry'' that, "although Qu Yuan did not write about the life of the people or voice their sufferings, he may truthfully be said to have acted as the leader of a people's revolution and to have struck a blow to avenge them. Qu Yuan is the only person in the whole of Chinese history who is fully entitled to be called 'the people's poet'."{{sfnp|Wen|1956}} [[Guo Moruo]]'s 1942 [[Theatre of China|play]] ''Qu Yuan''{{sfnp|Guo|1952}} gave him similar treatment, drawing parallels to ''[[Hamlet]]'' and ''[[King Lear]]''.<ref name=hawkeye/> Their view of Qu's social idealism and unbending patriotism became canonical under the [[People's Republic of China]] after the 1949 [[Communist Party of China|Communist]] victory in the [[Chinese Civil War]].<ref name=hawkeye/><ref name=autogenerated1 /> For example, one high-school Chinese textbook from 1957 began with the sentence "Qu Yuan was the first great patriotic poet in the history of our country's literature".{{sfnp|Zhang|1957}} This cult status increased Qu Yuan's position within China's literary canon, seeing him placed on [[Postage stamps and postal history of China|postage stamps]]<ref>{{Cite web|title=《屈原》郵票端午節正式發行 來了解下「中華詩祖」|url=https://kknews.cc/culture/4zxpo43.html|access-date=2020-08-05|language=zh-tw}}</ref> and the [[Dragon Boat Festival]] elevated to a [[Public holidays in China|national holiday]] in 2005. It has, however, come at the expense of more the critical scholarly appraisals of Qu Yuan's historicity and alleged body of work that had developed during the late [[Qing dynasty|Qing]] and [[Republic of China (1911-1949)|early Republic]].<ref name=hawkeye/>
+
+===Dragon Boat Festival===
+[[File:VM 3852 Singapore - Qu Yuan in a dragon boat.jpg|thumb|Statue of Qu Yuan on a [[dragon boat]], on display for the [[Dragon Boat Festival]], in [[Singapore]]]]
+{{main|Dragon Boat Festival}}
+Popular legend has it that villagers carried their dumplings and boats to the middle of the river and desperately tried to save Qu Yuan after he immersed himself in the Miluo but were too late to do so. However, in order to keep fish and evil spirits away from his body, they beat drums and splashed the water with their paddles, and they also threw rice into the water both as a food offering to Qu Yuan's spirit and also to distract the fish away from his body. However, the legend continues, that late one night, the spirit of Qu Yuan appeared before his friends and told them that he died because he had taken himself under the river. Then, he asked his friends to wrap their rice into three-cornered silk packages to ward off the dragon.
+
+These packages became a traditional food known as ''[[zongzi]]'', although the lumps of rice are now wrapped in leaves instead of silk. The act of racing to search for his body in boats gradually became the cultural tradition of [[dragon boat]] racing, held on the anniversary of his death every year. Today, people still eat ''zongzi'' and participate in dragon boat races to commemorate Qu Yuan's sacrifice on the fifth day of the fifth month of the traditional lunisolar [[Chinese calendar]]. The countries around China, such as Vietnam and Korea, also celebrate variations of this [[Dragon Boat Festival]] as part of their [[East Asian cultural sphere|shared cultural heritage]].{{fact|date=May 2017}}
+
+==See also==
+{{portal|China|Literature|Poetry}}
+*''[[Jiu Ge]]''
+*[[Classical Chinese poetry]]
+*[[Song Yu]]
+*[[Dragon Boat Festival]]
+*[[Qu (surname 屈)]]
+
+==References==
+===Citations===
+{{reflist|30em}}
+
+===Bibliography===
+{{refbegin}}
+* {{citation |editor-last=Chang |editor-first=H.K. |editor2=Ye Lang |editor3=Fei Zhengang |editor4=Wang Tianyou |display-editors=0 |ref={{harvid|CUHK|2007}} |date=2007 |contribution=Qu Yuan |contribution-url=https://books.google.com/books?id=z-fAxn_9f8wC&pg=PA205 |pages=[https://books.google.co.uk/books?id=z-fAxn_9f8wC&pg=PA205 205–6] |title=China: Five Thousand Years of History and Civilization |location=Kowloon |publisher=City University of Hong Kong Press |isbn=9789629371401 |url=https://books.google.com/books?id=z-fAxn_9f8wC}}
+* {{citation |editor-last=Davis |editor-first=Albert Richard |date=1970 |title=The Penguin Book of Chinese Verse |location=London |publisher=Penguin Books }}.
+* {{citation |last=Guo |first=Moruo |author-mask=[[Guo Moruo]] |title=''《屈原》 [''Qu Yuan'']'' |date=1952 |location=Beijing |publisher=Renmin Wenxue Chubanshe }}. {{in lang|zh}}
+* {{cite book | first=Charles | last=Hartman | chapter=Ch'ü Yüan 屈原 | editor-first=William H., Junior | editor-last=Nienhauser |display-editors=0 | title=The Indiana Companion to Traditional Chinese Literature, Volume 1 | location=Bloomington | publisher=Indiana University Press | year=1986 | page=352 | isbn=0-253-32983-3}}
+* {{citation |last=Hawkes |first=David |author-link=David Hawkes (sinologist) |title=Ch'u Tz'u: The Songs of the South, an Ancient Chinese Anthology |date=1959 |publisher=Clarendon Press |location=Oxford }}.
+* {{citation |last=Hawkes |first=David |author-link=David Hawkes (sinologist) |title=Studies in Chinese Literary Genres |url=https://books.google.com/books?id=wvrnFgUnn-MC |location=Berkeley |publisher=University of California Press |date=1974 |isbn=0-520-02037-5 |pages=[https://books.google.com.tw/books?id=wvrnFgUnn-MC&pg=PA42 42–68] |contribution=The Quest of the Goddess |contribution-url=https://books.google.com/books?id=wvrnFgUnn-MC&pg=PA42 |editor-last=Birch |editor-first=Cyril |display-editors=0 }}.
+* {{citation |last=Hinton |first=David |date=2008 |title=Classical Chinese Poetry: An Anthology |location=New York |publisher=Farrar, Straus, & Giroux |isbn=978-0-374-10536-5 }}.
+* {{cite book | first=Martin | last=Kern | chapter=Early Chinese literature, Beginnings through Western Han | pages=1–115 | editor-first=Stephen | editor-last=Owen |display-editors=0 | title=The Cambridge History of Chinese Literature, Volume 1: To 1375 | year=2010 | location=Cambridge | publisher=Cambridge University Press | isbn=978-0-521-11677-0}}
+* {{cite book |  first1=David R. | last1=Knechtges | chapter=Qu Yuan 屈原 | editor-first=David R. | editor-last=Knechtges | editor-first2=Taiping | editor-last2=Chang |display-editors=0 | title=Ancient and Early Medieval Chinese Literature: A Reference Guide, Part One | year=2010 | location=Leiden | publisher=Brill | isbn=978-90-04-19127-3 | pages=745–749}}
+* {{citation |last=Wen |first=Yiduo |author-mask=[[Wen Yiduo]] |contribution=人民的詩人一屈原 [''Rénmín de Shīrén—Qū Yuán, Qu Yuan: The People's Poet''] |title=''《神話與詩》 [''Shénhuà yú Shī, Mythology & Poetry'']'' |publisher=Guji Chubanshe |date=1956 }}. {{in lang|zh}}
+* {{citation |last=Yip |first=Wai-lim |author-mask=Yip Wai-lim |date=1997 |title=Chinese Poetry: An Anthology of Major Modes and Genres |location=[[Durham, NC|Durham]] |publisher=Duke University Press |isbn=0-8223-1946-2 |url-access=registration |url=https://archive.org/details/chinesepoetryant00yipw }}.
+* {{citation |last=Zhang |first=Zongyi |author-mask=Zhang Zongyi |title=''《屈原舆楚辭》 [''Qū Yuán yú Chǔcí, Qu Yuan and the Songs of Chu'']'' |location=[[Changchun]] |publisher=Jilin Renmin Chubanshe |date=1957 }}. {{in lang|zh}}
+{{refend}}
+
+==Further reading==
+*{{cite book|last=Schneider|first=Laurence A.|url=https://archive.org/details/madmanofchuchine0000schn/|url-access=registration|title=A Madman of Ch'u: The Chinese Myth of Loyalty and Dissent|year=1980|publisher=University of California Press|location=Berkeley}}
+*{{cite book|last=Watson|first=Burton, trans.|title=Records of the Grand Historian|year=1993|publisher=Columbia Univ. Press|location=New York|isbn=0-231-08164-2|edition=Rev.}}
+*{{cite book|last=Waley|first=Arthur|title=The Nine Songs; a Study of Shamanism in Ancient China|year=1973|publisher=City Lights Books|location=San Francisco|isbn=0-87286-075-2}}
+*{{cite book|last=Watson|first=Burton|title=Early Chinese Literature|url=https://archive.org/details/earlychineselite0000wats|url-access=registration|year=1962|publisher=Columbia University Press|location=New York|isbn=9780231086714}}
+
+==External links==
+{{Commonscat|Qu Yuan}}
+{{Wikiquote}}
+*[https://web.archive.org/web/20100608154020/http://www.chinapage.com/quyuan.html "Qu Yuan (Chu Yuan), the great poet"]
+*[http://www.chinatownology.com/qu_yuan.html "This article has photos of Qu Yuan's hometown before it was submerged by the dams project"]
+*[https://web.archive.org/web/20051126005827/http://www.fwcc.org/dragonboat.html "The Dragon Boat Festival"] (article reproduced from Volume 1, number 2 of the newsletter of Families with Children from China of the San Francisco Bay Area)
+
+{{Chinese poetry}}
+{{lists of poets |state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Qu, Yuan}}
+[[Category:340s BC births]]
+[[Category:278 BC deaths]]
+[[Category:4th-century BC Chinese poets]]
+[[Category:3rd-century BC Chinese poets]]
+[[Category:Chinese gods]]
+[[Category:Chu (state)]]
+[[Category:Deified Chinese people]]
+[[Category:Suicides by drowning in China]]
+[[Category:Suicides in China]]
+[[Category:Zhou dynasty musicians]]
+[[Category:Zhou dynasty poets]]
+[[Category:Zhou dynasty politicians]]
+[[Category:Guqin players]]
+[[Category:Water gods]]
+[[Category:Ancient people who committed suicide]]

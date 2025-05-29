@@ -1,0 +1,34 @@
+{{Refimprove|date=December 2009}}
+[[Image:BodleianDouce195Folio1rGuillaumeDeLorris.jpg|thumb|250px|Portrait of Guillaume de Lorris from a manuscript of the ''[[Roman de la Rose]]'' in the [[Bodleian Library]] (Douce 195, folio 1r).]]
+{{French literature sidebar}}
+
+'''Guillaume de Lorris''' (c. 1200{{spaced ndash}}c. 1240) was a [[France|French]] scholar and [[poet]] from [[Lorris]]. He was the author of the first section of the ''[[Roman de la Rose]]''.<ref name="Lorris)Meun)1970">{{cite book |author1=Guillaume (de Lorris)|author2=Jean (de Meun)|title=Roman de la Rose|url=https://books.google.com/books?id=QI35TgEACAAJ|accessdate=6 January 2011|year=1970|publisher=Librairie Honoré Champion}}</ref> Little is known about him, other than that he wrote the earlier section of the poem around 1230, and that the work was completed forty years later by [[Jean de Meun]].<ref>{{EB1911|volume=12|wstitle=Guillaume de Lorris}}</ref> He is only known by mention of Jean de Meun, (de Meung in French), in <nowiki>''Roman de la Rose''</nowiki>. <ref>{{Cite web|url=https://dlmm.library.jhu.edu/en/digital-library-of-medieval-manuscripts/|title=Digital Library of Medieval Manuscripts|language=en-US|access-date=2020-02-17}}</ref> 
+
+Lorris' poem was translated into Middle English verse by [[Geoffrey Chaucer|Chaucer]], and into Modern English verse by [[Frederick Startridge Ellis|F. S. Ellis]].
+[[File:Guillaume - Roman de la rose, 1914 - 4062453 F.jpeg|thumb|upright=0.8|''Roman de la Rose'' (ed. 1914)]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{Gutenberg author | id=Guillaume,+de+Lorris | name=Guillaume de Lorris}}
+* {{Internet Archive author |sname=Guillaume de Lorris}}
+*[http://romandelarose.org Roman de la Rose Digital Library]
+*[http://hdl.loc.gov/loc.rbc/rosenwald.0396 ''Roman de la Rose''] From the [https://www.loc.gov/rr/rarebook/ Rare Book and Special Collections Division] at the [[Library of Congress]]
+*[http://hdl.loc.gov/loc.rbc/rosenwald.0917 ''Cest le Romant de la rose ''] From the [https://www.loc.gov/rr/rarebook/ Rare Book and Special Collections Division] at the [[Library of Congress]]
+*[http://roderic.uv.es/uv_ms_0387  ''Roman de la rose''] at [http://roderic.uv.es/handle/10550/43 Somni]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Guillaume de Lorris}}
+[[Category:1200s births]]
+[[Category:1240s deaths]]
+[[Category:Year of birth uncertain]]
+[[Category:Year of death uncertain]]
+[[Category:13th-century French writers]]
+[[Category:French fantasy writers]]
+[[Category:French male poets]]
+[[Category:13th-century French poets]]
+
+
+{{France-poet-stub}}

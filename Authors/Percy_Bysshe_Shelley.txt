@@ -1,0 +1,495 @@
+{{Short description|English Romantic poet (1792–1822)}}
+{{redirect|Percy Shelley|the son of the poet|Percy Florence Shelley|the English potter|Percy Shelley (potter)}}
+{{Use dmy dates|date=August 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image            = Percy Bysshe Shelley by Alfred Clint.jpg
+| caption          = Portrait of Shelley, by [[Alfred Clint]] (1829)
+| birth_date       = {{birth date|df=yes|1792|8|4}}
+| birth_place      = {{nowrap| [[Horsham]], [[Sussex]], England}}
+| death_date       = {{death date and age|df=y|1822|7|8|1792|8|4}}
+| death_place      = [[Gulf of La Spezia]], [[Kingdom of Sardinia]] (now Italy)
+| occupation       = {{hlist | [[Poet]] | [[dramatist]] | [[essayist]] | [[novelist]]}}
+| education        = [[Eton College]]
+| movement         = [[Romanticism]]
+| spouse           = {{unbulleted list|{{marriage|Harriet Westbrook|1811|1816|end= d.}}|{{marriage|[[Mary Shelley]]|1816}}}}
+| children         = 4 (including [[Percy Florence Shelley]])
+| parents          = {{unbulleted list  |
+[[Timothy Shelley]]  |
+Elizabeth Pilfold}}
+| signature        = Podpis.jpg
+| alma_mater       = [[University College, Oxford]]
+| birth_name       = Percy Bysshe Shelley
+}}
+
+'''Percy Bysshe Shelley''' ({{IPAc-en|audio= Pronunciation of Percy Bysshe Shelley.ogg|b|ɪ|ʃ}} {{respell|BISH}};<ref>{{Cite web |title=Shelley |url=https://www.collinsdictionary.com/dictionary/english/shelley |website=[[Collins English Dictionary]] |publisher=[[HarperCollins]] |access-date=7 June 2019}}</ref><ref>{{Cite Merriam-Webster|Shelley|access-date= 7 June 2019}}</ref> 4 August 1792{{spaced ndash}}8 July 1822) was one of the major [[Romantic literature in English|English]] [[romantic poetry|Romantic poets]].<ref name=":6" /><ref>{{Cite ODNB|title=Shelley, Percy Bysshe (1792–1822), poet|url=https://www.oxforddnb.com/view/10.1093/ref:odnb/9780198614128.001.0001/odnb-9780198614128-e-25312|access-date=8 February 2021|year = 2004|language=en|doi=10.1093/ref:odnb/25312|isbn = 978-0-19-861412-8}}</ref> A radical in his poetry as well as in his political and social views, Shelley did not achieve fame during his lifetime, but recognition of his achievements in poetry grew steadily following his death and he became an important influence on subsequent generations of poets including [[Robert Browning]], [[Algernon Charles Swinburne]], [[Thomas Hardy]], and [[W. B. Yeats]].<ref name=":4" /> American literary critic [[Harold Bloom]] describes him as "a superb craftsman, a lyric poet without rival, and surely one of the most advanced sceptical intellects ever to write a poem." 
+
+Shelley's critical reputation fluctuated during the 20th century, but in recent decades he has achieved increasing critical acclaim for the sweeping momentum of his poetic imagery, his mastery of genres and verse forms, and the complex interplay of sceptical, idealist, and materialist ideas in his work.<ref name=":8">{{Cite book|editor1-first=Zachary|editor1-last=Leader|editor2-first=Michael|editor2-last=O'Neill|title=Percy Bysshe Shelley, The Major Works|publisher=[[Oxford University Press]]|location=Oxfordshire, England|year=2003|isbn=0-19-281374-9|pages=xi-xix}}</ref><ref name=":9" /> Among his best-known works are "[[Ozymandias]]" (1818), "[[Ode to the West Wind]]" (1819), "[[To a Skylark]]" (1820), and the political ballad "[[The Masque of Anarchy|The Mask of Anarchy]]" (1819). His other major works include the verse drama ''[[The Cenci]]'' (1819) and long poems such as ''[[Alastor, or The Spirit of Solitude]]'' (1815), ''[[Julian and Maddalo]]'' (1819), ''[[Adonais]]'' (1821), ''[[Prometheus Unbound (Shelley)|Prometheus Unbound]]'' (1820)—widely considered his masterpiece—''[[Hellas (poem)|Hellas]]'' (1822), and his final, unfinished work, ''[[The Triumph of Life]]'' (1822).
+
+Shelley also wrote [[prose fiction]] and a quantity of essays on political, social, and philosophical issues. Much of this poetry and prose was not published in his lifetime, or only published in expurgated form, due to the risk of prosecution for political and religious libel.<ref>{{Cite book|last=Holmes|first=Richard|title=Shelley, the Pursuit|publisher=Weidenfeld and Nicolson|year=1974|isbn=0297767224|location=London, England|pages=391, 594, 678}}</ref> From the 1820s, his poems and political and ethical writings became popular in [[Owenism|Owenist]], [[Chartism|Chartist]], and radical political circles<ref name=":10" /> and later drew admirers as diverse as [[Karl Marx]], [[Mahatma Gandhi]], and [[George Bernard Shaw]].<ref name=":10" /><ref name=":11">{{Cite book|last=Weber|first=Thomas|title=Gandhi as Disciple and Mentor|publisher=[[Cambridge University Press]]|location=Cambridge, England|year=2004|isbn=0-521-84230-1|pages=26–30}}</ref><ref name=":3" />
+
+Shelley's life was marked by family crises, ill health, and a backlash against his [[atheism]], political views and defiance of social conventions. He went into permanent self-exile in Italy in 1818, and over the next four years produced what Leader and O'Neill call "some of the finest poetry of the Romantic period".<ref>Leader and O'Neill (2003), p xiv</ref> His second wife, [[Mary Shelley]], was the author of ''[[Frankenstein]]''. He died in a boating accident in 1822 at the age of 29.
+
+==Life==
+===Early life and education===
+Shelley was born on 4 August 1792 at [[Field Place]], [[Broadbridge Heath]], near [[Horsham]], West Sussex, England.<ref>{{Cite book |last=Medwin |first=Thomas |url=https://archive.org/details/lifepercybysshe01medwgoog |title=The Life of Percy Bysshe Shelley |publisher=Thomas Cautley Newby |year=1847 |location=London |page=[https://archive.org/details/lifepercybysshe01medwgoog/page/n333 323] |author-link=Thomas Medwin}}</ref><ref>{{Cite book |last=Shelley |first=Percy Bysshe |url=https://books.google.com/books?id=t2MbAgAAQBAJ&pg=PT7 |title=Delphi Complete Works of Percy Bysshe Shelley (Illustrated) |date=2013 |publisher=Delphi Classics |isbn=978-1909496071 |access-date=6 February 2019 |via=Google Books}}</ref> He was the eldest son of Sir [[Timothy Shelley]] (1753–1844), a [[Whig (British political faction)|Whig]] Member of Parliament for Horsham from 1790 to 1792 and for [[New Shoreham (UK Parliament constituency)|Shoreham]] between 1806 and 1812, and his wife, Elizabeth Pilfold (1763–1846), the daughter of a successful butcher.<ref>{{Cite book|last=Bieri|first=James|title=Percy Bysshe Shelley: a biography|publisher=The Johns Hopkins University Press|year=2008|isbn=978-0-8018-8860-1|location=Baltimore|pages=19}}</ref> He had four younger sisters and one much younger brother. Shelley's early childhood was sheltered and mostly happy. He was particularly close to his sisters and his mother, who encouraged him to hunt, fish and ride.<ref>Holmes, Richard (1974), pp 1–17</ref><ref>{{Cite book|last=Bieri|first=James|title=Percy Bysshe Shelley: A Biography: Youth's Unextinguished Fire, 1792–1816|publisher=University of Delaware Press|year=2004|location=Newark|pages=55–57}}</ref> At age six, he was sent to a day school run by the vicar of [[Warnham]] church, where he displayed an impressive memory and gift for languages'''.'''<ref>Holmes, Richard, (1974) p 2</ref>
+
+In 1802 he entered the [[Syon House]] Academy of [[Brentford]], [[Middlesex]], where his cousin [[Thomas Medwin]] was a pupil. Shelley was bullied and unhappy at the school and sometimes responded with violent rage. He also began suffering from the nightmares, hallucinations and sleep walking that were to periodically afflict him throughout his life. Shelley developed an interest in science which supplemented his voracious reading of tales of mystery, romance and the supernatural. During his holidays at Field Place, his sisters were often terrified at being subjected to his experiments with gunpowder, acids and electricity. Back at school he blew up a paling fence with gunpowder.<ref>Holmes, Richard, (1974) pp 4–17</ref><ref>{{Cite book|last=Medwin|first=Thomas|url=https://archive.org/details/lifepercybysshe01medwgoog|title=The Life of Percy Bysshe Shelley|year=1847|location=London}}</ref>
+
+In 1804, Shelley entered [[Eton College]], a period which he later recalled with loathing. He was subjected to particularly severe mob bullying which the perpetrators called "Shelley-baits".<ref>{{Cite book |last=Gilmour |first=Ian |title=Byron and Shelley: The Making of the Poets |publisher=Carol & Graf Publishers |year=2002 |location=New York |pages=96–97}}</ref> A number of biographers and contemporaries have attributed the bullying to Shelley's aloofness, nonconformity and refusal to take part in [[fagging]]. His peculiarities and violent rages earned him the nickname "Mad Shelley".<ref name=":0">{{Cite book|last=Bieri|first=James|title=Percy Bysshe Shelley: A Biography: Youth's Unextinguished Fire, 1792–1816|publisher=University of Delaware Press|year=2004|location=Newark|page=86}}</ref><ref>Holmes, Richard, (1974), pp 19–20</ref> His interest in the occult and science continued, and contemporaries describe him giving an electric shock to a master, blowing up a tree stump with gunpowder and attempting to raise spirits with occult rituals.<ref>Holmes, Richard, (1974), pp 24–5</ref> In his senior years, Shelley came under the influence of a part-time teacher, Dr [[James Lind (physician, born 1736)|James Lind]], who encouraged his interest in the occult and introduced him to liberal and radical authors. According to [[Richard Holmes (biographer)|Richard Holmes]], Shelley, by his leaving year, had gained a reputation as a classical scholar and a tolerated eccentric. In his last term, his first novel ''[[Zastrozzi]]'' appeared and he had established a following among his fellow students.<ref>Holmes, Richard (1974) pp 25–30</ref>
+
+Prior to enrolling for [[University College, Oxford]] in October 1810, Shelley completed  ''[[Original Poetry by Victor and Cazire]]'' (written with his sister Elizabeth), the verse melodrama ''The Wandering Jew'' and the gothic novel ''[[St. Irvyne|St. Irvine; or, The Rosicrucian: A Romance]]'' (published 1811).<ref>{{cite ODNB|author-link=Michael O'Neill (academic)|first=Michael|last=O'Neill|title=Shelley, Percy Bysshe (1792–1822)|year=2004|edition=Online|url=http://www.oxforddnb.com/view/article/25312|doi=10.1093/ref:odnb/25312}}</ref><ref>Holmes, Richard, (1974), p 31</ref>
+
+At Oxford Shelley attended few lectures, instead spending long hours reading and conducting scientific experiments in the laboratory he set up in his room.<ref>Holmes, Richard (1974), pp 38–39</ref> He met a fellow student, [[Thomas Jefferson Hogg]], who became his closest friend. Shelley became increasingly politicised under Hogg's influence, developing strong radical and anti-Christian views. Such views were dangerous in the reactionary political climate prevailing during Britain's war with Napoleonic France, and Shelley's father warned him against Hogg's influence.<ref>Holmes, Richard, (1974), pp 43–47</ref>
+
+In the winter of 1810–1811, Shelley published a series of anonymous political poems and tracts: ''[[Posthumous Fragments of Margaret Nicholson]]'', ''[[The Necessity of Atheism]]'' (written in collaboration with Hogg) and ''A Poetical Essay on the Existing State of Things''. Shelley mailed ''The Necessity of Atheism'' to all the bishops and heads of colleges at Oxford, and he was called to appear before the college's fellows, including the Dean, [[George Rowley (academic)|George Rowley]]. His refusal to college authorities to answer questions regarding whether or not he authored the pamphlet resulted in his [[Expulsion (academia)|expulsion]] from Oxford on 25{{nbsp}}March 1811, along with Hogg. Hearing of his son's expulsion, Shelley's father threatened to cut all contact with Shelley unless he agreed to return home and study under tutors appointed by him. Shelley's refusal to do so led to a falling-out with his father.<ref>Holmes, Richard (1974), pp 58–60</ref>
+
+===Marriage to Harriet Westbrook===
+In late December 1810, Shelley had met Harriet Westbrook, a pupil at the same boarding school as Shelley's sisters. They corresponded frequently that winter and also after Shelley had been expelled from Oxford.<ref>{{Cite book|last=Bieri|first=James|title=Percy Bysshe Shelley: A Biography|publisher=Johns Hopkins University Press|year=2008|isbn=978-0-8018-8861-8|location=Baltimore|pages=111, 114, 137–45}}</ref> Shelley expounded his radical ideas on politics, religion and marriage to Harriet, and they gradually convinced each other that she was oppressed by her father and at school.<ref>{{Cite book|last=Holmes|first=Richard|title=Shelley: the Pursuit|publisher=Weidenfeld and Nicolson|year=1974|isbn=0-2977-6722-4|location=London|pages=67–8}}</ref> Shelley's infatuation with Harriet developed in the months following his expulsion, when he was under severe emotional strain due to the conflict with his family, his bitterness over the breakdown of his romance with his cousin Harriet Grove, and his unfounded belief that he might be suffering from a fatal illness.<ref>Bieri, James (2008), pp 156, 173</ref> At the same time, Harriet Westbrook's elder sister Eliza, to whom Harriet was very close, encouraged the young girl's romance with Shelley.<ref>Bieri, James (2008), pp 139, 148–9</ref> Shelley's correspondence with Harriet intensified in July, while he was holidaying in Wales, and in response to her urgent pleas for his protection, he returned to London in early August. Putting aside his philosophical objections to matrimony, he left with the sixteen-year-old Harriet for [[Edinburgh]] on 25 August 1811, and they were married there on the 28th.<ref>Holmes, Richard (1974), pp 77–9</ref>
+
+Hearing of the elopement, Harriet's father, John Westbrook, and Shelley's father, Timothy, cut off the allowances of the bride and groom. (Shelley's father believed his son had married beneath him, as Harriet's father had earned his fortune in trade and was the owner of a tavern and coffee house.)<ref>Bieri, James (2008), pp 136–7, 162–3</ref>
+
+[[File:WilliamGodwin.jpg|thumb|left|upright|[[William Godwin]] in 1802, by [[James Northcote (painter)|James Northcote]]]]
+Surviving on borrowed money, Shelley and Harriet stayed in Edinburgh for a month, with Hogg living under the same roof. The trio left for [[York]] in October, and Shelley went on to Sussex to settle matters with his father, leaving Harriet behind with Hogg. Shelley returned from his unsuccessful excursion to find that Eliza had moved in with Harriet and Hogg. Harriet confessed that Hogg had tried to seduce her while Shelley had been away. Shelley, Harriet and Eliza soon left for [[Keswick, Cumbria|Keswick]] in the [[Lake District]], leaving Hogg in York.<ref>Bieri, James (2008), pp 165–77</ref>
+
+At this time Shelley was also involved in an intense platonic relationship with Elizabeth Hitchener, a 28-year-old unmarried schoolteacher of advanced views, with whom he had been corresponding. Hitchener, whom Shelley called the "sister of my soul" and "my second self", became his confidante and intellectual companion as he developed his views on politics, religion, ethics and personal relationships.<ref>Bieri, James (2008), pp 149–54</ref> Shelley proposed that she join him, Harriet and Eliza in a communal household where all property would be shared.<ref>Bieri, James (2008), pp 170, 193–5</ref>
+
+The Shelleys and Eliza spent December and January in Keswick where Shelley visited [[Robert Southey]] whose poetry he admired. Southey was taken with Shelley, even though there was a wide gulf between them politically, and predicted great things for him as a poet. Southey also informed Shelley that [[William Godwin]], author of ''[[Enquiry Concerning Political Justice|Political Justice]]'', which had greatly influenced him in his youth, and which Shelley also admired, was still alive. Shelley wrote to Godwin, offering himself as his devoted disciple. Godwin, who had modified many of his earlier radical views, advised Shelley to reconcile with his father, become a scholar before he published anything else, and give up his avowed plans for political agitation in Ireland.<ref>Bieri, James (2008), pp 187–91</ref>
+
+Meanwhile, Shelley had met his father's patron, [[Charles Howard, 11th Duke of Norfolk]], who helped secure the reinstatement of Shelley's allowance.<ref>Bieri, James (2008), pp 182–3</ref> With Harriet's allowance also restored, Shelley now had the funds for his Irish venture. Their departure for Ireland was precipitated by increasing hostility towards the Shelley household from their landlord and neighbours who were alarmed by Shelley's scientific experiments, pistol shooting and radical political views. As tension mounted, Shelley claimed he had been attacked in his home by ruffians, an event which might have been real or a delusional episode triggered by stress. This was the first of a series of episodes in subsequent years where Shelley claimed to have been attacked by strangers during periods of personal crisis.<ref>Bieri, James (2008), pp 191–4</ref>
+
+Early in 1812, Shelley wrote, published and personally distributed in Dublin three political tracts: ''An Address, to the Irish People; Proposals for an Association of Philanthropists;'' and ''Declaration of Rights''. He also delivered a speech at a meeting of O'Connell's [[Catholic Committee (Ireland)|Catholic Committee]] in which he called for [[Catholic emancipation]], repeal of the [[Acts of Union 1800|Act of Union]] and an end to the oppression of the Irish poor. Reports of Shelley's subversive activities were sent to the [[Home Secretary]].<ref>Bieri, James (2008) pp 198–210</ref>
+
+Returning from Ireland, the Shelley household travelled to Wales, then Devon, where they again came under government surveillance for distributing subversive literature. Elizabeth Hitchener joined the household in Devon, but several months later had a falling out with the Shelleys and left.<ref>Bieri, James (2008) pp 210–30</ref>
+
+The Shelley household had settled in Tremadoc, Wales in September 1812, where Shelley worked on ''[[Queen Mab (poem)|Queen Mab]]'', a utopian allegory with extensive notes preaching atheism, free love, republicanism and vegetarianism. The poem was published the following year in a private edition of 250 copies, although few were initially distributed because of the risk of prosecution for seditious and religious libel.<ref>Bieri, James (2008), pp 238–51, 255</ref>
+
+In February 1813, Shelley claimed he was attacked in his home at night. The incident might have been real, a hallucination brought on by stress, or a hoax staged by Shelley in order to escape government surveillance, creditors and his entanglements in local politics. The Shelleys and Eliza fled to Ireland, then London.<ref>Bieri, James (2008) pp 238–54</ref>
+
+Back in England, Shelley's debts mounted as he tried unsuccessfully to reach a financial settlement with his father. On 23 June Harriet gave birth to a girl, Eliza Ianthe Shelley, and in the following months the relationship between Shelley and his wife deteriorated. Shelley resented the influence Harriet's sister had over her, while Harriet was alienated by Shelley's close friendship with an attractive widow, Harriet Boinville, and her daughter Cornelia Turner. Following Ianthe's birth, the Shelleys moved frequently across London, Wales, the Lake District, Scotland and Berkshire to escape creditors and search for a home.<ref>Bieri, James (2008), pp 256–69</ref>
+
+In March 1814, Shelley remarried Harriet in London to settle any doubts about the legality of their Edinburgh wedding and secure the rights of their child. Nevertheless, the Shelleys lived apart for most of the following months, and Shelley reflected bitterly on: "my rash & heartless union with Harriet".<ref>Bieri, James (2008), pp 269–70</ref>
+
+[[File:Mary Wollstonecraft Shelley Rothwell.tif|left|thumb|alt=Half-length portrait of a woman wearing a black dress sitting on a red sofa. Her dress is off the shoulder, exposing her shoulders. The brush strokes are broad.|[[Richard Rothwell]]'s portrait of Mary Shelley in later life was shown at the [[Royal Academy]] in 1840, accompanied by lines from Percy Shelley's poem ''[[The Revolt of Islam]]'' calling her a "child of love and light".<ref>Seymour, p. 458.</ref>]]
+
+===Elopement with Mary Godwin===
+In May, Shelley began visiting his mentor Godwin almost daily, and soon fell in love with [[Mary Shelley|Mary]], the sixteen-year-old daughter of Godwin and the late feminist author [[Mary Wollstonecraft]]. Shelley and Mary declared their love for each other during a visit to her mother's grave in the churchyard of [[St Pancras Old Church]] on 26 June. When Shelley told Godwin that he intended to leave Harriet and live with Mary, his mentor banished him from the house and forbade Mary from seeing him. Shelley and Mary eloped to Europe on 28 July, taking Mary's step-sister Claire Clairmont with them. Before leaving, Shelley had secured a loan of £3,000 but had left most of the funds at the disposal of Godwin and Harriet, who was now pregnant. The financial arrangement with Godwin led to rumours that he had sold his daughters to Shelley.<ref>Bieri, James (2008), pp 273–84, 292</ref>
+
+Shelley, Mary and Claire made their way across war-ravaged France where Shelley wrote to Harriet, asking her to meet them in Switzerland with the money he had left for her. Hearing nothing from Harriet in Switzerland, and unable to secure sufficient funds or suitable accommodation, the three travelled to Germany and Holland before returning to England on 13 September.<ref>Bieri, James (2008), 285–292</ref>
+
+Shelley spent the next few months trying to raise loans and avoid bailiffs. Mary was pregnant, lonely, depressed and ill. Her mood was not improved when she heard that on 30 November Harriet had given birth to Charles Bysshe Shelley, heir to the Shelley fortune and baronetcy.<ref>Bieri, James, (2008), pp 293–300</ref> This was followed in early January by news that Shelley's grandfather, Sir Bysshe, had died leaving an estate worth £220,000. However, the settlement of the estate, and a financial settlement between Shelley and his father (now Sir Timothy), wasn't concluded until April the following year.<ref>Bieri, James (2008), pp 300–02, 328–9</ref>  [[File:HistorySixWeeksTourMap.png|thumb|Routes of the 1814 and 1816 Continental tours]]
+In February 1815, Mary gave premature birth to a baby girl who died ten days later, deepening her depression. In the following weeks, Mary became close to Hogg who temporarily moved into the household. Shelley was almost certainly having a sexual relationship with Claire at this time, and it is possible that Mary, with Shelley's encouragement, was also having a sexual relationship with Hogg. In May, Claire left the household at Mary's insistence, to reside in Lynmouth.<ref>Bieri, James, (2008), pp 305–9</ref>
+
+In August Shelley and Mary moved to Bishopsgate where Shelley worked on ''[[Alastor, or The Spirit of Solitude|Alastor]]'', a long poem in blank verse based on the myth of [[Narcissus (mythology)|Narcissus]] and [[Echo (mythology)|Echo]]. ''Alastor'' was published in an edition of 250 in early 1816 to poor sales and largely unfavourable reviews from the conservative press.<ref>Holmes, Richard (1974) pp 308–10</ref><ref>Bieri, James (2008), pp 321–3</ref>
+
+On 24 January 1816, Mary gave birth to William Shelley. Shelley was delighted to have another son, but was suffering from the strain of prolonged financial negotiations with his father, Harriet and William Godwin. Shelley showed signs of delusional behaviour and was contemplating an escape to the continent.<ref>Bieri, James (2008), pp 322–4</ref>
+
+===Byron===
+Claire initiated a sexual relationship with [[Lord Byron]] in April, just before his self-exile on the continent, and then arranged for Byron to meet Shelley, Mary and her in Geneva.<ref>Bieri, James (2008), pp 324–8</ref> Shelley admired Byron's poetry and had sent him ''Queen Mab'' and other poems. Shelley's party arrived in Geneva in May and rented a house close to [[Villa Diodati]], on the shores of Lake Geneva, where Byron was staying. There Shelley, Byron and the others engaged in discussions about literature, science and "various philosophical doctrines". One night, while Byron was reciting Coleridge's ''[[Christabel (poem)|Christabel]]'', Shelley suffered a severe panic attack with hallucinations. The previous night Mary had had a more productive vision or nightmare which inspired her novel ''Frankenstein''.<ref>Bieri, James (2008), pp 331–6</ref>
+
+Shelley and Byron then took a boating tour around Lake Geneva, which inspired Shelley to write his "[[Hymn to Intellectual Beauty]]", his first substantial poem since ''Alastor''.<ref>Bieri, James (2008), pp 336–41</ref> A tour of [[Chamonix]] in the French Alps inspired "[[Mont Blanc (poem)|Mont Blanc]]", which has been described as an atheistic response to Coleridge's "Hymn before Sunrise in the Vale of Chamoni".<ref>Holmes, Richard (1974), p 340</ref> During this tour, Shelley often signed guest books with a declaration that he was an atheist. These declarations were seen by other British tourists, including Southey, which hardened attitudes against Shelley back home.<ref>Bieri, James (2008), pp 342–3</ref>
+
+Relations between Byron and Shelley's party became strained when Byron was told that Claire was pregnant with his child. Shelley, Mary, and Claire left Switzerland in late August, with arrangements for the expected baby still unclear, although Shelley made provision for Claire and the baby in his will.<ref>Bieri, James (2008), pp 338, 345–6</ref> In January 1817 Claire gave birth to a daughter by Byron who she named Alba, but later renamed Allegra in accordance with Byron's wishes.<ref>Holmes, Richard (1974), pp 356, 412</ref>
+
+===Marriage to Mary Godwin===
+{{Quote box
+| quote = <poem>
+'''Ozymandias'''
+
+I met a traveller from an antique land,
+Who said—"Two vast and trunkless legs of stone
+Stand in the desart....Near them, on the sand,
+Half sunk a shattered visage lies, whose frown,
+And wrinkled lip, and sneer of cold command,
+Tell that its sculptor well those passions read
+Which yet survive, stamped on these lifeless things,
+The hand that mocked them, and the heart that fed;
+And on the pedestal, these words appear:
+My name is Ozymandias, King of Kings;
+Look on my Works, ye Mighty, and despair!
+Nothing beside remains. Round the decay
+Of that colossal Wreck, boundless and bare
+The lone and level sands stretch far away."
+
+</poem>
+| source = Percy Bysshe Shelley, 1818
+| align = right
+| bgcolor = #FFFFF0
+| quoted = 
+| salign = right
+}}Shelley and Mary returned to England in September 1816, and in early October they heard that Mary's half-sister [[Fanny Imlay]] had killed herself. Godwin believed that Fanny had been in love with Shelley, and Shelley himself suffered depression and guilt over her death, writing: "Friend had I known thy secret grief / Should we had parted so."<ref>Holmes, Richard (1974), p 347</ref><ref>{{Cite book|last=Bieri|first=James|title=Percy Bysshe Shelley: A Biography: Exile of Unfulfilled Renown, 1816–1822 |url=https://www.google.co.uk/books/edition/Percy_Bysshe_Shelley/TPfPWaPD-CcC |publisher=University of Delaware Press|year=2005|isbn=0-87413-893-0|location=Newark|pages=15–16}}</ref> Further tragedy followed in December when Shelley's estranged wife Harriet drowned herself in the [[The Serpentine|Serpentine]].<ref>"On Tuesday a respectable female, far advanced in pregnancy, was taken out of the Serpentine river...A want of honour in her own conduct is supposed to have led to this fatal catastrophe, her husband being abroad." ''The Times''(London), Thursday 12 December 1816, p.2</ref> Harriet, pregnant and living alone at the time, believed that she had been abandoned by her new lover. In her suicide letter she asked Shelley to take custody of their son Charles but to leave their daughter in her sister Eliza's care.<ref>Bieri, James (2005), pp 21–24</ref>
+
+Shelley married Mary Godwin on 30 December, despite his philosophical objections to the institution. The marriage was intended to help secure Shelley's custody of his children by Harriet and to placate Godwin who had refused to see Shelley and Mary because of their previous adulterous relationship.<ref>Holmes, Richard (1974), p 355-56</ref><ref>Bieri, James, (2005), pp 25–27</ref> After a prolonged legal battle, the [[Court of Chancery]] eventually awarded custody of Shelley and Harriet's children to foster parents, on the grounds that Shelley had abandoned his first wife for Mary without cause and was an atheist.<ref name="ucla-law-">{{Cite web |title=Parent-Child Speech and Child Custody Speech Restrictions |url=http://www2.law.ucla.edu/volokh/custody.pdf |last=Volokh |first=Eugene |website=UCLA |access-date=9 November 2015}}</ref><ref>For details of Harriet's suicide and Shelley's remarriage see Bieri (2008), pp. 360–69.</ref>
+
+In March 1817 the Shelleys moved to the village of [[Marlow, Buckinghamshire]], where Shelley's friend [[Thomas Love Peacock]] lived. The Shelley household included Claire and her baby Allegra, both of whose presence was resented by Mary.<ref>Holmes, Richard, (1974) p 369</ref><ref name=":1">Bieri, James, (2005), pp 41–42</ref> Shelley's generosity with money and increasing debts also led to financial and marital stress, as did Godwin's frequent requests for financial help.<ref name=":1" /><ref>Holmes, Richard (1974), p 411</ref>
+
+On 2 September Mary gave birth to a daughter, Clara Everina Shelley. Soon after, Shelley left for London with Claire, which increased Mary's resentment towards her step-sister.<ref>Holmes, Richard (1974), pp 376–77</ref><ref>Bieri, James (2005), pp 42–44</ref> Shelley was arrested for two days in London over money he owed, and attorneys visited Mary in Marlowe over Shelley's debts.<ref>Bieri, James (2005), p44</ref>
+
+Shelley took part in the literary and political circle that surrounded [[Leigh Hunt]], and during this period he met [[William Hazlitt]] and [[John Keats]]. Shelley's major work during this time was ''[[Laon and Cythna]]'', a long narrative poem featuring incest and attacks on religion. It was hastily withdrawn after publication due to fears of prosecution for religious libel, and was re-edited and reissued as ''[[The Revolt of Islam]]'' in January 1818.<ref>Bieri, James, (2005), pp 48–54</ref> Shelley also published two political tracts under a pseudonym: ''A Proposal for putting Reform to the Vote throughout the Kingdom'' (March 1817) and ''An Address to the People on the Death of Princess Charlotte'' (November 1817).<ref>Bieri, James, (2005) pp 35–37, 45–46</ref> In December he wrote "Ozymandias", which is considered to be one of his finest sonnets, as part of a competition with friend and fellow poet [[Horace Smith (poet)|Horace Smith]].<ref>Holmes, Richard, (1974), p 410</ref><ref>Bieri, James, (2005), p 55</ref>
+
+===Italy===
+[[File:Joseph Severn - Posthumous Portrait of Shelley Writing Prometheus Unbound 1845.jpg|thumb|left|''Posthumous Portrait of Shelley Writing'' [[Prometheus Unbound (Shelley)|Prometheus Unbound]] ''in Italy'' – painting by [[Joseph Severn]], 1845]]
+
+On 12 March 1818 the Shelleys and Claire left England to escape its "tyranny civil and religious". A doctor had also recommended that Shelley go to Italy for his chronic lung complaint, and Shelley had arranged to take Claire's daughter, Allegra, to her father Byron who was now in Venice.<ref>Bieri, James (2005) pp 40–43</ref>
+
+After travelling some months through France and Italy, Shelley left Mary and baby Clara at [[Bagni di Lucca]] (in today's Tuscany) while he travelled with Claire to Venice to see Byron and make arrangements for visiting Allegra. Byron invited the Shelleys to stay at his summer residence at [[Este, Veneto|Este]], and Shelley urged Mary to meet him there. Clara became seriously ill on the journey and died on 24 September in Venice.<ref>Bieri, James (2005) pp 77–80</ref> Following Clara's death, Mary fell into a long period of depression and emotional estrangement from Shelley.<ref>Holmes, Richard (1974) pp 446–47</ref><ref>Bieri, James (2005) p 80</ref>
+
+{{anchor|dejection}}The Shelleys moved to Naples on 1 December, where they stayed for three months. During this period Shelley was ill, depressed and almost suicidal: a state of mind reflected in his poem "Stanzas written in Dejection – December 1818, Near Naples".<ref>Bieri, James (2005) pp 112–14.</ref>
+
+While in Naples, Shelley registered the birth and baptism of a baby girl, Elena Adelaide Shelley (born 27 December), naming himself as the father and falsely naming Mary as the mother. The parentage of Elena has never been conclusively established. Biographers have variously speculated that she was adopted by Shelley to console Mary for the loss of Clara, that she was Shelley's child to Claire, that she was his child to his servant Elise Foggi, or that she was the child of a "mysterious lady" who had followed Shelley to the continent.<ref>Bieri, James (2008), pp 439–45</ref> Shelley registered the birth and baptism on 27 February 1819, and the household left Naples for Rome the following day, leaving Elena with carers.<ref>Bieri, James (2005) p 115</ref> Elena was to die in a poor suburb of Naples on 9 June 1820.<ref>Holmes, Richard (1974) pp 465–66</ref><ref>Bieri, James (2005) pp 106–7</ref>
+
+In Rome, Shelley was in poor health, probably suffering from nephritis and tuberculosis which later was in remission.<ref>Bieri, James (2005) p 119</ref> Nevertheless, he made significant progress on three major works: ''[[Julian and Maddalo]]'', ''[[Prometheus Unbound (Shelley)|Prometheus Unbound]]'' and ''[[The Cenci]]''.<ref>Bieri, James (2005) p 125</ref> ''Julian and Maddalo'' is an autobiographical poem which explores the relationship between Shelley and Byron and analyses Shelley's personal crises of 1818 and 1819. The poem was completed in the summer of 1819, but was not published in Shelley's lifetime.<ref>Bieri, James (2005) pp 76–77, 84–87</ref> ''Prometheus Unbound'' is a long dramatic poem inspired by Aeschylus's retelling of the Prometheus myth. It was completed in late 1819 and published in 1820.<ref>Bieri, James (2005) pp 125–32, 400</ref> ''The Cenci'' is a verse drama of rape, murder and incest based on the story of the Renaissance Count Cenci of Rome and his daughter Beatrice. Shelley completed the play in September and the first edition was published that year. It was to become one of his most popular works and the only one to have two authorised editions in his lifetime.<ref>Bieri, James (2005) pp 133–42</ref>
+
+Shelley's three-year-old son William died in June, probably of malaria. The new tragedy caused a further decline in Shelley's health and deepened Mary's depression. On 4 August she wrote: "We have now lived five years together; and if all the events of the five years were blotted out, I might be happy".<ref>Bieri, James (2005) pp 123–25</ref><ref>Holmes, Richard (1974) pp 519, 526</ref>{{Quote box
+| quote = <poem>
+
+Make me thy lyre, even as the forest is:
+What if my leaves are falling like its own!
+The tumult of thy mighty harmonies
+
+Will take from both a deep, autumnal tone,
+Sweet though in sadness. Be though, Spirit fierce,
+My spirit! Be thou me, impetuous one!
+
+Drive my dead thoughts over the universe
+Like withered leaves to quicken a new birth!
+And, by the incantation of this verse,
+
+Scatter, as from unextinguished hearth
+Ashes and sparks, my words among mankind!
+Be through my lips to unawakened Earth
+
+The trumpet of a prophecy! O Wind,
+If Winter comes, can Spring be far behind?
+
+</poem>
+| source = From "Ode to the West Wind", 1819<br />
+| align = right
+| bgcolor = #FFFFF0
+| quoted = 
+| salign = right
+}}The Shelleys were now living in [[Livorno]] where, in September, Shelley heard of the [[Peterloo Massacre]] of peaceful protesters in Manchester. Within two weeks he had completed one of his most famous political poems, ''[[The Masque of Anarchy|The Mask of Anarchy]]'', and despatched it to Leigh Hunt for publication. Hunt, however, decided not to publish it for fear of prosecution for seditious libel. The poem was only officially published in 1832.<ref>Holmes, Richard (1974) pp 529–41</ref>
+
+The Shelleys moved to Florence in October, where Shelley read a scathing review of the ''Revolt of Islam'' (and its earlier version ''Laon and Cythna'') in the conservative ''Quarterly Review''. Shelley was angered by the personal attack on him in the article which he erroneously believed had been written by Southey. His bitterness over the review lasted for the rest of his life.<ref>Bieri, James (2005) pp 162–64</ref>
+
+On 12 November, Mary gave birth to a boy, [[Percy Florence Shelley]].<ref>Holmes, Richard (1974) p 560</ref><ref>Bieri, James (2005) pp 352–54</ref> Around the time of Percy's birth, the Shelleys met [[Sophia Stacey]], who was a ward of one of Shelley's uncles and was staying at the same pension as the Shelleys. Sophia, a talented harpist and singer, formed a friendship with Shelley while Mary was preoccupied with her newborn son. Shelley wrote at least five love poems and fragments for Sophia including "Song written for an Indian Air".<ref>Holmes, Richard (1974) pp 564–68</ref><ref>Bieri, James (2005) pp 170–77</ref>
+
+The Shelleys moved to Pisa in January 1820, ostensibly to consult a doctor who had been recommended to them. There they became friends with the Irish republican Margaret Mason ([[Margaret King|Lady Margaret Mountcashell]]) and her common-law husband [[George William Tighe]]. Mrs Mason became the inspiration for Shelley's poem "The Sensitive Plant", and Shelley's discussions with Mason and Tighe influenced his political thought and his critical interest in the population theories of [[Thomas Robert Malthus|Thomas Malthus]].<ref>Bieri, James (2005). pp. 188–89.</ref><ref>Holmes, Richard (1974). pp. 575–76</ref>
+
+In March Shelley wrote to friends that Mary was depressed, suicidal and hostile towards him. Shelley was also beset by financial worries, as creditors from England pressed him for payment and he was obliged to make secret payments in connection with his "Neapolitan charge" Elena.<ref>Bieri, James (2005) pp 182–88</ref>
+
+Meanwhile, Shelley was writing ''[[A Philosophical View of Reform]]'', a political essay which he had begun in Rome. The unfinished essay, which remained unpublished in Shelley's lifetime, has been called "one of the most advanced and sophisticated documents of political philosophy in the nineteenth century".<ref>Bieri, James (2005) pp 177–80</ref>
+
+Another crisis erupted in June when Shelley claimed that he had been assaulted in the Pisan post office by a man accusing him of foul crimes. Shelley's biographer [[James Bieri]] suggests that this incident was possibly a delusional episode brought on by extreme stress, as Shelley was being blackmailed by a former servant, Paolo Foggi, over baby Elena.<ref>Bieri, James (2005) 191-93</ref> It is likely that the blackmail was connected with a story spread by another former servant, Elise Foggi, that Shelley had fathered a child to Claire in Naples and had sent it to a foundling home.<ref>Bieri, James (2005) pp 246–47, 252</ref><ref>Holmes, Richard (1974) pp 467–68</ref> Shelley, Claire and Mary denied this story, and Elise later recanted.<ref>Bieri, James (2005) pp 247–49, 292</ref><ref>Holmes, Richard (1974) p 473</ref>
+
+In July, hearing that John Keats was seriously ill in England, Shelley wrote to the poet inviting him to stay with him at Pisa. Keats replied with hopes of seeing him, but instead, arrangements were made for Keats to travel to Rome.<ref>Bieri, James (2005) pp 199–201</ref> Following the death of Keats in 1821, Shelley wrote ''[[Adonais]]'', which [[Harold Bloom]] considers one of the major pastoral elegies.<ref>Bloom, Harold (2004), p 419</ref> The poem was published in Pisa in July 1821, but sold few copies.<ref>Bieri, James (2005) pp 238, 242</ref>
+
+In early July 1820, Shelley heard that baby Elena had died on 9 June. In the months following the post office incident and Elena's death, relations between Mary and Claire deteriorated and Claire spent most of the next two years living separately from the Shelleys, mainly in Florence.<ref>Holmes, Richard (2005) pp 596–601</ref>
+
+That December Shelley met Teresa (Emilia) Viviani, who was the 19-year-old daughter of the Governor of Pisa and was living in a convent awaiting a suitable marriage.<ref>Bieri, James (2005) pp 214–15</ref> Shelley visited her several times over the next few months and they started a passionate correspondence which dwindled after her marriage the following September. Emilia was the inspiration for Shelley's major poem ''[[Epipsychidion]]''.<ref>Bieri, James (2005) pp 220–23</ref>
+
+In March 1821 Shelley completed "[[A Defence of Poetry]]", a response to Peacock's article "[[The Four Ages of Poetry]]". Shelley's essay, with its famous conclusion "Poets are the unacknowledged legislators of the world", remained unpublished in his lifetime.<ref>Bieri, James (2005) pp 231–33</ref>
+
+Shelley went alone to Ravenna in early August to see Byron, making a detour to Livorno for a rendezvous with Claire. Shelley stayed with Byron for two weeks and invited the older poet to spend the winter in Pisa. After Shelley heard Byron read his newly completed fifth canto of ''[[Don Juan (poem)|Don Juan]]'' he wrote to Mary: "I despair of rivalling Byron."<ref>Bieri, James (2005) pp 244–51</ref>
+
+In November Byron moved into Villa Lanfranchi in Pisa, just across the river from the Shelleys. Byron became the centre of the "Pisan circle" which was to include Shelley, Thomas Medwin, [[Edward Ellerker Williams|Edward Williams]] and [[Edward John Trelawny|Edward Trelawny]].<ref>Bieri, James (2005) p 269 and Chs 14, 15 ''passim''.</ref>
+
+In the early months of 1822 Shelley became increasingly close to [[Jane Williams]], who was living with her partner Edward Williams in the same building as the Shelleys. Shelley wrote a number of love poems for Jane, including "The Serpent is shut out of Paradise" and "With a Guitar, to Jane". Shelley's obvious affection for Jane was to cause increasing tension between Shelley, Edward Williams and Mary.<ref>Bieri, James (2005) pp 280–85, 297</ref>
+
+Claire arrived in Pisa in April at Shelley's invitation, and soon after they heard that her daughter Allegra had died of typhus in Ravenna. The Shelleys and Claire then moved to Villa Magni, near [[Lerici]] on the shores of the [[Gulf of La Spezia]].<ref>Bieri, James (2005) pp 297–300</ref> Shelley acted as mediator between Claire and Byron over arrangements for the burial of their daughter, and the added strain led to Shelley having a series of hallucinations.<ref>Holmes, Richard (1974) pp 713–15</ref>
+
+Mary almost died from a miscarriage on 16 June, her life only being saved by Shelley's effective first aid. Two days later Shelley wrote to a friend that there was no sympathy between Mary and him and if the past and future could be obliterated he would be content in his boat with Jane and her guitar. That same day he also wrote to Trelawny asking for [[Hydrogen cyanide|prussic acid]].<ref>Bieri, James (2005) pp 307–10</ref> The following week, Shelley woke the household with his screaming over a nightmare or hallucination in which he saw Edward and Jane Williams as walking corpses and himself strangling Mary.<ref>Bieri, James (2005) pp 313–14</ref>
+
+During this time, Shelley was writing his final major poem, the unfinished ''The Triumph of Life'', which Harold Bloom has called "the most despairing poem he wrote".<ref>Bloom, Harold (2004) p 438</ref>
+
+===Death===
+On 1 July, Shelley and Edward Williams sailed in Shelley's new boat the ''Don Juan'' to Livorno where Shelley met Leigh Hunt and Byron in order to make arrangements for a new journal, ''The Liberal''. After the meeting, on 8 July, Shelley, Williams and their boat boy sailed out of Livorno for Lerici. A few hours later, the ''Don Juan'' and its inexperienced crew were lost in a storm.<ref>Bieri, James (2005) pp 319–27</ref> The vessel, an open boat, had been custom-built in [[Genoa]] for Shelley. Mary Shelley declared in her "Note on Poems of 1822" (1839) that the design had a defect and that the boat was never seaworthy. In fact the ''Don Juan'' was overmasted; the sinking was due to a severe storm and poor seamanship of the three men on board.<ref name="prell">"The Sinking of the ''Don Juan''" by [[Donald Prell]], ''Keats–Shelley Journal'', Vol. LVI, 2007, pp. 136–54</ref>
+
+Shelley's badly-decomposed body washed ashore at [[Viareggio]] ten days later and was identified by Trelawny from the clothing and a copy of Keats's ''Lamia''  in a jacket pocket. On 16 August, his body was cremated on a beach near Viareggio and the ashes were buried in the Protestant Cemetery of Rome.<ref>Bieri, James (2005) pp 331–36</ref>
+
+[[File:Louis Edouard Fournier - The Funeral of Shelley - Google Art Project.jpg|thumb|300px|left|''The Funeral of Shelley'' by [[Louis Édouard Fournier]] (1889). Pictured in the centre are, from left, Trelawny, Hunt, and Byron. In fact, Hunt did not observe the cremation, and Byron left early. Mary Shelley, who is pictured kneeling at left, did not attend the funeral.]]
+The day after the news of his death reached England, the [[Tory]] London newspaper ''The Courier'' printed: "Shelley, the writer of some infidel poetry, has been drowned; ''now'' he knows whether there is God or no."<ref>Edmund Blunden, ''Shelley, A Life Story'', Oxford University Press, 1965.</ref><ref>{{Cite web|url=https://www.theguardian.com/books/2004/jan/24/featuresreviews.guardianreview1#:~:text=In%20the%20summer%20of%201822,Spezia%20was%20set%20to%20become|title = Richard Holmes on Shelley's drowning myths|date = 24 January 2004}}</ref>
+
+[[File:Percy Shelley gravestone with clear text.png|thumb|Shelley's gravestone in the [[Protestant Cemetery, Rome|Cimitero Acattolico]] in Rome; phrases from "[[Ariel's Song]]" in [[William Shakespeare|Shakespeare]]'s ''[[The Tempest]]'' appear below]]
+
+Shelley's ashes were reburied in a different plot at the cemetery in 1823. His grave bears the Latin inscription ''Cor Cordium'' (Heart of Hearts), and a few lines of "Ariel's Song" from Shakespeare's ''The Tempest'':<ref>Bieri, James (2005) p 336</ref><blockquote>Nothing of him that doth fade<br/>But doth suffer a sea change<br/>Into something rich and strange.</blockquote>
+
+====Shelley's heart====
+When Shelley's body was cremated on the beach, his "unusually small" heart resisted burning, possibly due to calcification from an earlier tubercular infection. Trelawny gave the scorched heart to Hunt, who preserved it in spirits of wine and refused to hand it over to Mary.<ref>Bieri, James (2005) p. 334–335</ref> He finally relented and the heart was eventually buried either at [[St Peter's Church, Bournemouth]] or in [[Christchurch Priory]].<ref>Bieri, James (2005) p 354</ref><ref>{{Cite book |last=Lee |first=Hermoine |authorlink=Hermione Lee |title=Virginia Woolf's Nose: Essays on biography |publisher=Princeton University Press |year=2007 |isbn=9780691130446 |chapter=Shelley's Heart and Pepys's Lobsters}}</ref><!-- Note: the Christchurch Priory article describes the monument to Shelley, but says nothing about his heart. -->
+
+===Family history===
+Shelley's paternal grandfather was [[Sir Bysshe Shelley, 1st Baronet|Bysshe Shelley]] (21 June 1731 – 6 January 1815), who, in 1806, became Sir Bysshe Shelley, First Baronet of Castle Goring.<ref>Bieri, James (2008) pp 6, 11, 12, 71</ref> On Sir Bysshe's death in 1815, Shelley's father inherited the baronetcy, becoming [[Timothy Shelley|Sir Timothy Shelley]].<ref>Bieri, James (2008), pp 300–301</ref>
+
+Shelley was the eldest of several legitimate children. Bieri argues that Shelley had an older illegitimate brother but, if he existed, little is known of him.<ref>Bieri, James (2008), p 3 and note 2</ref> His younger siblings were: John (1806–1866), Margaret (1801–1887), Hellen (1799–1885), Mary (1797–1884), Hellen (1796–1796, died in infancy) and Elizabeth (1794–1831).<ref>Bieri, James (2008), pp 30, 71–2</ref>
+
+Shelley had two children by his first wife Harriet: Eliza Ianthe Shelley (1813–1876) and Charles Bysshe Shelley (1814–1826).<ref>Bieri, James (2008), pp 258, 299, 625, 672</ref> He had four children by his second wife Mary: an unnamed daughter born in 1815 who only survived ten days; William Shelley (1816–1819); Clara Everina Shelley (1817–1818); and [[Percy Florence Shelley]] (1819–1889).<ref>Bieri, James (2008), pp 304–5, 322, 383, 419, 457, 502 675</ref> Shelley also declared himself to be the father of Elena Adelaide Shelley (1818–1820), who might have been an illegitimate or adopted daughter.<ref>Holmes, Richard (1974), pp 465–6</ref> His son Percy Florence became the Third Baronet of Castle Goring in 1844, following the death of Sir Timothy Shelley.<ref>Bieri, James (2008), p 673</ref>
+
+====Ancestry====
+{{ahnentafel
+|collapsed=no |align=center
+|title=Ancestry of Percy Bysshe Shelley
+| boxstyle_1 = background-color: #fcc;
+| boxstyle_2 = background-color: #fb9;
+| boxstyle_3 = background-color: #ffc;
+| boxstyle_4 = background-color: #bfc;
+| boxstyle_5 = background-color: #9fe;
+| 1 = 1. '''Percy Bysshe Shelley'''
+| 2 = 2. Sir Timothy Shelley, 2nd Baronet of Castle Goring (1753–1844)
+| 3 = 3. Elizabeth Pilford, Lady Shelley (1763–1846)
+| 4 = 4. Sir Bysshe Shelley, 1st Baronet of Castle Goring (1731–1815)
+| 5 = 5. Mary Catherine Michell (1734–1760)
+| 6 = 6. Charles Pilford (1726–1790)
+| 7 = 7. Bathia White (1739–1779)
+| 8 = 8. Sir Timothy Shelley of Fen Place (c. 1700–1770)
+| 9 = 9. Johanna Plume (b. 1704)
+| 10 = 10. Theobald Michell (d. 1737)
+| 11 = 11. Mary Tredcroft (c. 1709–1738)
+| 12 = 12. John Pilford (1680–1745)
+| 13 = 13. Mary Michell (1689–c.1775)
+| 14 = 14. William White (1703–1764)
+| 15 = 15. Bethiah Waller (1703–1764)
+}}
+
+==Political, religious and ethical views==
+
+=== Politics ===
+Shelley was a political radical who was influenced by thinkers such as Rousseau, Paine, Godwin, Wollstonecraft, and Leigh Hunt.<ref>Holmes, Richard (1974), pp 43, 97–8, 153, 350–2</ref> He advocated Catholic Emancipation, republicanism, parliamentary reform, the extension of the franchise, freedom of speech and peaceful assembly, an end to aristocratic and clerical privilege, and a more equal distribution of income and wealth.<ref>Holmes, Richard (1974), 120–2, 556–8, 583–93</ref> The views he expressed in his published works were often more moderate than those he advocated privately, because of the risk of prosecution for seditious libel and his desire not to alienate more moderate friends and political allies.<ref>Holmes, Richard (1974), pp 120–2, 365, 592–3</ref> Nevertheless, his political writings and activism brought him to the attention of the Home Office and he came under government surveillance at various periods.<ref>Bieri, James (2008), pp 198–230</ref>
+
+Shelley's most influential political work in the years immediately following his death was the poem ''Queen Mab'', which included extensive notes on political themes. The work went through 14 official and pirated editions by 1845, and became popular in Owenist and Chartist circles. His longest political essay, ''A Philosophical View of Reform'', was written in 1820, but not published until 1920.<ref>Holmes, Richard (1974), pp 208–10, 592–3</ref>
+
+===Nonviolence===
+Shelley's advocacy of nonviolent resistance was largely based on his reflections on the French Revolution and rise of Napoleon, and his belief that violent protest would increase the prospect of a military despotism.<ref>Holmes, Richard (1974), p 557</ref> Although Shelley sympathised with supporters of Irish independence, such as [[Peter Finnerty]] and [[Robert Emmet]],<ref>{{Cite journal|last=Morgan|first=Alison|date=3 July 2014|title="Let no man write my epitaph": the contributions of Percy Shelley, Thomas Moore and Robert Southey to the memorialisation of Robert Emmet|url=https://doi.org/10.1080/09670882.2014.926124|journal=Irish Studies Review|volume=22|issue=3|pages=285–303|doi=10.1080/09670882.2014.926124|s2cid=170900710|issn=0967-0882}}</ref> he did not support violent rebellion. In his early pamphlet ''An Address, to the Irish People'' (1812) he wrote: "I do not wish to see things changed now, because it cannot be done without violence, and we may assure ourselves that none of us are fit for any change, however good, if we condescend to employ force in a cause we think right."<ref>Holmes, Richard (1974), p 120</ref>
+
+In his later essay ''A Philosophical View of Reform'', Shelley did concede that there were political circumstances in which force might be justified: "The last resort of resistance is undoubtably [''sic''] insurrection. The right of insurrection is derived from the employment of armed force to counteract the will of the nation."<ref>Holmes, Richard (1974), 591</ref> Shelley supported the [[Trienio Liberal|1820 armed rebellion against absolute monarchy in Spain]], and the [[Greek War of Independence|1821 armed Greek uprising against Ottoman rule]].<ref>Bieri, James (2008) pp 528–9, 589</ref>
+
+Shelley's poem "The Mask of Anarchy" (written in 1819, but first published in 1832) has been called "perhaps the first modern statement of the principle of [[nonviolent resistance]]".<ref>{{Cite web|title=Archived copy|url=http://www.morrissociety.org/JWMS/SP94.10.4.Nichols.pdf|url-status=dead|archive-url=https://web.archive.org/web/20110105232938/http://www.morrissociety.org/JWMS/SP94.10.4.Nichols.pdf|archive-date=5 January 2011|access-date=8 March 2010}}</ref> Gandhi was familiar with the poem and it is possible that Shelley had an indirect influence on Gandhi through [[Henry David Thoreau]]'s ''[[Civil Disobedience (Thoreau)|Civil Disobedience]]''.<ref name=":11" />
+
+=== Religion ===
+Shelley was an avowed atheist, who was influenced by the materialist arguments in [[Baron d'Holbach|Holbach]]'s ''[[The System of Nature|Le Système de la nature]]''.<ref>Holmes, Richard (1974), p. 50</ref><ref>Bieri, James (2008), p. 267</ref> His atheism was an important element of his political radicalism as he saw organised religion as inextricably linked to social oppression.<ref>Holmes, Richard (1974), p 76</ref> The overt and implied atheism in many of his works raised a serious risk of prosecution for religious libel. His early pamphlet ''The Necessity of Atheism'' was withdrawn from sale soon after publication following a complaint from a priest. His poem ''Queen Mab'', which includes sustained attacks on the priesthood, Christianity and religion in general, was twice prosecuted by the [[Society for the Suppression of Vice]] in 1821. A number of his other works were edited before publication to reduce the risk of prosecution.<ref>Holmes, Richard (1974), pp. 30, 201, 208–9</ref>
+
+=== Free love ===
+Shelley's advocacy of free love drew heavily on the work of Mary Wollstonecraft and the early work of William Godwin. In his notes to ''Queen Mab'', he wrote: "A system could not well have been devised more studiously hostile to human happiness than marriage." He argued that the children of unhappy marriages "are nursed in a systematic school of ill-humour, violence and falsehood". He believed that the ideal of chastity outside marriage was "a monkish and evangelical superstition" which led to the hypocrisy of prostitution and promiscuity.<ref name=":2">Holmes, Richard (1974), pp 204–8</ref>
+
+Shelley believed that "sexual connection" should be free among those who loved each other and last only as long as their mutual love. Love should also be free and not subject to obedience, jealousy and fear. He denied that free love would lead to promiscuity and the disruption of stable human relationships, arguing that relationships based on love would generally be of long duration and marked by generosity and self-devotion.<ref name=":2" />
+
+When Shelley's friend T. J. Hogg made an unwanted sexual advance to Shelley's first wife Harriet, Shelley forgave him of his "horrible error" and assured him that he was not jealous.<ref>Holmes, Richard (1974), pp 90–92</ref> It is very likely that Shelley encouraged Hogg and Shelley's second wife Mary to have a sexual relationship.<ref>Holmes, Richard (1974), pp 276–83</ref><ref>Bieri, James (2008), pp 302–9</ref>
+
+===Vegetarianism===
+Shelley converted to a vegetable diet in early March 1812 and sustained it, with occasional lapses, for the remainder of his life. Shelley's vegetarianism was influenced by ancient authors such as Hesiod, Pythagoras, Socrates, Plato, Ovid and Plutarch, but more directly by [[John Frank Newton]], author of ''The Return to Nature, or, A Defence of the Vegetable Regimen'' (1811). Shelley wrote two essays on vegetarianism: ''[[A Vindication of Natural Diet]]'' (1813) and "On the Vegetable System of Diet" (written circa 1813–1815, but first published in 1929). William Owen Jones argues that Shelley's advocacy of vegetarianism was strikingly modern, emphasising its health benefits, the alleviation of animal suffering, the inefficient use of agricultural land involved in animal husbandry, and the economic inequality resulting from the commercialisation of animal food production.<ref name=":3">{{Cite journal|last=Jones|first=Michael Owen|date=2016|title=In Pursuit of Percy Shelley, 'The First Celebrity Vegan': An Essay on Meat, Sex, and Broccoli|url=https://www.jstor.org/stable/10.2979/jfolkrese.53.2.01|journal=Journal of Folklore Research|volume=53|issue=2|pages=1–30|doi=10.2979/jfolkrese.53.2.01|jstor=10.2979/jfolkrese.53.2.01|via=JSTOR|s2cid=148558932}}</ref> Shelley's life and works inspired the founding of the [[Vegetarian Society]] in England (1847) and directly influenced the vegetarianism of George Bernard Shaw and perhaps Gandhi.<ref name=":3" /><ref>Hasan, Mahmudul, "The Theme of Indianness in the Works of P B Shelley: A Glimpse into Ancient India." ''Galaxy: An International Multidisciplinary Research Journal'', Vol. 5, Issue 5, 2016. pp. 30–39.</ref>
+
+== Reception and influence ==
+Shelley's work was not widely read in his lifetime outside a small circle of friends, poets and critics. Most of his poetry, drama and fiction was published in editions of 250 copies which generally sold poorly. Only ''The Cenci'' went to an authorised second edition while Shelley was alive<ref>Holmes, Richard (1974), pp 309, 510, 595</ref> – in contrast, Byron's ''The Corsair'' (1814) sold out its first edition of 10,000 copies in one day.<ref name=":6">{{Cite book|last=Ferber|first=Michael|title=The Cambridge Introduction to British Romantic Poetry|publisher=Cambridge University Press|year=2012|isbn=978-0-521-76906-8|location=New York|pages=6–8}}</ref>
+
+The initial reception of Shelley's work in mainstream periodicals (with the exception of the liberal ''Examiner'') was generally unfavourable. Reviewers often launched personal attacks on Shelley's private life and political, social and religious views, even when conceding that his poetry contained beautiful imagery and poetic expression.<ref>Holmes, Richard (1974), pp 210, 309, 402–5, 510, 542–3</ref> There was also criticism of Shelley's intelligibility and style, Hazlitt describing it as "a passionate dream, a straining after impossibilities, a record of fond conjectures, a confused embodying of vague abstraction".<ref>Leader and O'Neill (2003), p. xix</ref>
+
+Shelley's poetry soon gained a wider audience in radical and reformist circles. ''Queen Mab'' became popular with Owenists and Chartists, and ''Revolt of Islam'' influenced poets sympathetic to the workers' movement such as Thomas Hood, Thomas Cooper and William Morris.<ref name=":10">Holmes, Richard (1974), pp 208–10, 402</ref><ref>Some details on this can also be found in William St Clair's ''The Reading Nation in the Romantic Period'' (Cambridge: CUP, 2005) and Richard D. Altick's ''The English Common Reader'' (Ohio: Ohio State University Press, 1998) 2nd. edn.</ref>
+
+However, Shelley's mainstream following did not develop until a generation after his death. Bieri argues that editions of Shelley's poems published in 1824 and 1839 were edited by Mary Shelley to highlight her late husband's lyrical gifts and downplay his radical ideas.<ref>Bieri, James (2008), pp 671–3</ref> Matthew Arnold famously described Shelley as a "beautiful and ineffectual angel".<ref name=":9">{{Cite book|last=Michael O'Neill and Anthony Howe (eds)|title=The Oxford Handbook of Percy Bysshe Shelley|publisher=Oxford University Press|year=2013|isbn=9780199558360|location=Oxford|pages=5}}</ref>
+
+Shelley was a major influence on a number of important poets in the following decades, including Robert Browning, Swinburne, Hardy and Yeats.<ref name=":4">Bloom, Harold (2004), p 410</ref> Shelley-like characters frequently appeared in nineteenth-century literature, such as Scythrop in Peacock's ''Nightmare Abbey'',<ref>Bieri, James (2008), p 466</ref> Ladislaw in George Eliot's ''[[Middlemarch]]'' and Angel Clare in Hardy's ''[[Tess of the d'Urbervilles]]''.<ref>O'Neill and Howe (2013), p 10</ref>
+
+Twentieth-century critics such as [[T. S. Eliot|Eliot]], [[F. R. Leavis|Leavis]], [[Allen Tate]] and [[W. H. Auden|Auden]] variously criticised Shelley's poetry for deficiencies in style, "repellent" ideas, and immaturity of intellect and sensibility.<ref name=":4"/><ref>Leader and O'Neill (2003) p xi</ref><ref name=":5">Howe and O'Neill (2013) pp 3–5</ref> However, Shelley's critical reputation rose from the 1960s as a new generation of critics highlighted Shelley's debt to [[Edmund Spenser|Spenser]] and [[John Milton|Milton]], his mastery of genres and verse forms, and the complex interplay of sceptical, idealist and materialist ideas in his work.<ref name=":5" /> American literary critic [[Harold Bloom]] describes him as "a superb craftsman, a lyric poet without rival, and surely one of the most advanced sceptical intellects ever to write a poem".<ref>{{Cite book|last=Bloom|first=Harold|title=The Best Poems of the English Language, From Chaucer through Frost|publisher=Harper Collins|year=2004|isbn=0-06-054041-9|location=New York|pages=410}}</ref> According to Donald H. Reiman, "Shelley belongs to the great tradition of Western writers that includes Dante, Shakespeare and Milton".<ref>Reiman and Powers (1977) p 544</ref><ref>{{Cite web|title=Percy Shelley|url=https://www.telegraph.co.uk/news/11986893/Percy-Shelley.html|access-date=8 February 2021|website=The Telegraph|language=en-GB}}</ref>
+
+==Legacy==
+[[File:Keats Shelly Museum, Spanish Steps, Rome.JPG|thumb|[[Keats–Shelley Memorial House]], at right with a red sign by the [[Spanish Steps]], Rome]]
+Shelley died leaving many of his works unfinished, unpublished or published in expurgated versions with multiple errors. There have been a number of recent projects aimed at establishing reliable editions of his manuscripts and works. Among the most notable of these are:<ref>Bieri, James (2008), pp 781–5</ref><ref>O'Neill and Howe (2013), pp 4–5</ref>
+
+* Reiman, D. H. (gen ed), ''The Bodleian Shelley Manuscripts'' (23 vols.), New York (1986–2002)
+* Reiman, D. H. (gen ed), ''The Manuscripts of the Younger Romantics: Shelley'' (9 vols., 1985–97)
+* Reiman, D. H. and Fraistat, N., (et al) ''The Complete Poetry of Percy Bysshe Shelley'' (3 vols.), 1999–2012, Baltimore, Johns Hopkins University Press
+* Cameron, K. N. and Reiman, D. H. (eds), ''Shelley and his Circle 1773–1822'', Cambridge, Mass., 1961– (8 vols.)
+* Everest K, Matthews, G. et al (eds), ''The Poems of Shelley, 1804–1821'' (4 vols.), Longman, 1989–2014
+* Murray, E. B. (ed), ''The Prose Works of Percy Bysshe Shelley'', Vol. 1, 1811–1818, Oxford University Press, 1995
+
+Shelley's long-lost "Poetical Essay on the Existing State of Things" (1811) was rediscovered in 2006 and subsequently made available online by the [[Bodleian Library]] in Oxford.<ref>{{Cite web |title=Shelley's Poetical Essay: The Bodleian Libraries' 12 millionth book |url=http://poeticalessay.bodleian.ox.ac.uk/ |date=November 2015 |publisher=Bodleian Library |location=Oxford |access-date=13 November 2015}}</ref>
+
+John Lauritsen<ref name="Lauritsen 2007">{{Cite book |last=John Lauritsen |title=The Man Who Wrote "Frankenstein" |publisher=Pagan Press |year=2007 |isbn=978-0-943742-14-4}}</ref>{{Page needed|date=November 2021}} and Charles E. Robinson<ref>Shelley, Mary (with Shelley, Percy), edited by Robinson, Charles E. (2009). ''The Original Frankenstein: Or, the Modern Prometheus: The Original Two-Volume Novel of 1816–1817 from the Bodleian Library Manuscripts''. New York: Random House. {{ISBN|0307474429}}</ref>{{Page needed|date=November 2021}} have argued that Shelley's contribution to Mary Shelley's novel ''Frankenstein'' was extensive and that he should be considered a collaborator or co-author. Professor Charlotte Gordon and others have disputed this contention.<ref>{{Cite web|title=Percy Bysshe Shelley helped wife Mary write Frankenstein, claims professor|url=https://www.telegraph.co.uk/news/2613444/Percy-Bysshe-Shelley-helped-wife-Mary-write-Frankenstein-claims-professor.html|access-date=8 February 2021|website=The Telegraph|language=en-GB}}</ref> [[Fiona Sampson]] has said: "In recent years Percy's corrections, visible in the ''Frankenstein'' notebooks held at the Bodleian Library in Oxford, have been seized on as evidence that he must have at least co-authored the novel. In fact, when I examined the notebooks myself, I realised that Percy did rather less than any line editor working in publishing today."<ref> [https://www.theguardian.com/books/2018/jan/13/frankenstein-at-200-why-hasnt-mary-shelley-been-given-the-respect-she-deserves-? Frankenstein at 200 – why hasn't Mary Shelley been given the respect she deserves?] The Guardian. 13 January 2018.</ref>
+
+The Keats–Shelley Memorial Association, founded in 1903, supports the Keats–Shelley House in Rome which is a museum and library dedicated to the Romantic writers with a strong connection with Italy. The association is also responsible for maintaining the grave of Percy Bysshe Shelley in the non-Catholic Cemetery at Testaccio. The association publishes the scholarly ''Keats–Shelley Review''. It also runs the annual Keats–Shelley and Young Romantics Writing Prizes and the Keats–Shelley Fellowship.<ref>{{Cite web|title=Keats–Shelley Memorial Association|url=https://keats-shelley.org/|website=Keats–Shelley Memorial Association}}</ref>
+
+== Selected works ==
+Works are listed by estimated year of composition. The year of first publication is given when this is different. Source is Bieri,<ref>Bieri, James (2008), pp 781–3</ref> unless otherwise indicated.
+
+===Poetry, fiction and verse drama===
+{{div col|colwidth=30em}}
+* (1810) ''[[Zastrozzi]]''
+* (1810) ''[[Original Poetry by Victor and Cazire]]'' (collaboration with Elizabeth Shelley)
+* (1810) ''[[Posthumous Fragments of Margaret Nicholson]]: Being Poems Found Amongst the Papers of That Noted Female Who Attempted the Life of the King in 1786''
+* (1810) ''[[St. Irvyne|St. Irvyne; or, The Rosicrucian]]'' (published 1811)
+* (1812) ''[[The Devil's Walk: A Ballad]]''
+* (1813) ''[[Queen Mab (poem)|Queen Mab: A Philosophical Poem]]''
+* (1815) ''[[Alastor, or The Spirit of Solitude]]'' (Published 1816)
+* (1816) ''[[Mont Blanc (poem)|Mont Blanc]]''
+* (1816) ''On Death''
+* (1817) ''[[Hymn to Intellectual Beauty]]'' ([[s:Hymn to Intellectual Beauty|text]])
+* (1817) ''[[Laon and Cythna]]; or, The Revolution of the Golden City: A Vision of the Nineteenth Century'' (published 1818)
+* (1818) ''[[The Revolt of Islam]], A Poem, in Twelve Cantos''
+* (1818) ''[[Ozymandias]]'' ([[s:Ozymandias (Shelley)|text]])
+* (1818) ''[[Rosalind and Helen|Rosalind and Helen: A Modern Eclogue]]'' (published in 1819)
+* (1818) ''Lines Written Among the Euganean Hills, October 1818''
+* (1819) ''[[The Cenci]], A Tragedy, in Five Acts''
+* (1819) ''[[Ode to the West Wind]]'' ([[s:Ode to the West Wind|text]])
+* (1819) ''[[The Mask of Anarchy]]'' (published 1832)
+* (1819) ''[[England in 1819]]''
+* (1819) ''[[Julian and Maddalo]]: A Conversation''
+* (1820) ''Peter Bell the Third'' (published in 1839)
+* (1820) ''[[Prometheus Unbound (Shelley)|Prometheus Unbound]], A Lyrical Drama, in Four Acts''
+* (1820) ''[[To a Skylark]]''
+* (1820) ''[[The Cloud (poem)|The Cloud]]''
+* (1820) ''The Sensitive Plant''<ref>{{Cite web |title=Percy Bysshe Shelley: "The Sensitive Plant" from Andre digte |url=https://kalliope.org/en/text/shelley2003060601 |website=Kalliope |access-date=5 October 2018}}</ref>
+* (1820) '' Oedipus Tyrannus; Or, Swellfoot The Tyrant: A Tragedy in Two Acts''
+* (1820) ''[[The Witch of Atlas]]'' (published in 1824)
+* (1821) ''[[Adonais]]''
+* (1821) ''[[Epipsychidion]]''
+* (1822) ''[[Hellas (poem)|Hellas]], A Lyrical Drama''
+* (1822) ''[[The Triumph of Life]]'' (unfinished, published in 1824)
+{{div col end}}
+
+===Short prose works===
+* "The Assassins, A Fragment of a Romance" (1814)
+* "The Coliseum, A Fragment" (1817)
+* "The Elysian Fields: A Lucianic Fragment" (1818)
+* "Una Favola (A Fable)" (1819, originally in Italian)
+
+===Essays===
+{{div col|colwidth=30em}}
+* [[The Necessity of Atheism]] (with T. J. Hogg) (1811)
+* [[Poetical Essay on the Existing State of Things]] (1811)
+* An Address, to the Irish People (1812)
+* [http://www.panarchy.org/shelley/rights.html Declaration of Rights] (1812)
+* [[A Letter to Lord Ellenborough]] (1812)
+* [[A Vindication of Natural Diet]] (1813)
+* [http://www.ratbags.com/rsoles/comment/shelleydeism.htm A Refutation of Deism] (1814)
+* Speculations on Metaphysics (1814)
+* On the Vegetable System of Diet (1814–1815; published 1929)
+* On a Future State (1815)
+* On The Punishment of Death (1815)
+* Speculations on Morals (1817)
+* On Christianity (incomplete, 1817; published 1859)
+* On Love (1818)
+* On the Literature, the Arts and the Manners of the Athenians (1818)
+* On ''The Symposium'', or Preface to ''The Banquet'' Of Plato (1818)
+* [[On Frankenstein]] (1818; published in 1832)
+* On Life (1819)
+* A Philosophical View of Reform (1819–20, first published 1920)
+* [[A Defence of Poetry]] (1821, published 1840)
+{{div col end}}
+
+===Chapbooks===
+* ''[[Wolfstein (book)|Wolfstein; or, The Mysterious Bandit]]'' (1822)
+* ''Wolfstein, The Murderer; or, The Secrets of a Robber's Cave'' (1830)
+
+=== Translations ===
+
+* The Banquet (or The Symposium) of Plato (1818) (first published in unbowdlerised form 1931) 
+* Ion of Plato (1821)
+
+===Collaborations with Mary Shelley===
+* (1817) ''[[History of a Six Weeks' Tour]]''
+* (1820) ''[[Proserpine (play)|Proserpine]]''
+* (1820) ''[[Midas (Shelley play)|Midas]]''<ref>{{Cite book |last=Pascoe |first=Judith |url=https://archive.org/details/cambridgecompani0000unse_n1c5 |title=''Proserpine'' and ''Midas'' |work=The Cambridge Companion to Mary Shelley |publisher=Cambridge University Press |year=2003 |isbn=0-521-00770-4 |editor-last=Esther Schor |editor-link=Esther Schor |location=Cambridge |url-access=registration}}.</ref>
+
+==See also==
+{{Portal|Biography|Poetry}}
+* [[List of peace activists]]
+* [[:Image:Wollstonecraft tree.svg|Godwin–Shelley family tree]]
+* [[Rising Universe]]{{snd}}A water sculpture celebrating the life of Shelley near his birthplace in Horsham, Sussex
+
+==References==
+'''Notes'''
+{{Reflist|20em}}
+
+'''Bibliography'''
+{{refbegin|30em}}
+* [[Edmund Blunden]], ''Shelley: A Life Story'', [[Viking Press]], 1947.
+* [[James Bieri]], ''Percy Bysshe Shelley: A Biography'', [[Johns Hopkins University Press]], 2008, {{ISBN|0-8018-8861-1|}}.
+* [[Richard Altick|Altick, Richard D.]], ''The English Common Reader''. Ohio: [[Ohio State University Press]], 1998.
+* Cameron, Kenneth Neill. ''The Young Shelley: Genesis of a Radical''. First Collier Books ed. New York: Collier Books, 1962, cop. 1950.
+* Edward Chaney. 'Egypt in England and America: The Cultural Memorials of Religion, Royalty and Religion', ''Sites of Exchange: European Crossroads and Faultlines'', eds. M. Ascari and A. Corrado. Amsterdam and New York: Rodopi, 2006, pp.&nbsp;39–69.
+* Holmes, Richard. ''Shelley: The Pursuit.'' New York: E.P. Dutton, 1975.
+* Meaker, M.J. ''Sudden Endings, 12 Profiles in Depth of Famous Suicides'', Garden City, New York, Doubleday, 1964 pp.&nbsp;67–93: "The Deserted Wife: Harriet Westbrook Shelley".
+* Maurois, André, ''Ariel ou la vie de Shelley'', Paris, Bernard Grasset, 1923
+* [[William St Clair|St Clair, William]]. ''The Godwins and the Shelleys: A Biography of a Family''. London: [[Faber and Faber]], 1990.
+* [[William St Clair|St Clair, William]]. ''The Reading Nation in the Romantic Period.'' Cambridge: [[Cambridge University Press]], 2005.
+* Hay, Daisy. ''Young Romantics: the Shelleys, [[Byron]], and Other Tangled Lives'', [[Bloomsbury Publishing|Bloomsbury]], 2010.
+* Everest K, Matthews, G. et al (eds), The Poems of Shelley, 1804–1821, (4 vols), Longman, 1989–2014
+* Murray, E, B. (ed), The Prose Works of Percy Bysshe Shelley, Vol 1, 1811–1818, Oxford University Press, 1995
+* Reiman, D. H. and Fraistat, N., (et al) "The Complete Poetry of Percy Bysshe Shelley," (3 vols) 1999–2012, Baltimore, Johns Hopkins University Press
+* Shelley, Mary, with Percy Shelley. ''The Original Frankenstein''. Edited with an Introduction by Charles E. Robinson. NY: Random House Vintage Classics, 2008. {{ISBN|978-0-307-47442-1|}}
+{{refend}}
+
+==External links==
+{{Library resources box}}
+{{sister project links|b=no|n=no|v=no|wikt=no|author=yes|d=Q93343}}
+* {{Gutenberg author|id=1529|name=Percy Bysshe Shelley}}
+* {{Internet Archive author |sname=Percy Bysshe Shelley}}
+* {{Librivox author |id=216}}
+* {{gutenberg|no=4555|name=Percy Bysshe Shelley by John Addington Symonds}}
+* [http://terpconnect.umd.edu/~djb/shelley/etexts.html Percy Bysshe Shelley Resources]
+* [https://www.poets.org/poetsorg/poet/percy-bysshe-shelley Percy Bysshe Shelley: Profile and Poems at Poets.org]
+* [http://www.poetseers.org/the_romantics/percy_bysshe_shelley/shelleys_poems Selected Poems of Shelley]
+* [http://www.nypl.org/archives/3344 A Guide to the Percy Bysshe Shelley Manuscript Material in the Pforzheimer Collection]
+* A talk on Shelley's politics (MP3) by Paul Foot: [https://web.archive.org/web/20050504053804/http://mp3.lpi.org.uk/footshelleya.mp3 part 1], *[https://web.archive.org/web/20050504053828/http://mp3.lpi.org.uk/footshelleyb.mp3 part 2]
+* [http://www.stirnet.com/HTML/genie/british/ss4as/shelley01.htm A pedigree of the Shelley family]
+* [http://paganpressbooks.com/jpl/ION.HTM Plato's Ion, the Shelley translation]
+* [http://www.online-literature.com/shelley_percy/complete-works-of-shelley/ The Complete Poetical Works of Percy Bysshe Shelley]
+* {{UK National Archives ID}}
+* {{NPG name}}
+* [http://shelleysghost.bodleian.ox.ac.uk/ Online exhibition of Shelley's notebooks, objects, letters and drafts] alongside artefacts of [[Mary Wollstonecraft]], [[Mary Shelley]] and [[William Godwin]]
+* [http://www.bl.uk/people/percy-bysshe-shelley Percy Bysshe Shelley] at the British Library
+*Walter Edwin Peck papers (MS 390). Manuscripts and Archives, Yale University Library.[http://hdl.handle.net/10079/fa/mssa.ms.0390]
+* [https://iiif.dl.itc.u-tokyo.ac.jp/repo/s/shelly/page/home Fragment of an Address to the Jews] – General Library, University of Tokyo 
+
+
+{{Percy Bysshe Shelley}}
+{{Mary Shelley}}
+{{Mary Wollstonecraft}}
+{{Romanticism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Shelley, Percy Bysshe}}
+[[Category:Percy Bysshe Shelley| ]]
+[[Category:1792 births]]
+[[Category:1822 deaths]]
+[[Category:Critics of deism]]
+[[Category:18th-century English people]]
+[[Category:19th-century British novelists]]
+[[Category:19th-century British dramatists and playwrights]]
+[[Category:19th-century English poets]]
+[[Category:19th-century English non-fiction writers]]
+[[Category:19th-century British translators]]
+[[Category:19th-century male writers]]
+[[Category:19th-century essayists]]
+[[Category:19th-century atheists]]
+[[Category:Accidental deaths in Italy]]
+[[Category:Anti-monarchists]]
+[[Category:Alumni of University College, Oxford]]
+[[Category:British atheism activists]]
+[[Category:Boating accident deaths]]
+[[Category:Burials in the Protestant Cemetery, Rome]]
+[[Category:English expatriates in Italy]]
+[[Category:English anarchists]]
+[[Category:English atheists]]
+[[Category:English essayists]]
+[[Category:English male novelists]]
+[[Category:English humanists]]
+[[Category:English translators]]
+[[Category:Epic poets]]
+[[Category:Godwin family]]
+[[Category:Heirs apparent who never acceded]]
+[[Category:British male dramatists and playwrights]]
+[[Category:Male essayists]]
+[[Category:British male poets]]
+[[Category:British republicans]]
+[[Category:Left-wing politics in the United Kingdom]]
+[[Category:Liberalism in the United Kingdom]]
+[[Category:Nonviolence advocates]]
+[[Category:People educated at Eton College]]
+[[Category:People from Horsham]]
+[[Category:Persecution of atheists]]
+[[Category:Romantic poets]]
+[[Category:Secular humanists]]
+[[Category:Sonneteers]]
+[[Category:Vegetarianism activists]]
+[[Category:Writers of Gothic fiction]]
+[[Category:Writers from Sussex]]
+[[Category:Shelley family]]

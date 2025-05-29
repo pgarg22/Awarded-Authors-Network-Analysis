@@ -1,0 +1,254 @@
+{{Short description|Scottish-Irish poet (1825–1902) regarded as comically inept}}
+{{for|the American captain|William McGonagle}}
+{{Use British English|date=February 2012}}
+{{Use dmy dates|date=January 2021}}
+{{Infobox writer
+| name        = William Topaz McGonagall
+| image       = William McGonagall.jpg
+| alt         = 
+| caption     = 
+| birth_date  = March 1825<ref name=summary/>
+| birth_place = Either [[Ireland]] or [[Edinburgh]], Scotland
+| death_date  = {{death date and age |1902|9|29|1825|3|df=yes}}
+| death_place = Greyfriars Parish, Edinburgh
+| language    = English
+| other_names = 
+| genre       = Poetry
+| occupation  = [[Weaving|Weaver]], actor, poet
+| spouse      = Jean King
+| children    = 7
+| signature   = William McGonagall signature.svg
+}}
+'''William Topaz McGonagall''' (March 1825<ref name=campbell>{{cite book|last1=Campbell|first1=Donald|title=Edinburgh: a Cultural and Literary History|date=2003|publisher=Signal Books|location=Oxford|isbn=1-902669-73-8|pages=[https://archive.org/details/edinburghcultura0000camp/page/65 65]–66|url=https://archive.org/details/edinburghcultura0000camp|url-access=registration}}</ref> – 29 September 1902) was a Scottish poet of Irish descent. He won notoriety as an [[poetaster|extremely bad poet]] who exhibited no recognition of, or concern for, his peers' opinions of his work.
+
+He wrote about 200 poems, including "[[The Tay Bridge Disaster]]" and "[[The Famous Tay Whale]]", which are widely regarded as some of the worst in English literature. Groups throughout Scotland engaged him to make [[poetry reading|recitation]]s from his work, and contemporary descriptions of these performances indicate that many listeners were appreciating McGonagall's skill as a comic [[music hall]] character. Collections of his verse remain popular, with several volumes available today.
+
+McGonagall has been lampooned as the worst poet in British history. The chief criticisms are that he was deaf to poetic [[metaphor]] and unable to [[scansion|scan]] correctly. His only apparent understanding of poetry was his belief that it needed to rhyme. McGonagall's fame stems from the humorous effects these shortcomings are considered to generate in his work. Scholars argue that his inappropriate rhythms, weak vocabulary, and ill-advised [[imagery (literature)|imagery]] combine to make his work amongst the most unintentionally amusing dramatic poetry in the English language. His work is in a long tradition of narrative ballads and verse written and published about great events and tragedies, and widely circulated among the local population as [[handbill]]s. In an age before radio and television, their voice was one way of communicating important news to an avid public.
+
+==Origins and early life==
+William McGonagall's parents, Charles and Margaret, were Irish. His Irish surname is a variation on ''Mag Congail'', a popular name in [[County Donegal]].<ref>{{Cite web|url=https://www.sloinne.ie/surname/ga/mag-congail/|title=Sloinne|website=sloinne.ie|access-date=3 January 2020|archive-url=https://web.archive.org/web/20200103204418/https://www.sloinne.ie/surname/ga/mag-congail/|archive-date=3 January 2020|url-status=dead}}</ref><ref>{{Cite web|url=https://www.libraryireland.com/names/macc/mac-congail-mac-congaile.php|title=Mac Congail - Irish Names and Surnames|website=libraryireland.com}}</ref> Throughout his adult life he claimed to have been born in [[Edinburgh]], giving his year of birth variously as 1825<ref name=summary>{{cite web|last1=McGonagall|first1=William|title=A Summary History of Poet McGonagall|date=1878|url=http://www.mcgonagall-online.org.uk/life/a-summary-history-of-poet-mcgonagall|archive-url=https://web.archive.org/web/20190927221929/http://www.mcgonagall-online.org.uk/life/a-summary-history-of-poet-mcgonagall|url-status=dead|archive-date=2019-09-27}}</ref> or 1830,<ref name=brief>{{cite web|last1=McGonagall|first1=William|title=Brief Autobiography|date=1890|url=http://www.mcgonagall-online.org.uk/life/brief-autobiography|archive-url=https://web.archive.org/web/20190927221929/http://www.mcgonagall-online.org.uk/life/brief-autobiography|url-status=dead|archive-date=2019-09-27}}</ref> but his entry in the [[United Kingdom Census 1841|1841 Census]] gives his place of birth, like his parents', as "Ireland".<ref name=census>{{cite web|title=McGonagall in the Census|url=http://www.mcgonagall-online.org.uk/life/mcgonagall-in-the-census|archive-url=https://web.archive.org/web/20190927221929/http://www.mcgonagall-online.org.uk/life/mcgonagall-in-the-census|url-status=dead|archive-date=2019-09-27|website=McGonagall Online}}</ref> Biographer Norman Watson suggests that McGonagall may have falsified his place of birth, as a native-born Scotsman would be better treated under the [[Poor Law (Scotland) Act 1845|Poor Law of 1845]] than one born in Ireland.<ref name=watson>{{cite book|last1=Watson|first1=Norman|title=Poet McGonagall: The Biography of William McGonagall|date=2010|publisher=Birlinn|location=Edinburgh|isbn=978-1841588841}}</ref> By looking at census, marriage and death records, David Phillips identifies 1825 as the more likely birth date.<ref name=abbey>{{cite book |first=David |last=Phillips |title=No Poets' Corner in the Abbey |publisher=David Winter |location=Dundee |date=1971}}</ref>{{rp|46}}
+
+The McGonagall family moved several times in search of work, possibly spending time in [[Glasgow]] and on [[South Ronaldsay]]<ref name=summary/> before settling in [[Dundee]] around 1840. Here, William was [[Apprenticeship|apprenticed]] to follow his father's trade as a [[loom|handloom]] [[Weaving|weaver]], putting an end to whatever formal education he may have had. Having learned his trade, McGonagall proceeded to educate himself, taking "great delight in reading books", particularly cheap editions of [[William Shakespeare|Shakespeare's]] plays.<ref name=brief/>
+
+On 11 July 1846,<ref name="odnb">{{Cite ODNB|id=40706|title=McGonagall, William |first=William |last=Donaldson |date=2004}}</ref> he married Jean King, a fellow mill worker from [[Stirling]]. Together they would have five sons and two daughters. Despite the [[Industrial Revolution]] slowly making weavers obsolete, McGonagall appeared to prosper, as there was still need for skilled workers to perform tasks of great complexity.<ref name=hunt>{{cite book|editor-last=Hunt|editor-first=Chris|title=William McGonagall: Collected Poems|date=2006|publisher=Birlinn|location=Edinburgh|isbn=978-1841584775}}</ref>{{rp|v}}
+
+Whilst working at the loom, McGonagall would entertain his shopmates with recitations from Shakespeare. On one occasion they paid a local theatre owner to allow him to appear in the title role in a production of ''[[Macbeth]]''. Convinced that the actor playing [[Macduff (Macbeth)|Macduff]] was envious of him, McGonagall refused to die in the final act. For this performance, the ''[[The Book of Heroic Failures|Book of Heroic Failures]]'' awarded him the title of the "worst Macbeth" as well as "worst British poet".<ref name="pile">{{cite book |last1=Pile |first1=Stephen|title=The Book of Heroic Failures |date=1979 |publisher=Routledge & Kegan Paul |location=London |isbn=978-0710003171|url=http://www.mcgonagall-online.org.uk/articles/mcgonagall-the-heroic-failure |archive-url=https://web.archive.org/web/20190927221929/http://www.mcgonagall-online.org.uk/articles/mcgonagall-the-heroic-failure |url-status=dead |archive-date=2019-09-27 }}</ref>
+
+==Career==
+
+The turning point in McGonagall's life came in June 1877. Work as a weaver had become more difficult to find, as his eldest daughter had shamed the family by giving birth to an illegitimate child;{{r|hunt|page1=vi}} at this point, he was seized with a new inspiration:
+
+{{quote|I seemed to feel as it were a strange kind of feeling stealing over me, and remained so for about five minutes. A flame, as Lord Byron has said, seemed to kindle up my entire frame, along with a strong desire to write poetry; and I felt so happy, so happy, that I was inclined to dance, then I began to pace backwards and forwards in the room, trying to shake off all thought of writing poetry; but the more I tried, the more strong the sensation became. It was so strong, I imagined that a pen was in my right hand, and a voice crying, "Write! Write!"<ref name="brief"/>}}
+
+He wrote his first poem, "An Address to the Rev. [[George Gilfillan]]", displaying the hallmarks that would characterise his work. Gilfillan, himself an untrained and poorly reviewed [[polemic]] Christian preacher who occasionally dabbled in poetry, commented admiringly "Shakespeare never wrote anything like this."
+
+McGonagall realised if he were to succeed as a poet, he required a [[patron]] and wrote to [[Queen Victoria]]. He received a letter of rejection, written by a royal functionary, thanking him for his interest.{{r|hunt|page1=vii}} McGonagall took this as praise for his work. During a trip to [[Dunfermline]] in 1879, he was mocked by the Chief Templar at the [[International Organisation of Good Templars]], of which McGonagall was a member, who told him his poetry was very bad.<ref>{{cite news |first=William |last=McGonagall |title=Poet McGonagall's Tour Through Fife
+|work=[[The People's Journal]] |date=11 October 1879|url=http://www.mcgonagall-online.org.uk/press/poet-mcgonagalls-tour-through-fife |archive-url=https://web.archive.org/web/20190927221929/http://www.mcgonagall-online.org.uk/press/poet-mcgonagalls-tour-through-fife |url-status=dead |archive-date=27 September 2019 }}</ref> McGonagall told the man that "it was so very bad that Her Majesty had thanked McGonagall for what the Chief Templar had condemned."{{r|hunt|page1=viii}}
+
+The letter gave McGonagall confidence in his "poetic abilities", and he felt his reputation could be enhanced further if he were to give a live performance before the Queen. In July 1878, he walked from Dundee to [[Balmoral Castle|Balmoral]], a distance of about {{convert|60|mi}} over mountainous terrain and through a violent thunderstorm to perform for Queen Victoria. When he arrived, he announced himself as "The Queen's Poet". The guards informed him "You're not the Queen's poet! [[Alfred, Lord Tennyson|Tennyson]] is the Queen's poet!" (Alfred, Lord Tennyson was the [[Poet Laureate of the United Kingdom|poet laureate]]). McGonagall presented the letter but was refused entry and had to return home.<ref name=brief/> Undeterred, he continued writing poetry, and he reported events to the newspapers, earning some minor recognition.{{r|hunt|page1=vii}}
+
+Throughout his life McGonagall campaigned against excessive drinking, appearing in pubs and bars to give edifying poems and speeches, which proved popular.<ref name="pile"/> He met with the ire of the publicans, on one occasion being pelted with peas for reciting a poem about the evils of "strong drink".<ref name=reminiscences>{{cite book|last1=McGonagall|first1=William|title=Poetic Gems|date=1934|publisher=David Winter|location=Dundee|url=http://www.mcgonagall-online.org.uk/life/reminiscences|archive-url=https://web.archive.org/web/20190927221929/http://www.mcgonagall-online.org.uk/life/reminiscences|url-status=dead|archive-date=2019-09-27|chapter=Reminiscences}}</ref>
+
+In 1883 he celebrated the official opening of [[University of Dundee|University College, Dundee]] with the poem "The Inauguration of University College Dundee" which opens with the stanza:<ref name=Contact>{{cite web|title=From the Archives. Mary Ann Baxter of Balgavies, 1801 – 1884|url=http://www.dundee.ac.uk/pressoffice/contact/2009/december2009.pdf|archive-url=https://wayback.archive-it.org/all/20110401064519/http://www.dundee.ac.uk/pressoffice/contact/2009/december2009.pdf|url-status=dead|archive-date=1 April 2011|work=Contact|publisher=[[University of Dundee]]|access-date=14 May 2013|pages=28–29|date=December 2009}}</ref>
+
+{{poemquote|Good people of Dundee, your voices raise,
+And to Miss Baxter give great praise;
+Rejoice and sing and dance with glee,
+Because she has founded a college in Bonnie Dundee.}}
+
+McGonagall constantly struggled with money and earned money by selling his poems in the streets, or reciting them in halls, theatres and public houses. When he was in periods of financial insecurity, his friends supported him with donations.{{r|hunt|page1=viii}} In 1880, he sailed to London to seek his fortune, and in 1887 to New York. In both instances, he returned unsuccessful.{{r|hunt|page1=vii}}
+
+He found lucrative work performing his poetry at a local circus. He read his poems while the crowd was permitted to pelt him with eggs, flour, herrings, potatoes and stale bread. For this, he received fifteen shillings a night. McGonagall seemed happy with this arrangement, but the events became so raucous that the city magistrates were forced to put a ban on them.{{r|hunt|page1=vii-ix}} McGonagall was outraged and wrote a poem in response entitled "Lines in Protest to the Dundee Magistrates":
+
+{{poemquote|Fellow citizens of Bonnie Dundee
+Are ye aware how the magistrates have treated me?
+Nay, do not stare or make a fuss
+When I tell ye they have boycotted me from appearing in Royal Circus,
+Which in my opinion is a great shame,
+And a dishonour to the city's name (...)}}
+
+Throughout his life McGonagall seemed oblivious to the general opinion of his poems, even when his audience were pelting him with eggs and vegetables. Author Norman Watson speculates in his biography of McGonagall that he may have been on the "[[Autism spectrum|autism-Asperger's spectrum]]". [[Christopher Hart (novelist)|Christopher Hart]], writing in ''The [[Sunday Times]]'', says that this seems "likely".<ref>''The Sunday Times'' (London), 7 November 2010.</ref>
+
+In 1890, McGonagall was in dire straits financially. To help him, his friends funded the publication of a collection of his work, ''Poetic Gems''. The proceeds provided McGonagall with enough money to live on for a time.{{r|hunt|page1=ix}} By 1893, he was annoyed by his mistreatment in the streets and wrote an angry poem threatening to leave Dundee. One newspaper quipped that he would probably stay for another year once he realised "that Dundee rhymes with 1893".{{r|hunt|page1=x}} Though trying his hand at writing prose and endorsements for local businesses for a short time,{{r|hunt|page1=x}} in 1894, he and his wife were forced to move to [[Perth (Scotland)|Perth]].
+
+Soon after, he received a letter purporting to be from representatives of King [[Thibaw Min]] of [[Burma]]. In it, he was informed that the King had knighted him as Topaz McGonagall, Grand Knight of the Holy Order of the White Elephant Burmah.<ref>{{cite web|url=http://www.mcgonagall-online.org.uk/life/autobiography7 |archive-url=https://web.archive.org/web/20190927221929/http://www.mcgonagall-online.org.uk/life/autobiography7 |url-status=dead |archive-date=27 September 2019 |title=The Autobiography of Sir William Topaz McGonagall – Part 7 |publisher=McGonagall Online |access-date=2 July 2013}}</ref> Despite the fact that this was a fairly transparent [[hoax]],{{r|hunt|page1=x}} McGonagall would refer to himself as "Sir William Topaz McGonagall, Knight of the White Elephant, Burmah" in his advertising for the rest of his life.<ref>{{Cite news|url=http://www.historic-uk.com/HistoryUK/HistoryofScotland/William-McGonagall-The-bard-of-Dundee/|title=William Topaz McGonagall, the Dundee Bard|work=Historic UK|access-date=2017-10-11|language=en-GB|archive-url=https://web.archive.org/web/20171011232821/http://www.historic-uk.com/HistoryUK/HistoryofScotland/William-McGonagall-The-bard-of-Dundee/|archive-date=11 October 2017|url-status=dead}}</ref>
+
+In 1895, McGonagall and his wife moved to [[Edinburgh]]. Here, McGonagall met with some success, becoming a "[[cult figure]]"{{r|hunt|page1=x}} and was in great demand. It did not last long, and by 1900 he was once again destitute and now old and sickly. Though he was now too frail to walk the streets selling his poems, donations from friends, as ever, kept him afloat.{{r|hunt|page1=xi}}
+
+He died penniless in 1902, above what is now The Captain's Bar in Edinburgh's South College Street<ref>{{cite web |title=William McGonagall black plaque in Edinburgh |website=Blue Plaque Places |url=http://www.blueplaqueplaces.co.uk/william-mcgonagall-black-plaque-in-edinburgh-7569#.XH59mFP7RTY |access-date=5 March 2019 |archive-url=https://web.archive.org/web/20190306044851/http://www.blueplaqueplaces.co.uk/william-mcgonagall-black-plaque-in-edinburgh-7569#.XH59mFP7RTY |archive-date=6 March 2019 |url-status=dead }}</ref> and was buried in an unmarked grave in [[Greyfriars Kirkyard]] in Edinburgh. A grave-slab installed to his memory in 1999 is inscribed:
+
+{{quote
+|William McGonagall<br>
+Poet and Tragedian
+
+<poem>
+"I am your gracious Majesty
+ever faithful to Thee,
+William McGonagall, the Poor Poet,
+That lives in Dundee."
+</poem>}}
+
+Additionally, a plaque above 5 South College Street in Edinburgh shows an image of McGonagall, and bears the inscription:
+
+{{quote
+|William McGonagall<br>
+Poet and Tragedian<br>
+Died Here<br>
+29 September 1902
+}}
+
+==Tay Bridge Disaster==
+{{Main|The Tay Bridge Disaster}}
+[[Image:Original Tay Bridge before the 1879 collapse.jpg|thumb|right|Original Tay Bridge (from the north).]]
+[[Image:Tay bridge down.JPG|thumb|Original Tay Bridge (from the south) the day after the disaster.]]
+
+"The Tay Bridge Disaster" has been widely reproduced, and recounts [[Tay Bridge disaster|the events]] of the evening of 28 December 1879, when, during a severe [[gale]], the [[Tay Rail Bridge]] near Dundee collapsed as a train was passing over it. It begins:
+
+{{poemquote
+|Beautiful Railway Bridge of the Silv'ry Tay!
+Alas! I am very sorry to say
+That ninety lives have been taken away
+On the last Sabbath day of 1879,
+Which will be remember'd for a very long time.
+}}
+
+(Modern sources give the death toll as 75.)
+
+And finishes:
+
+{{poemquote
+|I must now conclude my lay
+By telling the world fearlessly without the least dismay
+That your central girders would not have given way,
+At least many sensible men do say,
+Had they been supported on each side with buttresses,
+At least many sensible men confesses,
+For the stronger we our houses do build,
+The less chance we have of being killed.<ref>Quoted in Terry Pratchett & Jacqueline Simpson, ''The Folklore of Discworld'' (London 2008) p. 80</ref>
+}}
+
+More than a year before the disaster,<ref>{{Cite web|url=http://www.mcgonagall-online.org.uk/works/chronological-list-of-poems|archive-url=https://web.archive.org/web/20190927221931/http://www.mcgonagall-online.org.uk/works/chronological-list-of-poems|url-status=dead|archive-date=27 September 2019|title=McGonagall Online – Chronological List of Poems|date=27 September 2019|access-date=28 December 2019}}</ref> McGonagall had written a poem in praise of the Tay Bridge: "The Railway Bridge of the Silvery Tay", in which he specifically expressed a desire
+
+{{poemquote
+|that God will protect all passengers
+By night and by day,
+And that no accident will befall them while crossing
+The Bridge of the Silvery Tay,
+For that would be most awful to be seen
+Near by Dundee and the Magdalen Green
+}}
+
+Once the replacement bridge had been built, he composed an ode to the new construction: "An Address to the New Tay Bridge" "Strong enough all windy storms to defy".
+
+==In popular culture==
+===In comedy and theatre===
+* The memory of McGonagall was resurrected by comedian [[Spike Milligan]]. A character called McGoonagall frequently appears in ''[[The Goon Show]]'', alternately played by Milligan and [[Peter Sellers]]. Milligan also occasionally gave readings of McGonagall's verse. McGoonagall often introduces himself as "William McGoonagall, Poet, Tragedian and Twit".
+* An episode of ''[[Monty Python's Flying Circus]]'' featured a McGonagall-esque poet called Ewan McTeagle,<ref>{{cite web |author=As listed |url=http://orangecow.org/pythonet/sketches/mcteagle.htm |title=The Poet McTeagle |publisher=Orangecow.org |access-date=3 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090703160712/http://orangecow.org/pythonet/sketches/mcteagle.htm |archive-date=3 July 2009}}</ref> whose poems were actually [[prose]] requests for money.
+* In 2018 and early 2019, a musical comedy play titled ''McGonagall's Chronicles (Which Will Be Remembered for a Very Long Time)'' was toured in Scotland, retelling the story of the poet in "almost rhyme". It was directed by Joe Douglas and written by Gary McNair; McNair appeared in the lead role, with live musical support from Brian James O'Sullivan and from Simon Liddell, who composed the show's songs.<ref>{{cite web|url=https://www.traverse.co.uk/whats-on/event-detail/1525/mcgonagalls-chronicles-(which-will-be-remembered-for-a-very-long-time).aspx|title=McGonagall's Chronicles (Which Will Be Remembered for a Very Long Time)|publisher=Traverse Theatre|access-date=29 March 2019|archive-url=https://web.archive.org/web/20190329230606/https://www.traverse.co.uk/whats-on/event-detail/1525/mcgonagalls-chronicles-(which-will-be-remembered-for-a-very-long-time).aspx|archive-date=29 March 2019|url-status=dead}}</ref>
+
+===In literature and publications===
+* A collection of 35 broadsheet poems of McGonagall, the majority signed by him, was bought for £6,600 (including commission) from Lyon & Turnbull, Edinburgh auctioneers, on 16 May 2008.<ref>{{cite web |url=http://auctions.lyonandturnbull.com/auction-lot-detail/208/298 |title=Books, Maps & Manuscipts – Sale 208 – Lot 298 |website=Lyon & Turnbull |access-date=26 April 2018 |archive-url=https://web.archive.org/web/20180426144345/http://auctions.lyonandturnbull.com/auction-lot-detail/208/298 |archive-date=26 April 2018 |url-status=dead }}</ref><ref>{{cite news
+|title='Worst poet' outsells boy wizard
+|date=16 May 2008
+|work=BBC News
+|url=http://news.bbc.co.uk/2/hi/uk_news/scotland/tayside_and_central/7402920.stm
+|access-date=6 August 2008
+}}</ref>
+* Satirical magazine ''[[Private Eye (magazine)|Private Eye]]'' has printed a number of McGonagallesque poems concerning great events of the day, usually under the byline William Rees-McGonagall, a portmanteau of McGonagall's name and that of [[William Rees-Mogg]]. For example, in 2007, they covered the success of the [[Scottish National Party]] in the [[Scottish Parliament Election, 2007|Scottish Parliament election]].
+* McGonagall was the subject of the newspaper column ''[[Ripley's Believe It or Not!]]'' on 11 October 2007, saying he "was often considered the world's worst poet, even by his own publisher, yet his writings are still in print a century after his death!".
+*Milligan further recounted McGonagall's life story in the pastiche novel ''William McGonagall – the Truth at Last'', co-written with Jack Hobbs.<ref>{{cite book|last1=Milligan|first1=Spike|author-link1=Spike Milligan|last2=Hobbs|first2=Jack|title=William McGonagall, The Truth at Last|date=1978|publisher=Penguin|location=Harmondsworth|isbn=978-0140045499}}</ref>
+* In ''[[The Wee Free Men]]'' by [[Terry Pratchett]], the [[Nac Mac Feegle]] have a battle poet, or ''Gonnagle'', who repels the enemy through the awfulness of his poetry. Training up a successor, 'the old bard congratulates the young one: "That, lad," he said proudly, "was some of the worst poetry I have heard for a long time. It was offensive to the ear and a torrrture to the soul...a verrry commendable effort! We'll make a gonnagle out o' ye yet!"... 'The Folklore of Discworld' notes that this is 'a touching tribute to the memory of William McGonagall...famously excruciating Scottish poet'.<ref>{{cite book|last1=Pratchett|first1=Terry|last2=Simpson|author-link1=Terry Pratchett|first2=Jacqueline|title=The Folklore of Discworld|url=https://archive.org/details/folklorediscworl00prat|url-access=limited|date=2008|publisher=Doubleday|location=London|isbn=9780385611008|pages=[https://archive.org/details/folklorediscworl00prat/page/n86 79]-81}}</ref>
+* In the ''[[Harry Potter]]'' books, author [[J.K. Rowling]] chose the surname of the Professor of [[Transfiguration (Harry Potter)|Transfiguration]], [[Minerva McGonagall]], because she had heard of McGonagall and loved the surname.<ref>{{cite web|url=http://www.quick-quote-quill.org/articles/1999/1099-connectiontransc.html |title=J.K. Rowling interview transcript, The Connection (WBUR Radio)|website=Accio Quote! |date=12 October 1999 |access-date=3 July 2009| archive-url = https://web.archive.org/web/20090106053440/http://www.quick-quote-quill.org/articles/1999/1099-connectiontransc.html| archive-date=6 January 2009}}</ref>
+* The life of the bard, and Corstorphine Round Table's particular affection for the poet, is celebrated in a comic graphic novel by one of its former members, Charles Nasmyth.<ref>{{cite book|last1=Nasmyth|first1=Charles|title=The Comic Legend of William McGonagall: A Pictorial story based on the life of The World's Worst Poet with illustrated verse|date=2007|publisher=Waverley|location=New Lanark|isbn=978-1-902407-53-1}}</ref>
+* The [[Scots Language]] translation of ''[[Asterix]]'' names the village bard "Magonaglix" in reference to McGonagall.<ref>{{cite news |author=Rakewell |title=Au revoir, Albert Uderzo – on Asterix in different tongues |url=https://www.apollo-magazine.com/asterix-characters-in-different-languages/ |work=Apollo Magazine |date=27 March 2020 |access-date=28 March 2020 |archive-url=https://web.archive.org/web/20200328153743/https://www.apollo-magazine.com/asterix-characters-in-different-languages/ |archive-date=28 March 2020 |url-status=dead }}</ref><ref>{{cite web|url=http://www.dalenllyfrau.com/asterix-the-bonnie-fechter.html|title=Asterix The Bonnie Fechter|work=dalenllyfrau.com|access-date=20 April 2017|archive-url=https://web.archive.org/web/20170421092048/http://www.dalenllyfrau.com/asterix-the-bonnie-fechter.html|archive-date=21 April 2017|url-status=dead}}</ref>
+
+===In live performances===
+* [[Billy Connolly]] visited Dundee and the [[Tay Rail Bridge|Tay Bridge]] during his 1994 ''[[World Tour of Scotland]]'', where he talked about McGonagall and recited a passage from his book ''Poetic Gems''.
+
+===In motion pictures===
+* A 1974 movie called ''[[The Great McGonagall (film)|The Great McGonagall]]'' starred [[Spike Milligan]] as a fictionalised William McGonagall. [[Peter Sellers]] played [[Queen Victoria]].
+* In episode 13 of season 2 of the Canadian TV series ''[[Murdoch Mysteries]]'', a murder victim is holding a copy of a book entitled "The Collected Works of William Topaz McGonagall". While the death appears accidental, the detective suspects foul play because "it is highly unlikely that anyone would voluntarily reach for a volume of McGonagall."
+* In 2016, ''[[The Atlantic]]'' premiered a short documentary about the life of McGonagall entitled "worst.poet.ever."<ref>{{Cite web|url=https://www.theatlantic.com/video/index/476427/william-mcgonagall-worst-poet-ever/|title=William McGonagall: Worst Poet Ever|last=Ajaka|first=Nadine|website=The Atlantic|language=en-US|access-date=2017-03-21|archive-url=https://web.archive.org/web/20170322015819/https://www.theatlantic.com/video/index/476427/william-mcgonagall-worst-poet-ever/|archive-date=22 March 2017|url-status=dead}}</ref>
+
+===In music===
+* McGonagall's poem "[[The Famous Tay Whale]]"<ref>{{cite web |url=http://www.mcgonagall-online.org.uk/poems/pgwhale.htm |archive-url=https://web.archive.org/web/20190927221929/http://www.mcgonagall-online.org.uk/poems/pgwhale.htm |url-status=dead |archive-date=27 September 2019 |title=McGonagall Online: The Famous Tay Whale|website=Mcgonagall-online.org |access-date=19 June 2008}}</ref> was set to music by [[Matyas Seiber]] for the second [[Gerard Hoffnung|Hoffnung]] Music Festival in 1958. The arrangement calls for a narrator (at the premiere the narrator was [[Edith Evans]]), full orchestra, a fog horn, and an espresso machine.
+* The opening stanza of ''The Epic Rage of Furious Thunder'' on [[Gloryhammer]]'s album ''[[Tales from the Kingdom of Fife]]'' contains several references to McGonagall's poem "[[The Tay Bridge Disaster]]".
+
+===In radio===
+* [[Dundonian]] actor [[Brian Cox (actor)|Brian Cox]] compared the comic character [[Bob Servant]] to McGonagall while playing Servant in a radio [[adaptation]]. Servant is the creation of [[Dundonian]] author [[Neil Forsyth]], who has acknowledged McGonagall as an influence in the Bob Servant character.<ref>{{cite news
+ |work         = The Dundee Courier
+ |title        = Brian Cox To Play Dundonian 'Man of The People'
+ |date         = 4 October 2010
+ |url          = http://www.thecourier.co.uk/News/Dundee/article/5904/brian-cox-to-play-dundonian-man-of-the-people-bob-servant.html
+ |access-date  = 12 June 2010
+ |url-status   = dead
+ |archive-url  = https://web.archive.org/web/20101105044754/http://www.thecourier.co.uk/News/Dundee/article/5904/brian-cox-to-play-dundonian-man-of-the-people-bob-servant.html
+ |archive-date = 5 November 2010}}</ref>
+* Cox went on to play the part of William McGonagall in the radio play ''[[Bruce Young (drama)#Topaz|Topaz]]'', a fictional depiction of his trip to Balmoral which was broadcast on [[BBC Radio 4]] on 26 October 2013.<ref>{{cite web|title=Topaz|url=http://www.bbc.co.uk/programmes/b03f86l3|publisher=BBC|access-date=30 October 2013}}</ref>
+
+== Honours and memorials ==
+[[File:William McGonagall plaque, South College Street, Edinburgh.JPG|thumb|A plaque above McGonagall's last residence records his death in 1902]]
+[[File:William McGonagall plaque, Edinburgh, Scotland-20March2010.jpg|thumb|[[Memorial plaque]] near to McGonagall's grave in Edinburgh dated 1999]]
+[[File:Mcgonagall-square.jpg|thumb|McGonagall square in Dundee]]
+McGonagall's home city of Dundee maintains several reminders of his life:
+
+* The William Topaz McGonagall Appreciation Society held a McGonagall Supper on board the frigate [[HMS Unicorn (1824)|''Unicorn'']] on 12 June 1997, during which the courses were allegedly served in reverse order, starting with the coffee and ending with the starters. A short play was performed by local actors.<ref>{{cite web |url=http://www.taynet.co.uk/users/mcgon/bglink1.htm |title=William Topaz McGonagall Supper – June 12, 1997 |publisher=Taynet.co.uk |access-date=3 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20070928084347/http://www.taynet.co.uk/users/mcgon/bglink1.htm |archive-date=28 September 2007}}</ref>
+* Beginning in 2004, the Dundee Science Centre Education Outreach has hosted an annual Charity McGonagall Gala Dinner,<ref>[http://www.dundeecity.gov.uk/events/evx060632.htm ] {{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref> in which guests eat their meal backwards from dessert to starter and hear the welcome address as they depart, "combining traditional and unconventional entertainment, with four-course dinner, complimentary wine and whisky".
+* There is a McGonagall Square in the West End of Dundee.<ref>{{cite web|url=http://maps.google.co.uk/maps?f=q&hl=en&q=McGonagall+Square&sll=56.463818,-2.99381&sspn=0.0085,0.013454&layer=&ie=UTF8&z=18&ll=56.455489,-2.990878&spn=0.002125,0.005123&t=h&om=1 |title=Google Maps |publisher=Google Maps |date=1 January 1970 |access-date=3 July 2009}}</ref>
+* A number of inscriptions of his poetry have been made, most notably along the side of the River Tay on the pavement of Riverside Drive in Dundee. This monument contains a deliberate spelling mistake reading, "Beatiful railway bridge of the silv'ry Tay".<ref>{{cite web |url=http://www.rampantscotland.com/let030405.htm |title=Rampant Scotland Newsletter – 5 April 2003 |publisher=Rampantscotland.com |access-date=3 July 2009 |archive-url=https://web.archive.org/web/20090104152608/http://www.rampantscotland.com/let030405.htm |archive-date=4 January 2009 |url-status=dead }}</ref>
+* Dundee Central Library maintains a William McGonagall Collection of his works.<ref>{{cite web|url=http://www.dundeecity.gov.uk/centlib/mcgon.htm |title=Dundee City Council, Scotland – Central Library, Local History Centre, William McGonagall, Poet and Tragedian |publisher=Dundeecity.gov.uk |access-date=3 July 2009 |url-status=dead |archive-url=https://web.archive.org/web/20081202172221/http://www.dundeecity.gov.uk/centlib/mcgon.htm |archive-date=2 December 2008 }}</ref>
+
+He is buried in an unmarked grave in [[Greyfriars Kirkyard]], Edinburgh. From c.1950 to 1995 a [[memorial bench]] stood on the path immediately to the north side of the church commemorating McGonagall and bearing the typically McGonagall-esque inscription "Feeling tired and need a seat? Sit down here, and rest your feet". The bench fell into disrepair and was not replaced. It is not known what became of its small plaque.
+
+== Poems ==
+{{Main|List of William McGonagall poems}}
+
+McGonagall's poems were published by his friends, in a series of books bearing variations on the title ''Poetic Gems''. In the modern era, the entire series is reprinted in a single collection called ''The Complete McGonagall''. When a poem was written has no bearing on which of the ''Poetic Gems'' books it appears in: the "Address to the Rev. George Gilfillan" and "Requisition to the Queen" were amongst McGonagall's earliest written poems, yet they appear in ''More Poetic Gems'' and ''Last Poetic Gems'' respectively.
+
+==See also==<!-- PLEASE RESPECT ALPHABETICAL ORDER -->
+{{portal|Poetry}}
+* [[Robert Coates (actor)|Romeo Coates]]
+* [[Florence Foster Jenkins]]
+* [[James McIntyre (poet)]]
+* [[Amanda McKittrick Ros]]
+* [[Julia A. Moore]]
+* [[Wesley Willis]]
+* [[Tommy Wiseau]]
+* [[Scottish literature]]
+* ''[[The Eye of Argon]]''
+* [[Poetaster]]
+
+==References==
+{{Reflist|30em}}
+
+== External links ==
+{{wikisource author}}
+{{Wikiquote|William McGonagall}}
+{{commons category}}
+{{Spoken Wikipedia|William_Topaz_McGonagall.ogg|date=2005-08-17}}
+* [http://www.mcgonagall-online.org.uk/ McGonagall Online]
+* [http://www.poetryfoundation.org/poems-and-poets/poets/detail/william-mcgonagall William McGonagall in the Poetry Foundation]
+* [https://web.archive.org/web/20160111151706/http://worstpoetfilm.com/ Documentary film about McGonagall]
+* [https://web.archive.org/web/20060205183901/http://books.guardian.co.uk/departments/classics/story/0,,1691120,00.html Bard of the Silv'ry Tay] A profile by James Campbell
+* [https://www.flickr.com/photos/45211618@N00/2258214070 Picture of his memorial]
+* {{Librivox author |id=511}}
+* {{OL author|4334962A}}
+* {{Find a Grave|20119}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mcgonagall, William Topaz}}
+[[Category:1825 births]]
+[[Category:1902 deaths]]
+[[Category:19th-century Scottish male actors]]
+[[Category:19th-century Scottish poets]]
+[[Category:British weavers]]
+[[Category:Burials at Greyfriars Kirkyard]]
+[[Category:Date of birth unknown]]
+[[Category:Outsider literature]]
+[[Category:People associated with Dundee]]
+[[Category:Poets associated with Dundee]]
+[[Category:Scottish male stage actors]]
+[[Category:Scottish people of Irish descent]]
+[[Category:Victorian poets]]
+[[Category:Writers from Edinburgh]]

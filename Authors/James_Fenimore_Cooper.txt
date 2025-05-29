@@ -1,0 +1,546 @@
+{{Short description|American writer (1789–1851)}}
+{{Other people|James Cooper}}
+{{Use mdy dates|date=December 2016}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = James Fenimore Cooper
+| image = James Fenimore Cooper by Brady.jpg
+| caption = Photograph by [[Mathew Brady]], 1850
+| birth_date = {{Birth date|1789|9|15|mf=y}}
+| birth_place = [[Burlington, New Jersey]]
+| death_date = {{death date and age|1851|9|14|1789|9|15|mf=y}}
+| death_place = [[Cooperstown, New York]]
+| occupation = [[Author]]
+| movement = [[Romanticism]]
+| genre = [[Historical fiction]]
+| notableworks = ''[[The Last of the Mohicans]]''
+| influences = 
+| influenced = 
+}}{{Infobox military person
+| allegiance    = {{flagu|United States of America}}
+| branch        = [[United States Navy]]
+| branch_label  = Branch
+| serviceyears  = 1808-1810
+| rank          = [[Midshipman]]
+}}
+
+'''James Fenimore Cooper''' (September 15, 1789 – September 14, 1851) was an American writer of the first half of the 19th century. His [[historical romances]] depicting colonist and Indigenous characters from the 17th to the 19th centuries created a unique form of [[American literature]]. He lived much of his boyhood and the last fifteen years of life in [[Cooperstown, New York]], which was founded by his father [[William Cooper (judge)|William Cooper]] on property that he owned. Cooper became a member of the [[Episcopal Church (United States)|Episcopal Church]] shortly before his death and contributed generously to it.<ref>[[#Phillips|Phillips, 1913]], pp. 6–7</ref> He attended [[Yale University]] for three years, where he was a member of the [[Linonian Society]].<ref name="lounsbury7">[[#Lounsbury|Lounsbury, 1883]], pp. 7–8</ref>
+
+After a stint on a commercial voyage, Cooper served in the [[U.S. Navy]] as a [[midshipman]], where he learned the technology of managing sailing vessels which greatly influenced many of his novels and other writings. The novel that launched his career was ''[[The Spy (Cooper novel)|The Spy]]'', a tale about espionage set during the [[American Revolutionary War]] and published in 1821.<ref>[http://www.myrye.com/my_weblog/2010/11/james-fenimore-cooper-and-spies-in-rye.html Clary, Suzanne, "James Fenimore Cooper and Spies in Rye", My Rye, 2010]</ref> He also created American [[nautical fiction|sea stories]]. His best-known works are five [[historical novel]]s of the frontier period, written between 1823 and 1841, known as the ''[[Leatherstocking Tales]]'', which introduced the iconic American frontier scout, Natty Bumppo. Cooper's works on the U.S. Navy have been well received among naval historians, but they were sometimes criticized by his contemporaries. Among his more famous works is the [[romanticism|romantic]] novel ''[[The Last of the Mohicans]]'', often regarded as his [[masterpiece]].<ref name="Hale657">[[#Hale1896|Hale, 1896]], p. 657</ref> Throughout his career, he published numerous social, political, and historical works of fiction and non-fiction with the objective of countering European prejudices and nurturing an original American art and culture.
+
+==Early life and family==
+James Fenimore Cooper was born in [[Burlington, New Jersey]], in 1789 to [[William Cooper (judge)|William Cooper]] and Elizabeth (Fenimore) Cooper, the eleventh of 12 children, half of whom died during infancy or childhood.
+
+Shortly after James' first birthday, his family moved to [[Cooperstown, New York]], a community founded by his father on a large piece of land which he had bought for development. Later, his father was elected to the [[United States Congress]] as a representative from [[Otsego County, New York|Otsego County]]. Their town was in a central area of New York along the headwaters of the [[Susquehanna River]] that had previously been patented to Colonel [[George Croghan]] by the Province of New York in 1769. Croghan mortgaged the land before the Revolution and after the war part of the tract was sold at public auction to William Cooper and his business partner Andrew Craig.<ref>Alan Taylor, "From Fathers to Friends of the People: Political Personas in the Early Republic," ''Journal of the Early Republic'', Vol. 11, No. 4 (Winter, 1991), pp. 465–491 [475]</ref> By 1788, William Cooper had selected and surveyed the site where Cooperstown would be established. He erected a home on the shore of Otsego Lake and moved his family there in the autumn of 1790. Several years later he began construction of the mansion that became known as Otsego Hall, completed in 1799 when James was ten.<ref name="Lounsbury p. 2">[[#Lounsbury|Lounsbury, 1883]], p. 2</ref>
+
+[[File:Appletons' Cooper James Fenimore Otsego Hall.jpg|thumb|[[Otsego Hall]], Cooper's home]]
+Cooper was enrolled at [[Yale University]] at age 13, but he incited a dangerous prank which involved blowing up another student's door—after having already locked a donkey in a recitation room.<ref>[[#McCullough|McCullough p. 70]]</ref> He was expelled in his third year without completing his degree, so he obtained work in 1806 as a sailor and joined the crew of a [[merchant vessel]] at age 17.<ref name="lounsbury7"/><ref>[[#xroads|J.F. Cooper Biography]]</ref> By 1811, he obtained the rank of [[midshipman]] in the fledgling [[United States Navy]], conferred upon him by an [[officer's warrant]] signed by [[Thomas Jefferson]].<ref name="Hale657"/><ref>[[#Franklin2007|Franklin, 2007]], p. 101</ref>
+
+William Cooper died when James was 20; all five of his sons inherited a supposed-large fortune in money, securities, and land titles, which soon proved to be a wealth of endless litigation. He married Susan Augusta de Lancey at [[Mamaroneck]], Westchester County, New York on January 1, 1811, at age 21.<ref>[[#Clymer|Clymer, 1900]], p. xii</ref> She was from a wealthy family who remained [[Loyalist (American Revolution)|loyal]] to Great Britain during the Revolution. The Coopers had seven children, five of whom lived to adulthood. Their daughter [[Susan Fenimore Cooper]] was a writer on nature, female suffrage, and other topics. Her father edited her works and secured publishers for them.<ref>{{cite web|title=Susan Fenimore Cooper|url=http://essays.quotidiana.org/cooper_s/|access-date=2011-11-21}}</ref> One son, Paul Fenimore Cooper, became a lawyer and perpetuated the author's lineage to the present.
+
+==Service in the Navy==
+[[File:James Fenimore Cooper.jpg|thumb|left|The young Cooper, in [[Midshipman]]'s naval uniform]]
+In 1806 at the age of 17, Cooper joined the crew of the merchant ship ''Sterling'' as a common sailor. At the time, the ''Sterling'' was commanded by young John Johnston from Maine. Cooper served as a common seaman before the mast. His first voyage took some 40 stormy days at sea and brought him to an English market in [[Cowes]] where they sought information on where best to unload their cargo of flour. There Cooper saw his first glimpses of England. Britain was in the midst of [[Napoleonic Wars|war with Napoleon's France]] at the time, so their ship was immediately approached by a British [[man-of-war]] and was boarded by some of its crew. They seized one of the ''Sterling's'' best crew members and [[impressment|impressed]] him into the [[British Royal Navy]].<ref>[[#Clymer|Clymer, 1900]], p. xi</ref><ref>[[#Phillips|Phillips, 1913]], pp. 43–44</ref>{{#tag:ref|At this time, the British naval practice was common of seizing American sailors, accusing them of desertion, and impressing them into the British navy. It is largely what led to the [[War of 1812]].<ref>[[#Roosevelt|Roosevelt, 1883]] pp. 1–3</ref>|group="note"}} Cooper thus first encountered the power of his country's former colonial master, which led to a lifelong commitment to helping create an American art independent culturally as well as politically from the former mother country.
+
+Their next voyage took them to the Mediterranean along the coast of Spain, including [[Águilas]] and [[Cabo de Gata-Níjar Natural Park|Cabo de Gata]], where they picked up cargo to be taken to London and unloaded. Their stay in Spain lasted several weeks and impressed the young sailor, the accounts of which Cooper later referred to in his ''Mercedes of Castile'', a novel about [[Christopher Columbus|Columbus]].<ref>[[#Franklin2007|Franklin, 2007]], p. 89</ref>
+
+After serving aboard the ''Sterling'' for 11 months, he joined the [[United States Navy]] on January 1, 1808, when he received his commission as a [[midshipman]]. Cooper had conducted himself well as a sailor, and his father, a former U.S. Congressman, easily secured a commission for him through his long-standing connections with politicians and naval officials.<ref name="Phillips, 1913, p. 53">[[#Phillips|Phillips, 1913]], p. 53</ref><ref>[[#Lounsbury|Lounsbury, 1883]], p. 216</ref> The warrant for Cooper's commission as midshipman was signed by President Jefferson and mailed by Naval Secretary [[Robert Smith (Cabinet member)|Robert Smith]], reaching Cooper on February 19. On February 24, he received orders to report to the naval commander at New York City.{{#tag:ref|Accounts vary: Phillips, 1913, p. 53 puts the date at January 12.<ref name="Phillips, 1913, p. 53"/>|group="note"}} Joining the United States Navy fulfilled an aspiration he had had since his youth.<ref>[[#Franklin2007|Franklin, 2007]], pp. 101–102</ref>
+
+Cooper's first naval assignment came on March 21, 1808 aboard the {{USS|Vesuvius|1806|6}}, an 82-foot [[bomb ketch]] that carried twelve [[naval cannon|guns]] and a thirteen-inch [[Mortar (weapons)|mortar]].<ref>[[#Franklin2007|Franklin, 2007]], pp. 110–111</ref> For his next assignment, he served under Lieutenant [[Melancthon Taylor Woolsey]] near [[Oswego, New York|Oswego]] on [[Lake Ontario]], overseeing the building of the brig {{USS|Oneida|1809|6}} for service on the lake. The vessel was intended for use in a [[War of 1812|war with Great Britain]] which had yet to begin.<ref>[[#Clymer|Clymer, 1900]], p. 12</ref> The vessel was completed, armed with sixteen guns, and launched in Lake Ontario in the spring of 1809. It was in this service that Cooper learned shipbuilding, shipyard duties and frontier life. During his leisure time, Cooper would venture through the forests of New York state and explore the shores of Lake Ontario. He occasionally ventured into the [[Thousand Islands, New York|Thousand Islands]]. His experiences in the Oswego area later inspired some of his work, including his novel ''[[The Pathfinder, or The Inland Sea|The Pathfinder]]''.<ref>[[#Phillips|Phillips, 1913]], pp. 54–55</ref>{{#tag:ref|Records of the government or Department of Navy provide little information regarding his movements and activities in the Navy. Knowledge of Cooper's life comes primarily from what he divulged in his published works, notes, and letters of that period.<ref>[[#Lounsbury|Lounsbury, 1883]], p. 11</ref>|group="note"}}
+
+After completion of the ''Oneida'' in 1809, Cooper accompanied Woolsey to [[Niagara Falls]], who then was ordered to [[Lake Champlain]] to serve aboard a [[gunboat]] until the winter months when the lake froze over. Cooper himself returned from Oswego to Cooperstown and then New York. On November 13 of the same year, he was assigned to the {{USS|Wasp|1807|6}} under the command of Captain [[James Lawrence]], who was from Burlington and became a personal friend of Cooper's. Aboard this ship, he met his lifelong friend [[William Shubrick|William Branford Shubrick]], who was also a midshipman at the time. Cooper later dedicated ''[[The Pilot: A Tale of the Sea|The Pilot]]'', ''[[The Red Rover]]'', and other writings to Shubrick.<ref>[[#Phillips|Phillips, 1913]], p. 216</ref><ref>[[#Lounsbury|Lounsbury, 1883]], p. 12</ref> Assigned to humdrum recruiting tasks rather than exciting voyages, Cooper resigned his commission from the navy in spring 1810; in the same 
+time period he met, wooed, and became engaged to Susan Augusta de Lancey, whom be married on January 1, 1811.
+
+==Writings==
+
+===First endeavors===
+[[File:Last of the Mohicans, Merrill bear.jpg|thumb|<center> ''[[The Last of the Mohicans]]''<br />Illustration from 1896 edition,<br /> by J. T. Merrill</center>]]
+
+In 1820, when reading a contemporary novel to his wife Susan, he decided to try his hand at fiction, resulting in a neophyte novel set in England he called ''[[Precaution (novel)|Precaution]]'' (1820). Its focus on morals and manners was influenced by [[Jane Austen]]'s approach to fiction. He anonymously published ''Precaution'' which received modestly favorable notice in the United States and England.<ref name=harper>{{cite book|title=Harpers New Monthly Magazine – The Haunted Lake|date=1872|publisher=Harper and Brothers|pages=20–30|edition=1}}</ref> By contrast, his second novel ''[[The Spy (Cooper novel)|The Spy]]'' (1821) was inspired by an American tale related to him by neighbor and family friend [[John Jay]]. It became the first novel written by an American to become a bestseller at home and abroad, requiring several re-printings to satisfy demand. Set in the "Neutral Ground" between British and American forces and their guerrilla allies in Westchester County, New York, the action centers around spying and skirmishing taking place in and around what is widely believed to be John Jay's family home "The Locusts" in [[Rye, New York]] of which a portion still exists today as the historic [[Jay Estate]].<ref>Hicks, Paul,"The Spymaster and the Author," ''The Rye Record,'' December 7, 2014. {{cite web |url=http://ryerecord.com/a-little-rye-history/a-little-local-history-the-spymaster-and-the-author.html |title=Archived copy |access-date=2015-03-22 |url-status=dead |archive-url=https://web.archive.org/web/20150402181802/http://ryerecord.com/a-little-rye-history/a-little-local-history-the-spymaster-and-the-author.html |archive-date=April 2, 2015 |df=mdy-all }}</ref>
+
+Following on a swell of popularity, Cooper published ''[[The Pioneers (novel)|The Pioneers]]'', the first of the [[Leatherstocking Tales|''Leatherstocking'' series]] in 1823. The series features the inter-racial friendship of [[Natty Bumppo]], a resourceful American woodsman who is at home with the [[Delaware Indians]] and their chief Chingachgook. Bumppo was also the main character of Cooper's most famous novel ''[[The Last of the Mohicans]]'' (1826), written in New York City where Cooper and his family lived from 1822 to 1826. The book became one of the more widely read American novels of the 19th century.<ref>[https://books.google.com/books?id=28ZGsefcNXAC&pg=PA75 ''Last of the Mohicans'']. In: Martin J. Manning (ed.), Clarence R. Wyatt (ed.): ''Encyclopedia of Media and Propaganda in Wartime America. Volume I.''. ABC-CLIO, 2011, {{ISBN|978-1598842289}}, pp. 75–76</ref> At this time, Cooper had been living in New York on Beach Street in what is now downtown's Tribeca.
+
+In 1823, he became a member of the [[American Philosophical Society]] in Philadelphia. In August of that same year, his first son died.<ref>[[#Phillips|Phillips, 1913]], p. 99</ref> He organized the influential [[Bread and Cheese Club (New York)|Bread and Cheese Club]] that brought together American writers, editors, artists, scholars, educators, art patrons, merchants, lawyers, politicians, and others.<ref>{{Cite web|url=https://www.britannica.com/topic/Bread-and-Cheese-Club|title=Bread and Cheese Club &#124; American intellectual group}}</ref>
+
+In 1824, General Lafayette arrived from France aboard the ''Cadmus'' at [[Castle Clinton|Castle Garden]] in New York City as the nation's guest. Cooper witnessed his arrival and was one of the active committee of welcome and entertainment.<ref>[[#Phillips|Phillips, 1913]], p. 114</ref><ref>[[#Franklin2007|Franklin, 2007]], p. 314</ref>
+
+===Europe===
+In 1826, Cooper moved his family to Europe,<ref>{{Cite book|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=6126586|title=Excursion in Italy|year=1838}}</ref> where he sought to gain more income from his books, provide better education for his children, improve his health, and observe European manners and politics firsthand. While overseas, he continued to write. His books published in Paris include ''The Prairie,'' the third Leather-Stocking Tale in which Natty Bumppo dies in the western land newly acquired by Jefferson as the Louisiana Purchase. There he also published ''[[The Red Rover]]'' and ''The Water Witch'', two of his many sea stories. During his time in Paris, the Cooper family became active in the small American expatriate community. He became friends with painter (and later inventor) [[Samuel Morse]] and with French general and American Revolutionary War hero [[Gilbert du Motier, Marquis de Lafayette]].<ref>[[#Phillips|Phillips, 1913]], p. 239</ref><ref>[[#McCullough|McCullough, 2011]]</ref> Cooper admired the patrician liberalism of Lafayette, who sought to recruit him to his causes, and eulogized him as a man who "dedicated youth, person, and fortune, to the principles of liberty."<ref>{{cite book |last1=McWilliams |first1=John P. |title=Political Justice in a Republic: James Fenimore Cooper's America |url=https://archive.org/details/politicaljustice0000mcwi |url-access=registration |date=1972 |publisher=University of California Press |page=[https://archive.org/details/politicaljustice0000mcwi/page/41 41]& 147|isbn=9780520021754 }}</ref>
+
+Cooper's distaste for the corruption of the European aristocracy, especially in England and France, grew as he observed them manipulate the legislature and judiciary to the exclusion of other classes.<ref>{{cite book |last1=McWilliams |first1=John P. |title=Political Justice in a Republic: James Fenimore Cooper's America |url=https://archive.org/details/politicaljustice0000mcwi |url-access=registration |date=1972 |publisher=University of California Press |page=[https://archive.org/details/politicaljustice0000mcwi/page/148 148]|isbn=9780520021754 }}</ref> In 1832, he entered the lists as a political writer in a series of letters to ''[[Le National (Paris)|Le National]]'', a Parisian journal. He defended the United States against a string of charges brought by the ''Revue Britannique''. For the rest of his life, he continued skirmishing in print, sometimes for the national interest, sometimes for that of the individual, and frequently for both at once.{{citation needed|date=August 2015}}
+
+This opportunity to make a political confession of faith reflected the political turn that he already had taken in his fiction, having attacked European anti-republicanism in ''[[The Bravo]]'' (1831). Cooper continued this political course in ''[[The Heidenmauer]]'' (1832) and ''[[The Headsman: or the Abbaye of Vigneron]]'' (1833). ''The Bravo'' depicted [[Venice]] as a place where a ruthless [[oligarchy]] lurks behind the mask of the "serene republic". All were widely read on both sides of the Atlantic, though some Americans accused Cooper of apparently abandoning American life for European—not realizing that the political subterfuges in the European novels were cautions directed at his American audiences. Thus ''The Bravo'' was roughly treated by some critics in the United States.<ref>[http://external.oneonta.edu/cooper/susan/susan-bravo.html James Fenimore Cooper, ''The Bravo''], State University at Oneonta.</ref>
+
+[[File:Cooper's St. Mark's Place Home, NYC.png|thumb|194px|Cooper's townhouse at 6 [[St. Mark's Place (Manhattan)|St. Mark's Place]] in the [[East Village, Manhattan]]<ref>[[#Phillips|Phillips, 1913]], p. 272</ref> ]]
+
+===Back to America===
+In 1833, Cooper returned to the United States and published ''A Letter to My Countrymen'' in which he gave his criticism of various social and political mores. Promotional material from a modern publisher summarize his goals as follows:
+
+<blockquote>A Letter To My Countrymen remains Cooper's most trenchant work of social criticism. In it, he defines the role of the "man of letters" in a republic, the true conservative, the slavery of party affiliations, and the nature of the legislative branch of government. He also offers her most persuasive argument on why America should develop its own art and literary culture, ignoring the aristocratically tainted art of Europe.<ref>JF Cooper. ''The American Democrat and Other Political Writings'', Edited by John Willson, Regnery Publishing.</ref></blockquote>
+
+Influenced by the ideals of [[classical republicanism]], Cooper feared that the orgy of speculation he witnessed was destructive of civic virtue and warned Americans that it was a "mistake to suppose commerce favorable to liberty"; doing so would lead to a new "moneyed aristocracy."<ref name="Diggins">{{cite book |last1=Diggins |first1=John Patrick |title=The Lost Soul of American Politics: Virtue, Self-Interest, and the Foundations of Liberalism |date=1984 |publisher=University of Chicago Press |pages=180−190}}</ref> Drawing upon philosophers such as [[Jean-Jacques Rousseau]], [[Jean-Jacques Burlamaqui|Burlamaqui]], and [[Montesquieu]], Cooper's political ideas were both democratic, deriving from the consent of the governed, and liberal, concerned with the rights of the individual.<ref name="Diggins" />
+
+In the later 1830s—despite his repudiation of authorship in ''A Letter To My Countrymen''—he published ''Gleanings in Europe'', five volumes of social and political analysis of his observations and experiences in Europe. His two novels ''Homeward Bound'' and ''Home as Found'' also criticize the flamboyant financial speculation and toadyism he found on his return; some readers and critics attacked the works for presenting a highly idealized self-portrait, which he vigorously denied.
+
+In June 1834, Cooper decided to reopen his ancestral mansion [[Otsego Hall]] at Cooperstown. It had long been closed and falling into decay; he had been absent from the mansion nearly 16 years. Repairs were begun, and the house was put in order. At first, he wintered in New York City and summered in Cooperstown, but eventually he made Otsego Hall his permanent home.<ref>[[#Clymer|Clymer, 1900]], pp. xi–xv</ref>
+
+On May 10, 1839, Cooper published ''History of the Navy of the United States of America'', a work that he had long planned on writing. He publicly announced his intentions to author such a historical work while abroad before departing for Europe in May 1826, during a parting speech at a dinner given in his honor:
+
+<blockquote>Encouraged by your kindness, ... I will take this opportunity of recording the deeds and sufferings of a class of men to which this nation owes a debt of gratitude—a class of men among whom, I am always ready to declare, not only the earliest, but many of the happiest days of my youth have been passed.<ref>[[#Lounsbury|Lounsbury, 1883]], p. 200</ref></blockquote>
+
+===Historical and nautical work===
+His historical account of the U.S. Navy was well received, though his account of the roles played by the American leaders in the Battle of Lake Erie led to years of disputes with their descendants, as noted below. Cooper had begun thinking about this massive project in 1824, and concentrated on its research in the late 1830s. His close association with the U.S. Navy and various officers, and his familiarity with naval life at sea provided him the background and connections to research and write this work. Cooper's work is said to have stood the test of time and is considered an authoritative account of the U.S. Navy during that time.<ref name="Phillips277">[[#Phillips|Phillips, 1913]], p. 277</ref>
+[[File:James Fenimore Cooper by Jarvis.jpg|thumb|left|Portrait by [[John Wesley Jarvis]] of Cooper in naval uniform]]
+In 1844, Cooper's ''Proceedings of the naval court martial in the case of [[Alexander Slidell Mackenzie]], a commander in the navy of the United States, &c:'', was first published in ''[[Graham's Magazine|Graham's Magazine of 1843–44]]''. It was a review of the court martial of [[Alexander Slidell Mackenzie]] who had hanged three crew members of the brig [[USS Somers (1842)|USS ''Somers'']] for mutiny while at sea. One of the hanged men, 19-year-old Philip Spencer, was the son of [[United States Secretary of War|U.S. Secretary of War]] [[John C. Spencer]]. He was executed without court-martial along with two other sailors aboard the ''Somers'' for allegedly attempting mutiny. Prior to this affair, Cooper and Mackenzie had disputed each other's version of the [[Battle of Lake Erie]]. However, recognizing the need for absolute discipline in a warship at sea, Cooper still felt sympathetic to Mackenzie over his pending court martial.<ref name="phillips305">[[#Phillips|Phillips, 1913]], pp. 305–306</ref><ref name="clymer110">[[#Clymer|Clymer, 1900]], pp. 110–111</ref>
+
+In 1843, an old shipmate, Ned Myers, re-entered Cooper's life. To assist him—and hopefully to cash in on the popularity of maritime biographies—Cooper wrote Myers's story which he published in 1843 as ''Ned Myers, or a Life before the Mast'', an account of a common seaman still of interest to naval historians.
+
+In 1846, Cooper published ''Lives of Distinguished American Naval Officers'' covering the biographies of [[William Bainbridge]], [[Richard Somers]], [[John Shaw (navy)|John Shaw]], [[John T. Shubrick]], and [[Edward Preble]].<ref>[[#Cooper2|Cooper, 1846]], 436 pages</ref><ref>[[#Phillips|Phillips, 1913]], p. 308</ref> Cooper died in 1851.<ref>{{cite web |url=http://timesmachine.nytimes.com/timesmachine/1851/09/18/issue.html |title=TimesMachine: September 18, 1851 |newspaper=The New York Times |date=September 18, 1851 |access-date=2016-07-07 |url-access=subscription}}</ref> In May 1853, Cooper's ''Old Ironsides'' appeared in Putnam's Monthly. It was the history of the Navy ship {{USS|Constitution}} and, after ''European and American Scenery Compared'', 1852, was one of several posthumous publication of his writings.<ref>{{cite web |url=http://external.oneonta.edu/cooper/texts/ironsides.html |title=Old Ironsides |last=Cooper |first=James Fenimore |publisher=James Fenimore Cooper Society |access-date=2012-07-22}}</ref> In 1856, five years after Cooper's death, his ''History of the Navy of the United States of America'' was re-published in an expanded edition. The work was an account of the U.S. Navy in the early 19th century, through the Mexican War.<ref name="Phillips277"/><ref>[[#Cooper|Cooper, 1856]] 508 pages</ref> Among naval historians of today, the work has come to be recognized as a general and authoritative account. However, it was criticized for accuracy on some points by some contemporaries, especially those engaged in the disputes over the roles of their relatives in Cooper's separate history of the [[Battle of Lake Erie]]. Whig editors of the period regularly attacked anything Cooper wrote, leading him to numerous suits for libel, for example against [[Park Benjamin, Sr.]], a poet and editor of the ''Evening Signal'' of New York.<ref>[[#Clymer|Clymer, 1900]], pp. 94, 107</ref>
+
+===Critical reaction===
+
+Cooper's writings of the 1830s related to current [[politics]] and social issues, coupled with his perceived self-promotion, increased the ill feeling between the author and some of the public. Criticism in print of his naval histories and the two ''Home'' novels came largely from newspapers supporting The [[United States Whig Party|Whig]] party, reflecting the antagonism between the Whigs and their opposition, the Democrats, whose policies Cooper often favored. Cooper's father William had been a staunch Federalist, a party now defunct but some of whose policies supporting large-scale capitalism the Whigs endorsed. Cooper himself had come to admire Thomas Jefferson, the bete-noire of the Federalists, and had supported Andrew Jackson's opposition to a National Bank. Never one to shrink from defending his personal honor and his sense of where the nation was erring, Cooper filed legal actions for [[libel]] against several Whig editors; his success with most of his lawsuits ironically led to more negative publicity from the Whig establishment.
+
+Buoyed by his frequent victories in court, Cooper returned to writing with more energy and success than he had had for several years. As noted above, on May 10, 1839, he published his ''History of the U.S. Navy'';<ref name="Phillips277"/> his return to the ''Leatherstocking Tales'' series with ''[[The Pathfinder, or The Inland Sea]]'' (1840) and ''[[The Deerslayer]]'' (1841) brought him renewed favorable reviews. But on occasion he returned to addressing public issues, most notably with a trilogy of novels called the ''Littlepage Manuscripts'' addressing the issues of the [[Anti-Rent War|anti-rent wars]]. Public sentiment largely favored the anti-renters, and Cooper's reviews again were largely negative.
+
+==Later life==
+
+Faced with competition from younger writers and magazine serialization, and lower prices for books resulting from new technologies, Cooper simply wrote more in his last decade than in either of the previous two. Half of his thirty-two novels were written in the 1840s. They may be grouped into three categories: Indian romances, maritime fiction, and political and social controversy—though the categories often overlap.
+
+The 1840s began with the last two novels featuring Natty Bumppo, both critical and reader successes: ''The Pathfinder'' (1840) and ''The Deerslayer'' (1841). ''Wyandotte'', his last novel set in the Revolutionary War, followed in 1843 and ''Oak Openings'' in 1848. The nautical works were ''Mercedes of Castile'' (in which Columbus appears, 1840),''The Two Admirals'' (British and French fleets in battle, 1842), ''Wing-And-Wing'' (a French privateer fighting the British in 1799, 1842), ''Afloat and Ashore'' (two volumes exploring a young man growing up, 1844), ''Jack Tier'' (a vicious smuggler in the Mexican-American War, 1848), and ''The Sea Lions'' (rival sealers in the Antarctic, 1849).
+ 
+He also turned from pure [[fiction]] to the combination of art and controversy in which he achieved notoriety in the novels of the previous decade. His ''Littlepage Manuscripts'' trilogy--''Satanstoe'' (1845), ''The Chainbearer'' (1845), and ''The Redskins'' (1846)--dramatized issues of land ownership in response to renters in the 1840s opposing the long leases common in the old Dutch settlements in the Hudson Valley. He tried his hand with serialization with ''The Autobiography of a Pocket Handkerchief'', first published in ''Graham's Magazine'' in 1843, a satire on contemporary nouveau riche. In ''The Crater, or Vulcan's Peak'' (1847) he introduced [[supernatural]] machinery to show the decline of an ideal society in the South Seas when demagogues prevail. ''The Ways of the Hour'', his last completed novel, portrayed a mysterious and independent young woman defending herself against criminal charges.<ref><span class="plainlinks">[https://books.google.com/books?id=s5QLAQAAIAAJ&pg=PA1 Book of James Fenimore Cooper]</span>. Retrieved October 17, 2012.</ref>
+
+Cooper spent the last years of his life back in Cooperstown. He died on September 14, 1851, the day before his 62nd birthday. He was buried in the Christ Episcopal Churchyard, where his father, [[William Cooper (judge)|William Cooper]], was buried. Cooper's wife Susan survived her husband only by a few months and was buried by his side at Cooperstown.
+
+Several well-known writers, politicians, and other public figures honored Cooper's memory with a memorial in New York, six months after his death, in February 1852. [[Daniel Webster]] gave a speech to the gathering while [[Washington Irving]] served as a co-chairman, along with [[William Cullen Bryant]], who also gave an address which did much to restore Cooper's damaged reputation among American writers of the time.<ref>Jones, Brian Jay. ''Washington Irving: An American Original''. New York: Arcade Publishing, 2008: 391. {{ISBN|978-1-55970-836-4}}.</ref><ref>[[#Hale1896|Hale, 1896]], p. 658</ref>
+
+==Religious activities==
+Cooper's father was a lapsed Quaker; probably influenced by his wife's family, the DeLanceys, Cooper in his fiction often favorably depicted clergy of the [[Episcopal Church (United States)|Episcopal Church]], though Calvinist ministers came in for their share of both admiring and critical treatment. In the 1840s as Cooper increasingly despaired over the United States maintaining the vision and promise of the Constitution, his fiction increasingly turned to religious themes. In ''The Wing-And-Wing'', 1842, the hero, a French revolutionary free-thinker, loses the Italian girl he loves because he cannot accept her simple Christianity. In contrast, in the 1849 ''The Sea Lions'' the hero wins his beloved only after a spiritual transformation while marooned in the Antarctic. And the 1848 ''The Oak Openings'' features a pious Parson Amen who wins the admiration of the Indians who kill him, praying for them during torture.
+
+After establishing permanent residence in Cooperstown, Cooper became active in Christ Episcopal Church, taking on the roles of warden and [[vestryman]]. As the vestryman, he donated generously to this church and later supervised and redesigned its interior with oak furnishings at his own expense. He was also energetic as a representative from Cooperstown to various regional conventions of the Episcopal church. But only several months before his death, in July 1851, was he [[Confirmation|confirmed]] in this church by his brother-in-law, the Reverend William H. DeLancey.<ref>[[#Lounsbury|Lounsbury, 1883]], p. 23</ref><ref>[[#Phillips|Phillips, 1913]], pp. 340–341</ref><ref>See Fowler, 'Modern English Usage,' Mencken 'The American Language.' 'Crockford's Clerical Directory,' or 1969 ed. 'American Heritage Dictionary' for the correct use of the adjective "reverend." It is to be used exactly as the adjective "honorable" is used. One would not call Judge John Smith "the Honorable Smith."</ref>
+
+==Legacy==
+[[File:James Fenimore Cooper Statue.jpg|thumb|Statue in [[Cooperstown, New York]]]]
+
+Cooper was one of the more popular 19th-century American authors, and his work was admired greatly throughout the world.<ref>Ross, Ernest C. ''Books Abroad'', vol. 1, no. 3, 1927, pp. 78–79.([https://www.jstor.org/stable/40043351 JSTOR])</ref> While on his death bed, the Austrian composer [[Franz Schubert]] wanted most to read more of Cooper's novels.<ref>Letter from Schubert to [[Franz von Schober]], November 12, 1828</ref> [[Honoré de Balzac]], the French novelist and playwright, admired him greatly.<ref name="Phillips350">[[#Phillips|Phillips, 1913]], p. 350</ref> [[Henry David Thoreau]], while attending Harvard, incorporated some of Cooper's style in his own work.<ref>[[#Franklin2007|Franklin, 2007]], p. xxix</ref> [[D.H. Lawrence]] believed that Turgenev, Tolstoy, Dostoyevsky, Maupassant, and Flaubert were all "so very obvious and coarse, besides the lovely, mature and sensitive art of Fennimore Cooper." Lawrence called ''The Deerslayer'' "one of the most beautiful and perfect books in the world: flawless as a jewel and of gem-like concentration."<ref>{{cite book |last=Ellis |first=Dave |date=1998 |title=D.H. Lawrence: Dying Game 1922–1930 |url=https://archive.org/details/dhlawrencedyingg00elli/page/66 |publisher=Cambridge University Press |page=[https://archive.org/details/dhlawrencedyingg00elli/page/66 66] |isbn=978-0521254212 }}</ref>
+
+Cooper's work, particularly ''The Pioneers'' and ''[[The Pilot: A Tale of the Sea|The Pilot]]'', demonstrate an early 19th-century American preoccupation with alternating prudence and negligence in a country where property rights were often still in dispute.<ref>Nan Goodman, ''Shifting the Blame: Literature, Law, and the Theory of Accidents in Nineteenth-Century America''. Princeton UP 1998</ref>
+
+Cooper was one of the early major American novelists to include African, African-American and Native American characters in his works. In particular, Native Americans play central roles in his ''[[Leatherstocking Tales]]''. However, his treatment of this group is complex and highlights the relationship between frontier settlers and American Indians as exemplified in ''The Wept of Wish-ton-Wish'', depicting a captured white girl who marries an Indian chief and has a baby with him, but after several years is eventually returned to her parents.<ref>[[#Phillips|Phillips, 1913]], pp. 189–190</ref> Often, he gives contrasting views of Native characters to emphasize their potential for good, or conversely, their proclivity for mayhem. ''Last of the Mohicans'' includes both the character of Magua, who fearing the extinction of his race at the hands of the whites savagely betrays them, as well as Chingachgook, the last chief of the Mohicans, who is portrayed as Natty Bumppo's noble, courageous, and heroic counterpart.<ref>[[#Clymer|Clymer, 1900]], pp. 43–44</ref>
+
+In 1831, Cooper was elected into the [[National Academy of Design]] as an Honorary Academician.
+
+According to [[Tad Szulc]], Cooper was a devotee of Poland's causes (uprisings to regain Polish sovereignty). He organized a club in Paris to support the rebels, and brought flags of the defeated Polish rebel regiment from Warsaw to present them to the exiled leaders in Paris. With his friend the Marquis de La Fayette, he supported liberals during the regime changes in France and elsewhere in the 1830s. .<ref>[[#Szulc|Szulc, 1998]], p. 86</ref>
+
+Though some scholars have hesitated to classify Cooper as a strict Romantic, [[Victor Hugo]] pronounced him ''greatest novelist of the century'' outside France.<ref name="Phillips350"/> Honoré de Balzac, while mocking a few of Cooper's novels (''"rhapsodies"'') and expressing reservations about his portrayal of characters, enthusiastically called ''The Pathfinder'' a masterpiece and professed great admiration for Cooper's portrayal of nature, only equalled in his view by Walter Scott.<ref>{{Cite book| title=Balzac en pantoufles| first1=Léon| last1=Gozlan| language=fr| publisher=M. Lévy frères| year=1856| location=Paris| page=73| url=https://archive.org/stream/balzacenpantoufl00gozl#page/73}}</ref> [[Mark Twain]], the ultimate Realist, criticized the Romantic plots and overwrought language of ''The Deerslayer'' and ''The Pathfinder'' in his satirical but shrewdly observant essay, "[[Fenimore Cooper's Literary Offenses]]" (1895).<ref>{{cite web|url=http://etext.virginia.edu/railton/projects/rissetto/offense.html |title=Fenimore Cooper's Literary Offences |publisher=Etext.virginia.edu |access-date=2012-12-24}}</ref>
+
+Cooper was also criticized heavily in his day for his depiction of women characters in his work. [[James Russell Lowell]], Cooper's contemporary and a critic, referred to it poetically in ''[[A Fable for Critics]]'', writing, "... the women he draws from one model don't vary / All sappy as maples and flat as a prairie."<ref>Porte, Joel. ''The Romance in America: Studies in Cooper, Poe, Hawthorne, Melville, and James''. Middletown, CN: Wesleyan University Press, 1969: 20.</ref>
+
+Cooper's lasting reputation today rests largely upon the five ''Leatherstocking Tales''. In his 1960 study focusing on romantic relationships, both hetero- and homo-sexual, literary scholar [[Leslie Fiedler]] opines that with the exception of the five Natty Bumppo-Chingachgook novels, Cooper's "collected works are monumental in their cumulative dullness."<ref>Fiedler, Leslie. ''Love and Death in the American Novel''. Dalkey Archive Press, 2008 (reprint): 180. {{ISBN|978-1-56478-163-5}}</ref> More recent criticism views all thirty-two novels in the context of Cooper's responding to changing political, social, and economic realities in his time period.
+
+[[File:James Fenimore Cooper2 1940 issue.jpg|thumb|left|Cooper was honored on a U.S. commemorative stamp, the ''[[Postage stamps and postal history of the United States#Famous Americans Series of 1940|Famous American]]'' series, issued in 1940]]
+Cooper was honored on a U.S. commemorative stamp, the ''[[Postage stamps and postal history of the United States#Famous Americans Series of 1940|Famous American]]'' series, issued in 1940.
+
+Three dining halls at the [[State University of New York at Oswego]] are named in Cooper's remembrance (Cooper Hall, The Pathfinder, and Littlepage) because of his temporary residence in Oswego and for setting some of his works there.<ref>{{cite web|url=http://www.oswego.edu/library/resources/buildings.html |title=SUNY Oswego – Penfield Library: Who Were Our Buildings? |publisher=Oswego.edu |date=October 1, 1966 |access-date=2012-12-24}}</ref>
+
+Cooper Park in [[Michigan]]'s [[Comstock Township, Michigan|Comstock Township]] is named after him.<ref>{{cite web|url=https://comstockmi.gov/parks 
+|title=Comstock Township Parks 
+|publisher=comstockmi.gov
+|access-date=2020-06-17}}</ref>
+
+The New Jersey Turnpike has a James Fenimore Cooper service area, recognizing his birth in the state.
+
+The gilded and red [[Toleware|tole]] chandelier hanging in the library of the [[White House]] in Washington DC is from the family of James Fenimore Cooper.<ref>{{cite web|url=http://www.whitehousemuseum.org/floor0/library.htm|title=Library|publisher=whitehousemuseum}}</ref> It was brought there through the efforts of First Lady [[Jacqueline Kennedy]] in her great White House restoration. The James Fenimore Cooper Memorial Prize at [[New York University]] is awarded annually to an outstanding undergraduate student of journalism.<ref>[http://cas.nyu.edu/object/bulletin1012.ug.honorsawards ] {{webarchive |url=https://web.archive.org/web/20100610113329/http://cas.nyu.edu/object/bulletin1012.ug.honorsawards |date=June 10, 2010 }}</ref>
+
+In 2013, Cooper was inducted into the [[New York Writers Hall of Fame]].
+
+Cooper's novels were very popular in the rest of the world, including, for instance, Russia. In particular, great interest of the Russian public in Cooper's work was primarily incited by the novel ''The Pathfinder'', which the renowned Russian literary critic [[Vissarion Belinsky]] declared to be "a Shakespearean drama in the form of a novel".<ref>{{cite book|title=Разделение поэзии на роды и виды |trans-title=The Division of Poetry into Genera and Species|year=1841|url=http://az.lib.ru/b/belinskij_w_g/text_0790.shtml|author=Vissarion Belinsky|author-link=Vissarion Belinsky|access-date=2014-02-28|format=text|quote=(In English: Cooper is here deep interpreter of the human heart, a great painter of the world of the soul, like Shakespeare. Definitely and clearly he uttered the unspeakable, reconciled and merged together internal and external—and his "The Pathfinder" is a Shakespearean drama in the form of the novel, the only creature in this way, having nothing equal with him, the triumph of modern art in the epic poetry.)}}</ref> The author was more recognizable by his middle name, Fenimore, exotic to many in Russia. This name became a symbol of exciting adventures among Russian readers. For example, in the 1977 Soviet movie ''The Secret of Fenimore'' ({{lang-ru|Тайна Фенимора}}), being the third part of a children's television mini-series ''Three Cheerful Shifts'' ({{lang-ru|[[:ru:Три весёлые смены|Три весёлые смены]]}}, see {{IMDb title|1714911|Tri vesyolye smeny|(1977)}}), tells of a mysterious stranger known as ''Fenimore'', visiting a boys' dorm in a summer camp nightly and relating fascinating stories about [[Native Americans in the United States|Indians]] and extraterrestrials.
+
+==Works==
+
+{|class="wikitable sortable" style="font-size:90%;"
+|-
+!Date
+!Title: Subtitle
+!Genre
+!Topic, Location, Period
+|-
+|1820
+|''[[Precaution (novel)|Precaution]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/10365 |title=Precaution |author=James Fenimore Cooper|publisher=Gutenberg.org |date=December 1, 2003 |access-date=2012-12-24}}</ref>
+|novel
+|[[England]], 1813–1814 Upper-class romances
+|-
+|1821
+|''[[The Spy (Cooper novel)|The Spy: A Tale of the Neutral Ground]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/9845 |title=The Spy|author=James Fenimore Cooper|publisher=Gutenberg.org |date=February 1, 2006 |access-date=2012-12-24}}</ref>
+|novel
+|[[Westchester County, New York]], 1780 Conflicts and espionage between military and guerilla forces in Revolutionary War
+|-
+|1823
+|''[[The Pioneers (novel)|The Pioneers: or The Sources of the Susquehanna]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/2275 |title=The Pioneers|author=James Fenimore Cooper |publisher=Gutenberg.org |date=August 1, 2000 |access-date=2012-12-24}}</ref>
+|novel
+|[[Leatherstocking Tales|Leatherstocking]], [[Otsego County, New York]], 1793–1794, A "Descriptive Tale" of early Cooperstown
+|-
+|1823
+|''[[Tales for Fifteen]]: or Imagination and Heart''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/2282 |title=Tales for Fifteen, or, Imagination and Heart|author=James Fenimore Cooper |publisher=Gutenberg.org |date=August 1, 2000 |access-date=2012-12-24}}</ref>
+|short stories
+|moralistic tales written under the pseudonym: Jane Morgan
+|-
+|1824
+|''[[The Pilot: A Tale of the Sea]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/7974 |title=The Pilot: A Tale of the Sea|author=James Fenimore Cooper|publisher=Gutenberg.org |date=April 1, 2005 |access-date=2012-12-24}}</ref>
+|novel
+|[[w:John Paul Jones|John Paul Jones]], England, 1780. The American Revolution at sea
+|-
+|1825
+|''[[Lionel Lincoln]]: or The Leaguer of Boston''
+|novel
+|[], [[Boston]], 1775–1781 Conflicts between Patriots and Loyalists leading to Bunker Hill
+|-
+|1826
+|''[[The Last of the Mohicans]]: A narrative of 1757'' <ref>{{cite book|url=https://www.gutenberg.org/ebooks/940 |title=The Last of the Mohicans; A narrative of 1757|author=James Fenimore Cooper |publisher=Gutenberg.org |date=February 5, 2006 |access-date=2012-12-24}}</ref>
+|novel
+|''[[w:Leatherstocking Tales|Leatherstocking]]'', [[French and Indian War]], [[Lake George (New York)|Lake George]] & [[Adirondacks]], 1757
+|-
+|1827
+|''[[The Prairie]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/6450 |title=The Prairie|author=James Fenimore Cooper|publisher=Gutenberg.org |date=September 1, 2004 |access-date=2012-12-24}}</ref>
+|novel
+|[[Leatherstocking Tales|Leatherstocking]], [[American Midwest]], 1805—The Louisiana Purchase
+|-
+|1828
+|''[[The Red Rover]]: A Tale''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/11409 |title=The Red Rover|author=James Fenimore Cooper|publisher=Gutenberg.org |date=March 1, 2004 |access-date=2012-12-24}}</ref>
+|novel
+|[[Newport, Rhode Island]] & Atlantic Ocean, pirates, 1759
+|-
+|1828
+|''[[Notions of the Americans]]: Picked up by a Travelling Bachelor''
+|non-fiction
+|Cooper's response to Lafayette's request to present Americas favorably to Europeans
+|-
+|1829
+|''[[The Wept of Wish-ton-Wish]]: A Tale''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/8888 |title=The Wept of Wish-Ton-Wish|author=James Fenimore Cooper|publisher=Gutenberg.org |date=September 1, 2005 |access-date=2012-12-24}}</ref>
+|novel
+|Western Connecticut, Puritans and Indians, 1660–1676, King Philip's War
+|-
+|1830
+|''[[The Water-Witch]]: or the Skimmer of the Seas'' <ref>{{cite book|url=https://www.gutenberg.org/ebooks/12445 |title=The Water-Witch or, the Skimmer of the Seas|author=James Fenimore Cooper |publisher=Gutenberg.org |date=May 1, 2004 |access-date=2012-12-24}}</ref>
+|novel
+|New York, smugglers, 1713
+|-
+|1830
+|''[[Letter to General Lafayette]]''
+|politics
+|France vs. US, cost of government
+|-
+|1831
+|''[[The Bravo]]: A Tale''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/10363 |title=The Bravo|author=James Fenimore Cooper|publisher=Gutenberg.org |date=December 1, 2003 |access-date=2012-12-24}}</ref>
+|novel
+|[[w:Venice|Venice]], 18th century. Corruption of the Venetian Republic by oligarchs
+|-
+|1832
+|''[[The Heidenmauer]]: or, The Benedictines, A Legend of the Rhine''
+|novel
+|German Rhineland, 16th century, The Protestant reformation and greed
+|-
+|1832
+|''[[No Steamboats]]''
+| short story
+| allegory satirizing European misconceptions about America which Cooper first wrote in French
+|-
+|1833
+|''[[The Headsman: The Abbaye des Vignerons]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/10938 |title=The Headsman|author=James Fenimore Cooper|publisher=Gutenberg.org |date=February 1, 2004 |access-date=2012-12-24}}</ref>
+|novel
+|Geneva, Switzerland, & Alps, 18th century
+|-
+|1834
+|''[[A Letter to His Countrymen]]''
+|politics
+|Why Cooper temporarily stopped writing
+|-
+|1835
+|''[[The Monikins]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/4092 |title=The Monikins|author=James Fenimore Cooper|publisher=Gutenberg.org |date=May 1, 2003 |access-date=2012-12-24}}</ref>
+|novel
+|Antarctica, aristocratic monkeys, 1830s; a satire on British and American politics.
+|-
+|1836
+|''[[The Eclipse (Cooper book)|The Eclipse]]''<ref>{{cite web|url=http://etext.lib.virginia.edu/toc/modeng/public/CooEcli.html |title=The Eclipse |publisher=Etext.lib.virginia.edu |access-date=2012-12-24}}</ref>
+|memoir
+|[[Solar eclipse]] in [[Cooperstown, New York]] Cooper's reaction to a criminal whose execution was stayed, 1806
+|-
+|1836
+|''An Execution at Sea''<ref>{{cite book|url=https://archive.org/details/jamesfenimorecoo0000phil|url-access=registration|title=James Fenimore Cooper and the Development of American Sea Fiction|author=Thomas Philbrick|publisher=Harvard University Press |year=1961 }}</ref>
+|short story
+|execution of a murderer on a ship. Cooper's authorship is questionable.
+|-
+|1836
+|''[[Gleanings in Europe: Switzerland]] (Sketches of Switzerland)''
+|travel
+|Hiking in Switzerland, 1828. All five ''Gleanings'' books full of social and political commentary.
+|-
+|1836
+|''[[Gleanings in Europe: The Rhine]] (Sketches of Switzerland, Part Second)''
+|travel
+|Travels France, Rhineland & Switzerland, 1832
+|-
+|1836
+|''[[A Residence in France]]: With an Excursion Up the Rhine, and a Second Visit to Switzerland''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/12990 |title=A Residence in France|author=James Fenimore Cooper |publisher=Gutenberg.org |date=July 22, 2004 |access-date=2012-12-24}}</ref>
+|travel
+|
+|-
+|1837
+|''[[Gleanings in Europe: France]]''
+|travel
+|Living, travelling in France, 1826–1828; author's involvement in the political upheavals of the period
+|-
+|1837
+|''[[Gleanings in Europe: England]]''
+|travel
+|Travels in England, 1826, 1828, 1833; dislike of English aristocracy
+|-
+|1838
+|''[[Gleanings in Europe: Italy]]''
+|travel
+|Living, travelling in Italy, 1828–1830
+|-
+|1838
+|''[[The American Democrat]]: or Hints on the Social and Civic Relations of the United States of America''
+|non-fiction
+|US society and government
+|-
+|1838
+|''[[The Chronicles of Cooperstown]]''
+|history
+|Local history of [[Cooperstown, New York]]
+|-
+|1838
+|''[[Homeward Bound (Cooper novel)|Homeward Bound]]: or The Chase: A Tale of the Sea''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/9826 |title=Homeward Bound; Or, the Chase|author=James Fenimore Cooper|publisher=Gutenberg.org |date=February 1, 2006 |access-date=2012-12-24}}</ref>
+|novel
+|Atlantic Ocean & North African coast, 1835. The Effingham family, descendants of Oliver Effingham of ''The Pioneers'', return home from Europe
+|-
+|1838
+|''[[Home as Found|Home as Found: Sequel to Homeward Bound]]''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/10149 |title=Home as Found|author=James Fenimore Cooper|publisher=Gutenberg.org |date=November 1, 2003 |access-date=2012-12-24}}</ref>
+|novel
+|Eve Effingham and her family encounter a social world new to them in New York City & Templeton/Cooperstown, New York, 1835
+|-
+|1839
+|''[[The History of the Navy of the United States of America]]''
+|history
+|U.S. naval history to date
+|-
+|1839
+|''[[Old Ironsides (Cooper book)|Old Ironsides]]''<ref>{{cite web|url=http://external.oneonta.edu/cooper/texts/ironsides.html |title=Old Ironsides |publisher=External.oneonta.edu |access-date=2012-12-24}}</ref>
+|history
+|History of the Frigate [[USS Constitution|USS ''Constitution'']], 1st pub. 1853
+|-
+|1840
+|''[[The Pathfinder, or The Inland Sea]]'' <ref>{{cite book|url=https://www.gutenberg.org/ebooks/1880 |title=Pathfinder; or, the inland sea|author=James Fenimore Cooper|publisher=Gutenberg.org |date=September 1, 1999 |access-date=2012-12-24}}</ref>
+|novel
+|[[Leatherstocking Tales|Leatherstocking]], Western New York, 1759. Middle-aged Natty Bumppo falls in love
+|-
+|1840
+|''[[Mercedes of Castile]]: or, The Voyage to Cathay''
+|novel
+|[[Christopher Columbus]] in [[West Indies]], 1490s
+|-
+|1841
+|''[[The Deerslayer (novel)|The Deerslayer: or The First Warpath]]''
+|novel
+|[[Leatherstocking Tales|Leatherstocking]], [[Otsego Lake (New York)|Otsego Lake]] 1740–1745. Natty Bumppo as a youth
+|-
+|1842
+|''[[The Two Admirals]]''
+|novel
+|England & [[English Channel]], [[Scottish uprising]], 1745
+|-
+|1842
+|''[[The Wing-and-Wing]]: le Le Feu-Follet'' <ref>{{cite book|url=https://www.gutenberg.org/ebooks/11957 |title=The Wing-and-Wing|author=James Fenimore Cooper|publisher=Gutenberg.org |date=April 1, 2004 |access-date=2012-12-24}}</ref> (Jack o Lantern)
+|novel
+|Italian coast, Napoleonic Wars, 1799
+|-
+|1843
+|''[[Autobiography of a Pocket-Handkerchief]]'',<ref>{{cite book|url=https://www.gutenberg.org/ebooks/2329 |title=Autobiography of a Pocket-Handkerchief|author=James Fenimore Cooper |publisher=Gutenberg.org |date=September 1, 2000 |access-date=2012-12-24}}</ref> also published as
+* ''Le Mouchoir: An Autobiographical Romance''
+* ''The French Governess: or The Embroidered Handkerchief''
+* ''Die franzosischer Erzieheren: oder das gestickte Taschentuch''
+|novelette
+|Social satire on the nouveau riche, France & New York, 1830s
+|-
+|1843
+|''[[Richard Dale (book)|Richard Dale]]''
+|biography
+|
+|-
+|1843
+|''[[Wyandotté (novel)|Wyandotté]]: or The Hutted Knoll. A Tale''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/10434 |title=Wyandotté, or, The Hutted Knoll|author=James Fenimore Cooper |publisher=Gutenberg.org |date=December 1, 2003 |access-date=2012-12-24}}</ref>
+|novel
+|[[w:Butternuts, New York|Butternut Valley]] of [[w:Otsego County, New York|Otsego County, New York]], Indian romance, 1763–1776
+|-
+|1843
+|''[[Ned Myers]]: or Life before the Mast''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/9788 |title=Ned Myers, or, a Life Before the Mast|author=James Fenimore Cooper|publisher=Gutenberg.org |date=January 1, 2006 |access-date=2012-12-24}}</ref>
+|biography
+|of Cooper's shipmate who survived an 1813 sinking of a US sloop of war in a storm
+|-
+|1844
+|''[[Afloat and Ashore]]: or The Adventures of Miles Wallingford. A Sea Tale''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/8647 |title=Afloat and Ashore: A Sea Tale|author=James Fenimore Cooper|publisher=Gutenberg.org |date=August 1, 2005 |access-date=2012-12-24}}</ref>
+|novel
+|[[w:Ulster County, New York|Ulster County]] & worldwide, 1795–1805
+|-
+|1844
+|''[[Miles Wallingford]]: Sequel to Afloat and Ashore''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/11243 |title=Miles Wallingford|author=James Fenimore Cooper |publisher=Gutenberg.org |date=February 1, 2004 |access-date=2012-12-24}}</ref> <br />British<!--http://www.bartleby.com/225/1500.html--> title: ''[[Lucy Hardinge]]: A Second Series of Afloat and Ashore'' (1844)<ref>{{cite book|url=https://archive.org/details/bub_gb_Nt8DAAAAQAAJ |title=Lucy Hardinge: a second ser. of Afloat and ashore, by the author of 'The pilot'|publisher=R. Bentley |author=James Fenimore Cooper|year=1844}}</ref>
+|novel
+|[[w:Ulster County, New York|Ulster County]] & worldwide, 1795–1805
+|-
+|1844
+|''[[Proceedings of the Naval Court-Martial in the Case of Alexander Slidell Mackenzie, &c.]]''
+| Non-fiction
+| Detailed legal assessment of Mackenzie's execution of alleged mutineers
+|-
+|1845
+|''[[Satanstoe]]: or The Littlepage Manuscripts, a Tale of the Colony''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/8880 |title=Satanstoe; Or, the Littlepage Manuscripts. A Tale of the Colony by Cooper – Project Gutenberg |publisher=Gutenberg.org |date=September 1, 2005 |access-date=2012-12-24}}</ref>
+|novel
+|New York City, Westchester County, Albany, Adirondacks, 1758. Prequel to the "anti-rent wars"
+|-
+|1845
+|''[[The Chainbearer]]; or, The Littlepage Manuscripts''
+|novel
+|Westchester County, Adirondacks, 1780s. Next Littlepage generation tries to settle in their lands after the Revolutionary War
+|-
+|1846
+|''[[The Redskins (novel)|The Redskins]]; or, Indian and Injin: Being the Conclusion of the Littlepage Manuscripts''
+|novel
+|Anti-rent wars, Adirondacks, 1845. The "anti-rent" war full blown
+|-
+|1846
+|''[[Lives of Distinguished American Naval Officers]]''
+|biography
+|
+|-
+|1847
+| ''[[The Crater (novel)|The Crater]]; or, Vulcan's Peak: A Tale of the Pacific''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/11573 |title=The Crater by James Fenimore Cooper – Project Gutenberg |publisher=Gutenberg.org |date=March 1, 2004 |access-date=2012-12-24}}</ref> (''Mark's Reef'')
+|novel
+| Philadelphia, Bristol (PA), & deserted Pacific island, early 19th century Utopia destroyed by political strife
+|-
+|1848
+|''[[Jack Tier]]: or the Florida Reefs''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/4796 |title=Jack Tier by James Fenimore Cooper – Project Gutenberg |publisher=Gutenberg.org |date=December 1, 2003 |access-date=2012-12-24}}</ref><br />a.k.a. ''Captain Spike: or The Islets of the Gulf''
+|novel
+|Florida Keys, Mexican War, 1846
+|-
+|1848
+|''[[The Oak Openings]]: or the Bee-Hunter''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/4215 |title=Oak Openings by James Fenimore Cooper – Project Gutenberg |publisher=Gutenberg.org |date=July 1, 2003 |access-date=2012-12-24}}</ref>
+|novel
+|Kalamazoo River, Michigan, War of 1812
+|-
+|1849
+|''[[The Sea Lions]]: The Lost Sealers''<ref>{{cite book|url=https://www.gutenberg.org/ebooks/10545 |title=The Sea Lions by James Fenimore Cooper – Project Gutenberg |publisher=Gutenberg.org |date=December 1, 2003 |access-date=2012-12-24}}</ref>
+|novel
+|Long Island & Antarctica, 1819–1820. Heavy emphasis on religion.
+|-
+|1850
+|''[[The Ways of the Hour]]''
+|novel
+|"[[Dukes County, New York]]", murder/courtroom mystery novel, legal corruption, women's rights, 1846
+|-
+|1850
+|''[[Upside Down (play)|Upside Down]]: or Philosophy in Petticoats''
+|play
+|satirization of [[socialism]]
+|-
+|1851
+|''[[The Lake Gun]]'' <ref>{{cite book|url=https://www.gutenberg.org/ebooks/2328 |title=The Lake Gun by James Fenimore Cooper – Project Gutenberg |publisher=Gutenberg.org |date=September 1, 2000 |access-date=2012-12-24}}</ref>
+|short story
+|[[w:Seneca Lake (New York)|Seneca Lake]] in New York, political satire based on folklore
+|-
+|1851
+|''[[New York: or The Towns of Manhattan]]'' <ref>{{cite book|url=https://www.gutenberg.org/ebooks/2482 |title=New York by James Fenimore Cooper – Project Gutenberg |publisher=Gutenberg.org |date=January 1, 2001 |access-date=2012-12-24}}</ref>
+|history
+|Unfinished, history of New York City, 1st pub. 1864
+|}
+
+==Notes==
+{{Reflist|group=note|30em}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+[[File:Excursion in Italy.tif|thumb|''Excursions in Italy'', 1838]]
+* {{cite web |url=http://xroads.virginia.edu/~ug02/COOPER/cooperbiography.html |title=Biography of James Fenimore Cooper (1789–1851) |ref=xroads |publisher=American Studies at the [[University of Virginia]] |access-date=September 8, 2010 |archive-url=https://web.archive.org/web/20140327221148/http://xroads.virginia.edu/~ug02/COOPER/cooperbiography.html |archive-date=March 27, 2014 |url-status=dead }}
+* {{cite book |last=Clymer |first=William Branford Shubrick |title=James Fenimore Cooper |ref=Clymer |publisher=Small, Maynard & Company, Boston |page=[https://archive.org/details/jamesfenimoreco00clymgoog/page/n179 149] |year=1900| url =https://archive.org/details/jamesfenimoreco00clymgoog}}
+* {{cite book |last=Franklin |first=Wayne |title=James Fenimore Cooper: The Early Years |ref=Franklin20072017 |publisher=Yale University Press |page=[https://archive.org/details/jamesfenimorecoo0000fran/page/708 708] |year=2007|isbn=978-0-300-10805-7 | url = https://archive.org/details/jamesfenimorecoo0000fran|url-access=registration }}; ''James Fenimore Cooper: The Later Years,'' Yale University Press, 2017. p.&nbsp;805 {{ISBN|978-0-300-13571-8}}.
+* {{cite book |last=Hale |first=Edward Everett |title=Illustrious Americans, Their Lives and Great Achievements |author-link=Edward Everett Hale |ref=Hale1896 |publisher=International Publishing Company, Philadelphia and Chicago, Entered 1896, by W.E. Scull, in the office of the Librarian of Congress, Washington, DC |location=Philadelphia and Chicago |year=1896|isbn=978-1162227023 |title-link=:File:Edward Everett Hale cover.jpg }}
+* {{cite book |last=Lounsbury |first=Thomas R. |title=James Fenimore Cooper |author-link=Thomas Lounsbury |ref=Lounsbury |publisher=Houghton, Mifflin and Company, Boston |page=149 |year=1883| url =https://books.google.com/books?id=f540IQY9XCwC}}
+* {{cite book |first=David |last=McCullough|ref=McCullough |title=The Greater Journey: Americans in Paris |author-link=David McCullough |publisher=Simon & Schuster. |year=2011 |isbn= 978-1-4165-7176-6 |title-link=The Greater Journey: Americans in Paris}}
+* {{cite journal| title = Cooper's Treatment of the Negro| first = Therman B. | last =O'Daniel | journal = Phylon |ref=O'Daniel |volume = 8| number = 2| date = 1947| pages = 164–176 | jstor = 271724| doi = 10.2307/271724 }}
+* {{cite book |last=Phillips |first=Mary Elizabeth |title=James Fenimore Cooper |ref=Phillips |publisher=John Lane Company, New York, London |page=[https://archive.org/details/jamesfenimoreco00philgoog/page/n395 368] |year=1913 | url =https://archive.org/details/jamesfenimoreco00philgoog}}
+* {{cite book |last=Roosevelt |first=Theodore |title=The naval war of 1812 |ref=Roosevelt |year=1883 |publisher=<br />G.P. Putnam's sons, New York |page=[https://archive.org/details/bub_gb_Fb1CAAAAYAAJ/page/n579 541]| url = https://archive.org/details/bub_gb_Fb1CAAAAYAAJ}}
+* {{cite web |last=Wright |first=Wayne W. |title=The Cooper Genealogy |ref=Wright |publisher=New York State Historical Association |editor=Hugh C. MacDougal |year=1983 |url=http://external.oneonta.edu/cooper/biographic/genealogy/wrightgenealogy.html}}
+
+===Primary sources===
+* {{cite book |last=Cooper |first=James Fenimore |ref=Cooper2 |title=Lives of distinguished American naval officers |url=https://archive.org/details/livesofdistingui02coop |publisher=<br />Carey and Hart, Philadelphia. |year=1846 |page=436 |oclc=620356 }} [https://books.google.com/books/about/Lives_of_Distinguished_American_Naval_Of.html?id=K_nNlzPZlbUC Url1]
+* {{cite book |title=Old Ironsides |last=Cooper |first=James Fenimore |publisher=G.P. Putnam |year=1853 |ref=ironsides |page=49 |author-mask=3}} [http://external.oneonta.edu/cooper/texts/ironsides.html Url]
+* {{cite book |last=Cooper |first=James Fenimore |title=History of the navy of the United States of America |url=https://archive.org/details/cihm_44639 |author-link =James Fenimore Cooper |ref=Cooper |year=1856 |publisher=<br />Stringer & Townsend, New York |page=[https://archive.org/details/cihm_44639/page/n557 508] |isbn=9780665446399 |oclc=197401914 |author-mask=3}} [https://archive.org/details/historynavyunit00coopgoog Url]
+* ——— (1852). ''The Chainbearer, Or The Littlepage Manuscripts'', Stringer and Townsend, 228 pages; [https://books.google.com/books?id=GC8RAAAAYAAJ&dq=cooper,+Littlepage+Trilogy&source=gbs_navlinks_s eBook]
+
+==Further reading==
+* Clavel, Marcel (1938). ''Fenimore Cooper and his critics: American, British and French criticisms of the novelist's early work'', Imprimerie universitaire de Provence, E. Fourcine, 418 pages; [https://books.google.com/books?id=dncNAQAAIAAJ&source=gbs_navlinks_s Book]
+* Darnell, Donald. (1993). ''James Fenimore Cooper: Novelist of Manners'', Newark, Univ. of Delaware
+* Dekker, George (2017). ''James Fenimore Cooper the Novelist'', Routledge, 2017, ISBN 9781351580014
+* Doolen, Andy (2005). ''Fugitive Empire: Locating Early American Imperialism'', Minneapolis: Univ. of Minnesota P.
+* Franklin, Wayne (1982). ''The New World of James Fenimore Cooper'', Chicago: Univ. of Chicago P, [https://books.google.com/books?id=-k7fAAAACAAJ&source=gbs_navlinks_s Book]
+* –—— (2007). ''James Fenimore Cooper: The Early Years'', New Haven: Yale UP, [https://books.google.com/books?id=1O68047d3OgC&vq=littlepage&source=gbs_navlinks_s Book]
+* Krauthammer, Anna. The Representation of the Savage in James Fenimore Cooper and Herman Melville. NY: Peter Lang, 2008.
+* Long, Robert Emmet (1990). ''James Fenimore Cooper'', NY: Continuum. {{oclc|20296972}}, {{ISBN|978-0826404312}}
+* MacDougall, Hugh C. (1993). ''Where Was James? A James Fenimore Cooper Chronology from 1789–1851''. Cooperstown: James Fenimore Cooper Soc.
+* Rans, Geoffrey (1991). ''Cooper's Leather-Stocking Novels: A Secular Reading''. Chapel Hill: Univ. of North Carolina
+* Redekop, Ernest H., ed. (1989). ''James Fenimore Cooper, 1789–1989: Bicentennial Essays'', ''Canadian Review of American Studies'', entire special issue, vol. 20, no. 3 (Winter 1989), pp.&nbsp;1–164. {{ISSN|0007-7720}}
+* Reid, Margaret (2004). ''Cultural Secrets as Narrative Form: Storytelling in Nineteenth-Century America''. Columbus: Ohio State UP
+* Ringe, Donald A. (1988). ''James Fenimore Cooper''. Boston: Twayne.
+* Romero, Lora (1997). ''Home Fronts: Domesticity and Its Critics in the Antebellum United States''. Durham: Duke UP
+* Smith, Lindsey C. (2008). ''Indians, Environment, and Identity on the Borders of American Literature: From Faulkner and Morrison to Walker and Silko''. NY: Palgrave Macmillan.
+* {{cite book | author=Valtiala, Nalle | title=James Fenimore Cooper's Landscapes in the Leather-Stocking Series and Other Forest Tales | type=Ph.D. thesis | series=Suomalaisen tiedeakatemian toimituksia: Humaniora, 300 | location=Helsinki | publisher= Finnish Academy of Science and Letters | year=1998 | issn=1239-6982 | isbn=951-41-0860-4 }}
+* Verhoeven, W.M. (1993). ''James Fenimore Cooper: New Historical and Literary Contexts''. Rodopi publishers. {{ISBN|978-9051833607}}. [https://books.google.com/books?id=OED8LHPg2S4C&vq=littlepage&source=gbs_navlinks_s Book Google.]
+
+==External links==
+{{Sister project links|James Fenimore Cooper|wikt=no|v=no|n=no|s=Author:James Fenimore Cooper}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/james-fenimore-cooper}}
+* {{Gutenberg author |id=Cooper,+James+Fenimore | name=James Fenimore Cooper}}
+* {{Internet Archive author |sname=James Fenimore Cooper}}
+* {{Librivox author |id=1286}}
+* [https://openlibrary.org/authors/OL39524A/James_Fenimore_Cooper James Fenimore Cooper] at [[Open Library]]
+* [http://external.oneonta.edu/cooper/ James Fenimore Cooper Society Homepage]
+* {{IMDb name|id=0178126|name=James Fenimore Cooper}}
+* [http://archives.nypl.org/brg/19163#overview Finding Aid for the James Fenimore Cooper Collection of Papers, 1825–1904], [[New York Public Library]]
+* [http://digital.lib.lehigh.edu/remain/search.php?searchletters=James+Fenimore+Cooper;0;0;0 James Fenimore Cooper Letters and Manuscript Fragments]. Available online though Lehigh University's [http://digital.lib.lehigh.edu/remain/index.html I Remain: A Digital Archive of Letters, Manuscripts, and Ephemera]
+* [http://www.c-span.org/video/?163765-1/writings-james-fenimore-cooper "Writings of James Fenimore Cooper"] from [[C-SPAN]]'s ''[[American Writers: A Journey Through History]]''
+* [http://twain.lib.virginia.edu/projects/rissetto/offense.html "Fenimore Cooper's Literary Offenses"], an essay by [[Mark Twain]]
+* [[hdl:10079/fa/beinecke.cooper|James Fenimore Cooper Collection]]. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.
+
+{{James Fenimore Cooper|state=expanded}}
+{{The Last of the Mohicans}}
+{{Romanticism}}
+{{Hall of Fame for Great Americans}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cooper, James Fenimore}}
+[[Category:James Fenimore Cooper| ]]
+[[Category:1789 births]]
+[[Category:1851 deaths]]
+[[Category:19th-century American novelists]]
+[[Category:American expatriates in France]]
+[[Category:American historical novelists]]
+[[Category:American male novelists]]
+[[Category:American naval historians]]
+[[Category:American people of English descent]]
+[[Category:Christian writers]]
+[[Category:Deaths from edema]]
+[[Category:Hall of Fame for Great Americans inductees]]
+[[Category:People from Burlington, New Jersey]]
+[[Category:People from Cooperstown, New York]]
+[[Category:People from Scarsdale, New York]]
+[[Category:Romanticism]]
+[[Category:United States Navy officers]]
+[[Category:Writers of historical fiction set in the modern age]]
+[[Category:Knickerbocker Group]]
+[[Category:Novelists from New Jersey]]
+[[Category:American male non-fiction writers]]
+[[Category:Historians from New York (state)]]
+[[Category:Historians from New Jersey]]

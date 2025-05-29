@@ -1,0 +1,128 @@
+{{Use dmy dates|date=January 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] --> 
+| name         = José Luis Rodríguez Pittí
+| image        = JL Rodriguez Pitti at the Inspire! Toronto International Book Fair.jpg
+| imagesize    = 150px
+| alt          = 
+| caption      = José Luis Rodríguez Pittí at Inspire! Toronto International Book Fair 2014..
+| pseudonym    = 
+| birth_name    = 
+| birth_date    = {{birth date and age|df=yes|1971|3|29}}
+| birth_place   = [[Panama City]], Panama
+| death_date    = 
+| death_place   = 
+| occupation   = Writer, photographer, professor
+| nationality  = Panama
+| ethnicity    = 
+| religion     =
+| citizenship  = 
+| education    = 
+| alma_mater   = 
+| period       = 
+| genre        = Fiction, Essays, Short stories, poetry, Documentary photography
+| subject      = 
+| movement     = 
+| notableworks = 
+| spouse       = 
+| partner      = 
+| children     = 
+| relatives    = [[Jose Luis Rodriguez Velez]] (composer), [[Mario Augusto Rodríguez]] (writer)
+| influences   = 
+| influenced   = 
+| awards       = 
+| signature    = 
+| website      = {{URL|rodriguezpitti.com/}}
+| portaldisp   = 
+}}
+'''José Luis Rodríguez Pittí''' is a contemporary writer, videoartist and documentary photographer.<ref>«Directorio de escritores vivos de Panamá». Panamá: Universidad Tecnológica de Panamá.</ref> 
+
+==Biography==
+Rodríguez Pittí was born in [[Panama City]] in 29 March 1971. He grew up in [[Mexico City]], Santiago de Veraguas and Panamá City. He is resident of [[Toronto]], Canada.<ref>Bethancourt, Minerva (2009). «Literary production in search of new horizons». The Panama Post.</ref><ref> Lombana, Cristina (2016). «Café 10». Panamá: Radio 10.</ref>
+
+He is the author of short stories, poems and essays.<ref>Carbonell, José Antonio (2004). Ciudad y literatura. Bogotá: Convenio Andrés Bello.</ref><ref>Morales, Fulvia (2007). Cuento que te quiero cuento. Panamá: 9Signos.</ref><ref>Jaramillo Levi, Enrique (2003). La minificción en Panamá. Bogotá: Universidad Pedagógica Nacional.</ref> Rodríguez Pittí is author of the books "Panamá Blues" (Panamá, 2010, {{ISBN|978-9962-683-02-5}}), "miniTEXTOS" ([[Flash fiction]] anthology, Panamá, 2008), "Sueños urbanos" (Panamá, 2008, {{ISBN|9962-00-473-X}}) and "Crónica de invisibles" (Panamá, 1999, {{ISBN|9962-802-06-7}}). Most of his stories and essays were published in literary magazines and newspapers. 
+
+In 1994, the [[Universidad de Panamá]] awarded him with the Premio "Darío Herrera". Other literary honors received are Accesit in the Premio Nacional "Signos" 1993 (Panamá), Concurso Nacional de Cuentos "José María Sánchez" 1998 (Panamá), Concurso "Amadís de Gaula" 1999 (Soria, España) and the Concurso "Maga" de Cuento Corto 2001 (Panamá) <ref>Jaramillo Levi, Enrique (2001). «Premio Maga de cuento corto». Revista Maga.</ref>
+
+President of the Writers Association of Panama from 2008 to 2010.<ref>Monroy, Mireya (2007). «Gremio Literario Panameño». Diario La Prensa.</ref> Founder and President of [[Fundación El Hacedor]] (since 2007).<ref>Domínguez, Daniel (2008). «El artista y la sociedad». Diario La Prensa.</ref>
+
+From 1990 to 1995 he traveled extensively in the Panamanian region of [[Azuero Peninsula|Azuero]] to collect stories and photograph, the body of three photo essays: "Viernes Santo en Pesé", "Cuadernos de Azuero", and "Noche de carnaval". Other photography essays are "De diablos, diablicos y otros seres de la mitología panameña" and "Regee Child". In 1994 he won the Premio Canon "Día de la Tierra". Some of his photographs are cover art of books published in Panamá. His work has been exhibited in Panamá, México, Canadá and Italy.<ref>Domínguez, Daniel (2012). «Resultados de una muestra». Diario La Prensa.</ref>
+
+Graduated from the [[Universidad Tecnologica de Panama|Universidad Tecnológica de Panamá]], was [[Computer Vision]], Programming Languages and [[Deep Learning]] Professor <ref>Rosenshain, Rella (2008). «Convergencia por las letras». Diario La Prensa.</ref> at the Universidad Tecnológica de Panamá and Universidad Santa María la Antigua.
+
+== Awards and Honors ==
+* 1994, Premio "[[Darío Herrera]]" de Literatura otorgado por la [[Universidad de Panamá]]
+* 1999, Accésit, Concurso de Cuento "[[Amadis de Gaula]]" otorgado en [[Soria]] (España)
+* 1998, Accésit, Premio Nacional de Cuento "[[José María Sánchez Borbón|José María Sánchez]]" 1998 otorgado en Panamá
+* 1993, Finalista, Premio "Signos" de Joven Literatura 1993 otorgado en Panamá
+
+== Works ==
+===Fiction===
+* Sueños urbanos (2008, 2010)
+* Crónica de invisibles (1999)
+* Panamá Blues (2010)
+
+===Photo Essays===
+* Reggae Child (2010)
+* De diablos, diablicos y otros seres de la mitología panameña (2010)
+* El camino de la cruz (2010) 
+* Cuadernos de Azuero (2010)
+
+===Machine learning===
+* Fundamentos de Redes Neuronales (1994, 2010) - Introduction to [[Deep Learning|Artificial Neural Networks]]
+* Visión de Máquina (1994, 2010) - [[Computer Vision]]
+
+===Anthologies===
+* Historias mínimas (Ed. Franz Gutierrez). Lima, Perú: Dendro Ediciones. {{ISBN|978-612-48322-2-2}}, 2020.
+* Tierra breve. Antología centroamericana de minificción (Ed. Federico Hernández). San Salvador, El Salvador: Índole Editores, 2017.
+* Latinoamérica en breve (Ed. Sergio Gaut vel Hartman). México, D.F.: Universidad Autónoma Metropolitana Xochimilco, 2016.
+* Aquí hay dragones (Ed. Alberto Sánchez Argüello). Managua, Nicaragua: Parafernalia Ediciones, 2016.
+* MICROLAT. Antología de microficciones latinoamericanas (Editor: Sergio Gaut vel Hartman). México, D.F.: Universidad Autónoma de México, 2016. 
+* Mensajes 12 (Antología literaria) (Ed. A. Barría Alvarado). Panamá: Editorial Santillana, 2012.
+* Tiempo al tiempo. Nuevos cuentistas de Panamá: 1990-2012. (Short-stories) (Ed. E. Jaramillo Levi). Panamá: Universal Books, 2012.
+* Con solo tu nombre y un poco de silencio (Poetry) (Ed. Héctor Collado). Panamá: Editorial Tecnológica, 2012.
+* Mundo 21 (Ed. Samaniego; Rodríguez; De Alarcón). Boston: Cengage Learning. {{ISBN|978-0-547-17131-9}}, 2010.
+* miniTEXTOS (Ed. JL Rodríguez Pittí). El Hacedor, Panamá, 2010.
+* Cuento que te quiero cuento (Ed. F. Morales de Castillo). 9Signos, Panamá, 2007.
+* Sueño compartido (Ed. E. Jaramillo Levi). Universal Books, Panamá, 2005.
+* La minificción en Panamá (Ed. E. Jaramillo Levi). Universidad Pedagógica Nacional, Bogotá, Colombia, 2003.
+* Panamá cuenta (Ed. E. Jaramillo Levi). Editorial Norma, Panamá, 2003.
+* Hasta el sol de mañana (Ed. E. Jaramillo Levi). Fundación Signos, Panamá, 1998.
+
+==External links==
+*[http://www.cultura.utp.ac.pa/escritores/rodriguez_pitti_jose_luis.html Jose Luis Rodriguez Pitti] – Information about the author in the database maintained by the Universidad Tecnológica de Panamá (in Spanish).
+*[http://www.escritorespanama.com/ Noticias: literatura en Panamá] – Weekly newsletter from the Asociación de Escritores de Panamá (in Spanish).
+*[http://www.minitextos.org miniTEXTOS.org] – Very short stories, poems and essays, presented by the author (in Spanish).
+*[http://www.elhacedor.org El Hacedor] – Literary foundation created by the author, responsible of the Arts and Literature Festival at Veraguas (in Spanish).
+*[http://lahoja.blogspot.com/2007/03/radio-bemba-poesa-en-la-calle-y-jos.html la hoja] – Radio program about the author (in Spanish).
+*[http://www.letralia.com/108/ensayo02.htm Hacia una literatura de las muchas culturas] – Essay about the contemporary literature in Panamá (in Spanish).
+*[https://wayback.archive-it.org/all/20071129151602/http://www.usma.ac.pa/web/DI/Profesores/ArielBarria/Art%C3%ADculos/El%20cuento%20paname%C3%B1o,%20de%20la%20Colonia%20a%20la%20Rep%C3%BAblica.pdf A 468 años del primer cuento "panameño"] – Essay about the history of the short-story genre in Panamá (in Spanish).
+*[http://blog.rodriguezpitti.com Piel de tigre] – Short stories, essays and photographs by the author (in Spanish).
+*[http://www.zonezero.com/comunity/portfolios/documental/pitti/1en.html ZoneZero] – Photographic portfolio by the author.
+*[https://web.archive.org/web/20080706232026/http://www.guatemala-times.com/business/local/72-local/262-filgua-2008.html Guatemala Times] – Guatemala Book Fair and The Writers Meeting.
+*[http://pitti.ca Portfolio] – Photographic portfolio by Jose Luis Rodriguez Pitti.
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rodriguez Pitti, Jose Luis}}
+[[Category:1971 births]]
+[[Category:Living people]]
+[[Category:Panamanian poets]]
+[[Category:Male poets]]
+[[Category:Panamanian essayists]]
+[[Category:Male essayists]]
+[[Category:Panamanian photographers]]
+[[Category:Panamanian short story writers]]
+[[Category:Male short story writers]]
+[[Category:Panamanian male writers]]
+[[Category:Panamanian novelists]]
+[[Category:Male novelists]]
+[[Category:Contemporary artists]]
+[[Category:People from Panama City]]
+[[Category:Computer systems engineers]]
+[[Category:Postmodern writers]]
+[[Category:Mexican video artists]]
+[[Category:Book artists]]
+[[Category:Documentary photographers]]

@@ -1,0 +1,30 @@
+{{Use dmy dates|date=August 2013}}
+{{infobox person/Wikidata|occupation=[[Author]], [[Printer (publishing)|Printer]]| fetchwikidata=image|onlysourced=yes}}
+'''Robert Copland''' ([[floruit|fl.]] 1508–1547), English [[Printer (publisher)|printer]] and author, is said to have been a servant of [[William Caxton]], and certainly worked for [[Wynkyn de Worde]]. The first book to which his name is affixed as a printer is ''The Boke of Justices of Peace'' (1515), at the sign of the Rose Garland, in [[Fleet Street]], London. [[Anthony à Wood]] supposed, on the ground that he was more educated than was usual in his trade, that he had been a poor scholar of [[university of Oxford|Oxford]].
+
+His best known works are ''The hye way to the Spytell hous'', a dialogue in verse between Copland and the porter of St Bartholomew's hospital, containing much information about the vagabonds who found their way there, including [[thieves' cant]]; and ''Jyl of Breyntford's Testament'', dismissed in ''[[Athenae Oxonienses]]'' (ed. Bliss) as a poem devoid of wit or decency, and totally unworthy of further notice.
+
+He translated from the French the romances of ''Kynge Appolyne of Thyre'' (W. de Worde, 1510), ''[[Knight of the Swan|The History of Helyas Knyght of the Swanne]]'' (W. de Worde, 1512, 1522), and ''The Life of Ipomydon'' ([[Hue de Rotelande]]), not dated. Among his other works is ''The Complaynte of them that ben too late maryed'', an undated tract printed by Wynkyn de Worde. William Copland, the printer, supposed to have been his brother, published three editions of ''Howleglas'', perhaps by Robert, which in any case represent the earliest English version of ''[[Till Eulenspiegel]]''. ''The Knyght of the Swanne'' was reprinted by W. Copland possibly in 1560, in [[William John Thoms]]'s ''Early Prose Romances'', vol. iii, and by the [[Grolier Club]] (1901); the ''Hye Way'' in [[William Carew Hazlitt]]'s ''Remains of the Early Popular Poetry of England'', vol. iv (1866).
+
+See further the Forewords to [[Frederick James Furnivall]]'s reprint of ''Jyl of Breyntford'' (for private circulation, 1871) and [[John Payne Collier]], ''Bibliographical and Critical Account of the Rarest Books in the English Language'', vol. 1 p.&nbsp;153 (1865). For the books issued from his press see ''Hand-Lists of English Printers'' (1501–1556), printed for the Bibliographical Society in 1896.
+
+==References==
+{{Reflist}}
+*{{EB1911|wstitle=Copland, Robert}}
+
+==External links==
+* {{Internet Archive author |sname=Robert Copland}}
+* {{Librivox author |id=1535}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Copland, Robert}}
+[[Category:English translators]]
+[[Category:15th-century births]]
+[[Category:16th-century deaths]]
+[[Category:English printers]]
+[[Category:16th-century English poets]]
+[[Category:16th-century translators]]
+[[Category:16th-century printers]]
+[[Category:English male poets]]
+[[Category:English male non-fiction writers]]

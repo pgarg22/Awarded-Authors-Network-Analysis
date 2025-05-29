@@ -1,0 +1,89 @@
+{{short description|American writer of fiction and poetry|bot=PearBOT 5}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Stuart Dybek
+| image = 
+| imagesize =
+| caption =
+| pseudonym =
+| birth_name =
+| birth_date = April 10, 1942 <ref>Philip A. Greasley. ''Dictionary of Midwestern Literature: Volume One: The Authors''.  Indiana University Press. May 9, 2001 p. 162.</ref>
+| birth_place = [[Chicago, Illinois]]
+| death_date = 
+| death_place = 
+| occupation = Short fiction writer, poet
+| period = 1970s-
+| genres = Poetry; Novels
+| education = [[St. Rita of Cascia High School]]
+| alma_mater =  [[Loyola University Chicago]];<br>[[Iowa Writers' Workshop]]
+| subject =
+| notableworks = ''The Coast of Chicago'' 
+| signature =
+| website =
+}}
+
+'''Stuart Dybek''' (born April 10, 1942) is an [[United States|American]] writer of fiction and poetry.
+
+== Biography ==
+Dybek, a second-generation [[Polish American]],<ref>Lee, Don. "About Stuart Dybek." Ploughshares (24.1), 1998: 192-198. Print.</ref> was born in [[Chicago, Illinois|Chicago]], [[Illinois]] and raised in Chicago's [[Little Village, Chicago|Little Village]] and [[Pilsen, Chicago|Pilsen]] neighborhoods in the 1950s and early 1960s. He graduated from [[St. Rita of Cascia High School]] in 1959 and earned an [[Master of Fine Arts|MFA]] from the [[Iowa Writers' Workshop]] at the [[University of Iowa]]. He has an [[Master of Arts|MA]] in literature from [[Loyola University Chicago]].<ref>Philip A. Greasley. ''Dictionary of Midwestern Literature: Volume One The Authors''.  Indiana University Press. May 9, 2001 p. 162.</ref>
+
+Often compared to [[Saul Bellow]] and [[Theodore Dreiser]] for his unique portrayal of setting and landscapes, Dybek is "among the first writers of Polish descent (who write about the ethnic self) to receive national recognition."<ref>Gladsky, Thomas S. "Ethnicity to Multicultuarlism: The Fiction of Stuart Dybek." MELUS (20.2), 1995: 105-108. Print.</ref>
+
+After teaching for more than 30 years at [[Western Michigan University]], where he remains an Adjunct Professor of English and a member of the permanent faculty of the Prague Summer Program, Dybek became the Distinguished Writer in Residence at [[Northwestern University]] where he teaches at the [[Northwestern University School of Professional Studies|School of Professional Studies]].
+
+==Work==
+Dybek's two collections of poems are ''Brass Knuckles'' (1979) and ''Streets in Their Own Ink'' (2004). His fiction includes ''Childhood and Other Neighborhoods'', ''The Coast of Chicago'', ''[[I Sailed With Magellan]]'', a novel-in-stories, ''Paper Lantern: Love Stories'', and ''Ecstatic Cahoots: Fifty Short Stories''. His work has been anthologized and has appeared in magazines such as ''[[Harper's]]'', ''[[The New Yorker]]'', ''[[Atlantic Monthly]]'', ''[[Poetry (magazine)|Poetry]]'', ''[[Tin House]]'', ''[[Ploughshares]]'', and ''Triquarterly''.
+
+His collection, ''The Coast of Chicago'', was selected as a [[New York Times Notable Book]] and cited as an [[American Library Association Notable Book]] of 2005. A story from ''I Sailed With Magellan'',  titled "Breasts," appears in the 2004 ''[[Best American Short Stories]]''.
+
+Dybek was a participant in the Michigan Writers Series at [[Michigan State University]], where he read from his work.<ref>{{cite web|url=http://www.lib.msu.edu/branches/vvl/writers/index.jsp |title=Michigan Writers Series |publisher=Michigan State University Libraries |access-date=2012-07-15}}</ref>
+
+==Awards==
+Dybek's awards include a [[Lannan Literary Awards#Lannan Literary Award for Fiction|Lannan Prize]], a [[PEN/Malamud Award]] (1995), a [[Whiting Awards|Whiting Award]] (1985), a [[List of Guggenheim Fellowships awarded in 1981|Guggenheim fellowship]], and an [[O. Henry Award]].<ref>[http://www.powells.com/prizes/penmalamud.html List of PEN/Malamud winners] {{webarchive|url=https://web.archive.org/web/20050923101152/http://powells.com/prizes/penmalamud.html |date=2005-09-23 }}</ref> Dybek was awarded a [[MacArthur Fellowship]] on September 25, 2007.<ref>[http://www.macfound.org/press/press-releases/24-macarthur-fellows-announced-today/ MacArthur Fellows announced]</ref>
+
+==Bibliography==
+{{Expand list|date=August 2015}}
+
+===Novels and short story collections===
+*{{cite book|title=Childhood and Other Neighborhoods: Stories|url=https://books.google.com/books?id=xnwBT9MiewwC|publisher=Viking Adult|isbn= 978-0-67021-618-5|date=1980}}
+*{{cite book|title=The Coast of Chicago: Stories|url=https://books.google.com/books?id=NvSUycqgrnEC|date=1990|publisher=Knopf|isbn=978-0-39457-449-3}}
+*{{cite book|title=I Sailed with Magellan|url=https://archive.org/details/isailedwithmagel0000dybe|url-access=registration|date=2003|publisher=Farrar, Straus and Giroux|isbn=978-0-37417-407-1}}
+*{{cite book|title=Ecstatic Cahoots: Fifty Short Stories|url=https://archive.org/details/ecstaticcahootsf0000dybe|url-access=registration|date=3 June 2014|publisher=Farrar, Straus and Giroux|isbn=978-0-374-71055-2}}
+*{{cite book|title=Paper Lantern: Love Stories|url=https://books.google.com/books?id=JHd_AwAAQBAJ|date=3 June 2014|publisher=Farrar, Straus and Giroux|isbn=978-0-374-14644-3}}
+
+===Poetry collections===
+*{{cite book|title=Brass Knuckles|url=https://books.google.com/books?id=Q7xZAwAAQBAJ|date=1979|publisher=University of Pittsburgh Press|isbn=978-0-82293-399-1}}
+*{{cite book|title=Streets in Their Own Ink|url=https://books.google.com/books?id=Q7xZAwAAQBAJ|date=2004|publisher=Farrar, Straus and Giroux|isbn=978-0-37427-095-7}}
+Pelligro
+
+===Short stories and essays===
+* "''Prayer''" | X-1 Experimental Fiction Project | The Smith: 1976 | 49-52
+*{{cite journal |last=Dybek |first=Stuart |date=Autumn 2009 |title=Seiche |journal=[[Granta]] |issue=108 |pages=39–46}}
+*{{cite journal |date=2011 |title=Vigil |url=https://www.theatlantic.com/magazine/archive/2011/08/vigil/308580/ |journal=The Atlantic |volume=Fiction Issue}}
+
+==References==
+{{Reflist}}
+{{Authority control}}
+
+==External links==
+*[https://www.nytimes.com/1990/04/20/books/books-of-the-times-lyrical-loss-and-desolation-of-misfits-in-chicago.html New York Times review of ''Coast of Chicago'']
+*[http://www.thewritingdisorder.com/nonfictiondybek.html Stuart Dybek interview at The Writing Disorder]
+*[https://web.archive.org/web/20070212122809/http://www.english.northwestern.edu/people/dybek.htm Stuart Dybek bio at Northwestern University]
+*[http://www.whiting.org/awards/winners/stuart-dybek#/ Profile at The Whiting Foundation]
+
+{{DEFAULTSORT:Dybek, Stuart}}
+[[Category:American male poets]]
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Loyola University Chicago alumni]]
+[[Category:University of Iowa alumni]]
+[[Category:Western Michigan University faculty]]
+[[Category:Northern Michigan University faculty]]
+[[Category:Northwestern University faculty]]
+[[Category:Writers from Michigan]]
+[[Category:Iowa Writers' Workshop alumni]]
+[[Category:Iowa Writers' Workshop faculty]]
+[[Category:Polish-American culture in Chicago]]
+[[Category:MacArthur Fellows]]
+[[Category:American people of Polish descent]]
+[[Category:O. Henry Award winners]]
+[[Category:PEN/Malamud Award winners]]

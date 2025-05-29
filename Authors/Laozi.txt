@@ -1,0 +1,215 @@
+{{for|the book also known as Laozi|Tao Te Ching}}
+{{Use dmy dates|date=September 2019}}
+{{short description|Legendary Chinese figure, attributed to the 6th century, regarded as the author of the Tao Te Ching and founder of Taoism}}
+{{Infobox philosopher
+|region           = [[Chinese philosophy]]
+|era              = [[Ancient philosophy]]
+|image            = Zhang Lu-Laozi Riding an Ox.jpg
+|caption          = Laozi by [[Zhang Lu (painter)|Zhang Lu]]; [[Ming dynasty]] (1368–1644)
+|name             = Laozi <br />{{Nobold|{{lang|zh|老子}}}}
+|birth_name       = 
+|birth_place      = Chujen village, [[State of Chu]]; or modern [[Luyi County|Luyi]], [[Henan]]
+|birth_date       = {{BCE|link|571}}
+|death_date       = Unknown, 5th-century BC
+|school_tradition = [[Taoism]]
+|notable_ideas    = ''[[Tao]]'', ''[[wu wei]]''
+|influences       =
+|influenced       = [[Daoism]], 
+[[Zhuang Zhou]], [[Lie Yukou]], [[Chinese Buddhism]], [[Zen]], and other [[Eastern philosophy#East Asian philosophies|East Asian philosophies]], [[Carl Jung]], [[Alan Watts]], [[Niels Bohr]],<ref>{{Cite book|last=Favrholdt|first=Martin|title=Niels Bohr's Philosophical Background|date=2007-03-21|url=https://books.google.com/books?id=9FMtAAAAIAAJ&q=beautiful+impression+to+the+point|publisher=Royal Danish Academy of Sciences and Letters|location=[[Copenhagen, Denmark]]|isbn=9788773042281}}</ref> and other scientists, [[Martin Heidegger]], the [[Neotaoism|Neotaoists]]
+}}
+{{Infobox Chinese
+| pic = Laozi (Chinese characters).svg
+| piccap = "Lǎozǐ" in [[seal script]] (top) and [[kaishu|regular]] (bottom) Chinese character
+| picupright = 0.5
+| c = {{linktext|老子}}
+| l = "Old Master"
+| p = Lǎozǐ
+| w = Lao³ Tzŭ³
+| mi = {{IPAc-cmn|l|ao|2|.|zi|3}}
+| gr = Laotzyy
+| bpmf = ㄌㄠˇ&nbsp;&nbsp;&nbsp;ㄗˇ
+| myr = Lǎudž
+| showflag = p
+| suz = Lâ-tsỳ
+| j = Lou5zi2
+| y = Lóuhjí
+| ci = {{IPAc-yue|l|ou|5|.|z|i|2}}
+| poj = Ló-chú
+| tl = Ló-tsú
+| oc-bs = &ast;{{IPA|C.rˤuʔ tsəʔ}}
+| vie = 
+| hn = 老子
+| hangul = 
+| hanja = 
+| rr = Noja
+| kanji = 
+| hiragana = 
+| romaji = Rōshi
+}}
+{| class="infobox" style="border-color:#B0C4DE; width:26em; font-size:85%"
+|-
+|align="right"|'''[[Chinese surname|Clan name]]:'''||[[Li (surname)|Li]] ({{linktext|李}}, ''Lǐ'')
+|-
+|align="right"|'''[[Chinese given name|Given name]]:'''||Er ({{linktext|耳}}, ''Ěr'')
+|-
+|align="right"|'''[[Chinese courtesy name|Courtesy name]]:'''||Boyang ({{linktext|伯|陽}}, ''Bóyáng''), Dan ({{linktext|聃}}, ''Dān'')
+|-
+|align="right"|'''Styled:'''||Old Master ({{linktext|老子}}, ''Lǎozǐ'')
+|}
+{{Taoism}}
+
+'''Lao Tzu''' ({{IPAc-en|ˈ|l|aʊ|_|ˈ|t|s|uː|,_|-|ˈ|d|z|ʌ}}),<ref name="Lao Zi">[https://www.collinsdictionary.com/dictionary/english/lao-zi "Lao Zi"].<!--Despite the different spellings, the pronunciations of Laozi and Lao Zi are the same--> ''[[Collins English Dictionary]]''.</ref><ref name="Lao-tzu">[http://dictionary.reference.com/browse/lao-tzu "Lao-tzu"]. ''[[Random House Webster's Unabridged Dictionary]]''.</ref><ref name="Lao Tzu">[http://www.thefreedictionary.com/Lao+Tzu "Lao Tzu"]. ''[[American Heritage Dictionary of the English Language]]'', Fifth Edition. Houghton Mifflin Company, 2016.</ref> also rendered as '''Laozi''' ({{IPAc-en|UK|ˌ|l|aʊ|ˈ|z|ɪə}};<ref name="Lao Zi" /> {{zh|s=老子}}, {{IPA-cmn|làu.tsɹ̩|lang}}; commonly translated as "Old Master") and '''Lao-Tze''' ({{IPAc-en|ˈ|l|aʊ|_|ˈ|d<!--/t/ in the source-->|z|eɪ}}),<ref>[https://www.collinsdictionary.com/dictionary/english/laotze "Laotze"]. ''[[Collins English Dictionary]]''.</ref> was an ancient [[Chinese philosophy|Chinese philosopher]] and [[Chinese writers|writer]].<ref name="hubei">{{cite web |title=Lao-tzu – Founder of Taoism |url=http://en.hubei.gov.cn/photo_gallery/people/201606/t20160622_853320.shtml |website=en.hubei.gov.cn |publisher=Government of Hubei, China |access-date=15 November 2018 |archive-date=20 July 2019 |archive-url=https://web.archive.org/web/20190720214029/http://en.hubei.gov.cn/photo_gallery/people/201606/t20160622_853320.shtml |url-status=dead }}</ref> He is the reputed author of the ''[[Tao Te Ching]]'',<ref name="stanford" /> the founder of philosophical [[Taoism]], and a [[Chinese gods|deity]] in religious [[Taoism]] and [[traditional Chinese religion]]s.
+
+A [[Chinese legend|semi-legendary]] figure, Lao Tzu is usually portrayed as a 6th-century&nbsp;BC contemporary of [[Confucius]] in the [[Spring and Autumn period]]. However, some modern historians consider him to have lived during the [[Warring States period]] of the 4th&nbsp;century&nbsp;BC.<ref name=Kohn4>{{Harvtxt|Kohn|2000|p=4}}</ref> A central figure in [[Chinese culture]], Laozi is claimed by both the emperors of the [[Tang dynasty]] and modern people of the [[Li (surname 李)|Li surname]] as a founder of their lineage. Laozi's work has been embraced by both various [[Anti-authoritarianism|anti-authoritarian]] movements<ref>{{cite web |url=http://ztopics.com/Lao-tse/ |title=Lao-tse |work=ztopics.com}}</ref> and [[Chinese Legalism]].<ref>Han Fei Tzu, the paradigm legalist, wrote one of the earliest commentaries on the Lao Tzu (cf. [http://www.philosophy.hku.hk/courses/zhuangzi/shendao.htm University of Hong Kong] page).</ref>
+
+==Names==
+Lao Tzu itself is a [[Chinese honorifics|Chinese honorific title]]: {{lang|zh|{{linktext|老}}}} (<small>[[Old Chinese|Old]]</small>&nbsp;[[reconstruction of Old Chinese|*]]''r[[Pharyngealization|ˤu]][[glottal stop|ʔ]]'', "old, venerable")<ref name=baxsag/> and {{lang|zh|{{linktext|子}}}} (<small>[[Old Chinese|Old]]</small>&nbsp;[[Reconstruction of Old Chinese|*]]''tsə[[glottal stop|ʔ]]'', "master").<ref name=baxsag/> In traditional accounts, ''Laozi'''s actual [[Chinese personal names|personal name]] is usually given as Li&nbsp;Er {{nowrap|({{lang|zh|{{linktext|李|耳}}}},}} <small>[[Old Chinese|Old]]</small>&nbsp;[[reconstruction of Old Chinese|*]]''rə[[glottal stop|ʔ]]&nbsp;nə[[glottal stop|ʔ]]'',<ref name=baxsag>{{cite web |last1=Baxter |first1=William |first2=Laurent |last2=Sagart |url=http://ocbaxtersagart.lsait.lsa.umich.edu/BaxterSagartOCbyMandarinMC2014-09-20.pdf |title=Baxter–Sagart Old Chinese Reconstruction |date=20 September 2014 |access-date=1 May 2018}}</ref> <small>[[pinyin|Mod.]]</small>&nbsp;''Lǐ&nbsp;Ěr'') and his [[courtesy name]] as Boyang {{nowrap|(<small>[[traditional characters|trad.]]</small>&nbsp;{{lang|zh|{{linktext|伯|陽}}}},}} {{nowrap|<small>[[simplified characters|simp.]]</small>&nbsp;{{lang|zh|{{linktext|伯|阳}}}},}} <small>[[Old Chinese|Old]]</small>&nbsp;[[reconstruction of Old Chinese|*]]''P[[Pharyngealization|ˤrak]]-lang'',<ref name=baxsag/> <small>[[pinyin|Mod.]]</small>&nbsp;''Bóyáng''). A prominent [[posthumous name]] was ''Li&nbsp;Dan'' {{nowrap|({{lang|zh|{{linktext|李|聃}}}},}} ''Lǐ&nbsp;Dān'').<ref>{{Harvtxt|Luo|2004|p=118}}</ref><ref>{{Harvtxt|Kramer|1986|p=118}}</ref><ref>{{Harvtxt|Kohn|2000|p=2}}</ref> [[Sima Qian]] in his biography mentions his name as ''Lǐ Ěr'', and his literary name as ''Lǐ Dān'', which became the deferential ''Lǎo Dān'' {{nowrap|({{lang|zh|{{linktext|老|聃}}}},}} ''Lǎo&nbsp;Dān'').<ref name="LDR">"Sima Qian identifies the old master as a "Lao Dan"...." in {{cite book |last1=Rainey |first1=Lee Dian |title=Decoding Dao: Reading the Dao De Jing (Tao Te Ching) and the Zhuangzi (Chuang Tzu) |date=2013 |publisher=John Wiley & Sons |isbn=978-1-118-46567-7 |page=31 |url=https://books.google.com/books?id=YNFiAgAAQBAJ&pg=PT31 |language=en}}</ref> The name ''Lǎo Dān'' also appears interchangeably with ''Lǎo Zi'' in early Daoist texts such as the ''[[Zhuangzi (book)|Zhuangzi]]'',<ref name="LDR"/> and may also be the name by which ''Lao Tzu'' was addressed by [[Confucius]] when they possibly met.<ref name="LDR"/> According to the ''Companion Encyclopedia of Asian Philosophy'',  "the 'founder' of philosophical Daoism is the quasi-legendary ''Laodan'', more commonly known as ''Laozi'' (Old Master)".<ref>"The 'founder' of philosophical Daoism is the quasi-legendary ''Laodan'', more commonly known as ''Laozi'' (Old Master)" in {{cite book |last1=Carr |first1=Dr Brian |last2=Mahalingam |first2=Indira |title=Companion Encyclopedia of Asian Philosophy |date=2002 |publisher=Routledge |isbn=978-1-134-96058-3 |page=497 |url=https://books.google.com/books?id=xIwrBgAAQBAJ&pg=PA497 |language=en}}</ref>
+
+The honorific title ''Lao Tzu'' has been [[romanization of Chinese|romanized]] numerous ways, sometimes leading to confusion. The most common present form is still ''Lao Tzu'', which is based on the formerly prevalent [[Wade–Giles]] system.<ref>Also encountered as ''Lao&nbsp;Tzu'' and ''Lao-Tzu''.</ref><ref name="ngoog" />  In the 19th century, the title was usually romanized as ''Lao-tse''.<ref name=ngoog>Franz, Alex et al. ed. [https://books.google.com/ngrams/graph?content=(Laozi)%2B(LaoZi)%2B(Lao+Zi)%2B(Lao+zi)%2C(Laotze)%2B(LaoTze)%2B(Lao+tze)%2B(Lao+Tze)%2C(Laotse)%2B(LaoTse)%2B(Lao+tse)%2B(Lao+Tse)%2CLaocius%2C(Lao+Tzu)%2B(Lao+tzu)%2B(Laotzu)%2B(LaoTzu)%2CLaosi%2C(Lao+Tsu)%2B(Lao+tsu)%2B(Laotsu)%2B(LaoTsu)&year_start=1800&year_end=2008&corpus=15&smoothing=10&share=&direct_url=t1%3B%2C%28Laozi%29%20%2B%20%28LaoZi%29%20%2B%20%28Lao%20Zi%29%20%2B%20%28Lao%20zi%29%3B%2Cc0%3B.t1%3B%2C%28Laotze%29%20%2B%20%28LaoTze%29%20%2B%20%28Lao%20tze%29%20%2B%20%28Lao%20Tze%29%3B%2Cc0%3B.t1%3B%2C%28Laotse%29%20%2B%20%28LaoTse%29%20%2B%20%28Lao%20tse%29%20%2B%20%28Lao%20Tse%29%3B%2Cc0%3B.t1%3B%2CLaocius%3B%2Cc0%3B.t1%3B%2C%28Lao%20Tzu%29%20%2B%20%28Lao%20tzu%29%20%2B%20%28Laotzu%29%20%2B%20%28LaoTzu%29%3B%2Cc0%3B.t1%3B%2CLaosi%3B%2Cc0%3B.t1%3B%2C%28Lao%20Tsu%29%20%2B%20%28Lao%20tsu%29%20%2B%20%28Laotsu%29%20%2B%20%28LaoTsu%29%3B%2Cc0 Google corpus]. 2008. Retrieved 17 Jan;2014.</ref><ref>Also encountered as ''Lao&nbsp;Tse'' and ''Lao-Tse''.</ref> Other forms include the variants ''Lao-tze'',<ref>Also encountered as ''Lao&nbsp;Tze'' and ''Lao-Tze''.</ref> ''Lao-tsu''<ref>Also encountered as ''Lao&nbsp;Tsu'' and ''Lao-Tsu''.</ref> and ''Laozi/Lao Zi.''
+
+As a religious figure, he is worshipped under the name "Supreme Old Lord" {{nowrap|({{lang|zh|太上老君}}}}, ''Tàishàng Lǎojūn'')<ref>{{cite web|url=http://sacu.org/daovirtue.html|title=Lao Zi and the Canon of Virtue|work=sacu.org|access-date=21 February 2014|archive-date=14 December 2018|archive-url=https://web.archive.org/web/20181214092456/http://sacu.org/daovirtue.html|url-status=dead}}</ref> and as one of the "[[Three Pure Ones]]". During the [[Tang dynasty]], he was granted the title "Supremely Mysterious and Primordial Emperor" {{nowrap|({{lang|zh|太上玄元皇帝}},}} ''Tàishàng Xuānyuán Huángdì'').<ref>{{cite book|author=傅勤家 |title=道教史概論 |year=1996 |publisher=臺灣商務印書館 |location=[[Taipei]] |isbn=978-957-05-1324-0 |url=https://books.google.com/books?id=goTcCDAOHh0C&pg=PA82 |page=82 |language=zh}}</ref>
+
+==Historical views==
+In the mid-twentieth century, a consensus emerged among scholars that the [[historicity]] of the person known as Laozi is doubtful and that the ''Tao Te Ching'' was "a compilation of Taoist sayings by many hands".<ref>{{Harvtxt|Watson|1968|p=8}}</ref> 
+The earliest certain reference to the present figure of Laozi is found in the 1st‑century&nbsp;BC ''[[Records of the Grand Historian]]'' collected by the historian [[Sima Qian]] from earlier accounts.<ref>{{Cite web|date=2021-01-20|title=Sages and Saints Part XV: Lao Zi, the Dragon|url=https://purplecloudinstitute.com/sages-and-saints-part-xv-lao-zi-the-dragon/|access-date=2021-01-26|website=Purple Cloud|language=en-AU}}</ref> In one account, Laozi was said to be a contemporary of [[Confucius]] during the 6th or 5th&nbsp;century&nbsp;BC. His [[Chinese surname#Shi|surname]] was [[Li (surname 李)|Li]] and his personal name was Er or Dan. He was an official in the imperial archives and wrote a book in two parts before departing to the west. In another, Laozi was a different contemporary of [[Confucius]] titled Lao Laizi {{nowrap|({{lang|zh|{{linktext|老|莱|子}}}})}} and wrote a book in 15 parts. In a third, he was the court astrologer Lao Dan who lived during the 4th century&nbsp;BC reign of [[list of dukes of Qin|Duke]] [[Duke Xian of Qin (424–362 BC)|Xian]] of the [[state of Qin|Qin Dynasty]].<ref>{{Harvtxt|Fowler|2005|p=96}}</ref><ref>{{Harvtxt|Robinet|1997|p=26}}</ref> The oldest text of the ''Tao Te Ching'' so far recovered was part of the [[Guodian Chu Slips]]. It was written on [[bamboo slips]], and dates to the late 4th&nbsp;century&nbsp;BC.<ref name="stanford">{{cite encyclopedia |title=Laozi |url=http://plato.stanford.edu/entries/laozi/ |encyclopedia=[[Stanford Encyclopedia of Philosophy]] |publisher=Stanford University|year=2018 |quote=The discovery of two ''Laozi'' silk manuscripts at Mawangdui, near Changsha, Hunan province in 1973 marks an important milestone in modern ''Laozi'' research. The manuscripts, identified simply as 'A' (jia) and 'B' (yi), were found in a tomb that was sealed in 168 BC. The texts themselves can be dated earlier, the 'A' manuscript being the older of the two, copied in all likelihood before 195 BC.<br/><br/>"Until recently, the Mawangdui manuscripts have held the pride of place as the oldest extant manuscripts of the ''Laozi''. In late 1993, the excavation of a tomb (identified as M1) in Guodian, Jingmen city, [[Hubei]], has yielded among other things some 800 bamboo slips, of which 730 are inscribed, containing over 13,000 Chinese characters. Some of these, amounting to about 2,000 characters, match the ''Laozi''. The tomb...is dated around 300 BC.}}</ref>
+
+According to traditional accounts, Laozi was a scholar who worked as the Keeper of the Archives for the royal court of [[Zhou dynasty|Zhou]].<ref>{{cite web|url=http://www.edepot.com/taoism_lao-tzu.html |title=Lao Tzu (Lao Zi) Scroll Paintings and Posters |publisher=Edepot.com |access-date=15 February 2013}}</ref> This reportedly allowed him broad access to the works of the [[Yellow Emperor]] and other classics of the time. The stories assert that Laozi never opened a formal school but nonetheless attracted a large number of students and loyal disciples. There are many variations of a story retelling his encounter with Confucius, most famously in the ''[[Zhuangzi (book)|Zhuangzi]]''.<ref name="Simpkins 1999 pp 12-13">{{Harvtxt|Simpkins|Simpkins|1999|pp=12–13}}</ref><ref>{{Harvtxt|Morgan|2001|pp=223–24}}</ref>
+
+He was sometimes held to have come from the [[village (China)|village]] of Chu Jen in [[state of Chu|Chu]].<ref>{{Harvtxt|Morgan|2001}}</ref> In accounts where Laozi married, he was said to have had a son named Zong who became a celebrated soldier.
+
+The story tells of Zong the Warrior who defeats an enemy and triumphs, and then abandons the corpses of the enemy soldiers to be eaten by vultures. By coincidence Laozi, traveling and teaching the way of the Tao, comes on the scene and is revealed to be the father of Zong, from whom he was separated in childhood. Laozi tells his son that it is better to treat respectfully a beaten enemy, and that the disrespect to their dead would cause his foes to seek revenge. Convinced, Zong orders his soldiers to bury the enemy dead. Funeral mourning is held for the dead of both parties and a lasting peace is made.
+
+Many clans of the Li family trace their descent to Laozi,<ref name="Woolf2007 1">{{cite book|author= Woolf, Greg|title=Ancient civilizations: the illustrated guide to belief, mythology, and art|url=https://books.google.com/books?id=94NuSg3tlsgC&q=Li+Er+Laozi|year=2007|publisher=Barnes & Noble|isbn=978-1-4351-0121-0|pages=218–19}}</ref> including the [[List of rulers of China|emperors]] of the [[Tang dynasty]].<ref>{{Citation |access-date=8 February 2012|title=The Chinese: their history and culture, Volume 1|author=Latourette, Kenneth Scott|quote=T'ai Tsung's family professed descent from Lao Tzu (for the latter's reputed patronymic was likewise Li)|url=https://books.google.com/books?id=ultxAAAAMAAJ|edition=2|year=1934|publisher=Macmillan|page=191}}</ref><ref name="Woolf2007 1" /><ref name="Hargett2006">{{cite book|author= Hargett, James M.|title=Stairway to Heaven: A Journey to the Summit of Mount Emei|url=https://books.google.com/books?id=m21KGsV8ihgC&pg=PA54|year=2006|publisher=SUNY Press|isbn=978-0-7914-6682-7|pages=54–}}</ref> This family was known as the Longxi Li lineage ([[w:zh:隴西李氏|隴西李氏]]). According to the Simpkinses, while many (if not all) of these lineages are questionable, they provide a testament to Laozi's impact on Chinese culture.<ref>{{Harvtxt|Simpkins|Simpkins|1999|p=12}}</ref>
+
+The third story in [[Sima Qian]] states that Laozi grew weary of the moral decay of life in [[Chengzhou]] and noted the kingdom's decline. He ventured west to live as a hermit in the unsettled frontier at the age of 80. At the western gate of the city (or kingdom), he was recognized by the guard [[Yinxi]]. The sentry asked the old master to record his wisdom for the good of the country before he would be permitted to pass. The text Laozi wrote was said to be the ''Tao Te Ching'', although the present version of the text includes additions from later periods. In some versions of the tale, the sentry was so touched by the work that he became a disciple and left with Laozi, never to be seen again.<ref>{{Harvtxt|Kohn|Lafargue|1998|pp=14, 17, 54–55}}</ref> In others, the "Old Master" journeyed all the way to India and was the teacher of [[Siddartha Gautama]], the [[Buddha]]. Others say he was the Buddha himself.<ref name="Simpkins 1999 pp 12-13"/><ref>{{Harvtxt|Morgan|2001|pp=224–25}}</ref>
+
+A seventh-century work, the ''Sandong Zhunang'' ("Pearly Bag of the Three Caverns"), embellished the relationship between Laozi and Yinxi. Laozi pretended to be a farmer when reaching the western gate, but was recognized by [[Yinxi]], who asked to be taught by the great master. Laozi was not satisfied by simply being noticed by the guard and demanded an explanation. Yinxi expressed his deep desire to find the ''Tao'' and explained that his long study of astrology allowed him to recognize Laozi's approach. Yinxi was accepted by Laozi as a disciple. This is considered an exemplary interaction between Taoist master and disciple, reflecting the testing a seeker must undergo before being accepted. A would-be adherent is expected to prove his determination and talent, clearly expressing his wishes and showing that he had made progress on his own towards realizing the ''Tao''.<ref>{{Harvtxt|Kohn|Lafargue|1998|p=55}}</ref>
+
+The ''Pearly Bag of the Three Caverns'' continues the parallel of an adherent's quest. Yinxi received his ordination when Laozi transmitted the ''Tao Te Ching'', along with other texts and precepts, just as Taoist adherents receive a number of methods, teachings and scriptures at ordination. This is only an initial ordination and Yinxi still needed an additional period to perfect his virtue, thus Laozi gave him three years to perfect his Tao. Yinxi gave himself over to a full-time devotional life. After the appointed time, Yinxi again demonstrates determination and perfect trust, sending out a black sheep to market as the agreed sign. He eventually meets again with Laozi, who announces that Yinxi's immortal name is listed in the heavens and calls down a heavenly procession to clothe Yinxi in the garb of immortals. The story continues that Laozi bestowed a number of titles upon Yinxi and took him on a journey throughout the universe, even into the nine heavens. After this fantastic journey, the two sages set out to western lands of the barbarians. The training period, reuniting and travels represent the attainment of the highest religious rank in medieval Taoism called "Preceptor of the Three Caverns". In this legend, Laozi is the perfect Taoist master and Yinxi is the ideal Taoist student. Laozi is presented as the ''Tao'' personified, giving his teaching to humanity for their salvation. Yinxi follows the formal sequence of preparation, testing, training and attainment.<ref>{{Harvtxt|Kohn|Lafargue|1998|pp=55–56}}</ref>
+
+The story of Laozi has taken on strong religious overtones since the [[Han dynasty]]. As [[Taoism]] took root, Laozi was worshipped as a god. Belief in the revelation of the ''Tao'' from the divine Laozi resulted in the formation of the [[Way of the Celestial Masters]], the first organized religious Taoist sect. In later mature Taoist tradition, Laozi came to be seen as a personification of the ''Tao''. He is said to have undergone numerous "transformations" and taken on various guises in various incarnations throughout history to initiate the faithful in the Way. Religious Taoism often holds that the "Old Master" did not disappear after writing the ''Tao Te Ching'' but rather spent his life traveling and revealing the ''Tao''.<ref name="Kohn 3-4"/>
+
+[[Chinese mythology|Taoist myths]] state that Laozi was conceived when his mother gazed upon a falling star. He supposedly remained in her womb for 62 years before being born while his mother was leaning against a [[plum tree]]. (The Chinese surname [[Li (surname 李)|Li]] shares its [[Chinese character|character]] with "plum".) Laozi was said to have emerged as a grown man with a full grey beard and long earlobes, both symbols of wisdom and long life.<ref>{{Harvtxt|Simpkins|Simpkins|1999|pp=11–12}}</ref><ref>{{Harvtxt|Morgan|2001|p=303}}</ref> Other myths state that he was [[reincarnation|reborn]] 13 times after his first life during the days of [[Fuxi]]. In his last incarnation as Laozi, he lived nine hundred and ninety years and spent his life traveling to reveal the ''Tao''.<ref name="Kohn 3-4">{{Harvtxt|Kohn|2000|pp=3–4}}</ref>
+
+<gallery widths="200" heights="200" mode="packed">
+File:Laozi.jpg|According to [[Chinese legend]], Laozi left [[Zhou Empire|China]] for the west on a [[Domestic Asian Water Buffalo|water buffalo]].<ref>{{Harvtxt|Renard|2002|p=16}}</ref>
+File:Laozi meets Yin Xi.PNG|Laozi meets [[Yinxi]]
+File:Konfuzius-laozi.jpg|''[[Confucius]] meets Laozi'', Shih Kang, [[Yuan dynasty]]
+File:Lao Tzu - Project Gutenberg eText 15250.jpg|Depiction of Laozi in [[E. T. C. Werner]]'s ''Myths and Legends of China'' 
+</gallery>
+
+==''Tao Te Ching''==
+{{Main|Tao Te Ching|Tao|Wu wei}}
+[[File:Ping Sien Si - 016 Lao zi (16135526115).jpg|thumbnail|upright|left|Laozi Immortal and Grand Master of Heaven]]
+
+Laozi is traditionally regarded as the author of the ''[[Tao Te Ching]]'' (''Daodejing''), though the identity of its author(s) or compiler(s) has been debated throughout history.<ref>{{Harvtxt|Simpkins|Simpkins|1999|pp=11–13}}</ref><ref>{{Harvtxt|Morgan|2001|p=223}}</ref> It is one of the most significant treatises in Chinese [[cosmogony]]. As with most other ancient [[Chinese philosophy|Chinese philosophers]], Laozi often explains his ideas by way of paradox, analogy, appropriation of ancient sayings, repetition, symmetry, rhyme, and rhythm. In fact, the whole book can be read as an analogy – the ruler is the awareness, or self, in meditation and the myriad creatures or empire is the experience of the body, senses and desires.
+
+The ''Tao Te Ching'', often called simply ''Laozi'' after its reputed author, describes the ''Dao'' (or ''Tao'') as the source and ideal of all existence: it is unseen, but not transcendent, immensely powerful yet supremely humble, being the root of all things. People have desires and free will (and thus are able to alter their own nature). Many act "unnaturally", upsetting the natural balance of the Tao. The ''Tao Te Ching'' intends to lead students to a "return" to their natural state, in harmony with Tao.<!-- ref supports whole of paragraph to this point --><ref>{{Harvtxt|Van Norden|Ivanhoe|2005|p=162}}</ref> Language and [[conventional wisdom]] are critically assessed. Taoism views them as inherently biased and artificial, widely using paradoxes to sharpen the point.<ref name="Kohn-22">{{Harvtxt|Kohn|2000|p=22}}</ref>
+
+Livia Kohn provides an example of how Laozi encouraged a change in approach, or return to "nature", rather than action. Technology may bring about a false sense of progress. The answer provided by Laozi is not the rejection of technology, but instead seeking the calm state of ''wu wei'', free from desires. This relates to many statements by Laozi encouraging rulers to keep their people in "[[ignorance]]", or "simple-minded". Some scholars insist this explanation ignores the religious context, and others question it as an [[apologetic]] of the philosophical coherence of the text. It would not be unusual political advice if Laozi literally intended to tell rulers to keep their people ignorant. However, some terms in the text, such as "valley spirit" (''gushen'') and "soul" (''po''), bear a metaphysical context and cannot be easily reconciled with a purely ethical reading of the work.<ref name="Kohn-22"/>
+
+''[[Wu wei]]'' (無為), literally "non-action" or "not acting", is a central concept of the ''Tao Te Ching''. The concept of ''wu wei'' is multifaceted, and reflected in the words' multiple meanings, even in English translation; it can mean "not doing anything", "not forcing", "not acting" in the theatrical sense, "creating nothingness", "acting spontaneously", and "flowing with the moment".<ref>{{Harvtxt|Watts|1975|pp=78–86}}</ref>
+
+It is a concept used to explain ''[[ziran]]'' (自然), or harmony with the ''Tao''. It includes the concepts that value distinctions are ideological and seeing ambition of all sorts as originating from the same source. Laozi used the term broadly with [[simplicity]] and [[humility]] as key virtues, often in contrast to selfish action. On a political level, it means avoiding such circumstances as war, harsh laws and heavy taxes. Some Taoists see a connection between ''wu wei'' and [[esoteric]] practices, such as ''[[zuowang]]'' "sitting in oblivion" (emptying the mind of bodily awareness and thought) found in the Zhuangzi.<ref name="Kohn-22"/>
+
+===Taoism===
+{{Main|Taoism}}
+Laozi is traditionally regarded as the founder of Taoism, intimately connected with the ''Tao Te Ching'' and "primordial" (or "original") Taoism. Popular ("religious") Taoism typically presents the [[Jade Emperor]] as the official head [[deity]]. Intellectual ("elite") Taoists, such as the [[Way of the Celestial Masters|Celestial Masters sect]], usually present Laozi (''Laojun'', "Lord Lao") and the [[Three Pure Ones]] at the top of the pantheon of deities.<ref>{{Harvtxt|Maspero|1981|p=41}}</ref><ref>{{Harvtxt|Robinet|1997|p=63}}</ref>
+
+==Influence==
+{{See|Zhuangzi (book)}}
+
+Potential officials throughout Chinese history drew on the authority of non-Confucian sages, especially Laozi and [[Zhuang Zhou|Zhuangzi]], to deny serving any ruler at any time. Zhuangzi, Laozi's most famous follower in traditional accounts, had a great deal of influence on Chinese [[Scholar-bureaucrats|literati]] and culture. Lao Tsu influenced millions of Chinese people by his psychological understanding. He persuaded people by his inaction and non-speaking.<ref>{{Cite journal|last=Reynolds|first=Beatrice K.|date=February 1969|title=Lao Tzu: Persuasion through inaction and non-speaking|url=http://www.tandfonline.com/doi/abs/10.1080/01463376909368862|journal=Today's Speech|language=en|volume=17|issue=1|pages=23–25|doi=10.1080/01463376909368862|issn=0040-8573}}</ref>
+
+Political theorists influenced by Laozi have advocated humility in leadership and a restrained approach to statecraft, either for ethical and pacifist reasons, or for tactical ends. In a different context, various anti-authoritarian movements have embraced the Laozi teachings on the power of the weak.<ref>{{Harvtxt|Roberts|2004|pp=1–2}}</ref>
+
+Laozi was a proponent of limited government.<ref>{{Harvtxt|Dorn|2008|pp=282–283}}</ref> [[Left-libertarianism|Left-libertarians]] in particular have been influenced by Laozi – in his 1937 book ''[[Nationalism and Culture]]'', the [[anarcho-syndicalism|anarcho-syndicalist]] writer and activist [[Rudolf Rocker]] praised Laozi's "gentle wisdom" and understanding of the opposition between political power and the cultural activities of the people and community.<ref>{{Harvtxt|Rocker|1997|pp=256, 82}}</ref> In his 1910 article for the ''Encyclopædia Britannica'', [[Peter Kropotkin]] also noted that Laozi was among the earliest proponents of essentially [[Anarchism|anarchist]] concepts.<ref>{{cite web|url=http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/britanniaanarchy.html |title=Britannica: Anarchism |publisher=Dwardmac.pitzer.edu |access-date=14 November 2011}}</ref> More recently, anarchists such as John P. Clark and [[Ursula K. Le Guin]] have written about the conjunction between anarchism and Taoism in various ways, highlighting the teachings of Laozi in particular.<ref>{{cite web|url=http://raforum.info/spip.php?article4488&lang=fr|author=Clark, John P.|title=Master Lao and the Anarchist Prince|access-date=1 November 2011|archive-url=https://web.archive.org/web/20171020015752/https://raforum.info/spip.php?article4488&lang=fr|archive-date=20 October 2017|url-status=dead}}</ref> In her rendition of the Tao Te Ching, Le Guin writes that Laozi "does not see political power as magic. He sees rightful power as earned and wrongful power as usurped... He sees sacrifice of self or others as a corruption of power, and power as available to anyone who follows the Way. No wonder anarchists and Taoists make good friends."<ref>{{Harvtxt|Le Guin|2009|p=20}}</ref>
+
+The [[Right-libertarianism|right-libertarian]] economist [[Murray Rothbard]] suggested that Laozi was the first [[Libertarianism|libertarian]],<ref>Rothbard, Murray (2005). Excerpt from "Concepts of the Role of Intellectuals in Social Change Toward Laissez Faire", ''The Journal of Libertarian Studies'', Vol. IX, No. 2 (Fall 1990) at [https://mises.org/daily/1967 mises.org]</ref> likening Laozi's ideas on government to [[Friedrich Hayek]]'s theory of [[spontaneous order]].<ref>Rothbard, Murray (2005). "The Ancient Chinese Libertarian Tradition", ''Mises Daily'', (5 December 2005) (original source unknown) at [https://mises.org/daily/1967 mises.org]</ref> James A. Dorn agreed, writing that Laozi, like many 18th-century liberals, "argued that minimizing the role of government and letting individuals develop spontaneously would best achieve social and economic harmony."<ref>{{Harvtxt|Dorn|2008}}</ref> Similarly, the [[Cato Institute]]'s [[David Boaz]] includes passages from the ''Tao Te Ching''' in his 1997 book ''The Libertarian Reader''.<ref>{{Harvtxt|Boaz|1997}}</ref> Philosopher Roderick Long, however, argues that libertarian themes in Taoist thought are actually borrowed from earlier [[Confucian]] writers.<ref>{{Harvtxt|Long|2003}}</ref>
+
+<gallery widths="200" heights="160" mode="packed">
+File:Confucius and Laozi, fresco from a Western Han tomb of Dongping County, Shandong province, China.jpg|A [[Western Han]] (202 BC – 9 AD) [[fresco]] depicting [[Confucius]] and Laozi, from a tomb of [[Dongping County]], Shandong, China
+File:Confucius, fresco from a Western Han tomb of Dongping County, Shandong province, China.jpg|A detail of the same fresco
+File:Laozi 002.jpg|A stone sculpture of Laozi, located north of [[Quanzhou]] at the foot of [[Mount Qingyuan]] 
+</gallery>
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin|40em}}
+* {{Citation |last=Boaz |first=David |title = The libertarian reader: classic and contemporary readings from Lao-tzu to Milton Friedman |publisher=Free Press |location=New York, NY |year=1997 |isbn = 978-0-684-84767-2 }}
+* {{cite encyclopedia |last=Dorn |first=James A. |editor-first=Ronald |editor-last=Hamowy |editor-link=Ronald Hamowy |encyclopedia=The Encyclopedia of Libertarianism |chapter-url = https://books.google.com/books?id=yxNgXs3TkJYC |access-date=12 May 2010 |year=2008 |publisher=[[SAGE Publications|SAGE]]; [[Cato Institute]] |location=Thousand Oaks, CA |isbn = 978-1-4129-6580-4 |oclc = 750831024 |lccn = 2008009151 |doi = 10.4135/9781412965811.n169 |chapter = Lao Tzu (C. 600 B.C.) }}
+* {{Citation |last=Fowler |first=Jeaneane |title=An Introduction to the Philosophy And Religion Of Taoism: Pathways To Immortality |publisher=Sussex Academic Press |location=Brighton |year=2005 |isbn = 978-1-84519-085-9 }}
+* {{Citation |last=Kohn |first=Livia |title = Daoism Handbook (Handbook of Oriental Studies / Handbuch der Orientalisk&nbsp;– Part 4: China, 14) |publisher=Brill Academic Publishers |location=Boston |year=2000 |isbn=978-90-04-11208-7}}
+* {{Citation |editor-last=Kohn |editor-first=Livia |editor2-last=Lafargue |editor2-first=Michael |title=Lao-Tzu and the Tao-Te-Ching |publisher=State University of New York Press |location=Albany |year=1998 |isbn=978-0-7914-3599-1 }}
+* {{Citation |last=Kramer |first=Kenneth |title=World scriptures: an introduction to comparative religions |publisher=Paulist Press |location=New York, NY |year=1986 |isbn = 978-0-8091-2781-8}}
+* {{Citation |last=Long |first=Roderick T. |date=Summer 2003 |title = Austro-Libertarian Themes in Early Confucianism |journal=The Journal of Libertarian Studies |pages=35–62 |volume=17 |series=3 |url=  https://www.mises.org/journals/jls/17_3/17_3_3.pdf }}
+* {{Citation |last=Le Guin |first=Ursula K. |title=Lao Tzu: Tao Te Ching: A Book about the Way and the Power of the Way |publisher=Shambhala Publications Inc. |location=Washington, DC |year=2009 |isbn = 978-1-59030-744-1 |edition=2nd }}
+* {{Citation |last=Luo |first=Jing |title = Over a cup of tea: an introduction to Chinese life and culture |publisher=University Press of America |location=Washington, DC |year=2004 |isbn = 978-0-7618-2937-9 |url = https://archive.org/details/overcupoftea00jing }}
+* {{Citation |last=Maspero |first=Henri |title=Taoism and Chinese religion |publisher=University of Massachusetts Press |location=Amherst |year=1981 |isbn = 978-0-87023-308-1 |url = https://archive.org/details/taoismchineserel00henr }}
+* {{Citation |last=Morgan |first=Diane |title=The Best Guide to Eastern Philosophy and Religion |publisher=St. Martin's Griffin |location=New York, NY |year= 2001 |isbn = 978-1-58063-197-6 }}
+* {{Citation |last=Renard |first=John |title=101 Questions and answers on Confucianism, Daoism, and Shinto |publisher=Paulist Press |location=New York, NY |year=2002 |isbn = 978-0-8091-4091-6 }}
+* {{Citation |last=Roberts |first=Moss |title = Dao De Jing: The Book of the Way |publisher=University of California Press |location=Berkeley, CA |year=2004 |isbn = 978-0-520-24221-0 }}
+* {{Citation |last=Robinet |first=Isabelle |title=Taoism: Growth of a Religion |publisher=Stanford University Press |location=Stanford |year=1997 |isbn = 978-0-8047-2839-3 }}
+* {{Citation |last1=Simpkins |first1=Annellen M. |last2=Simpkins |first2=C. Alexander |title=Simple Taoism: a guide to living in balance |publisher=Tuttle Publishing |edition=3rd Printing |location=Boston |year=1999 |isbn = 978-0-8048-3173-4 }}
+* {{Citation |last1=Van Norden |first1=Bryan W. |last2=Ivanhoe |first2=Philip J. |title=Readings in Classical Chinese Philosophy |publisher=Hackett Publishing Company |edition=2nd |location=Indianapolis, Ind |year=2006 |isbn = 978-0-87220-780-6 |ref = {{Harvid|Van Norden|Ivanhoe|2005}} }}
+* {{Citation |last=Watson |first=Burton |title=Complete Works of Chuang Tzu |publisher=Columbia Univ. Press ([[UNESCO Collection of Representative Works]]: Chinese Series) |location=New York, NY |year=1968 |isbn = 978-0-231-03147-9}}
+* {{Citation |last1=Watts |first1=Alan |last2=Huan |first2=Al Chung-liang |title=Tao: The Watercourse Way |publisher=Pantheon Books |location=New York, NY |year=1975 |isbn=978-0-394-73311-1 |url-access=registration |url=https://archive.org/details/taowatercoursewa00watt_0 }}
+* {{cite book |last=Rocker |first=Rudolf |title=Nationalism and Culture |publisher=Black Rose Books |year=1997 }}
+{{refend}}
+
+== Further reading ==
+* {{Citation |last=Kaltenmark |first=Max |others=Translated by Greaves, Roger |title=Lao Tzu and Taoism |publisher=Stanford University Press |location=Stanford, CA |year=1969 |isbn=978-0-8047-0689-6}}
+* {{Citation |last=Lao |first=Tzu |others=Porter, Bill (Red Pine) |title=Lao-Tzu's Taoteching |publisher=[[Copper Canyon Press]] |location=Port Townsend, WA |edition=3rd Revised |year=2009 |isbn=978-1-55659-290-4}}
+* Sterckx, Roel. ''Ways of Heaven. An Introduction to Chinese Thought.'' New York: Basic Books, 2019.
+
+=== Translations into English ===
+* {{Citation |last=Henricks |first=Robert G. |title=Lao Tzu: Te-Tao Ching&nbsp;– A New Translation Based on the Recently Discovered Ma-wang-tui Texts (Classics of Ancient China) |publisher=Ballantine Books |location=New York |year=1992 |page=[https://archive.org/details/laotzu00blof/page/320 320] |isbn=978-0-345-37099-0 |url=https://archive.org/details/laotzu00blof/page/320 }}
+* {{Citation |last=Klaus |first=Hilmar |title=The Tao of Wisdom. Laozi&nbsp;– Daodejing. Chinese–English–German. Aachen: Hochschulverlag |publisher=Hochschulverlag |location=Aachen, Germany |year=2009 |page=600 |isbn=978-3-8107-0055-1 |url=http://www.tao-te-king.org}}
+* {{Citation |last=Legge|first=James |title=The Tao Teh King, or The Tao and its characteristics |url=http://www.w66.eu/elib/html/ttk.html}}
+* {{Citation |last=Waley |first= Arthur |title=The Way and Its Power: Lao Tzu's Tao Te Ching and Its Place in Chinese Thought |series=[[UNESCO Collection of Representative Works]] |publisher=Grove Press |location=New York |year=1994 |isbn=978-0-8021-5085-1}}
+* [http://www.yellowbridge.com/onlinelit/daodejing.php Side-by-side translations of the Tao Te Ching]
+
+==External links==
+{{Sister project links|s=Author:Laozi|v=no|n=no|b=Saylor.org's Ancient Civilizations of the World/Lao-tzu and Taoism}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/laozi}}
+* {{Gutenberg author |id=2427}}
+* {{Internet Archive author |search=("Lao-Tze" OR "Laozi" OR "Lao-Tzu" OR "Lao Zi" OR "Lao Zih" OR "Lao Tse" OR "Laotze" OR "Lao Tzu")}}
+* {{Librivox author |id=4205}}
+* [http://plato.stanford.edu/entries/laozi/ Stanford Encyclopedia of Philosophy: Laozi]
+* [http://www.iep.utm.edu/l/laozi.htm Internet Encyclopedia of Philosophy: Laozi]
+* [http://www.laotzu.org Lao Tzu Life and Teachings]
+
+{{navboxes|list=
+{{Chinese philosophy}}
+{{Taoism footer}}
+{{Ethics}}
+{{Social and political philosophy}}
+}}
+{{Authority control}}
+
+[[Category:Laozi| ]]
+[[Category:6th-century BC deaths]]
+[[Category:6th-century BC Chinese philosophers]]
+[[Category:7th-century BC births]]
+[[Category:Founders of philosophical traditions]]
+[[Category:Founders of religions]]
+[[Category:Investiture of the Gods characters]]
+[[Category:Libertarian theorists]]
+[[Category:Moral philosophers]]
+[[Category:Metaphysicians]]
+[[Category:Ontologists]]
+[[Category:People whose existence is disputed]]
+[[Category:Philosophers of culture]]
+[[Category:Philosophers of ethics and morality]]
+[[Category:Philosophers of mind]]
+[[Category:Proto-anarchists]]
+[[Category:Chinese political philosophers]]
+[[Category:Chinese social commentators]]
+[[Category:Social critics]]
+[[Category:Social philosophers]]
+[[Category:Taoist immortals]]
+[[Category:Zhou dynasty philosophers]]
+[[Category:Zhou dynasty Taoists]]

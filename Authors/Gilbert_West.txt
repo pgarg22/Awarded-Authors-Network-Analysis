@@ -1,0 +1,62 @@
+{{Use dmy dates|date=October 2019}}
+'''Gilbert West''' (1703–1756) was a minor English poet, translator, and [[theologian]] in the early and middle eighteenth century. [[Samuel Johnson]] included him in his ''[[Lives of the Most Eminent English Poets]]''.
+
+==Biography==
+The son of [[Richard West (priest)|Richard West]],<ref>{{cite DNB|wstitle=West, Gilbert}}</ref> he was educated at [[Winchester College|Winchester]], [[Eton College|Eton]] and [[Christ Church, Oxford]]; his father intended a career in the Church for him.<ref name="Johnson">{{cite book
+  | last = Johnson
+  | first = Samuel
+  | author-link = Samuel Johnson
+  | title = Lives of the Most Eminent English Poets vol. 3
+  | date = 1781
+  | pages = 328–33
+  | url = http://198.82.142.160/spenser/BiographyRecord.php?action=GET&bioid=33881
+  }}</ref>
+<ref name="Jones">{{cite book
+  | last = Jones
+  | first = Stephen
+  | author-link = Stephen Jones (editor)
+  | title = Biographia Dramatica; or, A Companion to the Playhouse vol. 1
+  | date = 1812
+  | pages = 741–42
+  | url = http://198.82.142.160/spenser/BiographyRecord.php?action=GET&bioid=33885
+  }}</ref> However, he was persuaded by his uncle, [[Richard Temple, 1st Viscount Cobham|Lord Cobham]] to take a commission in the army<ref name="Jones"/> but soon left to work under Lord [[Charles Townshend, 2nd Viscount Townshend|Townshend]], a prominent [[British Whig Party|Whig]].<ref name="Johnson"/> West left this position when it became clear that he had no prospect of advancement in such a career.<ref name="Jones"/>
+
+West married Miss Catherine Bartlett with whom he lived in West Wickham (near Bromley) <ref>{{Cite web|url=http://bluestocking.ling.helsinki.fi/index.php/correspondents/gw/|title = West, Gilbert &#124; Bluestocking Corpus}}</ref>  in [[Kent]] and was appointed Treasurer of Chelsea Hospital, which provided him a modest income.<ref name="Jones"/> During this period, following dialogue with his cousin [[George Lyttelton, 1st Baron Lyttelton]] he published the essay ''Observations on the history and evidence of the resurrection of Jesus Christ'' (1747) for which Oxford University awarded him an [[Legum Doctor|LLD]]. In 1749 West published his translations of the odes of [[Pindar]]; his translation of Pindar remained the standard version throughout the following century.<ref name="Carruthers">{{cite book
+  | last = Carruthers
+  | first = Robert
+  | title = Chambers's Cyclopaedia of English Literature, 3rd ed.
+  | date = 1879
+  | pages = 192
+  | url = http://198.82.142.160/spenser/BiographyRecord.php?action=GET&bioid=36903
+  }}</ref> Only late in his life did West achieve a measure of financial success when he was appointed to a [[Clerk of the Privy Council (United Kingdom)|clerkship of the Privy Council]] in 1752.<ref name="Johnson"/> He died four years later.
+
+==Works==
+*''Stowe, the gardens of the Right Honourable Richard, Lord Viscount Cobham'' (1732)
+*''A canto of the [[The Faerie Queene|Fairy Queen]]. Written by [[Edmund Spenser|Spenser]]'' (1739)
+*''The institution of the order of the garter. A dramatick poem'' (1742)
+*''Observations on the history and evidence of the resurrection of Jesus Christ'' (1747)
+*''The odes of [[Pindar]], with several other pieces translated'' (1749)
+*''Education: a poem in two cantos'' (1751)
+* "The oration of Plato" (translation of the funeral oration in [[Plato]]'s ''[[Menexenus]]''). In ''[https://books.google.com/books?id=PMxbAAAAQAAJ&printsec=frontcover&dq=two+orations+in+praise+of+Athenians&hl=en&ei=3wsmTrXrFbTr0QHW8tnTCg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCkQ6AEwAA#v=onepage&q&f=false Two orations in Praise of Athenians Slain in Battle]'' (1759).
+
+<small>Note: Some publication dates are posthumous.</small>
+
+==Notes==
+{{reflist}}
+
+==External links==
+* [http://www.eighteenthcenturypoetry.org/authors/pers00024.shtml Gilbert West] at the [http://www.eighteenthcenturypoetry.org/ Eighteenth-Century Poetry Archive (ECPA)]
+{{Gutenberg|no=4678|name=Dr Johnson's biography of Gilbert West}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:West, Gilbert}}
+[[Category:1703 births]]
+[[Category:1756 deaths]]
+[[Category:18th-century English poets]]
+[[Category:People educated at Eton College]]
+[[Category:Alumni of Christ Church, Oxford]]
+[[Category:Clerks of the Privy Council]]
+[[Category:18th-century English writers]]
+[[Category:18th-century English male writers]]
+[[Category:English male poets]]

@@ -1,0 +1,116 @@
+{{short description|Australian writer (born 1950)}}
+{{BLP sources|date=November 2019}}
+{{Use dmy dates|date=November 2016}}
+{{Use Australian English|date=November 2016}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image = 
+| name        = Carole Wilkinson
+| caption     = 
+| pseudonym   = 
+| birth_name = 
+| birth_date  = 1950, 12 July
+| birth_place = Derby, England
+| death_date  = 
+| death_place = 
+| occupation  = Writer 
+| nationality = English
+| period      = 
+| genre       = 
+| movement    = 
+| notableworks = [[Dragonkeeper]] series
+| signature   = 
+| website = {{URL|carolewilkinson.com.au/}}
+| awards = [[Children's Book of the Year Award: Younger Readers]] (2008)
+}}
+
+'''Carole Wilkinson''' (born 1950) is an [[Australian]] writer, best known for ''[[Dragonkeeper]]'' (2003).<ref>{{cite web |url=http://orlabs.oclc.org/identities/lccn-n2001-21607 |title= Wilkinson, Carole |access-date=6 April 2010 |author= |date= |year= |publisher=WorldCat Identities |pages= |language= |quote= }}
+</ref>
+
+==Career==
+Wilkinson was born in [[Derby, England]]. The family [[emigrated]] to [[Australia]] when she was 12 in 1963. She worked as a laboratory assistant until the age of 40, when she decided on a change of career.
+
+To help achieve her goal she studied at a [[tertiary education|tertiary]] level. During her time at University she showed some of her writing to a friend who worked in the [[publishing]] industry. This sample led to a commission to write her first novel for teenagers.
+
+Since that time she has gone on to write numerous books for educational and trade publishers in Australia. She has also written episodes for children's television production.
+
+In 2011 Carole went to St Ignatius College, Adelaide. Classes Year 5 Red, Yr 5 Gold and Year 5 Blue were reading the books as well.
+
+Wilkinson's daughter [[Lili Wilkinson]] also writes for young adults.
+
+==Dragonkeeper==
+''[[Dragonkeeper]]'' was published in 2003 by [[Black Dog Books (Australian publisher)|Black Dog Books]]. Set in [[Han dynasty]] [[China]], the story describes the adventures of Ping and an ageing dragon. It has won a number of awards including:
+*2003 [[Aurealis Award]] (Young Adults) 
+*2004 [[Children's Book Council of Australia]] Book of the Year Award (Young Readers)<ref>{{cite web|url=http://cbca.org.au/2009.htm|title=Previous Winners|access-date=6 April 2010|publisher=Children's Book Council of Australia|url-status=dead|archive-url=https://web.archive.org/web/20100105155208/http://cbca.org.au/2009.htm|archive-date=5 January 2010|df=dmy}}</ref>
+*2004 [[Queensland Premier's Literary Awards|Queensland Premier's Literary Award]] (Best Children's Book)
+*2006 [[Kalbacher Klapperschlange]] (German Children's Choice Award)
+
+''Dragonkeeper'' was also shortlisted for the [[New South Wales Premier's Literary Awards]] (2004) for the Patricia Wrightson Prize for Children's Books.<ref>[https://web.archive.org/web/20071005194644/http://www.arts.nsw.gov.au/awards/LiteraryAwards/litawards.htm NSW Premier's Literary Awards]. arts.nsw.gov.au. 26 June 2007</ref> The book secured US Publication and the US version of the book was published in April 2005. It was published in the UK on 30 April 2005.
+
+The first sequel to ''[[Dragonkeeper]]'' was published in September 2005, ''[[Garden of the Purple Dragon]]''. ''Dragon Moon'' followed in 2007. There is also a prequel to ''Dragonkeeper'', a book called ''Dragon Dawn'', about Danzi's adventures before he was put in [[Shaanxi|Huangling]] Mountain.
+
+== Published books ==
+
+{{Div col|colwidth=25em}}
+
+=== Dragonkeeper series  ===
+* ''[[Dragonkeeper]]'' ([[Black Dog Books (Australian publisher)|Black Dog Books]], 2003)
+* ''[[Garden of the Purple Dragon]]'' (2005)
+* ''[[Dragon Moon]]'' (2007)
+* ''Dragon Dawn'' (2008) – prequel
+* ''[[Blood Brothers (2012 novel)|Blood Brothers]]'' (2012)
+* ''Shadow Sister'' (2014)
+* ''Bronze Bird Tower'' (2017) – "The final part ...", {{OCLC| 	953577197}}
+
+=== Ramose series ===
+* ''Ramose: Prince in Exile'' (2003)
+* ''[[Ramose and the Tomb Robbers]]'' (2003)
+* ''Ramose: Sting of the Scorpion'' (2006)
+* ''Ramose: Wrath of Ra'' (2006)
+
+=== The Drum series ===
+* ''Black Snake'' (2002)
+* ''Fire in the Belly'' (2004)
+* ''Alexander the Great'' (2004)
+ 
+=== Nonfiction ===
+
+* ''Black Snake: The Daring of Ned Kelly'' (2002)
+* ''Ned Kelly's Jerilderie Letter'', ed. Wilkinson (2007)
+* ''The Dragon Companion: An Encyclopedia'', illus. Dean Jones (Black Dog Books, 2007), {{OCLC|180190705}}
+* ''Fromelles: Australia's Bloodiest Day at War'' (2011)
+* ''Atmospheric: The Burning Story of Climate Change'' (2015)
+* ''Matthew Flinders: Adventures on leaky ships'' (2020)
+
+=== Other books ===
+* ''Stagefright'' (1996)
+* ''Deepwater'' (1999)
+* ''Out of Orbit'' (1999)
+* ''Bertrand's Quest'' (2000)
+* ''Knight's Progress'' (2000)
+* ''Watery Graves'' (2000)
+* ''Careless Wishes'' (2001)
+* ''Careless Wishes'' (2001)
+* ''Sugar Sugar'' (2010)
+
+{{div col end}}
+
+== References ==
+{{reflist}}
+
+==External links==
+{{Portal |Children's literature |Speculative fiction}}
+* {{official website}} 
+* [http://www.fantasticfiction.co.uk/w/carole-wilkinson/ Bibliography] at Fantastic Fiction – with cover images
+* {{isfdb name|33781|Carole Wilkinson}}
+* {{LCAuth|n2001021607|Carole Wilkinson|19|ue}}
+{{Carole Wilkinson}}
+{{Authority control}}
+
+{{DEFAULTSORT:Wilkinson, Carole}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:Australian children's writers]]
+[[Category:Australian fantasy writers]]
+[[Category:Australian women children's writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:People from Derby]]

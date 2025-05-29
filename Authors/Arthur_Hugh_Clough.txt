@@ -1,0 +1,125 @@
+{{short description|English poet}}
+{{Use dmy dates|date=July 2020}}
+{{Use British English|date=June 2012}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+| name = Arthur H. Clough
+| image = Arthur Hugh Clough 1860.jpg
+| image_size = 
+| alt = 
+| caption = 
+| pseudonym = 
+| birth_name = 
+| birth_date = {{Birth date|1819|1|1|df=yes}}
+| birth_place = [[Liverpool]]
+| death_date = {{Death date and age|1861|11|13|1819|1|1|df=yes}}
+| death_place = [[Florence]]
+| resting_place = 
+| occupation = 
+| language = English
+| nationality = British
+| citizenship = 
+| education = 
+| alma_mater = [[Balliol College, Oxford]]
+| period = 
+| genre = Poetry
+| subject = 
+| movement = 
+| notableworks = 
+| spouse = Blanche Mary Shore Smith
+| partner = 
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| website = <!-- www.example.com -->
+| portaldisp = 
+}}
+
+'''Arthur Hugh Clough''' ({{IPAc-en|k|l|ʌ|f}} {{Respell|KLUF|'}}; 1 January 1819{{snd}}13 November 1861) was an [[English poetry|English poet]], an educationalist, and the devoted assistant to [[Florence Nightingale]]. He was the brother of suffragist [[Anne Clough]] and father of [[Blanche Athena Clough]] who both became principals of [[Newnham College, Cambridge]].
+
+==Life==
+Arthur Clough was born in [[Liverpool]] to James Butler Clough, a [[Cotton#Industrial Revolution in Britain|cotton merchant]] of [[Wales|Welsh]] descent, and Anne Perfect, from [[Pontefract]] in [[Yorkshire]].<ref>Clough, A.H. (1874) ''Poems'', London, Macmillan, p.vii.</ref> James Butler Clough was a younger son of a landed gentry family that had been living at Plas Clough in [[Denbighshire]] since 1567.<ref>A Genealogical and Heraldic History of the Landed Gentry of Great Britain and Ireland, fifth edition, vol. I, Sir Bernard Burke, 1871, p. 251, 'Clough of Plas Clough'</ref><ref>Some Poets, Artists & 'A Reference for Mellors', Anthony Powell, 2005, Timewell Press, p. 85</ref> In 1822 the family moved to the United States, and Clough's early childhood was spent mainly in [[Charleston, South Carolina]].  In 1828 Clough and his older brother Charles Butler Clough (later head of the Clough family of Llwyn Offa, [[Flintshire]] and Boughton House, [[Chester]], a [[Magistrate (England and Wales)|magistrate]] and [[Deputy Lieutenant]])<ref>A Genealogical and Heraldic History of the Landed Gentry of Great Britain and Ireland, fifth edition, vol. I, Sir Bernard Burke, 1871, p. 251, 'Clough of Llwyn Offa'</ref> returned to England to attend school in [[Chester, England|Chester]]. Holidays were often spent at [[Beaumaris]]. In 1829 Clough began attending [[Rugby School]], then under [[Thomas Arnold]], whose belief in rigorous education and lifestyles he accepted. (See [[Muscular Christianity]].) Cut off to a large degree from his family, he passed a somewhat solitary boyhood, devoted to the school and to early literary efforts in the ''Rugby Magazine''. In 1836 his parents returned to Liverpool, and in 1837 he won a scholarship to [[Balliol College, Oxford]]. Here his contemporaries included [[Benjamin Jowett]], [[Arthur Penrhyn Stanley]], [[John Campbell Shairp]], [[William George Ward]] and [[Frederick Temple]].  [[Matthew Arnold]], four years his junior, arrived the term after Clough had graduated.  Clough and Arnold enjoyed an intense friendship in Oxford.{{sfn|Stephen|1887}}
+
+Oxford, in 1837, was in the full swirl of the [[High Church]] movement led by [[John Henry Newman]]. Clough was for a time influenced by this movement, but eventually rejected it.  He surprised everyone by graduating from Oxford with only [[British undergraduate degree classification|Second Class Honours]], but won a fellowship with a tutorship at [[Oriel College, Oxford|Oriel College]].{{sfn|Chambers|1911}} He became unwilling to teach the doctrines of the [[Church of England]], as his tutorship required of him, and in 1848 he resigned the position and travelled to Paris, where he witnessed [[The Revolutions of 1848 in France|the revolution of 1848]].{{sfn|Stephen|1887}} [[Ralph Waldo Emerson]] was also in Paris at that time, and Clough saw him daily in May and June,<ref>Kenny, Anthony. "Clough, Arthur Hugh (1819–1861)". Oxford Dictionary of National Biography (online ed.). Oxford University Press. doi:10.1093/ref:odnb/5711</ref> and months later after his return to England. As [[Edward Everett Hale]] tells the story:<ref>Recounted in "James Russell Lowell and His Friends", by Edward Everett Hale, Houghton Mifflin & Co., 1898, pages 136-137.</ref>
+
+:Clough accompanied [Emerson] to Liverpool to see him off on his return to the United States, saying sadly, "What shall we do without you? Think where we are. Carlyle has led us all out into the desert and he has left us there" {{snd}} a remark which was exactly true. Emerson said in reply that very many of the fine young men in England had said this to him as he went up and down in his journeyings there. "And I put my hand upon his head as we walked, and I said, 'Clough, I consecrate you Bishop of All England. It shall be your part to go up and down through the desert to find out these wanderers and to lead them into the promised land'."
+
+In the summer of 1848, Clough wrote his long poem ''[[The Bothie of Tober-na-Vuolich]]'', a farewell to the academic life, following it up with poems from his time as student and tutor, in the shared publication ''[[Ambarvalia]]''. In 1849, he witnessed another revolution, the [[Roman Republic (19th century)|siege of the Roman Republic]], which inspired another long poem, ''Amours de Voyage'' (reprinted by [[Persephone Books]] in 2009).  
+''Easter Day'', written in Naples, was a passionate denial of the [[Resurrection]] and the fore-runner of the unfinished poem ''Dipsychus''.<ref>Anthony Kenny, 2005, pg. 181, 218.</ref>
+
+Since 1846, Clough had been financially responsible for his mother and sister (following the death of his father and younger brother and the marriage of his elder brother).  In the autumn of 1849, to provide for them, he became principal of [[Dr. Williams's Library|University Hall]],<ref>{{cite web |url=http://www.british-history.ac.uk/report.aspx?compid=65182 |title=University Hall (Dr. Williams' Library), Gordon Square|author=J. R. Howard Roberts and Walter H. Godfrey (editors) |publisher=Institute of Historical Research |year=1949 |work=Survey of London: volume 21: The parish of St Pancras part 3: Tottenham Court Road & neighbourhood |access-date=18 June 2012}}</ref> a hostel for [[Unitarianism|Unitarian]] students at [[University College, London]], but found its ideology as oppressive as that which he had left behind in Oxford. He soon found that he disliked London, in spite of the friendship of [[Thomas Carlyle]] and his wife [[Jane Welsh Carlyle]].{{sfn|Stephen|1887}}
+
+A prospect of a post in [[Sydney]] led him to engage himself to Blanche Mary Shore Smith, daughter of Samuel Smith, of Combe Hurst, Surrey<ref name="Ireland 1871, p. 251">A Genealogical and Heraldic History of the Landed Gentry of Great Britain and Ireland, fifth edition, vol. I, Sir Bernard Burke, 1871, p. 251</ref> and Mary Shore (sister to [[William Nightingale]]) but when that failed to materialize, he travelled in 1852 to [[Cambridge, Massachusetts]], encouraged by [[Ralph Waldo Emerson]].  There he remained several months, lecturing and editing [[Plutarch]] for the booksellers, until in 1853 the offer of an examinership in the Education Office brought him to London once more.{{sfn|Stephen|1887}} He married Miss Shore Smith and pursued a steady official career, diversified only by an appointment in 1856 as secretary to a [[William James Smythe#Royal Commission and marriage|commission sent to study foreign military education]]. He devoted enormous energy to work as an unpaid secretarial assistant to his wife's cousin [[Florence Nightingale]].{{sfn|Stephen|1887}}  He wrote virtually no poetry for six years.
+
+In 1860, his health began to fail. He visited first [[Great Malvern]] and [[Freshwater, Isle of Wight]].  From April 1861, he travelled strenuously in [[Greece]], [[Turkey]] and France, where he met up with the [[Alfred Tennyson, 1st Baron Tennyson|Tennyson]] family.  Despite his fragile health, this [[Grand Tour|Continental tour]] renewed a state of euphoria like that of 1848–9, and he quickly wrote the elements of his last long poem, ''Mari Magno''.  His wife joined him on a voyage from [[Switzerland]] to [[Italy]], where he contracted [[malaria]].
+
+He died in [[Florence]] on 13 November 1861.{{sfn|Chambers|1911}} He is buried in [[English Cemetery, Florence|the English Cemetery there]], in a tomb that his wife and sister had [[Susan Horner]] design from [[Jean-François Champollion]]'s book on [[Egyptian hieroglyphs]]. Matthew Arnold wrote the elegy of ''[[Thyrsis (poem)|Thyrsis]]'' to his memory.{{sfn|Chambers|1911}}
+
+Clough and his wife had three children: Arthur, Florence, and Blanche Athena.<ref name="Ireland 1871, p. 251"/> The youngest child, [[Blanche Athena Clough]] (1861–1960), devoted her life to [[Newnham College, Cambridge]], where her aunt (his sister [[Anne Clough|Anne]]) was principal.<ref>[http://www.newn.cam.ac.uk/about-newnham/college-history/biographies/content/blanche-athena-clough Newnham College biography]</ref>
+
+== Writings ==
+Shortly before he left Oxford, during the [[Great Famine (Ireland)|Great Famine of Ireland]] of 1845–1849, Clough wrote an ethical pamphlet addressed to the undergraduates, with the title, ''A Consideration of Objections against the Retrenchment Association at Oxford'' (1847). His [[Homer]]ic pastoral ''The Bothie of Toper-na-fuosich'', afterwards renamed ''Tober-na-Vuolich'' (1848), and written in [[hexameter]] is full of [[socialism]], reading-party humours and Scottish scenery. ''Ambarvalia'' (1849), published jointly with his friend [[Thomas Burbidge]], contains shorter poems of various dates from circa 1840 onwards.
+
+''Amours de Voyage'', a novel in verse, was written at [[Rome]] in 1849; ''Dipsychus'', a rather amorphous satire, at [[Venice]] in 1850; and the idylls which make up ''Mari Magno, or Tales on Board'', in 1861. A few lyric and elegiac pieces, later in date than the ''Ambarvalia'', complete Clough's poetic output. His only considerable enterprise in prose was a revision of a 17th-century translation of [[Plutarch]] (called the "[[Dryden]] Translation," but actually the product of translators other than Dryden) which occupied him from 1852, and was published as ''Plutarch's Lives'' (1859).
+
+Clough's output is small and much of it appeared posthumously. [[Anthony Kenny]] notes that the editions prepared by Clough's widow, Blanche, have "been criticized ... for omitting, in the interests of propriety, significant passages in ''Dipsychus'' and other poems."  But editing Clough's literary remains has proven a challenging task even for later editors.  Kenny goes on to state that "it was no mean feat to have placed almost all of Clough's poetry in the public domain within a decade, and to have secured for it general critical and popular acclaim."<ref>Anthony, Kenny, 2005, pg. 286.</ref>
+
+His long poems have a certain narrative and psychological penetration, and some of his lyrics have a strength of melody to match their depth of thought.  He has been regarded as one of the most forward-looking English poets of the 19th century, in part due to a sexual frankness that shocked his contemporaries.<ref name="victweb">{{cite web|title=Arthur Hugh Clough – A Brief Biography|author=Glenn Everett|url=http://www.victorianweb.org/authors/clough/bio.html|publisher=Victorian Web}}</ref>
+He often went against the popular religious and social ideals of his day, and his verse is said to have the melancholy and the perplexity of an age of transition, although ''Through a Glass Darkly'' suggests that he did not lack certain religious beliefs of his own, and in particular a belief in the afterlife where the struggle for virtue will be rewarded.<ref name="victweb"/>
+His work is interesting to students of [[Meter (poetry)|meter]], owing to the experiments which he made, in the ''Bothie'' and elsewhere, with English [[hexameter]]s and other types of verse formed upon classical models.
+
+Clough wrote the short poem ''[[Say Not the Struggle Naught Availeth]]'', a rousing call invoking military metaphors to keep up the good fight; which fight is unspecified, but it was written in the wake of the defeat of [[Chartism]] in 1848. Other short poems include ''Through a Glass Darkly'', an exploration of religious faith and doubt, and ''The Latest Decalogue'', a satirical take on the Ten Commandments. ''The Latest Decalogue's'' couplet on murder, "Thou shalt not kill; but needst not strive officiously to keep alive:" is often quoted – usually out of context – in debates on medical ethics in the sense that it is not right to struggle to keep terminally ill people alive, especially if they are suffering. Further, this couplet influenced [[Isaac Asimov]]'s [[Three Laws of Robotics]] (in particular, the First Law's "or through inaction" clause).<ref>Asimov, Isaac (1979). ''In Memory Yet Green''. Doubleday. Chapters 21 through 26 {{ISBN|0-380-75432-0}}.</ref>
+
+Broadcaster Geoffrey Robertson QC used the phrase in an episode of his television series, Geoffrey Robertson's Hypotheticals ("Affairs of the Heart," ABC, 1989), illustrating this point of view; it is unclear whether Robertson was aware Clough's version of the Fifth Commandment had nothing to do with the alleviation of suffering but was instead referring to those who do not afford—in any circumstances—due respect to the sanctity of human life.  
+Clough himself gives no indication that the couplet on murder might refer to the medical profession in general or to the treatment of the terminally ill in particular; indeed, the entire text of ''The Latest Decalogue'' satirizes the hypocrisy, materialism, the selective ethics and self-interest common to all of mankind.
+ 
+This bitter judgement of humanity should be balanced against the more compassionate view he displays in other poems such as ''Through A Glass Darkly'': "Ah yet when all is thought and said, the heart still overrules the head; still what we hope we must believe, and what is given us receive".
+
+In the novel ''[[The French Lieutenant's Woman]]'' by [[John Fowles]], several chapters have epigraphs from poems by Clough: "Duty" (1841), ''[[The Bothie of Tober-na-Vuolich]]'' (1848) and "Poems" (1841–1852).
+
+==Notes==
+{{Reflist|30em}}
+'''Attribution:'''
+*{{EB1911|wstitle=Clough, Arthur Hugh|volume=6|page=561|author=Chambers|first=E. K. |author-link=E. K. Chambers}}
+
+==References==
+*{{cite DNB|wstitle=Clough, Arthur Hugh |first=Leslie|last= Stephen|volume=11|pages=127–128}}
+*{{cite ODNB|first=Anthony|last=Kenny|title=Clough, Arthur Hugh (1819–1861)|id=5711}}
+* Clough's ''Poems'' (1862) edited, with a short memoir, by [[Francis Turner Palgrave|F. T. Palgrave]],
+*''Letters and Remains'', with a longer memoir, privately printed in 1865. *Both volumes published together in 1869, and reprinted
+*Robindra Biswas, ''Arthur Hugh Clough: Towards a Reconsideration''(1972)
+*[[Samuel Waddington]], ''Arthur Hugh Clough: A Monograph'' (1883)
+*[[Anthony Kenny]], ''Arthur Hugh Clough, a Poet's Life'' (2005)
+*Howard F. Lowry and Ralph Leslie Rusk (editors), ''Emerson-Clough Letters'', Hamden: Archon Books, 1968.
+*Stefano Paolucci, [https://www.academia.edu/14212652/Emerson_Writes_to_Clough_A_Lost_Letter_Found_in_Italy ''Emerson Writes to Clough: A Lost Letter Found in Italy''], in ''Emerson Society Papers'', vol. 19, n. 1, Spring 2008.
+*Selections from the poems were made by Mrs Clough for the [[Palgrave's Golden Treasury|''Golden Treasury'']] series in 1894, and by [[E. Rhys]] in 1896.
+*"The French Lieutenant's Woman" (1969), by [[John Fowles]].
+
+== External links ==
+{{wikisource author}}
+{{wikiquote}}
+* {{Gutenberg author |id=Clough,+Arthur+Hugh | name=Arthur Hugh Clough}}
+* {{Internet Archive author |sname=Arthur Hugh Clough}}
+* {{Librivox author |id=8042}}
+*[https://web.archive.org/web/20080511174846/http://whitewolf.newcastle.edu.au/words/authors/C/CloughArthurHugh/ The Poetry of Arthur Hugh Clough]
+*[http://theotherpages.org/poems/poem-cd.html#clough Arthur Hugh Clough Index Entry at Poets' Corner]
+*[https://web.archive.org/web/20160127062924/http://www.cs.rice.edu/%7Essiyer/minstrels/index_poet_C.html Arthur Hugh Clough's poetry at Minstrels]{{Dead link|date=February 2016|reason=bot attempt failed}}{{cbignore}}
+*[http://www.poemhunter.com/arthur-hugh-clough/biography/ ''Poem Hunter'']
+*[https://web.archive.org/web/20141201034749/http://factreference.org/Clough-ShortPoems.html Collection of short poems by Arthur Hugh Clough]
+*{{UK National Archives ID}}
+{{Plutarch}}
+{{Authority control}}
+
+{{DEFAULTSORT:Clough, Arthur Hugh}}
+[[Category:1819 births]]
+[[Category:1861 deaths]]
+[[Category:Alumni of Balliol College, Oxford]]
+[[Category:Fellows of Oriel College, Oxford]]
+[[Category:Academics of University College London]]
+[[Category:19th-century English poets]]
+[[Category:Writers from Charleston, South Carolina]]
+[[Category:People educated at Rugby School]]
+[[Category:Victorian poets]]
+[[Category:Poets from Liverpool]]
+[[Category:English male poets]]

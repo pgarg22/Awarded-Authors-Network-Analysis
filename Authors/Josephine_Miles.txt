@@ -1,0 +1,51 @@
+{{Short description|American poet and academic (1911–1985)}}
+[[File:Josephine Miles.jpg|thumb|right|Josephine Miles]]
+'''Josephine Louise Miles''' (June 11, 1911 – May 12, 1985) was an [[United States|American]] poet and literary critic; the first woman [[tenure]]d in the [[English studies|English department]] at the [[University of California, Berkeley]].<ref name="CaliSphere" /> She wrote over a dozen books of poetry and several works of criticism. She was a foundational scholar of quantitative and computational methods, and is considered a pioneer of the field of [[digital humanities]].
+
+== Early life and education ==
+Miles was born in Chicago, in 1911. When she was young, her family moved to Southern California.<ref name="CaliSphere" /> Due to disabling arthritis, she was educated at home by tutors, but was able to graduate from Los Angeles High School in a class that included the composer [[John Cage]].<ref>{{cite news | url=http://www26.us.archive.org/stream/poetryjosephine00milerich/poetryjosephine00milerich_djvu.txt | title=Interview conducted at the Josephine Miles house 1977-1979}}</ref>
+
+In reference to her lifelong disability, [[Thom Gunn]] recollected that "The unavoidable first fact about Josephine Miles was physical. As a young child she contracted a form of degenerative arthritis so severe that it left her limbs deformed and crippled. As a result, she could not be left alone in a house, she could not handle a mug...she could not use a typewriter; and she could neither walk nor operate a wheelchair."<ref>{{cite news|last=Gunn|first=Thom|date=June–July 1985|title=In Memoriam: Josephine Miles|publisher=California Monthly 95:6:29}}</ref>  
+
+Miles attended the [[University of California, Los Angeles]], where she earned a bachelor's degree in English literature before moving to [[University of California, Berkeley|Berkeley]] to pursue a doctorate. She received a Fellowship from the [[American Association of University Women]] in 1939. Her dissertation work on Wordsworth led to ''Wordsworth and the Vocabulary of Emotion'', published in 1942.<ref>{{Cite book|title=Wordsworth and the vocabulary of emotion|last=Miles|first=Josephine|date=1976|publisher=Octagon Books|isbn=978-0-374-95681-3|location=New York}}</ref>
+
+== Career ==
+During the 1930s and 1940s, Miles conducted quantitative stylistic research projects, first on "the adjectives favored by Romantic poets" and second on "the phrasal forms of the poetry of the 1640s, 1740s, and 1840s."<ref name="SearchReplace">{{Cite journal|date=2018-04-11|title=Search and Replace: Josephine Miles and the Origins of Distant Reading|url=https://modernismmodernity.org/forums/posts/search-and-replace|journal=Modernism / Modernity Print+|volume=3|issue=1|accessdate=2018-08-17}}</ref> She later became a foundational scholar of quantitative and computational methods in the humanities.<ref name="SearchReplace" /> 
+
+In 1951, she became director of a project at [[University of California, Berkeley|Berkeley]] to create a [[Concordance (publishing)|concordance]] to the poetical works of [[John Dryden]].<ref name=":0">{{Cite book|last=Duncan|first=Dennis|url=https://www.worldcat.org/oclc/1225623682|title=Index, a history of the : a bookish adventure|date=2021|isbn=0-241-37423-5|location=London|pages=243–244|oclc=1225623682}}</ref> The project had been initiated years earlier by her colleague in the English department, Guy Montgomery, who by the time of his death had amassed 250,000 manual index cards listing the various words used by Dryden and the poems and line numbers where they occurred. Miles worked with the Electrical Engineering department to complete the concordance using [[Punched card|punched cards]] and [[Punched card input/output|card-reading computers]]. After five years of work by Miles, her graduate students Mary Jackman and Helen S. Angoa, and with assistance from several punch card operators, the concordance was completed and published in 1957.<ref name="SearchReplace" /><ref name=":0" /> This has been described as "possibly the first literary concordance to use machine methods"; it was published seventeen years before the first volume of [[Roberto Busa]]'s ''[[Index Thomisticus]]'', a work widely credited with this first.<ref name="SearchReplace" /> Her innovative computational approach to literary analysis has resulted in her being considered a pioneer of the field of [[digital humanities]].<ref>{{Cite journal|last=Wimmer|first=Mario|date=2019-09-01|title=Josephine Miles (1911–1985): Doing Digital Humanism with and without Machines|url=https://www.journals.uchicago.edu/doi/10.1086/704850|journal=History of Humanities|volume=4|issue=2|pages=329–334|doi=10.1086/704850|issn=2379-3163}}</ref>
+
+In 1964, Miles was elected a Fellow of the [[American Academy of Arts and Sciences]].<ref name="AAAS">{{cite web|title=Book of Members, 1780–2010: Chapter M|url=http://www.amacad.org/publications/BookofMembers/ChapterM.pdf|publisher=American Academy of Arts and Sciences|accessdate=July 25, 2014}}</ref> She remained in Berkeley for the rest of her life, receiving multiple fellowships and awards until her death in May 1985. She was the first woman to receive tenure in the English Department at Berkeley and, at the time of her death, held the position of University Professor.<ref name="CaliSphere" />
+
+Miles was fascinated with [[Beat generation|Beat]] poetry, and was both a host and critic to many Beat poets from her chair at Berkeley. Most notably, she helped [[Allen Ginsberg]] publish ''Howl'', recommending it to [[Richard Eberhart]] who published an article in the ''New York Times'' praising the poem. In 1974, she founded the internationally distributed ''[[Berkeley Poetry Review]]'' on the U.C. Berkeley campus.<ref>*{{cite news | author=Knight, Brenda, ed. | title=Josephine Miles - Women of the Beat Generation | work=Biography | url=https://books.google.com/books?id=vnjTmEsXJwcC&lpg=PA39&ots=aDIqJ666Q6&dq=Josephine%20miles%20women%20of%20the%20beat&pg=PA39#v=onepage&q=Josephine%20miles%20women%20of%20the%20beat&f=false |  accessdate=October 18, 2012}}</ref> She mentored many young poets, including [[Jack Spicer]], [[Robin Blaser]], [[Diane Wakoski]], [[Diana O'Hehir]],  [[William Stafford (poet)|William Stafford]], and [[A. R. Ammons]].<ref name="CaliSphere">{{cite news | publisher=Calisphere, University of California | title=Josephine Miles, English: Berkeley | url=http://texts.cdlib.org/view?docId=hb4d5nb20m&doc.view=frames&chunk.id=div00112&toc.depth=1&toc.id= | accessdate=October 15, 2012}}</ref>
+
+== Legacy ==
+Miles bequeathed her Berkeley home to the University of California, which offers the house for use by the visiting Roberta C. Holloway Lecturer in the Practice of Poetry. The [[PEN Oakland/Josephine Miles Literary Award]] was established in her honor to recognize achievement in multicultural literature.
+
+==References==
+<references />
+
+==External links==
+{{wikiquote}}
+*{{cite web | title=Josephine Miles - The Academy of American Poets | work=Biography details of Josephine Miles on poets.org | url=http://www.poets.org/poet.php/prmPID/682 | accessdate=2009-02-25}}
+* [https://web.archive.org/web/20080207213811/http://www.penoakland.org/ PEN Oakland]
+*[http://archon.wulib.wustl.edu/index.php?p=collections/controlcard&id=974 The Josephine Miles Papers at Washington University in St. Louis]
+*[http://www.oac.cdlib.org/findaid/ark:/13030/kt0d5nc5z3/ Guide to the Josephine Miles Papers] at [[The Bancroft Library]]
+
+{{authority control}}
+
+{{DEFAULTSORT:Miles, Josephine}}
+[[Category:University of California, Berkeley College of Letters and Science faculty]]
+[[Category:American women poets]]
+[[Category:Beat Generation poets]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:1911 births]]
+[[Category:1985 deaths]]
+[[Category:Writers from the San Francisco Bay Area]]
+[[Category:American magazine publishers (people)]]
+[[Category:American magazine founders]]
+[[Category:20th-century American poets]]
+[[Category:20th-century American women writers]]
+[[Category:20th-century American businesspeople]]
+[[Category:20th-century American businesswomen]]
+[[Category:PEN Oakland/Josephine Miles Literary Award winners]]
+[[Category:People in digital humanities]]

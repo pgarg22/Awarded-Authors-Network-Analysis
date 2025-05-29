@@ -1,0 +1,73 @@
+{{Short description|American poet (1955–2017)}}
+{{Use mdy dates|date=September 2020}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Michelle Boisseau
+| embed = 
+| honorific_prefix = 
+| honorific_suffix = 
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date = {{birth date|1955|10|26}}
+| birth_place = [[Cincinnati]], [[Ohio]], [[United States]]
+| death_date = {{death date and age|2017|11|15|1955|10|26}}
+| death_place = 
+| resting_place = 
+| occupation = 
+| language = 
+| nationality = 
+| ethnicity 3= 
+| citizenship = 
+| education = 
+| alma_mater = [[Ohio University]]<br />[[University of Houston]]
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notablework =  
+| awards = [[Samuel French Morse Poetry Prize]]<br />[[Guggenheim Fellowship]]
+| years_active = 
+| module = 
+| website = 
+}}
+
+'''Michelle Boisseau''' (October 26, 1955 – November 15, 2017) was an American poet.
+
+==Life and career==
+
+Boisseau was born in [[Cincinnati]], Ohio on October 26, 1955. She attended [[Ohio University]], where she receiver a BA in 1977 and an MA in 1980, and the [[University of Houston]] where she received her PhD in 1985.<ref name=Guggenheim>{{cite web |title=Michelle Boisseau |url=https://www.gf.org/fellows/all-fellows/michelle-boisseau/ |website=Guggenheim Foundation |accessdate=June 2, 2019}}</ref> She began teaching at the [[University of Missouri-Kansas City]] in 1995.<ref name=Staff>{{cite web |last1=Staff |first1=Harriet |title=Rest in Peace, Michelle Boisseau |url=https://www.poetryfoundation.org/harriet/2017/11/rest-in-peace-michelle-boisseau |website=Poetry Foundation |accessdate=June 2, 2019 |language=en |date=June 2, 2019}}</ref>
+
+She published her first collection of poetry, ''No Private Life'' in 1990. This was followed by ''Understory'' in 1996<ref name=Guggenheim /> which won the [[Samuel French Morse Poetry Prize]].<ref>{{cite web |title=Understory by Michelle Boisseau, Molly Peacocks |url=https://www.waterstones.com/book/understory/michelle-boisseau/molly-peacock/9781555532864 |website=www.waterstones.com |accessdate=June 3, 2019 |language=en}}</ref> She published ''Trembling Airs'' in 2003, ''A Sunday in God-Years'' in 2009 and ''Among the Gorgons'' in 2016.<ref>{{cite web |title=Michelle Boisseau |url=https://www.poetryfoundation.org/poets/michelle-boisseau |website=Poetry Foundation |accessdate=June 3, 2019 |language=en |date=June 3, 2019}}</ref> She has also published a textbook called ''Writing Poems'' and her work also appeared in publications such as ''[[Poetry (magazine)|Poetry]]'', ''[[The Yale Review]]'' and ''[[The Cincinnati Review]]''.<ref>{{cite web |title=Michelle Boisseau |url=https://www.missourireview.com/people/michelle-boisseau/ |website=The Missouri Review |accessdate=June 3, 2019}}</ref>
+
+She was awarded with a [[Guggenheim Fellowship]] in 2017 for her work.<ref name=Guggenheim />
+
+She died on November 15, 2017 from lung cancer.<ref name=Staff />
+
+==Bibliography==
+
+* ''Among the Gorgons'' (2016) {{ISBN|1597321362}}
+* ''A Sunday in God-Years'' (2009) {{ISBN|1557289018}}
+* ''Tremblimg Air'' (2003) {{ISBN|155728752X}}
+* ''Understory'' (1996) {{ISBN|1555532861}}
+* ''No Private Life'' (1990) {{ISBN|0826512399}}
+
+==References==
+{{Reflist}}
+{{authority control}}
+
+{{DEFAULTSORT:Boisseau, Michelle}}
+[[Category:1955 births]]
+[[Category:2017 deaths]]
+[[Category:American women poets]]
+[[Category:Writers from Cincinnati]]
+[[Category:Ohio University alumni]]
+[[Category:University of Houston alumni]]
+[[Category:University of Missouri–Kansas City faculty]]
+[[Category:Deaths from lung cancer]]
+[[Category:Deaths from cancer in Kansas]]
+[[Category:American women academics]]

@@ -1,0 +1,41 @@
+{{short description|American poet (born 1943)}}
+{{lead too short|date=September 2012}}
+'''Joseph Stroud''' (born 1943, [[Glendale, California]]) is an [[United States|American]] [[poet]].<ref>{{cite web |url=http://boaeditions.org/authors/stroud.html |title="Joseph Stroud",''BOA Editions'' |publisher=Boaeditions.org |accessdate=2012-09-10 |url-status=dead |archiveurl=https://web.archive.org/web/20120717004437/http://www.boaeditions.org/authors/stroud.html |archivedate=2012-07-17 }}</ref>
+
+==Life==
+He was educated at the [[University of San Francisco]], [[California State University at Los Angeles]], and [[San Francisco State University]]. He is currently retired from teaching at [[Cabrillo College]].<ref>{{cite book| url=https://books.google.com/books?id=tx1I5Z3U5DIC&q=Joseph+Stroud+%28poet%29&pg=PA248| title=California poetry: from the Gold Rush to the present|editor1=Dana Gioia |editor2=Chryss Yost |editor3=Jack Hicks| publisher=Heyday Books| year= 2004| isbn=978-1-890771-72-0 }}</ref>
+
+He has published five collections of poetry, most recently ''Of This World; New and Selected Poems'' ([[Copper Canyon Press]], 2008) and ''Country of Light ''([[Copper Canyon Press]], 2004). His work earned a Pushcart Prize in 2000 and has been featured on Garrison Keillor's Writer's Almanac. He was also a finalist for the Northern California Book Critics Award in 2005 and a year later was selected for a [[Witter Bynner Fellowship]] in poetry from the Library of Congress.<ref>{{cite web|url=https://www.loc.gov/poetry/poetpoem2.html |title=Poet and the Poem Webcasts, Library of Congress |publisher=Loc.gov |accessdate=2012-09-10 |url-status=dead |archiveurl=https://web.archive.org/web/20120830191154/http://www.loc.gov/poetry/poetpoem2.html |archivedate=2012-08-30 }}</ref><ref>{{cite news| work=Santa Cruz (CA) Sentinel| date=December 5, 2008|url=http://www.santacruzsentinel.com/localnews/ci_11145401|title=Joe Stroud recapitulates a life in poetry| author=Chris Watson|archiveurl=https://web.archive.org/web/20110611230815/http://www.santacruzsentinel.com/localnews/ci_11145401|archivedate=11 May 2011 }}</ref> His poetry articulates a voyage through places and times and voices, often sifting through the details of daily life, searching for miracles (“Inside the pear there’s a paradise we will never know, our only hint the sweetness of its taste.” - Comice, ''Below Cold Mountain'').
+
+He divides his time between his home in [[Santa Cruz, California]], and a cabin in the Sierra Nevada.<ref>[http://www.gtweekly.com/20081231316744/a-e/poetry/this-murmuring-by-joseph-stroud "Joseph Stroud", ''Good Times Weekly'', 31 December 2008  ] {{dead link|date=January 2018|bot=medic}}{{cbignore|bot=medic}}</ref>
+
+==Awards==
+* 2000 Pushcart Prize
+* 2005 finalist for the Northern California Book Critics Award
+* 2006 [[Witter Bynner Fellowship]] in poetry from the Library of Congress.
+* 2011 Arts and Letters Award in Literature from the [[American Academy of Arts and Letters]].<ref>{{cite web |url=http://www.artsandletters.org/press_releases/2011literature.php |title=American Academy of Arts and Letters - Literature Awards Press Release |publisher=Artsandletters.org |date=2011-03-22 |accessdate=2012-09-10 |url-status=dead |archiveurl=https://web.archive.org/web/20130113091545/http://www.artsandletters.org/press_releases/2011literature.php |archivedate=2013-01-13 }}</ref>
+
+==Works==
+*{{Cite book| title=In the Sleep of Rivers | publisher=Capra Press| year= 1974| isbn= 978-0-912264-98-1 }}
+*{{Cite book| title=Signatures | publisher=BOA| year= 1982| isbn=978-0-918526-38-0 }}
+*{{Cite book| title=Below Cold Mountain | publisher=[[Copper Canyon Press]]| year= 1998| isbn= 978-1-55659-084-9 }}
+*{{Cite book| title=Country of Light | publisher=[[Copper Canyon Press]]| year= 2004| isbn=978-1-55659-205-8 }}
+*{{Cite book| title=Of This World: New and Selected Poems | publisher=[[Copper Canyon Press]]| year= 2008 | isbn=978-1-55659-285-0 }}
+
+===Anthologies===
+*{{Cite book| chapter-url=https://books.google.com/books?id=tx1I5Z3U5DIC&q=Joseph+Stroud+%28poet%29&pg=PA248| chapter=Missing; Hear that Phone Ringing? Sounds Like Long Distance; Manna| title=California poetry: from the Gold Rush to the present|editor1=Dana Gioia |editor2=Chryss Yost |editor3=Jack Hicks| publisher=Heyday Books| year= 2004| isbn=978-1-890771-72-0 }}
+*{{Cite book| chapter-url=https://books.google.com/books?id=Uidu1Reua3sC&q=Joseph+Stroud+%28poet%29&pg=PA50| chapter=Bible| editor=Patrice Vecchione| others=Illustrator Patrice Vecchione| publisher=Macmillan| year= 2007| isbn= 978-0-8050-8213-5 | title=Faith and Doubt: An Anthology of Poems }}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stroud, Joseph}}
+[[Category:Living people]]
+[[Category:American male poets]]
+[[Category:University of San Francisco alumni]]
+[[Category:San Francisco State University alumni]]
+[[Category:Writers from Glendale, California]]
+[[Category:California State University, Los Angeles alumni]]
+[[Category:1943 births]]

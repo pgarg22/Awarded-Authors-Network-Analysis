@@ -1,0 +1,228 @@
+{{redirect|Flaubert|the crater on Mercury|Flaubert (crater)}}
+{{short description|French novelist}}
+{{Use dmy dates|date=December 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Gustave Flaubert
+| image = Gustave Flaubert.jpg
+| imagesize = 
+| caption =  Flaubert {{circa}} 1865
+| pseudonym = 
+| birth_date = {{Birth date|1821|12|12|df=yes}}
+| birth_place = [[Rouen]], [[Bourbon Restoration in France|Kingdom of France]]
+| death_date = {{death date and age|1880|5|8|1821|12|12|df=y}}
+| death_place = Croisset ([[Canteleu]]), Rouen, [[French Third Republic]]
+| resting_place = [[Rouen Monumental Cemetery]]
+| occupation = [[Novelist]]
+| genre = [[Prose|Fictional prose]]
+| movement = [[Realism (arts)|Realism]], [[romanticism]]
+| notableworks = {{plainlist|
+* ''[[Madame Bovary]]''
+* ''[[Sentimental Education]]''
+* ''[[Salammbô]]''
+* ''[[The Temptation of Saint Anthony (novel)|The Temptation of Saint Anthony]]''
+* ''[[Three Tales (Flaubert)|Three Tales]]''
+* ''[[Bouvard et Pécuchet]]''
+}}
+| signature = G. Flaubert signature.svg
+}}
+
+'''Gustave Flaubert''' ({{IPAc-en|UK|ˈ|f|l|oʊ|b|ɛər}} {{respell|FLOH|bair}}, {{IPAc-en|US|f|l|oʊ|ˈ|b|ɛər}} {{respell|floh|BAIR}},<ref>{{cite LPD|3}}</ref><ref>{{cite EPD|18}}</ref> {{IPA-fr|ɡystav flobɛʁ|lang}}; 12 December 1821 – 8 May 1880) was a [[French novelist]]. Highly influential, he has been considered the leading exponent of [[literary realism]] in his country. According to the literary theorist Kornelije Kvas, "in Flaubert, realism strives for formal perfection, so the presentation of reality tends to be neutral, emphasizing the values and importance of style as an objective method of presenting reality".<ref>{{Cite book|last=Kvas|first=Kornelije|title=The Boundaries of Realism in World Literature|publisher=Lexington Books|year=2020|isbn=978-1-7936-0910-6|location=Lanham, Boulder, New York, London|pages=159}}</ref> He is known especially for his [[debut novel]] ''[[Madame Bovary]]'' (1857), his ''Correspondence'', and his scrupulous devotion to his style and [[aesthetics]]. The celebrated short story writer [[Guy de Maupassant]] was a [[protégé]] of Flaubert. On the occasion of Flaubert's 198th birthday (12 December 2019), a group of researchers at [[CNRS]] published a neural language model under his name.<ref>{{cite arXiv
+ | last1       = Le
+ | first1      = Hang
+ | last2      = Vial
+ | first2     = Loïc
+ | last3     = Frej
+ | first3     = Jibril
+ | last4      = Segonne
+ | first4     = Vincent
+ | last5      = Coavoux
+ | first5     = Maximin
+ | last6      = Lecouteux
+ | first6     = Benjamin
+ | last7      = Allauzen
+ | first7     = Alexandre
+ | last8      = Crabbé
+ | first8     = Benoît
+ | last9      = Besacier
+ | first9     = Laurent
+ | last10      = Schwab
+ | first10     = Didier
+ | eprint     = 1912.05372
+ | title      = Flaubert: Unsupervised Language Model Pre-training for French
+ | class      = cs.LG
+ | date       = 11 December 2019
+ }}</ref><ref>
+{{Cite tweet |user= didier_schwab |number=1205070894617501698 |title=198ème anniversaire de Gustave Flaubert}}
+</ref>
+
+==Life==
+
+===Early life and education===
+[[File:Музей Флобера.jpg|thumb|upright|left|Flaubert's birthplace, now a museum]]
+
+Flaubert was born in [[Rouen]], in the [[Seine-Maritime]] department of [[Upper Normandy]], in northern France. He was the second son of Anne Justine Caroline (née Fleuriot; 1793–1872) and Achille-Cléophas Flaubert (1784–1846), director and senior surgeon of the major hospital in Rouen.<ref>"Gustave Flaubert's Life", ''Madame Bovary'', Alma Classics edition, page 309, publ 2010, {{ISBN|978-1-84749-322-4}}</ref> He began writing at an early age, as early as eight according to some sources.<ref>Gustave Flaubert, ''The Letters of Gustave Flaubert 1830–1857'' (Cambridge: Harvard University Press, 1980) {{ISBN|0-674-52636-8}}</ref>
+
+He was educated at the ''[[Lycée Pierre-Corneille]]'' in Rouen,<ref name="LyCo6">[http://lgcorneille-lyc.spip.ac-rouen.fr/spip.php?article6 Lycée Pierre Corneille de Rouen – History]</ref> and did not leave until 1840, when he went to [[Paris]] to study [[law]]. In Paris, he was an indifferent student and found the city distasteful. He made a few acquaintances, including [[Victor Hugo]]. Toward the end of 1840, he travelled in the [[Pyrenees]] and [[Corsica]].<ref name=EB1911/> In 1846, after an attack of [[epilepsy]], he left Paris and abandoned the study of law.
+
+===Personal life===
+From 1846 to 1854, Flaubert had a relationship with the poet [[Louise Colet]]; [[Flaubert's letters|his letters]] to her have survived.<ref name=EB1911/> After leaving Paris, he returned to Croisset, near the [[Seine]], close to Rouen, and lived there for the rest of his life. He did however make occasional visits to Paris and England, where he apparently had a mistress.
+
+Politically, Flaubert described himself as a "romantic and liberal old dunce" (''vieille ganache romantique et libérale''),<ref>{{cite book |title=The George Sand-Gustave Flaubert Letters |url=https://archive.org/details/in.ernet.dli.2015.169388 |date=1921 |publisher=Boni and Liveright |page=[https://archive.org/details/in.ernet.dli.2015.169388/page/n328 284]}}</ref> an "enraged [[liberalism|liberal]]" (''libéral enragé''), a hater of all despotism, and someone who celebrated every protest of the individual against power and monopolies.<ref>{{cite book |last1=Weisberg |first1=Richard H. |title=The Failure of the Word: The Protagonist as Lawyer in Modern Fiction |date=1984 |publisher=Yale University Press |page=89}}</ref><ref>{{cite journal |last1=Séginger |first1=Gisèle |title=Le Roman de la Momie et Salammbô. Deux romans archéologiques contre l'Histoire |journal=Bulletin de l'Association Guillaume Budé |date=2005 |volume=1 |issue=2 |pages=135–151|doi=10.3406/bude.2005.3651 }}</ref>
+
+With his lifelong friend [[Maxime Du Camp]], he travelled in [[Brittany]] in 1846.<ref name=EB1911/> In 1849–50 he went on a long journey to the Middle East, visiting [[Greece]] and Egypt. In [[Beirut]] he contracted [[syphilis]].  He spent five weeks in [[Istanbul]] in 1850. He visited [[Carthage]] in 1858 to conduct research for his novel ''[[Salammbô]]''.
+
+Flaubert never married and never had children. His reason for not having children is revealed in a letter he sent to Colet, dated 11 December 1852. In it he revealed that he was [[antinatalism|opposed to childbirth]], saying he would "transmit to no one the aggravations and the disgrace of existence".
+
+Flaubert was very open about his sexual activities with prostitutes in his writings on his travels. He suspected that a [[chancre]] on his penis was from a [[Maronite]] or a [[Turkish people|Turkish]] girl.<ref>{{cite book |url=https://books.google.com/books?id=PJE5-qdSFT4C&pg=PR2|title=Gustave Flaubert's Madame Bovary: a reference guide|author=Laurence M. Porter, Eugène F. Gray|year=2002|publisher=Greenwood Publishing Group|page=xxiii|isbn=0-313-31916-2|access-date=7 August 2010}}</ref> He also engaged in intercourse with male prostitutes in Beirut and Egypt; in one of his letters, he describes a "pockmarked young rascal wearing a white turban".<ref>{{cite book |url=https://archive.org/details/flaubertinegypts00flau|url-access=registration|title=Flaubert in Egypt: a sensibility on tour : a narrative drawn from Gustave Flaubert's travel notes & letters|author=Gustave Flaubert, Francis Steegmüller|year=1996|publisher=Penguin Classics|page=[https://archive.org/details/flaubertinegypts00flau/page/203 203]|isbn=0-14-043582-4|access-date=7 August 2010}}</ref><ref>{{cite book |url=https://archive.org/details/lettersofgustave0001flau|url-access=registration|title=The Letters of Gustave Flaubert: 1830–1857|author=Gustave Flaubert, Francis Steegmüller|year=1980|publisher=Harvard University Press|page=[https://archive.org/details/lettersofgustave0001flau/page/121 121]|isbn=0-674-52636-8|access-date=7 August 2010}}</ref>
+
+According to his biographer Émile Faguet, his affair with Louise Colet was his only serious romantic relationship.<ref>{{cite book | title=The desert and the dancing girls | year=2005 | last=Flaubert | first=Gustave | publisher = [[Penguin books]] | isbn=0-14-102223-X| pages=10–12}}</ref>
+
+Flaubert was a diligent worker and often complained in his letters to friends about the strenuous nature of his work. He was close to his niece, Caroline Commanville, and had a close friendship and correspondence with [[George Sand]]. He occasionally visited Parisian acquaintances, including [[Émile Zola]], [[Alphonse Daudet]], [[Ivan Turgenev]], and [[Edmond de Goncourt|Edmond]] and [[Jules de Goncourt]].
+
+The 1870s were a difficult time for Flaubert. Prussian soldiers occupied his house during the [[Franco-Prussian War|War of 1870]], and his mother died in 1872. After her death, he fell into financial difficulty due to business failures on the part of his niece's husband. Flaubert suffered from [[sexually transmitted disease|venereal diseases]] most of his life. His health declined and he died at Croisset of a cerebral hemorrhage in 1880 at the age of 58. He was buried in the family vault in the cemetery of Rouen. A monument to him by [[Henri Chapu]] was unveiled at the museum of Rouen.<ref name=EB1911/>
+
+As a devoted [[Spinozist]], Flaubert was significantly influenced by [[Spinoza]]'s thought.<ref>
+* Flaubert: "...Yes, you must read Spinoza. Those who accuse him of atheism are asses. [[Goethe]] said, 'When I am upset or troubled I reread the ''Ethics''.' Perhaps like Goethe you will find calm in the reading of this great book. Ten years ago I lost the friend I had loved more than any other, Alfred Le Poittevin. Fatally ill, he spent his last nights reading Spinoza." (in his letter to Marie-Sophie Leroyer de Chantepie, 1857) [original in French]
+* Flaubert: "...If only I do not make a failure also of ''Saint-Antoine''. I am going to start working on it again in a week, when I have finished with [[Kant]] and [[Hegel]]. These two great men are helping to stupefy me, and when I leave them I fall with eagerness upon my old and thrice great Spinoza. What genius, how fine a work the ''Ethics'' is! (...) I knew Spinoza's ''Ethics'', but not the ''Tractatus Theologico-Politicus''. The book astounds me; I am dazzled, and transported with admiration. My God, what a man! what an intellect! what learning and what a mind!" (in his letters to [[George Sand]], 1870–72) [original in French]
+* [[Jacques Derrida]]: "The most terrifying affirmations, like that of [[Clement of Alexandria]] who declares that "Matter is eternal," are drawn from a treasury of the philosophical propositions that most tantalized Flaubert, above all those of Spinoza, for whom his admiration was unlimited, the Spinoza of the ''Ethics'' and particularly of the ''Tractatus Theologico-politicus''. (...) In a moment, I will venture a hypothesis on the privileged place of Spinoza in Flaubert's library or philosophical dictionary, as well as in his company of philosophers, for his first impulse is always one of admiration for Spinoza the man ("My God, what a man! what an intellect! what learning and what a mind!" "What a genius!")." (''Psyche: Inventions of the Other'', Stanford University Press, 2007) [original in French]</ref><ref>[[Jacques Derrida|Derrida, Jacques]] (1984), 'Une idée de Flaubert: La lettre de Platon,'. In: ''Psyché: Inventions de l'autre'' (Paris: Galilée, 1987), p. 305–325</ref><ref>Gyergai, Albert (1971), 'Flaubert et Spinoza,'. Les Amis de Flaubert 39: 11–22</ref><ref>Brown, Andrew (1996). '"Un Assez Vague Spinozisme": Flaubert and Spinoza,'. ''The Modern Language Review'' 91(4): 848–865</ref><ref>Brombert, Victor H.: ''The Novels of Flaubert: A Study of Themes and Techniques''. (Princeton, NJ: Princeton University Press, 1966), pp. 201–2</ref><ref>[[Pierre Macherey|Macherey, Pierre]]: ''The Object of Literature''. Translated from the French by David Macey. (New York: Cambridge University Press, 1995)</ref> He was also a [[pantheist]].<ref>Unwin, Timothy (1981), 'Flaubert and Pantheism,'. ''French Studies'' 35(4): 394–406. {{doi|10.1093/fs/XXXV.4.394}}</ref>
+
+===Writing career===
+[[File:Gustave Flaubert par Pierre François Eugène Giraud.jpg |thumb|Portrait by [[Eugène Giraud]], {{circa}} 1856]]His first finished work was ''[[November (Flaubert)|November]]'', a novella, which was completed in 1842.<ref>{{cite book |last=Brown |first=Frederick |title=Flaubert: a Biography |publisher=Little, Brown |year=2006 |isbn=0-316-11878-8 |page=[https://archive.org/details/flaubertbiograph00brow/page/115 115] |url=https://archive.org/details/flaubertbiograph00brow/page/115 }}</ref>
+
+In September 1849, Flaubert completed the first version of a novel, ''[[The Temptation of Saint Anthony (book)|The Temptation of Saint Anthony]].'' He read the novel aloud to [[Louis Bouilhet]] and [[Maxime Du Camp]] over the course of four days, not allowing them to interrupt or give any opinions. At the end of the reading, his friends told him to throw the manuscript in the fire, suggesting instead that he focus on day-to-day life rather than fantastic subjects.<ref>{{Cite web |url=https://publicdomainreview.org/essay/the-redemption-of-saint-anthony/ |title=The Redemption of Saint Anthony |last=Dickey |first=Colin |date=7 March 2013 |website=The Public Domain Review  |access-date=9 December 2019}}</ref>
+
+In 1850, after returning from Egypt, Flaubert began work on ''[[Madame Bovary]]''. The novel, which took five years to write, was serialized in the ''[[Revue de Paris]]'' in 1856. The government brought an action against the publisher and author on the charge of immorality,<ref name=EB1911/> which was heard during the following year, but both were acquitted. When ''Madame Bovary'' appeared in book form, it met with a warm reception.
+
+In 1858, Flaubert travelled to [[Carthage]] to gather material for his next novel, ''[[Salammbô]]''. The novel was completed in 1862 after four years of work.<ref>{{Cite web |url=https://heritage.bnf.fr/bibliothequesorient/en/gustave-flaubert-art |title=Gustave Flaubert (1821-1880) |last=Basch |first=Sophie |website=BnF Shared Heritage |publisher=[[Bibliothèque nationale de France]] |access-date=9 December 2019 }}</ref>
+
+Drawing on his youth, Flaubert next wrote ''L'Éducation sentimentale'' (''[[Sentimental Education]]''), an effort that took seven years. This was his last complete novel, published in the year 1869.<ref>{{Cite book |url=https://books.google.com/books?id=XCu5VDIzZM4C |title=Essentials of World Literature |last1=Hopper |first1=Vincent F. |last2=Grebanier |first2=Bernard |date=1 June 1952 |publisher=Barron's Educational Series |isbn=978-0-8120-0222-5 |pages=482 }}</ref>
+
+He wrote an unsuccessful drama, ''Le Candidat,'' and published a reworked version of ''The Temptation of Saint Anthony'', portions of which had been published as early as 1857. He devoted much of his time to an ongoing project, ''Les Deux Cloportes (The Two Woodlice)'', which later became ''[[Bouvard et Pécuchet]]'', breaking the obsessive project only to write the ''[[Three Tales (Flaubert)|Three Tales]]'' in 1877. This book comprises three stories: ''Un Cœur simple'' (''A Simple Heart''), ''La Légende de Saint-Julien l'Hospitalier'' (''The Legend of St. [[Julian the Hospitaller]]''), and ''Hérodias'' (''Herodias''). After the publication of the stories, he spent the remainder of his life toiling on the unfinished ''Bouvard et Pécuchet'', which was posthumously printed in 1881. It was a grand satire on the futility of human knowledge and the ubiquity of mediocrity.<ref name=EB1911/> He believed the work to be his masterpiece, though the posthumous version received lukewarm reviews. Flaubert was a prolific letter writer, and his letters have been collected in several publications.
+
+At the time of his death, he may have been working on a further historical novel, based on the [[Battle of Thermopylae]].<ref>{{cite journal |first=Otto |last=Patzer |title=Unwritten Works of Flaubert |journal=Modern Language Notes |volume=41 |issue=1 |date=January 1926 |pages=24–29|jstor=2913889|doi=10.2307/2913889 }}</ref>
+
+==Perfectionist style==
+Flaubert famously avoided the inexact, the abstract and the vaguely inapt expression, and scrupulously eschewed the [[cliché]].<ref name="Gosse1911"/> In a letter to [[George Sand]] he said that he spends his time "trying to write harmonious sentences, avoiding [[assonance]]s".<ref>[https://archive.org/details/lettersofgustave0001flau/page/89 The Letters of Gustave Flaubert: 1857-1880 By Gustave Flaubert, Francis Steegmuller] p.89</ref><ref>Angraj Chaudhary (1991) [https://books.google.com/?id=3k_kAAAAMAAJ ''Comparative aesthetics, East and West''] p.157</ref>
+
+Flaubert believed in and pursued the principle of finding "''le mot juste''" ("the right word"), which he considered as the key means to achieve high quality in literary art.<ref name=" Chandler1958p17"/> He worked in sullen solitude, sometimes occupying a week in the completion of one page, never satisfied with what he had composed.<ref name=EB1911/> In Flaubert's correspondence he intimates this, explaining correct prose did not flow out of him and that his style was achieved through work and revision.<ref name="Gosse1911">[[Edmund Gosse]] (1911) [http://www.theodora.com/encyclopedia/f/gustave_flaubert.html ''Flaubert, Gustave''] entry in [[Encyclopædia Britannica Eleventh Edition]], Volume 10, Slice 4</ref>
+
+This painstaking style of writing is also evident when one compares Flaubert's output over a lifetime to that of his peers (for example [[Honoré de Balzac|Balzac]] or [[Émile Zola|Zola]]). Flaubert published much less prolifically than was the norm for his time and never got near the pace of a novel a year, as his peers often achieved during their peaks of activity.  [[Walter Pater]] famously called Flaubert the "martyr of style".<ref name="Chandler1958p17">{{citation | last = Chandler | first = Edmund | year = 1958 | url = https://books.google.com/books?id=cDJbAAAAMAAJ | title = Pater on style: an examination of the essay on "Style" and the textual history of "Marius the Epicurean" | pages = 17 | quote = Pater then digress into a discussion of Flaubert and the monumental labours that have earned him the title of the 'martyr' of style. Pater quotes a French critic describing Flaubert's principle of 'le mot juste', which, he believed, was the means to the quality of the literary art (that is, 'truth') that lies beyond incidental and ornamental beauty. Flaubert's obsession with the thought that there exists the precise word or phrase for everything to be expressed shows, Pater suggests, the influence of a philosophical idea—those exact correlations between the world of ideas and the world of words can be found. }}</ref><ref>{{citation | first = Louis | last = Menand | year = 2007 | url = https://books.google.com/books?id=tL8LAQAAMAAJ | title = Discovering modernism: T.S. Eliot and his context | pages = 59 | quote = This difficult virtue of "restraint" Pater thought exemplified by Flaubert, whom he made not the hero (for style has no heroes) but the martyr of style. | isbn = 9780195159929 }}</ref><ref>Conlon, John J. "The Martyr of Style: Gustave Flaubert," in Walter Pater and the French Tradition, 1982</ref><ref>{{citation | first = Frank Northen | last = Magill | year = 1987 | url = https://books.google.com/books?id=9_tYAAAAMAAJ | title = Critical survey of literary theory |volume=3 | pages = 1089 | quote = in a discussion of style in which he glorifies Gustave Flaubert as "the martyr of style," he extols Flaubert's workmanship as a model for all writers, including English. | isbn = 9780893563936 }}</ref>
+
+==Legacy==
+In the assessment of critic [[James Wood (critic)|James Wood]]:<ref>{{cite book | title=How Fiction Works | year=2008 | last=Wood | first=James | author-link=James Wood (critic) | publisher=[[Farrar, Straus and Giroux]] | isbn=978-0-374-17340-1 | page=[https://archive.org/details/howfictionworks00wood/page/29 29] | url=https://archive.org/details/howfictionworks00wood/page/29 }}</ref>
+{{quote|Novelists should thank Flaubert the way poets thank spring; it all begins again with him. There really is a time before Flaubert and a time after him. Flaubert decisively established what most readers and writers think of as modern realist narration, and his influence is almost too familiar to be visible. We hardly remark of good prose that it favors the telling and brilliant detail; that it privileges a high degree of visual noticing; that it maintains an unsentimental composure and knows how to withdraw, like a good valet, from superfluous commentary; that it judges good and bad neutrally; that it seeks out the truth, even at the cost of repelling us; and that the author's fingerprints on all this are paradoxically, traceable but not visible. You can find some of this in [[Daniel Defoe|Defoe]] or [[Jane Austen|Austen]] or [[Honoré de Balzac|Balzac]], but not all of it until Flaubert.}}
+
+As a writer, other than a pure stylist, Flaubert was nearly equal parts [[romanticism|romantic]] and [[Realism (arts)|realist]].<ref name="Gosse1911"/> Hence, members of various schools, especially realists and formalists, have traced their origins to his work. The exactitude with which he adapts his expressions to his purpose can be seen in all parts of his work, especially in the portraits he draws of the figures in his principal romances. The degree to which Flaubert's fame has extended since his death presents "an interesting chapter of literary history in itself".<ref name=EB1911/> He is also credited with spreading the popularity of the color Tuscany Cypress, a color often mentioned in his chef-d'œuvre ''Madame Bovary''.
+
+Flaubert's lean and precise writing style has had a large influence on 20th-century writers such as [[Franz Kafka]] and [[J. M. Coetzee]]. As [[Vladimir Nabokov]] discussed in his famous lecture series:<ref>Nabokov (1980) [https://books.google.com/?id=MmDuAAAAMAAJ ''Lectures on literature'', Volume 1], p.256</ref>
+
+<blockquote>The greatest literary influence upon Kafka was Flaubert's. Flaubert who loathed pretty-pretty prose would have applauded Kafka's attitude towards his tool. Kafka liked to draw his terms from the language of law and science, giving them a kind of ironic precision, with no intrusion of the author's private sentiments; this was exactly Flaubert's method through which he achieved a singular poetic effect. The legacy of his work habits can best be described, therefore, as paving the way towards a slower and more introspective manner of writing.
+</blockquote>
+The publication of ''Madame Bovary'' in 1856 was followed by more scandal than admiration; it was not understood at first that this novel was the beginning of something new: the scrupulously truthful portraiture of life. Gradually, this aspect of his genius was accepted, and it began to crowd out all others. At the time of his death, he was widely regarded as the most influential French Realist. Under this aspect Flaubert exercised an extraordinary influence over [[Guy de Maupassant]], [[Edmond de Goncourt]], [[Alphonse Daudet]], and [[Émile Zola]].<ref name=EB1911/> Even after the decline of the Realist school, Flaubert did not lose prestige in the literary community; he continues to appeal to other writers because of his deep commitment to aesthetic principles, his devotion to style, and his indefatigable pursuit of the perfect expression.
+
+His ''Œuvres Complètes'' (8 vols., 1885) were printed from the original manuscripts, and included, besides the works mentioned already, the two plays ''Le Candidat'' and ''Le Château des cœurs''. Another edition (10 vols.) appeared in 1873–85. Flaubert's correspondence with [[George Sand]] was published in 1884 with an introduction by Guy de Maupassant.<ref name=EB1911>{{EB1911|wstitle=Flaubert, Gustave |volume=10 |pages=483-484|inline=1}}</ref>
+
+He has been admired or written about by almost every major literary personality of the 20th century, including [[philosopher]]s and [[sociologist]]s such as [[Michel Foucault]], [[Roland Barthes]], [[Pierre Bourdieu]] and [[Jean-Paul Sartre]] whose partially psychoanalytic portrait of Flaubert in ''[[The Family Idiot]]'' was published in 1971. [[Georges Perec]] named ''[[Sentimental Education]]'' as one of his favourite novels. The Peruvian novelist [[Mario Vargas Llosa]] is another great admirer of Flaubert. Apart from ''[[Perpetual Orgy]]'', which is solely devoted to Flaubert's art, one can find lucid discussions in Vargas Llosa's ''Letters to a Young Novelist'' (published 2003). In a public lecture in May 1966 at the Kaufmann Art Gallery in New York, [[Marshall McLuhan]] claimed: "I derived all my knowledge of media from people like Flaubert and [[Arthur Rimbaud|Rimbaud]] and [[Charles Baudelaire|Baudelaire]]."<ref>{{Cite book|title = Understanding Me: Lectures and Interviews|url = https://books.google.com/books?id=3QTFN6ArdKUC|publisher = McClelland & Stewart|date = 25 June 2010|isbn = 9781551994161|first = Herbert Marshall|last = Mcluhan}}</ref>
+
+==In Popular Culture==
+
+In the [[Dragnet (1967 TV series)|Dragnet]] television show, “Homicide: The Student,” originally broadcast on September 25, 1969, Flaubert’s work, “The Legend of St. Julian,” is portrayed as having inspired a college student to murder two people.
+
+==Bibliography==
+
+===Major works===
+
+*''[[La Peste à Florence]]'' (1836)
+*''Rêve d'enfer'' (1837)
+*''[[Memoirs of a Madman]]'' (1838)
+*''[[Madame Bovary]]'' (1857)
+*''[[Salammbô]]'' (1862)
+*''[[Sentimental Education]]'' (1869)
+*''Le Candidat'' (1874)
+*''[[The Temptation of Saint Anthony (Flaubert)|The Temptation of Saint Anthony]]'' (1874)
+*''[[Three Tales (Flaubert)|Three Tales]]'' (1877)
+*''[[Le Château des cœurs]]'' (1880)
+*''[[Bouvard et Pécuchet]]'' (1881)
+*''[[Dictionary of Received Ideas]]'' (1911)
+*''Souvenirs, notes et pensées intimes'' (1965)
+
+===Adaptations===
+* The opera ''[[Hérodiade]]'' by [[Jules Massenet]], based on Flaubert's novella ''Hérodias''
+* The opera ''[[Madame Bovary (opera)|Madame Bovary]]'' by [[Emmanuel Bondeville]], based on Flaubert's novel
+* The unfinished opera ''Salammbo'' by [[Modest Mussorgsky]], orchestrated by [[Zoltán Peskó]], based on Flaubert's novel.
+* [[Madame Bovary (disambiguation)|Eight films]] titled ''Madame Bovary''.
+* ''La légende de Saint-Julien l'Hospitalier'' (1888), an opera by [[Camille Erlanger]]
+
+===Correspondence (in English)===
+*Selections:
+**''Selected Letters'' (ed. [[Francis Steegmuller]], 1953, 2001)
+**''Selected Letters'' (ed. Geoffrey Wall, 1997)
+*''Flaubert in Egypt: A Sensibility on Tour'' (1972)
+*''Flaubert and Turgenev, a Friendship in Letters: The Complete Correspondence'' (ed. Barbara Beaumont, 1985)
+*Correspondence with George Sand:
+**''The George Sand–Gustave Flaubert Letters'', translated by Aimée G. Leffingwell McKenzie (A. L. McKenzie), introduced by Stuart Sherman (1921), available at the Gutenberg website as [https://www.gutenberg.org/ebooks/5115 E-text No. 5115]
+** ''Flaubert–Sand: The Correspondence'' (1993)
+
+===Biographical and other related publications===
+* Allen, James Sloan, ''Worldly Wisdom: Great Books and the Meanings of Life,'' Frederic C. Beil, 2008. {{ISBN|978-1-929490-35-6}}
+* Brown, Frederick, ''Flaubert: a Biography'', Little, Brown; 2006. {{ISBN|0-316-11878-8}}
+* Hennequin, Émile, ''Quelques écrivains français Flaubert, Zola, Hugo, Goncourt, Huysmans, etc.'', available at the Gutenberg website as [https://www.gutenberg.org/ebooks/12289 E-text No. 12289]
+* [[Julian Barnes|Barnes, Julian]], ''[[Flaubert's Parrot]]'', London: J. Cape; 1984 {{ISBN|0-330-28976-4}}
+* Fleming, Bruce, ''Saving Madame Bovary: Being Happy With What We Have,'' Frederic C. Beil, 2017. {{ISBN|978-1-929490-53-0}}  
+* Patton, Susannah, ''[http://www.wanderingeducators.com/travel-guides/roaring-forties-press/book-review-journey-flauberts-normandy.html A Journey into Flaubert's Normandy]'', Roaring Forties Press, 2007. {{ISBN|0-9766706-8-2}}
+* [[Jean-Paul Sartre|Sartre, Jean-Paul]]. ''The Family Idiot: Gustave Flaubert, 1821–1857'', Volumes 1–5. University of Chicago Press, 1987.
+* [[Francis Steegmuller|Steegmuller, Francis]], ''[http://www.nybooks.com/shop/product?usca_p=t&product_id=4159 Flaubert and Madame Bovary: a Double Portrait]'', New York: Viking Press; 1939.
+* Tooke, Adrianne, ''Flaubert and the Pictorial Arts: from image to text'', Oxford University Press; 2000. {{ISBN|0-19-815918-8}}
+* Wall, Geoffrey, ''Flaubert: a Life'', Faber and Faber; 2001. {{ISBN|0-571-21239-5}}
+* Various authors, ''The Public vs. M. Gustave Flaubert'', available at the Gutenberg website as [https://www.gutenberg.org/ebooks/10666 E-text No. 10666].
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikiquote}}
+{{wikisource author}}
+{{commons|Gustave Flaubert}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/gustave-flaubert}}
+* {{Gutenberg author |id=Flaubert,+Gustave | name=Gustave Flaubert}}
+* {{Internet Archive author |sname=Gustave Flaubert}}
+* {{Librivox author |id=3464}}
+* [https://web.archive.org/web/20051012095114/http://www.incipitblog.com/index.php/2005/08/08/gustave-flaubert-la-femme-du-monde-1836/ Audiobook (MP3)]: ''La femme du monde'' (taken from Flaubert's early works) {{in lang|fr}}
+* [http://www.intratext.com/Catalogo/Autori/Aut148.HTM Flaubert's works]: text, concordances and frequency list
+* [http://www.litteratureaudio.com/livres-audio-gratuits-mp3/tag/gustave-flaubert/ Gustave Flaubert, his work in audio version] {{in lang|fr}}
+* {{Books and Writers |id=flaubert |name=Gustave Flaubert}}
+* [http://www.univ-rouen.fr/flaubert/ Site of the Centre Flaubert at Rouen] {{in lang|fr}}
+* [http://www.press.jhu.edu/books/hopkins_guide_to_literary_theory/gustave_flaubert.html Flaubert entry] at the [[Johns Hopkins University]] Guide to Literary Theory and Criticism
+* [http://www.bibliomania.com/0/5/136/frameset.html Bibliomania page]
+* [http://perso.wanadoo.fr/jb.guinot/pages/accueil.html A comprehensive site in French] {{in lang|fr}}
+* [https://web.archive.org/web/20070926221151/http://www.the-ledge.com/flash/ledge.php?book=12&lan=UK Flaubert 'Bookweb' on literary website The Ledge, with suggestions for further reading]
+* [http://ia600401.us.archive.org//load_djvu_applet.php?file=1/items/StudiesFrenchAndEnglish/StudiesFrenchAndEnglish.djvu "The Martyr of Letters"], essay on ''The Letters of Gustave Flaubert'', F. L. Lucas, ''Studies French and English'' (1934), pp.&nbsp;242–266
+
+{{Gustave Flaubert|state=expanded}}
+{{Madame Bovary}}
+{{Salammbô}}
+{{Modernism}}
+{{Portal bar|France|Biography}}
+{{Authority control}}
+
+{{DEFAULTSORT:Flaubert, Gustave}}
+[[Category:1821 births]]
+[[Category:1880 deaths]]
+[[Category:19th-century French male writers]]
+[[Category:19th-century French novelists]]
+[[Category:19th-century French short story writers]]
+[[Category:Anti-natalists]]
+[[Category:French fantasy writers]]
+[[Category:French historical novelists]]
+[[Category:French male novelists]]
+[[Category:French male short story writers]]
+[[Category:LGBT writers from France]]
+[[Category:Lycée Pierre-Corneille alumni]]
+[[Category:People from Rouen]]
+[[Category:Spinozists]]
+[[Category:19th-century travelers]]
+[[Category:Writers from Normandy]]
+[[Category:Writers of historical fiction set in antiquity]]
+[[Category:Writers with disabilities]]
+[[Category:Deaths by intracerebral hemorrhage]]
+[[Category:Bisexual writers]]

@@ -1,0 +1,90 @@
+{{Short description|Spanish playwright}}
+{{family name hatnote|Buero|Vallejo|lang=Spanish}}
+{{Infobox person
+| name                = Antonio Buero Vallejo
+| image               ="Retrat_de_l'escriptor_Antonio_Buero_Vallejo_(1916-2000).png
+| imagesize           = 
+| birth_name          = Antonio Buero Vallejo
+| birth_date          = {{Birth date|1916|09|29|df=y}}
+| birth_place         = [[Guadalajara, Castilla-La Mancha|Guadalajara]], [[Spain]]
+| death_date          = {{Death date and age|2000|04|29|1916|09|29|df=y}}
+| death_place         = [[Madrid]], Spain
+| yearsactive         = 
+| occupation          = [[Playwright]]
+| spouse              = [[Victoria Rodríguez (actress)|Victoria Rodríguez]]
+| children            = 
+| othername           = 
+| website             = 
+}}
+
+'''Antonio Buero Vallejo''' (September 29, 1916 &ndash; April 29, 2000) was a [[Spain|Spanish]] playwright associated with the [[Generation of '36]] movement and considered the most important Spanish dramatist of the [[Spanish Civil War]].
+
+==Biography==
+During his career he won three [[National Theater Prize]]s (in 1957, 1958 and 1959), a National Theater Prize for all his career in 1980, the [[National Prize for Literature (Spain)|National Literature Prize]] in 1996, and the [[Miguel de Cervantes Prize]], Spain's highest literary honour, in 1986. From 1971 until his death he was a member of the [[Real Academia Española]].
+
+From 1934 to 1936 Vallejo studied art and painting at San Fernando Escuela de Arte, in Madrid. During the civil war, he joined the [[Communist Party of Spain]] and served as a medical aid in the [[Spanish Republican Army|Republican Army]].<ref>{{Cite web|title=Antonio Buero Vallejo|url=http://www.cervantesvirtual.com/portales/antonio_buero_vallejo/|access-date=2021-10-21|website=Biblioteca Virtual Miguel de Cervantes|language=es}}</ref>
+
+After the war he was imprisoned for six years. After being released he wrote ''Story of a Stairway'' in 1949. This work presented a graphic picture of Spain after the Civil War and won the Lope de Vega Prize, establishing Vallejo as one of the foremost authors in Spain. While other authors left Spain to escape [[Spain under Franco|Franco's censorship]], Vallejo stayed in Spain and used [[symbolism (arts)|symbolism]] to criticize the government. In 1971, he was elected to the [[Royal Spanish Academy]]. In 1994 he was awarded the Gold Medal of Merit in Fine Arts and the Gold Medal of the Society of Authors of Spain. He died due to a stroke on April 29, 2000, aged 83.<ref>{{Cite book | url=https://books.google.com/books?id=GnnGCwAAQBAJ
+|title = Obituaries in the Performing Arts, 2000: Film, Television, Radio, Theatre, Dance, Music, Cartoons and Pop Culture|isbn = 9780786452057|date =2008-10-24|first=Harris M.|last=Lentz|publisher=McFarland}}</ref><ref>{{Cite news | url=https://www.nytimes.com/2000/05/06/books/antonio-buero-vallejo-83-playwright-and-dissident-during-franco-s-rule.html|title = Antonio Buero Vallejo, 83, Playwright and Dissident During Franco's Rule|newspaper = The New York Times|date = 2000-05-06|last1 = Riding|first1 = Alan}}</ref>
+
+A common theme in his work is Spain's problems during and after Franco. In the tragedies there is always a sense of hope for the future. His works make frequent use of the symbolism of the senses—for example, using the "fiery darkness," in which the protagonist cannot see, as a symbol of Spain's dark situation.
+
+==Awards==
+* [[Miguel de Cervantes Prize]] 1986
+
+==Works==
+* ''Historia de una escalera'' ("Story of a Stairway")(1949) 
+* ''[[En la ardiente oscuridad]]'' ("In The Burning Darkness") (1950)
+* ''La tejedora de sueños'' (1952)
+* ''La señal que se espera'' (1952)
+* ''Casi un cuento de hadas'' (1953)
+* ''Madrugada'' (1953)<ref>{{Citation
+ | last = Besó Portalés
+ | first = César
+ | year = 2003
+ | title =Madrugada - Una propuesta de comentario
+ | url = http://www.ucm.es/info/especulo/numero24/madrugad.html
+ | accessdate = 2008-05-21}}</ref>
+* ''Irene o el tesoro'' (1954)
+* ''Las cartas boca abajo'' (1957)
+* ''Hoy es fiesta'' (1955)
+* ''Un soñador para un pueblo'' (1958) 
+* ''Las Meninas'' (1960)
+* ''El concierto de San Ovidio'' ("The concert at Saint-Ovide Fair") (1962)
+* ''Aventura en lo gris'' (1963)
+* ''El tragaluz'' ("The basement window") (1967)
+* ''La doble historia del doctor Valmy'' ("The double-case history of Doctor Valmy")(1968)
+* ''El sueño de la razón'' ("The Sleep of Reason") (1970)
+* ''La detonación'' ("The Shot")(1977)
+* ''Llegada de los dioses'' (1971)
+* ''La Fundación'' ("The Foundation") (1974)
+* ''Jueces en la noche'' ("Judges in the Night") (1979)
+* ''Caimán'' (1981)
+* ''Diálogo secreto'' (1984)
+* ''Lázaro en el laberinto'' (1986)
+* ''Música cercana'' ("The music window")(1989)
+* ''Las trampas del azar'' (1994)
+* ''Misión al pueblo desierto'' (1999)
+
+==See also==
+* [[Café Gijón|Café Gijón (Madrid)]]
+
+== Footnotes ==
+{{reflist}}
+
+==External links ==
+*[http://www.cervantesvirtual.com/bib_autor/buerovallejo/ Antonio Buero Vallejo] at Miguel de Cervantes Virtual Library (cervantesvirtual.com) {{in lang|es}}
+*[https://web.archive.org/web/20070824100937/http://sacm.jccm.es/biblioteca_regional/buero_vallejo/vallejo/buero_vallejo/index_2.html Antonio Buero Vallejo] at Castilla-La Mancha Library site (sacm.jccm.es) {{in lang|es}}
+
+{{Miguel de Cervantes Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Buero Vallejo, Antonio}}
+[[Category:1916 births]]
+[[Category:2000 deaths]]
+[[Category:Spanish male dramatists and playwrights]]
+[[Category:Members of the Royal Spanish Academy]]
+[[Category:Premio Cervantes winners]]
+[[Category:20th-century Spanish dramatists and playwrights]]
+[[Category:20th-century Spanish male writers]]
+[[Category:People from Guadalajara, Spain]]

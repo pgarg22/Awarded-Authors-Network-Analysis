@@ -1,0 +1,64 @@
+'''Chase Twichell''' (born August 20, 1950)<ref>{{cite web|url=https://lccn.loc.gov/n81017543 |title=Library of Congress Authorities |work=LCNAF [[Cataloging in Publication]] data - LC Control Number: n 81017543 |publisher=[[Library of Congress|LOC]] |access-date=June 10, 2012 }}</ref> is an [[United States|American]] poet, professor, publisher, and, in 1999, the founder of Ausable Press. Her most recent poetry collection is ''Things as It Is'' ([[Copper Canyon Press]], 2018). ''Horses Where the Answers Should Have Been <ref name=auto>{{Cite web |url=https://www.coppercanyonpress.org/books/horses-where-the-answers-should-have-been-by-chase-twichell/|title=Copper Canyon Press. |access-date=2013-05-13  |url-status=live }}</ref>'' ([[Copper Canyon Press]], 2010) earned her Claremont Graduate University's prestigious $100,000 [[Kingsley Tufts Poetry Award]].<ref>[https://catalog.loc.gov/vwebv/search?searchArg=Chase+Twichell&searchCode=GKEY%5E*&searchType=0&recCount=14&sk=en_US Library of Congress Online Catalog > Chase Twichell]</ref><ref name=auto/> She is the winner of several awards in writing from the [[New Jersey State Council on the Arts]], the [[American Academy of Arts and Letters]] and The Artists Foundation.  Additionally, she has received fellowships from both the [[John Simon Guggenheim Memorial Foundation|Guggenheim Foundation]] and the [[National Endowment for the Arts]]. Her poems have appeared in literary journals and magazines including ''[[The New Yorker]]'', ''[[Field (magazine)|Field]]'', ''[[Ploughshares]]'', ''[[The Georgia Review]]'', ''[[The Paris Review]]'', ''[[Poetry magazine|Poetry]]'', ''[[The Nation]]'', and ''[[The Yale Review]]''.<ref>[http://www.blackbird.vcu.edu/v3n1/poetry/twichell_c/index.htm ''Blackbird'' > Chase Twichell Bio]</ref>
+
+Many of Twichell's poems are heavily influenced by her years as a [[Zen Buddhist]] student of [[John Daido Loori]] at [[Zen Mountain Monastery]], and her poetry in the book ''The Snow Watcher'' shows it.<ref>[http://www.poetryfoundation.org/archive/poet.html?id=6985 The Poetry Foundation > Poet > Chase Twichell Biography]</ref><ref name="blueflowerarts.com">[http://www.blueflowerarts.com/chase-twichell Blue Flower Arts > Author Booking Agency > Chase Twichell Bio] {{webarchive |url=https://web.archive.org/web/20100115034418/http://www.blueflowerarts.com/chase-twichell |date=January 15, 2010 }}</ref> She attended the [[Foote School]] in New Haven. In the Fall 2003 ''[[Tricycle: The Buddhist Review|Tricycle magazine]]'' interview with Chase, she says, "Zazen and poetry are both studies of the mind. I find the internal pressure exerted by emotion and by a koan to be similar in surprising and unpredictable ways. Zen is a wonderful sieve through which to pour a poem. It strains out whatever's inessential."
+
+Twichell was born in New Haven, Connecticut, and earned her B.A. from [[Trinity College (Connecticut)|Trinity College]] and her M.F.A. from the [[Iowa Writers' Workshop]]. She lives in [[New York City]] with her husband, novelist [[Russell Banks]]. She has taught at [[Princeton University]], [[Warren Wilson College]], [[Goddard College]], [[University of Alabama]], and [[Hampshire College]].<ref>[http://www.poets.org/poet.php/prmPID/29 Academy of American Poets > Chase Twichell Bio]</ref><ref>[http://www.ausablepress.org/b_chase.html Ausable Press > About the Editor] {{webarchive |url=https://web.archive.org/web/20080718190732/http://www.ausablepress.org/b_chase.html |date=July 18, 2008 }}</ref><ref name="blueflowerarts.com"/>
+
+Twichell was a judge for the 2011 [[Griffin Poetry Prize]].
+
+==Bibliography==
+{{Expand list|date=January 2018}}
+
+=== Poetry ===
+;Collections
+*{{cite book |author=Twichell, Chase |title=Northern spy : poems |location=Pittsburgh |publisher=University of Pittsburgh Press |year=1981 <!--isbn=082293437X-->}}
+* ''The Odds'' (University of Pittsburgh Press, 1986)
+* ''Perdido'' (Farrar, Straus & Giroux, 1991)
+* ''The Ghost of Eden'' (Ontario Review Press, 1995)
+* ''The Snow Watcher'' (Ontario Review Press, 1998)
+* ''Dog Language'' (Copper Canyon Press, 2005)
+* ''Horses Where the Answers Should Have Been'' (Copper Canyon Press, 2010)
+* ''Things as It Is'' (Copper Canyon Press, 2018)
+;List of poems
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+|-
+|Roadkill
+|2014
+|{{cite journal |author=Twichell, Chase |date=January 6, 2014 |title=Roadkill |journal=The New Yorker |volume=89 |issue=43 |pages=33 |url=https://www.newyorker.com/magazine/2014/01/06/roadkill-2 <!--accessdate=2018-01-05-->}}
+| 
+|-
+|}
+;Anthologies edited
+* ''The Practice of Poetry: Writing Exercises From Poets Who Teach'' (edited with Robin Behn: HarperPerennial, 1992)
+;Translations
+* ''The Lover of God'', Poems by Rabindranath Tagore (Copper Canyon Press, 2003) (translated with Tony K. Stewart)
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://poetrynet.org/month/archive/twichell/intro.html Author Biography: ''PoetryNet'' > August 1998 > Chase Twichell]
+* [http://www.poetryfoundation.org/archive/poem.html?id=146729 Poem: The Poetry Foundation > ''Self-Portrait'' by Chase Twichell]
+* [http://www.blackbird.vcu.edu/v3n1/poetry/twichell_c/index.htm Poems & Bio: ''Blackbird'' > Chase Twichell]
+* [https://web.archive.org/web/20120321162518/http://www.trincoll.edu/pub/mosaic/10.99/twichell.htm Perceiving human consciousness through award-winning poetry] Hartford Trinity College ''Mosaic''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Twichell, Chase}}
+[[Category:1950 births]]
+[[Category:Living people]]
+[[Category:American women poets]]
+[[Category:Poets from New York (state)]]
+[[Category:Poets from Connecticut]]
+[[Category:National Endowment for the Arts Fellows]]
+[[Category:American Zen Buddhists]]
+[[Category:Iowa Writers' Workshop alumni]]
+[[Category:University of Iowa alumni]]
+[[Category:Trinity College (Connecticut) alumni]]
+[[Category:The New Yorker people]]
+[[Category:21st-century American women]]

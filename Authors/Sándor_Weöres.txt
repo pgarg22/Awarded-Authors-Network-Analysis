@@ -1,0 +1,73 @@
+{{short description|Hungarian poet and author}}
+{{Use dmy dates|date=September 2013}}
+{{Eastern name order|Weöres Sándor}}
+{{Unreferenced|date=December 2009}}
+{{Infobox person
+| name        = Sándor Weöres
+| image       = Weöres Szombathely.JPG
+| caption     =
+| birth_name  = Sándor Weöres
+| birth_date  = {{birth date|1913|6|22|df=yes}}
+| birth_place = [[Szombathely]]
+| death_date  = {{death date and age|1989|01|22|1913|06|22|df=yes}}
+| death_place = [[Budapest]]
+| occupation  = Poet
+}}
+
+'''Sándor Weöres''' ({{IPA-hu|ˈʃaːndor ˈvørøʃ}}; 22 June 1913 – 22 January 1989) was a Hungarian poet and author.
+
+Born in [[Szombathely]], Weöres was brought up in the nearby village of [[Csönge]]. His first poems were published when he was fourteen, in the influential journal ''[[Nyugat]]'' ("West"), through the acceptance of its editor, the poet [[Mihály Babits]]. Weöres attended the [[University of Pécs]], first studying law before moving on to geography and history. He ultimately received a doctorate in philosophy and aesthetics. His doctoral dissertation ''The Birth of the Poem'' was published in 1939. It was in 1937 that he made the first of his travels abroad, going first to [[Manila]] for a [[Eucharistic Congress]] and then visiting Vietnam and India. During [[World War II]] Weöres was drafted for compulsory labor, but was not sent to the front. After the end of the war, he returned to Csönge and briefly lived as a farmer.
+
+In 1948 Weöres again travelled abroad, living in Italy until 1949. In 1951 he settled in [[Budapest]] where he would reside for the rest of his life. The imposition of [[Stalinism]] in Hungary after 1948 silenced Weöres and until 1964 little of his work could be published.
+
+== Work ==
+Weöres' translations into Hungarian were wide and varied, including the works of Ukrainian national poet [[Taras Shevchenko]], the [[Georgia (country)|Georgian]] poet [[Shota Rustaveli|Rustaveli]], the Slovenian poets [[Oton Župančič]] and [[Josip Murn Aleksandrov]]. He translated Indian poet Jai dev's poetry Gita Govinda from Sanskrit. He also translated [[Shakespeare]]'s ''Venus and Adonis'' and ''Henry VIII'', [[T. S. Eliot]]'s ''The Waste Land'', the nonsense poems by [[Edward Lear]] and [[Lewis Carroll]], the complete poetry of [[Stéphane Mallarmé]],. His translation of the [[Tao Te Ching]] continues to be the most widely read in Hungary.
+
+== Legacy ==
+Many of Weöres' poems have been set to music. [[Zoltán Kodály]] composed a choral piece to the text of the 14-year-old poet's poem ''Öregek'' (“Old People”). [[György Ligeti]], a friend of the poet, set several poems from ''Rongyszőnyeg'' and other books in the composition ''[[Síppal, dobbal, nádihegedüvel]]''. Composer [[Peter Eötvös]] has composed two pieces, ''Atlantis'' and ''Ima'' with texts from Weöres' poem ''Néma zene'' ("Silent Music"), and in 2013 he composed ''Speaking Drums'' (Four Poems for Percussion Solo and Orchestra) based on the poems by Sándor Weöres.
+
+In 1980 the Hungarian filmmaker [[Gábor Bódy]] adapted the poem '''Psyché''' to make the epic feature [[Nárcisz és Psyché]].
+
+== Works ==
+=== Works in English ===
+* ''Eternal Moment: Selected Poems by Sandor Weores'', 1988
+* ''Selected Poems'', 1970
+* ''Self-portrait: Selected poems by Sándor Weöres'', 1991
+
+=== Poetry ===
+* ''Hideg van'', 1934
+* ''A kő és az ember'', 1935
+* ''A teremtés dicsérete'', 1938
+* ''Meduza'', 1944
+* ''A szerelem ábécéje'', 1946
+* ''Elysium'', 1946
+* ''Gyümölcskosár'', 1946
+* ''A fogok tornáca'', 1947
+* ''Bóbita'', 1955
+* ''A hallgatás tornya'', 1956
+* ''Tarka forgó'', 1958
+* ''Tűzkút'', 1964
+* ''Gyermekjátékok'', 1965
+* ''Merülő Saturnus'', 1968
+* ''Zimzizim'', 1969
+* ''Psyche'', 1972
+* ''Télország'', 1972
+* ''Priapos'', written in 1950, published posthumously in 2001
+
+{{Expand Hungarian|Weöres Sándor|date=May 2018}}
+
+{{Hungarian literature}}
+{{Austrian State Prize for European Literature}}
+{{Authority control}}
+
+{{DEFAULTSORT:Weores, Sandor}}
+[[Category:1913 births]]
+[[Category:1989 deaths]]
+[[Category:People from Szombathely]]
+[[Category:20th-century Hungarian poets]]
+[[Category:Hungarian male poets]]
+[[Category:University of Pécs alumni]]
+[[Category:Hungarian children's writers]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Burials at Farkasréti Cemetery]]
+[[Category:Baumgarten Prize winners]]

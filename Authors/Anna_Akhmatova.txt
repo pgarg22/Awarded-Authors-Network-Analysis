@@ -1,0 +1,304 @@
+{{short description|Russian poet (1889-1966)}}
+{{About|the Soviet poet|the Russian biologist|Anna Akhmanova}}
+{{Redirect|Akhmatova||Akhmatova (disambiguation)}}
+{{family name hatnote|Andreyevna|Gorenko|lang=Eastern Slavic}}
+{{Infobox writer
+| name          = Anna Akhmatova
+| image         = Kuzma petrov-vodkin, ritratto di anna akhmatova, 1922.JPG
+| imagesize     = 300x300px
+| alt           = Akhmatova in 1922 (Portrait by Kuzma Petrov-Vodkin)
+| caption       = Akhmatova in 1922 (portrait by [[Kuzma Petrov-Vodkin]])
+| birth_name    = Anna Andreevna Gorenko
+| birth_date    = {{OldStyleDate|23 June|1889|11 June}}
+| birth_place   = [[Odessa]], [[Odessa Governorate]], [[Russian Empire]] (now Ukraine)
+| death_date    = {{death date and age|1966|3|5|1889|6|23|df=yes}}
+| death_place   = [[Moscow]], [[Russian SFSR]], [[Soviet Union]] (now Russia)
+| nationality   = Soviet/Russian
+| occupation    = Poet, translator, memoirist
+| movement      = [[Acmeism]]
+| spouse        = {{marriage|[[Nikolay Gumilev]]|1910|1918|end=divorced}}<br />{{marriage|[[Vladimir Shilejko]]|1918|1926|end=divorced}}
+| partner       = [[Nikolai Punin]] (died in labour camp)
+| children      = [[Lev Gumilev]]
+}}
+
+'''Anna Andreyevna Gorenko'''<ref group='Notes' name='translit'>{{lang-rus|А́нна Андре́евна Горе́нко|p=ˈanːə ɐnˈdrʲe(j)ɪvnə ɡɐˈrʲɛnkə|a=Anna Andreyevna Gorenko.ru.oga|links=yes}}; {{lang-uk|А́нна Андрі́ївна Горе́нко|Ánna Andríyivna Horénko}}, {{IPA-uk|ˈɑnːɐ ɐnˈd⁽ʲ⁾r⁽ʲ⁾ijiu̯nɐ ɦoˈrɛnko|IPA}}.</ref> ({{OldStyleDate|23 June|1889|11 June}} – 5 March 1966), better known by the [[pen name]] '''Anna Akhmatova''',{{refn|group=Notes|name=trans2|{{IPAc-en|ə|k|ˈ|m|ɑː|t|ə|v|ə}} {{respell|ək|MAH|tə|və}}, {{IPAc-en|ˌ|ɑː|k|m|ə|ˈ|t|oʊ|v|ə}} {{respell|AHK|mə|TOH|və}};<ref>{{Cite EPD|18|page=12}}</ref> {{lang-rus|А́нна Ахма́това|p=ɐxˈmatəvə}}.}} was one of the most significant [[List of Russian-language poets|Russian poets]] of the 20th century. She was shortlisted for the [[Nobel Prize in Literature|Nobel Prize]] in 1965<ref name="Nobel1965">{{cite web | title=Candidates for the 1965 Nobel Prize in Literature|date=4 January 2016|access-date=14 November 2017|website=Nobelprize.org | publisher=Nobel Media AB 2014|url=https://www.nobelprize.org/nomination/literature/1965.html}}</ref> and received second-most (three) nominations for the award the following year.
+
+Akhmatova's work ranges from short lyric poems to intricately structured cycles, such as [[Requiem (Anna Akhmatova)|''Requiem'']] (1935–40), her tragic masterpiece about the [[Great Purge|Stalinist terror]]. Her style, characterised by its economy and emotional restraint, was strikingly original and distinctive to her contemporaries. The strong and clear leading female voice struck a new chord in Russian poetry.<ref Name="Harrington11">Harrington (2006) p. 11</ref> Her writing can be said to fall into two periods – the early work (1912–25) and her later work (from around 1936 until her death), divided by a decade of reduced literary output.<ref Name="Harrington11"/> Her work was [[Censorship in the Soviet Union|condemned and censored]] by [[Stalinism|Stalinist]] authorities, and she is notable for choosing not to emigrate and remaining in the [[Soviet Union]], acting as witness to the events around her. Her perennial themes include meditations on time and memory, and the difficulties of living and writing in the shadow of Stalinism.
+
+Primary sources of information about Akhmatova's life are relatively scant, as war, revolution and the Soviet regime caused much of the written record to be destroyed. For long periods she was in official disfavour and many of those who were close to her died in the aftermath of the revolution.<ref name="Wells2">Wells (1996) p. 2</ref> Akhmatova's first husband, [[Nikolay Gumilyov]], was executed by the [[Chronology of Soviet secret police agencies|Soviet secret police]], and her son [[Lev Gumilyov]] and her common-law husband [[Nikolay Punin]] spent many years in the [[Gulag]], where Punin died.
+
+==Early life and family==
+Akhmatova was born at {{ill|Bolshoy Fontan|uk|Великий Фонтан (Одеса)}}, a resort suburb of the [[Black Sea]] port of [[Odessa]]. Her father, Andrey Antonovich Gorenko, was a Ukrainian naval engineer and descendant from a noble Ukrainian cossack family, and her mother, Inna Erazmovna Stogova, was a descendant from the [[Russian nobility]] with close ties to Kiev.<ref>{{Cite book|last=Norris, Stephen M., Éditeur scientifique. Sunderland, Willard, (1965- ...)., Éditeur scientifique.|title=Russia's people of empire life stories from Eurasia, 1500 to the present|date=2012|publisher=Indiana University Press|isbn=978-0-253-00176-4|oclc=866835267|quote="She was born Anna Gorenko by the sea in Bolshoi Fontan, near Odessa in Ukraine, to an unexceptional gentry family. Akhmatova's mother, Inna Stogova, was a descendant of a rich Russian landing family with strong ties to Kyiv, and her father, Andrei Gorenko, was a Ukrainian naval engineer descended from Ukrainian cossacks."}}</ref> She wrote:
+
+<blockquote>No one in my large family wrote poetry. But the first Russian woman poet, [[Anna Bunina]], was the aunt of my grandfather Erasm Ivanovich Stogov. The Stogovs were modest landowners in the [[Mozhaysky District|Mozhaisk]] region of the Moscow Province. They were moved here after the insurrection during the time of [[Marfa Boretskaya|Posadnitsa Marfa]]. In [[Novgorod]] they had been a wealthier and more distinguished family. [[Ahmed Khan bin Küchük|Khan Akhmat]], my ancestor, was killed one night in his tent by a Russian killer-for-hire. [[Nikolay Karamzin|Karamzin]] tells us that this marked the end of the [[Mongol]] yoke on Russia. [...] It was well known that this Akhmat was a descendant of [[Genghiz Khan]]. In the eighteenth century, one of the Akhmatov Princesses – Praskovia Yegorovna – married the rich and famous [[Simbirsk]] landowner Motovilov. Yegor Motovilov was my great-grandfather; his daughter, Anna Yegorovna, was my grandmother. She died when my mother was nine years old, and I was named in her honour. Several diamond rings and one emerald were made from her brooch. Though my fingers are thin, still her thimble didn't fit me.<ref>Polivanov (1994) pp. 6-7</ref></blockquote>
+
+Her family moved north to [[Tsarskoye Selo]], near [[St. Petersburg]], when she was eleven months old.<ref>Harrington (2006) p.13</ref> The family lived in a house on the corner of Shirokaya Street and Bezymyanny Lane (the building is no longer there today), spending summers from age 7 to 13 in a [[dacha]] near [[Sevastopol]].<ref Name="Martin2" >Martin (2007) p.2</ref> She studied at the Mariinskaya High School, moving to [[Kiev]] (1906–10) and finished her schooling there, after her parents separated in 1905. She went on to study law at [[Kiev University]], leaving a year later to study literature in St Petersburg.<ref name="Wells4">Wells (1996) p. 4</ref>
+
+Akhmatova started writing poetry at the age of 11, and was published in her late teens, inspired by the poets [[Nikolay Nekrasov]], [[Jean Racine]], [[Alexander Pushkin]], [[Evgeny Baratynsky]] and the [[Symbolism (arts)|Symbolists]]; however, none of her juvenilia survives.<ref Name="Martin2"/><ref>Wells (1996) p.3</ref> Her sister Inna also wrote poetry though she did not pursue the practice and married shortly after high school. Akhmatova's father did not want to see any verses printed under his "respectable" name, so she chose to adopt her grandmother's distinctly [[Tatar]] surname 'Akhmatova' as a pen name.<ref Name="Anderson">[https://archive.today/20121211120536/http://www.hcs.harvard.edu/~hbr/issues/6.1winter05/articles/anderson.shtml ''Harvard Book Review''], 2008 ''Reinventing a Good Thing: Anderson Fails to Improve on Older Translations of Akhmatova''. Reviewed: ''The Word That Causes Death's Defeat: Akhmatova's Poems of Memory'', Anderson, Nancy; Yale University Press</ref><ref>Dinega, Alyssa (2001)  ''A Russian Psyche: The Poetic Mind of Marina Tsvetaeva'', University of Wisconsin Press, p. 224; {{ISBN|9780299173340}}.</ref>
+[[Image:Ахматова Н.Гумилев Л.Гумилев.jpg|thumb|Anna Akhmatova with her husband [[Nikolay Gumilev]] and their son, [[Lev Gumilev|Lev]], 1915]]
+
+She met a young poet, [[Nikolay Gumilev]], on Christmas Eve 1903. Gumilev encouraged her to write and pursued her intensely, making numerous marriage proposals starting in 1905. At 17 years old, in his journal ''Sirius'', she published her first poem which could be translated as "On his hand you may see many glittering rings", (1907) signing it "Anna G."<ref Name="Martin3">Martin (2007) p. 3</ref> She soon became known in St Petersburg's artistic circles, regularly giving public readings. That year, she wrote unenthusiastically to a friend, "He has loved me for three years now, and I believe that it is my fate to be his wife. Whether or not I love him, I do not know, but it seems to me that I do."<ref Name="Martin2"/> She married Gumilev in Kiev in April 1910; however, none of Akhmatova's family attended the wedding. The couple honeymooned in Paris, and there she met and befriended the Italian artist [[Amedeo Modigliani]].<ref name="Volkov2010">{{cite book|last=Volkov|first=Solomon|title=St Petersburg: A Cultural History|url=https://books.google.com/books?id=6JheQS-7drEC&pg=PA163|year=2010|publisher=Simon and Schuster|isbn=978-1-4516-0315-6|pages=162–163}}</ref>
+
+In late 1910, she came together with poets such as [[Osip Mandelstam]] and [[Sergey Gorodetsky]] to form [[Acmeism|the Guild of Poets]]. It promoted the idea of craft as the key to poetry rather than inspiration or mystery, taking themes of the concrete rather than the more ephemeral world of the [[Symbolism (arts)|Symbolists]]. Over time, they developed the influential [[Acmeist]] anti-symbolist school, concurrent with the growth of [[Imagism]] in Europe and America.<ref name="Wells8">Wells (1996) p.8</ref> From the first year of their marriage, Gumilev began to chafe against its constraints. She wrote that he had "lost his passion" for her and by the end of that year he left on a six-month trip to Africa.<ref Name="Martin3"/>
+
+She had "her first taste of fame", becoming renowned, not so much for her beauty, but for her intense magnetism and allure, attracting the fascinated attention of a great many men, including the great and the good. She returned to visit Modigliani in Paris, where he created at least 20 paintings of her, including several nudes.<ref Name="Martin3"/>
+
+She later began an affair with the celebrated Acmeist poet Osip Mandelstam, whose wife, [[Nadezhda Mandelstam|Nadezhda]], declared later, in her autobiography that she came to forgive Akhmatova for it in time.<ref name="slate">[http://www.slate.com/articles/news_and_politics/clives_lives/2007/02/anna_akhmatova.2.html ''Slate Magazine''], "Anna Akhmatova: Assessing the Russian poet and femme fatale" by [[Clive James]], 5 February 2007.</ref> Akhmatova's son, [[Lev Gumilyov|Lev]], was born in 1912, and would become a renowned [[Neo-Eurasianism|Neo-Eurasianist]] historian.<ref name="Harrington14">Harrington (2006), p. 14</ref>
+
+==Silver Age==
+[[File:Anna Akhmatova 1913-1914 by Savely Sorin.jpg|thumb|Anna Akhmatova in 1914]]
+In 1912, the Guild of Poets published Akhmatova's book of verse ''Evening'' (''Vecher'') – the first of five in nine years.<ref group='Notes' name='f'/> The small edition of 500 copies quickly sold out and she received around a dozen positive notices in the literary press.<ref name="Wells6"/> She exercised a strong selectivity for the pieces – including only 35 of the 200 poems she had written by the end of 1911.<ref name="Wells6">Wells (1996) p. 6</ref> (She noted that ''Song of the Last Meeting'', dated 29 September 1911, was her 200th poem). The book secured her reputation as a new and striking young writer,<ref name="Harrington15">Harrington (2006) p. 15</ref> the poems ''Grey-eyed king'', ''In the Forest'', ''Over the Water'' and ''I don't need my legs anymore'' making her famous. She later wrote "These naïve poems by a frivolous girl for some reason were reprinted thirteen times [...] And they came out in several translations. The girl herself (as far as I recall) did not foresee such a fate for them and used to hide the issues of the journals in which they were first published under the sofa cushions".<ref Name="Martin4">Martin (2007) p. 4</ref>
+
+Akhmatova's second collection, ''The Rosary'' (or ''Beads'' – ''Chetki'') appeared in March 1914 and firmly established her as one of the most popular and sought after poets of the day.<ref name="Wells6"/><ref group='Notes' name='g'/> Thousands of women composed poems "in honour of Akhmatova", mimicking her style and prompting Akhmatova to exclaim: "I taught our women how to speak, but don't know how to make them silent".<ref name="Harrington15"/> Her aristocratic manners and artistic integrity won her the titles "Queen of the Neva" and "[[Silver Age of Russian Poetry|Soul of the Silver Age]]," as the period came to be known in the history of Russian poetry.  In ''Poem Without a Hero'', the longest and one of the best known of her works, written many decades later, she would recall this as a blessed time of her life. <ref group='Notes' name='a'>"Poem Without a Hero" was inspired by [[Alexander Pushkin]]'s ''[[Eugene Onegin]]''</ref>
+
+Akhmatova became close friends with [[Boris Pasternak]] (who, though married, proposed to her many times) and rumours began to circulate that she was having an affair with influential lyrical poet [[Alexander Blok]].<ref name="Wells10">Wells (1996) p.10</ref><ref name="Poets">[http://www.poets.org/aakhm Profile of Anna Akhmatova, Academy of American Poets]</ref> In July 1914, Akhmatova wrote "Frightening times are approaching/ Soon fresh graves will cover the land"; on August 1, Germany declared war on Russia, marking the start of  "the dark storm"  of [[First World War|world war]], civil war, revolution and totalitarian repression for Russia.<ref Name="Martin5">Martin (2007) p. 5</ref> [[Silver Age of Russian Poetry|The Silver Age]] came to a close.
+
+[[File:Olga kardovskaya portret ahmatovoy 1914 szh 16.jpg|thumb|Portrait of Anna Akhmatova by [[Olga Della-Vos-Kardovskaya]], 1914]]
+Akhmatova had a relationship with the mosaic artist and poet [[Boris Anrep]]; many of her poems in the period are about him and he in turn created mosaics in which she is featured.<ref group='Notes' name='b'>See [[Boris Anrep|here for mosaic images]] Mosaics located in the National Gallery in London. In the Cathedral of [[Christ the King Mullingar]], Anrep's mosaic of Saint Anne is spelt Anna – the saint's image bears a close resemblance to Akhmatova in her mid-20s. He also depicted Akhmatova in a religious mosaic entitled ''Compassion''.</ref><ref group='Notes' name='i'>For commentary on the relationship between Akhmatova and Anrep, see Wendy Rosslyn, "A propos of Anna Akhmatova: Boris Vasilyevich Anrep (1883–1969)," ''New Zealand Slavonic Journal'' 1 (1980): pp. 25-34.</ref><ref>[http://www.rte.ie/radio1/sundaymiscellany/1202615.html In “{{sic|Ana Achma|tova|nolink=y}} and Mullingar Connection”. Broadcast on RTÉ, 4 May 2008], the poet Joseph Woods recounts the story of the mosaics. Relevant section begins at timestamp 40'43".</ref> She selected poems for her third collection, ''Belaya Staya'' (''White Flock''), in 1917, <ref group='Notes' name='h'/> a volume which poet and critic [[Joseph Brodsky]] later described as writing of personal lyricism tinged with the "note of controlled terror".<ref Name="Martin5"/> She later came to be memorialised by his description of her as "the keening muse".<ref Name="Grief"/> Essayist John Bayley describes her writing at this time as "grim, spare and laconic".<ref Name="Bayley">Bayley, John (1984) ''Selected Essays''  Cambridge University Press. "The greatness of Akhmatova: Requiem and Poem Without a Hero translated by DM Thomas". pp. 140-142; {{ISBN|0-521-27845-7}}</ref>
+
+In February 1917, the revolution started in Petersburg (then named Petrograd); soldiers fired on marching protestors, and others mutinied. They looked to a past in which the future was "rotting". In a city without electricity or sewage service, with little water or food, they faced starvation and sickness. Akhmatova's friends died around her and others left in droves for safer havens in Europe and America, including Anrep, who escaped to England.<ref Name="Martin6"/> She had the option to leave, and considered it for a time, but chose to stay and was proud of her decision to remain.:<ref Name="Bayley"/>
+
+{{Quote
+| text = <poem>You are a traitor, and for a green island,	
+Have betrayed, yes, betrayed your native	
+Land, 	
+Abandoned all our songs and sacred	
+Icons,	
+And the pine tree over a quiet lake.</poem>
+| title = ''Green Island''
+| source = trans. Jane Kenyon<ref>Kenyon, Jane (Tans, ed.) (1985) From ''Green Island'' published in ''Twenty Poems of Anna Akhmatova''. Eighties Press and Ally Press {{ISBN|0-915408-30-9}}</ref>}}
+
+Akhmatova wrote of her own temptation to leave:
+	 	
+{{Quote
+| text = <poem>A voice came to me. It called out comfortingly.	
+It said, "Come here,	
+Leave your deaf and sinful land,	
+Leave Russia forever,	 	
+I will wash the blood from your hands,	
+Root out the black shame from your heart,		
+[...] calmly and indifferently,	
+I covered my ears with my hands,	
+So that my sorrowing spirit 	
+Would not be stained by those shameful words.</poem>
+| title = ''When in suicidal anguish''
+| source = trans. Jane Kenyon<ref>From Akhmatova, Anna (1918) ''When in suicidal anguish''. These lines of the poem were not published in Russia until the 1990s. Published in ''Anna Akhmatova: The Stalin Years''; Journal article by Roberta Reeder; ''New England Review'', Vol. 18, 1997</ref>}}
+
+At the height of Akhmatova's fame, in 1918, she divorced her husband and that same year, though many of her friends considered it a mistake, Akhmatova married prominent Assyriologist and poet [[Vladimir Shilejko]].<ref Name="Harrington16">Harrington (2006) p.16</ref><ref Name="Wells11">Wells (1996) p.11</ref> She later said "I felt so filthy. I thought it would be like a cleansing, like going to a convent, knowing you are going to lose your freedom."<ref Name="Martin6">Martin (2007) p.6</ref> She began affairs with theatre director Mikhail Zimmerman and composer [[Arthur Lourié]], who set many of her poems to music.<ref>Feinstein (2005) p. 83</ref>
+
+==1920s and 1930s==
+In 1921, Akhmatova's former husband [[Nikolay Gumilev]] was prosecuted for his alleged role in a monarchist anti-[[Bolshevik]] conspiracy and in August was shot along with 61 others. According to the historian Rayfield, the murder of Gumilev was part of the state response to the [[Kronstadt Rebellion]]. The [[Cheka]] (secret police) blamed the rebellion on Petrograd's intellectuals, prompting the senior Cheka officer [[Yakov Agranov]] to forcibly extract the names of 'conspirators', from an imprisoned professor, guaranteeing them amnesty from execution.  Agranov's guarantee proved to be meaningless.  He sentenced dozens of the named persons to death, including Gumilev. [[Maxim Gorky]] and others appealed for leniency, but by the time [[Vladimir Lenin|Lenin]] agreed to several pardons, the condemned had been shot.<ref name="Raydon2004">{{cite book|title=Stalin and his Hangmen|url=https://archive.org/details/stalinhishangmen00dona|url-access=registration|last=Rayfield|first=Donald|year=2004 |publisher=Random House|isbn=0375757716|page=[https://archive.org/details/stalinhishangmen00dona/page/117 117]}}</ref> Within a few days of his death, Akhmatova wrote:
+	
+{{Quote
+| text = <poem>Terror fingers all things in the dark,
+Leads moonlight to the axe.
+There's an ominous knock behind the wall:
+A ghost, a thief or a rat...<ref Name="Martin7">Martin (2007) p.7</ref></poem>}}
+
+The executions had a powerful effect on the Russian intelligentsia, destroying the [[acmeist]] poetry group, and placing a stigma on Akhmatova and her son Lev (by Gumilev). Lev's later arrest during the purges and terrors of the 1930s was based on being his father's son.<ref Name="Kunhay1973">Akhmatova, Trans. Kunitz and Hayward (1973) pp.15-16</ref> From a new Marxist perspective, Akhmatova's poetry was deemed to represent an introspective "bourgeois aesthetic", reflecting only trivial "female" preoccupations, not in keeping with these new revolutionary politics of the time.<ref Name="Harrington16"/> She was roundly attacked by the state, by former supporters and friends, and seen to be an anachronism. During what she termed "The Vegetarian Years", Akhmatova's work was unofficially banned by a party resolution of 1925 and she found it hard to publish, though she didn't stop writing poetry. She made acclaimed translations of works by [[Victor Hugo]], [[Rabindranath Tagore]], [[Giacomo Leopardi]] and pursued academic work on [[Pushkin]] and [[Dostoyevsky]]. She worked as a critic and essayist, though many USSR and foreign critics and readers concluded she had died.<ref Name="Harrington16">Harrington (2006) p.16</ref><ref Name="Martin7"/>
+
+She had little food and almost no money; her son was denied access to study at academic institutions by dint of his parents' alleged anti-state activities.<ref Name="Martin7"/> The impact of the nationwide repression and purges had a decimating effect on her St Petersburg circle of friends, artists and intellectuals. Her close friend and fellow poet [[Osip Mandelstam|Mandelstam]] was deported and then sentenced to a [[Gulag]] labour camp, where he would die. Akhmatova narrowly escaped arrest, though her son Lev was imprisoned on numerous occasions by the Stalinist regime, accused of counter-revolutionary activity.<ref Name="Harrington17">Harrington (2006) p. 17</ref> She would often queue for hours to deliver him food packages and plead on his behalf. She describes standing outside a stone prison:
+
+<blockquote>One day somebody in the crowd identified me. Standing behind me was a woman, with lips blue from cold, who had, of course, never heard me called by name before. Now she started out of the torpor common to us all and asked me in a whisper (everyone whispered there):'Can you describe this?'<br />And I said: 'I can.'<br />Then something like a smile passed fleetingly over what had once been her face.<ref Name="Grief"/></blockquote>
+
+Akhmatova wrote that by 1935 every time she went to see someone off at the train station as they went into exile, she'd find herself greeting friends at every step as so many of St Petersburg's intellectual and cultural figures would be leaving on the same train.<ref Name="Wells15">Wells (1996) p.15</ref> In her poetry circles [[Mayakovsky]] and [[Esenin]] committed suicide and [[Marina Tsvetaeva]] would follow them in 1941, after returning from exile.<ref Name="Martin7"/>
+
+Akhmatova was a common-law wife to [[Nikolai Punin]], an art scholar and lifelong friend, whom she stayed with until 1935. He also was repeatedly taken into custody, dying in the [[Gulag]] in 1953.<ref>Monas (1999) p. 216</ref><ref>Monas (1999) pxli</ref><ref>Monas (1999) pxi</ref><ref group='Notes' name='d'>Their home in The Fountain House, on the [[Fontanka]] river in St Petersburg, is now an Akhmatova museum.</ref> Her tragic cycle ''[["Requiem" by Anna Akhmatova|Requiem]]'' documents her personal experience of this time; as she writes, "one hundred million voices shout" through her "tortured mouth".
+
+{{Quote
+| text = <poem>Seventeen months I've pleaded
+for you to come home.
+Flung myself at the hangman's feet.
+My terror, oh my son.
+And I can't understand.
+Now all's eternal confusion.
+Who's beast, and who's man?	
+How long till execution?</poem>
+| title = ''Requiem''
+| source = trans. A.S. Kline, 2005}}
+
+==1939–1960==
+
+In 1939, Stalin approved the publication of one volume of poetry, ''From Six Books''; however, the collection was withdrawn and pulped after only a few months.<ref Name="Harrington18">Harrington (2006) p.18</ref> In 1993, it was revealed that the authorities had bugged her flat and kept her under constant surveillance, keeping detailed files on her from this time, accruing some 900 pages of "denunciations, reports of phone taps, quotations from writings, confessions of those close to her".<ref>[[Helen Rappaport|Rappaport, Helen]] (2002) ''Joseph Stalin: a biographical companion.'' [[ABC-CLIO]] p. 2; {{ISBN|1-57607-208-8}}</ref> Although officially stifled, Akhmatova's work continued to circulate in secret.<ref name="slate"/><ref Name="Booker">Booker, M.K. (2005), ''Encyclopaedia of Literature and Politics:Censorship, Revolution, and Writing Vol. 1 A-G.'' Greenwood p. 21; {{ISBN|0-313-32939-7}}</ref> Akhmatova's close friend, chronicler [[Lydia Chukovskaya]] described how writers working to keep poetic messages alive used various strategies. A small trusted circle would, for example, memorise each other's works and circulate them only by oral means. She tells how Akhmatova would write out her poem for a visitor on a scrap of paper to be read in a moment, then burnt in her stove. The poems were carefully disseminated in this way, but it is likely that many compiled in this manner were lost.<ref name="Wells 1996 p67">Wells (1996) p. 67</ref> "It was like a ritual," Chukovskaya wrote. "Hands, matches, an ashtray. A ritual beautiful and bitter."<ref Name="Grief">{{cite news|url=https://www.nytimes.com/1995/06/28/world/st-petersburg-journal-if-poet-s-room-could-speak-it-would-tell-of-grief.html?scp=4&sq=%22osip+mandelstam%22&st=nyt|title=St. "Petersburg Journal; If Poet's Room Could Speak, It Would Tell of Grief"|newspaper=The New York Times|author=Michael Specter|date=6 June 1995|access-date=2 June 2011}}</ref>
+
+During [[World War II]], Akhmatova witnessed the 900-day [[Siege of Leningrad]] (now St Petersburg). In 1940, Akhmatova started her ''Poem without a Hero'', finishing a first draft in [[Tashkent]], but working on  "The Poem" for twenty years and considering it to be the major work of her life, dedicating it to "the memory of its first audience – my friends and fellow citizens who perished in Leningrad during the siege".<ref Name="Martin10">Martin (2007) p.10</ref> She was evacuated to [[Chistopol]] in spring of 1942 and then to greener, safer Tashkent in [[Uzbekistan]], along with other artists, such as [[Shostakovich]].<ref>[https://www.theguardian.com/books/2005/jul/31/biography.features Anna of All The Russians: The Life of Anna Akhmatova by Elaine Feinstein retrieved 13/8/2018]</ref><ref Name="Bayley"/> During her time away she became seriously ill with [[typhus]] (she had suffered from severe [[bronchitis]] and [[tuberculosis]] as a young woman).  On returning to Leningrad in May 1944, she writes of how disturbed she was to find "a terrible ghost that pretended to be my city".<ref Name="Wells18"/>
+
+{{Quote box|width=400px|quoted=true |bgcolor=#FFFFF0|salign=center|quote=
+<poem>
+If a gag should blind my tortured mouth, 
+through which a hundred million people shout,
+
+then let them pray for me, as I do pray 
+for them
+</poem>|source =From ''Requiem'' (1940).<br />Trans. Kunitz and Hayward<ref>Akhmatova, Trans. Kunitz and Hayward (1998) p. 115</ref>}}
+
+She regularly read to soldiers in the military hospitals and on the front line; her later pieces seem to be the voice of those who had struggled and the many she had outlived. She moved away from romantic themes towards a more diverse, complex and philosophical body of work and some of her more patriotic poems found their way to the front pages of ''[[Pravda]]''.<ref Name="Wells18">Wells (1996) p.18</ref>
+
+In 1946 the [[Central Committee of CPSU]], acting on the orders from Stalin, started an official campaign against the "bourgeois", individualistic works by Akhmatova and satirist [[Mikhail Zoshchenko]]. She was condemned for a visit by the liberal, western, Jewish philosopher [[Isaiah Berlin]] in 1945, and [[Andrei Zhdanov]] publicly labelled her "half harlot, half nun", her work "the poetry of an overwrought, upper-class lady", her work the product of "eroticism, mysticism, and political indifference".  [[Zhdanov decree|He banned her poems from publication]] in the journals ''[[Zvezda (magazine)|Zvezda]]'' and ''Leningrad'', accusing her of poisoning the minds of Soviet youth. Her surveillance was increased and she was expelled from the [[USSR Union of Writers|Union of Soviet Writers]].<ref Name="Martin12">Martin (2007) p. 12</ref><ref Name="Who"/>
+
+Berlin described his visit to her flat: It was very barely furnished—virtually everything in it had, I gathered, been taken away—looted or sold—during the siege .... A stately, grey-haired lady, a white shawl draped about her shoulders, slowly rose to greet us. Anna Akhmatova was immensely dignified, with unhurried gestures, a noble head, beautiful, somewhat severe features, and an expression of immense sadness.<ref Name="Martin11">Martin (2007) p. 11</ref>
+
+Akhmatova's son Lev was arrested again at the end of 1949 and sentenced to 10 years in a Siberian prison camp.<ref Name="Martin11"/> She spent much of the next years trying to secure his release; to this end, and for the first time, she published overtly propagandist poetry, “In Praise of Peace,”  in the magazine ''[[Ogoniok]]'', openly supporting Stalin and his regime.<ref Name="Wells21">Wells (1996) p.21</ref> Lev remained in the camps until 1956, well after Stalin's death, his final release potentially aided by his mother's concerted efforts.<ref Name="Wells21"/> Bayley suggests that her period of pro-Stalinist work may also have saved her own life; notably however, Akhmatova never acknowledged these pieces in her official corpus.<ref Name="Bayley"/><ref Name="Wells21"/> Akhmatova's stature among Soviet poets was slowly conceded by party officials, her name no longer cited in only scathing contexts and she was readmitted to the [[USSR Union of Writers|Union of Writers]] in 1951, being fully recognised again following Stalin's death in 1953. With the press still heavily controlled and censored under [[Nikita Khrushchev]], a translation by Akhmatova was praised in a public review in 1955, and her own poems began to re-appear in 1956. That same year Lev was released from the camps, embittered, believing that his mother cared more about her poetry than for him and that she had not worked hard for his release.<ref Name="Martin12"/> Akhmatova's status was confirmed by 1958, with the publication of ''Stikhotvoreniya'' ''(Poems)''  and then ''Stikhotvoreniya 1909–1960'' ''(Poems: 1909–1960)'' in 1961.<ref Name="Wells21"/> ''Beg vremeni'' (''The flight of time''), collected works 1909–1965, published 1965, was the most complete volume of her works in her lifetime, though the long damning poem ''[[Requiem (Anna Akhmatova)|Requiem]]'', condemning the Stalinist purges, was conspicuously absent. Isaiah Berlin predicted at the time that it could never be published in the Soviet Union.<ref name="slate"/>
+
+==Last years==
+{{Quote box|align=right|quoted=true|bgcolor=#FFFFF0|salign=right|quote=
+<poem>
+A land not mine, still
+forever memorable, 
+the waters of its ocean
+chill and fresh.
+
+Sand on the bottom whiter than chalk,
+and the air drunk, like wine,
+late sun lays bare
+the rosy limbs of the pinetrees.
+
+Sunset in the ethereal waves:
+I cannot tell if the day
+is ending, or the world, or if
+the secret of secrets is inside me again.
+</poem>|source=''A land not mine'', 1964<br/><ref>Akhmatova. "A land not mine" (trans [[Jane Kenyon]]). Trans from (1978) ''Room to Room: Poems by Jane Kenyon''. Alice James Books, 1964; {{ISBN|0-914086-24-3}}</ref>}}
+
+During the last years of Akhmatova's life, she continued to live with the Punin family in Leningrad, still translating, researching Pushkin, and writing her own poetry.<ref Name="Wells22">Wells (1996) p.22</ref> Though still censored, she was concerned to re-construct work that had been destroyed or suppressed during the purges or which had posed a threat to the life of her son in the camps, such as the lost, semi-autobiographical play ''[[Enûma Elish]]''. <ref group='Notes' name='e'>"[[Enûma Elish]]" are the opening words of a Babylonian creation myth. It could be translated as "when at the summit". Accounts differ as to when it was destroyed. Polivanov, who knew Akhmatova, suggests it was written in Tashkent while she was suffering from typhus, and burnt in fear in 1944. The poet read the play to friends before burning it, and it is reported to concern the [[Kafkaesque]] imprisonment and trial of a woman poet, who does not why she has been interned, roundly condemning Stalin and the arbitrary nature of his purges. During the 1960s, Akhmatova tried to recall the text. Polivanov reports that her friend "could not remember her shortest poems, much less a long text". No text of the play is extant. [Polivanov (1994) pp.213-214].</ref> She worked on her official memoirs, planned novels, and worked on her epic ''Poem without a hero'', 20 years in the writing.<ref Name="Wells23">(1996) Wells p.23</ref>
+
+Akhmatova was widely honoured in the USSR and the West. In 1962, she was visited by [[Robert Frost]]; [[Isaiah Berlin]] tried to visit her again, but she refused him, worried that her son might be re-arrested due to family association with the ideologically suspect western philosopher.<ref name="slate"/><ref Name="Wells23"/> She inspired and advised a large circle of key young Soviet writers. Her [[dacha]] in [[Komarovo, Saint Petersburg|Komarovo]] was frequented by such poets as [[Yevgeny Rein]] and [[Joseph Brodsky]], whom she mentored.<ref Name="Martin2"/> Brodsky, arrested in 1963 and interned for [[parasitism (social offense)|social parasitism]], would go on to win the [[Nobel Prize in Literature]] (1987) and become [[United States Poet Laureate|Poet Laureate]] (1991) as an exile in the U.S.<ref Name="Martin2"/>
+
+As one of the last remaining major poets of [[Silver Age of Russian Poetry|the Silver Age]], she was newly acclaimed by the Soviet authorities as a fine and loyal representative of their country and permitted to travel.<ref Name="Wells22"/> At the same time, by virtue of works such as ''[[Requiem (Anna Akhmatova)|Requiem]]'', Akhmatova was being hailed at home and abroad as an unofficial leader of the dissident movement, and reinforced this image herself. She was becoming a representative of both the Soviet Union and Tsarist Russia, more popular in the 1960s than she had ever been before the revolution, this reputation only continuing to grow after her death.<ref Name="Wells22"/> For her 75th birthday in 1964, new collections of her verse were published.<ref Name="Boy64">Snodgrass, Mary Ellen (2010) ''Encyclopedia of the Literature of Empire'', Infobase Publishing, p. 9; {{ISBN|9781438119069}}</ref>
+
+[[File:Anna Ahmatova's grave.jpg|thumb|Anna Akhmatova's grave, [[Komarovo, Saint Petersburg]]]]
+Akhmatova was able to meet some of her pre-revolutionary acquaintances in 1965, when she was allowed to travel to [[Sicily]] and [[England]], in order to receive the [[Taormina]] prize and an honorary doctoral degree from [[Oxford University]], accompanied by her lifelong friend and secretary [[Lydia Chukovskaya]]. Akhmatova's ''Requiem'' in Russian finally appeared in book form in Munich in 1963, the whole work not published within USSR until 1987. Her long poem ''The Way of All the Earth'' or ''Woman of Kitezh'' (''Kitezhanka'') was published in complete form in 1965.<ref Name="Martin12" /><ref Name="Harrington20">Harrington (2006) p.20</ref>
+
+In November 1965, soon after her Oxford visit, Akhmatova suffered a heart attack and was hospitalised. She was moved to a sanatorium in Moscow in the spring of 1966 and died of heart failure on March 5, at the age of 76. Thousands attended the two memorial ceremonies, held in Moscow and in Leningrad. After being displayed in an open coffin, she was interred at [[Komarovo]] Cemetery in St. Petersburg.<ref>{{cite book |title=Imitations of life: two centuries of melodrama in Russia |last=McReynolds |first=Louise |author2=Neuberger, Joan |year=2002 |publisher=Duke University Press |isbn=0822327902 |page=293}}</ref>
+
+[[Isaiah Berlin]] described the impact of her life, as he saw it:
+
+<blockquote>
+The widespread worship of her memory in Soviet Union today, both as an artist and as an unsurrendering human being, has, so far as I know, no parallel. The legend of her life and unyielding passive resistance to what she regarded as unworthy of her country and herself, transformed her into a figure [...] not merely in Russian literature, but in Russian history in [the twentieth] century.<ref Name="Martin13">Martin (2007) p.13</ref><ref>Hemschemeyer and Reeder (1992) p.46</ref>
+</blockquote>
+
+In 1988, to celebrate what would have been Akhmatova's 100th birthday, Harvard University held an international conference on her life and work.<ref>Shtern, Ludmila (2004) Brodsky: a personal memoir Baskerville Publishers p. 331; {{ISBN|978-1-880909-70-6}}</ref> Today her work may be explored at the [[Anna Akhmatova Literary and Memorial Museum]] in St. Petersburg.
+
+==Work and themes==
+[[File:AchmatovaLeiden.JPG|thumb|Poem by Akhmatova on a [[Wall poems in Leiden|wall in Leiden]]]]
+Akhmatova joined the [[Acmeist]] group of poets in 1910 with poets such as [[Osip Mandelstam]] and [[Sergey Gorodetsky]], working in response to the [[Symbolism (arts)|Symbolist]] school, concurrent with the growth of [[Imagism]] in Europe and America. It promoted the use of craft and rigorous poetic form over mysticism or spiritual in-roads to composition, favouring the concrete over the ephemeral.<ref name="Wells8" /> Akhmatova modeled its principles of writing with clarity, simplicity, and disciplined form.<ref Name="Who">"Akhmatova, Anna"  ''Who's Who in the Twentieth Century''. Oxford University Press, 1999. Oxford Reference Online.</ref> Her first collections  ''Evening'' (1912) and ''Rosary'' (1914) received wide critical acclaim and made her famous from the start of her career. They contained brief, psychologically taut pieces, acclaimed for their classical diction, telling details, and the skilful use of colour.<ref name="Wells6"/> ''Evening'' and her next four books were mostly [[Lyric poetry|lyric]] miniatures on the theme of love, shot through with sadness.
+
+Her early poems usually picture a man and a woman involved in the most poignant, ambiguous moment of their relationship, much imitated and later parodied by [[Vladimir Nabokov|Nabokov]] and others.<ref name="Wells6"/> Critic Roberta Reeder notes that the early poems always attracted large numbers of admirers: "For Akhmatova was able to capture and convey the vast range of evolving emotions experienced in a love affair, from the first thrill of meeting, to a deepening love contending with hatred, and eventually to violent destructive passion or total indifference. But [...] her poetry marks a radical break with the erudite, ornate style and the mystical representation of love so typical of poets like [[Alexander Blok]] and [[Andrey Bely]]. Her lyrics are composed of short fragments of simple speech that do not form a logical coherent pattern. Instead, they reflect the way we actually think, the links between the images are emotional, and simple everyday objects are charged with psychological associations. Like Alexander Pushkin, who was her model in many ways, Akhmatova was intent on conveying worlds of meaning through precise details."<ref Name="StalinYears">Reeder, Roberta ''Anna Akhmatova: The Stalin Years'' Journal article by Roberta Reeder; ''New England Review'', Vol. 18, 1997</ref>
+
+Akhmatova often complained that the critics "walled her in" to their perception of her work in the early years of romantic passion, despite major changes of theme in the later years of The Terror.  This was mainly due to the secret nature of her work after the public and critical effusion over her first volumes. The risks during the purges were very great. Many of her close friends and family were exiled, imprisoned or shot; her son was under constant threat of arrest, she was often under close surveillance.<ref Name="StalinYears"/> Following artistic repression and public condemnation by the state in the 1920s, many within literary and public circles, at home and abroad, thought she had died.<ref Name="Harrington16"/><ref Name="Martin7"/> Her readership generally did not know her later opus, the railing passion of ''[[Requiem (Anna Akhmatova)|Requiem]]'' or ''Poem without a Hero'' and her other scathing works, which were shared only with a very trusted few or circulated in secret by word of mouth ([[samizdat]]).
+
+Between 1935 and 1940 Akhmatova composed, worked and reworked the long poem ''Requiem'' in secret, a lyrical cycle of lamentation and witness, depicting the suffering of the common people under Soviet terror.<ref Name="Who"/> She carried it with her as she worked and lived in towns and cities across the Soviet Union. It was conspicuously absent from her collected works, given its explicit condemnation of the purges. The work in Russian finally appeared in book form in Munich in 1963, the whole work not published within USSR until 1987.<ref Name="Martin12"/><ref Name="Harrington20"/> It consists of ten numbered poems that examine a series of emotional states, exploring suffering, despair, devotion, rather than a clear narrative. Biblical themes such as Christ's crucifixion and the devastation of Mary, Mother of Jesus and Mary Magdelene, reflect the ravaging of Russia, particularly witnessing the harrowing of women in the 1930s. It represented, to some degree, a rejection of her own earlier romantic work as she took on the public role as chronicler of the Terror.  This is a role she holds to this day.<ref name="WellsRequiem">Wells (1996) pp. 70-74</ref>
+
+Her essays on [[Pushkin]] and ''Poem Without a Hero'', her longest work, were only published after her death. This long poem, composed between 1940 and 1965, is often critically regarded as her best work and also one of the finest poems of the twentieth century.<ref Name="Who"/> It gives a deep and detailed analysis of her epoch and her approach to it, including her important encounter with Isaiah Berlin (1909–97) in 1945.<ref>"Akhmatova, Anna"  ''The Oxford Companion to English Literature''. Edited by Dinah Birch. Oxford University Press Inc. Oxford Reference Online.</ref> Her talent in composition and translation is evidenced in her fine translations of the works of poets writing in French, English, Italian, Armenian, and Korean.<ref Name="Who"/>
+
+===Cultural influence===
+*American composer [[Ivana Marburger Themmen]] set Akhmatova's poetry to music.<ref>{{Cite book|last=Cohen|first=Aaron I.|url=https://www.worldcat.org/oclc/16714846|title=International encyclopedia of women composers|date=1987|isbn=0-9617485-2-4|edition=Second edition, revised and enlarged|location=New York|oclc=16714846}}</ref>
+*Translations of some of her poems by [[Babette Deutsch]] and [[Lyn Coffin]] are set to music on the 2015 album ''[[The Trackless Woods]]'' by [[Iris DeMent]].<ref name="NPR81215">{{cite news|author1=Ken Tucker|title=Poetry Is Set To Melody in Iris DeMent's 'The Trackless Woods'|url=http://www.wbur.org/npr/431906542/poetry-is-set-to-melody-in-iris-dement-s-the-trackless-woods|access-date=October 23, 2015|work=NPR|date=August 12, 2015}}</ref><ref name="ND8615">{{cite news|author1=Erin Lyndal Martin|title=Anna Akhmatova Beckons Iris DeMent Toward 'The Trackless Woods'|url=http://nodepression.com/article/anna-akhmatova-beckons-iris-dement-toward-‘-trackless-woods’|access-date=October 23, 2015|work=No Depression|date=August 6, 2015|archive-url=https://web.archive.org/web/20160502113351/http://nodepression.com/article/anna-akhmatova-beckons-iris-dement-toward-%E2%80%98-trackless-woods%E2%80%99|archive-date=May 2, 2016|url-status=dead}}</ref>
+*Anna Akhmatova is the main character of the Australian play ''The Woman in the Window'' by [[Alma De Groen]], premiered at [[Fairfax Studio]], [[Melbourne]], in 1998; Sydney: [[Currency Press]], {{ISBN|978-0-86819-593-3}}.<ref>{{Cite web|url=https://www.ausstage.edu.au/pages/work/8410|title=AusStage|website=www.ausstage.edu.au|language=en|access-date=2018-08-20}}</ref><ref>{{Cite book|url=http://www.currency.com.au/product_detail.aspx?productid=497|title=Woman in the Window, The {{!}} Alma De Groen|isbn=9780868195933|last1=Groen|first1=Alma De|year=1999}}</ref>
+*Dutch composer [[Marjo Tal]] set Akhmatova's poetry to music.<ref>{{Cite web|last=trilobiet|first=acdhirr for|title=Marjo Tal|url=https://www.forbiddenmusicregained.org/|access-date=2021-09-04|website=www.forbiddenmusicregained.org|language=en}}</ref>
+*Ukrainian composer [[Inna Abramovna Zhvanetskaia]] set several of Akhmatova's poems to music.
+*Porcelain figurine: As Anna Akhmatova was on the peak of her popularity to commemorate her 35th birthday (1924), the porcelain figurine resembles her in a grey dress with flower pattern covered in a red shawl was mass-produced. Throughout the following years, the figurine had been reproduced multiple times on different occasions. Once in 1954, on her 65th birthday, as she was fully recognised and praised again following [[Joseph Stalin|Stalin]]'s death and again in 1965 as both a tribute to her being short-listed for the [[Nobel Prize in Literature|Nobel Prize]] in 1965<ref name="Nobel1965" /> and her 75th birthday a year earlier. This was the last time the porcelain figurine had been produced during her lifetime. The figurine was so popular, that it was reproduced after her passing. Once again for what would have been her 85th birthday in 1974, and her 100th birthday in 1988, making it one of the most popular and widely available porcelain figurines in the [[Soviet Union|USSR]]. After the collapse of the Soviet Union in 1993, Akhmatova saw an immense surge in popularity and her porcelain figurine. It was mass-produced yet again, but now in a plain grey dress with a yellow shawl. Her figure now stands in almost every post-Soviet home.{{citation needed|date=August 2020}}
+
+==Honours==
+* 1964 - Etna-Taormina prize<ref name="Honours">{{cite book |title=The Facts on File Companion to World Poetry |last=Victoria |first=R. Arana |year=2008 |publisher=Infobase Publishing |isbn=978-0816064571 |page=8}}</ref>
+* 1965 - honorary doctorate from [[Oxford University]]<ref name="Honours"/>
+
+==Selected poetry collections==
+
+===Published by Akhmatova===
+* 1912 - ''Vecher''/''Вечер'' (''Evening'')<ref group='Notes' name='f'>1912 - ''Vecher'' (''Evening''). 46 poems, 92 pages. 300 copies. Published by the Poets Guild. See Martin (2007) p. 4.</ref><ref>[http://ahmatova.niv.ru/ahmatova/stihi/vecher-1.htm Original Akhmatova poems in Russian at niv.ru] {{webarchive |url=https://web.archive.org/web/20111125091902/http://ahmatova.niv.ru/ahmatova/stihi/vecher-1.htm |date=November 25, 2011 }}</ref>
+* 1914 - ''Chetki'' (''Rosary'' or literally ''Beads'')<ref group='Notes' name='g'>1914 - ''Chetki'' (''Rosary'' or literally ''Beads''). 52 poems, 120 pages, published by Hyperborea.  See Martin (2007) p. 4, and Wells (1996) p. 6.</ref>
+* 1917 - ''Belaya Staya'' (''White Flock'')<ref group='Notes' name='n'>1917 - ''Belaya Staya'' (''White Flock''). 2000 copies, 142 pages, published by Hyperborea.  See Martin (2007) p. 5.</ref>
+* 1921 - ''Podorozhnik'' (''Wayside Grass''/''Plantain''). 60 pages, 1000 copies published.<ref group='Notes' name='j'>1921 - ''Podorozhnik'' (''Wayside Grass''/''Plantain''). 60 pages, 1000 copies published. Half the poems are about to or about her husband Shileiko. See Martin (2007) p. 6.</ref>
+* 1921 - ''Anno Domini MCMXXI''<ref group='Notes' name='h'>''Anno Domini MCMXXI''. 102 pages, 2000 copies published. Her last volume of new work. See Martin (2007) p. 6.</ref>
+* ''Reed'' - two-volume collection of selected poems (1924–1926); compiled but never published.
+* ''Uneven'' - compiled but never published.
+* 1940 - ''From Six Books'' (publication suspended shortly after release, copies pulped and banned).<ref group='Notes' name='k'>1940 - ''From Six Books''. 327 pages. 10,000 copies intended but publication was suspended shortly after release and copies pulped and remaining issues banned. See Martin (2007) p. 9.</ref>
+* 1943 - ''Izbrannoe Stikhi'' (''Selections of Poetry''). Tashkent, government-edited.<ref group='Notes' name='l'>1943 - ''Izbrannoe Stikhi'' ("Selections of poetry"). Tashkent, government-issued and edited. 114 pages, 10,000 copies. See Martin (2007) p. 10.</ref>
+* ''Iva'' - not separately published<ref group='Notes' name='m'/>
+* ''Sed'maya kniga'' (''Seventh Book'') -  not separately published<ref group='Notes' name='m'/>
+* 1958 - ''Stikhotvoreniya'' (''Poems'') (25,000 copies)<ref Name="Wells21"/>
+* 1961 - ''Stikhotvoreniya 1909–1960'' (''Poems: 1909–1960'')<ref Name="Wells21"/>
+* 1965 - ''Beg vremeni'' (''The Flight of Time: Collected Works 1909–1965'')<ref Name="Wells21"/><ref group='Notes' name='m'>1965 - ''Beg vremeni'' (''The Flight of Time: Collected Works 1909–1965''). 50,000 copies, 471 pages. The collection draws from seven of her books, including the unpublished volumes ''Iva'' and  ''Sed’maya kniga'' (''Seventh Book''). See Martin (2007) pp. 12-13.</ref>
+
+===Later editions===
+* 1967 - ''Poems of Akhmatova.'' Ed. and trans. Stanley Kunitz, Boston
+* 1976 - ''Anna Akhmatova: Selected Poems'' (trans. D. M. Thomas); Penguin Books
+* 1985 - ''Twenty Poems of Anna Akhmatova'' (trans. [[Jane Kenyon]]); Eighties Press and Ally Press; {{ISBN|0-915408-30-9}}
+* 1988 - ''Selected Poems'' (trans. Richard McKane); Bloodaxe Books Ltd; {{ISBN|1-85224-063-6}}
+* 2000 - ''The Complete Poems of Anna Akhmatova'' (trans. Judith Hemschemeyer; ed. Roberta Reeder); Zephyr Press; {{ISBN|0-939010-27-5}}
+* 2004 - ''The Word That Causes Death's Defeat: Poems of Memory (Annals of Communism)'' (trans. Nancy Anderson). Yale University Press. {{ISBN|0-300-10377-8}}
+* 2006 - ''Selected Poems'' (trans. D. M. Thomas); Penguin Classics; {{ISBN|0-14-042464-4}}
+* 2009 - ''Selected Poems'' (trans. Walter Arndt); Overlook TP; {{ISBN|0-88233-180-9}}
+
+==See also==
+*[[Anna Akhmatova Literary and Memorial Museum]]
+*[[Akhmatova's Orphans]]
+
+==Notes==
+{{Reflist|group="Notes"|colwidth=30em}}
+
+==References==
+{{Reflist|group=nb}}{{Reflist|20em}}
+
+==Sources==
+*Akhmatova, Anna, Trans. Kunitz, Staney and Hayward, Max (1973)  ''Poems of Akhmatova''. Houghton Mifflin; {{ISBN|9780316507004}}
+*Akhmatova, Anna, Trans. Kunitz, Staney and Hayward, Max (1998)  ''Poems of Akhmatova''. Houghton Mifflin; {{ISBN|0-395-86003-2}}
+*Akhmatova, Anna (1989) Trans. Mayhew and McNaughton. ''Poem Without a Hero & Selected Poems''. Oberlin College Press; {{ISBN|0-932440-51-7}}
+*Akhmatova, Anna (1992) Trans. Judith Hemschemeyer  ''The Complete Poems of Anna Akhmatova''. Ed. R. Reeder, Boston: Zephyr Press; (2000); {{ISBN|0-939010-27-5}}
+*Feinstein, Elaine. (2005) ''Anna of all the Russias: A life of Anna Akhmatova''. London: Weidenfeld & Nicolson; {{ISBN|0-297-64309-6}}; Alfred A. Knopf, (2006) {{ISBN|1-4000-4089-2}}
+*Harrington, Alexandra (2006) ''The poetry of Anna Akhmatova: living in different mirrors''. Anthem Press; {{ISBN|978-1-84331-222-2}}
+*[http://www.caxtonclub.org/reading/2007/apr07.pdf Martin, Eden (2007)  ''Collecting Anna Akhmatova''], ''The Caxtonian'', Vol. 4 April 2007 Journal of the [[Caxton Club]]; accessed 31 May 2010
+*Monas, Sidney; Krupala, Jennifer Greene; Punin, Nikolaĭ Nikolaevich (1999), ''The Diaries of Nikolay Punin: 1904-1953'', Harry Ransom Humanities Research Center Imprint Series, University of Texas Press; {{ISBN|9780292765894}}
+*Polivanov, Konstantin (1994) ''Anna Akhmatova and Her Circle'', [[University of Arkansas]] Press; {{ISBN|1-557-28309-5}}
+*Reeder, Roberta. (1994) ''Anna Akhmatova: Poet and Prophet''. New York: Picador; {{ISBN|0-312-13429-0}}
+*Reeder, Roberta. (1997) ''Anna Akhmatova: The Stalin Years'' Journal article by Roberta Reeder; ''New England Review'', Vol. 18, 1997
+*Wells, David (1996) ''Anna Akhmatova: Her Poetry'' Berg Publishers; {{ISBN|978-1-85973-099-7}}
+
+==External links==
+{{wikiquote}}
+{{commons}}
+*[http://www.poets.org/poet.php/prmPID/1 Profile and poems] at [[Academy of American Poets]]
+*[http://stihipoeta.ru/poety-serebryanogo-veka/anna-ahmatova/ Anna Akhmatova poetry] at [http://stihipoeta.ru/ Stihipoeta] (rus)
+*[http://www.poetryfoundation.org/bio/anna-akhmatova Profile and poems] at [[Poetry Foundation]]
+*[http://www.silveragepoetry.com/p/features.html Poetic translations]
+*{{cite encyclopedia|url=http://www.britannica.com/women/article-9005280|title= Anna Akhmatova|encyclopedia=300 Women Who Changed the World|publisher=Encyclopedia Britanna|first=Gregory|last=Freidin}}
+*{{cite web|url=http://www.chukfamily.ru/Lidia/Biblio/Simon.htm|title=Anna Akhmatova|first=John|last=Simon|date=1994}}
+*{{cite web|url=http://www.akhmatovafilm.com|archive-url=https://web.archive.org/web/20090213083134/http://www.akhmatovafilm.com/|url-status=dead|archive-date=2009-02-13|title=Film About Anna Akhmatova|date=2008|first1=Helga|last1=Landauer|first2=Anatoly|last2=Naiman}}
+*{{youtube|id=ZNonUUEdWyE|title=The Anna Akhmatova File (1989)- English Subtitles}}
+*{{cite web|url=http://www.usc.edu/dept/las/sll/eng/ess/obv99.htm|title=The Obverse of Stalinism: Akhmatova's self-serving charisma of selflessness|first=Alexander|last=Zholkovsky|url-status=dead|archive-url=https://web.archive.org/web/20050428185340/http://www.usc.edu/dept/las/sll/eng/ess/obv99.htm|archive-date=2005-04-28}}
+*{{cite journal|url=http://www.albany.edu/offcourse/issue41/cigale_translations3.html#akhmatova|title=Anthology of Russian Minimalist and Miniature Poems; Part I, The Silver Age|others=Translated by Alex Cigale|quote=5 miniature poems (1911–1917)|publisher=State University at Albany (SUNY)|journal=Off Course|issue=41|date=Spring 2010|page=3}}
+*{{cite web|url=https://sites.google.com/site/poetryandtranslations/anna-akhmatova|title=Anna Akhmatova|last=Kneller|first=Andrey|quote=200+ poems translated into English}}
+* {{Internet Archive author |sname=Anna Akhmatova}}
+* {{Librivox author |id=8377}}
+
+{{Authority control}}
+
+{{Good article}}
+
+{{DEFAULTSORT:Akhmatova, Anna}}
+[[Category:Anna Akhmatova| ]]
+[[Category:1889 births]]
+[[Category:1966 deaths]]
+[[Category:Writers from Odessa]]
+[[Category:People from Odessky Uyezd]]
+[[Category:Nobility of the Russian Empire]]
+[[Category:People of the Russian Empire of Tatar descent]]
+[[Category:Poets of the Russian Empire]]
+[[Category:20th-century Russian women writers]]
+[[Category:Women poets of the Russian Empire]]
+[[Category:Russian World War I poets]]
+[[Category:Soviet poets]]
+[[Category:Soviet women writers]]
+[[Category:Censorship in the Soviet Union]]
+[[Category:Soviet literary historians]]
+[[Category:Russian literary historians]]
+[[Category:Soviet translators]]
+[[Category:Russian translators]]
+[[Category:Translators to Russian]]
+[[Category:Chinese–Russian translators]]
+[[Category:Ukrainian–Russian translators]]
+[[Category:20th-century translators]]
+[[Category:Pseudonymous women writers]]
+[[Category:World War II poets]]
+[[Category:Russian people of Tatar descent]]
+[[Category:20th-century pseudonymous writers]]

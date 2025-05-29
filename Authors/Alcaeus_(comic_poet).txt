@@ -1,0 +1,26 @@
+'''Alcaeus''' ({{lang-grc|{{lang|grc|Ἀλκαῖος}}}}), the son of Miccus, was an [[Athens|Athenian]] comic poet who wrote ten plays.<ref>Suidas α 1274</ref> His comedies marked the transition between [[Ancient Greek comedy|Old Comedy and Middle Comedy]].  In 388 BC, his play ''Pasiphae'' was awarded the fifth (i.e. last) place prize.
+
+[[Johann Albert Fabricius|Fabricius]] mentions another Alcaeus, a tragedian.<ref>[[Johann Albert Fabricius|Fabricius, Johann Albert]], Biblioth. Grace, ii. p. 282.</ref> Some scholars thought that they were the same person, and calling Alcaeus "a tragedian" rose from an erroneous reading of his title "comoedo-tragoedia".<ref name="DGRBM">{{cite encyclopedia|title=Alcaeus (7) |url=http://www.ancientlibrary.com/smith-bio/0105.html |editor=[[William Smith (lexicographer)|William Smith]] |encyclopedia=[[Dictionary of Greek and Roman Biography and Mythology]] |volume=1 |pages=96 |publisher=[[Little, Brown and Company]] |location=Boston |year=1870 |url-status=dead |archiveurl=https://web.archive.org/web/20110111191541/http://www.ancientlibrary.com/smith-bio/0105.html |archivedate=2011-01-11 }}</ref>
+
+==Surviving titles and fragments==
+The titles of eight plays still exist, along with forty fragments altogether, most of which suggest that he worked mainly in mythological subjects.
+
+{{div col|colwidth=30em}}
+*''Adephai Moicheuomenai'' ("The Adulterous Sisters")
+*''Callisto''
+*''Endymion''
+*''Hieros Gamos'' ("Holy Marriage")
+*''Komadotragodia'' ("Comedo-Tragedy")
+*''Palaistra'' ("[[Palaestra]]")
+*''Panymedes''
+*''Pasiphae'' (See above)
+{{div col end}}
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+[[Category:Ancient Greek dramatists and playwrights]]
+[[Category:Old Comic poets]]
+[[Category:Middle Comic poets]]

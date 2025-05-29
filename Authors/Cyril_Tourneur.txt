@@ -1,0 +1,49 @@
+{{Use dmy dates|date=October 2019}}
+{{short description|16th/17th-century English soldier, diplomat, and dramatist}}
+'''Cyril Tourneur''' ({{IPAc-en|t|ʊr|n|ər}}; died 28 February 1626) was an English soldier, diplomat and [[dramatist]] who wrote ''[[The Atheist's Tragedy]]'' (published 1611); and (better-known play), ''[[The Revenger's Tragedy]]'' (1607), which is sometimes erroneously and speciously attributed to [[Thomas Middleton]].
+
+==Life==
+Cyril Tourneur was the son, or possibly the grandson, of Edward Tournor of Canons, [[Great Parndon]] ([[Essex]]), and his second wife, Frances Baker. He served in his youth [[Sir Francis Vere]] and [[Sir Edward Cecil]]. His literary activities seem to be concentrated in the period 1600–1613. In 1613 and 1614 he was employed in military and diplomatic service in the [[Low Countries]]. In 1625 he was appointed to be secretary to the council of war for the [[Cádiz Expedition (1625)|Cádiz Expedition]]. This appointment was cancelled, but Tourneur sailed in Cecil's company to [[Cádiz]]. On the return voyage from the disastrous expedition, he was put ashore at [[Kinsale]] with other sick men and died in Ireland on 28 February 1626.<ref>Gunby (n.d.)</ref>
+
+==Writings==
+A difficult allegorical poem called ''The Transformed Metamorphosis'' (1600) is Tourneur's earliest extant work; an [[elegy]] on the death of [[Henry Frederick, Prince of Wales|Prince Henry]], son of James I of England, is the latest (1613). Tourneur's other non-dramatic works include a prose pamphlet, ''Laugh and Lie Down'' (1605),<ref>''Works of Cyril Tourneur'', ed. Allardyce Nicoll (1929), pp. 273-296.</ref> some contributions to Sir [[Thomas Overbury]]'s ''Book of Characters'' and an [[wikt:epicede|epicede]] on Sir [[Francis Vere]]. This poem conveys the poet's ideal conception of a perfect knight or happy warrior.
+
+Tourneur's primary dramatic work is ''The Atheist's Tragedy, or The Honest Man's Revenge'' which was published in 1611. A case has been made by Johan Gerritsen that Tourneur is the author of the first act of ''The Honest Man's Fortune'' (1613), a play from the Beaumont & Fletcher canon usually attributed to John Fletcher, Philip Massinger and Nathan Field.<ref>J. Gerittsen, ed., ''The Honest Mans Fortune: A Critical Edition of MS. Dyce 9'' (1952). See also MacDonald P. Jackson, "Cyril Tourneur and ''The Honest Man's Fortune''," ''Medieval and Renaissance Drama in England'' 32 (2019): 203–18.</ref> In addition there is a lost play, ''The Nobleman'', and the lost ''Arraignment of London'' written with Robert Daborne. ''The Revenger's Tragedy'' (1607), which was also written by Tourneur is sometimes speciously and erroneously attributed to Thomas Middleton.
+
+Tourneur's current reputation however rests on ''The Atheist's Tragedy''. It confidently reproduces themes and conventions which are characteristic of medieval [[morality play]]s and of Elizabethan ''[[memento mori]]'' [[emblems]]. It uses these conventions in the context of [[John Calvin|Calvin]]'s [[Protestant]] theology. This and Tourneur's other uncontested works, show him to be "a traditional Christian moralist, with a consistent didactic bent."<ref>Gunby (n.d.)</ref> The play recalls Jonson's ''The Alchemist'' and ''Volpone'' in the character of Languebeau Snuffe, and may also be a response to ''The Revenge of Bussy D'Amboise.''
+
+As regards ''The Revenger's Tragedy'', the play was published anonymously, and  Tourneur was described as the author in a 1650s booklist. Much later and non-contemporary evidence makes a weak suggestion that the true author was the more distinguished Middleton.It is also known from contemporary records that Middleton composed another play called ''The Viper and her Brood'', of which nothing survives. Based on this thin and weak link, some scholars make an absurd stretch without evidence that ''Viper'' and ''The Revenger's Tragedy'' are in fact one and the same play. There is no convincing evidence linking Tourneur to ''Revenger's'', and modern scholarship attributes the play wholly to Middleton. For a careful examination of the authorship question, see the introduction to Gretchen E. Minton's Arden edition of ''The Revenger's Tragedy'' (2019).
+
+Modern stagings of ''The Atheist's Tragedy'' remain few and far between.
+
+==Works of Tourneur==
+* ''The Atheists Tragedie; or, The Honest Mans Revenge'' (1611)
+* ''A Funeral Poeme Upon the Death of the Most Worthie and True Soldier, Sir Francis Vere, Knight..'' (1609)
+* ''A Griefe on the Death of Prince Henrie, Expressed in a Broken Elegie ...'', printed with two other poems by John Webster and Thomas Haywood as ''Three Elegies on the most lamented Death of Prince Henry'' (1613)
+* ''The Transformed Metamorphosis'' (1600), an obscure satire
+* ''The Nobleman'', a lost play entered on the Stationers Register (Feb. 15, 1612) as "A Tragecomedye called The Nobleman written by Cyrill Tourneur", the MS. of which was destroyed by [[John Warburton (officer of arms)|John Warburton's]] cook
+* ''Arraignment of London'' (1613), stated in a letter of that date from [[Robert Daborne]] to [[Philip Henslowe]] that Daborne had commissioned Cyril Tourneur to write one act of this play
+
+==References==
+{{wikisource author}}
+{{wikiquote}}
+;Notes
+{{reflist}}
+;Sources
+* Gibbons, Brian, (ed). (1991). ''The Revenger's Tragedy; New Mermaids edition (2nd edition)''. New York: Norton, 1991
+* {{cite ODNB|last=Gunby|first=David|id=27582|title=Tourneur, Cyril (d. 1626)}}
+* {{cite EB1911|wstitle=Tourneur, Cyril|volume=27}}
+*{{cite DNB|wstitle=Tourneur, Cyril|volume=57|first= Thomas |last=Seccombe}}
+;Other reading
+* Parfitt, George, ed. ''The Plays of Cyril Tourneur''. Cambridge, Cambridge University Press, 1978.
+* Higgins, Michael H. 'The Influence of Calvinistic Thought in Tourneur's ''Atheist's Tragedy''', ''Review of English Studies'' XIX.75 (Jul 1943), 255-262.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tourneur, Cyril}}
+[[Category:1626 deaths]]
+[[Category:English Renaissance dramatists]]
+[[Category:People from Essex]]
+[[Category:English soldiers]]
+[[Category:English diplomats]]
+[[Category:Year of birth unknown]]

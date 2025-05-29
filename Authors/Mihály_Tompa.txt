@@ -1,0 +1,57 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name          = Mihály Tompa
+| image         = Tompa Morelli.jpg
+| alt           = Mihály Tompa
+| caption       =
+| birth_date    = {{Birth date|df=yes|1819|9|28}}
+| birth_place   = [[Rimaszombat]], [[Austrian Empire]] (today [[Rimavská Sobota]], [[Slovakia]])
+| death_date    = {{death date and age|df=yes|1868|7|30|1819|9|28}}
+| death_place   = [[Chanava|Hanva]], [[Austria-Hungary]] (today [[Chanava]], [[Slovakia]])
+| resting_place = 
+| occupation    = [[Reformed Church in Hungary|Calvinist]] minister <br>poet
+| notableworks  = 
+| language      = [[Hungarian (language)|Hungarian]] 
+| nationality   = [[Hungarian people|Hungarian]] 
+| citizenship   =
+| education     =
+| alma_mater    =
+| period        = 
+| genre         =
+| subject       =
+| movement      =
+| spouse        = Emília Soldos
+| partner       =
+| children      = Kálmán <br>Gejza
+| relatives     =
+}}
+'''Mihály Tompa''' (September 28, 1819 – July 30, 1868), was a [[Hungary|Hungarian]] lyric [[poet]], [[Reformed Church in Hungary|Calvinist]] minister and [[corresponding member]] of the [[Hungarian Academy of Sciences]]. Together with [[János Arany]] and [[Sándor Petőfi]] they formed the triumvirate of young great poets of the Hungarian folk-national literature of the 19th century.
+
+==Life==
+He studied [[law]] and [[theology]] in [[Sárospatak]], and subsequently at [[Budapest]]; and, after many vicissitudes, at the age of thirty he accepted the post of [[Protestant]] minister in Beje, a small village in his native county, whence, in two years, he removed to Kelemér, and four years later to [[Hanva]], in the county of Borsod, where he remained till his death. {{sfn|Chisholm|1911}}
+
+At the age of four-and-twenty Tompa published his first poems in the ''Athenaeum'', which soon procured for him a high reputation. His first volume, ''Népregék, népmondák'' ("Folk-Legends and Folk-Tales"), in 1846, met with great success, and the same may be said of the first volume of his ''Poems'' in 1847.{{sfn|Chisholm|1911}}
+
+He took part in the [[Hungarian Revolution of 1848]], acting as field chaplain to the volunteers of his county and seeing several battles; but the unfortunate close of that heroic struggle silenced his poetic vein for a considerable time, and when in 1852 and 1853 he gave vent to his patriotic grief in some masterly allegories on the state of oppressed Hungary, he was twice arrested by the Austrian authorities. He married Emilia Zsoldos in 1849.{{sfn|Chisholm|1911}}
+
+After being released he published his ''Virágregék'' ("Legends of Flowers"), a collection of poems showing great imagination and love of nature. Soon after this he became oppressed with melancholy and abandoned this branch of poetry. He published three volumes of sermons, which, says his biographer, Károly Szász, Protestant bishop of Budapest, are among the best in [[Hungarian literature]], and will favourably compare with those of [[William Bruce Robertson|Robertson]], [[Adolphe Monod|Monod]] or [[Matthew Parker|Parker]]. His collected poetical works were published at Budapest in 1870, and again in 1885.{{sfn|Chisholm|1911}}
+
+==Personal life==
+He married Emília Soldos(1 April 1831, [[Runya]], [[Hungary]] (today [[Rumince]], [[Slovakia]]) - 28 January 1867, [[Hanva]], [[Austria-Hungary]] (today [[Chanava]], [[Slovakia]]). They had together two sons:<ref>[http://eda.eme.ro/bitstream/handle/10598/3772/EM-1903_20_03_121-132.pdf?sequence=1]</ref>
+* Kálmán<ref>[https://www.familysearch.org/ark:/61903/1:1:V54D-89Q]</ref> (10 Mar 1850, [[Kelemér]], [[Hungary]] - ?)
+* Géza<ref>[https://www.familysearch.org/ark:/61903/1:1:KDVS-YT5]</ref> (13 Jan 1853, [[Kelemér]], [[Hungary]] - ?)
+
+==References==
+{{reflist}}
+;Attribution
+*{{EB1911|wstitle= Tompa, Mihály|volume=26 }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tompa, Mihaly}}
+[[Category:1817 births]]
+[[Category:1868 deaths]]
+[[Category:People from Rimavská Sobota]]
+[[Category:19th-century Hungarian poets]]
+[[Category:Hungarian male poets]]
+[[Category:Lyric poets]]
+[[Category:19th-century Hungarian male writers]]

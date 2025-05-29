@@ -1,0 +1,102 @@
+{{multiple issues|
+{{BLP sources|date=July 2014}}
+{{BLP primary sources|date=July 2014}}
+{{third-party|date=July 2014}}
+}}
+{{Infobox writer
+| image = Eric Nylund (2007).jpg
+| image_size = 250px
+| birth_name = Eric S. Nylund
+| name = Eric Nylund
+| caption = Eric Nylund in 2007
+| birth_date = {{birth date and age|1964|11|12}}
+| birth_place = [[Panorama City, California]]
+| death_date = 
+| death_place = 
+| occupation = [[Novelist]]
+| genre = [[Science fiction]]
+| movement = 
+| magnum_opus = 
+| influences = 
+| influenced = 
+| awards = 
+| spouse = [[Syne Mitchell]]
+| website = {{URL|http://www.ericnylund.net/}}
+| footnotes = 
+| current books published = 
+}}
+
+'''Eric S. Nylund''' (born November 12, 1964) is an American [[novelist]] and professional [[technical writer]]. His wife, [[Syne Mitchell]], is also a [[science fiction]] writer. He holds a [[Bachelor's in Science|B.Sc.]] in [[chemistry]] from the University of California, Santa Barbara and an [[Master's degree|M.Sc.]] in [[chemical physics]] from the University of California, San Diego.<ref>{{cite web|url=http://www.randomhouse.com/delrey/catalog/display.pperl?isbn=9780345451323|title=Halo: The Fall of Reach|publisher=[[Del Rey Books]]|access-date=2008-04-14}}</ref> He lives in [[North Bend, Washington]] with his wife, Syne, and his son, Kai Nylund.
+
+Nylund is the author of three novels set in the [[Halo (series)|Halo]] universe: ''[[Halo: The Fall of Reach]]'', ''[[Halo: First Strike]]'', and ''[[Halo: Ghosts of Onyx]]'', as well as a short story in ''[[Halo: Evolutions]]'' and the graphic novel ''[[Halo Wars#Release|Halo Wars: Genesis]]''. He is employed as a writer for [[Microsoft Game Studios]]. His duties include the development of [[Bible (writing)|story bibles]] and other such [[Back-story|fictional assets]], the preparation of materials for [[marketing]], and coordination with [[Microsoft]] localization, legal, and geopolitical departments.
+
+In the 1990s he was hired by Microsoft to help rewrite and edit portions of Microsoft's multi-media encyclopedia. Since then, he has written several novels based on Microsoft-published games, including the aforementioned Halo novels, and ''[[Crimson Skies]]'', which was written collaboratively with Eric S. Trautmann.
+
+Nylund has written many original novels as well, including ''Signal to Noise'', ''A Signal Shattered'' and ''Dry Water''.
+
+He has recently finished ''All That Lives Must Die'', the sequel to ''Mortal Coils''. ''Mortal Coils'' and ''All That Lives Must Die'' are books 1 and 2 in a proposed 5 book series. Publisher [[Tor Books]] has yet to officially purchase the next novel ''What Fools These Mortals'', which is currently being written by Nylund. As of July 2013, no word has been publicly given on the status of the Mortal Coils series.
+
+== Bibliography ==
+
+===Novels===
+* ''Pawn's Dream'' (1995)
+* ''A Game of Universe'' (1997)
+* ''Dry Water'' (1997)
+* ''What Fools These Mortals''
+* ''[[Crimson Skies#Books|Crimson Skies]]'' (2002)
+
+====Signal====
+* ''[[Signal to Noise (Nylund novel)|Signal to Noise]]'' (1998)
+* ''[[A Signal Shattered]]'' (1999)
+
+====Halo====
+* ''[[Halo: The Fall of Reach]]'' (2001)
+* ''[[Halo: First Strike]]'' (2003)
+* ''[[Halo: Ghosts of Onyx]]'' (2006)
+* ''[[Halo: Evolutions]]'' (2009)
+
+====Mortal Coils====
+* ''Mortal Coils'' (2009)
+* ''All That Lives Must Die'' (2010)
+
+====The Resisters====
+* ''The Resisters'' (2011)
+* ''Sterling Squadron'' (2012)
+* ''Titan Base'' (2013)
+* ''Operation Inferno'' (2013)
+
+====Hero of Thera Series====
+* ''Hero of Thera'' (2017)
+* ''A Thousand Drunken Monkeys (2019)
+
+===Graphic novels===
+*''[[Halo Wars#Release|Halo Wars: Genesis]]'' (2009)
+*''Battlestar Galactica: Cylon War'' (2009)
+
+==References==
+{{Reflist}}
+
+== External links ==
+*{{Official website|http://www.ericnylund.net}}
+*[https://web.archive.org/web/20110927092310/http://www.ereader.com/ebooks/a1523/Eric-Nylund/?si=59 Author Information on eReader.com]
+*[http://www.iblist.com/author582.htm Author Information on Internet Book List] 
+*{{isfdb name|id=Eric_S._Nylund|name=Eric S. Nylund}}
+*[https://web.archive.org/web/20090220053908/http://blogs.amctv.com/scifi-scanner/2009/02/nylund-mortal-coils.php Interview with Eric Nylund at AMCtv.com]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nylund, Eric S.}}
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American male novelists]]
+[[Category:American science fiction writers]]
+[[Category:Technical writers]]
+[[Category:People from Panorama City, Los Angeles]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:People from North Bend, Washington]]
+
+
+{{US-sf-writer-stub}}

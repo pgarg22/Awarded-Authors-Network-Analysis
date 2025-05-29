@@ -1,0 +1,220 @@
+{{Short description|American writer}}
+{{Use mdy dates|date=May 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image       = Naomi_Novik_July08.jpg
+|name        = Naomi Novik
+|caption     = Naomi Novik at a book signing event in Philadelphia, July 2008
+|alt         = Image of Naomi Novik at a book signing event in Philadelphia, July 2008
+|birth_date  = {{Birth date and age|1973|04|30}}
+|birth_place = [[New York (state)|New York]], US
+|occupation  = {{cslist|Novelist|computer programmer}}
+|education   = {{cslist|[[Brown University]] ([[Bachelor of Arts|BA]])|[[Columbia University]] ([[Master of Science|MS]])}}
+|genres      = {{cslist|[[Historical fantasy]]|[[alternate history]]}}
+|spouse      = [[Charles Ardai]]
+|children    = Evidence Novik Ardai
+|awards      = [[#Awards and nominations|See below]]
+|website     = {{URL|naominovik.com}}
+|footnotes   =
+|}}
+'''Naomi Novik''' (born April 30, 1973) is an American author of [[speculative fiction]]. She is best known for the [[Temeraire (series)|''Temeraire'' series]], an [[alternate history]] of the [[Napoleonic Wars]] involving dragons, and the standalone fantasy novels ''[[Uprooted (novel)|Uprooted]]'' and ''[[Spinning Silver]]'', which were inspired by Polish folklore and the [[Rumpelstiltskin]] fairy tale, respectively. Novik has won many awards for her work, including the [[Alex Awards|Alex]], [[Audie Award|Audie]], [[British Fantasy Award|British Fantasy]], [[Locus Award|Locus]], [[Mythopoeic Award|Mythopoeic]] and [[Nebula Awards]]. Film rights to her novels ''Uprooted'' and ''[[A Deadly Education]]'' have been purchased by [[Warner Bros.]] and [[Universal Pictures]].
+
+==Early life==
+Novik grew up in [[Roslyn Heights]] on [[Long Island]]. She is a second-generation American; her father's family were [[Lithuanian Jews]], and her mother's family were [[Poland|Polish]] [[Catholics]].<ref name="Paste">{{Cite web |url=https://www.pastemagazine.com/books/naomi-novik/naomi-novik-talks-spinning-silver/|title=Naomi Novik Talks ''Spinning Silver'', Her Rumpelstiltskin-Inspired Novel|last=Jackson |first=Frannie |work=[[Paste (magazine)|Paste]] |date=July 10, 2018 |access-date=March 9, 2020}}</ref> Displaying an interest in reading at a young age, she read ''[[The Lord of the Rings]]'' at age six, and developed a love for [[Jane Austen]] soon afterward.<ref name="NewYorkTimes" />
+
+She received a [[Bachelor of Arts|bachelor's degree]] in [[English literature]] at [[Brown University]], and holds a [[Master of Science|master's degree]] in [[computer science]] from [[Columbia University]].<ref>{{cite web |last1=Fox |first1=Rose |title=Interview: Naomi Novik |url=http://strangehorizons.com/non-fiction/articles/interview-naomi-novik/ |website=[[Strange Horizons]] |access-date=November 11, 2021 |date=August 14, 2006}}</ref> She participated in the design and development of the computer game ''[[Neverwinter Nights: Shadows of Undrentide]]'', until she discovered that she preferred writing to game design.<ref name="NewYorkTimes">{{cite news|url=https://www.nytimes.com/2006/10/11/books/11novi.html|title=A New Writer Is Soaring on the Wings of a Dragon|date=2006-10-11|work=[[The New York Times]]|first=Julie|last=Bosman|access-date=2010-05-19}}</ref>
+
+==Career==
+Novik's first novel, ''[[His Majesty's Dragon]]'' (''Temeraire'' in the UK), which commences the [[Temeraire (series)|''Temeraire'' series]], is an [[alternate history]] of the [[Napoleonic Wars]] in a "Flintlock Fantasy" world in which dragons are abundant and are used in aerial combat. ''His Majesty's Dragon'' won the [[Compton Crook Award]] in 2007,<ref name="Compton2007" /> and was nominated for the [[Hugo Award for Best Novel]].<ref name="HugoAward2007" /> ''Temeraire: In the Service of the King'', an [[Omnibus edition|omnibus]] volume collecting the first three books of the series (''His Majesty's Dragon'', ''[[Throne of Jade]]'', and ''[[Black Powder War]]''), won the [[Locus Award for Best First Novel]] in 2007.<ref name="LocusAward2007" />
+
+In September 2006, [[Peter Jackson]] optioned the rights to the ''Temeraire'' series,<ref>{{cite news |url=https://www.theguardian.com/film/2006/sep/12/books.news |title=Peter Jackson enters dragons' den |date=12 September 2006 |work=[[The Guardian]]}}</ref> intending to produce three or more live-action films,<ref>{{cite web |last1=Creen |first1=Willow |title=Peter Jackson Options Temeraire |url=https://www.empireonline.com/movies/news/peter-jackson-options-temeraire/ |website=[[Empire (film magazine)|Empire]] |access-date=May 22, 2021 |date=September 11, 2006}}</ref> but the rights have since reverted to Novik.<ref>{{Cite web|url=https://www.reddit.com/r/YAwriters/comments/476y90/ama_naomi_novik_author_of_uprooted_the_temeraire/|title=r/YAwriters AMA: Naomi Novik, author of ''Uprooted'' & the ''Temeraire'' series|website=Reddit|access-date=December 14, 2020}}</ref>
+
+The ''Temeraire'' series has also been released in [[audiobook]] format. The first five audiobooks were released by [[Books on Tape (company)|Books on Tape]], beginning in 2007, and read by [[Simon Vance]].<ref>{{cite web|url= http://www.booksontape.com/search.cfm?author=60490&|title= Books by Naomi Novik|website=[[Books on Tape (company)|Books on Tape]]|access-date= 2011-12-02|archive-url= https://web.archive.org/web/20120405125644/http://www.booksontape.com/search.cfm?author=60490&|archive-date= 2012-04-05|url-status= dead}}</ref> The sixth audiobook was released by [[Tantor Audio]] in September 2010, also read by Vance.<ref>{{cite web|url= http://www.tantor.com/BookDetail.asp?Product=1933_TonguesSerpents|title=''Tongues of Serpents'': Book 6 in the ''Temeraire'' series|website=[[Tantor Media]]|access-date=May 23, 2021}}</ref>
+
+In September 2007, Novik was awarded the [[John W. Campbell Award for Best New Writer]] for best new science fiction writer of 2006.<ref name="JohnCampbellAward" />
+
+In 2011, Novik wrote ''Will Supervillains Be on the Final?'', a [[graphic novel]] about the next generation of high-flying costumed crusaders. [[Yishan Li]] illustrated the [[comic]] with "[[manga]]-styled art".<ref>{{cite web |title=''Will Supervillains Be on the Final?'' Liberty Vocational, Vol. 1 |url=https://www.publishersweekly.com/978-0-345-51656-5 |website=[[Publishers Weekly]] |access-date=May 23, 2021 |date=March 7, 2011}}</ref>
+
+In 2015, Novik published ''[[Uprooted (novel)|Uprooted]]'', a standalone novel "set in a fantasy world inspired by the Kingdom of Poland",<ref>{{cite web|url=http://sf-fantasy.suvudu.com/2013/08/new-release-interview-blood-of-tyrants-by-naomi-novik.html|title=New Release Interview: ''Blood of Tyrants'' by Naomi Novik|first=Shawn|last=Speakman|date=13 August 2013|website=[[Suvudu]]|publisher=[[Random House]]|access-date=23 December 2013|archive-url=https://web.archive.org/web/20131224094504/http://sf-fantasy.suvudu.com/2013/08/new-release-interview-blood-of-tyrants-by-naomi-novik.html|archive-date=24 December 2013|url-status=dead}}</ref> which won the [[Nebula Award for Best Novel]],<ref name="Nebula2016" /> the [[British Fantasy Award]] for Best Fantasy Novel,<ref name="BritishFantasyAward2016" /> the [[Locus Award for Best Fantasy Novel]],<ref name="LocusAward2016" />  and the [[Mythopoeic Awards|Mythopoeic Fantasy Award]].<ref name="MythopoeicAwards2016" /> [[Warner Bros.]] purchased the film rights to ''Uprooted''; [[Ellen DeGeneres]] and Jeff Kleeman signed on to produce the film through their production company, [[A Very Good Production]].<ref>{{cite web |last1=Kit |first1=Borys |title=Ellen DeGeneres to Produce Adaptation of Naomi Novik's Fantasy Novel 'Uprooted' (Exclusive) |url=https://www.hollywoodreporter.com/tv/tv-features/ellen-degeneres-produce-adaptation-naomi-800931/ |website=[[The Hollywood Reporter]] |access-date=May 23, 2021 |date=June 8, 2015}}</ref>
+
+In 2016, Novik published "Spinning Silver", a short story retelling the [[Rumpelstiltskin]] fairy tale, in the fantasy anthology ''The Starlit Wood: New Fairy Tales''.<ref name="Paste" /><ref>{{cite web |last1=Speakman |first1=Shawn |title=Spinning Silver – A New Naomi Novik Short Story |url=https://www.naominovik.com/2016/10/spinning-silver-a-new-naomi-novik-short-story/ |website=NaomiNovik.com |access-date=May 22, 2021 |date=October 6, 2016}}</ref> Two years later, she expanded the story into her second standalone novel, ''[[Spinning Silver]]'',<ref name="Paste" /> which won the 2019 Locus Award for Best Fantasy Novel,<ref name="LocusAward2019" /> the 2019 [[Alex Award]],<ref name="AlexAward2019" /> and the 2019 [[Audie Award]] for Fantasy.<ref name="AudieAward2019" />
+
+In 2020, Novik published ''[[A Deadly Education]]'', the first in a trilogy set in the [[Scholomance]], a school of [[black magic]] from folklore. The main character, Galadriel "El" Higgins, a half-Welsh, half-Indian sorceress, must survive to graduation while controlling her destructive abilities.<ref>{{cite web |last1=Canfield |first1=David |title=''Spinning Silver'' author Naomi Novik to launch epic new trilogy this fall |url=https://ew.com/books/2020/02/07/naomi-novik-deadly-education-announcement-excerpt-cover/ |website=[[Entertainment Weekly]] |access-date=May 22, 2021 |date=February 7, 2020}}</ref> [[Universal Pictures]] purchased the film rights to the ''Scholomance'' series in advance, assigning [[Todd Lieberman]] and [[David Hoberman]] of [[Mandeville Films]] to develop and produce the films.<ref>{{cite web |last1=D'Alessandro |first1=Anthony |title=Universal & Mandeville Films Partner On Naomi Novik's 'Scholomance' Series |url=https://deadline.com/2020/05/universal-mandeville-films-partner-on-naomi-noviks-scholomance-series-1202943726/ |website=[[Deadline Hollywood|Deadline]] |access-date=May 23, 2021 |date=May 26, 2020}}</ref> Upon its release, ''A Deadly Education'' was criticized for a passage where the hairstyle known as [[dreadlocks]] is described as susceptible to an infestation of bug-like magical creatures.<ref>{{cite web |last1=Irankunda |first1=Larissa |title=Racism vs. Representation: The Missteps of Naomi Novik's ''A Deadly Education'' |url=https://www.themarysue.com/racism-vs-representation-the-missteps-of-naomi-noviks-a-deadly-education/ |website=[[The Mary Sue]] |access-date=May 23, 2021 |date=October 16, 2020}}</ref><ref>{{cite web |last1=Tanjeem |first1=Namera |title=A Response to Claims of Racism in Naomi Novik's ''A Deadly Education'' |url=https://bookriot.com/racism-in-naomi-noviks-a-deadly-education/ |website=Book Riot |access-date=May 23, 2021 |date=December 3, 2020}}</ref> Novik later apologized for "evok[ing] a racist stereotype" about [[Afro-textured hair]]. She revised the passage for future reprints, and promised that the sequel novels will not be sent to reviewers and publishers before "revisions are fully complete and a final sensitivity read has happened."<ref>{{cite web |last1=Novik |first1=Naomi |title=Apology for ''A Deadly Education'' |url=http://www.naominovik.com/apology/ |website=NaomiNovik.com |access-date=May 23, 2021}}</ref>
+
+==Activism==
+Novik helped to organize and in 2007 was one of the three directors of the [[Organization for Transformative Works]] (OTW), a non-profit organization<ref>[https://www.transformativeworks.org/wp-content/uploads/old/otw_incorp.pdf Certificate of Incorporation of Organization for Transformative Works (2007)]</ref><ref>{{Cite web|url=https://archiveofourown.org/admin_posts/7935|title=Five Things Naomi Novik Said|website=[[Archive of Our Own]]|access-date=December 14, 2020}}</ref> dedicated to the advancement of fan-media including [[fan fiction]], fan videos (vids), and real-person fiction.<ref>{{Cite web|url=https://www.transformativeworks.org/|title=Organization for Transformative Works|access-date=December 14, 2020}}</ref>
+
+Novik was a co-founder of [[Archive of Our Own]] (AO3), a project of OTW that began in 2007 to create an online archive of fan fiction.<ref name="ACM2016">{{cite book |author1=Fiesler, Casey |author2=Morrison, Shannon |author3=Bruckman, Amy S |date= 2016|title=Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems|chapter=An Archive of Their Own: A Case Study of Feminist HCI and Values in Design |url=https://dl.acm.org/doi/pdf/10.1145/2858036.2858409?casa_token=qyKkiF_ebeAAAAAA:0XzqMb9XV68oSyxHhSEIUXg02OI8bubL_IXekyoE840xchbS21Lz20C9TNUNyQDZs9-WCgaLixi0gw 
+|location= |publisher=  |page= 2574|isbn=9781450333627|quote=We need a central archive of our own. - Naomi [Novik], in a blog post dated May 17, 2007 |access-date=September 6, 2021}}</ref><ref name="SyFy2019">{{Cite web |url=https://www.syfy.com/syfywire/an-archive-of-our-own-how-ao3-built-a-nonprofit-fanfiction-empire-and-safe-haven
+|title=An Archive of Our Own: How AO3 built a nonprofit fanfiction empire and safe haven
+|last= Busch
+|first=Caitlin 
+|work=SyFy
+|quote=Dismayed by the situation, Coppa and her co-founders, sci-fi and fantasy author Naomi Novik and Rebecca Tushnet, a First Amendment rights professor at Harvard University, decided to do something about it. They worked together with the other members of the founding board, a group of seven passionate, "incredibly collaborative" fans and creators, to make a new kind of archive.
+|date=February 12, 2019
+|access-date=September 6, 2021}}</ref> When, at the 2019 [[Hugo Award]] ceremony, AO3 won the award for Best Related Work, Novik accepted the prize on behalf of all AO3's creators and readers.<ref name="VoxHugo">{{Cite web |url=https://www.vox.com/2019/4/11/18292419/archive-of-our-own-wins-hugo-award-best-related-work
+|title=The Archive of Our Own just won a Hugo. That’s huge for fanfiction
+|last=Romano
+|first=Aja
+|work=Vox
+|quote=The [Hugo] awards ceremony took place on August 18, 2019 at Worldcon in Dublin, where AO3 co-founder Naomi Novik, accepted it on behalf of all of the website's creators and readers.
+|date=August 19, 2019
+|access-date=September 6, 2021}}</ref>
+
+==Personal life==
+Novik is married to the entrepreneur and writer [[Charles Ardai]]. They live in Manhattan.<ref name="NewYorkTimes" /> They have one child, a daughter named Evidence Novik Ardai, who was born in 2010.<ref>{{Cite web|last=Novik|first=Naomi|url=http://www.naominovik.com/2011/04/temeraire-fanart-contest-results/|title=Temeraire Fanart Contest Results!|website=NaomiNovik.com|date=April 8, 2011|access-date=December 14, 2020}}</ref>
+
+==Awards and nominations==
+Novik has won the [[British Fantasy Award|British Fantasy]], [[Locus Award|Locus]], [[Mythopoeic Award|Mythopoeic]] and [[Nebula Awards]], and received nominations for the [[Hugo Award|Hugo]] and [[World Fantasy Awards]].<ref name=SFADB>{{cite web |title=Naomi Novik Awards |url=http://www.sfadb.com/Naomi_Novik |work=[[Science Fiction Awards Database]] |publisher=Locus Science Fiction Foundation |access-date=2021-08-10 |archive-url=https://web.archive.org/web/20210628011255/http://www.sfadb.com/Naomi_Novik |archive-date=2021-06-28 |url-status=live}}</ref>
+
+{| class="wikitable"
+! Award{{efn|Awards are listed in alphabetical order.}} || Category || Work || style="min-width: 8em" | Result || Ref.
+|-
+! style="font-weight: normal" | [[British Fantasy Award]] 
+| [[British Fantasy Award|Fantasy Novel]] || ''[[Uprooted (novel)|Uprooted]]'' (2015) || {{won}}
+| style="text-align: center" | <ref name="BritishFantasyAward2016">{{Cite web|url=https://www.britishfantasysociety.org/british-fantasy-awards/winners-of-the-british-fantasy-awards-2016/|title=Winners of the British Fantasy Awards 2016|website=[[The British Fantasy Society]]|access-date=2019-07-03}}</ref>
+|-
+! style="font-weight: normal" rowspan=4 | [[Hugo Award]] 
+| rowspan=3 | [[Hugo Award for Best Novel|Novel]]
+| ''[[His Majesty's Dragon]]'' (2006) || {{nom}}
+| style="text-align: center" | <ref name="HugoAward2007">{{Cite web|url=http://www.thehugoawards.org/hugo-history/2007-hugo-awards/|title=2007 Hugo Awards|date=2007-08-09|website=The Hugo Awards|language=en-US|access-date=2019-07-03}}</ref>
+|-
+| ''[[Uprooted (novel)|Uprooted]]'' (2015) || {{nom}}
+| style="text-align: center" | <ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/2016-hugo-awards/|title=2016 Hugo Awards|date=2015-12-29|website=The Hugo Awards|language=en-US|access-date=2019-07-03}}</ref>
+|-
+| ''[[Spinning Silver]]'' (2018) || {{nom}}
+| style="text-align: center" | <ref>{{Cite web|url=http://www.thehugoawards.org/2019/04/2019-hugo-award-1944-retro-hugo-award-finalists/|title=2019 Hugo Award & 1944 Retro Hugo Award Finalists|last=Cheryl|date=2019-04-02|website=The Hugo Awards|language=en-US|access-date=2019-07-03}}</ref>
+|-
+| [[Hugo Award for Best Series|Series]] || ''[[Temeraire (series)|Temeraire]]'' (2006–16) || {{nom}}
+| style="text-align: center" | <ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/2017-hugo-awards/|title=2017 Hugo Awards|date=2016-12-31|website=The Hugo Awards|language=en-US|access-date=2019-07-03}}</ref>
+|-
+! style="font-weight: normal" rowspan=4 | [[Locus Award]]
+| rowspan=2 | [[Locus Award for Best Fantasy Novel|Fantasy Novel]]
+| ''[[Uprooted (novel)|Uprooted]]'' (2015) || {{won}}
+| style="text-align: center" | <ref name="LocusAward2016">{{Cite web|url=https://locusmag.com/2016/06/2016-locus-awards-winners/|title=2016 Locus Awards Winners|date=2016-06-25|website=[[Locus (magazine)|Locus]]|language=en-US|access-date=2019-07-03}}</ref>
+|-
+| ''[[Spinning Silver]]'' (2018) || {{won}}
+| style="text-align: center" | <ref name="LocusAward2019">{{Cite web|date=2019-06-29|title=2019 Locus Awards Winners|url=https://locusmag.com/2019/06/2019-locus-awards-winners/|access-date=2019-07-03|website=[[Locus (magazine)|Locus]]|language=en-US}}</ref>
+|-
+| [[Locus Award for Best First Novel|First Novel]] || ''Temeraire'' (2006){{efn|''Temeraire: In the Service of the King'', an omnibus volume collecting ''[[His Majesty's Dragon]]'', ''[[Throne of Jade]]'', and ''[[Black Powder War]]''.<ref>{{isfdb title |id=1027882 |title=Temeraire: In the Service of the King}}.</ref>}} || {{won}}
+| style="text-align: center" | <ref name="LocusAward2007">{{cite web |title=2007 Locus Awards Winners |url=http://www.locusmag.com/2007/06_LocusWinners.html |website=[[Locus (magazine)|Locus Online]] |access-date=May 22, 2021 |date=June 16, 2007}}</ref>
+|-
+| [[Locus Award for Best Novelette|Novelette]] || "Spinning Silver" (2016){{efn|Published in ''The Starlit Wood: New Fairy Tales''.<ref>{{isfdb title |id=2088501 |title=Spinning Silver (novelette)}}.</ref>}} || {{nom}}
+| style="text-align: center" | <ref>{{Cite web|url=https://locusmag.com/2017/06/do-not-touch-2017-locus-awards-winners/|title=2017 Locus Awards Winners|date=2017-06-24|website=[[Locus (magazine)|Locus]]|language=en-US|access-date=2019-07-03}}</ref>
+|-
+! style="font-weight: normal" rowspan=2 | [[Mythopoeic Awards|Mythopoeic Fantasy Award]]
+| rowspan=2 | [[Mythopoeic Awards#Adult Literature winners and nominees (1992–present)|Adult Literature]]
+| ''[[Uprooted (novel)|Uprooted]]'' (2015) || {{won}}
+| style="text-align: center" | <ref name="MythopoeicAwards2016">{{Cite web|url=http://www.mythsoc.org/awards/awards-2016.htm|title=Mythopoeic Awards 2016|website=Mythopoeic Society |access-date=2019-07-03}}</ref>
+|-
+| ''[[Spinning Silver]]'' (2018) || {{won}}
+| style="text-align: center" | <ref>{{Cite web|url=http://www.mythsoc.org/news/news-2019-08-04.htm|title=Mythopoeic Awards: 2019 Winners Announced|website=Mythopoeic Society|date=2019-08-04|access-date=2021-08-10}}</ref>
+|-
+! style="font-weight: normal" rowspan=2 | [[Nebula Award]]
+| rowspan=2 | [[Nebula Award for Best Novel|Novel]]
+| ''[[Uprooted (novel)|Uprooted]]'' (2015) || {{won}}
+| style="text-align: center" | <ref name="Nebula2016">{{cite web|title=2015 Nebula Awards Winners|url=http://www.locusmag.com/News/2016/05/10777/|access-date=2016-05-15|work=[[Locus (magazine)|Locus Online]]|archive-url=https://web.archive.org/web/20160921102150/http://locusmag.com/News/2016/05/10777/|archive-date=September 21, 2016|url-status=dead}}</ref><ref>{{Cite web|url=https://nebulas.sfwa.org/award-year/2015/|title=2015 Nebula Awards|website=The Nebula Awards|language=en-US|access-date=2019-07-03}}</ref>
+|-
+| ''[[Spinning Silver]]'' (2018) || {{nom}}
+| style="text-align: center" | <ref>{{Cite web|title=''Spinning Silver'' by Naomi Novik|url=https://nebulas.sfwa.org/nominated-work/spinning-silver/|access-date=2020-07-03|website=The Nebula Awards|language=en-US}}</ref><ref>{{Cite web|url=https://nebulas.sfwa.org/award-year/2018/|title=2018 Nebula Awards|website=The Nebula Awards|language=en-US|access-date=2019-07-03}}</ref>
+|-
+! style="font-weight: normal" | [[World Fantasy Award]]
+| [[World Fantasy Award for Best Novel|Novel]] || ''[[Uprooted (novel)|Uprooted]]'' (2015) || {{nom}}
+| style="text-align: center" | <ref>{{Cite web|url=http://www.worldfantasy.org/awards/nominees/|title=Nominees {{!}} World Fantasy Convention|language=en-US|access-date=2019-07-03}}</ref>
+|}
+She has also received the following accolades:
+
+* Winner — 2007 [[John W. Campbell Award for Best New Writer]]<ref name="JohnCampbellAward">{{Cite web|url=http://www.thehugoawards.org/campbell-history/|title=Campbell Award|date=2007-08-09|website=The Hugo Awards|language=en-US|access-date=2019-07-03}}</ref>
+* Winner — 2007 [[Compton Crook Award]] — ''His Majesty's Dragon''<ref name="Compton2007">{{Cite web|url=http://www.bsfs.org/CCA/bsfsccwinners-past.htm|title=Compton Crook Award: Past Award Winners|website=[[Baltimore Science Fiction Society]]|access-date=2019-07-03}}</ref>
+* ''[[Spinning Silver]]''
+** Finalist — 2018 [[Goodreads Choice Award]] for Fantasy<ref>{{cite web |title=Goodreads Choice Awards 2018: Best Fantasy |url=https://www.goodreads.com/choiceawards/best-fantasy-books-2018 |website=[[Goodreads]] |access-date=May 22, 2021}}</ref>
+** Winner — 2019 [[Alex Award]]<ref name="AlexAward2019">{{Cite web|title=''Spinning Silver'' {{!}} Awards & Grants|url=http://www.ala.org/awardsgrants/spinning-silver|access-date=2020-07-03|website=[[American Library Association]]}}</ref>
+** Winner — 2019 [[Audie Award]] for Fantasy<ref name="AudieAward2019">{{cite web |last1=DJangi |first1=Taraneh |title=Congratulations to Our 2019 Audie Award Winners |url=https://www.booksontape.com/congratulations-to-our-2019-audie-award-winners/ |website=[[Books on Tape (company)|Books on Tape]] |access-date=May 22, 2021 |date=March 5, 2019}}</ref>
+* ''[[A Deadly Education]]''
+** Finalist — 2021 [[Lodestar Award for Best Young Adult Book]]<ref name="HugoFinalist">{{Cite web |url=https://comicyears.com/pop-culture/2021-hugo-award-finalists/
+|title=The 2021 Hugo Award Finalists Announced In Another Banner Year For Genre Entertainment
+|last=O'Donnell
+|first=Emily
+|work=Comic Years
+|date=April 13, 2021
+|access-date=July 6, 2021}}</ref>
+
+==Bibliography==
+
+===''Temeraire'' series===
+{{main|Temeraire (series)}}
+* ''[[His Majesty's Dragon]]'' (2006) / ''Temeraire'' (UK)
+* ''[[Throne of Jade]]'' (2006)
+* ''[[Black Powder War]]'' (2006)
+* ''[[Empire of Ivory]]'' (2007)
+* ''[[Victory of Eagles]]'' (2008)
+* ''[[Tongues of Serpents]]'' (2010)
+* ''[[Crucible of Gold]]'' (2012)
+* ''[[Blood of Tyrants]]'' (2013)
+* ''[[League of Dragons]]'' (2016)
+
+====Omnibus editions====
+*''Temeraire: In the Service of the King'' (2006, {{ISBN|0-7394-6871-5}})
+*''In His Majesty's Service: Three Novels of Temeraire'' (October 2009, {{ISBN|0-345-51354-1}})
+
+===Standalone novels===
+*''[[Uprooted (novel)|Uprooted]]'' (May 2015, {{ISBN|978-0-8041-7905-8}})
+*''[[Spinning Silver]]'' (July 2018, {{ISBN|978-0-399-18098-9}})
+
+===''Scholomance'' trilogy===
+*''[[A Deadly Education]]'' (September 2020, {{ISBN|978-0-593-12848-0}})<ref>{{Cite web|url=https://www.penguinrandomhouse.com/books/609361/a-deadly-education-by-naomi-novik/|title=''A Deadly Education'' by Naomi Novik|website=[[Penguin Random House]]|access-date=December 14, 2020}}</ref>
+*''[[The Last Graduate]]'' (September 2021, {{ISBN|978-0-593-12886-2}})<ref>{{cite web |title=''The Last Graduate'' by Naomi Novik |url=https://www.penguinrandomhouse.com/books/609362/the-last-graduate-by-naomi-novik/ |website=[[Penguin Random House]] |access-date=May 13, 2021}}</ref>
+*''[[The Golden Enclaves]]'' (TBD)
+
+===Short stories===
+* "Feast or Famine", a ''Temeraire'' short story, published on Novik's official website; also translated into Czech
+* Deleted scenes from ''Throne of Jade'' and ''Empire of Ivory''
+* "Apples", published on Novik's official website, 2005
+* "Araminta, or, the Wreck of the Amphidrake", in ''Fast Ships, Black Sails'', [[Night Shade Books]], 2008, {{ISBN|978-1-59780-094-5}}.
+* "Commonplaces", in ''The Improbable Adventures of Sherlock Holmes'', Night Shade Books, 2009, {{ISBN|978-1-59780-160-7}}
+*"Vici", in ''The Dragon Book: Magical Tales from the Masters of Modern Fantasy'', edited by [[Jack Dann]] and [[Gardner Dozois]], [[Ace Books]], 2009, {{ISBN|978-0-441-01764-5}}
+* "Purity Test", in ''Zombies vs. Unicorns'', edited by Holly Black and Justine Larbalestier, [[Margaret K. McElderry Books]], 2010, {{ISBN|978-1-4169-8953-0}}
+* "Seven Years from Home", in ''[[Warriors (anthology)|Warriors]]'', edited by [[George R. R. Martin]] and Gardner Dozois, 2010, {{ISBN|978-0-7653-2048-3}}
+* "Priced to Sell", in ''Naked City: Tales of Urban Fantasy'', edited by [[Ellen Datlow]], [[St. Martin's Griffin]], 2011, {{ISBN|978-0-3123-8524-8}}
+* "Lord Dunsany's Teapot" in ''The Thackery T. Lambshead Cabinet of Curiosities'', edited by Ann & Jeff Vandermeer, 2011, 
+* "Rocks Fall", in ''[[The Mad Scientist's Guide to World Domination]]'', edited by [[John Joseph Adams]], 2013, {{ISBN|978-0-7653-2644-7}}
+* "In Autumn, a White Dragon Looks Over the Wide River", a ''Temeraire'' short story, in both ''In His Majesty's Service: Three Novels of Temeraire'' and ''Wings of Fire'', {{ISBN|978-1-59780-187-4}}
+* "In Favour with Their Stars", in ''[[Unfettered (anthology)|Unfettered]]'', edited by Shawn Speakman, Grim Oak Press, 2013, {{ISBN|978-0-9847-1363-9}}
+*"Castle Coeurlieu", in ''Unfettered II'', edited by Shawn Speakman, Grim Oak Press, 2016, {{ISBN|978-1-9441-4505-7}}
+*"Spinning Silver", in ''The Starlit Wood: New Fairy Tales'', edited by Dominik Parisien and Navah Wolfe, [[Saga Press]], 2016, {{ISBN|978-1-4814-5612-8}}
+* ''Golden Age and Other Stories'', a ''Temeraire'' short story collection, Subterranean Press, 2017, {{ISBN|978-1-59606-829-2}}
+* "Seven", in ''Unfettered III'', edited by Shawn Speakman, Grim Oak Press, 2019, {{ISBN|978-1-9441-4526-2}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*Official website: [https://web.archive.org/web/20070704215327/http://temeraire.org/ old version], [https://www.naominovik.com/ current version]
+*[https://web.archive.org/web/20110511104430/http://naominovik.livejournal.com/ Archive of Naomi Novik's LiveJournal page]
+*[https://www.transformativeworks.org/ Organization for Transformative Works]
+*{{isfdb name|id=Naomi_Novik|name=Naomi Novik}}
+*Interviews: [http://www.sffworld.com/interview/167p0.html ''SFFWorld'' (2006)], [http://strangehorizons.com/non-fiction/articles/interview-naomi-novik/ ''Strange Horizons'' (2006)], [http://www.aintitcool.com/node/31183 ''Ain't it Cool News'' (2007)], [http://www.locusmag.com/2007/Issue01_Novik.html ''Locus Online'' (2007)], [https://theportalist.com/bffs-over-bfs-author-naomi-novik-on-the-importance-of-female-friendship-in-ya ''The Portalist'' (2016)]
+
+{{novik}}
+{{Authority control}}
+{{DEFAULTSORT:Novik, Naomi}}
+[[Category:1973 births]]
+[[Category:21st-century American novelists]]
+[[Category:21st-century American women writers]]
+[[Category:American alternate history writers]]
+[[Category:American fantasy writers]]
+[[Category:American historical novelists]]
+[[Category:American women novelists]]
+[[Category:American people of Polish-Jewish descent]]
+[[Category:American people of Lithuanian-Jewish descent]]
+[[Category:Brown University alumni]]
+[[Category:Columbia Graduate School of Arts and Sciences alumni]]
+[[Category:Fan fiction writers]]
+[[Category:John W. Campbell Award for Best New Writer winners]]
+[[Category:Living people]]
+[[Category:Novelists from New York (state)]]
+[[Category:People from Roslyn Heights, New York]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Women historical novelists]]

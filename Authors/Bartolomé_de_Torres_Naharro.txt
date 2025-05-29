@@ -1,0 +1,46 @@
+{{Infobox person
+| image = BA-Torre de Miguel Sesmero 08.jpg
+| caption = Torres Naharro memorial statue in his hometown
+| birth_date = {{BirthDeathAge|B|1485|||1530}}
+| birth_place = Torre de Miguel Sesmero, Extremadura
+| death_date = {{BirthDeathAge||1485|||1530}}
+| death_place = Torre de Miguel Sesmero, Extremadura?
+| alma_mater = [[University of Salamanca]]
+| occupation = Dramatist
+| nationality  = [[Spanish people|Spanish]]
+| notable_works = ''Propaladia''
+}}
+'''Bartolomé de Torres Naharro''' (c. 1485, [[Torre de Miguel Sesmero]], [[Extremadura]] – c. 1530) was a [[Spain|Spanish]] dramatist and [[Leonese language writers|Leonese language writer]]<ref>López Morales, "Elementos leoneses en la lengua del teatro pastoril de los siglos XV y XVI". 1967</ref> of Jewish converso descent.<ref>William Byron, ''Cervantes. A Biography,'' Doubleday: New York, 1978, p. 19.</ref>
+
+[[Image:Propalladia.jpg|thumb|''Propalladia'']]
+
+==Life==
+After some years of soldiering and of captivity in [[Algiers]], Torres Naharro took [[Holy Orders|holy orders]], settled in [[Rome]] about 1511, and there devoted himself chiefly to writing plays. Though he alludes to the future pope, [[Pope Clement VII|Clement VII]], as his protector, he left Rome to enter the household of [[Fabrizio Colonna]] at [[Naples]] as a chaplain<ref>{{Cite CE1913|wstitle=Bartolomé de Torres Naharro}}</ref> where his works were printed under the title of ''Propaladia'' (1517). He is conjectured to have returned to his native place, and to have died there shortly after 1529.{{sfn|Chisholm|1911}}
+
+His ''Diálogo del nacimiento'' is written in unavowed, though obvious, imitation of other [[Leonese language]] writers as [[Juan del Encina]], but in his subsequent plays he shows a much larger conception of dramatic possibilities. He classifies his pieces as ''comedias á noticia'' and ''comedias á fantasía''; the former, of which the ''Soldatesca'' and ''Tinellaria'' are examples, present in dramatic form incidents within his personal experience; the latter, which include such plays as ''Serafina, Himenea, Calamita'' and ''Aquilana'', present imaginary episodes with adroitness and persuasiveness.{{sfn|Chisholm|1911}}
+
+According to an evaluation in the [[Encyclopædia Britannica Eleventh Edition|1911 Encyclopædia Britannica]]:
+{{quote|Torres Naharro is much less dexterous in stagecraft than many inferior successors, his humour is rude and boisterous and his diction is unequal; but to a varied knowledge of human nature he adds knowledge of dramatic effect, and his rapid dialogue, his fearless realism and vivacious fancy prepared the way for the [[Romanticism|romantic]] drama in Spain.{{sfn|Chisholm|1911}} }}
+
+Only one complete copy of the ''Propaladia'' is known to exist. This book was stolen from the [[Royal Danish Library]] in the seventies and was not seen again until it turned up at an auction at [[Christie's]] in 2003 where relatives of the original thief tried to sell it.{{citation needed|date=January 2014}}
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{EB1911|wstitle=Torres Naharro, Bartolomé de|volume=27|page=61}}
+
+{{Authority control}}
+
+{{EB1911 article with no significant updates}}
+
+{{DEFAULTSORT:Torres Naharro, Bartolome de}}
+[[Category:1480s births]]
+[[Category:1530s deaths]]
+[[Category:Writers from Extremadura]]
+[[Category:Leonese-language writers]]
+[[Category:People from Llanos de Olivenza]]
+[[Category:Spanish dramatists and playwrights]]
+[[Category:Spanish male dramatists and playwrights]]
+[[Category:Spanish Jews]]
+[[Category:University of Salamanca alumni]]

@@ -1,0 +1,62 @@
+{{Use mdy dates|date=June 2013}}
+{{Infobox writer
+|name        = John C. Hocking
+|image       = 
+|caption     = 
+|pseudonym   = 
+|birth_date   = 1960
+|birth_place  = 
+|death_date   = 
+|death_place  = 
+|occupation  = Novelist, short story author
+|genre       = Fantasy
+|movement    = 
+|notableworks= ''[[Conan and the Emerald Lotus]]''
+|influences  = 
+|influenced  = 
+|website     = 
+}}
+'''John C. Hocking''' (born 1960) is an American fantasy writer, the author of a [[Conan the Barbarian|Conan]] novel published by [[Tor Books]] and a number of short stories. One of his stories, "The Face in the Sea", won the 2009 [[Harper's Pen Award]] for Sword and Sorcery fiction.<ref>{{Cite web |url=http://sorcerersguild.blogspot.com/p/heroes-of-realm.html |title=The Harper's Pen Award (2009) |website=The Sorcerers Guild}}</ref>
+
+==Writing career==
+According to Hocking, he wrote his Conan novel ''[[Conan and the Emerald Lotus]]'' out of dissatisfaction with the Conan novels being published in the early 1990s, "trying to put into the story all the things I thought were missing from Conan pastiche at that time." After taking three years to write it, he was proud enough of the result that he "didn't want to just drop it into a drawer ....[s]o I sent out a handful of letters, and [[L. Sprague de Camp]] responded ...that if I sent him my book he'd look it over. He liked it a lot and LOTUS was published."<ref name="INT1">{{Cite web |url=http://www.swordandsorcery.org/int-john-hocking.htm |title=Interview with John C. Hocking |date=January 2005 |first=Howard Andrew |last=Jones |publisher=Pitch Black Books |website=Sword & Sorcery |archive-url=https://web.archive.org/web/20110822124340/http://www.swordandsorcery.org/int-john-hocking.htm |archive-date=August 22, 2011 }}</ref> After its success he spent two years writing a second Conan novel, ''Conan and the Living Plague'', under contract with [[Conan Properties International|Conan Properties]], which was "sufficiently pleased with the book that they wanted to use it to attract a new publisher for Conan and try to break into hardcover." Publication of it and a third Conan novel Hocking had started were canceled due to a change in ownership of Conan Properties.<ref name="INT1"/>
+
+Hocking has since published a number of fantasy stories, most forming a series featuring the original character Brand the Viking.
+
+==Bibliography==
+===Conan series===
+* ''[[Conan and the Emerald Lotus]]'' (1995)
+* ''Conan and the Living Plague'' (unpublished)
+
+===Short stories===
+====Brand the Viking====
+* "Vali's Wound" (2004)
+* "The Face in the Sea" (2009)
+* "The Bonestealer's Mirror" (2010)
+
+====Other====
+* "A River Through Darkness and Light" (2011)
+
+==See also==
+* [[Conan the Barbarian]]
+
+==Notes==
+{{reflist}}
+
+==External links==
+*{{isfdb name|id=John_C._Hocking|name=John C. Hocking}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hocking, John C.}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:American fantasy writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American writers]]
+[[Category:American male novelists]]
+[[Category:Conan the Barbarian novelists]]
+[[Category:20th-century American male writers]]
+
+
+{{US-fantasy-writer-stub}}

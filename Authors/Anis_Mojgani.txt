@@ -1,0 +1,130 @@
+{{Short description|American artist and poet}}
+{{Use mdy dates|date=August 2020}}
+{{Infobox person
+| name               = Anis Mojgani
+| birth_date         = {{birth date and age|1977|06|13}}
+| birth_place        = [[New Orleans]], Louisiana, U.S.
+| alma_mater         = [[Savannah College of Art and Design]] ([[Bachelor of Fine Arts|BFA]], [[Master of Fine Arts|MFA]])
+| module             = {{Infobox officeholder
+  | embed=yes
+  | office = 10th [[Oregon Poet Laureate]]
+  | termstart = April 27, 2020
+  | predecessor = [[Kim Stafford]]
+
+  }}
+}}
+
+'''Anis Mojgani''' ([[Persian language|Persian]]: انیس مژگانی) (born June 13, 1977) is an American [[spoken word]] poet, visual artist and musician based in Portland, Oregon. Mojgani has been characterized as a "geek genius" with "fiercely hopeful word arias."<ref name="beat">{{cite episode
+ |title="Anis Mojgani" 
+ |url=http://www.kuow.org/defaultProgram.asp?ID=11338
+ |series="The Beat" 
+ |airdate=August 28, 2006 
+ |season=2006 
+ |number=? 
+}}{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+== Early life and education ==
+Mojgani was born and raised in [[New Orleans]], Louisiana. He later moved to [[Georgia (U.S. state)|Georgia]] and graduated from the [[Savannah College of Art and Design]] with a [[Bachelor of Fine Arts]] in [[Sequential Art|sequential art]] and a [[Master of Fine Arts]] in performing arts.<ref name="seattle">{{cite web  |author=SeattlePoetrySlam.org  | title = Apr 16- 3rd SemiFinal Slam & Featured Poet Anis Mojgani  | work = Events  | publisher = SeattlePoetrySlam.org  | url = http://www.seattlepoetryslam.org/2007/09/11/apr-16-3rd-semifinal-slam-featured-poet-tbd/  | access-date = April 8, 2008  | archive-url = https://web.archive.org/web/20080723111213/http://www.seattlepoetryslam.org/2007/09/11/apr-16-3rd-semifinal-slam-featured-poet-tbd/| archive-date = July 2008}}</ref><ref>{{cite book
+ |author1= Frederick Landry |author2= Harvey McMurray |author3= Richard W. Thomas 
+ | title =The Story of the Baha'i Black Men's Gathering 
+ | publisher =Baháʼí Publishing Trust.
+ | date = 2011
+ | location =Wilmette, IL
+ | pages =79, 100
+ | isbn =978-0-87743-360-6 
+ | oclc =854879783 }}</ref>
+
+==Career==
+Over the course of his career, Mojgani has been a member of several poetry slam teams. He was also a member of 2007's Solomon Sparrow's Electric Whale Revival and 2008's Junkyard Ghost Revival, both of which featured poets [[Buddy Wakefield]] and [[Derrick C. Brown]] as actively-touring members.
+
+Mojgani won back-to-back titles in the [[National Poetry Slam#Individual Finalists at NPS.5B3.5D|National Individual Poetry Slam]] in 2005 and 2006,<ref name="interview"/> was interviewed in 2006 on [[KUOW-FM]]'s ''The Beat'',<ref name="beat"/> and was in the documentary ''Slam Planet: War of the Words''.<ref>{{cite web
+  |author=anonymous
+  | title = Slam Planet (2006)
+  | publisher = IMDb
+  | year = 2006
+  | url = https://www.imdb.com/title/tt0418171/maindetails
+  | access-date = April 8, 2008}}</ref> In 2007 Mojgani was on [[HBO]]'s ''[[Def Poetry Jam]]''<ref>{{cite episode
+  | title = "Season 6 Episode 4"
+ | url = http://www.hbo.com/defpoetry/episodes/season6/episode04.html 
+ | series = "Russell Simmons Presents HBO Def Poetry Jam"
+ | airdate = 2006
+ | season = 6
+ | number = 4}}</ref> and placed 2nd in [[Poetry Slam, Inc.]]'s 2007 ''Individual World Poetry Slam''<ref>{{cite web
+  |author=Poetry Slam, Inc.
+  | title = And the Winner of the 2007 Individual World Poetry Slam Is…
+  | publisher = Poetry Slam, Inc.
+  | date = February 1, 2007| url = http://poetryslam.com/index.php?option=com_content&task=view&id=79&Itemid=2 
+  | access-date = April 8, 2008| archive-url= https://web.archive.org/web/20080516030930/http://poetryslam.com/index.php?option=com_content&task=view&id=79&Itemid=2| archive-date= May 16, 2008 | url-status= live}}</ref> and won first place at 2007 World Cup Poetry Slam held in [[Bobigny]], France as part of the French National Slam Championships among 16 National Poetry Slam Champions.<ref>{{cite web
+ |author=Anonymous 
+ |title=FR- Anis Mojgani wins first ever "World Cup of Poetry." in Bobigny, France 
+ |publisher=GotPoetry.com 
+ |date=July 3, 2007 |url=http://www.gotpoetry.com/News/article/sid=5337.html 
+ |access-date=April 8, 2008 
+ |url-status=dead 
+ |archive-url=https://web.archive.org/web/20110711120311/http://www.gotpoetry.com/News/article/sid%3D5337.html 
+ |archive-date=July 11, 2011 
+}}</ref> and published and cover in the Summer 2007 edition of ''[[RATTLE]]''.<ref>{{Cite news
+  | last = Mojgani
+  | first = Anis
+  | author-link = Anis Mojgani
+  | periodical = Rattle – Poetry for the 21st Century
+  | volume = 2007
+  | issue = 27
+  | date =Summer 2007
+  | title = The Branches are full of these orchards heavy
+  | url = http://www.rattle.com/rattle27/mojgania2.htm
+  | publisher = Frieda C. Fox Family Foundation
+  }}</ref>
+
+Mojgani cites several influences: "[[Jeffrey McDaniel]], [[Richard Brautigan]], [[Charles Bukowski]], [[Gregory Corso]], [[Kerouac]], [[MF DOOM]], [[Aesop Rock]], [[Robert Rauschenberg]], [[Jean-Michel Basquiat|Basquiat]], [[Chris Ware]], [[Frank Miller (comics)|Frank Miller]], [[Saul Williams]], [[Walt Whitman]], [[Savannah, Georgia]], New York City, [[New Orleans]], being broke, being a [[hermit]], ''[[Shoot the Piano Player]]'', the [[Baháʼí literature#Authoritative|Baháʼí writings]] and [[Baháʼí history|history]]."<ref name="interview">{{Cite news
+  |author=The Commonline Project
+  | title = An Interview with Anis Mojgani
+  | periodical = The Commonline Project
+  | issue= 13
+  | year = 2007
+  | url = http://common-line.com/2007/08/interview-with-anis-mojgani.html
+  }}</ref>
+Mojgani was named in the book ''Words in Your Face: A Guided Tour Through Twenty Years of the New York City Poetry Slam'' as one of the poets who "saw success" after leaving New York City's notoriously competitive [[poetry slam]] community.
+
+His book ''The Feather Room'' was a 2011 [[National Book Award]] nominee.<ref>{{cite web| title =ANIS MOJGANI • Full CV| publisher = Anis Mojgani | url=http://g.virbcdn.com/_f/files/3f/FileItem-103169-mojganicombinedcv.pdf | access-date = May 20, 2012}}</ref> Mojgani is featured performing a live poem in "Heartbreak Dreamer," the first song on [[Mat Kearney]]'s 2015 album ''[[Just Kids (album)|Just Kids]]''.
+
+On April 27, 2020, it was announced that Oregon Governor [[Kate Brown]] had appointed Mojgani as the 10th [[Oregon Poet Laureate|Oregon poet laureate]].<ref>{{Cite news|url=https://pamplinmedia.com/pt/9-news/464468-376649-portland-author-anis-mojgani-named-oregon-poet-laureate|title=Portland author Anis Mojgani named Oregon Poet Laureate|last=Vondersmith|first=Jason|website=[[Pamplin Media Group]]|language=en-gb|access-date=April 28, 2020}}</ref><ref>{{Cite web|url=https://www.lagrandeobserver.com/news/state/news-around-the-state/article_13e6587e-88b0-11ea-8a60-8b5f245f6722.html|title=News around the state|website=The Observer|language=en|access-date=April 28, 2020}}</ref><ref>{{Cite web|url=https://www.opb.org/news/article/anis-mojgani-oregon-poet-laureate/|title=Anis Mojgani named Oregon's 10th Poet Laureate|last=Tonthat|first=Steven|website=opb.org|language=en|access-date=April 28, 2020}}</ref>
+
+== Personal life ==
+Mojgani is a member of the [[Baháʼí Faith]]<ref name="bio">
+{{cite web|url=http://web.mac.com/zorky/notpoet/Anis_Mojgani_Bio.html|title=Anis Mojgani Bio|last=Alan|first=Eric|year=2007|publisher=Zork|access-date=April 8, 2008}}{{Dead link|date=April 2019|bot=InternetArchiveBot|fix-attempted=yes}}  <!-- no progress on this one  -->{{Dead link|date=October 2010|bot=H3llBot}}
+</ref><ref>See pictures of artists – second picture in series and caption – {{Cite news|last=Mennillo|first=Tom|url=http://news.bahai.org/story/267|title=South surges towards success|date=December 1, 2003|newspaper=Baháʼí World News Service|author2=Baháʼí International Community}}</ref> and participated in the Black Men's Gathering initiative across 2003–2010 including trips for the religion to Brazil and a youth leadership meeting in the U.S.
+
+==Books==
+* ''In the Pockets of Small Gods'' ([[Write Bloody Publishing]], 2018; {{ISBN|1938912845}})
+* ''The Pocketknife Bible: The Poems and Art of Anis Mojgani'' ([[Write Bloody Publishing]], 2015; {{ISBN|978-1938912528}})
+* ''Songs From Under the River: A collection of early and new work'' ([[Write Bloody Publishing]], 2013; {{ISBN|978-1938912245}})
+* ''The Feather Room'' ([[Write Bloody Publishing]], 2011; {{ISBN|978-1935904748}})
+* ''Over the Anvil We Stretch'' ([[Write Bloody Publishing]], 2008; {{ISBN|978-0981521343}})
+
+==See also==
+* [[Poetry Slam, Inc.]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://thepianofarm.virb.com Anis Mojgani's Website]
+* [http://thepianofarm.tumblr.com Anis Mojgani's Tumblr]
+* [https://www.instagram.com/thepianofarm/ Anis Mojgani's Instagram]
+* [https://www.youtube.com/watch?v=0qDtHdloK44 Anis Mojgani Performs "Shake the Dust"]
+* [https://web.archive.org/web/20130504202652/http://mojgani.livejournal.com/ Anis Mojgani's LiveJournal]
+* [http://www.myspace.com/anismojgani Anis Mojgani's MySpace]
+* [http://www.indiefeedpp.libsyn.com/index.php?search_string=taylormali.com&search=1 Audio of "Shake the Dust," "Cradle," "Invincible" and "Here I Am" (among others) on Indiefeed Performance Poetry Channel]
+* [https://web.archive.org/web/20120619224411/http://badilishapoetry.com/artists-profile/65/ Badilisha Poetry Exchange Profile]
+
+{{DEFAULTSORT:Mojgani, Anis}}
+[[Category:American Bahá'ís]]
+[[Category:Living people]]
+[[Category:1977 births]]
+[[Category:Bahá'í poets]]
+[[Category:Slam poets]]
+[[Category:Artists from Portland, Oregon]]
+[[Category:Savannah College of Art and Design alumni]]
+[[Category:20th-century Bahá'ís]]
+[[Category:21st-century Bahá'ís]]

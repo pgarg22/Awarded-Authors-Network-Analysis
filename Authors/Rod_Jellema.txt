@@ -1,0 +1,87 @@
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Rod Jellema
+| honorific_prefix = 
+| honorific_suffix = 
+| image = Rod Jellema 026041.JPG
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date = 1927  <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = 
+| death_date = 2018
+| death_place = 
+| resting_place = 
+| occupation = 
+| language = 
+| nationality = American
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = [[Calvin College]], [[University of Edinburgh]]
+| period = 
+| genre = <!-- or: | genres =      -->
+| subject = <!-- or: | subjects =    -->
+| movement = 
+| notableworks = <!-- or: | notablework = -->
+| spouse = <!-- or: | spouses =     -->
+| partner = <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp = <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''Rod Jellema''' (1927–2018) was an [[United States|American]] [[poet]], [[teacher]], and [[translator]].
+
+==Life==
+Jellema held a B.A. from [[Calvin College]] and a PhD from the [[University of Edinburgh]] (Scotland).<ref>{{Cite journal|last=Jellema|first=Roderick|date=1962|title=Victorian critics and the orientation of American literature, with special reference to the reception of Walt Whitman and Henry James|url=https://era.ed.ac.uk/handle/1842/18995|language=en}}</ref> He began teaching at the [[University of Maryland, College Park]] in 1955, where he founded and directed the creative writing program.  At the time of his death, he was Professor Emeritus.
+
+He was the author of five books of poetry and three translations. His work was awarded the [[Hart Crane Memorial Poetry Contest]], the [[Pieter Jelles Prize]] (Piter Jellespriis) ([[North Frisian language|Friesland]]) and a [[Columbia University Translation Prize]] for his translations of [[North Frisian language|Frisian]] poetry.  He was the recipient of fellowships from the [[National Endowment for the Arts]], and [[Yaddo]].  His work appeared in various publications including ''[[Atlanta Review]]'', ''[[Beltway Poetry Quarterly]]'', ''[[FIELD (magazine)|Field]]'', ''[[Many Mountains Moving]]'', ''[[Plum Review]]'', and ''[[Poet Lore]]''.
+
+He divided his time between [[Washington, DC]], [[San Juan, Puerto Rico]], and the Lake Michigan dunelands near [[Montague, Michigan]].
+
+He had been working on an early history of New Orleans jazz titled ''Really Hot: A New Hearing for Old New Orleans Jazz'' (co-authored with the late [[Gordon Darrah]]).<ref>http://www.rodjellema.com/ projects on author website</ref>
+
+==Bibliography==
+'''Poetry'''
+*''Incarnality: The Collected Poems of Rod Jellema'' ([[Eerdmans]] 2010)
+*''A Slender Grace: Poems'' ([[Eerdmans]], 2004)
+*''The Eighth Day: New & Selected Poems'' ([[Dryad Press]], 1984)
+*''Something Tugging the Line'' ([[Dryad Press]], 1974)
+*''The Lost Faces'' (Dryad Press), 1979
+
+'''Translations'''
+*''The Sound That Remains: A Historical Collection of Frisian Poetry'' ([[Eerdmans]], 1990)
+*''Country Fair: Poems from Friesland Since 1945'' ([[Eerdmans]], 1985)
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.rodjellema.com/ Author's official website]
+*[http://washingtonart.com/beltway/jellema.html Five poems by Jellema] in ''[[Beltway Poetry Quarterly]]''
+*[[hdl:1903.1/1506|Dryad Press records]] at [[University of Maryland Libraries]].  The collection contains correspondence, manuscripts, publications, and photographs by and of Jellema.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jellema, Rod}}
+[[Category:American people of Frisian descent]]
+[[Category:American male poets]]
+[[Category:Translators to English]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:University of Maryland, College Park faculty]]
+[[Category:1927 births]]
+[[Category:2018 deaths]]
+[[Category:People from Montague, Michigan]]
+[[Category:20th-century translators]]
+
+
+{{US-poet-1920s-stub}}

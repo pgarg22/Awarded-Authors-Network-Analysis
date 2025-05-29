@@ -1,0 +1,80 @@
+{{short description|British freelance editor and author}}
+{{BLP sources|date=January 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer]] -->
+|image = Geoff Nelder.jpg <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+| imagesize = 150px 
+| name = Geoff Nelder
+| caption = 
+| pseudonym =
+| birth_date = 
+| birth_place =[[Hannover]], Germany
+| death_date =
+| death_place =
+| occupation = [[Writer]], [[editing|editor]]
+| nationality = British
+| period = 1990s-present
+| genre = [[Science fiction]], [[Fantasy]], [[Thriller (genre)|Thriller]]
+| subject =
+| movement =
+| influences = 
+| influenced =
+| website = {{URL|http://geoffnelder.com}}
+}}
+
+'''Geoff Nelder''' is a British freelance [[editing|editor]] and author. He has written both fiction and non-fiction, and his research in the field of air pollution and climate won him a fellowship with the [[Royal Meteorological Society]].<ref name="met1"/> Nelder's fictional work falls in the genres of [[science fiction]], [[fantasy]] and [[Thriller (genre)|thrillers]], and he is known for his sci-fi series ''ARIA'', which won him a ''Preditors & Editors Award for best science fiction novel''.<ref name="bfsa2"/> Nelder also published the sci-fi magazine ''Escape Velocity'', which launched in 2009. Prior to moving to writing as his primary occupation, Nelder has worked as a teacher at [[Queens Park High School]] for 26 years.<ref name="pos3"/>
+
+In 1975 Nelder became a life member of the British Vegan Society.
+In 2009 Nelder became a publisher for ''BeWrite Books'', an independent publisher.<ref name="che4"/>
+
+==Awards==
+*''Fellow of the Royal Meteorological Society, Master of Science (Sheffield), Bachelor of Education'' 
+*''Preditors & Editors Award for best science fiction novel'' (''ARIA: Left Luggage'') (2013, won)<ref name="bfsa2"/>
+
+==Bibliography==
+
+===ARIA===
+*''Left Luggage'' (2012, LL-Publications, {{ISBN|978-1905091959}})<ref name="sea5"/><ref name="bsfa6"/>
+*''Returning Left Luggage'' (2013, LL-Publications, {{ISBN|978-0957472655}})
+*''Abandoned Luggage'' (TBA)
+
+===Fiction===
+*''Escaping Reality'' (2005, Brambling Books, {{ISBN|978-0954956325}})
+*''Dimensions'', a sci-fi anthology with Robert Blevins (2006, Adventure Books of Seattle)
+*''Exit, Pursued by a Bee'' (2008, [[Double Dragon Publishing]], {{ISBN|978-1554045945}})
+*''Hot Air'' (2011, Adventure Books of Seattle)
+*''Escape Velocity - The Anthology'', anthology with Robert Blevins (2011, Adventure Books of Seattle)
+*''ARIA Trilogy - Left Luggage; Returning Left Luggage; Abandoned Left Luggage (2012 - 2015, LL-Publishing)''
+*''The Chaos of Mokii (2016, Solstice Publishing)''  
+*''Xaghra's Revenge'' (2018, Solstice Publishing)''
+*''Incremental'' a collection of 25 surreal, mostly scifi short stories (2018, LL-Publishing)''
+*''Suppose We'' first in the Flying Crooked scifi series. Vegan protagonist on a vegan planet (2019, LL-Publishing)
+
+===Non-fiction===
+*''Huddersfield's Changing Climate'' (1977) 
+*''Chester's Climate: past and present'' (1987) Republished with updates (2017)
+*''Cheshire from Space remote sensing pack'' (1992, as project manager with Keith Hilton)
+*''Inside Scoop'' (2008)
+*''How to Win Short Story Competitions Second edition'' (2018) co-written with Dave Haslett {{ISBN|978-1719861663}}
+
+==References==
+{{reflist|2|refs=
+<ref name="met1">{{cite web |title=Fellows |url=http://www.rmets.org/about-us/people/fellows?pageNum_frmets=2&totalRows_frmets=345 |publisher=[[Royal Meteorological Society]] |accessdate=2 January 2014}}</ref>
+<ref name="bfsa2">{{cite web |first=Matt |last=Freeman |title=BSFA member Geoff Nelder wins fiction award |url=http://www.bsfa.co.uk/bsfa-member-geoff-nelder-wins-fiction-award/ |publisher=[[British Science Fiction Association]] |date=30 January 2013 |accessdate=2 January 2014}}</ref>
+<ref name="pos3">{{cite news |title=Chester author Geoff Nelder publishes first book in trilogy |url=http://www.dailypost.co.uk/news/local-news/chester-author-geoff-nelder-publishes-2650913 |newspaper=[[Liverpool Daily Post]] |date=13 September 2012 |accessdate=2 January 2014}}</ref> 
+<ref name="che4">{{cite news |first=Jo |last=Henwood |title=Chester author Geoff Nelder to become publisher at BeWrite books |url=http://www.chesterchronicle.co.uk/news/chester-cheshire-news/chester-author-geoff-nelder-become-5220346 |newspaper=[[Chester Chronicle]] |date=23 July 2009 |accessdate=2 January 2014}}</ref> 
+<ref name="sea5">{{cite web |first=Maggie |last=Ball |title=Book Review: ARIA: Left Luggage by Geoff Nelder |url=http://www.seattlepi.com/lifestyle/blogcritics/article/Book-Review-ARIA-Left-Luggage-by-Geoff-Nelder-4047308.php |newspaper=[[Seattle Post-Intelligencer]] |date=17 November 2012 |accessdate=2 January 2014}}</ref>
+<ref name="bsfa6">{{cite web |first=Katy |last=O'Dowd |title=Aria: Left Luggage by Geoff Nelder. Book review |url=http://www.britishfantasysociety.co.uk/reviews/aria-left-luggage-by-geoff-nelder-book-review/ |publisher=[[British Fantasy Society]] |date=10 October 2012 |accessdate=2 January 2014}}</ref>
+}}
+
+==External links==
+* {{official website|http://geoffnelder.com}}
+* {{official website|http://geoffnelder.wordpress.com/|Official blog}}
+* {{isfdb name}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nelder, Geoff}}
+[[Category:British alternative history writers]]
+[[Category:British science fiction writers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

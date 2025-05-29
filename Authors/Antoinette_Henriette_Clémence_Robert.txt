@@ -1,0 +1,75 @@
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+| image         = Antoinette Henriette Clémence Robert (1797–1872).jpg
+| image_size    =
+| alt           =
+| caption       =
+| pseudonym     = Clémence Robert
+| birth_name    =
+| birth_date    = {{Birth date|1797|12|06|df=yes}}
+| birth_place   = [[Mâcon]], France
+| death_date    = {{Death date and age|1872|12|01|1797|12|06|df=yes}}
+| death_place   = [[Paris]], France
+| resting_place =
+| occupation    = 
+| language      = French
+| education     =
+| alma_mater    =
+| period        =
+| genre         = [[historical fiction]], [[military fiction]]
+| subject       = [[biography]], [[history]]
+| movement      = [[Romanticism]]
+| notableworks  = 
+| relatives     = Henri Robert (brother)
+}}
+
+'''Antoinette Henriette Clémence Robert''' (6 December 1797 – 1 December 1872) was a French writer of [[historical fiction]], [[French poetry|poetry]], [[non-fiction]], [[Play (theatre)|stage plays]], and [[Short story|short stories]]. From 1855 to 1870, she and [[Virginie Ancelot]] were the most popular novelists of the ''roman populaire'' genre.<ref name="Olivier-Martin">{{Cite book |last=Olivier-Martin |first=Yves |year=1980 |title=Histoire du roman populaire |publisher=éditions Albin Michel |chapter=Introduction |chapter-url=http://excerpts.numilog.com/books/9782226008695.pdf |isbn=9782226008695 |oclc=6814807 |access-date=11 January 2014}}</ref> She published much of her work as '''Clémence Robert'''.
+
+==Biography==
+Mlle Robert was born in [[Mâcon]] in December 1797. She was a strong student with a penchant for history.<ref name="scrapbook">{{Cite book |year=1907 |title=The Scrap Book, Volume II: September, 1906 to February, 1907 |location=New York |publisher=The Frank A. Munsey Company |page=151 |url=https://books.google.com/books?id=9kVSAAAAYAAJ&pg=PA150 |access-date=11 January 2014}}</ref> Her first published work was ''Cri de joie d’une Française sur la naissance de SAR Mgr le duc de Bordeaux'' (Mme Ve Porthmann 1820). Her father was a deputy judge in Mâcon. When he died in 1830, the year of the [[July Revolution]], she moved to Paris for the society of other women writers, and to reunite with her older brother (esteemed clockmaker Henri Robert).<ref name="Vapereau">{{cite book |editor-last = Vapereau |editor-first = Louis Gustave |editor-link = Louis Gustave Vapereau |title = Dictionnaire universel des contemporains |trans-title=Universal Dictionary of Contemporaries |url = https://books.google.com/books?id=F_0-AQAAMAAJ&pg=PA1523 |access-date = 11 January 2014 |volume = 2 (L–Z) |year = 1858 |publisher = [[Hachette (publisher)|Hachette Livre]] |location  = Paris |language = fr |oclc = 229946820 |pages = 1552–3}}</ref> In her early days in Paris, she worked in a library. In 1845 she retired to the quiet of [[Abbaye-aux-Bois]], a Catholic convent that also let rooms to women of high social standing; soon, however, she returned to her career.<ref name="scrapbook"/><ref name="Vapereau"/> Her stay there coincided with a major literary [[Salon (gathering)|salon]] hosted by her friends [[François-René de Chateaubriand]] and [[Juliette Récamier]], in Mlle Récamier's quarters at the abbey. Clémence Robert died in Paris in 1872, five days before her 75th birthday.
+
+While contemporary novelists drifted toward [[escapist fiction]], her historical novels revisited themes of socialism and ''[[républicanisme]]''. Her views were shaped in part by the work of anti-Catholic socialist [[Eugène Sue]] (1804–1857).<ref name="Olivier-Martin"/><ref name="scrapbook"/><ref>{{Cite book |last=Cowen |first=David |editor-last=Unwin |editor-first=Timothy |title=The Cambridge Companion to the French Novel: From 1800 to the Present |chapter=Popular Fiction in the Nineteenth Century |chapter-url=https://books.google.com/books?id=mIq99LRgKw8C&pg=PA80 |location=Cambridge |publisher=Cambridge University Press |page=80 |isbn=9780521499149 |oclc=36084649 |access-date=11 January 2014|date=1997-10-28 }}</ref>
+
+With Camille Leynadier, she compiled and edited the [[memoir]]s of [[Giuseppe Garibaldi]], which they presented as a biography, dramatised in parts. Her most famous short story was "Baron de Trenck", which relates an adventure of the Prussian officer [[Friedrich von der Trenck]], and was inspired by his widely published autobiography.
+
+==Selected works==
+* {{cite book |title=Le Marquis de Pombal |year=1844 |location=Brussels}} An [[historical novel]] concerning [[Sebastião José de Carvalho e Melo, 1st Marquess of Pombal]]
+* {{cite book |title=William Shakespeare |year=1844 |location=Paris |publisher=G. Roux et O. Cassanet |language=fr}} Another French edition was published in Brussels, in 1844, and a German edition was published in [[Leipzig]]. A Spanish translation by "F" appeared in Malaga in 1845.
+* {{cite book |title=Les quatre sergents de La Rochelle |year=1849 |trans-title=The Four Sergeants of [[La Rochelle]] |location=Paris}}
+* {{cite book |title=Le Mont Saint-Michel, roman historique |year=1856}} (Year of publication is approximate.)
+* {{cite book |title=Le poëte de la reine |year=1861 |trans-title=The Queen's Poet |publisher=Arnauld de Vresse |location=Paris}}. This is a version of her earlier novel [[William Shakespeare]].
+* {{cite book |title=Mémoires authentiques sur Garibaldi |year=1860 |publisher=[[Fayard]] |location=Paris}}
+* {{cite book |title=Les victimes du fanatisme |year=1864 |trans-title=Victims of Fanaticism |publisher=Arnauld de Vresse |location=Paris}}
+* {{cite book |title=Paris Silhouettes |publisher=Louis Janet |location=Paris}}
+
+==See also==
+* ''[[International Short Stories]]'' (1910)
+* [[:fr:Roman populaire|Roman populaire]] {{in lang|fr}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* {{Cite book |last=Adler |first=Laure |year=1979 |title=A l'aube du féminisme: les premières journalistes (1830–1850) |trans-title=At the Dawn of Feminism: The First Journalists (1830–1850) |location=Paris |publisher=Payot |language=fr |isbn=9782228124805 |oclc=6311747}}
+* {{Cite book |last=Foster |first=Tara |editor-last=Gómez |editor-first=María A. |editor2-last=Juan-Navarro |editor2-first=Santiago |editor3-last=Zatlin |editor3-first=Phyllis |year=2008 |title=Juana of Castile: History and Myth of the Mad Queen |chapter=Is There a Method to Her Madness? The Representation of Juana of Castile in French Literature |location=Lewisburg |publisher=Bucknell University Press |pages=144–157 |chapter-url=https://books.google.com/books?id=shpVyhetbC4C&pg=PA144 |isbn=978-0-8387-5704-8 |oclc=183392032 |access-date=11 January 2014}}
+* {{Cite book |last=Quérard |first=Joseph-Marie |title=La France littéraire ou dictionnaire bibliographique (1796–1865) |volume=VIII, Rf–Sc |chapter=Antoinette Henriette Clémence Robert |year=1859 |chapter-url=https://books.google.com/books?id=sFr4ioDF1DEC&pg=PA498 |language=fr |location=Paris |publisher=Firmin Didot frères |page=498 |oclc=491713037 |access-date=11 January 2014}}
+
+==External links==
+* {{Gutenberg author |id=Robert,+Clémence | name=Clémence Robert}}
+* {{Librivox author |id=10534}}
+* {{Internet Archive author |sname=Clémence Robert |sopt=t}} 
+* {{Worldcat id|np-robert,%20antoinette%20henriette%20clemence}}
+* {{OL_author|OL6263581A}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Robert, Antoinette Henriette Clemence}}
+[[Category:1797 births]]
+[[Category:1872 deaths]]
+[[Category:19th-century French women writers]]
+[[Category:French women novelists]]
+[[Category:People of the French Revolution]]
+[[Category:French women dramatists and playwrights]]
+[[Category:French women short story writers]]
+[[Category:19th-century French short story writers]]
+[[Category:19th-century French novelists]]
+[[Category:19th-century French dramatists and playwrights]]

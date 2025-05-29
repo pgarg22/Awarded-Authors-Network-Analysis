@@ -1,0 +1,76 @@
+{{Use dmy dates|date=July 2013}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Robert Edric
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| pseudonym = Robert Edric
+| birth_name = Gary Edric Armitage
+| birth_date = {{birth date and age|df=yes|1956|4|14}}
+| birth_place = [[Sheffield]], England
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation = Novelist
+| nationality = British
+| alma_mater = [[University of Hull]]
+| spouse = {{marriage|Sara Jones|1978}}
+| awards = [[James Tait Black Memorial Prize]] (1985)
+}}
+[[File:Manuscript robert edric archive.JPG|thumb|Manuscript from the Robert Edric Archive, University of East Anglia]]'''Robert Edric''' (born 14 April 1956) is the pseudonym of '''Gary Edric Armitage''', a British novelist born in [[Sheffield]]. Nick Rennison has suggested that Edric might be "the finest and most adventurous writer of [[historical fiction]] of his generation".<ref name="Rennison2005">{{cite book|author=Nick Rennison|title=Contemporary British novelists|url=https://books.google.com/books?id=mAjKQVAyJEgC|accessdate=19 May 2013|year=2005|publisher=Routledge|isbn=978-0-415-21708-8|pages=61–5}}</ref>
+
+His trilogy of detective novels, ''Cradle Song'', ''Siren Song'', and ''Swan Song'', also known as the "Song Cycle," are set in the city of [[Kingston upon Hull|Hull]].
+
+==Works==
+* ''Winter Garden'' (1985) – winner, 1985 [[James Tait Black Award]]
+* ''A New Ice Age'' (1986) – runner up, 1986 [[Guardian Fiction Award]]
+* ''A Lunar Eclipse'' (1989)
+* ''In The Days of the American Museum'' (1990)
+* ''The Broken Lands'' (1992)
+* ''Hallowed Ground'' (1993)
+* ''The Earth Made of Glass'' (1994)
+* ''Elysium'' (1995)
+* ''In Desolate Heaven'' (1997)
+* ''The Sword Cabinet'' (1999)
+* ''The Book of the Heathen'' (2000)
+* ''Peacetime'' (2002) – long listed, 2002 [[Man Booker Prize]]
+* ''Cradle Song'' (2003)
+* ''Siren Song'' (2004)
+* ''Swan Song'' (2005)
+* ''The Mermaids'' (2006)
+* ''Gathering the Water'' (2006) – long listed, 2006 Man Booker Prize
+* ''The Kingdom of Ashes'' (2007)
+* ''In Zodiac Light'' (2008)
+* ''Salvage'' (2010)
+* ''The Lives of the Savages'' (2010)
+* ''The London Satyr'' (2011)
+* ''The Devil's Beat'' (2012)
+* ''The Monster's Lament'' (2013)
+* ''Sanctuary'' (2014)
+* ''Field Service'' (2015)
+* ''The Wrack Line'' (2016)
+* ''Mercury Falling'' (2018)
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2003/07/20/boedric.xml&sSheet=/arts/2003/07/20/bomain.html Telegraph Arts article, July 2003]{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}}
+* [http://books.guardian.co.uk/reviews/generalfiction/0,,1804378,00.html Guardian article, June 2006]
+* [https://www.uea.ac.uk/web/library/british-archive-for-contemporary-writing# Robert Edric Archive, University of East Anglia]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Edric, Robert}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:20th-century English novelists]]
+[[Category:21st-century English novelists]]
+[[Category:James Tait Black Memorial Prize recipients]]
+[[Category:English male novelists]]
+[[Category:20th-century English male writers]]
+[[Category:21st-century English male writers]]
+
+
+{{UK-novelist-stub}}

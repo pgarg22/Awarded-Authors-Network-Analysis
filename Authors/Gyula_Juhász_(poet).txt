@@ -1,0 +1,39 @@
+{{short description|Hungarian poet}}
+{{Unreferenced|date=December 2009}}
+{{Expand Hungarian|date=December 2009|Juhász Gyula (költő)}}
+{{eastern name order|Juhász Gyula}}
+{{Infobox writer
+|name=Juhász Gyula
+|birth_date={{Birth date|1883|04|04|df=y}}
+|death_date={{Death date and age|1937|04|06|1883|04|04|df=y}}
+|birth_place=[[Szeged]], [[Kingdom of Hungary]]
+|death_place=Szeged
+|image=Homonnai Juhász 1924.jpg
+|caption=Gyula Juhász
+|genre=[[Poetry]]
+|awards=[[Baumgarten Prize]]
+}}
+
+'''Gyula Juhász''' (4 April 1883, [[Szeged]] &ndash; 6 April 1937, Szeged) was a [[Hungarian people|Hungarian]] poet, who was awarded the [[Baumgarten Prize]].
+
+His first poems were published in {{Lang|hu|[[Szegedi Napló]]}} in 1899. Between 1902 and 1906 he was a student of the [[Eötvös Loránd University|University of Budapest]], where he met [[Mihály Babits]] and [[Dezső Kosztolányi]]. He committed suicide in 1937, after multiple failed attempts.
+
+{{Hungarian literature}}
+
+{{Authority control}}
+
+{{Commons|Gyula Juhész}}
+
+{{DEFAULTSORT:Juhasz, Gyula}}
+[[Category:1883 births]]
+[[Category:1937 deaths]]
+[[Category:People from Szeged]]
+[[Category:Hungarian male poets]]
+[[Category:Eötvös Loránd University alumni]]
+[[Category:19th-century Hungarian poets]]
+[[Category:19th-century Hungarian male writers]]
+[[Category:Baumgarten Prize winners]]
+[[Category:Hungarian writers who committed suicide]]
+[[Category:1937 suicides]]
+
+{{Hungary-bio-stub}}

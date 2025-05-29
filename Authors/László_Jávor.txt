@@ -1,0 +1,52 @@
+{{short description|Hungarian poet}}
+'''László Jávor''' (May 4, 1903 – December 2, 1992) was a [[Hungarian people|Hungarian]] [[poet]] who wrote the poem that was the basis for the [[jazz standard]] {{citation needed|date=September 2016}} "[[Gloomy Sunday]]", composed by [[Rezső Seress]], later also notably recorded by [[Billie Holiday]]. He was born in [[Budapest]] and died in [[Cannes]].<ref>{{cite web |url=https://www.data.gouv.fr/en/datasets/fichier-des-personnes-decedees/ |title=Fichier des personnes décédées |website=data.gouv.fr |year=2019 |editor=[[Institut national de la statistique et des études économiques|Insee]] |publisher=[[Government of France]] |language=fr |access-date=January 27, 2020 }}</ref>
+
+The poem in Hungarian reads:
+
+{{poemquote|
+Szomorú vasárnap száz fehér virággal
+vártalak kedvesem, templomi imával.
+Álmokat kergető vasárnap délelőtt,
+bánatom hintaja nélküled visszajött;
+azóta szomorú mindig a vasárnap,
+könny csak az italom, kenyerem a bánat...
+Utolsó vasárnap, kedvesem gyere el,
+pap is lesz, koporsó, ravatal, gyászlepel.
+Akkor is virág vár, virág és - koporsó,
+virágos fák alatt utam az utolsó;
+Nyitva lesz szemem, hogy még egyszer lássalak,
+Ne félj a szememtől, holtan is áldalak...}}
+
+Seress has continued (transliterated) it:
+
+{{poemquote|
+Ősz van és peregnek a sárgult levelek,
+Meghalt a földön az emberi szeretet.
+Bánatos könnyekkel  zokog az őszi szél,
+Szívem már új tavaszt nem vár és nem remél.
+Hiába sírok és  hiába szenvedek,
+Szívtelen rosszak és  kapzsik az emberek...
+Meghalt a szeretet!
+
+Vége a világnak,vége a reménynek
+Városok pusztulnak, srapnelek zenélnek.
+Emberek vérétől piros a tarka rét.
+Halottak fekszenek az úton szerteszét.
+Még egyszer elmondom csendben az imámat:
+"Uram, az emberek gyarlók és hibáznak..."
+Vége a világnak! ''}}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Javor, Laszlo}}
+[[Category:Hungarian male poets|Javor, Laszlo]]
+[[Category:1903 births]]
+[[Category:1992 deaths]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century Hungarian male writers]]
+
+
+{{Hungary-poet-stub}}

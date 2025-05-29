@@ -1,0 +1,105 @@
+{{Short description|British poet (1895–1915)}}
+{{Use British English|date=March 2011}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| birth_name = Charles Hamilton Sorley
+| image = Charles Hamilton Sorley (For Remembrance) cropped and retouched.jpg
+| imagesize = frameless
+| birth_date = {{Birth date|1895|5|19|df=y}}
+| birth_place = [[Aberdeen]], [[Scotland]]
+| death_date = {{Death date and age|1915|10|13|1895|5|19|df=y}}
+| death_place = [[Hulluch]], [[Arrondissement of Lens|Lens]], [[France]]
+{{Infobox person|child=yes
+| death_cause               = [[Killed in action]]
+}}
+| occupation = Soldier, Poet, Student
+| nationality = British
+| alma_mater = [[Marlborough College]]
+| period = Early 20th century
+| genre = Poetry
+| notableworks = ''Marlborough and Other Poems''
+| module = {{Infobox military person|embed=yes
+| allegiance    = {{flag|United Kingdom}}
+| branch        = {{army|United Kingdom}}
+| serviceyears  = 1914–1915
+| rank          = [[Captain (British Army and Royal Marines)|Captain]]
+| servicenumber = <!--Do not use data from primary sources such as service records.-->
+| unit          = [[Suffolk Regiment]]
+| commands      = 
+| battles       = [[World War I|First World War]]
+*[[Battle of Loos]] {{KIA}}
+}}
+}}
+[[Captain (British Army and Royal Marines)|Captain]] '''Charles Hamilton Sorley''' (19 May 1895 – 13 October 1915) was a [[British Army]] [[Officer (armed forces)|officer]] and [[Scotland|Scottish]] [[war poet]] who fought in the [[World War I|First World War]], in which he was killed in action during the [[Battle of Loos]] in October 1915.
+
+==Life and work==
+Born in Powis House [[Aberdeen]], [[Scotland]], he was the son of philosopher and University Professor [[William Ritchie Sorley]].  He was educated at [[King's College School, Cambridge]],<ref>{{Cite book|title=A HISTORY of King's College Choir School Cambridge|author=Henderson, RJ|year=1981|page=42|ISBN=978-0950752808}}</ref> and then like [[Siegfried Sassoon]], at [[Marlborough College]] (1908–13). At [[Marlborough College]] Sorley's favourite pursuit was [[cross-country running]] in the rain, a theme evident in many of his pre-war poems, including ''Rain'' and ''The Song of the Ungirt Runners''. In keeping with his strict Protestant upbringing, Sorley had strong views on right and wrong, and on two occasions volunteered to be punished for breaking school rules.<ref>John Press, ''Charles Hamilton Sorley'' Cecil Woolf (War Poets Series), 2006</ref>
+
+Before taking up a scholarship to study at [[University College, Oxford]], Sorley spent a little more than six months in [[Germany]] from January to July 1914, three months of which were at Schwerin studying the language and local culture. Then he enrolled at the [[University of Jena]], and studied there up to the outbreak of [[World War I]].<ref name="osborne">Osborne, E.B. ''[https://archive.org/details/newelizabethans007717mbp The New Elizabethans]''. NY: John Lane Company, 1919.</ref>
+
+After Germany declared war on Russia, Sorley was detained for an afternoon in [[Trier]], but was released on the same day and told to leave the country.<ref name="fww">[http://www.firstworldwar.com/poetsandprose/sorley.htm Prose & POETRY – Charles Hamilton Sorley], First World War.com.  Retrieved 21 August 2009.</ref> He returned to England and immediately volunteered for military service in the [[British Army]]. He joined the [[Suffolk Regiment]] as a [[second lieutenant]] and was posted to the 7th (Service) Battalion, a [[Kitchener's Army]] unit serving as part of the [[35th Brigade (United Kingdom)|35th Brigade]] of the [[12th (Eastern) Division]]. He arrived on the [[Western Front (World War I)|Western Front]] in [[Boulougne]], [[France]] on 30 May 1915 as a [[Lieutenant (British Army and Royal Marines)|lieutenant]], and served near Ploegsteert. He was promoted to [[Captain (British Army and Royal Marines)|captain]] in August 1915.
+
+Sorley was killed in action near [[Hulluch]], having been shot in the head by a [[sniper]]<ref name="osborne"/><ref name="poets"/> during the final offensive of the [[Battle of Loos]] on 13 October 1915.<ref name="fww"/> Having no known grave at war's end, he is commemorated on the [[Commonwealth War Graves Commission|CWGC]] [[Loos Memorial]].<ref>[http://www.cwgc.org/find-war-dead/casualty/1769484/SORLEY,%20CHARLES%20HAMILTON] CWGC Casualty Record.</ref>
+
+Sorley's [[When You See Millions of the Mouthless Dead|last poem]] was recovered from his kit after his death, and includes some of his most famous lines:
+
+:''When you see millions of the mouthless dead''
+:''Across your dreams in pale battalions go''
+
+==Legacy==
+''Marlborough and Other Poems'' was published posthumously in January 1916 and immediately became a critical success, with six editions printed that year. His ''Collected Letters'', edited by his parents, were published in 1919.
+
+[[Robert Graves]], a contemporary of Sorley's, described him in his book ''[[Goodbye to All That]]'' as "one of the three poets of importance killed during the war". (The other two were [[Isaac Rosenberg]] and [[Wilfred Owen]].) Sorley may be seen as a forerunner of Sassoon and Owen, and his unsentimental style stands in direct contrast to that of [[Rupert Brooke]].
+
+The last two stanzas of his poem ''Expectans expectavi'' were set to music in 1919 by [[Charles Wood (composer)|Charles Wood]]; this anthem for choir and organ quickly established itself in the standard repertoire of Anglican cathedrals and collegiate churches.
+
+Sorley is regarded by some, including the [[Poet Laureate]] [[John Masefield]] (1878–1967), as the greatest loss of all the poets killed during the war.
+
+On 11 November 1985, Sorley was among 16 Great War poets commemorated on a slate stone unveiled in [[Westminster Abbey]]'s [[Poet's Corner]]. The inscription on the stone was written by Wilfred Owen. It reads: "My subject is War, and the pity of War. The Poetry is in the pity."<ref name="poets">[http://net.lib.byu.edu/english/wwi/poets/poets.html Poets of the Great War] {{Webarchive|url=https://web.archive.org/web/20080922074012/http://net.lib.byu.edu/english/WWI/poets/poets.html |date=22 September 2008 }}.  Retrieved 21 August 2009.</ref>
+
+''It Is Easy To Be Dead'' by [[Neil McPherson (artistic director)|Neil McPherson]], a play on his life, based on his poetry and letters, was presented at the [[Finborough Theatre]], [[London]], and subsequently at [[Trafalgar Studios]], [[London]], in 2016 where it was nominated for an [[Olivier Award]].<ref>[https://www.theguardian.com/stage/2016/jun/21/it-is-easy-to-be-dead-five-star-review-finborough-london-charles-hamilton-sorley The Guardian, 21 June 2016]</ref> It subsequently toured to Glasgow and Sorley's birthplace, Aberdeen, in 2018.
+
+On 9 November 2018, an opinion commentary by [[Aaron Schnoor]] published in ''[[The Wall Street Journal]]'' honored the poetry of World War I, including Sorley's poem "When You See Millions of the Mouthless Dead".<ref>{{cite web|url=https://www.wsj.com/articles/the-great-war-produced-some-great-poetry-1541806343 |title=WSJ – The Great War Produced Some Great Poetry |work=The Wall Street Journal |date=9 November 2018 |access-date=28 April 2019}}</ref>
+
+== Works ==
+* ''Marlborough and Other Poems''. Cambridge University Press, 1916.
+*{{cite book |title=The Letters of Charles Sorley with a chapter of biography |year=1919 |publisher=Cambridge University Press |url=https://archive.org/details/lettersofcharles00sorluoft}}
+* Wilson, Jean Moorcroft (Ed). ''The Collected Poems of Charles Hamilton Sorley''. London: Cecil Woolf, 1985. {{ISBN|0-900821-53-1}}.
+* Wilson, Jean Moorcroft (Ed). ''The Collected Letters of Charles Hamilton Sorley''. London: Cecil Woolf, 1990.
+* Spear, Hilda D. (Ed). ''The Poems and Selected Letters of Charles Hamilton Sorley''. Dundee: Blackness Press, 1978.
+
+== References ==
+{{Reflist}}
+
+==Further reading==
+*{{cite journal |journal=The Hatcher Review |date=Autumn 1983 |volume=2| issue = 16 |pages=285–291 |title=Charles Sorley's Long Walk to Marlborough and the Making of Three Poems |author=Baker, Mark }}
+* McPherson, Neil. ''It Is Easy To Be Dead''. Oberon Books, 2016.
+* Wilson, Jean Moorcroft (Ed). ''Charles Hamilton Sorley: A Biography''. London: Cecil Woolf, 1985.
+* Nail, Norbert (2017): Der schottische Dichter Charles Hamilton Sorley als Student im Sommer 1914 an Saale, Lahn und Mosel. (https://www.uni-marburg.de/de/uniarchiv/inhalte-pdf/der-schottische-dichter-charles-hamilton-sorley-als-student-im-sommer-1914-an-saale-lahn-und-mosel.pdf).
+
+==External links==
+{{Portal|Poetry|biography|Great Britain|England}}
+*{{wikisource author-inline}}
+* {{Internet Archive author |sname=Charles Hamilton Sorley}}
+* {{FadedPage|id=Sorley, Charles Hamilton|name=Charles Hamilton Sorley|author=yes}}
+* {{Librivox author |id=8275}}
+* [https://web.archive.org/web/20071111161607/http://rpo.library.utoronto.ca/poet/305.html Selected Poetry of Charles Hamilton Sorley] – Biography and 5 poems(All the Hills and Vales Along, Barbury Camp, Expectans Expectavi, The Song of the Ungirt Runners, To Germany, When You See Millions of the Mouthless Dead)
+* [http://www.firstworldwar.com/poetsandprose/sorley.htm Prose & Poetry – Charles Hamilton Sorley]
+* [http://www.npg.org.uk/collections/search/portraitLarge/mw05915/Charles-Hamilton-Sorley?LinkID=mp07162&role=art&rNo=0 Portrait] Chalk drawing by Cecil Jameson at [[National Portrait Gallery, London]]
+* [https://lso.co.uk/more/blog/1084-charles-hamilton-sorley-1914-15-in-letters.html Charles Hamilton Sorley: 1914–15 in Letters (London Symphony Orchestra)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sorley, Charles}}
+[[Category:1895 births]]
+[[Category:1915 deaths]]
+[[Category:20th-century British male writers]]
+[[Category:Alumni of University College, Oxford]]
+[[Category:British Army personnel of World War I]]
+[[Category:British military personnel killed in World War I]]
+[[Category:People educated at Marlborough College]]
+[[Category:People from Aberdeen]]
+[[Category:Scottish male poets]]
+[[Category:Scottish World War I poets]]
+[[Category:Suffolk Regiment officers]]
+[[Category:Deaths by firearm in France]]

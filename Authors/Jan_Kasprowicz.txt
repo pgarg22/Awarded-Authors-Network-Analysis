@@ -1,0 +1,82 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Jan Kasprowicz
+| image = JanKasprowicz1901 (cropped).jpg
+| imagesize = 200px
+| caption = 
+| birth_date = {{birth date|1860|12|12|df=y}}
+| birth_place = Szymborze, [[Inowrocław|Inowrocław District]], [[Kingdom of Prussia]]
+| death_date = {{death date and age|1926|8|1|1860|12|12|df=y}}
+| death_place = [[Zakopane]], [[Second Polish Republic]]
+| occupation = [[poet]]
+| period = 1889–1926
+| subject = 
+| movement = [[Young Poland]]
+| notableworks = 
+| signature = JanKasprowicz1901 signature.jpg
+}}
+'''Jan Kasprowicz''' (12 December 1860 &ndash; 1 August 1926) was a [[poet]], [[playwright]], [[critic]] and [[translator]]; a foremost representative of [[Young Poland]].
+
+==Biography==
+Kasprowicz was born in the village of Szymborze (now part of [[Inowrocław]]) within the [[Province of Posen]], to an illiterate [[peasant]] family. From 1870 he studied in [[Kingdom of Prussia|Prussian]] ''[[Gymnasium (school)|gymnasia]]'' in Inowrazlaw (Inowrocław), Posen ([[Poznań]]), Oppeln ([[Opole]]), Ratibor ([[Racibórz]]), and in 1884 graduated from [[Saint Mary Magdalene High School in Poznań|Saint Mary Magdalene Gymnasium]] in Poznań. He studied philosophy and literature in German universities in [[Leipzig]] and [[Wrocław|Breslau]]. During his studies he began having articles and poetry published, working with various Polish magazines. For his activities in [[socialist]] circles he was twice arrested by Prussian police and spent half a year in prison.
+
+After his release from prison, at the age of 28 Kasprowicz moved to [[Lviv|Lwów]], where he spent the next 35 years of his life. He worked as a journalist and critic of literature and theatre, working for two years in the editorial department of the newspaper, the ''Polish Courier'' (''Kurier Polski'') and for the following four years (1902–1906) editorializing for the newspaper, the ''Polish Word'' (''Słowo Polskie''). At the same time, with unusual productivity, Kasprowicz wrote and had published his own works and poetry, to critical acclaim.
+
+In 1904 he received a doctorate from [[Lwów University]] for his [[treatise]], the ''Lyrics of Teofil Lenartowicz'' (''Liryka Teofila Lenartowicza''). In 1909 at Lwów University he became the head of the Department of [[Comparative Literature]], a department founded for him to run.
+
+The largely self-taught Kasprowicz mastered the [[classical Latin]] and [[Ancient Greek|Greek]] languages, as well as [[French language|French]] and English. His works included critically acclaimed translations of great literary works:
+* Greek ([[Aeschylus]], [[Euripides]])
+* English ([[Shakespeare]], [[Christopher Marlowe|Marlowe]], [[Lord Byron]], [[Percy Bysshe Shelley|Shelley]], [[John Keats|Keats]], [[Rabindranath Tagore|Tagore]], [[Algernon Charles Swinburne|Swinburne]], [[Oscar Wilde|Wilde]], among others)
+* German ([[Goethe]], [[Friedrich Schiller|Schiller]])
+* French ([[Luc de Clapiers, marquis de Vauvenargues|Vauvenargues]], [[Aloysius Bertrand|Bertrand]], [[Arthur Rimbaud|Rimbaud]], [[Maurice Maeterlinck|Maeterlinck]])
+* Italian ([[Gabriele D'Annunzio|d'Annunzio]])
+* Norwegian ([[Henrik Ibsen|Ibsen]])
+* Dutch ([[Herman Heijermans|Heijermans]])
+
+Nature gifted Kasprowicz with good health and a strong constitution. [[Stanisław Lem]] wrote of him: "He had in his bearing the originality of a [[Romani people|gypsy]] and the hustle of a journalist, which, over time, allowed him to earn the money he needed, gave him the good humour of a friend, and - even then - a professorial gravity." He was - with a notable group of friends - a frequent guest at the pubs and wineries of Lwów, especially the famous winery and wine bar of Stadtmueller still present at the market, number 34.
+
+His first marriage &mdash; to Teodozja Szymańska in 1886 &mdash; dissolved after a few months.  In 1893 he married Jadwiga Gąsowska. In 1899 she dramatically left him and their daughters for the writer [[Stanisław Przybyszewski]]. In 1911, he was married again, this time to the much younger Maria Bunin, a Russian girl whom he met on a train from [[Rome]] to [[Naples]] while on one of his artistic travels. She was the daughter of the [[Tsarist]] general, [[Victor Bunin]].
+
+In 1921-22 he was [[Rector (academia)|rector]] of [[Jan Kazimierz University|Lwów University]].
+
+In the last twenty years of his life, Kasprowicz more and more frequently visited the [[Tatra Mountains]]. In 1923 he permanently settled in the villa, "Harenda", between [[Poronin]] and [[Zakopane]], where he died on 1 August 1926.
+
+==Works==
+* (1889) ''Poezje'' (''Poems'')
+* (1890) ''Chrystus''  (''Christ'')
+* (1891) ''Z chłopskiego zagonu'' (''From Rustic Field'')
+* (1894) ''Anima lachrymans i inne nowe poezje'' (''Anima lachrymans and another new poems'')
+* (1895) ''Miłość'' (''The Love'')
+* (1898) ''Krzak dzikiej róży'' (''The Briar's Bush'')
+* (1901) ''Ginącemu światu'' (''To The Perishing World'')
+* (1902) ''Salve Regina''
+* (1908) ''Ballada o słoneczniku'' (''The Ballad About Sunflower'')
+* (1911) ''Chwile'' (''Moments'')
+* (1916) ''Księga ubogich'' (The Book of The Poor)
+* (1921) ''Hymny'' (''The Hymnal'')
+
+==Further reading==
+
+* Mortkowicz-Olczakowa, Hanna (1961). ''Bunt wspomnień.'' Państwowy Instytut Wydawniczy.
+
+==External links==
+{{wikisource|Jan Kasprowicz}}
+{{commons category|Jan Kasprowicz}}
+* {{Internet Archive author |sname=Jan Kasprowicz}}
+*[https://web.archive.org/web/20050212124618/http://monika.univ.gda.pl/~literat/autors/kasprow.htm Brief biography] {{in lang|en|pl}}
+* [https://poezja.org/wz/Kasprowicz_Jan/ Jan Kasprowicz] poems in poezja.org {{in lang|pl}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kasprowicz, Jan}}
+[[Category:1860 births]]
+[[Category:1926 deaths]]
+[[Category:People from Inowrocław]]
+[[Category:19th-century Polish poets]]
+[[Category:19th-century Polish dramatists and playwrights]]
+[[Category:Polish male dramatists and playwrights]]
+[[Category:People from the Province of Posen]]
+[[Category:Leipzig University alumni]]
+[[Category:University of Breslau alumni]]
+[[Category:Polish male poets]]
+[[Category:20th-century Polish poets]]
+[[Category:20th-century Polish dramatists and playwrights]]

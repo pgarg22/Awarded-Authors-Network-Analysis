@@ -1,0 +1,95 @@
+{{Refimprove|date=March 2018}}
+{{Expand Italian|Luigi Capuana|date=March 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Luigi Capuana
+| image = Luigi Capuana (before 1915) - Archivio Storico Ricordi FOTO001120 (cropped).jpg
+| birth_date = {{Birth date|1839|05|28|df=y}}
+| birth_place = [[Mineo]], [[Kingdom of the Two Sicilies|Two Sicilies]]
+| death_date = {{death date and age|1915|11|29|1839|05|28|df=y}}
+| death_place = [[Catania]], Sicily, [[Kingdom of Italy|Italy]]
+| resting_place = 
+| occupation = Author, journalist
+| movement = 
+}}
+'''Luigi Capuana''' (May 28, 1839 – November 29, 1915) was an [[Italy|Italian]] author and journalist and one of the most important members of the [[Verism|''verist'']] movement (see also [[verismo (literature)|''verismo'' (literature)]]). He was a contemporary of [[Giovanni Verga]], both having been born in the [[province of Catania]] within a year of each other.<ref>{{Cite web|url=https://www.britannica.com/biography/Luigi-Capuana|title = Luigi Capuana &#124; Italian writer &#124; Britannica}}</ref> He was also one of the first Italian authors influenced by the works of [[Émile Zola]], French author and creator of [[Naturalism (literature)|naturalism]]. Capuana also wrote poetry in [[Sicilian language|Sicilian]], of which an example appears below.
+
+He was the author of plays (''Garibaldi'', ''Vanitas Vanitatum'', ''Parodie'', ''Semiritmi''), stories (''Studi sulla letteratura contemporanea'', ''Per l'arte'', ''Gli "ismi" contemporanei'', ''Cronache letterarie'', ''Il teatro italiano contemporaneo''), novels (''Giacinta'', ''Marchese di Roccaverdina'', ''La sfinge'', ''Giovanna Guglicucci: o le pareti del labirinto'', ''Profumo'', ''Rassegnazione'') and various other theatrical works.
+
+==Biography==
+===Origins and schooling===
+Luigi Capuana was born in [[Mineo]], in the [[Province of Catania]]. His family was wealthy, and owned property in the area. He attended the local school.<br>
+In 1851 he enrolled in the Royal College of [[Bronte, Catania|Bronte]], Catania, but left after only 2 years because of bad health. However, he continued to study by teaching himself.<br>
+After graduating he enrolled in the [[University of Catania|Faculty of Law at Catania]] in 1857. He abandoned this in 1860 in order to take part in [[Giuseppe Garibaldi|Garibaldi]]'s [[Italian unification|Risorgimento]] as the secretary of the Secret Committee of Insurrection in [[Mineo]], and later as the chancellor of the nascent civic council.
+
+==="Literary Adventures"===
+
+In 1861 Capuana released the legendary drama '''Garibaldi''' in three cantos, published in Catania by Galatola. In 1864 he settled in [[Florence]] to begin his "literary adventure": he met, and kept in touch with, the most notable Italian authors of the era (including [[Aleardo Aleardi]]); he published his first critical essays in the "Italian Review" in 1865; he became the theatre critic for "Nation" in 1866; he published, serially in a Florentine daily in 1867, his first [[novella]], entitled ''Dr. Cymbalus'' which took Dumas fils' ''La boîte d'argent'' as a model.  He would stay in Florence until 1868.
+
+===Return to Sicily===
+
+In 1868 Capuana returned to [[Sicily]] planning a brief stay, but his father's death and economic hardship anchored him to the island.
+He worked as a school inspector and later as counselor of Mineo until he was elected as mayor of the town.
+
+During these years he learned more about [[Georg Wilhelm Friedrich Hegel|Hegel]]'s idealist philosophy.  He was especially inspired by "Dopo la Laurea", an essay by [[positivism|positivist]] and Hegelian doctor Angelo Camillo De Meis, who had developed a theory on the evolution and death of literary genres.
+
+===Catania: work at university and death===
+In 1902 Capuana moved to Catania to lecture [[lexicography]] and [[Stylistics (linguistics)|stylistics]] at the local university.
+
+His last literary works included "Coscienze" (1905), "Nel paese di Zàgara" (1910), and "Gli Americani di Rabbato" (1912).
+
+Capuana died in [[Catania]] on November 29, 1915, shortly after Italy entered the [[World War I|First World War]].
+
+==Example of his poetry in Sicilian==
+===''Sta notti...'' (Tonight)===
+{|
+!Sicilian
+!English
+|-
+|Sta notti mi sunnai quattru funtani, &nbsp;
+|Tonight I dreamt of four fountains
+|-
+|Quattru pedi d'aranciu a lu ciuriri;
+|Of four orange trees about to blossom;
+|-
+|Vitti li stiddi scinniri e acchianari, &nbsp;
+|I saw the stars descend and ascend;
+|-
+|Vitti lu suli comu un lebbru jiri; &nbsp;
+|I saw the sun run like a hare;
+|-
+|Vitti n'aquila fina a lu vulari,
+|I saw a fine eagle ready to soar,
+|-
+|Vitti lu cori tò npettu viniri;
+|I saw your heart come into my breast;
+|-
+|Ca siddu mi putieva arrisbigghiari,
+|And could I have awakened,
+|-
+|Nun ti l'avissi cchiù lassatu jiri.
+|I would never have let you go.
+|}
+
+==References==
+<references />
+* ''Arba Sicula'', Vol. 2, 1980 (source of both the poem in Sicilian and the English translation).
+
+==External links==
+* {{Gutenberg author |id=Capuana,+Luigi | name=Luigi Capuana}}
+* {{Internet Archive author |sname=Luigi Capuana}}
+* {{Librivox author |id=215}}
+* [http://www.intratext.com/Catalogo/Autori/Aut457.HTM Capuana's works]: text with concordances and frequency list
+* [http://www.valeriodistefano.com/profumo.htm Text Frequencies of "Profumo"]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+* Answers.com article on [http://www.answers.com/topic/capuana-luigi Luigi Capuana]
+* Ecco una fiaba musicale illustrata un po' speciale di Luigi Capuana, che chiunque abbia un dispositivo android (e-book reader, telefonino, tablets,...) può scaricare gratuitamente... Di seguito il link: https://play.google.com/store/apps/details?id=org.t15.gradiccioli.titirititi&hl=it
+
+{{Authority control}}
+
+{{DEFAULTSORT:Capuana, Luigi}}
+[[Category:1839 births]]
+[[Category:1915 deaths]]
+[[Category:People from Mineo]]
+[[Category:Kingdom of the Two Sicilies people]]
+[[Category:Writers from Sicily]]
+[[Category:Journalists from Sicily]]
+[[Category:Italian male journalists]]

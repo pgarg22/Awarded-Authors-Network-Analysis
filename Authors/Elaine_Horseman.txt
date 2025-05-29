@@ -1,0 +1,63 @@
+{{Use dmy dates|date=December 2015}}
+{{Use British English|date=December 2015}}
+{{Expand German|date=October 2016|Elaine Horseman}}
+{{more citations needed|date=February 2013}}
+{{Infobox writer
+| name        = Elaine Horseman
+| birth_name  = Elaine Hall
+| birth_place = Lichfield, Staffordshire, England, UK
+| death_place = Bristol, England, UK
+| birth_date  = 23 November 1925
+| death_date  = April 1999
+| nationality = British
+| occupation  = Writer
+| genre       = Children's fantasy novels
+| period      =
+
+}}
+
+'''Elaine Horseman''' née Hall (23 November 1925 – April 1999) was a [[British literature|British author]] of three [[children's book]]s, which centre on five children in an old [[victorian house]] and their experiences with a book of [[magic spell]]s.<ref name=kirkus2/> Horseman's first novel ''Hubble's Bubble'' was published first in England and in Germany, France, [[Sweden]], [[Denmark]], [[Finland]], Spain and Portugal.
+
+== Life ==
+
+Elaine Hall was born in 1925 in [[Lichfield]], [[Staffordshire]]<ref name=SFFL/> to Harold Hall, a [[Vicar]] [[Choral]], and Olive E. Bowey. She was the second of nine children and "grew up in a house very like the Hubbles', in the [[Cathedral Close, Lichfield|Cathedral Close]] at Lichfield in Staffordshire".<ref>Author information on the dust jacket of ''The Hubbles and the Robot'', first edition.</ref> In 1950 she married Leslie A. Horseman, a [[Computer Applications|computer applications engineer]], with whom she moved to Bristol and had two sons: Stephen Thomas and Christopher Michael. She became qualified as a teacher at the [[University of Birmingham]] and worked as a [[Primary school|primary school teacher]] from 1944, before she gave up teaching in 1962 in order to write.
+
+Of the second Hubbles or Boffins Club book, the American journal ''Kirkus Reviews'' complemented the easy transitions between fantasy and reality and observed that the children "keep up a steady banter often pleasantly silly, frequently affected, and always very British."<ref name=kirkus2/>
+
+Horseman died in Bristol, April 1999.{{citation needed|date=August 2013}}
+
+== Works ==
+* ''Hubble's Bubble'', illustrated by John Sergeant ([[Chatto & Windus]], 1964); US ed., 1964, {{LCCN|64020786}}
+* ''The Hubbles' Treasure Hunt'', illus. Sergeant (Chatto & Windus, 1965); US ed., 1966, {{LCCN|66011773}}
+* ''The Hubbles and the Robot'', illus. Sergeant (Chatto & Windus, 1968)
+
+== References ==
+{{reflist |25em |refs=
+<ref name=SFFL>
+{{cite book |last1=Reginald|first1=R |last2=Menville|first2=Douglas |last3=Burgess|first3=Mary |title=Science Fiction and Fantasy Literature, volume 2 |date=September 2010 |publisher=Wildside Press LLC |page=942 |isbn=9780941028776}}</ref>
+<ref name=kirkus2>
+{{cite web |url=https://www.kirkusreviews.com/book-reviews/elaine-horseman/the-hubbles-treasure-hunt/|title=THE HUBBLES' TREASURE HUNT by Elaine Horseman |work=[[Kirkus Reviews]] |date=28 March 1966 |access-date=19 February 2013}}</ref>
+}}
+
+==External links==
+{{Portal bar |Children's literature |Fantasy |United Kingdom }}  
+* {{isfdb name|204426}}
+
+{{Authority control}} <!-- not identified at LC Authorities (no LCCN) as of 2016-09-30 -->
+
+{{DEFAULTSORT:Horseman, Elaine}}
+[[Category:English women novelists]]
+[[Category:English children's writers]]
+[[Category:English fantasy writers]]
+[[Category:People from Lichfield]]
+[[Category:1925 births]]
+[[Category:1999 deaths]]
+[[Category:Date of death missing]]
+[[Category:British women short story writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:20th-century English women writers]]
+[[Category:20th-century English novelists]]
+[[Category:20th-century British short story writers]]
+
+
+{{UK-child-writer-stub}}

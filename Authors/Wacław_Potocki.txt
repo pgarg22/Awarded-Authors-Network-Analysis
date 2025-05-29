@@ -1,0 +1,89 @@
+{{Use dmy dates|date=November 2011}}
+{{Refimprove|date=September 2014}}
+{{Infobox noble|type
+| name              = Wacław Potocki
+| title             = 
+| image             = Potocki waclaw.jpg
+| caption           = '' Potocki Waclaw''
+| alt               = 
+| CoA               = [[Szreniawa coat of arms|Szreniawa]]
+| more              = no 
+| reign             = 
+| reign-type        = 
+| predecessor       = 
+| successor         = 
+| suc-type          = 
+| succession        = 
+| spouse            = 
+| spouse-type       = 
+| issue             = 
+| issue-link        = 
+| issue-pipe        = 
+| full name         = 
+| styles            = 
+| titles            = 
+| noble family      = [[Potocki]]
+| house-type        = 
+| father            = 
+| mother            = 
+| birth_date        = 1621
+| birth_place       = [[Wola Łużańska]]
+| christening_date  = 
+| christening_place = 
+| death_date        = {{death date and age|1696|8|9|1621|df=y}}<ref>The date of his death is uncertain; several sources indicate earlier dates.</ref>
+| death_place       = Łużna
+| burial_date       = 
+| burial_place      = 
+| occupation        = 
+}}
+
+'''Wacław Potocki''' ({{IPA-pl|ˈvat͡swaf pɔˈtɔt͡skʲi}}; 1621–1696) was a Polish [[nobleman]] (''[[szlachcic]]''), [[moral philosopher|moralist]], poet, and writer. He was the [[podczaszy]] of [[Kraków]] from 1678 to 1685. He is remembered as one of the most important  Polish [[baroque]] artists. His most famous works are: ''Transakcja wojny chocimskiej'' (also known as ''Wojna chocimska'' or ''The Chocim War'') and his collection of epigrams, ''Ogród fraszek'' (''Garden of Rhymes''). They give a vivid picture of ideas and manners among the [[szlachta]] (Polish [[gentry]]) towards the end of the [[Polish Golden Age]],  and of many political and religious conflicts.
+
+==Biography==
+Wacław Potocki was born to a minor szlachta family, belonging to the [[Arianism|Arian]] Christian sect of the [[Polish brethren]]. It is likely that he attended the Polish brethren [[Racibórz]] academy. After [[The Deluge (Polish history)|The Deluge]] (the Swedish invasion and occupation of Poland from 1655 to 1657), the Polish brethren were sentenced to be exiled from the Commonwealth for their support of the invading Swedes. Wacław was given a choice between exile and conversion to [[Roman Catholicism]], and he reluctantly chose conversion. His wife, however, refused at first, and for many years he feared for her life.
+
+He then worked on his estate in Łuzna in the [[Podkarpacie]] region of the Commonwealth. He participated in the fight against the [[Cossacks|Cossack]] uprisings in 1638, took part in the [[Battle of Beresteczko]] in 1651, and in the wars against Sweden (1656&ndash;1657). Between 1665 and 1666 he supported the [[Lubomirski Rokosz|rokosz]] of [[Jerzy Sebastian Lubomirski]]. Later he supported kings [[Michał Korybut Wiśniowiecki]] and [[Jan III Sobieski]].
+
+He argued for the reform of the Commonwealth political system, and for stabilisation through the introduction of an hereditary monarchy instead of the [[elective monarchy]].
+
+When the Polish brethren were exiled after the Deluge for the support they gave to invaders, he supported them, and for this he was criticized by some Catholic szlachta.
+
+He outlived his wife and children: two of his sons died during the wars, and his daughter, rumoured to have inherited his literary talent, died young. He lived with his family until his death in 1696, and was buried in [[Biecz]].
+
+[[Image:Herb Szreniawa.jpg|200px|thumb|right|[[Szreniawa Coat of Arms]].]]
+
+==Works==
+He started writing around 1646, mostly for his own pleasure, and initially with no intention of publication, but he was convinced to share his works by his relative, [[Samuel Przypkowski]]. He wrote many classic poems and novels about the life of the szlachta. During his lifetime only ''Poczet herbów'' (''Herbary'') and two shorter works were published.
+
+His most famous work, [[The Progress of the War of Chocim|''Transakcja wojny chocimskiej'' (''The Progress of the War of Chocim'')]], was written during the period 1669&ndash;1672, and first printed in 1850. It is his biggest novel, and is generally considered to be the best epic novel written in the Commonwealth.{{Citation needed|date=October 2013}} Historically accurate, though somewhat idealizing the Polish heroes, it describes the [[Battle of Khotyn (1621)|battle of Chocim]] in 1621 and is based on the diaries of [[Jakub Sobieski]].
+
+His epigrams were written around 1670 and 1695, and first published in 1907.
+
+He translated [[John Barclay (poet)|John Barclay]]'s [[Argenis]] (1621), published in 1697.
+
+==See also==
+* [[Jan Chryzostom Pasek]]
+* [[Argenis]]
+
+==Notes==
+{{reflist}}
+
+==External links==
+*[http://univ.gda.pl/~literat/autors/potoc.htm Wacław Potocki in Virtual Library of Polish Literature]
+*[https://poezja.org/wz/Potocki_Wac%C5%82aw/ Wacław Potocki] at poezja.org
+* {{cite encyclopedia|title=Wacław Potocki|encyclopedia=[[Encyclopedia Britannica]]|date=5 July 2021|url=https://www.britannica.com/biography/Waclaw-Potocki|access-date=26 October 2021}}
+* [https://web.archive.org/web/20110130223502/http://neolatina.bj.uj.edu.pl/book/showscan/id/120.html Argenida] - Scans of a Polish poetic translation by Wacław Potocki, Warszawa 1697
+
+{{Authority control}}
+
+{{DEFAULTSORT:Potocki, Waclaw}}
+[[Category:1621 births]]
+[[Category:1696 deaths]]
+[[Category:Converts to Roman Catholicism]]
+[[Category:Converts to Roman Catholicism from Unitarianism]]
+[[Category:People from Gorlice County]]
+[[Category:Polish nobility]]
+[[Category:Polish Roman Catholics]]
+[[Category:Polish male writers]]
+[[Category:Polish poets]]
+[[Category:Baroque writers]]

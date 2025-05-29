@@ -1,0 +1,146 @@
+{{short description|Medieval French poet}}
+{{For|the French princesses named Marie (or Mary)|Mary of France (disambiguation)}}
+
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Marie de France
+| image       = Marie de France 1.tif
+| imagesize   = 200px
+| caption     = Marie de France from an [[illuminated manuscript]]
+| pseudonym   =
+| birth_date  =
+| birth_place =
+| death_date  =
+| death_place = England
+| occupation  = Poet
+| period      = [[Middle Ages|Medieval]]
+| genre       = [[Lai (poetic form)|Lai]]s, [[fable]]s, [[hagiography|saints' lives]]
+| subject     =
+| movement    =
+| spouse      =
+| partner     =
+| children    =
+| relatives   =
+| signature   =
+| website     =
+}}
+'''Marie de France''' ([[floruit|fl.]] 1160 to 1215) was a [[poet]], possibly born in what is now France, who lived in England during the late 12th century. She lived and wrote at an unknown court, but she and her work were almost certainly known at the royal court of King [[Henry II of England]]. Virtually nothing is known of her life; both her given name and its geographical specification come from her manuscripts. However, one written description of her work and popularity from her own era still exists. She is considered by scholars to be the first woman known to write [[francophone]] verse.<ref>{{Cite web|url=https://www.asu.edu/clas/silc/frewomen/MFrance.htm|title=Marie de France|last=Funchion|first=John|access-date=31 August 2017}}</ref>
+
+Marie de France wrote in [[Francien]], with some [[Anglo-Norman language|Anglo-Norman]] influence. She was proficient in [[Latin]], as were most authors and scholars of that era, as well as [[Middle English]] and possibly [[Breton language|Breton]]. She is the author of the ''[[Lais of Marie de France]]''. She translated [[Aesop's Fables]] from [[Middle English]] into Anglo-Norman French and wrote ''Espurgatoire seint Partiz'', ''[[Legend of the Purgatory of St. Patrick]]'', based upon a Latin text. Recently, she has been (tentatively) identified as the author of a [[hagiography|saint's life]], ''[[The Life of Saint Audrey]]''. Her ''Lais'' were and still are widely read and influenced the subsequent development of the [[Romance (heroic literature)|romance/heroic literature genre]].
+
+==Life and works==
+[[File:Marie de France.jpg|thumb|"Marie de France presents her book of poems to [[Henry II of England]]" by [[Charles Abraham Chasselat]]]]
+
+The actual name of the author now known as Marie de France is unknown; she has acquired this nom de plume from a line in one of her published works: "Marie ai num, si sui de France," which translates as "My name is Marie, and I am from France."<ref>Burgess 7.</ref> Some of the most commonly proposed suggestions for the identity of this 12th-century poet are Marie, Abbess of [[Shaftesbury]] and half-sister to [[Henry II of England|Henry II, King of England]]; Marie, Abbess of [[Reading, Berkshire|Reading]]; [[Marie I, Countess of Boulogne|Marie I of Boulogne]];<ref name=Classen /> Marie, Abbess of [[Barking, London|Barking]];<ref>{{cite book  | last = Rossi  | first = Carla  | title = Marie, ki en sun tens pas ne s'oblie; Maria di Francia: la Storia oltre l'enigma  | publisher = Bagatto Libri  | year = 2007  | location = Rome }}</ref><ref>{{cite book  | last = Rossi  | first = Carla  | title = Marie de France et les èrudits de Cantorbéry  | publisher = Editions Classiques Garnier  | year = 2009  | location = Paris }}</ref> and Marie de Meulan, wife of Hugh Talbot.<ref>{{Cite journal  | last = Holmes  | first = Urban T.  | title = New thoughts on Marie de France  | journal = Studies in Philology  | volume = 29  | pages = 1–10  | year = 1932  }}</ref><ref>{{Cite journal  | last = Grillo  | first = Peter R.  | title = Was Marie de France the Daughter of Waleran II, Count of Meulan?  | journal = Medium Aevum  | volume = 57  | issue = 2 | pages = 269–273  | year = 1988  | doi = 10.2307/43629213 | jstor = 43629213 }}</ref><ref>{{Cite journal  | last = Pontfarcy  | first = Yolande de  | title = Si Marie de France était Marie de Meulan  | journal = Cahiers de Civilisation Medievale (Xe-XIIe Siecles)  | volume = 38  | issue = 152 | pages = 353–61 | year = 1995  | doi=10.3406/ccmed.1995.2630| url = http://www.persee.fr/docAsPDF/ccmed_0007-9731_1995_num_38_152_2630.pdf}}</ref> Based on evidence from her writings, it is clear that, despite being born in France, she spent much of her life living in England.<ref>Simpson, James, and Alfred David. "Marie de France." ''The Norton Anthology of English Literature Volume 1'', edited by Stephen Greenblatt, W. W. Norton & Company, 2012, pp. 142-143.</ref>
+
+Four works, or collections of works, have been attributed to Marie de France. She is principally known for her authorship of ''[[The Lais of Marie de France]]'', a collection of twelve narrative poems, mostly of a few hundred lines each. She claims in the preambles to most of these [[Breton lais]] that she has heard the stories they contain from Breton [[minstrels]], and it is in the opening lines of the poem ''[[Guigemar]]'' that she first reveals her name to be Marie.
+
+There are 102 ''[[Ysopet]]'' fables that have also been attributed to her besides a retelling of the ''[[Legend of the Purgatory of St. Patrick]]'' and, recently, a saint's life called ''[[The Life of Saint Audrey|La Vie seinte Audree]]'' about [[Æthelthryth|Saint Audrey]] of [[Ely, Cambridgeshire|Ely]], although this last attribution is not accepted by all critics.
+
+Scholars have dated Marie's works to between about 1160 and 1215, the earliest and latest possible dates respectively. It is probable that the ''Lais'' were written in the late 12th century; they are dedicated to a "noble king", usually assumed to be [[Henry II of England]] or possibly his eldest son, [[Henry the Young King]]. Another of her works, the ''[[Fables]]'', is dedicated to a "Count William", who may have been either [[William de Mandeville, 3rd Earl of Essex|William of Mandeville]] or [[William Marshal, 1st Earl of Pembroke|William Marshall]]. However, it has also been suggested that Count William may refer to [[William Longespée, 3rd Earl of Salisbury|William Longsword]]. Longsword was a recognized illegitimate son of Henry II. If Marie was actually Henry II's half-sister, a dedication to his son (who would be her nephew), might be understandable.<ref>Kibler, William W. and Grover A. Zinn, p&nbsp;589</ref>
+
+It is likely that Marie de France was known at the court of King Henry II and his wife, [[Eleanor of Aquitaine]].<ref name="BurgessBusby">Burgess, Glyn S., and Busby, Keith, 1986.</ref> A contemporary of Marie, the English poet [[Denis Pyramus|Denis Piramus]], mentions in his ''Life of Saint Edmund the King'', written in around 1180, the lais of a Marie, which were popular in aristocratic circles.
+
+It is clear from her writing that Marie de France was highly educated and multilingual; this level of education was not available to the common or poor at this time, so we can infer that Marie de France was of noble birth,<ref>Petersen, Zina Nibley, Dr. "Middle English, Oral (folk) and Written (clerical) and Mixed (civic)." British Literary History 1. Brigham Young University, Provo. 24 Sept. 2013. Lecture.</ref> as other noble women such as Heloise and [[Christine de Pizan]] were also educated and wrote. In addition to secular wealthy women, a number of religious women of this period also used their education and pursued writing ([[Hrotsvitha]], [[Héloïse]], [[Bridget of Sweden]], and [[Hildegard of Bingen]], to name a few).
+
+She was first called "Marie de France" by the French scholar [[Claude Fauchet (historian)|Claude Fauchet]] in 1581, in his ''Recueil de l'origine de la langue et poesie françoise'', and this name has been used ever since.<ref>Burgess, Glyn S., and Busby, Keith, 1986, p&nbsp;11.</ref> She wrote in [[Francien]], a dialect localized around Paris and [[Île-de-France]], but there is presence of an Anglo-Norman dialect in her writings. Hence scholars generally deduce she lived in the parts of Île-de-France close to [[Normandy]], or alternatively in an area in-between such as [[Brittany]] or [[Vexin]]. But Anglo-Norman influence may be due to her living in England during her adult life, which is also suggested by the fact that so many of her texts were found in England.<ref name="Classen">{{cite encyclopedia|last = Classen| first = Albrecht| title = Marie de France|work = The Literary Encyclopedia |date = 2003-09-15| access-date = 2009-10-12 |url = http://www.litencyc.com/php/speople.php?rec=true&UID=5494}}</ref><ref name="dhmarie">Hazell, Dinah, 2003. [http://www.sfsu.edu/~medieval/Volume2/Hazell.html Rethinking Marie]. [http://www.sfsu.edu/~medieval/index.html Medieval Forum] Volume 2.</ref> The signification of the phrase "si sui de France", however, is ambiguous and equivocal. Marie might possibly not have stated that she was from France if she was originally from a region governed by Henry II such as Brittany, Normandy, [[County of Anjou|Anjou]] or [[Aquitaine]], unless she had been thoroughly anglicized.{{citation needed|date=June 2016}}
+
+Three of the five surviving manuscript copies of the ''Lais'' are written in continental French, whilst [[British Library]] MS Harley 978, written in Anglo-Norman French in the mid-13th century, may reflect the dialect of the copyist.<ref name="dhmarie" />
+
+==Breton lais==
+{{main|Lais of Marie de France|Breton lai}}
+Breton lais were certainly in existence before Marie de France chose to recast the themes that she heard from Breton minstrels into poetic narratives in Anglo-Norman verse, but she may have been the first to present a "new genre of the lai in narrative form."<ref>Whalen, Logan E, p&nbsp;63</ref> Her lays, are a collection of 12 short narrative poems written in eight-syllable verse that were based on Breton or Celtic legends, which were part of the oral literature of the Bretons.<ref>Webb, Shawncey J. "Marie de France." Reference Guide to World Literature. Ed. Sara Pendergast and Tom Pendergast. 3rd ed. Vol. 1: Authors. Detroit: St. James Press, 2003. 658-659. Gale Virtual Reference Library. Web. 8 February 2015.</ref> The lais of Marie de France had a huge impact on the literary world.<ref>Burgess, Glyn S., and Busby, Keith, 1986, p&nbsp;11: "[A twelfth century poet-contemporary of Marie wrote:] Marie's poetry has caused great praise to be heaped on her and it is much appreciated by counts and barons and knights who love to have her writings read out again and again."</ref> They were considered a new type of literary technique derived from classical rhetoric and imbued with such detail that they became a new form of art. Marie may have filled her detailed poems with imagery so that her audience would easily remember them. Her lais range in length from 118 (''[[Chevrefoil]]'') to 1,184 lines (''[[Eliduc]]''),<ref>Burgess, Glyn S., and Busby, Keith, 1986, p&nbsp;8.</ref> frequently describe courtly love entangled in love triangles involving loss and adventure, and "often take up aspects of the [[merveilleux]], and at times intrusions from the fairy world."<ref name="WhalenLogan">Whalen, Logan E, p&nbsp;62</ref>
+
+One may have a better sense of Marie de France from her very first lay, or rather, the ''Prologue'' she uses to prepare her readers for what is to come. The first line dictates “Whoever has received knowledge/ and eloquence in speech from God/ should not be silent or secretive/ but demonstrate it willingly” <ref>{{Cite book|title=The lais of Marie de France|last=century.|first=Marie, de France, active 12th|date=1995|orig-year= 1978|publisher=Baker Books|others=Hanning, Robert W., Ferrante, Joan M., 1936-|isbn=080102031X|edition=Pbk. |location=Grand Rapids, MI.|oclc=34140523}}</ref> Marie de France, in so many words, credits her literary skills to God and is therefore allowed to write the lays without her patron’s permission (her patron likely being [[Henry II of England]]). She wants people to read what she has produced, along with her ideas, and as such urges readers to search between the lines, for her writing will be subtle. In this ''Prologue'' alone, Marie de France has deviated from common poets of her time by adding subtle, delicate, and weighted writing to her repertoire. Marie de France took her opportunity as a writer to make her words be heard, and she took them during a time where the production of books and codexes was a long, arduous, and expensive process where just copying the Bible took fifteen months until the text’s completion.<ref>{{Cite book|title=The library : an illustrated history|last=1948-|first=Murray, Stuart|date=2009|publisher=Skyhorse Pub.|isbn=9781602397064|location=New York, NY|oclc=277203534|url-access=registration|url=https://archive.org/details/libraryillustrat0000murr}}</ref>
+
+Unlike the heroes of medieval romances, the characters in Marie’s stories do not seek out adventure. Instead, adventures happen to them. While the settings are true to life, the lais often contain elements of folklore or of the supernatural, such as Bisclavret.<ref name="France 1996">"Marie de France." The Middle Ages: An Encyclopedia for Students. Ed. William Chester Jordan. Vol. 3. New York: Charles Scribner's Sons, 1996. 120-121. Gale Virtual Reference Library. Web. 8 February 2015.</ref> While the setting is described in realistic detail, the subject is a werewolf, sympathetically portrayed.<ref name="France 1996"/> Marie moves back and forth between the real and the supernatural, skillfully expressing delicate shades of emotion. [[Lanval]] features a [[fairy]] woman who pursues the titular character and eventually brings her new lover to [[Avalon]] with her at the end of the lai. The setting for Marie's lais is the Celtic world, embracing England, Wales, Ireland, Brittany and Normandy.<ref name="BurgessBusby" /><ref name="WhalenLogan" />
+
+Only five manuscripts containing some or all of Marie’s lais exist now, and the only one to include the general prologue and all twelve lais is British Library MS Harley 978. That may be contrasted with the 25 manuscripts with Marie's ''Fables'' and perhaps reflects their relative popularity in the late Middle Ages. In these Fables, she reveals a generally aristocratic point of view with a concern for justice, a sense of outrage against the mistreatment of the poor, and a respect for the social hierarchy.<ref>"Marie de France." Arts and Humanities Through the Eras. Ed. Edward I. Bleiberg, et al. Vol. 3: Medieval Europe 814-1450. Detroit: Gale, 2005. 207-208. Gale Virtual Reference Library. Web. 8 February 2015.</ref> Nevertheless, Marie's lais have received much more critical attention in recent times.
+
+== Fables ==
+Along with her lais, Marie de France also published a vast collection of fables. Many of the fables she wrote were translations of Aesop’s fables into English and others can be traced to more regional sources, fables Marie de France would have been exposed to at a young age.<ref>{{Cite web|url=http://people.clas.ufl.edu/jshoaf/marie_lais/|title=The Lais of Marie de France|last=Shoaf|first=Judy|date=December 11, 2014|website=UF College of Liberal Arts and Sciences|publisher=The University of Florida|access-date=November 29, 2016}}</ref> Between the 102 fables of Marie de France, there are no concrete guidelines for morality, and men, women, and animals receive varying treatments and punishments.
+
+Marie de France introduces her fables in the form of a prologue, where she explains the importance of moral instruction in society. In the first section of the prologue, Marie de France discusses the medieval ideal of "clergie".<ref>{{Cite book|title=Marie de France Poetry|last=Gilbert|first=Dorothy|publisher=W W Norton & Co|year=2015|isbn=9780393932683|location=New York|pages=175–6}}</ref> Clergie is the notion that people have a duty to understand, learn, and preserve works of the past for future peoples. Here, in the prologue, she is referencing the duty of scholars to preserve moral philosophy and proverbs. The rest of Marie de France’s prologue outlines how Aesop took up this duty for his society and how she must now preserve his fables and others for her present culture.
+
+Structurally, each of the fables begins with the recounting of a tale, and at the end Marie de France includes a short moral. Some of these morals, like those translated from Aesop’s fables, are expected and socially congruous. For instance, the fable of ''The Wolf and the Lamb'', also known as Fable 2 in Marie de France’s collection, follows a well-known and established storyline. Just as in Aesop’s original fable, Marie de France’s translation describes a lamb and a wolf drinking from the same stream, the wolf unjustly condemning the lamb to death for drinking inoffensively downstream from him. Marie de France repeats the established moral at the end, "But these are things rich nobles do…destroy folk with false evidence".<ref>{{Cite book|title=Marie de France Poetry|last=Gilbert|first=Dorothy|publisher=W W Norton & Co|year=2015|isbn=9780393932683|location=New York|pages=177}}</ref>
+
+However, in the new fables, featuring human female characters, Marie de France asserts female power and cunning, disparaging men who are ignorant or behave foolishly. One character, a peasant woman, makes multiple appearances in the fables of Marie de France and is praised for her shrewd and sly ways. Fables 44, ''The Woman Who Tricked Her Husband'' and 45, ''A Second Time, a Woman Tricks Her Husband'', both recount tales of the same peasant woman successfully carrying out an affair despite her husband having caught her with her lover both times. In the first fable, the peasant woman convinces her husband that her lover was merely a trick of the eye and in the second, persuades her husband that he has had a vision of her and a man, foreshadowing her death. Marie de France lauds the woman for her crafty ways and faults the peasant husband with idiocy. The morality, or lack thereof, in these two female-centered fables is interesting and takes root in the tradition of "wife tricking her husband" stories, such as ''The Merchant’s Tale'' and Scots-Irish tradition.<ref>{{Cite book|title=Marie de France Poetry|last=Gilbert|first=Dorothy|publisher=W W Norton & Co|year=2015|isbn=9780393932683|location=New York|pages=191–3}}</ref>
+
+==Love==
+In most of Marie de France’s ''Lais'', love is associated with suffering, and over half of them involve an adulterous relationship.<ref>Mickel, Emanuel J. Jr.</ref> In ''[[Bisclavret]]'' and ''[[Equitan]]'', the adulterous lovers are severely condemned, but there is evidence that Marie approved of extramarital affairs under certain circumstances: "When the deceived partner has been cruel and merits deception and when the lovers are loyal to one another."<ref>Mickel, Emanuel J. Jr., p&nbsp;100, citing Professor Schiött, author of  ''L'Amour et les amoureux dans les Lais de Marie de France''.</ref> In Marie's ''Lais'', "love always involves suffering and frequently ends in grief, even when the love itself is approved."<ref>Mickel, Emanuel J. Jr., p&nbsp;102</ref>
+
+Marie's lovers are usually isolated and relatively unconcerned with anything outside the immediate cause of their distress, whether a jealous husband or an envious society. However, "the means of overcoming this suffering is beautifully and subtly illustrated."<ref name="BurgessBusby31">Burgess, Glyn S., and Busby, Keith, 1986, p&nbsp;31.</ref> "Marie concentrates on the individuality of her characters and is not very concerned with their integration into society. If society does not appreciate the lovers, then the lovers die or abandon society, and society is the poorer for it."<ref>Burgess, Glyn S., and Busby, Keith, 1986, p&nbsp;27.</ref>
+
+===Defying Church traditions===
+Marie de France’s lais not only portray a gloomy outlook on love but also defied the traditions of love within the Church at the time. She wrote about adulterous affairs, women of high stature who seduce other men, and women seeking escape from a loveless marriage, often to an older man, which gave the idea that women can have sexual freedom. She wrote lais, many of which seemed to endorse sentiments that were contrary to the traditions of the Church, especially the idea of virginal love and marriage.
+
+The lais also exhibit the idea of a stronger female role and power. In this, she may have inherited ideas and norms from the troubadour love songs that were common at the Angevin courts of England, Aquitaine, Anjou and Brittany; songs in which the heroine "is a contradictory symbol of power and inarticulacy; she is at once acutely vulnerable and emotionally overwhelming, irrelevant and central."<ref>Butterfield, Ardis, 2009, p&nbsp;200.</ref> Marie's heroines are often the instigators of events, but events that often end in suffering.
+
+The heroines in Marie's ''Lais'' are often imprisoned. This imprisonment may take the form of actual incarceration by elderly husbands, as in ''Yonec'', and in ''Guigemar'', where the lady who becomes Guigemar's lover is kept behind the walls of a castle which faces the sea, or "merely of close surveillance, as in ''Laustic'', where the husband, who keeps a close watch on his wife when he is present, has her watched equally closely when he is away from home."<ref>Mickel, Emanuel J. Jr., p&nbsp;58.</ref> Perhaps it reflects some experience within her own life.<ref name="BurgessBusby" /> The willingness to endorse such thoughts as adultery in the 12th century is perhaps remarkable. "It certainly reminds us that people in the Middle Ages were aware of social injustices and did not just accept oppressive conditions as inevitable by the will of God."<ref>Steinberg, Theodore L. Reading the Middle Ages: an Introduction to Medieval Literature.Jefferson: McFarland, 2003. Print, p&nbsp;58.</ref>
+
+In addition to her defying the construct of love exhibited by the contemporary Church, Marie also influenced a genre that continued to be popular for another 300 years, the medieval romance. By the time Marie was writing her lais, France already had a deep-rooted tradition of the love-lyric, specifically in Provence. Marie's ''Lais'' represent, in many ways, a transitional genre between Provençal love lyrics from an earlier time and the romance tradition that developed these themes.<ref>Burgess, Glyn S., and Busby, Keith, 1986, p&nbsp;26.</ref>
+
+==Influence on literature==
+Her stories exhibit a form of lyrical poetry that influenced the way that narrative poetry was subsequently composed, adding another dimension to the narration through her prologues and the epilogues, for example. She also developed three parts to a narrative lai: aventure (the ancient Breton deed or story); lai (Breton melodies); conte (recounting the story narrated by the lai).<ref>Mickel, Emanuel J. Jr., pp&nbsp;57&ndash;66</ref> Additionally, Marie de France set off the beginning of a new genre of literature known as chivalric literature.
+
+In the late 14th century, at broadly the same time that [[Geoffrey Chaucer]] included ''[[The Franklin's Tale]]'', itself a Breton lai, in his ''[[Canterbury Tales]]'',<ref>Burgess, Glyn S., and Busby, Keith, 1986, p&nbsp;36.</ref> a poet named Thomas Chestre composed a Middle English romance based directly upon Marie de France's ''Lanval'', which, perhaps predictably, spanned much more now than a few weeks of the hero's life, a knight named ''[[Sir Launfal]]''.<ref>Laskaya, Anne, and Salisbury, Eve (Eds), 1995. ''The Middle English Breton Lays''. Kalamazoo, Michigan: Western Michigan University for TEAMS. Medieval Institute Publications.</ref> In 1816, the English poet [[Mary Matilda Betham|Matilda Betham]] wrote a long poem about Marie de France in octosyllabic couplets, ''The Lay of Marie''.
+
+==See also==
+* [[Tristan and Iseult]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+*Blain, Virginia, et al. "Marie de France," ''The Feminist Companion to Literature in English'' (Yale UP, 1990, 714).
+*Bloch, R. Howard. ''The Anonymous Marie de France.'' Chicago: U. of Chicago Press, 2003.
+*Brown, Mary Ellen, et al. ''Encyclopedia of Folklore and Literature''. Santa Barbara: ABC-CLIO, 1998. Print.
+*Burgess, Glyn Sheridan, and Keith Busby, 1986. ''The Lais of Marie de France''. Translated into Modern English prose with an introduction. Penguin Books Limited.
+*Bürger, Christa. "Die Ordnung der Liebe. Marie de France". Sinn und Form. 1 (2019).
+*{{cite book|last=Burgess|first=Glyn Sheridan|title=The Lais of Marie de France: text and context|year=1987|publisher=Manchester UP|isbn=978-0-7190-1923-4|url=https://books.google.com/books?id=ToK7AAAAIAAJ}}
+*Butterfield, Ardis, 2009. ''England and France''. In: Brown, Peter (Ed), 2009. ''A Companion to Medieval English Literature and Culture c.1350–c.1500''. Wiley-Blackwell. Part IV: Encounters with Other Cultures, pp 199–214.
+*Calabrese, Michael, 2007. ''Controlling Space and Secrets in the Lais of Marie de France.'' In: ''Place, Space, and Landscape in Medieval Narrative''. Knoxville: U of Tennessee P, pp&nbsp;79&ndash;106. Rpt. in Classical and Medieval Literature Criticism. Ed. Jelena O. Krstovic. Vol. 111. Detroit: Gale, 2009. Literature Resource Center. Web. 28 September 2010.
+*Gallagher, Edward J., ed. and trans. ''The Lays of Marie de France, Translated, with Introduction and Commentary''. Hackett: Indianapolis, 2010.
+*Kibler, William W. and Grover A. Zinn. ''Medieval France: An Encyclopedia''. New York: Garland, 1995.
+* Kinoshita, Sharon, Peggy McCracken. ''Marie de France: A Critical Companion''. Woodbridge, D.S.Brewer, 2012 (Gallica).
+*Kunitz, Stanley J., and Vineta Colby. ''European Authors 1000-1900 A Biographical Dictionary of European Literature''. New York: The H.W. Wilson Company. 1967. 604&ndash;5. Print.
+*McCash, June Hall, ''La Vie seinte Audree, A Fourth Text by Marie de France.'' [[Speculum (journal)|''Speculum'']] (July 2002): 744-777.
+*Mickel, Emanuel J. Jr. ''Marie de France''. New York: Twayne, 1974. Print.
+*Watt, Diane, [https://books.google.com/books?id=XnjSl46lB1gC ''Medieval Women's Writing: Works by and for women in England, 1100-1500'']. Polity, 2007. {{ISBN|978-0-7456-3256-8}}.
+*{{cite book|last=Whalen|first=Logan E.|title=Marie de France and the poetics of memory|year=2008|publisher=Catholic U of America P|isbn=978-0-8132-1509-9|url=https://books.google.com/books?id=dl7UvhlTx_8C}}
+
+==External links==
+* {{wikisource author-inline}}
+{{Wikiquote}}
+{{Wikisourcelang|fr|Marie de France|Marie de France}}
+{{Commons category|Marie de France}}
+* {{Gutenberg author |id=Marie,+de+France | name=Marie de France}}
+* {{Internet Archive author |sname=Marie de France |sopt=t}}
+* {{Librivox author | id=2116}}
+* [http://mariedefrancesociety.org International Marie de France Society]
+* [http://mariedefrancesociety.org/le-cygne Le Cygne, published by the International Marie de France Society]
+* [http://www.arlima.net/mp/marie_de_france.html Complete bibliography of her works, including secondary literature (Archives de littérature du Moyen Âge, Arlima)]
+* {{CathEncy|wstitle=Marie de France}}
+*[http://www.medieval-spell.com/Roles-Of-Women-In-The-Middle-Ages.html Roles of Women in the Middle Ages]
+
+{{Medieval women writers}}
+{{Authority control}}
+
+[[Category:12th-century births]]
+[[Category:13th-century deaths]]
+[[Category:12th-century French writers]]
+[[Category:12th-century English women writers]]
+[[Category:12th-century French women writers]]
+[[Category:13th-century English writers]]
+[[Category:13th-century French writers]]
+[[Category:13th-century women writers]]
+[[Category:Anglo-Norman literature]]
+[[Category:British writers in French]]
+[[Category:Writers of Arthurian literature]]
+[[Category:French women poets]]
+[[Category:Medieval poets]]
+[[Category:Medieval women poets]]
+[[Category:French rhetoricians]]
+[[Category:12th-century French people]]
+[[Category:13th-century English women writers]]
+[[Category:13th-century French women writers]]
+[[Category:12th-century translators]]

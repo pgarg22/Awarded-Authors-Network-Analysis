@@ -1,0 +1,83 @@
+{{short description|American poet|bot=PearBOT 5}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Joshua Beckman
+| honorific_prefix = 
+| honorific_suffix = 
+| image = Joshua Beckman.jpg
+| image_size = 
+| alt = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date =    <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = New Haven, Connecticut
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation =Poet, Editor
+| language = 
+| nationality = American
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  <!-- or: | notablework = -->
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''Joshua Beckman''' is an American poet.<ref name="auto">{{Cite web|url=https://poets.org/poet/joshua-beckman|title=About Joshua Beckman &#124; Academy of American Poets|first=Academy of American|last=Poets|website=Poets.org|access-date=25 October 2021}}</ref><ref>[http://www.poetrybus.com/joshua-beckman/] {{dead link|date=October 2021}}</ref>
+
+==Life==
+Joshua Beckman was born in [[New Haven, Connecticut]].,<ref>{{Cite web|url=https://www.poetryfoundation.org/poets/joshua-beckman|title=Joshua Beckman|date=25 October 2021|website=Poetryfoundation.org|access-date=25 October 2021}}</ref> and graduated from [[Hampshire College]].<ref name="auto"/> He is the author of eight collections of poetry, including ''The Inside of an Apple'' (which was a finalist for the Los Angeles Times Book Award), ''Take It'', ''Shake'', and ''Things Are Happening'', which won the first annual Honickman-APR book award.  He has collaborated with [[Matthew Rohrer]] on live improvised poems, collected in the book ''Nice Hat. Thanks'' and the audio CD ''Adventures While Preaching The Gospel of Beauty'' (which was recorded while on a twenty-five city tour). As part of their collaboration Beckman and Rohrer also performed an improvised walking tour of the Brooklyn Museum and a class on eavesdropping for the Museum of Modern Art.<ref>{{Cite web|url=https://www.moma.org/explore/inside_out/2010/04/22/more-eavesdropping-art-poetry-and-everyday-encounters/|title=MoMA &#124; More Eavesdropping: Art, Poetry, and Everyday Encounters|website=Moma.org|access-date=25 October 2021}}</ref>  He is an editor at [[Wave Books]] and has translated numerous works of poetry and prose, including ''Poker'' by [[Tomaž Šalamun]], which was a finalist for the PEN America Poetry in Translation Award, as well as multiple co-translations with Alejandro de Acosta.
+
+He is also the recipient of numerous other awards, including a NYFA fellowship and a Pushcart Prize. He lives in Seattle and New York. A graduate of [[Hampshire College]] in [[Amherst, Massachusetts]], Beckman was the editor of the short-lived literary magazine, ''Object Lesson'', which served as inspiration for subsequent literary and artistic publishing ventures.
+
+==Wave Books Poetry Bus Tour 2006==
+Joshua Beckman was the tour coordinator<ref>{{Cite web|url=https://believermag.com/issues/|title=Issues|website=Believer Magazine|access-date=25 October 2021}}</ref> of the [[Poetry Bus Tour]], a literary event sponsored by [[Wave Books]] in 2006. 
+It featured a tour of contemporary poets, traveling by a forty-foot [[Biodiesel]] bus, who stopped to perform in fifty North American cities over the course of fifty days.<ref>{{Cite web|url=https://www.wavepoetry.com/pages/poetry-bus|title=Poetry Bus &#124; Wave Books|website=Wavepoetry.com|access-date=25 October 2021}}</ref>
+
+==Bibliography==
+*''The Inside of an Apple''<ref>{{cite book|title=The Inside of an Apple|url=https://books.google.com/books?id=DmlgAwAAQBAJ|date=3 September 2013|publisher=[[Wave Books]]|isbn=978-1-933517-78-0}}</ref>
+*''Micrograms'' (Wave Books, 2011; co-translated with Alejandro de Acosta)
+*''5 Meters of Poems by Carlos Oquendo de Amat'' (Ugly Duckling Presse, 2010; co-translated with Alejandro de Acosta)
+*''Take It'', Wave Books, 2009, {{ISBN|9781933517377}} 
+*''Shake''<ref>{{cite book|title=Shake|url=https://books.google.com/books?id=1GFgAwAAQBAJ|date=1 April 2006|publisher=Wave Books|isbn=978-1-933517-00-1}}</ref>
+*''Your Time Has Come'', Verse Press, 2004, {{ISBN|9780972348751}} 
+*''Poker'' by Tomaž Šalamun (translated by Joshua Beckman) (Ugly Duckling Presse, 2004)
+*''Nice Hat. Thanks.'' Verse Press, 2002, {{ISBN|9780972348706}}; (with [[Matthew Rohrer]]) 
+*''Something I Expected To Be Different'', Verse Press, 2001, {{ISBN|9780970367242}} 
+*''Things Are Happening'' [[Copper Canyon Press]], 1998, {{ISBN|9780966339512}}
+
+==Discography==
+*''Adventures While Preaching the Gospel of Beauty'' (2003) - with [[Matthew Rohrer]]
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.wavepoetry.com/authors/31-joshua-beckman Joshua Beckman's Author Page at Wave Books]
+*[http://www.poetrybus.com/ Poetry Bus Tour 2006]
+*[http://www.nysun.com/article/41560 From Town to Town They Go, A Busload of Poets, Rhymes in Tow, ''The New York Sun'']
+
+{{Authority control}}
+
+{{DEFAULTSORT:Beckman, Joshua}}
+[[Category:American male poets]]
+[[Category:American poets]]
+[[Category:Hampshire College alumni]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]

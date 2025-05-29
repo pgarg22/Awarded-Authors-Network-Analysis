@@ -1,0 +1,84 @@
+{{short description|American writer of young adult and fantasy fiction and screenplays}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Victoria Aveyard
+| honorific_prefix = |
+| native_name = 
+| native_name_lang = 
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| pseudonym = 
+| birth_name = 
+| birth_date = {{birth date and age|1990|07|27}}
+| birth_place = East Longmeadow, Massachusetts, US
+| death_date = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation = [[Novelist]]<br>[[Screenwriter]]
+| language = English
+| nationality = American
+| ethnicity = 
+| citizenship = 
+| education = Bachelor of Fine Arts in Screenwriting
+| alma_mater = [[University of Southern California]]
+| period = 
+| genre = [[Young adult fiction|Young adult]]<br>[[Fantasy]]
+| subject = <!-- or: | subjects =    -->
+| movement = 
+| notableworks = ''[[Red Queen (novel)|Red Queen]]''
+| spouse = <!-- or: | spouses =     -->
+| partner = <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 2015 Goodreads Choice Awards Best Debut Novel and 2015 [[Buxtehude Bull]]
+| signature = 
+| signature_alt = 
+| years_active = 2015–present
+| module = 
+| website = 
+| portaldisp = <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Victoria Aveyard''' (born July 27, 1990) is an American writer of young adult and fantasy fiction and screenplays.<ref>{{cite web|title='Red Queen' is familiar fantasy fare|url=https://www.usatoday.com/story/life/books/2015/02/17/red-queen/23497451/|work=USA Today|date=February 17, 2015}}</ref> She is known for her fantasy novel ''[[Red Queen (novel)|Red Queen]]''.<ref>{{cite web|title=Victoria Aveyard: I'm so pleased that badass ladies are considered a 'hot trend'|url=https://www.theguardian.com/childrens-books-site/2015/jul/01/victoria-aveyard-red-queen-interview|work=The Guardian|date=July 1, 2015}}</ref> Aveyard wrote the novel a year after graduating from [[University of Southern California]]'s screenwriting program in 2012.<ref>{{cite web|title=Elizabeth Banks in Talks to Direct YA Fantasy 'Red Queen'|url=http://www.hollywoodreporter.com/heat-vision/elizabeth-banks-talks-direct-ya-801884|work=[[The Hollywood Reporter]]}}</ref><ref>{{cite web|title='Red Queen' Writer Reveals Cover, Talks Inspirations and Splurges|url=http://www.hollywoodreporter.com/heat-vision/red-queen-writer-reveals-cover-715795|work=The Hollywood Reporter}}</ref> Sony Pictures teamed up with her to write spec screenplay ''Eternal''.<ref>{{cite web|title=Sony Acquires Spec 'Eternal' for 'Divergent' Producer and Michael Costigan|url=https://variety.com/2014/film/news/sony-eternal-divergent-michael-costigan-1201068320/|work=Variety|year=2014}}</ref>
+
+==Bibliography==
+
+===Red Queen===
+* ''[[Red Queen (novel)|Red Queen]]'' (2015)
+* ''Glass Sword'' (2016)
+* ''King's Cage'' (2017)
+* ''War Storm'' (2018)
+
+====Novellas====
+* ''Cruel Crown'' (2016, Collects both the novellas ''Queen Song'' and ''Steel Scars'')
+** ''Queen Song'' (2015)
+** ''Steel Scars'' (2016)
+* ''Broken Throne'' (2019)<ref>{{Cite web|url = http://victoriaaveyard.com/post/130336090945/hi-victoria-what-is-cruel-crown-about-its-not|title = Hi Victoria, What is Cruel Crown about? Its not...|website = victoriaaveyard.com|access-date = 2016-03-09}}</ref>
+
+=== Realm Breaker ===
+
+* ''Realm Breaker'' (2021)
+
+==References==
+{{reflist|25em}}
+
+==External links==
+{{Portal|Children and Young Adult Literature}}
+* [http://victoriaaveyard.blogspot.in/ Personal blog]
+
+{{LCAuth|no2015014865|Victoria Aveyard|3|}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aveyard, Victoria}}
+[[Category:American women novelists]]
+[[Category:American fantasy writers]]
+[[Category:Living people]]
+[[Category:People from East Longmeadow, Massachusetts]]
+[[Category:Novelists from Massachusetts]]
+[[Category:21st-century American novelists]]
+[[Category:USC School of Cinematic Arts alumni]]
+[[Category:21st-century American women writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:1990 births]]

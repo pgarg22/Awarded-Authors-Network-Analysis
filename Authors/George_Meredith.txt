@@ -1,0 +1,222 @@
+{{short description|British novelist and poet of the Victorian era}}
+{{about|the novelist|the founder of Swansea, Tasmania|George Meredith (Tasmanian settler)}}
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=February 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = George Meredith
+| image       = George Meredith by George Frederic Watts.jpg
+| caption     = George Meredith in 1893 by [[George Frederic Watts]]
+| birth_date  = {{Birth date|1828|2|12|df=y}}
+| birth_place = [[Portsmouth]], [[Hampshire]], England
+| death_date  = {{death date and age|1909|5|18|1828|2|12|df=y}}
+| death_place = [[Box Hill, Surrey|Box Hill]], [[Surrey]], England
+| occupation  = 
+| nationality = English
+| period      = 
+| notableworks= ''Modern Love''
+| genre       = 
+| subject     = 
+| movement    = [[Victorian literature]]
+| signature   = Signature of George Meredith.jpg
+| spouses =   Mary Ellen Peacock (1849–1861)<br> Marie Vulliamy (1864–1886)
+| children = 3
+}}
+'''George Meredith''' {{postnominals|country=GBR|OM}} (12 February 1828 – 18 May 1909) was an English novelist and poet of the [[Victorian era]]. At first his focus was poetry, influenced by [[John Keats]] among others, but he gradually established a reputation as a novelist. ''[[The Ordeal of Richard Feverel]]'' (1859) briefly scandalized Victorian literary circles. Of his later novels, the most enduring is ''[[The Egoist (novel)|The Egoist]]'' (1879), though in his lifetime his greatest success was ''[[Diana of the Crossways]]'' (1885). His novels were innovative in their attention to characters' psychology, and also took a close interest in social change. His style, in both poetry and prose, was noted for its syntactic complexity; [[Oscar Wilde]] likened it to "chaos illumined by brilliant flashes of lightning".<ref>''The Prose of Oscar Wilde'', New York: Cosimo Classics, 2005, p. 378.</ref> He was an encourager of other novelists, as well as an influence on them; among those to benefit were [[Robert Louis Stevenson]] and [[George Gissing]]. He was nominated for the [[Nobel Prize in Literature]] seven times.<ref>{{Cite web|url=https://www.nobelprize.org/nomination/archive/show_people.php?id=6188|title=Nomination Database|website=www.nobelprize.org|access-date=19 April 2017}}</ref>
+
+== Life ==
+=== Early years, education and first marriage ===
+Meredith was born at 73 High Street, [[Portsmouth]], [[Hampshire]], the only child of Augustus Urmston Meredith and his wife Jane Eliza (née Macnamara). The name Meredith is Welsh, and he would describe himself as "half Irish and half Welsh" (on his mother's and father's sides, respectively). He was proud of his Welsh origins, and such pride is evident in his novels.<ref>J. A. Hammerton, ''George Meredith: His Life and Art in Anecdote and Criticism'', New York: Haskell House, 1971 (reprint), pp. 3-4.</ref> His biographer [[Lionel Stevenson]] explains that Meredith's paternal grandfather, Melchizedek, would sometimes "boast eloquently of his princely forebears", but "between his immediate forebears and the legendary Welsh princes of seven centuries before, the history of the family remains obscure."<ref>Lionel Stevenson, ''The Ordeal of George Meredith'', London: Peter Owen, 1953, p. 2.</ref>
+
+Augustus Meredith was, as Melchizedek Meredith had been before him, a naval outfitter,<ref name="egoist-intro">{{cite book|first=George|last=Meredith|title=The Egoist|publisher=The New American Library of World Literature (Signet Classics)|year=1963|pages=Introduction (first page)|no-pp=true}}</ref> and among his employees was [[Gieves & Hawkes|James Watson Gieve]]. Jane died when her son was five, and the outfitting business failed, with Augustus declared bankrupt in November 1838. He moved to London and in July 1839 remarried – his second wife being the family's former housekeeper, Matilda Buckett.<ref>Stevenson, ''The Ordeal of George Meredith'', p. 9.</ref>
+
+George Meredith was educated in [[Southsea]] until 1840, when a legacy from his mother's sister, Anna, made it possible for him to attend a boarding school in [[Lowestoft]], [[Suffolk]]. In August 1842 he was sent to the [[Moravian Church|Moravian]] School in [[Neuwied]], near [[Koblenz|Coblenz]], where he remained until the spring of 1844; Lionel Stevenson argues that the experience instilled his "impatience towards sham and servility, contempt for conceit, admiration for courage, and devotion to candid and rational forthrightness".<ref>Stevenson, ''The Ordeal of George Meredith'', pp. 14-15.</ref>
+
+By 1845 it was planned that he would be articled to a solicitor, Richard Charnock of Paternoster Row, and he was duly articled in February 1846, shortly before his eighteenth birthday. But he abandoned the legal profession for journalism and poetry, taking lodgings in [[Pimlico]].<ref>Stevenson, ''The Ordeal of George Meredith'', pp. 10-23, 27.</ref>
+
+Drawn to literary circles, Meredith collaborated with [[Edward Gryffydh Peacock]], son of [[Thomas Love Peacock]], in publishing a privately circulated literary magazine, the ''Monthly Observer''.<ref name=Meredith>{{Cite web|url=https://www.poetryfoundation.org/poets/george-meredith|title=George Meredith|first=Poetry|last=Foundation|date=3 August 2019|website=Poetry Foundation|access-date=3 August 2019}}</ref> One of the contributors was Edward Peacock's sister Mary Ellen Nicolls. Described by the artist [[William Holman Hunt]] as "a dashing type of horsewoman who attracted much notice", Mary was the widow of a naval officer, Lieutenant Edward Nicolls, who in 1844 had drowned while attempting to rescue a man under his command.
+
+In August 1849 Meredith married Mary, at [[St George's, Hanover Square]]. At the time of the marriage, Meredith was twenty-one years old; she was twenty-eight and had a five-year-old daughter by Lieutenant Nicolls (born after his death).<ref>Margaret Harris, "George Meredith", ''Oxford Dictionary of National Biography'' (''ODNB'').</ref> Augustus Meredith was not present at the wedding, having emigrated to South Africa in April of that year.<ref>Stevenson, ''The Ordeal of George Meredith'', p. 29.</ref>
+
+=== First books ===
+Meredith collected his early writings, first published in periodicals, in an 1851 volume, ''Poems''. Dedicated to his father-in-law Thomas Love Peacock, "with the profound admiration and affectionate respect of his son-in-law",{{refn|group=note|Peacock was not fond of Meredith and is unlikely to have been happy about this dedication. For an account of the two men's differences, see [[Jack Lindsay]], ''George Meredith: His Life and Work'', London: Bodley Head, 1956, pp. 55-58.}} it attracted the interest of [[Alfred, Lord Tennyson|Tennyson]], who wrote Meredith an admiring letter, expressing the desire to meet, though their first encounter was awkward and left Meredith convinced of the elder poet's "conceit". A review by [[William Michael Rossetti]] likened Meredith to "a kind of limited Keats", "a seeing or sensuous poet" possessing "warmth of emotion".<ref>Stevenson, ''The Ordeal of George Meredith'', pp. 38-41.</ref>
+
+The Merediths' circumstances were precarious, and Mary had more than one miscarriage before in 1853 giving birth to a son, Arthur Gryffydh. At the time the couple were living with her father in Lower Halliford (today part of [[Shepperton]]). Following the birth, Peacock rented a house for them, across the village green from his home.<ref>Description and photographs of Vine Cottage at [https://victorianweb.org/authors/meredith/gallery/6.html Victorian Web]</ref>
+
+Fatherhood heightened Meredith's belief that he must press ahead with his writing career, resulting in what would eventually be his first substantial work of prose fiction, ''[[The Shaving of Shagpat]]''. An allegorical Arabian fantasy, it was written in imitation of "the style and manner of the Oriental story-tellers", but sprang "from no Eastern source".<ref>Stevenson, ''The Ordeal of George Meredith'', pp. 45-47.</ref> The book attracted little notice when published, in 1856, though it was praised by [[George Eliot]] for its "poetical genius".<ref name="ODNB">''ODNB''.</ref> The following year he published ''Farina'', subtitled "A Legend of Cologne", a work in the comic-grotesque vein that was described by ''[[The Athenaeum (British magazine)|The Athenaeum]]'''s critic as "a full-blooded specimen of the nonsense of Genius" and a "lively, audacious piece of extravaganza". George Eliot, in ''[[The Westminster Review]]'', called it "an original and an entertaining book", but it inevitably suffered from her reviewing it alongside ''[[Madame Bovary]]'' and ''[[Barchester Towers]]''.<ref>Stevenson, ''The Ordeal of George Meredith'', pp. 56-7.</ref>
+
+=== End of first marriage ===
+In 1856 was exhibited ''[[The Death of Chatterton]]'', a notable painting by the English [[Pre-Raphaelite]] painter [[Henry Wallis]] (1830–1916), for which Meredith served as the model.<ref>Krzysztof Cieszkowski, "The Legend Makers: Chatterton, Wallis and Meredith", ''History Today'', Vol. 32, Issue 11, November 1982.[https://www.historytoday.com/archive/legend-makers-chatterton-wallis-meredith]</ref> Mary and Wallis grew close; she was pregnant by him in 1857 and in April 1858 gave birth to a son, Harold, who was later known as Felix Wallis. The relationship with Wallis did not last; having spent some of 1858 with him in [[Capri]], she returned to England with Harold, and from then on moved frequently. She died three years later, of kidney failure, a few months after moving to Grotto Cottage, Oatlands Park, [[Weybridge]]. Meredith was by this time living in [[Chelsea, London|Chelsea]], where he kept rooms in Hobury Street and often had Arthur in his care.<ref>Stevenson, ''The Ordeal of George Meredith'', p. 59.</ref> He did not attend Mary's funeral; neither did Henry Wallis or her father.<ref>Cieszkowski, "The Legend Makers: Chatterton, Wallis and Meredith".</ref>
+
+Meredith's first major novel, ''[[The Ordeal of Richard Feverel]]'', emerged from his experience of the collapse of his marriage and shocked many readers with its sexual frankness.<ref name="ODNB"/> The collection of sonnets entitled ''[[Modern Love (poetry collection)|Modern Love]]'' (1862) also traces the decline of a marriage and has been described by Dorothy Mermin as "a curiosity of Victorian literature" and "a point of intersection between Victorian poetry and the Victorian novel"; "in a very real sense novelistic", it is notable for its "psychological realism" and "extreme subjectivity".<ref>Dorothy M. Mermin, "Poetry as Fiction: Meredith's ''Modern Love''", ''English Literary History'', Vol. 43, No. 1 (Spring, 1976), pp. 100-119.</ref>
+
+In 1861 he published ''[[Evan Harrington]]'', a novel which deals with class, manners and mimicry. It upset his father, living at the time in [[Cape Town]], who complained, "I am pained beyond expression, as I consider it aimed at myself." The novel, according to the critic Richard Cronin, "recklessly betrays family confidences" and constituted a "treacherous burlesque of his own family's history, but also ... [a] love letter to his family".<ref>Richard Cronin, ''George Meredith: The Life and Writing of an Alteregoist'', Palgrave Macmillan, 2019, p. 59.</ref>
+
+=== Second marriage ===
+In 1863 Meredith met Marie Vulliamy, a young woman of Anglo-French stock whose father, Justin, was the successful, recently retired proprietor of a wool business in Normandy.<ref name="ODNB"/> Attraction was immediate, and by 1864 Meredith was writing to his friend [[Frederick Maxse]] that "She has done me the honour to love me for some time". But from Mr Vulliamy's perspective, the 36-year-old Meredith, a widower with an 11-year-old son, was not the ideal suitor for his 24-year-old daughter, and Meredith had to provide character references, among whom were Edward Peacock, [[Sir Alexander Cornewall Duff-Gordon, 3rd Baronet|Sir Alexander Duff-Gordon]] and [[John Chapman (publisher)|John Chapman]].
+
+Mr Vulliamy was especially keen to understand the details of Meredith's previous marriage, to establish both his character and standing. In the end, his investigations "revealed nothing really discreditable, and though the financial outlook was not bright, it was not, with the £200 per annum that he would settle upon Marie, altogether dark. And outweighing all objections was the simple fact that his daughter was in love with Meredith. The only possible answer was yes, and he gave it."<ref>C. L. Cline, "The Betrothal of George Meredith to Marie Vulliamy", ''Nineteenth-Century Fiction'', Vol. 16, No. 3 (December 1961), pp. 231-243.</ref> The couple duly married in September 1864 and settled in [[Surrey]], first in [[Norbiton]] and then, at the end of 1867, at Flint Cottage near [[Box Hill, Surrey|Box Hill]].{{refn|group=note|Flint Cottage still stands and is a [[listed building|Grade II listed]] property "for both architectural and historical reasons". https://historicengland.org.uk/listing/the-list/list-entry/1278478}}
+
+=== Development of literary career ===
+Meredith continued to write poetry, often inspired by nature, but his most notable publications following his second marriage were novels. ''Emilia in England'' (1864) was a comedy at the expense of English social climbers. ''Rhoda Fleming'' (1865), which bore a resemblance to George Eliot's novels, portrayed a country girl seduced by a callous gentleman. ''Vittoria'' (1867) was a sequel of sorts to ''Emilia in England'', though not comic. None of these met with success, but he gained more recognition with ''[[The Adventures of Harry Richmond]]'' (1871) and the politically charged ''[[Beauchamp's Career]]'' (1876). Three novellas followed: ''The House on the Beach'' (1877), ''The Case of General Ople and Lady Camper'' (also 1877), and ''[[The Tale of Chloe]]'' (1879).
+
+He also attempted to complete a play, entitled ''The Sentimentalists'', which he had begun in 1862. He would never finish it, but after his death [[J. M. Barrie]] chose to weave together the various drafts to create a one-act comedy. This was performed alongside two short pieces of Barrie's during a season of work at the [[Duke of York's Theatre]] in 1910 – a project driven by [[Harley Granville-Barker]].<ref>Eric Salmon, ''Granville Barker: A Secret Life'', Cranbury, NJ: Associated University Presses, 1984, p. 129.</ref>
+
+Meredith's keen understanding of comedy was articulated in his ''Essay on Comedy'' (1877). Originally delivered as a lecture at the London Institution, it remains a reference work in the history of comic theory, having influenced analysts of comedy such as [[Joseph Wood Krutch]]. The essay was in effect preparation for ''[[The Egoist (novel)|The Egoist]]'', published in 1879, which applies some of his theories, in particular his idea of comedy as "the ultimate civiliser". He followed it with ''The Tragic Comedians'' (1880), which was written quickly and without great conviction.
+
+Popular success did not come easily to Meredith. ''The Egoist'' was a turning point inasmuch it brought him widespread critical recognition. One of several of his works which highlight the subjugation of women during the Victorian period, it was considered by [[W. E. Henley]], who reviewed it in at least four publications and possibly as many as seven, to make him "a companion for [[Balzac]] and [[Samuel Richardson|Richardson]], an intimate for [[Henry Fielding|Fielding]] and [[Cervantes]]". The critic for the ''New Quarterly Magazine'' commented, "We pay Mr Meredith a high compliment when we say he enables the reader to understand what is meant by Comedy, in the best and fullest sense of the word."<ref>L. T. Hergenhan, "Meredith Achieves Recognition: The Reception of ''Beauchamp's Career'' and ''The Egoist''", ''Texas Studies in Literature and Language'', Vol. 11, No. 3 (Fall 1969), pp. 1247-1268.</ref>
+
+His most commercially rewarding novel was ''[[Diana of the Crossways]]'', published in 1885,<ref>{{cite DNB12|wstitle= Meredith, George|volume=2|pages=604–616}}</ref> which attracted notice because of its relationship to real-life events involving [[Caroline Norton]] and [[William Lamb, 2nd Viscount Melbourne|Lord Melbourne]]. Margaret Harris explains that "like many of Meredith's novels, ''Diana'' contains commentary on the aims and techniques of fiction, made particularly potent by Diana's being herself a novelist dedicated to 'reading the inner as well as exhibiting the outer'".<ref name="ODNB"/> [[George Gissing]] wrote to his brother, "By hook or crook, get hold of ''Diana of the Crossways''. The book is right glorious. Shakespeare in modern English", and [[William Cosmo Monkhouse]] wrote in the ''Saturday Review'' that "amongst all his intellectual and literary feats, Mr Meredith has, perhaps, never accomplished one more striking".<ref>Quoted in Stevenson, ''The Ordeal of George Meredith'', p. 259.</ref> ''Diana'' was his first book to make an impression in America.<ref>Richard Burton, ''Masters of the English Novel'', Frankfurt: Outlook, 2019, p. 160.</ref>
+[[File:Chatterton.jpg|thumb|300px|''[[The Death of Chatterton]]'' by [[Henry Wallis]], [[Birmingham Museum and Art Gallery]] version, for which Meredith posed in 1856]]
+
+=== Influence in literary circles ===
+Meredith supplemented his often uncertain writer's income with a job as a publisher's reader. His advice to [[Chapman & Hall]] made him influential in the world of letters, and he was capable of reading as many as ten manuscripts a week, though his judgement was not always reliable; [[Ellen Wood (author)|Ellen Wood]]'s novel ''[[East Lynne]]'' was rejected by Chapman & Hall on his say-so yet went on, when published by [[Richard Bentley (publisher)|Richard Bentley]], to be a bestseller.<ref name="ODNB"/>
+
+His friends in the literary world included, at different times, [[William Michael Rossetti|William]] and [[Dante Gabriel Rossetti]], [[Algernon Charles Swinburne]], [[Cotter Morison]],<ref>Meredith's place in the circles of Rosetti, Swinburne, Morison, [[Sir Alexander Cornewall Duff-Gordon, 3rd Baronet|Sir Alexander Duff-Gordon]] and Sir William Hardman is described in S. M. Ellis, ''A Mid-Victorian Pepys, The Letters and Memoirs of Sir William Hardman, M.A., F.R.G.S'' (Cecil Palmer, London 1923), which includes an early photograph of George Meredith with his son Arthur Meredith, facing p. 50.</ref> [[Leslie Stephen]], [[Robert Louis Stevenson]], [[George Gissing]] and [[J. M. Barrie]].
+
+[[Gissing]] wrote in a letter to his brother Algernon that Meredith's novels were "of the superlatively tough species".<ref>Letters of George Gissing to members of his family, collected and arranged by Algernon and Ellen Gissing. London: Constable, 1927, letter dated 12 June 1884.</ref> His contemporary Sir [[Arthur Conan Doyle]] paid tribute to him in the short story "[[The Boscombe Valley Mystery]]", in which [[Sherlock Holmes]] says to [[Dr. Watson]], during the discussion of the case, "And now let us talk about George Meredith, if you please, and we shall leave all minor matters until to-morrow." [[Oscar Wilde]] in "The Art of Novel-Writing" reflected, "Ah, Meredith! Who can define him? ... As a writer he has mastered everything, except language ... Too strange to be popular, too individual to have imitators, ... [he] stands absolutely alone."<ref>''The Prose of Oscar Wilde'', p. 378.</ref>
+ 
+In 1868 Meredith was introduced to [[Thomas Hardy]] by [[Frederic Chapman]] of [[Chapman & Hall]]. Hardy had submitted his first novel, ''The Poor Man and the Lady''. Meredith advised Hardy not to publish his book as it would be attacked by reviewers and destroy his hopes of becoming a novelist. Meredith felt the book was too bitter a satire on the rich, and counselled Hardy to put it aside and write another "with a purely artistic purpose" and more of a plot. Meredith spoke from experience; his own first big novel, ''The Ordeal of Richard Feverel'', was judged so shocking that Mudie's circulating library had cancelled an order of 300 copies. Hardy continued in his attempts to publish the novel, without success, though he clearly took Meredith's advice seriously.<ref>Tomalin, Claire. ''Thomas Hardy: The Time Torn Man''. New York: Penguin, 2007.
+</ref>
+
+His books were translated into Japanese and influenced authors like [[Natsume Sōseki]].
+
+=== Politics ===
+Meredith's politics were those of a Radical [[liberalism|Liberal]], and he was friends with other Radicals such as [[Frederick Maxse]], whom he met around 1860, and [[John Morley]], whom he first encountered in print, as the ''Literary Gazette'''s enraptured reviewer of ''Evan Harrington''.<ref>{{cite journal |last1=McGlamery |first1=Gayla S. |title=George Meredith and modern Liberal theory |journal=Nineteenth-Century Contexts |date=1993 |volume=17 |issue=1 |pages=1–16|doi=10.1080/08905499308583357 }}</ref><ref>{{cite journal |last1=Taylor |first1=Antony |title='The Old Chartist': Radical Veterans on the Late Nineteenth- and Early Twentieth-Century Political Platform |journal=History |date=2010 |volume=95 |issue=4 |pages=458–476|doi=10.1111/j.1468-229X.2010.00495.x }}</ref> Another politically active friend was [[W. T. Stead]], who replaced Morley as editor of the ''[[Pall Mall Gazette]]'' and was renowned for his campaigning journalism, in particular a [[The Maiden Tribute of Modern Babylon|crusade against child prostitution]]. Stead shared with Meredith an aversion to war, a loathing of the "foul fury of Jingoism" and "jingo-Imperialism" periodically evident in the British press, a hostility to the Russophobia then prevalent in Britain, and an appetite for greater democracy.<ref>Joseph O. Baylen, "George Meredith and W. T. Stead: Three Unpublished Letters", ''Huntington Library Quarterly'', Vol. 24, No. 1 (Nov., 1960), pp. 47-57.</ref>
+
+=== Later life ===
+Beginning in the 1880s, Meredith's interest in writing poetry intensified again, and he was of the opinion that his poems would prove more durable than his prose.<ref name="ODNB"/> In 1883 he published ''Poems and Lyrics of the Joy of Earth'', which contained substantial new pieces such as "Melampus", "The Day of the Daughter of Hades", "Earth and Man" and "The Woods of Westermain", along with pieces that had previously appeared in periodicals, including "The Lark Ascending" and an expanded version of his earlier "Love in the Valley". Admirers of the volumes included [[Alice Meynell]], [[W. P. Ker]] and [[Mark Pattison (academic)|Mark Pattison]]. ''Ballads and Poems of Tragic Life'' (1887) brought together many of his previously uncollected poems. Its poor reception, especially by W. E. Henley, cemented Meredith's belief that there was a critical conspiracy against him.<ref>Stevenson, ''The Ordeal of George Meredith'', pp. 249-50, 275.</ref>
+
+Nine of his novels were republished in 1885–6, priced at six shillings each, which made them accessible to a wider audience, and from 1889 they appeared in an edition priced 3s. 6d.. Meredith was moved to joke to [[James Payn]], editor of the ''[[Cornhill Magazine]]'', that his "submerged head [was] strangely appearing above the waters in England".<ref>Philip Waller, ''Writers, Readers, and Reputations: Literary Life in Britain 1870-1918'', Oxford: Oxford University Press, 2008, p. 892.</ref>
+
+He continued to publish new novels, including ''One of our Conquerors'' (1891), an experimental portrait of a troubled marriage, and ''Lord Ormont and his Aminta'' (1894), which depicts a woman breaking free from a humiliating marriage and re-establishing her self-worth through a new relationship. The latter contains a sketch of a school that resembles the one he attended in Neuwied. ''The Amazing Marriage'' (1895), melodramatic yet closely concerned with modern questions of psychology and gender, was the last of his novels to be published in his lifetime; ''Celt and Saxon'', an unfinished early work which took a keen interest in the relationship between race and ideology, appeared posthumously in 1910.
+
+Marie died of throat cancer in 1885, lauded by Meredith as "the most unpretending, brave and steadfast friend ever given for a mate".<ref name="ODNB"/> In later life he was troubled by ailments which restricted his mobility. Explanations for this have included [[locomotor ataxia]] and [[osteoarthritis]].<ref name="ODNB"/>
+
+Before his death, Meredith was honoured from many quarters: in 1892 he succeeded [[Alfred, Lord Tennyson|Tennyson]] as president of the [[Society of Authors]]; that year there was an honorary doctorate from the [[University of St Andrews]]; and at a dinner in his honour in 1895 [[Thomas Hardy]] and [[George Gissing]] paid tribute to his achievements and his influence on them. [[Max Beerbohm]]'s caricature for ''Vanity Fair'', published in 1896 and captioned "Our First Novelist", was an indication of Meredith's standing at that time; Beerbohm thought him, Shakespeare apart, the greatest English literary figure.<ref>J. G. Riewald, ''Max Beerbohm's Mischievous Wit'', Assen: Van Gorcum, 2000, p. 101.</ref>
+
+In 1905 he was appointed to the [[Order of Merit]], which had recently been established by [[Edward VII|King Edward VII]].<ref name="egoist-intro" /> He was invested with the Order at Flint Cottage in December of that year, at a small ceremony performed by the King's representative, [[Arthur Ellis (British Army officer)|Sir Arthur Ellis]].<ref>Stewart Marsh Ellis, ''George Meredith: His Life and Friends in Relation to His Work'', New York: Haskell House, 1971, p. 310.</ref>
+
+In 1909, he died at home in [[Box Hill, Surrey|Box Hill]].<ref name="egoist-intro" /> His ashes were buried alongside Marie's in the cemetery at [[Dorking]], Surrey.<ref>[https://dorkingmuseum.org.uk/george-meredith/ Dorking Museum]</ref>
+
+=== Family ===
+* Augustus Meredith died in 1876, aged seventy-nine, and his second wife Matilda in 1885, aged sixty-seven. Both were buried in Southsea, having returned to England from South Africa around 1863. In Augustus's final years, George visited him from time to time, though only out of a sense of duty.<ref>Stewart Marsh Ellis, ''George Meredith: His Life and Friends in Relation to His Work'', pp. 138-9.</ref>
+* By his two wives George Meredith had three children, outliving both wives and one child.
+* His relationship with Arthur, his son by Mary, was at first affectionate, and they made a memorable trip to the Alps and Venice in 1861. In 1862 Arthur was enrolled at [[Norwich School]], which was run by a friend of Meredith's, [[Augustus Jessopp]].{{refn|group=note|Meredith made Jessopp's acquaintance after Jessopp wrote him fan mail in 1861. Following an exchange of letters, they met in December of that year; Jessopp and his wife were quick to take an interest in Arthur, which prompted Meredith to believe his son would benefit from boarding at Norwich School. Ultimately, though, the cost of keeping him there proved prohibitive.<ref>Stevenson, ''The Ordeal of George Meredith'', pp. 101-2, 117, 162.</ref>}} Arthur would later be sent to school in Switzerland, before continuing his studies in Stuttgart. For most of Arthur's adult life, father and son were estranged. Arthur found work in a linseed warehouse in France, but health problems curtailed this, and he spent several years on Lake Garda, producing a little journalism and attempting to write a book. His health collapsed in 1886, and he relocated to Australia. He died of tuberculosis, not long after returning from Australia, in September 1890.<ref>Stevenson, ''The Ordeal of George Meredith'', pp. 92-5, 117, 162, 242, 270, 283, 288.</ref>
+* With his second wife, Marie, he had two children. Their son, William Maxse (1865–1937), would edit Meredith's letters and achieve note in the world of publishing.<ref>''New York Times'', 3 February 1937, p. 23.</ref> Their daughter, Marie Eveleen (1871–1933), known as Mariette, married [[Henry Parkman Sturgis]], an American-born banker and politician twenty-four years her senior, who by his first wife Mary (d. 1886) had six children.<ref name="ODNB"/>
+* His stepdaughter Edith Nicolls, later Clarke, for more than forty years ran [[The National Training School Of Cookery]]. A pioneer of what came to be known as "domestic science", she published several cookbooks and received the [[Order of the British Empire|MBE]].{{refn|group=note|Among her publications were ''Plain Cookery'', ''Fancy Cookery'' and ''High-Class Cookery''. Her endeavours were recognised with a gold medal from the [[Royal Society of Arts]].<ref>Diane Johnson, ''The True History of the First Mrs Meredith'', New York Review Books, 2020 (reprint), p. 174.</ref>}} She died in 1926.
+* The first biography of Meredith was published in 1920 by Stewart Marsh Ellis, his second cousin.<ref>Cronin, ''George Meredith: The Life and Writing of an Alteregoist'', p. 4.</ref>
+
+== Works ==
+[[File:George Meredith Vanity Fair 24 September 1896.jpg|thumb|right|<center>"Our First Novelist"<br>Meredith as caricatured by [[Max Beerbohm]] in ''[[Vanity Fair (British magazine)|Vanity Fair]]'', September 1896</center>]]
+[[File:Portrait of George Meredith.jpg|thumb|George Meredith in middle age]]
+[[File:George Meredith's home at Box Hill.jpg|thumb|George Meredith's home at Box Hill, where much of his work was written]]
+
+=== Novels ===
+{{columns-list|colwidth=25em;|
+*''[[The Shaving of Shagpat]]'' (1856)
+*''Farina'' (1857)
+*''[[The Ordeal of Richard Feverel]]'' (1859)
+*''[[Evan Harrington]]'' (1861)
+*''Emilia in England'' (1864), republished as ''Sandra Belloni'' in 1887
+*''Rhoda Fleming'' (1865)
+*''Vittoria'' (1867)
+*''[[The Adventures of Harry Richmond]]'' (1871)
+*''[[Beauchamp's Career]]'' (1875)
+*''[[The House on the Beach]]'' (1877)
+*''The Case of General Ople and Lady Camper'' (1877)
+*''[[The Tale of Chloe]]'' (1879)
+*''[[The Egoist (novel)|The Egoist]]'' (1879)
+*''The Tragic Comedians'' (1880)
+*''[[Diana of the Crossways]]'' (1885)
+*''One of our Conquerors'' (1891)
+*''Lord Ormont and his Aminta'' (1894)
+*''The Amazing Marriage'' (1895)
+*''Celt and Saxon'' (1910)
+}}
+
+=== Poetry ===
+{{columns-list|colwidth=25em;|
+*''Poems'' (1851)
+*''[[Modern Love (poetry collection)|Modern Love]]'' (1862)
+*''[[The Lark Ascending]]'' (1881),<ref>First printed in ''The Fortnightly'', May 1881.</ref> (which inspired [[Ralph Vaughan Williams|Vaughan Williams]]' instrumental work of that title).<ref name="allpoetry.com">{{cite web |url=http://allpoetry.com/poem/8475727-The_Lark_Ascending-by-George_Meredith |title=The Lark Ascending by George Meredith |author=allpoetry.com |access-date=16 July 2011}}</ref>
+*''Poems and Lyrics of the Joy of Earth'' (1883) 
+*''The Woods of Westermain'' (1883)
+*''A Faith on Trial'' (1885)
+*''Ballads and Poems of Tragic Life'' (1887)
+*''A Reading of Earth'' (1888)
+*''The Empty Purse'' (1892)
+*''Odes in Contribution to the Song of French History'' (1898)
+*''A Reading of Life'' (1901)
+*''Selected Poems of George Meredith'' (1903, author's supervision)<ref>Archibald Constable and Co., Westminster 1903.</ref>
+*''Last Poems'' (1909)
+*''Lucifer in Starlight''
+*''Dirge in woods''
+}}
+
+=== Essays ===
+*''Essay on Comedy'' (1877)
+
+== Literary style ==
+Meredith's style has attracted a great deal of comment, both favourable and disapproving.
+
+His novels, far from being action-packed, are instead driven by what he called "action of the mind", and the large amounts of dialogue have led to their being dismissed as "talky".<ref>[https://www.poetryfoundation.org/poets/george-meredith Poetry Foundation page on Meredith. See also Margaret Harris, "'The Fraternity of Old Lamps': Some Observations on George Meredith's Prose Stye", ''Style'', Vol. 7, No. 3 (Fall 1973), pp. 271-293.]</ref> Critic Neil Roberts describes "the often irritating but profoundly original world of Meredith's novelistic art", noting that these are two sides of "the sense of the ''new''" in his work and that this is "still felt by readers encountering Meredith today". Roberts argues that Meredith's use of dialogue and multiple voices make him "a [[Mikhail Bakhtin|Bakhtinian]] novelist ''par excellence''".<ref>Neil Roberts, ''Meredith and the Novel'', Houndmills: Macmillan, 1997, pp. 1, 6.</ref>
+
+His prose, aphoristic and allusive, has often been seen as a barrier to comprehension, with some critics arguing that the style, rather than being a means to an end, serves as an end in itself. Oscar Wilde's description of "chaos illumined by brilliant flashes of lightning" has been echoed by many others. A recurring objection is the mental effort required to decipher his meaning. "Readers," writes Vanessa L. Ryan, "complained that Meredith made too constant an appeal to thoughtfulness ... [and] charged his writing with too many ideas and mental abstractions."<ref>Vanessa L. Ryan, ''Thinking Without Thinking in the Victorian Novel'', Baltimore: Johns Hopkins University Press, 2012, p. 127.</ref>
+
+However, admirers since George Eliot have applauded the poetic qualities of Meredith's prose. For [[Max Beerbohm]], he "packs tight all his pages with wit, philosophy, poetry, and psychological analysis". Yet even an enthusiast as fervent as Beerbohm can concede that "His obscurity, like that of [[Thomas Carlyle|Carlyle]] and [[Robert Browning|Browning]], is due less to extreme subtlety than to the plethoric abundance of his ideas".<ref>[https://victorianweb.org/authors/mb/obscurity.html Victorian Web page on Meredith's style.]</ref>
+
+In a thesis published in Meredith's lifetime, Leah Durand Jones commented that his style is "generally conceded to be more subtle and abstruse, more complex and intricate than that of any other modern writer": he "usually avoids the conventional", achieves "independence of thought and expression" through the "brilliancy of his epigrams", finds "analogies in the most unexpected places", and possesses a "power of compression" which can disconcert readers, not least through a "constant omission of pronouns, relatives, or even nouns and verbs" that demands "swiftness of comprehension".<ref>Leah Durand Jones, thesis on "The Psychology of George Meredith's Style", Drake University, 1908, pp. 3, 6, 10, 18, 22, 28.[https://escholarshare.drake.edu/handle/2092/1694]</ref>
+
+As a poet, Meredith has drawn both praise and criticism for his innovation in metrical and stanzaic forms, along with his unorthodox syntax and metaphors. But his poetry is more varied than many assessments recognise; noting the tendency to overlook the pessimistic poetry Meredith produced after ''Modern Love'' and until the 1880s, Arthur L. Simpson explains that "The contrast between the derivative Romanticism of the early poems and the evolutionary naturalism of those published after 1880 is striking", and notes, of Meredith's work in the 1860s and 1870s, that "The tensions and polarities of the poems of this period bear comparison to those in the poetry of the early [[Alfred Tennyson|Tennyson]], of [[Matthew Arnold|Arnold]], and of the [[Gerard Manley Hopkins|Hopkins]] of the terrible sonnets."<ref>Arthur L. Simpson, "Meredith's Alien Vision: 'In the Woods'", ''Victorian Poetry'', Vol. 20, No. 2 (Summer, 1982), pp. 113-123.</ref>
+
+== Notes ==
+{{reflist|group=note|colwidth=45em;|}}
+
+== References ==
+{{reflist|colwidth=24em;|}}
+
+==Further reading==
+* [[Edward Clodd|Clodd, Edward]]. "George Meredith (1828–1909)", in Clodd's ''Memories'' (London: Chapman and Hall, 1916), [https://archive.org/stream/memories00clodiala#page/138/mode/2up on p. &nbsp;138–164].
+* Dawson, William James. "George Meredith", in Dawson's ''The Makers of English Fiction'', 2nd ed., (New York: F.H. Revell Co., 1905), on p.&nbsp;191–212.
+* Ellis, Stewart Marsh. ''George Meredith: His Life and Friends in Relation to his Work'' (Grant Richards Ltd, London 1920). [https://archive.org/stream/georgemeredithhi00elli#page/n9/mode/2up read here]
+* Ellis, Stewart Marsh. ''A Mid-Victorian Pepys. The Letters and Memoirs of Sir William Hardman, M.A., F.R.G.S.'' (Cecil Palmer, London 1923).
+*[[Siegfried Sassoon|Sassoon, Siegfried]]. ''Meredith'' (Constable, London 1948).
+* Stevenson, Lionel. ''The Ordeal of George Meredith'' (New York: Scribners, 1953).
+*{{cite ODNB|first=Margaret|last=Harris|title = Meredith, George (1828–1909)|id=34991}}
+
+== External links ==
+{{wikiquote}}
+{{wikisource author}}
+{{commons category|George Meredith}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/george-meredith}}
+* {{Gutenberg author | id=520}}
+* {{Internet Archive author |sname=George Meredith}}
+* {{Librivox author |id=2015}}
+*[http://www.literaryhistory.com/19thC/MEREDITH.htm Portal for articles on George Meredith]
+*[http://www.victorianweb.org/authors/meredith/biograph.html Biography of George Meredith by Elvira Casal]
+*[http://www.victorianweb.org/authors/henley/meredith.html W.E. Henley on George Meredith]
+*[https://archive.org/stream/nationalmagazine23brayrich#page/272/mode/1up "George Meredith: A Study"], by Leonie Gilman, ''National Magazine'', December 1905
+*[http://theotherpages.org/poems/poem-mn.html#meredith Meredith index entry at Poets' Corner]
+*[http://www.poemhunter.com/george-meredith/ Poems by George Meredith]
+*[http://theotherpages.org/poems/meredi02.html ''Modern Love'']
+*[https://ebooks.adelaide.edu.au/m/meredith/george/ The Works of George Meredith] at [[University of Adelaide|The University of Adelaide Library]]
+* Archival material at {{wikidata|qualifier|property|P485|Q24568958|P856|format=\[%q %p\]}}
+* [[hdl:10079/fa/beinecke.meredith|George Meredith Collection]]. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.
+
+{{George Meredith}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Meredith, George}}
+[[Category:1828 births]]
+[[Category:1909 deaths]]
+[[Category:Writers from Portsmouth]]
+[[Category:19th-century English novelists]]
+[[Category:19th-century English poets]]
+[[Category:Burials in Surrey]]
+[[Category:British male poets]]
+[[Category:English male novelists]]
+[[Category:English male poets]]
+[[Category:Members of the Order of Merit]]
+[[Category:Pre-Raphaelite Brotherhood artists' models]]
+[[Category:Victorian novelists]]

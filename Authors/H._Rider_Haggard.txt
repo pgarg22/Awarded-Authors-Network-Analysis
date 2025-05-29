@@ -1,0 +1,209 @@
+{{pp-move-indef}}
+{{short description|English adventure novelist}}
+{{Use British English|date=September 2013}}
+{{Use dmy dates|date=September 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| honorific_prefix   = [[Sir]]
+| name         = H. Rider Haggard
+| honorific_suffix = {{post-nominals|country=GBR|size=100%|KBE}}
+| image        = Henry Rider Haggard 03.jpg
+| imagesize    =
+| birth_name   = Henry Rider Haggard
+| birth_date   = {{birth date|1856|6|22|df=y}}
+| birth_place  = [[Bradenham, Norfolk|Bradenham]], [[Norfolk]], England
+| death_date   = {{death date and age|1925|5|14|1856|6|22|df=y}}
+| death_place  = [[Marylebone]], [[London]], England
+| resting_place = St. Mary's Church, [[Ditchingham]], Norfolk, England
+| occupation   = Novelist, scholar
+| nationality  = British
+| period       = 19th & 20th century
+| genre        = [[Adventure fiction|Adventure]], [[Fantasy genre|fantasy]], [[fables]], <br /> [[Romance (literary fiction)|romance]], [[Science fiction|sci-fi]], [[Historical Novel|historical]]
+| subject      = Africa
+| notableworks = ''[[King Solomon's Mines]]'',<br>[[Allan Quatermain]] series,<br>''[[She: A History of Adventure]]''
+| website      = {{URL|http://www.riderhaggardsociety.org.uk}}
+| signature    = Henry Rider Haggard signature.svg
+}}
+
+'''Sir Henry Rider Haggard''' {{post-nominals|country=GBR|size=100%|KBE}} ({{IPAc-en|ˈ|h|æ|g|ər|d}}; 22 June 1856 – 14 May 1925) was an English writer of [[adventure fiction]] [[Romance (literary fiction)|romances]] set in exotic locations, predominantly Africa, and a pioneer of the [[Lost World (genre)|lost world]] literary genre.<ref name=bio/> He was also involved in [[land reform]] throughout the [[British Empire]].<ref>{{Cite journal|last=Watts|first=James|date=2021|title=Land Reform, Henry Rider Haggard, and the Politics of Imperial Settlement, 1900–1920|url=https://www.cambridge.org/core/journals/historical-journal/article/land-reform-henry-rider-haggard-and-the-politics-of-imperial-settlement-19001920/7977418C4BE91572423994B2EEFFE126|journal=The Historical Journal|language=en|doi=10.1017/S0018246X21000613|issn=0018-246X|doi-access=free}}</ref> His stories, situated at the lighter end of [[Victorian literature]], continue to be popular and influential.
+
+==Life and career==
+
+===Early years===
+Henry Rider Haggard, generally known as H. Rider Haggard or Rider Haggard, was born at [[Bradenham, Norfolk]], the eighth of ten children, to William Meybohm Rider Haggard, a barrister, and Ella Doveton, an author and poet.<ref>{{cite web |url=http://www.violetbooks.com/lin-carter.html |title=Lost Races, Forgotten Cities |publisher=Violetbooks.com |date=1925-05-14 |access-date=2014-05-15 |url-status=dead |archive-url=https://web.archive.org/web/20140615053343/http://www.violetbooks.com/lin-carter.html |archive-date=15 June 2014 |df=dmy-all }}</ref> His father was born in [[Saint Petersburg]], Russia, in 1817 to British parents.<ref>{{cite web|url=https://ebooks.adelaide.edu.au/h/haggard/h_rider/days/chapter1.html|title=The Days of My Life, by H. Rider Haggard : CHAPTER 1|website=ebooks.adelaide.edu.au}}</ref> Haggard was initially sent to [[Garsington]] Rectory in Oxfordshire to study under Reverend H. J. Graham, but, unlike his elder brothers, who graduated from various [[Private school#Types of private schools in England and Wales|private schools]], he attended [[Ipswich School|Ipswich Grammar School]].<ref name="butts">
+{{cite book |chapter=Introduction and Chronology; by Dennis Butts. In |last=Haggard |first=H. Rider |title=King Solomon's Mines |year= 1989|publisher=Oxford University Press |pages=vii–xxviii|no-pp=true }}</ref> This was because<ref>Haggard, H. Rider (2002). "H. Rider Haggard". ''King Solomon's Mines''. Modern Library Paperback Edition. v.</ref> his father, who perhaps regarded him as somebody who was not going to amount to much,<ref>Haggard, H. Rider (2002). "H. Rider Haggard". ''King Solomon's Mines''. Modern Library Paperback Edition. vi.</ref> could no longer afford to maintain his expensive private education. After failing his army [[entrance exam]], he was sent to a private [[crammer]] in London to prepare for the entrance exam for the [[British Foreign Office]],<ref name="butts"/> which he never sat. During his two years in London he came into contact with people interested in the study of [[psychic phenomena]].<ref>H.d.R. [Memoir of Haggard]. In: Haggard, H. Rider (1957) Ayesha. London: Collins</ref>
+
+[[File:HRiderHaggard.jpg|thumb|left|Portrait of H. Rider Haggard c. 1902]]
+
+===South Africa, 1875–1882===
+In 1875, Haggard's father sent him to what is now South Africa to take up an unpaid position as assistant to the secretary to [[Henry Ernest Gascoyne Bulwer|Sir Henry Bulwer]], Lieutenant-Governor of the [[Colony of Natal]].<ref>Haggard, H. Rider (2002). "H. Rider Haggard". King Solomon's Mines. Modern Library Paperback Edition. vi.</ref> In 1876 he was transferred to the staff of Sir [[Theophilus Shepstone]], Special Commissioner for the Transvaal. It was in this role that Haggard was present in [[Pretoria]] in April 1877 for the official announcement of the British annexation of the [[Boer]] Republic of the [[South African Republic|Transvaal]]. Indeed, Haggard raised the [[Union flag]] and read out much of the [[proclamation]] following the loss of voice of the official originally entrusted with the duty.<ref>Pakenham, Thomas (1992) ''The Scramble for Africa: White Man's Conquest of the Dark Continent from 1876–1912'', Avon Books, New York. {{ISBN|0-380-71999-1}}.</ref>
+
+At about that time, Haggard fell in love with Mary Elizabeth "Lilly" Jackson, whom he intended to marry once he obtained paid employment in Africa. In 1878 he became Registrar of the High Court in the Transvaal, and wrote to his father informing him that he intended to return to England and marry her. His father forbade it until Haggard had made a career for himself, and by 1879 Jackson had married Frank Archer, a well-to-do banker. When Haggard eventually returned to England, he married a friend of his sister, Marianna Louisa Margitson (1859–1943) in 1880, and the couple travelled to Africa together. They had a son named Jack (born 1881, died of [[measles]] at age 10) and three daughters, Angela (b.1883), Dorothy (b.1884) and Lilias (b.1892). [[Lilias Rider Haggard]] became an author, edited ''The Rabbit Skin Cap'' and ''I Walked By Night'', and wrote a biography of her father entitled ''The Cloak That I Left'' (published in 1951).
+
+===In England, 1882–1925===
+[[File:HRiderHaggardBluePlaque.jpg|thumb|upright=.87|[[Blue plaque]], 69 Gunterstone Road, London]]
+
+Moving back to England in 1882, the couple settled in [[Ditchingham]], Norfolk, Louisa Margitson's ancestral home. Later they lived in [[Kessingland]] and had connections with the church in [[Bungay, Suffolk]]. Haggard turned to the study of law and was [[called to the bar]] in 1884. His practice of law was desultory and much of his time was taken up by the writing of novels, which he saw as being more profitable. Haggard lived at 69 Gunterstone Road in [[Hammersmith]], London, from mid-1885 to circa April 1888. It was at this Hammersmith address that he completed ''[[King Solomon's Mines]]'' (published September 1885).<ref>Eagles, Dorothy, and Carnell, Hilary, eds. (1978) ''The Oxford Literary Guide to the British Isles'', [[Oxford University Press]] {{ISBN|0-19-869123-8}} p. 188</ref> Haggard was heavily influenced by the larger-than-life adventurers whom he met in [[Colonisation of Africa|colonial Africa]], most notably [[Frederick Selous]] and [[Frederick Russell Burnham]]. He created his [[Allan Quatermain]] adventures under their influence, during a time when great mineral wealth was being discovered in Africa, as well as the ruins of ancient lost civilisations of the continent such as [[Great Zimbabwe]].<ref name="mandiringana">{{cite journal |last=Mandiringana |first=E. |author2=Stapleton, T. J. |year=1998 |title=The Literary Legacy of Frederick Courteney Selous |journal=History in Africa |volume=25 |pages=199–218 |doi=10.2307/3172188 |jstor= 3172188|publisher=African Studies Association }}</ref><ref name="pearson">{{cite web |url=http://www.humanitiesweb.org/human.php?s=s&p=l&a=c&ID=1144&o= |title=Theodore Roosevelt, Chapter XI: The Lion Hunter |access-date=18 December 2006 |last=Pearson |first=Edmund Lester |publisher=Humanities Web }}</ref> Three of his books, ''The Wizard'' (1896), ''Black Heart and White Heart; a Zulu Idyll'' (1896), and ''Elissa; the Doom of Zimbabwe'' (1898), are dedicated to Burnham's daughter Nada, the [[first white child]] born in [[Bulawayo]]; she had been named after Haggard's 1892 book ''[[Nada the Lily]]''.{{sfn|Haggard|1926}} Haggard belonged to the [[Athenaeum Club, London|Athenaeum]], [[Savile Club|Savile]], and [[Authors' Club|Authors']] clubs.<ref>{{cite magazine|title=HAGGARD, Henry Rider|magazine=Who's Who|year=1907|volume= 59|page=756|url=https://books.google.com/books?id=yEcuAAAAYAAJ&pg=PA756}}</ref>
+
+[[File:Henry Rider Haggard 02.jpg|thumb|left|upright=.85|H. Rider Haggard in later life (undated picture)]]
+
+===Aid for Lilly Archer===
+
+Years later, when Haggard was a successful novelist, he was contacted by his former love, Lilly Archer, née Jackson. She had been deserted by her husband, who had embezzled funds entrusted to him and had fled bankrupt to Africa. Haggard installed her and her sons in a house and saw to the children's education. Lilly eventually followed her husband to Africa, where he infected her with [[syphilis]] before dying of it himself. Lilly returned to England in late 1907, where Haggard again supported her until her death on 22 April 1909. These details were not generally known until the publication of Haggard's 1981 biography by Sydney Higgins.{{sfn|Higgins|1981}}
+
+===Writing career===
+After returning to England in 1882, Haggard published a book on the political situation in South Africa, as well as a handful of unsuccessful novels, {{sfn|Ellis|1978|p=89}} before writing the book for which he is most famous, ''[[King Solomon's Mines]]''. He accepted a 10 percent royalty rather than £100 for the copyright.{{sfn|Etherington|1984|p=99}}
+
+A sequel soon followed entitled ''[[Allan Quatermain (novel)|Allan Quatermain]]'', followed by ''[[She (novel)|She]]'' and its sequel ''[[Ayesha (novel)|Ayesha]]'', [[swashbuckling]] [[adventure novel]]s set in the context of the [[Scramble for Africa]] (although the action of ''Ayesha'' happens in [[Tibet]]). The hugely popular ''King Solomon's Mines'' is sometimes considered the first of the [[Lost World (genre)|Lost World]] genre.<ref>According to Robert E. Morsberger in the "Afterword" of ''King Solomon's Mines'', The Reader's Digest (1993).</ref> ''She'' is generally considered to be one of the classics of imaginative literature,<ref>{{cite web|url=http://www.gordon-fernandes.com/hp-lovecraft/Supernatural%20Horror%20In%20Literature%20by%20H_%20P_%20Lovecraft.htm|title=Supernatural Horror In Literature by H. P. Lovecraft}}</ref><ref>H.P. Lovecraft has stated in his essay ''[[Supernatural Horror in Literature]]'': ''The romantic, semi-Gothic, quasi-moral tradition here represented was carried far down the nineteenth century by such authors as Joseph Sheridan LeFanu, Wilkie Collins, the late Sir H. Rider Haggard (whose She is really remarkably good), Sir A. Conan Doyle, H. G. Wells, and Robert Louis Stevenson''</ref> and with 83 million copies sold by 1965, it is one of the [[List of best-selling books|best-selling books]] of all time.<ref>{{cite web|url=http://www.time.com/time/magazine/article/0,9171,842147,00.html|archive-url=https://web.archive.org/web/20080312201204/http://www.time.com/time/magazine/article/0,9171,842147,00.html|url-status=dead|archive-date=12 March 2008|title=Cinema: Waiting for Leo|date=17 September 1965|work=TIME.com}}</ref> He is also remembered for ''[[Nada the Lily]]'' (a tale of adventure among the [[Zulus]]) and the epic [[Viking]] romance, ''[[Eric Brighteyes]]''.
+
+His novels portray many of the stereotypes associated with [[colonialism]], yet they are unusual for the degree of sympathy with which the native populations are portrayed. Africans often play heroic roles in the novels, although the protagonists are typically European (though not invariably). Notable examples are the heroic Zulu warrior Umslopogaas, and Ignosi, the rightful king of Kukuanaland, in ''King Solomon's Mines''. Having developed an intense mutual friendship with the three Englishmen who help him regain his throne, he accepts their advice and abolishes witch-hunts and arbitrary capital punishment.
+
+Three of Haggard's novels were written in collaboration with his friend [[Andrew Lang]], who shared his interest in the spiritual realm and paranormal phenomena.
+
+Haggard also wrote about agricultural and social reform, in part inspired by his experiences in Africa, but also based on what he saw in Europe. At the end of his life, he was a staunch opponent of [[Bolsheviks|Bolshevism]], a position that he shared with his friend [[Rudyard Kipling]]. The two had bonded upon Kipling's arrival at London in 1889, largely on the strength of their shared opinions, and remained lifelong friends.<ref>{{cite book|first=Rudyard|last=Kipling|title=Something of Myself|url=https://archive.org/details/in.ernet.dli.2015.525263|year=1937|publisher=Macmillan & Co.|location=London}}</ref>
+
+===Public affairs===
+Haggard was involved in reforming agriculture and was a member of many commissions on land use and related affairs, work that involved several trips to the [[British Empire|Colonies and Dominions]].{{sfn|Cohen|1961|pp=239–85}} It eventually led to the passage of the [[List of Acts of the Parliament of the United Kingdom, 1900–1919#1909 (9 Edw. 7)|1909 Development Bill]].{{sfn|Cohen|1961|p=178}}
+
+He stood unsuccessfully for Parliament as a [[Conservative Party (UK)|Conservative]] candidate for the [[East Norfolk (UK Parliament constituency)|Eastern division of Norfolk]] in the 1895 summer election, losing by 197 votes. {{sfn|Cohen|1961|pp=157–58}}
+He was appointed a [[Knight Bachelor]] in 1912 and a Knight Commander of the [[Order of the British Empire]] in the [[1919 New Year Honours]].<ref>{{London Gazette |issue=28588 |date=8 March 1912 |page=1745}}</ref><ref>{{London Gazette |issue=31114 |date=8 January 1919 |page=448 |supp=y}}</ref>
+
+===Death===
+Haggard died on 14 May 1925 in [[Marylebone]], [[London]], aged 68.<ref>{{Cite web|url=http://www.freebmd.org.uk/cgi/information.pl?cite=hF%2B0Kbx4uXKx9gskZ7AnIw&scan=1|title=Index entry|access-date=3 January 2018|work=FreeBMD|publisher=ONS}}</ref><ref name=bio>{{cite news |title=Rider Haggard Dies in London Hospital. Author of 'She,' 'King Solomon's Mines' and Many Other Novels Was Nearly 69. He Was Knighted in 1912. An Authority on Agriculture and Sociology. Served on Government Missions |url=https://www.nytimes.com/1925/05/15/archives/rider-haggard-dies-in-london-hospital-author-of-she-king-solomons.html |newspaper=[[New York Times]] |date=15 May 1925 |access-date=18 November 2012 }}</ref> His ashes were buried at St Mary's Church, Ditchingham.{{sfn|Higgins|1981|p=241}} His papers are held at the Norfolk Record Office.{{sfn|Pocock|1993|p=288}}<ref>{{cite web|title=Rider Haggard Papers|url=http://nrocat.norfolk.gov.uk/DServe/dserve.exe?dsqServer=NCC3CL01&dsqIni=dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Catalog&dsqPos=0&dsqSearch=%28%28text%29%3D%27haggard%20papers%27%29|publisher=Norfolk Record Office|access-date=20 March 2013}}</ref> His descendants include the writer [[Stephen Haggard]] (great-nephew), the director [[Piers Haggard]] (great-great-nephew), and the actress [[Daisy Haggard]] (great-great-great niece).<ref>{{cite web |title=Daisy Haggard: 'If I had Botox, my career would be over' |url=https://www.theguardian.com/stage/2015/dec/08/daisy-haggard-episodes-actor-in-you-for-me-for-you-royal-court-london |website=[[The Guardian]] |access-date=29 April 2021}}</ref>
+
+==Legacy==
+[[File:H.Rider.Haggard.by.Leslie.Ward.for.Vanity Fair.May.21,1887.jpg|thumb|upright|''[[Vanity Fair (British magazine)|Vanity Fair]]'', 1887]]
+
+=== Influence===
+Psychoanalyst [[Carl Jung]] considered Ayesha, the female protagonist of ''She'', to be a manifestation of the [[Animus and Anima|anima]].{{cn|date=June 2020}} Her [[epithet]] "She Who Must Be Obeyed" is used by British author [[John Mortimer]] in his ''[[Rumpole of the Bailey]]'' series as the private name which the lead character uses for his wife, Hilda, before whom he trembles at home (despite the fact that he is a barrister with some skill in court). Haggard's [[Lost World (genre)|Lost World]] genre influenced popular American [[pulp magazine|pulp writers]] such as [[Edgar Rice Burroughs]], [[Robert E. Howard]], [[Talbot Mundy]], [[Philip José Farmer]], and [[Abraham Merritt]].<ref>See Lee
+Server, Encyclopedia of Pulp Fiction Writers (2002), pg.131.</ref> [[Allan Quatermain]], the adventure hero of ''King Solomon's Mines'' and its sequel ''Allan Quatermain'', was a template for the American character [[Indiana Jones (character)|Indiana Jones]].<ref>"The [[Republic Pictures|Republic Serials]] were most strongly influenced by Sir Henry Rider Haggard's 'white man explores savage Africa' stories, in particular ''King Solomon's Mines (1886)''"</ref><ref>{{cite web|url=http://www.moongadget.com/origins/general.html|title=Star Wars Origins - Other Science Fiction Influences}}</ref><ref>[http://www.superheroflix.com/news/NE0ab607ewPH26 "Based on a 1885 novel by Henry Rider Haggard] {{webarchive|url=https://web.archive.org/web/20081205015223/http://www.superheroflix.com/news/NE0ab607ewPH26 |date=5 December 2008 }}, the exploits of Alan Quatermain have long served as a template for the Indiana Jones character. In this particular film, King Solomon's Mines (1950), Quatermain finds himself unwillingly thrust into a worldwide search for the legendary mines of King Solomon. The look and feel of Indiana and his past adventures are quite apparent here, and his new quest follows some very similar through lines. Like Quatermain, Jones is reluctantly forced into helping the Russians find the Lost Temple of Akator and the Crystal Skulls mentioned in the film's title. Both Quatermain and Jones are confronted by angry villagers and a myriad of dangerous booby traps. Look to King Solomon's Mines for a good idea on the feel and tone Lucas and Spielberg are after with their latest Indiana Jones outing".</ref> Quatermain has gained recent popularity thanks to being a main character in the ''[[League of Extraordinary Gentlemen]]''.
+
+[[Graham Greene]], in an essay about Haggard, stated, "Enchantment is just what this writer exercised; he fixed pictures in our minds that thirty years have been unable to wear away."<ref>{{cite book |first=Graham |last=Greene |title=Rider Haggard's Secret |work=Collected Essays |location=New York |publisher=Viking Press |year=1969 |pages=209–214 }}</ref> Haggard was praised in 1965 by [[Roger Lancelyn Green]], one of the [[Oxford]] [[Inklings]], as a writer of a consistently high level of "literary skill and sheer imaginative power" and a co-originator with [[Robert Louis Stevenson]] of the ''Age of the Story Tellers''.<ref>from the introduction to the 1965 [[Everyman's Library]] edition of the one-volume ''[[The Prisoner of Zenda]]'' and ''[[Rupert of Hentzau]]'' by [[Anthony Hope]]</ref>
+
+=== On race===
+Rider Haggard's works have been criticised for their depictions of non-Europeans. In his non-fiction book ''[[Decolonising the Mind]]'', Kenyan author [[Ngũgĩ wa Thiong'o]] refers to Haggard, who he says was one of the canonical authors in primary and secondary school, as one of the "geniuses of racism."<ref name="Thiong'o 18">{{Cite book|url=https://books.google.com/books?id=z60udlv1F_cC|title=Decolonising the mind: the politics of language in African literature|last=Thiong'o|first=Ngugi wa|date=1994-01-01|publisher=East African Publishers|isbn=9789966466846|pages=18|language=en}}</ref> Author and academic [[Micere Mugo]] wrote in 1973 that reading the description of "an old African woman in Rider Haggard's ''[[King Solomon's Mines]]'' had for a long time made her feel mortal terror whenever she encountered old African women."<ref name="Thiong'o 18" />
+
+[[File:Ditchingham Church, Norfolk - presentation drawing for the Rider-Haggard window - James Powell and Sons - 1925.jpg|thumb|upright| James Powell and Sons' presentation drawing for the Rider-Haggard window at Ditchingham Church, Norfolk (1925)]]
+
+===Influence on children's literature in the 19th century===
+During the 19th century, Haggard was one of many individuals who contributed to children's literature. [[Morton N. Cohen]] described ''[[King Solomon's Mines]]'' as a story that has "universal interest, for grown-ups as well as youngsters".<ref name="Cohen">Cohen, Morton N., "The Tale of African Adventure." Rider Haggard: His Life and Works. New York: Walker and Company, 1961. 89–95. Print.</ref> Haggard himself wanted to write the book for boys, but it ultimately had an influence on children and adults around the world. Cohen explained, "''King Solomon’s Mines'' was being read in the public schools [and] aloud in class-rooms".<ref name="Cohen"/>
+
+=== General influence and legacy ===
+The first chapter of Haggard's book ''People of the Mist'' is credited with inspiring the motto of the [[Royal Air Force]] (formerly the [[Royal Flying Corps]]), ''[[Per ardua ad astra]]''.<ref>{{cite web|date=25 April 2012|title=The Royal Air Force MottoThe Royal Air Force Motto|url=http://www.raf.mod.uk/history/theroyalairforcemotto.cfm|url-status=dead|archive-url=https://web.archive.org/web/20171201132050/https://www.raf.mod.uk/history/theroyalairforcemotto.cfm|archive-date=1 December 2017|access-date=10 June 2012|publisher=RAF}}</ref>
+
+In 1925, his daughter Lilias commissioned a memorial window for Ditchingham Church, in his honour, from [[James Powell and Sons]].<ref name="AH">{{cite web|title=The List|url=http://www.abbottandholder-thelist.co.uk/|archive-url=https://web.archive.org/web/20191205131655/http://www.abbottandholder-thelist.co.uk/|archive-date=5 December 2019|access-date=6 December 2019|publisher=[[Abbott and Holder|Abbott and Holder Ltd]]}}</ref> The design features the Pyramids, his farm in Africa, and Bungay as seen from the Vineyard Hills near his home.<ref name="AH" /> 
+
+The Rider Haggard Society was founded in 1985. It publishes the ''Haggard Journal'' three times a year. <ref>Fergusson, James (2018) ''The Haggard Society.'' [[The Book Collector]] 67 no.1 (spring) 97-99.</ref>
+
+==Works==
+{{main|List of works by H. Rider Haggard}}
+
+===Films based on Haggard's works===
+Haggard's writings have been turned into films many times including:
+* ''King Solomon's Mines''
+:This novel has been adapted at least six times. The first version, ''[[King Solomon's Mines (1937 film)|King Solomon's Mines]]'', directed by [[Robert Stevenson (director)|Robert Stevenson]], premiered in 1937. The best known version premiered in 1950: ''[[King Solomon's Mines (1950 film)|King Solomon's Mines]]'', directed by [[Compton Bennett]] and [[Andrew Marton]], was followed in 1959 by a sequel, ''[[Watusi (film)|Watusi]]''. In 1979 a low-budget version directed by [[Alvin Rakoff]], ''[[King Solomon's Treasure]]'', combined both ''King Solomon's Mines'' and ''Allan Quatermain'' in one story. The 1985 film ''[[King Solomon's Mines (1985 film)|King Solomon's Mines]]'' was a tongue-in-cheek comedy, with a 1987 sequel in the same vein, ''[[Allan Quatermain and the Lost City of Gold]]''. Around the same time an Australian animated TV film came out, ''[[King Solomon's Mines (1986 telemovie)|King Solomon's Mines]]''.  In 2004 an American TV mini-series, ''[[King Solomon's Mines (2004 film)|King Solomon's Mines]]'' starred [[Patrick Swayze]]. In 2008 a direct-to-video adaptation, ''[[Allan Quatermain and the Temple of Skulls]]'', was released by [[Mark Atkins (director)|Mark Atkins]]; it bore more resemblance to [[Indiana Jones (character)|Indiana Jones]] than the novel.
+* ''She''
+:''[[She: A History of Adventure]]'' has been adapted for film at least ten times, and was one of the earliest movies to be made:
+:In 1899, as ''La Colonne de feu'' (''The Pillar of Fire''), by [[Georges Méliès]]. 
+:An American [[She (1911 film)|1911 version]] starred [[Marguerite Snow]].
+:A British-produced version appeared in 1916, and in 1917 [[Valeska Suratt]] appeared in a production for Fox which is lost. 
+:In 1925 a silent film of ''She'', starring [[Betty Blythe]], was produced with the active participation of Rider Haggard, who wrote the intertitles. This film combines elements from all the books in the series.
+:The [[She (1935 film)|1935 version]], filmed a decade later, featured [[Helen Gahagan]], [[Randolph Scott]], [[Helen Mack]], and [[Nigel Bruce]]. The lost city of Kôr is set in the [[Arctic]], rather than [[Africa]], and depicts the ancient civilisation in an [[Art Deco]] style. The music is by [[Max Steiner]]. The screenplay combines elements from all the books in the series, including [[Wisdom's Daughter]]. In 2006, [[Legend Films]] and [[Ray Harryhausen]] restored and [[colorized]] the film for [[DVD]] release, as it was originally intended.
+:The 1965 film ''[[She (1965 film)|She]]'' was produced by [[Hammer Film Productions]]; it starred [[Ursula Andress]] as Ayesha and [[John Richardson (actor)|John Richardson]] as her reincarnated love, with [[Peter Cushing]] and [[Bernard Cribbins]] as other members of the expedition.
+:The 1984 adaptation of ''[[She (1984 film)|She]]'' took place in a post-apocalyptic setting, attempting to capitalize on the fame of [[Mad Max]].
+:In 2001, another adaptation was released direct-to-video with [[Ian Duncan (actor)|Ian Duncan]] as Leo Vincey, [[Ophélie Winter]] as Ayesha and [[Marie Bäumer]] as Roxane.
+* ''[[Dawn (Rider Haggard novel)|Dawn]]''
+:The film ''Dawn'' was released in 1917, starring [[Hubert Carter]] and [[Annie Esmond]].
+* ''[[Jess (novel)|Jess]]''
+:This book was filmed in 1912,<ref>{{cite web|url=https://www.imdb.com/title/tt0339218/?ref_=nm_flmg_wr_29|title=Jess|date=21 May 1912|via=IMDb}}</ref> featuring [[Marguerite Snow]], [[Florence La Badie]] and [[James Cruze]], in 1914 with [[Constance Crawley]] and [[Arthur Maude]],<ref>{{cite web|url=https://www.imdb.com/title/tt0004169/?ref_=nm_flmg_wr_28|title=Jess|date=18 February 1914|via=IMDb}}</ref> and in 1917 as ''[[Heart and Soul (1917 film)|Heart and Soul]]'', starring [[Theda Bara]] in the title role.<ref>{{cite web|url=https://www.imdb.com/title/tt0008058/?ref_=nm_flmg_wr_22|title=Heart and Soul|date=21 May 1917|via=IMDb}}</ref>
+* ''[[Beatrice (novel)|Beatrice]]''
+:The book was adapted into a 1921 Italian [[silent film|silent]] [[Drama (film and television)|drama film]] called ''[[The Stronger Passion]]'',<ref>{{cite web|url=https://www.imdb.com/title/tt0011952/?ref_=nm_flmg_wr_18|title=The Stronger Passion|date=1 May 1921|via=IMDb}}</ref> directed by [[Herbert Brenon]] and starring [[Marie Doro]] and [[Sandro Salvini]].<ref>''Journeys of Desire'' p.50</ref>
+* ''[[Swallow (novel)|Swallow]]''
+:The novel was adapted into a 1922 South African film.<ref>{{cite web|url=https://www.imdb.com/title/tt0432117/?ref_=nm_flmg_wr_17|title=Swallow|date=20 July 1922|via=IMDb}}</ref>
+* ''[[Stella Fregelius]]''
+:The book was adapted into a 1921 British film, ''[[Stella (1921 film)|Stella]]''.<ref>{{cite web|url=https://www.imdb.com/title/tt0193525/?ref_=nm_flmg_wr_19|title=Stella|date=1 January 2000|via=IMDb}}</ref>
+* ''[[Moon of Israel (novel)|Moon of Israel]]''
+:This novel was the basis of a script by [[Ladislaus Vajda]], for film-director [[Michael Curtiz]] in his 1924 Austrian  epic known as ''[[Die Sklavenkönigin]]'' (''Queen of the Slaves'').<ref>{{cite web|url=https://www.imdb.com/title/tt0015339/?ref_=nm_flmg_wr_16|title=The Moon of Israel|date=24 October 1924|via=IMDb}}</ref>
+
+==Honours==
+The locality of [[Rider, British Columbia]], was named after him.
+Rider Haggard Lane in [[Kessingland]], Suffolk, is located at his former home.
+
+==See also==
+{{Portal|Biography}}
+* [[Jules Verne]] (1825&ndash;1905), like Boussenard, his French contemporary, also wrote of fantastic worlds, though some of these are considered to be more [[science fiction]] in some of his works than others.  ''[[Journey to the Center of the Earth]]'' and ''[[The Mysterious Island]]'' are novels that are similar in structure to the novels of Boussenard and Haggard.
+* [[Louis Henri Boussenard]] (1847–1911), French author of [[adventure novel]]s, dubbed the French Rider Haggard during his lifetime.
+* [[Pierre Benoit (novelist)|Pierre Benoit]] (1886&ndash;1962), French author whose novel ''[[Atlantida (novel)|L'Atlantide]]'' is similar to ''[[She: A History of Adventure|She]]''.
+* [[Emilio Salgari]] (1862–1911), Italian author of adventure novels and founder of the adventure genre in Italy.
+* [[Alexandre Dumas, père]] (1802–1870), French author of historical novels of high adventure.
+* [[Anthony Hope]] (1863–1933), English author of adventure novels such as ''[[The Prisoner of Zenda]]''.
+* [[P. C. Wren]] (1875–1941), British writer of adventure fiction. He is remembered best for ''[[Beau Geste]]'', a much-filmed book of 1924 involving the [[French Foreign Legion]] in North Africa, and its sequels, ''Beau Sabreur'' and ''Beau Ideal''.
+* [[Mythopoeia]]
+* [[Theosophy and literature#Fiction writers and Theosophy|Theosophical fiction]]
+
+==References==
+'''Notes'''
+{{Reflist}}
+
+'''Bibliography'''
+{{refbegin}}
+* {{cite book|last=Cohen|first=Morton Norton|year=1961|title=Rider Haggard His life and Works|location=New York|publisher=Walker and Company}}
+* {{cite book|last=Cox|first=Noel|year=2013|title=Sir Henry Rider Haggard: A collection of commentaries on his novels|location=Aberystwyth|publisher=CreateSpace Independent Publishing Platform|isbn=9781494397746}}
+* {{cite book|last=Ellis|first=Peter|year=1978|title=H. Rider Haggard: A Voice from the Infinite|url=https://archive.org/details/hriderhaggardvoi0000elli|url-access=registration|publisher=Routledge|isbn=9780710211941}}
+* {{cite book|last=Etherington|first=Norman|title=Rider Haggard|publisher=Twayne Publishers|year=1984|isbn=9780805768695|url-access=registration|url=https://archive.org/details/riderhaggard0000ethe}}
+* {{cite book|last=Haggard|first=H. Rider|year=1926|title=The Days of My Life|url=https://archive.org/details/in.ernet.dli.2015.174289|publisher=Longmans}}
+* {{cite book|last=Higgins|first=D.S.|year=1981|title=Rider Haggard: The Great Storyteller|location=London|publisher=Cassell|isbn=0-304-30827-7}}
+* {{cite book|url=https://books.google.com/books?id=cROcZBLtWm0C&q=H.+Rider+Haggard+empire|title=Rider Haggard and the Fiction of Empire: A Critical Study of British Imperial Fiction|first=Wendy Roberta |last=Katz|publisher=Cambridge University Press|year=2010|isbn=9780521131131}}
+* Klein, Darius M. Survivals and Origins in H. Rider Haggard's ''She: A History of Adventure--A bibliography'' [https://indiana.academia.edu/DariusKlein/Papers online source of bibliography]
+* {{cite book|last=Monsman|first=Gerald Cornelius|year=2006|title=H. Rider Haggard on the imperial frontier|publisher=ELT Press|isbn=9780944318218}}
+* {{cite book|last=Pocock|first=Tom|title=Rider Haggard: And the Lost Empire|publisher=Weidenfeld and Nicolson|year=1993|isbn=9780297813088|url=https://archive.org/details/riderhaggardlost00poco}}
+{{refend}}
+
+==External links==
+{{Sister project links|author=yes|commonscat=yes|b=no|c=Henry Rider Haggard|d=Q237196|n=no|s=Henry Rider Haggard|v=no|wikt=no}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/h-rider-haggard}}
+* {{Gutenberg author |id=365}}
+* [http://www.gutenberg.net.au/plusfifty-a-m.html#letterH Works by H. R. Haggard] at [[Project Gutenberg Australia]]
+* [https://onemorelibrary.com/index.php/en/search-results/author/henry-rider-haggard-352 Works by H. R. Haggard] at [https://onemorelibrary.com One More Library]
+* [https://archive.org/details/mahatmaharedream00hagg ''The Mahatma and the Hare : a Dream Story'' illustrated by William Thomas Horton] (1911)
+* [https://archive.org/details/SheandAllan ''Umslopogaas, She, & Allan Quatermain Full Series''] (1927)
+* {{Internet Archive author |sname=Henry Rider Haggard}}
+* {{Librivox author |id=171}}
+* {{isfdb name|id=H._Rider_Haggard|name=H. Rider Haggard}}
+* [https://archive.org/download/otr_escape/esca_19480711_She.mp3 H. Rider Haggard's ''She''], Escape, [[CBS radio]], 1948
+* [http://www.litquotes.com/quote_author_resp.php?AName=H.%20Rider%20Haggard H. Rider Haggard Quotation Collection]
+* [http://www.depauw.edu/sfs/backissues/16/mullen16bib.htm The Books of H. Rider Haggard: A Chronological Survey]
+* [http://www.riderhaggardsociety.org.uk/ Rider Haggard Society]
+* {{cite web|url=http://www.visualhaggard.org/|title=Visual Haggard: The Illustration Archive|first=Kate|last=Holterhoff}}
+* [http://purl.dlib.indiana.edu/iudl/general/VAB9925 In and Out of Africa : The Adventures of H. Rider Haggard] [[The Lilly Library]], Bloomington, IN
+* [https://www.youtube.com/watch?v=P4WYnN_IhAs Camera Interviews - Sir Rider Haggard (1923)], by [[Pathé]]
+* [https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_4079726 Finding aid to H. Rider Haggard papers at Columbia University. Rare Book & Manuscript Library.]
+
+{{Rider Haggard|state=collapsed}}
+{{She: A History of Adventure}}
+{{King Solomon's Mines}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Haggard, Henry Rider}}
+[[Category:H. Rider Haggard| ]]
+[[Category:1856 births]]
+[[Category:1925 deaths]]
+[[Category:Fabulists]]
+[[Category:English fantasy writers]]
+[[Category:English historical novelists]]
+[[Category:Writers of historical fiction set in antiquity]]
+[[Category:Writers of historical fiction set in the Middle Ages]]
+[[Category:Writers of historical fiction set in the early modern period]]
+[[Category:Mythopoeic writers]]
+[[Category:Legion of Frontiersmen members]]
+[[Category:Knights Bachelor]]
+[[Category:Knights Commander of the Order of the British Empire]]
+[[Category:People educated at Ipswich School]]
+[[Category:People from Breckland District]]
+[[Category:Victorian novelists]]
+[[Category:19th-century British novelists]]
+[[Category:20th-century English novelists]]
+[[Category:19th-century British short story writers]]
+[[Category:People from Ditchingham]]
+[[Category:Writers of Gothic fiction]]
+[[Category:English male novelists]]

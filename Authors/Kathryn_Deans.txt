@@ -1,0 +1,53 @@
+{{short description|Australian children's fantasy author|bot=PearBOT 5}}
+{{Use dmy dates|date=June 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image = 
+ |
+ | name        = Kathryn Deans
+ | caption     =
+ | pseudonym   =
+ | birth_date  =
+ | birth_place = [[Dandenong Ranges]], Australia
+ | death_date  =
+ | death_place =
+ | occupation  =
+ | nationality =
+ | period      =
+ | genre       = Children's fantasy
+ | subject     =
+ | movement    =
+ | influences  =
+ | influenced  =
+ | signature   =
+| website = {{URL|http://www.kathryndeans.com/}}
+}}
+'''Kathryn Deans''' is an Australian children's fantasy author. She was raised in the [[Dandenong Ranges]] near [[Melbourne]] in Australia.
+
+==Works==
+* ''All The Flowers Of Babylon'', in issue 25/26 of the [[Speculative Fiction]] magazine [[Aurealis]]
+* ''Shimmer'', a children's fantasy novel (book one of the troll trilogy) published by [[Pan MacMillan]], 2005
+* ''Glow'', a children's fantasy novel (book two of the troll trilogy) published by [[Pan MacMillan]], 2006
+* ''Shine'', a children's fantasy novel (book three of the troll trilogy) published by [[Pan MacMillan]], 2008
+* ''Meaner Than Fiction'', an adult true-crime novel published by Five Mile Press
+
+==External links==
+* [https://web.archive.org/web/20070127032153/http://www.kathryndeans.com/ Official website]
+* [http://www.infinitas.com.au/ProductsByAuthor.php?autid=26059 Infinitas Bookshop Biography]
+
+{{Portal |Children's literature}}
+
+{{no footnotes|date=October 2014}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Deans, Kathryn}}
+[[Category:Australian fantasy writers]]
+[[Category:Australian women novelists]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Australian children's writers]]
+[[Category:20th-century Australian novelists]]
+[[Category:Australian women children's writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:20th-century Australian women writers]]
+{{Australia-writer-stub}}

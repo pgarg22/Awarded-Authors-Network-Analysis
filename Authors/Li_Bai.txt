@@ -1,0 +1,371 @@
+{{short description|Chinese poet (701–762)}}
+{{other uses|Li Bai (disambiguation)|Li Bo (disambiguation)}}
+{{Use dmy dates|date=January 2021}}
+{{family name hatnote|[[Li (surname 李)|Li]]|lang=Chinese}}
+{{Infobox writer
+| name = Li Bai
+| native_name = {{nobold|{{lang|zh-hans|李白}}}}
+| image = LiBai.jpg
+| caption = ''Li Bai Strolling'', by [[Liang Kai]] (1140–1210)
+| birth_date = 701
+| birth_place = [[Suyab|Suiye]], [[Tang dynasty|Tang Empire]] (now [[Chuy Region]], [[Kyrgyzstan]])
+| death_date = 762 (60–61)
+| death_place = [[Dangtu]], Tang Empire (now [[Ma'anshan]], Anhui, China)
+| occupation = Poet
+| nationality = Chinese
+| genre = 
+| movement = [[Tang poetry]]
+| period =
+| website = 
+| module = {{Infobox Chinese|child=yes
+|pic=Li Bai (Chinese characters).svg
+|piccap="Li Bai" in Chinese characters
+|picupright=0.4
+|c=李白
+|p={{Zhwb|Lǐ Bái|Lǐ Bó}}
+|w={{Zhwb|Li<sup>3</sup> Pai<sup>2</sup>|Li<sup>3</sup> Po<sup>2</sup>}}
+|mi={{Zhwb|{{IPAc-cmn|l|i|3|-|b|ai|2}}|{{IPAc-cmn|l|i|3|-|b|o|2}} }}
+|j=Lei<sup>5</sup> Baak<sup>6</sup>
+|y=Léih Baahk
+|ci={{IPAc-yue|l|ei|5|-|b|aak|6}}
+|poj=Lí Pe̍k
+|lmz=Lij Baq
+|mc=Ljɨ Bɐk, or Lǐ Bhæk
+|kanji=李白
+|hiragana=りはく
+|romaji=Ri Haku
+|hanja={{linktext|李|白}}
+|hangul={{linktext|이|백}}
+|rr=Yi Baek
+|mr=I P'aek
+|vie=Lý Bạch
+|altname = Taibai
+|c2 = 太白
+|l2 =
+|p2 = Taìbaí
+|altname3 = Qinglian [[Householder (Buddhism)|Jushi]]
+|t3 = 青蓮居士
+|s3 = 青莲居士
+|l3 = {{nowrap|Lotus [[Householder (Buddhism)|Householder]]}}
+|p3 = Qīnglián Jūshì
+}}
+}}
+'''Li Bai''' ({{zh|c=李白|p=''Lǐ Bái''|s=|t=|poj=Lí Pe̍k}}, 701–762), also known as '''Li Bo''', [[courtesy name]] '''Taibai''' ({{zh|c=太白|link=no}}), [[art name]] '''Qinglian Jushi''' ({{zh|t=青蓮居士|link=no}}), was a Chinese poet acclaimed from his own day to the present as a genius and a romantic figure who took traditional poetic forms to new heights. He and his friend [[Du Fu]] (712–770) were the two most prominent figures in the flourishing of [[Chinese poetry]] in the [[Tang dynasty]], which is often called the "[[Tang poetry#High Tang|Golden Age of Chinese Poetry]]". The expression "Three Wonders" denotes Li Bai's poetry, [[Pei Min]]'s swordplay, and [[Zhang Xu]]'s calligraphy.<ref>[[New Book of Tang|The New Book of Tang]] 文宗時，詔以白歌詩、裴旻劍舞、張旭草書為「三絕」</ref>
+
+Around a thousand poems attributed to him are extant. His poems have been collected into the most important Tang dynasty poetry. ''Heyaue yingling ji'',<ref>河岳英靈集</ref> compiled in 753 by Yin Fan, and thirty-four of his poems are included in the anthology ''[[Three Hundred Tang Poems]]'', which was first published in the 18th century.{{citation needed|date=March 2018}} In the same century, translations of his poems began to appear in Europe. The poems were models for celebrating the pleasures of friendship, the depth of nature, solitude, and the joys of drinking wine. Among the most famous are "Waking from Drunkenness on a Spring Day", "The Hard Road to Shu", and "[[Quiet Night Thought]]", which still appear in school texts in China. In the West, multilingual translations of Li's poems continue to be made. His life has even taken on a legendary aspect, including tales of drunkenness, chivalry, and the well-known fable that Li drowned when he reached from his boat to grasp the moon's reflection in the river while drunk.
+
+Much of Li's life is reflected in his poetry: places which he visited, friends whom he saw off on journeys to distant locations perhaps never to meet again, his own dream-like imaginations embroidered with shamanic overtones, current events of which he had news, descriptions taken from nature in a timeless moment of poetry, and so on. However, of particular importance are the changes in the times through which he lived. His early poetry took place in the context of a "golden age" of internal peace and prosperity in the Chinese empire of the Tang dynasty, under the reign of an emperor who actively promoted and participated in the arts. This all changed suddenly and shockingly, beginning with the [[An Lushan Rebellion|rebellion]] of the general [[An Lushan]], when all of Northern China was devastated by war and famine. Li's poetry as well takes on new tones and qualities. Unlike his younger friend Du Fu, Li did not live to see the quelling of these disorders. However, much of Li's poetry has survived, retaining enduring popularity in China and elsewhere. Li Bai is depicted in the [[Wu Shuang Pu]] (無雙譜, Table of Peerless Heroes) by Jin Guliang.
+
+==Names==
+{| cellpadding=3px cellspacing=0px bgcolor=#f7f8ff style="float:right; border:1px solid; margin:5px"
+!style="background:#ccf; border-bottom:1px solid" colspan=2|[[Chinese name|Names]]
+|-
+|align=right|Chinese:||{{lang|zh-Hani|李白}}
+|-
+|align=right|[[Pinyin]]:||''Lǐbaí'' ''or'' Li Bo
+|-
+|align=right|[[Courtesy name|Zi]] ({{lang|zh-Hani|字}}):||Taìbaí (Tai-pai; {{lang|zh-Hani|太白}})
+|-
+|align=right|[[Art name|Hao]] ({{lang|zh-Hant|號}}):||Qinglian [[Householder (Buddhism)|Jushi]] (Ch'ing-lien [[Householder (Buddhism)|Chu-shih]]; {{zh|t=青蓮居士|s=青莲居士|first=t}})
+|-
+|align=right valign=top|aka:||Shixian ({{zh|t=詩仙|s=诗仙|<br />p=Shīxiān|w=Shih-hsien|first=t}})<br /> The Poet Saint <br /> Immortal Poet
+|}
+
+Li Bai's name has been romanized as Li Bai, Li Po, Li Bo (romanizations of [[Standard Chinese]] pronunciations), and Ri Haku (a romanization of the Japanese pronunciation).<ref>{{cite book|title=The Anchor Book of Chinese Poetry: From Ancient to Contemporary, The Full 3000-Year Tradition|author=Barnstone, Tony and Chou Ping|url = https://books.google.com/books?id=aoH11JVHs4AC |publisher=Random House|year=2010|isbn=978-0-307-48147-4|page=116}}</ref> The varying Chinese romanizations are due to the facts that his given name ([[wikt:白|白]]) has two pronunciations in [[Standard Chinese]]: the [[Literary and colloquial readings of Chinese characters|literary reading]] ''bó'' ({{Lang-zh|link=no|w=po2}}) and the colloquial reading ''bái''; and that earlier authors used [[Wade–Giles]] while modern authors prefer [[pinyin]]. The reconstructed version of how he and others during the Tang dynasty would have pronounced this is ''Bhæk''. His [[courtesy name]] was Taibai (太白), literally "Great White", as the planet [[Mount Taibai#History|Venus]] was called at the time. This has been romanized variously as ''Li Taibo'', ''Li Taibai'', ''Li Tai-po'', among others. The Japanese pronunciation of his name and courtesy name may be romanized as "Ri Haku" and "Ri Taihaku" respectively.
+
+He is also known by his art name (''[[Art name|hao]]'') ''Qīnglián Jūshì'' ({{lang|zh-Hant|青蓮[[wikt:居士|居士]]}}), meaning ''[[Householder (Buddhism)|Householder]] of Azure Lotus'', or by the nicknames  "Immortal Poet" (Poet [[Xian (Taoism)|Transcendent]]; Wine Immortal ({{zh|c=酒仙|p=Jiuxiān|w=Chiu<sup>3</sup>-hsien<sup>1</sup>}}), Banished Transcendent ({{zh|t=謫仙人|p=Zhéxiānrén|w=Che<sup>2</sup>-hsien<sup>1</sup>-jen<sup>2</sup>|first=t}}), Poet-[[Chinese knight-errant|Knight-errant]] ({{zh|t=詩俠|s=诗侠|p=Shīxiá|w=Shih<sup>1</sup>-hsia<sup>2</sup>|first=t}}, or "Poet-Hero").
+
+==Life==
+[[File:Nanling Wushuang Pu - Li Qinglian.jpg|thumb|Li Bai, as depicted in the ''Nanling Wushuang Pu'' by Jin Guliang, Ming dynasty]]
+The two "Books of Tang", [[Old Book of Tang|''The Old Book of Tang'']] and [[New Book of Tang|''The New Book of Tang'']], remain the primary sources of bibliographical material on Li Bai.<ref>Obata, Part III</ref> Other sources include internal evidence from poems by or about Li Bai, and certain other sources, such as the preface to his collected poems by his relative and literary executor, Li Yangbin.
+
+===Background and birth===
+Li Bai is generally considered to have been born in 701, in [[Suyab]] (碎葉) of ancient Chinese Central Asia (present-day [[Kyrgyzstan]]),<ref name="Beckwith, 127">Beckwith, 127</ref> where his family had prospered in business at the frontier.<ref name="Sun, 20">Sun, 20</ref> Afterwards, the family under the leadership of his father, Li Ke (李客), moved to [[Jiangyou]] (江油), near modern [[Chengdu]], in [[Sichuan]], when the youngster was about five years old. There is some mystery or uncertainty about the circumstances of the family's relocations, due to a lack of legal authorization which would have generally been required to move out of the border regions, especially if one's family had been assigned or exiled there.
+
+====Background====
+Two accounts given by contemporaries [[Li Yangbing]] (a family relative) and Fan Chuanzheng state that Li's family was originally from what is now southwestern [[Jingning County, Gansu]]. Li's ancestry is traditionally traced back to [[Li Gao]], the noble founder of the state of [[Western Liang (Sixteen Kingdoms)|Western Liang]].<ref>Obata, 8</ref> This provides some support for Li's own claim to be related to the Li dynastic royal family of the Tang dynasty: the Tang emperors also claimed descent from the Li rulers of West Liang. This family was known as the [[Longxi County|Longxi]] Li lineage ([[w:zh:隴西李氏|隴西李氏]]). Evidence suggests that during the [[Sui dynasty]], Li's own ancestors, at that time for some reason classified socially as commoners, were forced into a form of exile from their original home (in what is now Gansu) to some location or locations further west.<ref>Wu, 57–58</ref> During their exile in the far west, the Li family lived in the ancient [[Silk Road]] city of Suiye ([[Suyab]], now an archeological site in present-day Kyrgyzstan), and perhaps also in Tiaozhi ({{zh|t=條枝|s=条枝|p=Tiáozhī}}), a state near modern [[Ghazni]], Afghanistan.<ref>Elling Eide, "On Li Po", ''Perspectives on the T'ang'' (New Haven, London: Yale University Press, 1973), 388.</ref>  These areas were on the ancient [[Silk Road]], and the Li family were likely merchants.<ref>Eide (1973), 389.</ref> Their business was quite prosperous.<ref>Sun, 1982, 20 and 21</ref>
+
+====Birth====
+In one [[hagiography|hagiographic]] account, while Li Bai's mother was pregnant with him, she had a dream of a great white star falling from heaven. This seems to have contributed to the idea of his being a banished immortal (one of his nicknames).<ref name="Wu, 59">Wu, 59</ref> That the Great White Star was synonymous with Venus helps to explain his courtesy name: "Tai Bai", or "Venus".
+
+===Marriage and family===
+Li is known to have married four times. His first marriage, in 727, in [[Anlu]], Hubei, was to the granddaughter of a former government minister.<ref name="Sun, 20"/> His wife was from the well-connected [[Wu (surname)|Wú]] (吳) family. Li Bai made this his home for about ten years, living in a home owned by his wife's family on Mt. Bishan (碧山).<ref>{{Cite web|url=https://100tangpoems.wordpress.com/2020/06/07/li-bai-why-i-live-in-the-green-mountains/|title=Li Bai, Why I live in the Green Mountains|date=7 June 2020}}</ref> In 744, he married for the second time in what now is the [[Liangyuan District]] of [[Henan]]. This marriage was to another poet, surnamed [[Zong (surname)|Zong]] (宗), with whom he both had children<ref>Sun, 24, 25, and 166</ref> and exchanges of poems, including many expressions of love for her and their children. His wife, Zong, was a granddaughter of [[Zong Chuke]] (宗楚客, died 710), an important government official during the Tang dynasty and the interregnal period of [[Wu Zetian]].
+
+===Early years===
+In 705, when Li Bai was four years old, his father secretly moved his family to [[Sichuan]], near [[Chengdu]], where he spent his childhood.<ref name="Wu, 58">Wu, 58</ref> There is currently a monument commemorating this in [[Zhongba Town]], [[Jiangyou]], Sichuan province (the area of the modern province then being known as Shu, after a former independent state which had been annexed by the Sui dynasty and later incorporated into the Tang dynasty lands). The young Li spent most of his growing years in [[Qinglian, Jiangyou|Qinglian]] (青莲; lit. "Blue [also translated as 'green', 'azure', or 'nature-coloured'] Lotus"), a town in Chang-ming County, Sichuan, China.<ref name="Sun, 20"/> This now nominally corresponds with Qinglian Town (青蓮鎮) of [[Jiangyou]] [[County-level city]], in [[Sichuan]].
+
+The young Li read extensively, including [[Confucian classics]] such as ''[[Book of Songs (Chinese)|The Classic of Poetry (Shijing)]]'' and the ''[[Book of History|Classic of History (Shujing)]]'', as well as various astrological and metaphysical materials which Confucians tended to eschew, though he disdained to take the literacy exam.<ref name="Wu, 58"/> Reading the "Hundred Authors" was part of the family literary tradition, and he was also able to compose poetry before he was ten.<ref name="Sun, 20"/> The young Li also engaged in other activities, such as taming wild birds and fencing.<ref name="Wu, 58"/> His other activities included riding, hunting, traveling, and aiding the poor or oppressed by means of both money and arms.<ref name="Sun, 20"/> Eventually, the young Li seems to have become quite skilled in [[swordsmanship]]; as this autobiographical quote by Li himself both testifies to and also helps to illustrate the wild life that he led in the Sichuan of his youth:
+
+{{Quote|When I was fifteen, I was fond of sword play, and with that art I challenged quite a few great men.<ref>Wu, 58. Translation by Wu. Note that by [[East Asian age reckoning]], this would be fourteen rather than fifteen years old.</ref>}}
+
+Before he was twenty, Li had fought and killed several men, apparently for reasons of [[chivalry]], in accordance with the knight-errant tradition (''[[youxia]]'').<ref name="Wu, 58"/>
+
+In 720, he was interviewed by Governor Su Ting, who considered him a genius. Though he expressed the wish to become an official, he never took the [[Chinese civil service examination|civil service examination]].
+
+===On the way to Chang'an===
+[[File:Dufuschina.jpg|thumb|left|300px|alt=Map of eastern interior Chinese cities of Luoyang, Chang'an, Qinzhou, Chengdu, Kuizhou, and Tanzhou|The China of Li Bai and Du Fu]]
+
+====Leaving Sichuan====
+In his mid-twenties, about 725, Li Bai left Sichuan, sailing down the [[Yangzi River]] through [[Dongting Lake]] to [[Nanjing]], beginning his days of wandering. He then went back up-river, to [[Yunmeng]], in what is now [[Hubei]], where his marriage to the granddaughter of a retired prime minister, [[Xu Yushi]], seems to have formed but a brief interlude.<ref>Wu, 58–59</ref> During the first year of his trip, he met celebrities and gave away much of his wealth to needy friends.
+
+In 730, Li Bai stayed at Zhongnan Mountain near the capital Chang'an (Xi'an), and tried but failed to secure a position. He sailed down the Yellow River, stopped by Luoyang, and visited Taiyuan before going home. In 735, Li Bai was in [[Shanxi]], where he intervened in a court martial against [[Guo Ziyi]], who was later, after becoming one of the top Tang generals, to repay the favour during the An Shi disturbances.<ref name="Wu, 59"/> By perhaps 740, he had moved to [[Shandong]]. It was in Shandong at this time that he became one of the group known as the "Six Idlers of the Bamboo Brook", an informal group dedicated to literature and wine.<ref name="Wu, 59"/> He wandered about the area of [[Zhejiang]] and [[Jiangsu]], eventually making friends with a famous Daoist priest, Wu Yun.<ref name="Wu, 59"/> In 742, Wu Yun was summoned by the Emperor to attend the imperial court, where his praise of Li Bai was great.<ref name="Wu, 59"/>
+
+===At Chang'an===
+Wu Yun's praise of Li Bai led [[Emperor Xuanzong of Tang|Emperor Xuanzong]] (born Li Longji and also known as Emperor Minghuang) to summon Li to the court in [[Chang'an]]. Li's personality fascinated the aristocrats and common people alike, including another Taoist (and poet), [[He Zhizhang]], who bestowed upon him the nickname the "Immortal Exiled from Heaven".<ref name="Wu, 59"/> Indeed, after an initial audience, where Li Bai was questioned about his political views, the Emperor was so impressed that he held a big banquet in his honor. At this banquet, the Emperor was said to show his favor, even to the extent of personally seasoning his soup for him.<ref name="Wu, 59"/><ref>Obata, 201</ref>
+
+Emperor Xuanzong employed him as a translator, as Li Bai knew at least one non-Chinese language.<ref name="Wu, 59"/> Ming Huang eventually gave him a post at the [[Hanlin Academy]], which served to provide scholarly expertise and poetry for the Emperor.
+
+[[Image:L'empereur Minghuang regardant Li Bai.jpg|thumb|right|250px|Emperor Minghuang, seated on a terrace, observes Li Bai write poetry while having his boots taken off (Qing dynasty illustration).]]When the emperor ordered Li Bai to the palace, he was often drunk, but quite capable of performing on the spot.
+
+Li Bai wrote several poems about the Emperor's beautiful and beloved [[Yang Guifei]], the favorite royal consort.<ref name="Wu, 60">Wu, 60</ref> A story, probably apocryphal, circulates about Li Bai during this period. Once, while drunk, Li Bai had gotten his boots muddy, and [[Gao Lishi]], the most politically powerful [[Eunuch#China|eunuch]] in the palace, was asked to assist in the removal of these, in front of the Emperor. Gao took offense at being asked to perform this menial service, and later managed to persuade Yang Guifei to take offense at Li's poems concerning her.<ref name="Wu, 60"/> At the persuasion of Yang Guifei and Gao Lishi, Xuanzong reluctantly, but politely, and with large gifts of gold and silver, sent Li Bai away from the royal court.<ref name="Wu, 61">Wu, 61</ref> After leaving the court, Li Bai formally became a Taoist, making a home in [[Shandong]], but wandering far and wide for the next ten some years, writing poems.<ref name="Wu, 61"/> Li Bai lived and wrote poems at Bishan (or Bi Mountain (碧山), today Baizhao Mountain (白兆山)) in [[Yandian, Hubei]].  Bi Mountain (碧山) in the poem ''Question and Answer Amongst the Mountains'' (山中问答 Shanzhong Wenda) refers to this mountain.<ref name="govyd">{{cite web|url=http://www.anlu.gov.cn/alweb/index/xiangzhen.shtml?subjectId=43de60f611854494b1187f0854e4144c|title=中国安陆网–乡镇 烟店镇简介|trans-title=Anlu, China Website-Township-Level Divisions Yandian Town Overview|website=中国安陆网|language=zh|publisher=中共安陆市委 安陆市人民政府 中共安陆市委宣传部 安陆市互联网信息中心|quote="烟店镇人文底蕴深厚，诗仙李白"酒隐安陆，蹉跎十年"，谪居于此。"问余何意栖碧山，笑而不答心自闲。桃花流水窅然去，别有天地非人间。"这首《山中问答》中的碧山就是位于烟店镇的白兆山，李白在白兆山居住期间，"|access-date=19 April 2018|archive-url=https://web.archive.org/web/20180419053601/http://www.anlu.gov.cn/alweb/index/xiangzhen.shtml?subjectId=43de60f611854494b1187f0854e4144c|archive-date=19 April 2018|url-status=dead}}</ref>
+
+===Meeting Du Fu===
+{{Further|Du Fu}}
+He met [[Du Fu]] in the autumn of 744, when they shared a single room and various activities together, such as traveling, hunting, wine, and poetry, thus established a close and lasting friendship.<ref name="Sun, 24 and 25">Sun, 24 and 25</ref> They met again the following year. These were the only occasions on which they met, in person, although they continued to maintain a relationship through poetry. This is reflected in the dozen or so poems by Du Fu to or about Li Bai which survive, and the one from Li Bai directed toward Du Fu which remains.
+
+===War and exile===
+[[File:Riders on Horseback, Northern Qi Dynasty.jpg|thumb|Riders on Horseback, Northern Qi Dynasty, the general area of the rebel heartland, although of an earlier date.]]
+At the end of 755, the disorders instigated by the rebel general [[An Shi Rebellion|An Lushan]] burst across the land. The Emperor eventually fled to Sichuan and abdicated. During the confusion, the Crown Prince opportunely declared himself Emperor and head of the government. The An Shi disturbances continued (as they were later called, since they lasted beyond the death of their instigator, carried on by [[Shi Siming]] and others). Li Bai became a staff adviser to Prince Yong, one of [[Ming Huang]]'s (Emperor Xuanzong's) sons, who was far from the top of the primogeniture list, yet named to share the imperial power as a general after Xuanzong had abdicated, in 756.
+
+However, even before the empire's external enemies were defeated, the two brothers fell to fighting each other with their armies. Upon the defeat of the Prince's forces by his brother the new emperor in 757, Li Bai escaped, but was later captured, imprisoned in [[Jiujiang]], and sentenced to death. The famous and powerful army general [[Guo Ziyi]] and others intervened; Guo Ziyi was the very person whom Li Bai had saved from court martial a couple of decades before.<ref name="Wu, 61"/> His wife, the lady Zong, and others (such as Song Ruosi) wrote petitions for clemency.<ref name="Sun, 26 and 27">Sun, 26 and 27</ref> Upon General Guo Ziyi's offering to exchange his official rank for Li Bai's life, Li Bai's death sentence was commuted to exile: he was consigned to [[Yelang]].<ref name="Wu, 61"/> Yelang (in what is now [[Guizhou]]) was in the remote extreme southwestern part of the empire, and was considered to be outside the main sphere of Chinese civilization and culture. Li Bai headed toward Yelang with little sign of hurry, stopping for prolonged social visits (sometimes for months), and writing poetry along the way, leaving detailed descriptions of his journey for posterity. Notice of an imperial pardon recalling Li Bai reached him before he even got near Yelang.<ref name="Wu, 61"/> He had only gotten as far as [[Wu Gorge|Wushan]], when news of his pardon caught up with him in 759.<ref name="Sun, 26 and 27"/>
+
+===Return and other travels===
+When Li received the news of his imperial reprieve, he returned down the river to [[Jiangxi]], passing on the way through [[Baidicheng]], in [[Kuizhou]] Prefecture, still engaging in the pleasures of food, wine, good company, and writing poetry; his poem "[[s:Translation:Departing from Baidi in the Morning|Departing from Baidi in the Morning]]" records this stage of his travels, as well as poetically mocking his enemies and detractors, implied in his inclusion of [[Simians (Chinese poetry)|imagery of monkeys]]. Although Li did not cease his wandering lifestyle, he then generally confined his travels to [[Nanjing]] and the two [[Anhui]] cities of [[Xuancheng]] and Li Yang (in modern [[Zhao County]]).<ref name="Wu, 61"/> His poems of this time include nature poems and poems of socio-political protest.<ref name="Sun, 24 and 25"/> Eventually, in 762, Li's relative [[Li Yangbing]] became magistrate of [[Dangtu]], and Li Bai went to stay with him there.<ref name="Wu, 61"/> In the meantime, Suzong and Xuanzong both died within a short period of time, and China had a new emperor. Also, China was involved in renewed efforts to suppress further military disorders stemming from the Anshi rebellions, and Li volunteered to serve on the general staff of the Chinese commander [[Li Guangbi]]. However, at age 61, Li became critically ill, and his health would not allow him to fulfill this plan.<ref>Sun, 26–28</ref>
+
+===Death===
+[[File:LiBaimemorialhall000.jpg|thumb|left|Li Bai Memorial Hall in [[Jiangyou]], Sichuan]]
+The new [[Emperor Daizong]] named Li Bai the Registrar of the Left Commandant's office in 762. However, by the time that the imperial edict arrived in [[Dangtu County|Dangtu, Anhui]], Li Bai was already dead.
+
+There is a long and sometimes fanciful tradition regarding his death, from uncertain Chinese sources, that Li Bai drowned after falling from his boat one day he had gotten very drunk as he tried to embrace the reflection of the moon in the Yangtze River, something later believed by [[Herbert Giles]].<ref name="Wu, 61"/> However, the actual cause appears to have been natural enough, although perhaps related to his hard-living lifestyle. Nevertheless, the legend has a place in Chinese culture.<ref>{{cite web|url=http://www.fengshuihk.net/master-fate/896-1120-.html|title=黃大仙靈簽11至20簽新解|url-status=dead|archive-url=https://web.archive.org/web/20150720004029/http://www.fengshuihk.net/master-fate/896-1120-.html|archive-date=20 July 2015}}</ref>
+
+A memorial of Li Bai lies just west of [[Ma'anshan]].{{citation needed|date=March 2018}}
+
+===Calligraphy===
+[[File:Libai shangyangtai.jpg|thumb|400px|The only surviving calligraphy in Li Bai's own handwriting, titled ''Shangyangtai'' (To Yangtai Temple), located at the [[Palace Museum]] in Beijing, China.<ref name="mag">{{cite web|url=http://www.flashpointmag.com/libai10.htm|title=Going Up To Sun Terrace by Li Bai: An Explication, Translation & History|author=Belbin, Charles and T.R. Wang|work=Flashpoint Magazine|quote=It is now housed in the Palace Museum in Beijing. Scholars commonly acknowledge it as authentic and the only known surviving piece of calligraphy by Li Bai.|access-date=6 August 2011|archive-url=https://web.archive.org/web/20181006075209/http://www.flashpointmag.com/libai10.htm|archive-date=6 October 2018|url-status=dead}}</ref>]]
+Li Bai was also a skilled [[Chinese calligraphy|calligrapher]], though there is only one surviving piece of his calligraphy work in his own handwriting that exists today.<ref name=mag/> The piece is titled ''Shàng yáng tái'' (''Going Up To Sun Terrace''), a {{convert|38.1|×|28.5|cm}} long scroll (with later addition of a title written by [[Emperor Huizong of Song]] and a postscript added by [[Qianlong Emperor]] himself); the calligraphy is housed in the [[Palace Museum]] in Beijing, China.<ref name=arts>{{cite book|title=Selected paintings and calligraphy acquired by the Palace Museum in the last fifty years|author=Arts of Asia: Volume 30|publisher=Arts of Asia|year=2000|page=56}}</ref>
+
+===Surviving texts and editing===
+Even Li Bai and Du Fu, the two most famous and most comprehensively edited Tang poets, were affected by the destruction of the imperial Tang libraries and the loss of many private collections in the periods of turmoil ([[An Lushan Rebellion]] and [[Huang Chao]] Rebellion). Although many of Li Bai's poems have survived, even more were lost and there is difficulty regarding variant texts. One of the earliest endeavors at editing Li Bai's work was by his relative [[Li Yangbing]], the magistrate of [[Dangtu]], with whom he stayed in his final years and to whom he entrusted his manuscripts. However, the most reliable texts are not necessarily in the earliest editions. Song dynasty scholars produced various editions of his poetry, but it was not until the Qing dynasty that such collections as the ''[[Quan Tangshi]]'' (''Complete Tang Poems'') made the most comprehensive studies of the then surviving texts.<ref>Paul Kroll, "Poetry of the T’ang Dynasty," in [[Victor H. Mair]], ed., ''The Columbia History of Chinese Literature.'' (New York: Columbia University Press,  2001). {{ISBN|0-231-10984-9}}), pp. 278–282, section "The Sources and Their Limitations" describes this history.</ref>
+
+==Themes==
+Critics have focused on Li Bai's strong sense of the continuity of poetic tradition, his glorification of alcoholic beverages (and, indeed, frank celebration of drunkenness), his use of persona, the fantastic extremes of some of his imagery, his mastery of formal poetic rules—and his ability to combine all of these with a seemingly effortless virtuosity to produce inimitable poetry. Other themes in Li's poetry, noted especially in the 20th century, are sympathy for the common folk and antipathy towards needless wars (even when conducted by the emperor himself).<ref>Sun, 28–35</ref>
+
+===Poetic tradition===
+Li Bai had a strong sense of himself as being part of a poetic tradition. The "genius" of Li Bai, says one recent account, "lies at once in his total command of the literary tradition before him and his ingenuity in bending (without breaking) it to discover a uniquely personal idiom..."<ref>Paul Kroll, "Poetry of the T’ang Dynasty," in [[Victor H. Mair]], ed., ''[[The Columbia History of Chinese Literature]].'' (New York: Columbia University Press,  2001;   {{ISBN|0-231-10984-9}}), p.  296.</ref> [[Burton Watson]], comparing him to Du Fu, says Li's poetry, "is essentially backward-looking, that it represents more a revival and fulfillment of past promises and glory than a foray into the future."<ref name="Watson, 141">Watson, 141</ref> Watson adds, as evidence, that of all the poems attributed to Li Bai, about one sixth are in the form of ''[[yuefu]]'', or, in other words, reworked lyrics from traditional folk ballads.<ref>Watson, 141–142</ref> As further evidence, Watson cites the existence of a fifty-nine poem collection by Li Bai entitled ''Gu Feng'', or ''In the Old Manner'', which is, in part, tribute to the poetry of the Han and Wei dynasties.<ref name="Watson, 142">Watson, 142</ref> His admiration for certain particular poets is also shown through specific allusions, for example to [[Qu Yuan]] or [[Tao Yuanming]], and occasionally by name, for example Du Fu.
+
+A more general appreciation for history is shown on the part of Li Bai in his poems of the ''[[Huaigu (poetry)|huaigu]]'' genre,<ref>Watson, 145</ref> or meditations on the past, wherein following "one of the perennial themes of Chinese poetry", "the poet contemplates the ruins of past glory".<ref>Watson, 88</ref>
+
+===Rapt with wine and moon===
+[[File:Chinesericewine.jpg|thumb|Chinese rice wine]]
+John C. H. Wu observed that "while some may have drunk more wine than Li [Bai], no-one has written more poems about wine."<ref>Wu, 66</ref> Classical Chinese poets were often associated with drinking [[Chinese alcoholic beverages|wine]], and Li Bai was part of the group of Chinese scholars in Chang'an his fellow poet [[Du Fu]] called the "[[Eight Immortals of the Wine Cup]]." The Chinese generally did not find the moderate use of alcohol to be immoral or unhealthy. James J.&nbsp;Y Liu comments that  ''zui''  in poetry "does not mean quite the same thing as 'drunk', 'intoxicated', or 'inebriated', but rather means being mentally carried away from one's normal preoccupations&nbsp;..." Liu translates ''zui'' as "rapt with wine".<ref>James J.Y. Liu. ''The Art of Chinese Poetry.'' (Chicago: University of Chicago Press,  1962;   {{ISBN|0-226-48686-9}}), p. 59.</ref> The "Eight Immortals", however, drank to an unusual degree, though they still were viewed as pleasant eccentrics.<ref>William Hung. ''Tu Fu: China's Greatest Poet''. (Cambridge,: Harvard University Press,  1952), p 22.</ref> Burton Watson concluded that "[n]early all Chinese poets celebrate the joys of wine, but none so tirelessly and with such a note of genuine conviction as Li [Bai]".<ref name="Watson, 143">Watson, 143</ref>
+
+One of Li Bai's most famous poems is "Waking From Drunkenness on a Spring Day" ({{lang|zh-Hant|春日醉起言志}}). [[Arthur Waley]]<ref>Waley, Arthur (1919). [http://www.sacred-texts.com/cfu/mtc/mtc07.htm Waking From Drunkenness on a Spring Day]</ref> translated it as follows:
+
+{{poemquote|'''''Waking From Drunkenness on a Spring Day''''' ({{lang|zh-Hant|春日醉起言志}})
+
+{{lang|zh-Hant|處世若大夢,}}{{Spaces|3}}Life in the world is but a big dream;
+{{lang|zh-Hant|胡爲勞其生.}}{{Spaces|3}}I will not spoil it by any labour or care.
+{{lang|zh-Hant|所以終日醉,}}{{Spaces|3}}So saying, I was drunk all the day,
+{{lang|zh-Hant|頹然臥前楹.}}{{Spaces|3}}Lying helpless at the porch in front of my door.
+
+{{lang|zh-Hant|覺來盼庭前,}}{{Spaces|3}}When I awoke, I blinked at the garden-lawn;
+{{lang|zh-Hant|一鳥花間鳴.}}{{Spaces|3}}A lonely bird was singing amid the flowers.
+{{lang|zh-Hant|借問此何時,}}{{Spaces|3}}I asked myself, had the day been wet or fine?
+{{lang|zh-Hant|春風語流鶯.}}{{Spaces|3}}The Spring wind was telling the mango-bird.
+
+{{lang|zh-Hant|感之欲嘆息,}}{{Spaces|3}}Moved by its song I soon began to sigh,
+{{lang|zh-Hant|對酒還自傾.}}{{Spaces|3}}And, as wine was there, I filled my own cup.
+{{lang|zh-Hant|浩歌待明月,}}{{Spaces|3}}Wildly singing I waited for the moon to rise;
+{{lang|zh-Hant|曲盡已忘情.}}{{Spaces|3}}When my song was over, all my senses had gone.}}
+
+===Fantastic imagery===
+An important characteristic of Li Bai's poetry "is the fantasy and note of childlike wonder and playfulness that pervade so much of it".<ref name="Watson, 142"/> Burton Watson attributes this to a fascination with the [[Taoist priest]], [[Taoist]] recluses who practiced alchemy and austerities in the mountains, in the aim of becoming [[Xian (Taoism)|xian]], or immortal beings.<ref name="Watson, 142"/> There is a strong element of Taoism in his works, both in the sentiments they express and in their spontaneous tone, and "many of his poems deal with mountains, often descriptions of ascents that midway modulate into journeys of the imagination, passing from actual mountain scenery to visions of nature deities, immortals, and 'jade maidens' of Taoist lore".<ref name="Watson, 142"/> Watson sees this as another affirmation of Li Bai's affinity with the past, and a continuity with the traditions of the [[Chuci]] and the early [[Fu (literature)|fu]].<ref name="Watson, 143"/> Watson finds this "element of fantasy" to be behind Li Bai's use of [[hyperbole]] and the "playful personifications" of mountains and celestial objects.<ref name="Watson, 143"/>
+
+===Nostalgia===
+The critic James J.Y. Liu notes "Chinese poets seem to be perpetually bewailing their exile and longing to return home. This may seem sentimental to Western readers, but one should remember the vastness of China, the difficulties of communication... the sharp contrast between the highly cultured life in the main cities and the harsh conditions in the remoter regions of the country, and the importance of family..." It is hardly surprising, he concludes, that nostalgia should have become a "constant, and hence conventional, theme in Chinese poetry."<ref>James J.Y. Liu. ''The Art of Chinese Poetry.'' (Chicago: University of Chicago Press,  1962; {{ISBN|0-226-48686-9}}) p. 55.</ref>
+
+Liu gives as a prime example Li's poem "[[A Quiet Night Thought]]" (also translated as "Contemplating Moonlight"), which is often learned by schoolchildren in China.  In a mere 20 words, the poem uses the vivid moonlight and frost imagery to convey the feeling of [[homesickness]].  This translation is by [[Yang Xianyi]] and [[Dai Naidie]]:<ref>{{cite web |title=Top 10 most influential Chinese classical poems |url=http://www.chinawhisper.com/top-10-most-influential-chinese-poems-in-history/ |website=chinawhisper.com |date=13 January 2013 |publisher=China whisper |access-date=7 June 2018}}</ref>
+
+{{poemquote|'''Thoughts in the Silent Night''' (静夜思)
+
+{{lang|zh-Hant|床前明月光，}}{{Spaces|3}}Beside my bed a pool of light—
+{{lang|zh-Hant|疑是地上霜，}}{{Spaces|3}}Is it hoarfrost on the ground?
+{{lang|zh-Hant|舉頭望明月，}}{{Spaces|3}}I lift my eyes and see the moon,
+{{lang|zh-Hant|低頭思故鄉。}}{{Spaces|3}}I lower my face and think of home.}}
+
+===Use of persona===
+Li Bai also wrote a number of poems from various viewpoints, including the [[persona]]e of women. For example, he wrote several poems in the [[Six dynasties poetry|''Zi Ye'', or "Lady Midnight" style]], as well as Han folk-ballad style poems.
+
+===Technical virtuosity===
+Li Bai is well known for the technical virtuosity of his poetry and the mastery of his verses.<ref name="Watson, 141"/> In terms of poetic form, "critics generally agree that Li [Bai] produced no significant innovations&nbsp;... In theme and content also, his poetry is notable less for the new elements it introduces than for the skill with which he brightens the old ones."<ref name="Watson, 141"/>
+
+Burton Watson comments on Li Bai's famous poem, which he translates "Bring the Wine": "like so much of Li [Bai]'s work, it has a grace and effortless dignity that somehow make it more compelling than earlier treatment of the same."<ref>Watson, 144</ref>
+
+Li Bai's [[yuefu]] poems have been called the greatest of all time by [[Ming dynasty|Ming-dynasty]] scholar and writer [[Hu Yinglin]].<ref>Shisou(Thickets of Poetic Criticism)</ref>
+
+Li Bai especially excelled in the [[gushi (poetry)|Gushi]] form, or "old style" poems, a type of poetry allowing a great deal of freedom in terms of the form and content of the work. An example is his poem "蜀道難", translated by Witter Bynner as "Hard Roads in Shu". Shu is a poetic term for Sichuan, the destination of refuge that Emperor Xuanzong considered fleeing to escape the approaching forces of the rebel General [[An Lushan]]. Watson comments that, this poem, "employs lines that range in length from four to eleven characters, the form of the lines suggesting by their irregularity the jagged peaks and bumpy mountain roads of Sichuan depicted in the poem."<ref name="Watson, 141"/>
+
+Li Bai was also noted as a master of the [[jueju]], or cut-verse.<ref>Watson, 146</ref> Ming-dynasty poet Li Pan Long thought Li Bai was the greatest jueju master of the [[Tang dynasty]].<ref>Selections of Tang Poetry</ref>
+
+Li Bai was noted for his mastery of the [[Lüshi (poetry)|lüshi]], or "regulated verse", the formally most demanding verse form of the times. Watson notes, however, that his poem "Seeing a Friend Off" was "unusual in that it violates the rule that the two middle couplets&nbsp;... must observe verbal parallelism", adding that Chinese critics excused this kind of violation in the case of a genius like Li.<ref>Watson, 147</ref>
+
+==Influence==
+[[Image:Leng Mei - Figures - Spring Evening Banquet.jpg|thumb|right|''Spring Evening Banquet at the Peach and Pear Blossom Garden'' with quoted text by Li Bai, painted by [[Leng Mei]], late 17th or early 18th century, [[National Palace Museum]], Taipei]]
+
+===In the East===
+Li Bai's poetry was immensely influential in his own time, as well as for subsequent generations in China. From early on, he was paired with Du Fu. The recent scholar Paula Varsano observes that "in the literary imagination they were, and remain, the two greatest poets of the Tang—or even of China". Yet she notes the persistence of "what we can rightly call the 'Li-Du debate', the terms of which became so deeply ingrained in the critical discourse surrounding these two poets that almost any characterization of the one implicitly critiqued the other".{{sfnb|Varsano|2014}} Li's influence has also been demonstrated in the immediate geographical area of Chinese cultural influence, being known as Ri Haku in Japan. This influence continues even today. Examples range from poetry to painting and to literature.
+
+In his own lifetime, during his many wanderings and while he was attending court in Chang'an, he met and parted from various contemporary poets. These meetings and separations were typical occasions for versification in the tradition of the literate Chinese of the time, a prime example being his relationship with Du Fu.
+
+After his lifetime, his influence continued to grow. Some four centuries later, during the [[Song dynasty]], for example, just in the case of his poem that is sometimes translated "Drinking Alone Beneath the Moon", the poet [[Yang Wanli]] wrote a whole poem alluding to it (and to two other Li Bai poems), in the same ''gushi'', or old-style poetry form.<ref>Frankel, 22</ref>
+
+In the 20th century, Li Bai even influenced the poetry of [[Mao Zedong]].
+
+In China, his poem "[[Quiet Night Thought]]s", reflecting a nostalgia of a traveller away from home,<ref>''How to read Chinese poetry: a guided anthology'' By Zong-qi Cai p. 210. Columbia University Press [https://books.google.com/books?id=u-oTHkUit_kC&pg=PA211&dq=Chinese+Poet+%22Li+Bai%22&lr=&as_drrb_is=q&as_minm_is=0&as_miny_is=&as_maxm_is=0&as_maxy_is=&as_brr=3&cd=1#v=onepage&q=%22Li%20Bai%22&f=false]</ref> has been widely  "memorized by school children and quoted by adults".<ref>Speaking of Chinese By Raymond Chang, Margaret Scrogin Chang p. 176 WW Norton & Company [https://books.google.com/books?id=i2xrmK_GZ4kC&pg=PA174&dq=Chinese+Poet+%22Li+Bai%22&lr=&as_drrb_is=q&as_minm_is=0&as_miny_is=&as_maxm_is=0&as_maxy_is=&as_brr=3&cd=3#v=onepage&q=Chinese%20Poet%20%22Li%20Bai%22&f=false]</ref>
+
+He is sometimes worshipped as an immortal in [[Chinese folk religion]] and is also considered a divinity in [[Vietnam]] [[Caodaism|Cao Dai religion]].
+
+===In the West===
+Swiss composer [[Volkmar Andreae]] set eight poems as ''Li-Tai-Pe: Eight Chinese songs for tenor and orchestra, op. 37''. American composer [[Harry Partch]], based his ''Seventeen Lyrics by Li Po'' for intoning voice and Adapted Viola (an instrument of Partch's own invention) on texts in ''The Works of Li Po, the Chinese Poet'' translated by Shigeyoshi Obata.<ref>Obata, Shigeyoshi (1923). ''The Works of Li Po, the Chinese Poet'' (J.M. Dent & Co, ). {{ASIN|B000KL7LXI}}</ref> In Brazil, the songwriter [[Beto Furquim]] included a musical setting of the poem "Jing Ye Si" in his album "Muito Prazer".<ref>(2008, ISRC BR-OQQ-08-00002)</ref>
+
+====Ezra Pound====
+Li Bai is influential in the West partly due to [[Ezra Pound]]'s versions of some of his poems in the collection ''[[Cathay (poetry collection)|''Cathay'']]'',<ref name="Pound" /> (Pound transliterating his name according to the Japanese manner as "Rihaku").  Li Bai's interactions with nature, friendship, his love of wine and his acute observations of life inform his more popular poems. Some, like ''Changgan xing'' (translated by [[Ezra Pound]] as [[s:The River Merchant's Wife: A Letter|"The River Merchant's Wife: A Letter"]]),<ref name="Pound" /> record the hardships or emotions of common people. An example of the liberal, but poetically influential, translations, or adaptations, of Japanese versions of his poems made, largely based on the work of [[Ernest Fenollosa]] and professors Mori and Ariga.<ref name="Pound">Pound, Ezra (1915). ''Cathay'' (Elkin Mathews, London). {{ASIN|B00085NWJI}}.</ref>
+
+====Gustav Mahler====
+The ideas underlying Li Bai's poetry had a profound impact in shaping American Imagist and Modernist poetry through the 20th century. Also, [[Gustav Mahler]] integrated four of Li Bai's works into his symphonic song cycle ''[[Das Lied von der Erde]]''. These were derived from free German translations by [[Hans Bethge (poet)|Hans Bethge]], published in an anthology called {{lang|de|Die chinesische Flöte}} (''The Chinese Flute''),<ref>Bethge, Hans (2001). ''Die Chinesische Flöte'' (YinYang Media Verlag, Kelkheim, Germany). {{ISBN|978-3-9806799-5-4}}. Re-issue of the 1907 edition (Insel Verlag, Leipzig).</ref> Bethge based his versions on the collection ''Chinesische Lyrik'' by Hans Heilmann (1905). Heilmann worked from pioneering 19th-century translations into French: three by the [[Marie-Jean-Léon, Marquis d'Hervey de Saint Denys|Marquis d'Hervey-Saint-Denys]] and one (only distantly related to the Chinese) by [[Judith Gautier]]. Mahler freely changed Bethge's text.
+
+====Reference in Beat Generation====
+Li Bai's poetry can be seen as being an influence to [[Beat Generation]] writer [[Gary Snyder]] during Snyder's years of studying Asian Culture and Zen. Li Bai's style of descriptive writing assisted in the diversity within the Beat writing style.<ref>{{Cite web|url=http://spiritualecology.info/supplemental-information/research-notes/snyder/|title = Snyder}}</ref><ref>[[Beat Generation]]</ref>{{Circular reference|date=May 2019}}
+
+==Translation==
+Li Bai's poetry was introduced to Europe by [[Jean Joseph Marie Amiot]], a Jesuit missionary in Beijing, in his ''Portraits des Célèbres Chinois'', published in the series ''Mémoires concernant l'histoire, les sciences, les arts, les mœurs, les usages, &c. des Chinois, par les missionnaires de Pekin''. (1776–1797).<ref name="Obata, v"/> Further translations into French were published by [[Marie-Jean-Léon, Marquis d'Hervey de Saint Denys|Marquis d'Hervey de Saint-Denys]] in his 1862 ''Poésies de l'Époque des Thang''.<ref name="Saint-Denys">
+D'Hervey de Saint-Denys (1862). ''Poésies de l'Époque des Thang'' (Amyot, Paris). See Minford, John and Lau, Joseph S. M. (2000). ''Classic Chinese Literature'' (Columbia University Press) {{ISBN|978-0-231-09676-8}}.</ref>
+
+[[Joseph Edkins]] read a paper, "On Li Tai-po", to the Peking Oriental Society in 1888, which was subsequently published in that society's journal.<ref>Obata, [https://archive.org/details/workslipochines00conggoog <!-- quote=Mr. Edkins' paper. --> p. v.]</ref> The early sinologist [[Herbert Allen Giles]] included translations of Li Bai in his 1898 publication ''Chinese Poetry in English Verse'', and again in his ''[[History of Chinese Literature]]'' (1901).<ref>Obata, v–vi</ref> The third early translator into English was L. Cranmer-Byng (1872–1945). His ''Lute of Jade: Being Selections from the Classical Poets of China'' (1909) and ''A Feast of Lanterns'' (1916) both featured Li's poetry.
+
+Renditions of Li Bai's poetry into [[Modernist poetry in English#Imagism|modernist English poetry]] were influential through [[Ezra Pound#Ripostes, translation work|Ezra Pound]] in ''Cathay'' (1915) and [[Amy Lowell]] in ''Fir-Flower Tablets'' (1921). Neither worked directly from the Chinese: Pound relied on more or less literal, word for word, though not terribly accurate, translations of [[Ernest Fenollosa]] and what Pound called the "decipherings" of professors Mori and Ariga; Lowell on those of [[Florence Ayscough]]. [[Witter Bynner]] with the help of [[Kiang Kang-hu]] included several of Li's poems in ''The Jade Mountain'' (1939). Although Li was not his preferred poet, [[Arthur Waley]] translated a few of his poems into English for the ''Asiatic Review'', and included them in his ''More Translations from the Chinese''. Shigeyoshi Obata, in his 1922 ''The Works of Li Po'', claimed he had made "the first attempt ever made to deal with any single Chinese poet exclusively in one book for the purpose of introducing him to the English-speaking world.<ref name="Obata, v">Obata, v</ref> A translation of Li Bai's poem ''Green Moss'' by poet William Carlos Williams was sent as a letter to Chinese American poet David Rafael Wang where Williams was seen as having a similar tone as Pound.<ref>{{Cite web|url=https://jacket2.org/commentary/wcws-voice-near-end-green-moss|title = WCW's voice near the end: Green moss &#124; Jacket2}}</ref>
+
+Li Bai became a favorite among translators for his straightforward and seemingly simple style. Later translations are too numerous to discuss here, but an extensive selection of Li's poems, translated by various translators, is included in John Minford and Joseph S. M. Lau, ''Classical Chinese Literature'' (2000)<ref>Ch 19 "Li Bo (701–762): The Banished Immortal" Introduction by Burton Watson; translations by Elling Eide; Ezra Pound; Arthur Cooper,  David Young;  five poems in multiple translations, in John Minford and Joseph S. M. Lau, eds.,  ''Classical Chinese Literature'' (New York; Hong Kong: Columbia University Press; The Chinese University Press,  2000), pp. 721–763.</ref>
+
+===Sample translation===
+[[File:月下獨酌一.svg|thumb|Text of Li Bai's poem "Drinking Alone by Moonlight", in the classical top-to-bottom, right-to-left order]]
+One of Li Bai's best known poems and a good example of his writing is his ''Drinking Alone by Moonlight'' ({{lang|zh-Hant|月下獨酌}}, pinyin: Yuè Xià Dú Zhuó), which has been translated into English by various authors, including this translation, by [[Arthur Waley]]:<ref>Waley, Arthur (1919). [[s:Drinking Alone by Moonlight|"Drinking Alone by Moonlight: Three Poems,"]] ''More Translations from the Chinese'' (Alfred A. Knopf, New York), pp. 27–28. Li Bai wrote 4 poems with the same name (''[[Quantangshi]]'' 卷182_22 《月下獨酌四首》李白); Waley published translations of three.</ref>
+
+{{poemquote|{{lang|zh-Hant|花間一壺酒。}}{{Spaces|3}}A cup of wine, under the flowering trees;
+{{lang|zh-Hant|獨酌無相親。}}{{Spaces|3}}I drink alone, for no friend is near.
+{{lang|zh-Hant|舉杯邀明月。}}{{Spaces|3}}Raising my cup I beckon the bright moon,
+{{lang|zh-Hant|對影成三人。}}{{Spaces|3}}For he, with my shadow, will make three men.
+
+{{lang|zh-Hant|月既不解飲。}}{{Spaces|3}}The moon, alas, is no drinker of wine;
+{{lang|zh-Hant|影徒隨我身。}}{{Spaces|3}}Listless, my shadow creeps about at my side.
+{{lang|zh-Hant|暫伴月將影。}}{{Spaces|3}}Yet with the moon as friend and the shadow as slave
+{{lang|zh-Hant|行樂須及春。}}{{Spaces|3}}I must make merry before the Spring is spent.
+
+{{lang|zh-Hant|我歌月徘徊。}}{{Spaces|3}}To the songs I sing the moon flickers her beams;
+{{lang|zh-Hant|我舞影零亂。}}{{Spaces|3}}In the dance I weave my shadow tangles and breaks.
+{{lang|zh-Hant|醒時同交歡。}}{{Spaces|3}}While we were sober, three shared the fun;
+{{lang|zh-Hant|醉後各分散。}}{{Spaces|3}}Now we are drunk, each goes his way.
+{{lang|zh-Hant|永結無情遊。}}{{Spaces|3}}May we long share our odd, inanimate feast,
+{{lang|zh-Hant|相期邈雲漢。}}{{Spaces|3}}And meet at last on the Cloudy River of the sky.}}
+
+(Note: the "Cloudy River of the sky" refers to the [[Milky Way]])
+
+To hear the poem read in Chinese and to see another translation, go to [http://afe.easia.columbia.edu/at/libo/lb04.html Great Tang Poets: Li Bo (701–762) "Drinking Alone under the Moon" Asia For Educators (Columbia University)]
+
+{{Wide image|Li Bai calligraphy of Shang Yang Tie, Tang dynasty.jpg|3000px|The calligraphy "Shang Yang Tie" ({{lang|zh-Hant|上陽貼}}) by Li Bai.|dir=rtl}}
+
+==In popular culture==
+*Portrayed by Wong Wai-leung in TVB [[The Legend of Lady Yang]] (2000).
+*An actor playing Li Bai narrates the [[Wonders of China]] and [[Reflections of China]] films at the [[China Pavilion at Epcot]]
+*Li Bai's poem 'Hard Roads in Shu' is sung by a Chinese singer AnAn in a [https://www.youtube.com/watch?v=4UhSsPhIpqM Liu Bei trailer for a game Total War: THREE KINGDOMS]
+*  He appears as a "great writer" in the game [[Civilization VI]]
+
+==See also==
+{{portalbar|China|Biography|Poetry}}
+{{Div col|colwidth=22em}}
+* [[Chinese martial arts]]
+* [[Ci (poetry)]]
+* [[Classical Chinese poetry]]
+* [[Classical Chinese poetry forms]]
+* [[Guqin]]
+* [[Jiangyou]]
+* [[Modernist poetry in English]]
+* [[Monkeys in Chinese culture#Literature]]
+* [[Poetry of Mao Zedong]]
+* [[Iranians in China]]
+* [[Shi (poetry)]]
+* [[Simians (Chinese poetry)#In Baidicheng, back from the way to exile]]
+* [[Tang poetry]]
+* [[List of Three Hundred Tang Poems poets]]
+* [[Tomb of Li Bai]]
+* [[Xu Yushi]]
+* [[Quiet Night Thought|A Quiet Night Thought]]
+* [[Ode to Gallantry]]
+{{div col end}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+===Translations into English===
+* [[Arthur Cooper (translator)|Cooper, Arthur]] (1973). ''Li Po and Tu Fu: Poems Selected and Translated with an Introduction and Notes'' (Penguin Classics, 1973). {{ISBN|978-0-14-044272-4}}.
+* [[David Hinton|Hinton, David]] (2008). ''Classical Chinese Poetry: An Anthology''. New York: Farrar, Straus, and Giroux. {{ISBN|0-374-10536-7|978-0-374-10536-5}}
+* [[David Hinton|Hinton, David]] (1998). ''The Selected Poems of Li Po'' (Anvil Press Poetry, 1998). {{ISBN|978-0-85646-291-7}}
+* [[Keith Holyoak|Holyoak, Keith]] (translator) (2007). ''Facing the Moon: Poems of Li Bai and Du Fu''. (Durham, NH: [[Oyster River Press]]). {{ISBN|978-1-882291-04-5}}
+* Obata, Shigeyoshi (1922). ''The Works of Li Po, the Chinese Poet.'' (New York: Dutton). Reprinted: New York: Paragon, 1965. [https://archive.org/details/workslipochines00conggoog Free E-Book].
+* [[Ezra Pound|Pound, Ezra]] (1915). ''Cathay'' (Elkin Mathews, London). {{ASIN|B00085NWJI}}
+* [[Hugh McBirney Stimson|Stimson, Hugh M.]] (1976). ''Fifty-five T'ang Poems''. Far Eastern Publications: Yale University. {{ISBN|0-88710-026-0}}
+* [[Vikram Seth|Seth, Vikram]] (translator) (1992). ''Three Chinese Poets: Translations of Poems by Wang Wei, Li Bai, and Du Fu''. (London: Faber & Faber). {{ISBN|0-571-16653-9}}
+* [[Eliot Weinberger|Weinberger, Eliot]]. ''The New Directions Anthology of Classical Chinese Poetry''. (New York: New Directions, 2004). {{ISBN|0-8112-1605-5}}. Introduction, with translations by [[William Carlos Williams]], [[Ezra Pound]], [[Kenneth Rexroth]], [[Gary Snyder]], and David Hinton.
+* [[Burton Watson|Watson, Burton (1971)]]. ''Chinese Lyricism: Shih Poetry from the Second to the Twelfth Century''. New York: Columbia University Press. {{ISBN|0-231-03464-4}}
+* {{cite book| last=Mao| first=Xian| title=Children's Version of 60 Classical Chinese Poems
+| year=2013| publisher=Kindle Direct Publishing| location=eBook|url = https://books.google.com/books?id=_mwIyMuB73YC  |isbn=978-1-4685-5904-0| ref=none}}
+* [[Sun Yu (director)|Sun, Yu]] [孫瑜], translation, introduction, and commentary (1982). ''Li Po-A New Translation 李白詩新譯''. Hong Kong: The Commercial Press, {{ISBN|962-07-1025-8}}
+
+===Background and criticism===
+* [[Joseph Edkins|Edkins, Joseph]] (1888). "Li Tai-po as a Poet", ''The [[China Review]]'', Vol. 17 No. 1 (1888 Jul) [http://sunzi1.lib.hku.hk/hkjo/view/26/2602182.pdf]. Retrieved from [http://sunzi1.lib.hku.hk/hkjo/result.jsp?noOfRec=20&totalRec=182&img=h&firstRec=61], 19 January 2011.
+* Eide, Elling (1973). "On Li Po", in ''Perspectives on the T'ang''. New Haven, London: Yale University Press, 367–403.
+* [[Hans Fränkel|Frankel, Hans H.]] (1978). ''The Flowering Plum and the Palace Lady''. (New Haven and London: Yale University Press) {{ISBN|0-300-02242-5}}.
+* Kroll, Paul (2001). "Poetry of the T’ang Dynasty," in [[Victor H. Mair]].  ed., ''The Columbia History of Chinese Literature.'' (New York: Columbia University Press,  2001). {{ISBN|0-231-10984-9}}, pp.&nbsp;274–313.
+* [[Stephen Owen (academic)|Stephen Owen]] 'Li Po: a new concept of genius," in Stephen Owen. ''The Great Age of Chinese Poetry : The High T'ang.'' (New Haven Conn.: Yale University Press,  1981). {{ISBN|978-0-300-02367-1}}.<!-- ISBN from WorldCat but somehow to Chinese translation!? -->
+* Varsano, Paula M. (2003). ''Tracking the Banished Immortal: The Poetry of Li Bo and its Critical Reception'' (University of Hawai'i Press, 2003). {{ISBN|978-0-8248-2573-7}}, [https://books.google.com/books?id=v9dX7fh4OWgC&printsec=frontcover&dq=ISBN9780824825737&hl=en&sa=X&ei=QYKeUb-BObSCyAH22IHwAg&ved=0CDAQ6AEwAA#v=onepage&q&f=false]
+* {{cite journal |last = Varsano  |first = Paula |author-mask =2  |title =Li Bai and Du Fu
+|journal =Oxford Bibliographies Online  |year =2014 |doi = 10.1093/obo/9780199920082-0106 |isbn = 9780199920082 |url = http://www.oxfordbibliographies.com/document/obo-9780199920082/obo-9780199920082-0106.xml }}. Lists and evaluates scholarship and translations.
+* [[Arthur Waley|Waley, Arthur]] (1950). ''The Poetry and Career of Li Po'' (New York: MacMillan, 1950). {{ASIN|B0006ASTS4}}
+* [[John Ching Hsiung Wu|Wu, John C.H.]] (1972). ''The Four Seasons of Tang Poetry''. Rutland, Vermont: Charles E. Tuttle. {{ISBN|978-0-8048-0197-3}}
+
+==Further reading==
+* Hsieh, Chinghsuan Lily. "[https://etd.ohiolink.edu/!etd.send_file?accession=osu1086095656&disposition=inline Chinese Poetry of Li Po Set by Four Twentieth Century British Composers: Bantock, Warlock, Bliss and Lambert]" ([https://web.archive.org/web/20160117220133/https://etd.ohiolink.edu/!etd.send_file?accession=osu1086095656&disposition=inline Archive]) (PhD thesis). [[The Ohio State University]], 2004.
+* [https://library.oapen.org/handle/20.500.12657/47515 Li Bo Unkempt] / ''Kidder Smith, Mike Zhai'' // [[Punctum Books]], 2021. — {{ISBN|9781953035417|9781953035424}}; {{doi|10.21983/P3.0322.1.00}}.
+
+==External links==
+{{Sister project links|wikt=no|v=no|n=no|s=Author:Li Bai|b=no|d=Q7071}}
+{{wikisourcelang|zh|唐詩三百首|In Chinese: text of ''Three Hundred Tang Poems'' includes 34 poems by Li}}
+*{{Gutenberg author|id=26288}}
+
+Online translations (some with original Chinese, pronunciation, and literal translation):
+* [http://poemsintranslation.blogspot.com/search/label/Li%20Bai Poems by Li Bai] at ''Poems Found in Translation''
+* [http://www.blackcatpoems.com/b/li_bai.html Li Bai: Poems] Extensive collection of Li Bai poems in English
+* [http://www.chinese-poems.com/lb.html 20 Li Bai poems], in Chinese using simplified and traditional characters and pinyin, with literal and literary English translations by [https://web.archive.org/web/20070820010121/http://www.dmoz.org/profiles/markalexander100.html Mark Alexander].
+* [http://wengu.tartarie.com/wg/wengu.php?l=Tangshi&auteur=Li_Bai&no=-1 34 Li Bai poems], in Chinese with English translation by [[Witter Bynner]], from the [[Three Hundred Tang Poems]] anthology.
+* [https://archive.org/details/cathayezrapound00pounrich Complete text of ''Cathay''], the Ezra Pound/[[Ernest Fenollosa]] translations of poems principally by Li Po (J., Rihaku)
+* [https://web.archive.org/web/20131129185630/http://www.mountainsongs.net/poet_.php?id=101 Profile] Variety of translations of Li Bai's poetry by a range of translators, along with photographs of geographical sites relevant to his life.
+* [http://www.gutenberg.org/files/16500/16500-0.txt At Project Gutenberg] from ''More Translations From The Chinese'' by Arthur Waley, 1919 (includes six titles of poems by Li Po).
+* [https://archive.org/details/workslipochines00conggoog The works of Li Po, the Chinese poet, translated by Shigeyoshi Obata], Obata's 1922 translation.
+* [https://www.poemhunter.com/li-po/ Li Po's poems at PoemHunter.com site]
+* {{Librivox author |id=3142}}
+* [http://www.silkqin.com/09hist/qinshibu/libai.htm John Thompson on Li Bai and the qin musical instrument]
+{{Tang dynasty topics}}
+{{Chinese poetry}}
+{{Authority control}}
+
+{{DEFAULTSORT:Li, Bai}}
+[[Category:701 births]]
+[[Category:762 deaths]]
+[[Category:8th-century Chinese poets]]
+[[Category:Alcohol-related deaths in China]]
+[[Category:History of Kyrgyzstan]]
+[[Category:Recipients of Chinese royal pardons]]
+[[Category:Tang dynasty poets]]
+[[Category:Three Hundred Tang Poems poets]]
+[[Category:Legendary Chinese people]]

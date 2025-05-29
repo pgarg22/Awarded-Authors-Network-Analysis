@@ -1,0 +1,31 @@
+{{short description|Japanese writer}}
+[[File:Boncho_1.jpg|thumb|right|Bonchō portrait]]
+{{family name hatnote|Nozawa|lang=Japanese}}
+{{nihongo|'''Nozawa Bonchō'''|野沢 凡兆||1640–1714}} was a Japanese [[haikai]] poet.<ref>[[Louis-Frédéric|Nussbaum, Louis-Frédéric]]. (2005). [https://books.google.com/books?id=p2QnPijAEmEC&pg=PA80&dq= "Bonchō"] in  ''Japan encyclopedia'', p. 80.</ref> He was born in [[Kanazawa, Ishikawa|Kanazawa]], and spent most of his life in [[Kyoto]] working as a doctor. Bonchō was one of [[Matsuo Bashō]]'s leading disciples and, together with [[Mukai Kyorai|Kyorai]], he edited the Bashō school's ''[[Sarumino|Monkey's Raincoat]]'' (''[[Sarumino]]'') anthology of 1689.<ref>[[René Sieffert|Sieffert, René]]. ''Bashô et son école Haïkaï'', Les éditions Textuel, 2005, {{ISBN|2-84597-140-0}} {{in lang|fr}}</ref> He participated in numerous [[renku]] with Bashō and other members of his Shōmon school.
+
+A famous [[hokku]] by Bonchō:
+
+市中は物のにほひや夏の月　''Machinaka ha / mono no nioi ya / natsu no tsuki''
+
+:Downtown   <br />the smells of things…   <br />summer moon <br /><small>(trans. Sean Price)</small>
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20090321072954/http://thegreenleaf.co.uk/HP/Boncho/00haiku.htm The Haiku and Poems of Nozawa Bonchō]
+*{{webarchive |url=https://web.archive.org/web/20080120081938/http://www.geocities.com/dr_phinaes/ichinakawa.html |date=January 20, 2008 |title=Downtown }}, a 1691 [[renku]] (collaborative linked poem), by Bonchō, Bashō and Kyorai, translated by Sean Price
+
+
+{{authority control}}
+
+{{DEFAULTSORT:Nozawa, Boncho}}
+[[Category:1640 births]]
+[[Category:1714 deaths]]
+[[Category:People from Kanazawa, Ishikawa]]
+[[Category:Japanese writers of the Edo period]]
+[[Category:17th-century Japanese poets]]
+[[Category:Japanese haiku poets]]
+
+
+{{japan-writer-stub}}

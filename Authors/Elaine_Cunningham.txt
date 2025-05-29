@@ -1,0 +1,108 @@
+{{for|the West Indies cricketer|Elaine Cunningham (cricketer)}}
+{{Use mdy dates|date=May 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Elaine Cunningham
+| image       = 
+| imagesize   = 
+| caption     = 
+| birth_date  = {{Birth date and age|1957|8|12}}
+| birth_place = [[New York City]], [[New York (state)|New York]]
+| death_date  = 
+| death_place = 
+| occupation  = Novelist
+| spouse      = 
+| period      = 1991–present
+| genre       = Fantasy, Science fiction
+| notableworks = [[Forgotten Realms]], Starlight & Shadows, and [[The New Jedi Order]] novels
+| website     = {{URL|elainecunningham.com/}}
+}}
+'''Elaine Cunningham''' (born August 12, 1957 in New York City)<ref name=contemp/> is an American [[fantasy]] and [[science fiction]] author, especially known for her contributions to the ''[[Dungeons & Dragons]]'' [[role playing game]] [[campaign setting]] of [[Forgotten Realms]].<ref name="Dragon #246">{{cite journal| last = Varney| first = Allen| author-link = Allen Varney| title = ProFiles: Elaine Cunningham| journal = [[Dragon (magazine)|Dragon]]| issue = #246| page = 120| publisher = [[Wizards of the Coast]]| location = [[Renton, Washington]]|date=April 1998}}</ref><ref name="buker2002">{{cite book | first=Derek M. | last=Buker | year=2002 | title=The science fiction and fantasy readers' advisory: the librarian's guide to cyborgs, aliens, and sorcerers | pages=[https://archive.org/details/sciencefictionfa00buke_0/page/127 127&ndash;128] | work=ALA readers' advisory series | publisher=ALA Editions | isbn=0-8389-0831-4 | url-access=registration | url=https://archive.org/details/sciencefictionfa00buke_0/page/127 }}</ref>
+
+==Biography==
+Cunningham was born in [[New York City]], and grew up in [[New York (state)|New York state]] and [[New England]].<ref name="Dragon #246"/> A voracious reader since childhood, she earned a degree in [[music]] education with a minor in [[history]].<ref name="Dragon #246"/>
+
+She started writing in 1987, after her older son was born.<ref name="Dragon #246"/> A lifelong fascination with [[folklore]] and [[mythology]] led her to the [[fantasy]] genre,<ref name="EC's site">[http://www.elainecunningham.com Elaine Cunningham's website]</ref><ref name="wizardsbio">{{cite web|url=http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=ElaineCunningham|title=Elaine Cunningham|archive-url=https://web.archive.org/web/20090511170012/http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=ElaineCunningham|archive-date=May 11, 2009}}</ref> and her background in music and history<ref name="Dragon #246"/><ref name="wizardsbio"/><ref name="EC's site"/> gave her an affinity for [[Bard (Dungeons & Dragons)|bards]] such as Danilo Thann,<ref name="EC's site"/> created for her first novel, ''[[Elfshadow]]'' (1991).<ref name="Dragon #246"/> Many of her stories focus on [[elf|elves]],<ref name="buker2002"/><ref name="Dragon #246"/> which she attributes to her excessive fondness for [[cat]]s.<ref name="Dragon #246"/><ref name="EC's site"/>
+
+{{quote| source = Elaine Cunningham
+| text   = ''Elves suddenly clicked for me when I realized they’re essentially bipedal cats with localized fur. They possess a decidedly feline grace, beauty, and dexterity, not to mention 110% of a cat’s attitude.''}}
+
+Cunningham is also the [[The New York Times Best Seller list|''New York Times'' bestselling]] author of ''[[Dark Journey (novel)|Dark Journey]]'',<ref name=contemp>{{cite journal | url=http://www.highbeam.com/doc/1G2-2591200037.html | archive-url=https://web.archive.org/web/20160316202431/https://www.highbeam.com/doc/1G2-2591200037.html | url-status=dead | archive-date=March 16, 2016 | title=Cunningham, Elaine 1957- | journal=[[Contemporary Authors]] | date=January 1, 2007 | access-date=October 18, 2012}}{{subscription|via=[[HighBeam Research]]}}</ref> book 10 from the ''[[Star Wars]]'' ''[[New Jedi Order]]'' saga.<ref name="wizardsbio"/> ''[[Shadows in the Starlight]]'' (2006), the second book the ''[[Changeling Detective]]'' series, was named to the 2006 ''[[Kirkus Reviews]]'' list “Ten Best SciFi Novels."<ref name="Kirkus">[https://www.sfsignal.com/archives/2007/01/kirkus_best_books_of_2006/?fbclid=IwAR2vACgKns7QSJkExK1AzzR_-dPYK-dqu6czwSaKnFqE2nnvlT0j3dO0aTY SF Signal magazine "Kirkus Best Books of 2006"]</ref>
+
+===Personal life===
+Now a full-time arts administrator, Cunningham continues to write, albeit mostly in the early morning hours. She lives in coastal [[Rhode Island]].<ref name="EC's site"/>
+
+==Bibliography==
+* ''[[Songs & Swords]]'' (featuring Arilyn, Danilo and Elaith)
+** I. ''[[Elfshadow]]''<ref name="sfsite">{{cite web
+ | first=Don | last=Bassingthwaite  | work=SF Site
+ | title=A Conversation With Elaine Cunningham
+ | url=http://www.sfsite.com/10b/ek43.htm
+ | access-date=2010-01-23 }}</ref> (1991/2000 reprint)
+** II. ''[[Elfsong]]'' (1994/2000 reprint)
+** III. ''[[Silver Shadows (Forgotten Realms novel)|Silver Shadows]]''<ref name="sfsite" /> (1996/2001 reprint)
+** IV. ''[[Thornhold]]'' (1998/2001 reprint)
+** V. ''[[The Dream Spheres]]''<ref name="sfsite" /> (1999)
+* ''[[Starlight and Shadows]]'' (featuring Liriel, Fyodor, and Gorlist)
+** I. ''[[Daughter of the Drow]]'' (1995)
+** II. ''[[Tangled Webs]]'' (1996)
+** III. ''[[Windwalker (novel)|Windwalker]]'' (2003)
+* ''Evermeet: Island of Elves'' (1998)
+* ''Counselors & Kings'' (featuring Matteo and Tzigone)
+** I. ''[[The Magehound]]'' (2000)
+** II. ''[[The Floodgate]]'' (2001)
+** III. ''[[The Wizardwar]]'' (2002)
+* ''[[City of Splendors: A Novel of Waterdeep]]'' (With [[Ed Greenwood]]; 2005)
+*Forgotten Realms [[anthology]] novellas
+**''[[The Best of the Realms, Book 1]]'' (2003)
+*** "Rite of Blood"&mdash;''[[Realms of the Underdark]]'' (1996)
+**''[[The Best of the Realms, Book III: The Stories of Elaine Cunningham]]'' (2007)
+*** "The Bargain"&mdash;''[[Realms of Valor]]'' (1993)
+*** "The More Things Change"&mdash;''[[Realms of Infamy]]'' (1994)
+*** "The Direct Approach"&mdash;''[[Realms of Magic]]'' (1995)
+*** "Secrets of Blood, Spirits of the Sea"&mdash;''[[Realms of the Arcane]]'' (1997)
+*** "The Great Hunt"&mdash;''[[Dragon (magazine)|Dragon magazine]]'' #246 (1998)
+*** "Speaking with the Dead"&mdash;''[[Realms of Mystery]]'' (1998)
+*** "Stolen Dreams"&mdash;''[[Dragon (magazine)|Dragon magazine]]'' #259 (1999)
+*** "Fire is Fire"&mdash;''[[Realms of the Deep]]'' (2000)
+*** "Possessions"&mdash;''[[Dragon (magazine)|Dragon magazine]]'' #282 (2002)
+*** "A Little Knowledge"&mdash;''[[Realms of Shadow]]'' (2002)
+*** "Gorlist's Dragon"&mdash;''[[Realms of Dragons]]'' (2004)
+*** "Games of Chance"&mdash;''[[Dragon (magazine)|Dragon magazine]]'' #335 (2005)
+*** "The Knights of Samular"
+*** "Tribute"
+*** "Answered Prayers"
+* [[Del Rey Books|Del Rey]]'s ''[[Star Wars]] books''
+** ''[[Dark Journey (novel)|Dark Journey]]'', Book 12 of the [[New Jedi Order]] series (featuring [[Jaina Solo]])
+*''The Changeling Detective Agency'' series
+** I. ''[[Shadows in the Darkness]]'' (2004)
+** II. ''[[Shadows in the Starlight]]'' (2006)
+*''[[Pathfinder Roleplaying Game|Pathfinder]] Tales'' series
+** ''Winter Witch'' (2010), ISBN 978-1-60125-286-9, with [[Dave Gross]]
+
+==Quotes==
+*(''From [http://www.candlekeep.com Candlekeep] web forums''): Ravens and crows will also interact with humans. Occasionally they'll imitate human behavior (such as helping gardeners pull weeds.) Sometimes they're willing to cut a deal. I've got one going with the local "raven mafia." They always gather on trash pickup day, but in exchange for some "protection bread," they'll leave my trash alone and even chase other birds away from it.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.elainecunningham.com Elaine Cunningham's website]
+*[http://www.flamesrising.com/elaine-cunningham-interview Interview at Flames Rising] (September 2008)
+*{{isfdb name|id=Elaine_Cunningham|name=Elaine Cunningham}}
+*{{cite web |url=http://www.pen-paper.net:80/rpgdb.php?op=showcreator&creatorid=75 |archive-date=February 25, 2005 |title=Elaine Cunningham :: Pen & Paper RPG Database |url-status=live |archive-url=https://web.archive.org/web/20050225004149/http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=75 |access-date=August 5, 2019 }}
+
+{{Authority control}}
+
+{{D&D topics}}
+
+{{DEFAULTSORT:Cunningham, Elaine}}
+[[Category:1957 births]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American novelists]]
+[[Category:21st-century American women writers]]
+[[Category:American fantasy writers]]
+[[Category:American science fiction writers]]
+[[Category:American women novelists]]
+[[Category:Living people]]
+[[Category:Women science fiction and fantasy writers]]

@@ -1,0 +1,34 @@
+{{EngvarB|date=January 2020}}
+{{short description|English poet}}
+{{further|English translations of Homer#Worsley}}
+{{Use dmy dates|date=January 2020}}
+[[File:Philip Stanhope Worsley by Julia Margaret Cameron, 1866.jpg|thumb|Worsley in 1866 by [[Julia Margaret Cameron]]]]
+'''Philip Stanhope Worsley''' (12 August 1835 – 8 May 1866) was an English poet.
+
+==Life==
+The son of the Rev. Charles Worsley, he was educated at [[Highgate School]], where he made a lasting impression on [[Gerard Manley Hopkins]], a fellow pupil in his boarding house,<ref>{{cite book|last1=Abbott|first1=Claude Colleer|title=The correspondence of Gerard Manley Hopkins and Richard Watson Dixon|date=1955|publisher=[[Oxford University Press]]|page=5|edition=2nd}}</ref> and [[Corpus Christi College, Oxford]], where he won the [[Newdigate prize]] in 1857 with a poem on ''The Temple of Janus''.  In 1861 he published a translation of the ''[[Odyssey]]'', followed in 1865 by a translation of the first twelve books of the ''[[Iliad]]'', in both of which he employed the [[Edmund Spenser|Spenserian]] [[stanza]] with success.
+
+In 1863, he published a volume of ''Poems and Translations''. His [[unfinished work|unfinished]] translation of the ''[[Iliad]]'' was completed after his death by [[John Conington]].
+
+==References==
+{{reflist}}
+*{{EB1911|wstitle = Worsley, Philip Stanhope|volume=28}}
+*{{DNB|wstitle=Worsley, Philip Stanhope|first=Richard|last=Garnett|authorlink=Richard Garnett (writer)|volume=63}}
+*{{cite ODNB|first1=Richard|last1= Garnett|title = Worsley, Philip Stanhope (1835–1866)|first2= Megan A. |last2=Stephan|id=29985}}
+
+==External links==
+{{wikisource author}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Worsley, Philip Stanhope}}
+[[Category:1835 births]]
+[[Category:1866 deaths]]
+[[Category:People educated at Highgate School]]
+[[Category:English male poets]]
+[[Category:19th-century English poets]]
+[[Category:19th-century British male writers]]
+[[Category:Translators of Homer]]
+
+
+{{England-poet-stub}}

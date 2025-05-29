@@ -1,0 +1,72 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|name = Louise Andrews Kent
+|image = 
+|caption = 
+|birth_name = Louise Andrews
+|pseudonym = Theresa Tempest<br/>Mrs Appleyard
+|birth_date = {{birth date|mf=yes|1886|05|25}}
+|birth_place = [[Brookline, Massachusetts|Brookline]], [[Massachusetts]], U.S.
+|death_date = {{death date and age|mf=yes|1969|08|06|1886|05|25}}
+|death_place =
+|occupation = Writer
+|nationality = American
+|genre = [[children's literature]]<br/>[[non-fiction]]
+|influences = 
+|signature = 
+|notableworks = 
+|spouse=Ira Rich Kent
+|children=Elizabeth, Hollister, Rosamond
+}}
+'''Louise Andrews Kent''' (May 25, 1886&nbsp;– August 6, 1969) <ref name="vhsbio">{{Cite web| title = Louise Andrews Kent (1886-1969)- Manuscripts, ca. 1953-1974| publisher = Vermont Historical Society| url = http://www.vermonthistory.org/documents/findaid/kent.pdf|accessdate = 2009-10-22}}</ref> was an [[United States|American]] [[author]].  She was born in [[Brookline, Massachusetts]] in 1886 and graduated from [[Simmons College (Massachusetts)|Simmons College School of Library Science]] in 1909, where she was president of her senior class and editor of the college paper.<ref name="simmons">{{Cite web|title=Simmons College Archives - The Women of Simmons College, 1900 - 1920 |publisher=Simmons College |url=http://my.simmons.edu/library/collections/college_archives/women/alumnae.shtml |archive-url=https://web.archive.org/web/20090702131349/http://my.simmons.edu/library/collections/college_archives/women/alumnae.shtml |url-status=dead |archive-date=2009-07-02 |accessdate=2009-10-22 }}</ref>  She became a newspaper columnist and author of [[children's literature|children's books]], [[cookbooks]].  She wrote a newspaper column, ''Theresa’s Tea Table'',<ref name="simmons"/> in the [[Boston Traveller]] under the pen name of ''Theresa Tempest'' and later authored a series of cookbooks as ''Mrs. Appleyard''.<ref name="vhsbio"/>  Kent, also as ''Mrs. Appleyard'', wrote a quarterly feature on food for [[Vermont Life]] magazine for many years.<ref name="familykitchen">{{Cite web| title = Mrs. Appleyard's Family Kitchen|url = http://www.cookbkjj.com/bookhtml/004826.html|accessdate = 2009-10-22}}</ref>
+
+The [[Vermont Historical Society]], of which Kent was a trustee during the 1950s,<ref name="vhscatalog"/> maintains a collection of research notes, [[manuscript|manuscript and typescript drafts]] and [[galley proof]]s of her work.<ref name="vhsbio"/>
+
+==Family==
+Louise Andrews Kent married Ira Rich Kent (1876–1945) in 1912.  The couple had three children and maintained residences in both Brookline and [[Calais, Vermont|Calais]], [[Vermont]].<ref name="vhsbio"/>  In 1959, Kent, by then a widow, moved permanently to Calais.<ref name="vhscatalog">{{Cite web| title = Vermont Historical Society Library Catalog| publisher = Vermont Historical Society| url = http://catalog.vermonthistory.org/vhsweb2/tramp2.exe/do_ccl_search/guest?SETTING_KEY=vhs&servers=1home&index=)&query=VHS-51|accessdate = 2009-10-23}}</ref>
+
+Kent's father, Walter Edward Andrews, immigrated to the United States after the Civil War. Kent's mother, Mary Sophronia Edgerly, grew up in New England and attended private schools. She was very athletic and participated in tennis, shooting, swimming, riding, and golfing. In fact, Edgerly won the first women's golf tournament to ever be played in the United States. The tournament took place at a Brookline country club. Edgerly died in 1899 of influenza when Louise Andrews Kent was just 13 years old.<ref>Province of Reason, Sam Bass Warner Jr.</ref>
+
+==Bibliography==
+Books authored by Louise Andrews Kent include:
+
+===Novels===
+* (1939) ''Paul Revere Square''
+* ''The Terrace''
+
+===Children's fiction===
+*(1931) ''Douglas of Porcupine''
+*(1935) ''He went with Marco Polo: A Story of Venice and Cathay''
+*(1938) ''He went with Vasco da Gama''
+*(1940) ''He went with Christopher Columbus''
+*(1943) ''He went with Magellan''
+*(1959) ''He went with Champlain''
+*(1961) ''He went with Drake''
+*(1967) ''He went with Hannibal''
+* ''The Red Rajah''
+*(1932) ''Two Children of Tyre''
+
+===Cookbooks===
+*(1941) ''Mrs. Appleyard's Year''
+*(1942) "Mrs. Appleyard's Kitchen"
+*(1953) ''...with Kitchen Privileges''
+*(1957) ''The Summer Kitchen''
+*(1962) ''The Winter Kitchen''
+*(1965) ''Vermont Year Round Cookbook''
+*(1974) ''Mrs. Appleyard’s Kitchen Omnibus''
+
+===Other non-fiction===
+*(1948) ''Village Greens of New England''
+*(1955) ''The Brookline Trunk''
+*(1968) ''Mrs. Appleyard and I''
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kent, Louise Andrews}}
+[[Category:American children's writers]]
+[[Category:People from Brookline, Massachusetts]]
+[[Category:1969 deaths]]
+[[Category:1886 births]]
+[[Category:Simmons College (Massachusetts) alumni]]

@@ -1,0 +1,86 @@
+{{Short description|American playwright}}
+{{Use American English|date=July 2021}}
+{{Use mdy dates|date=July 2021}}
+{{Infobox person
+| name          = <!-- use common name/article title -->
+| image         = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = <!-- only use if different from name -->
+| birth_date    = {{Birth date|1959|10|13}}
+| birth_place   = [[Columbus, Ohio|Columbus]], [[Ohio]], U.S.
+| death_date    = {{Death date and age|1992|11|07|1959|10|13}}
+| death_place   = [[Chicago]], [[Illinois]], U.S.
+| nationality   = 
+| other_names   = 
+| alma mater    = [[Ohio University]]
+| occupation    = {{hlist|[[Playwright]]}}
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+
+'''Scott McPherson''' (October 13, 1959 [[Columbus, Ohio]] – November 7, 1992 [[Chicago]]) was an American [[playwright]].<ref>{{cite news| url=https://www.nytimes.com/1992/11/08/obituaries/scott-mcpherson-actor-33-author-of-a-hit-stage-play.html?pagewanted=1| title=Scott McPherson; Actor, 33, Author of a Hit Stage Play| author= BRUCE LAMBERT| date=November 8, 1992| work=The New York Times}}</ref>
+
+==Life==
+He graduated from [[Ohio University]].<ref>{{cite web |url=http://www.glhalloffame.org/index.pl?item=22&todo=view_item |title=Archived copy |accessdate=2010-01-02 |url-status=dead |archiveurl=https://web.archive.org/web/20101005080405/http://glhalloffame.org/index.pl?todo=view_item&item=22 |archivedate=2010-10-05 }}</ref>
+In 1981, he moved to [[Chicago]], where he acted in ''The Normal Heart'', and ''The House of Blue Leaves''.  He joined the play writing group Chicago New Plays.
+His partner was activist and cartoonist Daniel Sotomayor.<ref>{{Citation
+  | last = Smith
+  | first = Sid
+  | title = Chicago Playwright Scott Mcpherson, 33
+  | newspaper = Chicago Tribune
+  | date = 1992-11-08
+  | url = http://articles.chicagotribune.com/1992-11-08/news/9204110171_1_outer-critics-circle-award-aids-drama-desk-award
+  | accessdate = 2010-12-01}}
+</ref>
+He died of complications from [[HIV/AIDS|AIDS]] on November 7, 1992, aged 33.<ref>{{cite book|editor-last1=Nelson|editor-first1=Emmanuel Sampath|url=https://books.google.com/books?id=tzuahdj0Q9EC&lpg=PA313|title=Contemporary gay American poets and playwrights: an A-to-Z guide|location=Westport, CT & London|publisher=Greenwood Publishing Group| year= 2003| isbn= 978-0-313-32232-7 }}</ref>
+
+Ohio University named a new theater space for him. 
+The [[Goodman Theatre]] and the [[Victory Gardens Theater]] have established an annual playwriting award in his name.<ref>{{cite book| url=https://www.washingtonpost.com/wp-srv/style/longterm/movies/review97/fmarvinsroom.htm| title= A Door Left Ajar in 'Marvin's Room'| author= David Richards| work=The Washington Post | date=January 5, 1997 }}</ref>
+
+==Family==
+The son of Leo McPherson and Peggy Sansbury, he had the following siblings: Bret and Mark McPherson, Steve Sansbury, Hugh Sansbury, Susan MacDowell, Ellen Oatney and Cathy Hargett.{{citation needed|date=February 2020}}
+
+==Awards==
+* 1991 [[Whiting Awards|Whiting Award]]
+* 1992 [[Drama Desk Award for Outstanding Play]]
+* Oppenheimer Award
+* [[Obie Award]]
+* [[Outer Critics Circle Award]]
+* Induction into the [[Chicago Gay and Lesbian Hall of Fame]] (in 1992).<ref>{{cite web |url=http://www.glhalloffame.org/index.pl?page=inductees&todo=year |title=Archived copy |accessdate=2016-08-01 |url-status=dead |archiveurl=https://web.archive.org/web/20151017032241/http://www.glhalloffame.org/index.pl?page=inductees&todo=year |archivedate=2015-10-17 }}</ref>
+
+==Works==
+* ''Til the Fat Lady Sings'' Ohio University
+* ''Scraped'' Organic Theatre 1986
+* ''[[Marvin's Room (play)|Marvin's Room]]'' Goodman Theatre 1990
+
+===Screenplay===
+* ''[[Marvin's Room (film)|Marvin's Room]]'' (film, 1996)
+* ''Legal Briefs''
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.queerculturalcenter.org/Pages/Keehnen/McPhers.html "Owen Keehnen Interviews", ''Queer cultural Center'']
+*[http://www.whiting.org/awards/winners/scott-mcpherson#/ Profile at The Whiting Foundation]
+*[http://www.doollee.com/PlaywrightsM/mcpherson-scott.html "Scott McPherson", ''doollee'']
+*[https://www.imdb.com/name/nm0574259/ "Scott McPherson", ''IMDb'']
+
+{{Chicago Gay and Lesbian Hall of Fame}}
+{{Authority control}}
+
+{{DEFAULTSORT:McPherson, Scott}}
+[[Category:1959 births]]
+[[Category:1992 deaths]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:20th-century American male writers]]
+[[Category:AIDS-related deaths in Illinois]]
+[[Category:American male dramatists and playwrights]]
+[[Category:American gay writers]]
+[[Category:LGBT dramatists and playwrights]]
+[[Category:LGBT people from Ohio]]
+[[Category:Ohio University alumni]]
+[[Category:Writers from Columbus, Ohio]]
+[[Category:20th-century LGBT people]]

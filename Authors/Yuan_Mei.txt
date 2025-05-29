@@ -1,0 +1,118 @@
+{{family name hatnote|[[Yuan (surname)|Yuan]]|lang=Chinese}}
+{{Infobox person
+| image       = [[File:YuanMeiLuoPingI.jpg|150px]]
+| caption     = Yuan Mei　Portrait by [[Luo Ping]]
+| name        = Yuan Mei
+| native_name = 袁枚
+| native_name_lang= zh-hant
+| birth_name  = 
+| other_names = 
+| birth_date  = {{birth date|1716|03|25}} 
+| birth_place = [[Hangzhou]], [[Zhejiang]], China
+| death_date  = {{death date and age|1798|1|3|1716|03|25}} 
+| death_place = [[Nanjing]], [[Jiangsu]], China
+| death_cause = 
+|education=''[[jinshi]]'' degree
+| alma_mater  = 
+| occupation  = Painter, poet
+| known_for   = 
+| notable_works = ''Suiyuan shihua''<br>''[[Suiyuan Shidan]]''
+| movement    = 
+| spouse      = <!-- {{marriage||}} -->
+| children    = 
+| parents     = 
+| relatives   = Yuan Ji (sister)
+| awards      = <!--  {{Awards|award= |year= |title= }} -->
+| signature   = 
+| signature_size = 
+| module  = {{Infobox Chinese|child=yes
+|c = {{linktext|袁|枚}}
+|p =  Yuán Méi
+|w = 
+|altname = Zicai
+|c2 = {{linktext|子|才}}
+|l2 = <!--N/A-->
+|p2 = Zǐcaí
+|altname3 = Jianzhai
+|s3 = {{linktext|简|斋}}
+|t3 = {{linktext|簡|齋}}
+|l3 = <!--N/A-->
+|p3 = Jiǎnzhaī
+|altname4 = Cangshan Jushi
+|s4 = {{linktext|仓|山|居士}}
+|t4 = {{linktext|倉|山|居士}}
+|l4 = Mount Cang [[Householder (Buddhism)|Householder]]
+|p4 = Cāngshān Jūshì
+|altname5 = Suiyuan Zhuren
+|s5 = {{linktext|随|园|主人}}
+|t5 = {{linktext|隨|園|主人}}
+|l5 = Owner of Sui Garden
+|p5 = Suíyuán Zhǔrén
+|altname6 = Suiyuan Laoren
+|s6 = {{linktext|随|园|老人}}
+|t6 = {{linktext|隨|園|老人}}
+|l6 = Old Man of Sui Garden 
+|p6 = Suíyuán Lăorén
+}}
+}}
+ 
+'''Yuan Mei''' ({{zh|c=袁枚|p=Yuán Méi}}; 1716–1797) was a Chinese painter and poet of the [[Qing Dynasty]]. He was often mentioned with [[Ji Yun]] as the "Nan Yuan Bei Ji" ({{zh|t=南袁北紀|l=Yuan of the south and Ji of the north|links=no|p=nányuán běijì}}).<ref>{{cite news|url=https://cn.apdnews.com/lifestyle/762592.html |script-title=zh:26岁官至正处级，33岁辞职做网红，这个清朝吃货不简单 |work=apdnews.com |date=2017-09-26 |language=zh}}</ref>
+
+==Biography==
+{{sources|section|date=February 2020}}
+===Early life===
+Yuan Mei was born in Qiantang ({{lang|zh-Hant|錢塘}}, in modern [[Hangzhou]]), [[Zhejiang]] province, to a cultured family who had never before attained high office. He achieved the degree of ''[[jinshi]]'' in 1739 at the young age of 23 and was immediately appointed to the [[Hanlin Academy]] ({{lang|zh-Hant|翰林院}}). Then, from 1742 to 1748, Yuan Mei served as a magistrate in four different provinces in [[Jiangsu]]. However, in 1748, shortly after being assigned to administer part of [[Nanjing]], he resigned his post and returned to his hometown to pursue his literary interest.<ref name="Nienhauser">{{cite book|last=Nienhauser|first=William H.|title=The Indiana Companion to Traditional Chinese Literature|publisher=Indiana University Press|year=1985|pages=956–957|isbn=978-0-253-32983-7}}</ref>
+
+===Literary career===
+
+In the decades before his death, Yuan Mei produced a large body of poetry, essays and paintings. His works reflected his interest in [[Chan Buddhism]] and the supernatural, at the expense of [[Daoism]] and institutional [[Buddhism]] - both of which he rejected. Yuan is most famous for his poetry, which has been described as possessing "unusually clear and elegant language". His views on poetry as expressed in the {{Lang|zh-Latn|Suíyuán Shīhuà}} ({{lang|zh-Hant|隨園詩話}}) stressed the importance of personal feeling and technical perfection. In his later years, Yuan Mei came to be called "Mister Suiyuan" ({{Lang-zh|t=隨園先生|p=suíyuán xiānsheng}}). Among his other collected works are treatises on passing the imperial examinations and food.
+
+Throughout his lifetime, Yuan Mei travelled extensively throughout southern China, visiting [[Huangshan]], [[Guilin]], [[Tiantai]], [[Wuyi Mountains|Wuyi]] and other famous mountains. On some of those visits, Yuan kept journal entries, representative of which is the ''You Guilin zhu shan ji'' ("Record of tours of the mountains of Guilin"). He also accepted students. Since he admired women's poetry, he also took several female students and helped them publish their work under their own names.
+
+=== Beliefs and women's literacy ===
+Yuan was opposed to the strict moral and aesthetic norms of his day and valued creativity and self-expression. He advocated for women's literacy. Yuan was both famed and criticized for his Sui Garden where women would gather to compose and recite poetry. Two of Yuan's sisters enjoyed praise for their literary talent.<ref>{{Cite book|title=China: A Cultural and Historical Dictionary|publisher=Curzon Press|year=1998|isbn=0-7007-0439-6|editor-last=Dillon|editor-first=Michael|location=London|pages=[https://archive.org/details/chinahistoricalc0000unse/page/374 374]|url=https://archive.org/details/chinahistoricalc0000unse/page/374}}</ref>
+
+==Gastronomic work==
+{{main article|Suiyuan shidan}}
+The food writer [[Fuchsia Dunlop]] has described Yuan as "China’s [[Brillat-Savarin]],"  <ref name="Dunlop">{{cite web|url=http://www.newyorker.com/reporting/2008/11/24/081124fa_fact_dunlop?currentPage=all|title=Garden of Contentment|last=Dunlop|first=Fuchsia|date=November 24, 2008|publisher=The New Yorker|access-date=2009-08-04}}</ref> and [[Endymion Wilkinson]] called him one of the four classical [[gastronome]]s.<ref>Endymion Wilkinson, ''Chinese History: A Manual'' (Cambridge, MA.: Harvard University Press, Rev. and enl., 2000): 634. The other three are [[Su Shi]] (1037-1101), [[Ni Zan]] (1301-74), and [[Xu Wei]] (1521-93).</ref> In a time when the taste among his contemporaries was for opulence and exotic display, Yuan stood for the "orthodox" style. "Nowadays," he wrote, "at the start of the feast the menu is about a hundred feet long". This is "mere display, not gastronomy". After one such dinner Yuan returned home and cooked [[congee]] to appease his hunger. He instructed cooks "do not fuss with the natural state of the food just to show that you are a clever cook. Bird's nest is beautiful -- why shape it into balls?" Yuan criticized his contemporary [[Li Liweng]]'s magnolia pudding as "created by artifice". Yuan also resented what he regarded as the corruption of Chinese food by Manchu cooks. The appeal of Manchu cooking was in their stews and roasts, while Chinese cooked broths and soups, but when Manchus serve Chinese dinners and Chinese serve Manchu food, "we lose our originality" and we "toady to each other".<ref>Hsiang-Ju Lin and Tsuifeng Lin. ''Chinese Gastronomy''. New York: Hastings House,  1969), 44-45, 47.</ref>
+
+Yuan published his recipes and thoughts on cooking in his 1792 gastronomic manual and cookbook [[The Way of Eating]].<ref>Portions translated in  Arthur Waley, ''Yuan Mei, Eighteenth Century Chinese Poet'' (London: Allen & Unwin, 1956):196 ff and Lin, ''Chinese Gastronomy'', 45-48.</ref><ref>[http://wayoftheeating.wordpress.com/ Translating the Suiyuan Shidan]</ref> A complete and annotated translation was published in 2019. {{sfnp|Yuan|2019}}
+==Works==
+* {{cite book |last = Yuan|first= Mei |translator = Chen, Sean Jy-Shyang. Introduction by [[Nicole Mones]]|year = 2019 |title = The Way of Eating: Yuan Meí's Manual of Gastronomy |publisher = Berkshire| location = Great Barrington, MA |isbn = 9781614728276}}
+* {{citation | first =Mei |last=Yuan |title = Yuan Mei's Garden of Accommodation|translator = Duncan Campbell |editor-first = Duncan |journal = China Heritage Annual |editor-last= Campbell | location = Wairarapa Valley, New Zealand| year =2017 |url= https://chinaheritage.net/annual/2017/in-history/qing/gardens-of-nothingness/yuan-meis-garden-of-accommodation/|ref = none}}
+* Yuan Mei, Yingzhong Wang and Yingzhi Wang, eds. {{lang|zh-Hans|随园食单}} (Sui Yuan Shi Dan). Nanjing: Feng huang chubanshe, 2006. {{ISBN|978-7-80643-493-2}}.
+* J.P. Seaton, Translator, ''I Don't Bow to Buddhas: Selected Poems of Yuan Mei''. Port Townsend, Copper Canyon Press, 1997 {{ISBN|1-55659-120-9}}
+* J. D. Schmidt, ''Harmony Garden: The Life, Criticism, and Poetry of Yuan Mei,'' Routledge, 2003.
+* {{citation | first= Mei| last =Yuan| publisher = China Heritage Annual | title = Yuan Mei's Garden of Accommodation | editor-first =Duncan | editor-last= Campbell | year =2017 |url= https://chinaheritage.net/annual/2017/in-history/qing/gardens-of-nothingness/yuan-meis-garden-of-accommodation/|ref = none}}\
+* {{cite book |last = Yüan |first= Mei |translator = Louie, Kam and Louise P. Edwards|year = 1995 |title = Censored by Confucius: Ghost Stories by Yuan Mei|publisher = M.E. Sharpe| location = Armonk, NY |isbn = 1563246805|ref = none}}
+
+==Further reading==
+* Arthur Waley. ''Yuan Mei, Eighteenth Century Chinese Poet''. London: Allen & Unwin,  1956
+* {{cite ECCP|title=Yüan Mei}}
+
+== References ==
+{{Reflist}}
+==External links==
+{{wikiquote}}
+* {{Gutenberg author | id=Yuan,+Mei}}
+* {{Internet Archive author |sname=Yuan Mei |birth=1716 |death=1797}}
+* Jennifer Thome, ''[https://web.archive.org/web/20140131002221/http://scholar.google.com/ STRANGE OVERTONES: THE EXPRESSIONS OF RESENTMENT AND COMPASSION IN YUAN MEI’S "WHAT THE MASTER DOES NOT SPEAK OF"]''. M.A. thesis, Arizona State University, 2008.
+* [https://web.archive.org/web/20050505062604/http://cls.hs.yzu.edu.tw/CEat/recipe/all_text.asp 随园食单 (Sui Yuan Shi Dan) Chinese text]
+* [http://wayoftheeating.wordpress.com/ Suiyuan Shidan (隨園食單) English translation]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Yuan, Mei}}
+
+[[Category:1716 births]]
+[[Category:1797 deaths]]
+[[Category:18th-century Chinese painters]]
+[[Category:18th-century Chinese poets]]
+[[Category:18th-century LGBT people]]
+[[Category:Chinese cuisine]]
+[[Category:LGBT people from China]]
+[[Category:Poets from Zhejiang]]
+[[Category:Qing dynasty painters]]
+[[Category:Qing dynasty poets]]
+[[Category:Painters from Zhejiang]]
+[[Category:Writers from Hangzhou]]

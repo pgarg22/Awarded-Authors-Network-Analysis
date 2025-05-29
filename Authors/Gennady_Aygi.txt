@@ -1,0 +1,51 @@
+{{Use dmy dates|date=November 2021}}
+{{short description|Chuvash poet, writer and translator}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = Gennadiy Aygi.jpg
+| imagesize   = 170px
+| caption     = 
+| birth_date  = {{birth date|1934|8|21|df=y}}
+| birth_place = [[Chuvashia]], [[Russian SFSR]], [[Soviet Union]]
+| death_date  = {{death date and age|2006|2|21|1934|8|21|df=y}}
+| death_place = [[Moscow]], [[Russia]] 
+| signature   = Signature of Gennadiy Aigui.svg
+}}
+{{family name hatnote|Nikolaevich|Aygi|lang=Eastern Slavic}}
+'''Gennadiy Nikolaevich Aygi''' ({{lang-rus|Генна́дий Никола́евич Айги́|p=ɡʲɪˈnadʲɪj nʲɪkɐˈlajɪvʲɪtɕ ɐjˈɡʲi|a=Gyennadiy Nikolayevich Aygi.ru.vorb.oga}}, {{lang-cv|Геннадий Николаевич Айхи}}; 21 August 1934 in Schaymurzino, [[Batyrevsky District]] &ndash; 21 February 2006 in [[Moscow]]) was a [[Chuvash people|Chuvash]] poet and a translator. His poetry is written both in [[Chuvash language|Chuvash]] and in [[Russian language|Russian]].
+
+He was born in the village of Shaimurzino (Çĕnyal), [[Chuvashia]] ([[USSR]]), moved to Moscow in 1953 and stayed there for the rest of his life.{{citation needed|date=December 2017}} Aygi started writing poetry in the [[Chuvash language]] in 1958.
+
+Among the recognitions he has won are the [[Andrey Bely]] Prize (1987), the [[Pasternak Prize]] (2000, the first to be awarded this), the Prize of the French Academy (1972), the [[Petrarch Prize]] (1993), the Golden Wreath of the [[Struga Poetry Evenings]] in 1994 and the Jan Smrek Prize (Bratislava, Slovakia).
+
+In 2003 Aygi participated in the [http://www.literaturfestival.com/archive/participants/authors/2003/2020-gennadij-ajgi?set_language=en "international literature festival berlin"].
+
+[[Sofia Gubaidulina]] set several of his poems to music in her cycle ''Jetzt immer Schnee'' ("Now always snow").
+
+His son [[Aleksey Aygi]] is a [[composer]].
+
+==References==
+* {{cite web | last=France | first=Peter | title=Obituary: Gennady Aygi | website=[[The Guardian]] | date=25 February 2006 | url=http://www.theguardian.com/news/2006/feb/25/guardianobituaries.books | access-date=23 November 2021}}
+
+== External links ==
+* [http://blog.bpj.org/2013/11/alex-cigale-on-gennady-aygi.html#comment-form/ Month-long tribute to Aygi] essay and collection of links
+* [https://web.archive.org/web/20140208013345/http://ndbooks.com/blog/article/poets-in-discussion-alex-cigale-interviews-peter-france-translator-of-genna Interview with Aygi's friend and translator Peter France] at New Directions
+
+{{svplaureats}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aygi, Gennady}}
+[[Category:Folk poets of Chuvashia]]
+[[Category:Russian male poets]]
+[[Category:Chuvash-language poets]]
+[[Category:1934 births]]
+[[Category:2006 deaths]]
+[[Category:Chuvash writers]]
+[[Category:Struga Poetry Evenings Golden Wreath laureates]]
+[[Category:20th-century Russian poets]]
+[[Category:People from Batyrevsky District]]
+[[Category:20th-century Russian male writers]]
+[[Category:Maxim Gorky Literature Institute alumni]]
+
+
+{{Russia-poet-stub}}

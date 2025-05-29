@@ -1,0 +1,46 @@
+{{short description|Estonian poet and teacher}}
+{{Infobox writer 
+ | name        = Hendrik Adamson
+ | image       = Hendrik Adamson.jpg
+ | image_size  = 250px
+ | caption     =  [[Estonia]]n poet and teacher
+ | pseudonym   = 
+ | birth_name  = 
+ | birth_date  = {{birth date|1891|9|24}}
+ | birth_place = [[Kärstna]], [[Estonia]]
+ | death_date  = {{death date and age|1946|3|7|1891|9|24}}
+ | death_place = [[Tuhalaane]], [[Estonia]]
+ | occupation  = Writer, poet
+ | nationality = [[Estonians|Estonian]]
+ | period      = 20th century
+ | genre       = 
+ | spouse      = 
+ | subject     = 
+}}
+'''Hendrik Adamson''' ({{OldStyleDate|6 October|1891|24 September}} – 7 March 1946) was an [[Estonia]]n poet and teacher.
+
+He was born as a son of a tailor in Patsi farmstead in Metsakuru village, [[Kärstna]] Parish (now in [[Veisjärve]] village, [[Tarvastu Parish]]), [[Viljandi County]]. From 1911 he worked as a teacher at the Torma Võtikvere Ministry of education. From 1919 to 1927 he was the head of the primary school in [[Kärstna]]. Subsequently, he became a professional writer and a member of the [[Estonian Writers' Union]].
+
+Notable poems include  "Mulgimaa" (Tartu, 1919), "Inimen" (Tartu, 1925), "Tõus ja mõõn" (Tartu, 1931), "Kolletuspäev" (Tartu, 1934), "Mälestuste maja" (Tartu, 1936) and "Linnulaul" (Tartu, 1937). He also published the novels "Kuldblond neitsi" and "Roheline sisalik" (Tartu, 1925).<ref>Maie Torim and Karl Muru, ''Pilk Hendrik Adamsoni elule ja luulele'' – Keel ja Kirjandus 1966, nr. 4, lk. 210–225</ref>
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{FadedPage|id=Adamson, Hendrik|name=Hendrik Adamson|author=yes}}
+* {{OL author}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Adamson, Henrik}}
+[[Category:1891 births]]
+[[Category:1946 deaths]]
+[[Category:People from Viljandi Parish]]
+[[Category:People from the Governorate of Livonia]]
+[[Category:Estonian male poets]]
+[[Category:Estonian Esperantists]]
+[[Category:20th-century Estonian poets]]
+[[Category:20th-century male writers]]
+
+
+{{Estonia-writer-stub}}

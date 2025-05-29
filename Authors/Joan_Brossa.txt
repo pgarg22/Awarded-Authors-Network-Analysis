@@ -1,0 +1,70 @@
+{{Infobox artist
+| name          = Joan Brossa
+| image         = FotoBrossa.jpg
+| caption       = '''Joan Brossa'''<br />Photo taken<br />10 September 1998
+| birth_name    = Joan Brossa i Cuervo
+| birth_date    = {{birth date|1919|1|19|df=yes}}
+| birth_place   = [[Barcelona]], [[Catalonia]], [[Spain]]
+| death_date    = {{death date and age|1998|12|30|1919|1|19|df=yes}}
+| death_place   = Barcelona, Catalonia
+| nationality   = Spanish
+| field         = [[Poetry]], [[Theatre]], [[Sculpture]], [[Plastic Arts]], [[Graphic Design]]
+| movement      = [[surrealism]], [[dada]], [[Dau al Set]], 
+}}
+[[File:Homenatge a Joan Brossa P1450514.JPG|thumb|right|"Homenatge a Joan Brossa" in Barcelona]]
+
+'''Joan Brossa''' ({{IPA-ca|ʒuˈam ˈbɾɔsə}}; 19 January 1919 – 30 December 1998) was a Catalan poet, playwright, [[graphic designer]] and visual artist.<ref>{{cite book |title=Escolteu aquest silenci |date=2013 |publisher=Fundació Joan Brossa |isbn=978-84-933081-9-3}}</ref> He wrote only in the [[Catalan language]].
+
+He was one of the founders of both the group and the publication known as [[Dau-al-Set]] (1948) and one of the leading early proponents of visual poetry in [[catalan people|Catalan]] literature. Although he was in the vanguard of the post-war poets, He also wrote hundreds of formally perfect [[sonnet]]s, sapphic [[ode]]s and [[sestina]]s as well as thousands of free and direct poems. His creative work embraced every aspect of the arts: cinema, theatre (more than 360 pieces), music, [[cabaret]], the para-theatrical arts, [[Magic (paranormal)|magic]] and the circus.
+
+==Life and work==
+For him, expression had priority over content, and he managed to give his poetry the appearance of plays on words. His lyrical work is connected with the theatre while the totality of his literature (more of 80 books, all written in the Catalan language) is impregnated with the theatrical dimension as he always employed a broad and interdisciplinary vision of culture, the arts in general and the performance arts in particular.  This vision was expressed in his literary and visual works which often appeared as satirical, cutting, ironic and critical or, on other occasions, irreverent yet playful. In the latter years of his creative life, he received a number of awards such as the National Prize for the Visual Arts (1992), the National Theatre Prize (1998) and the UNESCO Picasso Medal. He has been posthumously awarded doctorate ''honoris causa'' from the [[Universitat Autònoma de Barcelona]] (1999). He was a member and then Honorary Member of the [[Associació d'Escriptors en Llengua Catalana]] (''Association of Catalan Language Writers''). His visual poetry (''poesia plàstica''), obviously placed beyond all linguistic borders, is recognized as a reference the world over.
+
+[[File:Barcino, de Joan Brossa.jpg|thumb|"Joan Brossa: ''Barcino''" (the ancient Roman name for Barcelona), by the wall ruins near the [[Cathedral of Barcelona]]]]
+He collaborated in the foundation of the Espai Escenic Joan Brossa (The Joan Brossa Theatrical Space) in the Born district of Barcelona, this being the initiative of the theatre director and actor [[Hermann Bonnín]] and the magician [[Hausson]], who continued along the theatrical lines espoused by Brossa.<ref>{{Cite web|url=http://www.fundaciojoanbrossa.cat/standard.php?idmenu=2|title=Fundació Joan Brossa.|website=www.fundaciojoanbrossa.cat|access-date=2019-01-20}}</ref>
+
+==Dau al Set==
+Members of '''[[Dau-al-Set]]''' included:
+* Joan Brossa
+* [[Antoni Tàpies]]
+* [[Joan Ponç]]
+* [[Arnau Puig]]
+* [[Modest Cuixart]]
+* [[Joan-Josep Tharrats]]
+* [[Juan-Eduardo Cirlot]]
+
+Brossa's sculptural typography in Barcelona is featured in [[Eye (magazine)|''Eye'' magazine]] [[List of Eye magazine issues|(No. 37, Vol. 10, Autumn 2000)]] along with the work of [[Josep Maria Subirachs]].<ref>''Eye'', Number 37, Volume 10, Autumn 2000.</ref>
+
+==Gallery==
+<gallery>
+File:Poema visual (destrucció) - Joan Brossa - Barcelona.jpg|"Joan Brossa: ''Transitable visual poem in three times''", in Velodrome's Park, Barcelona
+File:Mollet del Valles 094 29-11-2008.jpg|"Joan Brossa: ''Lying A with a fish''", the City Hall of [[Mollet del Vallès]]
+File:Llagost.jpg|“The grasshopper, Headquarters of the Association of Technical Architects of Barcelona (1993). Designed by the artist and designer [[Josep Pla-Narbona]] from Joan Brossa’s idea of the whole facade
+</gallery>
+==See also==
+{{portal|Poetry}}
+*[[Espai Escènic Joan Brossa]]
+
+==Notes==
+{{reflist|2}}
+
+== External links ==
+{{Commons category}}
+*[http://www.lletra.net/en/author/joan-brossa Joan Brossa in LletrA, Catalan Literature Online (Open University of Catalonia)] {{in lang|en|es|ca}}
+*[http://www.escriptors.cat/autors/brossaj/ Page on Joan Brossa, in the AELC] {{in lang|en|es|ca}}. AELC, Association of Writers in Catalan Language, of which Brossa was an honorary member.
+*[http://www.pocio.cat/membres/GloriaBordons/index.php?option=com_content&view=article&id=25&Itemid=24 Works of Joan Brossa] {{in lang|ca}} Full and updated lists of his published essential works, his complementary editions, catalogues of his exhibitions and translations of his works in other languages.
+*[http://www.pocio.cat/membres/GloriaBordons/index.php?option=com_content&view=article&id=28&Itemid=29 Bibliography on Joan Brossa] {{in lang|ca}}.  A very complete site.
+*[http://www.uoc.edu/lletra/especial/brossa/ Virtual Exhibition "Els entra-i-surts de Brossa"] {{in lang|ca}}. Interactive website edited by '''lletrA''', Catalan Literature Online (Open University of Catalonia and Fundació Joan Brossa).
+*English translations of Brossa's [http://poemsintranslation.blogspot.com/2009/06/joan-brossa-poet-finds-theme-from.html ''The Poet Finds a Theme''] and [http://poemsintranslation.blogspot.com/2009/06/joan-brossa-time-from-catalan.html ''Time'']
+*Private website [https://web.archive.org/web/20010806042613/http://www.joanbrossa.org/ Joan Brossa.org]
+*[http://www.grupites.com/multimedia/animabrossa/AnimaBrossa.html Joan Brossa work website]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{ACArt|country=ES}}
+
+{{DEFAULTSORT:Brossa, Joan}}
+[[Category:1919 births]]
+[[Category:1998 deaths]]
+[[Category:Dau al Set]]
+[[Category:Catalan-language poets]]
+[[Category:Artists from Catalonia]]
+[[Category:20th-century Spanish poets]]

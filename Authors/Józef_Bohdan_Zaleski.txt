@@ -1,0 +1,89 @@
+{{Infobox writer
+| name = Józef Bohdan Zaleski
+| image = Portret Józefa Bohdana Zaleskiego.jpg
+| birth_date = {{Birth date|1802|02|14|df=y}}
+| birth_place = [[Bohatyrka, Ukraine|Bohatyrka]], [[Kiev]] [[guberniya]], [[Russian Empire]]
+| death_date = {{Death date and age|1886|03|31|1802|02|10|df=y}}
+| death_place = [[Villepreux]], [[France]]
+| occupation = Translator<br>Poet
+| language = Polish
+| nationality = Polish
+| alma_mater = [[Imperial University of Warsaw]]
+| genre = [[Polish Romanticism|Romanticsm]] Poetry
+| signature = Józef Bohdan Zaleski - signature.png
+}}
+
+'''Józef Bohdan Zaleski''' (14 February 1802 in [[Bohatyrka, Ukraine|Bohatyrka]], [[Kiev]] [[guberniya]] – 31 March 1886 in [[Villepreux]], near Paris) was a [[Polish Romanticism|Polish Romantic]] poet.  A friend of [[Adam Mickiewicz]], Zaleski founded the "[[Ukrainian school|Ukrainian poetic school]]."
+
+==Life==
+Zaleski was a member of the secret patriotic organisation [[Związek Wolnych Polaków]] (1821); a participant of the [[November Uprising]] (1830–1831); a deputy of the [[Sejm]] (during the November Uprising 1830–1831); the co-founder (with Mickiewicz) of the religious brotherhood [[Towarzystwo Braci Zjednoczonych]]; and co-editor of a magazine, ''Nowa Polska''.
+
+==Works==
+Zaleski was associated with [[Romanticism]] and [[sentimentalism (literature)|sentimentalism]]. He was the author of popular historical [[Duma (epic)|dumas]] (in which he refers to Ukrainian folklore); love and reflective lyrics inspired  by folk poetry; religious poetry; as well as fantasy poems, sung poems, aphoristic poems, memoirs, translations (Serbian folk songs).
+Three of his songs were set to music by [[Frédéric Chopin]] (see [[Polish songs by Frédéric Chopin]]).
+
+; ''[[Duma (epic)|Duma]]s''
+* ''Dumka hetmana Kosińskiego'' ([[Dumka (musical form)|Dumka]] of [[Hetman]] [[Krzysztof Kosiński|Kosiński]], 1823)
+* ''Dumka Mazepy'' ([[Mazepa]]'s [[Dumka (musical form)|Dumka]])
+* ''Czajki''
+
+; Poems and lyrics
+* ''Duch od stepu'' (The Spirit from the [[Steppe]], 1841 poem) 
+* ''Jamby'' ([[Iamb (foot)|Iambs]]), [[aphorism|aphoristic]] poem
+* ''Przenajświętsza Rodzina'' (The Most Holy Family, 1839; published in ''Poezje'' [Poems], vol. 2, 1842), religious poem
+* ''Pyłki'' (Dust), [[aphorism|aphoristic]] poem
+* ''Rojenia wiośniane'' — sung poem
+* ''Rusałki'' (1829) — fantasy poem
+* ''Śliczny chłopiec'' — sung poem
+* ''Śpiew poety'' (1823) — lyric
+* ''Tędy, tędy leciał ptaszek'' — sung poem
+* ''Duch od stepu'' (The Spirit from the [[Steppe]], 1841 poem)
+
+; Collections
+* ''Pisma zbiorowe'' (Collected Writings, vols. 1–4, 1877)
+* ''Dzieła pośmiertne'' (Posthumous Works, vols. 1–2, 1891)
+* ''Korespondencja'' (Correspondence, vols. 1–5, 1900–04)
+
+==See also==
+*[[List of Poles#Poetry|List of Poles]]
+
+==References==
+{{Commons category|Józef Bohdan Zaleski}}
+* {{cite web
+|title=Zaleski Józef Bohdan
+|work=[[Internetowa encyklopedia PWN]]
+|url=http://encyklopedia.pwn.pl/haslo.php?id=4000060
+|accessdate=2007-09-22
+|language=Polish
+|publisher=Wydawnictwo Naukowe PWN
+|archive-url=https://web.archive.org/web/20110607141735/http://encyklopedia.pwn.pl/haslo.php?id=4000060
+|archive-date=2011-06-07
+|url-status=dead
+}}
+* {{cite encyclopedia
+|title=Zaleski Józef Bohdan
+|encyclopedia=[[WIEM Encyclopedia]]
+|url=http://portalwiedzy.onet.pl/66050,,,,zaleski_jozef_bohdan,haslo.html
+|accessdate=2007-09-22
+|language=Polish}}
+* {{cite encyclopedia | title = Zaleski Józef Bohdan| encyclopedia = [[Nowa encyklopedia powszechna PWN]] | volume=6 | isbn=83-01-11969-1 | publisher=Wydawnictwo Naukowe PWN | year=1997 | edition=1 | pages=970 | location=Warsaw | language=Polish}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zaleski, Jozef Bohdan}}
+[[Category:1802 births]]
+[[Category:1886 deaths]]
+[[Category:Polish male poets]]
+[[Category:Polish fantasy writers]]
+[[Category:Polish translators]]
+[[Category:November Uprising participants]]
+[[Category:Recipients of the Virtuti Militari]]
+[[Category:Romantic poets]]
+[[Category:Activists of the Great Emigration]]
+[[Category:19th-century translators]]
+[[Category:19th-century Polish poets]]
+[[Category:19th-century Polish male writers]]
+[[Category:University of Warsaw alumni]]
+
+
+{{Poland-poet-stub}}

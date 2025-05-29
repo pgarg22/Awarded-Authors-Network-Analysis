@@ -1,0 +1,66 @@
+{{short description|English poet and politician (1712–1785)}}
+{{Use dmy dates|date=September 2021}}
+{{Use British English|date=March 2012}}
+'''Richard Glover''' (1712 &ndash; 25 November 1785) was an [[England|English]] [[poet]] and politician.
+
+==Life==
+The son of Richard Glover, a [[Hamburg]] merchant, he was born in [[London]] and educated at [[Cheam School|Cheam]] in [[Surrey]]. His mother was a sister of [[Richard West (Lord Chancellor of Ireland)|Richard West]], [[Lord Chancellor of Ireland]]. The young Richard was said to have been something of a favourite of his uncle.
+
+In 1739 he became one of the founding governors for the [[Foundling Hospital]], a charity dedicated to saving children from the plight of abandonment. The success of Glover's ''Leonidas'' led him to take an interest in politics, and in 1761 he entered parliament as member for [[Weymouth and Melcombe Regis (UK Parliament constituency)|Weymouth and Melcombe Regis]]. Glover was one of the reputed authors of the ''[[Letters of Junius]]''; but his claims, advocated in 1825 by [[Richard Duppa]], are slight.
+
+==Works==
+He wrote in his sixteenth year a poem to the memory of [[Sir Isaac Newton]], which was prefixed by [[Henry Pemberton]] to his ''View of Newton's Philosophy'', published in 1728.
+
+In 1737, he published an epic poem in praise of liberty, ''Leonidas'', which was thought to have a special reference to the politics of the time; commended by the [[Frederick, Prince of Wales|prince of Wales]] and his court, it soon passed through several editions. In 1739, Glover published a poem entitled ''London, or the Progress of Commerce''; and in 1740 he published a ballad, ''[[Admiral Hosier]]'s Ghost'', popular in its day. The ballad's real target was not the Spanish but [[Sir Robert Walpole]].
+
+He was also the author of two tragedies, ''Boadicea'' (1753) and ''Medea'' (1761), written in close imitation of Greek models. The ''Athenaid'', an epic in thirty books, was published in 1787, and his diary, entitled ''Memoirs of a distinguished literary and political Character from 1742 to 1757'', appeared in 1813.
+
+In May 1774, shortly after the death of [[Oliver Goldsmith]], Glover published his "Authentic Anecdotes" on the poet in ''[[The Universal Magazine of Knowledge and Pleasure|The Universal Magazine]]''. [[Edmund Burke]] included the piece in ''[[The Annual Register]]'' for that year, and when [[Edmond Malone]] in 1776 worked on a biographical [[memoir]] for ''Poems and Plays by Oliver Goldsmith'' (1777) he based it on Glover's ''Anecdotes'' as well as first-hand information from Dr. Thomas Wilson, [[Fellow|Senior Fellow]] at [[Trinity College, Dublin]].{{Sfn|Martin|2005}}
+
+==References==
+{{Wikisource|author=yes|Author:Richard Glover}}
+
+===Notes===
+{{reflist}}
+
+===Sources===
+*{{EB1911|wstitle=Glover, Richard|volume=12|page=137}}
+*{{Cite book |title = Edmond Malone, Shakespearean Scholar: A Literary Biography
+  |author-link = Peter Martin (professor)
+  |last = Martin
+  |first = Peter
+  |year = 2005
+  |publisher = [[Cambridge University Press]]
+  |isbn = 0-521-61982-3
+  }}
+*{{Cite book |title = The History of the Foundling Hospital
+  |last1 = Nichols
+  |first1 = R. H.
+  |last2 = Wray
+  |first2 = F. A.
+  |publisher = [[Oxford University Press]]
+  |location = London
+  |year = 1935
+  }}
+
+==External links==
+* [http://www.eighteenthcenturypoetry.org/authors/pers00173.shtml Richard Glover] at the [http://www.eighteenthcenturypoetry.org/ Eighteenth-Century Poetry Archive (ECPA)]
+
+{{s-start}}
+{{s-par|gb}}
+{{succession box | title=[[Member of Parliament]] for [[Weymouth and Melcombe Regis (UK Parliament constituency)|Weymouth and Melcombe Regis]] | years=1761&ndash;1768<br/><small>with [[John Tucker (MP)|John Tucker]] 1761&ndash;1768 <br> [[Francis Dashwood, 11th Baron le Despencer|Sir Francis Dashwood, 2nd Bt]] 1761&ndash;1763 <br> [[John Olmius, 1st Baron Waltham|The Lord Waltham]] 1761&ndash;1762 <br> [[Richard Jackson (colonial agent)|Richard Jackson]] 1762&ndash;1768 <br> [[Charles Walcott (MP)|Charles Walcott]] 1763&ndash;1768</small> | before=[[Welbore Ellis, 1st Baron Mendip|Welbore Ellis]]<br/>[[Lord John Cavendish]]<br/>[[George Dodington, 1st Baron Melcombe|George Dodington]]<br/>[[John Tucker (MP)|John Tucker]] | after=[[John Tucker (MP)|John Tucker]]<br/>[[Drigue Olmius, 2nd Baron Waltham|The Lord Waltham]]<br/>[[Charles Davers|Sir Charles Davers, 6th Bt]]<br/>[[Jeremiah Dyson]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Glover, Richard}}
+[[Category:1712 births]]
+[[Category:1785 deaths]]
+[[Category:18th-century English poets]]
+[[Category:Members of the Parliament of Great Britain for English constituencies]]
+[[Category:People educated at Cheam School]]
+[[Category:English male poets]]
+[[Category:English male dramatists and playwrights]]
+[[Category:18th-century British dramatists and playwrights]]
+[[Category:British MPs 1761–1768]]
+[[Category:18th-century English male writers]]

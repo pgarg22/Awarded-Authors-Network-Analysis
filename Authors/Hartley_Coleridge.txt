@@ -1,0 +1,109 @@
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Hartley Coleridge
+| image       = Hartley Coleridge 1.jpg
+| imagesize   = 200px
+| caption     =
+| pseudonym   =
+| birth_date  = {{birth date|df=yes|1796|9|19}}
+| birth_place = [[Clevedon]], England
+| death_date  = {{death date and age|df=yes|1849|1|6|1796|9|19}}
+| death_place = [[Rydal, Cumbria]], England
+| occupation  =
+| nationality = British
+| period      =
+| genre       = poetry, essays, biographies
+| subject     =
+| movement    =
+| signature   =
+| website     =
+}}
+'''Hartley Coleridge''', possibly '''David Hartley Coleridge''', (19 September 1796 – 6 January 1849) was an English poet, biographer, essayist, and teacher. He was the eldest son of the poet [[Samuel Taylor Coleridge]]. His sister [[Sara Coleridge]] was a poet and translator, and his brother [[Derwent Coleridge]] was a scholar and author. Hartley was named after the philosopher [[David Hartley (philosopher)|David Hartley]].<ref>{{cite web |title=David Hartley |url=http://plato.stanford.edu/entries/hartley/ |website=Stanford Encyclopedia of Philosophy |publisher=Stanford University |access-date=11 December 2015}}</ref><ref>{{cite book |last1=Keanie |first1=Andrew |title=Hartley Coleridge |date=2008 |publisher=Palgrave Macmillan |isbn=9780230612778 |page=25 |url=https://books.google.com/books?id=CeHFAAAAQBAJ&q=Hartley+Coleridge+David&pg=PA188}}</ref>
+
+==Biography==
+
+===Early life===
+Hartley was born in [[Clevedon]], a small village near [[Bristol]].<ref name="Memoir">{{cite book |title=Memoir of Hartley Coleridge from Poems, Volume 1 |last=Coleridge |first=Derwent |year=1851 |publisher=Moxon |location=London |url=https://archive.org/details/poemscolerid1coleuoft |access-date=6 January 2012}}</ref> His father mentions Hartley in several poems, including the well-known ''[[Frost at Midnight]]'', where he addresses him as his "babe so beautiful", and in his ''[[The Nightingale: A Conversation Poem]]'', both of which are concerned with young Hartley's future.<ref name="Memoir"/>
+
+In the autumn of 1800 Samuel Taylor Coleridge moved his wife and young son Hartley to the [[Lake District]].<ref name=ondb>{{cite web |title=Coleridge, (David) Hartley |url=http://www.oxforddnb.com/view/article/5880 |publisher=Oxford Dictionary of National Biography |access-date=11 December 2015}}</ref> They took a home in the vale of [[Derwentwater]], on the bank of the Greta River, about a mile away from [[Greta Hall]], [[Keswick, Cumbria|Keswick]], the future home of the poet [[Robert Southey]], which was then being built.<ref name="Memoir"/> Hartley spent his early years in the care of Robert Southey at Greta Hall, which possessed the best library in the neighbourhood.<ref name="Memoir"/>
+
+Hartley's brother Derwent wrote the following about Hartley's time at Greta Hall:<ref name="Memoir"/>
+<blockquote>"The unlimited indulgence with which he was treated at Greta Hall, tended, without doubt, to strengthen the many and strong peculiarities of his nature, and may perhaps have contributed to that
+waywardness and want of control, from which in later-life he suffered so deeply."</blockquote>
+
+===Education===
+[[File:Hartley Coleridge 7.jpg|thumb|right|170px|Hartley at the age of 10]]
+Hartley received his early education from his father. In 1807 he was taken by his father and [[William Wordsworth]] to [[Coleorton]] in [[North West Leicestershire]], and then to London. Here he visited the London theatres, and the [[Tower of London]] with [[Walter Scott]]. He was also introduced to the study of chemistry by [[Humphry Davy]].<ref name="Memoir"/>
+
+Hartley spent the next eight years in constant companionship with his younger brother Derwent, at home and at school.<ref name="Memoir"/> Beginning in the summer of 1808 they attended school as day-scholars at [[Ambleside]], under the tutelage of the Rev. John Dawes.<ref>{{cite web |title=Hartley Coleridge |url=http://www.poemhunter.com/hartley-coleridge/ |publisher=Poem Hunter |access-date=11 December 2015}}</ref> During their time at the school they resided in [[Clappersgate]]. Their fellow students included the sons of their father's friend, the poet [[Charles Lloyd (poet)|Charles Lloyd]]. Hartley and Derwent lived in the home of an elderly woman, and enjoyed total freedom in their after-school hours. Hartley, who had no aptitude for sports, spent much of his time reading and taking walks by himself, or telling stories. He had one close friend at the time, a boy named Robert Jameson, not a fellow student, to whom he afterwards addressed a series of sonnets.<ref name="Memoir"/>
+
+Somewhere along the way, Hartley conceived the idea of an underground stream of water that would eventually erupt onto the surface, eventually creating a mighty river that would soon attract merchants and land developers, leading to the formation of a new island-continent. He called this imaginary [[paracosm]] ''Ejuxria'', and laid out its geography and history with great care, explaining everything to Derwent as he went along. Derwent believed that Hartley kept up Ejuxria into adulthood.<ref>'Monkshood', [https://books.google.com/books?id=edgRAAAAYAAJ&lpg=PA584&ots=NvhcWRCoPa&dq=Ejuxria&pg=PA581#v=onepage&q&f=false Hartley Coleridge.] Bentley's Miscellany, Volume 45]: Charles Dickens, William Harrison Ainsworth, Albert Smith, eds. London: Richard Bentley, New Burlington St., 1859.</ref><ref>Rev. F. Jacox, [https://archive.org/details/cuesfromallquar00jacgoog/page/n321 <!-- pg=310 --> About Ejuxria and Gombroon: Glimpses of Day-Dreamland.] In ''Cues from All Quarters, Or, The Literary Musings of a Clerical Recluse''. London: [[Hodder & Stoughton]], 27 Paternoster Row, 1871.</ref>
+
+In his time at the school, Hartley was in constant contact with William Wordsworth and his family. He pursued his studies of English in Wordsworth's library at [[Allan Bank]] in [[Grasmere (village)|Grasmere]]. His privilege of studying in the Wordsworth library was continued after the Wordsworth family moved to [[Rydal Mount]].<ref name="Memoir"/>
+
+He went to Oxford in 1815, as a scholar of [[Merton College, Oxford|Merton College]]. From 1816 to 1820 he was in receipt of an exhibition funded from the bequest of James Wood administered by the Worshipful Company of Bowyers of the City of London. Derwent Coleridge made this comment about his brother's time at Oxford:<ref name="Memoir"/>
+<blockquote>"Though far from a destructive in politics, he was always keenly alive to what he supposed to be the evils and abuses of the existing state of things both in Church and State, while he remained constant in his allegiance to what he believed to be the essentials of both... On all subjects he spoke his mind, often, through whim or impatience, more than his mind, freely, without regard to consequences."</blockquote>
+On a vacation in 1818 Hartley met the poet [[Chauncy Hare Townshend]], who said the following of him:<ref name="Memoir"/>
+<blockquote>"I cannot easily convey to you the impression of interest which he made on my mind at that time. There was something so wonderfully original in his method of expressing himself, that on me, then a
+young man, and only cognisant externally of the prose of life, his sayings, all stamped with the impress of poetry, produced an effect analogous to that which the mountains of Cumberland, and the scenery of the North, were working on my southern-born eye and imagination."</blockquote>
+
+He had inherited much of his father's character, and his lifestyle was such that, although he was successful in gaining a fellowship at [[Oriel College, Oxford|Oriel College]],<ref>{{cite web |title=Hartley Coleridge |url=http://www.poetryfoundation.org/bio/hartley-coleridge |publisher=Poetry Foundation |access-date=11 December 2015}}</ref> at the close of the probationary year (1820) he was judged to have forfeited it, mainly on the grounds of [[Alcohol intoxication|intemperance]].<ref>{{cite book |last1=Copley |first1=Terence |title=Black Tom: Arnold of Rugby: The Myth and the Man |date=2002 |publisher=[[A & C Black]] |isbn=9780826457233 |page=38 |url=https://books.google.com/books?id=dixktRqNkIQC&q=Hartley+Coleridge+Oriel+fellowship&pg=PA38}}</ref> The authorities would not reverse their decision; but they awarded him a gift of £300. This incident deeply saddened his father, who did everything he could to try to get the decision reversed, but without success. Hartley suffered from a dependency on alcohol for the rest of his life.<ref name="Memoir"/>
+
+===Career===
+He then spent two years in London, where he wrote short poems for the ''[[London Magazine]]''.<ref>{{cite book |last1=Smith |first1=Gavin D. |title=The Lake Poets |date=2013 |publisher=Amberley |isbn=9781445625850|url=https://books.google.com/books?id=QlKIAwAAQBAJ&q=Hartley+Coleridge+London+Magazine&pg=PT123}}</ref> It was around this time that he composed the fragment ''Prometheus'', which his father regarded with much interest.<ref name="Memoir"/> His next step was to become a partner in a school at Ambleside, at the suggestion of his family and friends, a venture which he himself carried out with reluctance, but this scheme failed. After a struggle of four or five years, Hartley abandoned teaching, and moved to Grasmere.
+
+From 1826 to 1831, he wrote occasionally in ''[[Blackwood's Magazine]]'',<ref>{{cite book |last1=du Maurier |first1=Daphne |title=The Infernal World of Branwell Brontë |date=2013 |publisher=Hachette |isbn=9780316253659 |url=https://books.google.com/books?id=k8NkAgAAQBAJ&q=Hartley+Coleridge+Blackwood%27s+Magazine&pg=PT83}}</ref> to which he was introduced by his friend, [[John Wilson (Scottish writer)|John Wilson]]. His contributions to this periodical form part of the general collection of his ''Essays''.<ref name="Memoir"/>
+
+In 1830 a [[Leeds]] publisher, F. E. Bingley, made a contract with him to write biographies of [[Yorkshire]] and [[Lancashire]] worthies. These were afterwards republished under the title of ''Biographia Borealis'' (1833) and ''Worthies of Yorkshire and Lancashire'' (1836). Bingley also printed a volume of his poems in 1833, and Coleridge lived in his house until the contract came to an end through the bankruptcy of the publisher.
+
+[[File:Nab Cottage - geograph.org.uk - 1175572.jpg|thumb|right|240px|Nab Cottage, Hartley's home in [[Rydal, Cumbria]]]]
+From this time, except for two short periods in 1837 and 1838 when he acted as master at [[Sedbergh School]], he lived quietly at Grasmere and (1840–1849) [[Rydal, Cumbria|Rydal]], spending his time in study and wanderings about the countryside. His figure was as familiar as Wordsworth's, and he made many friends among the locals. In 1834 he lost his father. Hartley made the following comment about his father's death in a letter to his mother:<ref name="Memoir"/>
+<blockquote>"though I cannot say that I was much surprised, yet so little had I prepared my mind for the loss, that it fell upon me as the fulfilment of an unbelieved prophecy: and even yet, though I know it, I hardly believe it. I do not feel fatherless. I often find my mind disputing with itself- What would my father think of this? and when the recollection awakes, that I have no father, it appears more like a possible evil than an actual bereavement."</blockquote>
+
+In 1839 he brought out his edition of [[Philip Massinger]] and [[John Ford (dramatist)|John Ford]], with biographies of both dramatists. The closing decade of Coleridge's life was wasted in what he himself called "the woeful impotence of weak resolve". On the death of his mother in 1845, he was placed, by means of an annuity on his life, on a footing of complete independence, but he lived for only three more years.<ref name="Memoir"/>
+
+Hartley Coleridge's literary reputation chiefly rests on his works of criticism, on his ''Prometheus'',<ref>{{cite book |last1=Murray |first1=Chris |title=Tragic Coleridge |date=2013 |publisher=Ashgate |isbn=9781472408242 |url=https://books.google.com/books?id=EjZGiSsXBTUC&q=Hartley+Coleridge+Prometheus&pg=PT232}}</ref> an unfinished lyric drama, and on his [[sonnet]]s (a form which suited his particular skills). ''Essays and Marginalia, and Poems'', with a memoir by his brother Derwent, appeared in 1851.
+
+==Modern criticism==
+*''Hartley Coleridge, his Life and Work'', E. L. Griggs, R. West, 1977.
+*''Hartley Coleridge: A Reassessment of His Life and Work'', Andrew Keanie, Palgrave Macmillan, 2008.
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{EB1911|wstitle=Coleridge, Hartley}}
+
+==External links==
+{{Wikiquote}}
+* {{Internet Archive author |sname=Hartley Coleridge |sopt=t}}
+* {{Librivox author |id=233}}
+;Individual book titles
+*[https://archive.org/stream/someportraitsofl00abraiala#page/n63/mode/2up Bio & childhood image]
+*[https://archive.org/search.php?query=hartley%20coleridge%20essays Essays of Hartley Coleridge]
+*[https://archive.org/details/poemscolerid1coleuoft Complete Poems of Hartley Coleridge, Vol 1]
+*[https://archive.org/details/poemscoleridge02cole Complete Poems of Hartley Coleridge, Vol 2]
+*[https://archive.org/details/biographiabore00cole Biographia Borealis; or, Lives of Distinguished Northerns]
+*[https://archive.org/search.php?query=hartley%20coleridge%20worthies Worthies of Yorkshire and Lancashire]
+
+{{Samuel Taylor Coleridge}}
+{{Coleridge family tree}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Coleridge, Hartley}}
+[[Category:Coleridge family|Hartley]]
+[[Category:English biographers]]
+[[Category:English essayists]]
+[[Category:Headmasters of Sedbergh School]]
+[[Category:People from Clevedon]]
+[[Category:Samuel Taylor Coleridge]]
+[[Category:Alumni of Merton College, Oxford]]
+[[Category:1796 births]]
+[[Category:1849 deaths]]
+[[Category:Male essayists]]
+[[Category:English male poets]]
+[[Category:19th-century English poets]]
+[[Category:People from Grasmere (village)]]
+[[Category:Male biographers]]

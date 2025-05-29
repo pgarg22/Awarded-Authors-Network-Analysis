@@ -1,0 +1,78 @@
+{{Infobox person
+| image       = Song dynasty poet Mei Yaochen.jpg
+| caption     = Mei Yaochen, painted by [[Kanō Tsunenobu]] in the 18th century.
+| name        = Mei Yaochen
+| native_name = 梅堯臣
+| native_name_lang= zh-hant
+| birth_name  = 
+| other_names = 
+| birth_date  = May 31, 1002
+| birth_place = [[Xuancheng]], [[Anhui]], China
+| death_date  = {{death date and age|1060|05|27|1002|05|31}}
+| death_place = [[Kaifeng]], [[Henan]], China
+| death_cause = 
+| alma_mater  = 
+| occupation  = Poet
+| known_for   = 
+| notable_works = 
+| movement    = 
+| spouse      = <!-- {{marriage||}} -->
+| children    = Mei Zeng<br>Mei Chi<br>Mei Tong<br>Mei Gui'er
+| parents     = Mei Rang
+| relatives   = Mei Miao<br>Mei Yuan
+| awards      = <!--  {{Awards|award= |year= |title= }} -->
+| signature   = 
+| signature_size = 
+| module  = {{Infobox Chinese|child=yes
+|s = {{linktext|梅|尧|臣}}
+|t = {{linktext|梅|堯|臣}}
+|p =  Méi Yáochén
+|w = Mei Yao-ch'en
+|altname = Shengyu
+|s2 = {{linktext|圣|俞}}
+|t2 = {{linktext|聖|俞}}
+|l2 = <!--N/A-->
+|p2 = Shèngyú
+|altname3 = Wanling Xiansheng
+|c3 = {{linktext|宛陵|先生}}
+|l3 = <!--N/A-->
+|p3 = Wǎnlíng Xiānshēng
+}}
+}}
+{{family name hatnote|[[Mei (surname)|Mei]]|lang=Chinese}} 
+'''Mei Yaochen''' ({{CJKV|t=梅堯臣|s=梅尧臣|p=Méi Yáochén|w='''Mei Yao-ch'en'''}}) (1002–1060) was a Chinese [[List of Chinese language poets|poet]] of the [[Song dynasty]]. He was one of the pioneers of the "new subjective" style of poetry which characterized Song [[poetry]].<ref name="Cihai">Cihai: Page 1306.</ref>
+
+Mei Yaochen was born in [[Xuancheng]] in present-day [[Anhui Province]]. His [[style name]] was 'Sheng Yu' ({{lang|zh|圣俞}}).<ref name="Cihai"/> He passed the [[Imperial examination|jinshi]] exam in 1051 and had a career in the [[civil service]], but was unsuccessful.   He was a prolific poet, with around 3000 works extant; he was popularized as a poet by the younger [[Ouyang Xiu]].
+
+Most of his works are in the ''[[Shi (poetry)|shi]]'' form, but they are much freer in content than those of the [[Tang dynasty]].   His response to the impossibility of surpassing the Tang poets was to make a virtue of his lack of ambition; his ideal was 平淡 (pingdan), or the pedestrian.   His early verses are often socio-critical, advocating reform along [[Neo-Confucian]] lines; later he turned to celebrations of ordinary life and verses mourning the deaths of his first wife and several of his children.
+An example is his poem translated into English by [[Kenneth Rexroth]] as "An Excuse for Not Returning the Visit of a Friend."
+
+==See also==
+{{portal|China|Poetry}}
+*[[Chinese poetry]]
+*[[Song poetry]]
+*[[Classical Chinese poetry]]
+*[[Chinese literature]]
+*[[Culture of the Song Dynasty]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Ci hai bian ji wei yuan hui ({{lang|zh|辞海编辑委员会}}). Ci hai ({{lang|zh|辞海}}). Shanghai: Shanghai ci shu chu ban she ({{lang|zh|上海辞书出版社}}), 1979.
+Jonathan Chaves. MEI YAO-CH'EN AND THE DEVELOPMENT OF EARLY SUNG POETRY. New York:  Columbia University Press. 1976.
+
+{{Song dynasty topics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Mei, Yaochen}}
+
+[[Category:1002 births]]
+[[Category:1060 deaths]]
+[[Category:11th-century Chinese poets]]
+[[Category:People from Xuancheng]]
+[[Category:Poets from Anhui]]
+[[Category:Song dynasty poets]]
+
+
+{{China-poet-stub}}

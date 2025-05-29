@@ -1,0 +1,132 @@
+{{short description|American fantasy and science fiction author}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] --> 
+| name         = Patricia Anne McKillip
+| image        = Patricia McKillip 4065.png
+| birth_date   = {{Birth date and age|1948|2|29}}
+| birth_place   = [[Salem, Oregon]]
+| occupation   = [[Novelist]]
+| alma_mater   = [[San Jose State University]]
+| genre        = [[Fantasy]]
+| awards       = [[Mythopoeic Awards]] 1995, [[World Fantasy Award]] 1975 and 2003, [[World Fantasy Award for Life Achievement]] 2008
+}}
+
+'''Patricia Anne McKillip''' (born February 29, 1948) is an American author of [[fantasy]] and [[science fiction]]. She has been called "one of the most accomplished prose stylists in the [[fantasy]] genre", and is notable for writing predominantly standalone fantasy novels.<ref name=Fantasy-Encyc/> Her work has won her numerous awards, including the [[World Fantasy Award—Life Achievement|World Fantasy Award for Lifetime Achievement]] in 2008.<ref name=SFADB/>
+
+==Life and education==
+Patricia A. McKillip was born in Salem, Oregon.{{sfn|Locus June 2011|p=7}} She grew up in Oregon, Great Britain, and Germany. She attended San Jose State University in California, where she received a B.A. in 1971 and a Master of Arts in English in 1973. {{sfn|Locus June 2011|p=7}} McKillip is married to David Lunde, a poet.<ref>McKillip, Patricia A. ''The Bell at Sealey Head.'' New York: Penguin Books, 2008. Back flap of dust jacket.</ref>
+
+==Career==
+McKillip's first publications were two short children's books, ''[[The Throme of the Erril of Sherill]]'' and ''[[The House on Parchment Street]]''.{{sfn|Locus June 2011|p=7}} Her first novel, ''[[The Forgotten Beasts of Eld]]'', was published in 1974, when she was only 26 years old, and won the [[World Fantasy Award]] in 1975.{{sfn|Locus June 2011|p=67}}
+
+McKillip's novels have included winners of the World Fantasy Award, the [[Locus Award]], and the [[Mythopoeic Award]]. In 2008, she was a recipient of the [[World Fantasy Award for Life Achievement]].{{sfn|Locus June 2011|p=7}}<ref>2008 World Fantasy Award. {{cite web|url=http://www.worldfantasy.org/awards/2008.html|title=Archived copy|access-date=2010-09-06|url-status=dead|archive-url=https://web.archive.org/web/20101201075150/http://worldfantasy.org/awards/2008.html|archive-date=2010-12-01}}; retrieved 2009-05-28.</ref> Most of her recent novels feature cover paintings by [[Kinuko Y. Craft]].
+
+On writing fantasy, McKillip has said, "The tropes of mythology and symbolism are the basics. It's like a notation in music; you can change it in really wacky ways, but the sound is always the same, the sound is always there. As long as we need these symbols, then the stories will be written. But if we destroy the old symbols, then we might just have to come up with new ones--who knows?"{{sfn|Locus June 2011|p=67}}
+
+==Awards==
+
+McKillip holds the record for the most [[Mythopoeic Award|Mythopoeic Fantasy Awards]] (four) and nominations (fifteen).<ref name=SFADB-Mythopoeic-Tallies/> She has also won [[World Fantasy Awards]] for [[World Fantasy Award—Novel|Best Novel]], as well as for [[World Fantasy Award—Life Achievement|Life Achievement]].<ref name=SFADB/>
+
+===Mythopoeic Fantasy Award===
+
+{| class="wikitable"
+! Work
+! style="min-width: 8em" | Result
+|-
+| ''[[The Forgotten Beasts of Eld]]'' (1974) || {{nom}}
+|-
+| ''[[The Changeling Sea]]'' (1988) || {{nom}}
+|-
+| ''[[The Sorceress and the Cygnet]]'' (1991) || {{nom}}
+|-
+| ''[[The Cygnet and the Firebird]]'' (1993) || {{nom}}
+|-
+| ''[[Something Rich and Strange]]'' (1994) || {{won}}
+|-
+| ''[[The Book of Atrix Wolfe]]'' (1995) || {{nom}}
+|-
+| ''[[Winter Rose (novel)|Winter Rose]]'' (1996) || {{nom}}
+|-
+| ''[[Song for the Basilisk]]'' (1998) || {{nom}}
+|-
+| ''[[Ombria in Shadow]]'' (2002) || {{won}}
+|-
+| ''[[In the Forests of Serre]]'' (2003) || {{nom}}
+|-
+| ''[[Alphabet of Thorn]]'' (2004) || {{nom}}
+|-
+| ''[[Solstice Wood]]'' (2006) || {{won}}
+|-
+| ''[[The Bell at Sealey Head]]'' (2008) || {{nom}}
+|-
+| ''[[The Bards of Bone Plain]]'' (2010) || {{nom}}
+|-
+| ''[[Kingfisher (McKillip novel)| Kingfisher]]'' (2016) || {{won}}
+|-
+|}
+
+===World Fantasy Award===
+
+{| class="wikitable"
+! Work
+! style="min-width: 8em" | Result
+|-
+| ''[[The Forgotten Beasts of Eld]]'' (1974) || {{won}}
+|-
+| ''[[Harpist in the Wind]]'' (1979) || {{nom}}
+|-
+| ''[[Ombria in Shadow]]'' (2002) || {{won}}
+|-
+| ''[[Od Magic]]'' (2005) || {{nom}}
+|}
+
+===Other awards===
+
+''[[Harpist in the Wind]]'' (1979) won the [[Locus Award for Best Fantasy Novel]]. It was also nominated for the [[Hugo Award]] in 1980, at a time when the Hugo was predominantly given to works of science fiction.<ref name=Walton-2011/> ''[[Winter Rose (novel)|Winter Rose]]'' (1996) and ''[[The Tower at Stony Wood]]'' (2000) received [[Nebula Award]] nominations.<ref name=SFADB/>
+
+==Bibliography==
+{{Main|Patricia A. McKillip bibliography}}
+
+==References==
+===Citations===
+{{Reflist|30em|refs=
+<ref name=Fantasy-Encyc>{{cite encyclopedia |title=McKillip, Patricia A. |url=http://sf-encyclopedia.uk/fe.php?nm=mckillip_patricia_a 
+|encyclopedia=[[The Encyclopedia of Fantasy]] |editor-last=Clute |editor-first=John |editor-link=John Clute |editor2-last=Grant |editor2-first=John |editor2-link= John Grant (author) |year=1997 |archive-url=https://web.archive.org/web/20180516174957/http://sf-encyclopedia.uk/fe.php?nm=mckillip_patricia_a |archive-date=2018-05-06 |url-status=live}}</ref>
+<ref name=SFADB>{{cite web |title=Patricia A. McKillip Awards |url=http://www.sfadb.com/Patricia_A_McKillip |work=Science Fiction Awards Database |publisher=Locus Science Fiction Foundation |access-date=2021-08-08 |archive-url=https://web.archive.org/web/20210628000222/http://www.sfadb.com/Patricia_A_McKillip |archive-date=2021-07-28 |url-status=live}}</ref>
+<ref name=SFADB-Mythopoeic-Tallies>{{cite web |title=Mythopoeic Awards Tallies |url=http://www.sfadb.com/Mythopoeic_Awards_Tallies |work=Science Fiction Awards Database |publisher=Locus Science Fiction Foundation |access-date=2021-08-08 |archive-url=https://web.archive.org/web/20200716230324/http://www.sfadb.com/Mythopoeic_Awards_Tallies |archive-date=2020-07-16 |url-status=live}}</ref>
+<ref name=Walton-2011>{{cite book |title=[[An Informal History of the Hugos]] |chapter=1980 Hugo Award Winners and Nominees |last=Walton |first=Jo |author-link=Jo Walton |publisher=Tor Books |year=2018 |chapter-url=https://www.tor.com/2011/04/24/hugo-nominees-1980/ |archive-url=https://web.archive.org/web/20200721112004/https://www.tor.com/2011/04/24/hugo-nominees-1980/ |archive-date=2020-06-21 |url-status=live}}</ref>
+}}
+
+===Sources===
+* {{cite magazine |ref={{harvid|Locus June 2011}}| magazine = Locus Magazine|title=Patricia McKillip: Fairy Tales Matter|url=https://locusmag.com/2011/06/patricia-a-mckillip-fairy-tales-matter/|date=June 2011|publisher=Locus |access-date=November 6, 2019}}
+
+==External links==
+{{Wikiquote}}
+*[http://www.patriciamckillip.com/ patriciamckillip.com] (unofficial)
+*[http://www.fantasticfiction.co.uk/m/patricia-a-mckillip/ McKillip at Fantastic Fiction]
+*{{isfdb name|id=Patricia_A._McKillip|name=Patricia A. McKillip}}
+*{{IBList|type=author|id=805|name=Patricia A. McKillip}}
+* [http://www.fantasyliterature.net/mckillippatricia.html Novel synopses, cover art, and reviews] at FantasyLiterature.net
+*[http://sites.google.com/site/martinlabarspages/home/mckillip-vengeance "Vengeance as a theme in the writings of Patricia A. McKillip"]
+* {{LCAuth|n50007257|Patricia McKillip|33|}}
+
+{{Patricia A. McKillip}}
+{{World Fantasy Award Life Achievement}}
+{{Authority control}}
+
+{{DEFAULTSORT:McKillip, Patricia A.}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American women short story writers]]
+[[Category:American women novelists]]
+[[Category:San Jose State University alumni]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Novelists from Oregon]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American women writers]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American short story writers]]
+[[Category:Place of birth missing (living people)]]

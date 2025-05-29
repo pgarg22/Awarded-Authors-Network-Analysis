@@ -1,0 +1,65 @@
+{{short description|American author known for writing 'Memoirs of a Geisha'}}
+{{Use mdy dates|date=June 2014}}
+{{BLP sources|date=September 2009}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image = 
+| imagesize = 150px|
+| name = Arthur Golden
+| caption = 
+| pseudonym = 
+| birth_name = 
+| birth_date = {{birth date and age|mf=yes|1956|12|6}}
+| birth_place = [[Chattanooga, Tennessee]], U.S.
+| death_date = 
+| death_place = 
+| occupation = Writer
+| spouse = Gertrude "Trudy" Legge (1982–present)
+| children = Hays Nathaniel Golden<br> Tess Iphigene Golden
+| period = 20th century
+| genre = Historical fiction
+| subject = 
+| movement = 
+| signature = 
+| website = 
+| relatives = [[Ruth Sulzberger Holmberg]] (mother)<br> [[Arthur Hays Sulzberger]] (grandfather)
+}}
+
+'''Arthur Sulzberger Golden''' (born December 6, 1956) is an American writer. He is the author of the bestselling novel ''[[Memoirs of a Geisha]]'' (1997).
+
+==Early life==
+Golden was born in [[Chattanooga, Tennessee]], the son of [[Ruth Sulzberger Holmberg|Ruth (née Sulzberger)]] and Ben Hale Golden.<ref name=NYTObitRuth>{{Cite web|last=McFadden|first=Robert D.|title=Ruth Sulzberger Holmberg, Newspaper Publisher Born for the Job, Dies at 96|work=[[The New York Times]]|date=April 19, 2017|url=https://www.nytimes.com/2017/04/19/business/media/ruth-sulzberger-holmberg-newspaper-publisher-dies-at-96.html?hpw&rref=obituaries&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well}}</ref><ref name=NYTObitBen>{{Cite web|title=Ben Hale Golden, Ex‐Publisher Of Chattanooga Times, 59, Dies |work=The New York Times|date=March 15, 1970|url=https://www.nytimes.com/1970/03/15/archives/ben-hale-golden-expublisher-of-chattanooga-times-59-dies.html}}</ref> His mother was [[American Jews|Jewish]] and his father a [[gentile]].<ref name=NYTObitRuth /> Through his mother he is a member of the [[Ochs (surname)|Ochs]]-[[Sulzberger]] family.<ref name=NYTObitRuth /> His mother was a daughter of long-time ''Times'' publisher [[Arthur Hays Sulzberger]] and granddaughter of ''Times'' owner and publisher [[Adolph Ochs]].<ref name=NYMAGClan>[http://nymag.com/news/articles/08/10/20081013_sulzberger.pdf New York Magazine: "Children of the Times - Who’s who in the Ochs-Sulzberger clan"] retrieved September 27, 2015</ref> His parents divorced when he was eight years old. His father died five years after. He was raised in [[Lookout Mountain, Georgia]] and attended Lookout Mountain Elementary School in [[Lookout Mountain, Tennessee]].
+
+Golden spent his middle and high school years at the [[Baylor School]] (then a boys-only school for day and boarding students) in Chattanooga, graduating in 1974 before attending [[Harvard University]] and receiving a degree in art history, specializing in Japanese art. In 1980, he earned an [[Master of Arts|M.A.]] in Japanese history at [[Columbia University]], and also learned [[Mandarin Chinese]]. After a summer at [[Peking University]] in [[Beijing]], China, Golden worked in [[Tokyo]], before returning to the United States, where he earned an M.A. in English at [[Boston University]].
+
+==Career==
+Golden's most well-known novel, ''[[Memoirs of a Geisha]]'', was written over a 6-year period. The novel was re-written in its entirety three times during its development. Golden changed the point of view with each re-write, eventually settling on Sayuri's perspective.
+
+During research for the novel, Golden conducted interviews with a number of geisha, including famous ex-geisha {{lang|ja-Latn|[[Mineko Iwasaki]]|italic=no}}. After the Japanese edition of the novel was published, Golden was sued by {{lang|ja-Latn|Iwasaki|italic=no}} for breach of contract and defamation of character, with {{lang|ja-Latn|Iwasaki|italic=no}} alleging that Golden had agreed to protect her anonymity if she was interviewed about her life as a geisha, due to the traditional code of silence held between geisha in regards to their clients. The lawsuit was settled out of court in February 2003.<ref>{{cite news | title=Tokyo Premiere of 'Memoirs of a Geisha' Nets Mixed Reaction, Criticism | date=November 29, 2005 | url =http://www.cbc.ca/news/story/2005/11/29/geisha-premiere-051129.html | work =CBC News | access-date = 2008-01-14 }}</ref>
+
+After its release in 1997, ''Memoirs of a Geisha'' spent two years on the ''New York Times'' bestseller list. It has sold more than four million copies in English and has been translated into thirty-two languages around the world. In 2005, ''Memoirs of a Geisha'' was made into a [[Memoirs of a Geisha (film)|feature film]], starring {{lang|zh-Latn|[[Ziyi Zhang]]|italic=no}}, [[Michelle Yeoh]], {{lang|zh-Latn|[[Gong Li]]|italic=no}}, and {{lang|ja-Latn|[[Ken Watanabe (actor)|Ken Watanabe]]|italic=no}}. The film was directed by [[Rob Marshall]], and garnered three [[Academy Awards]].
+
+In 2000, Golden received the Golden Plate Award of the [[Academy of Achievement|American Academy of Achievement]].<ref>{{cite web|title= Golden Plate Awardees of the American Academy of Achievement |website=www.achievement.org|publisher=[[American Academy of Achievement]]|url= https://achievement.org/our-history/golden-plate-awards/}}</ref>
+
+==Personal life==
+Golden is married to Trudy Legge; they have two children: a son, Hays Nathaniel Golden, and a daughter, Tess Iphigene Golden.<ref name=NYMAGClan /><ref name=":0">{{Cite web|title=Kathleen Rubenstein, Hays Golden|work=The New York Times|date=June 3, 2007 |url=https://www.nytimes.com/2007/06/03/fashion/weddings/03rubenstein.html}}</ref> Golden currently lives in South Dartmouth, Massachusetts.<ref name=":0"/>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Golden, Arthur}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:American male novelists]]
+[[Category:American people of German-Jewish descent]]
+[[Category:Boston University alumni]]
+[[Category:Columbia University alumni]]
+[[Category:Harvard College alumni]]
+[[Category:Jewish American writers]]
+[[Category:People from Brookline, Massachusetts]]
+[[Category:People from Chattanooga, Tennessee]]
+[[Category:Sulzberger family]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American Jews]]

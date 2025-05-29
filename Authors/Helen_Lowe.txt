@@ -1,0 +1,87 @@
+{{short description|New Zealand novelist}}
+{{for|the Scottish accountant, charity worker and activist|Helen Lowe (chartered accountant)}}
+{{Use dmy dates|date=July 2019}}
+{{Use New Zealand English|date=July 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| birth_name  = Helen Lowe
+| image       =
+| imagesize   = 
+| caption     = 
+| birth_date  = {{birth year and age|1961}}
+| birth_place = [[Wellington]], New Zealand
+| spouse      = 
+| nationality = 
+| occupation  = Author
+| genre       = Fantasy
+| movement    =
+| notableworks = ''[[The Wall of Night]]''
+| influences  =
+| website     = {{URL|helenlowe.info}}
+}}
+
+'''Helen Lowe''' is a New Zealand novelist. Her first novel, ''Thornspell'', was published in 2008. She has since published the first two books in ''The Wall of Night'' quartet, ''The Heir of Night'' and ''The Gathering of the Lost''. Lowe is a three-time winner of the [[Sir Julius Vogel Award]],<ref>{{cite web|title=SFFANZ Sir Julius Vogel Awards|url=http://www.sffanz.org.nz/sjv/sjvAwards.shtml}}</ref> and won the [[David Gemmell Legend Awards|David Gemmell Morningstar Award]]<ref>{{cite web|title=David Gemell Morningstar Award Winners |url=http://gemmellaward.com/profiles/blogs/david-gemmell-legend-award-winners-2012-announced |url-status=dead |archiveurl=https://web.archive.org/web/20130921061056/http://gemmellaward.com/profiles/blogs/david-gemmell-legend-award-winners-2012-announced |archivedate=2013-09-21 }}</ref> for Best Fantasy Newcomer in 2012.<ref>{{cite web|url=http://www.hums.canterbury.ac.nz/rss/news/?feed=news&articleId=428|title=Writer in Residence wins international award|date=21 June 2012|publisher=University of Canterbury}}</ref>
+
+==Biography==
+Lowe was born in [[Wellington]] in 1961. 
+She attended schools in New Zealand and Singapore. She has a Bachelor of Arts in English and Geography from the [[University of Waikato]].
+Lowe continued her education at the [[Stockholm University]] and in 1984 earned a Postgraduate Diploma in Social Science.
+
+===''The Wall of Night''===
+{{main|The Wall of Night}}
+
+== Awards ==
+
+*2012 The David Gemmell Morningstar Award
+*:The Ursula Bethell Residency in Creative Writing, University of Canterbury
+*2011 ''The Heir of Night'', Best Novel, Sir Julius Vogel Award
+*2010 ''The Heir of Night'', A Single Titles Reviewers' Choice Award
+*2009 ''Thornspell'', Best Novel: Young Adult, Sir Julius Vogel Award
+*:Best New Talent, Sir Julius Vogel Award
+*:''Thornspell'', Storylines NZ Children's Literature Trust "Notable Book"
+*2007 ''Argos'', Winner, A2O Poetry Competition (Australia)
+*2005 [[New Zealand Society of Authors]] / [[Creative New Zealand]] Mentorship for Emerging Writers
+*2003 ''Rain Wild Magic'', Winner, Robbie Burns National Poetry Competition
+
+=== Current nominations ===
+
+*2013 ''The Gathering of the Lost'', shortlisted for The David Gemmell Legend Award
+
+== Bibliography ==
+
+===Author===
+{| class="wikitable sortable"
+|-
+! # !! Title !! Year !! Type !! Note
+|-
+| 1 || ''[[Thornspell]]'' || 2009 || Short story, Young Adults || 
+|-
+| 2 || ''[[The Heir of Night]]'' || 2010 || Novel || ''[[The Wall of Night]]'', Book 1
+|-
+| 3 || ''[[The Gathering of the Lost]]'' || 2012 || Novel || ''[[The Wall of Night]]'', Book 2
+|-
+| 4 || ''[[Daughter of Blood]]'' || 2016 || Novel || ''[[The Wall of Night]]'', Book 3
+|-
+|}
+
+* 2009 ''Thornspell'', Knopf, USA
+* 2010 ''The Heir of Night: The Wall of Night Book 1'', HarperVoyager, USA; Orbit, UK
+* 2012 ''The Gathering of the Lost: The Wall of Night Book 2'', HarperVoyager, USA; Orbit, UK
+* 2016 ''Daughter of Blood: The Wall of Night Book 3'', HarperVoyager, USA; Orbit, UK
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://helenlowe.info/ Author website]
+*[https://web.archive.org/web/20160316021438/http://www.bookcouncil.org.nz/Writers/Profiles/Lowe,-Helen.htm#a21866 New Zealand Book Council Profile]
+*{{isfdb name|id=Helen_Lowe|name=Helen Lowe}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Lowe, Helen}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:University of Waikato alumni]]
+[[Category:New Zealand fantasy writers]]
+[[Category:New Zealand women writers]]
+[[Category:People from Wellington City]]

@@ -1,0 +1,213 @@
+{{short description|Korean novelist (born 1972)}}
+{{family name hatnote|[[Lee (Korean name)|Lee]]||lang=Korean}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Lee, Yeongdo
+| image =
+| imagesize = 
+| caption = 
+| birth_name = 
+| birth_date = {{Birth date and age|1972|07|21|df=y}}<ref name = "birthdate">From the 50 questions Lee answered in October 1998 to his first fan club in [[Hitel]]. The date he said in the interview was 11th of June, the Lunar calendar date.</ref>
+| birth_place = [[Busan]],<br>[[South Korea]]<ref name = "birthplace">{{cite book
+| title = Tell the Dead(죽은 자들에게 고하라)
+| last = Lee Yeongdo
+| first = and 7 Others
+| year=2009
+| publisher = Haeto
+| isbn = 1-886778-57-4
+}}</ref>
+| death_date =
+| death_place =
+| occupation = Novelist
+| genre = [[Fantasy]]<br>Science fiction
+| movement = Korean fantasy boom of the late 1990s
+| notableworks = [[Dragon Raja]]<br>[[The Bird That Drinks Tears]]
+| website = {{URL|cafe.naver.com/bloodbird.cafe}}
+| signature =
+| module = {{Infobox Korean name|child=yes
+ | hangul      = 이영도
+ | hanja       = {{linktext|李|英|道|}}
+ | rr          = I Yeong-do<ref>{{cite web | url = http://www.korean.go.kr/eng/roman/roman.jsp | title = Romanization of Korean | publisher = The National Institute of The Korean Language | access-date = 24 June 2011 | url-status = dead | archive-url = https://web.archive.org/web/20121116222919/http://korean.go.kr/eng/roman/roman.jsp | archive-date = 16 November 2012 }}</ref>
+ | mr          = Yi Yeŏng-to
+}}
+}}
+'''Lee Yeongdo''' ({{Korean|hangul=이영도|hanja=李英道}}; born 1972)<ref name = "dr" /> is a Korean novelist known for his work in [[fantasy (genre)|fantasy]] and science fiction genre. He is best known for his ''[[Dragon Raja]]'' series of fantasy novels which is also his debut work, serialised on an online forum from 1997 and published on its completion in 1998.<ref name="dr">{{cite book |title= Dragon Raja|last= Lee|first= Yeongdo|year= 1998|publisher= Golden Bough, Inc.|location= Seoul|isbn= 89-8273-052-4}}</ref>
+
+At the time ''Dragon Raja'' was first published, Korean readership for fantasy genre(specifically its [[medievalist]] form) was considered unsubstantial and unaccounted for by press. But ''Dragon Raja'' has sold close to 2 million books in 4 languages.<ref name="dr abroad">{{cite news|publisher=The Dong-a Ilbo
+|url=http://news.donga.com/3//20081126/8662811/1| title=Dragon Raja into games and comics, leading in the "content expansion"|date=26 November 2008 | access-date=20 May 2001|location=Seoul | first= Yang-hwan |last=Jeong}}</ref><ref name=ohmy>{{cite news|publisher=OhmyNews
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=047&aid=0000067571|title=More like a Typer than an Author|date=23 July 2005 | access-date=26 August 2011| location=Seoul | first=Gyeong-guk|last=Jo}}</ref><ref>The author's profile in ''The Bird That Drinks Blood'' says that ''Dragon Raja'' was published in Hong Kong (probably Chinese) and [[Thailand]] (Thai). {{cite book |title= The Bird That Drinks Blood 3, The Ruler of the Bloodshed|last= Lee|first= Yeongdo |year= 2008|publisher= Golden Bough, Inc.|location= Seoul|isbn= 89-8273-934-3}}</ref>
+This was a significant feat for the fantasy genre in Korea where the annual circulation of domestic literature and fiction titles as a whole, ranges between 12~20 million copies.<ref name="kr pub">{{cite web|url=http://www.kpa21.or.kr|title=Total circulation trend by subjects over the recent decade (New titles, 1998~2007)|date=July 2008|publisher=[[Korean Publishers Association]]|access-date=24 August 2011|archive-url=https://web.archive.org/web/20110208143301/http://www.kpa21.or.kr/|archive-date=8 February 2011|url-status=dead}}</ref>
+
+Dragon Raja's success has prompted a rapid growth of Korean fantasy and science fiction genre, and contributed to the growing acceptance of [[web fiction]], referred to as "Internet literature", both by the country's general public and literary world.
+
+Lee is currently one of the best-selling fantasy writers in Korea.<ref name=hankook>{{cite news|publisher=Hankook Ilbo
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=038&aid=0000040158|title= [Native and Foreign Fantasy] Fun Picks |date=15 December 2000 | access-date=26 August 2011| location=Seoul | last=Jeon | first=Gyeong-u}}</ref><ref name="donga1">{{cite news|publisher=The Dong-a Ilbo
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=020&aid=0000307790|title=Dragon Raja's Megahit Fantasy Author Lee Yeongdo's Newest, The Bird That Drinks Blood|date=14 July 2005 | access-date=26 August 2011| location=Seoul | last=Kwon |first=Gi-tae}}</ref>
+
+==Background==
+
+===Early life===
+Lee was born in 1972 in [[Busan]], South Korea, the first child of two brothers.<ref name=twin1>{{cite web| url = http://twinpix.egloos.com/4002318| title =News: Signing and Tea with Lee Yeongdo – Report Pt.1| publisher= Where Wings Are Spread([[Korean language|Korean]]: 날개를 펴는 곳)| access-date =26 August 2011}}</ref> When Lee was 2 years old, his family moved to [[Masan]] in [[South Gyeongsang]] Province where he has lived since.<ref name = "birthplace" /> As a child he read heavily in various subjects.<ref name="fn">{{cite news|publisher=Financial News
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=014&aid=0000186252|title=''The Bird That Drinks Blood'' Fantasy Author Lee Yeongdo "Fantasy is my own creative world"|date=3 August 2005 | access-date=26 August 2011|location=Seoul | first= Hui-seok|last=Ji}}</ref> In 1991 he entered Kyungnam University where he studied Korean language and literature.<ref name="school">{{cite web | url = http://ipsi.kyungnam.ac.kr/information/information01_01.asp | title = Department of Korean Language and Literature | publisher = Kyungnam University Admissions Office | access-date = 24 August 2011 | archive-url = https://web.archive.org/web/20160306160755/http://ipsi.kyungnam.ac.kr/information/information01_01.asp | archive-date = 6 March 2016 | url-status = dead }}</ref>
+
+He started writing seriously from 1993, but didn't think that he would be writing novels.<ref name="naver">{{cite news|publisher=Naver Book Today
+|url=http://book.naver.com/bookdb/today_book.nhn?bid=63992|title=Interview with author Lee Yeongdo – Separating Writing and Writer|date=31 January 2009 | access-date=26 August 2011}}</ref>
+
+===Beginnings of the "typer"===
+Mid-1990s were when fantasy and science fiction literature was just being introduced to Korea. Lee remembered that "if you asked people what is fantasy, they would say 'Isn't that like western martial arts'" in a 2008 interview.<ref name="yonhap" /> He found the genre attractive and decided to try a story with it.<ref name="naver" /> It was also when various [[online service providers]] similar to [[CompuServe]] in United States (but different in its interface being text-only) were emerging. Lee joined one such provider, Hitel, to start posting on its [[Serial (literature)|Serial]] forum what would be the first chapters of ''Dragon Raja''.
+
+Lee serialized ''Dragon Raja'' from October 1997 to April 1998, referring to himself as "typer" as he typed and didn't pen his work. The chapters quickly gained popularity and Lee's readers began waiting online for Lee to post the new ones. Lee usually posted his works well after midnight, and Lee's readers began calling themselves [[zombies]], and Lee the [[Necromancer]] summoning them online every night.<ref name="dr" />
+Through its 6-month running, ''Dragon Raja'' accumulated 900,000 hits, and its publishing rights were soon taken by [[Golden Bough]], an [[imprint (trade name)|imprint]] of Minumsa Publishing Group. Beginning in May 1998, the novel was published in 12 paperback volumes.<ref name="dr" />
+
+In the midst of his debut success, Lee began typing his second novel ''[[Future Walker]]'', a sequel to ''Dragon Raja''. ''Future Walker'' was serialised on the same forum from October 1998 to June 1999, and published in August by Golden Bough in 7 paperback volumes.
+
+Lee continued to use Hitel's serial forum for writing his novels such as ''[[Polaris Rhapsody]]'', ''[[The Bird That Drinks Tears]]'', ''[[The Bird That Drinks Blood]]'' and a few short stories. All of these stories were published upon completion (and deleted from the forum) or collected in later publications by Golden Bough, which remains Lee's publisher today.
+
+This practice of online serialization and getting published based on its popularity (estimated by the work's view counts) surged in fantasy, science, [[romance fiction]] in Korea. Online forums dedicated to these genres opened in hundreds by 2000<ref>{{cite news|publisher=Korean Economics Daily|url=http://news.naver.com/main/read.nhnmode=LSD&mid=sec&sid1=102&oid=015&aid=0000000351|title=Click! Cyber 'Poetopia' opens its doors|date=1 May 2000|access-date=26 August 2011|location=Seoul|first=Seung-a|last=Yun}}{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> attracting prospective writers, and caused the boom of the [[web fiction|Internet literature]].<ref name="donga genre">{{cite news|publisher=The Dong-a Ilbo
+|url=http://news.donga.com/3/all/20100716/29922453/1|title=These novels will chill you to the bone|date=16 July 2010 | access-date=26 August 2011| location=Seoul | first= Ji-yeong |last=Kim}}</ref>
+
+Outside the forum he published a short story ''Over the Horizon'' as an [[e-book]] in 2000, and wrote a series of children's stories for RedPen study books published by Kyowon Co. Ltd.
+
+===After Hitel===
+The popularization of [[HTTP]] and the [[Web browser]] caused the decline of Hitel and other commercial online services, and Lee's readership on the forum was greatly reduced. But Lee continued to use Hitel forum to 2005, completing ''The Bird That Drinks Blood,'' the last of his multi-volume novels as of July 2014.<ref name="ize">{{cite news|publisher=Yonhap News
+|url=http://ize.co.kr/articleView.html?no=2014070621317263800|title=The secret behind Lee Youngdo's lost new work|date=7 July 2014 | access-date=18 February 2016| location=Seoul | first= Ji-hye |last=Lee}}</ref>
+
+After the forum was closed in 2007<ref name="hitel">{{cite web| url = http://user.paran.com/member/| archive-url = https://web.archive.org/web/20081202061705/http://user.paran.com/member/| url-status = dead| archive-date = 2 December 2008| title = Announcement of Hitel VT Service's Closure| access-date = 26 August 2011}}</ref> Lee said in an interview that he was searching for a place to serialize his work online, saying that "the realtime feedback from the readers is a big joy, and I miss that feeling."
+But he found it difficult to find a replacement to the old text-only forum, which was "easier for [him] to access because [the forum]'s white text on blue limited one's expression to text, 
+and it enabled [him] to show individuality purely through words." The web's increased sense of community and of the writer's presence thereby, made it more difficult for him. "I believe words and people are separate," Lee said, "some people may like a writing and want to find about the writer, but I don't."<ref name="yonhap">{{cite news|publisher=Yonhap News
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=001&aid=0002391855|title=Culture and People ''Dragon Raja'' 's Lee Yeongdo|date=2 December 2008 | access-date=26 August 2011| location=Seoul | first= Hui-gyeong |last=Hwang}}</ref>
+
+Between 2005 and 2008 Lee wrote several short stories for science fiction magazines, including ''Regarding the Translation of KAIWAPANDOM'' which has been translated into English.<ref name="kaie">{{cite web
+| url = http://crossroads.apctp.org:8080/myboard/read.php?id=3&Page=3&Board=0004| title = Regarding the Translation of KAIWAPANDOM| publisher=Crossroads | access-date =26 August 2011}}</ref>
+There were talks of publishing ''Dragon Raja'' in the United States in 2006, to which Lee's response was "I don't want to disgrace our country."<ref>
+{{cite web| url = http://cafe.naver.com/bloodbird/6053| title = Lee Yeongdo's opinion about exporting Dragon Raja to the United States| publisher=Lee Yeongdo Official Publication Cafe| access-date =26 August 2011}}</ref>
+
+Lee's publisher Golden Bough has run an online community from 1999{{Citation needed|date=August 2011}} where the publisher and Lee's fans discuss and actively participate in publication of Lee's current and upcoming works. There the publisher ran limited edition campaigns for ''Polaris Rhapsody'' in 2000 and for ''Dragon Raja'' 's 10-year anniversary in 2008. In 2011, a campaign for the new hardback edition for ''Future Walker'' has been announced.<ref name="cafe">{{cite web| url = http://cafe.naver.com/bloodbird/38431| title = Lee Yeongdo Official Publication Cafe| access-date =26 August 2011}}</ref> In 2015, a new hardback edition for ''Polaris Rhapsody'' was released.<ref name="pr hardcover">{{cite web| url = http://goldenbough.minumsa.com/book/1946/| title = Polarid Rhapsody (Hardcover Set)| access-date =18 February 2016}}</ref>
+
+Officially, not much is known about Lee's life outside writing, other than that he helps out at his parent's persimmon farm in his spare time.<ref name="yonhap" />
+
+== Writing (or Typing) ==
+Since his debut with ''Dragon Raja'' Lee became known for his prolific writing, publishing 40 books including 6 novels in 7 years. When asked about his speed in writing, Lee said "it just gets written, and once started I can't contain it and sometimes write as much as [29 pages] a day"<ref name="donga1" /> but that "each line after line is hard still" nevertheless.<ref name="yonhap" />
+
+He enjoys intellectual play in his works, constantly twisting words and philosophical concepts. Lee says "the way I like is, even if it becomes difficult, separating what can be separated."<ref name="naver" />
+
+=== Korean fantasy genre ===
+Lee is credited as one of the pioneers for [[fantasy literature]] in Korea and its growing acceptance by the literary world, due to the political and philosophical discourse and the huge scale of the created world in his works.<ref name="naver" /><ref name="study" /> His own response to this tends to stay non-opinionated.<ref name="naver" />
+
+Lee is quoted to say that "fantasy is better when read as fantasy." He explains this in a [[Naver]] interview that "treating ''[[The Lord of the Rings]]'' as a shoddy [[allegory]] to reality and reading it as an example of [[Orientalism]] literature where [[Gandalf]] the 'White' crowns the returned [[Aragorn|king of the 'West']], would leave a lot of the novels to be missed. (If you admit such, almost outrageous logic, because humanity becomes extincts many times [[Kurt Vonnegut]] would be anti-humanism, sadly.)" He explained "fantasy is fantasy, and not the reality's narrow allegories or scary [[simulacra]]; it is neither reality in disguise nor does it expel the reality and take its place." Lee described reading fantasy as "going into fantasy to gain something, or to give something, and we simply return to the reality" giving [[Michael Ende]]'s ''[[The Neverending Story]]'' as a great example for this. Lee also says being "fantastic" has little to do with the quality of a fantasy work.<ref name="naver" />
+
+=== Style and major themes ===
+
+Lee plays on words and heavily uses [[defamiliarization]], often involving [[metaphysics|metaphysical]] conversations among characters. Philosophical discourse plays a major part in the plot of his novels.{{Citation needed|date=August 2011}}
+
+Lee's play on words applies to characters' names as well. From ''Dragon Raja'' and ''Future Walker'' [[Karl Heltant]] has a sharp mind and a first name that is a Korean word for knife(칼 ''kal''), while [[Sanson Percival]]'s hands are strong in battle, or ''ssen son''(센 손). Two brothers in ''Polaris Rhapsody'' are named Sopala and Sosara, or Sellcow and Buycow, while another two in ''The Bird That Drinks Blood'' are named Saramal and Paramal, or Buyhorse and Sellhorse.
+
+Lee examines and questions human nature, which affects the destiny of human race in his stories. In ''Dragon Raja'' series the human race is defined by its power and will to cause change. While other races like elves, dwarves and dragons are defined by their characteristics and strength, they are described to lack the ability to change as humans do. Thus human race is empowered to change the world (in human-centered ways) and to cause its time to go on. This power the humanity has over the world is explored in ''Future Walker''. In ''Polaris Rhapsody'' Lee incorporates the humanity's desire for revenge and for freedom in [[feudal]] conflicts and [[pirate]] wars. This conflict of revenge and freedom also involves Highmasters of [[Pandæmonium (Paradise Lost)|Pandamonium]], similar to [[Seven princes of Hell]], who cast a vote to decide the human race's destiny.{{Citation needed|date=August 2011}}
+
+Lee's novels also investigate religion and politics. In ''Polaris Rhapsody'' a Church that is similar to Catholic Church in the [[Middle Ages]] coexists with the Highmasters who are heavily involved in the human warfare and politics.{{Citation needed|date=August 2011}} Gods play an essential part in the people's life in ''The Bird That Drinks Tears.'' The novel's title means someone who would drink the tears of others; the ideal ruler who would take away the sorrows of the people.<ref name="digital" /> The concept of an ideal ruler, referred to as "the king(왕), commonly appears in Lee's works. In ''The Bird That Drinks Tears'' the human race is characterized by its search for the king,<ref name="kyunghyang">{{cite news|publisher=Kyunghyang Shinmun
+|url=http://news.khan.co.kr/kh_news/khan_art_view.html?artid=200706141833021&code=960207|title=Book Reading 365: Lee Yeongdo ''The Bird That Drinks Tears''|date=14 June 2007 | access-date=26 August 2011| location=Seoul | first=Chung-ho |last=Lee}}</ref> and the sequel ''The Bird That Drinks Blood'' is about an empire that one such king has given the birth to. The empire accomplishes peace and order, ruled over by a grand flying capital. The story is told by various characters in different groups, who have different purposes in relation to the empire and its absolute power over people.<ref name="han">{{cite news|publisher=The Hankyoreh
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=103&oid=028&aid=0000118929|title=15 July New Books|date=14 July 2005 | access-date=26 August 2011| location=Seoul }}</ref>
+
+== Bibliography ==
+
+=== ''Dragon Raja'' series ===
+''Dragon Raja'' series consists of 2 multi-volume and 1 single-volume novels, 3 short stories and a children's story. The stories take place in a [[fictional world]] on an unnamed continent which draws upon the works of [[J.R.R. Tolkien]] in its presence of [[dragons]], [[elves]], [[orcs]], [[Dwarf (Germanic mythology)|dwarves]] and [[halfings]], and also upon [[D&D]] in its system of [[magic in fiction|magic]].
+Each novel's stories differ greatly from one to another, the last novel ''Marks of Shadow'' taking place a thousands years after ''Dragon Raja'' and ''Future Walker''.
+
+==== Novels ====
+* ''[[Dragon Raja]]'' (드래곤 라자) (1998)
+* ''[[Future Walker]]'' (퓨처 워커) (1999)
+* ''[[Marks of Shadow]]'' (그림자 자국 ''Geurimja Jaguk'') (2008)
+
+==== Short stories ====
+Collected as ''A Scene from a Laboratory,'' these are prequel to ''Dragon Raja'' and ''Future Walker.''
+* ''[[Golem (short story)|Golem]]'' (골렘) (1998)
+* ''[[Chimera (short story)|Chimera]]'' (키메라) (2001)
+* ''[[The Source of Happiness]]'' (행복의 근원, ''Hængbog-ui Geun-won'') (2004)
+
+==== Children's story ====
+* ''[[Wisdom of the Desert]]'' (사막의 지혜, ''Samag-ui Jihye'') (2008) An illustrated book published as a part of ''Dragon Raja'' 's 10-year anniversary limited edition.
+
+=== ''Bird'' series ===
+The ''Bird'' series is set in a world of four [[deities]] and their four races of [[chosen people]]--[[Naga (Bird series)|Nagas]], [[Lekon]]s, [[Dokkaebi]]s and humans. The series has been acclaimed for its use of old Korean language and allusion to Korean medieval history and mythology in the world's creation.
+<ref name="study">{{cite news|publisher=The Dong-a Ilbo
+|url=http://news.donga.com/3//20081013/8642815/1
+|title=People and Study 2, "Cyber novel is literature" Prof. Na Eunjin|date=13 October 2008 | access-date=26 August 2011| location=Seoul | first=Jang-seok|last=Hwang }}</ref><ref name="digital">{{cite news|publisher=Digital Times
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=029&aid=0000016963|title=Notable New Books – The Bird That Drinks Tears (4 volumes)|date=13 February 2003 | access-date=26 August 2011| location=Seoul }}</ref><ref name="kyunghyang" />
+
+* ''[[The Bird That Drinks Tears]]'' (눈물을 마시는 새, ''Nunmureul masineun sae'') (2003)
+* ''[[The Bird That Drinks Blood]]'' (피를 마시는 새, ''Pireul masineun sae'') (2005)
+
+=== Other novels ===
+* ''[[Polaris Rhapsody]]'' (폴라리스 랩소디) (2001)
+* ''[[Over the Horizon]]'' (오버 더 호라이즌) (2004) – Collection of three stories. The first story, ''Over the Horizon'' is available in English as an [https://itunes.apple.com/us/app/id409341131?mt=8 iTunes app].
+
+=== Short story cycles ===
+
+* ''[[Spring Is Here]]'' (봄이 왔다 ''Bomi Watda'') (2005)
+* ''[[Regarding the Translation of KAIWAPANDOM]]'' (카이와판돔의 번역에 관하여 ''Ka-i-wapandom-ui Beon-yeog-e Gwanha-yeo'') (2005) – English translation available.
+* ''[[About the Robot that Became A Savior]]'' (구세주가 된 로봇에 대하여 ''Gusejuga doen Robos-e Daeha-yeo'') (2006)
+* ''[[About the Meaning of Teleportation]]'' (순간이동의 의미에 대하여 ''Sungan-idong-ui Uimi-e Daeha-yeo'') (2007)
+* ''[[Regarding Starknitting]]'' (별뜨기에 관하여 ''Byeoltteugi-e Gwanha-yeo'') (2008)
+* ''[[Esoril's Dragon]]'' (에소릴의 드래곤 ''Esoril-ui Deuraegon'') (2009)
+* ''[[Shangpi's Miners]]'' (샹파이의 광부들 ''Syangpai-ui Gwangbu-deul'') (2009)
+
+=== Short story collections ===
+* ''[[Lee Yeongdo's Stories of Fantasy]]'' (이영도 판타지 단편집) (2001)
+* ''[[Over the Horizon: A Collection of Lee Yeongdo's Fantastic Stories]]'' (오버 더 호라이즌 – 이영도 환상단편 소설선) (2004)
+
+=== Other short stories ===
+* ''[[Mysterious Stories]]'' (신비로운 이야기 ''Sinbilo-un i-yagi'') (2000)
+* ''[[The Eye Looking at Me]]'' (나를 보는 눈 ''Nareul Boneun Nun'') (2008)
+
+== Adaptations ==
+
+=== Dragon Raja Online ===
+Lee's ''Dragon Raja'' world and its main characters have been used as a basis for a [[MMORPG]], Dragon Raja Online, or DRO. The game began development in 1998 with the investment by [[Samsung Electronics]], and was released in 2000 in South Korea, and later in 10 countries including [[Taiwan]] and China as 龍族.<ref>{{cite news|publisher=Hankook Ilbo
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=038&aid=0000073251|title=eSofnet Exports $98,000 to Taiwan|date=20 July 2001 | access-date=20 May 2001|location=L.A. | first= Byeong-do|last=Mun}}</ref>
+where the novel was published in the same title and marketed along with the game.
+After a series of [[Mergers and acquisitions|M&A]] of its developing company over the years, DRO's Korean service was closed in 2011. The English version of the game however, can be accessed at [http://dr-int.com here] and the global service has remained live.<ref>{{cite web|url=http://forum.dragonraja.eu/viewforum.php?f=2|title=Dragon Raja Global|access-date=29 August 2011}}</ref> (August 2011)
+
+=== Dragon Raja Mobile ===
+In 2004 a mobile [[Role-playing video game|RPG]] ''Dragon Raja Mobile'', or DRM, was released through [[KTF]]'s [[mobile game]] services.<ref name="mobile et">{{cite news|publisher=ETNews
+|url=http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=105&oid=030&aid=0000075861| title=Online Games "Reborn Mobile" |date=13 July 2004 | access-date=20 August 2011|location=Seoul | first= Jin-ho| last=Lee}}</ref><ref name="mobile funny">{{cite web| publisher=Funnyvil| url=http://funnyvil.com/game.php?query=view&code=000005&no=7&lv=| title=Strategy/RPG – Dragon Raja Mobile| access-date=29 August 2011}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The game's storyline of 15-hours playtime on average, was based on the beginning chapters of the novel.<ref>{{cite web|publisher=MPortal |url=http://www.mportal.co.kr/mogame/game_view.php?bn=game&cntno=1139&pos=&stype=&sw=&page=&classno= |title=MobileGame Portal – Dragon Raja Mobile |access-date=29 August 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120321191059/http://www.mportal.co.kr/mogame/game_view.php?bn=game&cntno=1139&pos=&stype=&sw=&page=&classno= |archive-date=21 March 2012 }}</ref>
+
+In Dec. 2015, LOCOJOY International announced a "3D action [[Role-playing video game|RPG]]" was in development by Vision Bros, a Korean mobile developer, and would be released in the 1st quarter of 2016.<ref name="mobile hankyung">{{cite news|publisher=Hankyung
+|url=http://gametoc.hankyung.com/news/articleView.html?idxno=35368| title=Locojoy "Dragon Raja" official release next year in Q1 |date=1 December 2015 | access-date=18 February 2016|location=Seoul | first= Dong-min| last=Seo}}</ref> A closed "final test" beta was announced and players could register using their mobile phone numbers.<ref name="mobile hankyung 2">{{cite news|publisher=Hankyung
+|url=http://gametoc.hankyung.com/news/articleView.html?idxno=35615| title=Locojoy's highly anticipated "Dragon Raja" teaser site now open|date=8 December 2015 | access-date=18 February 2016|location=Seoul | first= Myung-ki| last=Park}}</ref> The beta began on 1 January 2016 and ended on 5 January 2016.<ref name="mobile test">{{cite web|url=http://cafe.naver.com/dragonrajam.cafe?iframe_url=/ArticleRead.nhn%3Fclubid=28319401%26page=3%26menuid=7%26boardtype=L%26articleid=7125| title=Dragon Raja Final Test Guides |publisher=Dragon Raja M Official Cafe |access-date=18 February 2016}}</ref>
+The game ''Dragon Raja M'' was released on [[Google Play]] for [[Android (operating system)|Android]] on 11 February 2016.<ref name=Android>{{cite web|url=http://www.zdnet.co.kr/news/news_view.asp?artice_id=20160211152229 |title=Dragon Raja hits the Google Play Store |publisher=ZDNet Korea |date=11 February 2016|last=Nam|first=Hyuk-woo|access-date=18 February 2016}}</ref>
+
+===Illustrated novels===
+The Japanese edition of ''Dragon Raja'' and ''Future Walker'' are illustrated by [https://web.archive.org/web/20060901051957/http://www.din.or.jp/~c-o/ Eiji Kaneda] who is known for his works for the [[anime]] series [[Genesis of Aquarion]].
+
+The online versions of Lee's short stories  ''Regarding the Translation of KAIWAPANDOM''<ref name="kaik">{{cite web
+| url = http://crossroads.apctp.org/myboard/read.php?Board=0004&para1=19&id=3| title = Regarding the Translation of KAIWAPANDOM| publisher=Crossroads | access-date =26 August 2011}}</ref> and ''Regarding Starknitting''<ref name="star">{{cite web
+| url = http://crossroads.apctp.org/myboard/read.php?Board=0004&para1=19&id=38 | title = Regarding Starknitting| publisher=Crossroads | access-date =26 August 2011}}</ref> include a few illustrations.
+
+===Comic books===
+''Dragon Raja'' was an inspiration for a series of comic books by [[Son Bong-gyu]] of the same title.
+Lee's short story ''About the Robot that Became a Savior'' was adapted into a short comic by [[Onesound]]<ref>{{cite web| url = http://oooz.net/ | title = Onesound Comics | access-date =26 August 2011}}</ref>
+
+===Radio===
+''Dragon Raja'' was adopted as a part of [[Korean Broadcasting System#Radio|KBS Radio 2]]'s ''Fantasy Express'' program, and the total of 83 episodes ran in 2001.<ref name="radio">
+{{cite web | url = http://www.kbs.co.kr/2radio/dramacenter/fantasy.htm | title = Fantasy Express – Fantasy Horror Mystery Drama | publisher = KBS Radio 2 | access-date = 24 August 2011 | archive-url = https://web.archive.org/web/20141019022225/http://www.kbs.co.kr/2radio/dramacenter/fantasy.htm | archive-date = 19 October 2014 | url-status = dead }}
+</ref>
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikiquote}}
+{{commons}}
+* [http://cafe.naver.com/bloodbird.cafe Lee Yeongdo's official publishing community] (Korean)
+* [http://navercast.naver.com/search.nhn?escapedQuery=%EC%9D%B4%EC%98%81%EB%8F%84 Lee Yeongdo's short stories on Naver Cast] (Korean)
+* [https://itunes.apple.com/us/app/id409341131?mt=8 ''Over the Horizon'' English iTunes book app].
+* [http://crossroads.apctp.org:8080/myboard/read.php?id=3&Page=3&Board=0004&para1=19 ''Regarding Translation of KAIWAPANDOM'' English translation].
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lee, Yeongdo}}
+[[Category:Living people]]
+[[Category:1972 births]]
+[[Category:South Korean fantasy writers]]
+[[Category:South Korean science fiction writers]]

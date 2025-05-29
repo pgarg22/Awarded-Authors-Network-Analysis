@@ -1,0 +1,102 @@
+{{Infobox writer
+| name = Emil Zegadłowicz
+| image = Emil Zegadłowicz, portrait.jpg
+| imagesize =
+| caption = 
+| pseudonym =
+| birth_name =
+| birth_date = {{Birth date|1888|7|20|df=y}}
+| birth_place = [[Biała Krakowska|Biała]], [[Galicia (Eastern Europe)|Galicia]], [[Austria-Hungary]]
+| death_date = {{death date and age|1941|2|24|1888|7|20|df=y}}
+| death_place = [[Sosnowiec]], [[Occupation of Poland (1939–1945)|German-occupied Poland]]
+| occupation = Poet, writer, translator
+| nationality = [[Poles|Polish]]
+| period =
+| genre = [[Expressionism]]
+| subject =
+| movement =
+| notableworks = ''Zmory'', ''Motory''
+| spouse =
+| partner =
+| children =
+| relatives =
+| influences =
+| influenced =
+| awards =
+}}
+
+'''Emil Zegadłowicz''' (20 July 1888 – 24 February 1941) was a Polish [[poet]], [[prose|prose writer]], [[novelist]], [[playwright]], [[translation|translator]], expert of art; co-originator of Polish [[expressionism]], member of expressionists' group ''Zdrój'', co-founder of group ''[[Czartak]]''.
+
+==Biography==
+[[File:Bielsko-Biała, Wyzwolenia 33.jpg|thumb|left|220px|Tenement house in Biała, birthplace of Emil Zegadłowicz]]
+
+Zegadłowicz was born on 20 July 1888 in [[Biała Krakowska|Biała]], now part of [[Bielsko-Biała]]. From 1906 to 1911 he studied Polish philology, German philology and [[history of art]] at [[Jagiellonian University]] in [[Kraków]], then he continued his studies in [[Vienna]] and [[Dresden]]. Although born in a German language island of Bielsko and Biała, he wasn't much connected with this region and lived in [[Gorzeń Górny]] near [[Wadowice]] and [[Poznań]].
+
+From 1917 to 1922 he collaborated with group of [[Poznań]] expressionists related with periodical ''Zdrój''. In 1919 became an officeholder of the Ministry of Culture and Art. He initiated and co-founded regional literary group and periodical ''[[Czartak]]''. From 1927 to 1931 was a literary manager of [[Polish Theatre in Poznań]]. He was an editor of Roman Catholic periodical ''Tęcza'' (1928–1929), editor of theatre magazine ''Świat Kulis'', programme director in Poznań broadcasting station of ''[[Polskie Radio]]''. In 1933–1934 he was a literary manager in theatre of [[Katowice]]. In 1934 he became an editor of periodical ''Wieś''. Later Zegadłowicz fall afoul of Roman Catholic Church and the Right, and in 1936 became a sympathiser of the Left.
+
+He died on 24 February 1941 in [[Sosnowiec]].
+
+== Works ==
+[[File:Emil Zegadłowicz in home.jpg|thumb|250px|Poet in his home, [[Gorzeń Górny]], June 1933.]]
+* ''Powsinogi beskidzkie'' (1923)
+* ''Kolędziołki beskidzkie'' (1923)
+* ''Żywot Mikołaja Srebrempisanego'' (1927–1929)
+* ''Zmory'' (1935)
+* ''Motory'' (1938)
+* ''Wasz korespondent donosi'' (1939, theatre play, missing)
+* ''Domek z kart'' (1940, theatre play)
+
+== References ==
+* {{cite book
+| last = Hierowski
+| first = Zdzisław
+| title = 25 lat literatury na Śląsku 1920&ndash;1945
+| publisher = Wydawnictwa [[Silesian Institute in Katowice|Instytutu Śląskiego]]
+| year = 1947
+| location = Katowice, Wrocław
+| pages =
+| doi =
+| oclc = 69489660 }}
+* {{cite web
+|title = Zegadłowicz Emil
+|work = [[Internetowa encyklopedia PWN]]
+|url = http://encyklopedia.pwn.pl/haslo.php?id=4000972
+|language = Polish
+|publisher = Wydawnictwo Naukowe PWN
+|accessdate = 2008-02-17
+}}
+* {{cite web
+|title = Zegadłowicz Emil
+|work = [[WIEM Encyklopedia]]
+|url = http://portalwiedzy.onet.pl/66867,,,,zegadlowicz_emil,haslo.html
+|language = Polish
+|accessdate = 2008-02-17
+}}
+
+==External links==
+{{commons category}}
+* [https://web.archive.org/web/20070928025503/http://www.muzeumez.silesianet.pl/index.htm Emil Zegadłowicz Museum] {{in lang|pl}}
+* [http://www.sbc.org.pl/dlibra/results?search_op1=AND&search_attid1=3&isExpandable=off&dirids=1&queryType=-4&query=&search_value1=%22Zegad%C5%82owicz,%20Emil%20(1888-1941)%22&isRemote=off&encode=true&action=SearchAction Works by Emil Zegadłowicz at Digital Silesian Library] {{in lang|pl}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zegadlowicz, Emil}}
+[[Category:1888 births]]
+[[Category:1941 deaths]]
+[[Category:People from Bielsko-Biała]]
+[[Category:Jagiellonian University alumni]]
+[[Category:Expressionist writers]]
+[[Category:Polish male novelists]]
+[[Category:20th-century Polish poets]]
+[[Category:Polish male dramatists and playwrights]]
+[[Category:Polish translators]]
+[[Category:Polish editors]]
+[[Category:Golden Laurel of the Polish Academy of Literature]]
+[[Category:20th-century Polish novelists]]
+[[Category:20th-century Polish dramatists and playwrights]]
+[[Category:20th-century translators]]
+[[Category:Polish male poets]]
+[[Category:20th-century Polish male writers]]
+
+
+{{Poland-poet-stub}}

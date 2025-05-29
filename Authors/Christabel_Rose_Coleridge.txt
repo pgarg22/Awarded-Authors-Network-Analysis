@@ -1,0 +1,71 @@
+{{Short description|English novelist and children's magazine editor, 1843–1921}}
+{{Use dmy dates|date=October 2016}}
+{{Use British English|date=October 2016}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|name = Christabel Rose Coleridge
+|image = 
+|imagesize = 
+|caption = 
+|pseudonym = 
+|birth_date = {{birth date|1843|5|25|df=y}}
+|birth_place = [[London]], England
+|death_date = {{death date and age|1921|11|14|1843|5|25|df=y}}
+|death_place = [[Torquay]], [[Devon]], England
+|occupation = Writer, editor
+|nationality = English
+|period = 19th century
+|genre = [[Children's literature]]
+|subject = 
+|movement = 
+|signature = 
+}}
+'''Christabel Rose Coleridge''' (25 May 1843 – 14 November 1921) was an English [[novelist]] and an editor of girls' magazines, sometimes in collaboration with the novelist [[Charlotte Mary Yonge]]. Her views on the role of women in society were conservative.
+
+==Early life==
+A grand-daughter of the poet, [[Samuel Coleridge]], Christabel was born at St Mark's College, [[Chelsea, London|Chelsea]], while her father, [[Derwent Coleridge|Derwent]], was headmaster there. Her name pays homage to [[Samuel Coleridge]]'s poem "[[Christabel (poem)|Christabel]]". For a time, Coleridge helped her brother [[Ernest Hartley Coleridge|Ernest]] to run a school, but her ambition was to be a writer.
+
+==Writings, friendships==
+She went on to publish more than 15 novels. The first was a children's historical story called ''Lady Betty'' (1869). ''Minstrel Dick'' (1896) is set mainly in the 14th-century [[Berkhamstead]] court of the dying [[Edward, the Black Prince]]. Her fiction expressed her concern with morality, and several of her books were published by the [[Society for Promoting Christian Knowledge]].
+
+Christabel was a friend of Charlotte Yonge's, distantly related to her through [[Mary Elizabeth Coleridge]], who like Christabel had been one of Yonge's informal society, the Goslings.<ref>[http://www.dur.ac.uk/c.e.schultze/context/goslings.html "The Gosling Society 1859–1877"]. ''The Charlotte Mary Yonge Fellowship''. Durham University Community. Retrieved 15 July 2012.</ref> They collaborated on several writing projects, such as ''The Miz Maze or The Winkworth Puzzle: A Story in Letters, by Nine Authors'' (1883).<ref>Her eight collaborators were Charlotte Mary Yonge, [[John Wither Awdry|Frances Awdry]], Mary Bramston, A. E. Mary Anderson Morshead, Frances Mary Peard, [[Mary Susanna Lee]], Eleanor C. Price, and Florence Wilford. [https://web.archive.org/web/20130429235354/http://www.telinco.co.uk/RobertTemple/Crkiv4.htm "Robert Temple Bibliographical Archive"] (archive 4). Robert Temple Booksellers. 2 March 2008. Retrieved 15 July 2012. Archived 29 April 2013. Retrieved 7 December 2019.</ref>
+
+In the early 1890s, Christabel and her "[[Mother Goose]]" edited ''[[The Monthly Packet]]'', which Yonge had founded 40 years earlier as an [[Anglican]] magazine for middle-class girls, as ''The Monthly Packet of Evening Readings for Younger Members of the English Church''. Coleridge was the sole editor during its last six years, from 1894 to 1899. She also edited a magazine intended for the working-class members of the [[Church of England|church]]-based [[Girls' Friendly Society]]. After Yonge's death she wrote and edited the biographical ''Charlotte Mary Yonge: Her Life and Letters'' (1903).
+
+Another friend was [[Frances Mary Peard]] (1835–1923), who wrote more than 40 books published from 1867 to 1909, mostly domestic novels and short-story volumes.<ref>"Getting Into Print: Frances Mary Peard, 1835–1922". ''Women in the Literary Marketplace 1800–1900''. Cornell University Library (rmc.library.cornell.edu). February 8 – May 31, 2002.</ref>
+
+==Life's work==
+Christabel Rose Coleridge had at least 89 works of hers published in a total of at least 286 publications.<ref>[http://www.worldcat.org/identities/lccn-n90619228/ OCLC WorldCat Identities. Retrieved 25 February 2020.]</ref>
+
+In 1880, Christabel moved to Torquay when her father retired there. She had conservative ideas about the role of women in society, and a collection of her essays on the subject was published in 1894, ''The Daughters Who Have Not Revolted''. Her last novel, ''Miss Lucy: A Character Study'', was published in 1908.<ref>[http://explore.bl.uk/primo_library/libweb/action/dlDisplay.do?vid=BLVU1&docId=BLL01000741956 "Miss Lucy. A character study..., 1908."] Main catalogue, [[British Library]]. Retrieved 8 June 2016.</ref>
+
+Christabel Rose Coleridge's life ended on 14 November 1921 in Torquay, Devon, at the age of 78.
+
+==References==
+{{Reflist |30em}}
+*Sandra Kemp, Charlotte Mitchell, and David Trotter, ''Edwardian Fiction: An Oxford Companion'' (Oxford University Press, 1997)
+*Cherry Durrant, "Derwent Coleridge", ''[[Oxford Dictionary of National Biography]]'' (2004)
+
+==External links==
+{{Portal |Children's literature}}
+
+*[http://ufdc.ufl.edu/UF00053772 ''Please Tell Me a Tale'' (1885 anthology)] at [[Baldwin Library of Historical Children's Literature]] – contains "Blanche's Maying" by "Miss C. R. Coleridge" 
+*{{Gutenberg author |id=Coleridge,+Christabel+R. |name=Christabel R. Coleridge}}
+*{{Internet Archive author |sname=Christabel Rose Coleridge}}
+*{{Librivox author |id=1772}}
+*{{LCAuth|n90619228|Christabel R. Coleridge|6|ue}}
+
+{{Authority control}}
+{{Victorian children's literature}}
+{{Coleridge family tree}}
+
+{{DEFAULTSORT:Coleridge, Christabel Rose}}
+[[Category:English women novelists]]
+[[Category:Anglican writers]]
+[[Category:English children's writers]]
+[[Category:1843 births]]
+[[Category:1921 deaths]]
+[[Category:Coleridge family|Christabel]]
+[[Category:19th-century English novelists]]
+[[Category:19th-century English women writers]]
+[[Category:20th-century English novelists]]
+[[Category:20th-century English women writers]]

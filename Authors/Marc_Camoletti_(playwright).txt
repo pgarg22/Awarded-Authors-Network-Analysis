@@ -1,0 +1,53 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Marc Camoletti
+| image = Marc Camoletti.jpg
+| imagesize = 180px
+| caption = 
+| birth_date = {{Birth date|1923|11|16|df=y}}
+| birth_place = [[Geneva]], Switzerland
+| death_date = {{death date and age|2003|07|18|1923|11|16|df=y}}
+| death_place = [[Deauville]], France
+| occupation = Playwright
+| nationality = French
+| period = 20th century
+| genre = 
+| subject = 
+| movement = 
+| notableworks = ''[[Boeing-Boeing (play)|Boeing-Boeing]]''
+| influences = 
+| influenced = 
+| awards = 
+| signature = 
+| website = 
+| portaldisp = 
+}}
+'''Marc Camoletti''' (16 November 1923 &ndash; 18 July 2003) was a French playwright best known for the [[farce]] ''[[Boeing-Boeing (play)|Boeing-Boeing]]''.
+
+==Background==
+
+Camoletti was born a French citizen in [[Geneva]], Switzerland, though his family had Italian origins. His theatrical career began in 1958 when three of his plays were presented simultaneously in Paris, the first, ''[[La Bonne Anna]]'', running for 1,300 performances and going on to be performed throughout the world.
+
+''[[Boeing-Boeing (play)|Boeing-Boeing]]'' (1960) was an even greater success, and remains Camoletti's signature hit. The original 1962 London production, in an adaptation by [[Beverley Cross]], opened at the [[Apollo Theatre]], transferred to the [[Duchess Theatre|Duchess]], and ran for seven years, racking up more than 2,000 performances.
+
+A later play, ''[[Don't Dress for Dinner]]'', also ran for seven years in London, again transferring from the Apollo to the Duchess.
+
+Camoletti's plays have been performed in numerous languages in 55 countries. In Paris alone, 18 of his plays have totalled around 20,000 performances in all. Ten of his plays have also been shown on television, including ''Sexe et Jalousie''. In 1979, he directed his only feature film, ''Duos sur canapé'', based on one of his plays.
+
+Camoletti was an Associate of the [[Société Nationale des Beaux-Arts]]. He was awarded the [[Chevalier de la Légion d'honneur]], one of France's highest honours. He died in [[Deauville]] on the [[Normandy]] coast in 2003.
+
+==References==
+{{Reflist}}
+* {{cite web | author=Holger Sporleder | author2=Hermann Doebel | title=Marc Camoletti | url=http://www.laienspielgruppe.de/vorschau/camoletti.htm | publisher=Laienspielgruppe Apelern | language=German | year=2008 | accessdate=2008-08-11 | url-status=dead | archiveurl=https://web.archive.org/web/20080917141959/http://www.laienspielgruppe.de/vorschau/camoletti.htm | archivedate=2008-09-17 }}
+
+==External links==
+{{Commons category|Marc Camoletti (playwright)}}
+* {{IBDB name}}
+* {{IMDb name|131942|Marc Camoletti}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Camoletti, Marc}}
+[[Category:1923 births]]
+[[Category:2003 deaths]]
+[[Category:20th-century French dramatists and playwrights]]
+[[Category:People from Geneva]]

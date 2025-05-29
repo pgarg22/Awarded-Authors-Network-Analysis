@@ -1,0 +1,88 @@
+{{Infobox person
+| name          =  Oswald LeWinter
+| image         = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = <!-- only use if different from name -->
+| birth_date    = April 2, 1931
+| birth_place   = Vienna, Austria
+| death_date    = February 13, 2013 (aged 81)
+| death_place   = Holly Hill, South Carolina
+| nationality   = American
+| other_names   = 
+| occupation    = Author and poet
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+
+'''Oswald LeWinter''' (April 2, 1931 &ndash; February 13, 2013)<ref name=Somervell>{{cite news|last=Somervell|first=Al|title=Oswald Le Winter -- Holly Hill|url=http://thetandd.com/news/local/obituaries/oswald-le-winter----holly-hill/article_1146ba66-7989-11e2-9407-001a4bcf887a.html|access-date=February 20, 2013|newspaper=The Times and Democrat|date=February 18, 2013|location=Orangeburg, South Carolina}}</ref> was an [[Austria]]n-born [[United States|American]] [[author]] and [[poet]].  He was best known for his role in the [[October Surprise conspiracy theory|October Surprise]]  controversy.
+
+==Background==
+LeWinter was born in [[Vienna, Austria]]. He came to the United States in 1939, as part of an effort to rescue Jewish children from the dangerous conditions of Vienna following Nazi Germany's annexation of Austria.<ref>{{Cite book| publisher = Harper| isbn = 9780062237477| last = Pressman| first = Steven |author-link=Steven Pressman |title = 50 Children: One Ordinary American Couple's Extraordinary Rescue Mission into the Heart of Nazi Germany| location = New York, NY| date = 2014-04-22}} LeWinter is mentioned on p. 196 and on the list of the children on p. 242.</ref> His parents, Louis and Regina LeWinter, were able to join him in New York later that year,<ref>{{Cite book| publisher = Greenwood Publishing Group| isbn = 9780275951399| last = Schneider| first = Gertrude| title = Exile and Destruction: The Fate of Austrian Jews, 1938-1945| date = 1995-01-01}} p. 33. Schneider, LeWinter's cousin, gives the name of LeWinter's father as Leon. Later American records give it as Louis.</ref> but a number of his uncles, aunts, and cousins remained in Europe and perished in Nazi concentration camps.<ref>Schneider 13-14 gives a partial accounting.</ref>
+
+==Education==
+LeWinter grew up in [[Brooklyn, New York]].<ref name=Loeb>{{cite news |title=Tinker, Tailor, Poet, Spy?; He's Played the Part of an Ex-CIA Agent for Years Now. It's a Convincing Act. |first=Vernon |last=Loeb |author-link=Vernon Loeb |author2=Bill Miller |url=http://jclass.umd.edu/archive/newshoax/casestudies/idfraud/IDPoet.html |newspaper=The Washington Post |location=Washington, D.C. |date=February 15, 2001 |page=C1 |access-date=January 22, 2013|archive-date=10 April 2015|archive-url=https://web.archive.org/web/20150410015935/http://jclass.umd.edu/archive/newshoax/casestudies/idfraud/IDPoet.html}}</ref> According to one source, he became interested in poetry while attending college in the New York area, and came to know a number of well-known literary figures, including novelist Saul Bellow.<ref name=Loeb/> In the late 1950s, LeWinter moved to California, where he completed his B.A. at the [[University of California, Berkeley]], and his M.A. at [[San Francisco State College]].<ref name=Loeb/> In the early 1960s, he returned to New York and enrolled in a doctoral program at [[Columbia University]].<ref name=Loeb/>
+
+==Career==
+During the early to mid-1960s, LeWinter taught at several schools in New York and Pennsylvania, including [[Penn State University]],<ref>{{Cite journal| issn = 0003-0678| volume = 15| issue = 2| pages = 289–327| title = Articles in American Studies, 1962: [Art & Architecture-Literature & Drama]| journal = American Quarterly| date = 1963-07-01| jstor = 2710963}}</ref> [[Columbia University]],<ref>{{Cite journal| issn = 0003-0678| volume = 16| issue = 2| pages = 264–307| title = Articles in American Studies, 1963: [Art & Architecture-Mass Culture]| journal = American Quarterly| date = 1964-07-01| jstor = 2711042}}</ref> and [[Marist College]].<ref>{{Cite journal| issn = 0003-0678| volume = 17| issue = 2| pages = 336–379| title = Articles in American Studies, 1964: [Art & Architecture-Literature & Drama]| journal = American Quarterly| date = 1965-07-01| jstor = 2710803| last1 = Koster| first1 = Donald}}</ref>  LeWinter's publications from this period include a book on Shakespeare, several academic articles on poetry, and his own poetry, which appeared in a number of well-known literary magazines.<ref>{{Cite book| edition = Revised| publisher = Gale| isbn = 9780810300002| last = Locher| first = Francis| title = Contemporary Authors First Revision, Vol. 1-4| location = Detroit, MI| date = 1967-12-15}}</ref>
+
+In the late 1960s, however, LeWinter left academia and began a business career that lasted until the early 1980s.<ref name=Loeb/>  He eventually moved to Germany, where he taught psychology to American military personnel.<ref name=Loeb/>
+
+In 1984, LeWinter was arrested by German authorities for his part in a scheme to smuggle chemicals used to manufacture methamphetamine into the United States. He was extradited to the United States and sentenced to six years in prison.<ref name=Loeb/>  Released after two years, LeWinter returned to Germany, where he worked as a psychoanalyst.<ref name=Loeb/> During his incarceration in the United States, LeWinter was only a few cells from [[Czechoslovakia State Security|StB agent]] [[Karl Koecher]] with whom LeWinter conversed frequently.<ref name=Loeb/>
+
+==October surprise role==
+In the late 1980s, LeWinter became a source for several writers investigating the [[October surprise conspiracy theory]].<ref name="October Surprise Task Force">{{cite book |author=Task Force to Investigate Certain Allegations Concerning the Holding of American Hostages by Iran in 1980 |author-link=House October Surprise Task Force |title=Joint report of the Task Force to Investigate Certain Allegations Concerning the Holding of American Hostages by Iran in 1980 ("October Surprise Task Force") |date=January 3, 1993 |publisher=United States Government Printing Office |location=Washington, D.C. |page=154 |hdl=2027/mdp.39015060776773 |id=H. Rept. No. 102-1102 |oclc=27492534 |ref={{harvid|"October Surprise Task Force"|1993}}}}</ref> The theory held that in late 1980, Ronald Reagan's election advisers had made an arrangement with the Iranian government. The arrangement called for the Iranians to delay the release of American diplomats held captive in Iran until after the  November presidential election, in order to help Reagan defeat the incumbent President Jimmy Carter. Eventually several books were published claiming that there was indeed a conspiracy, including books by writers [[Barbara Honegger]], [[Gary Sick]], and [[Robert Parry (journalist)|Robert Parry]].
+
+While the exact details of how LeWinter became involved are not clear, according to journalist [[Frank Snepp]], LeWinter was introduced to writer Barbara Honegger in September 1988.<ref name="Snepp">{{cite news |title=October Surmise |last=Snepp |first=Frank |author-link=Frank Snepp |date=1992-02-25 |work=The Village Voice}}; reprinted in {{cite news |work=The Congressional Record |title=Overwhelming Evidence Debunks October Surprise Myth (House of Representatives - February 24, 1992) |url=https://fas.org/irp/congress/1992_cr/h920224-october.htm |access-date=2015-04-07}}</ref> LeWinter presented himself as a CIA operative, and eventually claimed to have provided security for several meetings in Paris where, according to various people claiming to be witnesses, negotiations to delay the diplomats' release took place.<ref name=Loeb/>
+
+Martin Kilian of ''[[Der Spiegel]]'' interviewed LeWinter in September 1988 and published an article that replied upon his claim of an October meeting in Paris between [[Director of Central Intelligence|CIA Director]] [[William Casey]] and officials from Israel and Iran.{{sfn|"October Surprise Task Force"|1993|page=64, 152}}
+
+On August 25, 1992, LeWinter was interviewed in Europe by staff of the [[House October Surprise Task Force]].{{sfn|"October Surprise Task Force"|1993|page=155}} According to the Task Force's report published in January 1993, "LeWinter... stated under oath that his 'October Surprise' allegations had been a complete fabrication", including an acknowledgement that he was not a military intelligence official.{{sfn|"October Surprise Task Force"|1993|page=156}} The Task Force concluded its section on LeWinter: "In the final analysis the Task Force found LeWinter's recantation under oath to be far more credible, internally consistent, and logical than his myriad prior unsworn stories."{{sfn|"October Surprise Task Force"|1993|page=156}}
+
+==Other claims and rebuttals==
+Following his October Surprise claims, LeWinter also appeared in two documentaries made by producer and filmmaker [[Allan Francovich]].  The first, ''Gladio'', was a three part BBC documentary on [[Operation Gladio]], broadcast in 1992.  LeWinter is identified in the documentary as "Colonel Oswald Le Winter, CIA-ITAC liaison officer, Europe."
+
+LeWinter appeared again in Francovich's 1994 film, ''[[The Maltese Double Cross – Lockerbie|The Maltese Double Cross]]'', which blames a failed DEA drug sting  for the Lockerbie crash. Despite the publication of the Joint Task Force report giving LeWinter's recantation of his CIA claims in January 1993, LeWinter is identified as "CIA, 1968-1985."
+
+LeWinter is also mentioned in the 1998 [[Assassination Records Review Board]] report. In response to a query about whether there were records of LeWinter's CIA employment, the report states that "FBI and CIA files indicate that LeWinter is a well-known fabricator with an interest in intelligence and law enforcement activities who frequently makes claims related to sensational or unusual news events. The records that the Review Board examined did not show that Oswald LeWinter was ever employed by or worked for the CIA in any capacity."<ref name="ARRB">{{cite book |author=Assassination Records Review Board |author-link1=Assassination Records Review Board |title=Final Report of the Assassination Records Review Board |url=https://www.archives.gov/research/jfk/review-board/report/arrb-final-report.pdf |access-date=December 24, 2012 |date=September 30, 1998 |publisher=United States Government Printing Office |location=Washington, D.C. |page=110 |chapter=Chapter 6, Part I: The Quest for Additional Information and Records in Federal Government Offices}}</ref>
+
+==Fraud conviction==
+Following the death of [[Diana, Princess of Wales]] and her boyfriend [[Dodi Fayed]] in an August 1997 car accident, Fayed's father, [[Mohammed Al-Fayed]], became convinced that their deaths were not accidental, and offered a reward for information leading to the arrest of those responsible.<ref name=Loeb/>
+
+LeWinter, posing as a CIA officer, offered Al-Fayed what he said were CIA documents that showed the British intelligence agency [[MI6]] had assassinated the two. Negotiations for the documents took place in the United States and were conducted between Al-Fayed's security head John Macnamara and an American lawyer and a journalist.
+
+When LeWinter demanded $US4 million for the documents and insisted on meeting outside the United States, Al-Fayed suspected fraud and notified the FBI, the CIA, and police in Vienna, where the meeting was to take place.<ref name=Loeb/> Fleer and McNamara wanted to receive the documents in the United States, but the conspirators insisted on Prague for the location; Vienna was chosen instead.<ref name=BritskeListy26071999>{{cite news |url=http://blisty.internet.cz/9907/19990726d.html#03 |title=Princezna Diana, milionář Fayed, CIA a český rozvědčík |trans-title=Princess Diana, millionaire Fayed, CIA and Czech intelligence |work=[[Britské listy]] |last=Čulík |first=Jan |author-link=Jan Čulík |date=26 July 1999 |access-date=9 March 2020 |archive-date=16 November 1999 |archive-url=https://web.archive.org/web/19991116033408/http://blisty.internet.cz/9907/19990726d.html#03 |language=cs}}</ref>
+
+When LeWinter produced the documents at the meeting in Vienna, he was arrested, but at least two others fled.<ref name=BritskeListy26071999/> The documents were judged forgeries and LeWinter was convicted of fraud. He served over two and a half years in prison, and was released in December, 2000.<ref name=Loeb/> Karl Koecher, a friend of LeWinter, had booked the room in Bamburg at which LeWinter was staying, fled prior to any meeting between LeWinter and McNamara, and, later, denied that he had any involvement in the scheme.<ref name=Loeb/><ref name=BritskeListy26071999/><ref name=BritskeListy27071999>{{cite news |url=http://blisty.internet.cz/9907/19990727d.html |title=Západní rozvědky asi skutečně zatajují případ Diana. Já s ním neměl nic společného |trans-title=Western intelligence may actually hide the Diana case. I had nothing to do with him |work=[[Britské listy]] |last=Koecher |first=Karl |author-link=Karl Koecher |date=27 July 1999 |access-date=9 March 2020 |archive-date=18 January 2000 |archive-url=https://web.archive.org/web/20000118031656/http://blisty.internet.cz/9907/19990727d.html |language=cs}}</ref>
+
+Fayed hired [[Terry Lenzner]], former assistant chief counsel for the [[United States Senate Watergate Committee]], in the Fall of 1998 to investigate the claims of LeWinter and his associates to determine if the British government was involved in a [[Death of Diana, Princess of Wales conspiracy theories|conspiracy to assassinate Princess Diana]].<ref name="Lenzner">{{cite book |last=Lenzner |first=Terry |date=2013 |title=The Investigator |url=https://books.google.com/books?id=sBC-FsLS3fUC |location=New York |publisher=Penguin Group |isbn=9780698148994 }}</ref> Describing him as a "convincing storyteller", Lenzner stated that the "evidence we collected supported the conclusion that Oswald LeWinter was not a credible source."<ref name="Lenzner"/>
+
+==Personal life==
+Oswald LeWinter was married four times and had five children.
+
+==Death==
+LeWinter died in [[Holly Hill, South Carolina]] on February 13, 2013.<ref name=Somervell/>
+
+==References==
+{{reflist}}
+
+==Works by LeWinter==
+* {{Cite book | author = Oswald LeWinter | title = Shakespeare in Europe | publisher = Penguin Books | year = 1970 | isbn = 0-14-053016-9 }}
+* {{Cite book| edition = 1| publisher = Howling Dog Pr| isbn = 9781882863679| last = LeWinter| first = Oswald| title = More Atoms of Memory| date = 2006-08-30}}
+* {{Cite book| publisher = Ravenna Press| isbn = 9780976659389| last = LeWinter| first = Oswald| title = Ages of Chaos and Fury| date = 2007-10-01}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lewinter, Oswald}}
+[[Category:1931 births]]
+[[Category:2013 deaths]]
+[[Category:Jewish poets]]
+[[Category:American conspiracy theorists]]
+[[Category:American male poets]]
+[[Category:20th-century American poets]]
+[[Category:Jewish American writers]]
+[[Category:Writers from Vienna]]
+[[Category:Jewish emigrants from Austria to the United States after the Anschluss]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American Jews]]

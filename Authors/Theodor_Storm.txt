@@ -1,0 +1,100 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Theodor Storm
+| image        = Theodor Storm (1817-1888).jpg
+| caption      = Theodor Storm
+| birth_name    = 
+| birth_date    = {{birth date|1817|9|14|df=yes}}
+| birth_place   = [[Husum, Germany|Husum]], [[Duchy of Schleswig|Schleswig]]
+| death_date    = {{death date and age|1888|7|4|1817|9|14|df=yes}}
+| death_place   = [[Hanerau-Hademarschen|Hademarschen]], [[German Empire]]
+| occupation   = Lawyer, writer
+| nationality  = 
+| genre        = 
+| movement     = 
+| notableworks = 
+| influences   = 
+| influenced   = 
+| website      = 
+| alma_mater  = [[University of Kiel]]
+}}
+'''Hans Theodor Woldsen Storm''' ({{IPA-de|ˈteːodoːɐ̯ ˈʃtɔʁm|-|De-Theodor Storm.ogg}}; 14 September 1817{{snd}}4 July 1888), commonly known as '''Theodor Storm''', was a German writer. He is considered to be one of the most important figures of [[Literary realism|German realism]].
+
+==Life==
+[[File:Storm bueste.jpg|thumb|Storm-bust by [[Adolf Brütt]] (1897/98), Husum Schlosspark]]
+[[File:"Theodor Storm" Zeichnung von Ingo Kühl, 1980.jpg|thumb|''Theodor Storm'', drawing by [[Ingo Kühl]] 1980]]
+Storm was born in the small town of [[Husum]], on the west coast of [[Duchy of Schleswig|Schleswig]], then a formally independent duchy ruled by the king of Denmark.<ref name="Stern"/> His parents were the lawyer ''Johann Casimir Storm'' (1790–1874) and ''Lucie Storm'', née Woldsen (1797–1879).
+
+Storm attended school in Husum and [[Lübeck]] and studied law in [[Kiel]] and [[Berlin]].<ref name="Stern"/> While still a law student in [[Kiel University|Kiel]] he published a first volume of verse together with the brothers Tycho and [[Theodor Mommsen]] (1843).
+
+Storm was involved in the [[1848 revolutions]] and sympathized with the [[liberalism|liberal]] goals of a united Germany under a constitutional monarchy in which every class could participate in the political process.<ref>{{cite book |last1=Jackson |first1=David A |title=Theodor Storm: The Life and Works of a Democratic Humanitarian |date=1992 |publisher=Berg Publishers |page=201}}</ref><ref>{{cite book |last1=Ebersold |first1=Günther |title=Politik und Gesellschaftskritik in den Novellen Theodor Storms |date=1981 |publisher=Peter Lang Verlag |page=13}}</ref> From 1843 until his admission was revoked by Danish authorities in 1852, he worked as a lawyer in his home town of Husum. In 1853 Storm moved to [[Potsdam]], moving on to [[Heilbad Heiligenstadt|Heiligenstadt]] in [[Thuringia]] in 1856. He returned to Husum in 1865 after Schleswig had come under [[Prussia]]n rule and became a district magistrate ("Landvogt"). In 1880 Storm moved to [[Hanerau-Hademarschen|Hademarschen]], where he spent the last years of his life writing, and died of cancer at the age of 70.<ref name="Stern">[http://www.bartleby.com/315/3/1000.html Adolf Stern, Biographical Note in ''The Rider on the White Horse'', The Harvard Classics Shelf of Fiction, 1917]</ref>
+
+Storm was married twice, first to Konstanze Esmarch, who died in 1864, and then to Dorothea Jensen.<ref name="Stern"/>
+
+==Work==
+Storm was one of the most important authors of 19th-century German [[Literary realism]]. He wrote a number of stories, poems and novellas. His two best-known works are the novellas [[Immensee (novella)|''Immensee'']] (1849) and ''[[The Rider on the White Horse|Der Schimmelreiter]]'' ("The Rider on the White Horse"), first published in April 1888 in the ''[[Deutsche Rundschau]]''. Other published works include a volume of his poems (1852), the novella ''[[Paul the Puppeteer|Pole Poppenspäler]]'' (1874) and the novella ''[[Aquis Submersus (novella)|Aquis submersus]]'' (1877).
+
+== Analysis ==
+Like [[Friedrich Hebbel]], Theodor Storm was a child of the North Sea plain, but, whilst in Hebbel's verse there is hardly any direct reference to his native landscape, Storm again and again revisits the chaste beauty of its expansive mudflats, menacing sea and barren pastures &mdash; and whilst Hebbel could find a home away from his native heath Storm clung to it with what may be called a jealous love. In ''Der Schimmelreiter'', the last of his 50 novellas and widely considered Storm's culminating masterpiece, the setting of the rural North German coast is central to evoking its unnerving, superstitious atmosphere, and sets the stage for the battleground of man versus nature: the dykes and the sea.
+
+His favourite poets were [[Joseph von Eichendorff]] and [[Eduard Mörike]], and the influence of the former is plainly discernible even in Storm's later verse. During a summer visit to [[Baden-Baden]] in 1864, where he had been invited by his friend, the author and painter [[Ludwig Pietsch]], he made the acquaintance of the great Russian writer [[Ivan Turgenev]]. They exchanged letters and sent each other copies of their works over a number of years.
+
+Hungarian literary critic [[György Lukács|Georg Lukács]], in ''[[Soul and Form]]'' (1911), appraised Storm as "the last representative of the great German bourgeois literary tradition," poised between [[Jeremias Gotthelf]] and [[Thomas Mann]].
+
+== Samples ==
+A poem about his hometown Husum, ''the grey town by the grey sea'' ({{lang-de|Die graue Stadt am grauen Meer}}).
+[[Image:Hanerau-Hademarschen Storm-Haus 01.jpg|thumb|right|250px|House of Theodor Storm in [[Hanerau-Hademarschen|Hademarschen]]]]
+{| cellpadding=2 cellspacing=2 style="width:60%; border-width:1px; border-style:solid"
+|-
+! ''Die Stadt''
+! The town
+|-
+| ''Am grauen Strand, am grauen Meer<br>Und seitab liegt die Stadt;<br>Der Nebel drückt die Dächer schwer,<br>Und durch die Stille braust das Meer<br>Eintönig um die Stadt.''
+| By the grey shore, by the grey sea<br>&mdash;And close by lies the town&mdash;<br>The fog rests heavy round the roofs<br>And through the silence roars the sea<br>Monotonously round the town.
+|-
+| ''Es rauscht kein Wald, es schlägt im Mai<br>Kein Vogel ohn' Unterlaß;<br>Die Wandergans mit hartem Schrei<br>Nur fliegt in Herbstesnacht vorbei,<br>Am Strande weht das Gras.''
+| No forest murmurs, no bird sings<br>Unceasingly in May;<br>The wand'ring goose with raucous cry<br>On autumn nights just passes by,<br>On the shoreline waves the grass.
+|-
+| ''Doch hängt mein ganzes Herz an dir,<br>Du graue Stadt am Meer;<br>Der Jugend Zauber für und für<br>Ruht lächelnd doch auf dir, auf dir,<br>Du graue Stadt am Meer.''
+| Yet all my heart remains with you,<br>O grey town by the sea;<br>Youth's magic ever and a day<br>Rests smiling still on you, on you,<br>O grey town by the sea.
+|}
+
+Analysis and original text of the poem from ''A Book of German Lyrics'', ed. Friedrich Bruns, which is available in [[Project Gutenberg]].<ref>[http://ibiblio.unc.edu/pub/docs/books/gutenberg/etext05/8glyr10.txt. UNC.edu]{{Dead link|date=June 2018 |bot=InternetArchiveBot |fix-attempted=no }}</ref>
+
+== Translated works ==
+* Theodor Storm: ''The Rider on the White Horse and selected stories''. Translated by James Wright. New York 2009.
+* Theodor Storm: ''Carsten the Trustee & Other Fiction''. Translated by Denis Jackson. Angel Books 2009.
+* Theodor Storm: ''Paul the Puppeteer and Other Short Fiction''. Translated by Denis Jackson. Angel Books 2004.
+* Theodor Storm: ''Hans and Heinz Kirch with Immensee & Journey to a [[Hallig]]''. Translated by Denis Jackson & Anja Nauck. Angel Books 1999.
+* Theodor Storm: ''The Dykemaster''. Translated by Denis Jackson. Angel Books 1996.
+
+==References==
+{{Reflist}}
+
+== Sources ==
+* David Dysart: ''The Role of Paintings in the work of Theodor Storm''. New York / Frankfurt 1993.
+* Norma Curtis Wood: ''Elements of Realism in the prose writings of Theodor Storm''. Cambridge 2009.
+
+== External links ==
+{{commons}}
+* {{Gutenberg author |id=Storm,+Theodor}}
+* {{Internet Archive author |sname=Theodor Storm}}
+* {{Librivox author |id=68}}
+* [http://www.theodorstorm.co.uk Theodor Storm and his world]
+* [http://www.zeno.org/Literatur/M/Storm,+Theodor Biography and many works by Storm]
+* [https://web.archive.org/web/20070515144625/http://www.valeriodistefano.com/schimmelreiter.htm Der Schimmelreiter] (Audiobook in German)
+* [http://gedichte.xbib.de/gedicht_Storm.htm All poems of Theodor Storm]
+* {{Cite EB1911|wstitle=Storm, Theodor Woldsen|volume=25|pages=968–969}}
+
+{{German literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Storm, Theodor}}
+[[Category:1817 births]]
+[[Category:1888 deaths]]
+[[Category:People from Husum]]
+[[Category:People from the Duchy of Schleswig]]
+[[Category:19th-century German novelists]]
+[[Category:Writers from Schleswig-Holstein]]
+[[Category:German male novelists]]
+[[Category:19th-century German male writers]]

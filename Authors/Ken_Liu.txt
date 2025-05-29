@@ -1,0 +1,344 @@
+{{Short description|Chinese-American writer}}
+{{Infobox writer
+| name        = Ken Liu
+| image       = KenLiuPortrait.jpg
+| caption     = Portrait of Ken Liu by Lisa Tang Liu.
+| birth_name  = {{zh|c=刘宇昆|p=Liú Yǔkūn|labels=no}}
+| birth_date  = {{Birth year and age|1976}}
+| birth_place = [[Lanzhou]], China
+| death_date  =
+| death_place =
+| occupation  = {{flatlist|
+* Author
+* translator
+* programmer
+}}
+| nationality = American
+| period      = 
+| genre       = [[Science fiction]], [[fantasy]]
+| subject     = 
+| movement    = 
+| notableworks= {{Plainlist}}
+* ''[[The Paper Menagerie]]'' (2011)
+* ''The Grace of Kings'' (2015)
+* ''[[The Three-Body Problem (novel)|The Three-Body Problem]]'' (2015 {{abbr|transl.|translation into English}})
+* ''Journey to Star Wars: The Last Jedi: The Legends of Luke Skywalker'' (2017)
+* "[[Byzantine Empathy]]" (2018 short)
+{{Endplainlist}}
+| spouse      = Lisa Tang Liu<ref name=strangehorizons />
+| children    = 
+| relatives   = 
+| influences  = 
+| influenced  = 
+| awards      = {{Plainlist}}
+* [[Hugo Award]]s (×3)
+* [[Locus Award]]s (×2)
+* [[FantLab's Book of the Year Award|FantLab's Award]]s (×2)
+* [[Nebula Award]] (×1)
+* [[Sidewise Award for Alternate History|Sidewise Award]] (×1)
+* [[World Fantasy Award]] (×1)
+{{Endplainlist}}
+| signature   = 
+| website     = {{Official URL}}
+| portaldisp  = 
+}}
+{{Infobox Chinese|t=劉宇昆|s=刘宇昆|p=Liú Yǔkūn}}
+
+'''Ken Liu''' (born 1976) is a multiple [[Hugo Award|Hugo Award-winning]] [[Americans|American]] author of [[science fiction]] and [[fantasy]].  His epic fantasy series ''The Dandelion Dynasty'', the first work in the "silkpunk" genre, is published by [[Simon & Schuster]].<ref name="tordotcomsummary">{{cite web |title=Ken Liu Talks Silkpunk, Old Poems, and Contemporary Chinese SFF in His Reddit AMA |url=https://www.tor.com/2015/04/13/ken-liu-reddit-ama-highlights/ |website=Tor.com}}</ref> His short stories have appeared in ''[[F&SF]]'', ''[[Asimov's]]'', ''[[Analog Science Fiction and Fact|Analog]]'', ''[[Lightspeed (magazine)|Lightspeed]]'', ''[[Clarkesworld]]'', and multiple "Year's Best" anthologies.<ref>{{Cite web|title = Clarkesworld Magazine - Science Fiction & Fantasy|url = http://clarkesworldmagazine.com/awards_and_recognition/|website = Clarkesworld Magazine|access-date = 2015-10-11|language = en}}</ref>
+
+==Childhood and career==
+Liu was born in 1976 in [[Lanzhou]], [[China]].<ref name="nw103016"/> He spent his childhood with his grandparents.<ref>{{cite web |title=Ken Liu Talks Silkpunk, Old Poems, and Contemporary Chinese SFF in His Reddit AMA |url=https://www.tor.com/2015/04/13/ken-liu-reddit-ama-highlights/ |website=Tor.com |access-date=15 March 2019}}</ref> His mother, who received her Ph.D. in chemistry in the United States, is a pharmaceutical chemist, while his father is a computer engineer.<ref name="asiaone">{{cite web
+|url=http://www.asiaone.com/ken-liu-won-science-fiction-awards-best-short-story?nopaging=1
+|title=Ken Liu won science fiction awards for best short story
+|access-date=2019-01-05
+|date=2013-09-09
+|publisher=[[AsiaOne]]
+}}</ref> The family immigrated to the United States when Liu was 11 years old.<ref name="nw103016">{{cite web
+|url=https://www.newsweek.com/man-bringing-chinese-science-fiction-west-514893
+|title=MEET THE MAN BRINGING CHINESE SCIENCE FICTION TO THE WEST
+|access-date=2019-01-05
+|date=2016-10-30
+|publisher=[[Newsweek]]
+}}</ref> They lived in [[California]] and [[Stonington, Connecticut]] before settling in [[Waterford, Connecticut|Waterford]], Connecticut. Liu graduated from [[Waterford High School (Connecticut)|Waterford High School]] in 1994, where he ran cross-country and track.<ref name="day">{{cite web
+|url=https://www.theday.com/article/20150414/ENT02/150419746
+|title=Waterford alum — and award-winning short story writer — Ken Liu releases his debut novel
+|access-date=2019-01-05
+|date=2015-04-14
+|publisher=[[The Day (New London)]]
+}}</ref> At [[Harvard College]], he studied English Literature and Computer Science, receiving his A. B. in 1998.<ref name="day"/><ref name=hm>{{cite web
+|url=https://harvardmagazine.com/2016/11/fusion-fantasy
+|title=Fusion Fantasy: Ken Liu's sprawling hybrid fiction
+|access-date=2019-01-05
+|date=November–December 2016
+|publisher=[[Harvard Magazine]]
+}}</ref> After graduation, he worked as a software engineer for [[Microsoft]], and then joined a start-up in [[Cambridge, Massachusetts]]. He later received his J.D. from [[Harvard Law School]] in 2004 and after working as a corporate lawyer, eventually became a high-tech litigation consultant.<ref name="day"/><ref name=hm/> He began publishing fiction in 2002. His first published work was "Carthaginian Rose", a short story on [[mind uploading]] which was published alongside nine other authors in ''[[The Phobos Science Fiction Anthology Volume 1]]''.<ref>{{cite web |last1=Liu |first1=Ken |title=Carthaginian Rose |url=https://kenliu.name/stories/carthaginian-rose/ |website=Ken Liu, Writer |archive-url=https://web.archive.org/web/20191214061409/https://kenliu.name/stories/carthaginian-rose/ |archive-date=14 December 2019 |access-date=14 December 2019}}</ref>
+
+Liu says he wanted to become a writer so he could make stories that “turn values upside down and inside out to gain new perspectives.”<ref name="wbur.org">{{Cite web|title=Modern Mythmaking In Ken Liu's 'The Hidden Girl And Other Stories'|url=https://www.wbur.org/artery/2020/02/24/ken-liu-the-hidden-girl-and-other-stories|access-date=2020-12-07|website=www.wbur.org|language=en}}</ref>
+
+After a long career writing and publishing short fiction, Liu turned to epic fantasy novels, starting with ''The Grace of Kings'' in 2015.<ref>{{cite web |title=Interview: Ken Liu |url=http://www.lightspeedmagazine.com/nonfiction/interview-ken-liu/ |website=Lightspeed |access-date=15 March 2019}}</ref> He has also written for the ''[[Star Wars]]'' universe, with ''The Legends of Luke Skywalker'' in 2017.<ref>{{cite web |title=Interview on The Legends of Luke Skywalker |url=https://www.starwars.com/news/ken-liu-exploring-perfect-mythic-figure-the-legends-of-luke-skywalker |website=StarWars.com |access-date=15 March 2019}}</ref>
+
+Along with his original work, Liu has translated the works of multiple Chinese authors into English, including [[w: Liu Cixin|Liu Cixin]], [[w:Hao Jingfang|Hao Jingfang]], [[w: Chen Qiufan|Chen Qiufan]], and [[w:Xia Jia|Xia Jia]].<ref>{{cite web |title=Chinese SF and the art of translation |url=http://blogs.nature.com/futureconditional/2016/08/20/chinese-sf-and-the-art-of-translation-a-qa-with-ken-liu/ |website=Nature.com |access-date=15 March 2019}}</ref> His translation of ''[[w: The Three-Body Problem (novel)|The Three Body Problem]]'' by Liu Cixin helped the book become a best seller to English readers.<ref>{{cite web |title=How Ken Liu went from engineer to lawyer to SF writer to the foremost translator of Chinese sf into English| url=https://boingboing.net/2019/12/04/rod-serling-w-chinese-characte.html |website= boingboing.net |access-date=6 December 2019}}</ref> He also has worked on editing works. While editing the anthology ''Invisible Planets'', Ken Liu translated the stories contained within it from Chinese into English.<ref>{{cite web|url=https://electricliterature.com/ken-liu-will-keep-an-open-mind/|title=Ken Liu Will Keep an Open Mind|website=electricliterature.com|access-date=6 December 2019}}</ref>
+
+Some of Liu's work have been adapted into visual media. "Memories of My Mother," a short story, was the basis of "Beautiful Dreamer" by David Gaddie.<ref>{{cite web |url=https://www.imdb.com/title/tt4794788/ |title=Beautiful Dreamer (2016) |website=[[IMDb]] |access-date=15 March 2019}}</ref> "Real Artists," a short story, was adapted into a short film by Cameo Wood.<ref>{{cite web |url=https://www.imdb.com/title/tt5648094/ |title=Real Artists (2017) |website=[[IMDb]]}}</ref> "Good Hunting," a short story, was adapted into an animated short as part of [[Netflix]]'s ''[[Love, Death & Robots]]'' series in 2019.
+
+Liu's short story collection, “The Hidden Girl and Other Stories” published in 2020, explores ideas such as tradition and progress, the fallibility of memory, and the essence of what it means to be human.<ref name="wbur.org"/>
+
+Liu now lives with his family near [[Bolton, Massachusetts|Boston, Massachusetts]].<ref>{{Cite web|title=About|url=https://kenliu.name/about/#more-2|access-date=2020-12-07|website=kenliu.name}}</ref>
+
+==Awards==
+
+Liu's short story "[[The Paper Menagerie]]" is the first work of fiction, of any length, to win all of the Nebula, Hugo, and World Fantasy Awards.<ref name="strangehorizons">{{cite web |url=http://www.strangehorizons.com/2013/20130325/1reid-a.shtml |title=Not Just Vast Armies Clashing on Dark Plains at Night: An Interview with Ken Liu |first=Luc |date=2013-03-25 |last=Reid |work=[[Strange Horizons]] |access-date=2013-05-15 |url-status=live |archive-url=https://web.archive.org/web/20130530105508/http://www.strangehorizons.com/2013/20130325/1reid-a.shtml |archive-date=2013-05-30 }}</ref> In addition, his short story, "Mono no aware" won the 2013 [[Hugo Award]],<ref name=hugo2013>{{cite web |url=http://www.thehugoawards.org/hugo-history/2013-hugo-awards/ |title=2013 Hugo Awards |date=22 December 2012 |access-date=4 September 2013 }}</ref><ref name=2013guardian>{{cite web |url=https://www.theguardian.com/books/booksblog/2013/sep/02/hugo-awards-2013-science-fiction |title=The Hugo awards: 'beauty contest' or prize of the people? |author=David Barnett |work=[[The Guardian]] |date=2 September 2013 |access-date=4 September 2013 }}</ref> and his novella "The Man Who Ended History: A Documentary" was also nominated for a Hugo.<ref name="hugo2012">{{cite web |url=http://www.thehugoawards.org/hugo-history/2012-hugo-awards/ |title=2012 Hugo Awards |date=7 April 2012 |access-date=4 September 2013 |url-status=live |archive-url=https://www.webcitation.org/66nnsGGRI?url=http://www.thehugoawards.org/hugo-history/2012-hugo-awards/ |archive-date=9 April 2012 }}</ref> The first novel in his ''The Dandelion Dynasty'' series, ''The Grace of Kings'', was a 2016 [[Nebula Award]] finalist.<ref>{{Cite web|url=http://www.sfwa.org/2016/05/nebula-award-winners-announced-3/|title = Nebula Award Winners Announced|date = 15 May 2016}}</ref> The novel was the 2016 [[Locus Award]] Best First Novel winner.<ref>{{cite web |title=2016 Locus Award Winners |url=https://locusmag.com/2016/06/2016-locus-awards-winners/ |website=locusmag.com |date=25 June 2016 |access-date=15 March 2019}}</ref>
+
+Besides his original work, Liu's translation of [[Liu Cixin]]'s [[Chinese language]] novel ''[[The Three-Body Problem (novel)|The Three-Body Problem]]'' (the first in the ''[[Remembrance of Earth's Past]]'' trilogy) won the 2015 [[Hugo Award for Best Novel]], making it the first translated novel to have won the award.<ref name=hugo2015>{{cite web |url=http://www.thehugoawards.org/hugo-history/2015-hugo-awards/ |title=2015 Hugo Awards |date=31 March 2015 |access-date=2015-08-23 }}</ref> Liu also translated the third volume of the ''Remembrance of Earth's Past'' series, ''[[Death's End]],'' in 2016, which was a 2017 [[Hugo Award for Best Novel]] finalist.
+
+One of Liu’s short stories, “[https://slate.com/technology/2019/01/thoughts-and-prayers-ken-liu-short-story.html Thoughts and Prayers],” is a part of Jonathan Strahan’s The Year’s Best Science Fiction (2020), Vol 1.
+
+===Winner===
+*2017 [[Locus Award]] for Best Collection, winner, The Paper Menagerie and Other Stories<ref>{{cite web |title=2017 Locus Award Winners |url=https://locusmag.com/2017/06/do-not-touch-2017-locus-awards-winners/ |website=locusmag.com |date=24 June 2017 |access-date=15 March 2019}}</ref>
+*2016 [[Locus Award]] for Best First Novel, winner, The Grace of Kings<ref>{{cite web |title=2016 Locus Award Winners |url=https://locusmag.com/2016/06/2016-locus-awards-winners/ |website=locusmag.com |date=25 June 2016 |access-date=15 March 2019}}</ref>
+*2015 [[Hugo Award for Best Novel]], winner, "[[The Three-Body Problem (novel)|The Three-Body Problem]] (三体)" by Cixin Liu, translated by Ken Liu<ref>{{Cite web|title = 2015 Hugo Awards|url = http://www.thehugoawards.org/hugo-history/2015-hugo-awards/|website = The Hugo Awards|date = 31 March 2015|access-date = 2015-10-11|language = en}}</ref>
+*2015 [[Sidewise Award for Alternate History]], winner, "The Long Haul: From the Annals of Transportation, The Pacific Monthly, May 2009"
+*2013 [[Hugo Award for Best Short Story]], winner, "Mono no aware"
+*2013 [[FantLab's Book of the Year Award|FantLab's Book of the Year Award for best Translated Novella or Short Story]], winner, "Mono no aware"
+*2013 [[FantLab's Book of the Year Award|FantLab's Book of the Year Award for best On-line publication in Small Form']], winner, "[[The Paper Menagerie]]"
+*2012 [[Science Fiction & Fantasy Translation Awards]], Short Form winner, translation from the Chinese of "[http://clarkesworldmagazine.com/chen_08_11/ The Fish of Lijiang]" by Chen Qiufan<ref>{{cite web |url=http://www.sfftawards.org/?p=591 |title=2012 Winners |publisher=sfftawards.org |access-date=June 1, 2012}}</ref>
+*2012 [[World Fantasy Award for Best Short Fiction]], winner, "[[The Paper Menagerie]]"
+*2012 [[Hugo Award for Best Short Story]], winner, "[[The Paper Menagerie]]"
+*2011 [[Nebula Award for Best Short Story]], winner, "[[The Paper Menagerie]]"
+
+===Nominated or finalist===
+*2020 [[Locus Award for Best Short Story]], finalist, "Thoughts and Prayers"<ref>{{cite web|website=Tor.com |title=Announcing the 2020 Locus Awards Finalists |url=https://www.tor.com/2020/05/29/announcing-the-2020-locus-awards-finalists/#more-589134 |date=2020-05-29 |access-date=2020-05-29}}</ref>
+*2017 [[Hugo Award for Best Novel]], finalist, "[[Death's End]]" by Cixin Liu, translated by Ken Liu<ref>{{Cite web|title = 2017 Hugo Awards|url = http://www.thehugoawards.org/hugo-history/2017-hugo-awards/|website = The Hugo Awards|date = 31 December 2016|access-date = 2017-10-11|language = en}}</ref>
+*2017 [[World Fantasy Convention|World Fantasy Award]], nominee, ''The Paper Menagerie and Other Stories'', Best Collection
+*2015 [[Locus Award]] for Best Novella, finalist, "The Regular"<ref>{{Cite web|title = Locus Online News » 2015 Locus Awards Finalists|url = http://www.locusmag.com/News/2015/05/2015-locus-awards-finalists/|website = www.locusmag.com|date = 4 May 2015|access-date = 2015-10-11}}</ref>
+*2015 [[Theodore Sturgeon Award]], finalist, "The Regular"<ref>{{Cite web|title = Gunn Center for the Study of Science Fiction News and Events|url = http://www.sfcenter.ku.edu/sturgeon-finalists.htm|website = Gunn Center for the Study of Science Fiction|access-date = 2015-10-11}}</ref>
+*2014 [[Nebula Award for Best Novel]], nominee, "The Three-Body Problem (三体)" by Cixin Liu, translated by Ken Liu<ref>{{Cite web|title = 2014 Nebula Awards Nominees Announced|url = http://www.sfwa.org/2015/02/2014-nebula-awards-nominees-announced/|website = SFWA|date = 20 February 2015|access-date = 2015-10-11}}</ref>
+*2014 [[Nebula Award for Best Novella]], nominee, "The Regular"<ref>{{Cite web|title = 2014 Nebula Awards Nominees Announced|url = http://www.sfwa.org/2015/02/2014-nebula-awards-nominees-announced/|website = SFWA|date = 20 February 2015|access-date = 2015-10-11}}</ref>
+*2014 [[Sidewise Award for Alternate History]], nominee, "A Brief History of the Trans-Pacific Tunnel"<ref>{{cite news|url=http://www.locusmag.com/News/2014/06/2014-sidewise-award-finalists/ |title=2014 Sidewise Award Finalists |publisher=Locus|date=2014-06-06 |access-date=2014-06-06}}</ref>
+*2014 [[Locus Award]] for Best Short Story, finalist, "A Brief History of the Trans-Pacific Tunnel"<ref>{{Cite web|title = Locus Online News » 2014 Locus Awards Finalists|url = http://www.locusmag.com/News/2014/05/2014-locus-awards-finalists/|website = www.locusmag.com|date = 7 May 2014|access-date = 2015-10-11}}</ref>
+*2013 [[Locus Award]] for Best Short Story, finalist, "Mono no aware"
+*2013 [[Nebula Award for Best Novelette]], nominee, "''The Litigation Master and the Monkey King"
+*2013 [[Theodore Sturgeon Award]], finalist, "The Bookmaking Habits of Select Species" and "Mono no aware"
+*2012 [[Nebula Award for Best Short Story]], nominee, "The Bookmaking Habits of Select Species"<ref>{{Cite web|title = 2012 Nebula Awards Nominees Announced|url = https://www.sfwa.org/2013/02/2012-nebula-awards-nominees-announced/|website = SFWA|date = 20 February 2013|access-date = 2015-10-11}}</ref>
+*2012 [[Nebula Award for Best Novelette]], nominee, "The Waves"
+*2012 [[Nebula Award for Best Novella]], nominee, "All the Flavors"
+*2012 [[Theodore Sturgeon Award]], finalist, "The Man Who Ended History: A Documentary" and "[[The Paper Menagerie]]"
+*2012 [[Locus Award]] for Best Short Story, finalist, "[[The Paper Menagerie]]"
+*2012 [[Hugo Award for Best Novella]], nominee, "The Man Who Ended History: A Documentary"
+*2011 [[Nebula Award for Best Novella]], nominee, "The Man Who Ended History: A Documentary"
+
+==Original works==
+===Novels===
+====The Dandelion Dynasty====
+#{{cite book |url=https://archive.org/details/graceofkings0000liuk |title=The Grace of Kings |publisher=Saga Press |year=2015 |isbn=9781481424271 |url-access=registration }}
+#{{cite book |url=http://www.simonandschuster.com/books/The-Wall-of-Storms/Ken-Liu/The-Dandelion-Dynasty/9781481424301 |title=The Wall of Storms |publisher=Saga Press |year=2016 |isbn=9781481424301 }}
+#{{cite book |url=https://www.simonandschuster.com/books/The-Veiled-Throne/Ken-Liu/The-Dandelion-Dynasty/9781481424332 |title=The Veiled Throne |publisher=Saga Press |year=2021 |isbn=9781481424332 }}
+#Speaking Bones. Saga Press. 2022.<ref>https://twitter.com/kyliu99/status/1281957354595115010?s=20 {{Bare URL inline|date=November 2021}}</ref><ref>{{Cite web|url=https://kenliu.substack.com/p/dandelion-dynasty-concludes-in-2021|title = Dandelion Dynasty Concludes in 2021}}</ref>
+
+====Misc.====
+*{{cite book |url=https://books.disney.com/book/legends-luke-skywalker/ |title=The Legends of Luke Skywalker |publisher=Disney LucasFilm Press |year=2017 |isbn=978-1-4847-8077-0}}
+
+===Collections===
+*{{cite book |last1=Liu |first1=Ken |title=The Paper Menagerie and Other Stories |date=October 4, 2016 |publisher=Simon & Schuster |isbn=978-1481424363 |url=https://www.simonandschuster.com/books/The-Paper-Menagerie-and-Other-Stories/Ken-Liu/9781481424363}}
+*{{cite book |last1=Liu |first1=Ken |title=The Hidden Girl and Other Stories |date=February 25, 2020 |publisher=Simon & Schuster |isbn=978-1982134037 |url=https://www.simonandschuster.com/books/The-Hidden-Girl-and-Other-Stories/Ken-Liu/9781797102221}}
+
+===Short stories===
+<!-- Move entries below to table format below -->
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+!|Notes
+|-
+|The waves
+|2012
+|{{cite journal |author=Liu, Ken |date=December 2012 |title=The waves |journal=Asimov's Science Fiction |volume=36 |issue=12 |pages=38–51}}
+| 
+|Novelette
+|-
+|The oracle
+|2013
+|{{cite journal |author=Liu, Ken |date=Apr–May 2013 |title=The oracle |journal=Asimov's Science Fiction |volume=37 |issue=4&5 |pages=144–152}}
+| 
+|
+|-
+|The plantimal
+|2014
+|{{cite journal |author1=Resnick, Mike |author-link1=Mike Resnick |author2=Ken Liu |name-list-style=amp |date=March 2014 |title=The plantimal |journal=Asimov's Science Fiction |volume=38 |issue=3 |pages=13–24}}
+|
+|
+|}
+
+==== "Thoughts and Prayers" (2019) ====
+
+=== Other short stories ===
+* The Cleaners, December 15, 2020<ref>{{Cite web|last=Liu|first=Ken|title=A Time to Reflect|url=https://kenliu.substack.com/p/a-time-to-reflect|access-date=2020-12-07|website=kenliu.substack.com}}</ref> is a magic realist story about cleansing memories.
+*"The Sith of Datawork", ''From a Certain Point of View (Star Wars)'', October 3, 2017
+* "The Long Haul: From the Annals of Transportation, The Pacific Monthly, May 2009" [http://clarkesworldmagazine.com/liu_11_14/ (online)], ''[[Clarkesworld Magazine]]'', November 2014
+* "Presence" [http://uncannymagazine.com/article/presence/ (online)], ''Uncanny'', November/December 2014
+* "Saboteur", ''[[Analog Science Fiction and Fact|Analog]]'', December 2014
+* "The Regular", ''Upgraded'', edited by Neil Clarke, September 2014
+* "The Gods Will Not Be Slain", ''The End is Now'' (Book II of the ''Apocalypse Triptych''), edited by John Joseph Adams and Hugh Howey, September 2014
+* "Running Shoes" [http://sqmag.com/2014/08/31/edition-16-running-shoes-by-ken-liu/ (online)], ''SQ Mag'', Issue 16, September 2014
+* "Homo Florensis", ''Solaris Rising 3'', August 2014
+* "In the Loop", ''War Stories'', edited by Andrew Liptak and Jaym Gates, August 2014
+* "Seventh Day of the Seventh Moon" [http://www.tor.com/stories/2014/12/seventh-day-of-the-seventh-moon-ken-liu-reprint (online)], ''Kaleidoscope'', edited by Alisa Krasnostein and [[Julia Rios]], August 2014
+* (with Lisa Tang Liu) "Hark! Listen to the Animals", ''Galaxy's Edge'', Issue 9, July 2014
+* "What I Assume You Shall Assume", ''Dead Man's Hand'', edited by John Joseph Adams, May 2014
+* "Knotting Grass, Holding Ring", ''Long Hidden'', edited by Rose Fox and [[Daniel José Older]], May 2014
+* "Lecture 14: Concerning the Event Cloaking Device and Practical Applications Thereof" [http://beta.cosmosmagazine.com/physical-sciences/event-cloak (online)], ''Cosmos'', April 2014
+* "The Ten Suns", ''Dark Expanse: Surviving the Collapse'', March 2014
+* "The Gods Will Not Be Chained", ''The End is Nigh'' (Book I of the ''Apocalypse Triptych''), edited by John Joseph Adams and Hugh Howey, March 2014
+* "None Owns the Air", ''Lightspeed Magazine'', February 2014
+* "What Is Expected of a Wedding Host" [http://dailysciencefiction.com/science-fiction/aliens/ken-liu/what-is-expected-of-a-wedding-host (online)], ''Daily Science Fiction'', February 2014
+* "The Reborn" [http://www.tor.com/stories/2014/01/reborn-ken-liu (online)], Tor.com, January 2014
+* "Second Chance" [http://www.nature.com/nature/journal/v505/n7483/full/505448a.html (online)], ''[[Nature (journal)|Nature]]'', January 2014
+* "The Clockwork Soldier" [http://clarkesworldmagazine.com/liu_01_14 (online)], ''[[Clarkesworld Magazine]]'', January 2014
+* "You'll Always Have the Burden With You", republished, [[Perihelion Science Fiction]], December 2013
+* "The Litigation Master and the Monkey King" [http://www.lightspeedmagazine.com/fiction/the-litigation-master-and-the-monkey-king/ (online)], ''[[Lightspeed Magazine]]'', August 2013
+* "The Plague", ''[[Nature (journal)|Nature]]'', May 16, 2013
+* "The Messenger's Tale", ''Aoife's Kiss'', Issue 43, Winter 2012/2013 issue, December 2012
+* "The Perfect Match" [http://www.lightspeedmagazine.com/fiction/the-perfect-match/ (online)], ''[[Lightspeed Magazine]]'', December 2012
+* "Good Hunting", [https://web.archive.org/web/20121120182707/http://strangehorizons.com/fund_drives/2012/special-issue-hunting1-f.shtml (online)], ''[[Strange Horizons]]'', October 9, 2012
+* "The Perfect Book", ''[[Analog Science Fiction and Fact|Analog]]'', December 2012 issue, September 22, 2012
+* "Arc", ''[[F&SF]]'', September/October issue, September 2012
+* "Summer Reading", ''[[Daily Science Fiction]]'', September 4, 2012
+* "Cutting", ''[[Electric Velocipede]]'', Issue 24, July 30, 2012
+* "You'll Always Have the Burden With You", ''In Situ'', Dagan Books, July 10, 2012
+* "Dear Emily", ''The Memory Eater Anthology'', July 5, 2012
+* "The Silk Merchant", ''[[Apex Magazine|Apex]]'', Issue 38, July 3, 2012
+* "Celestial Bodies", ''[[Nature (journal)|Nature]]'', June 28, 2012
+* "Real Faces", ''[[F&SF]]'', July/August issue, June 22, 2012
+* "The Illusionist" [http://goldfishgrimm.com/back-issues/issue-4-uncertain-principles/the-illusionist-ken-liu/ (online)], ''Goldfish Grimm's Spicy Fiction Sushi'', Issue 4, June 2, 2012
+* "Mono no aware", ''The Future is Japanese'', May 15, 2012; republished [http://www.lightspeedmagazine.com/fiction/mono-no-aware/ (online)], ''[[Lightspeed Magazine]]'', June 2013
+* "The Tome of Tourmaline" [http://dailysciencefiction.com/fantasy/fantasy/ken-liu/the-tome-of-tourmaline (online)], ''[[Daily Science Fiction]]'', May 9, 2012
+* "The Shadowcrafter", ''Nine'', Issue 1, April 2012
+* "Intelligent Design" [http://www.schrodingersmouse.com/intelligent_design_by_ken_liu.html (online)], ''Schrodinger's Mouse'', April 2012
+* "Monkeys" [http://www.nature.com/nature/journal/v484/n7394/full/484410a.html?WT.ec_id=NATURE-20120419 (online)], ''Nature's'' * "Futures" feature, April 19, 2012
+* "To the Moon", ''Fireside'', April 17, 2012
+* "Memories of My Mother" [http://dailysciencefiction.com/science-fiction/time-travel/ken-liu/memories-of-my-mother (online)], ''[[Daily Science Fiction]]'', March 19, 2012
+* "All the Flavors" [http://giganotosaurus.org/2012/02/ (online)], GigaNotoSaurus, February 2012
+* "The Five Elements of the Heart Mind" [http://www.lightspeedmagazine.com/fiction/the-five-elements-of-the-heart-mind/ (online)], ''[[Lightspeed Magazine]]'', January 24, 2012
+* "Maxwell's Demon", ''[[The Magazine of Fantasy & Science Fiction]]'', January/February 2012
+* "The People of Pele", ''[[Asimov's]]'', February 2012
+* "The Last Summer", ''10 Flash'', January 2012
+* "The Necrocracy", ''Penumbra'', December 2011
+* "The Countable", ''[[Asimov's]]'', December 2011
+* "Justice FAIRBOT", ''140 And Counting'', edited by Joanne Merriam, December 11, 2011
+* "Life Plus Seventy" [http://www.kasmamagazine.com/seventy.html (online)], '' Kasma SF'', November 23, 2011
+* "Safe Empathy", ''[[Daily Science Fiction]]'', November 21, 2011
+* "Staying Behind" [http://clarkesworldmagazine.com/liu_10_11/ (online)], ''[[Clarkesworld Magazine]]'', October 1, 2011
+* "Golden Years in the Paleozoic", ''[[Andromeda Spaceways Inflight Magazine]]'', Issue #52, September 2011
+* "Real Artists", TRSF (September 2011), a special publication of MIT's ''Technology Review''
+* "The Last Seed" [http://dailysciencefiction.com/story/ken-liu/the-last-seed (online)], ''[[Daily Science Fiction]]'', September 26, 2011
+* "The Man Who Ended History: A Documentary", ''Panverse Three'', edited by Dario Ciriello, September 2011
+* "Music of the Spheres", ''Mirror Shards: Exploring the Edges of Augmented Reality (Volume One)'', 2011
+* "The Box That Eats Memories" [http://dailysciencefiction.com/story/ken-liu/the-box-that-eats-memories (online)], ''[[Daily Science Fiction]]'', August 10, 2011
+* "Hark! Listen to the Animals", ''The ePocalypse: e-mails at the end'', co-written with Lisa Tang Liu, August 2011
+* "The Caretaker", ''Digital Science Fiction'', June 2011
+* "Altogether Elsewhere, Vast Herds of Reindeer", ''[[The Magazine of Fantasy & Science Fiction]]'', May/June 2011.
+* "[[The Paper Menagerie]]"  ''[[The Magazine of Fantasy & Science Fiction]]'', March/April 2011.
+* "Ad Block", [https://www.kasmamagazine.com/ad-block.html (online)], '' Kasma SF'', March 19, 2011
+* "The Visit" [https://web.archive.org/web/20110315204157/http://www.onthepremises.com/issue_13/story_13_1.html (online)], ''On the Premises'', March 2011 (Issue 13)
+* "Simulacrum" [http://www.lightspeedmagazine.com/fiction/simulacrum/ (online)], ''[[Lightspeed Magazine]]'', February 15, 2011
+* "To the Stars" [http://www.nature.com/nature/journal/v470/n7332/full/470134a.html (online)], ''Nature's'' * "Futures" feature, co-written with Shelly Li, February 3, 2011
+* "The Chase", ''[[Every Day Fiction]]'', January 28, 2011
+* "Tying Knots" [http://clarkesworldmagazine.com/liu_01_11/ (online)], ''[[Clarkesworld Magazine]]'', January 2011
+* "Saving Face" [http://crossedgenres.com/archives/026-opposites/saving-face-by-shelly-li-and-ken-liu/ (online)], ''Crossed Genres'', co-written with Shelly Li, January 1, 2011
+* "The Letter" [http://www.everydayfiction.com/the-letter-by-ken-liu/ (online)], ''[[Every Day Fiction]]'', December 5, 2010
+* "The Literomancer", ''[[The Magazine of Fantasy & Science Fiction]]'', September/October 2010
+* "The Phoenix" [https://web.archive.org/web/20121014024818/http://www.onthepremises.com/issue_11/story_11_1.html (online)], ''On the Premises'', July 2010 (Issue 11)
+* "Beidou (??)", ''The Dragon and the Stars'', edited by Derwin Mak and Eric Choi, May 2010.
+* "Single-Bit Error", ''Thoughtcrime Experiments'', edited by Sumana Harihareswara and Leonard Richardson, 2009 (read) (buy); International Speculative Fiction, edited by Roberto Mendes, December 2013;
+* "Beneath the Language"  [https://web.archive.org/web/20100119084740/http://www.onthepremises.com/Issues_assets/On%20The%20Premises%20Issue%2002.pdf (online)], ''On the Premises'', July 2007 (Issue 2)
+* "State Change", ''Polyphony 4'', edited by Deborah Layne and Jay Lake, September 2004.
+* "The Algorithms for Love" [http://www.strangehorizons.com/2004/20040712/algorithms.shtml (online)], ''[[Strange Horizons]]'', July 2004; International Speculative Fiction, edited by Roberto Mendes, July 2012;
+* "Gossamer", ''Writers of the Future, Vol. 19'', 2003.
+* "Carthaginian Rose", ''Empire of Dreams and Miracles: [[The Phobos Science Fiction Anthology Volume 1]]'', edited by Orson Scott Card and Keith Olexa, 2002.
+* "The Ussuri Bear" [http://www.lightspeedmagazine.com/fiction/the-ussuri-bear/ (online)], Originally published in ''THE BEAST WITHIN 4'', edited by Jennifer Brozek, 2014
+
+=== Upcoming novels and stories ===
+
+The Veiled Throne, November 2, 2021.<ref>{{Cite web|title=The Veiled Throne|url=https://kenliu.name/blog/book/the-veiled-throne/|access-date=2020-12-07|website=kenliu.name}}</ref>
+
+Speaking Bones April 2022<ref>{{Cite web|last=Liptak|first=Andrew|date=2020-09-14|title=Ken Liu Provides Update on Next Dandelion Dynasty Novels|url=https://www.tor.com/2020/09/14/ken-liu-provides-update-on-next-dandelion-dynasty-novels/|access-date=2020-12-07|website=Tor.com|language=en-US}}</ref>
+
+==Notable English-language translations==
+===[[Remembrance of Earth's Past]] Series===
+* Book 1: ''[[The Three-Body Problem (novel)|The Three-Body Problem]]'', Tor Books, November 2014 (originally the [[Chinese language]] novel ''Three Body'', 三体, 2008, by [[Liu Cixin]])
+* Book 3: ''[[Death's End]]'', Tor Books, September 2016 by Liu Cixin (originally the [[Chinese language]] novel ''Death's End'', 死神永生, 2010 by Liu Cixin)
+* Book 4: ''[[The Redemption of Time]]'', Tor Books, 2019 by Baoshu (originally a Chinese fanfic by Li Jun that was regularized by the original publisher Chongqing Press and series creator Cixin Liu; and published in 2011)<ref name=Verge-2018-10-19>{{cite magazine |url= https://www.theverge.com/2018/10/19/17990984/redemption-of-time-baoshu-cixin-liu-three-body-problem-science-fiction-book-cover-reveal |title= How a fan fiction for Cixin Liu's Three-Body Problem became an official novel |author= Andrew Liptak |date= 19 October 2018 |magazine= The Verge }}</ref>
+
+===Anthologies===
+* ''Invisible Planets'', Tor Books, November 2016
+* ''Broken Stars'', Tor Books, February 2019
+
+==Additional English-language translations==
+* "Vagabonds" by Hao Jingfang, April 2020
+* "Waste Tide" by Chen Quifan, April 2019 
+* "Fields of Gold" by Liu Cixin, May 2018
+* "The Robot Who Liked to Tell Tall Tales" by Fei Dao, [http://clarkesworldmagazine.com/fei_04_17/], ''[[Clarkesworld Magazine]]'', April 2017
+* "The Snow of Jinyang" by Zhang Ran, [http://clarkesworldmagazine.com/zhang_06_16/],''[[Clarkesworld Magazine]]'', June 2016
+* "The Flowers of Shazui" by Chen Qiufan, ''[[Interzone (magazine)|Interzone]]'', November 2012
+* "Taking Care of God" by Liu Cixin [https://archive.today/20130415063820/http://paper-republic.org/pubs/pathlight/2012-1/ (online)], ''[[Pathlight (magazine)|Pathlight]]'', March 2012
+* "A Hundred Ghosts Parade Tonight" by [[Xia Jia]] [http://clarkesworldmagazine.com/xia_02_12/ (online)], ''[[Clarkesworld Magazine]]'', February 2012
+* "The City of Silence" by Ma Boyong
+* "The Mark Twain Robots" by Ma Boyong, TRSF (September 2011), a special publication of MIT's ''Technology Review''
+* "The Fish of Lijiang" by Chen Qiufan [http://clarkesworldmagazine.com/chen_08_11/ (online)], ''[[Clarkesworld Magazine]]'', August 2011
+*"Gathered in Translation", an essay on  the process and subtleties of translating Chinese SF to English, and the reverse: [http://clarkesworldmagazine.com/liu_04_13/  online] at ''[[Clarkesworld Magazine]]'', April 2013
+
+==Liu's works in translation==
+Many of Liu's short stories have been translated into Chinese, Japanese, French, Spanish, and multiple other languages and published in short stories collections:<ref>{{cite web|url=http://kenliu.name/stories/foreign-language-collections/ |title=Foreign Language Collections }}</ref>
+
+;Chinese
+* 爱的算法 ("Algorithms for Love and Others"), published by SFW Publishing, September 5, 2012
+* 思维的形状 ("The Shape of Thought and Others"), published by [[Tsinghua University]] Press, November 11, 2014
+* 杀敌算法 ("In the Loop and Others"), published by SFW Publishing, March, 2015
+* 奇点遗民 ("Staying behind")，published by Baror international, inc. Armonk New York, U.S.A, 2017
+
+;Japanese
+* 紙の動物園, published by [[SF Magazine|Hayakawa]], edited by 古沢嘉通 (Yoshimichi Furusawa), April 2015
+
+;French
+*  La Ménagerie de papier ("[[The Paper Menagerie]]") published by Editions du Bélial, edited by Ellen Herzfeld and Dominique Martel, 2015.
+*  Jardins de poussière ("Dust gardens") published by Editions du Bélial, edited by Ellen Herzfeld and Dominique Martel, 2019.
+
+;Spanish
+*  El zoo de papel y otros relatos ("[[The Paper Menagerie]]") published by Runas, Alianza Editorial, edited by María Pilar San Román Navarro, 2017.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official|kenliu.name}}
+* {{isfdb name}}
+* [http://www.sf-encyclopedia.com/entry/liu_ken " Liu, Ken"] (''[[The Encyclopedia of Science Fiction]]''; by [[Jonathan Clements]])
+* [https://www.nytimes.com/2019/12/03/magazine/ken-liu-three-body-problem-chinese-science-fiction.html Ken Liu profile], NY Times Dec. 3, 2019.  Focuses on his translations of Chinese SF.
+
+{{Hugo Award Best Novel}}
+{{Hugo Award Best Short Story 2001–2020}}
+{{Nebula Award for Best Short Story}}
+{{World Fantasy Award Best Short Fiction}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Liu, Ken}}
+[[Category:1976 births]]
+[[Category:Living people]]
+[[Category:American male novelists]]
+[[Category:American male poets]]
+[[Category:American male short story writers]]
+[[Category:American science fiction writers]]
+[[Category:American short story writers]]
+[[Category:American speculative fiction translators]]
+[[Category:American writers of Chinese descent]]
+[[Category:Asimov's Science Fiction people]]
+[[Category:Chinese–English translators]]
+[[Category:Harvard College alumni]]
+[[Category:Harvard Law School alumni]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Nebula Award winners]]
+[[Category:Sidewise Award winners]]
+[[Category:World Fantasy Award-winning writers]]

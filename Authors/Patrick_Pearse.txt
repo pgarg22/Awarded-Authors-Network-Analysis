@@ -1,0 +1,229 @@
+{{Short description|Irish revolutionary, shot by the British Army in 1916}}
+{{Use Irish English|date=December 2018}}
+{{Use dmy dates|date=December 2018}}
+{{Infobox person
+| image         = Patrick Pearse cph.3b15294.jpg
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| native_name   = Pádraig Anraí Mac Piarais
+| birth_name    = Patrick Henry Pearse
+| birth_date    = {{Birth date|df=y|1879|11|10}}
+| birth_place   = [[Dublin]], Ireland
+| death_date    = {{Death date and age|df=y|1916|5|3|1879|11|10}}
+| death_place   = [[Kilmainham Gaol]], Dublin, Ireland
+| restingplace  = [[Arbour Hill Prison]]
+| parents       = James Pearse<br>[[Margaret Pearse|Margaret Brady]]
+| other_names   = Pádraig Pearse
+| occupation    = {{flatlist|
+* Educator
+* principal
+* barrister
+* republican activist
+* poet
+}}
+| education     = CBS Westland Row
+| alma_mater    = [[University College Dublin]]<br>[[King's Inns]]
+| signature     = Signature of Patrick Pearse.png
+| module        = 
+  {{Infobox military person
+| embed        = yes
+| allegiance    = [[Irish Republican Brotherhood]]<br />[[Irish Volunteers]]
+| branch        = 
+| serviceyears  = 1913–1916
+| rank          = Commander-in-chief
+| unit          = 
+| commands      = 
+| battles       = [[Easter Rising]]
+}}
+}}
+'''Patrick Henry Pearse''' (also known as '''Pádraig''' or '''Pádraic Pearse'''; {{lang-ga|Pádraig Anraí Mac Piarais}}; 10 November 1879 – 3 May 1916) was an Irish teacher, [[barrister]], [[Irish poetry|poet]], writer, [[Irish nationalism|nationalist]], [[Irish republicanism|republican]] political activist and revolutionary who was one of the leaders of the [[Easter Rising]] in 1916. Following his execution along with fifteen others, Pearse came to be seen by many as the embodiment of the rebellion.
+
+==Early life and influences==
+[[File:Birthplace of Patrick and William Pearse.jpg|thumb|27 Pearse Street, birthplace of Patrick and Willie Pearse]]
+Pearse, his brother [[Willie Pearse|Willie]], and his sisters [[Margaret Mary Pearse|Margaret]] and Mary Brigid were born at 27 [[Pearse Street|Great Brunswick Street]], Dublin, the street that is named after them today.<ref>{{Cite journal | last = Thornley | first = David | title = Patrick Pearse and the Pearse Family | journal = Studies: An Irish Quarterly Review | volume = 60 | issue = 239/240  | pages = 332–346  | publisher = Irish Province of the Society of Jesus | location = Dublin | date = Autumn–Winter 1971 | jstor = 30088734 | issn = 0039-3495 }}</ref><ref>{{Cite book | last = Miller | first = Liam | title = The noble drama of W.B. Yeats | publisher = Dolmen Press | year = 1977 | location = Dublin | page = 33 | url = https://books.google.com/books?id=KapbAAAAMAAJ&q=%22pearse+street%22+patrick+willie | isbn = 978-0-391-00633-1 | access-date = 16 October 2016 | archive-date = 21 December 2019 | archive-url = https://web.archive.org/web/20191221123052/https://books.google.com/books?id=KapbAAAAMAAJ&q=%22pearse+street%22+patrick+willie | url-status = live }}</ref> It was here that their father, James Pearse, established a stonemasonry business in the 1850s,<ref>{{Cite book | last = Casey | first = Christine | title = Dublin: the city within the Grand and Royal Canals and the Circular Road with the Phoenix Park | publisher = [[Yale University Press]] | year = 2005 | location = New Haven and London | page = 62 | url = https://books.google.com/books?id=AQzYxvX_U8MC&pg=PA62 | isbn = 978-0-300-10923-8 | access-date = 3 October 2020 | archive-date = 18 April 2021 | archive-url = https://web.archive.org/web/20210418120338/https://books.google.com/books?id=AQzYxvX_U8MC&pg=PA62 | url-status = live }}</ref> a business which flourished and provided the Pearses with a comfortable middle-class upbringing.<ref>{{Cite book | last = Stevenson | first = Garth | title = Parallel paths: the development of nationalism in Ireland and Quebec | publisher = [[McGill-Queen's Press]] | year = 2006 | location = Montreal & Kingston | page = 189 | url = https://books.google.com/books?id=Sao_h6T4cB0C&pg=PA189 | isbn = 978-0-7735-3029-4 | access-date = 3 October 2020 | archive-date = 18 April 2021 | archive-url = https://web.archive.org/web/20210418114608/https://books.google.com/books?id=Sao_h6T4cB0C&pg=PA189 | url-status = live }}</ref> Pearse's father was a mason and monumental sculptor, and originally a [[Unitarianism|Unitarian]] from [[Birmingham]] in England.<ref>[http://www.ricorso.net/rx/az-data/authors/p/Pearse_P/life.htm Patrick Pearse: Life.] {{Webarchive|url=https://web.archive.org/web/20180108063851/http://www.ricorso.net/rx/az-data/authors/p/Pearse_P/life.htm |date=8 January 2018 }} ''Ricorso'', Bruce Stewart. Retrieved 7 January 2011.</ref> His mother, [[Margaret Pearse|Margaret Brady]], was from Dublin, and her father's family from [[County Meath]] were native Irish speakers. She was James' second wife; James had two children, Emily and James, from his first marriage (two other children died in infancy). Pearse's maternal grandfather Patrick was a supporter of the 1848 [[Young Ireland]] movement, and later a member of the [[Irish Republican Brotherhood]] (IRB). Pearse recalled a visiting ballad singer performing republican songs during his childhood; afterwards he went around looking for armed men ready to fight, but finding none, declared sadly to his grandfather that "the [[Fenians]] are all dead". His maternal grand-uncle, James Savage, fought in the [[American Civil War]].<ref>{{Cite book |title=16 Lives: Patrick Pearse |page=17}}</ref> The Irish-speaking influence of Pearse's grand-aunt Margaret, together with his schooling at the CBS Westland Row, instilled in him an early love for the [[Irish language]] and [[Culture of Ireland|culture]].<ref name=homelife>"The Home Life of Padraic Pearse" Edited by Mary Brigid Pearse. Published by Mercier press Dublin and Cork.</ref>
+
+Pearse grew up surrounded by books.<ref>{{Cite book | last = Walsh | first = Brendan | title = The pedagogy of protest: the educational thought and work of Patrick H. Pearse | publisher = Peter Lang | year = 2007 | location = Oxford | page = 12 | url = https://books.google.com/books?id=UA3fbLv1EQoC&pg=PA12 | isbn = 978-3-03910-941-8 | access-date = 3 October 2020 | archive-date = 18 April 2021 | archive-url = https://web.archive.org/web/20210418135609/https://books.google.com/books?id=UA3fbLv1EQoC&pg=PA12 | url-status = live }}</ref> His father had had very little formal education, but was self-educated;<ref>{{Cite web | last = Crowley | first = Brian | title = 'The strange thing I am': his father's son? | work = [[History Ireland]] | publisher = History Publications Ltd | year = 2009 | url = http://www.historyireland.com/volumes/volume14/issue2/news/?id=114021 | access-date = 5 December 2010 | archive-date = 20 March 2012 | archive-url = https://web.archive.org/web/20120320004027/http://www.historyireland.com/volumes/volume14/issue2/news/?id=114021 | url-status = live }}</ref>  Pearse was radicalised from an early age. He recalls that at the age of ten he prayed to God, promising Him he would dedicate his life to Irish independence.<ref>{{Cite book |title=16 Lives: Patrick Pearse |page=18}}</ref> Pearse's early heroes were ancient [[Irish mythology|Gaelic folk heroes]] such as [[Cúchulainn]], though in his 30s he began to take a strong interest in the leaders of past [[Irish republicanism|republican]] movements, such as the [[United Irishmen]] [[Theobald Wolfe Tone]] and [[Robert Emmet]].<ref>{{cite news |last1=Mitchell |first1=Angus |title=Robert Emmet and 1916 |url=https://www.historyireland.com/20th-century-contemporary-history/robert-emmet-and-1916/ |access-date=13 April 2021 |archive-date=18 April 2021 |archive-url=https://web.archive.org/web/20210418104034/https://www.historyireland.com/20th-century-contemporary-history/robert-emmet-and-1916/ |url-status=live }}</ref>
+
+Pearse soon became involved in the [[Gaelic revival]]. In 1896, at the age of 16, he joined the [[Gaelic League]] (''Conradh na Gaeilge''), and in 1903, at the age of 23, he became editor of its newspaper ''[[An Claidheamh Soluis]]'' ("''The Sword of Light''").<ref>{{Cite web |url=http://www.minerva.mic.ul.ie//vol1/pearse.html |title=Flanagan, Frank M., "Patrick H. Pearse", ''The Great Educators'', March 20, 1995 |access-date=12 March 2016 |archive-date=25 September 2012 |archive-url=https://web.archive.org/web/20120925125438/http://www.minerva.mic.ul.ie/vol1/pearse.html |url-status=live }}</ref>
+
+In 1900, Pearse was awarded a B.A. in Modern Languages (Irish, English and French) by the [[Royal University of Ireland]], for which he had studied for two years privately and for one at [[University College Dublin]]. In the same year, he was enrolled as a [[Barrister-at-Law]] at the [[King's Inns]].<ref>{{cite web|url=http://www.ucc.ie/celt/pearse.html|title=CELT: Chronology of Patrick Pearse, also known as Pádraig Pearse (Pádraig Mac Piarais)|website=ucc.ie|access-date=9 November 2008|archive-date=11 May 2009|archive-url=https://web.archive.org/web/20090511144732/http://www.ucc.ie/celt/pearse.html|url-status=live}}</ref> Pearse was called to the bar in 1901. In 1905, Pearse represented [[Neil McBride (poet)|Neil McBride]], a poet and songwriter from [[Creeslough|Feymore, Creeslough]], [[County Donegal|Donegal]], who had been fined for having his name displayed in "illegible" writing (i.e. Irish) on his donkey cart. The appeal was heard before the [[Court of King's Bench (England)|Court of King's Bench]] in Dublin. It was Pearse's first and only court appearance as a barrister. The case was lost but it became a symbol of the struggle for Irish independence. In his 27 June 1905 ''[[An Claidheamh Soluis]]'' column, Pearse wrote of the decision, "...it was in effect decided that Irish is a foreign language on the same level with Yiddish."<ref>{{Cite web|url=https://giveitsomesparkle.wordpress.com/2011/09/09/padraig-pearse-the-cart-and-an-old-song-book/|title=Padraig Pearse, the cart and an old song book|date=9 September 2011|website=Sparkle|access-date=10 April 2016|archive-date=6 September 2017|archive-url=https://web.archive.org/web/20170906041307/https://giveitsomesparkle.wordpress.com/2011/09/09/padraig-pearse-the-cart-and-an-old-song-book/|url-status=live}}</ref><ref>{{Cite journal|last=McGill|first=P.J.|year=1966|title=Pearse Defends Niall Mac Giolla Bhride in Court of King's Bench, Dublin|journal=Donegal Annual|volume=1966|pages=83–85 (from 27 June 1905 article written by Patrick Pearse)|via=Google Books}}</ref>
+
+==St Enda's==
+{{More citations needed section|date=December 2014}}
+[[File:Pearse Brother's Museum - St. Enda's Park.jpg|thumb|[[St. Enda's School|St. Enda's]], now the Pearse Museum ]]
+As a cultural nationalist educated by the [[Irish Christian Brothers]], like his younger brother Willie, Pearse believed that language was intrinsic to the identity of a nation. The Irish school system, he believed, raised Ireland's youth to be good [[England|Englishmen]] or obedient Irishmen, and an alternative was needed. Thus for him and other language revivalists saving the [[Irish language]] from extinction was a cultural priority of the utmost importance. The key to saving the language, he felt, would be a sympathetic education system. To show the way he started his own bilingual school for boys, [[St. Enda's School]] (Scoil Éanna) in Cullenswood House in [[Ranelagh]], a suburb of [[County Dublin]], in 1908.<ref name="nli">{{Cite web|url = http://www.nli.ie/1916/pdf/4.4.pdf|title = Patrick Pearse|work = The 1916 Rising: Personalities and Perspectives|year = 2006|publisher = National Library of Ireland|url-status = dead|archive-url = https://web.archive.org/web/20060519214523/http://www.nli.ie/1916/pdf/4.4.pdf|archive-date = 19 May 2006|df = dmy-all}}</ref> The pupils were taught in both Irish and English. Cullenswood House is now the home of a [[Gaelscoil]], Lios na nÓg.  With the aid of [[Thomas MacDonagh]], Pearse's younger brother [[Willie Pearse]], their mother and both Margaret and Mary Brigid Pearse, along with other (often transient) academics, it soon proved a successful experiment. Pearse did all he planned, and even took students on field trips to the [[Gaeltacht]] in the West of Ireland.
+
+Pearse's restless idealism led him in search of an even more idyllic home for his school. He found it in The Hermitage in [[Rathfarnham]], County Dublin, now home to the [[Pearse Museum]]. In 1910 Pearse wrote that the Hermitage was an "ideal" location due to the aesthetics of the grounds and that if he could secure it, "the school would be on a level with" the more established schools of the day such as "[[Clongowes Wood College]] and [[Castleknock College]]".<ref>{{Cite book|url=https://books.google.com/books?id=UA3fbLv1EQoC&q=patrick+pearse+clongowes&pg=PA288|title=The Pedagogy of Protest: The Educational Thought and Work of Patrick H. Pearse|last=Walsh|first=Brendan|date=2007|publisher=Peter Lang|isbn=978-3-03910-941-8|language=en|access-date=3 October 2020|archive-date=18 April 2021|archive-url=https://web.archive.org/web/20210418132447/https://books.google.com/books?id=UA3fbLv1EQoC&q=patrick+pearse+clongowes&pg=PA288|url-status=live}}</ref> Pearse was also involved in the foundation of St Ita's school for girls, a school with aims similar to those of St Enda's.<ref name="nli" /> However, the new home, while splendidly located in an 18th-century house surrounded by a park and woodlands, caused financial difficulties that almost brought Pearse to disaster. He strove continually to keep ahead of his debts while doing his best to maintain the school. In February 1914, he went on a fund-raising trip to the United States, where he met [[John Devoy]] and [[Joseph McGarrity]], both of whom were impressed by his fervour and supported him in raising sufficient money to secure the continued existence of the school.
+
+==The Volunteers and Home Rule==
+In April 1912 [[John Redmond]] leader of the [[Irish Parliamentary Party]], which held the balance of power in the [[British House of Commons|House of Commons]] committed the government of the [[United Kingdom of Great Britain and Ireland|United Kingdom]] to introducing an [[Irish Home Rule Bill]].  Pearse gave the Bill a qualified welcome. He was one of four speakers, including Redmond, [[Joseph Devlin]] MP, leader of the Northern Nationalists, and [[Eoin MacNeill]] a prominent Gaelic Leaguer, who addressed a large Home Rule Rally in Dublin at the end of March 1912.  Speaking in Irish, Pearse said he thought that "a good measure can be gained if we have enough courage", but he warned, "Let the English understand that if we are again betrayed, there shall be red war throughout Ireland."<ref>Ruth Dudley Edwards, ''Patrick Pearse: The Triumph of Failure,'' (1977) p. 159</ref>
+
+In November 1913 Pearse was invited to the inaugural meeting of the [[Irish Volunteers]]—formed in reaction to the creation of the [[Ulster Volunteers]]—whose aim was "to secure and maintain the rights and liberties common to the whole people of Ireland".<ref>{{Cite book|last1=Foy|first1=Michael|last2=Barton|first2=Brian|title=The Easter Rising|publisher=Sutton Publishing|year=2004|pages=[https://archive.org/details/easterrising0000foym/page/7 7–8]|isbn=0-7509-3433-6|url=https://archive.org/details/easterrising0000foym/page/7}}</ref> In an article entitled "The Coming Revolution" (November 1913) Pearse wrote: 
+{{quote|As to what your work as an Irish Nationalist is to be, I cannot conjecture; I know what mine is to be, and would have you know yours and buckle yourselves to it. And it may be (nay, it is) that your and mine will lead us to a common meeting-place, and that on a certain day we shall stand together, with many more beside us, ready for a greater adventure than any of us has yet had, a trial and a triumph to be endured and achieved in common.<ref name="Seán Cronin 1966, pg.15">Seán Cronin, Our Own Red Blood, Irish Freedom Press, New York, 1966, pg.15</ref>
+}}
+
+The Home Rule Bill just failed to pass the [[House of Lords]], but the Lords' diminished power under the [[Parliament Act 1911]] meant that the Bill could only be delayed, not stopped. It was placed on the statute books with [[Royal Assent]] in September 1914, but its implementation was suspended for the duration of the First World War.
+
+John Redmond feared that his "national authority" might be circumvented by the Volunteers and decided to try to take control of the new movement. Despite opposition from the Irish Republican Brotherhood, the Volunteer Executive agreed to share leadership with Redmond and a joint committee was set up. Pearse was opposed to this and was to write:<ref name="Seán Cronin 1966, pg.15"/>
+
+{{quote|The leaders in Ireland have nearly always left the people at the critical moment; they have sometimes sold them. The former Volunteer movement was abandoned by its leaders; [[Daniel O'Connell|O'Connell]] recoiled before the cannon at [[Daniel O'Connell#Campaign for repeal of the Union|Clontarf]]; twice the hour of the Irish revolution struck during [[Young Ireland]] days and twice it struck in vain, for [[Thomas Francis Meagher|Meagher]] hesitated in [[Waterford]], [[Charles Gavan Duffy|Duffy]] and [[Thomas D'Arcy McGee|McGee]] hesitated in Dublin. [[James Stephens (Fenian)|Stephens]] refused to [[James Stephens (Fenian)#Arrest and suppression|give the word in '65]]; he never came in '66 or '67. I do not blame these men; you or I might have done the same. It is a terrible responsibility to be cast on a man, that of bidding the cannon speak and the [[grapeshot]] pour.<ref name="Seán Cronin 1966, pg.15"/>}}
+
+The Volunteers split, one of the issues being support for the [[Allies of World War I|Allied]] and British war effort. A majority followed Redmond into the [[National Volunteers]] in the belief that this would ensure Home Rule on their return. Pearse, exhilarated by the dramatic events of the European war, wrote in an article in December 1915:
+
+{{quote|It is patriotism that stirs the people. Belgium defending her soil is heroic, and so is Turkey   . . . . . . <br>It is good for the world that such things should be done. The old heart of the earth needed to be warmed with the red wine of the battlefields.<br> Such august homage was never before offered to God as this, the homage of millions of lives given gladly for love of country.<ref>"Peace and the Gael", in Patrick H. Pearse, ''Political writings and speeches'', Phoenix, Dublin, (1924) p. 216, [[National Library of Ireland]]</ref>}}
+
+==Irish Republican Brotherhood==
+[[File:Funeral of O'Donovan Rossa, graveside in Glasnevin Cemetery, St. James's band, crowds (26203288753).jpg|thumb|Pearse (in uniform centre-right) at the funeral of [[O'Donovan Rossa]] at which he gave a [[Ireland unfree shall never be at peace|graveside oration]].]]
+[[Image:Easter_Proclamation_of_1916.png|thumb|200px|right|[[Proclamation of the Irish Republic]], read by Pearse outside the [[General Post Office (Dublin)|GPO]] at the start of the [[Easter Rising]]]]
+In December 1913 [[Bulmer Hobson]] swore Pearse into the secret [[Irish Republican Brotherhood]] (IRB),<ref>In a statement to the Bureau of Military History, dated 26 January 1948, Hobson claimed: "After the formation of the Irish Volunteers in October, 1913, [sic, the Volunteers were formed in November] Pádraig Pearse was sworn in by me as a member of the IRB in December of that year ... I swore him in before his departure for the States." (See: [[National Library of Ireland]], [http://www.nli.ie/1916/pdf/3.2.1.pdf 3.2.1 Bulmer Hobson and Denis McCullough] {{Webarchive|url=https://web.archive.org/web/20080228140800/http://www.nli.ie/1916/pdf/3.2.1.pdf |date=28 February 2008 }}, in ''The 1916 Rising: Personalities and Perspectives'', p. 18. Retrieved 1 January 2008. Hobson, in his ''Foundation of Growth of the Irish Volunteers, 1913–1914'', also states that Pearse was not a member of the IRB when the Irish Volunteers were founded in November.</ref> an organisation dedicated to the overthrow of [[British rule in Ireland]] and its replacement with an Irish Republic. He was soon co-opted onto the IRB's Supreme Council by [[Tom Clarke (Irish republican)|Tom Clarke]].<ref>[[Kathleen Clarke]] says in ''My Fight for Ireland's Freedom'' that it was "towards the end of 1913" when Tom Clarke had Pearse co-opted onto the Supreme Council of the IRB.</ref> Pearse was then one of many people who were members of both the IRB and the Volunteers. When he became the Volunteers' Director of Military Organisation in 1914<ref>[[Eoin Neeson]], ''Myths from Easter 1916'', Aubane Historical Society, Cork, 2007, {{ISBN|978-1-903497-34-0}} Pg.87</ref> he was the highest ranking Volunteer in the IRB membership, and instrumental in the latter's commandeering of the remaining minority of the Volunteers for the purpose of rebellion. By 1915 he was on the IRB's Supreme Council, and its secret Military Council, the core group that began planning for a rising while war raged on the European [[Western Front (World War I)|Western Front]].
+
+On 1 August 1915 Pearse gave a [[Ireland unfree shall never be at peace|graveside oration]] at the funeral of the [[Fenian]] [[Jeremiah O'Donovan Rossa]]. He was the first republican to be filmed giving an oration.<ref>{{Cite book |title=16 Lives: Patrick Pearse |page=121}}</ref> It closed with the words:
+
+{{quote|Our foes are strong and wise and wary; but, strong and wise and wary as they are, they cannot undo the miracles of God who ripens in the hearts of young men the seeds sown by the young men of a former generation. And the seeds sown by the young men of '65 and [[Fenian Rising (1867)|'67]] are coming to their miraculous ripening today. Rulers and Defenders of the Realm had need to be wary if they would guard against such processes. Life springs from death; and from the graves of patriot men and women spring living nations. The Defenders of this Realm have worked well in secret and in the open. They think that they have pacified Ireland. They think that they have purchased half of us and intimidated the other half. They think that they have foreseen everything, think that they have provided against everything; but, the fools, the fools, the fools! – They have left us our Fenian dead, and while Ireland holds these graves, Ireland unfree shall never be at peace.  ([[s:Speech at the Grave of O’Donovan Rossa|''Full text of Speech)'']]}}
+
+==Easter Rising and death==
+{{Main|Easter Rising}}
+It was Pearse who, on behalf of the IRB shortly before Easter in 1916, issued the orders to all Volunteer units throughout the country for three days of manoeuvres beginning on Easter Sunday, which was the signal for a general uprising. When [[Eoin MacNeill]], the Chief of Staff of the Volunteers, learned what was being planned without the promised arms from Germany, he countermanded the orders via newspaper, causing the IRB to issue a last-minute order to go through with the plan the following day, greatly limiting the numbers who turned out for the rising.
+
+When the [[Easter Rising]] eventually began on Easter Monday, 24 April 1916, it was Pearse who read the [[Proclamation of the Irish Republic]] from outside the [[General Post Office (Dublin)|General Post Office]], the headquarters of the Rising. Pearse was the person most responsible for drafting the Proclamation, and he was chosen as President of the Republic.<ref>{{cite web|title=Patrick Pearse|url=http://www.rte.ie/centuryireland/index.php/articles/patrick-pearse|website=Century Ireland|publisher=[[RTÉ]]/[[Boston College]]|access-date=1 March 2017|archive-date=2 March 2017|archive-url=https://web.archive.org/web/20170302112451/http://www.rte.ie/centuryireland/index.php/articles/patrick-pearse|url-status=live}}</ref> After six days of fighting, heavy civilian casualties and great destruction of property, Pearse issued the order to surrender.
+
+Pearse and fourteen other leaders, including his brother Willie, were [[court-martial]]led and [[execution by firing squad|executed by firing squad]]. [[Tom Clarke (Irish republican)|Thomas Clarke]], [[Thomas MacDonagh]] and Pearse himself were the first of the rebels to be executed, on the morning of 3 May 1916. Pearse was 36 years old at the time of his death. [[Roger Casement]], who had tried unsuccessfully to recruit an insurgent force among Irish-born prisoners of war from the [[16th (Irish) Division|Irish Brigade]] in Germany, was hanged in London the following August.
+
+[[John Maxwell (general)|Sir John Maxwell]], the General Officer commanding the British forces in Ireland, sent a telegram to [[H. H. Asquith]], then Prime Minister, advising him not to return the bodies of the Pearse brothers to their family, saying, "Irish sentimentality will turn these graves into martyrs' shrines to which annual processions will be made, which would cause constant irritation in this country.<ref name="P.H. Pearse, Proinsias Mac Aonghusa 1979">Quotations from P.H. Pearse, Proinsias Mac Aonghusa, Mercier Press, RP 1979, {{ISBN|0-85342-605-8}}</ref> Maxwell also suppressed a letter from Pearse to his mother,<ref>[[wikiquote:Author:Patrick Pearse|Author:Patrick Pearse – Wikisource<!-- bot-generated title -->]] at en.wikisource.org</ref> and two poems dated 1 May 1916. He submitted copies of them also to Prime Minister Asquith, saying that some of the content was "objectionable".<ref name="P.H. Pearse, Proinsias Mac Aonghusa 1979" />
+
+==Writings==
+[[File:statue padraig pearse.jpg|thumb|upright|Bust of Pearse in [[Tralee]], County Kerry]]
+Pearse wrote stories and poems in both Irish and English. His best-known English poems include "The Mother", "The Fool", "[[The Rebel (poem)|The Rebel]]" and "The Wayfarer".<ref>{{Cite book |title=The Mercier Companion to Irish literature |author=Seán McMahon and Jo O'Donoghue |year=1998 |publisher=[[Mercier Press]] |location=Cork |isbn=1-85635-216-1 |page=[https://archive.org/details/merciercompanion00mcma/page/183 183] |url-access=registration |url=https://archive.org/details/merciercompanion00mcma/page/183 }}</ref> He also wrote several [[allegorical]] plays in the [[Irish language]], including ''The King'', ''The Master'', and ''The Singer''. His short stories in Irish include ''Eoghainín na nÉan'' ("Eoineen of the Birds"), ''Íosagán'' ("Little Jesus"), ''An Gadaí'' ("The Thief"), ''Na Bóithre'' ("The Roads"), and ''An Bhean Chaointe'' ("The Keening Woman"). These were translated into English by [[Joseph Campbell (poet)|Joseph Campbell]] (in the ''Collected Works'' of 1917).<ref>Patrick Pearse, ''Short Stories''. Trans. [[Joseph Campbell (poet)|Joseph Campbell]]. Ed. Anne Markey. Dublin, 2009</ref> Most of his ideas on education are contained in his essay "[[The Murder Machine (Patrick Pearse)|The Murder Machine]]". He also wrote many essays on politics and language, notably "The Coming Revolution" and "Ghosts".
+
+Pearse is closely associated with his rendering of the [[Jacobitism|Jacobite]] song, "[[Oró Sé do Bheatha 'Bhaile]]", for which he composed republican lyrics.
+
+According to poet [[Louis de Paor]], Patrick Pearse was "the most perceptive [[literary critic|critic]] and most accomplished poet," of the early [[Gaelic revival]] providing "a sophisticated model for a new literature in Irish that would reestablish a living connection with the pre-colonial Gaelic past while resuming its relationship with contemporary Europe, bypassing the monolithic influence of English."<ref>[[Louis De Paor]] (2016), ''Leabhar na hAthghabhála: Poems of Repossession: Irish-English Bilingual Edition'', [[Bloodaxe Books]]. Page 20.</ref>
+
+==Reputation==
+Largely as a result of a series of political pamphlets that Pearse wrote in the months leading up to the Rising, he soon became recognised as the main voice of the Rising.{{Citation needed|date=August 2021}} In the middle decades of the 20th century, Pearse was idolised by [[Irish nationalist]]s as the supreme idealist of their cause.{{Citation needed|date=August 2021}} With the outbreak of conflict in [[Northern Ireland]] in 1969, Pearse's legacy was used by the [[Provisional IRA]].
+
+Pearse's ideas have been seen by Sean Farrell Moran as belonging to the context of European cultural history as a part of a rejection of [[reason]] by European social thinkers.<ref>Sean Farrell Moran, "Patrick Pearse and the European Revolt Against Reason," Journal of the History of Ideas, 1989, 4.</ref> Additionally, his place within Catholicism, where his orthodoxy was challenged in the early 1970s,<ref>Francis J. Shaw, S.J., "The Canon of Irish History—A Challenge," in Studies, 61, 242, 115–53</ref> has been addressed to suggest that Pearse's theological foundations for his political ideas share in a long-existing tradition in western Christianity.<ref>Moran, "Patrick Pearse and Patriotic Soteriology" in The Irish Terrorism Experience, eds. Yonah Alexander and Alan O'Day, 1991, 9–29</ref>
+
+Former [[Taoiseach]] [[Bertie Ahern]] described Pearse as one of his heroes and displayed a picture of Pearse over his desk in the [[Department of the Taoiseach]].<ref>Bertie Ahern, interviewed about Pearse on [[RTÉ]], 9 April 2006.</ref>
+
+Pearse's mother [[Margaret Pearse]] served as a [[Teachta Dála|TD]] in [[Dáil Éireann]] in the 1920s. His sister [[Margaret Mary Pearse]] also served as a TD and [[Seanad Éireann|Senator]].
+
+In a 2006 book, psychiatrists [[Michael Fitzgerald (psychiatrist)|Michael Fitzgerald]] and Antoinette Walker speculated that Pearse had [[Asperger syndrome]].<ref name="Fitzgerald and Walker">{{Cite news |url=http://www.independent.ie/irish-news/rebel-pearse-was-no-gay-blade-but-had-autistic-temperment-26410577.html |title=Rebel Pearse was no gay blade but had autistic temperment &#91;sic&#93; |last=Collins |first=Liam |date=9 April 2006 |access-date=28 January 2019 |archive-date=16 November 2018 |archive-url=https://web.archive.org/web/20181116112137/https://www.independent.ie/irish-news/rebel-pearse-was-no-gay-blade-but-had-autistic-temperment-26410577.html |url-status=live }}</ref> Pearse's apparent "sexual immaturity", and some of his behaviour, has been the subject of comment since the 1970s by historians such as [[Ruth Dudley Edwards]], T. Ryle Dwyer and Sean Farrell Moran, who speculated that he was attracted to young boys.<ref>Ruth Dudley Edwards, ''Patrick Pearse: The Triumph of Failure'', Victor Gollancz, 1977, pp. 52–4</ref><ref>Sean Farrell Moran, ''[https://books.google.com/books?id=FgZbzSE1kuUC&pg=PA122 Patrick Pearse and the Politics of Redemption: The Mind of the Easter Rising, 1916] {{Webarchive|url=https://web.archive.org/web/20170315182929/https://books.google.com/books?id=FgZbzSE1kuUC&pg=PA122 |date=15 March 2017 }}'', 1994, p. 122.</ref> His most recent biographer, [[Joost Augusteijn]], concluded that "it seems most probable that he was sexually inclined this way".<ref>Joost Augusteijn, ''Patrick Pearse: The Making of a Revolutionary'', 2009, p. 62</ref> Fitzgerald and Walker maintain that there is no evidence of homosexuality; they say that his apparent lack of sexual interest in women, and his "ascetic", celibate lifestyle are explained by his supposed autism.<ref name="Fitzgerald and Walker"/> Cultural historian Elaine Sisson has said that Pearse's interest in boys needs to be seen in the context of the time, in particular the Victorian phenomenon of the "cult of the boy".<ref>{{cite AV media |date=2001 |title=True Lives: P.H. Pearse; Fanatic Heart |medium=television documentary |time=42:23 |location=Dublin |publisher=[[RTÉ]]}}</ref>
+
+In almost all of Pearse's portraits he struck a sideways pose, concealing his left side. This was to hide a [[strabismus]] or squint in his left eye, which he felt was an embarrassing condition.<ref>John Spain, [http://www.independent.ie/irish-news/pearses-heroic-sideways-pose-he-did-it-to-hide-embarrassing-squint-29524364.html "Pearse's heroic sideways pose? He did it to hide embarrassing squint"] {{Webarchive|url=https://web.archive.org/web/20161220061957/http://www.independent.ie/irish-news/pearses-heroic-sideways-pose-he-did-it-to-hide-embarrassing-squint-29524364.html |date=20 December 2016 }}, ''Irish Independent'', 24 August 2013</ref>
+
+==Commemoration==
+* The building in Rathfarnham, on the south side of Dublin, that once housed Pearse's school, St Enda's, is now the [[Pearse Museum]].
+* [[Pearse Street]] and [[Pearse Square]] in Dublin were renamed in 1926 in honour of Pearse and his brother Willie, Pearse Street (previously Great Brunswick Street) being their birthplace. Other Pearse Streets can be found in [[Athlone]], [[Ballina, County Mayo|Ballina]], [[Bandon, County Cork|Bandon]], [[Cahir]], [[Cavan]], [[Clonakilty]] (formerly Sovereign Street), [[Gorey]], [[Kilkenny]], [[Kinsale]], [[Mountmellick]], [[Mullingar]], [[Nenagh]] and [[Sallynoggin]] (where there are also Pearse Park, Avenue, Road and other uses of the name).
+* There are Pearse Roads in [[Ardara, County Donegal]], [[Ballyphehane]] in Cork (which also has Pearse Place and Square), [[Bray, County Wicklow|Bray]], Cookstown (County Wicklow), [[Cork (city)|Cork]], [[Cranmore, Sligo|Cranmore]] (which also has Pearse Crescent and Terrace), Dublin 16, [[Enniscorthy]], Graiguecullen (County Carlow), [[Letterkenny]], [[Limerick]] (which also has Pearse Avenue), [[Sligo]] and [[Tralee]]
+* There are Pearse Parks (residential streets) in [[Drogheda]], [[Dundalk]] and [[Tullamore]], and (parkland) on the outskirts of [[Arklow]] and in [[Tralee]] (the former demesne of [[Tralee Castle]]). There are other Pearse Avenues in [[Carrickmacross]], [[Ennis]], Mervue in [[Galway]] and [[Mallow, County Cork|Mallow]]. [[Carrigtwohill]] has a Patrick Pearse Place and there is a Pearse Bridge in [[Terenure]]. There is a Pearse Brothers Park in [[Rathfarnham]] and a Pearse Terrace in [[Westport, County Mayo|Westport]].
+* [[Longford]] has Pearse Drive and Pearse View. [[Crumlin, Dublin|Crumlin]] (Dublin) has a Pearse Memorial Park.
+* [[Ballyheigue]] has a statue built in commemoration.
+* Every February, just before the Annual Irish language Dining celebration at [[King's Inns]], the institution hosts an Irish language debate where a Bonn an Phiarsaigh (the Pearse medal) is awarded to the winner.
+
+===Educational institutions===
+Cullenswood House, the Pearse family home in Ranelagh where Pádraic first founded St Enda's, today houses a primary ''Gaelscoil'' (school for education through the Irish language) called Lios na nÓg, part of a community-based effort to revive the Irish language. [[Crumlin, Dublin|Crumlin]] (Dublin) has the Pearse College of Further Education, and there was formerly an Irish language summer school in [[Gaoth Dobhair]] called Colaiste an Phiarsaigh. In [[Rosmuc]] there is an Irish-medium vocational school, Gairmscoil na bPiarsach. The main lecture hall at the Cadet School in Ireland is named after P.H. Pearse.  In September 2014, Gaelcholáiste an Phiarsaigh, a new Irish language medium secondary school, opened its doors for the first time in the former Loreto Abbey buildings, just 1&nbsp;km from the Pearse Museum in St Endas Park, Rathfarnham. Today Glanmire County Cork boasts the best secondary level Irish speaking college in Ireland called Coláiste an Phiarsaigh, which was named in honour and structured around Patrick Pearse's beliefs.
+
+===Sports venues and clubs===
+A number of [[Gaelic Athletic Association]] clubs and playing fields in Ireland are named after Pádraic or both Pearses:
+* [[Antrim GAA|Antrim]]: Pearse Park, [[Dunloy GAC|Dunloy]]; [[List of Gaelic games clubs in Ireland#Antrim|Patrick Pearse's GAC]], Belfast
+* [[Armagh GAA|Armagh]]: [[Annaghmore Pearses GFC]]; [[Pearse Óg GAC]] and its grounds, [[Pearse Óg Park]], Armagh
+* [[Cork GAA|Cork]]: [[Na Piarsaigh GAA|CLG Na Piarsaigh]], Cork 
+* [[Derry GAA|Derry]]: [[Kilrea GAC|Pádraig Pearse's GAC]], Kilrea; Pearse's GFC, Waterside, Derry (defunct)
+* [[Donegal GAA|Donegal]]: Pearse's Park, Ardara
+* [[Dublin GAA|Dublin]]: [[Ballyboden St. Enda's GAA]] (called after Pearse's school); Pearse's GAC, Rathfarnham (defunct) 
+* [[Galway GAA|Galway]]: [[CLG Na Piarsaigh]], Ros Muc;[[Pádraig Pearse's GAA|Pádraig Pearse's GAC]], Ballymacward & Gurteen; [[Pearse Stadium]], Salthill
+* [[Kerry GAA|Kerry]]: [[Dromid Pearses GAA|Dromid Pearses GAC]]; [[Kilflynn Pearses]] HC (defunct)
+* [[Limerick GAA|Limerick]]: [[Na Piarsaigh GAA (Limerick)|CLG Na Piarsaigh]], Limerick
+* [[Longford GAA|Longford]]: [[Pearse Park (Longford)|Pearse Park]], Longford
+* [[Louth GAA|Louth]]: [[List of Gaelic games clubs in Ireland#Louth|CPG Na Piarsaigh]], Dundalk
+* [[Monaghan GAA|Monaghan]]: [[Ballybay Pearse Brothers]], and its grounds, Pearse Park
+* [[Roscommon GAA|Roscommon]]: [[Padraig Pearses GAA Roscommon|Pádraig Pearse's GAC]]
+* [[Tyrone GAA|Tyrone]]: [[Dregish Pearse Og GAC|Pearse Óg GAC]], Dregish; [[Fintona Pearses GAC]]; and [[Galbally Pearses GAC]], and its grounds, Pearse Park; a defunct club, [[Owen Roe O'Neill's GAC|Leckpatrick Pearse Óg GAC]]
+* [[Wexford GAA|Wexford]]: Naomh Eanna GAA (called after Pearse's school); P.H. Pearse's HC, Enniscorthy (defunct)
+* [[Wicklow GAA|Wicklow]]: [[Pearse Park (Arklow)|Pearses' Park]], Arklow
+
+So also are several outside Ireland:
+* [[Australasia GAA|Australasia]]: [[List of Gaelic games clubs outside Ireland#Victoria|Pádraig Pearse GAC]], Victoria
+* [[London GAA|London]]: [[List of Gaelic games clubs outside Ireland#London|Brother Pearse's GAC]], London
+* [[Scotland GAA|Scotland]]: Pearse Park, Glasgow; Pearse Harps HC (defunct)
+* [[Yorkshire GAA|Yorkshire]]: [[List of Gaelic games clubs outside Ireland#Yorkshire|Brothers Pearse GAC]], Huddersfield
+* [[North American GAA|North America]]: [[List of Gaelic games clubs outside Ireland#North American Board area (USA outside New York City)|Pádraig Pearse GFC]], Chicago; [[List of Gaelic games clubs outside Ireland#North American Board area (USA outside New York City)|Pádraig Pearse GFC]], Detroit
+
+There are also soccer clubs named Pearse Celtic FC in [[Cork (city)|Cork]] and in [[Ringsend]], Dublin; and Liffeys Pearse FC, a south Dublin soccer club formed by the amalgamation of [[Liffeys Wanderer F.C.|Liffey Wanderers]] and Pearse Rangers. A Pearse Rangers schoolboy football club remains in existence in Dublin.
+
+===Other commemorations===
+* In 1916 the English composer [[Arnold Bax]], who had met the man, composed a tone poem entitled ''In Memoriam Patrick Pearse''. It received its first public performance in 2008.<ref>[https://archive.today/20130419221529/http://www.bbc.co.uk/proms/2008/interactandreviews/reviews/24jul.shtml BBC Proms] 24 July 2008</ref>
+* In [[Belfast]] the Pearse Club on King Street was wrecked by an explosion in May 1938.<ref>"Belfast club wrecked", ''[[Ottawa Citizen]]'', p1, 26 May 1938</ref>
+* Westland Row Station in Dublin was renamed [[Dublin Pearse railway station|Pearse Station]] in 1966 after the Pearse brothers.
+* The silver [[Ten shilling (Irish coin)|ten shilling]] coin minted in 1966 featured the bust of Patrick Pearse. It is the sole Irish coin ever to have featured anyone associated with Irish history or politics.
+* In [[Ballymun]] the Patrick Pearse Tower was named after him. It was the first of Ballymun's tower blocks to be demolished in 2004.<ref>[http://dublincitypubliclibraries.com/dublin-buildings/seven-towers-ballymun Dublin City Public Libraries] {{webarchive|url=https://web.archive.org/web/20130118163235/http://dublincitypubliclibraries.com/dublin-buildings/seven-towers-ballymun |date=18 January 2013 }} history of Ballymun Towers</ref>
+* In 1999 the centenary of Pearse's induction as a member of the [[Gorsedd]] at the 1899 Pan Celtic [[Eisteddfod]] in [[Cardiff]] (when he took the [[Bardic name]] Areithiwr) was marked by the unveiling of a plaque at the Consulate General of Ireland in Wales.<ref>[http://www.ballinagree.freeservers.com/ppearsegd9.html] {{Webarchive|url=https://web.archive.org/web/20160304001938/http://www.ballinagree.freeservers.com/ppearsegd9.html |date=4 March 2016 }} Account of Gorsedd commemoration, 1999</ref>
+* Postage stamps commemorating Pearse were issued by the Irish postal service in 1966, 1979 and 2008.
+* Writer [[Prvoslav Vujcic]] is nicknamed Pearse after Patrick Pearse.<ref name="Urban Book Circle">{{cite web |url=https://www.urbanbookcircle.com/prvoslav-ldquopearserdquo-vujcic.html |publisher=Urban Book Circle |title=Prvoslav Vujcic biography |access-date=3 March 2019 |date=16 May 2013 |archive-date=10 February 2019 |archive-url=https://web.archive.org/web/20190210135256/https://www.urbanbookcircle.com/prvoslav-ldquopearserdquo-vujcic.html |url-status=live }}</ref>
+* In 2016 [[Leinster GAA]] inaugurated a Pearse medal in recognition of Pearse's role as vice president of the province's Colleges' Committee. The medals are awarded to the best footballer and hurler in the Leinster senior championship each year.<ref>{{cite web|title=Dublin and Kilkenny dominate Leinster Pearse medal nominations|url=http://www.irishtimes.com/sport/gaelic-games/dublin-and-kilkenny-dominate-leinster-pearse-medal-nominations-1.2863485|website=The Irish Times|access-date=12 November 2016|archive-date=12 November 2016|archive-url=https://web.archive.org/web/20161112143751/http://www.irishtimes.com/sport/gaelic-games/dublin-and-kilkenny-dominate-leinster-pearse-medal-nominations-1.2863485|url-status=live}}</ref>
+
+==Citations==
+{{Reflist|2}}
+
+==Sources==
+{{wikisource author}}
+* Joost Augusteijn, ''Patrick Pearse: The Making of a Revolutionary'', 2009.
+* [[Tim Pat Coogan]], ''Michael Collins.'' Hutchinson, 1990.
+* [[Ruth Dudley Edwards]], ''Patrick Pearse: the Triumph of Failure'', London: Gollancz, 1977.
+* [[F.S.L. Lyons]], ''Ireland Since the Famine.'' London: Collins/Fontana, 1973.
+* [[Dorothy Macardle]], ''The Irish Republic.'' Corgi, 1968.
+* Arthur Mitchell & Pádraig Ó Snodaigh, ''Irish Political Documents 1916–1949.'' Dublin: Irish Academic Press, 1985
+* Seán Farrell Moran, ''Patrick Pearse and the Politics of Redemption: The Mind of the Easter Rising 1916'', Washington, Catholic University Press, 1994
+**"Patrick Pearse and the European Revolt against Reason," in ''The Journal of the History of Ideas'', 50:4 (1989), 625–43
+**"Patrick Pearse and Patriotic Soteriology: The Irish Republican Tradition and the Sanctification of Political Self-Immolation" in ''The Irish Terrorism Experience'', ed. Yonah Alexander and Alan O'Day, 1991, 9–29
+* Brian Murphy, ''Patrick Pearse and the Lost Republican Ideal'', Dublin, James Duffy, 1990.
+* Ruán O'Donnell, ''Patrick Pearse'', Dublin: O'Brien Press, 2016
+* Mary Pearse, ''The Home Life of Pádraig Pearse''. Cork: Mercier, 1971.
+* Patrick Pearse, ''Short Stories.'' Trans. Joseph Campbell. Ed. Anne Markey. Dublin: University College Dublin Press, 2009
+* Elaine Sisson, "Pearse's Patriots: The Cult of Boyhood at St. Enda's." Cork University Press, 2004, repr. 2005
+
+==External links==
+{{Commons category|Patrick Pearse}}
+{{Wikiquote}}
+* [http://www.census.nationalarchives.ie/pages/1911/Dublin/Whitechurch/Haroldsgrange_/57855/ Patrick's census information from 1911 while he was still teaching in St. Enda's School]
+* [http://www.census.nationalarchives.ie/reels/nai000133850/ Patrick's census form part-A]
+* {{Internet Archive author |search=( Pearse AND (Patrick OR Padraic OR Pádraic OR Pádraig OR Padraig OR "1879–1916") )}}
+* {{Librivox author |id=8678}}
+* [http://www.ucc.ie/celt/published/E900007-001/index.html The Murder Machine] – Pearse's groundbreaking article on contemporary Irish education
+* [https://archive.today/20040710220732/http://www.1916rising.com/pic_pearse.html 1916 Walking Tour piece on Pearse]
+* [http://www.ucc.ie/celt/pearsefic.html The Poetry of Pádraig Pearse]
+
+{{Easter Rising}}
+{{Gaelic literature}}
+{{Irish poetry}}
+{{Irish rebel songs}}
+{{Authority control}}
+
+{{DEFAULTSORT:Pearse, Patrick}}
+[[Category:1879 births]]
+[[Category:1916 deaths]]
+[[Category:20th-century dramatists and playwrights]]
+[[Category:20th-century Irish-language poets]]
+[[Category:20th-century male writers]]
+[[Category:Alumni of the Royal University of Ireland]]
+[[Category:Executed participants in the Easter Rising]]
+[[Category:Executed writers]]
+[[Category:Heads of Irish provisional governments]]
+[[Category:Irish barristers]]
+[[Category:Irish Catholic poets]]
+[[Category:Irish male poets]]
+[[Category:Irish newspaper editors]]
+[[Category:Irish people of English descent]]
+[[Category:Irish poets]]
+[[Category:Irish republicans]]
+[[Category:Irish revolutionaries]]
+[[Category:Irish-language activists]]
+[[Category:Irish-language writers]]
+[[Category:Male dramatists and playwrights]]
+[[Category:Members of the Irish Republican Brotherhood]]
+[[Category:Pearse family|Patrick]]
+[[Category:People from Ranelagh]]
+[[Category:Signatories of the Proclamation of the Irish Republic]]
+[[Category:Alumni of King's Inns]]
+[[Category:19th-century Irish businesspeople]]

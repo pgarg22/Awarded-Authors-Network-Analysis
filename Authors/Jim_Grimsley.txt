@@ -1,0 +1,80 @@
+{{short description|American writer}}
+{{Use mdy dates|date=October 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name             = Jim Grimsley
+| image            =
+| image_size       = 
+| caption          =
+| pseudonym        =
+| birth_date       = {{birth date and age|1955|09|21}}
+| birth_place      = [[Grifton, North Carolina]], United States
+| death_date       =
+| death_place      =
+| occupation       = Novelist, playwright
+| nationality      = American
+| period           =
+| genre            =
+| subject          =
+| movement         =
+| influences       =
+| influenced       =
+| signature        =
+| website          = {{URL|http://literati.net/Grimsley/}}
+}}
+
+'''Jim Grimsley''' (born September 21, 1955) is an American [[novelist]] and [[playwright]].
+
+==Biography==
+Born to a rural family in [[Grifton, North Carolina]],<ref>{{cite book |last=Schumock |first=Jim |title=Jim Grimsley |url=https://books.google.com/books?id=dxJB3HeEvAwC&q=jim+grimsley+pollocksville&pg=PA146 |work=Story, story, story: conversations with American authors |publisher=Black Heron Press |year=1999 |isbn=9780930773519 |accessdate=September 21, 2011}}</ref> Grimsley said of his childhood that "for us in the South, the family is a field where craziness grows like weeds".<ref>{{cite book|last1=Grimsley|first1=Jim|authorlink1=Myth and Reality: The Story of Gay People in the South|editor1-last=Dews|editor1-first=C.L. Barney|title=Out in the South|date=2001|publisher=Temple University Press|location=Philadelphia|isbn=1566398142|page=232|url=https://books.google.com/books?id=AOIzXM0xdGgC&q=grimsley+%22craziness+grows+like+weeds%22&pg=PA232|accessdate=17 February 2017}}</ref>
+
+After moving to Atlanta he would spend nearly twenty years as a secretary at Atlanta's Grady Memorial Hospital before joining the creative-writing faculty at [[Emory University]]. During those years, Grimsley wrote prolifically, with fourteen of his plays produced between 1983 and 1993.
+
+==Writing==
+His initial forays into novel writing were less successful than his dramatic work. The semiautobiographical ''[[Winter Birds]]'' was rejected as "too dark" by American publishers for ten years before appearing in a German edition; it only appeared in English sometime two years later. The novel then brought Grimsley much recognition: the [[Sue Kaufman Prize for First Fiction]] from the American Academy of Arts and Letters and a PEN/Hemingway Award citation.
+
+It was followed by ''[[Dream Boy]]'' which received the American Library Association's Gay, Lesbian, and Bisexual Book Award for Literature ([[Stonewall Book Award]]), and ''[[My Drowning]]'', which won the Lila Wallace-Readers Digest Writers' Award. Subsequently, he wrote the [[high fantasy]] novel ''[[Kirith Kirin]]'', which won the [[Lambda Literary Award]], or 'Lammy', for best gay-themed science fiction or fantasy for the year 2000. This classically themed fantasy work was followed by two science fiction novels, ''The Ordinary'' and ''The Last Green Tree'' (2006 sequel to ''The Ordinary'').  His novel ''Forgiveness'' ({{ISBN|9780292716698}}) was published in 2007.
+Four of Grimsley's plays are collected in ''[[Mr. Universe and Other Plays]]''.
+
+He was awarded the [[Jim Duggins Outstanding Mid-Career Novelists' Prize]] by the [[Saints and Sinners Literary Festival]] in 2007.<ref name=nola>[http://www.bestofneworleans.com/gambit/saints-and-sinners-literary-festival/Content?oid=1247698 "Saints and Sinners Literary Festival"]. bestofneworleans.com, May 8, 2007.</ref>
+
+In 2015 Grimlsey published a memoir entitled ''[[How I Shed My Skin|How I Shed My Skin: Unlearning the Racist Lessons of a Southern Childhood]]''.<ref name=NYT>{{cite web|work=[[The New York Times]]|url=https://www.nytimes.com/2015/06/07/books/review/how-i-shed-my-skin-by-jim-grimsley.html|title='How I Shed My Skin,' by Jim Grimsley|first=Randall|last=Kenan|date=June 5, 2015}}</ref>
+
+==References==
+
+===Notes===
+{{reflist}}
+
+===Bibliography===
+{{refbegin}}
+* Grimsley, Jim, ''Out of Silence'', Brightleaf: A Southern Review of Books'', 3, March/April 1998
+* Grimsley, Jim, ''Who We Are'', Publishers Weekly, September 30, 1996, pp 46–47
+* Howorth, Lisa. ''Jim Grimsley: Tales of Southern Courage'', Publishers Weekly, November 5, 1999, pp.&nbsp;39–40.
+{{refend}}
+
+==External links==
+* [https://web.archive.org/web/20150518045425/http://www.literati.net/authors/jim-grimsley Jim Grimsley home page]
+* [https://web.archive.org/web/20070203180000/http://www.creativewriting.emory.edu/faculty/grimsley.html Jim Grimsley at Emory University]
+* {{isfdb name|id=Jim_Grimsley|name=Jim Grimsley}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grimsley, Jim}}
+[[Category:1955 births]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American male novelists]]
+[[Category:American science fiction writers]]
+[[Category:American gay writers]]
+[[Category:Lambda Literary Award winners]]
+[[Category:Stonewall Book Award winners]]
+[[Category:Living people]]
+[[Category:People from Jones County, North Carolina]]
+[[Category:Novelists from North Carolina]]
+[[Category:American LGBT novelists]]
+[[Category:LGBT people from North Carolina]]
+[[Category:People from Grifton, North Carolina]]
+[[Category:Writers of American Southern literature]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:Novelists from Louisiana]]
+[[Category:Emory University faculty]]

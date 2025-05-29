@@ -1,0 +1,467 @@
+{{Fanpov|date=September 2021}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+'''Ronald Welch''' (14 December 1909 – 5 February 1982)<ref name=LCCN/> was the pseudonym of Welsh writer '''Ronald Oliver Felton''' [[Territorial Decoration|TD]], who wrote in English. He is best known for [[children's literature|children's]] historical fiction. He won the 1956 [[Carnegie Medal (literary award)|Carnegie Medal]] from the [[CILIP|Library Association]] for the year's best children's book by a British author, for ''[[Knight Crusader]]'', the first in his so-called Carey Family series of novels.<ref name=medal1954/> He was born in [[Aberavon]], [[West Glamorgan]].<ref name=LCCN>[http://id.loc.gov/authorities/names/n50002435.html "Welch, Ronald, 1909–"]. Library of Congress Name Authority File (LCCN). Retrieved 24 May 2013.</ref> He was teaching at [[Bedford Modern School]] when the [[Second World War]] broke out. In 1940 he was commissioned lieutenant in the Welch Regiment, to which his pen name refers. He reached the rank of major and stayed in the [[Territorial Army (United Kingdom)|Territorial Army]] after the war. He was for many years headmaster of [[Okehampton]] Grammar School in [[Devon]].
+
+Welch's final work, ''The Road to Waterloo'', not strictly speaking part of the Carey family saga but closely connected to it in terms of subject matter, remained unpublished at the time of his death. It was not until 2018 that it was discovered among his papers and published in a special edition by Smith Settle.<ref>{{cite web|url=https://foxedquarterly.com/shop/ronald-welch-the-road-to-waterloo|title=The Road to Waterloo|website=Slightly Foxed|access-date=10 August 2019}}</ref>
+
+==Carey family saga==
+===Notes===
+*The Carey family home is at [[Llansteffan Castle]] (or Llanstephan), [[Carmarthenshire]], Wales. The house may be based on [[Plas Llanstephan]].
+*The home of the junior branch of the Carey family (descended from Rupert Carey) is at [[List of villages in Gower#Small communities|Horton]] Hall, on the [[Gower Peninsula|Gower]].
+*The Carey family has a long-standing connection with the d'Assailly family of France. Neil and Richard Carey (and probably others) married a d'Assailly. The head of the family is the [[Marquis]] de Vernaye and the family home is near [[Graye-sur-Mer]] (see ''Escape From France'').
+*The heir to the Earl (usually his eldest son) has the title [[Viscount]] Cilfrew (Cilfrew is a village near [[Neath]], [[Glamorgan]]). Holders of the title mentioned include Denzil and Bernard Carey.
+*The books do not indicate a connection to the Scottish [[Duke of Aubigny]].
+*The Carey [[coat-of-arms]] is a black hawk on a yellow background (see ''Bowman of Crecy'', ''For the King'').
+*''Nicholas Carey''/''Ensign Carey'' and ''The Hawk''/''The Galleon'' are the only books that cover the same periods of time.
+*The books contain explicit dates and historical events so the time period covered is usually easy to calculate
+
+===Books===
+{|  border="1" cellspacing="0" style="background-color:lightcyan;"
+|+'''Carey Family Books'''
+|-  style="background-color:paleturquoise;"
+! Reading order
+! Pub. Date
+! Book
+! Main Characters
+! Other characters
+! Setting
+|- 
+| 1
+| 1954
+| ''[[Knight Crusader]]''{{efn|name=joust}}
+| Phillip d'Aubigny
+| Hugo d'Aubigny (father, killed 1187, [[Battle of Hattin]]), Gilbert d'Assailly
+| 1186 – 1192?
+[[Third Crusade]]
+|- 
+| 2
+| 1966
+| ''Bowman of Crécy''{{efn|name=link}}
+| Hugh Fletcher
+| Sir John Carey (not listed in family trees), 
+William Assailly
+| 1343? – 1346
+[[Edward III]] / [[Hundred Years War]] / [[Crecy]]
+|- 
+| 3
+| 1967
+| ''The Hawk''
+| Harry Carey <br>(later 2nd Earl)
+| Edward Carey (1st Earl, father), James Carey (uncle), Mary Carey (sister), Margaret Carey (sister)
+| 1584 – 1586
+[[Elizabeth I]]
+|- 
+| 4
+| 1971
+| ''The Galleon''{{efn|name=link|''Bowman of Crécy'' and ''The Galleon'' include but do not feature members of the Carey family.}}
+| Robert Penderyn
+| Edward Carey (1st Earl of Aubigny), Harry Carey
+| 1583–1586?
+[[Elizabeth I]]
+|- 
+| 5
+| 1961
+| ''For the King''{{efn|name=king}}
+| Neil Carey <br>(later 4th Earl)
+| Edward Carey (3rd Earl, father), Denzil Carey (brother, killed 1644, [[Battle of Marston Moor|Marston Moor]])
+| 1642 – 1648
+[[English Civil War]] / [[Cavalier|Royalists]]
+|- 
+| 6
+| 1956
+| ''Captain of Dragoons''
+| Charles Carey <br>(later 6th Earl)
+| John Carey (cousin, killed 1704),
+[[Vicomte]] d'Assailly
+| 1703 – 1704
+[[Duke of Marlborough]] / [[Battle of Blenheim]]
+|- 
+| 7
+| 1958
+| ''Mohawk Valley''
+| Alan Carey
+| Charles Carey (6th Earl, father), Anne Carey (sister)
+| 1755 – 1759
+[[French and Indian War]] / [[General Wolfe]] / [[Quebec]] / [[Seven Years' War]]
+|- 
+| 8
+| 1960
+| ''Escape From France''{{efn|name=date|Extract appears in "A Date With Danger" (Octopus Books, 1984). Published for [[Marks and Spencer]], a large British retail chain.}}
+| Richard Carey <br>(later 8th Earl)
+| George Carey (7th Earl, father), Anne Standish (Carey) (aunt), Jeffery Standish (cousin, killed 1794), Rupert Carey (uncle), Christopher Carey (cousin), Peter Carey (cousin)
+Quentin d'Assailly, Amelie d'Assailly, Armand d'Assailly, Louise d'Assailly (later Lady Aubigny)
+| 1791 – 1794
+[[Revolutionary France]]
+|- 
+| 9
+| 1959
+| ''Captain of Foot''
+| Christopher Carey
+| Richard Carey (8th Earl, cousin), Peter Carey (brother), Anne Standish (Carey) (aunt)
+Louise Aubigny (d'Assailly)
+| 1808 – 1812
+[[Duke of Wellington]] / [[Peninsular War]]
+|- 
+| 10
+| 2018
+| ''The Road to Waterloo''
+| James Carey <br>(later 9th Earl)
+| Richard Carey (8th Earl, father)
+| 1815
+[[Battle of Quatre Bras]]
+|- 
+| 11
+| 1963
+| ''Nicholas Carey''
+| Nicholas Carey
+| James Carey (9th Earl, cousin), Robert Carey (cousin), Bernard Carey (later 10th Earl, cousin), Andrew Carey (cousin), John Carey (brother),
+Felix d'Assailly, Louise Aubigny (d'Assailly)
+| 1853 – 1855
+[[Italian nationalism]] / [[Crimean War]]
+|- 
+| 12
+| 1976
+| ''Ensign Carey''
+| William Carey
+(killed 1857, [[Nasirabad, Raibareli|Nasirabad]], [[Indian Mutiny]])
+| John Carey (father), Nicholas Carey (uncle), Edward Carey (brother)
+| 1853 – 1857
+[[Indian Mutiny]] / [[Bengal Presidency]]
+|- 
+| 13
+| 1972
+| ''Tank Commander''
+| John Carey
+| Peter Carey (father)
+| 1914 – 1917
+[[World War I]] / The Great War
+|}
+
+===Family members===
+{|  border="1" cellspacing="0" style="background-color:lightcyan;"
+|+'''Carey Family Members'''
+|-  style="background-color:paleturquoise;"
+! Name
+! Born  
+! Died
+! Books
+|-
+|Alan
+|1735
+|1770
+|''Mohawk Valley''
+|-
+|Andrew
+|
+|1905
+| ''Nicholas Carey''
+|-
+|Anne
+|1739
+|1814
+|''Mohawk Valley'', ''Escape from France'', 
+''Captain of Foot''
+|-
+|Bernard
+(10th Earl)
+|
+|1902
+| ''Nicholas Carey''
+|-
+|Charles
+(6th Earl)
+|1681
+|1767
+|''Captain of Dragoons'', ''Mohawk Valley''
+|-
+|Charles
+(11th Earl)
+|
+|1936
+|
+|-
+|Christopher
+|1788
+|1812
+|''Captain of Foot''
+|-
+|Denzil
+|
+|1644
+| ''For the King''
+|-
+|Edward
+(1st Earl)
+|
+|1594
+| ''The Hawk'', ''The Galleon''
+|-
+|Edward
+(3rd Earl)
+|
+|1655
+| ''For the King''
+|-
+|Edward
+|
+|1911
+| ''Ensign Carey''
+|-
+|George
+(7th Earl)
+|1734
+|1800
+|''Escape from France''
+|-
+|Harry
+(2nd Earl)
+|
+|1630
+| ''The Hawk'', ''The Galleon''
+|-
+|Henry
+|1775
+|1853
+|
+|-
+|James
+|
+|
+| ''The Hawk''
+|-
+|James
+(5th Earl)
+|
+|1704
+|
+|-
+|James
+(9th Earl)
+|1796/1798?
+|1868
+| ''Nicholas Carey'', ''The Road to Waterloo''
+|-
+|John
+|
+|1704
+|''Captain of Dragoons''
+|-
+|John
+|
+|1885
+| ''Nicholas Carey'', ''Ensign Carey''
+|-
+|John
+|
+|Alive in 1976
+|''Tank Commander''
+|-
+|Lawrence
+|
+|1693
+|
+|-
+|Margaret
+|
+|
+| ''The Hawk''
+|-
+|Mary
+|
+|
+| ''The Hawk''
+|-
+|Mary
+|
+|1937
+|
+|-
+|Matthew
+|
+|1590
+|
+|-
+|Neil
+(4th Earl)
+|1632
+|1690
+| ''For the King''
+|-
+|Nicholas
+|
+|1910
+| ''Nicholas Carey'', ''Ensign Carey''
+|-
+|Oliver
+|
+|1798
+|
+|-
+|Peter
+|1780
+|1850
+|''Captain of Foot''
+|-
+|Peter
+|
+|1940
+|''Tank Commander''
+|-
+|Richard
+(8th Earl)
+|1770
+|1839
+|''Escape from France'', ''Captain of Foot'',
+''The Road to Waterloo''
+|-
+|Robert
+|
+|1870
+| ''Nicholas Carey''
+|-
+|Rupert
+|1737
+|1807
+|''Escape from France''
+|-
+|William
+|
+|1692
+|
+|-
+|William
+|
+|1857
+|''Ensign Carey''
+|}
+
+===Military Service===
+{|  border="1" cellspacing="0" style="background-color:lightcyan;"
+|+'''Carey Family – Military Service'''
+|-  style="background-color:paleturquoise;"
+! Name
+! Rank
+! Unit
+|-
+|Bernard
+(10th Earl)
+|Captain
+|[[Dragoons]] or [[Dragoon Guards]]
+(Heavy Cavalry)
+<br>
+(probably Dragoon Guards, like Richard)
+|-
+|Charles
+(6th Earl)
+|Major
+|[[5th Dragoon Guards|Cadogan's Dragoons]]
+|-
+|Christopher
+|Captain
+|[[43rd Light Infantry]]
+|-
+|Edward
+|Captain
+|[[Royal Navy]]
+|-
+|James
+(9th Earl)
+|Cornet
+|[[30th Light Dragoons]]
+|-
+|John
+|Admiral
+|[[Royal Navy]]
+|-
+|John
+|General
+|West Glamorgan Regiment 
+(fictional, ex 110th Foot),
+[[Royal Tank Regiment|Tank Corps]]
+|-
+|Nicholas
+|Colonel
+|110th Foot (fictional)
+|-
+|Peter
+|Admiral
+|[[Royal Navy]]
+|-
+|Richard
+(8th Earl)
+|Lieutenant-Colonel
+|[[3rd Dragoon Guards]]
+|-
+|William
+|Ensign
+|84th Bengal Native Infantry
+(fictional)
+|}
+
+==Works==
+
+===Books===
+*''The Black Car Mystery'' (1950)
+*''The Clock Stood Still'' (1951)
+*''[[The Gauntlet (novel)|The Gauntlet]]'' (1951)
+*''[[Knight Crusader]]'' <sup>†</sup> (1954) —winner of the [[Carnegie Medal (literary award)|Carnegie Medal]]<ref name=medal1954/>
+*''[[Sker House (novel)]]'' (1955) (writing as Ronald Felton) (based on [[Sker House]])
+*''[[Ferdinand Magellan]]'' (1955)
+*''Captain of Dragoons'' <sup>†</sup> (1956)
+*"The Long Bow" (1957, booklet consisting of the abridged first three chapters of ''Bowman of Crécy'')
+*''Mohawk Valley'' <sup>†</sup> (1958)
+*''Captain of Foot'' <sup>†</sup> (1959)
+*''Escape from France'' <sup>†</sup> (1960)
+*''For the King'' <sup>†</sup> (1961){{efn|name=king}}
+*''Nicholas Carey'' <sup>†</sup> (1963)
+*''Bowman of Crécy'' <sup>†</sup> (1966)
+*''The Hawk'' <sup>†</sup> (1967)
+*''Sun of York'' (1970)
+*''The Galleon'' <sup>†</sup> (1971)
+*''Tank Commander'' <sup>†</sup> (1972)
+*''Zulu Warrior '' (1974)
+*''Ensign Carey'' <sup>†</sup> (1976)
+*''The Road to Waterloo'' <sup>†</sup> (2018) (posthumous)
+
+† indicates a book in the Carey family series
+
+===Short stories===
+
+* "The Kings Hunt" (1963), ''[[Swift (comic)|Swift]]'' Annual 1963{{efn|name=king}}
+* "The Joust" (1968), ''Miscellany Five'', edited by [[Edward Blishen]]{{efn|name=joust|''Miscellany Five'', edited by Edward Blishen (Oxford, 1968), includes a Ronald Welch short story "The Joust", which has as one of its characters Philip d'Aubigny the Crusader, hero of ''Knight Crusader''. The hero, Owen, comes to the favourable attention of Sir Philip and becomes his squire.}}
+* "The King's Hunt" (1970), ''Thrilling Stories of the Past for Boys'', edited by Eric Duthie{{efn|name=king|The 1970 short story entitled "The King's Hunt" is set at the 17th century [[English Civil War]] battle of Edgehill and Neil Carey appears in it, so it aligns with ''For the King''. <br>(Neil Carey does not appear in a 1963 story with the same title, published in the British children's comic ''Swift''.)}}
+
+==See also==
+{{Portal bar |Children's literature |War }} <!-- delete the word "bar" if/when there are enough ordinary See also -->
+
+==Notes==
+{{notelist |25em 
+}}
+
+==References==
+{{reflist |refs=
+<ref name=medal1954>
+[http://www.carnegiegreenaway.org.uk/livingarchive/title.php?id=103 (Carnegie Winner 1954)] {{webarchive|url=https://web.archive.org/web/20090608043655/http://www.carnegiegreenaway.org.uk/livingarchive/title.php?id=103 |date=8 June 2009 }}. Living Archive: Celebrating the Carnegie and Greenaway Winners. [[CILIP]]. Retrieved 16 August 2012.</ref>
+}}
+
+==External links==
+
+{{Authority control}}
+
+{{DEFAULTSORT:Welch, Ronald}}
+[[Category:British children's writers]]
+[[Category:British historical novelists]]
+[[Category:Welsh schoolteachers]]
+[[Category:Carnegie Medal in Literature winners]]
+[[Category:Welch Regiment officers]]
+[[Category:Officers' Training Corps officers]]
+[[Category:British Army personnel of World War II]]
+[[Category:1909 births]]
+[[Category:1982 deaths]]
+[[Category:Place of death missing]]
+[[Category:20th-century British novelists]]
+[[Category:Schoolteachers from Devon]]
+[[Category:Writers of historical fiction set in the Middle Ages]]
+[[Category:Writers of historical fiction set in the early modern period]]
+[[Category:Writers of historical fiction set in the modern age]]

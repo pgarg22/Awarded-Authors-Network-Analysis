@@ -1,0 +1,50 @@
+
+{{Infobox writer
+| name             = Robert Zend
+| birth_date       = {{birth year|1929}}
+| birth_place      = [[Budapest]], [[Kingdom of Hungary (1920-1946)|Kingdom of Hungary]]
+| death_date       = 27 June, {{death year and age|1985|1929}}
+| death_place      = [[Toronto]], [[Canada]]
+| nationality      = [[Hungarian-Canadian]]
+| alma_mater       = [[University of Toronto]]
+| genre            = Poetry<br>Short story
+}}
+
+'''Robert Zend''' (1929 - 1985) was a [[Hungarian-Canadian]] poet,<ref>{{Cite web |url=https://rogueembryo.com/2016/05/04/robertzend/ |title=Robert Zend, a poet without borders |access-date=2019-04-06 |archive-url=https://web.archive.org/web/20190406165408/https://rogueembryo.com/2016/05/04/robertzend/ |archive-date=2019-04-06 |url-status=live}}</ref> fiction writer and a multimedia artist.<ref>{{Cite web |url=http://www.robertzend.ca/esperanto.html |title=Robert Zend translated into Esperanto |access-date=2019-04-06 |archive-url=https://web.archive.org/web/20190406164953/http://www.robertzend.ca/esperanto.html |archive-date=2019-04-06 |url-status=live }}</ref><ref name="canenc">[https://www.thecanadianencyclopedia.ca/en/article/robert-zend Robert Zend] {{Webarchive|url=https://web.archive.org/web/20190406170745/https://www.thecanadianencyclopedia.ca/en/article/robert-zend |date=2019-04-06 }} at [[The Canadian Encyclopedia]].</ref>
+
+Born in [[Budapest]], Zend fled to Canada after the failed [[Hungarian Uprising of 1956]].<ref name=canenc /> He took a master's degree in [[Italian literature]] from the [[University of Toronto]] in 1969, and worked as a producer of [[Ideas]] documentaries for [[CBC Radio]].<ref name=canenc />
+
+His poetry collections included ''From Zero to One'' (1973), ''Beyond Labels'' (1982) and ''Arbormundi'' (1982); ''Oāb'', was published in two separate volumes in 1983 and 1985.<ref name=canenc /> A short story collection, ''Daymares: Selected Fictions on Dreams and Time'', was published posthumously in 1991.<ref name=canenc />
+
+Zend was part of a trilogy of Toronto poets who published with HMS Press et al. ''The Three Roberts'' with [[Robert Sward]] and [[Robert Priest]] in 1984. 
+
+==References==
+{{Reflist}}
+
+==External link==
+*{{Official website|http://www.robertzend.ca}}
+*[http://www.autodidactproject.org/zend/zend01_dedications.html#espo Robert Zend, dedications, works, links]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zend, Robert}}
+[[Category:1929 births]]
+[[Category:1985 deaths]]
+[[Category:Canadian multimedia artists]]
+[[Category:Artists from Budapest]]
+[[Category:Artists from Toronto]]
+[[Category:Writers from Budapest]]
+[[Category:Writers from Toronto]]
+[[Category:Canadian male short story writers]]
+[[Category:Hungarian emigrants to Canada]]
+[[Category:Canadian radio producers]]
+[[Category:University of Toronto alumni]]
+[[Category:Canadian male poets]]
+[[Category:Hungarian male poets]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century Canadian poets]]
+[[Category:20th-century Canadian male writers]]
+[[Category:20th-century Canadian short story writers]]
+
+{{Canada-poet-stub}}
+{{Canada-artist-stub}}

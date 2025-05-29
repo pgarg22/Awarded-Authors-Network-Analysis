@@ -1,0 +1,75 @@
+{{short description|Hungarian poet, writer and translator}}
+{{Eastern name order|Babits Mihály}}
+{{Infobox writer
+|name=Mihály Babits
+|image=Rippl-babits.jpg
+|birth_date={{Birth date|1883|11|26|df=y}}
+|birth_place=[[Szekszárd]], [[Austria-Hungary]]
+|death_date={{Death date and age|1941|8|4|1883|11|26|df=y}}
+|death_place=[[Budapest]], [[Kingdom of Hungary (1920–46)|Hungary]]
+|nationality=[[Hungary|Hungarian]]
+|relatives=Mother: Auróra Kelemen<br/>Father: Mihály Babits
+|spouse={{Interlanguage link multi|Ilona Tanner|hu|3=Tanner Ilona}} ([[pen name]]: Sophie Török)
+|genre=[[Poetry]], [[Short story|Short stories]], [[Novel]]s<br/>[[Literary history]]<br/>[[Essay]]s, [[lyric poetry]]
+|period=1900&ndash;1941|
+|website=
+|signature=
+|footnotes=
+}}
+ 
+'''Mihály Babits''' ({{IPA-hu|ˈmihaːj ˈbɒbit͡ʃ|lang}}; 26 November 1883 &ndash; 4 August 1941) was a [[Hungarians|Hungarian]] poet, writer and translator. His poems are well known for their intense religious themes. His novels such as “The Children of Death” (1927) explore psychological problems.<ref>{{Cite book|last=Norwich|first=John Julius|url=https://www.worldcat.org/oclc/11814265|title=Oxford illustrated encyclopedia|date=1985–1993|publisher=Oxford University Press|others=Judge, Harry George., Toyne, Anthony.|isbn=0-19-869129-7|location=Oxford [England]|pages=28|oclc=11814265}}</ref>
+
+== Biography ==
+Babits was born in [[Szekszárd]]. He studied at the [[Eötvös Loránd University|University of Budapest]] from 1901 to 1905, where he met [[Dezső Kosztolányi]] and [[Gyula Juhász (poet)|Gyula Juhász]]. He worked to become a teacher and taught at schools in [[Baja, Hungary|Baja]] (1905&ndash;06), [[Szeged]] (1906&ndash;08), [[Făgăraş|Fogaras]] (1908&ndash;11), [[Újpest]] (1911), and [[Budapest]] (1912&ndash;18).
+
+His reputation for his poems in the literary life started in 1908.
+
+He made a trip to [[Italy]] in the same year, which made him interested in [[Dante Alighieri|Dante]]; he made several other trips in later years. This experience led him to translate Dante's ''[[Divine Comedy]]'' (''Hell'', 1913, ''Purgatory'', 1920, and ''Paradise'', 1923).
+
+Briefly after the [[Hungarian Revolution of 1919]] he became a Professor of Foreign Literature and modern Hungarian literature at the University of Budapest, but was soon removed for his [[pacifism]] after the revolutionary government fell.
+
+In 1911, he became a staff writer on the magazine ''[[Nyugat]]''.
+
+Babits' 1918 novel ''The Nightmare'' (also known as ''King's Stork'') is a [[science fiction]] novel about a split personality influenced by [[Freudian psychology]].<ref>"The Nightmare" by [[Franz Rottensteiner]] in [[Frank N. Magill]], ed. ''Survey of Modern Fantasy Literature'', Vol 3. Englewood Cliffs, NJ: Salem Press, Inc., 1983. pp. 1121-1123.</ref> ''Elza pilóta, vagy a tökéletes társadalom'' ("The Pilot Elza, or the Perfect Society") is set in a [[utopian]] future.<ref>"Elza Pilota, vagy a tokeletes tarsadalom " by Péter Kuczka.
+In Frank N. Magill, ed. ''Survey of Science Fiction Literature'', Vol. 2. Englewood Cliffs, 
+NJ: Salem Press, 1979. (pp. 708-711). {{ISBN|0-89356-194-0}}</ref>
+
+In 1921 married {{Interlanguage link multi|Ilona Tanner|hu|3=Tanner Ilona}}, who later published poetry under the name  ''[[Sophie Török]]''. Two years later he moved to [[Esztergom]]. In 1927 he became a member of the "Kisfaludy Társaság" ([[Kisfaludy Society]]) and in the same year he was made a trustee of the [[Baumgarten Prize]].
+
+He became the editor-in-chief of ''Nyugat'' in 1929 (sharing the role until 1933 with [[Zsigmond Móricz]]), a position he held until his death.
+
+In 1937, he was diagnosed as having [[laryngeal cancer]]. He died in Budapest in 1941.
+
+== Work ==
+Babits is best known for his [[lyric poetry]], influenced by classical and English forms. He also wrote essays and translated much from [[English language|English]], [[French language|French]], [[German language|German]], [[Greek language|Greek]], [[Italian language|Italian]], and [[Latin language|Latin]]. There is a museum in Szekszárd showcasing Mihály Babits's work and life. His brother István Babits occupied the house most of the time, with his two sons: István and Tibor.
+
+* 1988: ''[[21 Poems (selected poems)|21 Poems]]'' (''21 Vers''), translated by [[István Tótfalusi]] ([[Maecenas Konyvkiado|Maecenas]], 1994).
+
+== Notes ==
+{{Reflist}}
+
+== External links ==
+{{commons category}}
+* {{Gutenberg author | id=Babits,+Mihály | name=Mihály Babits}}
+* {{Internet Archive author |sname=Mihály Babits}}
+* [http://www.brindin.com/pobabdan.htm His poem The Danaids in English]
+
+{{Hungarian literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Babits, Mihaly}}
+[[Category:1883 births]]
+[[Category:1941 deaths]]
+[[Category:People from Szekszárd]]
+[[Category:Hungarian male poets]]
+[[Category:Translators to Hungarian]]
+[[Category:Members of the Hungarian Academy of Sciences]]
+[[Category:Hungarian Esperantists]]
+[[Category:Hungarian science fiction writers]]
+[[Category:Burials at Kerepesi Cemetery]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century translators]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Deaths from laryngeal cancer]]
+[[Category:Deaths from cancer in Hungary]]

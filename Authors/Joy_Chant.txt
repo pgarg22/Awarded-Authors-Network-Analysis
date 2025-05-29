@@ -1,0 +1,79 @@
+{{short description|British fantasy writer|bot=PearBOT 5}}
+{{Use dmy dates|date=October 2016}}
+{{Use British English|date=October 2016}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image = 
+ |
+| name        = Joy Chant
+| caption     = 
+| birth_date = {{birth date|df=y|1945|1|13}}
+| birth_place = [[London]], England, UK
+| death_date = 
+| death_place = 
+| occupation  = Writer
+| genre       = [[Fantasy]]
+| nationality = British
+| period      = 1970–<!-- long inactive? -->
+| movement    = 
+| notableworks = 
+}}
+'''Joy Chant''' (born 13 January 1945) is a British [[fantasy]] writer. She is best known for the three House of Kendreth novels, published 1970 to 1983. Her legal name is '''Eileen Joyce Rutter'''.<ref name=isfdb/>
+
+==Biography==
+Eileen Joyce ([[nickname]], "Joy") Chant was born in [[London]].<ref name=isfdb/>  She began writing in her early teens, and began publishing fiction while working as a Schools Librarian in London.<ref>{{cite book |last= Chant |first= Joy |title= Red Moon and Black Mountain |location= New York |publisher= E.P. Dutton |year= 1976 |page= dust jacket |ISBN=0-525-38193-7}}</ref> She attended college in Wales, where her father had been stationed during [[World War II]].<ref name= "thompson" /> Later, she lived with her husband and children in [[Leigh-on-Sea]], [[Essex]].<ref name= "thompson" />
+
+==Works==
+Chant's first novel was ''[[Red Moon and Black Mountain]]'', a [[Parallel universe (fiction)|parallel world]] fiction. According to the author, it was based on elaborate fantasy legends and imaginary games she began enacting and writing as a young child. After learning to read at two and a half, she mostly read folklore and mythology, not knowing of adult fantasy until she was twenty.<ref name="voiha">Joy Chant, afterword to ''When Voiha Wakes'' (Ballantine, 1983).</ref> As for Vandarei:
+
+"... it began as a playworld, the sort that a lot of children have, and I was of course the Queen, the character about whom I created the adventures. But I had the disposition of a pedant. I didn't really want to pretend:  I wanted to know, to be sure, to get it right. So even in its childish form this [[paracosm|playworld]] tended to become concise, factual.  As I grew older, horses became a passion and the playworld developed into "Equitania"—the horse motif strengthening.  During this time the history of the country itself assumed an importance and I began to actually write. At fifteen, however, the last links with "Equitania" wavered and the name "Vandarei" appeared.  The Queen was abandoned and ceased to be an avatar of myself, becoming a character whom I manipulated, but with whom I no longer especially identified."<ref name="voiha"/>
+
+''Red Moon and Black Mountain'' was published in the U.K. by [[George Allen & Unwin]] in 1970, and in the U.S. by [[Ballantine Books]] in 1971 as part of its celebrated [[Ballantine Adult Fantasy series]], with a cover illustration by Bob Pepper. The House of Kendreth series comprises ''Red Moon'' and two related books, ''The Grey Mane of Morning'' (1977) and ''When Voiha Wakes'' (1983), as well as a short story, "The Coming of the Starborn" (1983).<ref name=yates/>
+
+Chant's other major work is ''The High Kings'' (1983), illustrated by George Sharp, designed by [[David Larkin]] and edited by [[Ian Ballantine|Ian]] and [[Betty Ballantine]]. It is a reference work on the [[King Arthur]] legends<ref name=thompson/> and the [[Matter of Britain]], incorporating retellings of the legends. She has also written numerous articles on fantasy fiction.
+
+==Selected publications==
+===Fantasy novels===
+; House of Kendreth series
+* ''[[Red Moon and Black Mountain]]'' (1970)
+* ''[[The Grey Mane of Morning]]'' (1977)
+* ''[[When Voiha Wakes]]'' (1983)
+
+===Nonfiction===
+* ''Fantasy and Allegory in Literature for Young Readers'' (1971)
+* ''[[The High Kings (book)|The High Kings]]'' (1983, George Allen & Unwin), with Ian and Betty Ballantine, George Sharp, and David Larkin in collaboration; revised edition 1989, Allen & Unwin
+
+===Short stories===
+* "The Coming of the Starborn", ''Lands of Never'', ed. [[Maxim Jakubowski]] (Allen & Unwin, 1983), {{ISBN|0-04-823239-4}}<ref name=isfdb/>
+* "Die Mauern von Kophitel (The Walls of Kophitel)" (1983) – published only in German as translated by Mechtild Sandberg{{citation needed|date=February 2015}}
+
+==Awards==
+''Red Moon and Black Mountain'' won the [[Mythopoeic Awards|Mythopoeic Fantasy Award]] in 1972; ''The Grey Mane of Morning'' was a runner up for the same award in 1981, with tenth place in the [[Locus Award|Locus Poll Award]] the same year; ''When Voiha Wakes'' won the Mythopoeic Fantasy Award in 1984. ''The High Kings'', which took second place in the Locus Poll Award, won the 1984 [[World Fantasy Special Award: Professional|World Fantasy Special Award for Professional Work]]. It was also a nominee of the [[Hugo Award for Best Non-Fiction Book]].
+
+==References==
+{{reflist |30em |refs=
+
+<ref name=isfdb>
+[http://www.isfdb.org/cgi-bin/ea.cgi?2337 "Joy Chant – Summary Bibliography"]. [[ISFDB]]. Retrieved 2015-02-26.</ref>
+<ref name= "thompson">
+[[Raymond H. Thompson]], [http://d.lib.rochester.edu/camelot/text/interview-with-joy-chant "Interview with Joy Chant"], ''The Camelot Project'' (d.lib.rochester.edu/camelot), 1999. Retrieved 2015-02-26. Interview of Chant at her house in [[Leigh-on-Sea]], Essex, 20 May 1989.</ref>
+<ref name=yates>
+Jessica Yates, "Chant, (Eileen) Joy" in  ''St. James Guide To Fantasy Writers'', ed. [[David Pringle]], London, St. James Press, 1996, {{ISBN|1-55862-205-5}}, pp. 104–06.</ref>
+}}
+
+==External links==
+* {{isfdb name|2337|name=Joy Chant}}
+
+{{World Fantasy Special Award Professional}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chant, Joy}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:English fantasy writers]]
+[[Category:20th-century English women writers]]
+[[Category:20th-century English novelists]]
+[[Category:British women short story writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:English women novelists]]
+[[Category:20th-century British short story writers]]

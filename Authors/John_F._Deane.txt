@@ -1,0 +1,72 @@
+{{Use dmy dates|date=November 2021}}
+{{Use Irish English|date=November 2021}}
+'''John F. Deane''' (born 1943 on [[Achill Island]]) is an [[Ireland|Irish]] [[poet]] and [[novelist]].<ref>[http://www.writerscentre.ie/centre/anthology/deane.html Anthology of Irish Writing<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20071118201640/http://www.writerscentre.ie/centre/anthology/deane.html |date=2007-11-18 }}</ref> He founded ''Poetry Ireland'' and ''The Poetry Ireland Review'' in 1979.<ref>[http://www.carcanet.co.uk/cgi-bin/indexer?owner_id=170 Carcanet Press - John F. Deane<!-- Bot generated title -->]</ref><ref>{{Cite web |url=http://irishliterature.library.emory.edu/content.php?id=deane_10016191 |title=Finding Aid : John F. Deane papers, 1971-2000 : Irish Literary Collections<!-- Bot generated title --> |access-date=2007-10-26 |archive-url=https://web.archive.org/web/20110719192101/http://irishliterature.library.emory.edu/content.php?id=deane_10016191 |archive-date=2011-07-19 |url-status=dead }}</ref>
+ [[File:John F. Deane at Feile na Greine, Tech Amergin, Waterville. 2012.JPG|thumb|John F. Deane at Feile na Greine, Tech Amergin, Waterville. 2012]]
+
+==Personal life==
+Deane was educated at the Jesuit run boarding school [[Mungret College]], Limerick, and [[University College Dublin]] studying English and French, he had been training to become a Spiritan priest, in Killshane, Tipperary and Holy Ghost College, [[Kimmage Manor]] but became a teacher.<ref>[http://www.ricorso.net/rx/az-data/authors/d/Deane_JF/life.htm John F Deane - Life] www.ricorso.net</ref> Deane married Barbara Sheridan. Barbara was the daughter of music hall performer [[Cecil Sheridan]], they had two children, Barbara died of Lupus aged 37.<ref>[https://www.independent.ie/entertainment/books/book-reviews/earnest-memoir-intrigues-but-lacks-an-occasional-indiscreet-aside-31115267.html Earnest memoir intrigues but lacks an occasional indiscreet aside] Entertainment, Irish Independent, 5 December 2019.</ref> Deane was married again in 1984 to Ursula Foran of Drumkeelanmore, Drumshanbo Co Leitrim, and they have one daughter, Mary, born 1985.{{fact|date=November 2021}}
+
+==Career==
+Deane published several collections of [[poetry]] and some fiction.<ref>[http://www.irishwriters-online.com/johnfdeane.html John F. Deane<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20071017232908/http://www.irishwriters-online.com/johnfdeane.html |date=2007-10-17 }}</ref>  He won the [[O’Shaughnessy Award]] for Irish Poetry, the [[Marten Toonder Award for Literature]] and poetry prizes from [[Italy]] and [[Romania]]. Deane was elected Secretary-General of the European Academy of Poetry in 1996. Shortlisted for both the [[T. S. Eliot Prize]] and the [[Irish Times Poetry Now Award]], he won residencies in [[Bavaria]], [[Monaco]] and [[Paris]]. He is a member of [[Aosdána]], the body established by the [[Arts council|Arts Council]] to honour artists "whose work had made an outstanding contribution to the arts in Ireland". In 2007, the French Government honoured him by making him [[Ordre des Arts et des Lettres|''Chevalier, Ordre des Arts et des Lettres'']].
+
+==Bibliography==
+{{Expand list|date=September 2016}}
+
+===Poetry===
+====Collections====
+*{{cite book |author=Deane, John F. |title=Winter in Meath |publisher=Dedalus |year=1984 <!--isbn=-->}}
+* ''Road with Cypress and Star'', Dedalus, 1988
+* ''The Stylized City: Collected and New Poetry'', Dedalus, 1991
+* ''Walking on Water'', Dedalus Press, 1994
+* ''Christ, with Urban Fox'', Daedalus Press, 1997
+* ''Toccata and Fugue: New and Selected Poems'', Carcanet, 2000
+* ''Manhandling the Deity'', Carcanet, 2003.
+* ''The Instruments of Art'', Carcanet, 2005
+* ''A Little Book of Hours'', Carcanet, 2008.
+* ''Eye of the Hare'', Carcanet, 2011.
+* ''Snow Falling on Chestnut Hill'', New & Selected Poems, Carcanet 2012
+* ''Semibreve'', Carcanet, 2015
+* Dear Pilgrims Carcanet, 2018
+
+==== List of poems ====
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+|-
+|The nest
+|2014
+|{{cite journal |author=Deane, John F. |date=Jun–Jul 2014 |title=The nest |journal=[[The London Magazine]] |pages=33 |url= <!--accessdate=-->}}
+|
+|-
+|}
+
+===Novels===
+* ''In the Name of the Wolf,''Blackstaff Press, 1999
+* ''Undertow,'' Blackstaff Press, 2002
+
+===Short stories===
+* ''The Coffin Master,'' Blackstaff Press, 2002
+* "The Heather Fields and Other Stories", Blackstaff Press, 2007
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.johnfdeane.com/  Official Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Deane, John F.}}
+[[Category:1943 births]]
+[[Category:Irish poets]]
+[[Category:Living people]]
+[[Category:Aosdána members]]
+[[Category:People from County Mayo]]
+[[Category:The London Magazine people]]
+[[Category:Alumni of University College Dublin]]
+
+
+{{ireland-poet-stub}}

@@ -1,0 +1,144 @@
+{{short description|Late 6th century and early 5th century BC Greek poet}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Telesilla
+| honorific_prefix = 
+| honorific_suffix = 
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = Τελέσιλλα
+| native_name_lang = Greek
+| pseudonym = 
+| birth_name = 
+| birth_date = <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = [[Ancient Argos|Argos]]
+| death_date = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = Argos
+| occupation = Poet
+| language = Greek
+| nationality = [[Argive]]
+| education = 
+| alma_mater = 
+| period = [[Archaic Greece]]
+| genre = [[Poetry]]
+| subject = [[Ancient Greek religion]]
+| movement = [[Greek lyric]]
+| notableworks = Fragmentary hymns to Apollo & Artemis
+| spouse = <!-- or: | spouses =     -->
+| partner = <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = ''circa'' 494 BC
+| module = 
+| website = 
+| portaldisp = <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''Telesilla''' ({{lang-el|Τελέσιλλα}}; fl. 494 BC) was an [[ancient Greece|ancient Greek]] [[poet]], native of [[Ancient Argos|Argos]].{{sfn|Chisholm|1911}} She was a distinguished woman who was especially renowned for her poetry and for her leadership of Argos through a political and military crisis and subsequent re-building.<ref>[http://www.theoi.com/Text/Pausanias2B.html Pausanias:  Description of Greece, ARGOLIS- 2.20.8]"</ref> [[Antipater of Thessalonica]] included her in his canon of nine female poets.<ref>Fernandez Robbio, Matías S. (2014) «''Musas y escritoras: el primer canon de la literatura femenina de la Grecia antigua (AP IX 26)''». Praesentia, v. 15, 2014, pp. 1-9. ISSN (en línea): 1316-1857 ([https://www.academia.edu/10269688/Musas_y_escritoras_el_primer_canon_de_la_literatura_femenina_de_la_Grecia_antigua_AP_IX_26_ online])</ref>
+
+The Telesillean meter was named after her.<ref>[https://www.cs.uky.edu/~raphael/sol/sol-entries/tau/260 Suda On Line, tau,260]</ref>
+
+==Poetry==
+Only a few lines of Telesilla's poetry are extant, preserved in quotations by later authors.<ref>Note: variant readings are noted with the surname of the editor and abbreviations referring to the type of work cited. Latin phrases and abbreviations are used to convey information about how many times a variant reading appears or the scholar's reasoning for interpreting the reading a certain way—''bis'', "twice," ''nisi'', "if not", ''ci.'', "conjecture", ''vel'', "or," ''rell.'', "rest of manuscripts." Maximilian Consbruch wrote an ''enchiridion'' or handbook to Hephaestion (abbreviated ''ench.''); cod. refers to the various codices, or copies of books, from which the consensus text and the reported variants are derived. For the Greek text, angled quotation marks are used for first level quotes from each author, with dashes setting off the direct quote from Telesilla; in English, double quotes and single quotes are used for the same purpose. The texts, translations and notes are reprinted courtesy of the Loeb Classical library, links and quotation marks have been added by a Wikipedia editor.</ref> Various Greek writers have preserved various other single-word quotes from Telesilla, many of which are ''[[Hapax legomenon|hapax legomena]]'' that preserve a unique word or a unique use of a word that would otherwise be unknown to modern scholars. This is helpful in improving modern understanding of ancient Greek, especially the [[Doric Greek#Argolic|Argolic Doric Greek]] [[dialect]] in which Telesilla wrote.
+
+One line is preserved by the grammarian [[Hephaestion (grammarian)|Hephaestion]], apparently from a ''[[Hymn|parthenion]]'', or song for a chorus of maidens:<ref name="EB1911">{{EB1911|inline=y|wstitle=Telesilla|volume=26|page=573}}</ref>
+
+{{quote|«ἐστὶ τοίνυν ἐπίσημα ἐν τῷ ἰωνικῷ ἑφθημιμερῆ (πενθημιμερῆ [[Conjecture (textual criticism)|ci]]. [[John Maxwell Edmonds|Edmonds]]) μὲν τὰ τοιαῦτα, οἷς ἡ Τελέσιλλα ἐχρήσατο·—ἁ δ᾿ Ἄρτεμις, ὦ κόραι, φεύγοισα τὸν Ἀλφεόν—»
+
+cf. [[Handbook|Ench]]. 4. 4(p. 14 [[Maximilian Consbruch|Consbruch]]), [[Epitome|epitom]]. (p. 361)
+1 ἁ δ᾿ bis [[Codex|cod]]. I: ἅδ᾿ vel ἅδε rell., nisi οὐδ᾿ epitom. κόρα 4. 4 cod. D
+
+17 Hephaestion, Handbook on Metres (on the [[Ionic meter#Ionic a minore and a maiore|ionic a maiore]])
+
+"Remarkable among the ionic metres are the three-and-a-half foot lines of the following type,(1) used by Telesilla:
+
+    'And Artemis, girls, fleeing from [[Alpheus (deity)|Alpheus]]' . . ."(2)
+
+1.The metre (‒ ‒ ⏑ ⏑ ‒ ⏑ ‒ ). is called telesillean; perhaps read "two-and-a-half foot lines" with Edmonds.
+2. Probably the beginning of a poem in spite of the introductory "and". Pausanias 6. 22. 9 tells how the river-god Alpheus pursued Artemis, who foiled his advances at Letrini, north of the river mouth.|Telesilla:Hephaestion, trans.David A. Campbell|{{cite web|author=Hephaestion|accessdate=30 May 2015|title=''Fragmenta'', 717|url=http://www.loebclassics.com/view/telesilla-fragments/1992/pb_LCL461.79.xml}} {{Subscription needed|via=[[Loeb Classical Library|digital Loeb Classical Library]]}}}}
+
+A unique word, ''philelias'', apparently a coinage of Telesilla's,<ref>Lidell, Henry George, ed. Robert Scott, Henry Stuart Jones, Roderick McKenzie ''[[A Greek–English Lexicon|A Greek-English Lexicon]], revised and augmented throughout'', "φιληλιάς", (Oxford, Clarendon Press: 1940) [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dfilhlia%2Fs]</ref> is preserved by [[Athenaeus]] in his ''[[Deipnosophistae|Deipnosophists]]'':
+{{Verse translation|italicsoff=y|
+'''718 Athen. 14. 619b (iii 365 [[Georg Kaibel|Kaibel]])'''
+{{lang|grc|ἡ δὲ εἰς Ἀπόλλωνα ᾠδὴ
+   ― φιληλιάς,―
+ὡς Τελέσιλλα παρίστησιν.}}|attr1=[[Marcus Musurus|Musurus]]: φηλικίας cod.
+|
+'''718 Athenaeus, Scholars at Dinner (on the names of songs)'''
+'The song to Apollo is the ''philhelias'',
+    [the sun-loving song],'
+as Telesilla has it.|attr2=Telesilla:Athenaeus, trans.David A. Campbell<ref>{{cite web|author=Athenaeus|accessdate=30 May 2015|title=''Fragmenta'', 718|url=http://www.loebclassics.com/view/telesilla-fragments/1992/pb_LCL461.79.xml}} {{Subscription needed|via=[[Loeb Classical Library|digital Loeb Classical Library]]}}</ref>}}
+
+==Description by Pausanias==
+
+She was sickly, so she went to the [[Pythia]] to consult about her health. Pythia told her: "τὰς Μούσας θεραπεύειν", which means "''serve [[the Muses]]''", and Telesilla devoted herself to poetry.
+	
+==Defence of Argos==
+
+When [[Cleomenes I|Cleomenes, king of Sparta]], invaded the land of the [[Argives]] in c. 494 BC, he defeated and killed all the [[hoplite]]s of Argos in the [[Battle of Sepeia]], and massacred the survivors. Thus when Cleomenes led his troops to Argos there were no warriors left to defend it.
+
+According to Pausanias, Telesilla stationed on the wall all the slaves and all the males normally exempt from military service owing to their youth or old age. Also, she collected the arms from sanctuaries and homes, armed the women and put them in battle position.<ref>[http://www.theoi.com/Text/Pausanias2B.html Pausanias:  Description of Greece, ARGOLIS- 2.20.9] "But Telesilla mounted on the wall all the slaves and such as were incapable of bearing arms through youth or old age, and she herself, collecting the arms in the sanctuaries and those that were left in the houses, armed the women of vigorous age, and then posted them where she knew the enemy would attack."</ref> When the Spartans appeared, they made a [[battle cry]] to scare Telesilla and the other women, but Telesilla's army didn't scare, stood their ground and fought valiantly.<ref>[http://www.theoi.com/Text/Pausanias2B.html Pausanias:  Description of Greece, ARGOLIS- 2.20.9] "When the Lacedaemonians came on, the women were not dismayed at their battle-cry, but stood their ground and fought valiantly."</ref> The Lacedaemonians, realizing that to destroy the women would be an invidious success while defeat would mean a shameful disaster, left the city.<ref>[http://www.theoi.com/Text/Pausanias2B.html Pausanias:  Description of Greece, ARGOLIS- 2.20.9] "Then the Lacedaemonians, realizing that to destroy the women would be an invidious success while defeat would mean a shameful disaster, gave way before the women."</ref>
+
+[[Polyaenus]] writes that her army repulsed Cleomenes, and the other king Damaratus ({{lang-grc|Δημάρατος}}), and saved the city.<ref name ="Polyaenus">[http://cts.perseids.org/read/greekLit/tlg0616/tlg001/1st1K-grc1/8.33 Polyaenus, Strategems, 8.68.1]</ref>
+
+According to [[Pausanias (geographer)|Pausanias]], at Argos there was a statue in relief in front of the temple of [[Aphrodite]] dedicated to Telesilla. The statue depicted a woman who holds in her hand a helmet, which she is looking at and is about to place on her head and books lying at her feet.<ref>[http://www.theoi.com/Text/Pausanias3A.html#3 Pausanias:  Description of Greece, ARGOLIS- 2.20.8] "Above the theater is a sanctuary of Aphrodite, and before the image is a slab with a representation wrought on it in relief of Telesilla, the lyric poetess. Her books lie scattered at her feet, and she herself holds in her hand an helmet, which she is looking at and is about to place on her head."</ref> This [[stele]] has also been described as depicting her throwing away her books and putting a helmet on her head, as a memory to her action.<ref>[https://topostext.org/work/240#tau.260 Suda Encyclopedia, tau.260]</ref>
+
+The festival [[Hybristica]] or [[Endymatia]], in which men and women exchanged clothes, also celebrated the heroism of her female compatriots.  However, the statue seen by [[Pausanias (geographer)|Pausanias]] may not have been intended for Telesilla; it would equally represent Aphrodite, in her character as consort of [[Ares]] and a warlike goddess (the books, however, seem out of place). The Hybristica, again, was most probably a religious festival connected with the worship of some [[androgynous]] divinity.<ref name="EB1911"/>
+
+Polyaenus writes that in memory of the women's success, the Argives celebrate a festival at the start of the month of Hermaeus. At the festival the women wear men's clothes, and the men women's clothes.<ref name ="Polyaenus"/>
+
+==Historicity==
+[[Herodotus]] (vi. 76) does not refer to the intervention of Telesilla, but mentions an [[oracle]], told by a Pythian priestess, which predicted that the female should conquer the male, whence the tradition itself may have been derived.<ref name="EB1911"/> This oracle is also quoted by Pausanias.
+The oracle was:
+
+:"But when the time shall come that the female conquers in battle, 
+:Driving away the male, and wins great glory in Argos, 
+:Then many wives of the Argives shall tear both cheeks in their mourning;"
+
+The existence of Telesilla and her poetry are unquestioned, but it is difficult to take Pausanias's account of her role in the abortive post-Sepeia siege of Argos at face value. Of all our sources on Telesilla and the aftermath of Sepeia, Pausanias is the most remote in time from the events in question. He viewed a much changed Argive cityscape, and heard stories that were susceptible to exaggeration or muddling of details. On the other hand, even if her role is not quite as Pausanias described it, the information gathered in his visit there proves that Telesilla had a great influence over an important event in Argive history that was still remembered more than half a millennium later.
+
+While disputing the exaggerated dramatic description of women and armed slaves mounting a probably non-existent wall as reported Pausanias, [[Richard Allan Tomlinson|RA Tomlinson]] thinks that Telesilla could have played a pivotal role in overseeing the distribution of [[arsenal|reserve arms]] from the temples of Argos and organizing a display of readiness that helped convince the Spartans not to attack the city of Argos itself. The story, even if it is incorrect on details, probably preserves a memory of a time of upheaval and [[social change]]. The relief of her described by Pausanias shows that the Argives still remembered her for her role in saving the city, even if the details were confused.
+
+Based on his studies of the archaeology of Argos and the analysis of other historians,  Tomlinson questions the historicity of Pausanias's account, noting that it is not clear from the archaeological record that the lower city of Argos was walled at this point in time.<ref name="tomlinson">[[Richard Tomlinson (academic)|RA Tomlinson]], ''Argos and the Argolid: From the End of the Bronze Age to the Roman Occupation'' (Ithaca, N.Y. : Cornell University Press, 1972) {{ISBN|0801407133}}</ref>{{rp|94}} Nevertheless, an assault on even the unwalled city itself by the Spartans, besides violating taboos against attacking women, would have potentially been very costly to them. For though the city may have lacked walls, it was protected on the west side by fortified hills, with a number of temples and other civic edifices that could double as strong points, and most of the streets were essentially very narrow [[alley]]s densely lined with housing and [[Sewage collection and disposal#Premodern systems|open sewers]].<ref name="tomlinson"/>{{rp|95, 153–4}}
+
+The Spartan army was optimized for fighting in close order on an open battlefield, not for [[urban warfare]]. Besides having no room for massed infantry tactics and manoeuvre, there was no reliable way for hoplites to defend themselves against [[Ranged weapon|missiles]] hurled from rooftops. Tomlinson states that it was not unusual in this time period for a Greek a city, walled or otherwise, to be defended by women in this manner when attacked, noting that [[Pyrrhus of Epirus]] later failed in his [[Siege of Sparta]], another unwalled city, and shortly afterwards was killed in his unsuccessful [[Siege of Sparta#Aftermath|attack on Argos]] after being knocked unconscious by a [[Tile#Roof tiles|roof tile]] hurled down by the mother of one of the armed male defenders. Unlike Pyrrhus, the Spartans were intelligent enough to avoid this kind of costly fighting; in addition, they were probably keen to keep some semblance of political order in Argos in order to keep it as a [[buffer state]] against Athens.<ref name="tomlinson"/>{{rp|94–5, 141, 154}}
+
+Tomlinson also notes that although Herodotus describes Argos after the battle as "emptied of men" and controlled by the "slaves", this likely means that the entire body of landowning male citizens of military age were killed, but not nearly all the men, as Argos was divided into a society of hoplites, craftsmen, and ''gymentes'' farmers at this time. As for the slaves, the term ''doulos'' used by Pausanias could mean 'slave', or simply "worker", and it is likely that in this instance it referred to the ''gymnetes'', a large body of disenfranchised free agricultural workers of the Argolid, not strictly speaking "slaves" who were bought and sold, in this he cites the evidence of [[Plutarch]], who corrected Herodotus. If so, like the wall, this would be another anachronism from Pausanias's time in which both the physical nature of Argos and its social organization and settlement patterns had changed. [[Aristotle]] called the ''douloi'' of contemporary Argos the ''perioikoi'', "the outdwellers", a term that at [[Sparta]] referred to the free population of non-citizens outside the city. These ''douloi'' seized [[Tiryns]], according to Herodotus, but afterwards there was a period of cooperation between them and the "Argives", until the prophet [[Cleander of Phigalea|Cleander]] exhorted the former to rise up and fight.
+
+A civil war ensued, with the end result that the Argives re-conquered the Argolid. Tomlinson interprets this as a time of Argive [[revanchism]] when the sons of the former ruling class who were wiped out at Sepeia grew up and reached military age, but also the beginning of a long period of turmoil which led to the end of the Argive oligarchy and the beginning of a transition to [[democracy]], less radical than Athens, but including a larger proportion of the free male population of the Argolid than was formerly the case. Many of the ''douloi'' had married the widows of the fallen hoplites, which set the city up for ongoing conflict between the heirs of the deceased former landowning class on the one hand, and the children of these second marriages and the propertyless farmers on the other.<ref name="tomlinson"/>{{rp|97–99}}This conflict continued even after the civil war ended, and flared up again in the ensuing centuries, most notably during the [[Skytalismos]], a political purge in which 1,200 rich citizens were massacred by [[Club (weapon)|clubbing]]. Although none of these were an instance of [[slave rebellion]] strictly defined, they would have evoked much the same reaction of alarm and contempt from aristocratic writers, and the arming of propertyless farm workers in large numbers and as anything but [[light infantry|light troops]] would have been an unusual and remarkable event in Greece at that time.<ref name="tomlinson"/>{{rp|140}}
+
+==Other==
+[[Lucian]] at his work [[Amores (Lucian)|Amores]] mentions that after Telesilla's victory against Spartans, [[Ares]] (the God of War) was held at [[Ancient Argos|Argos]] among the gods of the women.<ref>http://www.well.com/user/aquarius/lucian-amores.htm Telesilla, who armed herself against the Spartiates, and because of whom Ares is numbered at Argos among the gods of the women,...</ref>
+
+Pausanias also, mentions that Telesilla mentions in an ode the sanctuary of Artemis which is on top of Mount Coryphum in [[Epidaurus]]. He also states that the old boundary between the destroyed Argive city of [[Asine]] and the territory of Epidaurus may have been a twisted olive tree midway up the mountain.<ref>[http://www.theoi.com/Text/Pausanias2B.html Pausanias:  Description of Greece, ARGOLIS- 2.28.2] "On the Top of the mountain there is a sanctuary of Artemis Coryphaea (of the Peak), of which Telesilla mention in an ode."</ref>
+
+According to [[Tatian]], Telesilla was commemorated by a statue in the [[Theatre of Pompey]], a work of [[Niceratus (sculptor)|Niceratus]].<ref>''One Hundred Greek Sculptors, Their Careers and Extant Works'' 2.5, citing Tatian, Oratio ad Graecos'' 33 [https://www.perseus.tufts.edu/hopper/text?doc=Stewart+sculpture+2.5&fromdoc=Perseus%3Atext%3A1999.04.0008]</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* David Campbell, ''Greek Lyric IV'' (Loeb Classical Library, 1992), pp.&nbsp;70–83.
+* [[Reginald Walter Macan]], ''Herodotus'' iv.–vi., i. 336 foll. and notes.
+* [[Pausanias (geographer)|Pausanias]] ii. 20, 8
+* [[Plutarch]], ''De Virtut. Mulierum'', 8
+* [[Clement of Alexandria]], ''[[Stromata]]'', iv. 19, p.&nbsp;522
+* [[Theodor Bergk]], ''Poetae Lyrici Graeci'', iii.
+
+==External links==
+* [http://www.projectcontinua.org/telesilla/ Project Continua: Biography of Telesilla]  Project Continua is a web-based multimedia resource dedicated to the creation and preservation of women's intellectual history from the earliest surviving evidence into the 21st Century.
+
+{{Authority control}}
+
+[[Category:Women in ancient Greek warfare]]
+[[Category:Ancient Greek lyric poets]]
+[[Category:Ancient Argives]]
+[[Category:6th-century BC poets]]
+[[Category:6th-century BC Greek women]]
+[[Category:6th-century BC women writers]]
+[[Category:6th-century BC writers]]
+[[Category:Ancient Greek women poets]]
+[[Category:Ancient Greek military writers]]

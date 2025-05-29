@@ -1,0 +1,146 @@
+{{Infobox person
+| honorific_prefix   = 
+| name               =  Gopal Prasad Rimal
+| honorific_suffix   = 
+| image              =Gopal Prasad Rimal.jpg
+| image_size         = 
+| alt                = 
+| caption            =Photo of Poet Gopal Prasad Rimal (1917-1973) 
+| native_name        = गोपाल प्रसाद रिमाल
+| native_name_lang   = 
+| birth_name         =  <!-- only use if different from name above -->
+| birth_date         =  {{birth date |1917|5|21|df=y}}
+| birth_place        = [[Kathmandu]], [[Nepal]]
+| baptised           =  <!-- will not display if birth_date is entered -->
+| disappeared_date   =  <!-- {{disappeared date and age|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         =  {{death date and age|1973|10|24|1917|5|21|df=y}}
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates =  <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| residence          = 
+| nationality        = Nepali
+| other_names        = 
+| ethnicity          =  <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+| occupation         = 
+| years_active       = 
+| employer           = 
+| organization       = 
+| agent              = 
+| known_for          = 
+| notable_works      = 
+| style              = 
+| home_town          = 
+| salary             = 
+| net_worth          =  <!-- Net worth should be supported with a citation from a reliable source -->
+| height             =  <!-- {{height|cm=X}} OR {{height|ft=X|in=Y}}-->
+| weight             =  <!-- {{convert|X|kg|lb|0|abbr=on}} or {{convert|X|lb|kg|0|abbr=on}} -->
+| television         = 
+| title              = 
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| religion           =  <!-- Religion should be supported with a citation from a reliable source -->
+| denomination       =  <!-- Denomination should be supported with a citation from a reliable source -->
+| criminal_charge    =  <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   = 
+| criminal_status    = 
+| spouse             = 
+| partner            =  <!-- (unmarried long-term partner) -->
+| children           = 
+| parents            = 
+| relatives          = 
+| callsign           = 
+| awards             = [[Madan Puraskar]] (1962) [[Tribhuwan Pragya Puraskar]] (1973)
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_alt      = 
+| signature_size     = 
+| website            =  <!-- {{URL|example.com}} -->
+| footnotes          = 
+| box_width          = 
+}}
+
+'''Gopal Prasad Rimal''' (or '''{{lang-ne|गोपाल प्रसाद रिमाल}};  Gopālprasād Rimāl''', 1917–1973) was a [[poet]] from [[Kathmandu]], [[Nepal]]. According to scholar [[Michael Hutt (orientalist)|Michael J. Hutt]], "he is remembered as the first "revolutionary" Nepali poet and the first to reject the use of [[Metre (poetry)|meter]]".<ref name = "hutt">''[http://publishing.cdlib.org/ucpressebooks/view?docId=ft729007x1&chunk.id=d0e4387&toc.depth=1&toc.id=d0e4387&brand=ucpress Himalayan Voices: An Introduction to Modern Nepali Literature]'' (Voices from Asia), edited and translated by [[Michael Hutt (orientalist)|Michael J. Hutt]], University of California Press, 1991. p. 73. {{ISBN|9780520910263}}</ref>
+
+== Biography and career ==
+His parents were Umakanta Rimal and Aditya Kumari Rimal. His first poem, entitled "Kavi ko Gayan" was published in a monthly magazine, "Sarada".
+
+During Rimal's adolescence, he came under the influence of revolutionaries who were aspiring to overthrow the [[Rana dynasty]]. Rimal began his career as a successful poet in 1930 and as a playwright in 1940. In 1941, after the [[Capital punishment|execution]] of a group of political agitators, including [[Dashrath Chand]], Rimal gathered a group of young poets to protest together by singing hymns, at [[Pashupatinath Temple]] in the mornings, and at the shrine of Shobhā Bhagavatī in the evenings.
+
+Rimal founded a creative organization called "Praja Panchayat" to oppose the Rana rulers and was imprisoned on several occasions for his involvement in the movement.  He played a pivotal role in making the 1950–52 [[Democratic Movement (Nepal)|Democratic Movement]] successful, but became disillusioned, and "felt betrayed by the factional strife."<ref name = "hutt75">''[http://publishing.cdlib.org/ucpressebooks/view?docId=ft729007x1&chunk.id=d0e4387&toc.depth=1&toc.id=d0e4387&brand=ucpress Himalayan Voices: An Introduction to Modern Nepali Literature]'' (Voices from Asia), edited and translated by [[Michael Hutt (orientalist)|Michael J. Hutt]], University of California Press, 1991. p. 75. {{ISBN|9780520910263}}</ref>
+
+His dreams of a democratic Nepal shattered, Rimal subsequently lost his mental balance and was sent to an asylum in [[Ranchi district|Ranchi]]. Later, he was brought back to Nepal to spend the rest of his life roaming insane in the streets of Kathmandu. Rimal died in 1973.<ref name = "hutt75" />
+
+=="Jangi Nishan Hamro"==
+<br />
+'''Jungi Nishan Hamro({{lang-ne|"जङ्गी निसान हाम्रो"}})'''<br>
+<nowiki>:</nowiki>रातो र चन्द्रसुर्जे, जङ्गी निसान हाम्रो।<br>
+<nowiki>:</nowiki>जिउँदो रगतसरि यो, बल्दो यो सान हाम्रो॥<br>
+<nowiki>:</nowiki>हिमालझैं अटल यो, झुकेन यो कहिल्यै।<br>
+<nowiki>:</nowiki>लत्रेन यो कहिल्यै, जङ्गी निसान हाम्रो॥<br>
+<nowiki>:</nowiki>यो जन्मँदै जगत्मा कैयौं प्रहार आए।<br>
+<nowiki>:</nowiki>साम्राज्य दुई हारे, हारेन सान हाम्रो॥<br>
+<nowiki>:</nowiki>जबसम्म चन्द्रसुर्जे आकाशमा रहन्छन्।<br>
+<nowiki>:</nowiki>तबसम्म हुन्छ आफ्नै रातो रगत यो हाम्रो॥<br>
+<nowiki>:</nowiki>गाईसरि छन् साधु जोजो यहाँ जगत्मा।<br>
+<nowiki>:</nowiki>सबको सरन बलियो, जङ्गी निसान हाम्रो॥
+
+== Awards ==
+Rimal received the [[Madan Puraskar]] in 1962.<ref name = "hutt75" /> for his collection of poems 'Aama ko sapana'
+
+== Works ==
+Gopal Prasad Rimal's "Ama ko sapana" literally 'Mother's Dream' is a popular poem in Nepal.
+
+== Influence ==
+Poet [[Banira Giri]] was "first woman to be awarded a Ph.D. by [[Tribhuvan University]] for her thesis on the poetry of Gopal Prasad Rimal."<ref>{{Cite web
+| title = Banira Giri (b. 1946)
+| work = Himalayan Voices
+| accessdate = 2014-07-11
+| date = 1991
+| url = http://publishing.cdlib.org/ucpressebooks/view?docId=ft729007x1&chunk.id=d0e8862&toc.depth=1&toc.id=d0e8862&brand=ucpress
+}}</ref>
+==See also==
+*[[List of Nepalese poets]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://sanjaal.com/nepalipoems/category/gopal-prasad-rimal/ Collected Poems Of Gopal Prasad Rimal], in "Nepali Poems", compiled by Sanjaal Corps
+
+{{lists of poets}}
+
+{{Authority control}}
+
+صصصصقك
+
+{{DEFAULTSORT:Romal, Gopal Prasad}}
+[[Category:Nepalese male poets|Rimal]]
+[[Category:Nepalese dramatists and playwrights]]
+[[Category:Nepalese prisoners and detainees]]
+[[Category:Nepalese activists]]
+[[Category:Prisoners and detainees of Nepal]]
+[[Category:1917 births]]
+[[Category:1973 deaths]]
+[[Category:People from Kathmandu]]
+[[Category:Madan Puraskar winners]]
+[[Category:20th-century Nepalese poets]]
+[[Category:20th-century dramatists and playwrights]]
+[[Category:20th-century male writers]]

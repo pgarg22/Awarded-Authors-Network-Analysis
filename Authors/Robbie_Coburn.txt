@@ -1,0 +1,94 @@
+{{short description|Australian writer}}
+{{Use dmy dates|date=October 2019}}
+{{Use Australian English|date=March 2014}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name = Robbie Coburn
+| image = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX-JiFeMnkaXV1oug9vNXlOlBmEHoIMkwj_lO31Pv-05x7DoEGoQ
+| image_size =50 
+| alt = 
+| caption = 
+| pseudonym = 
+| birth_name = Robert Lee Coburn
+| birth_date = {{Birth date and age|df=y|1994|6|25}}
+| birth_place = [[Melbourne]], Australia
+| death_date = <!-- {{Death date and age|df=y|Year|Month|Day|Year|Month|Day}} -->
+| death_place = 
+| resting_place = 
+| occupation = Poet, writer
+ 
+| nationality = Australian
+| ethnicity = 
+| citizenship =
+| education = 
+| alma_mater = 
+| period = 
+| genre = Poetry
+| subject = 
+| movement = 
+| notableworks = 
+| spouse =
+| partner = 
+| children =
+| relatives = 
+| influences = 
+| influenced = 
+| awards = 
+| signature = 
+| signature_alt = 
+| website = {{URL|www.robbiecoburn.com}}
+}}
+'''Robbie Coburn''' (born 25 June 1994) is a contemporary Australian poet and writer.
+
+==Life and work==
+
+Coburn was born in [[Melbourne]] and grew up on his family's farm in [[Woodstock, Victoria]]. His father was a [[horse trainer]] and later a [[greyhound trainer]], which is a large focus of his poetry.
+He was educated at [[Whittlesea Primary School]] and [[Assumption College, Kilmore]] and briefly studied at [[La Trobe University]] before dropping out of his degree. He began suffering from depression as a teenager and has struggled with addictions to alcohol and various drugs, as well as with self-harm.
+He began writing poetry at the age of 14, influenced by the works of [[Edgar Allan Poe]]. 
+
+Coburn's first published poem appeared in anarchist poet [[Pi O]]'s literary journal ''Unusual Work'' when he was 17 years old<ref name="austlit">[http://www.austlit.edu.au/austlit/page/A147275?mainTabTemplate=agentDefault], ''AustLit: The Australian Literature Resource'', 19 May 2014</ref> and he has since been published in many journals and magazines, including [[Poetry magazine|''Poetry'']], ''[[Meanjin]]'', [[Island magazine|''Island'']] and [[Westerly (Australian literary magazine)|''Westerly'']]. Some of his poems have also been included in major anthologies.
+
+His first full-length collection of poems ''Rain Season'' was published in 2013.
+A second collection ''The Other Flesh'' was published by [[UWA Publishing]] in 2019.
+
+In 2021, Coburn published "Home for the Rodeo", an essay detailing his struggles with alcoholism and his love of the sport of [[rodeo]], on his website.<ref name="www.robbiecoburn.com">[https://robbiecoburn.com], ''www.robbiecoburn.com'', 27 October 2021</ref>
+
+== Works ==
+
+=== Bibliography ===
+
+==== Poetry ====
+
+*''Rain Season'' (2013)
+*''The Other Flesh'' (2019)
+
+==== Anthologies ====
+
+*''Writing to the Wire''. Dan Disney (ed.), Kit Kelen (ed.) ([[UWA Publishing]], 2016)
+*''To End All Wars''. Dael Allison (ed.), Anna Couani (ed.), Kit Kelen (ed.), Les Wicks (ed.) ([[Puncher & Wattmann]], 2018)
+
+==== Short Fiction Collections ====
+
+* ''Theatre of Nightmares'' (2010)
+
+==See also==
+*[[List of Australian poets]]
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.poetryfoundation.org/bio/robbie-coburn Poetry Foundation] profile
+* [http://www.robbiecoburn.com Official website]
+* [https://meanjin.com.au/poetry/convalescence/ Poem] in [[Meanjin]]
+* [https://overland.org.au/2014/10/emerging-poet-series-robbie-coburn/ Profile in Overland] by [[Peter Minter]]
+* [http://mascarareview.com/5829-2/ 2 poems] in Mascara Literary Review
+* [http://wonderbookofpoetry.org/robbie-coburns-suicide-country/ Robbie Coburn's 'Suicide Country']
+* [http://www.foame.org/Issue11/poems/coburn.html 3 poems] in foam:e
+
+{{Authority control}}
+
+{{DEFAULTSORT:Coburn, Robbie}}
+[[Category:Living people]]
+[[Category:Australian poets]]
+[[Category:1994 births]]
+[[Category:People with mood disorders]]

@@ -1,0 +1,71 @@
+{{For|the Slovenian footballer|Milan Rakič}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|name        = Milan Rakić
+|image       = Milan Rakić.jpg
+|imagesize   = 185px
+|caption     = 
+|birth_date  = 18 September 1876
+|birth_place = [[Belgrade]], [[Principality of Serbia]]
+|death_date  = {{death date and age|1938|06|30|1876|09|18|df=yes}}
+|death_place = [[Zagreb]], [[Kingdom of Yugoslavia]]
+| resting_place = [[Belgrade New Cemetery]]
+|occupation  = Writer, poet, diplomat
+|nationality = Serbian
+|alma_mater  = 
+|period      = 
+|genre       =
+|notableworks = 
+|influences  =
+|influenced  =
+|website = 
+}}
+
+'''Milan Rakić''' ([[Serbian Cyrillic alphabet|Serbian Cyrillic]]: Милан Ракић; 18 September 1876 – 30 June 1938) was a Serbian [[poet-diplomat]]<ref name="Novosti ref">{{cite web |url=http://www.novosti.rs/dodatni_sadrzaj/clanci.119.html:591906-Pesnik-diplomata-i-oslobodilac |author=Večernje novosti |author-link=Večernje novosti |title= Pesnik, diplomata i oslobodilac |accessdate=2019-10-04 |date=2016-02-20 |language=Serbian}}</ref> and academic.
+
+He focused on [[dodecasyllable]] and [[hendecasyllable]] verse, which allowed him to achieve beautiful [[rhythm]] and [[rhyme]] in his poems. He was quite a perfectionist and therefore only published two collections of poems (1903, 1912). He wrote largely about death and non-existence, keeping the tone sceptical and ironic. Two of his most well-known poems are ''An Honest Song'' (Iskrena pesma), ''A Desperate Song'' (Očajna pesma), ''Jefimija'', ''[[Simonida]]'' and ''At [[Gazimestan|Gazi-Mestan]]'' (Na Gazi-Mestanu). He was a member of the Serbian Royal Academy (1934).
+
+==Biography==
+[[File:Спомен-биста Милану Ракићу у Београду 1.jpg|thumb|right|Bust of Milan Rakić in Belgrade]]
+===Early life===
+Rakić was born on 18 September 1876 in [[Belgrade]] to father [[Mita Rakić|Mita]] and mother Ana (née Milićević). His father, educated abroad, was Serbia's Minister of Finance (1888) and his mother was the daughter of Serbian writer [[Milan Milićević]].
+
+He finished elementary school (grade school) and high school (gymnasium) in [[Belgrade]]. He completed law school in Paris. It was in Paris that he, like [[Jovan Dučić]], came under the influence of French Symbolist poets. They both had learned to admire French culture and had dreamed of a better world after the war. After returning to Belgrade from [[Paris]] he became a diplomat (also like Dučić) for the Serbian (and later [[Kingdom of Yugoslavia|Yugoslav]]) government and remained in that job until nearly his death, representing the country abroad.<ref name="Novosti ref"/>
+
+===Personal life===
+His sister Ljubica was married to [[Milan Grol]]; and his wife Milica was the daughter of [[Ljubomir Kovačević]], a distinguished Serbian historian and politician.
+
+===Death===
+He died prematurely in 1938 in [[Zagreb]] after a surgical operation. He is interred in the [[Belgrade New Cemetery]].<ref>[http://graves.mf.uni-lj.si/graves/1626/milan-rakic International graves]</ref>
+
+==Works==
+* ''Collection of Poems'', 1903
+* ''Collection of Poems'', 1912
+* ''Collection of Poems'', 1924
+
+==References==
+{{Reflist}}
+
+==Sources==
+* [[Jovan Skerlić]], ''Istorija nove srpske književnosti'' (Belgrade, 1914 and 1921), pp.&nbsp;458–60.<!-- publisher?? -->
+
+==External links==
+{{Wikisource author}}
+{{commons category}}
+* {{Find a Grave|18657791|Milan Rakić}}
+* [https://web.archive.org/web/20051025104712/http://suc.suc.org/culture/history/Hist_Serb_Culture/chr/New_Literature.html Article on Serbian Poetry]
+* [https://sites.google.com/site/projectgoethe/Home/milan-raki Translated works by Milan Rakić]
+* {{Librivox author |id=12068}}
+
+{{Authority control}}
+{{Serbian literature}}
+
+{{DEFAULTSORT:Rakic, Milan}}
+[[Category:1876 births]]
+[[Category:1938 deaths]]
+[[Category:Writers from Belgrade]]
+[[Category:20th-century Serbian people]]
+[[Category:Serbian male poets]]
+[[Category:Diplomats from Belgrade]]
+[[Category:People from the Principality of Serbia]]
+[[Category:People of the Kingdom of Yugoslavia]]
+[[Category:Burials at Belgrade New Cemetery]]

@@ -1,0 +1,62 @@
+{{short description|American computer programmer and author|bot=PearBOT 5}}
+{{Infobox person
+| name        = Lynn Abbey
+| image       =
+| birthname   = Marilyn Lorraine Abbey
+| birth_date  = {{Birth date and age|1948|09|18}}{{citation needed|date=May 2015}}
+| birth_place = [[Peekskill, New York]]
+| occupation  = Author
+| spouse      = [[Robert Asprin]] (to 1993)
+}}
+
+'''Marilyn Lorraine "Lynn" Abbey''' (born September 18, 1948) is an American fantasy author.
+
+==Background==
+Born in [[Peekskill, New York]],<ref name="wizardsbio">{{cite web|url=http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=LynnAbbey|title=Lynn Abbey|archiveurl=https://web.archive.org/web/20090224010226/http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=LynnAbbey|archivedate=February 24, 2009}}</ref> Abbey was daughter of Ronald Lionel (an insurance manager) and Doris Lorraine (a homemaker; maiden name, De Wees).{{citation needed|date=May 2013}} She attended the [[University of Rochester]], where she began as an [[astrophysics]] major.<ref name="wizardsbio"/> She earned a A.B. (1969) and an M.A. (1971) in [[European history]],<ref>[http://www.encyclopedia.com/doc/1G2-3433500012.html "ABBEY, Marilyn Lorraine 1948- (Lynn Abbey)"] in ''Encyclopedia.com'' from ''Something About the Author, 2005''</ref> but shifted to [[computer programming]] as a profession "when my advisor pointed out that, given the natural rise and fall of demographic curves, tenured university faculty positions were going to be as scarce as hen's teeth for the next twenty-five years and my education was turning into an expensive hobby. (He was right, too.)"<ref>[http://www.lynnabbey.com/html/biography.html Biography on Abbey's website]</ref> She had married Ralph Dressler July 14, 1969; they were divorced October 31, 1972.<ref>{{Cite web|url=https://www.encyclopedia.com/children/scholarly-magazines/abbey-marilyn-lorraine-1948|title=Abbey, Marilyn Lorraine 1948- {{!}} Encyclopedia.com|website=www.encyclopedia.com|access-date=2020-01-21}}</ref> During this period she also became a member of [[science fiction fandom]].
+
+==Move to Michigan; accident and aftermath==
+In 1976, after a stint as a programmer for insurance companies, and work on the [[New York (state)|state]] [[task force]] involved in documenting the [[History of New York City (1946–1977)#1970s|New York City bankruptcy crisis]], she moved to [[Ann Arbor, Michigan]].<ref name="wizardsbio"/> In January 1977, she was injured in an automobile accident while going to pick up [[Gordon R. Dickson]], who was to be a Guest of Honor at that year's [[ConFusion]].<ref name="wizardsbio"/> The guilt-ridden Dickson volunteered to assist her by reading and critiquing her work (she'd been writing since childhood).<ref name="wizardsbio"/> The manuscript he helped her with became ''Daughter of the Bright Moon''.<ref name="wizardsbio"/>
+
+==Publication and marriage==
+Abbey began publishing in 1979 with ''Daughter of the Bright Moon'' and the short story "The Face of Chaos," in ''[[Thieves' World (1979 anthology)|Thieves' World]]'', the first part of the ''[[Thieves World]]'' [[shared world]] [[anthology]].
+
+On August 28, 1982 she married [[Robert Asprin]], editor of the Thieves World books, and became his co-editor.  She also contributed to other shared world series during the 1980s, including ''[[Heroes in Hell]]'' and ''[[Merovingen Nights]]''.
+
+She began writing for [[TSR, Inc.]] around 1994 while continuing to write novels and editing anthologies. Her works for TSR include stories set in the [[Forgotten Realms]] and the [[Dark Sun]] settings.  Lynn Abbey wrote for TSR's Dark Sun series starting with ''The Brazen Gambit''.  Further novels in the series include ''The Rise and Fall of a Dragon King'', a novel exploring the topic of genocide, a central theme in the ancient history of [[Athas]], the world on which the Dark Sun setting takes place.  Along with ''Cinnabar Shadows'', all three of Abbey's books written for the [[Athas]]ian setting take place in and around the [[Dark Sun#City States|City-state]] of [[Dark Sun#Urik|Urik]].<ref>{{cite web|url=http://www.hitpointe.com/tsr/info/infonvl.htm|title=Penhaligon Trilogy|work=hitpointe.com|accessdate=2015-07-14}}</ref>
+
+==Divorce and moves==
+Abbey and Asprin divorced in 1993 and Abbey moved to [[Oklahoma City]].<ref name="wizardsbio"/>  She continued to write novels during this period, including original works as well as tie-ins to [[role playing games]] for [[TSR, Inc.|TSR]].<ref name="wizardsbio"/>  In 2002, she returned to Thieves World with the novel ''Sanctuary'' and also began editing new anthologies, beginning with ''Turning Points''. In 2006, she was a writer on [[Green Ronin]]'s version of ''Thieves World''.<ref>{{Cite web|title=Gaming Thieves' World|url=http://www.lynnabbey.com/html/gaming_thieves__world.html|access-date=2020-12-25|website=www.lynnabbey.com}}</ref><ref>{{Cite web|last=Sass|first=Evan|date=2005-05-31|title=Thieves' World Interview with Lynn Abbey and Robert J. Schwalb • Green Ronin Publishing|url=https://greenronin.com/blog/2005/05/31/thieves_world_interview_with_l/|access-date=2020-12-25|website=Green Ronin Publishing|language=en-US}}</ref> She has lived in [[Leesburg, Florida]] since 1997.<ref>{{Cite web|title=Xmas 2007|url=http://www.lynnabbey.com/html/xmas_2007.html|access-date=2020-12-25|website=www.lynnabbey.com}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[https://www.facebook.com/lynn.abbey.5 Facebook page]
+*[http://www.sfsite.com/11a/la139.htm Interview with Lynn Abbey]
+*{{iblist name|id=515|name=Lynn Abbey}}
+*{{ibdof name|id=496|name=Lynn Abbey}}
+*{{isfdb name|115|name=Lynn Abbey}}
+*{{cite web|url=http://pen-paper.net/rpgdb.php?op=showcreator&creatorid=4811 |archive-date=January 2, 2011 |title=Lynn Abbey :: Pen & Paper RPG Database|url-status=live |archiveurl=https://web.archive.org/web/20110102231613/http://pen-paper.net/rpgdb.php?op=showcreator&creatorid=4811}}
+* {{LCAuth|n80090691|Lynn Abbey|33|}}
+
+{{D&D topics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Abbey, Lynn}}
+[[Category:1948 births]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American novelists]]
+[[Category:21st-century American women writers]]
+[[Category:American book editors]]
+[[Category:American fantasy writers]]
+[[Category:American science fiction writers]]
+[[Category:American women novelists]]
+[[Category:Living people]]
+[[Category:People from Leesburg, Florida]]
+[[Category:People from Peekskill, New York]]
+[[Category:Science fiction fans]]
+[[Category:University of Rochester alumni]]
+[[Category:Women print editors]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Women speculative fiction editors]]

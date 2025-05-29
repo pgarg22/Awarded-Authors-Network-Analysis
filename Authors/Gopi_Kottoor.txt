@@ -1,0 +1,233 @@
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox person
+| honorific_prefix   = 
+| name               = Gopikrishnan Kottoor
+| honorific_suffix   = 
+| image              = GopiKottoor.jpg
+| image_upright      = 
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| pronunciation      = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = <!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->
+| birth_place        = [[Thiruvananthapuram]], [[Kerala]]
+| baptised           = <!-- will not display if birth_date is entered -->
+| disappeared_date   = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place  = 
+| disappeared_status = 
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (enter DEATH date then BIRTH date (e.g., ...|1908|31|8|1967|28|2}} use both this parameter and |birth_date to display the person's date of birth, date of death, and age at death) -->
+| death_place        = 
+| death_cause        = 
+| body_discovered    = 
+| resting_place      = 
+| resting_place_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| burial_place       = <!-- may be used instead of resting_place and resting_place_coordinates (displays "Burial place" as label) -->
+| burial_coordinates = <!-- {{coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments          = 
+| nationality        = [[Indian people|Indian]]
+| other_names        = Raghav G. Nair
+| citizenship        = 
+| education          = 
+| alma_mater         = 
+| occupation         = Retired Senior Banker
+| years_active       = 
+| era                = 
+| employer           = 
+| organization       = [[Indian Writers Association]]
+| agent = <!-- Discouraged in most cases, specifically when promotional, and requiring a reliable source -->
+| known_for          = 
+| notable_works      = <!-- produces label "Notable work"; may be overridden by |credits=, which produces label "Notable credit(s)"; or by |works=, which produces label "Works"; or by |label_name=, which produces label "Label(s)" -->
+| style              = 
+| salary             = 
+| net_worth          = <!-- Net worth should be supported with a citation from a reliable source -->
+| height             = <!-- "X cm", "X m" or "X ft Y in" plus optional reference (conversions are automatic) -->
+| weight             = <!-- "X kg", "X lb" or "X st Y lb" plus optional reference (conversions are automatic) -->
+| television         = 
+| title              = <!-- Formal/awarded/job title. The parameter |office=may be used as an alternative when the label is better rendered as "Office" (e.g. public office or appointments) -->
+| term               = 
+| predecessor        = 
+| successor          = 
+| party              = 
+| movement           = 
+| opponents          = 
+| boards             = 
+| criminal_charge    = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty   =  
+| criminal_status    = 
+| spouse             = <!-- Use article title or common name -->
+| partner            = <!-- (unmarried long-term partner) -->
+| children           = 
+| parents            = <!-- overrides mother and father parameters -->
+| mother             = <!-- may be used (optionally with father parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| father             = <!-- may be used (optionally with mother parameter) in place of parents parameter (displays "Parent(s)" as label) -->
+| relatives          = 
+| family             = 
+| callsign           = 
+| awards             = 
+| website            = <!-- {{URL|example.com}} -->
+| module             = 
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+'''Gopikrishnan Kottoor''' is the pen name of '''Raghav G. Nair'''<ref>{{cite web|title=Sahitya Akademi : Who's Who of Indian Writers|url=http://sahitya-akademi.gov.in/sahitya-akademi/SASearchSystem/sauser/writerinfo.jsp?wrids=2849 |website=Sahitya Akademi|publisher=Sahitya Akademi|accessdate=27 October 2015}}</ref> (born 1956, [[Thiruvananthapuram]], Kerala), an [[Indian English]] poet. He is best known for his poem "[[Father, Wake Us In Passing]]". He is also the founder editor of quarterly poetry journal ''[[Poetry Chain]]''. Kottoor lives in [[Trivandrum]], [[Kerala]]. 
+
+==Early life and education==
+Kottoor studied at the Loyola English School and Arya Central School, [[Trivandrum]]. He obtained his Bachelor's and Masters degrees in English from the Institute of English, Trivandrum. Kottoor won his first poetry prize in University college poetry competitions, and soon published his poetry in Indian magazines publishing poetry in English. He attended the Master of Fine Arts (Poetry) program of the [[Texas State University]], Southwest Texas, US. In 2005, he was Poet-in-Residence at the [[University of Augsburg]], Germany, on a sponsorship by the Indian Council of Cultural Relations (ICCR) in association with [[Rabindranath Tagore|Tagore]] Centre, [[Berlin]].<ref>{{cite web|url= https://www.melodicverses.com/poets/1181/Gopi-Krishnan-Kottoor|title= Gopi Kottoor – A Short Biography| accessdate= 2020-10-27}}</ref> On 4 August 2019, he was requested to join the Indian Writers Association as a member of its advisory board.<ref>{{Cite web|url=http://www.inwa.in/advisory-board|title=Advisory Board {{!}} Indian Writers Association|website=Indian Writers Assoc|language=en|access-date=2019-08-17}}</ref>
+
+==Career==
+===As poet===
+
+Gopi Kottoor won both the All-India Special Poetry Prize of the [[British Council]]-Poetry Society, India All India Poetry Competitions (AIPC) in 1997 for his poem "These are the things we could talk about" and Second Prize for his poem "[[Digging...|Digging]]" in the General Category of the Competition in 1997.<ref>{{cite web|title= All-India Poetry Competition, 1997|publisher= IndiaStar Review of Books, July 2004|url= http://www.indiastar.com/1997poetry.html |accessdate= 25 August 2007}}</ref> Between 1995 and 1998, he won two more poetry prizes presented by the British Council – Poetry Society (India) sponsored All India Poetry Competitions (AIPC).<ref>{{cite web|title= All-India Poetry Competition, 1998 |publisher= IndiaStar Review of Books, July 2004 |url= http://www.indiastar.com/1998poetry.html |accessdate= 25 August 2007}}</ref><ref>{{cite web|title= All-India Poetry Competition, 1995|publisher= The Poetry Society India 1995 |url= http://indianpoetry.org/comp6.htm |accessdate= 25 August 2007}}</ref>
+
+Kottoor's "[[Father, Wake Us In Passing]]" (2000), which won for the poet a Residency in the [[University of Augsburg]], Germany, is a touching poem sequence on his father in coma, and dying. It has received rave reviews.<ref>{{cite web|url=http://www.thefreelibrary.com/Father%3A+Wake+Us+in+Passing.+(India).-a082262857|title= Review – "Father Wake Us in Passing"}}</ref> Kottoor's poetry has appeared in international journals that include  ''Orbis (UK) '', ''Ariel'' ([[University of Calgary]]), ''Toronto Review (Canada)'', ''Plaza (Japan)'', Arabesques Review (Africa), ''Persona ([[Texas State University]] Journal)'', '' Bluefifth Online (UK)'',  ''Chiaroscuro Magazine (UK)'', ''Levure littéraire (UK)'', ''Big bridge (UK) '', ''Nth Position (UK)'', '' New English Review (UK) '' and others.<ref>{{cite web|title= NewEnglishReview |publisher= EnglishReview, Dec 2015|url= http://www.newenglishreview.org/custpage.cfm/frm/184268/sec_id/184268 | accessdate= 29 December 2015}}</ref> <ref>{{cite web|title= Nthposition |publisher= nthposition, July 2009|url= http://www.nthposition.com/author.php?authid=788 | accessdate= 25 February 2010}}</ref> His poems are also featured in the anthology, ''[[The Dance of the Peacock]]''.<ref name="brook">{{cite news|last1=Grove|first1=Richard|title=The Dance of the Peacock:An Anthology of English Poetry from India|url=http://hiddenbrookpress.com/Book-Indo-EnglishPoetry.html |accessdate=5 January 2015 |issue=current|publisher=Hidden Brook Press, Canada}}</ref><ref name="press">{{cite web|last1=Press|first1=Hidden Brook|title=Hidden Brook Press|url=http://hiddenbrookpress.com|publisher=Hidden Brook Press |accessdate=5 January 2015}}</ref> 
+===As playwright===
+
+Kottoor's play ''The Nectar of the Gods'' (2015) is a socio-historical take on the life of the palace soldier Devasahayam (Lazarus), who was executed following his conversion to Christianity during the reign of King Marthanda Varma (Kerala, 18c). His other plays include ''The Mask of Death'', a radio-play on the dying days of the [[Romantic poetry|Romantic]] poet [[John Keats]] in Rome, ''Fire in the Soul'', a play on the life and times of the Nationalist rebel poet of [[India]], [[Subramania Bharati]], and ''A Woman in Flames.''
+
+===As novelist===
+
+Kottoor's first novel, ''A Bridge Over Karma'', was translated into Malayalam and serialized in the popular Malayalam journal ''Kala Kaumudi''. 
+
+===As editor===
+
+Kottoor founded and edited ''[[Poetry Chain]]'', a quarterly for [[Indian poetry in English]], which ran from 1997–2007.<ref>{{cite web|url= https://poetrychain.webs.com/aboutus.htm|title= Review – Poetry Chain Website| accessdate= 2020-10-27}}</ref> He also edits the E-zine Underground Flowers.<ref>{{cite web|url= http://lifeandlegends.com/gopikrishnan-kottoor/|title= Gopi Kottoor – Life and Works| accessdate= 2020-10-27}}</ref>
+
+==Awards==
+
+* ''All India Poetry Competition (First Prize), The Poetry Society India, 2017.''<ref>[http://www.indianpoetry.org/TPS-AIPC-2017-JUDGING-PRESS%20RELEASE-Nov%203,%202017.docx]</ref>
+* ''All India Special Poetry Prize, Poetry Society, India and The British Council, 1997.''
+* ''All India Poetry Prize (Second Prize), Poetry Society, India and The British Council, 1997.''
+* ''All India Poetry Awards, Commendation prizes, 1995 & 1998.''
+* ''The Bharathi Prize, Chennai (1995)''
+* ''The Kerala University College Prize (1976)''
+* ''The Clover Poetry Prize, Commendation (1973)''
+
+==Honours==
+* ''Philip McCormick Scholarship, Texas State University, Texas, US 2000''
+* ''Distinguished Guest from India, [http://mea.gov.in/Uploads/PublicationDocs/167_Annual-Report-2005-2006.pdf Government of India Annual Report 2005-2006,(p) 152]''
+* ''Michael Madhusudan Dutt Award''
+* ''D.Litt, World Academy of Arts, California, US''
+* ''21 Top Indian Poets''<ref>{{Cite web |url=http://e-booksindia.com/21-top-indian-poets-to-follow-on-facebook/ |title=Archived copy |access-date=8 June 2015 |archive-url=https://web.archive.org/web/20150609234852/http://e-booksindia.com/21-top-indian-poets-to-follow-on-facebook/ |archive-date=9 June 2015 |url-status=dead }}</ref>
+
+==Bibliography==
+
+'''Poetry'''
+* ''Piccolo'' 
+* ''Milestones to the Sun''
+* ''Sunbirds in the Rain''
+* ''Nirvana and Other poems''
+* ''Rev: Father Benedict Goes To Heaven and Other poems''
+* ''Father, Wake Us In Passing,(Vater, Wecke Uns Im Vorübergehen – German, Laufschrift 2004)''<ref>{{cite web|title= World Literature Today Oklahoma University USA | publisher= TheFreeLibrary.com, July 2010 |url= http://www.thefreelibrary.com/Father%3A+Wake+Us+in+Passing.+(India).-a082262857 |accessdate= 25 June 2001}}</ref>
+* ''Mother Sonata''
+* ''A Buchenwald Diary (Poems following a visit to Buchenwald Concentration camp, Weimar, Germany)''
+* ''Victoria Terminus, Poems Selected and New''<ref>{{cite news|title= In the dying Light | publisher= The Hindu, July 2010|url= http://www.thehindu.com/books/article418890.ece |accessdate= 25 August 2010|location=Chennai, India |first=K. |last=Srilata|date=6 May 2010}}</ref>
+* ''Vrindavan – The Coloured Yolk of Love''<ref>{{cite news|title= Where the mind is without rein | publisher= The Hindu, July 2012|url= http://www.thehindu.com/books/where-the-mind-is-without-rein/article3584070.ece | location=Chennai, India |first=Shreekumar |last=Varma|date=1 July 2012}}</ref>
+* ''Tell Me Neruda''<ref>{{cite news|title= Meditations on life | publisher= The Hindu, May 2015|url= http://www.thehindu.com/books/literary-review/meditations-on-life/article7164469.ece | location=Chennai, India|first=Sachidananda |last=Mohanty |date=2 May 2015}}</ref>
+
+'''Novels'''
+* ''A Bridge Over Karma'' (Katha Distribution, New Delhi)  ''Karmathinu Mele Oru Palam'' (Translation, Malayalam, Moosakutty).
+* ''Presumed Guilty''<ref>{{cite web|title= Behind the scenes | publisher= Deccan Herald, July 2012|url= http://www.deccanherald.com/content/211140/content/212867/F |accessdate= 25 August 2012}}</ref>
+* ''Hill House (A View From West Hill)''
+
+'''Plays'''
+* ''The Nectar of Gods'' – King Marthanda Varma and Devasahayam<ref>{{cite web|title=Gopikrishnan Kottoor's Book Released |url=http://www.newindianexpress.com/cities/thiruvananthapuram/Gopikrishnan-Kottoors-Book-Released/2015/10/22/article3091833.ece | publisher= The Hindu, May 2015}}</ref>
+* ''Fire in the Soul – The Life And Times of Subramania Bharati''
+* ''The Mask of Death – The Final Days of John Keats''
+* ''A Women in Flames''
+
+'''Transcreations'''
+* ''Jnanappana (Poonthanam) as Fountain of God''<ref>{{cite news|title= Transcreating Poonthanam |url= http://www.hindu.com/thehindu/lf/2002/08/27/stories/2002082701850200.htm |archive-url= https://web.archive.org/web/20140306093949/http://www.hindu.com/thehindu/lf/2002/08/27/stories/2002082701850200.htm |url-status= dead |archive-date= 6 March 2014 | location=Chennai, India |work= [[The Hindu]] |date=27 August 2002}}</ref>
+* ''Rati Rahasya (Kukoka) as Love's Ecstasies''
+
+'''Philosophy'''
+* ''The Twelve Petals of Enlightenment (Param Hans)''
+
+'''Children's'''
+* ''Wander From The Great Wide Wander Galaxy (Fantasy)''
+
+'''Editor'''
+* ''Poetry Anthology (Editor) "A New Book of Indian Poems in English"''(Poetry Chain and [[Writers Workshop]] Calcutta)
+* ''Poetry Chain – A Poetry Quarterly since 1997''<ref>{{cite web|title= A Platform For Poets | publisher= The New Indian Express, June 2013 |url= http://newindianexpress.com/cities/thiruvananthapuram/A-platform-for-poets/2013/06/28/article1656245.ece}}</ref><ref>{{cite news |title=Chain the friends of verses | publisher=The Hindu, July 2013|url= http://www.thehindu.com/todays-paper/tp-in-school/chain-that-links-friends-of-verses/article4871198.ece | location=Chennai, India |date=2 July 2013}}</ref>
+
+''' Kottoor's reviews on Indian English Poetry'''
+* ''A Rebel and an Observer ''<small>[http://www.thehindu.com/books/books-reviews/a-rebel-and-an-observer/article4465252.ece :Review]</small>
+* ''Signature of Sensuality ''<small>[http://www.thehindu.com/books/signature-of-sensuality/article2950276.ece :Review]</small>
+* ''On A Poetic Cruise ''<small>[http://www.thehindu.com/books/on-a-poetic-cruise/article2076367.ece :Review]</small>
+* ''Bhakti Blazes The Vernacular ''<small>[http://www.thehindu.com/todays-paper/tp-features/tp-literaryreview/bhakti-blazes-the-vernacular/article2422351.ece :Review]</small>
+* ''For verse or for worse ''<small>[http://www.thehindu.com/books/for-verse-or-for-worse/article28865.ece :Review]</small>
+* ''Goodness of Nature And God ''<small>[https://web.archive.org/web/20030918133936/http://hindu.com/thehindu/lr/2002/09/01/stories/2002090100360500.htm :Review]</small>
+* ''Magic And Mystery of Love ''<small>[http://www.thehindu.com/books/magic-and-mystery-of-love/article1155553.ece :Review]</small>
+* ''Idioms And Images ''<small>[http://www.thehindu.com/books/idioms-and-images/article3968307.ece :Review]</small>
+* ''Not Much Happening ''<small>[http://www.thehindu.com/books/not-much-happening/article4150303.ece :Review]</small>
+* ''Dear Dad ''<small>[http://www.thehindu.com/books/dear-dad/article2856833.ece :Review]</small>
+* ''Solitary romantic ''<small>[http://www.thehindu.com/todays-paper/tp-features/tp-literaryreview/solitary-romantic/article932661.ece :Review]</small>
+* ''A ThanksGiving For Life ''<small>[http://www.thehindu.com/todays-paper/tp-features/tp-literaryreview/a-thanksgiving-for-life/article2764941.ece :Review]</small>
+* ''Representative Voices ''<small>[https://web.archive.org/web/20081012074455/http://www.hindu.com/lr/2008/10/05/stories/2008100550170500.htm :Review]</small>
+* ''Tales of Change ''<small>[http://www.thehindu.com/books/literary-review/a-guest-for-arundhathi-and-other-stories-a-translation-that-brings-out-the-flavour-of-the-malayalam-original/article6842348.ece :Review]</small>
+* ''A Fine Flow of Emotion ''<small>[http://www.thehindu.com/books/literary-review/translation-of-the-vigil-by-vasanthi-sankaranarayanan/article7286048.ece :Review]</small>
+* ''Self-Indulgent Words ''<small>[http://www.thehindu.com/books/books-reviews/selfindulgent-words/article4884044.ece :Review]</small>
+* ''Rewarding Read ''<small>[http://www.thehindu.com/books/literary-review/gopikrishnan-kottoor-reviews-three-poetry-books/article7485206.ece :Review]</small>
+* ''Transience of Human Love ''<small>[http://www.thehindu.com/books/literary-review/transience-of-human-love/article5740413.ece :Review]</small>
+* ''Frank Images ''<small>[http://www.thehindu.com/todays-paper/tp-features/tp-literaryreview/frank-images/article5080463.ece]</small>
+
+<!--
+* ''Dr Ayappa Paniker - A Tribute ''<small>[http://www.scilet.in/download/KB/KB11.pdf :Review]</small> -->
+
+''' Appearances in the following poetry Anthologies'''
+*  '' Verse, Seattle(USA) : Special edition on Contemporary Indian Poetry in English ''
+* ''The Bloodaxe Book of Contemporary Indian Poets'' (2008) ed. by [[Jeet Thayil]] and published by [[Bloodaxe Books|Bloodaxe Books Ltd.]], [[United Kingdom]]
+* ''Give the Sea Change USA (Fulcrum, Ed. [[Jeet Thayil]] ) ''
+* ''The Golden Jubilee Anthology of Indian Poets in English NBT, India (Ed.[[Eunice de Souza]] ) ''
+* ''99 Poets (Ed. Manu Dash) ''
+* ''The Dance of the Peacock: An Anthology of English Poetry from India'' (2013) ed. by Vivekanand Jha and published by Hidden Brook Press, [[Canada]]
+* ''Travelogue : The Grand Indian Express'' (2018) ed. by Dr. Ananad Kumar and published by Authorspress, [[New Delhi]]
+
+'''Literature Arts and Culture'''
+*''Tribute From France''<small>[https://web.archive.org/web/20020428042348/http://www.hindu.com/thehindu/mag/2002/01/13/stories/2002011300250500.htm :Review]</small>
+*''Keats Home Hampstead England''<small>[http://www.thehindu.com/books/overtaken-by-memories/article2680800.ece :Review]</small>
+
+==References==
+{{reflist}}
+
+==Sources==
+* ''Father, Wake us in Passing: A Book of poems'' (A Poetry Chain Imprint)<small>[http://www.hindu.com/thehindu/br/2001/12/25/stories/2001122500220400.htm Review: Touching Recollections]</small>
+* ''Father Wake Us in Passing: ''<small>[https://web.archive.org/web/20020319030442/http://hindu.com/thehindu/2001/07/15/stories/1315017r.htm Review: Beyond The Confessional]</small>
+* ''Father Wake Us in Passing(Guest Poet Readings at University of Augsburg Germany): ''<small>[http://www.interconnections.de/id_19020.html Comment]</small>
+* ''The Coloured Yolk of Love: ''<small>[http://www.gopikottoor.blogspot.in Poetry Online ]</small>
+* ''Varnamala – A Web Anthology of Indian English Poetry ''<small>[http://www.oocities.org/varnamala/ineng.html Anthology] </small>
+* ''Bluefifth Review Winter 2003 ''<small>[http://www.angelfire.com/zine/bluefifth/contributorsG-L.html PoetryOnline] </small>
+* ''NthPosition Online Magazine ''<small>[http://www.nthposition.com/author.php?authid=788 PoetryOnline] </small>
+* ''The Poetry of Emotion, Colour and Passion ''<small>[http://arvindnawale.blogspot.in/2011/11/gopi-k-kottoor-poetry-of-emotion-colour.html Literary Interview] </small> 
+* ''Transcreating Poonthanam ''<small>[https://web.archive.org/web/20140306093949/http://www.hindu.com/thehindu/lf/2002/08/27/stories/2002082701850200.htm Review]</small>
+* ''Meditations on Life ''<small>[http://www.thehindu.com/books/literary-review/meditations-on-life/article7164469.ece Review]</small>
+* ''E-books India ''<small>[https://web.archive.org/web/20150609234852/http://e-booksindia.com/21-top-indian-poets-to-follow-on-facebook/]</small>
+<!--
+* PoetrychainOnline (India).<ref>{{cite web|title= PoetryChainIndia |publisher= webs, July 2009|url= http://poetrychain.webs.com/ | accessdate= 16 January 2009}}</ref>
+* ''Kavya Bharati – 1''<small>[http://www.scilet.in/download/KB/KB14.pdf]</small>
+* ''Kavya Bharati – 2''<small>[http://www.scilet.in/download/KB/KB11.pdf]</small> 
+-->
+* ''The Enchanting Verses ''<small>[http://www.theenchantingverses.org/contemporary-indian-english-poetry-issue-xxii-november-20151.html]</small>
+* ''Bigbridge Anthology PartII '' <small>[http://bigbridge.org/BB18/poetry/indianpoetryanthology/indian-poetry-anthology-contents.html]</small>
+* ''Life and Legends ''<small>[http://lifeandlegends.com/gopikrishnan-kottoor/]</small>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kottoor, Gopi}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:Indian male poets]]
+[[Category:Writers from Thiruvananthapuram]]
+[[Category:English-language poets from India]]
+[[Category:Indian male novelists]]
+[[Category:Indian children's writers]]

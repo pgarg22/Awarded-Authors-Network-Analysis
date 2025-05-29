@@ -1,0 +1,57 @@
+{{other people}}
+{{Use dmy dates|date=September 2019}}
+{{short description|Clergyman of the Church of England}}
+{{More citations needed|date=April 2014}}
+{{Infobox person |name = Alexander Barclay |birth_date = ''c.'' 1476 |death_date = 10 June 1552 (aged ''c.'' 75) |death_place = [[Croydon]], [[Surrey]] |occupation = poet |notable_works = ''The Ship of Fools'' (1509) }}
+
+[[File:St GeorgeEnglish.JPG|thumb|200px|Woodcut Frontispiece from Alexander Barclay's "Lyfe of [[Saint George|Seynt George]]" Westminster 1515]]
+[[Doctor of Divinity|Dr]] '''Alexander Barclay''' (c. 1476 &ndash; 10 June 1552) was a [[poet]] and [[clergy]]man of the [[Church of England]], probably born in [[Scotland]].
+
+==Biography==
+Barclay was born in about 1476. His place of birth is matter of dispute, but [[William Bulleyn]], who was a native of [[Ely, Cambridgeshire|Ely]], and probably knew him when he was in the [[monastery]] there, asserts that he was born "beyonde the cold river of Twede" (''[[River Tweed]]'', i.e. in [[Scotland]]). His early life was spent at [[Croydon]], but it is not certain whether he was educated at [[Oxford]] or [[Cambridge]]. It may be presumed that he took his degree, as he uses the title of "Syr" in his translation of [[Sallust]]'s ''Bellum Jugurthinum'', and in his will he is called [[Doctor of Divinity]].
+
+From the numerous incidental references in his works, and from his knowledge of [[European literature]], it may be inferred that he spent some time abroad. [[Thomas Cornish]], [[suffragan]] [[bishop]] in the diocese of Bath and Wells, and [[provost (education)|provost]] of [[Oriel College, Oxford]], from 1493 to 1507, appointed him chaplain of the college of [[Ottery St Mary]], [[Devon]].<ref>Antony Hasler, ''Court Poetry in Late Medieval England and Scotland'' (Cambridge, 2011), p. 88.</ref> Here he wrote his satirical poem, ''[[The Ship of Fools]]'', partly a translation from [[Sebastian Brant]].
+
+The death of his patron in 1513 apparently put an end to his connection with the west, and he became a [[monk]] in the [[Benedictine]] monastery of [[Ely Cathedral|Ely]].<ref>Antony Hasler, ''Court Poetry in Late Medieval England and Scotland'' (Cambridge, 2011), p. 88.</ref> In this retreat he probably wrote his [[eclogues]]. He left Ely to join the Franciscan order.<ref>Antony Hasler, ''Court Poetry in Late Medieval England and Scotland'' (Cambridge, 2011), p. 88.</ref> In 1520 "Maistre Barkleye, the Blacke Monke and Poete" was desired to devise "histoires and convenient raisons to florisshe the buildings and banquet house withal" at the meeting between [[Henry VIII of England|Henry VIII]] and [[Francis I of France|Francis I]] at the [[Field of the Cloth of Gold]].<ref>[[John Gough Nichols|Nichols, John Gough]], ed., [https://books.google.com/books?id=LKQUAAAAQAAJ ''The Chronicle of Calais'' (Camden Society, 1846), p. 83]</ref> He at length became a [[Franciscan]] friar of [[Canterbury]].
+
+It is presumed that he conformed with the change of religion, for he retained under [[Edward VI of England|Edward VI]] the [[benefice|livings]] of [[Great Baddow]], [[Essex]], and of [[Wokey]], [[Somerset]], which he had received in 1546, and was presented in 1552 by the [[dean (religion)|dean]] and [[chapter (religion)|chapter]] of Canterbury to the [[rectory]] of [[All Hallows Lombard Street|All Hallows]], Lombard Street, London. He died shortly after this last [[preferment]] at [[Croydon]], [[Surrey]], where he was buried on 10 June 1552.
+
+==Works==
+''The Ship of Fools'' (1509) was as popular in its [[English language|English]] dress as it had been in Germany. It was the starting-point of a new satirical literature. In itself a product of the medieval conception of the fool who figured so largely in the [[Shrovetide]] and other [[procession|pageant]]s, it differs entirely from the general [[allegorical]] [[satire]]s of the preceding centuries. The figures are no longer abstractions; they are concrete examples of the folly of the bibliophile who collects books but learns nothing from them, of the evil judge who takes bribes to favour the guilty, of the old fool whom time merely strengthens in his folly, of those who are eager to follow the fashions, of the priests who spend their time in church telling "gestes" of [[Robin Hood]] and so forth.  Thus, the work is of interest as throwing light on the manners and customs of the times to which it refers.
+
+Barclay wrote the ''Life of St George'' (c. 1515) for [[Thomas Howard, 3rd Duke of Norfolk]] with a dedication to [[Nicholas West]]. He translated the ''Mirrour of Good Manners'' (c. 1518), from the Italian of [[Dominic Mancini]]. This work was written at the command of Sir Giles Alington.<ref>Antony Hasler, ''Court Poetry in Late Medieval England and Scotland'' (Cambridge, 2011), pp. 89-90.</ref>
+
+Most of Barclay's works were made in collaboration with the printer [[Richard Pynson]]. He wrote five ''Eclogues'', part printed by [[Wynkyn de Worde]] around 1518, and printed in full in [[John Cawood (printer)|John Cawood's]] 1570 edition. The sources of the ''Eclogues'' include works by [[Aeneas Silvius Piccolomini]], [[Baptista Mantuanus]], and [[Jean Lemaire de Belges]]. The ''Eclogues'' include laments for [[John Alcock (bishop)|John Alcock]], [[John Morton (cardinal)|John Morton]], and Roger Westminster, Prior of Ely.<ref>Antony Hasler, ''Court Poetry in Late Medieval England and Scotland'' (Cambridge, 2011), pp. 88-93.</ref>
+
+His style is stiff and his verse uninspired.
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{Cite EB1911|wstitle=Barclay, Alexander}}
+
+==Further reading==
+* {{Eminent Scotsmen|Barclay, Alexander|1|139-140}}
+* {{cite DNB|wstitle=Barclay, Alexander}}
+
+==External links==
+*{{gutenberg author | id=Alexander_Barclay | name=Alexander Barclay}}
+* {{Internet Archive author |sname=Alexander Barclay |sopt=t}}
+* {{Librivox author |id=9540}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barclay, Alexander}}
+[[Category:16th-century English poets]]
+[[Category:Doctors of Divinity]]
+[[Category:English people of Scottish descent]]
+[[Category:English Benedictines]]
+[[Category:English Franciscans]]
+[[Category:Anglo-Scots]]
+[[Category:1470s births]]
+[[Category:1552 deaths]]
+[[Category:Place of birth unknown]]
+[[Category:16th-century Scottish poets]]
+[[Category:16th-century Scottish people]]
+[[Category:English male poets]]

@@ -1,0 +1,76 @@
+{{refimprove|date=October 2012}}
+{{Infobox person
+| name          = Neyzen Tevfik
+| image         = Neyzen-tevfik1.jpg
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = Tevfik Kolaylı
+| birth_date         =  {{Birth date|1879|03|24}}
+| birth_place   = [[Muğla]], [[Ottoman Empire]]
+| death_date    = {{Death date and age|1953|01|28|1879|03|24}}
+| death_place   = [[Istanbul]], [[Turkey]]
+| nationality   = Turkish
+| other_names   = 
+| occupation    = Poet, satirist
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+
+'''Tevfik Kolaylı''' (March 24, 1879 &ndash; January 28, 1953), better known by his pen name '''Neyzen Tevfik''', was a [[Turkish people|Turkish]] poet, satirist, and ''neyzen'' (a "[[ney]] performer" in Turkish). He was born in [[Bodrum]] and died in [[Istanbul]]. His name is occasionally misspelled as Neyzen Teyfik.
+
+==Biography==
+Tevfik learned [[Persian language|Persian]] as a young man, and became a [[Mevlevi]] in [[İzmir]]. He then moved to Istanbul and continued his Mevlevi practice in [[Galata]] and [[Kasımpaşa (district)|Kasımpaşa]]. In 1902 he became a [[Bektashi]] [[dervish]].
+
+His interest in poetry influenced him into meeting with [[Mehmet Akif Ersoy]]. As was the case with many other intellectuals of his period, Tevfik's satirical poetry critical of the conservative sultan [[Abdul Hamid II]] resulted in his exile to [[Egypt]] in 1903,<ref name="Rogan2002">{{cite book|author=Eugene Rogan|title=Outside In: Marginality in the Modern Middle East|url=https://books.google.com/books?id=I-mX31dOIs8C&pg=PA7|date=4 October 2002|publisher=I.B.Tauris|isbn=978-1-86064-698-0|page=22}}</ref> which he later visited again between 1908 and 1913.
+
+Neyzen Tevfik's fame in popular [[Turkish culture]] is mainly due to his virtuosity with the ney. Moreover, he was also a heavy drinker while practicing a form of [[Islam]] as it was common among Bektashis. He therefore is also a symbol of a clash between the orthodox Islamic doctrine, and the [[Bektashi]] order that he was in, as illustrated in the following translation of his writing:
+
+{{quote|The disbeliever's book has neither beginning nor end. A few pages from its middle is all we ever grasp. For religion's sake and fear of blasphemy we endure woe. Reason cannot perceive where righteousness may go.<ref>http://www.neyzentevfik.org</ref>}}
+
+His religious views were highly mixed and tend to change in accordance with his mood. Yet, in his last years, he wrote a poem "Türk'e Birinci Öğüt" (First counsel to the Turk) in which a verse, regarding religious institutions mentioned before the verse, says:
+
+''"Varsa aslı bunların alemde siksinler beni."''
+
+(If any of these are true, well, fuck me.)
+
+Therefore he can be considered a radical, if not directly atheist or non-theistic.<ref>http://www.mbdincaslan.com/index.php/koseyazilari/item/41-neyzentevfik</ref>
+
+== Poetry ==
+* ''Hiç'', 1919 
+* ''[https://tr.wikipedia.org/wiki/Az%C3%A2b-%C4%B1_Mukaddes Dilara'ya Maktuplar] '',1953
+
+== Music ==
+* Nihavent Saz Semaisi
+* Şehnazbuselik Saz Semaisi 
+* Taksimler, taş plak.
+
+==References==
+{{Reflist}}
+
+==External links==
+* Biyografi.net - [http://www.biyografi.net/kisiayrinti.asp?kisiid=252 ''Biography of Neyzen Tevfik''] {{in lang|tr}}
+* mbdincaslan.com - [http://www.mbdincaslan.com/index.php/koseyazilari/item/41-neyzentevfik ''His Selected Works''] {{in lang|tr}}
+{{Turkish Literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tevfik, Neyzen}}
+[[Category:Ney players]]
+[[Category:Turkish flautists]]
+[[Category:Turkish non-fiction writers]]
+[[Category:Turkish poets]]
+[[Category:Turkish satirists]]
+[[Category:Writers of the Ottoman Empire]]
+[[Category:Mevlevi Order]]
+[[Category:1953 deaths]]
+[[Category:1879 births]]
+[[Category:People from Muğla]]
+[[Category:Composers of Ottoman classical music]]
+[[Category:Composers of Turkish makam music]]
+[[Category:Musicians of Ottoman classical music]]
+[[Category:Musicians of Turkish makam music]]
+
+
+{{Turkey-musician-stub}}
+{{flautist-stub}}

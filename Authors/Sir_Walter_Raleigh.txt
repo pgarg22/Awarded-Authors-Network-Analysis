@@ -1,0 +1,407 @@
+{{Other people}}
+{{short description|English statesman, soldier and writer}}
+{{Use dmy dates|date=October 2020}}
+{{Use British English|date=May 2015}}
+{{Infobox person
+| honorific-prefix = [[Sir]]
+| name        = Walter Raleigh
+| image       = Sir Walter Ralegh by 'H' monogrammist.jpg
+| caption     = Sir Walter Raleigh in 1588
+| birth_date  = {{circa| 22 January 1552}} (or 1554)
+| birth_place = Hayes Barton, [[East Budleigh]], [[Devon]], [[Kingdom of England|England]]
+| death_date  = {{death date|df=yes|1618|10|29}} (aged approximately 65)
+| death_place = [[London]], [[Kingdom of England|England]]
+| death_cause = [[Execution]] by [[Decapitation|beheading]]
+| alma_mater  = [[Oriel College, Oxford]]
+| occupation  = {{hlist|Statesman|Soldier|Spy|Writer|Poet|Explorer|Landed Gentleman}}
+| spouse      = [[Elizabeth Raleigh|Elizabeth Throckmorton]]
+| children    = Damerei<br />Walter "Wat"{{sfn|Wolfe|2018}}<br />[[Carew Raleigh (1605–1666)|Carew]]
+| signature   = Sir Walter Raleigh Signature.svg
+| module = {{infobox military person|embed=yes
+| battles     = [[Desmond Rebellions]]<br> [[French Wars of Religion]]<br> [[Spanish Armada]]
+}}
+| module2 = {{infobox writer|embed=yes
+| notable_works = 
+[[The Lie (poem)|The Lie]]<br> What is Our Life<br> ''[[The Discovery of Guiana]]''<br> ''The Historie of the World''<br> [[The Nymph's Reply to the Shepherd]]
+}}
+}}
+
+'''Sir Walter Raleigh''' ({{IPAc-en|ˈ|r|ɔː|l|i|,_|ˈ|r|æ|l|i|,_|ˈ|r|ɑː|l|i}}; {{circa|1552}} – 29 October 1618), also spelled '''Ralegh''',{{efn |name=pronunciation}} was an English statesman, soldier, spy, writer, poet, explorer and [[Landed gentry|landed gentleman]]. One of the most notable figures of the [[Elizabethan era]], he played a leading part in [[English colonisation of North America]], suppressed rebellion in [[Ireland]], helped defend [[Kingdom of England|England]] during the [[Spanish Armada]] and held political positions under [[Elizabeth I]].
+
+Raleigh was born to a [[Protestant]] family in [[Devon]], the son of Walter Raleigh and Catherine Champernowne, and a cousin of Sir [[Richard Grenville]] and younger half-brother of Sir [[Humphrey Gilbert]]. Little is known of his early life, though in his late teens he spent some time in [[Kingdom of France|France]] taking part in the [[French Wars of Religion|religious civil wars]]. In his 20s he took part in the suppression of rebellion in the [[Plantations of Ireland|colonisation]] of [[Ireland]]; he also participated in the [[siege of Smerwick]]. Later, he became a landlord of property in Ireland and mayor of [[Youghal]] in East [[Munster]], where his house still stands in [[Myrtle Grove, Youghal|Myrtle Grove]].<ref>{{cite web | title=The Church and Town of Sir Walter Raleigh | website=United Diocese of Cork, Cloyne and Ross | date=2021-05-21 | url=http://cork.anglican.org/tourism/historical-interest/the-church-and-town-of-sir-walter-raleigh/ | access-date=2021-06-15}}</ref> He rose rapidly in the favour of Queen [[Elizabeth I]] and was knighted in 1585. He was granted a [[royal patent]] to explore [[Colony of Virginia|Virginia]], paving the way for future English settlements. In 1591, he secretly married [[Elizabeth Throckmorton]], one of the Queen's [[Lady-in-waiting|ladies-in-waiting]], without the Queen's permission, for which he and his wife were sent to the [[Tower of London]]. After his release, they retired to his estate at [[Sherborne]], [[Dorset]].
+
+In 1594, Raleigh heard of a "City of Gold" in [[South America]] and sailed to find it, publishing an exaggerated account of his experiences in a book that contributed to the legend of "[[El Dorado]]". After Queen Elizabeth died in 1603, Raleigh was again imprisoned in the Tower, this time for being involved in the [[Main Plot]] against [[King James I]], who was not favourably disposed towards him. In 1616, he was released to lead a second expedition in search of El Dorado. During the expedition, men led by his top commander ransacked a Spanish outpost, in violation of both the terms of his pardon and the [[Treaty of London (1604)|1604 peace treaty with Spain]]. Raleigh returned to England and, to appease the Spanish, he was arrested and executed in 1618.
+
+==Early life==
+[[File:Millais Boyhood of Raleigh.jpg|left|thumb|''[[The Boyhood of Raleigh]]'' by [[John Everett Millais]], 1871]]
+Little is known about Sir Walter Raleigh's birth{{sfn|Black et al.|2011|p=724}} but he is believed to have been born on 22 January 1552 (or possibly 1554{{sfn|Nicholls|Williams|2004}}). He grew up in the house of Hayes [[Barton (demesne)|Barton]]{{sfn|Batten|2020}} (in the parish of [[East Budleigh]]), in South [[Devon]]. He was the youngest of the five sons of Walter Raleigh (1510–1581) (or Rawleigh) of [[Fardel Manor]] (in the parish of [[Cornwood]]),{{sfn|Cherry|Pevsner|2004|p=288}} in South Devon. Raleigh's family is generally assumed to have been a junior branch of the de Raleigh family, 11th-century lords of the [[manor of Raleigh, Pilton]]{{sfn|Vivian|1895|p=638}} in North Devon, although the two branches are known to have borne entirely dissimilar coats of arms,{{efn|Raleigh of Pilton: ''Gules crusilly or, a bend vair''; arms of Raleigh of Fardell: ''Gules, five fusils conjoined in bend argent''{{citation needed|date=September 2020}} }} adopted at the start of the age of [[heraldry]] (c. 1200–1215).
+
+[[File:GilbertImpalingChampernowne YardeHeraldicWindow ChurstonFerrersChurch.xcf|thumb|Arms of Katherine Champernowne, mother of Sir Walter Raleigh, impaled by the arms of her first husband, Otes Gilbert. [[Churston Ferrers]] Church]]
+
+His mother was Katherine Champernowne, the third wife of Walter Raleigh senior, and the fourth daughter of Sir Philip Champernowne (1479–1545), [[lord of the manor]] of [[Modbury]], Devon, by his wife Catherine Carew, a daughter of Sir Edmund Carew (d.1513) of [[Mohuns Ottery]] (in the parish of [[Luppitt]]), Devon,{{sfn|Vivian|1895|pp=639, 405, 162}} and widow of Otes Gilbert (1513–1546/7) of [[Greenway Estate|Greenway]] (in the parish of [[Brixham]]) and of [[Compton Castle]] (in the parish of [[Marldon]]), both in Devon. (The coat of arms of Otes Gilbert and Katherine Champernowne survives in a stained glass window in [[Churston Ferrers]] Church, near Greenway.) Katherine Champernowne's paternal aunt was [[Katherine Champernowne|Kat Ashley]], governess of Queen Elizabeth I, who introduced Raleigh and his brothers to the court.{{sfn|Ronald|2007|p=249}} In addition, Raleigh's maternal uncle was Sir [[Arthur Champernowne]] (c. 1524–1578), a [[Member of Parliament (United Kingdom)|Member of Parliament]], [[Sheriff of Devon]] and [[Vice-Admiral of the West|Admiral of the West]]. Walter Raleigh junior's immediate family included his full brother [[Carew Raleigh]], and half-brothers John Gilbert, [[Humphrey Gilbert]] and Adrian Gilbert. As a consequence of their kinship with the Champernowne family, all of the Raleigh and Gilbert brothers became prominent during the reigns of [[Elizabeth I]] and [[James I]].
+
+Raleigh's family was highly [[Protestant]] in religious orientation and had a number of near escapes during the reign of [[Roman Catholic]] Queen [[Mary I of England]]. In the most notable of these, his father had to hide in a tower to avoid execution. As a result, Raleigh developed a hatred of Roman Catholicism during his childhood, and proved himself quick to express it after Protestant Queen Elizabeth I came to the throne in 1558. In matters of religion, Elizabeth was more moderate than her half-sister Mary.{{sfn|Bremer|Webster|2006|p=454}}
+
+In 1569, Raleigh left for France to serve with the [[Huguenot]]s in the French religious civil wars.{{sfn|Black et al.|2011|p=724}} In 1572, Raleigh was registered as an undergraduate at [[Oriel College, Oxford]], but he left a year later without a degree. Raleigh proceeded to finish his education in the [[Inns of Court]].{{sfn|Black et al.|2011|p=724}} In 1575, he was admitted to the [[Middle Temple]], having previously been a member of [[Lyon's Inn]], one of the [[Inns of Chancery]].<ref name="Midddle Temple"/> At his trial in 1603, he stated that he had never studied law. His life is uncertain between 1569 and 1575, but in his ''History of the World'' he claimed to have been an eyewitness at the [[Battle of Moncontour]] (3 October 1569) in France. In 1575 or 1576, Raleigh returned to England.{{sfn|Edwards|1868|pp=26–33}}
+
+==Ireland==
+[[File:Raleigh's first pipe in England.jpeg|thumb|"Raleigh's First Pipe in England", an illustration included in [[Frederick William Fairholt]]'s ''Tobacco, its history and associations''{{sfn|Fairholt|1859|p=}}]]
+
+''See [[Plantations of Ireland]]''
+
+Between 1579 and 1583, Raleigh took part in the suppression of the [[Desmond Rebellions]]. He was present at the [[siege of Smerwick]], where he led the party that beheaded some 600 Spanish and Italian soldiers.{{sfn|St. John|1869|p=52-77}}{{sfn|Nicholls|Williams|2011|p=15}} Raleigh received {{cvt|40000|acre}} (approximately 0.2% of Ireland) upon the seizure and distribution of land following the attainders arising from the rebellion, including the coastal walled town of [[Youghal]] and, further up the [[Munster Blackwater|Blackwater River]], the village of [[Lismore, County Waterford|Lismore]]. This made him one of the principal landowners and colonists in [[Munster]], but he had limited success inducing English tenants to settle on his [[Plantations of Ireland|estates]].
+
+Raleigh made the town of Youghal his occasional home during his 17 years as an Irish landlord, frequently being domiciled at [[Killua Castle]], [[Clonmellon]], [[County Westmeath]]. He was mayor there from 1588 to 1589. His town mansion of [[Myrtle Grove, Youghal|Myrtle Grove]] is assumed to be the setting for the story that his servant doused him with a bucket of water after seeing clouds of smoke coming from Raleigh's pipe, in the belief that he had been set alight. But this story is also told of other places associated with Raleigh: the Virginia Ash Inn in [[Henstridge]] near [[Sherborne]], [[Sherborne Castle]], and [[South Wraxall Manor]] in [[Wiltshire]], home of Raleigh's friend [[Walter Long (died 1610)|Sir Walter Long]].
+
+Amongst Raleigh's acquaintances in Munster was another Englishman who had been granted land in the Irish colonies, poet [[Edmund Spenser]]. In the 1590s, he and Raleigh travelled together from Ireland to the court at London, where Spenser presented part of his allegorical poem ''[[The Faerie Queene]]'' to Elizabeth I.
+
+Raleigh's management of his Irish estates ran into difficulties which contributed to a decline in his fortunes. In 1602, he sold the lands to [[Richard Boyle, 1st Earl of Cork]], who subsequently prospered under kings [[James I]] and [[Charles I of England|Charles I]].{{sfn|Laughton| Lee|1896}} Following Raleigh's death, members of his family approached Boyle for compensation on the ground that Raleigh had struck an improvident bargain.
+
+==New World==
+[[File:Sir Walter Raleigh by Simon van de Passe (1617).jpg|thumb|Engraved portrait of Raleigh]]
+In 1584, Queen Elizabeth granted Raleigh a royal charter authorising him to explore, colonise and rule any "remote, heathen and barbarous lands, countries and territories, not actually possessed of any Christian Prince or inhabited by Christian People", in return for one-fifth of all the gold and silver that might be mined there.<ref name=yale.edu/> This charter specified that Raleigh had seven years in which to establish a settlement, or else lose his right to do so. Raleigh and Elizabeth intended that the venture should provide riches from the New World and a base from which to send [[privateer]]s on raids against the treasure fleets of [[Spain]]. Raleigh himself never visited North America, although he led expeditions in 1595 and 1617 to the [[Orinoco]] river basin in [[South America]] in search of the golden city of [[El Dorado]]. Instead, he sent others in 1585 to find the [[Roanoke Colony]], later known as the "Lost Colony".{{sfn|Quinn|1985|p=}}
+
+These expeditions were funded primarily by Raleigh and his friends but never provided the steady stream of [[revenue]] necessary to maintain a colony in America. (Subsequent colonisation attempts in the early 17th century were made under the [[Joint-stock company|joint-stock]] [[Virginia Company]], which was able to raise the capital necessary to create successful colonies.)
+
+In 1587, Raleigh attempted a second expedition, again establishing a settlement on Roanoke Island. This time, [[List of colonists at Roanoke|a more diverse group of settlers]] was sent, including some entire families,<ref name=si.edu/> under the governance of [[John White (colonist and artist)|John White]].{{sfn|Hakluyt|1965|p=522}} After a short while in America, White returned to England to obtain more supplies for the colony, planning to return in a year. Unfortunately for the colonists at Roanoke, one year became three. The first delay came when Queen Elizabeth I ordered all vessels to remain at port for potential use against the [[Spanish Armada]]. After England's 1588 victory over the Spanish Armada, the ships were given permission to sail.{{sfn|Quinn|1985|pp=125–126}}
+
+The second delay came after White's small fleet set sail for Roanoke and his crew insisted on sailing first towards [[Cuba]] in hopes of capturing treasure-laden Spanish merchant ships. Enormous riches described by their pilot, an experienced [[Portugal|Portuguese]] navigator hired by Raleigh, outweighed White's objections to the delay.{{sfn|Quinn|1985|pp=125–126}}
+
+When the supply ship arrived in Roanoke, three years later than planned, the colonists had disappeared.{{sfn|Quinn|1985|pp=130–133}} The only clue to their fate was the word "CROATOAN" and letters "CRO" carved into tree trunks. White had arranged with the settlers that if they should move, the name of their destination be carved into a tree or corner post. This suggested the possibility that they had moved to [[Croatoan Island]], but a hurricane prevented John White from investigating the island for survivors.{{sfn|Quinn|1985|pp=130–133}} Other speculation includes their having starved, or been swept away or lost at sea during the stormy weather of 1588. No further attempts at contact were recorded for some years. Whatever the fate of the settlers, the settlement is now remembered as the [[Roanoke Colony|"Lost Colony of Roanoke Island"]].
+
+==1580s==
+In December 1581, Raleigh returned to England from Ireland <!---hidden because it's incomprehensible: to despatches---> as his company had been disbanded. He took part in court life and became a favourite of Queen Elizabeth I because of his efforts at increasing the Protestant Church in Ireland.<ref name="Walter Raleigh Biography"/> In 1585, Raleigh was knighted and was appointed [[Lord Warden of the Stannaries|warden of the stannaries]], that is of the [[Mining in Cornwall and Devon|tin mines]] of Cornwall and Devon, [[Lord Lieutenant of Cornwall]] and [[List of vice-admirals of the coast|vice-admiral]] of the two counties. He was a member of parliament for [[Devon (UK Parliament constituency)|Devonshire]] in 1585 and 1586.{{sfn|Laughton|Lee|1896}} He was also granted the right to colonise America.<ref name="Walter Raleigh Biography"/>
+
+Raleigh commissioned shipbuilder R. Chapman of [[Deptford]] to build a ship for him. It was originally called ''Ark'' but became ''[[English ship Ark Royal (1587)|Ark Raleigh]]'', following the convention at the time by which the ship bore the name of its owner. [[The Crown]] (in the person of Queen Elizabeth I) purchased the ship from Raleigh in January 1587 for £5,000 (£{{formatnum:{{Inflation|UK|0.005|1587|2015|r=1}}}} million as of 2015).{{Inflation-fn|UK|df=y}} This took the form of a reduction in the sum that Sir Walter owed the queen; he received [[Tally stick|Exchequer tallies]] but no money. As a result, the ship was renamed ''Ark Royal''.{{sfn|Collier|1852|p=151}}
+
+In the [[Spanish Armada|Armada]] year of 1588, Raleigh had some involvement with defence against the Spanish at Devon. The ship that he had built, ''Ark Royal'', was Lord High Admiral [[Charles Howard, 1st Earl of Nottingham|Howard]]'s flagship.{{sfn|May|1989|p=8}}
+
+==1590–1594==
+[[File:William Segar Sir Walter Raleigh 1598.jpg|thumb|Sir Walter Raleigh by [[William Segar]]]]
+In 1592, Raleigh was given many rewards by the Queen, including [[Durham House, London|Durham House]] in [[Strand, London|the Strand]] and the estate of Sherborne, Dorset. He was appointed [[Captain of the Yeomen of the Guard]]. However, he had not been given any of the [[Great Offices of State|great offices of state]].{{sfn|May|1989|p=8}}
+
+In 1591, Raleigh had been secretly married to [[Elizabeth Raleigh|Elizabeth "Bess" Throckmorton]] (or Throgmorton). She was one of the Queen's [[lady-in-waiting|ladies-in-waiting]], 11 years his junior, and was pregnant at the time. She gave birth to a son, believed to be named Damerei, who was given to a [[wet nurse]] at Durham House, but he died in October 1592 of plague. Bess resumed her duties to the queen. The following year, the unauthorised marriage was discovered and the Queen ordered Raleigh to be imprisoned and Bess dismissed from court. Both were imprisoned in the Tower of London in June 1592. He was released from prison in August 1592 to manage a recently returned expedition and attack on the Spanish coast. The fleet was recalled by the Queen, but not before it [[Battle of Flores (1592)|captured an incredibly rich prize]]—a merchant ship (carrack) named ''[[Madre de Deus]]'' (Mother of God) off [[Flores Island (Azores)|Flores]]. Raleigh was sent to organise and divide the spoils of the ship. He was sent back to the Tower, but by early 1593 had been released and become a member of Parliament.{{sfn|May|1989|p=13}}
+
+It was several years before Raleigh returned to favour,{{clarify|date=October 2020}} and he travelled extensively in this time. Raleigh and his wife remained devoted to each other. They had two more sons, Walter (known as Wat) in 1593 and [[Carew Raleigh (1605–1666)|Carew]] in 1605.{{sfn|May|1989|p=21}}
+
+Raleigh was elected a burgess of [[Mitchell (UK Parliament constituency)|Mitchell]], Cornwall, in the parliament of 1593.{{sfn|Nicholls|Williams|2004}} He retired to his estate at Sherborne, where he built a new house, completed in 1594, known then as Sherborne Lodge. Since extended, it is now known as [[Sherborne Castle#New castle|Sherborne New Castle]]. He made friends with the local [[gentry]], such as Sir Ralph Horsey of [[Clifton Maybank]] and Charles Thynne of [[Longleat]]. During this period at a dinner party at Horsey's, Raleigh had a heated discussion about religion with Reverend Ralph Ironsides. The argument later gave rise to charges of [[atheism]] against Raleigh, though the charges were dismissed. He was elected to Parliament, speaking on religious and naval matters.{{sfn|May|1989|p=14}}
+
+==First voyage to Guiana==
+{{further|Raleigh's El Dorado Expedition}}
+In 1594, he came into possession of a Spanish account of a great golden city at the headwaters of the [[Caroní River]]. A year later, he explored what is now [[Guyana]] and [[Guayana Region, Venezuela|eastern Venezuela]] in search of [[Lake Parime]] and Manoa, the legendary city. Once back in England, he published ''[[The Discovery of Guiana]]''{{sfn|Raleigh|1848}} (1596), an account of his voyage which made exaggerated claims as to what had been discovered. The book can be seen as a contribution to the [[El Dorado]] legend. [[Venezuela]] has [[gold]] deposits, but no evidence indicates that Raleigh found any mines. He is sometimes said to have discovered [[Angel Falls]], but these claims are considered far-fetched.<ref name=thelostworld.org/>
+
+==1596–1603==
+[[File:WalterRaleighandson.jpg|thumb|Raleigh and his son Walter in 1602]]
+In 1596, Raleigh took part in the [[capture of Cádiz]], where he was wounded. He also served as the rear admiral (a principal command) of the [[Islands Voyage]] to the [[Azores]] in 1597.{{sfn|May|1989|p=16}} On his return from the Azores, Raleigh helped England defend itself against the major threat of the [[3rd Spanish Armada]] during the autumn of 1597. The Armada was dispersed in the Channel and later was devastated by a storm off Ireland. [[Charles Howard, 1st Earl of Nottingham|Lord Howard of Effingham]] and Raleigh were able to organise a fleet that resulted in the capture of a Spanish ship in retreat carrying vital information regarding the Spanish plans.
+
+In 1597 Raleigh was chosen as member of parliament for [[Dorset (UK Parliament constituency)|Dorset]] and in 1601 for [[Cornwall (UK Parliament constituency)|Cornwall]].{{sfn|Laughton|Lee|1896}} He was unique in the Elizabethan period in sitting for three counties.{{sfn|Nicholls|Williams|2004}}
+
+From 1600 to 1603, as governor of the [[Channel Island]] of [[Jersey]], Raleigh modernised its defences. This included construction of a new fort protecting the approaches to [[Saint Helier]], Fort Isabella Bellissima, or [[Elizabeth Castle]].{{Citation needed|date = October 2012}}
+
+==Trial and imprisonment==
+[[File:Bloodytower interior.jpg|left|thumb|Raleigh's cell, Bloody Tower, Tower of London]]
+Royal favour with Queen Elizabeth had been restored by this time, but his good fortune did not last; the Queen died on 24 March 1603. Raleigh was arrested on 19 July 1603 at what is now the Old Exeter Inn in Ashburton, charged with [[treason]] for his involvement in the [[Main Plot]] against Elizabeth's successor, [[James I]], and imprisoned in the [[Tower of London]].{{sfn|May|1989|p=19}}
+
+Raleigh's trial began on 17 November in the converted [[Great hall|Great Hall]] of [[Winchester Castle]]. Raleigh conducted his own defence. The chief evidence against him was the signed and sworn confession of his friend [[Henry Brooke, 11th Baron Cobham]]. Raleigh repeatedly requested that Cobham be called to testify. "[Let] my accuser come face to face, and be deposed. Were the case but for a small [[copyhold]], you would have witnesses or good proof to lead the jury to a verdict; and I am here for my life!" Raleigh argued that the evidence against him was "[[hearsay]]", but the tribunal refused to allow Cobham to testify and be [[cross-examination|cross-examined]].<ref name=crimtrial/><ref name=uark.edu/> Raleigh's trial has been regularly cited as influential in establishing a [[common law]] right to confront accusers in court.<ref>{{cite journal |last1=White |first1=Penny J. |title=Rescuing the Confrontation Clause |journal=South Carolina Law Review |date=Spring 2003 |volume=54 |issue=3 |url=https://core.ac.uk/download/pdf/347466289.pdf |access-date=24 October 2021}}</ref><ref>{{cite journal |last1=Perry |first1=Hadley |title=Virtually Face-to-Face: The Confrontation Clause and the Use of Two-Way Video Testimony |journal=Roger Williams University Law Review |date=Spring 2008 |volume=13 |issue=2 |url=https://docs.rwu.edu/cgi/viewcontent.cgi?article=1393&context=rwu_LR |access-date=24 October 2021}}</ref><ref>{{cite journal |last1=Jonakait |first1=Randolph N. |title=The Origins of the Confrontation Clause: An Alternative History |journal=[[Rutgers Law Journal]] |date=Autumn 1995 |volume=27 |issue=1 |pages=77–168 |url=https://core.ac.uk/download/pdf/230508635.pdf |access-date=24 October 2021}}</ref><ref>{{cite journal |last1=Shaviro |first1=Daniel N. |title=The Confrontation Clause Today in Light of its Common Law Background |journal=Valparaiso University Law Review |date=1991 |volume=26 |pages=337–66 |url=https://scholar.valpo.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=2140&context=vulr |access-date=24 October 2021}}</ref> Raleigh was convicted, but King James spared his life.{{sfn|Rowse|1962|p=241}}
+
+While imprisoned in the Tower, Raleigh wrote his incomplete ''The Historie of the World''.{{sfn|Raleigh|1677|p=}} Using a wide array of sources in six languages, Raleigh was fully abreast of the latest continental scholarship. He wrote not about England, but of the ancient world with a heavy emphasis on geography. Despite his intention of providing current advice to the King of England, King James I complained that it was "too sawcie in censuring Princes".{{sfn|Popper|2012|p=18}}{{sfn|Racin|1974|p=}} Raleigh remained imprisoned in the Tower until 1616.{{sfn|Wallace|1959|p=256}} His son, Carew, was conceived and born (in 1604 or 1605) while Raleigh was imprisoned in the Tower.{{sfn|Wallace|1959|p=228}}
+
+==Second voyage to Guiana==
+[[File:Royal Pardon of Walter Raleigh.jpg|thumb|James I's royal warrant pardoning Raleigh in 1617]]
+In 1617, Raleigh was pardoned by the King and granted permission to conduct a second expedition to Venezuela in search of El Dorado. During the expedition, a detachment of Raleigh's men under the command of his long-time friend [[Lawrence Kemys]] attacked the Spanish outpost of Santo Tomé de Guayana on the [[Orinoco]] river, in violation of peace treaties with Spain and against Raleigh's orders. A condition of Raleigh's pardon was avoidance of any hostility against Spanish colonies or shipping. In the initial attack on the settlement, Raleigh's son, Walter, was fatally shot. Kemys informed Raleigh of his son's death and begged for forgiveness, but did not receive it, and at once committed suicide. On Raleigh's return to England, an outraged [[Diego Sarmiento de Acuña, 1st Count of Gondomar|Count Gondomar]], the Spanish ambassador, demanded that Raleigh's death sentence be reinstated by King James, who had little choice but to do so. Raleigh was brought to London from [[Plymouth]] by Sir [[Lewis Stukley]], where he passed up numerous opportunities to make an effective escape.{{sfn|Wolffe|2004}}{{sfn|Laughton|1898}}
+
+==Execution and aftermath==
+[[File:Execution of Sir Walter Raleigh.jpg|thumb|left|Raleigh just before he was beheaded&nbsp;– an illustration from ''circa'' 1860]]
+Raleigh was beheaded in the [[Old Palace Yard]] at the [[Palace of Westminster]] on 29 October 1618. "Let us dispatch", he said to his executioner. "At this hour my [[Fever|ague]] comes upon me. I would not have my enemies think I quaked from fear." After he was allowed to see the axe that would be used to behead him, he mused: "This is a sharp Medicine, but it is a Physician for all diseases and miseries." According to biographers, Raleigh's last words, spoken to the hesitating executioner, were: "What dost thou fear? Strike, man, strike!"<ref>{{cite book |last1=Forbes |first1=Malcolm |title=They Went That-a-way |date=1988 |publisher=Simon and Schuster |location=New York |isbn=0-671-65709-7 |page=250}}</ref>{{sfn|Trevelyan|2002|p=552}}
+
+[[Thomas Hariot]] may have introduced him to [[tobacco]].{{Sfn|Ley|1965|p=88}} Having been one of the people to popularise tobacco smoking in England, he left a small [[tobacco pouch]], found in his cell shortly after his execution. Engraved upon the pouch was a [[Latin]] inscription: ''Comes meus fuit in illo miserrimo tempore'' ("It was my companion at that most miserable time").{{sfn|Borio|2007}}<ref name=wallacecollection.org/>
+
+Raleigh's head was embalmed and presented to his wife. His body was to be buried in the local church in [[Beddington]], [[Surrey]], the home of Lady Raleigh, but was finally laid to rest in [[St. Margaret's, Westminster]], where his tomb may still be visited today.{{sfn|Williams|1988|p=}} "The Lords", she wrote, "have given me his dead body, though they have denied me his life. God hold me in my wits."{{sfn|Durant|Durant|1961|p=158|loc=Chap. VI}} It has been said that Lady Raleigh kept her husband's head in a velvet bag until her death.{{sfn|Brushfield|1896|p=}} After Raleigh's wife's death 29 years later, his head was removed to his tomb and interred at St. Margaret's Church.{{sfn|Lloyd|Mitchinson|2006|p=}} Although Raleigh's popularity had waned considerably since his Elizabethan heyday, his execution was seen by many, both at the time and since, as unnecessary and unjust, as for many years his involvement in the Main Plot seemed to have been limited to a meeting with [[Henry Brooke, 11th Baron Cobham|Lord Cobham]].{{sfn|Christenson|1991|pp=385–387}} One of the judges at his trial later said: "The justice of England has never been so degraded and injured as by the condemnation of the honourable Sir Walter Raleigh."<ref>{{cite web|url=http://federalevidence.com/pdf/2007/13-SCt/Crawford_v._Washington.pdf|title=Crawford v. Washington|page=44|access-date=25 April 2017}}</ref>
+{{-}}
+
+==Works==
+{{refbegin}}
+*{{cite book|last=Raleigh|first=Sir Walter |title=The Historie of the World. In five bookes (first ed. 1614) |url=https://books.google.com/books?id=U5BmAAAAcAAJ&pg=PA16|year=1677|publisher=R. White, T. Basset|display-authors=0}}
+*{{cite book|first=Sir Walter |last=Raleigh|title=The Discovery of Guiana|url=https://books.google.com/books?id=j4MMAAAAIAAJ|year=1848|publisher=Hakluyt Society|display-authors=0}}
+{{refend}}
+
+==Poetry==
+[[File:Raleigh OfFardell Arms.svg|thumb|180px|Arms of Sir Walter Raleigh<!--''Gules, five fusils conjoined in bend argent''<ref>[[William Pole (antiquary)|Pole, Sir William]] (d.1635), Collections Towards a Description of the County of Devon, [[Sir John de la Pole, 6th Baronet|Sir John-William de la Pole]] (ed.), London, 1791, p.499</ref>-->]]
+Raleigh's poetry is written in the relatively straightforward, unornamented mode known as the plain style. [[C. S. Lewis]] considered Raleigh one of the era's "silver poets", a group of writers who resisted the [[Italian Renaissance]] influence of dense classical reference and elaborate poetic devices. His writing contains strong personal treatments of themes such as love, loss, beauty, and time. Most of his poems are short lyrics that were inspired by actual events.{{sfn|Black et al.|2011|p=724}}
+
+In poems such as "What is Our Life" and "[[The Lie (poem)|The Lie]]", Raleigh expresses a ''[[contemptus mundi]]'' (contempt of the world) attitude more characteristic of the [[Middle Ages]] than of the dawning era of humanistic optimism. But his lesser-known long poem "The Ocean's Love to Cynthia" combines this vein with the more elaborate conceits associated with his contemporaries [[Edmund Spenser]] and [[John Donne]], expressing a melancholy sense of history. The poem was written during his imprisonment in the Tower of London.{{sfn|Black et al.|2011|p=724}}
+
+Raleigh wrote a poetic response to [[Christopher Marlowe]]'s "[[The Passionate Shepherd to His Love]]" of 1592, entitled "[[The Nymph's Reply to the Shepherd]]". Both were written in the style of traditional [[pastoral poetry]] and follow the structure of six four-line stanzas employing a [[rhyme scheme]] of [[Clerihew|AABB]], with Raleigh's an almost line-for-line refutation of Marlowe's sentiments.<ref name="latech">{{cite web |url=http://www2.latech.edu/~bmagee/201/marlowe/shepherd_&_notes.htm |title=Notes for ''The Passionate Shepherd to His Love'' |publisher=Dr. Bruce Magee, [[Louisiana Tech University]] |access-date=29 October 2012}}</ref> Years later, the 20th-century poet [[William Carlos Williams]] would join the poetic "argument" with his "[[Raleigh Was Right]]".
+
+===List of poems===
+All finished, and some unfinished, poems written by Raleigh or plausibly attributed to him:{{efn|''As ye came from the holy land'' is often attributed to Raleigh, but, in the words of {{harvnb|Bullett|1947|p=280}}, "it certainly existed before Ralegh arrived on the scene; Ralegh's connexion with it is largely a matter of conjecture"}}
+
+{{Div col|colwidth=20em}}
+* "The Advice"
+* "Another of the Same"
+* "Conceit begotten by the Eyes"
+* "Epitaph on Sir Philip Sidney"
+* "Epitaph on the Earl of Leicester"
+* "Even such is Time"
+* "The Excuse"
+* "False Love"
+* "Farewell to the Court"
+* "His Petition to Queen Anne of Denmark"
+* "If Cynthia be a Queen"
+* "In Commendation of George Gascoigne's Steel Glass"
+* "[[The Lie (poem)|The Lie]]"
+* "Like Hermit Poor"
+* "Lines from Catullus"
+* "Love and Time"
+* "My Body in the Walls captive"
+* "[[The Nymph's Reply to the Shepherd]]"
+* "Of Spenser's Faery Queen"
+* "On the Snuff of a Candle"
+* "The Ocean's Love to Cynthia"
+* "A Poem entreating of Sorrow"
+* "A Poem put into my Lady Laiton's Pocket"
+* "The Pilgrimage"
+* "A Prognistication upon Cards and Dice"
+* "The Shepherd's Praise of Diana"
+* "Sweet Unsure"
+* "To His Mistress"
+* "To the Translator of Lucan's Pharsalia"
+* "What is Our Life?"
+* "The Wood, the Weed, the Wag"
+{{div col end}}
+
+===Writing Shakespeare===
+{{see_also|List of Shakespeare authorship candidates|Shakespeare authorship question}}
+In 1845, Shakespeare scholar [[Delia Bacon]] first proposed that a group of authors had actually written the plays later attributed to [[William Shakespeare]], the main writer being Walter Raleigh.{{sfn|Farrand|2013}}{{sfn|Hechinger|2011}} Later, George S. Caldwell asserted that Raleigh was actually the sole author.{{sfn|Wallechinsky|Wallace|1981}} These claims have been supported by other scholars throughout subsequent years, including [[Albert J. Beveridge]] and [[Henry Pemberton]], but are rejected by the majority of Shakespearean scholars today.{{efn|{{Harvnb|Kathman|2003|p=621}}: "...antiStratfordism has remained a fringe belief system"; {{Harvnb|Schoenbaum|1991|p=450}}; {{Harvnb|Paster|1999|p=38}}: "To ask me about the authorship question ... is like asking a palaeontologist to debate a creationist's account of the fossil record."; {{Harvnb|Nelson|2004|pp=149–51}}: "I do not know of a single professor of the 1,300-member Shakespeare Association of America who questions the identity of Shakespeare ... antagonism to the authorship debate from within the profession is so great that it would be as difficult for a professed Oxfordian to be hired in the first place, much less gain tenure..."; {{Harvnb|Carroll|2004|pp=278–9}}: "I have never met anyone in an academic position like mine, in the Establishment, who entertained the slightest doubt as to Shakespeare's authorship of the general body of plays attributed to him."; {{Harvnb|Pendleton|1994|p=21}}: "Shakespeareans sometimes take the position that to even engage the Oxfordian hypothesis is to give it a countenance it does not warrant."; {{Harvnb|Sutherland|Watts|2000|p=7}}: "There is, it should be noted, no academic Shakespearian of any standing who goes along with the Oxfordian theory."; {{Harvnb|Gibson|2005|p=30}}: "...most of the great Shakespearean scholars are to be found in the Stratfordian camp..."}}
+
+==Legacy==
+{{See also|Walter Raleigh in popular culture}}
+[[File:Walter Raleigh Statue.JPG|thumb|upright|Statue of Sir Walter Raleigh at [[Raleigh Convention Center]]]]
+In 2002, Raleigh was featured in the BBC poll of the [[100 Greatest Britons]].<ref>{{cite web|url=https://www.bbc.co.uk/history/programmes/greatbritons/list.shtml/|archive-url=https://web.archive.org/web/20021204214727/http://www.bbc.co.uk/history/programmes/greatbritons/list.shtml/|archive-date=4 December 2002|title=BBC – Great Britons – Top 100|work=[[Internet Archive]]|access-date=19 July 2017}}</ref>
+
+A [[galliard]] was composed in honour of Raleigh by either [[Francis Cutting]] or [[Richard Allison (composer)|Richard Allison]].<ref>{{cite web|title=Mathew Holmes lute books: Sir Walter Raleigh's galliard|url=http://cudl.lib.cam.ac.uk/view/MS-DD-00002-00011/154|publisher=Cambridge Digital Library|access-date=11 December 2014}}</ref>
+
+The state capital of [[North Carolina]], its second-largest city, was named [[Raleigh, North Carolina|Raleigh]] in 1792, after Sir Walter, sponsor of the [[Roanoke Colony]]. In the city, a bronze statue, which has been moved around different locations within the city, was cast in honour of the city's namesake. The "Lost Colony" is commemorated at the [[Fort Raleigh National Historic Site]] on [[Roanoke Island]], North Carolina.<ref>{{Cite web|url=https://www.thelostcolony.org/|title=The Lost Colony – #1 OBX Attraction|website=The Lost Colony}}</ref>
+
+[[Raleigh County, West Virginia]], is named after him.<ref>{{cite web|url=http://www.wvculture.org/history/counties/raleigh.html|title=Raleigh County history sources|publisher=West Virginia Division of Culture and History|access-date=30 May 2015|url-status=dead|archive-url=https://web.archive.org/web/20131029205903/http://www.wvculture.org/history/counties/raleigh.html|archive-date=29 October 2013}}</ref>
+
+[[Mount Raleigh]] in the [[Pacific Ranges]] of the [[Coast Mountains]] in [[British Columbia]], Canada, was named for him,<ref>[https://web.archive.org/web/20140519202950/http://apps.gov.bc.ca/pub/bcgnws/names/23259.html "Mount Raleigh"]. BCNames/GeoBC</ref> with related features the Raleigh Glacier<ref>[https://web.archive.org/web/20140519202950/http://apps.gov.bc.ca/pub/bcgnws/names/23256.html "Raleigh Glacier"]. BC Names/GeoBC</ref> and Raleigh Creek<ref>[https://web.archive.org/web/20140519192618/http://apps.gov.bc.ca/pub/bcgnws/names/23257.html "Raleigh Creek"]. BC Names/GeoBC</ref> named in association with the mountain. [[Mount Gilbert (British Columbia)|Mount Gilbert]], just to Mount Raleigh's south, was named for his half-brother, Sir Humphrey.<ref>[https://web.archive.org/web/20140519192618/http://apps.gov.bc.ca/pub/bcgnws/names/6119.html "Mount Gilbert"]. BC Names/GeoBC</ref>
+
+Raleigh has been widely speculated to be responsible for introducing the [[potato]] to Europe, and was a key figure in bringing it to Ireland. However, modern historians dispute this claim, suggesting it would have been impossible for Raleigh to have discovered the potato in the places he visited.{{sfn|Salaman|Burton|1985|p=148}}
+
+Due to Raleigh's role in the popularisation of smoking, [[John Lennon]] humorously referred to him as "such a stupid [[Git (slang)|git]]"<!--"get" is correct, as Liverpudlian - see Talk#Raleigh in pop culture--> in the song "[[I'm So Tired]]" on the "White Album" ''[[The Beatles (album)|The Beatles]]'' (1968).<ref>[http://www.thebeatles.com/song/im-so-tired ''The Beatles'' (''The White Album'') "I'm So Tired" website]. Retrieved 11 December 2014</ref>
+
+Various colourful stories are told about him, such as laying his cloak over a puddle for the Queen, but they are probably apocryphal.<ref name="Fragmenta">[[Robert Naunton|Naunton, Robert]] ''Fragmenta Regalia'' 1694, reprinted 1824.
+</ref>{{sfn|Fuller|1684|p=749}}<ref>[http://history.howstuffworks.com/history-vs-myth/10-historical-misconceptions9.htm 10 Historical Misconceptions], [[HowStuffWorks]]</ref> The story of Raleigh's trial is included in [[John George Phillimore]]'s 1850 book ''The History and Principles of Evidence'', and his commentary on the story is included in many law school textbooks on evidence in [[common law]] countries.
+
+The author [[George Garrett (poet)|George Garrett]]'s historical fiction novel ''[[Death of the Fox]]'' explores Raleigh's relationships with Elizabeth I and her successor James I.
+
+==Raleigh's descendants==
+Many people claim descent from Sir Walter Raleigh, but nearly all have no basis in fact. The only authentic lines of descent are as follows:
+
+Raleigh's only surviving child, Carew Raleigh, had three surviving children—Walter (d. 1660), Anne (d. 1708) and Philip (d. 1705).
+ 
+The elder son, Walter Raleigh, was knighted in June 1660, but died two months later. He was buried at West Horsley. He left three surviving children—Elizabeth, Philippa and Anne. Philippa (who married Oliver Weekes, of Tortingdon, Sussex) and Anne (who married William Knight, of Barrells, Warwickshire) left descendants. It was Philippa Weekes' daughter, Elizabeth Elwes, who seems to have owned the main store of Raleigh memorabilia and was consulted by William Oldys in 1735 when he was writing his ''Life of Raleigh''.
+
+Anne Raleigh married Sir Peter Tyrrell, of Castlethorpe, Bucks. Her granddaughter, Harriet, married Francis Mann, of Kidlington, Oxfordshire, and died in 1785, leaving descendants.
+
+Philip Raleigh championed his grandfather's cause, publishing several of his hitherto unpublished papers. He had a family of four sons and three daughters. The youngest son, Carew Raleigh, page of honour to William III, was serving as a captain's servant on {{HMS|Bredah}} when he died of fever in the West Indies in 1697, aged seventeen. The second son, Lieut. Brudenell Raleigh, was also serving in the navy in the West Indies when he died of fever in June 1698, aged 22. The eldest son, Captain Walter Raleigh, Grenadier Guards, was page of honour to Queen Mary, and was killed at the siege of Schellenberg in 1704, aged 31. He was unmarried. After Walter's death, his father was granted a pension by the crown, 'in consideration of his 3 sons being slain in the late and present war'. The third son, Captain-Lieutenant Grenville Raleigh, served in the [[John Churchill, 1st Duke of Marlborough|Duke of Marlborough]]'s army throughout the [[War of the Spanish Succession]] and died of fever in 1717, while guarding the prisoners at Chester after the 1715 [[Jacobite rising]]. He had married and had two sons and a daughter, Mary. On the death of his daughter in Bath in 1783, it was noted that she was 'the only surviving descendant in the direct line of Sir Walter Raleigh'.
+
+Of Philip Raleigh's daughters, Anne and Elizabeth both died unmarried. The eldest daughter, Frances, married William Honywood, eldest son of Sir William Honywood, of Evington Place, Elmsted, Kent and died in 1730. Her many descendants include the present [[Norton Knatchbull, 3rd Earl Mountbatten of Burma|Lord Mountbatten]] and the actor [[Hugh Grant]].{{sfn|King|2019|p=}}
+
+==See also==
+* [[List of colonial governors of Virginia]]
+* [[Sir Walter]], a race horse
+* [[The Armada Service]]
+
+==References==
+===Notes===
+{{notelist|refs=
+
+{{efn| name=pronunciation|Many alternative spellings of his surname exist, including ''Rawley'', ''Ralegh'', ''Ralagh'' and ''Rawleigh''. "Raleigh" appears most commonly today, but he is known to have used that spelling only once. His most consistent preference was for "Ralegh". His full name is {{IPAc-en|ˈ|w|ɔː|l|t|ər|_|ˈ|r|ɔː|l|i}}, but in practice, {{IPAc-en|ˈ|r|æ|l|i}} {{Respell|RAL|ee}} and even {{IPAc-en|ˈ|r|ɑː|l|i}} {{Respell|RAH|lee}} are the usual modern pronunciations in England.}}
+
+}}
+
+===Citations===
+{{Reflist|refs=
+
+<ref name=si.edu>{{Cite web |url=http://www.serc.si.edu/education/resources/watershed/stories/roanoke.aspx |title=The lost colony of Roanoke Island |access-date=29 October 2015 |archive-url=https://web.archive.org/web/20151101082546/http://www.serc.si.edu/education/resources/watershed/stories/roanoke.aspx |archive-date=1 November 2015 |url-status=dead |website=The Smithsonian Institution}}</ref>
+
+<ref name=thelostworld.org>{{cite web |url=http://www.thelostworld.org/characters/Character.htm |title=Walter Raleigh – Delusions of Guiana |website=The Lost World: The Gran Sabana, Canaima National Park and Angel Falls – Venezuela |access-date=22 May 2015 |archive-date=9 February 2012 |archive-url=https://web.archive.org/web/20120209070538/http://www.thelostworld.org/characters/Character.htm}}</ref>
+
+<ref name=yale.edu>{{cite web|title=Charter to Sir Walter Raleigh: 1584|url=http://avalon.law.yale.edu/16th_century/raleigh.asp|website=The Avalon Project|publisher=Yale Law School, Lillian Goldman Law Library|access-date=14 June 2015}}</ref>
+
+<ref name="Midddle Temple">{{citation|title=Register of Admissions to the Honourable Society of the Middle Temple|volume= I|page=39}}</ref>
+
+<ref name="Walter Raleigh Biography">{{cite web|url=http://www.biography.com/people/walter-raleigh-9450901 |title=Walter Raleigh Biography|website=The Biography Channel |access-date=12 March 2014}}</ref>
+
+<ref name=crimtrial>1 Criminal Trials 400, 400–511, 1850.</ref>
+
+<ref name=uark.edu>{{cite web|title=Note on the trial under commission of Oyer and Terminer with a jury, at a court of assizes|archive-url=https://web.archive.org/web/20100609194849/http://law.uark.edu/documents/Bailey_BE_Trial_of_Sir_Walter_Raleigh.pdf|url=http://law.uark.edu/documents/Bailey_BE_Trial_of_Sir_Walter_Raleigh.pdf|archive-date=9 June 2010}}</ref>
+
+<ref name=wallacecollection.org>{{cite web|title=Sir Walter Raleigh's tobacco pouch|url=http://wallacelive.wallacecollection.org/eMuseumPlus?service=ExternalInterface&module=collection&objectId=64809&viewType=detailView|publisher=Wallace Collection|access-date=1 November 2012|archive-url=https://web.archive.org/web/20121109092652/https://wallacelive.wallacecollection.org/eMuseumPlus?service=ExternalInterface&module=collection&objectId=64809&viewType=detailView|archive-date=9 November 2012}}</ref>
+
+}}
+
+===Sources===
+{{refbegin|2|indent=yes}}
+*{{Cite web |title=Woodbury Common – Hayes Barton |last=Batten |first=Jim |work=britishexplorers.com |date=16 August 2020 |access-date=6 September 2020 |url= http://www.britishexplorers.com/woodbury/hayesba.html }}
+*{{cite book|editor1-first=Joseph |editor1-last=Black|title=The Broadview Anthology of British Literature|url=https://books.google.com/books?id=fBkw3d6adu4C&pg=PA724|edition=2nd|volume=A|year=2011|publisher=Broadview Press|isbn=978-1-77048-086-5|display-editors=et al|ref={{sfnref|Black et al.|2011}} }}
+*{{cite web|first=Gene |last=Borio |url=http://www.tobacco.org/resources/history/Tobacco_History17.html |title=Tobacco Timeline: The Seventeenth Century-The Great Age of the Pipe |publisher=Tobacco.org |access-date=29 October 2012|archive-url=https://web.archive.org/web/20121109093130/http://archive.tobacco.org/resources/history/Tobacco_History17.html|archive-date=9 November 2012|date=2007}}
+*{{cite book|last1=Bremer|first1=Francis J. |last2=Webster|first2=Tom |title=Puritans and Puritanism in Europe and America: A Comprehensive Encyclopedia|url=https://books.google.com/books?id=EzvHvEDPosQC&pg=PA454|year=2006|publisher=ABC-CLIO|isbn=978-1-57607-678-1}}
+*{{cite book|url=https://archive.org/stream/raleghana08brus |title=Raleghana|last=Brushfield|first=Thomas Nadauld|author-link=Thomas Nadauld Brushfield|volume= Vol. 8|year= 1896|location=Plymouth}}
+*{{cite book|last=Bullett|first=Gerald|author-link=Gerald Bullett|title=Silver Poets of the 16th Century|series=[[Everyman's Library]]|volume=1985|year=1947|publisher=Dent|location=London}}
+* {{Cite journal |title = Reading the 1592 Groatsworth Attack on Shakespeare |last = Carroll|first = D. Allen |journal = Tennessee Law Review |publisher = Tennessee Law Review Association |year = 2004 |volume = 72 |issue = 1|pages = 277–94 |issn = 0040-3288}}
+*{{cite book|last1=Cherry|first1=Bridget |author-link1=Bridget Cherry|last2=Pevsner|first2=Nikolaus |author-link2=Nikolaus Pevsner|title=The Buildings of England: Devon|url=https://books.google.com/books?id=5wd_Pw4L3zcC|year=2004|publisher=Penguin|isbn=978-0-300-09596-8}}
+*{{cite book|last=Christenson|first=Ron |title=Political Trials in History: From Antiquity to the Present|url=https://books.google.com/books?id=WKBDAQAAIAAJ|year=1991|publisher=Transaction |isbn=978-0-88738-406-6}}
+*{{cite journal|journal=Archaeologia|page= 151|publisher=The Society of Antiquaries of London|date =1852|volume=34|issue=2|title=Additional Information respecting the Life and Services of Sir Walter Raleigh|first=John Payne |last=Collier|doi=10.1017/S026134090000103X|url= https://zenodo.org/record/1812965}}
+*{{cite book|last=Edwards|first=Edward |author-link = Edward Edwards (librarian)|title=The Life of Sir Walter Ralegh|url=https://books.google.com/books?id=jaRRAAAAcAAJ&pg=PA26|volume=Volume 1|year=1868|publisher=Macmillan & Company}}
+*{{cite book|last1=Durant|first1= Will |last2=Durant|first2= Ariel |date=1961|title=The Story of Civilization|title-link=The Story of Civilization|volume=Vol. VII|publisher=Simon and Schuster|isbn=978-1567310238}}
+*{{cite book|last=Fairholt|first= Frederick William |date=1859|url=https://archive.org/details/tobaccoitshistor00fair |title=Tobacco, Its History and Associations|location=London|publisher= Chapman and Hall}}
+*{{cite book|last=Fuller|first=Thomas |author-link=Thomas Fuller|title=Anglorum Speculum: Or The Worthies of England, in Church and State|url=https://books.google.com/books?id=XvYm-o5Gw_UC&pg=749|year=1684|publisher=J. Wright}}
+*{{Cite web|url=http://fewbetween.blogspot.com/2013/01/walter-raleigh-wrote-shakespeare.html|title=Far and few between: Walter Raleigh Wrote Shakespeare?|first=Michael J.|last=Farrand|date=26 January 2013}}
+* {{Cite book |title = The Shakespeare Claimants |series = Routledge Library Editions—Shakespeare |last = Gibson |first = H. N. |publisher = Routledge |year = 2005 |orig-year = 1962 |isbn = 978-0-415-35290-1 |url = https://books.google.com/books?id=W7HEMEsGiVUC |access-date = 20 December 2010}}
+*{{cite book|last=Hakluyt|first=Richard |editor=Irwin R. Blacker|title=Hakluyt's Voyages: The Principle Navigations Voyages Traffiques & Discoveries of the English Nation|url=https://books.google.com/books?id=b6gnAQAAMAAJ|year=1965|publisher=Viking Press|location=New York|isbn=978-0-670-01067-7}}
+*{{Cite web |title=Did Shakespeare Really Write His Plays? A Few Theories Examined |last=Hechinger |first=Paul |work=BBC America |date=October 2011 |access-date=6 September 2020 |url= https://www.bbcamerica.com/anglophenia/2011/10/did-shakespeare-really-write-his-plays-a-few-theories-examined/2 }}
+* {{Cite book |chapter = The Question of Authorship |title = Shakespeare: an Oxford Guide |series = Oxford Guides |editor1-last = Wells |editor1-first = Stanley |editor2-last = Orlin |editor2-first = Lena Cowen |last = Kathman |first = David |publisher = Oxford University Press |year = 2003 |pages = 620–32 |isbn = 978-0-19-924522-2}}
+*{{cite book|first=Walter Raleigh |last=King |date=2019|title=Sunk Down among the People: The Story of the Descendants of Sir Walter Raleigh|publisher=Kindle Direct Publishing. |asin=B081SKM5HD}}
+*{{cite DNB|last1=Laughton|first1= John Knox |last2=Lee|first2=Sidney|volume=47|wstitle=Ralegh, Walter (1552?-1618)}}
+*{{cite DNB|wstitle=Stucley, Lewis|volume=55|first=John Knox|last=Laughton}}
+*{{Cite magazine|last=Ley|first=Willy|date=December 1965|title=The Healthfull Aromatick Herbe|department=For Your Information|magazine=Galaxy Science Fiction|url=http://www.isfdb.org/cgi-bin/title.cgi?659721|editor=Frederik Pohl}}
+*{{cite book|author1-link=John Lloyd (producer)|last1=Lloyd |first1=J.|author2-link=John Mitchinson (researcher)|last2=Mitchinson|first2= J.|date=2006|title=[[The Book of General Ignorance]] |publisher=Faber and Faber|isbn=0-307-39491-3}}
+*{{cite book|last1=May|first1=Steven W.|title=Sir Walter Ralegh|date=1989|publisher=Twayne|location=Boston, MA|isbn=9780805769838}} Raleigh as a writer and poet.
+* {{cite ODNB|id=23039|title=Ralegh, Sir Walter (1554–1618)|last=Nicholls|first=Mark|last2=Williams|first2= Penry |date=17 September 2004}}
+* {{Cite journal |title = Stratford Si! Essex No! |last = Nelson |first = Alan H. |year = 2004 |journal = Tennessee Law Review |publisher = Tennessee Law Review Association |volume = 72 |issue = 1 |pages = 149–69 |issn = 0040-3288}}
+*{{cite book|last1=Nicholls|first1=Mark |last2=Williams|first2=Penry |title=Sir Walter Raleigh: In Life and Legend|url=https://books.google.com/books?id=R8TOqi0Dd4cC&pg=PA15|year=2011|publisher=A&C Black|isbn=978-1-4411-1209-5}}
+* {{Cite news |title = The Sweet Swan |last = Paster |first = Gail Kern |journal = [[Harper's Magazine]] |date = April 1999 |url = http://www.harpers.org/archive/1999/04/0060465 |access-date = 2 March 2011 |format = subscription required |pages = 38–41}}
+* {{Cite journal |title = Irvin Matus's ''Shakespeare, IN FACT'' |last = Pendleton |first = Thomas A. |journal = Shakespeare Newsletter |publisher = [[University of Illinois at Chicago]] |volume = 44 |issue = Summer |year = 1994 |pages = 21, 26–30 |issn = 0037-3214}}
+*{{cite book|last=Popper|first=Nicholas |title=Walter Ralegh's "History of the World" and the Historical Culture of the Late Renaissance|url=https://books.google.com/books?id=DYCk9b8SPA0C|year=2012|publisher=University of Chicago Press|isbn=978-0-226-67502-2}}
+*{{cite book|last=Quinn|first=David B. |title=Set Fair for Roanoke: Voyages and Colonies, 1584-1606|url=https://books.google.com/books?id=DvA0Az4owikC|year=1985|publisher=UNC Press|location=Chapel Hill|isbn=978-0-8078-4123-5}}
+*{{cite book|last=Racin|first=John |title=Sir Walter Ralegh as Historian: An Analysis of The History of the World|url=https://books.google.com/books?id=EWZExwEACAAJ|year=1974|publisher=Inst. f. Engl. Sprache u. Literatur, Univ. Salzburg}}
+*{{cite book|last=Ronald|first=Susan |title=The Pirate Queen: Queen Elizabeth I, Her Pirate Adventurers, and the Dawn of Empire|url=https://books.google.com/books?id=c3Ny_3Gp95kC|year=2007|publisher=HarperCollins|isbn=978-0-06-082066-4}}
+*{{cite book|last=Rowse|first=Alfred Leslie |author-link=Alfred Leslie Rowse|title=Ralegh and the Throckmortons|url=https://books.google.com/books?id=-lC8zQEACAAJ|year=1962|publisher=St. Martin's Press|location=London|isbn=9787800419980 }}
+*{{cite book|last1=Salaman|first1=Redcliffe N. |last2=Burton|first2=William Glynn |title=The History and Social Influence of the Potato|url=https://books.google.com/books?id=EV4YE_0RsywC&pg=PA148|year=1985|publisher=University Press|location=Cambridge |isbn=978-0-521-31623-1}}
+* {{Cite book |title = Shakespeare's Lives |last = Schoenbaum |first = S. |edition = 2nd |publisher = Oxford University Press |year = 1991 |url = https://books.google.com/books?id=0zZc7VFGNtMC |isbn = 978-0-19-818618-2}}
+*{{cite book|last=St. John|first=James Augustus |author-link=James Augustus St. John|title=Life of Sir Walter Raleigh: 1552-1618|chapter-url=https://books.google.com/books?id=uTnSAAAAMAAJ&pg=PA52|year=1869|publisher=Chapman & Hall|chapter=Perpetrates the Massacre of Del Oro}}
+* {{Cite book |title = Henry V, War Criminal?: and Other Shakespeare Puzzles |last1 = Sutherland |first1 = John |author-link = John Sutherland (author) |last2 = Watts |first2 = Cedric T. |publisher = Oxford University Press |year = 2000 |isbn = 978-0-19-283879-7 |url = https://books.google.com/books?id=M_QGoTWMmMgC |access-date = 16 February 2011}}
+*{{cite book|last=Trevelyan|first=Raleigh |author-link=Raleigh Trevelyan|title=Sir Walter Raleigh|url=https://books.google.com/books?id=6oBnAAAAMAAJ|year=2002|publisher=Allen Lane|isbn=978-0-7139-9326-4}}
+*{{cite book|last=Vivian|first=John Lambrick |author-link=John Lambrick Vivian|title=The Visitations of the County of Devon: Comprising the Herald's Visitations of 1531, 1564, & 1620|url=https://archive.org/details/VisitationOfTheCountyOfDevonInTheYear1620/|year=1895|publisher=H. S. Eland}}
+*{{Cite book|last=Wallace|first=Willard Mosher |author-link=Willard M. Wallace|title=Sir Walter Raleigh|publisher=Princeton University Press|year=1959|isbn=978-1-4008-7900-7|location=Princeton, N.J.|oclc=927442536}}
+*{{Cite web |title=Who Really Wrote Shakespeare's Plays? Sir Walter Raleigh ?|last1=Wallechinsky |first1=David |last2=Wallace |first2=Irving |work=trivia-library.com |date=1981 |access-date=6 September 2020 |url= https://www.trivia-library.com/b/who-really-wrote-shakespeare-plays-sir-walter-raleigh.htm }}
+*{{cite book|last=Williams|first= Norman Lloyd |date=1988|title=Sir Walter Raleigh|series=Cassell Biographies|url=https://archive.org/details/sirwalterraleigh00will|ol=24939443M|oclc=18325609|isbn=9780304322411}}
+*{{cite encyclopedia|url=https://www.encyclopediavirginia.org/Raleigh_Sir_Walter_ca_1552-1618|title=Sir Walter Raleigh (ca. 1552–1618)|last=Wolfe|first=Brendan|encyclopedia=Encyclopedia Virginia|publisher=Virginia Humanities |access-date=1 March 2020|date=29 October 2018}}
+*{{cite ODNB|id=26740|title=Stucley, Sir Lewis|first=Mary|last=Wolffe|date=23 September 2004}}
+{{refend}}
+
+===Further reading===
+{{refbegin}}
+* Adamson, J.H. and Folland, H. F. ''Shepherd of the Ocean'', 1969
+* Beer, Anna ''Sir Walter Raleigh and his readers in the Seventeenth Century'' (Springer, 1997).
+* Beer, Anna ''Patriot or Traitor: The Life and Death of Sir Walter Ralegh'' (Oneworld, 2018)
+* Hiscock, Andrew. "Walter Ralegh and the Arts of Memory." ''Literature Compass'' 4.4 (2007): 1030–1058.
+* Dwyer, Jack ''Dorset Pioneers'' [[The History Press]], 2009. {{ISBN|978-0-7524-5346-0}}
+* Gallay, Alan. ''Walter Ralegh: Architect of Empire'' (2019), a major scholarly biography [https://www.amazon.com/Walter-Ralegh-Architect-Alan-Gallay/dp/1541645790/  excerpt]
+* Holmes, John. "The Guiana Projects: Imperial and Colonial Ideologies in Ralegh and Purchas." ''Literature & History'' 14.2 (2005): 1–13.
+* Lawson-Peebles, Robert. "The many faces of Sir Walter Ralegh" ''History Today'' 48.3 (1998): 17+.
+* [[C. S. Lewis|Lewis, C. S.]] ''English Literature in the Sixteenth Century Excluding Drama,'' (1954).
+* Lyons, Mathew. ''The Favourite: Ralegh and His Queen'' (Hachette UK, 2011).
+* Lyons, Mathew. "Cloaked in Mystery." ''History Today'' (2012) 62.7 pp 72–72
+* Pemberton, Henry (Author); Carroll Smyth (Editor), Susan L. Pemberton (Contributor) ''Shakespeare And Sir Walter Raleigh: Including Also Several Essays Previously Published In The New Shakspeareana'', Kessinger Publishing, LLC; 264 pages, 2007. {{ISBN|978-0548312483}}
+* Ralegh, Sir Walter, and Michael Rudick. "The Poems of Sir Walter Ralegh: A Historical Edition." (Arizona Center for Medieval and Renaissance Studies/Renaissance English Text Society, 1999).
+* [[William Stebbing|Stebbing, William]]: ''Sir Walter Ralegh'' Oxford, 1899 [https://www.gutenberg.org/ebooks/25029 Project Gutenberg eText]
+* {{Cite book|last=Tytler|first=Patrick Fraser|author-link=Patrick Fraser Tytler|year=1848|title=Life of Sir Walter Raleigh, Founded on Authentic and Original Documents|publisher=T. Nelson and Sons|publication-date=1853|location=London|url=https://archive.org/details/lifesirwalterra02tytlgoog|access-date=17 August 2008}}
+{{refend}}
+
+==External links==
+<!--
+  ===============================================================================
+   WIKIPEDIA IS NOT A COLLECTION OF LINKS. Only a limited number of new links 
+   should be added to this article. PLEASE DO NOT ADD external links to sites with
+   information already in the article or in its sources.
+
+   See [[Wikipedia:External links]] and [[Wikipedia:Spam]] for further details
+  ===============================================================================
+-->
+* The Sir Walter Raleigh Collection in Wilson Library at the [[University of North Carolina]] at [[Chapel Hill, North Carolina|Chapel Hill]]
+* [http://www.poetsgraves.co.uk/raleigh.htm Sir Walter Raleigh's Grave]
+* [http://www.britannia.com/bios/raleigh/index.html Biography of Sir Walter Raleigh at Britannia.com]
+* [http://www.nps.gov/fora/sirwalter.htm Sir Walter Raleigh at the Fort Raleigh website]
+* [http://www.giga-usa.com/gigaweb1/quotes2/quautraleigh1walterx001.htm Quotes attributed to Sir Walter Raleigh]
+* [http://www.awesomestories.com/flicks/elizabeth-I/the-death-of-raleigh Story of Raleigh's last years and his beheading]
+* [http://www.presscom.co.uk/leepriory/leeraleigh.html Poetry by Sir Walter Raleigh, plus commentary]
+* [http://the-lost-colony.blogspot.com Searching for the Lost Colony Blog]
+* [http://www.csuchico.edu/engl/texts/ralegh.pdf Robert Viking O'Brien & Stephen Kent O'Brien, ''Discovery of Guiana'' essay, ''Yearbook of Comparative and General Literature'']
+* [http://www.luminarium.org/renlit/ralegh.htm Sir Walter Raleigh portal] at luminarium.org
+* {{Gutenberg author | id=Raleigh,+Walter }}
+* {{Internet Archive author |sname=Walter Raleigh}}
+* {{Librivox author |id=1155}}
+* [http://catalog.hathitrust.org/Record/012476035 ''The History of the World''] at [[Hathi Trust]]
+<!-- EDITORS NOTE: Please follow the [[WP:EL]] guideline where possible and consider discussing on the talk page. Thank you. -->
+
+{{Navboxes
+|title=Offices and distinctions
+|list1=
+{{S-start}}
+{{S-court}}
+{{S-bef| before=[[Francis Russell, 2nd Earl of Bedford|The Earl of Bedford]]}}
+{{S-ttl | title=[[Lord Warden of the Stannaries]] | years=1584–1603}}
+{{S-aft| rows= | after=[[William Herbert, 3rd Earl of Pembroke|The Earl of Pembroke]]}}
+{{S-hon}}
+{{S-bef| before=[[Francis Godolphin (1540–1608)|Sir Francis Godolphin]]<br />[[William Mohun|Sir William Mohun]]<br />[[Peter Edgcumbe]]<br />[[Richard Carew (antiquary)|Richard Carew]]}}
+{{S-ttl | title=[[Lord Lieutenant of Cornwall]] | years=1587–1603}}
+{{S-aft| rows= | after=[[William Herbert, 3rd Earl of Pembroke|The Earl of Pembroke]]}}
+{{S-gov}}
+{{S-bef|before=[[Sir Edward Seymour, 1st Baronet|Edward Seymour]]}}
+{{S-ttl|title=[[Vice-Admiral of Devon]]|years=1585–1603}}
+{{S-aft|after=[[William Bourchier, 3rd Earl of Bath|The Earl of Bath]] (North Devon) and<br />[[Richard Hawkins|Sir Richard Hawkins]] (South Devon)}}
+{{s-bef|before=[[John Best (guard captain)|John Best]]}}
+{{S-ttl|title=[[Captain of the Yeomen of the Guard]]|years=1597–1603}}
+{{S-aft|after=[[Thomas Erskine, 1st Earl of Kellie|Sir Thomas Erskine]]}}
+{{S-bef|before=[[Matthew Arundell|Sir Matthew Arundell]]}}
+{{S-ttl|title=[[Custos Rotulorum of Dorset]]|years=1598–1603}}
+{{S-aft|after=[[Thomas Howard, 3rd Viscount Howard of Bindon|Viscount Howard of Bindon]]}}
+{{S-bef|before=[[Anthony Paulet|Sir Anthony Paulet]]}}
+{{s-ttl|title=[[Governor of Jersey]]|years=1600–1603}}
+{{S-aft|after=[[John Peyton (soldier)|Sir John Peyton]]}}
+{{S-end}}
+}}
+{{Subject bar|portal1=Biography|portal2=England|portal3=North America|portal4=Poetry|portal5=Politics|portal6=South America|commons=y|commons-search=Category:Sir Walter Raleigh|q=y|q-search=Walter Raleigh|s=y|s-search=Author:Walter Raleigh (1554–1618)}}<!-- EDITORS NOTE: Please do not add "Portal:British Empire" or "Portal:United States" as it would be historically inaccurate. Thank you. -->
+{{Authority control}}
+
+{{DEFAULTSORT:Raleigh, Walter}}
+[[Category:Walter Raleigh| ]]<!--please leave the empty space as standard-->
+[[Category:1550s births]]
+[[Category:1618 deaths]]
+[[Category:Alumni of Oriel College, Oxford]]
+[[Category:Burials at St Margaret's, Westminster]]
+[[Category:English courtiers]]
+[[Category:English explorers of North America]]
+[[Category:English knights]]
+[[Category:English male poets]]
+[[Category:English MPs 1584–1585]]
+[[Category:English MPs 1586–1587]]
+[[Category:English MPs 1597–1598]]
+[[Category:English MPs 1601]]
+[[Category:English people of the Anglo-Spanish War (1585–1604)]]
+[[Category:English politicians convicted of crimes]]
+[[Category:English sailors]]
+[[Category:Executed people from Devon]]
+[[Category:Executed writers]]
+[[Category:Explorers of South America]]
+[[Category:Governors of Jersey]]
+[[Category:History of Guyana]]
+[[Category:Honourable Corps of Gentlemen at Arms]]
+[[Category:Knights Bachelor]]
+[[Category:Lord-Lieutenants of Cornwall]]
+[[Category:Members of the Parliament of England (pre-1707) for Cornwall]]
+[[Category:Members of the Parliament of England (pre-1707) for Devon]]
+[[Category:People executed by Stuart England by decapitation]]
+[[Category:People executed under the Stuarts for treason against England]]
+[[Category:People from East Devon District]]
+[[Category:People of Elizabethan Ireland]]
+[[Category:People of the Elizabethan era]]
+[[Category:People of the Roanoke Colony]]
+[[Category:Prisoners in the Tower of London]]
+[[Category:English army officers]]
+[[Category:Court of Elizabeth I]]
+[[Category:People of the Second Desmond Rebellion]]

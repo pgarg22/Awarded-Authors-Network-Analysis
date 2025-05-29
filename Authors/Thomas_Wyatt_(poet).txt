@@ -1,0 +1,138 @@
+{{Infobox person
+| honorific_prefix   = 
+| name               = Sir Thomas Wyatt
+| honorific_suffix   = 
+| image              = File:Sir Thomas Wyatt (1) by Hans Holbein the Younger.jpg
+| alt                = 
+| caption            = (Depiction by [[Hans Holbein the Younger]])
+| birth_name         = Thomas Wyatt
+| birth_date         = 1503
+| birth_place        = [[Allington Castle]], Kent, England
+| death_date         = 11 October {{Death year and age|1542|1503}}
+| death_place        = [[Clifton Maybank]] House, Dorset, England
+| resting_place      = [[Sherborne Abbey]], Dorset
+| occupation         = Politician, Ambassador, Poet
+| title              = 
+| term               = 
+| predecessor        = 
+| successor          = 
+| spouse             = [[Elizabeth Brooke, Lady Wyatt|Elizabeth Brooke]]
+| partner            = 
+| children           = Sir [[Thomas Wyatt the Younger]]<br />Henry<br />Francis<br />Edward
+| parents            = [[Henry Wyatt (courtier)|Sir Henry Wyatt]]<br/>Anne Skinner
+| signature          = 
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+| box_width          = 
+}}
+{{Use dmy dates|date=December 2013}}
+{{Use British English|date=December 2013}}
+
+'''Sir Thomas Wyatt''' (1503{{snd}}11 October 1542)<ref>{{cite book |last1=Cummings |first1=Brian |editor1-last=Kastan |editor1-first=David Scott Kastan |title=The Oxford Encyclopedia of British Literature |date=2006 |publisher=Oxford University Press |location=Oxford |isbn=9780195169218 |page=346 |chapter=Thomas Wyatt}}</ref> was a 16th-century English politician, ambassador, and [[lyric poetry|lyric poet]] credited with introducing the [[sonnet]] to English literature. He was born at [[Allington Castle]] near [[Maidstone]] in Kent, though the family was originally from [[Yorkshire]]. His family adopted the Lancastrian side in the Wars of Roses. His mother was Anne Skinner, and his father [[Henry Wyatt (courtier)|Henry]], who had earlier been imprisoned and tortured by [[Richard III of England|Richard III]],{{sfn|Chisholm|1911|p=861}} had been a Privy Councillor of [[Henry VII of England|Henry VII]] and remained a trusted adviser when [[Henry VIII of England|Henry VIII]] ascended the throne in 1509. Thomas followed his father to court after his education at [[St John's College, Cambridge]]. Entering the King's service, he was entrusted with many important diplomatic missions. In public life his principal patron was [[Thomas Cromwell]], after whose death he was recalled from abroad and imprisoned (1541). Though subsequently acquitted and released, shortly thereafter he died.  His poems were circulated at court and may have been published anonymously in the anthology ''[[The Court of Venus]]'' (earliest edition c.&nbsp;1537) during his lifetime, but were not published under his name until after his death;<ref>{{harvnb|Huttar|1966}}</ref> the first major book to feature and attribute his verse was ''[[Tottel's Miscellany]]'' (1557), printed 15 years after his death.<ref>{{harvnb|Shulman|2012|p=353}}</ref>
+
+==Early life==
+Thomas Wyatt was born at [[Allington Castle|Allington]], Kent, in 1503, the son of [[Henry Wyatt (courtier)|Sir Henry Wyatt]] by Anne Skinner, the daughter of John Skinner of [[Reigate]], Surrey.<ref>{{Harvnb|Richardson IV|2011|p=382}}; {{Harvnb|Burrow|2004}}.</ref> He had a brother Henry, assumed to have died an infant,<ref>{{Harvnb|Burrow|2004}}.</ref> and a sister [[Margaret Lee (lady-in-waiting)|Margaret]] who married Sir Anthony Lee (died 1549) and was the mother of [[Elizabeth I of England|Queen Elizabeth's]] champion [[Henry Lee of Ditchley|Sir Henry Lee]].<ref>{{Harvnb|Burrow|2004}}</ref><ref>{{Harvnb|Chambers|1936|p=248}}.</ref>
+
+===Education and diplomatic career===
+Wyatt was over six feet tall, reportedly both handsome and physically strong. He was an ambassador in the service of [[Henry VIII]], but he entered Henry's service in 1515 as "Sewer Extraordinary", and the same year he began studying at [[St John's College, Cambridge]].<ref>{{acad|id=WT503T|name=Wyatt, Thomas}}</ref> His father had been associated with [[Thomas Boleyn, 1st Earl of Wiltshire|Sir Thomas Boleyn]] as constable of [[Norwich Castle]], and Wyatt was thus acquainted with Anne Boleyn.{{sfn|Chisholm|1911|p=862}}
+
+Following a diplomatic mission to Spain,{{sfn|Chisholm|1911|p=862}} in 1526 he accompanied Sir [[John Russell, 1st Earl of Bedford]], to Rome to help petition [[Pope Clement VII]] to annul [[Henry VIII]]'s marriage to [[Catherine of Aragon]], freeing him to marry [[Anne Boleyn]]. Russell being incapacitated, Wyatt was also sent to negotiate with the [[Republic of Venice]].{{sfn|Chisholm|1911|p=862}}  According to some, Wyatt was captured by the armies of Emperor [[Charles V, Holy Roman Emperor|Charles V]] when they captured Rome and imprisoned the Pope in 1527, but he managed to escape and make it back to England.
+
+Between 1528 and 1530 Wyatt acted as high marshal at [[Calais]]. In the years following he continued in Henry's service; he was, however, imprisoned in the [[Tower of London]] for a month in 1536, perhaps because Henry hoped he would incriminate the queen.{{sfn|Chisholm|1911|p=862}} He was knighted in 1535 and appointed [[High Sheriff of Kent]] for 1536.<ref name="Miller">{{harvnb|Miller|1982}}</ref> At this time he was sent to Spain as ambassador to Charles V, who was offended by the declaration of [[Mary I of England|Princess Mary]]'s [[Mary I of England#Adulthood|illegitimacy]]; he was her cousin and they had once been briefly betrothed. Although Wyatt was unsuccessful in his endeavours, and was accused of disloyalty by some of his colleagues, he was protected by his relationship with Cromwell, at least during the latter's lifetime.{{sfn|Chisholm|1911|p=862}}
+
+Wyatt was elected [[knight of the shire]] (MP) for Kent in December 1541.<ref name="Miller" />
+
+===Marriage and issue===
+In 1520 Wyatt married [[Elizabeth Brooke, Lady Wyatt|Elizabeth Brooke]] (1503–1560).<ref>{{Harvnb|Richardson IV|2011|pp=381–2}}.</ref> A year later, they had a son [[Thomas Wyatt, the younger|Thomas]] (1521–1554) who led [[Wyatt's rebellion]] many years after his father's death.<ref>{{harvnb|Philipot|1898|p=142}}</ref> In 1524, Henry VIII assigned Wyatt to be an ambassador at home and abroad, and he separated from his wife soon after on grounds of adultery.<ref>{{harvnb|Shulman|2012|pp=227–229}}</ref>
+
+== Wyatt's poetry and influence ==
+{{wikisource author}}
+Wyatt's professed object was to experiment with the English language, to civilise it, to raise its powers to equal those of other European languages.{{sfn|Tillyard|1929}} A significant amount of his literary output consists of translations and imitations of sonnets by Italian poet [[Petrarch]]; he also wrote sonnets of his own. He took subject matter from Petrarch's sonnets, but his rhyme schemes are significantly different. Petrarch's sonnets consist of an "[[Petrarchan sonnet|octave]]" rhyming ''abba abba'', followed by a "sestet" with various rhyme schemes. Wyatt employs the Petrarchan octave, but his most common sestet scheme is ''cddc ee''. This marks the beginning of an English contribution to sonnet structure of three quatrains and a closing couplet.<ref>''The Norton Anthology of English Literature: Sixteenth/Early Seventeenth Century'', Volume B, 2012, pg. 647</ref>
+
+Wyatt experimented in stanza forms including the [[rondeau (forme fixe)|rondeau]], [[epigrams]], [[terza rima]], [[ottava rima]] songs, and satires, as well as with monorime, triplets with refrains, quatrains with different length of line and rhyme schemes, quatrains with codas, and the French forms of douzaine and treizaine.{{sfn|Berdan|1931}} He introduced the ''poulter's measure'' form, rhyming couplets composed of a 12-syllable iambic line ([[Alexandrine]]) followed by a 14-syllable iambic line ([[fourteener]]),{{sfn|Schmidt|1988}} and he is considered a master of the [[iambic tetrameter]].{{sfn|Rebholz|1978|p=45}}
+
+Wyatt's poetry reflects classical and Italian models, but he also admired the work of [[Geoffrey Chaucer]], and his vocabulary reflects that of Chaucer; for example, he uses Chaucer's word ''newfangleness'', meaning fickleness, in ''[[They Flee from Me]]''. Many of his poems deal with the trials of romantic love and the devotion of the suitor to an unavailable or cruel mistress.{{sfn|Ward & Trent, eds., et al. Vol. 3|1907–21}} Other poems are scathing, satirical indictments of the hypocrisies and pandering required of courtiers who are ambitious to advance at the Tudor court.
+
+Wyatt's poems are short but fairly numerous. His 96 love poems appeared posthumously (1557) in a compendium called ''[[Tottel's Miscellany]]''. The most noteworthy are thirty-one sonnets, the first in English. Ten of them were translations from Petrarch, while all were written in the Petrarchan form, apart from the couplet ending which Wyatt introduced. Serious and reflective in tone, the sonnets show some stiffness of construction and a metrical uncertainty indicative of difficulty Wyatt found in the new form. Yet their conciseness represents a great advance on the prolixity and uncouthness of much earlier poetry. Wyatt was also responsible for the important introduction of the personal note into English poetry, for although he followed his models closely, he wrote of his own experiences. His epigrams, songs, and rondeaux are lighter than the sonnets, and they reveal the care and the elegance typical of the new romanticism. His satires are composed in the Italian terza rima, again showing the direction of the innovating tendencies.
+
+=== Attribution ===
+The [[Egerton Collection|Egerton Manuscript]]<ref>Egerton Manuscript 2711, British Museum</ref> is an album containing Wyatt's personal selection of his poems and translations which preserves 123 texts, partly in his handwriting. Tottel's Miscellany (1557) is the Elizabethan anthology which created Wyatt's posthumous reputation; it ascribes 96 poems to him,{{sfn|Parker|1939|p=669–677}} 33 not in the Egerton Manuscript. These 156 poems can be ascribed to Wyatt with certainty on the basis of objective evidence. Another 129 poems have been ascribed to him purely on the basis of subjective editorial judgment. They are mostly derived from the Devonshire Manuscript Collection<ref>The Devonshire Maunscript Collection of Early Tudor poetry 1532–41, British Museum</ref> and the Blage manuscript.<ref>Blage MS, Trinity College, Dublin</ref> Rebholz comments in his preface to ''Sir Thomas Wyatt, The Complete Poems'', "The problem of determining which poems Wyatt wrote is as yet unsolved".{{sfn|Rebholz|1978|p=9}}  However, this statement is predicated on his preface's perfunctory rejection of the most significant contribution to its resolution, Richard Harrier's The Canon of Sir Thomas Wyatt's Poetry, which presents an analysis of the documentary evidence establishing a solid case for rejecting 101 of the 129 texts ascribed to Wyatt on no objective basis whatsoever.
+
+=== Assessment ===
+Critical opinions have varied widely regarding Wyatt's work.{{sfn|Thomson|1974}} Eighteenth century critic Thomas Warton considered Wyatt "confessedly an inferior" to his contemporary Henry Howard, and felt that Wyatt's "genius was of the moral and didactic species" but deemed him "the first polished English satirist".{{sfn|Warton|1781}} The 20th century saw an awakening in his popularity and a surge in critical attention. His poems were found praisworthy by numerous poets, including Ezra Pound, Marianne Moore, John Berryman, Yvor Winters, Basil Bunting, Louis Zukofsky and George Oppen. [[C. S. Lewis]] called him "the father of the Drab Age" (i.e. the unornate), from what he calls the "golden" age of the 16th century.{{sfn|Lewis|1954}} Patricia Thomson describes Wyatt as "the Father of English Poetry".{{sfn|Thomson|1974}}
+
+== Rumoured affair with Anne Boleyn ==
+[[File:Anne boleyn.jpg|thumbnail|right|Anne Boleyn]]
+Many have conjectured that Wyatt fell in love with [[Anne Boleyn]] in the early- to mid-1520s. Their acquaintance is certain, but it is not certain whether the two shared a romantic relationship. George Gilfillan implies that Wyatt and Boleyn were romantically involved.{{sfn|Gilfillan|1858|p=x}} In his verse, Wyatt calls his mistress Anna and might allude to events in her life:{{sfn|Gilfillan|1858|p=x}}
+
+''<blockquote><poem>And now I follow the coals that be quent,
+From Dover to Calais against my mind</poem></blockquote>''
+
+Gilfillan argues that these lines could refer to Anne's trip to France in 1532 prior to her marriage to [[Henry VIII of England|Henry VIII]]{{sfn|Gilfillan|1858|p=x}} and could imply that Wyatt was present, although his name is not included among those who accompanied the royal party to France.{{sfn|Gilfillan|1858|p=x}} Wyatt's sonnet "Whoso List To Hunt" may also allude to Anne's relationship with the King:{{sfn|Gilfillan|1858|p=x}}
+
+''<blockquote><poem>Graven in diamonds with letters plain,
+There is written her fair neck round about,
+"Noli me tangere [Do not touch me], Caesar's, I am".</poem></blockquote>''
+
+In still plainer terms, Wyatt's late sonnet "If waker care" describes his first "love" for "Brunette that set our country in a roar"—presumably Boleyn.
+
+== Imprisonment on charges of adultery ==
+In May 1536, Wyatt was imprisoned in the [[Tower of London]] for allegedly committing adultery with Anne Boleyn.<ref>{{cite book|last1=Warnicke|first1=Retha M.|author-link=Retha Warnicke|title=The Rise and Fall of Anne Boleyn|date=1989|publisher=Cambridge University Press|isbn=9780521370004|pages=[https://archive.org/details/risefallofannebo00reth/page/64 64–65]|url-access=registration|url=https://archive.org/details/risefallofannebo00reth/page/64}}</ref> He was released later that year thanks to his friendship or his father's friendship with [[Thomas Cromwell]], and he returned to his duties. During his stay in the Tower, he may have witnessed Anne Boleyn's execution (19 May 1536) from his cell window, as well as the executions of the five men with whom she was accused of adultery; he wrote a poem which might have been inspired by that experience.<ref>{{cite web |url=http://www.luminarium.org/renlit/innocent.htm |title=Wyatt: V. Innocentia Veritas Viat Fides |publisher=Luminarium.org |access-date=6 August 2012}}</ref>
+
+Around 1537, [[Elizabeth Darrell (maid-of-honour)|Elizabeth Darrell]] was Thomas's mistress, a former maid of honour to [[Catherine of Aragon]]. She bore Wyatt three sons.<ref>{{cite web |url=http://www.kateemersonhistoricals.com/TudorWomenD.htm |title=A Who'S Who of Tudor Women (D) |publisher=Kateemersonhistoricals.com |access-date=6 August 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120602194809/http://www.kateemersonhistoricals.com/TudorWomenD.htm |archive-date=2 June 2012 |df=dmy-all }}</ref> 
+[[File:Memorial to Sir Thomas Wyat in Sherborne Abbey.jpg|thumb|Memorial in [[Sherborne Abbey]]]]
+By 1540, he was again in the king's favour, as he was granted the site and many of the manorial estates of the dissolved [[Boxley Abbey]]. However, he was charged once more with treason in 1541; the charges were again lifted, but only thanks to the intervention of Queen [[Catherine Howard]] and on the condition of reconciling with his wife. He was granted a full pardon and restored once again to his duties as ambassador. After the execution of Catherine Howard, there were rumours that Wyatt's wife Elizabeth was a possibility to become Henry VIII's next wife, despite the fact that she was still married to Wyatt.{{sfn|Hart|2009|p=197}} He became ill not long after and died on 11 October 1542 around age 39. He is buried in [[Sherborne Abbey]].<ref>{{cite web |url=http://dorsethistoricchurchestrust.co.uk/sherbornehorsey.htm |title=Sherborne Abbey: The Horsey Tomb |access-date=13 July 2008 |url-status=dead |archive-url=https://web.archive.org/web/20071108073254/http://www.dorsethistoricchurchestrust.co.uk/sherbornehorsey.htm |archive-date=8 November 2007 |df=dmy-all }}</ref>
+
+== Descendants and relatives ==
+Long after Wyatt's death, his only legitimate son Sir [[Thomas Wyatt the Younger]] led a thwarted rebellion against Henry's daughter [[Mary I of England|Mary I]], for which he was executed. The rebellion's aim was to set on the throne the Protestant-minded [[Elizabeth I of England|Elizabeth]], the daughter of Anne Boleyn.{{sfn|Thomson|1964|p=273}} Wyatt was an ancestor of [[Wallis Simpson]], wife of the Duke of Windsor, formerly King [[Edward VIII of the United Kingdom|Edward VIII]].<ref>Vickers, Hugo (2011). Behind Closed Doors: The Tragic, Untold, Story of the Duchess of Windsor. London: Hutchinson. p. 377. {{ISBN|978-0-09-193155-1}}.</ref> Thomas Wyatt's great-grandson was Virginia Colony governor [[Francis Wyatt|Sir Francis Wyatt]].{{sfn|Bernhard|2004}}
+
+==Notes==
+{{Reflist|colwidth=30em}}
+
+==References==
+* {{cite odnb |last=Archer |first=Ian W. |title=Wyatt, Sir Thomas (b. in or before 1521, d. 1554) |id=30112}}
+* {{citation |last=Berdan |first=John Milton |year=1931 |title=Early Tudor Poetry, 1485–1547 |publisher=MacMillan }}
+* {{citation |last=Bernhard |first=Virginia |year=2004 |title=Wyatt, Sir Francis (1588–1644)' |work=Oxford Dictionary of National Biography |publisher=Oxford University Press }}
+* {{citation |last=Brigden |first=Susan |year=2012 |title=Thomas Wyatt: The Heart's Forest |publisher=Faber & Faber |isbn=978-0-571-23584-1}}
+* {{Cite ODNB |last=Burrow |first=Colin |year=2004 |title=Wyatt, Sir Thomas (c.1503–1542) |id=30111}} 
+* {{Cite EB1911|wstitle=Wyat, Sir Thomas (poet)|display=Wyat, Sir Thomas|volume=28|pages=861–862}}
+* {{citation |last=Daalder |first=Joost, ed |year=1975 |title=Sir Thomas Wyatt, Collected Poems |publisher=Oxford University Press |location=London |isbn=978-0-19-281155-4}}
+*{{Cite book |last=Gilfillan |first=George |year=1858 |title=The Poetical Works of Sir Thomas Wyatt |location=Edinburgh |publisher=James Nichol |url=https://archive.org/details/cu31924013126655 |access-date=5 November 2013 }} 
+* {{cite book |last=Harrier |first=Richard |year=1975 |title=The Canon of Sir Thomas Wyatt's Poetry |publisher=Harvard University Press |location=Cambridge, MA }}
+* {{cite journal |last1=Huttar |first1=Charles A. |author-link=Charles A. Huttar |title=Wyatt and the Several Editions of 'The Court of Venus' |journal=Studies in Bibliography |date=1966 |volume=19 |pages=181–195 }}
+* {{citation | last = Lindsey | first = Karen | title = Divorced, Beheaded, Survived: Feminist Reinterpretation of the Wives of Henry VIII | publisher = Da Capo Press | year = 1996}}
+* {{cite book |last=Miller |first=Helen |year=1982 |title=The History of Parliament: the House of Commons 1509–1558. Members |publisher=Historyofparliamentonline.org |chapter-url=http://www.historyofparliamentonline.org/volume/1509-1558/member/wyatt-sir-thomas-i-1504-42 |editor=Bindoff, S. T. |access-date=20 October 2013 |chapter=WYATT, Sir Thomas I (by 1504–42), of Allington Castle, Kent. }} 
+* {{citation |last1=Parker |first1=William |year=1939 |title=The Sonnets in Tottel's Miscellany |journal=PMLA |volume=54 |issue=3 |pages=669–677 |doi=10.2307/458477 |jstor=458477}}
+* {{cite book |last=Philipot |first=John |year=1898 |title=The Visitation of Kent, Taken in the Years 1619–1621, (The Publications of the Harleian Society, vol. xlii) |publisher=Harleian Society |location=London |url=https://archive.org/stream/visitationofkent00camd#page/142/mode/2up |editor=Hovenden }}
+* {{citation |last=Rebholz |first=R A, ed |year=1978 |title=Wyatt:The Complete Poems |publisher=Penguin Books |location=London |isbn=978-0-14-042227-6}}
+* {{citation |last=Shulman |first=Nicola |year=2011 |title=Graven With Diamonds: The Many Lives of Thomas Wyatt: Courtier, Poet, Assassin, Spy |publisher=Short Books |isbn=978-1-906021-11-5 }}
+* {{citation |last=Tillyard |first=E M W |year=1929 |title=The Poetry of Sir Thomas Wyatt, A Selection and a Study |publisher=The Scholartis Press |location=London |isbn=978-0-403-08614-6}}
+* {{citation |last=Thomson |first=Patricia |year=1964 |title=Sir Thomas Wyatt and His Background |publisher=Routledge |location=London |oclc=416980380}}
+* {{citation |last=Thomson |first=P |year=1974 |title=Introduction to Wyatt:The Critical Heritage |publisher=Routledge & Kegan Paul |location=London |isbn=0-7100-7907-9 |url-access=registration |url=https://archive.org/details/wyattcriticalher0000thom }}
+
+== External links ==
+* {{UK National Archives ID}}
+* {{Internet Archive author |sname=Thomas Wyatt |birth=1503 |death=1542}}
+* {{Librivox author |id=8692}}
+* [http://www.luminarium.org/renlit/wyatt.htm Life and works]
+* [http://www.thehypertexts.com/Whoso%20List%20to%20Hunt%20Modern%20English%20Translation.htm Modern English translation of "Whoso List to Hunt"]
+* {{NPG name|name=Sir Thomas Wyatt}}
+* [http://www.historyofparliamentonline.org/volume/1509-1558/member/wyatt-sir-thomas-i-1504-42 WYATT, Sir Thomas I (by 1504–42), of Allington Castle, Kent.] History of Parliament Online
+* {{cite book |last1=Hutchinson |first1=John |title=Men of Kent and Kentishmen |date=1892 |publisher=Cross & Jackman |location=Canterbury |page=147 |edition=Subscription  |chapter=[[s:Men of Kent and Kentishmen/Sir Thomas Wyatt, Courtier and Poet|Sir Thomas Wyatt]]}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wyatt, Thomas}}
+[[Category:1503 births]]
+[[Category:1542 deaths]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:16th-century English poets]]
+[[Category:English MPs 1542–1544]]
+[[Category:High Sheriffs of Kent]]
+[[Category:Sonneteers]]
+[[Category:Burials at Sherborne Abbey]]
+[[Category:Prisoners in the Tower of London]]
+[[Category:16th-century English diplomats]]
+[[Category:Latin&ndash;English translators]]
+[[Category:English male poets]]

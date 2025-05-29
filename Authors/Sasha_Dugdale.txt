@@ -1,0 +1,86 @@
+{{short description|British poet, playwright and translator|bot=PearBOT 5}}
+{{Infobox writer 
+| name          =  Sasha Dugdale
+| honorific-suffix =  [[Royal Society of Literature|FRSL]]
+| image             = 
+| image_size    =  
+| caption       =
+| birth_date    =   {{Birth year and age|1974}}
+| birth_place   =    [[Sussex]], [[England]]
+| death_place   =
+| resting_place =
+| occupation    = Poet, playwright, translator 
+| language      =
+| nationality   =  
+| residence     =   
+| citizenship   =  
+| education     =   
+| alma_mater    =
+| period        =
+| genre         = 
+| subject       = 
+| movement      =
+| notableworks  =  ''Joy'' <br> ''Deformations''
+| spouse        = 
+| partner       =
+| awards        =  [[Forward Prizes for Poetry|Forward Prize]] <br> [[Cholmondeley Award]] 
+| signature     =
+| signature_alt =
+| portaldisp    =
+}}
+
+'''Sasha Dugdale''' [[Royal Society of Literature|FRSL]] is a British poet, playwright and translator. She has written five poetry collections and is a translator of [[Russia]]n literature.
+
+== Biography==
+Sasha Dugdale was born in 1974<ref name="Forward Arts Foundation">{{cite web |title=Sasha Dugdale |url=http://www.forwardartsfoundation.org/poet/sasha-dugdale/ |website=Forward Arts Foundation |accessdate=10 September 2018}}</ref> in [[Sussex]].<ref name="The Poetry Foundation">{{cite web |title=Sasha Dugdale |url=https://www.poetryfoundation.org/poets/sasha-dugdale |website=The Poetry Foundation |accessdate=10 September 2018}}</ref>  
+   
+Between 1995 and 2000, Dugdale worked for the [[British Council]] in Russia.<ref name="The Poetry Foundation" />
+
+Dugdale has published five poetry collections with [[Carcanet Press]]: ''Notebook'' (2003), ''The Estate'' (2007), ''Red House'' (2011), ''Joy'' (2017) and ''Deformations'' (2020). She  won the [[Forward Prizes for Poetry|Forward Poetry Prize]] for Best Single Poem, ''Joy'' in 2016 and a [[Cholmondeley Award]] in 2017.<ref name="The Poetry Foundation" />
+
+Dugdale specialises in translating contemporary [[Russia]]n women poets and post-[[Soviet Union|Soviet]] new writing for theatre. She has worked both in the [[United Kingdom]] and the [[United States]] on a number of productions, translating  modern [[Russia]]n plays.<ref name="Huffington Post">{{cite web |title=We're all Translators: Interview with Sasha Dugdale |url=https://www.huffingtonpost.com/entry/were-all-translators-interview-with-sasha-dugdale_us_5913694ae4b04e66b8c3ad7f |website=Huffington Post |date=24 September 2017 |accessdate=10 September 2018}}</ref> In 2020, she won an [[English PEN]] Translate Award for her translation of a collection of poetry by the Russian poet [[Maria Stepanova (writer)|Maria Stepanova]].<ref>[https://www.englishpen.org/press/pen-translates-awards-june-2020 Nineteen PEN Translates awards go to titles from fifteen countries and thirteen languages. English PEN, 10 June 2020]</ref>
+
+From 2012 to 2017 Dugdale was the editor of ''[[Modern Poetry in Translation]]'', editing and publishing sixteen issues of the magazine as well as its fiftieth year anniversary anthology ''Centres of Cataclysm'' (Bloodaxe, 2016).  Dugdale is co-director of the biennial Winchester Poetry Festival.<ref name="Carcanet Press" /> 
+
+Her translation of Maria Stepanova's novel ''In Memory of Memory'' was shortlisted for the 2021 [[International Booker Prize]].
+
+==Publications==
+
+===Poetry===
+*(2020), ''Deformations'', [[Carcanet Press]], {{ISBN|9781784108984}}
+*(2017), ''Joy'', [[Carcanet Press]], {{ISBN|9781784105037}}
+*(2011), ''Red House'', [[Oxford Poets]], {{ISBN|9781906188023}}
+*(2007), ''The Estate'', [[Oxford Poets]], {{ISBN|9781903039809}}
+*(2003), ''Notebook'', [[Oxford Poets]], {{ISBN| 9781903039670}}
+
+===Translations===
+*(2021), Maria Stepanova, ''The War of the Beasts and the Animals'', [[Bloodaxe Books|Bloodaxe]], {{ISBN|9781780375342}}
+*(2021), Maria Stepanova, ''In Memory of Memory'', [[Fitzcarraldo Editions]] (UK), {{ISBN|9781913097530}}, [[New Directions Publishing|New Directions]] (US), {{ISBN|9780811228831}}
+*(2017), Natalya Vorozhbit, ''Bad Roads'', [[Nick Hern Books]], {{ISBN|9781848427143}}
+*(2009), Natalya Vorozhbit, ''The Grainstore'', [[Nick Hern Books]], {{ISBN|9781848420458}}
+*(2008), [[Elena Shvarts]], ''Birdsong on the Seabed'', [[Bloodaxe Books|Bloodaxe]], {{ISBN|9781852247836}}
+*(2004), [[Vasily Sigarev]], ''Ladybird'', [[Nick Hern Books]]
+*(2004), Tatiana Shcherbina, ''Life Without: Selected Poetry & Prose 1992-2003'', [[Bloodaxe Books|Bloodaxe]], {{ISBN|9781852246426}}
+*(2003), [[Presnyakov brothers|The Presnyakov Brothers]], ''Terrorism'', [[Nick Hern Books]]
+*(2003), [[Presnyakov brothers|The Presnyakov Brothers]], ''Playing the Victim'', [[Nick Hern Books]], {{ISBN|9781854597595}}
+*(2003), [[Vasily Sigarev]], ''Black Milk'', [[Nick Hern Books]]
+*(2002), [[Vasily Sigarev]], ''Plasticine'', [[Nick Hern Books]], {{ISBN|9781854596901}}
+
+==Awards==
+*— (2020), [[T. S. Eliot Prize]], ''Deformations'', (shortlist) 
+*— (2017), [[Cholmondeley Award]]<ref name="Carcanet Press">{{cite web |title=Sasha Dugdale |url=https://www.carcanet.co.uk/cgi-bin/indexer?owner_id=182 |website=Carcanet Press |accessdate=10 September 2018}}</ref>
+*— (2017), Poetry Book Society Choice - ''Joy''
+*— (2016), [[Forward Prizes for Poetry|Forward Poetry Prize]] for Best Single Poem, ''Joy''<ref name="Forward Arts Foundation" />
+*— (2003), [[Eric Gregory Award]]
+
+==References==
+{{reflist}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dugdale, Sasha}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:21st-century British poets]]
+[[Category:British women poets]]
+[[Category:People from Sussex]]
+[[Category:21st-century British women writers]]

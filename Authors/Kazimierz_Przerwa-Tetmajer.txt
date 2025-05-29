@@ -1,0 +1,87 @@
+{{short description|Polish writer}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+| name = Kazimierz Przerwa-Tetmajer
+| image = Kazimierz Przerwa-Tetmajer - portrait.jpg
+| image_size = 220px
+| alt = 
+| caption = 
+| pseudonym = 
+| birth_name = 
+| birth_date = {{Birth date|1865|2|12|df=y}}
+| birth_place = [[Ludźmierz]]
+| death_date = {{Death date and age|1940|1|18|1865|2|12|df=y}}
+| death_place = [[Warsaw]]
+| resting_place = 
+| occupation = 
+| language = [[Polish language|Polish]] Goralic
+| nationality = 
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre = [[Romanticism]]
+| subject = 
+| movement = [[Young Poland]]
+| notableworks = 
+| partner = 
+| children = 
+| relatives = 
+| influences = 
+| influenced = 
+| awards = 
+| signature = 
+| signature_alt = 
+| website = <!-- www.example.com -->
+| portaldisp = 
+| spouse = 
+}}
+'''Kazimierz Przerwa-Tetmajer''' (12 February 1865 – 18 January 1940) was a [[Polish poet|Polish Goral poet]], [[novelist]], [[playwright]], [[journalist]] and writer. He was a member of the [[Young Poland]] movement.
+
+==Life==
+Kazimierz Przerwa-Tetmajer was born in [[Ludźmierz]] in [[Podhale]] near the [[Tatra Mountains]], then in the [[Austro-Hungarian Empire]] now in [[Poland]], and died in [[Warsaw]].  His older half-brother was the painter [[Włodzimierz Tetmajer]]. Przerwa-Tetmajer studied classics and philosophy at the [[Jagiellonian University]] in 1884–1889. He then became a journalist at ''[[Kurier Polski]]'', and lived both in the Tatras and in [[Kraków]] (Cracow). After [[World War I]] he moved to [[Warsaw]] to serve as president of the Society of Writers and Journalists. In 1934 he was made honorary member of the Polish Academy of Literature.
+
+Przerwa-Tetmajer suffered from a [[mental illness]] in the latter years of his life, which prevented him from writing. He was living in a hospice in 1940 when the [[German occupants]] evicted all the patients. He was left homeless and died shortly afterwards in a [[Warsaw]] hospital.
+
+==Work==
+Przerwa-Tetmajer wrote seven collections of poetry before [[World War I]]. 
+He is particularly well known for his works about the [[Tatra mountains]]. 
+At least one of his poems, ''[[Kriváň (peak)|Kriváň]], High Kriváň!'' (''[[Kriváň (peak)|Krywaniu]], Krywaniu wysoki!'')<ref>{{cite journal|title=Jak Jasiek z Ustupu, Hanusia od Królów i Marta Uherczykówna z Liptowa śpiewali w jedno słoneczne rano ku sobie|journal=Na Skalnym Podhalu|year=1903|first=Kazimierz|last=Przerwa-Tetmajer}}</ref> is now often taken for an authentic folk song and was credited as such on a similarly named 1972 folk-rock album by [[Skaldowie]].<ref>{{cite book | last = Długołęcka | first = Lidia |author2=Maciej Pinkwart | title = Muzyka i Tatry | year = 1992 }}</ref> According to Barry Keane from ''The Warsaw Voice'':
+<blockquote>Przerwa Tetmajer was primarily a lyrical poet who articulated the birth pangs of modernism at the turn of the century, but he will be best remembered for his erotic verse and for poems evoking his beloved Tatra mountains. He broke with age-old subtleties and niceties common to amorous poetry and wrote on love in frank and provocative terms. The poet simultaneously attracted huge praise from legions of readers and loud accusations of depravity from other quarters... at the close of the 19th century.<ref>{{cite news | last = [mk] | title = Sensational literary discovery | date = 30 December 2008 | publisher = thenews.pl | url = http://www.thenews.pl/radio/ | work = Polish Radio – External Service, English Section}}</ref></blockquote>
+
+His work was also part of the [[Art competitions at the 1928 Summer Olympics#Literature|literature event]] in the [[Art competitions at the 1928 Summer Olympics|art competition]] at the [[1928 Summer Olympics]].<ref>{{cite web|url=https://www.olympedia.org/athletes/921245 |title=Kazimierz Przerwa-Tetmajer |work=Olympedia |accessdate=25 July 2020}}</ref>
+
+==References==
+{{reflist}}
+
+==See also==
+{{commons category|Kazimierz Przerwa-Tetmajer}}
+{{wikisource author}}
+* [http://www.britannica.com/eb/article-9071840/Kazimierz-Tetmajer About K. Przerwa-Tetmajer in ''Encyclopædia Britannica'']
+* [http://www.mission.net/poland/warsaw/literature/poems/cradle.htm Sample poem: "A Cradle Wind"], translated by [[Walter Whipple]]
+* [[Polish literature]]
+* [[Young Poland]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Przerwa-Tetmajer, Kazimierz}}
+[[Category:1865 births]]
+[[Category:1940 deaths]]
+[[Category:People from Nowy Targ County]]
+[[Category:Polish Austro-Hungarians]]
+[[Category:Polish Gorals]]
+[[Category:Polish male poets]]
+[[Category:Polish male novelists]]
+[[Category:Polish erotica writers]]
+[[Category:Jagiellonian University alumni]]
+[[Category:Male journalists]]
+[[Category:19th-century Polish poets]]
+[[Category:19th-century Polish novelists]]
+[[Category:19th-century Polish journalists]]
+[[Category:19th-century Polish male writers]]
+[[Category:20th-century Polish poets]]
+[[Category:20th-century Polish novelists]]
+[[Category:20th-century Polish journalists]]
+[[Category:20th-century Polish male writers]]
+[[Category:Olympic competitors in art competitions]]

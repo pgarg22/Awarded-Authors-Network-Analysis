@@ -1,0 +1,51 @@
+{{Infobox writer 
+| name        = Wincenty Pol
+| image       = Wincenty Pol.PNG
+| caption     = Portrait of Wincenty Pol by [[Juliusz Kossak]]
+| birth_date  = {{birth date|1807|4|20|df=y}}
+| birth_place = [[Lublin]], Kingdom of Galicia 
+| death_date  = {{death date and age|1872|12|2|1807|4|20|df=y}}
+| death_place = [[Kraków]] 
+| signature  = 
+}}
+
+'''Wincenty Pol''' (20 April 1807 – 2 December 1872)<ref>[http://www.lwow.com.pl/naszdziennik/pol.html Wielcy zapomniani - Wincenty Pol]</ref> was a [[Poland|Polish]] poet and [[geographer]].
+
+==Life==
+[[Image:Pol-Skalka.jpg|thumb|left|100px|Pol's tomb, [[Skałka]] Church]]
+[[File:POL Wincenty Pol.jpg|thumb|Etching from a photograph, by [[Adolf Piwarski]] (1862)]] 
+
+Pol was born in [[Lublin]] (then in [[Kingdom of Galicia|Galicia]]), to Franz Pohl (or Poll), a German in the [[Austria-Hungary|Austrian]] service, and his wife Eleonora Longchamps de Berier, from a French family living in Poland. Pol fought in the Polish army in the [[November Uprising|November 1830 Uprising]] and participated in the [[Revolutions of 1848 in the Habsburg areas|1848 revolution]]. In spite of his mixed family background, he considered himself a Pole, so much so that he changed his surname to Pol.
+
+He was interned in [[Königsberg]] (''Królewiec'') after the fall of the [[November Uprising]] in [[Congress Poland|Russian partition of Poland]].<ref name="Pol">{{cite book | title=Wincenty Pol: studjum biograficzno-krytyczne | publisher=Gebethner | author=Mann, Maurycy | year=1904 | pages=199}}</ref> He enrolled at the University but soon became embroiled in controversy, for his anti-Tsarist agitation. While Pol was defended by German speaking professors, [[Peter von Bohlen]] and [[Friedrich Wilhelm Schubert]], he left Prussia and continued his exile in France. While in exile Pol worked on his first poems in tribute to the heroism of the insurgents, issued later in the set of ''"Songs of Janusz"''.<ref name="obn118">{{cite book | title=Królewiec a Polska: praca zbiorowa | publisher=Ośrodek Badań Naukowych | author=Wrzesiński, Wojciech | author2 = Achremczyk, Stanisław| year=1993 | pages=118}}</ref>
+
+Although he had no formal education in geography, during his travels in Polish lands he wrote several books on this subject, and in 1849 was appointed professor at the [[Jagiellonian University]] in [[Cracow]].
+
+He wrote a fine descriptive work, ''Obrazy z życia i podróży'' (Pictures of Life and Travel), and also a poem ''Pieśń o ziemi naszej'' (Song of our Land). In 1855 he published ''Mohort'', a poem relating to the times of [[Stanisław August Poniatowski]]. His earlier ''Songs of Janusz'' (1836) inspired [[Frédéric Chopin]] to write [[Polish songs by Frédéric Chopin|a number of Polish songs]], but only one survives.
+
+Pol was probably first to introduce into Polish literature the term ''"[[Kresy]]"'' to describe the territories lying near the eastern frontiers of the [[Polish–Lithuanian Commonwealth]].{{cn|date=August 2017}}
+
+He died in Kraków. Pol was interred in [[Kraków]]'s historic [[Skałka]] Church, a mini-[[Pantheon (gods)|pantheon]] of Polish scholars, writers and artists, especially from the Kraków area.
+
+==See also==
+*[[Gawęda]]
+*[[List of Poles#Poetry|List of Poles]]
+
+==References ==
+{{reflist}}
+
+==External links==
+* [http://www.lieder.net/lieder/get_author_texts.html?AuthorId=2207 A selection of Wincenty Pol's poems, in English, German and Polish]
+* [http://www.euro-region.pl/en/index.php?r=1038&l=pl A Poet from Lublin]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pol, Wincenty}}
+[[Category:1807 births]]
+[[Category:1872 deaths]]
+[[Category:People from Lublin]]
+[[Category:Polish poets]]
+[[Category:Romantic poets]]
+[[Category:Recipients of the Virtuti Militari]]
+[[Category:19th-century poets]]
+[[Category:Polish people of German descent]]

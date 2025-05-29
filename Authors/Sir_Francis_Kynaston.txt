@@ -1,0 +1,64 @@
+{{For|the earlier MP|Francis Kynaston (died 1590)}}
+{{Use dmy dates|date=March 2018}}
+{{Use British English|date=March 2018}}
+'''Sir Francis Kynaston''' or '''Kinaston''' (1587–1642) was an English lawyer, courtier, poet and politician  who sat in the [[House of Commons of England|House of Commons]] from 1621 to 1622. He is noted for his translation of [[Geoffrey Chaucer]]'s ''[[Troilus and Criseyde]]'' into [[Latin]] verse (as [[rime royal]], ''Amorum Troili et Creseidae Libri Quinque'', 1639). He also made a Latin translation of [[Henryson]]'s ''[[The Testament of Cresseid]]''.
+
+==Life==
+
+Kynaston was born at [[Oteley Park]], near [[Ellesmere, Shropshire|Ellesmere]], [[Shropshire]], the eldest son of Sir Edward Kynaston and his wife Isabel Bagenall, daughter of Sir Nicholas Bagenall. His father was [[High Sheriff of Shropshire]] in 1599. On 11 December 1601 Kynaston matriculated at [[Oriel College, Oxford]]. He graduated B.A. from [[St Mary Hall, Oxford|St Mary Hall]] on 14 June 1604 and M.A. at Oxford on 11 November 1611. He was called to the bar at [[Lincoln's Inn]] in 1611.<ref>[http://www.british-history.ac.uk/report.aspx?compid=117070   'Alumni Oxonienses, 1500-1714: Kandruth-Kyte', Alumni Oxonienses 1500-1714: Abannan-Kyte (1891), pp. 837-867. Date accessed: 10 February 2012]</ref>  He was knighted by James I at [[Theobalds]] on 21 December 1618.<ref>[https://archive.org/stream/knightsofengland02shawuoft#page/n179/mode/2up Knights of England]</ref>
+
+In 1621 Kynaston was elected [[Member of Parliament]] for [[Shropshire (UK Parliament constituency)|Shropshire]].<ref name=Willis>{{Cite Notitia Parliamentaria|converted=1|part=2|pages=229–239}}</ref> He became [[esquire of the body]] to Charles I on the King's accession in 1625.<ref>Some sources claim he was taxor of Cambridge University in 1623, and was proctor there in 1634, but Venn states that  he was being confused with another Francis Kynaston. {{acad|id=KNSN602F|name=Kinaston, Francis}}</ref>
+
+At court Kynaston was the centre of a literary coterie. In 1635 he founded an [[Proposals for an English Academy|academy of learning]], called the Musæum Minervæ, for which he obtained a licence under the great seal, a grant of arms, and a common seal; Charles also contributed from the treasury. On 27 February 1636 Prince Charles, the Duke of York, and others visited the museum, and a [[masque]] by Kynaston, entitled ''Corona Minervæ,'' was performed in their presence. In July of the same year Sir George Peckham bequeathed money to the institution.
+
+Shortly after this, Kynaston was preoccupied with a certain ‘hanging furnace,’ recommended by him to the lords of the admiralty for ships of war.
+
+Kynaston died in 1642, and was buried at Oteley. The museum appears to have perished with the death of its founder. Its site was marked by Kynaston's Alley, Bedfordbury.
+
+Kynaston married Margaret Lee, daughter of [[Sir Humphry Lee, 1st Baronet]] of Langley, in 1613. They had one son, Edward (c. 1613 – 1656), and four daughters - Frances (b. 1612), Rachel, Ann (d. 1642) and Barbara (d. 1619).
+
+==Works==
+
+Kynaston published a translation of Chaucer's ‘Troilus and Cressida,’ with a commentary, prefaced by fifteen short poems by Oxford writers, including [[William Strode (poet)|William Strode]] and [[Dudley Digges]] (Oxford, 1635). Kynaston also contributed to the ''Musæ Aulicæ'' by [[Arthur Johnston (poet)|Arthur Johnston]], a rendering in English verse of Johnston's Latin poems, London, 1635, and was author of an heroic romance in verse, ''Leoline and Sydanis'', containing some of the legendary history of Wales and Anglesey, published with ''Cynthiades: Sonnets to his Mistresse'' (technically not precisely of the [[sonnet]] form) addressed by Kynaston to his mistress under the name of Cynthia (London, 1642).
+
+==Notes==
+{{Reflist}}
+
+==References==
+;Attribution
+{{DNB|wstitle=Kynaston, Francis}}
+
+==Further reading==
+* G. H. Turnbull, ''Samuel Hartlib's connection with Sir Francis Kynaston's 'Musaeum Minervae' ''. Notes and Queries, 197 (1952), 33-7. Publisher: Oxford University Press. {{ISSN|0029-3970}}.
+* Cesare Cuttica, ''Sir Francis Kynaston: The importance of the ‘Nation’ for a 17th-century English royalist'', History of European Ideas, Volume 32, Issue 2, June 2006, Pages 139-161.
+
+==External links==
+*[http://eee.uci.edu/~papyri/troilus Amorum Troili et Creseidae Libri Quinque]{{dead link|date=June 2017 |bot=Green Cardamom |fix-attempted=yes }}
+*[http://eee.uci.edu/~papyri/testament Testamentum Creseidae (1639)]{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[http://www.british-history.ac.uk/report.aspx?compid=46128#s4 ''Survey of London'' vol. 36]
+
+{{s-start}}
+{{s-par|en}}
+{{succession box 
+| title=[[Member of Parliament]] for [[Shropshire (UK Parliament constituency)|Shropshire]] 
+| before=    Sir Roger Owen
+| before2= [[Richard Newport, 1st Baron Newport|Sir Richard Newport]]
+| with=   [[Robert Vernon (MP for Shropshire)|Sir Robert Vernon]]
+| years=1621–1622
+| after=  [[Richard Newport, 1st Baron Newport|Sir Richard Newport]]
+| after2=  [[Andrew Corbet|Sir Andrew Corbet]]
+}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kynaston, Francis}}
+[[Category:1587 births]]
+[[Category:1642 deaths]]
+[[Category:16th-century English poets]]
+[[Category:Alumni of Oriel College, Oxford]]
+[[Category:English MPs 1621–1622]]
+[[Category:17th-century English writers]]
+[[Category:17th-century English male writers]]
+[[Category:English male poets]]
+[[Category:People from Ellesmere, Shropshire]]

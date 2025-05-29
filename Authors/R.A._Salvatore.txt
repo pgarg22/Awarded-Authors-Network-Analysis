@@ -1,0 +1,87 @@
+{{short description|American writer}}
+{{Use mdy dates|date=May 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = R. A. Salvatore
+| image       = RA Salvatore, convention.jpg
+| imagesize   = 200px
+| caption      = Salvatore in 2006
+| birth_name   = Robert Anthony Salvatore
+| birth_date   = {{Birth date and age|1959|1|20}}
+| birth_place  = [[Leominster, Massachusetts|Leominster]], Massachusetts, United States
+| death_date   =
+| death_place  =
+| occupation   = [[Novelist]]
+| spouse       = Diane Salvatore
+| nationality  = [[Americans|American]]
+| period       = 1982–present
+| genre        = Fantasy, science fiction
+| language     = English
+| subject      =
+| movement     =
+| notableworks = ''[[Forgotten Realms]]''<br>''[[The DemonWars Saga]]''
+| influenced   = <!-- Infobox writer no longer supports these two fields -->
+| website      = {{URL|rasalvatore.com}}
+}}
+
+'''Robert Anthony Salvatore''' (born January 20, 1959) is an American author best known for ''[[The DemonWars Saga]]'';<ref>Shippey, T. A. eds. Magill's Guide to Science Fiction and Fantasy vol I. Pasadena, California: Salem Press, 1996.</ref> and ''[[The Legend of Drizzt]]'', for which he created the popular character [[Drizzt Do'Urden]]; and ''[[Vector Prime]]'', the first novel in the ''[[Star Wars]]: [[The New Jedi Order]]'' series. He has sold more than 15 million copies of his books in the United States alone<ref name="wizards">[http://www.wizards.com/DnD/Article.aspx?x=dnd/4news/20100111 Wizards of the Coast press release]</ref> and twenty-two of his titles have been [[The New York Times Best Seller list|''New York Times'' best-sellers]].<ref name="wizards"/><ref>{{cite news |last1=Whitbrook |first1=James |title=How R.A. Salvatore Helped Bring Icewind Dale to Games Again for Dark Alliance |url=https://www.gizmodo.com.au/2020/06/how-r-a-salvatore-helped-bring-icewind-dale-to-games-again-for-dark-alliance/ |access-date=8 August 2020 |work=Gizmodo Australia |publisher=Gizmodo |date=21 June 2020 |language=en-AU}}</ref>
+
+==Early life and education==
+[[Image:Rasalvatore.jpg|thumb|right| Salvatore at a book signing in 2008]]
+Salvatore was born in [[Leominster, Massachusetts|Leominster]], Massachusetts, the youngest of a family of seven. A graduate of Leominster High School, Salvatore has credited his high school English teacher with being instrumental in his development as a writer. During his time at [[Fitchburg State University|Fitchburg State College]], he became interested in fantasy after reading [[J. R. R. Tolkien]]'s ''[[The Lord of the Rings]]'', given to him as a Christmas gift.<ref>Clute, John. And John Grant. The Encyclopedia of Fantasy. New York: ST. Martkin’s Press, 1997</ref> He developed an interest in fantasy and other literature, promptly changing his major from computer science to journalism.<ref name="wizardsbio">{{cite web|url=http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=rasalvatore|title=R. A. Salvatore|archive-url=https://web.archive.org/web/20090228001331/http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=rasalvatore|archive-date=February 28, 2009}}</ref> He earned a Bachelor of Science Degree in Communications/Media from Fitchburg.<ref name="HG">{{Cite book | contribution=[[War and Peace (game)|War and Peace]] | title=[[Hobby Games: The 100 Best]] | last=Salvatore | first=R. A. | editor-last=Lowder | editor-first=James | editor-link=James Lowder | publisher=[[Green Ronin Publishing]] | year=2007 | pages=356–358 | isbn=978-1-932442-96-0}}</ref> He earned this degree in 1981 and later a Bachelor of Arts in English.<ref name="wizardsbio"/> Before taking up writing full-time, he worked as a [[bouncer (doorman)|bouncer]].<ref>Clute, John. And John Grant. The Encyclopedia of Fantasy. New York: [[St. Martin’s Press]], 1997. Publishers Weekly. May 17, 2004, Vol. 251 Issue 20, p23</ref> He attributes his fierce and vividly described battle scenes to his experience as a bouncer.<ref>https://www.youtube.com/watch?v=aLf1hBUr9M4</ref><ref>Pringle, David eds. St. James Guide to Fantasy Writers. Detroit, Michigan: St. James Press, 1996</ref>
+
+In the fall of 1997, his letters, manuscripts, and other professional papers were donated to the R. A. Salvatore collection at his alma mater, [[Fitchburg State University|Fitchburg State College]] in [[Fitchburg, Massachusetts|Fitchburg]], Massachusetts.<ref name="wizardsbio"/>
+
+==Career==
+In 1982, he started writing more seriously, developing a manuscript he titled ''Echoes of the Fourth Magic''.<ref>Shippey, T. A. ed. Magill's Guide to Science Fiction and Fantasy vol II. Pasadena, California: Salem Press, 1996.</ref> He created the setting of Ynis Aielle for the novel, writing it in longhand by candlelight.<ref name="Dragon #252">{{cite journal| last = Varney| first = Allen| author-link = Allen Varney| title = Profiles: R.A. Salvatore| journal = [[Dragon (magazine)|Dragon]]| issue = #252| page = 120| publisher = [[Wizards of the Coast]]| location = [[Renton, Washington|Renton]], Washington|date=October 1998}}</ref> In an interview with comic book website Project Fanboy, Salvatore said he landed the deal for his first book when, after finishing the script for ''Echoes of the Fourth Magic'' in early 1987, he sent the work to [[TSR, Inc.|TSR]] and several other publishers. TSR was looking for an author to write the second book in the ''[[Forgotten Realms]]'' line and asked Salvatore to audition. In July 1987, Salvatore won the spot to write the book.<ref>{{Cite web |url=http://www.projectfanboy.com/vb/showthread.php?t=857 |title=Project Fanboy Interview |access-date=July 7, 2008 |archive-url=https://web.archive.org/web/20090716152153/http://www.projectfanboy.com/vb/showthread.php?t=857 |archive-date=July 16, 2009 |url-status=dead |df=mdy-all }}</ref> His first published novel was ''[[The Crystal Shard]]'' from TSR in 1988.<ref name="wizardsbio"/><ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=Mongoose Publishing|year=2011| isbn= 978-1-907702-58-7}}</ref>{{rp|19}} The first hardcover novel from TSR was Salvatore's ''[[The Legacy (Salvatore novel)|The Legacy]]'' (1992).<ref name="designers"/>{{rp|19}}  After ''[[Passage to Dawn]]'' (1996), TSR's management picked a new author to write stories about Drizzt; [[Mark Anthony (writer)|Mark Anthony]]'s Drizzt novel ''The Shores of Dusk'' was completed by the time [[Wizards of the Coast]] acquired TSR, but Wizards opted not to publish that one and instead brought Salvatore back to write about Drizzt, beginning with ''[[The Silent Blade]]'' (1998).<ref name="designers"/>{{rp|283}} ''The Silent Blade'' won the [[Origins Award]] that year.<ref name="wizardsbio"/>  Salvatore went on to publish several series of books in the ''Forgotten Realms'' campaign world, while lately his popularity surged due to his ''Demon Wars'' sagas and his two ''[[Star Wars]]'' books.
+
+One of his most popular characters is [[Drizzt Do'Urden]], a [[Drow (Dungeons & Dragons)|drow]], or dark elf, portrayed against the stereotypes of his race, who defies a nation of evil enemies with his swordsmanship and courage.  He abandons the [[Underdark]], a barren land of unmarked and limitless tunnels where deadly creatures continually lurk.  His journey for freedom leads him to the surface where he faces discrimination at every turn because of his dark heritage.  Drizzt stumbles along in a harsh world until he finally comes upon friends who understand the kindness of his heart.  Together, they fight for justice against sinister enemies who dare to disrupt the peace of Drizzt's newfound homeland.
+
+In 1999, Salvatore was tasked with writing ''[[Vector Prime]]'', the first novel in the ''[[Star Wars]]: [[The New Jedi Order]]'' series. ''Vector Prime'' was extremely controversial among ''Star Wars'' fans because its plot included the death of [[Chewbacca]], making the [[Wookiee]] the first major character from the original trilogy to be permanently killed off in the [[Star Wars expanded universe|''Star Wars'' expanded universe]] novels. Salvatore was ordered by [[Lucasfilm|Lucasfilm Ltd.]] to kill off the character. Many fans thought that Salvatore himself had made this decision, but it was actually [[Randy Stradley]], the then-editor at [[Dark Horse Comics]].<ref>[http://www.darkhorse.com/boards/viewtopic.php?t=1962 Randy Stradley on DarkHorse.com message boards]</ref>
+
+In February 2008, [[Devil's Due Publishing]] published ''[[Spooks (comics)|Spooks]]'', a comic book about a U.S. government anti-paranormal investigator/task force created by [[Larry Hama]] and Salvatore. Hama created the military characters and plots, and Salvatore covered the monster characters.<ref>{{cite web|url=http://devilsdue.net/index.php?option=com_content&task=view&id=45&Itemid=33 |title=Devil's Due Publishing press release: "Special San Diego Comic-Con Announcement", July 36 2007|archive-url=https://web.archive.org/web/20090305062317/http://devilsdue.net/index.php?option=com_content&task=view&id=45&Itemid=33 |archive-date=March 5, 2009 }}</ref>
+
+In 2010, Wizards of the Coast announced a new deal with Salvatore to write six more books featuring Drizzt the dark elf.  The books were released between 2011 and 2016.<ref name="wizards"/>
+
+===Writing for video games===
+In addition to his novels, Salvatore wrote the story for the [[PlayStation 2]], [[Xbox (console)|Xbox]] and [[Personal computer|PC]] video game ''[[Forgotten Realms: Demon Stone]]'' (2004), working with the design team at [[Stormfront Studios]]. The game was published by [[Atari]] and was nominated for awards by the [[Academy of Interactive Arts & Sciences]] and [[BAFTA]]. CDS books commissioned him to edit a four book series based on the interactive online ''[[EverQuest]]'' game.<ref>Raugust, Karen. "*[http://www.publishersweekly.com/article/CA417883.html The Expanding World of EverQuest]". Publishers Weekly. May 17, 2004, Vol. 251 Issue 20, p23</ref> He also wrote the bot chat lines for the ''[[quake3|Quake III]]'' bots.
+
+Salvatore was hired as creative director for upstart game developer [[38 Studios]], which was owned by former baseball player [[Curt Schilling]]. He wrote the dialogue and created a backstory spanning ten thousand years for the fantasy game ''[[Kingdoms of Amalur: Reckoning]]'', which was released in February 2012,<ref>http://xbox360.ign.com/articles/121/1218070p1.html</ref> and sold over one million units.<ref>{{cite news | url = http://www.shacknews.com/article/73968/kingdoms-of-amalur-needed-3-million-sales-to-break-even/ | title = ''Kingdoms of Amalur'' needed 3 million sales 'to break even,' RI governor says | work = [[Shacknews]] | first = Andrew | last = Yoon | date = May 24, 2012|access-date=January 20, 2016}}</ref>  However, three months later 38 Studios declared bankruptcy and ceased operations. The company laid off its entire staff, including Salvatore, with the $2 million fee for his services having never been paid.<ref>{{cite web|url=https://www.nytimes.com/2013/04/21/business/curt-schilling-rhode-island-and-the-fall-of-38-studios.html?pagewanted=all&_r=0|title=Thrown for a Curve in Rhode Island|first=Matt|last=Bai|work=NYTimes.com|date=April 20, 2013|access-date=January 6, 2015}}</ref> Salvatore claimed he harbored no ill will toward Schilling in a 2014 interview with ''[[Escapist (magazine)|The Escapist]]''. "Why would I sue Curt [for the $2 million]? Maybe he made a couple of bad business decisions ... [but] he didn't do anything nefarious, and he got wiped out. He's lying in the gutter and you want me to kick him in the head? Why would anyone do that?"<ref>{{cite web|url=http://www.escapistmagazine.com/articles/view/video-games/editorials/interviews/12450-Curt-Schilling-Did-Nothing-Wrong-at-38-Studios-Salvatore-Says |title=The Fall of 38 Studios, and DemonWars: More From R.A. Salvatore |first=David|last=Craddock|work=The Escapist|date=October 15, 2014|access-date=January 7, 2015}}</ref>
+
+==Bibliography==
+{{main|R. A. Salvatore bibliography}}
+
+==References==
+{{reflist|25em}}
+
+==Reviews==
+* Cassada, Jackie. “The Lone Drow (book).” Library Journal September 15, 2003, Vol. 128 Issue 15, p95
+* Cannon, Peter. Zaleski, Jeff. [http://reviews.publishersweekly.com/bd.aspx?isbn=0786928042&pub=pw THE THOUSAND ORCS (BOOK)]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }} Publishers Weekly. 10/7/2002, Vol. 249 Issue 40, p57
+* [http://reviews.publishersweekly.com/bd.aspx?isbn=1593150164&pub=pw THE HIGHWAYMAN: a Novel of Corona]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }} Publishers Weekly. 3/1/2004, Vol. 251 Issue 9, p54.
+
+==External links==
+{{commons category|Robert Anthony Salvatore}}
+{{Wikiquote|R. A. Salvatore}}
+* {{official website|http://www.rasalvatore.com}}
+* [http://www.fantasticfiction.co.uk/s/r-a-salvatore/ R. A. Salvatore at Fantastic Fiction]
+* {{isfdb name|1440}}
+* {{LCAuth|n85364077|R. A. Salvatore|138|}}
+* {{cite web |url=http://www.pen-paper.net:80/rpgdb.php?op=showcreator&creatorid=2244 |archive-date=February 21, 2005 |title=Robert A. Salvatore :: Pen & Paper RPG Database |url-status=dead |archive-url=https://web.archive.org/web/20050221060311/http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=2244 |df=mdy-all |access-date=April 6, 2018 }}
+
+{{Salvatore}}
+{{D&D topics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Salvatore, Robert Anthony}}
+[[Category:1959 births]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:American people of Italian descent]]
+[[Category:American science fiction writers]]
+[[Category:Fitchburg State University alumni]]
+[[Category:Living people]]
+[[Category:Novelists from Massachusetts]]
+[[Category:People from Leominster, Massachusetts]]

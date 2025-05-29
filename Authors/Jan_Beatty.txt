@@ -1,0 +1,84 @@
+{{short description|American poet|bot=PearBOT 5}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Jan Beatty
+| image         = Jan beatty 4162623.jpg
+| image_size    = 
+
+| caption       = 
+| pseudonym     = 
+| birth_name    = 
+| birth_date    = {{Birth year and age|1952}} 
+| birth_place   = [[Pittsburgh]], [[Pennsylvania]], U.S.
+| occupation    = Poet
+| language      = English
+| nationality   = American
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = [[West Virginia University]] ([[Bachelor of Arts|BA]])<br>[[University of Pittsburgh]] ([[Master of Fine Arts|MFA]])
+| period        = 
+| genre         = Poetry 
+| subject       = 
+| movement      = 
+| notableworks  = 
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| influences    = 
+| influenced    = 
+| awards        =  
+| signature     = 
+| website       = {{URL|http://www.janbeatty.com/}}
+| portaldisp    = 
+}}
+'''Jan Beatty''' is an American poet. She is a recipient of the [[Agnes Lynch Starrett Poetry Prize]], the Pablo Neruda Prize for Poetry, and the Creative Achievement Award in Literature.
+
+==Life==
+Born in 1952 in [[Pittsburgh]], [[Pennsylvania]], she received her [[Bachelor of Arts]] from the [[West Virginia University]] and her [[Master of Fine Arts]] from the [[University of Pittsburgh]]. She currently resides in [[Pittsburgh]], [[Pennsylvania]], with her husband, musician Don Hollowood.<ref>{{cite news | url=http://www.pittsburghlive.com/x/pittsburghtrib/s_63605.html | title=Poet Jan Beatty, in her own words | work=Pittsburgh Tribune-Review }}{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+Her most recent poetry collection is ''The Switching/Yard'' ([[University of Pittsburgh Press]], 2013), and her poems have appeared in literary journals and magazines including ''Quarterly West'', ''Gulf Coast'', ''Indiana Review'', and ''Court Green'', and in anthologies published by Oxford University Press, University of Illinois Press, and University of Iowa Press.<ref>{{Cite web |url=http://www.janbeatty.com/bio.php |title=''janbeatty.com'' |access-date=2008-05-08 |archive-url=https://web.archive.org/web/20120616044319/http://janbeatty.com/bio.php |archive-date=2012-06-16 |url-status=dead }}</ref> Her honors include fellowships from the [[Ucross Foundation]], the [[Pennsylvania Council on the Arts]], and [[Yaddo]]. She was awarded the Pablo Neruda Prize for Poetry from the Tulsa Arts and Humanities Council in 1990, and the $15,000 Creative Achievement Award in Literature from the [[H. J. Heinz Company|Heinz]] Foundation. Her first book, ''Mad River'', won the [[Agnes Lynch Starrett Poetry Prize]] of the [[University of Pittsburgh Press]] in 1994. 
+Some of Beatty's poetry, considered sexually explicit, led to problems with a scheduled reading at [[Joseph-Beth Booksellers]] in April 2008.<ref>{{cite news| url=http://www.post-gazette.com/pg/08113/875323-42.stm| work=Pittsburgh Post Gazette| title=Bookstore and poet in war of words over reading| date=April 22, 2008| author=Bob Hoover }}</ref>
+
+Beatty currently heads the writing program at [[Carlow University]], where she also directs the Madwomen in the Attic Writing Workshop.<ref>[http://www.upress.pitt.edu/BookDetails.aspx?bookId=35900 "BookDetails, Red Sugar", ''University of Pittsburgh Press'']</ref> She has also taught creative writing at the [[University of Pittsburgh]]. Along with Ellen Wadey, Beatty hosts and produces ''Prosody'', a weekly radio program featuring the work of national writers.
+
+==Published works==
+*''American Bastard'' poetry ([[Red Hen Press]], 2021)<ref>[https://redhen.org/book/american-bastard/ Red Hen Press Website | Authors | Jan Beatty, ''American Bastard'']</ref>
+* ''The Body Wars'', poetry (Pittsburgh: [[University of Pittsburgh Press]], 2020).
+* ''Jackknife: New and Selected Poems'', poetry (Pittsburgh: [[University of Pittsburgh Press]], 2017).
+* ''The Switching/Yard'', poetry (Pittsburgh: [[University of Pittsburgh Press]], 2013).
+* ''Ravage'', poetry chapbook (Lefty Blondie Press, 2012).
+* ''Red Sugar'', poetry (Pittsburgh: [[University of Pittsburgh Press]], 2008).
+* ''Boneshaker'', poetry (Pittsburgh: [[University of Pittsburgh Press]], 2002).
+* ''Mad River'', poetry (Pittsburgh: [[University of Pittsburgh Press]], 1995).
+* ''Ravenous'', poetry chapbook (Brockport, NY: State Street Press, 1995).
+
+==Honors and awards==
+* 1994 [[Agnes Lynch Starrett Poetry Prize]]
+* 1990 Pablo Neruda Prize for Poetry from the Tulsa Arts and Humanities Council
+* Creative Achievement Award in Literature from the H. J. Heinz Foundation
+
+==References==
+<references/>
+
+===Bibliography===
+''Contemporary Authors Online''. The Gale Group, 2007. PEN (Permanent Entry Number):  0000074923.
+
+==External links==
+* [http://www.janbeatty.com/ JanBeatty.com]
+* [http://www.janbeatty.com/JanBeattyCV.pdf Curriculum Vitae]
+* [http://www.post-gazette.com/pg/08113/875323-42.stm Bookstore and poet in war of words over reading]
+* [https://web.archive.org/web/20110718122231/http://www.writersnewsweekly.com/jan_beatty_joseph-beth_05_06_08.html For Better or Verse: Bookstore Says Go, Poet Says No]
+
+{{authority control}}
+
+{{DEFAULTSORT:Beatty, Jan}}
+[[Category:1952 births]]
+[[Category:Agnes Lynch Starrett Poetry Prize winners]]
+[[Category:Poets from Pennsylvania]]
+[[Category:Living people]]
+[[Category:University of Pittsburgh alumni]]
+[[Category:Writers from Pittsburgh]]
+[[Category:American women poets]]
+[[Category:21st-century American poets]]
+[[Category:21st-century American women writers]]

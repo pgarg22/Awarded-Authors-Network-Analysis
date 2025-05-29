@@ -1,0 +1,119 @@
+{{short description|Canadian writer|bot=PearBOT 5}}
+{{Use dmy dates|date=September 2016}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Ian Cameron Esslemont
+| honorific_prefix = 
+| honorific_suffix = 
+| image =
+| image_size = 
+| alt = 
+| caption = Ian Cameron Esslemont, March 2016
+| native_name = 
+| native_name_lang = 
+| pseudonym = Ian C. Esslemont
+| birth_name = Ian Cameron Esslemont
+| birth_date = {{Birth year and age|1962}}
+| birth_place = [[Winnipeg]], Manitoba, Canada
+| death_date =  
+| death_place = 
+| resting_place = 
+| occupation = Author
+| language = English
+| nationality = [[Canadians|Canadian]]
+| ethnicity = 
+| citizenship = Canadian
+| education = 
+| alma_mater = 
+| period = 
+| genre = [[High fantasy]]
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks = {{Plainlist|
+* Novels of the Malazan Empire
+* Path to Ascendancy
+}}
+| spouse = Gerri Brightwell
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Ian Cameron Esslemont''' (born 1962) is a Canadian writer. He was trained and has worked as an [[archaeologist]]. He is best known for his series ''Novels of the Malazan Empire'', which is set in the same world as the ''[[Malazan Book of the Fallen]]'' [[epic fantasy]] series written by his friend and collaborator, [[Steven Erikson]]. Esslemont is the co-creator of the Malazan world.<ref>{{cite web|last=Jones|first=Jeremly L. C.|title=The Minimal and Finely Focused Fantasy of Ian C. Esslemont|url=http://clarkesworldmagazine.com/esslemont_interview/|year=2009|publisher=Clarkesworld Magazine|access-date=11 November 2014}}</ref>
+
+==Biography==
+Ian Cameron Esslemont was born in Winnipeg, Manitoba, Canada. He has lived and worked in Southeast Asia, including four years spent in Thailand and Japan. He is currently working on a new trilogy set in the Malaz world. He lives in [[Alaska]] with his wife, novelist Gerri Brightwell, and their three sons.<ref>{{cite web|title=Ian C Esslemont Biography|url=https://www.penguin.co.uk/authors/ian-c-esslemont/1050676/|publisher=Penguin Books|access-date=2 March 2016}}</ref>
+
+==Works==
+{{nofootnotes|section|date=May 2020}}
+Esslemont and Erikson co-created the Malazan world in 1982 as a backdrop for [[role-playing games]]. In 1991 they collaborated on a feature film script set in the same world, entitled ''[[Gardens of the Moon]]''. When the script did not sell, Erikson greatly expanded the story and turned it into a novel. The two writers agreed to both write books set in the same world. However, it took a further eight years before ''Gardens of the Moon'' was published by [[Bantam Books|Bantam]] UK and Erikson agreed to write a further nine novels set in the same world. Life and work commitments delayed Esslemont's own entries to the series until 2004, when his first novel, ''[[Night of Knives]]'', was published as a limited edition by [[PS Publishing]] (a mass-market release by Bantam UK followed in 2007). This book was a prequel to the main Malazan sequence. His second novel, ''[[Return of the Crimson Guard]]'', takes place within the main Malazan sequence, shortly after the events of the sixth book, ''[[The Bonehunters]]''. It was published by PS Publishing in May 2008 and by Bantam UK later that year. Both ''[[Night of Knives]]'' and ''[[Return of the Crimson Guard]]'' have now been bought by Tor for publication in the United States.  His third novel, ''[[Stonewielder]]'', was published by Bantam UK in 2010 and Tor in the US.  His fourth novel, ''[[Orb Sceptre Throne]]'' was published in 2012. In spring 2014 he signed a contract with Bantam for three more novels set in the Malazan world.
+
+==Books==
+===Novels of the Malazan Empire===
+Six-part novel series set in the world of Malazan. The novels cover events simultaneous with [[Steven Erikson|Erikson's]] the Book of the Fallen, of the Crimson Guard, the succession of the Malazan Empire, the situation on Korel and Jacuruku and the mystery of Assail. Some of these events are hinted at during the course of the Malazan Book of the Fallen. Characters that appear throughout the novels are Kyle, Greymane and the avowed members of the Crimson Guard like Shimmer, Blues, K'azz, Skinner and Cowl.
+{| class="wikitable sortable"
+|-
+! Title 
+! Published 
+! Approximate Word Count
+! Pages
+|-
+| ''[[Night of Knives]]'' || 1 September 2004 || 104,000 || 304
+|-
+| ''[[Return of the Crimson Guard]]'' || 15 August 2008 || 272,000 || 702
+|-
+| ''[[Stonewielder]]'' || 25 November 2010 || 198,000 || 634
+|-
+| ''[[Orb Sceptre Throne]]'' || 20 February 2012 || 188,000 || 605
+|-
+| ''[[Blood and Bone (novel)|Blood and Bone]]'' || 22 November 2012 || 183,000 || 586
+|-
+| ''[[Assail (novel)|Assail]]'' || 5 August 2014 || 168,000 || 544
+|-
+| colspan=2|'''Approximate Total:''' || 1,120,000 || 3375
+|}
+
+=== Path to Ascendancy ===
+The Path to Ascendancy is a prequel trilogy set in the world of Malazan, written by Ian Cameron Esslemont.<ref>{{Cite web|title = Dancer's Lament {{!}} Ian C. Esslemont {{!}} Macmillan|url = http://us.macmillan.com/dancerslament/iancesslemont|website = Macmillan|access-date = 2015-12-01|archive-url = https://web.archive.org/web/20160109064937/http://us.macmillan.com/dancerslament/iancesslemont|archive-date = 9 January 2016|url-status = dead|df = dmy-all}}</ref> The stories deal with the early adventures of Dancer and Kellanved (Dorin and Wu, in this series) and their eventual rise to power on Quon Tali.
+{| class="wikitable sortable"
+|-
+! Title !! Published !! Approximate Word Count || Pages
+|-
+| ''[[Dancer's Lament]]'' || 25 February 2016 (UK), 31 May 2016 (US)<ref name="Erikson">{{cite web|last=Erikson|first=Steven|title=Steven Erikson's Reddit AMA reveals New Trilogy titles|url=https://www.reddit.com/r/Fantasy/comments/q8zyv/hello_reddit_i_am_steven_erikson_please_ask_me/c3w00nr/|work=[[Reddit]] |access-date=27 Feb 2012}}</ref> || 145,000 || 416
+|-
+| ''Deadhouse Landing''<ref name="Esslemont_2016-04-14">{{cite web|last=Esslemont|first=Ian|title=Esslemont interview|url=https://thecriticaldragon.com/2016/04/14/in-the-dragons-den-ian-c-esslemont-interview/|access-date=23 Jun 2016|date=2016-04-14}}</ref> || 15 November 2017 || 136,000 || 400
+|- 
+| ''Kellanved's Reach''<ref name="Esslemont_2017">{{cite web|last=Esslemont|first=Ian|title=Esslemont interview|url=http://www.fantasybookreview.co.uk/interview/2017/ian-c-esslemont/|access-date=6 December 2017}}</ref> || 21 February 2019 (UK), 2 April 2019 (US)|| n/a || 352
+|}
+
+==Footnotes==
+{{Reflist}}
+
+==External links==
+{{Wikiquote|Ian Cameron Esslemont}}
+*[http://www.ian-esslemont.com Ian C. Esslemont's official website]
+*[https://nekoplz.com/ian-cameron-esslemont-interview/ Interview] with Jay Tomio, May 2008
+*[http://www.sffworld.com/interview/185p0.html Interview at SFFWorld.com]
+*[http://clarkesworldmagazine.com/esslemont_interview/ Interview] at [[Clarkesworld Magazine]], August 2009
+*[https://thecriticaldragon.com/2016/04/14/in-the-dragons-den-ian-c-esslemont-interview/ Interview], April 2016
+*{{isfdb name|id=Ian_C._Esslemont |name=Ian C. Esslemont}}
+*{{IBList |type=author|id=11829|name=Ian C. Esslemont}}
+
+{{Malazan Book of the Fallen}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Esslemont, Ian Cameron}}
+[[Category:1962 births]]
+[[Category:Writers from Winnipeg]]
+[[Category:Malazan Book of the Fallen]]
+[[Category:Novels of the Malazan Empire]]
+[[Category:Canadian fantasy writers]]
+[[Category:Canadian male novelists]]
+[[Category:Living people]]

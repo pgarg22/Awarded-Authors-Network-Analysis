@@ -1,0 +1,93 @@
+{{Use dmy dates|date=September 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image         = Imaginales 2016 - Anthony Ryan.jpg
+| imagesize     =
+| name          = Anthony Ryan
+| caption       = Anthony Ryan, 2016
+| pseudonym     =
+| birth_name    =
+| birth_date    = {{birth_year_and_age|1970}}
+| birth_place   = [[Scotland]], United Kingdom
+| death_date    =
+| death_place   =
+| occupation    =
+| nationality   =
+| period        =
+| genre         = [[Fantasy]] and [[science fiction]]
+| subject       =
+| movement      =
+| notableworks  = Raven's Shadow series
+| spouse        =
+| partner       =
+| children      =
+| relatives     =
+| awards        =
+| signature     =
+| website       = {{URL|anthonystuff.wordpress.com}}
+}}
+'''Anthony Ryan''' is a Scottish writer of [[fantasy]] and [[science fiction]], best known for his books about Vaelin Al Sorna, which started in 2013 with ''Blood Song''. He worked as a full-time [[researcher]] before switching to full-time writing. He currently lives in [[London]], England. He has a degree in Medieval [[History]].
+
+==Biography==
+Anthony Ryan was born in Scotland in 1970 but has spent much of his adult life in London.<ref name="blogspot">{{cite web|url=http://qwillery.blogspot.co.uk/2013/07/interview-with-anthony-ryan-author-of.html|title=The Qwillery: Interview with Anthony Ryan, author of Blood Song (Raven's Shadow 1) - July 2, 2013|publisher=qwillery.blogspot.co.uk|accessdate=2014-01-20}}</ref>
+Anthony Ryan initially self-published ''Blood Song,''<ref name="publishersweekly">{{cite web|url=http://www.publishersweekly.com/978-0-425-26769-1|title=Fiction Book Review: Blood Song by Anthony Ryan. Ace, $27.95 (592p) ISBN 978-0-425-26769-1|publisher=publishersweekly.com|accessdate=2014-01-20}}</ref> however, he switched to major publication when [[Penguin books]] offered him a three-book deal in May 2012. He started writing full-time after the success of the publication. He continues to self-publish a series of SF Noir novellas.
+
+==Bibliography==
+===Raven's Shadow Trilogy===
+* ''Blood Song'' (2013)
+* ''Tower Lord'' (2014)
+* ''Queen of Fire'' (2015)
+
+===Raven’s Blade Duology===
+Sequel Series to Raven’s Shadow Trilogy
+* ''The Wolf’s Call'' (July 2019)
+* ''The Black Song'' (August 2020)
+
+===Slab City Blues===
+* ''Slab City Blues (2011)''
+* ''A Song for Madame Choi (2011)''
+* ''A Hymn to Gods Long Dead (2012)''
+* ''The Ballad of Bad Jack (2013)''
+* ''An Aria for Ragnarok (2015)''
+* ''Slab City Blues: The Collected Stories (2015)''
+
+===The Draconis Memoria Trilogy===
+* ''The Waking Fire'' (2016)
+* ''The Legion of Flame'' (2017)
+* ''The Empire of Ashes'' (2018)
+
+===Seven Swords Series===
+* ''A Pilgrimage of Swords'' (2019)
+* ''The Kraken’s Tooth'' (2020)
+* ''City of Songs'' (2021)
+
+===The Covenant of Steel===
+* ''The Pariah'' (August 2021)
+
+===Short Stories===
+'''Raven's Shadow'''
+* ''The Lord Collector''. Available in ''Blackguards Anthology''.
+* ''A Duel of Evils''. Available in ''Unfettered II Anthology''.
+* ''The Lady of Crows''
+* ''Many Are the Dead''
+'''The Draconis Memoria'''
+* ''Sandrunners''. Available in ''Legends II Anthology'' - Stories in Honour of David Gemmell.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://www.reddit.com/r/Fantasy/comments/1hy509/hi_im_anthony_ryan_and_i_write_fantasy_and/ "Hi, I'm Anthony Ryan and I write fantasy and science fiction - AMA"]
+*[http://qwillery.blogspot.co.uk/2013/07/interview-with-anthony-ryan-author-of.html "Interview with Anthony Ryan, author of Blood Song (Raven's Shadow 1) - July 2, 2013"]
+*[http://www.publishersweekly.com/978-0-425-26769-1 "Blood Song"]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ryan, Anthony}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:English fantasy writers]]
+[[Category:Scottish fantasy writers]]
+[[Category:Scottish male novelists]]
+
+
+{{UK-writer-stub}}

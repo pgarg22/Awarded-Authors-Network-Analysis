@@ -1,0 +1,196 @@
+{{short description|American speculative fiction author}}
+{{Use mdy dates|date=June 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Celia S. Friedman
+| image       = 
+| imagesize   = 
+| caption     = 
+| pseudonym   = <!-- not "C. S." -->
+| birth_date   = {{birth date and age|1957|01|12}}
+| birth_place  = New York City
+| death_place  = 
+| occupation  = Fiction writer and teacher
+| nationality = American
+| period      = 1987–present
+| genre       = [[Science fiction]], [[fantasy]]
+| subject     = 
+| movement    =
+| website     = {{URL|csfriedman.com}}
+}}
+
+'''Celia S. Friedman''' (born January 12, 1957) is an American [[speculative fiction]] author.
+
+To date she has published fourteen novels, several short stories, and a sourcebook for [[White Wolf, Inc.|White Wolf]]'s ''[[Vampire: The Masquerade]]'' [[role-playing game]]. Originally a costume designer by trade, Friedman began her publishing career in 1986, and quit costuming in 1996 to write full-time.<ref>[http://www.csfriedman.com/bio/ C. S. Friedman's Bio]</ref> She was nominated for the John W Campbell award for Best New Writer in 1988,<ref>[http://www.thehugoawards.org/campbell-history/ Campbell Award History]</ref> her novel ''This Alien Shore'' was a ''New York Times'' Notable Book of the Year in 1998,<ref>[https://www.nytimes.com/books/98/12/06/reviews/notable-scifi.html NYT Notable Books of 1998]</ref> and The Coldfire Trilogy was a finalist for NPR's Science Fiction and Fantasy Vote.<ref>[https://www.npr.org/2011/08/07/138938145/science-fiction-and-fantasy-finalists NPR Science Fiction and Fantasy Finalists]</ref>
+
+==Works==
+
+{| class="wikitable"
+! No. || Title || Release date || ISBN || Comments
+|-
+| colspan="5" align="center" | '''The Endless War duology'''
+|-
+| rowspan="5" align="center" | 1
+| rowspan="5" | ''[[In Conquest Born]]'' 
+| April 1986  || {{ISBN|0-88677-198-6}} || paperback with two covers, each the reverse of the other
+|-
+| April 1989 || – || hardcover; [[Book of the Month Club|Science Fiction Book Club]] edition
+|-
+| August 1992 || {{ISBN|0-09-960690-9}} || paperback; UK edition
+|-
+| November 2001 || {{ISBN|0-7564-0043-0}} || paperback; 15th anniversary edition – includes a new intro and glossary.
+|-
+| May 15, 2012 || – || audiobook
+|-
+| rowspan="3" align="center" | 2
+| rowspan="3" | ''The Wilding'' 
+| July 2004 || {{ISBN|0-7564-0164-X}} || hardcover
+|-
+| July 2005 || {{ISBN|0-7564-0202-6}} || paperback
+|-
+| May 15, 2012 || – || audiobook
+|-
+| colspan="5" align="center" | '''[[Coldfire trilogy|The Coldfire trilogy]]'''
+|-
+| align="center" | &nbsp; || ''Dominion'' || January 9, 2012 || – || eBook; prequel to trilogy
+|-
+| rowspan="5" align="center" | 1
+| rowspan="5" | ''[[Black Sun Rising]]'' 
+| October 1991  || {{ISBN|0-88677-485-3}} || hardcover
+|-
+| March 1992 || – || hardcover; SFBC edition
+|-
+| September 1992 || {{ISBN|0-88677-527-2}} || first paperback printing
+|-
+| September 2005 || {{ISBN|0-7564-0314-6}} || trade paperback
+|-
+| May 15, 2012 || – || audiobook
+|-
+| rowspan="5" align="center" | 2
+| rowspan="5" | ''[[When True Night Falls]]'' 
+| September 1993  || {{ISBN|0-88677-569-8}} || hardcover
+|-
+| December 1993 || – || hardcover; SFBC edition
+|-
+| August 1994 || {{ISBN|0-88677-615-5}} || paperback
+|-
+| October 2005 || {{ISBN|0-7564-0316-2}} || trade paperback
+|-
+| May 15, 2012 || – || audiobook
+|-
+| rowspan="5" align="center" | 3
+| rowspan="5" | ''[[Crown of Shadows]]''
+| October 1995 || {{ISBN|0-88677-664-3}} || paperback
+|-
+| February 1996 || – || hardcover; SFBC edition
+|-
+| July 1996 || {{ISBN|0-88677-717-8}} || paperback
+|-
+| November 2005 || {{ISBN|0-7564-0318-9}} || trade paperback
+|-
+| May 15, 2012 || – || audiobook
+|-
+| colspan="5" align="center" | '''The Outworlds series'''
+|-
+| rowspan="4" align="center" | 1
+| rowspan="4" | ''[[This Alien Shore]]''
+| August 1998 || {{ISBN|0-88677-798-4}} || hardcover
+|-
+| June 1999 || {{ISBN|0-88677-799-2}} || paperback
+|-
+| January 2000 || {{ISBN|0-00-648375-5}} || paperback; United Kingdom edition
+|-
+| May 15, 2012 || – || audiobook
+|-
+| align="center" | 2 || ''This Virtual Night'' || November 02, 2020 || {{ISBN|0-7564-0988-8}} || hardcover 
+|-
+| colspan="5" align="center" | '''[[Magister Trilogy|The Magister trilogy]]'''
+|-
+| rowspan="3" align="center" | 1
+| rowspan="3" | ''[[Feast of Souls]]''
+| January 2007 || {{ISBN|0-7564-0432-0}} || hardcover
+|-
+| February 2008 || {{ISBN|0-7564-0463-0}} || paperback
+|-
+| May 15, 2012 || – || audiobook
+|-
+| rowspan="3" align="center" | 2
+| rowspan="3" | ''[[Wings of Wrath]]''
+| February 3, 2009 || {{ISBN|0-7564-0535-1}} || hardcover
+|-
+| February 2, 2010 || {{ISBN|0-7564-0594-7}} || paperback
+|-
+| May 15, 2012 || – || audiobook
+|-
+| rowspan="3" align="center" | 3
+| rowspan="3" | ''Legacy of Kings''
+| August 23, 2011 || {{ISBN|0-7564-0693-5}} || hardcover
+|-
+| September 4, 2012 || {{ISBN|978-0756407483}} || paperback
+|-
+| May 15, 2012 || – || audiobook
+|-
+| colspan="5" align="center" | '''Dreamwalker Series'''
+|-
+| align="center" | 1&nbsp; || ''Dreamwalker'' || February 4, 2014 || {{ISBN|0-75640-888-1}} || hardcover
+|-
+| align="center" | 2&nbsp; || ''Dreamseeker'' || November 3, 2015 || {{ISBN|0-75640-895-4}} || hardcover
+|-
+| align="center" | 3&nbsp; || ''Dreamweaver'' || December 6, 2016 || {{ISBN|0-75640-908-X}} || hardcover
+|-
+| colspan="5" align="center" | '''Standalone books'''
+|-
+| rowspan="2" align="center" | &nbsp;
+| rowspan="2" | ''The Madness Season''
+| September 1990 || {{ISBN|0-88677-444-6}} || paperback
+|-
+| May 15, 2012 || – || audiobook
+|-
+| align="center" | &nbsp; || ''[[The Erciyes Fragments]]'' || April 1998 || {{ISBN|1-56504-297-2}} || hardcover; a ''[[Vampire: The Masquerade]]'' novella 
+|-
+| colspan="5" align="center" | '''Short Works'''
+|-
+| align="center" |  || ''The Dreaming Kind'' || 1989 || {{ISBN|0-88677-355-5}} || in  ''Catfantastic''
+|-
+| align="center" |  || ''Downtime'' || 2002 || {{ISBN|0-7564-0064-3}}|| in  ''30th Anniversary DAW Science Fiction Collection''
+|-
+| align="center" |  || ''Terms of Engagement'' || June 2006 || ISSN 1095-8258|| in  ''Magazine of Fantasy and Science Fiction''
+|-
+| align="center" |  || ''Shall We Dance?'' || 2006 || {{ISBN|0-7564-0369-3}} || in  ''Hags, Sirens, and other Bad Girls of Fantasy''
+|-
+| align="center" |  || ''Soul Mate'' || November 30, 2010 || {{ISBN|1-5960-6336-X}} || in ''Speculative Horizons'' by Subterranean Press
+|-
+| align="center" |  || ''Perfect Day'' || March 1, 2012 || {{ISSN|0024-984X}}|| in ''The Magazine of Fantasy & Science Fiction''
+|-
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website |csfriedman.com }}
+*[https://web.archive.org/web/20040124201455/http://www.merentha.org/ The Forest of the Hunter]: The Official C.S. Friedman fansite
+*[https://web.archive.org/web/19990824090741/http://scifan.com/writers/ff/FriedmanCelia.asp Bibliography] on SciFan
+*[http://nethspace.blogspot.com/2007/11/celia-friedman-answers-questions-five-c.html Interview at Neth Space]
+*[http://merentha.com/ CS Friedman-based MUD]
+* {{isfdb name|493|C. S. Friedman}}
+* {{LCAuth|n92030791|C. S. Friedman|10|}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Friedman, Celia S.}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American science fiction writers]]
+[[Category:American women short story writers]]
+[[Category:American women novelists]]
+[[Category:Dark fantasy writers]]
+[[Category:Writers from New York City]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American women writers]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American short story writers]]
+[[Category:Novelists from New York (state)]]

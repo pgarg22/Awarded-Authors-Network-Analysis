@@ -1,0 +1,318 @@
+{{Short description|Chinese poet (365–427)}}
+{{about|a poet|a warlord|Tao Qian (Han dynasty)}}
+{{family name hatnote|[[Tao (surname)|Tao]]|lang=Chinese}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Tao Yuanming
+| image = Ch'en Hung-shou 002.jpg
+| caption = ''Portrait of Tao Yuanming'' by [[Chen Hongshou]]
+| birth_name = 
+| birth_date = c. 365
+| birth_place = Chaisang (modern [[Jiujiang|Jiujiang, Jiangxi]])
+| death_date = 427
+| death_place = 
+| occupation = Poet, politician
+| notableworks= ''Account of the Peach Blossom Spring''
+| spouse = 
+}}
+{{Infobox Chinese
+|pic=Tao Yuanming (Chinese characters).svg
+|piccap="Tao Yuanming" in Traditional (top) and Simplified (bottom) Chinese characters
+|picupright=0.5
+|s=陶渊明
+|t=陶淵明
+|p=Táo Yuānmíng
+|w=T'ao<sup>2</sup> Yüan<sup>1</sup>-ming<sup>2</sup>
+|mi={{IPAc-cmn|t|ao|2|-|yuan|1|.|m|ing|2}}
+|gr= Taur Iuanming
+|tl=Tô Ian-bîng
+|j=Tou<sup>4</sup> Jyun<sup>1</sup>-ming<sup>4</sup>
+|y=Tòuh Yūn-mìhng
+|ci={{IPAc-yue|t|ou|4|-|j|yun|1|.|m|ing|4}}
+|c2=陶潛
+|l2=(original name)
+|p2=Táo Qián
+|w2=T'ao<sup>2</sup> Ch'ien<sup>2</sup>
+|mi2={{IPAc-cmn|t|ao|2|-|q|ian|2}}
+|gr2=Taur Chyan
+|j2=Tou<sup>4</sup> Cim<sup>4</sup>
+|y2=Tòuh Chìhm
+|tl2= Tô Tsiâm
+}}
+
+'''Tao Yuanming''' (365–427), also known as '''Tao Qian''' (Hanyu Pinyin) or '''T'ao Ch'ien''' (Wade-Giles), was a Chinese poet and politician who was one of the best-known poets during the [[Six Dynasties|Six Dynasties period]]. He was born during the Eastern [[Jin dynasty (265–420)|Jin dynasty]] (317-420) and died during the [[Liu Song dynasty|Liu Song]] (420-479) dynasty (Jin-Song transition). Tao Yuanming spent much of his life in reclusion, living in the countryside, farming, reading, drinking wine, receiving the occasional guest, and writing poems in which he often reflected on the pleasures and difficulties of life, as well as his decision to withdraw from civil service. Tao's simple and direct style was somewhat at odds with the norms for literary writing in his time.
+<ref>
+{{Cite book|title="From the Eastern Jin through the early Tang (317–649)" in The Cambridge History of Chinese Literature, Volume 1|last=Tian|first=Xiaofei|publisher=Cambridge University Press|year=2013|isbn=978-1107643246|location=Cambridge, U.K.|pages=221–2}}
+</ref> 
+Relatively well-known as a recluse poet in the [[Tang dynasty]] (618-907), during the [[Song dynasty|Northern Song dynasty]] (960-1127), influential literati figures such as [[Su Shi]] (1037-1101) declared him a paragon of authenticity and spontaneity in poetry, that Tao Yuanming would achieve lasting literary fame.<ref>{{Cite book|title="From the Eastern Jin through the early Tang (317–649)"|last=Tian|first=Xiaofei|pages=221–2}}</ref> However, Tao Yuanming's inclusion in the 6th century literary anthology ''[[Wen Xuan]]'' argues for at least a beginning of fame in his own era, at least in his own birth area. Tao Yuanming would later be regarded as the foremost representative of what we now know as [[Fields and Gardens poetry]]. Tao Yuanming found inspiration in the beauty and serenity of the natural world close at hand. Tao Yuanming is depicted in the [[Wu Shuang Pu]] (無雙譜, Table of Peerless Heroes) by Jin Guliang.
+
+==Names==
+In the middle of his life, Tao changed his name (keeping his family name) from Tao Yuanming ({{CJKV|t=陶淵明|s=陶渊明|p=Táo Yuānmíng|w=T'ao Yüan-ming}}) to '''Tao Qian''' ({{zh|t=陶潛|s=陶潜|p=Táo Qián|w='''T'ao Ch'ien'''}}). "Master of the Five Willows", another name which he used when quite young, seems to be a soubriquet of his own invention.<ref>Chang, 24-25</ref> There is a surviving autobiographical essay from his youth in which Tao Yuanming uses "Five Willows" to allude to himself. After this, Tao refers to himself in his earlier writings as "Yuanming"; however; it is thought that with the demise of the [[Jin Dynasty (265–420)|Eastern Jin]] dynasty in 420, that he began to refer to himself as "Qian", meaning "hiding", as a signification of his final withdrawal into the quiet life in the country and his decision to avoid any further participation in the political scene.<ref name="Chang, 22">Chang, 22</ref> ''Tao Qian'' could also be translated "Recluse Tao".<ref>Hinton, 111</ref> However, this in no way implies an [[eremitic]] lifestyle or extreme [[asceticism]]; rather a comfortable dwelling, with family, friends, neighbors, musical instruments, wine, a nice library, and the beautiful scenery of a mountain farm were Tao Qian's compensation for giving up on the lifestyle of Tao Yuanming, government servant.<ref>Hinton, 111-112</ref>
+
+The names Yuanliang ({{lang|zh|元亮}}), Shenming ({{lang|zh|深明}}), and Quanming ({{lang|zh|泉明}}) are all associated with Tao Yuanming. Some of this confusion results from a [[naming taboo]] during the [[Tang dynasty]], specifically that the characters for an emperor's name were impermissible to use either to write or even to casually pronounce. This taboo required the substitution of similar characters or words in order to avoid this prohibition. As the "High Founder" of the Tang dynasty (posthumously titled [[Emperor Gaozu of Tang]]) had the personal name Li Yuan, the ''yuan'' ({{lang|zh|渊}}) character became taboo. So, since this was the same as the ''yuan'' in Yuanming, various authors substituted the synonymous ''shen'' ({{lang|zh|深}}) for ''yuan''—both referring to "depths".<ref>[[Yeh Chia-ying]], translation Josey Shun and Bhikshuni Heng Yin, [http://www.drbachinese.org/vbs/publish/343/vbs343p033.htm "Vajra Bhodi Sea" No.343], accessed 5 FEB 2020</ref>
+
+==Life==
+===Ancestry===
+Tao Yuanming's great-grandfather was the eminent [[Jin dynasty (266–420)|Jin dynasty]] general and governor, [[Tao Kan]] (259-334). His grandfather and father also both served as government officials,<ref name="Chang, 22"/> rising to the level of County Governor.<ref>[[Yeh Chia-ying]], part of "陶淵明詩講錄" ("Lectures on Tao Yuan-ming's Poems"), translation Josey Shun and Bhikshuni Heng Yin, "Lectures on Tao Yuanming's Poems", a series of lectures at Gold Buddha Monastery, Canada (lecture tapes were transcribed by Tu Xiaoli, An Yi, and Yang Aidi) <[http://www.drbachinese.org/vbs/publish/338/vbs338p036.htm "Vajra Bhodi Sea" No.338, July 1998]> and/or subsequent issues at similar IP addresses.</ref> However, the family circumstances into which Tao Yuanming was born were only those of moderate poverty and lack of much political influence.<ref name="Chang, 22"/> Family circumstances included the death of his father when he was eight years old.<ref name="Vajra Bhodi Sea No.338, July 1998">[[Yeh Chia-ying]], translation Josey Shun and Bhikshuni Heng Yin, "Lectures on Tao Yuanming's Poems", a series of lectures at Gold Buddha Monastery, Canada (lecture tapes were transcribed by Tu Xiaoli, An Yi, and Yang Aidi) <[http://www.drbachinese.org/vbs/publish/338/vbs338p036.htm "Vajra Bhodi Sea" No.338, July 1998]> and/or subsequent issues at similar IP addresses.</ref>
+
+===Personal background===
+[[File:China 400ad.jpg|thumb|China (Eastern Jin dynasty) 400CE]]
+
+Tao Yuanming is considered to be a person of the [[Jin dynasty (266–420)#Eastern Jin|Eastern Jin dynasty]] (316/317 - 419/420CE), although living beyond the demise of that dynasty. The last stable period in Chinese history had been during the [[Han dynasty]] (206BCE – 220CE), which was followed by the various political permutations known as the [[Three Kingdoms]], one of these successor states being [[Cao Wei]], founded and ruled by the [[Cao (Chinese surname)|Cao clan]], and basically briefly reunifying China. The Jin dynasty was founded and controlled by the [[Sima (Chinese surname)|Sima]] clan, the leading members of which were known for gaining and retaining power through corruption. This began before the birth of Tao Yuanming, when [[Sima Yan]] usurped the throne of the monarchal ruler of [[Cao Wei dynasty]], establishing its headquarters at the western capital of [[Chang'an]], and renaming the kingdom Jin. Subsequently, the history of the dynasty was characterized by nepotism, corrupt politics, civil disorder, and violence. Various other clans also vied for power. The Sima fought against these as well as each other. The weaknesses inherent in the system culminated in the [[War of the Eight Princes]] (291 to 306), all eight princes being Simas. Immediate subsequent events resulted in certain bandits or revolutionaries and various neighboring powers overrunning the country. These neighboring powers to the north and west were not ethnic [[Han Chinese]], and for these reasons were referred to as were referred to as the [[Five Barbarians|Five ''Hu'']], or ''Wu Hu'', one of which was a [[Xiongnu empire]]—this event is thus known as the [[Uprising of the Five Barbarians|Uprising of the Five ''Hu'']]. The Xiongnu overthrew remnants of the Sima princes and the bandit leaders north of the [[Yangzi]] river, eventually capturing, and killing the two last Sima rulers of Western Jin, and in the process capturing the capital Chang'an. Upon the territory north of the Yangzi being captured, a southerner named [[Sima Rui]] set up a new Jin dynasty state with a capital at [[Jiankang]]. This new Jin empire continued the traditions of violence and corruption of their predecessor; and, it was this manifestation of Jin, known as Eastern Jin, was the one in which Tao Yuanming was born and lived most of his life. Control of Eastern Jin was usurped by a series of successors of various clans, and also subject to less-successful rebellions by various warlords, and also facing external threats from other states such as [[Northern Wei]], whose dynastic rulers were of the [[Tuoba]] (Tabgach) clan of the [[Xianbei]]. Eventually the whole Jin state was replaced by [[Liu Song dynasty|Liu Song]], in 419/420. This new dynasty was named Song (like the much later, larger dynasty) and was ruled by the Liu family, and was also corrupt and short-lived. Versions of Tao Yuanming's biography in the Chinese source material vary as to his name and age during the various historical events of Eastern Jin and Liu Song known from other sources.<ref name="Vajra Bhodi Sea No.338, July 1998"/>
+
+===Birth===
+[[File:JJmtains.jpg|thumb|right|The mountain range to the south of modern Jiujiang]]
+Tao Yuanming was born during the Eastern [[Jin dynasty (265–420)|Jin dynasty]] (317-420), in [[Chaisang District|Chaisang]], a place which is now a district of the city of [[Jiujiang]] in [[Jiangxi|Jiangxi Province]], [[China]].
+
+====Year of birth controversy====
+Tao Yuanming is generally believed to have been born in the year 365 CE in Chaisang<ref name="Chang, 22"/> ({{lang|zh|柴桑}}) (modern [[Jiujiang|Jiujiang, Jiangxi]]), an area of great natural beauty. At the time the province was named Jiangzhou, and had an actively Buddhist Governor. This birth date is confirmed in Tao's biography in the ''[[Book of Jin]]'', which state that he was born "in the third year of the Xingning Reign Period of [[Emperor Ai of Jin|Emperor Ai]]", or Common Era year 365.<ref name="Vajra Bhodi Sea No.338, July 1998"/> However, there is some uncertainty regarding this date, and the Chinese scholar [[Yuan Xingpei]] has argued that Tao was actually born in 352.{{sfnp|Yuan|Knechtges|2014|p=1091}}
+
+====Place of birth====
+The name of Tao Yuanming's ancestral village, [[Chaisang District|Chaisang]], literally means "Mulberry-Bramble".<ref>Hinton, 110</ref> Nearby sights have included [[Mount Lu]], [[Poyang Lake]] (then known as P'eng-li), as well as a good selection of nature's features located in the immediate vicinity of Chaisang.<ref name="Chang, 22"/>
+
+===Younger years===
+Detailed information on Tao Yuanming's younger years are not known, although it is safe to say that they were lived in a difficult environment. When he would have been eighteen or nineteen, both the invasion by the state of [[Former Qin]] (ruled by an ethnically ''Hu'' dynasty) and the events culminating in the [[Battle of Fei River]] (383) occurred; after great risk to the existence of Eastern Jin this, against the odds, resulted in gains of territory north of Yangzi river, while also whetting Eastern Jin appetites for reconquering the former northern territories. Many events would occur during Tao Yuanming's lifetime, including two revolts leading to the usurpation of the throne, and eventually, in his old age, the overthrow of Eastern Jin.<ref name="Vajra Bhodi Sea No.338, July 1998"/>
+
+====Incident at Tiger Creek Bridge====
+[[File:Three Laughers of the Tiger Glen.jpg|thumb|"Three Laughers of the Tiger Glen", hanging scroll: ink and colors on silk, 10 1/2 x 26 3/4 inches, 17th century]]
+[[File:Distant View w. Peasants.jpg|thumb|Donglin Temple, Lushan, today, seen from a distance.]]
+
+Tao Yuanming's birth place was very near [[Mount Lu]] (Lushan), which became a center of [[Buddhism]], and eventually a source of origin for [[Pure Land Buddhism]]. According to historical accounts, in the eleventh year of emperor [[Emperor Xiaowu of Jin|Xiaowu]]'s [[Jin dynasty (266–420)#List of emperors and eras|Taiyuan]] reign period (386), when Tao Yuanming would have been 21 years old, Buddhist priest [[Huiyuan (Buddhist)|Huiyuan]] (later considered the First Ancestor of Pure Land Buddhism) came to build the [[Donglin Temple (Jiangxi)|Donglin Monastery]] and organized the [[White Lotus]] Society, or a branch thereof. Many scholars and poets participated in the Huiyuan's social circle, centered at the mountain monastery. According to the book ''Stories of Worthy Personages in the Lotus Society'' ({{lang|zh|蓮社高賢傳}}), Master Huiyuan was supposed to never leave the monastery, except for one time. The official border of the monastery was known as Tiger Creek (also known as Tiger Gorge), named for the tigers then inhabiting the neighboring hills and over which spanned a bridge. However, once, following a visit by Tao Yuanming and another scholar, Master Huiyuan, on accompanying his guests out, became so wrapped up in their conversation, that he did not notice that he was leaving the monastery grounds. Upon crossing the Tiger Creek Bridge, the local tigers were so astonished at this departure from the Master's practice of never leaving the monastery grounds that they began roaring and howling. The story goes on to say that once Huiyuan realized he had breached his practice, the three all burst out laughing. This incident later became the subject of the famous paintings of "Three Laughing Men at Tiger Creek" ([[Chinese language|Chinese]]: 虎溪三笑; [[Pinyin]]: hǔ xī sān xiào).<ref name="Vajra Bhodi Sea No.338, July 1998"/>
+
+===Government service===
+Tao Yuanming ended up serving more than ten years in government service, personally involved with the sordid political scene of the times,<ref name="Davis, vii">Davis, vii</ref> which he did in five stints.<ref>[[Yeh Chia-ying]], translation Josey Shun and Bhikshuni Heng Yin, "Lectures on Tao Yuanming's Poems", a series of lectures at Gold Buddha Monastery, Canada (lecture tapes were transcribed by Tu Xiaoli, An Yi, and Yang Aidi) <[http://www.drbachinese.org/vbs/publish/338/vbs338p036.htm "Vajra Bhodi Sea" No.338, July 1998], ''e.s.''> and/or subsequent issues at similar IP addresses.</ref> Tao served in both civil and military capacities, which included making several trips down the [[Yangtze River|Yangzi]] to the capital [[Jiankang]],<ref name="Chang, 22"/> then a thriving metropolis, and the center of power during the [[Six Dynasties]]. The ruins of the old Jiankang walls can still be found in the modern municipality of [[Nanjing]]. During this period, Tao Yuanming's poems begin to indicate that he was becoming torn between ambition and a desire to retreat into solitude.
+
+====Political background====
+{{more|Jin dynasty (266–420)|Emperor An of Jin|Emperor Wu of Song}}
+
+Through the history of the times, enough is known of the general state of affairs during Tao's governmental career to indicate why such service during that sorry state of political affairs was so miserable for him: Tao Yuanming served under the two usurpers [[Huan Xuan]] and [[Emperor Wu of Song|Liu Yu]],<ref name="Vajra Bhodi Sea No.338, July 1998"/> not to mention the weak and pitiful emperor [[Emperor An of Jin|An]].
+
+The future emperor An of Eastern Jin (born 382 and personally named Sima Dezong) was a scion of the dynastic ruling family of the Jin empire, the Sima. His father was [[Emperor Xiaowu of Jin|emperor Xiaowu]], who named him crown prince in 387, despite his extreme developmental disabilities (being unable to dress himself, speak, or generally communicate). When Xiaowu was murdered in bed by his secondary wife, the [[Honoured Lady Zhang|Lady Zhang]], An was crowned emperor in 397. Acting as regent, actual control of the empire was in the hands of emperor An's father's younger brother [[Sima Daozi]]. The regent, Sima Daozi, could dress himself and communicate verbally, but nevertheless was not that capable of a ruler, with a reputation for feasting and drinking rather than attending to affairs of state, and surrounding himself with flatterers. Various insurrections developed during the span of this corrupt and incompetent government, mostly unsuccessful, a state of affairs which did not change much when Sima Daozi's son [[Sima Yuanxian]] succeeded as regent (an event reported to happening during a bout of drunkenness on the part of Sima Daozi). Eventually, the warlord [[Huan Xuan]] was able to consolidate enough power to seize the regency for himself. Huan Xuan was a kleptocrat, who found some way to seize whatever valuable objects or properties that he envied. Besides that, Huan had a habit of tyrannically punishing any official who made the slightest mistake or whom he was suspicious of. In 403, Huan had emperor An abdicate, so that he himself could be ruler both in fact and in name, and renamed his empire as the Chu dynasty. Shortly thereafter Huan Xuan was killed during the course of an uprising, in 404/405. The rebels then restored emperor An to his nominal position, and the empire's name to Jin. The leader of the rebels was Huan Xuan's general Liu Yu, who proceeded to rule as regent for emperor An. A typical pattern of external warfare and rebellions from within followed. In 418/419 Liu Yu had an assassin kill emperor An. Liu Yu installed An's younger brother (Sima Dewen) as emperor [[Emperor Gong of Jin|Gong]], with Liu Yu retaining the real power. Liu Yu then forced Gong to abdicate, and not long after had him assassinated. Upon Gong's abdication, Liu Yu had himself named as [[Emperor Wu of Song]], thus officially ending the Jin dynasty. This is the government in which Tao Yuanming served, and his poems portray his increasing discontent with doing so, whether or not he was really inclined to do so anyway is less clear (and he seems to have other personal, family reasons for his decision to resign). Nevertheless, after around a decade of service, Tao decided to leave the government and go back to his home region.
+
+====Five stints as a government official====
+[[File:Renouncing the Official Seal from &#039;Scenes from the Life of Tao Yuanming&#039; by Chen Hongshou.jpg|thumb|"Renouncing the Official Seal" from the hand scroll Scenes from the Life of Tao Yuanming by [[Chen Hongshou]] (1598–1652), Qing dynasty, dated 1650, ink and color on silk, Honolulu Museum of Art ]]
+
+Tao Yuanming's first stint in government was as State Officer of Rites, when he was about twenty-nine. He did this in part due to family poverty, and to support his aged parents. However, he had a difficult time of it and returned home.<ref name="Vajra Bhodi Sea No.338, July 1998"/> Accounts of Tao's second and third government service stints vary somewhat. One source of information is ''A Year-by-Year Biography of Tao Yuanming'' by Lu Qingli. Tao's second stint in government seems to have been working for Huan Xuan. According to Lu, Tao served in the government during the Long'an years of emperor An, during the time of the [[Sun En]] revolt. (Sun En seems to have been a populist magician associated with the [[Way of the Five Pecks of Rice]] movement.) Tao would have been about thirty-five years old, and the warlord Huan Xuan had become Governor of Tao's home province, Jiangzhou. Huan had a plan to coordinate with other warlords (including Liu Yu) to eradicate Sun En. Again according to Lu, Tao Yuanming was the official to go to the imperial capital, Jiankang, and officially submit this proposal to the imperial government. After receiving approval, Huan and associates successfully subdued the rebellion. Then, about three tears later, Huan Xuan and other warlords rebelled, and captured both the capital city and the emperor, An, and thus the imperial power. But by this time Tao Yuanming was working not for Huan but as Defense Strategist (apparently his third stint as a government official), handling paperwork for Liu Yu, the general in charge of defending the Sima-lead imperial government. There was also a fourth stint. When he was about forty, Tao worked for general Liu Jingxuan, who resigned about a year later, and Tao along with him. Tao Yuanming's fifth and final stint, as Penze county magistrate (beginning March of the first year of the Yixing regnal year), only lasted about eighty days, as he resigned in August the same year. This was the time period when he wrote his essay "To Return", in his preface to which he mentions taking the job because having "a house full of little kids", and goes on to explain why he wants to give up government work and return home. Each stint seems to have lasted no more than a few years, and each time Tao Yuanming seems to have resigned and returned home. Officially, his retirement was due to the sudden death of his younger sister and his need to attend to the funeral rites. Another reason, given by his biographer Xiao Tong, was that Tao was faced with the imminent imposition of an onerous supervisor, whom he was told he "had to treat right", and which was the occasion of him saying,  "I won't bow to a bucolic boy for the sake of five pecks of rice." Subsequently, despite various offers by Liu Yu, after he became emperor, Tao Yuanming refused to return to government service. Of Tao Yuanming's career [[Su Shi]] describe him as "working for the government when he desired to, without feeling shame in his requests; retiring when he desired to, without thinking himself lofty."<ref name="Vajra Bhodi Sea No.338, July 1998"/>
+
+===Return to the fields===
+[[File:Returning Home from &#039;Scenes from the Life of Tao Yuanming&#039; by Chen Hongshou.JPG|thumb|"Returning Home" from the hand scroll Scenes from the Life of Tao Yuanming by Chen Hongshou, Qing dynasty, dated 1650, ink and color on silk, Honolulu Museum of Art]]
+
+In the Spring of 405, Tao Yuanming was serving in the army, as aide-de-camp to the local commanding officer.<ref name="Chang, 22"/> The death of his sister together with his disgust at the corruption and infighting of the [[Jin Dynasty (265-420)|Jin]] Court prompted him to resign. As Tao himself put it, he would not "bow like a servant in return for five pecks of grain" (為五斗米折腰 wèi wǔ dǒu mǐ zhé yāo), a saying which has entered common usage meaning ''"swallowing one's pride in exchange for a meager existence"''. "Five pecks of grain" was among other things the specified salary of certain low-rank officials. Certainly Tao Yuanming's salary as Penze County Magistrate was far higher than five pecks, so this was a symbolic expression.<ref name="drbachinese.org"><[http://www.drbachinese.org/vbs/publish/338/vbs338p036.htm "Vajra Bhodi Sea" No.338, July 1998]> and/or subsequent issues at similar IP addresses.</ref> For the last 22 years of his life, he lived in retirement on his small farmstead.
+
+===Children and family===
+[[File:HK Museum of Art TST Figure 陶淵明 Tao Qian and son.JPG|thumb|Statue of Tao Yuanming holding son, Hong Kong Museum of Art]]
+
+Tao Yuanming married two times. His first wife died when he was in his thirties.
+
+Tao Yuanming had five sons.<ref>Chang, 25</ref><ref>"Blessed I am with five sons" — Tao Yuanming, as quoted in 陶潛, 譚時霖 ''The complete works of Tao Yuanming'' (1992), p. 34</ref> The oldest son was Tao Yan, as mentioned in his letter "A Letter to My Sons Yan, Etc.", a sort of apology for any hunger or cold which they suffered as a result of following his ideal and conscience and not working for the government any more. The daughters, if any, were unrecorded (as customary).<ref name="drbachinese.org"/> However, just how this occurred within the chronology of his life is unknown.
+
+===Religious and philosophical influences===
+Tao Yuanming's works show a certain spiritual side to them. The three main sources of religious/philosophical influence on Tao Yuanming were [[Confucian]], [[Buddhist]], and [[Taoist]].
+
+In his youth, Tao says, "I enjoyed studying the Six Classics." He mentions this in Title 16 of his ''Drinking Poems'' series. The Six Classics refers to the Six Confucian Classics (now the [[Five Classics]], due to the loss of the ''Book of Music''), fundamental Confucian texts. Tao shows his Taoist influence in various works, for example, through such lines as "I long to return to Nature" from his poem "Returning to Country and Farming", or his sentiments in his essay "Return". In these texts, Tao deprecates artificial limits or restrictions in interpersonal relationships, instead expressing the desire for a simple life, with nature taking its course. Also in "Returning to Country and Farming", Tao Yuanming shows a Buddhist side (although he never formally became a Buddhist): "Life is like an illusion; everything returns to emptiness," he says, echoing the Buddhist sutras. His ability to absorb and creatively employ the three diverse religions/philosophies leads [[Florence Chia-ying Yeh]] to say: "Among the Chinese poets, Tao Yuanming had the greatest perseverance and integrity. His power to persevere was based upon his acceptance and absorption of the essentials of various philosophies, such as Confucianism, Taoism, and Buddhism. He mastered not only the external words, doctrines, and rituals, but also had a thorough internal understanding and acceptance of the best and most valuable parts of those schools of thought."<ref name="Vajra Bhodi Sea No.338, July 1998"/>
+
+===Death===
+His main biographies give Tao Yuanming's death as "in the fourth year of the Yuanjia reign period of [[Emperor Wen of Song|Emperor Wen]]".<ref name="Vajra Bhodi Sea No.338, July 1998"/> Thus, Tao Qian is generally but not universally held to have died in 427, which mathematically works out to the age of 63.<ref>''T'ao Ch'ien on life and death: the concept of tzu-jan in his poetry'' by Wing-ming Chan (1981), p. 193</ref>  If, however, he was in fact born in 352, he would instead have been 76 years old when he died.{{sfnp|Yuan|Knechtges|2014|p=1091}}
+
+==Sources==
+There are various sources with information about Tao Yuanming. As he lived in the Jin dynasty, he is chronicled in the ''[[Book of Jin]]''. Since he lived into Liu Song times, he is also chronicled in the ''[[Book of Song]]''. Tao Yuanming has another biography in the ''[[History of the Southern Dynasties|History of the South]]''. There is also some information to be found in his preserved works, which were first systematically collected by [[Xiao Tong]], a [[Liang dynasty]] prince (princely title Zhaoming), who also included a biography in his book ''[[Wen Xuan]]''.<ref name="Vajra Bhodi Sea No.338, July 1998"/>
+
+==Works and legacy==
+Approximately 130 of his works survive, consisting mostly of poems or essays which depict an idyllic [[pastoral]] life of farming and drinking.
+
+===Poetry===
+[[File:Tao Yuanming Seated Under a Willow.jpg|thumb|Tao Yuanming Seated Under a Willow. Tani Bunchō, Japan, 1812]]
+Because his poems depict a life of farming and of drinking his home made wine, he would later be termed "Poet of the Fields". In Tao Yuanming's poems can be found superlative examples of the theme which urges its audience to drop out of official life, move to the country, and take up a cultivated life of wine, poetry, and avoiding people with whom friendship would be unsuitable, but in Tao's case this went along with actually engaging in farming. Tao's poetry also shows an inclination to fulfillment of duty, such as feeding his family. Tao's simple and plain style of expression, reflecting his back-to-basics lifestyle, first became better known as he achieved local fame as a hermit.<ref>Cai 2008, 122</ref> This was followed gradually by recognition in major anthologies. By the [[Tang dynasty]], Tao was elevated to greatness as a poet's poet, revered by [[Li Bai]] and [[Du Fu]].
+
+[[Han poetry]], [[Jian'an poetry]], the [[Seven Sages of the Bamboo Grove]], and the other earlier [[Six dynasties poetry]] foreshadowed some of Tao's particular symbolism and the general "returning home to the country" theme, and also somewhat separately show precursory in evolving of poetic form, based on the ''[[yuefu]]'' style which traces its origin to the Han dynasty [[Music Bureau]]. An example given of the thematic evolution of one of Tao's poetic themes is [[Zhang Heng]]'s ''Return to the Field'', written in the [[Classical Chinese poetry form]] known as the [[Fu (poetry)|''fu'', or "rhapsody" style]], but Tao's own poetry (including his own "Return to the Field" poem) tends to be known for its use of the more purely poetic ''[[Shi (poetry)|shi]]'' which developed as a regular line length form from the literary ''yuefu'' of the Jian'an and foreshadows the verse forms favored in [[Tang poetry]], such as [[Gushi (poetry)|''gushi'', or "old-style verse"]]. Tao's poems, prose and their combination of form and theme into his own style broke new ground and became a fondly relied upon historical landmark. Much subsequent [[Chinese painting]] and literature would require no more than the mention or image of chrysanthemums by the eastern fence to call to mind Tao Yuanming's life and poetry. Later, his poetry and the particular motifs which Tao Yuanming exemplified would prove to importantly influence the innovations of [[Beat poetry]] and the 1960s poetry of the United States and Europe. Both in the 20th century and subsequently, Tao Yuanming has come to occupy a position as one of the select group of great world poets.
+
+====Poems====
+The following is an extract from a poem Tao wrote, in the year 409, in regard to a [[traditional Chinese holiday]]:
+
+<poem>
+:'''Written on the [[Double Ninth Festival|Ninth Day of the Ninth Month]] of the Year ''yi-yu'''''
+
+:''The myriad transformations''
+:'' unravel one another''
+:''And human life''
+:'' how should it not be hard?''
+:''From ancient times''
+:'' there was none but had to die,''
+:'' Remembering this''
+:''scorches my very heart.''
+:'' What is there I can do''
+:'' to assuage this mood?''
+:'' Only enjoy myself''
+:'' drinking my unstrained wine.''
+:'' I do not know''
+:'' about a thousand years,''
+:'' Rather let me make''
+:'' this morning last forever.''<ref>Translated by William Acker. ''Anthology of Chinese Literature'', Vol. I (1965), p. 188-9</ref>
+</poem>
+
+Poem number five of Tao's "[https://zh.wikisource.org/wiki/%E9%A3%B2%E9%85%92%E4%BA%8C%E5%8D%81%E9%A6%96 Drinking Wine]" series is translated by [[Arthur Waley]]:
+
+<poem>
+'''I built my hut in a zone of human habitation'''
+
+{{sc|I built}} my hut in a zone of human habitation,
+Yet near me there sounds no noise of horse or coach.
+Would you know how that is possible?
+A heart that is distant creates a wilderness round it.
+I pluck chrysanthemums under the eastern hedge,
+Then gaze long at the distant summer hills.
+The mountain air is fresh at the dusk of day:
+The flying birds two by two return.
+In these things there lies a deep meaning;
+Yet when we would express it, words suddenly fail us.<ref>''A Hundred and Seventy Chinese Poems'' (Alfred A. Knopf, 1919)</ref>
+</poem>
+
+Another, from the same source is "Returning to the Fields" (alternatively translated by others as "Return to the Field"):
+
+<poem>
+{{sc|When}} I was young, I was out of tune with the herd:
+My only love was for the hills and mountains.
+Unwitting I fell into the Web of the World's dust
+And was not free until my thirtieth year.
+The migrant bird longs for the old wood:
+The fish in the tank thinks of its native pool.
+I had rescued from wildness a patch of the Southern Moor
+And, still rustic, I returned to field and garden.
+My ground covers no more than ten acres:
+My thatched cottage has eight or nine rooms.
+Elms and willows cluster by the eaves:
+Peach trees and plum trees grow before the hall.
+Hazy, hazy the distant hamlets of men.
+Steady the smoke of the half-deserted village,
+A dog barks somewhere in the deep lanes,
+A cock crows at the top of the mulberry tree.
+At gate and courtyard—no murmur of the World's dust:
+In the empty rooms—leisure and deep stillness.
+Long I lived checked by the bars of a cage:
+Now I have turned again to Nature and Freedom.
+</poem>
+
+Tao's poems greatly influenced the ensuing poetry of the [[Tang Dynasty|Tang]] and [[Song Dynasty|Song]] Dynasties. A great admirer of Tao, [[Du Fu]] wrote a poem ''Oh, Such a Shame'' of life in the countryside:
+
+:''Only by wine one's heart is lit,''
+:''only a poem calms a soul that's torn.''
+:''You'd understand me, Tao Qian.''
+:''I wish a little sooner I was born!''
+
+===''Peach Blossom Spring''===
+{{Main|Peach Blossom Spring}}
+
+Aside from his poems, Tao is also known for his short, influential, and intriguing [[prose]] depiction of a land hidden from the outside world called ''"[[Peach Blossom Spring]]"'' ({{lang|zh-Hant|桃花源記}}). The name ''Peach Blossom Spring'' (桃花源 ''Tao Hua Yuan'') is now a well known, standard [[Chinese language|Chinese]] term for a [[utopia]]. This fable recounted by Tao Yuanming begins with a claim that it occurred in the [[Jin dynasty (266–420)#List of emperors and eras|Taiyuan]] era of the [[Jin dynasty (266–420)|Jin dynasty]] (376-396). According to the story, a fisher gets lost and discovers a place out of time, but cannot find it again after he leaves and tells of its existence. It is a very influential story.
+
+===Legacy===
+Tao Yuanming's literary legacy also includes his influence on later poets and authors. One example is [[Song dynasty]] poet [[Xin Qiji]]. Another example is [[Su Shi]]'s composition "Matching Tao's Poems", in which the [[Song poetry|Song dynasty poet]] wrote a new poem in response to Tao's poems, but used  the same rhymes for his lines.<ref name="Vajra Bhodi Sea No.338, July 1998"/> Another poet inspired in part by Tao Yuanming was the 16th century Korean poet [[Yi Hwang]].
+
+==Critical appraisal==
+[[Zhong Rong]] (468-518) described Yuanming's literary style as "spare and limpid, with scarcely a surplus word."<ref name="Classical">Zhong Rong, ''The Poets Graded'', translated by J. Timothy Wixted, as quoted in John Minford, Joseph S. M. Lau ''Classical Chinese Literature: An Anthology of Translations'' (2000)</ref> In 詩品 (''Poetry Gradings''), Zhong Rong wrote:
+<blockquote><div>
+[Yuanming's] sincerity is true and traditional, his verbalized inspirations supple and relaxed. When one reads his works, the fine character of the poet himself comes to mind. Ordinary men admire his unadorned directness. But such lines of his as "With happy face I pour the spring-brewed wine," and "The sun sets, no clouds are in the sky," are pure and refined in the beauty of their air. These are far from being merely the words of a farmer. He is the father of recluse poetry past and present.<ref name="Classical" />
+</div></blockquote>
+
+Su Shi (1037–1101), one of the major poets of the Song era, said that the only poet he was particularly fond of was Yuanming, who "deeply impressed [him] by what he was as a man." Su Shi exalted Yuanming's "unadorned and yet beautiful, spare and yet ample" poems, and even asserted that "neither [[Cao Zhi]], Liu Zhen, Bao Zhao, [[Xie Lingyun]], [[w:Li Bai|Li Bai]], nor [[Du Fu]] achieves his stature".<ref>Su Shi, quoted by his brother Su Ziyou (1039-1112), as translated by J. Timothy Wixted; ''Classical Chinese Literature: An Anthology of Translations'' (2000), p. 491</ref>
+
+[[Huang Tingjian]] (1045–1105), one of the Four Masters of the Song Dynasty and a younger friend of Su Shi, said, "“When you’ve just come of age, reading these poems seems like gnawing on withered wood. But reading them after long experience in the world, it seems the decisions of your life were all made in ignorance.”<ref>Tao, Qian, and David Hinton. ''The Selected Poems of T'ao Ch'ien.'' Port Townsend, WA: Copper Canyon (1993), p. 6</ref>
+
+[[Lin Yutang]] (1895–1976) considered Yuanming the perfect example of "the true lover of life". He praised the harmony and simplicity in Yuanming's life as well as in his style, and claimed that he "represents the most perfectly harmonious and well-rounded character in the entire Chinese literary tradition."<ref>Lin Yutang, in ''The Importance Of Living'' (1937), p. 116</ref>
+
+In ''Great lives from history'' (1988), Frank Northen Magill highlights the "candid beauty" of Yuanming's poetry, stating that the "freshness of his images, his homespun but Heaven-aspiring morality, and his steadfast love of rural life shine through the deceptively humble words in which they are expressed, and as a consequence he has long been regarded one of China's most accomplished and accessible poets."<ref>Frank Northen Magill, in ''Great lives from history: Ancient and medieval series'', Vol. 5 (1988), p. 2073</ref> He also discusses what makes Yuanming unique as a poet, and why his works were perhaps overlooked by his contemporaries:
+<blockquote><div>
+It is this fundamental love of simplicity that distinguishes T'ao Ch'ien's verses from the works of court poets of his time, who utilized obscure allusions and complicated stylistic devices to fashion verses that appealed only to the highly educated. T'ao Ch'ien, by way of contrast, seldom made any literary allusions whatsoever, and he wrote for the widest possible audience. As a consequence, he was slighted by his era's critics and only fully appreciated by later generations of readers.<ref>''Ibid.'', p. 2071</ref>
+</div></blockquote>
+
+==Gallery==
+Tao Yuanming has inspired not only generations of poets, but also painters and other artists.
+<gallery widths="333px" heights="366px" perrow="4">
+File:九江市陶渊明石像.JPG|Tao Yuanming statue in his hometown ({{lang|zh|柴桑}}) (modern [[Jiujiang|Jiujiang, Jiangxi]])
+File:'Tao Yuanming', ink on paper scroll by Min Zhen, 18th century china.jpg|''Tao Yuanming'' by Min Zhen, 18th century.
+File:Tao Qian.jpg|From the book ''Wan hsiao tang-Chu chuang -Hua chuan'' ({{lang|zh|晩笑堂竹荘畫傳}}), published in 1921 ({{lang|zh|民国十年}}).
+File:Wang Zhongyu-Master Jingjie.jpg|''Master Jingjie'', hanging scroll, ink on paper, 106.8 x 32.5&nbsp;cm. Located at the Palace Museum, Beijing. ''Jing Jie'' is the posthumous name for Tao Qian, the poet from the Jin Dynasty. The text at the top is from the [[Ci (poetry)|Ci]] style poem [[s:zh:歸去來辭並序|歸去來兮]].
+File:Taoqian1.jpg|''Portrait of Tao Qian'' by [[Chen Hongshou]] (1599-1652)
+File:Tao Yuanming Returning to Seclusion, Freer Gallery of Art.jpg|A [[Song Dynasty]] painting on silk portraying Tao's return to seclusion in the mountains, early 12th century. Li Peng (c. 1060-1110) inscribed a poem on this handscroll entitled Returning Home in honor of Tao Qian, otherwise known as Tao Yuanming.
+File:Freer 022.jpg|A [[bamboo]] brush holder or holder of poems on scrolls, created by Zhang Xihuang in the 17th century, late Ming or early Qing Dynasty. In fanciful Chinese calligraphy in Zhang's style, the poem Returning to My Farm in the Field by the 4th century poet Tao Yuanming is incised on this cylindrical bamboo holder.
+File:Huxisanxiaotu.jpg|Song Dynasty painting in the Litang style illustrating the theme "Confucianism, Taoism and Buddhism are one". Depicts Taoist Lu Xiujing (left), official Tao Yuanming (right) and Buddhist monk Huiyuan (center, founder of Pure Land) by the Tiger stream. The stream borders a zone infested by tigers that they just crossed without fear, engrossed as they were in their discussion. Realising what they just did, they laugh together, hence the name of the picture, Three laughing men by the Tiger stream.
+File:Taleoftaohuayuan.jpg|''The Tale of the Peach-Blossom Land'' inside of the [[Long Corridor]].
+File:Filling Wine from 'Scenes from the Life of Tao Yuanming' by Chen Hongshou.JPG|Filling Wine from 'Scenes from the Life of Tao Yuanming' by [[Chen Hongshou]]
+File:The Three Laughers of Tiger Ravine, Soga Shohaku - Indianapolis Museum of Art - DSC00768.JPG|The "Three Laughers of Tiger Ravine", by [[Soga Shohaku]] (1730-1781). Depicts Huiyuan (Chinese 慧遠; Hui-Yuan, Hui-Yüan in Mandarin or Fi-Yon in Gan) (334–416 AD); Tao Qian (simplified Chinese: 陶潜; traditional Chinese: 陶潛; pinyin: Táo Qián; Wade–Giles: T'ao Ch'ien) (365–427); and Lu Xiujing (chin. 陸修靜, W.-G. Liu Hsiu-ching; born 406; died 477).
+File:Three laughs at Tiger Brook Kutani ware plate.jpg|Three laughs at Tiger Brook (ceramic)
+File:Illustrations in the Spirit of Tao Yuanming's Poems 02.jpg|Illustrations in the Spirit of Tao Yuanming's Poems 02, [[Shitao]] (Zhu Ruoli, Buddhist name Yuanji, 1642-ca. 1707), Qing dynasty (1644-1911). Undated, album, ink and color on paper, 27 × 21.3&nbsp;cm
+File:Illustrations in the Spirit of Tao Yuanming's Poems 06.jpg|"Distant, distant I gaze at the white clouds:<br />With a deep yearning I think of the Sages of Antiquity."
+File:Peach blossom shangri la Tao ps.ogg|A public domain audiobook version of Peach blossom Shangri La by Tao Yuanming (in English) - 00:05:02 - 2.3MB
+</gallery>
+
+==Translation==
+
+===Editions===
+* Meng Erdong ed. ''Tao Yuanming Ji Yi Zhu'' {{ISBN|7-80626-064-1}}.
+* Wu Zheshun ed. ''Tao Yuanming Ji''   {{ISBN|7-80520-683-X}}
+* [[David Hinton]] (translator).  ''The Selected Poems of T'ao Ch'ien'' ([[Copper Canyon Press]], 1993)  {{ISBN|1-55659-056-3}}.
+* Karl-Heinz Pohl (translator). ''Der Pfirsichbluetenquell'' (Bochum University Press, 2002)
+* Davis, A.R. ''T'ao Yuan-ming'' (Hong Kong, 1983) 2 vols.
+* William Acker (translator). ''T'ao the Hermit: Sixty Poems by T'ao Ch'ien, 365-427'' (London & New York: Thames and Hudson, 1952)
+
+===Commentary===
+* Ashmore, Robert. ''The Transport of Reading: Text and Understanding in the World of Tao Qian (365–427)'' (Cambridge: Harvard University Asia Center, 2010) {{ISBN|9780674053212}}
+* Hightower, James R. ''Poetry of T'ao Ch'ien'' {{ISBN|0-19-815440-2}}.
+* Xiaofei Tian. ''Tao Yuanming and Manuscript Culture: The Record of a Dusty Table'' {{ISBN|978-0-295-98553-4}}.
+
+==See also==
+{{portal|China|Biography|Poetry}}
+*[[Boyi and Shuqi]]
+*[[Chinese garden]]
+*[[Classical Chinese poetry]]
+*[[Fields and Gardens poetry]]
+*[[History of Jiangxi]]
+*[[Humble Administrator's Garden]]
+*[[I. M. Pei]]
+*[[Six Dynasties poetry]]
+*[[Three laughs at Tiger Brook]]
+*[[Utopia]]
+*[[Xin Qiji]]
+*[[Zhang Heng]]
+
+==Notes==
+{{Reflist}}
+
+== References ==
+*Cai, Zong-qi, ed. (2008). ''How to Read Chinese Poetry: A Guided Anthology''. New York: Columbia University Press. {{ISBN|0-231-13941-1}}
+*Chang, H. C. (1977). ''Chinese Literature 2: Nature Poetry''. (New York: Columbia University Press). {{ISBN|0-231-04288-4}}
+*Cui, Jie and Zong-qi Cai (2012). ''How to Read Chinese Poetry Workbook''. New York: Columbia University Press. {{ISBN|0-231-15658-8}}
+*Davis, A. R. (Albert Richard), Editor and Introduction,(1970), ''The Penguin Book of Chinese Verse''. (Baltimore: Penguin Books).
+*[[David Hinton|Hinton, David]] (2008). ''Classical Chinese Poetry: An Anthology''. New York: Farrar, Straus, and Giroux. {{ISBN|0-374-10536-7}} / {{ISBN|978-0-374-10536-5}}.
+* Holzman, Donald. "A Dialogue with the Ancients: Tao Qian's Interrogation of Confucius" in Scott Pearce, Audrey Spiro, Patricia Ebrey (eds.), ''Culture and Power in the Reconstitution of the Chinese Realm, 200-600''. Harward, 2001:75-98.
+* Liao, Zhongan, [https://web.archive.org/web/20070929104708/http://203.72.198.245/web/Content.asp?ID=64838&Query=1 "Tao Yuanming"]. ''[[Encyclopedia of China]]'' (Chinese Literature Edition), 1st ed.
+* {{cite book | first=Xiaofei | last=Tian | chapter=From the Eastern Jin through the early Tang (317–649) | pages=199–285 | editor-first=Stephen | editor-last=Owen | title=The Cambridge History of Chinese Literature, Volume 1: To 1375 | year=2010 | location=Cambridge | publisher=Cambridge University Press | isbn=978-0-521-11677-0 }}
+*[[Burton Watson|Watson, Burton]] (1971). ''CHINESE LYRICISM: Shih Poetry from the Second to the Twelfth Century''. (New York: Columbia University Press). {{ISBN|0-231-03464-4}}
+*[[Wai-lim Yip|Yip, Wai-lim]] (1997). ''Chinese Poetry: An Anthology of Major Modes and Genres''. (Durham and London: Duke University Press). {{ISBN|0-8223-1946-2}}
+*[[Yeh Chia-ying]], translation Josey Shun and Bhikshuni Heng Yin, [http://www.drbachinese.org/vbs/publish/343/vbs343p033.htm "Vajra Bhodi Sea" No.343], December, 1998, and subsequent similar IP addresses. "陶淵明詩講錄" ("Lectures on Tao Yuan-ming's Poems"), a series of lectures on the poetry of Tao Yuanming at Gold Buddha Monastery, Canada (lecture tapes were transcribed by Tu Xiaoli, An Yi, and Yang Aidi)
+*{{cite book | first1 = Xingpei | last1=Yuan | author-link1=Yuan Xingpei | first2=David R. | last2 = Knechtges | author-link2=David R. Knechtges | chapter=Tao Yuanming 陶淵明 | editor-first1=David R. | editor-last1 = Knechtges | editor-first2 = Taiping | editor-last2 = Chang | title = Ancient and Early Medieval Chinese Literature: A Reference Guide, Part Two | location = Leiden | publisher = Brill | year=2014 | pages = 1090–1124 | isbn=978-90-04-19240-9 }}
+
+== External links ==
+{{Wikiquote|T'ao Ch'ien|Tao Yuanming}}
+{{commons category|Tao Yuanming|Tao Qian}}
+{{Wikisource|Author:Tao Yuanming}}
+* {{Gutenberg author |id=Tao,+Qian | name=Qian Tao}}
+* {{Internet Archive author |search=("Tao Yuanming" OR "Tao Qian" OR "Qian Tao" OR "T’ao Ch’ien" OR "T'ao Ch'ien")}}
+* {{Librivox author |id=441}}
+*[https://www.wdl.org/en/item/17849/ Collected Works of Tao Yuanming] at [[World Digital Library]]
+* The Columbia University Press [https://web.archive.org/web/20120917080044/http://www.cup.columbia.edu/static/cai-sound-files web page accompanying Cai 2008] has PDF and MP3 files for four of Tao's poems (6.1-4) and CUP's [https://web.archive.org/web/20121221123008/http://www.cup.columbia.edu/static/cai-sound-files-wkbk web page accompanying Cui 2012] includes MP3 files of modern Chinese translations for two of these (P10-11)
+* [https://web.archive.org/web/20120323101130/http://www.baby-growths.com/tan-yuanming-poetry-idyllic-pastoral-life-farming-drinking/ Tao Yuanming Poems] in English
+* A translation of the poem ‘Going Back Home’ (歸去來兮辭) by Táo Yuānmíng from 'The Land of Pure Bliss" by Peter Lunde Johnson [https://anlacpublications.files.wordpress.com/2020/11/nm-lpb-tao.pdf]
+
+{{Chinese poetry}}
+{{Authority control}}
+
+{{DEFAULTSORT:Tao, Qian}}
+[[Category:365 births]]
+[[Category:427 deaths]]
+[[Category:4th-century Chinese poets]]
+[[Category:5th-century Chinese poets]]
+[[Category:Jin dynasty (266–420) politicians]]
+[[Category:Jin dynasty (266–420) poets]]
+[[Category:Liu Song poets]]
+[[Category:Poets from Jiangxi]]
+[[Category:Politicians from Jiujiang]]
+[[Category:Legendary Chinese people]]

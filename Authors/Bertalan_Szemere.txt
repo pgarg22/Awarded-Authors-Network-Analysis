@@ -1,0 +1,130 @@
+{{No footnotes|date=December 2009}}
+{{Hungarian name|Szemere Bertalan}}
+{{Infobox officeholder
+| name            = Bertalan Szemere
+| image           = SzemereBertalan.jpg
+| nationality     = [[Hungary|Hungarian]]
+| order           = 3rd [[List of Prime Ministers of Hungary|Prime Minister of the Kingdom of Hungary]]
+| term_start      = 2 May 1849
+| term_end        = 11 August 1849
+| predecessor     = [[Lajos Batthyány]]
+| successor       = ''Austrian occupation''{{-}}[[Gyula Andrássy]] (1867) 
+| birth_date      = {{Birth date|1812|08|27|df=y}}
+| birth_place     = [[Vatta]], [[Kingdom of Hungary]]
+| death_date      = {{Death date and age|1869|01|18|1812|08|27|df=y}}
+| death_place     = [[Pest, Hungary|Pest]], Kingdom of Hungary
+| restingplace    = [[Miskolc]] (since 1871)
+| spouse          = Leopoldina Jurkovich
+| children        = Mária<br>Gizella<br>Attila
+| party           = [[Opposition Party (Hungary)|Opposition Party]]
+| profession      = [[politician]], [[jurist]]
+}}
+'''Bertalan Szemere''' (27 August 1812 – 18 January 1869) was a [[Hungary|Hungarian]] poet and nationalist who became the third [[List of Prime Ministers of Hungary|Prime Minister of Hungary]] during the short period of the [[Hungarian Revolution of 1848]] when Hungary was independent of rule by the [[Austrian Empire]].
+
+==Early years==
+
+Szemere was born in [[Vatta]] into a poor noble family. His father was Major László Szemere, his mother was Erzsébet Karove. Szemere studied in [[Miskolc]], [[Késmárk]] and [[Sárospatak]]. He was interested in writing poems and his works were published in the periodical {{lang|hu|Felső-Magyarországi Minerva}} ("Upper-Hungarian Minerva"). He was influenced by [[Ferenc Kölcsey]] and [[Mihály Vörösmarty]].
+
+==In the reform era==
+
+In 1832 Szemere graduated as a jurist and started to work as an apprentice in Pressburg (now [[Bratislava]], Slovakia) and became a member of the Parliamentary Young Members' Group and advocated liberal principles. After he finished his [[pupillage]], Szemere went back to [[Borsod]] where he was elected as an honorary [[notary public]].
+
+In 1835 Szemere travelled around the  world and visited amongst other places Berlin, [[Amsterdam]], [[Dublin]], [[Lausanne]], Paris and London. During his visit Szemere realised that Hungary was less developed than he thought. Szemere also saw other countries' [[Anti-Hungarian sentiment|prejudice about Hungary]]. Szemere wrote down his experience, and how foreign institutions developed and worked. He published his diary, {{lang|hu|Utazás külföldön}} ("Travelling abroad") in 1840. Even though Szemere finished it in 1839, he couldn't publish it then because of censorship. Szemere's diary made him famous and he became a member of the [[Hungarian Academy of Sciences]]. His work was republished.
+
+Between 1841{{spaced ndash}}1847 Szemere was a judge in [[Borsod County|Borsod county]]. Szemere became a congressman with [[László Palóczy]] in Pressburg. Szemere was one of the most important leaders of the Opposition 1843{{spaced ndash}}1866 and 1847{{spaced ndash}}1848 [[Diet (assembly)|Diet]]. In the 1847{{spaced ndash}}1848 Diet Szemere also became the [[recorder (legal office)|recorder]].
+[[File:Szemere Bertalan Dombóvár.JPG|thumb|200px|Monument of Bertalan Szemere in [[Dombóvár]]]]
+[[File:Szemere Bertalan Eybl.jpg|thumb|200px|Bertalan Szemere]]
+
+==Minister and Prime Minister==
+
+In 1848 Szemere was the Home Secretary of the [[Batthyány Government]]. Szemere's task was to set up the new parliament. He started the government's official newspaper, the {{lang|hu|Közlöny}} ("Bulletin"). In the Hungarian Military Association he was responsible for justice. From 1848 Szemere was responsible for Upper-Hungary as a politician, therefore he was at [[Miskolc]] to reorganize the [[Tisza|Upper-Tisza]] Legion, which had retreated after [[Franz Schlik]]'s attack. From 2 May 1849 Szemere was Home Secretary and [[Prime Minister of Hungary|Prime Minister]] alongside [[Regent]] [[Lajos Kossuth]], until his resignation.
+
+The Government ended [[martial law]] and worked on the emancipation from [[serfdom]]. On 29 July 1849 they accepted the national act which provided free language use for ethnic groups in local administration and education. The government's aim was to win the support of the ethnic groups for the [[Hungarian Revolution of 1848]].
+
+==Emigration==
+
+After the Hungarian [[surrender at Világos]] Szemere buried the [[Holy Crown of Hungary]], the [[Sceptre]], the [[Globus cruciger|orb]] and other [[regalia]] on 23 August 1849 at [[Orsova]]. He escaped to [[Turkey]], and later emigrated to Paris. In 1851 the [[Austrian Empire]] sentenced him to death [[trial in absentia|''in absentia'']].
+
+Szemere supported the [[Austro-Hungarian Compromise of 1867]] and because of this his relationship with Kossuth became worse. Szemere attacked the Hungarian Revolution's leaders in his pamphlet ({{lang|hu|Magyar Emigráció}} ("Hungarian Emigration" )) and in another work ({{lang|hu|Politikai jellemrajzok}} ("Political Word-picture")). Szemere attacked Kossuth too. During his emigration Szemere wrote a travelogue {{lang|hu|Utazás keleten}} ("Journeys in the East").
+
+In 1865 Szemere successfully requested a [[pardon]], but he was mentally ill by that time. In 1869 Szemere died and his ashes were interred in [[Buda]], but on 1 May 1871 they were disinterred and moved to [[Gothic Protestant Church of Avas|a church]] in the [[Miskolc#City parts of Miskolc|Avas]] district of [[Miskolc]].
+
+==Sources==
+
+*{{citation
+|title=Múltunk nagyjai |trans-title=Great historical figures
+|first=Mihály
+|last=Pálinkás
+|language=hu
+}}
+*{{citation
+|title=Magyarország kormányai 1848–1975 |trans-title=Hungarian Governments between 1848 – 1975
+|first=József
+|last=Bölöny
+|language=hu
+}}
+
+==External links==
+* {{cite web
+|url=http://www.kortarsonline.hu/0411/albert.htm
+|title=Szemere Bertalan hazatérései
+|trans-title=Bertalan Szemere's Homecoming
+|access-date=20 December 2009
+|publisher=Kortársonline.hu
+|language=hu
+|url-status=dead
+|archive-url=https://web.archive.org/web/20091202110642/http://www.kortarsonline.hu/0411/albert.htm
+|archive-date=2 December 2009
+}}
+* {{cite web
+|url= http://mek.oszk.hu/04900/04992/
+|title=Civilization in Hungary
+|access-date=20 December 2009
+|publisher=mek.oszk.hu
+}}
+* {{cite web
+|url= http://mek.oszk.hu/01000/01077/
+|title=Utazás Keleten|trans-title=Journeys in the East
+|access-date=20 December 2009
+|publisher=mek.oszk.hu
+|language=hu
+}}
+* {{cite web
+|url=http://mek.oszk.hu/02900/02933/index.phtml 
+|title=Utazás külföldön|trans-title=Travels abroad
+|access-date=20 December 2009
+|publisher=mek.oszk.hu
+|language=hu
+}}
+* {{cite web
+|url= http://www.vatta.hu/szemere.php 
+|title=Életrajza Vatta község honlapján|trans-title=Bertalan Szemere's curriculum vitae on the Vatta website
+|access-date=20 December 2009
+|publisher=vatta.hu
+|language=hu
+}}
+
+{{S-start}}
+{{S-off}}
+{{Succession box|title=[[Interior Minister of Hungary|Minister of the Interior]]|before=post created|after=OHB|years=1848}}
+{{Succession box|title=[[Interior Minister of Hungary|Minister of the Interior]]|before=OHB|after=[[Béla Wenckheim]]|years=1849}}
+{{Succession box|title=[[Prime Minister of Hungary]]|before=[[Lajos Batthyány]]|after=[[Gyula Andrássy]]|years=1849}}
+{{S-end}}
+{{HungarianPrimeMinisters}}
+{{HungarianInteriorMinisters}}
+{{Hungarian Revolution of 1848}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Szemere, Bertalan}}
+[[Category:1812 births]]
+[[Category:1869 deaths]]
+[[Category:People from Borsod-Abaúj-Zemplén County]]
+[[Category:Prime Ministers of Hungary]]
+[[Category:People of the Revolutions of 1848]]
+[[Category:Hungarian Interior Ministers]]
+[[Category:Members of the Hungarian Academy of Sciences]]
+[[Category:19th-century Hungarian politicians]]
+[[Category:19th-century Hungarian poets]]
+[[Category:Hungarian male poets]]
+[[Category:19th-century Hungarian male writers]]

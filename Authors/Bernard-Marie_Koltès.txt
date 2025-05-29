@@ -1,0 +1,122 @@
+{{multiple issues|
+{{more citations needed|date=November 2013}}
+{{more footnotes|date=November 2013}}
+}}
+{{EngvarB|date=November 2013}}
+{{Use dmy dates|date=November 2013}}
+{{Infobox person
+| honorific_prefix   = 
+| name               =  <!-- include middle initial, if not specified in birth_name -->
+| honorific_suffix   = 
+| image              =  
+| image_size         = 
+| alt                = 
+| caption            = 
+| native_name        = 
+| native_name_lang   = 
+| birth_name         =  <!-- only use if different from name above -->
+| birth_date         =  {{birth date|1948|04|09}}
+| birth_place        = [[Metz, France]]
+| death_date         =  {{death date and age|1989|04|15|1948|04|09}}
+| death_place        = [[Paris, France]]
+| resting_place      = [[Montmartre Cemetery]]
+| other_names        = 
+| ethnicity          =  <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship        = 
+| education          = 
+| alma_mater         =[[University of Strasbourg]], 1967
+| occupation         = Playwright, theatre director
+| years_active       = 1970—1989
+| employer           = 
+| organization       = 
+| notable_works      = ''In the Solitude of Cotton Fields''
+| style              = 
+| movement           = 
+| awards             = {{plainlist|
+*• [[Edinburgh Festival]] Prize (''Night Just Before the Forest'', 1981)
+*• Prix du Jeune Talent, Society of Authors (1982) 
+}}
+}}
+'''Bernard-Marie Koltès''' ({{IPA-fr|kɔltɛs|lang}}; 9 April 1948 – 15 April 1989) was a French playwright and theatre director best known for his plays ''La Nuit juste avant les Forêts'' (''The Night Just Before the Forests'', 1976), ''Sallinger'' (1977) and ''Dans la Solitude des Champs de Coton'' (''In the Solitude of Cotton Fields'', 1986).
+
+A close friend and collaborator with the avant-garde director [[Patrice Chéreau]], the two created groundbreaking work together at both the [[La MaMa Experimental Theatre Club]] in New York City and the [[Théâtre des Amandiers]] in [[Nanterre]].
+
+At the time of his death, Koltès was considered to be one of the most important young voices in French theatre, and heir apparent to the legacy left by post-war playwrights such as [[Samuel Beckett]], [[Jean Cocteau]] and [[Jean Genet]]. His plays have since become staples on the modern repertory around the world, having been translated into more than 36 languages.
+
+==Life and work==
+
+Born in 1948 to a middle-class family in [[Metz]], his life was violent and anchored in revolt. He tried his hand at writing at a very young age but later renounced it, and didn't take to the stage until the age of twenty after seeing the film actress [[María Casares]] starring in a production of ''[[Medea (play)|Medea]]'' (''Médée'') directed by [[Jorge Lavelli]]. Soon after, in 1969, he was inspired and wrote his first play, ''Les Amertumes'' (''Bitternesses''), a dramatization of [[Maksim Gorky]]'s 1914 memoir, ''My Childhood''. The play premiered in 1970 at the St. Nicholas Church in [[Strasbourg]]. By chance [[Hubert Gignoux]], the director of the [[National Theater of Strasbourg]], attended the show on opening night and was instantly enamored of Koltès's work. Convinced that the twenty-one-year old fledgling playwright was a genius, Gignoux invited him to attend the theatre school at TNS in 1971.
+
+===Work=== 
+Within the year, Koltès directed and acted in productions at the Théâtre du Quai in Strasbourg,a company he founded. He directed some of his own work there, including ''La Marche'' (''The Walk''), an adaptation of the biblical [[Song of Solomon]], and ''Procès ivre'' (''Drunken Trial''), based on [[Fyodor Dostoevsky]]'s ''Crime and Punishment''. Some of Koltès's early works such as ''L'Héritage'' (''The Inheritance'') and the unpublished ''Des Voix sourdes'' (''Deaf Voices'') were even broadcast on national French radio in 1972 and 1973. His first widely celebrated piece, the long [[monologue]], ''[[The Night Just Before The Forests]]'', was staged in 1977 at the [[festival d'Avignon|Avignon Festival]], and subsequent productions were put on in collaboration with director [[Patrice Chéreau]].
+
+Koltès's work, based in real-life problems, expresses the tragedy of being alone and of death. His writing style accents the dramatic tension and the lyricism of his plays.  Koltes also translated into French [[Shakespeare]]'s ''[[The Winter's Tale]]''.
+
+{{citation needed span|It is evident that|date=October 2014}} Genet and the [[Absurdism|absurdists]] influenced Koltès's writing. Like other absurdist writers, he felt exiled – in his case, as a homosexual in a heterosexual world. In Africa, he saw native cultures being wiped out by European influences. This theme brought forth ''[[Black Battles with Dogs]]''. After a visit to America he wrote ''[[West Pier (play)|Quay ouest]]'' (1985), about a brother and sister in a foreign culture. The psychopathic killer [[Roberto Succo]] provided the inspiration for his final play ''[[Roberto Zucco]]''. It was first performed posthumously in Berlin in 1990, directed by [[Peter Stein]]. It has since been performed across Europe and the United States.<ref>{{cite book| title = Crime and Media in Contemporary France | first= Deborah Streifford | last= Reisinger | publisher = Purdue University Press | date=2007}}</ref>
+
+===Death===
+Koltès died in a Paris hospital in 1989 due to complications from AIDS.
+<!-- 
+==Stagings==
+In spite of his particular poetry, Koltes's works have not been staged so much. In addition to Chéreau, among world theatre directors we find:
+{{div col}}
+*[[Francisco Alves - Teatro Plástico]]
+*[[Ivica Buljan]]
+*[[Stevan Bodroza]]
+*[[Jan Bosse]]
+*[[Frederic Dussenne]]
+*[[Doris Mirescu]]
+*[[Arthur Nauzyciel]]
+*[[Roberto Pacini]]
+*[[Jay Scheib]]
+*[[Giampiero Solari]]
+*[[Èric Vigner]]
+*[[Rachid Zanouda]]
+*[[Krzysztof Warlikowski]]
+*[[Julián Hernández (filmmaker)|Julián Hernández]]
+*[[Travis Preston]]
+*[[Radosław Rychcik]]
+*[[Lluís Pasqual]]
+*[[Philip Subery]]
+*[[Vasily Senin]]
+*[[Kama Ginkas]]
+*[[Viktor Alferov]]
+*[[Alexandr Vakhov]]
+*[[Richard Brunel]]
+{{div col end}}-->
+
+==Works==
+*''[[Bitterness (play)|Bitterness]]'' (''Les Amertumes'') (1970)
+*''[[La Marche (play)|La Marche]]'' (1970)
+*''[[Heritage (play)|Heritage]]'' (''L'Héritage'') (1972)
+*''[[Récits morts]]'' (1973)
+*''[[Sallinger]]'' (1977)
+*''[[The Night Just Before the Forests]]'' (''La Nuit juste avant les forêts'') (1977)
+*''[[Black Battles with Dogs]]'' (''Combat de nègre et de chiens'') (1979)
+*''[[West Pier (play)|Quay West]]'' (''Quai Ouest'') (1985)
+*''[[In the Solitude of Cotton Fields]]'' (''Dans la solitude des champs de coton'') (1985)
+*''[[Tabataba (play)|Tabataba]]'' (1986)
+*''[[Return to the Desert]]'' (''Retour au désert'') (1988)
+*''[[Roberto Zucco (play)|Roberto Zucco]]'' (1988), based on the life of the criminal [[Roberto Succo]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{in lang|fr}} [http://www.bernardmariekoltes.com/ BernardMarieKoltes.com]
+* {{in lang|fr}} [https://web.archive.org/web/20110721194743/http://auteurs.contemporain.info/bernard-marie-koltes/ Critical bibliography on Koltès' works (Auteurs.contemporain.info)]
+* {{IMDb name|0464448|Bernard-Marie Koltès}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Koltes, Bernard-Marie}}
+[[Category:AIDS-related deaths in France]]
+[[Category:Burials at Montmartre Cemetery]]
+[[Category:1948 births]]
+[[Category:1989 deaths]]
+[[Category:20th-century French dramatists and playwrights]]
+[[Category:French male dramatists and playwrights]]
+[[Category:LGBT dramatists and playwrights]]
+[[Category:French gay writers]]
+[[Category:20th-century French male writers]]
+[[Category:20th-century LGBT people]]

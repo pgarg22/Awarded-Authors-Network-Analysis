@@ -1,0 +1,76 @@
+{{Infobox officeholder
+| name          = Blaga Dimitrova<br /><small>Блага Димитрова</small>
+| image         = Blaga Dimitrova Youn.jpg
+|office         = 2nd [[Vice President of Bulgaria]]
+|president      = [[Zhelyu Zhelev]]
+|primeminister  = [[Philip Dimitrov]]<br />[[Lyuben Berov]]
+|term_start     = 22 January 1992
+|term_end       = 6 July 1993
+|predecessor    = [[Atanas Semerdzhiev]]
+|successor      = [[Todor Kavaldzhiev]]
+| birth_date    = {{Birth date|1922|01|02|df=yes}}
+| birth_place   = [[Byala Slatina]], [[Kingdom of Bulgaria]]
+| death_date    = {{Death date and age|2003|05|02|1922|01|02}}
+| death_place   = [[Sofia]], [[Bulgaria]]
+| nationality   = [[Bulgarians|Bulgarian]]
+| occupation    = [[Writer]], [[Politician]]
+}}
+
+'''Blaga Nikolova Dimitrova''' ({{lang-bg|Блага Димитрова}}) (2 January 1922 – 2 May 2003) was a [[Bulgaria]]n poet and the 2nd [[Vice President of Bulgaria]]<ref>[http://www.president.bg/en/inst_izbori_92.php Official results from the 1992 Bulgarian Presidential Election]</ref> from 1992 until 1993.
+
+==Life==
+
+Born in [[Byala Slatina]] to a mother teacher and a father lawyer, Blaga Dimitrova was raised in [[Veliko Tarnovo]] and then moved to Sofia. She finished High School in 1942, and Slavic Philology at the [[University of Sofia]] in 1945.
+
+In the 1970s, her works became more critical of the communist government, and she received reprimands for not being politically correct. Four of the poetry books Dimitrova wrote in the 1970s- "Fireflies Fading", "Rubber Plant", "Questions", and "Hobbyada"- were all rejected by state publishing houses with no specific reason given.<ref>[http://www.thefileroom.org/documents/dyn/DisplayCase.cfm/id/1120 Thefileroom.org]</ref>
+
+Blaga Dimitrova was the inspiration behind [[John Updike]]'s short story "[[The Bulgarian Poetess]]".<ref>[http://files.osa.ceu.hu/holdings/300/8/3/text/7-5-256.shtml A Major Literary Event: The Novel "Avalanche"<!-- Bot generated title -->]{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+During the [[Vietnam War]], Dimitrova visited the country several times as a journalist, and in 1967 adopted a Vietnamese girl. Dimitrova was married to literary critic [[Jordan Vasilev]].
+
+She died on 2 May 2003.
+
+==Works==
+
+*{{cite book| title=Because the sea is black: poems of Blaga Dimitrova | url=https://archive.org/details/becauseseaisblac0000dimi | url-access=registration | others=Translators Niko Boris & Heather McHugh| publisher=Wesleyan University Press| year= 1989}}
+*{{cite book| title=Because the sea is black | translator1=Ludmilla G. Popova-Wightman |translator2=Elizabeth A. Socolow|translator2-link=Elizabeth Socolow| publisher=Ivy Press Princeton| date=June 2003| isbn=1-930214-06-5 }}
+*{{cite book| title=The last rock eagle: selected poems of Blaga Dimitrova| others=Translators Brenda Walker, Vladimir Levchev, Belin Tonchev| publisher=Forest Books| year= 1992| isbn=978-1-85610-009-0 }}
+*{{cite book| title=Forbidden sea: a poem| publisher=Ivy Press| year= 2000| isbn=978-1-930214-01-9 }}
+"Cassandra with a Tail" poem
+
+===Anthologies===
+
+*{{cite book| chapter-url=https://books.google.com/books?id=eqrCEKJF7YQC&q=Blaga+Dimitrova&pg=PA165| chapter=The Old Man and the World| title=White stones and fir trees: an anthology of contemporary Slavic literature| editor=Vasa D. Mihailovich| publisher=Fairleigh Dickinson University Press| year= 1977| isbn= 978-0-8386-1194-4 }}
+*{{cite book| chapter-url=https://books.google.com/books?id=EVKUVb1QpmUC&q=Blaga+Dimitrova&pg=PA153| chapter= Almost a Prophecy; Night-light -- A Night-bird's Eye; The Great Wall; Amnesia in Reverse; Bee Lesson; The Shadow of the Trees; Overstepping One's Rights; Frost |title=Shifting borders: East European poetries of the eighties| editor=Walter M. Cummins| publisher=Fairleigh Dickinson University Press| year= 1993| isbn= 978-0-8386-3497-4 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+
+*{{cite book| url=https://books.google.com/books?id=YRQLaBIRh6IC&q=Blaga+Dimitrova&pg=PA73| title=A rising public voice: women in politics worldwide| editor=Alida Brill| publisher=Feminist Press| year= 1995| isbn= 978-1-55861-111-5 }}
+*{{cite book| url=https://books.google.com/books?id=PK6jxXaARWMC&q=Blaga+Dimitrova&pg=PA61| title=The undergraduate's companion to women poets of the world and their web sites| author=Katharine A. Dean| publisher=Libraries Unlimited| year= 2004| isbn= 978-1-59158-044-7 }}
+* [[Michael Basse]]  : ''Das Risiko ist die Abweichung. Gedichte von Blaga Dimitrova'' , Neue Sirene , Munich 2/1994
+{{s-start}}
+{{s-off}}
+{{succession box | before = [[Atanas Semerdzhiev]]| title = [[Vice President of Bulgaria]]|years=22 January 1992 – 6 July 1993 | after = [[Todor Kavaldzhiev]]}}
+{{s-end}}
+
+{{Vice President of Bulgaria}}
+{{Herder Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dimitrova, Blaga}}
+[[Category:1922 births]]
+[[Category:2003 deaths]]
+[[Category:People from Byala Slatina]]
+[[Category:Vice presidents of Bulgaria]]
+[[Category:Sofia University alumni]]
+[[Category:Bulgarian women writers]]
+[[Category:Bulgarian biographers]]
+[[Category:Bulgarian poets]]
+[[Category:Bulgarian women poets]]
+[[Category:20th-century poets]]
+[[Category:20th-century women writers]]
+[[Category:Herder Prize recipients]]
+[[Category:Women biographers]]

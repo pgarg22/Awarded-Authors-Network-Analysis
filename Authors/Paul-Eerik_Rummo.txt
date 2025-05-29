@@ -1,0 +1,85 @@
+{{Short description|Estonian poet, playwright, translator and politician}}
+{{Infobox officeholder
+|name          = Paul-Eerik Rummo
+|image         = File:RE Paul-Eerik Rummo.jpg
+|caption       = Paul-Eerik Rummo in 2011.
+|office        = Minister of Population and Ethnic Affairs
+|primeminister = [[Juhan Parts]]<br>[[Andrus Ansip]]
+|term_start    = 2003
+|term_end      = 2007
+|predecessor   = [[Eldar Efendijev]]
+|successor     = [[Urve Palo]]
+|office2        = Minister of Culture and Education
+|primeminister2 = [[Mart Laar]]
+|term_start2    = 1992
+|term_end2      = 1994
+|predecessor2   = [[Rein Loik]]
+|successor2     = [[Peeter Olesk (literary scientist)|Peeter Olesk]]
+|birth_date    = {{birth date and age|1942|1|19|df=y}}
+|birth_place   = [[Tallinn]], [[Estonia]]
+|death_date    = 
+|death_place   = 
+|party         = 
+|spouse        = [[Viiu Härm]]
+|children      = 3
+|alma_mater    = 
+}}
+
+'''Paul-Eerik Rummo''' (born January 19, 1942) is an Estonian poet, playwright, translator and politician who was the former Estonian Minister of Culture and Education, as well as the former Estonian Minister of Population Affairs.
+
+Rummo was born in [[Tallinn]], the son of Estonian writer [[Paul Rummo]]. Paul-Eerik studied literature at the [[University of Tartu]], graduating in 1965. Rummo has worked in Estonian theatres.
+
+==Personal life==
+Paul-Eerik Rummo is married to an actress, poet, author, and translator [[Viiu Härm]]. The couple have three daughters.<ref name="Family">{{cite web |url=http://annestiil.delfi.ee/uudised/paar-viiu-harm-ja-paul-eerik-rummo?id=82300416|title=Paar: Viiu Härm ja Paul-Eerik Rummo|date=6 December 2005|periodical=Anne & Stiil|accessdate=5 January 2018|language=Estonian}}</ref>
+
+==Legacy==
+In October 1980, Rummo was a signatory of the [[Letter of 40 intellectuals|Letter of 40 Intellectuals]], a public letter in which forty prominent Estonian intellectuals defended the [[Estonian language]] and protested the [[Russification]] policies of the [[Kremlin]] in Estonia.<ref name="Kiri">{{cite web |url=https://www.postimees.ee/1506389/ajaleht-pravda-ja-40-keisri-hullu|title=Ajaleht Pravda ja 40 keisri hullu|first=Lauri|last=Vahtre|date=28 October 2005|work=[[Postimees]]|accessdate=25 August 2019|language=Estonian}}</ref>  The signatories also expressed their unease against Republic-level government in harshly dealing with youth protests in Tallinn that were sparked a week earlier due to the banning of a public performance of the [[punk rock]] band [[Propeller (band)|Propeller]].<ref name="Kiri" />
+
+In the novel ''[[Purge (novel)|Purge]]'' (in [[Finnish language|Finnish]] ''Puhdistus'') by [[Sofi Oksanen]], Rummo's poetry becomes a symbol of resistance against [[Russification]] in Estonia, sprinkled throughout the narrative.<ref name = jaggi>{{cite news |title=Purge by Sofi Oksanen |first=
+Maya |last=Jaggi |authorlink=Maya Jaggi|newspaper=[[The Guardian]] |date=21 August 2010 |url=https://www.theguardian.com/books/2010/aug/21/purge-sofi-oksanen |accessdate=2010-09-05}}</ref>
+
+==Selected bibliography==
+
+;Poetry
+*''Ankruhiivaja'' (The Anchor-weigher), 1962
+*''Lumevalgus … lumepimedus'' (Snow Light … Snow Darkness), 1966
+*''Saatja aadress ja teised luuletused 1968-1972'' (Sender's Address and Other Poems 1968-1972), 1989.
+*''The September Sun.'' Facing bilingual with English translations by Ritva Poom. Cross-Cultural Communications, 1994.
+
+;Plays
+*''Tuhkatriinumäng'' (Cinderellagame), printed 1969
+
+==References==
+{{Reflist}}
+*[https://sisu.ut.ee/ewod/r/pauleerikrummo Estonian Writers Online Dictionary]
+
+{{s-start}}
+{{s-off}}
+{{succession box | before=[[Rein Loik]] | title=[[Estonian Minister of Culture and Education]] | years=1992–1994| after=[[Peeter Olesk (literary scientist)|Peeter Olesk]]}}
+{{succession box | before=[[Eldar Efendijev]] | title=[[Estonian Minister of Population and Ethnic Affairs]] | years=2003–2007 | after=[[Urve Palo]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rummo, Paul Eerik}}
+[[Category:Estonian male poets]]
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:Politicians from Tallinn]]
+[[Category:Government ministers of Estonia]]
+[[Category:University of Tartu alumni]]
+[[Category:Recipients of the Order of the National Coat of Arms, 4th Class]]
+[[Category:21st-century Estonian politicians]]
+[[Category:20th-century Estonian poets]]
+[[Category:21st-century Estonian poets]]
+[[Category:Recipients of the Order of the White Star, 2nd Class]]
+[[Category:Members of the Riigikogu, 1992–1995]]
+[[Category:Members of the Riigikogu, 1995–1999]]
+[[Category:Members of the Riigikogu, 1999–2003]]
+[[Category:Members of the Riigikogu, 2003–2007]]
+[[Category:Members of the Riigikogu, 2007–2011]]
+[[Category:Members of the Riigikogu, 2011–2015]]
+[[Category:Members of the Riigikogu, 2015–2019]]
+
+
+{{Estonia-politician-stub}}

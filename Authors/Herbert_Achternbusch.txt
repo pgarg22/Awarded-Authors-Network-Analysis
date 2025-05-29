@@ -1,0 +1,59 @@
+{{short description|German writer, painter and filmmaker|bot=PearBOT 5}}
+{{Use dmy dates|date=November 2013}}
+{{expand German|date=November 2021|Herbert Achternbusch}}
+{{Infobox person
+|image = File:Herbert Achternbusch 8252.jpg
+|imagesize = 
+| name        = Herbert Achternbusch
+| birth_date   = {{birth date and age|1938|11|23|df=yes}}
+| birth_place  = [[Munich]], Germany
+| death_date   = 
+| death_place  = 
+| othername   = 
+| occupation  = [[Film director]]
+| yearsactive = 1971 – 2002
+}}
+'''Herbert Achternbusch''' (born 23 November 1938 in [[Munich]]) is a German [[writer]], [[Painting|painter]] and [[filmmaker]]. His [[anarchism|anarchist]] [[surrealism|surrealistic]] [[film]]s are not known to a wide audience in Germany, although one of them, ''Das Gespenst (The Ghost)'', caused a scandal in 1983 because of its
+alleged [[blasphemy|blasphemous]] content.<ref>[http://www.br-online.de/kultur-szene/thema/filmszene_bayern/achternbusch.shtml "Filmszene Bayern: Herbert Achternbusch"] {{webarchive|url=https://web.archive.org/web/20070929155020/http://www.br-online.de/kultur-szene/thema/filmszene_bayern/achternbusch.shtml |date=29 September 2007 }}, ''[[Bayerischer Rundfunk]] Online'', 22 November 2006. Accessed 5 May 2007. (in German)</ref> [[Werner Herzog]], a director of the [[New German Cinema]], based his film ''[[Heart of Glass (film)|Heart of Glass]]'' on a story by Achternbusch.
+
+In 1981, he directed the film ''[[Der Neger Erwin]]'', which was entered into the [[31st Berlin International Film Festival]].<ref name="imdb">{{cite web |url=https://www.imdb.com/title/tt0081221/awards |title=IMDB.com: Awards for Der Neger Erwin |accessdate=2010-08-29 |work=imdb.com}}</ref> The following year, he directed ''[[The Ghost (1982 film)|The Ghost]]'', which was entered into the [[33rd Berlin International Film Festival]].<ref name="Berlinale 1983">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1983/02_programm_1983/02_Programm_1983.html |title=Berlinale: 1983 Programme |accessdate=2010-11-17 |work=berlinale.de}}</ref> In 1988, his film ''[[Wohin?]]'' was entered into the [[38th Berlin International Film Festival]].<ref name="Berlinale 1988">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1988/02_programm_1988/02_Programm_1988.html |title=Berlinale: 1988 Programme |accessdate=2011-03-06 |work=berlinale.de}}</ref> In 1995, his film ''[[Hades (film)|Hades]]'' was entered into the [[45th Berlin International Film Festival]].<ref name="Berlinale1995">{{cite web |url=http://www.berlinale.de/en/archiv/jahresarchive/1995/02_programm_1995/02_Programm_1995.html |title=Berlinale: 1995 Programme |accessdate=2011-12-31 |work=berlinale.de}}</ref>
+
+Herbert Achternbusch was awarded the German international literary [[Petrarca-Preis]] in [[1977 in literature|1977]], but he declined.{{citation needed|date=May 2012}}  In 2010, he was awarded the [[Kassel Literary Prize]]. He won the [[Mülheimer Dramatikerpreis]] in 1986 and 1994.
+
+==See also==
+* [[List of German painters]]
+
+== References ==
+{{reflist}}
+
+==Notes==
+* Hans-Michael Bock (rd.): ''The Concise CineGraph. Encyclopedia of German Cinema''. New York, Oxford: Berghahn Books 2009, p.&nbsp;2-3.
+
+==External links==
+* {{IMDb name|id=00002157|name=Herbert Achternbusch}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Achternbusch, Herbert}}
+[[Category:1938 births]]
+[[Category:Living people]]
+[[Category:Writers from Munich]]
+[[Category:German male film actors]]
+[[Category:Film directors from Munich]]
+[[Category:German theatre directors]]
+[[Category:20th-century German painters]]
+[[Category:20th-century male artists]]
+[[Category:German male painters]]
+[[Category:21st-century German painters]]
+[[Category:21st-century male artists]]
+[[Category:20th-century German novelists]]
+[[Category:21st-century German novelists]]
+[[Category:20th-century German poets]]
+[[Category:Academy of Fine Arts, Nuremberg alumni]]
+[[Category:German male poets]]
+[[Category:German male novelists]]
+[[Category:20th-century German male writers]]
+[[Category:21st-century German male writers]]
+[[Category:21st-century German poets]]
+[[Category:Male actors from Munich]]
+[[Category:Artists from Munich]]

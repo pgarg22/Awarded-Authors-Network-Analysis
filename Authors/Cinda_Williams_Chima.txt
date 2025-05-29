@@ -1,0 +1,96 @@
+{{Multiple issues|
+{{Notability|Biographies|date=January 2015}}
+{{BLP primary sources|date=February 2015}}
+}}
+
+{{Infobox writer/Wikidata
+|fetchwikidata = ALL
+| image         =  
+| imagesize     = 
+| alt           = 
+| caption       =
+| birth_date     = {{Birth year and age|1952}}
+| birth_place   = [[Springfield, Ohio]]
+| occupation    = Novelist
+| language      =English 
+| nationality   = American
+| education     = Master's degree in [[Nutrition]]
+| alma_mater    = [[University of Akron]]
+| genre         = [[Young adult fiction|Young adult]] and fantasy
+| notableworks  = ''[[The Heir Chronicles]]'' and  ''[[The Seven Realms]]'' Series
+| spouse        = Rod Chima
+| children      = 2
+| website       = {{URL|http://www.cindachima.com}}
+}}
+
+'''Cinda Williams Chima''' (born 1952) is a [[New York Times bestselling]] author of young adult fantasy, best known for ''[[The Heir Chronicles]]'', ''[[The Seven Realms]]'' and ''[[The Shattered Realm]]'' series.
+
+Her ''Heir Chronicles'' [[young adult fiction|young adult contemporary fantasy]] series was originally published by [[Hachette Books#Hyperion Books|Hyperion]] from 2006 to 2008, with two more installments in 2013 and 2014.  Her young adult [[high fantasy]] series ''Seven Realms'' was published between 2009 and 2012. She is currently in the middle of another series, ''Shattered Realms'', set in the same world a generation later; those books have been published yearly since 2016.
+
+==Early life==
+Cinda Williams was born in [[Springfield, Ohio]] in 1952. She began writing in high school before stopping to focus instead on college. She has a twin, Linda. Her fortune-telling grandmother and the Celtic magical beliefs in her native Jackson County heavily influenced her writing. She graduated from the [[University of Akron]] in 1975 with a BA in [[Philosophy]], and in 1981 received a post-baccalaureate in [[Nutrition]].  She received her master's degree in Nutrition from [[Case Western Reserve University]] in 1984.<ref name="bio">{{cite web |url=http://www.cindachima.com/About/Chima%20bio_extended_12-10.pdf |title=Archived copy |accessdate=2011-04-09 |url-status=dead |archiveurl=https://web.archive.org/web/20110720074810/http://www.cindachima.com/About/Chima%20bio_extended_12-10.pdf |archivedate=2011-07-20 }}</ref>
+
+==Career==
+Prior to becoming a novelist, Chima was a [[Dietitian#Clinical dietitians|clinical dietitian]] and filled several clinical management and leadership roles at the [[Cleveland Clinic]] and The MetroHealth System in Cleveland, where she directed the Clinical Nutrition Department and established the Diabetes Self-Management Program.  Chima was also a freelance contributor to ''[[The Plain Dealer]]'' ([[Cleveland]], [[Ohio]]) and other local and regional publications, focusing on health-related topics and personal essays about family life.<ref name=bio />
+
+From 2004–2009, she was an assistant professor of nutrition at the University of Akron before leaving to write full-time.<ref name= bio />
+
+When her sons were in their teens, she began writing again. Her efforts ended up becoming ''The Warrior Heir.''<ref>Something about the Author. Vol. 192. Detroit: Gale, 2009. p. 46-48</ref>  While she was shopping around ''The Warrior Heir'', she began a high fantasy series for adults called ''Star-Marked Warder''.  The series was never finished because the ''Heir Chronicles'' were picked up for publication, but the world of ''Star-Marked Warder'' was adapted for Chima's young adult high fantasy series ''Seven Realms'' (set a generation before) and ''Shattered Realms'' (refocusing the story on teenagers).<ref>{{Cite web|url=http://cindachima.com/Resources/FAQ.htm#SR2|title=Cinda Williams Chima's official web site|website=cindachima.com|access-date=2018-04-20}}</ref>
+
+==Awards and honors==
+Chima's books have received starred reviews in [[Kirkus Reviews]] and [[Voice of Youth Advocates|VOYA]], among others. They have been named [[Booksense]] and [[Indie Next]] picks, an [[International Reading Association]] Young Adult Choice, a [[New York Public Library]] Book for the Teen Age, to the Kirkus Best YA list, and the VOYA Editors' Choice, Best Science Fiction, Fantasy and Horror, and Perfect Tens lists.<ref name="bio" />
+
+She was a recipient of the 2008 Lit Award for Fiction from the Cleveland Lit and was named a [[Cleveland Magazine]] Interesting Person 2009. She has been active in the [[SCBWI|Society of Children's Book Writers and Illustrators]] (SCBWI) for more than five years.<ref name="bio" />
+
+==Bibliography==
+
+'''''The Heir Chronicles'''''
+{{main|The Heir Chronicles}}
+
+* ''The Warrior Heir'' (2006)
+* ''The Wizard Heir'' (2007)
+* ''The Dragon Heir'' (2008)
+* ''The Enchanter Heir'' (2013) 
+* ''The Sorcerer Heir'' (2014)
+
+'''''The Seven Realms'''''
+{{main|The Seven Realms}}
+
+* ''The Demon King'' (2009)
+* ''The Exiled Queen'' (2010)
+* ''The Gray Wolf Throne'' (2011)
+* ''The Crimson Crown'' (2012)
+
+'''''The Shattered Realms'''''
+
+* ''Flamecaster'' (2016)
+* ''Shadowcaster'' (2017)
+* ''Stormcaster'' (2018)
+* ''Deathcaster'' (2019)
+
+==Personal life==
+She lives in Ohio with her husband, rocket scientist Rod Chima, and two sons Eric and Keith.<ref name="about">{{cite web |url=http://www.cindachima.com/About/about_me.htm |title=Archived copy |accessdate=2011-04-09 |url-status=dead |archiveurl=https://web.archive.org/web/20110505164526/http://www.cindachima.com/About/about_me.htm |archivedate=2011-05-05 }}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{official website|http://www.cindachima.com/}}
+*{{isfdb name|id=36214}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chima, Cinda Williams}}
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:21st-century American novelists]]
+[[Category:Writers from Springfield, Ohio]]
+[[Category:American fantasy writers]]
+[[Category:American young adult novelists]]
+[[Category:University of Akron alumni]]
+[[Category:Case Western Reserve University alumni]]
+[[Category:American women novelists]]
+[[Category:Women writers of young adult literature]]
+[[Category:21st-century American women writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Novelists from Ohio]]

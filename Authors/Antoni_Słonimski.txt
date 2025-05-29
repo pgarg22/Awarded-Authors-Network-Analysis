@@ -1,0 +1,88 @@
+{{Short description|20th century Polish writer and journalist}}
+{{for|other people with the same last name|Slonimsky}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox writer
+| name = Antoni Słonimski
+| image = Antoni Słonimski cropped.jpg
+| imagesize =
+| caption = Antoni Słonimski
+| pseudonym = 
+| birth_name = Antoni Słonimski
+| birth_date = {{Birth date|df=yes|1895|11|15}}
+| birth_place = [[Warsaw]], [[Congress Poland]], [[Russian Empire]]
+| death_date = {{death date and age|df=yes|1976|7|4|1895|11|15}}
+| death_place = [[Warsaw]], [[Polish People's Republic|Poland]]
+| resting_place = Forest Cemetery in Laski
+| occupation = Writer
+| language = [[Polish language|Polish]]
+| nationality = Polish
+| period =
+| genre =
+| subject =
+| movement = [[Skamander]]
+| notableworks = 
+| spouse = 
+| children = 
+| relatives = 
+| awards =
+| signature = Antoni Slonimski Polish writer signature.jpg
+}}
+
+'''Antoni Słonimski''' (15 November 1895 – 4 July 1976) was a Polish poet, artist, journalist, playwright and [[prose]] writer, president of the [[Polish Writers' Union|Union of Polish Writers]] in 1956–1959 during the [[Polish October]], known for his devotion to social justice.
+
+Słonimski was the grandson of [[Hayyim Selig Slonimski]], the founder of "[[ha-Tsefirah]]"- the first Hebrew weekly with an emphasis on the sciences. His father, an ophthalmologist, converted to Christianity when he married a Catholic woman. Słonimski was born in [[Warsaw]] and baptized and raised as a Christian.<ref name="Alfabet">{{cite book | url=https://books.google.com/books?id=s0FFvzuC5hcC&pg=PA321&dq=%22Antony+Polonsky%22+%22Contemporary+Jewish+Writing+in+Poland%22+Slonimski#v=onepage&q&f=false | title=Contemporary Jewish writing in Poland: an anthology | publisher=[[University of Nebraska Press]] | year=2001 | accessdate=11 July 2011 | author=Antony Polonsky, Monika Adamczyk-Garbowska | page=321 | quote=Source: "Alfabet wspomnień" by Antoni Słonimski (memoir), [[Państwowy Instytut Wydawniczy|PIW]], 1975 | isbn=0-8032-3721-9}}</ref> Słonimski studied at the [[Academy of Fine Arts in Warsaw]]. In 1919 he co-founded the ''[[Skamander]]'' group of experimental poets with [[Julian Tuwim]] and [[Jarosław Iwaszkiewicz]]. In 1924 he travelled to Palestine and Brasil and in 1932 to the Soviet Union.
+
+Słonimski spent the [[World War II|war years]] in exile in England and France, returning to Poland in 1951. He worked as contributor to popular periodicals: ''Nowa Kultura'' (1950–1962), ''Szpilki'' (1953–73) and ''Przegląd Kulturalny''. He was an active anti-Stalinist and supporter of liberalization. In 1964 he was one of the signatories and the main author of the so-called [[Letter of 34]] to Prime Minister [[Józef Cyrankiewicz]] regarding freedom of culture. Słonimski died on 4 July 1976 in a car accident in Warsaw.
+
+==Works==
+* ''Sonety'' (1918)
+* ''Parada'' (1920)
+* ''Godzina poezji'' (1923)
+* ''Torpeda czasu'' (Time Torpedo, 1926), a science fiction novel influenced by [[H.G. Wells]]<ref>
+Patrick Parrinder, John S. Partington, ''The Reception of H.G. Wells in Europe''. 
+Continuum, 2005. {{ISBN|0826462537}}, (p. 140)</ref>
+* ''Droga na wschód'' (Road to the East; 1924), a collection of poems inspired by his travels to Palestine and Brazil
+* ''Z dalekiej podróży'' (1926)
+* ''Rodzina'' (Family; 1933), a comedy about two brothers: a communist, and a fascist
+* ''Okno bez krat'' (1935)
+* ''Dwa końce świata'' (Two Ends of the World; 1937), a novel predicting Warsaw's destruction by a Nazi dictator
+* ''Alarm'' (1940)
+* ''Wiek klęski'' (1945)
+* ''Nowe wiersze'' (1959)
+* ''Wiersze 1958–1963'' (1963)
+* ''138 wierszy'' (1973)
+'''Science Fiction'''
+* ''Torpeda czasu'' (1924) Warszawa: Towarzystwo Wydawnicze "Ignis" (E. Wende i S-ka); drukowana odcinkach w drugiej połowie 1923 roku na łamach Kuriera Polskiego (nr 281–352), powojenne wydanie Warszawa: Czytelnik, 1967 (z przedmową Stanisława Lema)
+* ''Dwa końce świata'' (1937) Warszawa: J. Przeworski, powojenne wydanie Warszawa: Książka i Wiedza, 1991
+
+==See also==
+* [[Polish literature]]
+
+==References==
+{{Reflist}}
+* Barry Keane, ''Skamander. The Poets and Their Poetry'' (2004), Agade; Warsaw, {{ISBN|83-87111-29-5}}.
+
+==Sources==
+* [http://www.britannica.com/EBchecked/topic/548920/Antoni-Slonimski  "Antoni Slonimski." Encyclopædia Britannica Online]
+
+==External links==
+* {{Commons category-inline|Antoni Słonimski}}
+* [http://culture.pl/en/artist/antoni-slonimski Profile of Antoni Słonimski] at Culture.pl
+
+{{Authority control}}
+
+{{DEFAULTSORT:Slonimski, Antoni}}
+[[Category:1895 births]]
+[[Category:1976 deaths]]
+[[Category:Writers from Warsaw]]
+[[Category:People from Warsaw Governorate]]
+[[Category:Polish people of Jewish descent]]
+[[Category:Academy of Fine Arts in Warsaw alumni]]
+[[Category:Recipients of the Order of Polonia Restituta]]
+[[Category:Road incident deaths in Poland]]
+[[Category:20th-century Polish poets]]
+[[Category:20th-century Polish male writers]]
+[[Category:Recipients of the State Award Badge (Poland)]]
+
+
+{{Poland-poet-stub}}

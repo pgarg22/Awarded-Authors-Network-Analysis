@@ -1,0 +1,126 @@
+{{short description|Canadian poet}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = 
+| honorific_prefix = 
+| honorific_suffix = 
+| image = Christian Bok reading from Eunoia at the University of York 19 May 2011.jpg
+| image_size = 
+| alt = Bök reading from ''[[Eunoia (book)|Eunoia]]'' at the [[University of York]]
+| caption = Bök reading from ''[[Eunoia (book)|Eunoia]]'' at the [[University of York]] on May 19, 2011
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = Christian Book
+| birth_date =    {{birth date and age|1966|08|10}}
+| birth_place = Toronto
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation = Poet
+| language = 
+| nationality = [[Canadians|Canadian]]
+| ethnicity = 
+| citizenship = 
+| education = B.A, M.A, PhD
+| alma_mater = [[Carleton University]]
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  ''[[Eunoia (book)|Eunoia]]''<br />''[[Crystallography (book)|Crystallography]]''
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = [[Griffin Poetry Prize]] 2002
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Christian Bök'''{{Needs IPA}}[[Fellow of the Royal Society of Canada|, FRSC]], (born August 10, 1966 in [[Toronto]], Canada) is an [[avant-garde|experimental]] [[Canadian poetry|Canadian poet]]. He is the author of ''Eunoia'', which won the Canadian [[Griffin Poetry Prize]].
+
+==Life and work==
+He was born "Christian Book", but uses "Bök" as a pseudonym.
+
+He began writing seriously in his early twenties, while earning his B.A. and M.A. degrees at [[Carleton University]] in [[Ottawa]]. He returned to Toronto in the early 1990s to study for a Ph.D. in English literature at [[York University]], where he encountered a burgeoning literary community that included [[Steve McCaffery]], [[Christopher Dewdney]], and [[Darren Wershler-Henry]]. {{As of|2005}} he teaches at the [[University of Calgary]].<ref>[http://www.poetryfoundation.org/harriet/2007/07/the-xenotext-experiment-an-interview-with-christian-bok/ The Xenotext Experiment: An Interview with Christian Bök]</ref>
+
+In 1994, Bök published ''[[Crystallography (book)|Crystallography]]'', "a [[pataphysical]] encyclopaedia that misreads the language of [[poetics]] through the conceits of [[geology]]." The ''Village Voice'' said of it: "Bök's concise reflections on mirrors, [[fractal]]s, stones, and ice diabolically change the way you think about language — his, yours — so that what begins as description suddenly seems indistinguishable from the thing itself."<ref name=voice>Ed Park, "[http://www.villagevoice.com/2003-12-16/books/crystal-method/ Crystal Method]," ''Village Voice'', Dec. 16, 2003.</ref> ''Crystallography'' was reissued in 2003,<ref name=voice/> and was nominated for a [[Gerald Lampert Award]].
+
+Bök is a [[sound poet]] and has performed an extremely condensed version of the "Ursonate" by [[Kurt Schwitters]]. He has created [[conceptual art]], making [[artist's book]]s from [[Rubik's Cube]]s and [[Lego]] bricks. He has also worked in science-fiction television by constructing [[artistic language]]s for [[Gene Roddenberry]]'s ''[[Earth: Final Conflict]]'' and [[Peter Benchley]]'s ''[[Amazon (1999 TV series)|Amazon]]''.
+
+===Eunoia===
+Bök is most famous for ''[[Eunoia (book)|Eunoia]]'' (2001), a book which took him seven years to write.<ref name=voice/> ''Eunoia'' consists of [[univocalic]]s: The book uses only one vowel in each of its five chapters. In the book's main part, each chapter used just a single vowel, producing sentences such as this: "Enfettered, these sentences repress free speech."<ref>{{cite web |last=Shelburne |first=Curtis K. |url=http://www.cnjonline.com/articles/love_30557___article.html/writes_one.html |title=God writes his love in one word &#124; love, writes, one - Faith and Lifestyles - Clovis News Journal |publisher=Cnjonline.com |date=2008-10-16 |accessdate=2012-01-14 |url-status=dead |archive-url=https://archive.today/20120724100916/http://www.cnjonline.com/articles/love_30557___article.html/writes_one.html |archive-date=2012-07-24 }}</ref> Bök believes "his book proves that each vowel has its own personality, and demonstrates the flexibility of the English language."<ref>{{cite web|url=http://news.bbc.co.uk/today/hi/today/newsid_7697000/7697762.stm |title=BBC - Today |work=BBC News |date=2008-10-30 |accessdate=2012-01-14}}</ref>
+
+Edited by Darren Wershler-Henry and published by [[Coach House Books]],
+in 2001, ''Eunoia'' won the 2002 Griffin and sold 20,000 copies.<ref name=bestseller>{{cite news|url=https://www.cbc.ca/news/entertainment/calgary-poet-hits-u-k-bestseller-list-1.850516|title=Calgary poet hits U.K. bestseller list|publisher=cbc.ca|accessdate=2009-01-05| date=2009-01-05}}</ref> [[Canongate Books|Canongate]] published "Eunoia" in Britain in Oct. 2008.<ref>{{cite web|url=https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2008/10/29/boll129.xml |title=Literary Life |work=Telegraph |accessdate=2012-01-14}}{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}}</ref> The book was also a bestseller there, reaching #8 on the Top 10 bestselling charts for the year.<ref name=bestseller/>
+
+===The Xenotext experiment===
+On April 4, 2011 Bök announced a significant break-through in his 9-year project to engineer "a life-form so that it becomes not only a durable archive for storing a poem, but also an operant machine for writing a poem".<ref>{{cite web |url=http://www.bbk.ac.uk/cprc/news/Bok_at_BBK |title=Contemporary Poetics Research Centre: Christian Bök - 'The Xenotext: A Progress Report' (Thursday 5 May 2011) |publisher=Bbk.ac.uk |accessdate=2012-01-14 |url-status=dead |archive-url=https://web.archive.org/web/20120210033044/http://www.bbk.ac.uk/cprc/news/Bok_at_BBK |archive-date=10 February 2012 }}</ref><ref>{{cite web |url=http://www.law.ed.ac.uk/ahrc/script-ed/vol5-2/editorial.asp |title=The Xenotext Experiment |publisher=Law.ed.ac.uk |accessdate=2012-01-14 |archive-url=https://web.archive.org/web/20120101053132/http://www.law.ed.ac.uk/ahrc/script-ed/vol5-2/editorial.asp |archive-date=2012-01-01 |url-status=dead }}</ref> On the previous day (April 3) Bök said he
+
+{{quote|received confirmation from the laboratory at the University of Calgary that my poetic cipher, gene X-P13, has in fact caused E. coli to fluoresce red in our test-runs—meaning that, when implanted in the genome of this bacterium, my poem (which begins "any style of life/ is prim…") does in fact cause the bacterium to write, in response, its own poem (which begins "the faery is rosy/ of glow…")."<ref>{{cite web|author=Christian Bök |url=http://www.poetryfoundation.org/harriet/2011/04/the-xenotext-works/ |title=The Xenotext Works : Christian Bök : Harriet the Blog |publisher=The Poetry Foundation |date=2011-04-03 |accessdate=2012-01-14}}</ref>}}
+
+The project has continued for over fifteen years at a cost exceeding $110,000 and he hopes to finish the project in 2014.<ref>https://calgaryherald.com/touch/story.html?id=7874911{{dead link|date=November 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> He published "Book I" of the resulting ''Xenotext'' in 2015.
+
+==Recognition==
+''Eunoia'' won the [[Griffin Poetry Prize]] in 2002.<ref>[https://www.britannica.com/art/Griffin-Poetry-Prize Griffin Prize and Winners] Britannica, 2017, Retrieved 16/04/18</ref>
+
+Bök's poem "Vowels" was used in the lyrics of a song on the EP ''A Quick Fix of Melancholy'' (2003) by the Norwegian band [[Ulver]].{{citation needed|date=April 2018}}
+
+In 2006, Christian Bök and his work were the subject of an episode of the television series ''[[Heart of a Poet]]'', produced by Canadian filmmaker [[Maureen Judge]].<ref>[http://heartofapoet.ca/episodes.html#NAME Heart of a Poet: Season 1] {{webarchive |url=https://web.archive.org/web/20100213030603/http://heartofapoet.ca/episodes.html#NAME |date=February 13, 2010 }}</ref>
+
+On May 31, 2011, The [[BBC World Service]] broadcast Bök reading "The Xenotext."<ref>{{cite web|url=https://www.bbc.co.uk/iplayer/episode/p00gvpkk/The_Strand_31_05_2011/ |title=BBC iPlayer - The Strand: 31/05/2011 |publisher=Bbc.co.uk |accessdate=2012-01-14}}</ref>
+
+== Bibliography ==
+* ''[[Crystallography (book)|Crystallography]]''. Coach House (1994) {{ISBN|978-1-55245-119-9}}
+* ''[[Eunoia (book)|Eunoia]]''. Coach House Books (2001) {{ISBN|1-55245-092-9}} - winner of the 2002 Canadian [[Griffin Poetry Prize]]
+* ''Pataphysics: The Poetics of an Imaginary Science''. Northwestern University Press (2001) {{ISBN|978-0-8101-1876-8}} - See [[’Pataphysics]]
+* ''The Xenotext (Book 1)''. Coach House Books (2015) {{ISBN|978-1-55245-321-6}}
+
+;As editor
+* ''Ground Works: Avante-Garde for Thee'' (2003) {{ISBN|978-0-88784-180-4}}
+
+;Included in
+* ''Poetry Plastique'' (2001) {{ISBN|978-1-887123-51-8}}
+* ''The Griffin Poetry Prize Anthology : A Selection of the 2002 Shortlist'' (2002) {{ISBN|978-0-88784-676-2}}
+
+==See also==
+{{Portal|Poetry|Biography|Canada|Ontario}}
+* [[List of Canadian writers]]
+* [[List of Canadian poets]]
+* [[Concrete poetry]]
+* [[Sound poetry]]
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.ubu.com/contemp/bok/index.html Christian Bök pages on UbuWeb, including recordings, poetry, and essays]
+* [https://twitter.com/christianbok Christian Bök on Twitter]
+* [http://www.griffinpoetryprize.com/awards-and-poets/shortlists/2002-shortlist/christian-bok/ Griffin Poetry Prize biography]
+* [http://www.griffinpoetryprize.com/see-and-hear-poetry/a-g/christian-bok/ Griffin Poetry Prize reading, including video clip]
+* [https://web.archive.org/web/20071029172028/http://www.english.ucalgary.ca/ChristianBok University of Calgary Faculty of English profile]
+* [https://web.archive.org/web/20090615080706/http://archives.chbooks.com/online_books/eunoia/ Eunoia online book]
+* [http://eclipsearchive.org/projects/BAZAAR/ "Bazaar of the Bizarre: The Book of Horrors"] - Christian Bök's first publication
+* [http://www.cbc.ca/andsometimesy/pastshows.html?lastseason Christian Bök interview and reading] on CBC Radio program ''[[And Sometimes Y]]'', episode 5, July 25, 2006
+* [https://web.archive.org/web/20110721023359/http://webcast.univ-paris3.fr/podcasts/conferences/Entr%C3%A9es/2008/6/1_Voice_%26_Vision_%3A_Christian_B%C3%B6k_%28I%29.html Podcasts recorded at the Institut du Monde Anglophone, Université Paris 3 – Sorbonne Nouvelle, on May 22, 2008]
+*[https://archive.today/20130101060253/http://rpo.library.utoronto.ca/poet/christian-bok.html Christian Bök] at [[University of Toronto Libraries]]
+*[http://atom.archives.sfu.ca/index.php/christian-bok-fonds Records of Christian Bök are held by Simon Fraser University's Special Collections and Rare Books]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bok, Christian}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:York University alumni]]
+[[Category:Carleton University alumni]]
+[[Category:University of Calgary faculty]]
+[[Category:Writers from Toronto]]
+[[Category:20th-century Canadian poets]]
+[[Category:20th-century Canadian male writers]]
+[[Category:Canadian male poets]]
+[[Category:21st-century Canadian poets]]
+[[Category:21st-century Canadian male writers]]

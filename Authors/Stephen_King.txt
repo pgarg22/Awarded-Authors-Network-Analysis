@@ -1,0 +1,776 @@
+{{short description|American writer}}
+{{for|other people with either the same or similar names|Stephen King (disambiguation)}}
+{{pp-move-indef}}
+{{pp-semi-blp|small=yes}}
+{{Use mdy dates|date=February 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Stephen King
+| image       = Stephen King, Comicon.jpg
+| image_size  =
+| caption     = King in 2007
+| pseudonym   = {{flatlist|
+* [[Richard Bachman]]
+* John Swithen
+* Beryl Evans
+}}
+| birth_date  = {{birth date and age|1947|9|21}}
+| birth_place = [[Portland, Maine]], U.S.<!--As per WP:LINKDIRECT and Template:infobox person, birthplace indicates city, state, then country. No need to spell out "United States; 'U.S.' is fine.-->
+| occupation  = Author
+| period      = 1967–present<ref name=OfficialBio/>
+| genre       = {{flatlist|
+* [[Horror fiction|Horror]]
+* [[Fantasy fiction|fantasy]]
+* [[supernatural fiction]]
+* [[Drama (fiction)|drama]]
+* [[Gothic fiction|gothic]]
+* [[genre fiction]]
+* [[dark fantasy]]
+* [[post-apocalyptic fiction]]
+* [[crime fiction]]
+* [[Suspense fiction|suspense]]
+* [[Thriller fiction|thriller]]
+}}
+| alma_mater  = [[University of Maine]]
+| movement    = 
+| spouse      = {{marriage|[[Tabitha King|Tabitha Spruce]]|1971}}
+| children    = 3, including [[Joe Hill (writer)|Joe]] and [[Owen King|Owen]]
+| signature   = Stephen King Signature.svg
+| website     = {{URL|http://stephenking.com}}
+}}
+
+'''Stephen Edwin King''' (born September 21, 1947) is an American author of [[horror fiction|horror]], [[supernatural fiction]], [[Thriller (genre)|suspense]], [[crime fiction|crime]], [[science-fiction]], and [[fantasy]] novels. Described as the "King of Horror", a play on his surname and a reference to his high standing in pop culture,<ref name="te" >{{cite news|author1=K.S.C.|title=Why Stephen King's novels still resonate|url=https://www.economist.com/blogs/prospero/2017/09/subverting-american-dream|access-date=September 9, 2017|work=[[The Economist]]|date=September 7, 2017|archive-url=https://web.archive.org/web/20170909015350/https://www.economist.com/blogs/prospero/2017/09/subverting-american-dream|archive-date=September 9, 2017|url-status=live}}</ref> his books have sold more than 350&nbsp;million copies,<ref>{{cite news|author=Morgan, Robert|url=http://news.bbc.co.uk/2/low/programmes/newsnight/6174256.stm|title=Stephen King|work=[[Newsnight]]|publisher=BBC|date=November 22, 2006|access-date=November 7, 2010|archive-url=https://web.archive.org/web/20190918152131/http://news.bbc.co.uk/2/hi/programmes/newsnight/6174256.stm|archive-date=September 18, 2019|url-status=live}}</ref> and many have been adapted into films, television series, miniseries, and comic books. King has published 63 novels, including seven under the pen name [[Richard Bachman]], and five non-fiction books.<ref>Breznican, Anthony (September 3, 2019).[https://www.nytimes.com/2019/09/03/books/stephen-king-interview-the-institute.html "Life Is Imitating Stephen King’s Art, and That Scares Him"] {{webarchive |url=https://web.archive.org/web/20190903151422/https://www.nytimes.com/2019/09/03/books/stephen-king-interview-the-institute.html |date=September 3, 2019}}. [[New York Times]]. Retrieved September 3, 2019.</ref> He has also written approximately [[Stephen King short fiction bibliography|200 short stories]], most of which have been published in book collections.<ref>Barone, Matt (November 8, 2011). [https://www.complex.com/pop-culture/2011/11/the-25-best-stephen-king-stories/ "The 25 Best Stephen King Stories"] {{webarchive |url=https://web.archive.org/web/20190207020116/https://www.complex.com/pop-culture/2011/11/the-25-best-stephen-king-stories/ |date=February 7, 2019}}. ''[[Complex (magazine)|Complex]]''. Retrieved February 5, 2019.</ref><ref name=Thrillist>Jackson, Dan (February 18, 2016). [https://www.thrillist.com/entertainment/nation/stephen-king-books-a-beginners-guide "A Beginner's Guide to Stephen King Books"] {{webarchive |url=https://web.archive.org/web/20190207020140/https://www.thrillist.com/entertainment/nation/stephen-king-books-a-beginners-guide |date=February 7, 2019}}. [[Thrillist]]. Retrieved February 5, 2019.</ref>
+
+King has received [[Bram Stoker Award]]s, [[World Fantasy Award]]s, and [[British Fantasy Society]] Awards. In 2003, the [[National Book Foundation]] awarded him the [[National Book Award|Medal for Distinguished Contribution to American Letters]].<ref name=natbook>{{cite web|url=http://www.nationalbook.org/amerletters.html |title=Distinguished Contribution to American Letters |website=National Book Foundation |date=2003 |access-date=March 11, 2011 |archive-url=https://web.archive.org/web/20110310053959/http://www.nationalbook.org/amerletters.html |archive-date=March 10, 2011 |url-status=live}}</ref> He has also received awards for his contribution to literature for his entire bibliography, such as the 2004 [[World Fantasy Award for Life Achievement]] and the 2007 Grand Master Award from the [[Mystery Writers of America]].<ref>{{cite web|url=http://clubstephenkinglille.forumactif.com/t1133-recompenses-litteraires-de-stephen-king|title=FORUMS du CLUB STEPHEN KING (CSK)|website=Forum Stephen King|access-date=March 8, 2012|archive-url=https://web.archive.org/web/20120222211549/http://clubstephenkinglille.forumactif.com/t1133-recompenses-litteraires-de-stephen-king|archive-date=February 22, 2012|url-status=live}}</ref> In 2015, he was awarded with a [[National Medal of Arts]] from the [[National Endowment for the Arts|U.S. National Endowment for the Arts]] for his contributions to literature.<ref>{{cite web|title=President Obama to Award 2014 National Medals of Arts|url=http://arts.gov/news/2015/president-obama-award-2014-national-medals-arts|website=NEA|publisher=National Endowment for the Arts|access-date=September 12, 2015|archive-url=https://web.archive.org/web/20150915192210/http://arts.gov/news/2015/president-obama-award-2014-national-medals-arts|archive-date=September 15, 2015|url-status=live|date=September 3, 2015}}</ref>
+
+==Early life==
+Stephen Edwin King was born in [[Portland, Maine]], on September 21, 1947. His father, Donald Edwin King, was a [[merchant navy|merchant seaman]]{{Citation needed|date=November 2021|reason=In Finding Your Roots S02E01 (PBS), King, who is presented for the first time his paternal ancestry, including a photo of his father he didn't recognise, tells us his mother told him to say his father was a seaman just to justify to other people that he was never around.}} who was born with the surname Pollock but changed it to King as an adult.<ref>{{cite episode|series=[[Finding Your Roots]]|network=[[PBS]]|airdate=September 23, 2014|title=In Search of our Fathers|season=2|number=1|url=https://youtube.com/watch?v=ni7DKO5plhk}}</ref><ref>{{cite web |url=http://www.geni.com/people/Donald-King/6000000006574282764 |title=Donald Edwin King |work=geni.com |access-date=September 24, 2014 |archive-url=https://web.archive.org/web/20141006143227/http://www.geni.com/people/Donald-King/6000000006574282764 |archive-date=October 6, 2014 |url-status=live}}</ref><ref name= genealogy>[http://www.genealogy.com/famousfolks/stephen-king/d0/i0000002.htm Ancestry of Stephen King] {{webarchive |url=https://web.archive.org/web/20061023205329/http://www.genealogy.com/famousfolks/stephen-king/d0/i0000002.htm |date=October 23, 2006}} at Genealogy.com. Retrieved August 3, 2010.</ref> King's mother was Nellie Ruth King (née Pillsbury).<ref name="genealogy"/> His parents were married in [[Scarborough, Maine]], on July 23, 1939.<ref>{{cite book |first=Lisa |last=Rogak |title=Haunted Heart: The Life and Times of Stephen King |url=https://books.google.com/books?id=yMbYYw_6200C&pg=PT13 |date=January 5, 2010 |publisher=St. Martin's Publishing Group |isbn=978-1-4299-8797-4 |page=13 |access-date=December 22, 2019 |archive-date=August 5, 2021 |archive-url=https://web.archive.org/web/20210805164508/https://books.google.com/books?id=yMbYYw_6200C&pg=PT13 |url-status=live }}</ref> Shortly afterwards, they lived with Donald's family in [[Chicago]] before moving to [[Croton-on-Hudson, New York]].<ref>{{cite book |first=Lisa |last=Rogak |title=Haunted Heart: The Life and Times of Stephen King |url=https://books.google.com/books?id=yMbYYw_6200C&pg=PT14 |date=January 5, 2010 |publisher=St. Martin's Publishing Group |isbn=978-1-4299-8797-4 |page=14 |access-date=December 22, 2019 |archive-date=November 4, 2021 |archive-url=https://web.archive.org/web/20211104005858/https://books.google.com/books?id=yMbYYw_6200C&pg=PT14 |url-status=live }}</ref> King's parents returned to Maine towards the end of [[World War II]], living in a modest house in Scarborough. When King was two years old, his father left the family. His mother raised him and his older brother David by herself, sometimes under great financial strain. They moved from Scarborough and depended on relatives in Chicago; Croton-on-Hudson; [[West De Pere, Wisconsin]]; [[Fort Wayne, Indiana]]; [[Malden, Massachusetts]]; and [[Stratford, Connecticut]].<ref>{{cite book |first=Lisa |last=Rogak |title=Haunted Heart: The Life and Times of Stephen King |url=https://books.google.com/books?id=yMbYYw_6200C&pg=PT15 |date=January 5, 2010 |publisher=St. Martin's Publishing Group |isbn=978-1-4299-8797-4 |page=15 |access-date=December 22, 2019 |archive-date=November 4, 2021 |archive-url=https://web.archive.org/web/20211104005858/https://books.google.com/books?id=yMbYYw_6200C&pg=PT15 |url-status=live }}</ref><ref>{{cite book |first=Stephen J. |last=Spignesi |title=The Shape Under the Sheet: The Complete Stephen King Encyclopedia |url=https://books.google.com/books?id=wHUaAQAAMAAJ |year=1991 |publisher=Popular Culture |isbn=978-1-56075-018-5 |pages=31–38 |access-date=December 22, 2019 |archive-date=July 11, 2021 |archive-url=https://web.archive.org/web/20210711182039/https://books.google.com/books?id=wHUaAQAAMAAJ |url-status=live }}</ref> When King was 11, his family moved to [[Durham, Maine]], where his mother cared for her parents until their deaths. She then became a caregiver in a local residential facility for the mentally challenged.<ref name=OfficialBio>{{cite web |url=http://www.stephenking.com/biography.php |work=StephenKing.com |title=Biography |access-date=December 8, 2013 |last1=King |first1=Tabitha |first2=Marsha |last2=DeFilippo |url-status=dead |archive-url=https://web.archive.org/web/20080509121845/http://www.stephenking.com/biography.php |archive-date=May 9, 2008 }}</ref> King was raised [[Methodist]],<ref>{{Cite web|last=Rogovoy|first=Seth|title=The Secret Jewish History Of Stephen King|url=https://forward.com/culture/430773/the-secret-jewish-history-of-stephen-king/|url-status=live|access-date=2020-09-02|website=The Forward|language=en-US|quote=King, who turned 72 today, was raised Methodist and still identifies as such.|archive-date=December 21, 2020|archive-url=https://web.archive.org/web/20201221165102/https://forward.com/culture/430773/the-secret-jewish-history-of-stephen-king/}}</ref><ref name=OfficialFAQ>{{cite web |url=http://www.stephenking.com/faq.html#0.5 |title=Frequently Asked Questions |website=StephenKing.com |access-date=October 21, 2010 |archive-url=https://web.archive.org/web/20100807233718/http://www.stephenking.com/faq.html#0.5 |archive-date=August 7, 2010 |url-status=live}}</ref> but lost his belief in organized religion while in high school. While no longer religious, he says he chooses to believe in the existence of God.<ref name= guardian>{{cite news |url=https://www.theguardian.com/books/2014/oct/29/stephen-king-religion-dangerous-god-exists |title=Stephen King: 'Religion Is a Dangerous Tool... but I Choose to Believe God Exists' |last=Flood |first=Allison |date=October 29, 2014 |work=[[The Guardian]] |access-date=December 13, 2016 |archive-url=https://web.archive.org/web/20170116201401/https://www.theguardian.com/books/2014/oct/29/stephen-king-religion-dangerous-god-exists |archive-date=January 16, 2017 |url-status=live}}</ref>
+
+As a child, King apparently witnessed one of his friends being struck and killed by a train, though he has no memory of the event. His family told him that after leaving home to play with the boy, King returned speechlessly and seemingly in shock. Only later did the family learn of the friend's death. Some commentators have suggested that this event may have psychologically inspired some of King's darker works,<ref>{{cite book| last= Beahm| first= George| title= The Stephen King Story: A Literary Profile| publisher= Andrews and McMeel| year= 1991| isbn= 0836279891| url= https://archive.org/details/stephenkingstory00beah}}</ref> but King makes no mention of it in his memoir ''[[On Writing: A Memoir of the Craft|On Writing]]'' (2000). He related in detail his primary inspiration for writing horror fiction in his non-fiction ''[[Danse Macabre (book)|Danse Macabre]]'' (1981), in a chapter titled "An Annoying Autobiographical Pause". He compared his uncle's [[dowsing]] for water using the bough of an apple branch with the sudden realization of what he wanted to do for a living. That inspiration occurred while browsing through an attic with his elder brother, when King uncovered a paperback version of an [[H. P. Lovecraft]] collection of short stories he remembers as ''The Lurker in the Shadows'',<!-- "The Lurker in the Shadows" doesn't exist and King may mean "The Lurker at the Threshold", but as he says "Shadows" we qualify it by saying that's what he remembers it as.--> that had belonged to his father. King told Barnes & Noble Studios during a 2009 interview, "I knew that I'd found home when I read that book."<ref>{{cite web |url=http://www.youtube.com/watch?v=ic7JnF4vStA&feature=relmfu |title=Stephen King – Meet the Writers (5:45 into the video) |publisher=YouTube |date=November 3, 2009 |access-date=November 14, 2011 |archive-url=https://web.archive.org/web/20130703124833/http://www.youtube.com/watch?v=ic7JnF4vStA&feature=relmfu |archive-date=July 3, 2013 |url-status=live }}</ref>
+
+King attended Durham Elementary School and graduated from [[Lisbon Falls High School]] in [[Lisbon Falls, Maine]], in 1966.<ref>{{cite web |title=The Author |url=https://stephenking.com/the_author.html |website=StephenKing.com |access-date=September 9, 2019 |archive-url=https://web.archive.org/web/20190816214429/https://stephenking.com/the_author.html |archive-date=August 16, 2019}}</ref> He displayed an early interest in horror as an avid reader of [[EC Comics|EC horror comics]], including ''[[Tales from the Crypt (comics)|Tales from the Crypt]]'', and he later paid tribute to the comics in his screenplay for ''[[Creepshow]]''. He began writing for fun while still in school, contributing articles to ''Dave's Rag'', the newspaper his brother published with a [[mimeograph machine]], and later began selling stories to his friends based on movies he had seen (he was forced to return the profits when discovered by teachers.) The first of his stories to be independently published was "[[I Was a Teenage Grave Robber]]", which was serialized over four issues (three published and one unpublished) of a [[fanzine]], ''Comics Review'', in 1965. That story was published the following year in a revised form as "In a Half-World of Terror" in another fanzine, ''Stories of Suspense'', edited by [[Marv Wolfman]].<ref>{{cite book| last=Wood | first=Rocky|title=Stephen King: Uncollected, Unpublished | publisher= Cemetery Dance Publications| location=Abingdon, Maryland |year=2006| page=199|isbn= 1-58767-130-1|display-authors=etal}}</ref> As a teen, King also won a [[Scholastic Art and Writing Awards|Scholastic Art and Writing Award]].<ref>{{cite press release| publisher= Scholastic Inc.| title= America's Most Creative Teens Named as National 2016 Scholastic Art & Writing Awards Recipients| url= http://mediaroom.scholastic.com/press-release/america-s-most-creative-teens-named-national-2016-scholastic-art-writing-awards-recipi| date= March 14, 2016| location= New York City| access-date= January 11, 2017| archive-url= https://web.archive.org/web/20170215014410/http://mediaroom.scholastic.com/press-release/america-s-most-creative-teens-named-national-2016-scholastic-art-writing-awards-recipi| archive-date= February 15, 2017| url-status= live}}</ref>
+
+From 1966, King studied at the [[University of Maine]], graduating in 1970 with a [[Bachelor of Arts#United States|Bachelor of Arts]] in English.<ref>{{cite web|url=https://www.stephenking.com/the_author.html|title=StephenKing.com - About the Author|website=www.stephenking.com|access-date=January 15, 2020|archive-date=November 4, 2021|archive-url=https://web.archive.org/web/20211104005915/https://stephenking.com/the-author/|url-status=live}}</ref> That year, his daughter Naomi Rachel was born. He wrote a column, ''Steve King's Garbage Truck'', for the student newspaper, ''[[The Maine Campus]]'', and participated in a writing workshop organized by [[Burton Hatlen]].<ref name=bn>{{Cite news|first=Alicia |last=Anstead |title=UM scholar Hatlen, mentor to Stephen King, dies at 71 |url=http://bangornews.com/news/t/city.aspx?articleid=159261&zoneid=17 |newspaper=[[Bangor Daily News]] |date=January 23, 2008 |archive-url=https://web.archive.org/web/20080302041533/http://bangornews.com/news/t/city.aspx?articleid=159261&zoneid=176 |archive-date=March 2, 2008 |url-status=dead }}</ref> King held a variety of jobs to pay for his studies, including janitor, gas pump attendant, and worker at an industrial laundry. King met his wife, fellow student [[Tabitha King|Tabitha Spruce]], at the university's Fogler Library after one of Professor Hatlen's workshops; they wed in 1971.<ref name="bn"/>
+
+==Career==
+===Beginnings===
+[[File:Hampden Academy.jpg|thumb|In 1971, King worked as a teacher at [[Hampden Academy]]]]
+King sold his first professional short story, "[[The Glass Floor]]", to ''Startling Mystery Stories'' in 1967.<ref name=OfficialBio/>
+
+After graduating from the [[University of Maine]], King earned a certificate to teach high school but, unable to find a teaching post immediately, he initially supplemented his laboring wage by selling short stories to [[List of men's magazines|men's magazines]] such as ''[[Cavalier (magazine)|Cavalier]]''. Many of these early stories have been republished in the collection ''[[Night Shift (short story collection)|Night Shift]]''. The short story "The Raft" was published in ''Adam'', a men's magazine. After being arrested for stealing traffic cones (he was annoyed after one of the cones knocked his muffler loose), he was fined $250 for petty larceny but had no money to pay. However, a check then arrived for "The Raft" (then entitled "The Float"), and King cashed it to pay the fine.<ref>{{Cite magazine|last=Klein|first=T.E.D.|date=June 1983|title=Cone fever . . .|url=https://archive.org/details/TwilightZoneJune83|journal=Rod Serling's the Twilight Zone Magazine|volume=3|issue=2|page=6}}</ref> In 1971, King was hired as a teacher at [[Hampden Academy]] in [[Hampden, Maine]]. He continued to contribute short stories to magazines and worked on ideas for novels.<ref name=OfficialBio/> During 1966–1970, he wrote a draft about his [[dystopian novel]] called ''[[The Long Walk]]''<ref>{{cite book|last=King|first=Stephen|title=Full Dark, No Stars|url=https://archive.org/details/fulldarknostars00king|url-access=registration|year=2010|chapter=Afterword|publisher=Scribner|isbn=9781439192566}}</ref> and the [[anti-war novel]] ''[[Sword in the Darkness]]'',<ref>{{cite book|last=Blue|first=Tyson|title=The Unseen King|publisher=Borgo Press|year=1989|isbn=1-55742-073-4}}</ref><ref>*{{cite book|last=Spignesi|first=Stephen|title=The Lost Work of Stephen King|publisher=Birch Lane Press|year=1998|isbn=1-55972-469-2}}</ref> but neither of the works was published at the time; only ''The Long Walk'' was later released in 1979.
+
+===''Carrie'' and aftermath===
+In 1973, King's novel ''[[Carrie (novel)|Carrie]]'' was accepted by publishing house [[Doubleday (publisher)|Doubleday]]. ''Carrie'' was King's fourth novel,<ref>King, Stephen (2000) On Writing New York: Scribner. {{ISBN|978-1-43919-363-1}}, at p.77</ref> but it was the first to be published. It was written on a portable typewriter that belonged to his wife. The novel began as a short story intended for ''[[Cavalier (magazine)|Cavalier]]'' magazine, but King tossed the first three pages of his work in the garbage can.<ref>King (2000), p.78. Quote: "I did three single-spaced pages of a first draft, then crumpled them up in disgust and threw them away."</ref> Tabitha King fished the pages out of the garbage can and encouraged him to finish the story, saying that she would help him with the female perspective; he followed her advice and expanded it into a novel.<ref>King, Tabitha, Introduction to "Carrie" (Collector's Edition) Plume 1991</ref> King said, "I persisted because I was dry and had no better ideas… my considered opinion was that I had written the world's all-time loser."<ref name="brand">{{cite journal |last=King |first=Stephen |author-link=Stephen King |date=February 1980 |title=On Becoming a Brand Name |journal=Adelina Magazine |page=44}}</ref> According to ''[[The Guardian]]'', ''Carrie'' "is the story of Carrie White, a high-school student with latent—and then, as the novel progresses, developing—telekinetic powers. It's brutal in places, affecting in others (Carrie's relationship with her almost hysterically religious mother being a particularly damaged one), and gory in even more."<ref>{{cite news|url=https://www.theguardian.com/books/2012/may/24/rereading-stephen-king-carrie|title=Rereading Stephen King: week one – Carrie|first=James|last=Smythe|date=May 24, 2012|via=www.theguardian.com|access-date=February 15, 2019|archive-url=https://web.archive.org/web/20190215215627/https://www.theguardian.com/books/2012/may/24/rereading-stephen-king-carrie|archive-date=February 15, 2019|url-status=live|newspaper=The Guardian}}</ref>
+
+When ''Carrie'' was chosen for publication, King's phone was out of service. Doubleday editor William Thompson – who would eventually become King's close friend – sent a telegram to King's house in late March or early April 1973<ref name=king83>King (2000), p.83</ref> which read: "Carrie Officially A Doubleday Book. $2,500 Advance Against Royalties. Congrats, Kid – The Future Lies Ahead, Bill."<ref>{{cite book|url=https://archive.org/details/stephenkingfromt00beah|url-access=registration|page=[https://archive.org/details/stephenkingfromt00beah/page/29 29]|quote=carrie stephen king april 5.|title=Stephen King from A to Z: An Encyclopedia of His Life and Work|first=George|last=Beahm|date=September 1, 1998|publisher=Andrews McMeel Publishing|via=Internet Archive|access-date=February 15, 2019|isbn=9780836269147}}</ref> According to King, he bought a new [[Ford Pinto]] with the money from the advance.<ref name="king83"/> On May 13, 1973, [[New American Library]] bought the paperback rights for $400,000, which—in accordance with King's contract with Doubleday—was split between them.<ref>Beahm, George Andrews (1989) ''The Stephen King Companion'' McMeel Press pp. 171–173.</ref><ref>King (2000), p.86</ref> ''Carrie'' set King's career in motion and became a significant novel in the horror genre. In 1976, it was made into a successful [[Carrie (1976 film)|horror film]].<ref>{{cite news|url=https://www.theguardian.com/books/2014/apr/04/carrie-stephen-king-horror|title=How Carrie changed Stephen King's life, and began a generation of horror|first=Alison|last=Flood|date=April 4, 2014|via=www.theguardian.com|access-date=February 15, 2019|archive-url=https://web.archive.org/web/20190215160005/https://www.theguardian.com/books/2014/apr/04/carrie-stephen-king-horror|archive-date=February 15, 2019|url-status=live|newspaper=The Guardian}}</ref>
+
+King's ''[['Salem's Lot]]'' was published in 1975. In a 1987 issue of ''The Highway Patrolman'' magazine, he stated, "The story seems sort of down home to me. I have a special cold spot in my heart for it!"<ref>Konstantin, Phil. [http://americanindian.net/stephenking.html "An Interview with Stephen King"] {{webarchive |url=https://web.archive.org/web/20140412115244/https://americanindian.net/stephenking.html |date=April 12, 2014}}, americanindian.net. Retrieved January 19, 2011.</ref> After his mother's death, King and his family moved to [[Boulder, Colorado]], where King wrote ''[[The Shining (novel)|The Shining]]'' (published 1977). The family returned to western Maine in 1975, where King completed his fourth novel, ''[[The Stand]]'' (published 1978). In 1977, the family, with the addition of [[Owen King|Owen Philip]] (his third and youngest child), traveled briefly to England, returning to Maine that fall, where King began teaching creative writing at the University of Maine.<ref>{{cite web |title=The Author |url=http://www.stephenking.com/the_author.html |publisher=stephenking.com |access-date=September 17, 2012 |archive-url=https://web.archive.org/web/20120917154420/http://www.stephenking.com/the_author.html |archive-date=September 17, 2012 |url-status=live}}</ref>
+
+In 1982, King published ''Different Seasons'', a collection of four novellas with a more serious dramatic bent than the horror fiction for which King is famous.<ref>{{cite news |url=https://www.nytimes.com/1982/08/11/books/books-of-the-times-074639.html|title=Books of the Times |date=August 11, 1982 |work=The New York Times |access-date=February 15, 2019 |archive-url=https://web.archive.org/web/20180621171309/https://www.nytimes.com/1982/08/11/books/books-of-the-times-074639.html |archive-date=June 21, 2018 |url-status=live}}</ref> The collection is notable for having had three of its four novellas turned into Hollywood films: ''[[Stand by Me (film)|Stand by Me]]'' (1986) was adapted from the novella ''[[The Body (King novella)|The Body]]'',<ref>{{cite web |url=https://www.etonline.com/all-the-stephen-king-easter-eggs-in-hulus-castle-rock-from-shawshank-to-sissy-spacek-106674 |title=All the Stephen King Easter Eggs in Hulu's 'Castle Rock' – From Shawshank to Sissy Spacek |website=Entertainment Tonight |access-date=February 15, 2019 |archive-url=https://web.archive.org/web/20190215160028/https://www.etonline.com/all-the-stephen-king-easter-eggs-in-hulus-castle-rock-from-shawshank-to-sissy-spacek-106674 |archive-date=February 15, 2019 |url-status=live}}</ref> ''[[The Shawshank Redemption]]'' (1994) was adapted from the novella ''[[Rita Hayworth and Shawshank Redemption]]'',<ref>{{cite web |url=https://www.vanityfair.com/hollywood/2014/09/shawshank-redemption-anniversary-story |title=The Little-Known Story of How The Shawshank Redemption Became One of the Most Beloved Films of All Time |first=Margaret |last=Heidenry |website=HWD |access-date=February 15, 2019 |archive-url=https://web.archive.org/web/20190226150020/https://www.vanityfair.com/hollywood/2014/09/shawshank-redemption-anniversary-story |archive-date=February 26, 2019 |url-status=live}}</ref> and ''[[Apt Pupil (film)|Apt Pupil]]'' (1998) was adapted from the novella of the same name.<ref>{{cite web |url=https://archive.nytimes.com/www.nytimes.com/library/film/102398apt-film-review.html|title='Apt Pupil': In a Suburb, Echoes of the Third Reich |website=archive.nytimes.com |access-date=February 15, 2019 |archive-url=https://web.archive.org/web/20190215160030/https://archive.nytimes.com/www.nytimes.com/library/film/102398apt-film-review.html |archive-date=February 15, 2019 |url-status=live}}</ref><ref>{{cite web |url=https://www.filmfracture.com/cinema-fearite-presents-apt-pupil-a-darker-more-twisted-stephen-king-tale/ |title=Cinema Fearité Presents 'Apt Pupil' – A Darker, More Twisted Stephen King Tale |date=September 14, 2017 |access-date=February 15, 2019 |archive-url=https://web.archive.org/web/20190215155851/https://www.filmfracture.com/cinema-fearite-presents-apt-pupil-a-darker-more-twisted-stephen-king-tale/ |archive-date=February 15, 2019 |url-status=live}}</ref>
+
+In 1985, King wrote his first work for the comic book medium,<ref>{{cite web |url=http://www.comicbookdb.com/creator.php?ID=2957 |title=Stephen King at The Comic Book Database |publisher=Comicbookdb.com |access-date=September 12, 2010 |archive-url=https://web.archive.org/web/20100516054308/http://www.comicbookdb.com/creator.php?ID=2957 |archive-date=May 16, 2010 |url-status=live}}</ref> writing a few pages of the benefit [[X-Men]] comic book ''[[Heroes for Hope Starring the X-Men]]''. The book, whose profits were donated to assist with [[famine]] relief in Africa, was written by a number of different authors in the comic book field, such as [[Chris Claremont]], [[Stan Lee]], and [[Alan Moore]], as well as authors not primarily associated with that industry, such as [[Harlan Ellison]].<ref>{{cite web |url=http://www.comicbookdb.com/creator_title.php?ID=1385&cID=2957&pID=1 |title=Heroes for Hope |publisher=Comic Book Database |access-date=September 12, 2010 |archive-url=https://web.archive.org/web/20100520004701/http://www.comicbookdb.com/creator_title.php?ID=1385&cID=2957&pID=1 |archive-date=May 20, 2010 |url-status=live }}</ref> The following year, King published ''[[It (novel)|It]]'' (1986), which was the best-selling hard-cover novel in the United States that year,<ref>{{cite news |url=https://www.nytimes.com/1987/01/05/books/fatherhood-and-it-top-sellers-of-86.html |title='FATHERHOOD' AND 'IT' TOP SELLERS OF '86 |newspaper=nytimes.com |access-date=October 21, 2018 |archive-url=https://web.archive.org/web/20180803015805/https://www.nytimes.com/1987/01/05/books/fatherhood-and-it-top-sellers-of-86.html |archive-date=August 3, 2018 |url-status=live }}</ref> and wrote the introduction to ''[[Batman]]'' No. 400, an anniversary issue in which he expressed his preference for that character over [[Superman]].<ref>{{cite web |url=http://www.comicbookdb.com/issue.php?ID=34874 |title=Batman No. 400 |publisher=Comic Book Database |access-date=September 12, 2010 |archive-url=https://web.archive.org/web/20100516060240/http://www.comicbookdb.com/issue.php?ID=34874 |archive-date=May 16, 2010 |url-status=live }}</ref><ref>{{cite book|last=Manning|first= Matthew K.|editor-last=Dolan|editor-first=Hannah|chapter= 1980s|title = DC Comics Year By Year A Visual Chronicle|publisher=[[Dorling Kindersley]] |year=2010 |isbn= 978-0-7566-6742-9 |page= 221 |quote = Batman celebrated the 400th issue of his self-titled comic with a blockbuster featuring dozens of famous comic book creators and... with an introduction by novelist Stephen King.}}</ref>
+
+===''The Dark Tower'' books===
+{{Main|The Dark Tower (series)}}
+
+In the late 1970s, King began what became a series of interconnected stories about a lone gunslinger, Roland, who pursues the "Man in Black" in an alternate-reality universe that is a cross between [[J. R. R. Tolkien]]'s [[Middle-earth]] and the American [[Wild West]] as depicted by [[Clint Eastwood]] and [[Sergio Leone]] in their [[spaghetti Western]]s. The first of these stories, ''[[The Dark Tower: The Gunslinger]]'', was initially published in five installments by ''[[The Magazine of Fantasy & Science Fiction]]'' under the editorship of [[Edward L. Ferman]], from 1977 to 1981. ''The Gunslinger'' was continued as an eight-book epic series called ''[[The Dark Tower (series)|The Dark Tower]]'', whose books King wrote and published infrequently over four decades.{{citation needed|date=September 2019}}
+
+===<span id="Richard Bachman"></span>Pseudonyms===
+In the late 1970s and early 1980s, King published a handful of short novels—''[[Rage (King novel)|Rage]]'' (1977), ''[[The Long Walk]]'' (1979), ''[[Roadwork]]'' (1981), ''[[The Running Man (King novel)|The Running Man]]'' (1982) and ''[[Thinner (novel)|Thinner]]'' (1984)—under the pseudonym [[Richard Bachman]]. The idea behind this was to test whether he could replicate his success again and to allay his fears that his popularity was an accident. An alternate explanation was that publishing standards at the time allowed only a single book a year.<ref name=kingbachman>{{cite web|url=http://www.stephenking.com/pages/FAQ/Stephen_King/whybachman.php |title=Stephen King FAQ: "Why did you write books as Richard Bachman?" |author=King, Stephen |access-date=December 13, 2006 |publisher=StephenKing.com |archive-url=https://web.archive.org/web/20061115014750/http://www.stephenking.com/pages/FAQ/Stephen_King/whybachman.php |archive-date=November 15, 2006 |url-status=dead }}</ref> He picked up the name from the hard rock band [[Bachman-Turner Overdrive]], of which he is a fan.<ref>{{cite web |first=Steve |last=Newton |url=https://www.straight.com/article-193999/bto-founder-searched-stephen-king |title=Bachman-Turner Overdrive founder searched for Stephen King |website=Straight.com |date=January 13, 2009 |access-date=September 20, 2011 |archive-url=https://web.archive.org/web/20120118154751/http://www.straight.com/article-193999/bto-founder-searched-stephen-king |archive-date=January 18, 2012 |url-status=live }}</ref>
+
+Richard Bachman was exposed as King's pseudonym by a persistent Washington, D.C. bookstore clerk, Steve Brown, who noticed similarities between the works and later located publisher's records at the [[Library of Congress]] that named King as the author of one of Bachman's novels.<ref>Brown, Steve. [http://www.liljas-library.com/bachman_exposed.php/ 'Richard Bachman Exposed'] {{webarchive |url=https://web.archive.org/web/20091204150347/http://www.liljas-library.com/bachman_exposed.php |date=December 4, 2009}}. Lilja's Library: The World of Stephen King. Retrieved December 27, 2008.</ref> This led to a press release heralding Bachman's "death"—supposedly from "cancer of the pseudonym".<ref>[http://books.simonandschuster.com/9781416548584 'Blaze – Book Summary'] {{webarchive |url=https://web.archive.org/web/20090214012053/http://books.simonandschuster.com/9781416548584 |date=February 14, 2009}}. Simon & Schuster. Retrieved January 10, 2009.</ref> King dedicated his 1989 book ''[[The Dark Half]]'', about a pseudonym turning on a writer, to "the deceased Richard Bachman", and in 1996, when the Stephen King novel ''[[Desperation (novel)|Desperation]]'' was released, the companion novel ''[[The Regulators (novel)|The Regulators]]'' carried the "Bachman" byline.
+
+In 2006, during a press conference in London, King declared that he had discovered another Bachman novel, titled ''[[Blaze (novel)|Blaze]]''. It was published on June 12, 2007. In fact, the original manuscript had been held at King's Alma mater, the University of Maine in [[Orono, Maine|Orono]], for many years and had been covered by numerous King experts. King rewrote the original 1973 manuscript for its publication.<ref>{{Cite book|title=The Stephen King companion: forty years of fear from the master of horror|last=Beahm|first=George|publisher=Thomas Dunne Books/St. Martin's Griffin|year=2015|isbn=9781466856684|location=New York |pages=118–119}}</ref>
+
+King has used other pseudonyms. The short story "[[The Fifth Quarter (short story)|The Fifth Quarter]]" was published under the pseudonym John Swithen (the name of a character in the novel ''[[Carrie (novel)|Carrie]]''), by ''[[Cavalier (magazine)|Cavalier]]'' in April 1972.<ref>{{cite book|last=Beahm|first=George|title=Stephen King from A to Z: An Encyclopedia of His Life and Work|year=1998|publisher=Andrews McMeel Publishing|isbn=978-0836269147|page=[https://archive.org/details/stephenkingfromt00beah/page/75 75]|url=https://archive.org/details/stephenkingfromt00beah/page/75}}</ref> The story was reprinted in King's collection ''[[Nightmares & Dreamscapes]]'' in 1993 under his own name. In the introduction to the Bachman novel ''[[Blaze (novel)|Blaze]]'', King claims, with tongue-in-cheek, that "Bachman" was the person using the Swithen pseudonym.
+
+The "children's book" ''[[Charlie the Choo-Choo (book)|Charlie the Choo-Choo: From the World of The Dark Tower]]'' was published in 2016 under the pseudonym Beryl Evans, who was portrayed by actress Allison Davies during a book signing at [[San Diego Comic-Con]],<ref>{{cite web|url=http://www.ew.com/article/2016/07/22/charlie-choo-choo-stephen-king-dark-tower-comic-con|title='Charlie the Choo-Choo': 'The Dark Tower' fans seek Stephen King storybook that isn't real|date=July 22, 2016|access-date=August 11, 2017|archive-url=https://web.archive.org/web/20170810013924/http://ew.com/article/2016/07/22/charlie-choo-choo-stephen-king-dark-tower-comic-con/|archive-date=August 10, 2017|url-status=live}}</ref> and illustrated by Ned Dameron. It is adapted from a fictional book central to the plot of King's previous novel ''[[The Dark Tower III: The Waste Lands]]''.<ref>{{cite web|url=http://liljas-library.com/cell/article.php?id=5157|title=Lilja's|website=liljas-library.com|access-date=August 11, 2017|archive-url=https://web.archive.org/web/20170810012440/http://liljas-library.com/cell/article.php?id=5157|archive-date=August 10, 2017|url-status=live}}</ref>
+
+===Digital era===
+[[File:StephenKingGFDL.PNG|thumb|Stephen King at the [[Harvard Book Store]], June 6, 2005]]
+In 2000, King published [[Internet|online]] a serialized [[Horror (genre)|horror]] novel, ''[[The Plant (novel)|The Plant]]''.<ref>{{cite news|newspaper=[[Computerworld]]|date= January 8, 2001 |page=14 |title=Barnes & Noble Takes Popular Literature Digital|last=Verton |first=Dan}}</ref> At first the public assumed that King had abandoned the project because sales were unsuccessful, but King later stated that he had simply run out of stories.<ref>{{cite web |url=http://slashdot.org/features/00/11/30/1238204.shtml |title=Stephen King's Net Horror Story |publisher=Slashdot |date=December 4, 2000 |access-date=September 12, 2010 |archive-url=https://web.archive.org/web/20090502064223/http://slashdot.org/features/00/11/30/1238204.shtml |archive-date=May 2, 2009 |url-status=live }}</ref> The unfinished [[epistolary novel]] is still available from King's official site, now free. Also in 2000, he wrote a digital novella, ''[[Riding the Bullet]]'', and saying he foresaw [[e-book]]s becoming 50% of the market "probably by 2013 and maybe by 2012". However, he also stated: "Here's the thing—people tire of the new toys quickly."<ref>{{cite news|author=Minzesheimer, Bob|url=https://www.usatoday.com/life/books/news/2010-10-20-ebooks14_CV_N.htm|title=More bibliophiles get on the same page with digital readers|work=[[USA Today]]|date=October 20, 2010|access-date=August 22, 2017|archive-url=https://web.archive.org/web/20110504045921/http://www.usatoday.com/life/books/news/2010-10-20-ebooks14_CV_N.htm|archive-date=May 4, 2011|url-status=live}}</ref>
+
+King wrote the first draft of the 2001 novel ''[[Dreamcatcher (novel)|Dreamcatcher]]'' with a notebook and a [[Waterman pens|Waterman]] [[fountain pen]], which he called "the world's finest word processor".<ref>{{Cite book | last =King | first =Stephen | title =Dreamcatcher | publisher =Scribner | year =2001 | isbn =0-7432-1138-3 | url =https://archive.org/details/dreamcatchernove00king_0 }}</ref>
+
+In August 2003, King began writing a column on pop culture appearing in ''[[Entertainment Weekly]]'', usually every third week. The column was called ''The Pop of King'' (a play on the nickname "The King of Pop" commonly attributed to [[Michael Jackson]]).<ref>{{cite web |last=King |first=Stephen |url=http://www.ew.com/ew/article/0,,472359,00.html |title=The Pop of King: The Tao of Steve |work=Entertainment Weekly |date=February 1, 2007 |access-date=September 12, 2010 |archive-url=https://web.archive.org/web/20110315221243/http://www.ew.com/ew/article/0,,472359,00.html |archive-date=March 15, 2011 |url-status=live }}</ref>
+
+In 2006, King published an [[Apocalyptic and post-apocalyptic fiction|apocalyptic novel]], ''[[Cell (novel)|Cell]]''. The book features a sudden force in which every cell phone user turns into a mindless killer. King noted in the book's introduction that he does not use cell phones.{{Citation needed|date=October 2019}}
+
+In 2008, King published both a novel, ''[[Duma Key]]'', and a collection, ''[[Just After Sunset]]''. The latter featured 13 short stories, including a previously unpublished novella, ''[[N. (novella)|N.]]'' Starting July 28, 2008, ''N.'' was released as a serialized animated series to lead up to the release of ''Just After Sunset.''<ref>{{cite web|url=http://www.comicsbulletin.com/news/121699557028597.htm|title=Marvel Bringing Stephen King's "N" To Your Phone|last=Powers|first=Kevin|date=July 25, 2008|access-date=July 30, 2008|archive-url=https://web.archive.org/web/20081015125539/http://comicsbulletin.com/news/121699557028597.htm|archive-date=October 15, 2008|url-status=live}}</ref>
+
+In 2009, King published ''[[Ur (novella)|Ur]]'', a novella written exclusively for the launch of the second-generation [[Amazon Kindle]] and available only on [[Amazon.com]], and ''[[Throttle (novella)|Throttle]]'', a novella co-written with his son [[Joe Hill (writer)|Joe Hill]] and released  later as an [[audiobook]] titled ''[[Road Rage (audiobook)|Road Rage]]'', which included [[Richard Matheson]]'s short story "[[Duel (1971 film)|Duel]]". King's novel ''[[Under the Dome (novel)|Under the Dome]]'' was published on November 10 of that year; it is a reworking of an unfinished novel he tried writing twice in the late 1970s and early 1980s, and at 1,074 pages, it is the largest novel he has written since ''[[It (novel)|It]]'' (1986). ''Under the Dome'' debuted at No. 1 in [[The New York Times Bestseller List|''The New York Times'' Bestseller List]].<ref>{{cite news|url=https://www.nytimes.com/best-sellers-books/2009-11-29/hardcover-fiction/list.html|title=Best Sellers – The New York Times|date=November 29, 2009|access-date=March 20, 2011|first=Jennifer|last=Schuessler|archive-url=https://web.archive.org/web/20110511170235/http://www.nytimes.com/best-sellers-books/2009-11-29/hardcover-fiction/list.html|archive-date=May 11, 2011|url-status=live}}</ref>
+
+On February 16, 2010, King announced on his Web site that his next book would be a collection of four previously unpublished novellas called ''[[Full Dark, No Stars]]''. In April of that year, King published ''[[Blockade Billy]]'', an original novella issued first by independent small press [[Cemetery Dance Publications]] and later released in mass-market paperback by [[Simon & Schuster]]. The following month, [[DC Comics]] premiered ''[[American Vampire]]'', a monthly comic book series written by King with short-story writer [[Scott Snyder]], and illustrated by [[Rafael Albuquerque (artist)|Rafael Albuquerque]], which represents King's first original comics work.<ref>{{cite web |url=http://vertigo.blog.dccomics.com/2009/10/25/scott-snyder-and-stephen-king-to-write-a-new-horror-comic-book-series-american-vampire/ |last=Mullin |first=Pamela |title=SCOTT SNYDER and STEPHEN KING to write a new horror comic book series, AMERICAN VAMPIRE |publisher=Vertigo.blog.dccomics.com |date=October 25, 2009 |access-date=September 12, 2010 |archive-url=https://web.archive.org/web/20101218153047/http://vertigo.blog.dccomics.com/2009/10/25/scott-snyder-and-stephen-king-to-write-a-new-horror-comic-book-series-american-vampire/ |archive-date=December 18, 2010 |url-status=dead}}</ref><ref>{{cite news |url=http://www.newsarama.com/comics/091026-american-vampire.html |title=Stephen King Brings an ''American Vampire'' Tale to Vertigo |first=Vaneta |last=Rogers |date=October 26, 2009 |work=[[Newsarama]] |archive-url=https://web.archive.org/web/20091028231812/http://www.newsarama.com/comics/091026-american-vampire.html |archive-date=October 28, 2009 |url-status=live |access-date=April 1, 2012}}</ref><ref>Rogers, Vaneta. [http://www.newsarama.com/comics/091029-Rafael-Albuquerque-american-vampire.html "Rafael Albuquerque Talks American Vampire, Stephen King"] {{webarchive |url=https://web.archive.org/web/20110511111909/http://www.newsarama.com/comics/091029-Rafael-Albuquerque-american-vampire.html |date=May 11, 2011}}, Newsarama, October 29, 2010</ref> King wrote the background history of the very first American vampire, Skinner Sweet, in the first five-issues story arc. Scott Snyder wrote the story of Pearl.<ref>Cowsill, Alan "2000s" in Dolan, p. 340: "The first five double-sized issues consisted of two stories, illustrated by Rafael Albuquerque. Scott Snyder wrote each issue's lead feature, and Stephen King wrote the back-up tales."</ref>
+
+King's next novel, ''[[11/22/63]]'', was published November 8, 2011,<ref>[https://www.amazon.com/11-22-63-Stephen-King/dp/1451627289/ref=sr_1_1?ie=UTF8&qid=1321239824&sr=8-1 ''11/22/63''] {{Webarchive|url=https://web.archive.org/web/20211104010026/https://www.amazon.com/11-22-63-Stephen-King/dp/1451627289/ref=sr_1_1?ie=UTF8&qid=1321239824&sr=8-1 |date=November 4, 2021 }}. [[Amazon.com]]. Retrieved November 13, 2011.</ref><ref>King, Stephen. [http://www.stephenking.com/promo/11-22-63/announcement/ "Stephen King's 11/22/63"] {{webarchive |url=https://web.archive.org/web/20110306143236/http://www.stephenking.com/promo/11-22-63/announcement/ |date=March 6, 2011}}. stephenking.com. Retrieved March 11, 2011.</ref> and was nominated for the 2012 World Fantasy Award Best Novel.<ref>{{cite web|title=World Fantasy Award Ballot|url=http://www.wfc2012.org/pr-wfawards01.html|publisher=World Fantasy Convention|access-date=August 8, 2012|archive-url=https://web.archive.org/web/20120814074718/http://www.wfc2012.org/pr-wfawards01.html|archive-date=August 14, 2012|url-status=live}}</ref>  The eighth ''[[The Dark Tower (series)|Dark Tower]]'' volume, ''[[The Dark Tower: The Wind Through the Keyhole|The Wind Through the Keyhole]]'', was published in 2012.<ref>King, Stephen. [http://www.stephenking.com/promo/wind_through_the_keyhole/announcement/ "The Dark Tower: The Wind Through the Keyhole: 2012"] {{webarchive|url=https://web.archive.org/web/20170917063204/http://www.stephenking.com/promo/wind_through_the_keyhole/announcement/ |date=September 17, 2017}}, stephenking.com. Retrieved March 11, 2011.</ref> King's next book was ''[[Joyland (King novel)|Joyland]]'', a novel about "an amusement-park serial killer", according to an article in ''[[The Sunday Times]]'', published on April 8, 2012.<ref>{{cite web |url=http://www.thesundaytimes.co.uk/sto/Magazine/Interviews/article1008100.ece |title=The Wind Through the Keyhole |work=[[The Sunday Times]] |location=UK |date=April 8, 2012 |access-date=April 14, 2012 |archive-url=https://web.archive.org/web/20131206122638/http://www.thesundaytimes.co.uk/sto/Magazine/Interviews/article1008100.ece |archive-date=December 6, 2013 |url-status=live}}{{subscription required|date=April 2012}}</ref>
+
+During his Chancellor's Speaker Series talk at [[University of Massachusetts Lowell]] on December 7, 2012, King indicated that he was writing a crime novel about a retired policeman being taunted by a murderer. With a working title ''[[Mr. Mercedes]]'' and inspired by a true event about a woman driving her car into a McDonald's restaurant, it was originally meant to be a short story just a few pages long.<ref>[http://www.uml.edu/Chancellor/Speaker-Series/Stephen-King-Videos.aspx "A Conversation with Stephen King"] {{webarchive |url=https://web.archive.org/web/20121215114727/http://www.uml.edu/Chancellor/Speaker-Series/Stephen-King-Videos.aspx |date=December 15, 2012}}. Chancellor's Speaker Series. [[University of Massachusetts Lowell]]. Retrieved December 14, 2012.</ref> In an interview with ''[[Parade (magazine)|Parade]]'', published on May 26, 2013, King confirmed that the novel was "more or less" completed<ref>{{cite web |last=Tucker |first=Ken |url=http://www.parade.com/15671/kentucker/summers-best-books-starring-stephen-king/ |title=A Rare Interview with Master Storyteller Stephen King |work=Parade |date=May 25, 2013 |access-date=May 26, 2013 |archive-url=https://web.archive.org/web/20130607090353/http://www.parade.com/15671/kentucker/summers-best-books-starring-stephen-king/ |archive-date=June 7, 2013 |url-status=live}}</ref> he published it in June 2013. Later, on June 20, 2013, while doing a video chat with fans as part of promoting the upcoming ''[[Under the Dome (TV series)|Under the Dome]]'' TV series, King mentioned he was halfway through writing his next novel, ''[[Revival (novel)|Revival]]'',<ref>{{cite news |url=http://www.cbs.com/connect/events/archive/20/ |title=''Under the Dome'' - Live Chat feat. Stephen King |work=[[CBS]] |date=June 20, 2013 |access-date=June 21, 2013 |archive-url=https://web.archive.org/web/20130624111529/http://www.cbs.com/connect/events/archive/20|archive-date=June 24, 2013|url-status=dead}}</ref> which was released November 11, 2014.<ref>{{cite book|url=https://www.goodreads.com/book/show/20926278-revival?from_search=true|title=Revival|author=King, Stephen|date=November 11, 2014|access-date=January 31, 2015|archive-url=https://web.archive.org/web/20151016033326/https://www.goodreads.com/book/show/20926278-revival?from_search=true|archive-date=October 16, 2015|url-status=live}}</ref>
+
+King announced in June 2014 that ''Mr. Mercedes'' is part of a trilogy; the second book, ''[[Finders Keepers (King novel)|Finders Keepers]]'', was released on June 2, 2015. On April 22, 2015, it was revealed that King was working on the third book of the trilogy, ''[[End of Watch (novel)|End of Watch]]'', which was ultimately released on June 7, 2016.<ref name="King twitter">{{cite web | url=https://twitter.com/StephenKing/status/476431669139111936 | title=Stephen King @Sephen King | publisher=Stephen King via Twitter | work=@Stephen King | date=June 10, 2014 | access-date=June 11, 2014 | author=King, Stephen | archive-url=https://web.archive.org/web/20140616040008/https://twitter.com/StephenKing/status/476431669139111936 | archive-date=June 16, 2014 | url-status=live }}</ref><ref>{{cite news|url=https://www.usatoday.com/story/life/books/2015/06/10/stephen-king-judy-blume-usa-todays-best-selling-books/28752797/|title=Stephen King rules at No. 1|date=June 10, 2015|first=Jocelyn|last=McClurg|access-date=August 22, 2017|archive-url=https://web.archive.org/web/20151016033326/http://www.usatoday.com/story/life/books/2015/06/10/stephen-king-judy-blume-usa-todays-best-selling-books/28752797/|archive-date=October 16, 2015|url-status=live}}</ref>
+
+During a tour to promote ''End of Watch'', King revealed that he had collaborated on a novel, set in a women's prison in West Virginia, with his son, Owen King, titled ''[[Sleeping Beauties (novel)|Sleeping Beauties]]''.<ref>{{cite web|url=https://firewireblog.com/2016/06/14/sleeping-beauties-a-new-book-by-stephen-owen-king-due-in-2017/|title=Sleeping Beauties; A New Book By Stephen & Owen King Due In 2017|date=June 14, 2016|access-date=January 8, 2017|archive-url=https://web.archive.org/web/20161119182203/https://firewireblog.com/2016/06/14/sleeping-beauties-a-new-book-by-stephen-owen-king-due-in-2017/|archive-date=November 19, 2016|url-status=live}}</ref>
+
+In 2018, he released the novel ''[[The Outsider (King novel)|The Outsider]]'', which featured the character of [[Holly Gibney]], and the novella ''[[Elevation (novella)|Elevation]]''. In 2019, he released the novel ''[[The Institute (novel)|The Institute]]''. In 2020, King released ''[[If It Bleeds]]'', a collection of four previously unpublished novellas.
+
+==Collaborations==
+===Writings===
+King has written two novels with horror novelist [[Peter Straub]]: ''[[The Talisman (King and Straub novel)|The Talisman]]'' (1984) and a sequel, ''[[Black House (novel)|Black House]]'' (2001). King has indicated that he and Straub will likely write the third and concluding book in this series, the tale of Jack Sawyer, but has set no deadline for its completion.{{citation needed|date=September 2019}}
+
+King produced an [[artist's book]] with designer [[Barbara Kruger]], ''[[My Pretty Pony]]'' (1989), published in a limited edition of 250 by the Library Fellows of the [[Whitney Museum of American Art]]. [[Alfred A. Knopf]] released it in a general trade edition.<ref>{{cite web |url=http://www.moma.org/collection/object.php?object_id=11920 |title=The Collection &#124; Barbara Kruger. My Pretty Pony. 1988 |publisher=MoMA |access-date=September 10, 2012 |archive-url=https://web.archive.org/web/20140202134210/http://www.moma.org/collection/object.php?object_id=11920 |archive-date=February 2, 2014 |url-status=live }}</ref>
+
+''[[The Diary of Ellen Rimbauer: My Life at Rose Red]]'' (2001) was a paperback tie-in for the King-penned miniseries ''[[Rose Red (miniseries)|Rose Red]]'' (2002). Published under anonymous authorship, the book was written by Ridley Pearson. The novel is written in the form of a [[diary]] by Ellen Rimbauer, and annotated by the fictional professor of paranormal activity, Joyce Reardon. The novel also presents a fictional [[afterword]] by Ellen Rimbauer's grandson, Steven. Intended to be a promotional item rather than a stand-alone work, its popularity spawned a 2003 prequel television miniseries to ''Rose Red'', titled ''[[The Diary of Ellen Rimbauer (film)|The Diary of Ellen Rimbauer]]''. This spin-off is a rare occasion of another author being granted permission to write commercial work using characters and story elements invented by King. The novel tie-in idea was repeated on Stephen King's next project, the miniseries ''[[Kingdom Hospital]]''. [[Richard Dooling]], King's collaborator on ''Kingdom Hospital'' and writer of several episodes in the miniseries, published a fictional diary, ''The Journals of Eleanor Druse'', in 2004. Eleanor Druse is a key character in ''Kingdom Hospital'', much as Dr. Joyce Readon and Ellen Rimbauer are key characters in ''Rose Red.''{{citation needed|date=September 2019}}
+
+''[[Throttle (novella)|Throttle]]'' (2009), a novella written in collaboration with his son Joe Hill, appears in the anthology ''He Is Legend: Celebrating Richard Matheson''.<ref>{{cite web |url=http://www.gauntletpress.com/cgi-bin/gauntletpress/perlshop.cgi?ACTION=template&thispage=HeisLegend&ORDER_ID=251390396 |archive-url=https://web.archive.org/web/20110511204109/http://www.gauntletpress.com/cgi-bin/gauntletpress/perlshop.cgi?ACTION=template&thispage=HeisLegend&ORDER_ID=251390396 |url-status=dead |archive-date=May 11, 2011 |title=Gauntlet Press website, forthcoming titles |publisher=Gauntletpress.com |access-date=September 12, 2010 }}</ref>  Their second novella collaboration, ''[[In the Tall Grass]]'' (2012), was published in two parts in ''[[Esquire (magazine)|Esquire]]''.<ref>{{cite web |url=http://www.esquire.com/features/june-july-2012-contents |title=June/July 2012 Contents |work=Esquire |date=May 22, 2012 |access-date=January 10, 2014 |archive-url=https://web.archive.org/web/20140109033013/http://www.esquire.com/features/june-july-2012-contents |archive-date=January 9, 2014 |url-status=live }}</ref><ref>{{cite web |url=http://www.esquire.com/features/august-2012-contents |title=August 2012 Contents |work=Esquire |date=July 3, 2012 |access-date=January 10, 2014 |archive-url=https://web.archive.org/web/20140326235857/http://www.esquire.com/features/august-2012-contents |archive-date=March 26, 2014 |url-status=live }}</ref> It was later released in [[e-book]] and [[audiobook]] formats, the latter read by [[Stephen Lang (actor)|Stephen Lang]].<ref>{{cite book|title=In the Tall Grass|first1=Stephen|last1=King|first2=Joe|last2=Hill|first3=Stephen|last3=Lang|date=October 9, 2012|publisher=Simon & Schuster Audio|isbn = 978-1442359888}}</ref>
+
+King and his son Owen King wrote the novel ''[[Sleeping Beauties (novel)|Sleeping Beauties]]'', released in 2017, that is set in a women's prison.<ref>{{cite web|last1=Thurman|first1=Trace|title=Stephen King Turns 69 Today!|url=http://bloody-disgusting.com/news/3407089/stephen-king-69th-birthday/|publisher=Bloody Disgusting|access-date=January 6, 2017|archive-url=https://web.archive.org/web/20170107004051/http://bloody-disgusting.com/news/3407089/stephen-king-69th-birthday/|archive-date=January 7, 2017|url-status=live|date=September 21, 2016}}</ref>
+
+King and [[Richard Chizmar]] collaborated to write [[Gwendy's Button Box]] (2017), a horror novella taking place is King's fictional town of [[Castle Rock (Stephen King)|Castle Rock]].<ref>{{Cite web|last=Truitt|first=Brian|date=May 22, 2017|title=Stephen King loads 'Gwendy's Button Box' with scares|url=https://www.usatoday.com/story/life/books/2017/05/22/gwendys-button-box-stephen-king-richard-chizmar-book-review/101788066/|access-date=February 9, 2021|website=[[USA Today]]|language=en-US|archive-date=August 11, 2020|archive-url=https://web.archive.org/web/20200811200106/https://www.usatoday.com/story/life/books/2017/05/22/gwendys-button-box-stephen-king-richard-chizmar-book-review/101788066/|url-status=live}}</ref> A sequel titled ''Gwendy's Magic Feather'' (2019) was written solely by Chizmar.<ref>{{Cite web|last=Breznican|first=Anthony|date=May 1, 2019|title='Gwendy's Magic Feather' goes back to Stephen King's Castle Rock|url=https://ew.com/books/2019/05/01/richard-chizmar-gwendys-magic-feather-stephen-king/|access-date=February 9, 2021|website=[[Entertainment Weekly]]|language=EN|archive-date=February 12, 2021|archive-url=https://web.archive.org/web/20210212233902/https://ew.com/books/2019/05/01/richard-chizmar-gwendys-magic-feather-stephen-king/|url-status=live}}</ref> In November 2020, Chizmar announced that he and King were writing a third installment in the series titled ''Gwendy's Final Task'', this time as a full-length novel, to be released in February 2022.<ref>{{Cite tweet |author=[[Richard Chizmar]] |user=RichardChizmar |number=1333163849722310657 |title=She’s back.}}</ref><ref>{{Cite tweet |author=Stephen King |user=StephenKing |number=1353890757485203456 |title=Reading CHASING THE BOOGEYMAN , by my sometime collaborator, Rich Chizmar (GWENDY’S BUTTON BOX and the forthcoming GWENDY’S FINAL TASK). BOOGEYMAN is creepy and engrossing. You’ll believe it.}}</ref><ref>{{Cite tweet|author=[[Richard Chizmar]]|user=RichardChizmar|number=1369335383398481927|date=March 9, 2021|title= Couple of lucky guys in today’s Publishers Marketplace...}}</ref>
+
+===Music===
+In 1988, the band [[Blue Öyster Cult]] recorded an updated version of its 1974 song [[Astronomy (song)|"Astronomy"]]. The single released for radio play featured a narrative intro spoken by King.<ref name="BOC">{{cite web|title=Complete Blue Öyster Cult Discography |url=http://www.blueoystercult.com/Studio/BOC_Discography.pdf |last=Gregmar |first=Bolle |publisher=Blue Öyster Cult |access-date=July 14, 2008 |archive-url=https://web.archive.org/web/20071128155309/http://www.blueoystercult.com/Studio/BOC_Discography.pdf |archive-date=November 28, 2007 |url-status=dead }}</ref><ref name="BOCreview">{{cite web | url=http://www.newsday.com/entertainment/music/blue-oyster-cult-s-40th-anniversary-cd-1.4147975 | title=Blue Oyster Cult's 40th anniversary CD | work=[[Newsday]] | date=October 26, 2012 | access-date=April 30, 2015 | last=Knopper | first=Steve | archive-url=https://web.archive.org/web/20150904015521/http://www.newsday.com/entertainment/music/blue-oyster-cult-s-40th-anniversary-cd-1.4147975 | archive-date=September 4, 2015 | url-status=live }}</ref> The Blue Öyster Cult song "[[(Don't Fear) The Reaper]]" was also used in the King TV series ''[[The Stand (1994 miniseries)|The Stand]]''.<ref name="UTDmusic">{{cite web | url=http://radio.com/2013/06/13/inside-music-stephen-king-under-the-dome/ | title=Inside The Music Of Stephen King's 'Under The Dome' Miniseries | work=radio.com | publisher=[[CBS Corporation|CBS]]| date=June 13, 2013 | access-date=April 30, 2015 | last=Ives | first=Brian | archive-url=https://web.archive.org/web/20150702171132/http://radio.com/2013/06/13/inside-music-stephen-king-under-the-dome/ | archive-date=July 2, 2015 | url-status=dead | df=mdy-all }}</ref>
+
+King collaborated with [[Michael Jackson]] to create ''[[Michael Jackson's Ghosts|Ghosts]]'' (1996), a 40-minute musical video.<ref name="movielineMJ">{{cite web | url=http://movieline.com/2009/07/14/the-cold-case-director-mick-garris-on-michael-jacksons-forgotten-ghosts/ | title=The Cold Case: Director Mick Garris on Michael Jackson's Forgotten Ghosts | publisher=[[Movieline]] | date=July 14, 2009 | access-date=April 30, 2015 | last=Adams | first=Michael | archive-url=https://web.archive.org/web/20150602010056/http://movieline.com/2009/07/14/the-cold-case-director-mick-garris-on-michael-jacksons-forgotten-ghosts/ | archive-date=June 2, 2015 | url-status=live }}</ref> King states he was motivated to collaborate as he is "always interested in trying something new, and for (him), writing a minimusical would be new".<ref name="MJGhosts">{{cite web | url=http://www.ew.com/article/2009/07/03/memories-michael-jackson | title=Memories of Michael Jackson | work=[[Entertainment Weekly]] | date=January 17, 2015 | access-date=April 30, 2015 | last=King | first=Stephen | author-link=Stephen King | archive-url=https://web.archive.org/web/20150919172854/http://www.ew.com/article/2009/07/03/memories-michael-jackson | archive-date=September 19, 2015 | url-status=live }}</ref> In 2005, King featured with a small spoken word part during the [[cover version]] of ''[[Everlong]]'' (by [[Foo Fighters]]) in [[Bronson Arroyo]]'s album ''[[Covering the Bases]]'', at the time, Arroyo was a [[pitcher]] for [[Major League Baseball]] team [[Boston Red Sox]] of whom King is a longtime fan.<ref>{{Cite web|title=Stephen King {{!}} Stephen Contributes to|url=https://stephenking.com/news/stephen-contributes-to-covering-the-bases-album-59.html|access-date=2021-08-18|website=stephenking.com|language=en|archive-date=August 18, 2021|archive-url=https://web.archive.org/web/20210818230642/https://stephenking.com/news/stephen-contributes-to-covering-the-bases-album-59.html|url-status=live}}</ref> In 2012, King collaborated with musician [[Shooter Jennings]] and his band [[Hierophant]], providing the narration for their album, ''[[Black Ribbons]]''.<ref>{{cite news|last=Lewis|first=Randy|title=Shooter Jennings and Stephen King team for 'Black Ribbons'|url=http://articles.latimes.com/2010/feb/27/entertainment/la-et-shooter-jennings27-2010feb27|access-date=June 5, 2012|newspaper=Los Angeles Times|date=February 27, 2010|archive-url=https://web.archive.org/web/20121013134646/http://articles.latimes.com/2010/feb/27/entertainment/la-et-shooter-jennings27-2010feb27|archive-date=October 13, 2012|url-status=live}}</ref> King played guitar for the rock band [[Rock Bottom Remainders]], several of whose members are authors. Other members include [[Dave Barry]], [[Ridley Pearson]], [[Scott Turow]], [[Amy Tan]], [[James McBride (writer)|James McBride]], [[Mitch Albom]], [[Roy Blount, Jr.]], [[Matt Groening]], [[Kathi Kamen Goldmark]], [[Sam Barry (author)|Sam Barry]], and [[Greg Iles]]. King and the other band members collaborated to release an e-book called ''Hard Listening: The Greatest Rock Band Ever (of Authors) Tells All'' (June 2013).<ref>{{cite web|last=Domonoske|first=Camila|url=https://www.npr.org/blogs/alltechconsidered/2013/06/17/191288040/digital-scrapbook-collects-rock-star-authors-memories|publisher=NPR|date=June 17, 2013|access-date=October 20, 2013|title=Digital Scrapbook Collects Rock-Star Authors' Memories|archive-url=https://web.archive.org/web/20131020163723/http://www.npr.org/blogs/alltechconsidered/2013/06/17/191288040/digital-scrapbook-collects-rock-star-authors-memories|archive-date=October 20, 2013|url-status=live}}</ref><ref>{{cite web|last=Crowder|first=Courtney|url=http://articles.chicagotribune.com/2013-07-12/features/ct-prj-0714-rock-bottom-remainders-ereader-20130712_1_printers-row-journal-band-members-scott-turow|title=The Rock Bottom Remainders rock out in 'Hard Listening'|work=Chicago Tribune|date=July 12, 2013|access-date=October 20, 2013|archive-url=https://web.archive.org/web/20131021031718/http://articles.chicagotribune.com/2013-07-12/features/ct-prj-0714-rock-bottom-remainders-ereader-20130712_1_printers-row-journal-band-members-scott-turow|archive-date=October 21, 2013|url-status=live}}</ref> King wrote a musical entitled ''[[Ghost Brothers of Darkland County]]'' (2012) with musician [[John Mellencamp]].{{Citation needed|date=October 2019}}
+
+==Analysis==
+===Writing style and approach===
+[[File:Stephen King - 2011.jpg|thumb|right|250px|Stephen King in 2011]]
+King's formula for learning to write well is: "Read and write four to six hours a day. If you cannot find the time for that, you can't expect to become a good writer." He sets out each day with a quota of 2000 words and will not stop writing until it is met. He also has a simple definition for talent in writing: "If you wrote something for which someone sent you a check, if you cashed the check and it didn't bounce, and if you then paid the light bill with the money, I consider you talented."<ref>''Everything You Need to Know About Writing Successfully—in Ten Minutes''</ref>
+
+When asked why he writes, King responds: "The answer to that is fairly simple—there was nothing else I was made to do. I was made to write stories and I love to write stories. That's why I do it. I really can't imagine doing anything else and I can't imagine not doing what I do."<ref>{{cite web|url=http://www.stephenking.com/pages/FAQ/Stephen_King/whywriter.php |title=Stephen King's official site |access-date=May 14, 2007 |archive-url=https://web.archive.org/web/20070509175239/http://www.stephenking.com/pages/FAQ/Stephen_King/whywriter.php |archive-date=May 9, 2007 |url-status=dead }}</ref> He is also often asked why he writes such terrifying stories and he answers with another question: "Why do you assume I have a choice?"<ref>{{Cite book| last =King | first =Stephen | title =Night Shift | publisher=Doubleday | year =1976 | location =xii | page =336 }}</ref> King usually begins the story creation process by imagining a "what if" scenario, such as what would happen if a [[Misery (novel)|writer is kidnapped by a sadistic nurse]] in Colorado.<ref name=JennaBlum6>Jenna Blum, 2013, ''The Modern Scholar'' published by Recorded Books, ''The Author at Work: The Art of Writing Fiction'', Disk 1, Track 11, {{ISBN|978-1-4703-8437-1}}</ref>
+
+King often uses authors as characters, or includes mention of [[fictional book]]s in his stories, novellas and novels, such as Paul Sheldon, who is the main character in ''[[Misery (novel)|Misery]]'', adult [[Bill Denbrough]] in ''[[It (novel)|It]]'', Ben Mears in ''[['Salem's Lot]]'', and Jack Torrance in ''[[The Shining (novel)|The Shining]]''. He has extended this to breaking the [[fourth wall]] by including ''himself'' as a character in [[The Dark Tower (series)|''The Dark Tower'' series]] from ''[[The Dark Tower V: Wolves of the Calla]]'' onwards. In September 2009 it was announced he would serve as a writer for ''[[Fangoria]]''.<ref>{{cite web|url=http://www.fangoria.com/home/news/1-latest-news/3978-stephen-king-writes-for-fangoria.html|archive-url=https://web.archive.org/web/20090925002142/http://www.fangoria.com/home/news/1-latest-news/3978-stephen-king-writes-for-fangoria.html|url-status=dead|title=Stephen King writes for FANGORIA!|archive-date=September 25, 2009}}</ref>
+
+===Influences===
+King has called [[Richard Matheson]] "the author who influenced me most as a writer".<ref name="io9">{{cite web | url=http://io9.com/r-i-p-richard-matheson-author-of-i-am-legend-and-many-564036878 | title=R.I.P. Richard Matheson, Author of I Am Legend and Many Other Classics | publisher=[[io9]] | date=June 24, 2013 | access-date=April 30, 2015 | last=Bricken | first=Rob | archive-url=https://web.archive.org/web/20150512212548/http://io9.com/r-i-p-richard-matheson-author-of-i-am-legend-and-many-564036878 |archive-date=May 12, 2015 |url-status=live}}</ref> In a current edition of Matheson's ''[[The Shrinking Man]]'', King is quoted as saying, "A horror story if there ever was one...a great adventure story—it is certainly one of that select handful that I have given to people, envying them the experience of the first reading."{{citation needed|date=October 2019}}
+
+Other acknowledged influences include [[H. P. Lovecraft]],<ref>{{cite book |last=Houellebecq |first=Michel |title=H.P. Lovecraft: Against the World, Against Life |publisher=Believer Books |year=2005 |isbn=9781932416183 }}</ref><ref>{{cite web |url=https://nerdist.com/article/stephen-king-lovecraft-gods-cthulhu-it-dark-tower/ |title=A Guide to Stephen King's Lovecraftian Gods |last=Anderson |first=Kyle |date=17 October 2017 |website=Nerdist |quote=Learning about Stephen King’s deep cosmic horror should prompt a deep dive into one of King's biggest influences, the early 20th Century horror and sci-fi writer H.P. Lovecraft, who is basically the inventor of cosmic horror. |access-date=April 26, 2020 |archive-date=May 11, 2020 |archive-url=https://web.archive.org/web/20200511103101/https://nerdist.com/article/stephen-king-lovecraft-gods-cthulhu-it-dark-tower/ |url-status=live }}</ref> [[Arthur Machen]],<ref name=king>King, Stephen, "[http://www.stephenking.com/stephens_messages.html Self-Interview] {{webarchive |url=https://web.archive.org/web/20090201002239/http://stephenking.com/stephens_messages.html |date=2009-02-01}}", 10:50 am, September 4, 2008. StephenKing.com. Retrieved April 24, 2017.</ref> [[Ray Bradbury]],<ref name="nokingquote">{{cite web |url=http://www.wga.org/writtenby/writtenbysub.aspx?id=4869 |title=Ray Bradbury: A Lion at 90, 91, 92... |publisher=The Writer's Guild of America |access-date=June 7, 2012 |author=Stayton, Richard |url-status=dead |archive-url=https://web.archive.org/web/20130506210719/http://www.wga.org/writtenby/writtenbysub.aspx?id=4869 |archive-date=May 6, 2013 |df=mdy-all}}</ref> [[Joseph Payne Brennan]],<ref>Spignesi, Stephen J. (August 4, 2010). [https://books.google.com/books?id=134fGRDDangC&pg=PA312&dq=%22From+the+Introduction+to+The+Shapes%22&hl=en&sa=X&ei=tJw_Uqa_EsSgtAarh4CYDQ&ved=0CCwQ6AEwAA#v=onepage&q=%22From%20the%20Introduction%20to%20The%20Shapes%22&f=false ''The Essential Stephen King: A Ranking of the Greatest Novels, Short Stories. Movies, and Other Creations of the World's Most Popular Writer'']. New Page Books. p. 312. Archived at [[Google Books]]. Retrieved September 22, 2013.</ref> [[Elmore Leonard]],<ref>"Exclusive: Stephen King on J.K. Rowling, Stephenie Meyer"</ref> [[John D. MacDonald]], and [[Don Robertson (author)|Don Robertson]].<ref>{{cite book |last=Robertson |first=Don |author-link=Don Robertson (author) |title=The Ideal, Genuine Man |publisher=Philtrum Press |year=1987 |location=Bangor, ME |pages=viiI |no-pp=true}}</ref>
+
+King's ''The Shining'' is immersed in [[Gothic literature|gothic]] influences, including "[[The Masque of the Red Death]]" by [[Edgar Allan Poe]] (which was directly influenced by the first gothic novel, [[Horace Walpole]]'s ''[[The Castle of Otranto]]'').<ref name="Gothic influence"/> The Overlook Hotel acts as a replacement for the traditional gothic castle, and Jack Torrance is a tragic villain seeking redemption.<ref name="Gothic influence">[https://www.bbc.co.uk/news/magazine-30313775 "The Castle of Otranto: The creepy tale that launched gothic fiction"] {{webarchive |url=https://web.archive.org/web/20180717063625/https://www.bbc.co.uk/news/magazine-30313775 |date=July 17, 2018}}. [[BBC News]]. Retrieved October 11, 2017</ref>
+
+King's favorite books are (in order): ''[[The Golden Argosy]]''; ''[[Adventures of Huckleberry Finn]]''; ''[[The Satanic Verses]]''; ''[[McTeague]]''; ''[[Lord of the Flies]]''; ''[[Bleak House]]''; ''[[Nineteen Eighty-Four]]''; ''[[The Raj Quartet]]''; ''[[Light in August]]''; and ''[[Blood Meridian]]''.<ref>{{cite web |title=Stephen King's Top Ten List (2007) |url=http://www.toptenbooks.net/authors/Stephen-King |access-date=September 4, 2012 |archive-url=https://web.archive.org/web/20120902023534/http://www.toptenbooks.net/authors/Stephen-King |archive-date=September 2, 2012 |url-status=live}}</ref>
+
+===Critical response===
+Science fiction editors [[John Clute]] and [[Peter Nicholls (writer)|Peter Nicholls]]<ref>Clute, John and Peter Nichols. ''The Encyclopedia of Science Fiction''. New York: St. Martin's Griffin, 1993. {{ISBN|0-312-09618-6}}</ref> offer a largely favorable appraisal of King, noting his "pungent prose, sharp ear for dialogue, disarmingly laid-back, frank style, along with his passionately fierce denunciation of human stupidity and cruelty (especially to children) [all of which rank] him among the more distinguished 'popular' writers."
+
+In his book ''The Philosophy of Horror'' (1990), [[Noël Carroll]] discusses King's work as an exemplar of modern horror fiction. Analyzing both the narrative structure of King's fiction and King's non-fiction ruminations on the art and craft of writing, Carroll writes that for King, "the horror story is always a contest between the normal and the abnormal such that the normal is reinstated and, therefore, affirmed."<ref>Carroll, Noël (1990) ''The Philosophy of Horror, or, Paradoxes of the Heart''. NY: Routledge, 0-415-90145-6</ref>
+
+In his analysis of post–World War II horror fiction, ''The Modern Weird Tale'' (2001), critic [[S. T. Joshi]]<ref>Joshi, S.T, ''The Modern Weird Tale: A Critique of Horror Fiction'', McFarland & Company, 2001, {{ISBN|978-0-7864-0986-0}}</ref> devotes a chapter to King's work. Joshi argues that King's best-known works (his supernatural novels) are his worst, describing them as mostly bloated, illogical, maudlin and prone to ''[[deus ex machina]]'' endings. Despite these criticisms, Joshi argues that since ''[[Gerald's Game]]'' (1993), King has been tempering the worst of his writing faults, producing books that are leaner, more believable and generally better written.{{citation needed|date=October 2019}}
+
+In 1996, King won an [[O. Henry Award]] for his short story "[[The Man in the Black Suit]]".<ref>[http://www.randomhouse.com/anchor/ohenry/winners/past.html#jump_k "Past Winners List"] {{webarchive |url=https://web.archive.org/web/20110210064045/http://www.randomhouse.com/anchor/ohenry/winners/past.html#jump_k |date=February 10, 2011}}. The PEN/O. Henry Prize Stories. Retrieved May 31, 2012.</ref>
+
+In his short story collection ''A Century of Great Suspense Stories'', editor [[Jeffery Deaver]] noted that King "singlehandedly made popular fiction grow up. While there were many good best-selling writers before him, King, more than anybody since John D. MacDonald, brought reality to genre novels. He has often remarked that ''[['Salem's Lot]]'' was "''[[Peyton Place (novel)|Peyton Place]]'' meets ''Dracula''. And so it was. The rich characterization, the careful and caring social eye, the interplay of story line and character development announced that writers could take worn themes such as vampirism and make them fresh again. Before King, many popular writers found their efforts to make their books serious blue-penciled by their editors. 'Stuff like that gets in the way of the story,' they were told. Well, it's stuff like that that has made King so popular, and helped free the popular name from the shackles of simple genre writing. He is a master of masters."<ref>{{cite book|title=A Century of Great Suspense Stories|editor-first=Jeffrey|editor-last=Deaver|page=[https://archive.org/details/centuryofgreatsu00deav/page/290 290]|publisher=Berkley Hardcover|date=2001|isbn=0-425-18192-8|url=https://archive.org/details/centuryofgreatsu00deav/page/290}}</ref>
+
+In 2003, King was honored by the [[National Book Award]]s with a lifetime achievement award, the Medal of Distinguished Contribution to American Letters. Some in the literary community expressed disapproval of the award: [[Richard E. Snyder]], the former CEO of [[Simon & Schuster]], described King's work as "non-literature" and critic [[Harold Bloom]] denounced the choice:
+
+<blockquote>The decision to give the National Book Foundation's annual award for "distinguished contribution" to Stephen King is extraordinary, another low in the shocking process of [[dumbing down]] our cultural life. I've described King in the past as a writer of [[penny dreadful]]s, but perhaps even that is too kind. He shares nothing with [[Edgar Allan Poe]]. What he is<!--not a mistake--> is an immensely inadequate writer on a sentence-by-sentence, paragraph-by-paragraph, book-by-book basis.<ref>{{Cite news | url=http://www.boston.com/news/globe/editorial_opinion/oped/articles/2003/09/24/dumbing_down_american_readers/ | newspaper=[[Boston Globe]] | title=Dumbing down American readers | first=Harold | last=Bloom | date=September 24, 2003 | access-date=December 29, 2006 | archive-url=https://web.archive.org/web/20060617015302/http://www.boston.com/news/globe/editorial_opinion/oped/articles/2003/09/24/dumbing_down_american_readers/ | archive-date=June 17, 2006 | url-status=live }}</ref></blockquote>
+
+[[Orson Scott Card]] responded:
+
+<blockquote>Let me assure you that King's work most definitely is literature, because it was written to be published and is read with admiration. What Snyder really means is that it is not the literature preferred by the academic-literary elite.<ref>{{cite web |url=http://www.hatrack.com/osc/reviews/everything/2003-09-21.shtml |title=Yummi Bears, Lions, Boomtown, Mayer, and King – Uncle Orson Reviews Everything |publisher=Hatrack.com |access-date=September 12, 2010 |archive-url=https://web.archive.org/web/20101009183217/http://hatrack.com/osc/reviews/everything/2003-09-21.shtml |archive-date=October 9, 2010 |url-status=live }}</ref></blockquote>
+
+In 2008, King's book ''On Writing'' was ranked 21st on ''[[Entertainment Weekly]]''{{'}}s list of "The New Classics: The 100 Best Reads from 1983 to 2008".<ref>{{cite web |url=http://www.ew.com/ew/article/0,,20207076_20207387_20207349,00.html |title=The New Classics: Books &#124; EW 1000: Books &#124; The EW 1000 |work=Entertainment Weekly |date=June 27, 2008 |access-date=September 12, 2010 |archive-url=http://archive.wikiwix.com/cache/20120127131458/http://www.ew.com/ew/article/0,,20207076_20207387_20207349,00.html |archive-date=January 27, 2012 |url-status=live}}</ref>
+
+==Political views and activism==
+[[File:Gary Hart and Stephen King, 1984 presidential campaign.jpg|thumb|King campaigning for Gary Hart for President in 1984]]
+In 1984, King endorsed [[Gary Hart]]'s presidential campaign.<ref>{{cite news |title=Macabre King takes Hart |url=https://www.upi.com/Archives/1984/01/10/Macabre-King-takes-Hart/2538442558800/ |access-date=9 July 2021 |work=[[UPI]] |date=January 10, 1984 |language=en |archive-date=November 4, 2021 |archive-url=https://web.archive.org/web/20211104005900/https://www.upi.com/Archives/1984/01/10/Macabre-King-takes-Hart/2538442558800/ |url-status=live }}</ref>
+
+[[File:Dark, chilling night in Germany with Stephen King 131118-F-YC884-226.jpg|thumb|right|upright|King at the [[Ramstein Air Base]] in [[Germany]], 2013]]
+In April 2008, King spoke out against HB 1423, a bill pending in the [[Massachusetts state legislature]] that would restrict or ban the sale of [[Video game controversies|violent video games]] to anyone under the age of 18. King argued that such laws allow legislators to ignore the economic divide between the rich and poor and the easy availability of guns, which he believed were the actual causes of violence.<ref>King, Stephen; "Videogame Lunacy"; "The Pop of King" ''[[Entertainment Weekly]]''; April 11, 2008.</ref>
+
+During the 2008 presidential election, King voiced his support for Democratic candidate [[Barack Obama]].<ref>{{cite web|url=http://www.earthtimes.org/articles/show/175900,stephen-king-backing-barack-obama.html|archive-url=https://archive.today/20120729020314/http://www.earthtimes.org/articles/show/175900,stephen-king-backing-barack-obama.html|url-status=dead|title=Earth Times: show/175900,stephen-king-backing-barack-obama.html|date=July 29, 2012|archive-date=July 29, 2012}}</ref> King was quoted as calling conservative commentator [[Glenn Beck]] "Satan's mentally challenged younger brother".<ref>{{cite news |first=David |last=Von Drehle |url=http://www.time.com/time/magazine/article/0,9171,1924495-3,00.html |title=Mad Man: Is Glenn Beck Bad for America? |newspaper=[[Time (magazine)|Time]] |date=September 17, 2009 |access-date=October 22, 2012 |archive-url=https://web.archive.org/web/20130521075109/http://www.time.com/time/magazine/article/0,9171,1924495-3,00.html |archive-date=May 21, 2013 |url-status=dead}}</ref>
+
+On March 8, 2011, King spoke at a political rally in [[Sarasota, Florida|Sarasota]] aimed against Governor [[Rick Scott]] (R-FL), voicing his opposition to the [[Tea Party movement]].<ref name=stooges>Bershad, Jon. [http://www.mediaite.com/online/stephen-king-speaks-budget-cut-protest-says-florida-governor-should-star-in-his-next-horror-novel/ "Stephen King Speaks At Budget Cut Protest, Says Florida Governor Should Star In His Next Horror Novel"] {{webarchive |url=https://web.archive.org/web/20110312103308/http://www.mediaite.com/online/stephen-king-speaks-budget-cut-protest-says-florida-governor-should-star-in-his-next-horror-novel/ |date=March 12, 2011}}, Mediaite, March 9, 2011</ref>
+
+On April 30, 2012, King published an article in ''[[The Daily Beast]]'' calling for rich Americans, including himself, to pay more taxes, citing it as "a practical necessity and moral imperative that those who have received much should be obligated to pay ... in the same proportion".<ref name=DailyBeast>{{cite news|first=Stephen|last=King|url=http://www.thedailybeast.com/articles/2012/04/30/stephen-king-tax-me-for-f-s-sake.html|title=Stephen King: Tax Me, for F@%&'s Sake!|newspaper=The Daily Beast|date=March 21, 2011|access-date=May 1, 2012|archive-url=https://web.archive.org/web/20120501025742/http://www.thedailybeast.com/articles/2012/04/30/stephen-king-tax-me-for-f-s-sake.html|archive-date=May 1, 2012|url-status=live}}</ref>
+
+On January 25, 2013, King published an essay titled "[[Guns (essay)|Guns]]" via [[Amazon.com]]'s [[Kindle single]] feature, which discusses the [[Gun politics in the United States|gun debate]] in the wake of the [[Sandy Hook Elementary School shooting]]. King called for gun owners to support a ban on automatic and semi-automatic weapons, writing, "Autos and semi-autos are weapons of mass destruction...When lunatics want to make war on the unarmed and unprepared, these are the weapons they use."<ref>{{cite news |last=Carroll |first=Rory |title=Stephen King risks wrath of NRA by releasing pro-gun control essay|url=https://www.theguardian.com/books/2013/jan/25/stephen-king-gun-control-essay-amazon-nra|newspaper=The Guardian|date=January 25, 2013|access-date=December 13, 2016|archive-url=https://web.archive.org/web/20140606221946/http://www.theguardian.com/books/2013/jan/25/stephen-king-gun-control-essay-amazon-nra|archive-date=June 6, 2014|url-status=live}}</ref><ref>{{cite news|last=King|first=Stephen|title=Stephen King: why the US must introduce limited gun controls|url=https://www.theguardian.com/books/2013/feb/01/stephen-king-pulled-book-gun-controls|newspaper=The Guardian|date=February 1, 2013|access-date=December 13, 2016|archive-url=https://web.archive.org/web/20170226055118/https://www.theguardian.com/books/2013/feb/01/stephen-king-pulled-book-gun-controls|archive-date=February 26, 2017|url-status=live}}</ref> The essay became the fifth-bestselling non-fiction title for the Kindle.<ref>Samuel, Benjamin (February 14, 2013). [http://www.nydailynews.com/blogs/pageviews/2013/02/why-stephen-king-was-wrong-to-publish-guns-as-a-kindle-single "Why Stephen King was wrong to publish 'Guns' as a Kindle Single"] {{webarchive |url=https://web.archive.org/web/20130218031102/http://www.nydailynews.com/blogs/pageviews/2013/02/why-stephen-king-was-wrong-to-publish-guns-as-a-kindle-single |date=February 18, 2013}}. ''[[Daily News (New York)|Daily News]]''.</ref>
+
+King has criticized [[Donald Trump]] and Rep. [[Steve King]], deeming them racists.<ref>{{cite web|title=Stephen King Bashes Trump on Twitter|date=August 6, 2015|publisher=[[KGAN]]|url=http://www.cbs2iowa.com/news/features/top-stories/stories/Stephen-King-Bashes-Trump-on-Twitter-181411.shtml|access-date=August 30, 2015|archive-url=https://web.archive.org/web/20150824042031/http://cbs2iowa.com/news/features/top-stories/stories/Stephen-King-Bashes-Trump-on-Twitter-181411.shtml|archive-date=August 24, 2015|url-status=live}}</ref><ref>{{cite web|title=Stephen King on new novel "End of Watch," thoughts on Donald Trump|date=June 7, 2016|publisher=[[CBS News]]|url=http://www.cbsnews.com/news/stephen-king-new-crime-novel-end-of-watch-2016-elections-donald-trump/|access-date=June 8, 2016|archive-url=https://web.archive.org/web/20160608132852/http://www.cbsnews.com/news/stephen-king-new-crime-novel-end-of-watch-2016-elections-donald-trump/|archive-date=June 8, 2016|url-status=live}}</ref><ref>{{cite news|title=Author Stephen King tells Iowans to vote out Steve King: 'I'm tired of being confused with this racist dumbbell'|date=November 4, 2018|newspaper=The Hill|url=https://thehill.com/homenews/house/414785-author-stephen-king-tells-iowans-to-vote-out-steve-king-im-tired-of-being|access-date=November 4, 2018|archive-url=https://web.archive.org/web/20181104193245/https://thehill.com/homenews/house/414785-author-stephen-king-tells-iowans-to-vote-out-steve-king-im-tired-of-being|archive-date=November 4, 2018|url-status=live}}</ref>
+
+In June 2018, King called for the release of the Ukrainian filmmaker [[Oleg Sentsov]], who was jailed in Russia.<ref>{{cite news|title=Author Stephen King calls for release of 'unjustly imprisoned' Sentsov|date=June 15, 2018|newspaper=Kyiv Post|url=https://www.kyivpost.com/ukraine-politics/author-stephen-king-calls-for-release-of-unjustly-imprisoned-sentsov.html|access-date=February 19, 2019|archive-date=November 4, 2021|archive-url=https://web.archive.org/web/20211104005911/https://www.kyivpost.com/ukraine-politics/author-stephen-king-calls-for-release-of-unjustly-imprisoned-sentsov.html|url-status=live}}</ref>
+
+In the [[2020 Democratic Party presidential primaries]], King endorsed [[Elizabeth Warren]]'s [[Elizabeth Warren 2020 presidential campaign|campaign]].<ref>{{cite news |url=https://theunionjournal.com/stephen-king-wants-warren-to-open-a-large-can-of-whup-ass-on-trump/ |work=The Union Journal |access-date=February 15, 2020 |date=February 4, 2020 |first=Carlos |last=Christian |title=Stephen King Wants Warren to "Open a Large Can of Whup-Ass on Trump" |archive-date=February 15, 2020 |archive-url=https://web.archive.org/web/20200215184124/https://theunionjournal.com/stephen-king-wants-warren-to-open-a-large-can-of-whup-ass-on-trump/ |url-status=live }}</ref> Warren eventually suspended her campaign, and King later endorsed [[Joe Biden]]'s [[Joe Biden 2020 presidential campaign|campaign]] in the [[2020 United States presidential election|2020 general election]].<ref>{{cite web |url=https://www.forbes.com/sites/alexandrasternlicht/2020/06/29/willie-nelson-joins-list-of-celebrities-endorsing-biden/#5fbdf2f375db |title=Willie Nelson Joins List of Celebrities Endorsing Biden |first=Alexandra |last=Sternlicht |date=June 29, 2020 |work=[[Forbes]] |access-date=August 27, 2020 |archive-date=July 29, 2020 |archive-url=https://web.archive.org/web/20200729224114/https://www.forbes.com/sites/alexandrasternlicht/2020/06/29/willie-nelson-joins-list-of-celebrities-endorsing-biden/#5fbdf2f375db |url-status=live }}</ref>
+
+===Maine politics===
+King endorsed [[Shenna Bellows]] in the [[2014 United States Senate election in Maine|2014 U.S. Senate election]] for the seat held by [[Maine Republican Party|Republican]] [[Susan Collins]].<ref>{{cite web |author=King, Stephen |url=http://bangordailynews.com/2014/05/29/opinion/for-this-lifetime-mainer-bellows-is-the-clear-choice/ |title=For this lifetime Mainer, Bellows is the clear choice |newspaper=Bangor Daily News |date=May 30, 2014 |access-date=May 30, 2014 |archive-url=https://web.archive.org/web/20140530070315/http://bangordailynews.com/2014/05/29/opinion/for-this-lifetime-mainer-bellows-is-the-clear-choice/ |archive-date=May 30, 2014 |url-status=live}}</ref>
+
+King publicly criticized [[Paul LePage]] during LePage's tenure as [[Governor of Maine]], referring to him as one of [[The Three Stooges]] (with then-[[Governor of Florida|Florida Governor]] [[Rick Scott]] and then-[[Governor of Wisconsin|Wisconsin Governor]] [[Scott Walker (politician)|Scott Walker]] being the other two).<ref name="stooges" /> He was critical of LePage for incorrectly suggesting in a 2015 radio address that King avoided paying Maine income taxes by living out of state for part of the year. The statement was later corrected by the Governor's office, but no apology was issued. King said LePage was "full of the stuff that makes the grass grow green"<ref>{{cite news |last=Mistler |first=Steve |title=Stephen King calls out LePage on erroneous tax statements |url=http://www.centralmaine.com/2015/03/20/stephen-king-calls-out-lepage-on-erroneous-tax-statements/ |newspaper=Kennebec Journal |date=March 20, 2015 |access-date=March 23, 2015 |archive-url=https://web.archive.org/web/20150322234500/http://www.centralmaine.com/2015/03/20/stephen-king-calls-out-lepage-on-erroneous-tax-statements/ |archive-date=March 22, 2015 |url-status=live}}</ref> and demanded that LePage "man up and apologize".<ref>{{cite news |last=Mistler |first=Steve |title=King to LePage: 'Man up and apologize'|url=http://contributors.pressherald.com/politics/capitol-ticker/king-to-lepage-man-up-and-apologize/ |newspaper=Kennebec Journal |date=March 20, 2015 |access-date=March 23, 2015 |archive-url=https://web.archive.org/web/20150322104045/http://contributors.pressherald.com/politics/capitol-ticker/king-to-lepage-man-up-and-apologize/ |archive-date=March 22, 2015 |url-status=live}}</ref> LePage declined to apologize to King, stating, "I never said Stephen King did not pay income taxes. What I said was, Stephen King's not in Maine right now. That's what I said."<ref>{{cite news |last=Mistler |first=Steve |title=LePage crashes local budget forum, denies saying Stephen King doesn't pay taxes |url=http://contributors.pressherald.com/politics/capitol-ticker/lepage-crashes-local-democrats-budget-forum-denies-he-said-stephen-king-doesnt-pay-taxes/ |newspaper=Portland Press Herald |date=March 26, 2015 |access-date=March 26, 2015 |archive-url=https://web.archive.org/web/20150328191801/http://contributors.pressherald.com/politics/capitol-ticker/lepage-crashes-local-democrats-budget-forum-denies-he-said-stephen-king-doesnt-pay-taxes/ |archive-date=March 28, 2015 |url-status=live}}</ref>
+
+The attention garnered by the LePage criticism led to efforts to encourage King to run for Governor of Maine in [[2018 Maine gubernatorial election|2018]].<ref>{{cite news |url=http://stateandcapitol.bangordailynews.com/2015/03/23/stephen-king-for-governor-horror-story-or-best-seller/ |title=Stephen King for governor: Horror story or best seller? |newspaper=Bangor Daily News |first=Christopher |last=Cousins |date=March 23, 2015 |access-date=March 15, 2015 |archive-url=https://web.archive.org/web/20150325191116/http://stateandcapitol.bangordailynews.com/2015/03/23/stephen-king-for-governor-horror-story-or-best-seller/ |archive-date=March 25, 2015 |url-status=live}}</ref> King said he would not run or serve.<ref name=kingno>{{cite news |url=http://stateandcapitol.bangordailynews.com/2015/03/23/update-king-continues-attack-on-lepage-says-i-will-not-run-for-governor/ |title=UPDATE: King continues attack on LePage, says 'I will not run' for governor |newspaper=Bangor Daily News |first=Christopher |last=Cousins |date=March 23, 2015 |access-date=March 24, 2015 |archive-url=https://web.archive.org/web/20150326193820/http://stateandcapitol.bangordailynews.com/2015/03/23/update-king-continues-attack-on-lepage-says-i-will-not-run-for-governor/ |archive-date=March 26, 2015 |url-status=live}}</ref> King sent a tweet on June 30, 2015, calling LePage "a terrible embarrassment to the state I live in and love. If he won't govern, he should resign." He later clarified that he was not calling on LePage to resign, but to "go to work or go back home".<ref>{{cite news |url=http://hashtagmaine.bangordailynews.com/2015/07/01/reddit/stephen-king-joins-call-for-lepage-to-resign/ |title=Stephen King joins call for LePage to resign |newspaper=Bangor Daily News |first=Erin |last=Rhoda |date=July 1, 2015 |access-date=July 1, 2015 |archive-url=https://web.archive.org/web/20150701205647/https://hashtagmaine.bangordailynews.com/2015/07/01/reddit/stephen-king-joins-call-for-lepage-to-resign/ |archive-date=July 1, 2015 |url-status=live}}</ref> On August 27, 2016, King called LePage "a bigot, a homophobe, and a racist".<ref>{{cite web |url=https://www.boston.com/news/politics/2016/08/28/maines-stephen-king-says-gov-paul-lepage-is-a-bigot-a-homophobe-and-a-racist/ |title=Maine's Stephen King says Gov. Paul LePage 'is a bigot, a homophobe, and a racist' |publisher=Boston.com |first=Nik |last=DeCosta-Klipa |date=August 28, 2016 |access-date=September 2, 2016 |archive-url=https://web.archive.org/web/20160831181647/http://www.boston.com/news/politics/2016/08/28/maines-stephen-king-says-gov-paul-lepage-is-a-bigot-a-homophobe-and-a-racist |archive-date=August 31, 2016 |url-status=live}}</ref>
+
+==Philanthropy==
+King has stated that he donates approximately $4&nbsp;million per year "to libraries, local fire departments that need updated lifesaving equipment ([[Jaws of Life]] tools are always a popular request), schools, and a scattering of organisations that underwrite the arts."<ref name=DailyBeast /><ref name="GuardianTax">{{cite news | url=https://www.theguardian.com/books/2012/may/01/stephen-king-tax-the-rich | title=Stephen King: I'm rich, tax me | newspaper=The Guardian | date=May 1, 2012 | access-date=March 30, 2015 | author=Flood, Alison | archive-url=https://web.archive.org/web/20150324122246/http://www.theguardian.com/books/2012/may/01/stephen-king-tax-the-rich | archive-date=March 24, 2015 | url-status=live}}</ref>
+
+The Stephen and Tabitha King Foundation, chaired by King and his wife, ranks sixth among Maine charities in terms of average annual giving with over $2.8&nbsp;million in grants per year, according to [[The Grantsmanship Center]].<ref name="Grantsmanship">{{cite web | url=https://www.tgci.com/funding-sources/ME/top | title=Top Giving Foundations: ME | publisher=The Grantsmanship Center | access-date=March 30, 2015 | archive-url=https://web.archive.org/web/20150402105604/https://www.tgci.com/funding-sources/ME/top | archive-date=April 2, 2015 | url-status=live}}</ref>
+
+In November 2011, the STK Foundation donated $70,000 in matched funding via his radio station to help pay the heating bills for families in need in his home town of Bangor, Maine, during the winter.<ref>{{cite news |first=Alison |last=Flood |url=https://www.theguardian.com/books/2011/nov/10/stephen-king-donate-70000-maine?intcmp=239 |title=Stephen King to donate $70,000 to heat Maine homes |newspaper=The Guardian |location=UK |date=November 10, 2011 |access-date=May 1, 2012 |archive-url=https://web.archive.org/web/20131228090520/http://www.theguardian.com/books/2011/nov/10/stephen-king-donate-70000-maine?intcmp=239 |archive-date=December 28, 2013 |url-status=live}}</ref>
+
+==Personal life==
+[[Image:Stephenking house.JPG|thumb|300px|King's home in [[Bangor, Maine|Bangor]]]]
+King married [[Tabitha King|Tabitha Spruce]] on January 2, 1971.<ref>{{cite web |last1=King |first1=Stephen |title=Stephen King on Twitter: "A couple of kids got married 48 years ago today. So far it's worked out pretty well. Still in love." |url=https://twitter.com/StephenKing/status/1080588109065191426 |website=Twitter |access-date=January 6, 2019 |archive-url=https://web.archive.org/web/20190102232359/https://twitter.com/StephenKing/status/1080588109065191426 |archive-date=January 2, 2019 |url-status=live}}</ref> She too is a novelist and philanthropic activist. The couple own and divide their time between three houses: one in [[Bangor, Maine]] (set to become a museum and writer's retreat<ref>{{cite web| url=https://www.telegram.com/zz/entertainment/20191017/stephen-king-is-turning-his-maine-home-into-museum-and-writers-retreat| title=Stephen King is turning his Maine home into a museum and writer's retreat| work=Telegram.com| date=October 17, 2019| access-date=October 19, 2019| archive-date=December 20, 2019| archive-url=https://web.archive.org/web/20191220104524/https://www.telegram.com/zz/entertainment/20191017/stephen-king-is-turning-his-maine-home-into-museum-and-writers-retreat| url-status=live}}</ref>); one in [[Lovell, Maine]]; and for the winter a waterfront mansion located off the [[Gulf of Mexico]] in [[Sarasota, Florida]]. The Kings have three children, a daughter and two sons, and four grandchildren.<ref name=OfficialBio/> Their daughter Naomi is a [[Unitarian Universalism|Unitarian Universalist Church]] minister in [[Plantation, Florida]], with her partner, [[Thandeka (minister)|Rev. Dr. Thandeka]].<ref>{{cite web |url=http://www.riverofgrass.org/index.php?option=com_content&view=category&layout=blog&id=27&Itemid=12 |archive-url=https://web.archive.org/web/20100502063226/http://www.riverofgrass.org/index.php?option=com_content&view=category&layout=blog&id=27&Itemid=12 |archive-date=May 2, 2010 |title=River of Grass Ministry |access-date=April 5, 2009 |url-status=dead }}</ref> Both of the Kings' sons are authors: [[Owen King]] published his first collection of stories, ''We're All in This Together: A Novella and Stories'', in 2005. [[Joe Hill (writer)|Joseph Hillström King]], who writes as Joe Hill, published a collection of short stories, ''[[20th Century Ghosts]]'', in 2005. His debut novel, ''[[Heart-Shaped Box (novel)|Heart-Shaped Box]]'' (2007), was optioned by Warner Bros.<ref>{{cite magazine |url=http://www.hollywoodreporter.com/hr/content_display/film/news/e3i24f58f9705c1a288fbb70a9ce94d51e1 |title=Jordan will build 'Box' for Warners |magazine=Hollywood Reporter |url-status=dead |archive-url=https://web.archive.org/web/20070930223244/http://www.hollywoodreporter.com/hr/content_display/film/news/e3i24f58f9705c1a288fbb70a9ce94d51e1 |archive-date=September 30, 2007}}</ref>
+[[File:SA&Mlr (cropped) (2).jpg|thumb|King wearing a [[Boston Red Sox]] jersey at a book signing in November 2004]]
+In the early 1970s, King developed a drinking problem which would plague him for more than a decade.<ref>{{cite web |last=Adams |first=Tim |title=The Stephen King interview, uncut and unpublished |url=https://www.theguardian.com/books/2000/sep/14/stephenking.fiction |work=The Guardian |date=September 14, 2000 |access-date=September 17, 2012 |archive-url=https://web.archive.org/web/20140508223532/http://www.theguardian.com/books/2000/sep/14/stephenking.fiction |archive-date=May 8, 2014 |url-status=live}}</ref> Soon after ''Carrie''{{'}}s release in 1974, King's mother died of [[uterine cancer]]; King has written of his severe drinking problem at this time, stating that he was drunk while delivering the eulogy at his mother's funeral.<ref name="UKOnWriting">{{cite book |last1=King |first1=Stephen |title=On Writing: A Memoir |location=London |publisher=[[Hodder & Stoughton]] |year=2000 |isbn=0-340-76996-3 |author-link1=Stephen King}}</ref>{{rp|69}} King's addictions to alcohol and other drugs were so serious during the 1980s that, as he acknowledged in ''On Writing'' in 2000, he can barely remember writing ''[[Cujo]]''.<ref name="UKOnWriting" />{{rp|73}} Shortly after the novel's publication, King's family and friends staged an intervention, dumping on the rug in front of him evidence of his addictions taken from his office, including beer cans, cigarette butts, grams of [[cocaine]], [[Alprazolam|Xanax]], [[Valium]], [[NyQuil]], [[Cold medicine|Robitussin]], and [[mouthwash]]. As King related in his memoir, he then sought help, quit all drugs (including alcohol) in the late 1980s, and has remained sober since.<ref name="UKOnWriting" />{{rp|72}} The first novel he wrote after becoming sober was ''[[Needful Things]]''.<ref>{{cite web|title=Stephen King, The Art of Fiction No. 189|work=[[The Paris Review]]|url=http://www.theparisreview.org/interviews/5653/the-art-of-fiction-no-189-stephen-king|access-date=June 21, 2012|archive-url=https://www.webcitation.org/6HM5gOIdt?url=http://www.theparisreview.org/interviews/5653/the-art-of-fiction-no-189-stephen-king|archive-date=June 13, 2013|url-status=live}}</ref>
+
+King and his wife Tabitha own Zone Radio Corp, a radio station group consisting of [[WZON]]/620 AM,<ref>McCrea, Nick. (August 23, 2001), [http://bangordailynews.com/2011/08/23/news/bangor/author-stephen-king-offers-left-leaning-talk-show/ "Stephen King announces new radio show, hopes it will 'burn some feet'"] {{webarchive |url=https://web.archive.org/web/20111005230856/http://bangordailynews.com/2011/08/23/news/bangor/author-stephen-king-offers-left-leaning-talk-show/ |date=October 5, 2011}}. ''Bangor Daily News''</ref> [[WKIT]]/100.3 & [[WZLO]]/103.1.
+
+In sports, King is a longtime fan of [[Major League Baseball]] team [[Boston Red Sox]], his nonfiction book ''[[Faithful (book)|Faithful]]'' published in 2004, co-written with his friend and fellow author [[Stewart O'Nan]], chronicles the exchanges between King and O'Nan (also a longtime fan of the Red Sox) about the historic [[2004 Boston Red Sox season]] that culminated with the Red Sox winning the [[2004 World Series]], ending an 86-year championship drought.<ref>{{Cite web|title=The Red Sox offense woke up minutes after Stephen King tweeted about the team's struggles|url=https://www.boston.com/sports/boston-red-sox/2019/04/30/red-sox-stephen-king-tweet/|access-date=2021-08-18|website=www.boston.com|language=en-US|archive-date=August 18, 2021|archive-url=https://web.archive.org/web/20210818230642/https://www.boston.com/sports/boston-red-sox/2019/04/30/red-sox-stephen-king-tweet/|url-status=live}}</ref>
+
+=== {{anchor|Car_accident_and_thoughts_of_retirement}}Car accident and aftermath ===
+On June 19, 1999, at about 4:30&nbsp;p.m., King was walking on the shoulder of [[Maine State Route 5]], in [[Lovell, Maine]]. Driver Bryan Edwin Smith, distracted by an unrestrained dog moving in the back of his minivan, struck King, who landed in a depression in the ground about 14 feet (four meters) from the pavement of Route 5.<ref name="UKOnWriting" />{{rp|206}} Early reports at the time from Oxford County Sheriff deputy Matt Baker, claimed King was hit from behind and some witnesses said the driver was not speeding, reckless, or drinking.<ref>{{cite web|url=http://www.liljas-library.com/accident.html|title=King's accident|publisher=Lijia's Library|access-date=December 3, 2014|archive-url=https://web.archive.org/web/20050307182428/http://www.liljas-library.com/accident.html|archive-date=March 7, 2005}}</ref> However, Smith was later arrested and charged with [[Reckless driving#Maine|driving to endanger]] and aggravated assault. He pleaded guilty to the lesser charge of driving to endanger and was sentenced to six months in county jail (suspended), and had his driving license suspended for a year.<ref>{{cite news | url=https://www.theguardian.com/books/2000/oct/01/stephenking.fiction1 | title=The writer, the accident, and a lonely end | work=The Guardian | date=October 1, 2002 | access-date=March 11, 2020 | archive-date=October 18, 2020 | archive-url=https://web.archive.org/web/20201018165249/https://www.theguardian.com/books/2000/oct/01/stephenking.fiction1 | url-status=live }}</ref> In his book ''On Writing'', King states he was heading north, walking against the traffic. Shortly before the accident took place, a woman in a car, also northbound, passed King first and then the light-blue [[Dodge Ram van|Dodge van]]. The van was looping from one side of the road to the other, and the woman told her passenger she hoped "that guy in the van doesn't hit him."<ref name="UKOnWriting" />{{rp|206}}
+
+King was conscious enough to give the deputy phone numbers to contact his family but was in considerable pain. He was transported to Northern Cumberland Hospital in Bridgton and then flown by air ambulance to Central Maine Medical Center (CMMC) in [[Lewiston, Maine|Lewiston]]. His injuries—a collapsed right lung, multiple fractures of his right leg, scalp laceration and a broken hip—kept him at CMMC until July 9. His leg bones were so shattered that doctors initially considered amputating his leg but stabilized the bones in the leg with an [[external fixator]].<ref>Rogak, Lisa. [https://books.google.com/books?id=c8EIvHkg4EYC&pg=PA204 ''Haunted heart: The Life and Times of Stephen King''] {{webarchive |url=https://web.archive.org/web/20180326102742/https://books.google.com/books?id=c8EIvHkg4EYC&pg=PA204 |date=March 26, 2018}} at [[Google Books]]. Retrieved September 27, 2010.</ref> After five operations in 10 days and [[physical therapy]], King resumed work on ''On Writing'' in July, though his hip was still shattered and he could sit for only about 40 minutes before the pain became unbearable.<ref name="UKOnWriting" />{{rp|216}}
+
+King's lawyer and two others purchased Smith's van for $1,500, reportedly to prevent it from appearing on [[eBay]]. The van was later crushed at a junkyard, to King's disappointment, as he had fantasized about smashing it.<ref>[https://www.npr.org/templates/story/story.php?storyId=1124785 "Novelist Stephen King"] {{webarchive |url=https://web.archive.org/web/20170905100809/http://www.npr.org/templates/story/story.php?storyId=1124785 |date=September 5, 2017}} ''Fresh Air''; [[NPR]] June 22, 2001</ref><ref>Dubner, Stephen J. [https://www.nytimes.com/2000/08/13/magazine/what-is-stephen-king-trying-to-prove.html?pagewanted=all&src=pm "What's Stephen King Trying to Prove?"] {{webarchive |url=https://web.archive.org/web/20170113162214/http://www.nytimes.com/2000/08/13/magazine/what-is-stephen-king-trying-to-prove.html?pagewanted=all&src=pm |date=January 13, 2017}} ''The New York Times'', August 13, 2000</ref>
+
+==Awards==
+{{main|List of awards and nominations received by Stephen King}}
+{{col-begin}}
+{{col-2}}
+* [[Alex Awards]] 2009: ''[[Just After Sunset]]''<ref>[http://www.ala.org/ala/mgrps/divs/yalsa/booklistsawards/alexawards/alex09.cfm Alex Awards] {{webarchive |url=https://web.archive.org/web/20090416164137/http://www.ala.org/ala/mgrps/divs/yalsa/booklistsawards/alexawards/alex09.cfm |date=April 16, 2009}}, American Library Association. Retrieved April 13, 2011.</ref>
+* [[American Library Association]] Best Books for Young Adults
+** 1978: ''[['Salem's Lot]]''
+** 1981: ''[[Firestarter (novel)|Firestarter]]''
+* Balrog Awards 1980: ''[[Night Shift (short story collection)|Night Shift]]''
+* Black Quill Awards 2009: ''[[Duma Key]]''
+* [[Bram Stoker Award]]
+** 1987: ''[[Misery (novel)|Misery]]''<ref name="Bram Stoker Awards">[http://www.horror.org/stokerwinnom.htm Bram Stoker Awards] {{webarchive |url=https://web.archive.org/web/20080113132337/http://www.horror.org/stokerwinnom.htm |date=January 13, 2008}}, Horror Writer's Association. Retrieved April 13, 2011.</ref>
+** 1990: ''[[Four Past Midnight]]''<ref name="Bram Stoker Awards" />
+** 1995: "[[Lunch at the Gotham Café]]"<ref name="Bram Stoker Awards" />
+** 1996: ''[[The Green Mile (novel)|The Green Mile]]''<ref name="Bram Stoker Awards"/>
+** 1998: ''[[Bag of Bones]]''<ref name="Bram Stoker Awards"/>
+** 2000: ''On Writing''<ref name="Bram Stoker Awards"/>
+** 2000: "[[Riding the Bullet]]"<ref name="Bram Stoker Awards"/>
+** 2002: [[Bram Stoker Award for Lifetime Achievement|Lifetime Achievement Award]]<ref name="Bram Stoker Awards"/>
+** 2003: ''[[The Dark Tower V: Wolves of the Calla]]''<ref name="Bram Stoker Awards"/>
+** 2006: ''[[Lisey's Story]]''<ref name="Bram Stoker Awards"/>
+** 2008: ''[[Duma Key]]''<ref name="Bram Stoker Awards"/>
+** 2008: ''[[Just After Sunset]]''<ref name="Bram Stoker Awards"/>
+** 2010: ''[[Full Dark, No Stars]]''<ref name="Bram Stoker Awards"/>
+** 2011: "[[Herman Wouk Is Still Alive]]"<ref>{{cite web |url=http://www.horror.org/blog/?p=2453 |title=Horror Writers Association Blog » Blog Archive » 2011 Bram Stoker Award™ winners and Vampire Novel of the Century Award winner |publisher=Horror.org |date=April 1, 2012 |access-date=April 14, 2012 |archive-url=https://web.archive.org/web/20120404155058/http://www.horror.org/blog/?p=2453 |archive-date=April 4, 2012 |url-status=live}}</ref>
+** 2013: ''[[Doctor Sleep (novel)|Doctor Sleep]]''<ref>[http://horror.org/winners-2013-bram-stoker-awards/ "The Winners of the 2013 Bram Stoker Awards"] {{webarchive |url=https://web.archive.org/web/20140606044440/http://horror.org/winners-2013-bram-stoker-awards/ |date=June 6, 2014}}. Horror Writers Association. May 11, 2014.</ref>
+* [[British Fantasy Award]]
+** 1981: Special Award<ref name="British Fantasy Society">[http://www.fantasticfiction.co.uk/awards/british_fantasy_society.htm British Fantasy Society Awards] {{webarchive |url=https://web.archive.org/web/20110516130519/http://www.fantasticfiction.co.uk/awards/british_fantasy_society.htm |date=May 16, 2011}}, Fantastic Fiction. Retrieved March 11, 2011.</ref>
+** 1982: ''[[Cujo]]''<ref name="British Fantasy Society"/>
+** 1983: "[[The Breathing Method]]"<ref name="British Fantasy Society"/>
+** 1987: ''[[It (novel)|It]]''<ref name="British Fantasy Society"/>
+** 1999: ''[[Bag of Bones]]''<ref name="British Fantasy Society"/>
+** 2005: ''[[The Dark Tower VII: The Dark Tower]]''<ref name="British Fantasy Society"/>
+* Deutscher Phantastik Preis
+** 2000: ''[[Hearts in Atlantis]]''
+** 2001: ''[[The Green Mile (novel)|The Green Mile]]''
+** 2003: ''[[Black House (novel)|Black House]]''
+** 2004: International Author of the Year
+** 2005: ''The Dark Tower VII: The Dark Tower''
+* [[Edgar Award]] for Best Novel
+** 2015: ''[[Mr. Mercedes]]''
+{{col-2}}
+* Horror Guild
+** 1997: ''[[Desperation (novel)|Desperation]]''
+** 2001: ''[[Riding the Bullet]]''
+** 2001: ''On Writing''
+** 2002: ''Black House''
+** 2003: ''[[From a Buick 8]]''
+** 2003: ''[[Everything's Eventual]]''
+* [[Hugo Award]] 1982: ''[[Danse Macabre (book)|Danse Macabre]]''<ref name="Hugo82">{{cite web|url=http://www.thehugoawards.org/hugo-history/1982-hugo-awards/|title=1982 Hugo Awards|date=July 26, 2007|publisher=World Science Fiction Society|access-date=April 19, 2010 |archive-url=https://web.archive.org/web/20110507164650/http://www.thehugoawards.org/hugo-history/1982-hugo-awards/ |url-status=live|archive-date=May 7, 2011}}</ref>
+* [[International Horror Guild Award]]s
+** 1999: ''[[Storm of the Century]]''<ref name=ihg>[http://www.horroraward.org/prevrec.html International Horror Guild Awards] {{webarchive |url=https://web.archive.org/web/20141031061140/http://horroraward.org/prevrec.html |date=October 31, 2014}}, International Horror Guild. Retrieved April 13, 2011.</ref>
+** 2003: Living Legend<ref name=ihg />
+* [[Kono Mystery ga Sugoi!]] (The Best Translated Mystery Fiction of the Year in Japan)
+** 2014: ''[[11/22/63]]''<ref>{{cite book |title=Kono Mystery ga Sugoi! 2014 |publisher=[[Takarajimasha]] |isbn=978-4-8002-2039-4 |date=December 2013 |language=ja}}</ref>
+* [[Los Angeles Times Book Prize]]
+** 2011: ''[[11/22/63]]''<ref>{{cite web |url=http://events.latimes.com/bookprizes/ |title=Book Prizes – Los Angeles Times Festival of Books |work=Los Angeles Times |access-date=May 1, 2012 |archive-url=https://web.archive.org/web/20170610035033/http://events.latimes.com/bookprizes/ |archive-date=June 10, 2017 |url-status=dead}}</ref>
+* [[Locus Awards]]
+** 1982: ''Danse Macabre''<ref name="Locus Award">[http://www.locusmag.com/SFAwards/Db/NomLit71.html#2853 Locus Awards] {{webarchive |url=https://web.archive.org/web/20150228114739/http://www.locusmag.com/SFAwards/Db/NomLit71.html#2853 |date=February 28, 2015}}, ''Locus Magazine''. Retrieved April 13, 2011.</ref>
+** 1986: ''[[Skeleton Crew]]''<ref name="Locus Award" />
+** 1997: ''[[Desperation (novel)|Desperation]]''<ref name="Locus Award" />
+** 1999: ''Bag of Bones''<ref name="Locus Award" />
+** 2001: ''On Writing''<ref name="Locus Award" />
+* [[Mystery Writers of America]] 2007: [[MWA Grand Master Award|Grand Master Award]]<ref>King, Stephen. ''Full Dark, No Stars'' {{ISBN|978-1-4391-9256-6}}</ref>
+* [[National Book Award]] 2003: [[Medal of Distinguished Contribution to American Letters]]<ref name="natbook"/>
+* [[National Magazine Awards]]
+** 2004: "[[Rest Stop (short story)|Rest Stop]]"
+** 2013: "Batman and Robin Have an Altercation"<ref>{{cite press release |url=http://www.magazine.org/about-asme/pressroom/asme-press-releases/asme/national-magazine-awards-2013-winners-announced |title=National Magazine Awards 2013 Winners Announced |publisher=American Society of Magazine Editors (ASME) |date=May 2, 2013 |access-date=May 26, 2013 |archive-url=https://web.archive.org/web/20130606011853/http://www.magazine.org/about-asme/pressroom/asme-press-releases/asme/national-magazine-awards-2013-winners-announced |archive-date=June 6, 2013 |url-status=live }}</ref>
+* New York Public Library Books for the Teen Age 1982: ''Firestarter''
+* [[O. Henry Award]] 1996: "[[The Man in the Black Suit]]"
+* [[Quill Award]] 2005: ''[[Faithful (book)|Faithful]]''
+* [[Shirley Jackson Award]] 2009: "[[Morality (short story)|Morality]]"<ref>{{cite web|url=http://www.shirleyjacksonawards.org/sja_2009_winners.php |title=The Shirley Jackson Awards Website |publisher=Shirleyjacksonawards.org |access-date=April 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20120731073612/http://www.shirleyjacksonawards.org/sja_2009_winners.php |archive-date=July 31, 2012 }}</ref>
+* Spokane Public Library Golden Pen Award 1986: Golden Pen Award
+* [[University of Maine]] 1980: Alumni Career Award
+* ''Us'' Magazine 1982: Best Fiction Writer of the Year
+* [[World Fantasy Award]]
+** 1980: [[World Fantasy Convention Award|Convention Award]]<ref name=worldfantasy>{{cite web|url=http://www.worldfantasy.org/awards/awardslist.html |title=World Fantasy Awards – Complete Listing |publisher=Worldfantasy.org |access-date=April 14, 2012 |url-status=dead |archive-url=https://web.archive.org/web/20131015020014/http://www.worldfantasy.org/awards/awardslist.html |archive-date=October 15, 2013 }}</ref>
+** 1982: "[[Do the Dead Sing?]]"<ref name=worldfantasy />
+** 1995: "The Man in the Black Suit"<ref name=worldfantasy />
+** 2004: [[World Fantasy Award for Life Achievement|Lifetime Achievement]]<ref name=worldfantasy />
+* [[World Horror Convention]] 1992: World Horror Grandmaster<ref>{{cite web |url=http://worldhorrorconvention.com/past-whcs/ |title=Past WHCs |publisher=World Horror Convention |access-date=April 14, 2012 |archive-url=https://web.archive.org/web/20120415140121/http://worldhorrorconvention.com/past-whcs/ |archive-date=April 15, 2012 |url-status=live |date=November 15, 2009 }}</ref>
+{{col-end}}
+
+==Bibliography==
+{{Main|Stephen King bibliography|Stephen King short fiction bibliography|Unpublished and uncollected works by Stephen King}}
+
+=== Audiobooks ===
+* 2000: ''On Writing: A Memoir of the Craft'' (read by Stephen King), Simon & Schuster Audio, {{ISBN|978-0-7435-0665-6}}
+* 2004: ''Salem's Lot'' (introduction), Simon & Schuster Audio, {{ISBN|978-0-7435-3696-7}}
+* 2005 ([[Audible (store)|Audible]]: 2000): ''Bag of Bones'' (read by Stephen King), Simon & Schuster Audio, {{ISBN|978-0743551755}}
+* 2008: ''Needful Things'' (read by Stephen King), HIGHBRIDGE AUDIO, {{ISBN|978-1598877540}}
+* 2012: ''The Wind Through The Keyhole – A Dark Tower Novel'' (read by Stephen King), Simon & Schuster Audio, {{ISBN|978-1-4423-4697-0}}
+* 2016: ''Desperation'' (read by Stephen King),  Simon & Schuster Audio, {{ISBN|978-1508218661}}
+* 2018: ''Elevation'' (read by Stephen King), Simon & Schuster Audio, {{ISBN|978-1508260479}}
+
+==Filmography==
+<!-- This is only a list of films where King had direct involvement.  For a complete list, see [[List of adaptations of works by Stephen King]]. -->
+
+{| class="wikitable"
+|-
+! Year
+! Title
+!width=65| Director
+!width=65| Executive producer
+!width=65| Writer
+!width=65| Actor
+! Notes 
+|-
+| 1981
+| style="white-space:nowrap;"|''[[Knightriders]]''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Role: Hoagie Man
+|-
+| 1982
+| ''[[Creepshow]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{yes}}
+| Role: Jordy Verrill
+|-
+| 1985
+| ''[[Cat's Eye (1985 film)|Cat's Eye]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|
+|-
+| 1985
+| ''[[Silver Bullet (film)|Silver Bullet]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|-
+| 1986
+| ''[[Maximum Overdrive]]''<ref>{{cite web|url=http://www.cracked.com/blog/the-creepiest-thing-about-stephen-king-his-acting-career/|title=The Cocaine-Fueled Acting Cameos Of Stephen King|website=Cracked.com|access-date=September 26, 2017|archive-url=https://web.archive.org/web/20170926143517/http://www.cracked.com/blog/the-creepiest-thing-about-stephen-king-his-acting-career/|archive-date=September 26, 2017|url-status=live|date=May 9, 2017}}</ref>
+| {{yes}}
+| {{no}}
+| {{yes}}
+| {{yes}}
+| Role: Man at Bank ATM
+|-
+| 1987
+| ''[[Creepshow 2]]''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Role: Truck Driver
+|-
+| 1987
+| ''[[Tales from the Darkside]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+| 1 episode: "[[Sorry, Right Number]]"
+|-
+| 1989
+| ''[[Pet Sematary (1989 film)|Pet Sematary]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{yes}}
+| Role: Minister
+|-
+| 1991
+| ''[[Golden Years (miniseries)|Golden Years]]''
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Miniseries, also created by King, role: Bus Driver
+|-
+| 1992
+| ''[[Sleepwalkers (film)|Sleepwalkers]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{yes}}
+| Role: Cemetery Caretaker
+|-
+| 1994
+| ''[[The Stand (1994 miniseries)|The Stand]]''
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Miniseries, role: Teddy Weizak
+|-
+| 1995
+| ''[[The Langoliers (miniseries)|The Langoliers]]''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Miniseries, role: Tom Holby
+|-
+| 1996
+| ''[[Thinner (film)|Thinner]]''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Role: Pharmacist
+|-
+| 1997
+| ''[[The Shining (miniseries)|The Shining]]''
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Miniseries, role: Gage Creed
+|-
+| 1998
+| ''[[The X-Files]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+| 1 episode: "[[Chinga (The X-Files)|Chinga]]"
+|-
+| 1999
+| ''[[Storm of the Century]]''
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Miniseries, role: Lawyer in Ad / Reporter on Broken TV
+|-
+| 1999
+| ''[[Frasier]]''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| 1 episode: "[[Mary Christmas (Frasier episode)|Mary Christmas]]", role: Brian
+|-
+| 2002
+| ''[[Rose Red (miniseries)|Rose Red]]''
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| Miniseries, role: Pizza Delivery Guy
+|-
+| 2003
+| ''[[The Diary of Ellen Rimbauer (film)|The Diary of Ellen Rimbauer]]''
+| {{no}}
+| {{yes}}
+| {{no}}
+| {{no}}
+| TV film
+|-
+| 2004
+| ''[[Kingdom Hospital]]''<ref>{{Cite news|url=https://variety.com/2004/tv/reviews/stephen-king-s-kingdom-hospital-1200534769/|title=Review: 'Stephen King's Kingdom Hospital'|last=Lowry|first=Brian|date=February 29, 2004|work=Variety|access-date=September 26, 2017|language=en-US|archive-url=https://web.archive.org/web/20170926144016/http://variety.com/2004/tv/reviews/stephen-king-s-kingdom-hospital-1200534769/|archive-date=September 26, 2017|url-status=live}}</ref>
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| 9 episodes, also developed by King, role: Johnny B. Goode
+|-
+| 2004
+| ''[[Riding the Bullet (film)|Riding the Bullet]]''
+| {{no}}
+| {{yes}}
+| {{no}}
+| {{no}}
+| 
+|-
+| 2005
+| ''[[Fever Pitch (2005 film)|Fever Pitch]]''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Role: Stephen King
+|-
+| 2005
+| ''Gotham Cafe''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Short film, role: Mr. Ring
+|-
+| 2006
+| ''[[Stephen King's Desperation|Desperation]]''
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{no}}
+| TV film
+|-
+| 2007
+| ''[[Diary of the Dead]]''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Role: Newsreader (voice, uncredited)
+|-
+| 2010
+| ''[[Sons of Anarchy]]''<ref name="Monsters and Critics">{{cite web| last = Morrison| first = Sara| title = Stephen King guests on Sons of Anarchy for season three| work = [[Monsters and Critics]]| date = May 7, 2010| url = http://www.monstersandcritics.com/smallscreen/news/article_1553860.php/Stephen-King-guests-on-Sons-of-Anarchy-for-season-three-UPDATE| url-status=dead| archive-url = https://web.archive.org/web/20100826150847/http://www.monstersandcritics.com/smallscreen/news/article_1553860.php/Stephen-King-guests-on-Sons-of-Anarchy-for-season-three-UPDATE| archive-date = August 26, 2010| df = mdy-all}}</ref>
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| 1 episode: "Caregiver", role: Bachman
+|-
+| 2012
+| ''[[Stuck in Love]]''
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Role: Stephen King (voice)
+|-
+| 2014
+| ''[[Under the Dome (TV series)|Under the Dome]]''
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{yes}}
+| 1 episode: "[[Heads Will Roll (Under the Dome)|Heads Will Roll]]", role: Diner Patron
+|-
+| 2014
+| ''[[A Good Marriage (film)|A Good Marriage]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|
+|-
+| 2016
+| ''[[11.22.63]]''
+| {{no}}
+| {{yes}}
+| {{no}}
+| {{no}}
+|
+|-
+| 2016
+| ''[[Cell (film)|Cell]]''
+| {{no}}
+| {{no}}
+| {{yes}}
+| {{no}}
+|
+|-
+| 2017
+| ''[[Mr. Mercedes (TV series)|Mr. Mercedes]]''
+| {{no}}
+| {{yes}}
+| {{no}}
+| {{yes}}
+| Role: Diner Patron
+|-
+| 2018
+| ''[[Castle Rock (TV series)|Castle Rock]]''
+| {{no}}
+| {{yes}}
+| {{no}}
+| {{no}}
+|
+|-
+| 2019
+| ''[[It Chapter Two]]''<ref>{{cite web|url=https://www.esquire.com/entertainment/a28950013/it-chapter-two-cameos-stephen-king-bodganovich/|title=Here's How 'It Chapter Two' Pulled Off Those Big Cameos|first=Gabrielle|last=Bruney|date=September 7, 2019|website=Esquire|access-date=September 8, 2019|archive-date=May 20, 2021|archive-url=https://web.archive.org/web/20210520072703/https://www.esquire.com/entertainment/a28950013/it-chapter-two-cameos-stephen-king-bodganovich/|url-status=live}}</ref>
+| {{no}}
+| {{no}}
+| {{no}}
+| {{yes}}
+| Role: Shopkeeper
+|-
+| 2021
+| ''[[Lisey's Story (miniseries)|Lisey's Story]]''
+| {{no}}
+| {{yes}}
+| {{yes}}
+| {{no}}
+| Miniseries
+|}
+
+==See also==
+{{Portal|Literature}}
+* [[List of adaptations of works by Stephen King]]
+* [[Castle Rock (Stephen King)]]
+* [[Charles Scribner's Sons]] (aka Scribner)
+* [[Derry (Stephen King)]]
+* [[Dollar Baby]]
+* ''[[Origins of a Story]]''
+* [[Jerusalem's Lot (Stephen King)]]
+* ''[[Haven (TV series)|Haven]]''
+
+==References==
+{{reflist}}
+
+== Further reading ==
+{{See also|Books about Stephen King}}
+* {{cite book|last=Brooks|first=Justin|title=Stephen King: A Primary Bibliography of the World's Most Popular Author|year=2008|publisher=Cemetery Dance|isbn=978-1-58767-153-1}}
+* {{cite book|last=Collings|first=Michael R.|title=The Many Facets of Stephen King|year=1985|publisher=Starmont House|isbn=0-930261-14-3|author-link=Michael R. Collings}}
+* {{cite book|last1=Collings|first1=Michael R.|title=The Shorter Works of Stephen King|year=1985|publisher=Starmont House|isbn=0-930261-02-X|author-link=Michael R. Collings|first2=David A. |last2=Engebretson }}
+* {{cite book|last=Collings|first=Michael R.|title=Stephen King as Richard Bachman|year=1985|publisher=Starmont House|isbn=0-930261-00-3|author-link=Michael R. Collings|url-access=registration|url=https://archive.org/details/stephenkingasric0000coll}}
+* {{cite book|last=Collings|first=Michael R.|title=The Films of Stephen King|year=1986|publisher=Starmont House|isbn=0-930261-10-0}}
+* {{cite book|last=Collings|first=Michael R.|title=The Annotated Guide to Stephen King: A Primary and Secondary Bibliography of the Works of America's Premier Horror Writer|year=1986|publisher=Starmont House|isbn=0-930261-80-1|author-link=Michael R. Collings}}
+* {{cite book|last=Collings|first=Michael R.|title=The Stephen King Phenomenon|year=1987|publisher=Starmont House|isbn=0-930261-12-7}}
+* {{cite book|last=Collings|first=Michael R.|title=Horror Plum'd: An International Stephen King Bibliography and Guide 1960–2000|year=2003|publisher=Overlook Connection Press|isbn=1-892950-45-6}}
+* {{cite book|last=Collings|first=Michael R.|title=Stephen King Is Richard Bachman|year=2008|publisher=Overlook Connection Press|isbn=978-1-892950-74-1|author-link=Michael R. Collings}}
+* {{cite book|editor-last=Hoppenstand|editor-first=Gary|title=Stephen King|year=2010|publisher=Salem Press|isbn=978-1-58765-685-9}}
+* {{cite book|last=Spignesi|first=Stephen|title=The Complete Stephen King Encyclopedia|year=1991|publisher=Contemporary Books|isbn=978-0-8092-3818-7}}
+* {{cite book|last=Spignesi|first=Stephen|title=The Lost Work of Stephen King|year=1998|publisher=Birch Lane Press|isbn=978-1-55972-469-2}}
+* {{cite book|last=Spignesi|first=Stephen|title=The Essential Stephen King|year=2001|publisher=Career Press|isbn=978-1-56414-710-3}}
+* {{cite book|last1=Wood|first1=Rocky|title=The Complete Guide to the Works of Stephen King|publisher=Kanrock Partners|isbn=0-9750593-3-5|author-link=Rocky Wood|first2=David |last2=Rawsthorne |first3=Norma |last3=Blackburn }}
+* {{cite book|last=Wood|first=Rocky|title=Stephen King: Uncollected, Unpublished|year=2006|publisher=Cemetery Dance|isbn=1-58767-130-1|author-link=Rocky Wood}}
+* {{cite book|last1=Wood|first1=Rocky|title=The Stephen King Collector's Guide|publisher=Kanrock Partners|isbn=978-0-9750593-5-7|author-link=Rocky Wood|first2=Justin |last2=Brooks }}
+* {{cite book|last1=Wood|first1=Rocky|title=Stephen King: The Non-Fiction|year=2008|publisher=Cemetery Dance|isbn=978-1-58767-160-9|author-link=Rocky Wood|first2=Justin |last2=Brooks }}
+
+==External links==
+{{Library resources box|by=yes|viaf=97113511}}
+{{sister project links|n=no|wikt=no|b=no|v=no|commons=Category:Stephen King|s=no|d=Q39829}}
+* {{Official website|http://www.stephenking.com/}}
+* [https://twitter.com/StephenKing/ Stephen King on Twitter]
+* [http://www.shotsmag.co.uk/interview_view.aspx?interview_id=229 Working with the King – Shotsmag Ezine Interview with Philippa Pride, King's UK editor]
+* {{worldcat id|id=lccn-n79-63767}}
+* {{isfdb name|Stephen_King}}
+* {{IBList |type=author|id=62|name=Stephen King}}
+* {{IMDb name|175}}
+* {{C-SPAN|Stephen King}}
+* {{cite journal| url=http://www.theparisreview.org/interviews/5653/the-art-of-fiction-no-189-stephen-king| journal=The Paris Review | volume=Fall 2006 | issue=178 | title=Stephen King, The Art of Fiction No. 189| date=Fall 2006|last1=Lehmann-Haupt |first1=Christopher |last2=Rich |first2=Nathaniel}}
+* [https://writersinitiative.com/creative-writing/turn-the-monsters-loose "I try to create sympathy for my characters and then turn the monsters loose."] - Stephen King and one of his key approaches to writing horror stories.
+
+{{Stephen King|state=expanded}}
+{{Navboxes
+|title = Associated subjects
+|list1=
+{{Media based on Stephen King works}}
+{{The Dark Tower}}
+{{The Creepshow Trilogy}}
+{{Carrie}}
+{{The Shining}}
+{{'Salem's Lot}}
+{{The Dead Zone}}
+{{Pet Sematary}}
+{{The Mangler}}
+{{Stephen King's It}}
+{{The Stand}}
+{{Stephen King's Needful Things}}
+{{Stephen King's Cycle of the Werewolf}}
+{{Characters created by Stephen King}}
+{{Navboxes
+|title=Related topics
+|list1=
+{{Bram Stoker Award for Lifetime Achievement}}
+{{World Fantasy Award Best Short Fiction}}
+{{World Fantasy Award Life Achievement}}
+{{World Fantasy Convention Award}}
+}}
+{{Navboxes
+|title=Collections
+|list1=
+{{Night Shift}}
+{{SkeletonCrew}}
+{{Nightmares & Dreamscapes}}
+{{Everything's Eventual}}
+{{Just After Sunset}}
+{{Different Seasons}}
+}}
+}}
+{{National Medal of Arts recipients 2010s}}
+{{Authority control}}
+
+{{DEFAULTSORT:King, Stephen}}
+[[Category:Stephen King| ]]
+[[Category:1947 births]]
+[[Category:20th-century American essayists]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American non-fiction writers]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American poets]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American essayists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American non-fiction writers]]
+[[Category:21st-century American novelists]]
+[[Category:21st-century American poets]]
+[[Category:21st-century American short story writers]]
+[[Category:American activists]]
+[[Category:American crime writers]]
+[[Category:American cultural critics]]
+[[Category:American fantasy writers]]
+[[Category:American film directors]]
+[[Category:American gun control activists]]
+[[Category:American horror novelists]]
+[[Category:American male essayists]]
+[[Category:American male film actors]]
+[[Category:American male non-fiction writers]]
+[[Category:American male novelists]]
+[[Category:American male poets]]
+[[Category:American male screenwriters]]
+[[Category:American male short story writers]]
+[[Category:American mystery writers]]
+[[Category:American philanthropists]]
+[[Category:American psychological fiction writers]]
+[[Category:American science fiction writers]]
+[[Category:American screenwriters]]
+[[Category:American short story writers]]
+[[Category:American social commentators]]
+[[Category:American thriller writers]]
+[[Category:Former Methodists]]
+[[Category:Critics of neoconservatism]]
+[[Category:Cthulhu Mythos writers]]
+[[Category:Dark fantasy writers]]
+[[Category:Edgar Award winners]]
+[[Category:Florida Democrats]]
+[[Category:Ghost story writers]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Living people]]
+[[Category:The Magazine of Fantasy & Science Fiction people]]
+[[Category:Maine Democrats]]
+[[Category:Male feminists]]
+[[Category:Mythopoeic writers]]
+[[Category:National Book Award winners]]
+[[Category:Novelists from Florida]]
+[[Category:Novelists from Maine]]
+[[Category:O. Henry Award winners]]
+[[Category:American opinion journalists]]
+[[Category:People from Lisbon, Maine]]
+[[Category:People from Lovell, Maine]]
+[[Category:People from Scarborough, Maine]]
+[[Category:People from Sarasota, Florida]]
+[[Category:Philanthropists from Maine]]
+[[Category:Rock Bottom Remainders members]]
+[[Category:Schoolteachers from Maine]]
+[[Category:Science fiction critics]]
+[[Category:Science fiction fans]]
+[[Category:Social critics]]
+[[Category:Teachers of English]]
+[[Category:United States National Medal of Arts recipients]]
+[[Category:University of Maine alumni]]
+[[Category:Weird fiction writers]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Writers about activism and social change]]
+[[Category:Writers from Bangor, Maine]]
+[[Category:Writers from Portland, Maine]]
+[[Category:Writers of books about writing fiction]]
+[[Category:Writers of Gothic fiction]]
+[[Category:20th-century pseudonymous writers]]
+[[Category:21st-century pseudonymous writers]]

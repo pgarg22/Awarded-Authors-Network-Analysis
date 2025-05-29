@@ -1,0 +1,54 @@
+{{Short description|Scottish writer}}
+{{Use dmy dates|date=February 2021}}
+{{Use British English|date=August 2017}}
+{{Infobox person
+| name               = Ross Leckie
+| birth_name         = Peter Ross Leckie
+| birth_date         = {{birth date and age|df=y|1957|05|06}}
+| birth_place        = [[Irvine, North Ayrshire|Irvine]], [[Ayrshire]], Scotland
+| occupation         = Writer
+| notable_works      = ''[[Carthage]]'' trilogy
+| spouse             = {{marriage|[[Vera Wülfing-Leckie|Vera Wülfing]]|1979|end=div}}
+{{marriage|Sophie Drinkal|1995|end=div}}
+| children           = 10
+| alma_mater         = [[Corpus Christi College, Oxford]]
+| education          = [[Fettes College]]<br>[[Drumtochty Castle|Drumtochty Castle Preparatory School]]
+}}
+
+'''Peter Ross Leckie''' (born 6 May 1957) is a Scottish writer of historical novels, best known for his ''[[Carthage]]'' trilogy. 
+
+==Biography==
+Leckie attended [[Drumtochty Castle]] Preparatory School and [[Fettes College]].<ref>[http://www.fettes.com/foundation/interviews/leckie.htm Fettes website]</ref> He studied classics at [[Corpus Christi College, Oxford]], where he was also President of the Junior Common Room.<ref>[http://www.canongate.net/RossLeckie Canongate]</ref><ref name="leckie">{{cite web |url=http://www.heraldscotland.com/sport/spl/aberdeen/a-classic-tale-of-two-cities-saturday-interview-ross-leckie-when-hollywood-called-the-edinburgh-fund-management-spinmeister-was-lost-for-words-finds-mark-williamson-1.110113 |title=A classic tale of two cities; Saturday interview: Ross Leckie When Hollywood called, the Edinburgh fund management spinmeister was lost for words |publisher=[[The Herald (Glasgow)]] |date=23 August 2003 |page=21 |accessdate=14 November 2014 |quote=Fact File 1957: Born in Irvine, Ayrshire. Education: Drumtochty Castle Preparatory School, Kincardineshire; Fettes College, Edinburgh; Corpus Christi College, Oxford University; Royal Agricultural College, Cirencester}}</ref> He met [[Vera Wülfing-Leckie|Vera Wülfing]], a student of languages from Germany, and they married in 1979. They moved to Scotland in 1981. The couple had four children.<ref name="Leckie">{{cite news|last=Leckie|first=Ross|author-link=Ross Leckie|date=8 February 2021|title=Dr Vera Wülfing-Leckie obituary|newspaper=[[The Guardian]]|url=https://www.theguardian.com/society/2021/feb/08/dr-vera-wulfing-leckie-obituary|access-date=9 February 2021}}</ref> In 1995 Leckie married Sophie Drinkall, and they had six children. They divorced in 2019.
+
+==Works==
+
+===Carthage Trilogy===
+# ''[[Hannibal (Leckie novel)|Hannibal]]'' (also as ''Hannibal: A novel'')
+# ''[[Scipio Africanus]]'' (also as ''Scipio: A novel'')
+# ''Carthage''
+
+===Non-fiction===
+* ''The Bluffer's Guide to The Classics''
+* ''[[Grampian]]: A Country in Miniature''
+* ''The Gourmet's Companion''
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://ancienthistory.about.com/library/bl/uc_bkrev_hahn2.htm Review: Ross Leckie's Carthage]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Leckie, Ross}}
+[[Category:Scottish novelists]]
+[[Category:Scottish historical novelists]]
+[[Category:Writers of historical fiction set in antiquity]]
+[[Category:People educated at Fettes College]]
+[[Category:Alumni of Corpus Christi College, Oxford]]
+[[Category:People educated at Drumtochty Castle Preparatory School]]
+[[Category:1957 births]]
+[[Category:Living people]]
+
+{{Scotland-writer-stub}}
+{{UK-novelist-stub}}

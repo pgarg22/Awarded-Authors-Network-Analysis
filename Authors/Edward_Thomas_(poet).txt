@@ -1,0 +1,238 @@
+{{short description|British poet and novelist (1878-1917)}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Philip Edward Thomas
+| image = thomasportrait.jpg
+| image_size = 
+| caption = Thomas in 1905
+| pseudonym = Edward Thomas, Edward&nbsp;Eastaway
+| birth_date = {{Birth date|1878|3|3|df=yes}}
+| birth_place = [[Lambeth]], [[Surrey]], England
+| death_date = {{Death date and age|1917|4|9|1878|3|3|df=yes}}
+| death_place = [[Arras]], Pas-de-Calais, France
+| occupation = {{flatlist|
+* Journalist
+* essayist
+* poet
+}}
+| nationality = [[Wales|Welsh]]
+| period = 
+| genre = Nature poetry, [[War poem|war poetry]]
+| subject = Nature, war
+| movement = 
+| spouse = {{marriage|Helen Noble|1899}}
+| partner = 
+| children = 3
+| relatives = 
+| influences = 
+| influenced = 
+| signature = 
+| website = 
+}}
+
+'''Philip Edward Thomas''' (3 March 1878 – 9 April 1917) was a British poet, essayist, and novelist. He is considered a [[war poet]], although few of his poems deal directly with his war experiences, and his career in poetry only came after he had already been a successful writer and literary critic. In 1915, he enlisted in the British Army to fight in the [[World War I|First World War]] and was killed in action during the [[Battle of Arras (1917)|Battle of Arras]] in 1917, soon after he arrived in France.
+
+A study centre dedicated to Thomas is located at [[Petersfield Museum]] in [[Hampshire]].
+
+==Life and career==
+===Background and early life===
+Edward Thomas was the son of Mary Elizabeth Townsend and Philip Henry Thomas, a [[civil servant]], author, preacher and local politician.<ref> see James, B. Ll. (1993) pp84-85</ref> He was born in [[Lambeth]], an area of present-day south London, previously in [[Surrey]].<ref name="odnb">{{Cite ODNB|id=36480|title=Thomas, (Philip) Edward|first = Edna |last = Longley|author-link = Edna Longley}}</ref> He was educated at Belleville School, [[Battersea Grammar School]] and [[St Paul's School (London)|St Paul's School]], all in London.
+
+Thomas' family were mostly [[Welsh people|Welsh]].<ref>{{cite journal |last1=James |first1=B. Ll. |title=The Ancestry of Edward Thomas |journal=National Library of Wales Journal |date=1993 |volume=28,1 |page=81-93 |url=https://journals.library.wales/view/1277425/1289400/90#?xywh=-1707%2C-102%2C6332%2C4176}}</ref> Of his six great-grandparents for whom information has been found, five were born in Wales, and one in [[Ilfracombe]].<ref>The birth places of the five great-grandparents born in Wales were [[Cadoxton-juxta-Neath|Cadoxton]] (2), [[Caerleon]], [[Port Talbot]] and [[Pyle]]. By the time of her marriage in 1825, the Ilfracombe great-grandparent and her parents were already living in [[Swansea]]. For more, see See James, B. Ll. (1993).</ref> All four of his grandparents had been born and brought up in Wales. Of these, his paternal grandparents lived in [[Tredegar]]. His grandmother, Rachel Phillips, had been born and brought up there, whilst his grandfather, Henry Thomas, who'd been born in [[Neath]], worked there as a [[Coal mining|collier]] and then an engine fitter. Their son, Philip Henry, who was Edward Thomas' father, had been born in Tredegar and spent his early years there. <ref> Edward Thomas' paternal grandfather, Henry Eastaway Thomas, had been born in [[Neath]], worked in [[Cwmafan]] and moved to Tredegar in the 1850s. He was the brother of Treharne Thomas of [[Pontarddulais]], with whose family Edward Thomas would later stay. Philip Henry Thomas left Tredegar in his early teens, when his parents moved to [[Swindon]] and then London. See James, B. Ll. (1993) pp81-83, 93.</ref>
+
+Thomas' maternal grandfather was Edward Thomas Townsend, the son of Margaret and Alderman William Townsend, a [[Newport, Wales|Newport]] merchant active in Liberal and Chartist politics. His maternal grandmother was Catherine Marendaz, from [[Margam]], just outside  [[Port Talbot]], where her family had been tenant farmers since at least the late 1790s. Their daughter, Mary Elizabeth Townsend, married Philip Henry Thomas. Mary and Philip were, of course, Edward Thomas’ parents. <ref> For more on the Townsend and Marendaz families, see  B. LL. James (1993) pp85-89, with a family tree on page 93, and A. L. Evans (1967).</ref>  
+
+Although Edward Thomas’ father, Philip Henry Thomas, had left Tredegar for Swindon (and then London) in his early teens, “the Welsh connection was … enduring.”<ref> See James, B. Ll. (1993) pp84</ref> He continued throughout his life to visit his relatives in south Wales. His feelings for Wales were also manifest in other ways. There were frequent journeys to Merthyr to lecture on behalf of the Ethical Society, and even a visit in 1906 to a [[National Eisteddfod]] in north Wales. Philip Henry Thomas “cultivated his Welsh connections assiduously,” so much so that Edward Thomas and his brothers could even boast that their father knew [[Lloyd George]]. <ref> See James, B. Ll. (1993) pp84-85, 90</ref>  
+
+Like his father before him, Edward Thomas continued throughout his life<ref>His account of journeys to Wales as a child mentions calling on relatives in Newport, Caerleon, Swansea, Abertillery and Pontypool. See pp20,22 and 54 of Thomas, E. (1983)</ref> to visit his many relatives and friends in [[Ammanford]], Newport, [[Swansea]] and Pontardulais.<ref> Thomas’ relatives in Pontardulais were the family of his great-uncle, Treharne Thomas, who lived in 17, Woodville Street. For more on Edward Thomas and Pontardulais, see R. G. Thomas (1987).</ref> Thomas also enjoyed a twenty-year  friendship with a distant cousin, the teacher, theologian and poet, [[John Jenkins (Gwili)]], of the Hendy, just across the county border from Pontardulais.<ref> For more on Gwili and Thomas, see Jenkins, E. (1967) pp148-154  </ref> Gwili’s elegy for Thomas describes the many walks they took together in the countryside around Pontardulais and Ammanford. <ref>{{cite web |title=Elegy |url=http://www.users.ic24.net/~terrynorm/edward%20thomas.htm#elegy |website=John Jenkins (Gwili)}}</ref> Such was the family’s connection to this part of Wales that three of  Edward Thomas’ brothers were sent to school at [[Watcyn Wyn]]’s Academy in Ammanford, where Gwili had become headmaster in 1908. <ref>See Jenkins, E. (1967) p148 </ref>
+
+===From Oxford to Adlestrop===
+Between 1898 and 1900, Thomas was a history scholar at [[Lincoln College, Oxford]].<ref>{{cite web|url=http://www.lincoln.ox.ac.uk/Famous-Lincoln-Alumni|title=Famous Lincoln Alumni|website=Lincoln.ox.ac.uk|access-date=13 October 2017|archive-url=https://web.archive.org/web/20171013055235/http://www.lincoln.ox.ac.uk/Famous-Lincoln-Alumni|archive-date=13 October 2017|url-status=dead}}</ref> In June 1899, he married Helen Berenice Noble (1877–1967)<ref>{{cite web|url=https://www.library.wales/collections/learn-more/archives/archives-of-welsh-writers-in-english/edward-and-helen-thomas-manuscripts|title=Edward Thomas|access-date=21 May 2021|work=library.wales|publisher=[[The National Library of Wales]]}}</ref><ref>{{cite web|url=http://www.freebmd.org.uk/cgi/information.pl?cite=XoeJkNeZ0ZFKjgJfnUsjkA&scan=1|title=Index entry|access-date=6 July 2014|work=FreeBMD|publisher=ONS}}</ref> in [[Fulham]], while still an undergraduate, and determined to live his life by the pen. He then worked as a book reviewer, reviewing up to 15 books every week.<ref name="Abrams">{{cite book | title = The Norton Anthology of English Literature | url = https://archive.org/details/nortonanthology102abra | url-access = registration | last = Abrams | first = MH | author-link =M. H. Abrams |year= 1986 |publisher= [[W. W. Norton & Company]] | location= New York |isbn= 0-393-95472-2 |page= [https://archive.org/details/nortonanthology102abra/page/1893 1893]}}</ref> He was already a seasoned writer by the outbreak of war, having published widely as a literary critic and biographer as well as writing about the countryside. He also wrote a novel, ''The Happy-Go-Lucky Morgans'' (1913), a "book of delightful disorder".<ref>Andreas Dorschel, 'Die Freuden der Unordnung', ''[[Süddeutsche Zeitung]]'' nr 109 (13 May 2005), p. 16.</ref>
+
+Thomas worked as literary critic for the ''[[Daily Chronicle]]'' in London and became a close friend of Welsh tramp poet [[W. H. Davies]], whose career he almost single-handedly developed.<ref name="Stone">[[Richard J. Stonesifer|Stonesifer, R. J.]] (1963), ''W. H. Davies – A Critical Biography'', London, Jonathan Cape. B0000CLPA3.</ref> From 1905 until 1906, Thomas lived with his wife Helen and their two children at Elses Farm near [[Sevenoaks]], [[Kent]]. He rented a tiny cottage nearby to Davies, and nurtured his writing as best he could. On one occasion, Thomas arranged for the manufacture, by a local wheelwright, of a makeshift wooden leg for Davies.
+
+In 1906 the family moved to [[Steep, Hampshire|Steep]], [[East Hampshire]], on the outskirts of the market town of Petersfield - attracted by the landscape, its links with London, and schooling at the innovative co-educational private school Bedales. They lived in and around Steep in three separate homes for ten years until 1916 when they moved to Essex following Thomas's enlistment. Their third child, Myfanwy, was born in August 1910.<ref>https://biography.wales/article/s-THOM-EDW-1878</ref>
+[[File:May Hill - geograph.org.uk - 7712.jpg|thumb|240px|Clump of [[Scots pine]] trees on [[May Hill]] – [[Robert Frost]] and Thomas walked here and it was here that Thomas began writing his poem "Words".<ref>{{cite web|url=http://www.dymockpoets.org.uk/Visit.htm |title=FDP – Visiting the Dymock Area |publisher=Dymockpoets.org.uk |access-date=1 January 2016}}</ref>]]
+
+Even though Thomas thought that poetry was the highest form of literature and regularly reviewed it, he only became a poet himself at the end of 1914<ref name="Abrams" /> when living at Steep, and initially published his poetry under the name Edward Eastaway. The American poet [[Robert Frost]], who was living in England at the time, in particular encouraged Thomas (then more famous as a critic) to write poetry, and their friendship was so close that the two planned to reside side by side in the [[United States]].<ref>{{cite web|last=Hollis|first=Matthew|authorlink=Matthew Hollis|date=29 July 2011|title=Edward Thomas, Robert Frost and the road to war|url=https://www.theguardian.com/books/2011/jul/29/robert-frost-edward-thomas-poetry|url-status=dead|archive-url=https://web.archive.org/web/20130930122052/http://www.theguardian.com/books/2011/jul/29/robert-frost-edward-thomas-poetry|archive-date=30 September 2013|access-date=|website=The Guardian}}</ref> Frost's most famous poem, "[[The Road Not Taken]]", was inspired by walks with Thomas and Thomas's indecisiveness about which route to take.
+
+By August 1914, the village of [[Dymock]] in [[Gloucestershire]] had become the [[Dymock poets|residence]] of a number of literary figures, including [[Lascelles Abercrombie]], [[Wilfrid Gibson]] and Robert Frost. Edward Thomas was a visitor at this time.<ref>{{Citation | url = http://resources.glos.ac.uk/departments/lis/archives/collections/gpwa/dymock.cfm | contribution = Dymock Poets Archive | publisher = University of Gloucestershire | title = Archives | place = UK | url-status = dead | archive-url = https://web.archive.org/web/20090521155638/http://resources.glos.ac.uk/departments/lis/archives/collections/gpwa/dymock.cfm | archive-date = 21 May 2009}}</ref>
+
+Thomas immortalised the (now-abandoned) [[Adlestrop railway station|railway station at Adlestrop]] in a [[Adlestrop (poem)|poem of that name]] after his train made a stop at the Cotswolds station on 24 June 1914, shortly before the outbreak of the [[First World War]].<ref>{{Cite web|title=Adlestrop|url=http://www.poetsgraves.co.uk/Classic%20Poems/Thomas%20E/adlestrop.htm|access-date=2021-03-07|website=www.poetsgraves.co.uk}}</ref>
+
+===War service===
+[[File:Edward Thomas memorial stone.jpg|thumb|300px|right|His memorial stone near [[Steep, Hampshire|Steep]]]]
+Thomas enlisted in the [[Artists Rifles]] in July 1915, despite being a mature married man who could have avoided enlisting.  He was unintentionally influenced in this decision by his friend Frost, who had returned to the U.S. but sent Thomas an advance copy of "[[The Road Not Taken (poem)|The Road Not Taken]]".<ref name="hollis20110729">{{cite news | url = https://www.theguardian.com/books/2011/jul/29/robert-frost-edward-thomas-poetry | title=Edward Thomas, Robert Frost and the road to war | work=The Guardian | date=29 July 2011 | access-date= 8 August 2011 | author= [[Matthew Hollis|Hollis, Matthew]] | location=London}}</ref> The poem was intended by Frost as a gentle mocking of indecision, particularly the indecision that Thomas had shown on their many walks together; however, most took the poem more seriously than Frost intended, and Thomas similarly took it seriously and personally, and it provided the last straw in Thomas' decision to enlist.<ref name="hollis20110729" />
+
+Thomas was promoted to [[corporal]], and in November 1916 was commissioned into the [[Royal Garrison Artillery]] as a [[second lieutenant]]. He was killed in action soon after he arrived in France at [[Battle of Arras (1917)|Arras]] on Easter Monday, 9 April 1917. To spare the feelings of his widow Helen, she was told the fiction of a "bloodless death" i.e. that Thomas was killed by the concussive blast wave of one of the last shells fired as he stood to light his pipe and that there was no mark on his body.<ref>{{cite news |url=https://www.telegraph.co.uk/travel/721572/France-First-World-War-poetry.html |archive-url=https://web.archive.org/web/20080805101751/https://www.telegraph.co.uk/travel/721572/France-First-World-War-poetry.html |archive-date=2008-08-05 |title=France: First World War Poetry |newspaper=The Daily Telegraph |location=London |url-status=dead |date=27 February 1999}}</ref> However, a letter from his commanding officer Franklin Lushington written in 1936 (and discovered many years later in an American archive) states that in reality the cause of Thomas's death was being "shot clean through the chest".<ref>{{cite web|url=https://www.poetryarchive.org/poet/edward-thomas|title=Edward Thomas - poetryarchive.org|website=www.poetryarchive.org|access-date=23 June 2018}}</ref> W. H. Davies was devastated by the death and his commemorative poem "Killed in Action (Edward Thomas)" was included in Davies's 1918 collection "Raptures".<ref name="Stone" />
+
+Thomas is buried in the [[Commonwealth War Graves Commission|Commonwealth War Graves Cemetery]] at [[Agny]] in France (Row C, Grave 43).<ref name=burial>{{cite web |url=http://www.cwgc.org/find-war-dead/casualty/249787 |title=Casualty Details: Thomas, Philip Edward |access-date=2 February 2008 | publisher =Commonwealth War Graves Commission |work=Debt of Honour Register}}</ref>
+
+===Personal life===
+Thomas and his wife Helen had three children: a son, Merfyn, and daughters Bronwen and Myfanwy. After the war, Helen wrote about her courtship and early married life with Edward in the autobiography ''As it Was'' (1926); a second volume, ''World Without End'' was published in 1931. Myfanwy later said that the books had been written by her mother as a form of therapy to help lift herself from the deep depression into which she had fallen following Thomas's death.<ref>{{Cite web| url=https://spartacus-educational.com/WthomasH.htm |title=Helen Thomas |work=spartacus-educational.com |access-date=2021-05-21}}</ref>
+
+Helen's short memoir ''A Memory of W. H. Davies'' was published in 1973, after her own death. In 1988, Helen's writings were gathered into a book published under the title ''Under Storm's Wing'', which included ''As It Was'' and ''World Without End'' as well as a selection of other short works by Helen and her daughter Myfanwy and six letters sent by Robert Frost to her husband.<ref>Edna Longley, [http://www.lrb.co.uk/v10/n09/edna-longley/england-and-other-women England and Other Women], London Review of Books, Edna Longley, 5 May 1988.</ref>
+
+==Commemorations==
+Thomas is commemorated in [[Poets' Corner]], [[Westminster Abbey]], London, by memorial windows in the churches at [[Steep, Hampshire|Steep]] and at [[Eastbury, Berkshire|Eastbury]] in [[Berkshire]], a blue plaque at 14 Lansdowne Gardens in Stockwell, south London, where he was born <ref>{{cite web |author=The Vauxhall Society@vauxhallsociety |url=http://www.vauxhallcivicsociety.org.uk/history/edward-thomas/ |title=Edward Thomas |publisher=Vauxhallcivicsociety.org.uk |date=1917-04-09 |access-date=2016-01-01 }}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> and a London County Council plaque at 61 Shelgate Road SW11.
+
+There is also a plaque dedicated to him at 113 Cowley Road, Oxford, where he lodged before entering Lincoln College, as well as featuring on the memorial board in the JCR of Lincoln College.<ref>{{cite web|url=http://www.oxfordhistory.org.uk/streets/inscriptions/east/thomas_edward.html |title=Cowley Road |publisher=Oxfordhistory.org.uk |access-date=1 January 2016}}</ref>
+
+[[East Hampshire District Council]] have created a "literary walk" at Shoulder of Mutton Hill in Steep dedicated to Thomas,<ref>{{Citation | place = East Hampshire, UK | url = http://www.easthants.gov.uk/edo/tourism.nsf/webpages/Walking | title = Walking in East Hampshire | publisher = District Council | url-status = dead | archive-url = https://web.archive.org/web/20101005072454/http://www.easthants.gov.uk/edo/tourism.nsf/webpages/Walking | archive-date = 5 October 2010}}</ref> which includes a memorial stone erected in 1935. The inscription includes the final line from one of his essays: "And I rose up and knew I was tired and I continued my journey."
+
+As "Philip Edward Thomas poet-soldier" he is commemorated, alongside "Reginald Townsend Thomas actor-soldier died 1918", who is buried at the spot, and other family members, at the North East [[Surrey]] (Old Battersea) Cemetery.
+
+He is the subject of the biographical play ''The Dark Earth and the Light Sky'' by [[Nick Dear]], which premiered at the [[Almeida Theatre]], London in November 2012, with [[Pip Carter]] as Thomas and [[Hattie Morahan]] as his wife Helen.<ref>{{cite web|url=http://www.almeida.co.uk/event/darkearth |title=Almeida |publisher=Almeida |access-date=1 January 2016}}</ref>
+
+In February 2013 his poem "Words" was chosen as the poem of the week by [[Carol Rumens]] in ''[[The Guardian]]''.<ref>{{cite news|author=Carol Rumens |url=https://www.theguardian.com/books/booksblog/2013/feb/25/poem-of-the-week-edward-thomas |title=Poem of the week: Words by Edward Thomas |newspaper=The Guardian |date=23 February 2013 |access-date=1 January 2016}}</ref>
+
+A Study Centre dedicated to Edward Thomas, featuring more than 1,800 books by or about him collected by the late Tim Wilton-Steer, has been opened in [[Petersfield Museum]]. Access to the Study Centre is available by prior appointment.<ref>{{Cite web|title=Edward Thomas {{!}} Petersfield Museum|url=https://www.petersfieldmuseum.co.uk/collection/edward-thomas|website=www.petersfieldmuseum.co.uk|access-date=2020-05-25}}</ref>
+
+==Poetry==
+{{Quote box |width=350px |align=right |quoted=true |bgcolor=#FFFFF0 |salign=right
+ |quote  =<poem>
+'''In Memoriam'''
+
+The flowers left thick at nightfall in the wood
+This Eastertide call into mind the men,
+Now far from home, who, with their sweethearts, should
+Have gathered them and will do never again.
+ </poem>
+| source = ''- 6. IV. 15''. 1915<ref>{{cite web|url=http://www.oucs.ox.ac.uk/ww1lit/collections/item/2164?CISOROOT=/ww1&CISOPTR=2164&DMSCALE=37.50000&DMWIDTH=600&DMHEIGHT=600&DMMODE=viewer&DMFULL=0&DMOLDSCALE=9.57243&DMX=0&DMY=0&DMTEXT=&DMTHUMB=1&REC=1&DMROTATE=0&x=77&y=101|title=In Memoriam (Easter 1915) - First World War Poetry Digital Archive|website=Oucs.ox.ac.uk|access-date=13 October 2017}}</ref>}}
+Thomas's poems are written in a colloquial style and frequently feature the English countryside. The short poem ''In Memoriam'' exemplifies how his poetry blends the themes of war and the countryside.
+
+On 11 November 1985, Thomas was among 16 Great War poets commemorated on a slate stone unveiled in [[Westminster Abbey]]'s [[Poet's Corner]].<ref>{{Citation | url = http://net.lib.byu.edu/english/wwi/poets/poets.html | title = The Great War | contribution = Poets | publisher = Brigham Young University | place = Utah, USA | access-date = 19 September 2008 | archive-url = https://web.archive.org/web/20080922074012/http://net.lib.byu.edu/english/WWI/poets/poets.html | archive-date = 22 September 2008 | url-status = dead }}</ref> The inscription, written by fellow poet [[Wilfred Owen]], reads: "My subject is War, and the pity of War. The Poetry is in the pity."<ref>{{Citation | chapter-url = http://net.lib.byu.edu/english/wwi/poets/Preface.html | title = The Great War | publisher = Brigham Young University | place = Utah, USA | chapter = Preface}}</ref>
+
+Thomas was described by British Poet Laureate [[Ted Hughes]] as "the father of us all."<ref>{{Citation | url = https://www.telegraph.co.uk/travel/destinations/europe/uk/740765/The-timeless-landscape-of-Edward-Thomas.html | work = The Daily Telegraph| title = The timeless landscape of Edward Thomas | place = UK}}</ref>
+
+At least nineteen of his poems were set to music by the Gloucester composer [[Ivor Gurney]].<ref>{{cite web |url=http://www.lieder.net/lieder/g/gurney.html |title=Composer: Ivor (Bertie) Gurney (1890–1937) |publisher=recmusic.org |access-date=24 July 2013 }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Selected works==
+===Poetry collections===
+
+* ''Six Poems'' (under pseudonym Edward Eastaway) Pear Tree Press, 1916.
+* ''Poems'', [[Henry Holt and Company|Holt]], 1917,<ref>{{cite journal|jstor=20571689|title=The Late Edward Thomas|first=Alice Corbin|last=Henderson|editor-first=Edward|editor-last=Thomas|date=13 October 2017|journal=Poetry|volume=12|issue=2|pages=102–105}}</ref> which included "The Sign-Post"<ref>{{cite web|url=http://www.poetryfoundation.org/poem/239740|title=The Sign-Post by Edward Thomas|date=12 October 2017|website=Poetry Foundation|access-date=13 October 2017}}</ref>
+* ''Last Poems'', Selwyn & Blount, 1918.
+* ''Collected Poems'', Selwyn & Blount, 1920.
+* ''Two Poems'', Ingpen & Grant, 1927.
+* ''Selected Poems of Edward Thomas. With an Introduction by [[Edward Garnett]]'', [[Gregynog Press]], 1927. 275 copies
+* ''The Poems of Edward Thomas'', ed. R. George Thomas, [[Oxford University Press]], 1978.
+* ''Edward Thomas: Selected Poems and Prose'', ed. David Wright, [[Penguin Books]], 1981.
+* ''Edward Thomas: A Mirror of England'', ed. Elaine Wilson, Paul & Co., 1985.
+* ''Edward Thomas: Selected Poems'', ed. [[Ian Hamilton (critic)|Ian Hamilton]], [[Bloomsbury Publishing|Bloomsbury]], 1995.
+* ''The Poems of Edward Thomas'', ed. [[Peter Sacks]], Handsel Books, 2003.
+* ''The Annotated Collected Poems'', ed. [[Edna Longley]], [[Bloodaxe Books]], 2008.
+
+
+===Prose===
+
+* [http://catalog.hathitrust.org/Record/006503239 ''Horae Solitariae''], [[E. P. Dutton|Dutton]], 1902
+* [http://catalog.hathitrust.org/Record/001452855 ''Oxford''], [[A & C Black]], 1903
+* [http://catalog.hathitrust.org/Record/007692723 ''Beautiful Wales''], Black, 1905
+* [http://catalog.hathitrust.org/Record/000153286 ''The Heart of England''], Dutton, 1906
+* [http://catalog.hathitrust.org/Record/008728666 ''The South Country''], Dutton, 1906 (republished by [[Tuttle Publishing|Tuttle]], 1993), Little Toller Books (2009)<ref>{{cite web|url=https://www.littletoller.co.uk/shop/books/little-toller/the-south-country/|title=The South Country by Edward Thomas, Little Toller Books|access-date=23 June 2018}}</ref>
+* ''Rest and Unrest'', Dutton, 1910
+* ''Light and Twilight'', Duckworth, 1911
+* ''Lafcadio Hearn'', Houghton Mifflin Company (1912)
+* ''The Icknield Way'', [[Constable & Robinson|Constable]], 1913
+* ''The Happy-Go-Lucky Morgans'' (novel), [[Gerald Duckworth and Company|Duckworth]], 1913.<ref>{{cite web|url=https://archive.org/details/happygoluckymorg00thomuoft |title=The happy-go-lucky Morgans : Thomas, Edward, 1878–1917 : Free Download & Streaming : Internet Archive |access-date=1 January 2016}}</ref>
+* ''In Pursuit of Spring'' (travel) [[Thomas Nelson and Sons]], April 1914,<ref>{{cite web|url=https://archive.org/details/inpursuitofsprin00thomuoft |title=In pursuit of spring : Thomas, Edward, 1878–1917 : Free Download & Streaming : Internet Archive |access-date=1 January 2016}}</ref> Little Toller Books edition 2016<ref>{{cite web|url=https://www.littletoller.co.uk/shop/books/little-toller/in-pursuit-of-spring/|title=In Pursuit of Spring by Edward Thomas, Little Toller Books|access-date=23 June 2018}}</ref>
+* ''Four and Twenty Blackbirds'' Duckworth, 1915. Thomas's only book specifically for children. It contains 24 tales, drawing influence from a very happy time in his life living on Elses Farm in Kent.<ref>{{Cite book | url=https://books.google.com/books?id=-CQDDQAAQBAJ |title = Four-And-Twenty Blackbirds|isbn = 9781473359734|last1 = Thomas|first1 = Edward|date = 9 September 2016}}</ref>
+* ''A Literary Pilgrim in England'', (UK: [[Methuen Publishing|Methuen]], US: [[Dodd, Mead and Company]]) 1917<ref>{{cite web|url=https://archive.org/details/aliterarypilgri00thomgoog|title=A Literary Pilgrim in England|last=Edward Thomas|date=23 June 2018|publisher=Dodd, Mead|access-date=23 June 2018|via=Internet Archive}}</ref> (republished by [[Oxford University Press]], 1980)
+* ''The Last Sheaf'', [[Jonathan Cape]], 1928
+
+==Influence on other writers==
+[[File:Adlestrop station sign in the bus shelter - geograph.org.uk - 451105.jpg|thumb|Adlestrop bus shelter with the station sign. Thomas immortalised the (now-abandoned) [[Adlestrop railway station|railway station at Adlestrop]] in a poem of that name after his train made a stop at the Cotswolds station on 24 June 1914]]
+* In 1918 [[W. H. Davies]] published his poem ''Killed in Action (Edward Thomas)'' to mark the personal loss of his close friend and mentor.<ref>Davies, W.H. (1918), ''Forty New Poems'', A.C. Fifield. ASIN: B000R2BQIG</ref>
+* Many poems about Thomas by other poets can be found in the books ''Elected Friends: Poems For and About Edward Thomas'', (1997, Enitharmon Press) edited by Anne Harvey, and ''Branch-Lines: Edward Thomas and Contemporary Poetry'', (2007, Enitharmon Press) edited by Guy Cuthbertson and [[Lucy Newlyn]].
+* [[Norman Douglas]] considered Thomas handicapped in life through lacking "a little touch of bestiality, a little ''[[Je m'en fou|je-m'en-fous-t-ism]]''. He was too scrupulous".<ref>Norman Douglas, ''Looking Back'' (Chatto and Windus, 1934) p. 175</ref>
+* [[Eleanor Farjeon]] was a close friend of Thomas and after his death remained close to his wife. From her correspondence she constructed her 1958 memoir ''Edward Thomas: The Last Four Years''.{{sfn|Farjeon|1997}}<ref>{{cite web|url= https://www.faber.co.uk/author/eleanor-farjeon/|title= Eleanor Farjeon - Authors - Faber & Faber|website= Faber.co.uk|access-date= 13 October 2017}}</ref>
+* In his 1980 autobiography, ''[[Ways of Escape]]'', [[Graham Greene]] references Thomas's poem "The Other" (about a man who seems to be following his own [[doppelgänger]] from hotel to hotel) in describing his own experience of being bedeviled by an imposter.
+* Edward Thomas's ''Collected Poems'' was one of [[Andrew Motion]]'s ten picks for the poetry section of the "Guardian Essential Library" in October 2002.<ref name="motion">{{cite news |first=Andrew |last=Motion |author-link=Andrew Motion |title=Guardian Essential Library: Poetry |url=http://books.guardian.co.uk/guardianessentiallibrary/table/0,12532,814699,00.html |work=Books to furnish a room... and enrich a mind |publisher=Guardian News and Media |date=19 October 2002 |access-date=2 February 2008 |location=London}}</ref>
+* In his 2002 novel ''[[Youth: Scenes from Provincial Life II|Youth]]'', [[J.M. Coetzee]] has his main character, intrigued by the survival of pre-modernist forms in British poetry, ask himself: "What happened to the ambitions of poets here in Britain? Have they not digested the news that Edward Thomas and his world are gone for ever?"<ref name="Coetzee">{{cite book |last=Coetzee |first=J. M. |author-link=John Maxwell Coetzee |title=Youth |year=2002 |publisher=Secker & Warburg |location=London |isbn=0-436-20582-3 |page=[https://archive.org/details/youth00coet_1/page/58 58] |url-access=registration |url=https://archive.org/details/youth00coet_1/page/58 }}</ref> In contrast, Irish critic Edna Longley writes that Thomas's ''Lob'', a 150-line poem, "strangely preempts ''[[The Waste Land]]'' through verses like: "This is tall Tom that bore / The logs in, and with Shakespeare in the hall / Once talked".<ref name="Longley">{{cite book |last=Longley |first=Edna |editor=Vincent Sherry|title=The Cambridge Companion to the Literature of the First World War |url=https://archive.org/details/cambridgecompani00sher |url-access=limited |year=2005 |publisher=Cambridge University Press |location=Cambridge |page=[https://archive.org/details/cambridgecompani00sher/page/n83 67] |chapter=The Great War, history, and the English lyric}}</ref>
+* In his 1995 novel, ''Borrowed Time'', the author [[Robert Goddard (novelist)|Robert Goddard]] bases the home of the main character at ''Greenhayes'' in the village of Steep, where Thomas lived from 1913. Goddard weaves some of the feeling from Thomas's poems into the mood of the story and also uses some quotes from Thomas's works.
+* [[Will Self]]'s 2006 novel, ''[[The Book of Dave]]'', has a quote from ''The South Country'' as the book's [[epigraph (literature)|epigraph]]: "I like to think how easily Nature will absorb London as she absorbed the mastodon, setting her spiders to spin the winding sheet and her worms to fill in the graves, and her grass to cover it pitifully up, adding flowers – as an unknown hand added them to the grave of Nero."
+* The children's author [[Linda Newbery]] has published a novel, "Lob" (David Fickling Books, 2010, illustrated by Pam Smy) inspired by the Edward Thomas poem of the same name and containing oblique references to other work by him.
+* [[Woolly Wolstenholme]], formerly of UK rock band [[Barclay James Harvest]], has used a humorous variation of Thomas' poem ''[[Adlestrop]]'' on the first song of his 2004 live album, ''Fiddling Meanly'', where he imagines himself in a retirement home and remembers "the name" of the location where the album was recorded. The poem was read at Wolstenholme's funeral on 19 January 2011.
+* [[Stuart Maconie]] in his book ''Adventures on the High Teas'' mentions Thomas and his poem "Adlestrop".  Maconie visits the now abandoned and overgrown station which was closed by [[Beeching cuts|Beeching]] in 1966.<ref>Stuart Maconie, 2009, ''Adventures on the High Teas'', Stuart Maconie, [[Ebury Press]], pp 239-242.</ref>
+* [[Robert Macfarlane (travel writer)|Robert MacFarlane]], in his 2012 book ''The Old Ways'', critiques Thomas and his poetry in the context of his own explorations of paths and walking as an analogue of human consciousness.<ref>Robert MacFarlane, 2012, ''The Old Ways'', Robert MacFarlane, [[Hamish Hamilton]], 2012, pp 333-355</ref>
+* In his 2012 novel ''[[Sweet Tooth (novel)|Sweet Tooth]],'' [[Ian McEwan]] has a character invoke Thomas's poem "Adlestrop," as a "sweet, old-fashioned thing" and an example of "the sense of pure existence, of being suspended in space and time, a time before a cataclysmic war".<ref>Ian McEwan, 2012, ''Sweet Tooth," Ian McEwan [[Nan A. Talese]], 2012, pp 177-178</ref>
+* The last years of Thomas's life are explored in ''A Conscious Englishman'', a 2013 [[biographical novel]] by [[Margaret Keeping]], published by StreetBooks.<ref>{{cite web|url=http://www.oxonianreview.org/wp/the-creations-of-edward-thomas/ |title=The Creations of Edward Thomas |last=Roberts |first=Gabriel |date=10 June 2010 |access-date=20 April 2018}}</ref>
+*In the 9 November 2018 issue of ''[[The Wall Street Journal]]'', an opinion commentary by [[Aaron Schnoor]] honored the poetry of World War I, including Thomas' poem "Gone, Gone Again".<ref>{{cite web|url=https://www.wsj.com/articles/the-great-war-produced-some-great-poetry-1541806343 |title=WSJ – The Great War Produced Some Great Poetry |work=The Wall Street Journal|date=9 November 2018 |access-date=28 April 2019}}</ref>
+* [[Pat Barker]]'s 1995 [[Booker Prize]] winning novel of World War I, ''[[The Ghost Road]]'', has as its opening epigraph four lines from Thomas's poem "Roads": "Now all roads lead to France/ And heavy is the tread/ Of the living; but the dead/ Returning lightly dance."<ref>
+{{cite web
+|url= https://www.poemhunter.com/poem/roads-31/
+ |title= Roads - Poem by Edward Thomas
+ |date= 16 June 2014
+ |access-date= 20 April 2018
+}}
+</ref>
+* Poet Laureate [[Andrew Motion]] has said that Thomas occupies "a crucial place in the development of twentieth-century poetry"<ref>{{Cite book|last=Motion|first=Andrew|url=https://www.worldcat.org/oclc/1004975686|title=The Poetry Of Edward Thomas|date=2011|publisher=Random House|isbn=978-1-4464-9818-7|location=United Kingdom|pages=11|oclc=1004975686}}</ref> for introducing a modern sensibility, later found in the work of such poets as [[W. H. Auden]] and [[Ted Hughes]], to the poetic subjects of Victorian and Georgian poetry.<ref>https://www.poetryfoundation.org/poets/edward-thomas</ref>
+
+==Sculpture==
+[[File:6. Claire Malet, The Company of Old Roads, 2017, low res.jpg|thumb|''The Company of Old Roads'']]
+In December 2017 the [[Amgueddfa Cymru – National Museum Wales|National Museum of Wales]] at Cardiff displayed a sculptural installation by the Herefordshire artist Claire Malet depicting a [[Sunken lane|holloway]] and incorporating a copy of Thomas's ''Collected Poems'', open at 'Roads':
+
+:Crowding the solitude
+:Of the loops over the downs,
+:Hushing the roar of towns
+:And their brief multitude.<ref name="poemhunter">{{cite web | title=PoemHunter.com | url=https://www.poemhunter.com/poem/roads-31/ | access-date=23 November 2017}}</ref>
+
+==References==
+{{Reflist}}
+
+==Additional sources==
+* {{cite book |last=Hollis |first=Matthew |authorlink=Matthew Hollis |year=2011 |title=[[Now All Roads Lead to France|Now All Roads Lead to France: The Last Years of Edward Thomas]] |publisher=Faber and Faber |isbn=978-0-571-24598-7}}
+
+== Bibliography ==
+{{refbegin}}
+* {{cite book|last=Farjeon|first=Eleanor|authorlink=Eleanor Farjeon|author-mask=|title=Edward Thomas: The Last Four Years|url=https://books.google.com/books?id=qRkeAQAAIAAJ|year=1997|origyear=1958 OUP|publisher=[[Sutton Publishing]]|edition=Revised|isbn=978-0-7509-1337-9}} {{link note|note= [https://archive.org/details/edwardthomaslast0000farj/page/n9/mode/1up Full text] on [[Internet Archive]]}} {{link note|note=memoir constructed from her correspondence with Thomas}}
+* {{cite journal |last1=James |first1=B. Ll. |title=The Ancestry of Edward Thomas |journal=National Library of Wales Journal |date=1993 |volume=28, 1 |page=81-93|url=https://journals.library.wales/view/1277425/1289400/90#?xywh=-1707%2C-102%2C6332%2C4176}} 
+*{{cite journal |last1=Jenkins |first1=E. |title=50th Anniversary of the Death of Edward Thomas (1878-1917) Some of His Welsh Friends |journal=National Library of Wales Journal |date=1967 |volume=15, 2 |page=147-156 |url=https://journals.library.wales/view/1277425/1283175/36#?xywh=-1925%2C-374%2C7002%2C4618}}
+*{{cite book |last1=Thomas |first1=E. |title=The Childhood of Edward Thomas: A Fragment of Autobiography |date=1983 |publisher=Faber & Faber |location=London}}
+*{{cite book |last1=Thomas |first1=P. H. |title=A Religion of this World: Being a Selection of Positivist Addresses |date=1913 |publisher=Watts |location=London}} 
+*{{cite book |last1=Thomas |first1=R.G. |title=Edward Thomas: A Portrait |url=https://www.google.co.uk/books/edition/Edward_Thomas/um5bAAAAMAAJ?hl=en |date=1987 |publisher=Oxford University Press |location=Oxford}}
+* {{cite book |editor-first=Jeff |editor-last=Towns |title=Edward Thomas & Wales |location=Cardigan |publisher=Parthian |year=2018 |isbn=9781912681129 }}
+* {{cite book |first=Jean Moorcroft |last=Wilson |author-link=Jean Moorcroft Wilson |year=2015 |title=Edward Thomas: from Adlestrop to Arras; a biography |location=London |publisher=Bloomsbury |isbn=978-1-4081-8713-5 }}
+
+==External links==
+{{wikisource author}}
+{{Commons category|Edward Thomas (poet)}}
+{{wikiquote}}
+* {{Citation | url = http://www.poets.org/poet.php/prmPID/719| title = Edward Thomas profile| publisher = Poets.org}}.
+* {{Citation | url = http://www.poetryfoundation.org/bio/edward-thomas | title = Edward Thomas profile| publisher = Poetry Foundation}}.
+* {{Gutenberg author |id=6876 | name=Edward Thomas}}
+* {{Internet Archive author |sname=Edward Thomas |birth=1878 |death=1917 |sopt=t}}
+* {{Librivox author |id=327}}
+* {{Citation | url = https://archive.org/search.php?query=creator:%22Thomas,+Edward,+1878-1917%22 | title = Works | first = Edward | last = Thomas | publisher = [[Internet Archive]]}}.
+* {{Citation | url = http://www.edward-thomas-fellowship.org.uk/ |title=Edward Thomas Fellowship| publisher = The Edward Thomas Fellowship | place = UK}}.
+* {{Citation | url = http://resources.glos.ac.uk/departments/lis/archives/collections/gpwa/dymock.cfm | contribution = Dymock Poets Archive | publisher = University of Gloucestershire | title = Archives and Special Collections | place = UK | url-status = dead | archive-url = https://web.archive.org/web/20090521155638/http://resources.glos.ac.uk/departments/lis/archives/collections/gpwa/dymock.cfm | archive-date = 21 May 2009}}.
+* [https://www.cardiff.ac.uk/special-collections/explore/collection/edward-thomas-archive Edward Thomas Archive] at Cardiff University
+* {{Citation | chapter-url = http://www.oucs.ox.ac.uk/ww1lit/collections/thomas | chapter = The Edward Thomas Collection | url = http://www.oucs.ox.ac.uk/ww1lit | title = The First World War Poetry Digital Archive | publisher = [[Oxford University]] | place = UK}}
+* {{UK National Archives ID}}
+* {{NPG name| 04467 }}
+* [https://web.archive.org/web/20171011181948/http://www.petersfieldmuseum.co.uk/index.php Edward Thomas Study Centre at Petersfield Museum]
+*[https://archives.library.wales/index.php/edward-and-helen-thomas-manuscripts Edward and Helen Thomas manuscripts] at the [[National Library of Wales]]
+*The digitised [https://www.library.wales/discover/digital-gallery/manuscripts/modern-period/the-war-diary-of-edward-thomas/ war diary of Edward Thomas] at the [[National Library of Wales]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thomas, Edward}}
+[[Category:1878 births]]
+[[Category:1917 deaths]]
+[[Category:Alumni of Lincoln College, Oxford]]
+[[Category:Anglo-Welsh poets]]
+[[Category:Artists' Rifles soldiers]]
+[[Category:British Army personnel of World War I]]
+[[Category:British military personnel killed in World War I]]
+[[Category:British World War I poets]]
+[[Category:20th-century English male writers]]
+[[Category:20th-century English poets]]
+[[Category:People from Lambeth]]
+[[Category:Royal Garrison Artillery officers]]
+[[Category:People educated at Battersea Grammar School]]
+[[Category:People educated at St Paul's School, London]]
+[[Category:English male poets]]
+[[Category:Deaths by firearm in France]]
+[[Category:People from Steep, Hampshire]]
+[[Category:Lost Generation writers]]

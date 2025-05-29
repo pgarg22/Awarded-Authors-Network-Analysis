@@ -1,0 +1,100 @@
+{{short description|Hungarian poet and writer}}
+{{eastern name order|Károly György}}
+{{Infobox writer
+|name        = György Károly
+|image       = György Károly poet.jpg
+|caption     ='''György Károly''' poet and writer
+|birth_date  = {{birth date|df=y|1953|08|31}}
+|birth_place = [[Budapest]], Hungary
+|death_date  = {{Death date and age|df=y|2018|10|26|1953|08|31}}
+|death_place = [[Szigetszentmiklós]], Hungary
+|genre       = [[Poetry]]
+|nationality = [[Hungary|Hungarian]]
+|awards      = 
+|spouse      = Annamária Szklenkay 
+}}
+'''György Károly''' (''Károly György'', 31 August 1953 – 26 October 2018) was a [[Magyars|Hungarian]] poet and writer.
+
+==Biography==
+Károly was born in [[Budapest]] on 31 August 1953, the only son of György Károly (1924–2003), a [[butcher]], and Ilona Szabó (1928–2014), a [[tailor]]. He spent his early life in [[Szigetszentmiklós]], where he finished his primary school years. After he completed his studies in Budapest.
+Károly was educated as a [[geologist]] and began to write in the 1970s. He published his first poems in ''[[Élet és Irodalom]]'' (“Life and Literature”). He was poetic silent in the 1980s. In the nineties Károly began writing again.
+<!--
+for translate
+
+[[Vers]]ei és rövidebb [[próza|prózái]] 1997. óta jelennek meg. Kedveli a kötött [[verstan|versformákat]], eddig mintegy hetven [[szonett]]jét közölték irodalmi lapok és [[antológia|antológiák]]. Több irodalmi pályázat nyertese illetve díjazottja. Az időközben megszűnt [[Kármán József]] Társaság alapító titkára és az Új Hagyomány irodalmi [[folyóirat]] főszerkesztője.
+-->
+
+==Bibliography==
+===Books===
+* Károly György: ''Folyamatos május'' (poems, private edition, [[Budapest]] 1999)
+* Károly György – Péter Péter: ''Dunakanyaró'' (poems, private edition, [[Vác]] 2005)
+
+===Anthologies===
+* ''Téli tárlat ’98'' (Madách Imre Művelődési Központ, [[Vác]] 1998, 96 pages)
+* ''Gondolattánc'' (Svájci-Magyar Kiadói Kft., [[Budapest]] 2000, 270 pages) {{ISBN|963-9032-96-4}}
+* ''Szótól szóig'' (Alterra Svájci-Magyar Kiadó Kft., [[Budapest]] 2002, 340 pages) {{ISBN|963-9324-26-4}}
+* ''A Dunakanyar költészete 2005'' (Kucsák Könyvkötészet és Nyomda, [[Vác]] 2005, 199 pages) {{ISBN|963-218-048-8}}
+* ''Ezer magyar haiku'' (Napkút Kiadó, [[Budapest]] 2010, 332 pages) {{ISBN|978-963-263-129-5}}
+
+===Literary journals===
+* A Céh
+* Árgus
+* Bárka
+* Béta magazin (β)
+* C.E.T – Central European Time
+* Duna-part
+* Élet és Irodalom
+* Havi Magyar fórum
+* Hírnök
+* Holmi
+* Igazunk
+* Madách Rádió
+* Magyar Élet ([[New Zealand]])
+* Magyar Demokrata
+* Magyar Fórum
+* Magyar Napló
+* Magyar Világ
+* Mozgó Világ
+* Műhely
+* Napút
+* Pannon Tükör
+* Parnasszus
+* Petőfi Rádió
+* Új Pest megyei Hírlap
+* Somogy
+* Törökfürdő
+* Új Hagyomány
+* Váci Napló
+* Váci Polgár
+
+==Personal life==
+Károly was married to Annamária Szklenkay (born 1958), with whom he had five children. They lived in [[Vác]] for twenty years, and in [[Pilis]] for three years before moving to [[Szigetszentmiklós]]. Károly died of a [[brain tumor]] on 26 October 2018.<ref name="bio">[http://eletrajz.karolygyorgy.hu/ Death announcement on official website]</ref>
+
+==References==
+{{Reflist}}
+
+==External links (Hungarian texts)==
+{{Commons category|György Károly}}
+{{Wikisourcelang|hu|Szerző:Károly György|György Károly}}
+* [http://karolygyorgy.hu/ Official website of György Károly]
+* [http://www.terebess.hu/haiku/karoly.html Terebess Online]
+
+----
+* [[s:hu:Válogatott versek|Assorted poems on Wikisource]]
+* [[s:hu:Vakogás|Sonnetset on Wikisource]] ([[Crown of sonnets]])
+
+{{Hungarian literature}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Karoly, Gyorgy}}
+[[Category:1953 births]]
+[[Category:2018 deaths]]
+[[Category:Deaths from brain tumor]]
+[[Category:Deaths from cancer in Hungary]]
+[[Category:Hungarian male poets]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:20th-century Hungarian poets]]
+[[Category:21st-century Hungarian poets]]
+[[Category:21st-century Hungarian male writers]]
+[[Category:People from Budapest]]

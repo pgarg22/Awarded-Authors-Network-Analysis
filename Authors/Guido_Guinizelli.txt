@@ -1,0 +1,43 @@
+{{Uncited categories|Italian-language poets|date=August 2019}}
+'''Guido Guinizelli''' (ca. 1225–1276)<ref name=":0">{{Cite book|last=Alighieri|first=Dante|title=Purgatorio|publisher=[[Anchor Books]]|isbn=0-385-49700-8|editor-last=Hollander|editor-first=Jean|location=New York|editor-last2=Hollander|editor-first2=Robert}}</ref><ref name=":1">{{Cite web|title=Guido Guinizelli|url=http://www.worldofdante.org/comedy/dante/purgatory.xml/2.26|url-status=live|access-date=March 13, 2021|website=The World of Dante}}</ref> was an esteemed Italian love [[poet]] and is considered the "father"<ref name=":1" /> of the [[Dolce Stil Novo]]. He was the first to write in this new style of poetry writing, and thus is held to be the ''[[ipso facto]]'' founder.<ref name="Krstovic">{{cite book|last1=Krstovic|first1=Jelena O|title=Classical and Medieval Literature Criticism|last2=Gellert|first2=Elisabeth|publisher=Gale Group|others=Gale Group|year=2002|isbn=0-7876-5158-3|volume=49|location=Detroit, Mich.|oclc=644696767}}</ref><ref name="eNotes-GG">{{cite web|title=Guido Guinizelli|url=http://www.enotes.com/classical-medieval-criticism/guido-guinizelli|work=Criticism > Classical and Medieval Literature Criticism|publisher=eNotes}}</ref> He was born in, and later exiled from, [[Bologna]], Italy. It is speculated that he died in Verona, Italy.<ref name=":0" />
+
+== Poetry ==
+Guinizelli's [[poetry]] can be briefly described as a conciliation between [[divinity|divine]] and earthly [[love]] with deep psychological [[introspection]].<ref name="Krstovic" /><ref name="eNotes-GG" />  His major works are ''Al cor gentil rempaira sempre Amore'' [http://www.elfinspell.com/GuidoGuinizelliPoems.html (Within the gentle heart abideth Love)], which [[Peter Dronke]] considers "perhaps the most influential love-song of the thirteenth century" (Dronke 1965, 57), as well as ''Io vogli[o] del ver la mia donna laudare'' and ''Vedut'ho la lucente stella Diana''.<ref>See [https://air.unimi.it/retrieve/handle/2434/23669/168259/Paolo_Borsa_-_La_nuova_poesia_di_Guido_Guinizelli_-_file_pubblico_cifrato-1.pdf Paolo Borsa, ''La nuova poesia di Guido Guinizelli''], Fiesole, Cadmo, 2007. {{ISBN|978-88-7923-363-7}}</ref>
+
+The main themes of the [[Dolce Stil Novo]] can be found in Guinizelli's ''Al cor gentil rempaira sempre amore'': the angelic beauty of the beloved women, the comparison of nobility to the sun and the rampant use of topoi such as ''cor gentil'' and ''Amore.''
+
+== Role in Dante's ''Divine Comedy'' ==
+
+=== ''Purgatorio'' XI ===
+Guido Guinizelli appears twice in [[Dante Alighieri]]'s ''[[Purgatorio]]''. At first, he is briefly mentioned in ''Purgatorio'' XI, when Dante encounters the great Italian artist, [[Oderisi da Gubbio]], on the terrace of Pride. While discussing the fleeting nature of fame and recognition, Oderisi refers to Guido Guinizelli and his successor, [[Guido Cavalcanti]] (ca. 1250–1300):<ref name=":0" /> <blockquote>Thus has one Guido taken from the other
+
+the glory of our tongue, and he, perhaps, is born
+
+who will drive one and then the other from the nest (''Purgatorio'' XI. 97-99).</blockquote>
+
+=== ''Purgatorio'' XXVI ===
+In ''Purgatorio'' XXVI, Dante journeys through the terrace of Lust, where he finally meets Guido Guinizelli. Like the other shades on this terrace, Guido is engulfed in flames to repent for his burning desires while alive. Once Guido reveals his identity, Dante narrates the awe and respect he has for the esteemed poet:<ref name=":0" /> <blockquote>when he gave his name and I knew he had been
+
+father to me and to others, my betters,
+
+who always used love's sweet and graceful rhymes (''Purgatorio'' XXVI. 97-99).</blockquote>In this tercet, Dante refers to Guinizelli's influence on Italian poetry and the style of [[Dolce Stil Novo]].
+
+==References==
+{{Reflist}}
+
+==External links==
+
+* {{cite book | last=Borsa | first=Paolo | url=https://air.unimi.it/retrieve/handle/2434/23669/168259/Paolo_Borsa_-_La_nuova_poesia_di_Guido_Guinizelli_-_file_pubblico_cifrato-1.pdf |title=La nuova poesia di Guido Guinizelli | publisher=Cadmo | publication-place=Fiesole (Firenze | year=2007 | isbn=978-88-7923-363-7 | oclc=145723089 | language=it}}
+* {{cite web | author=The Long Sojourning | title=The Early Italian Poets From Ciullo D'Alcamo to Dante Alighieri (1100-1200-1300), the Yale University Beinecke Library Proof | website=Rossetti Archive | url=http://www.rossettiarchive.org/docs/1-1861.yale.rad.html#p24 | access-date=2021-06-07}}
+* {{cite web | last=Heart | first=From Of the Gentle | title=Examples of Canzone : Poetry through the Ages | website=Webexhibits | url=http://www.webexhibits.org/poetry/explore_obscure_canzone_examples.html | access-date=2021-06-07}}
+
+{{wikiquote}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Guinizelli, Guido}}
+[[Category:1230 births]]
+[[Category:1276 deaths]]
+[[Category:Writers from Bologna]]
+[[Category:Italian male poets|Guinizzelli]]
+[[Category:Italian-language poets]]

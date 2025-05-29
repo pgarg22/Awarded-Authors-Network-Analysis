@@ -1,0 +1,43 @@
+{{Infobox person
+| name         = Roberto Bracco
+| image         = Roberto Bracco (1911).jpg
+| imagesize     = 
+| caption       = 
+| birth_date   = 10 November 1861
+| birth_place  =  [[Naples]], [[Campania]] <br> [[Italy]]
+| death_date   = 20 April 1943
+| death_place  =  [[Sorrento]], Campania  <br> Italy
+| othername   = 
+| occupation  = Writer
+| yearsactive = 
+}}
+'''Roberto Bracco''' (1861–1943) was an Italian [[playwright]], [[screenwriter]] and journalist. A number of his plays were turned into films, and he worked on the scripts of several of them including the 1914 silent ''[[Lost in the Dark (1914 film)|Lost in the Dark]]''.<ref>Goble p.51</ref> He was nominated for the [[Nobel Prize in Literature]] six times.<ref>{{Cite web|url=https://www.nobelprize.org/nomination/archive/show_people.php?id=1267 |title=Nomination Database|website=www.nobelprize.org|access-date=2017-04-19}}</ref>
+
+==Selected filmography==
+* ''[[Lost in the Dark (1914 film)|Lost in the Dark]]'' (1914)
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+* Goble, Alan. ''The Complete Index to Literary Sources in Film''. Walter de Gruyter, 1999.
+
+== External links ==
+* {{Gutenberg author | id=Bracco,+Roberto | name=Roberto Bracco}}
+* {{Internet Archive author |sname=Roberto Bracco}}
+* {{IMDb name|0102688}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bracco, Roberto}}
+[[Category:1861 births]]
+[[Category:1943 deaths]]
+[[Category:20th-century Italian screenwriters]]
+[[Category:Film people from Naples]]
+[[Category:Italian male screenwriters]]
+[[Category:Journalists from Naples]]
+[[Category:Italian Aventinian secessionists]]
+[[Category:20th-century Italian male writers]]
+
+
+{{Italy-writer-stub}}

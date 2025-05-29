@@ -1,0 +1,101 @@
+{{Use dmy dates|date=December 2015}}
+{{Use British English|date=December 2015}}
+'''Cynthia Harnett''' (22 June 1893 – 25 October 1981) was an [[English people|English]] author and illustrator, mainly of [[children's books]]. She is best known for six [[historical novels]] that feature ordinary teenage children involved in events of national significance, four of them in the 15th century. They are characterised by meticulous background research and vivid evocation of history.<ref name=childrens/><ref name=english/> 
+
+For one of them, ''[[The Wool-Pack]]'' (1951), she won the [[Carnegie Medal (literary award)|Carnegie Medal]] from the [[CILIP|Library Association]], recognising the year's best children's book by a [[British subject]].<ref name=medal1951/> Another, ''[[The Load of Unicorn]]'' (1959), was a commended runner-up for the Carnegie Medal.<ref name=ccsu/>{{efn |name=HC}}
+
+==Life==
+
+Cynthia Harnett was born in London and studied at [[Chelsea School of Art]].<ref name=english/> She illustrated the early editions of several of her own novels, but she also collaborated more than a dozen times with the painter and etcher George Vernon Stokes (1873–1954). Several of their books about dogs, the countryside or both credit Stokes and Harnett as co-authors.<ref name=worldcat/><!-- brother and sister? cousins? see TALK -->
+
+==Works==
+
+{{Col-begin}}
+{{Col-break}}
+;With (George) Vernon Stokes<ref name=worldcat/>
+* ''In Praise of Dogs: An Anthology in Prose and Verse'' (Country Life, 1936), compiled by C.M. Harnett, illustrated by George Vernon Stokes <!-- oclc=560560641 112pp -->
+* ''David's New World: The Making of a Sportsman'' (Country Life, 1937) <!-- 88pp -->
+* ''The Pennymakers'' (Eyre & Spottiswoode, 1937) <!-- oclc=752851155, 126pp, 14 line drawings. -->
+* ''Junk, the Puppy'' (Blackie & Son, 1937) <!-- unpaged, 50pp -->
+* ''Banjo the Puppy'' (1938) <!-- oclc=314542165 --><!-- google books also shows this title/authors/date without a publisher; maybe a US edition of Junk? -->
+* ''Velvet Nasks'' (Medici Society, 1938), illus. Vernon Stokes <!-- oclc=314551042 18pp -->
+* ''To Be A Farmer's Boy'' (Blackie & Son, 1940) <!-- 160pp -->
+* ''Mudlarks'' (Collins, 1940) <!-- unpaged -->
+* ''Mountaineers'' (Collins, 1941) <!-- [48pp] -->
+* ''Ducks and Drakes'' (Collins, 1942) <!-- [48pp] -->
+* ''The Bob-Tail Pup'' (Collins, 1944) <!-- unpaged -->
+* ''Sand Hoppers'' (Collins, 1946) <!-- unpaged -->
+* ''Getting to Know Dogs'' (Collins, 1947), illus. Vernon Stokes <!-- 99pp -->
+* ''Two and a Bit'' (Collins, 1948)
+* ''Follow my Leader'' (Collins, 1949) <!-- unpaged -->
+* ''Pets Limited'' (Collins, 1950) <!-- unpaged -->
+
+{{Col-break}}
+
+;Historical novels<!-- what is the criterion for choosing these six? LCCatalog lists many other titles that reveal historical content -->
+These six books were published by [[Methuen Publishing|Methuen]] and the first five were illustrated by Harnett.<!-- WorldCat -->
+* ''[[The Great House (novel)|The Great House]]'' (1949)<!-- Methuen, oclc=771410666 173pp --> —set in London and the countryside in the 17th century 
+* ''[[The Wool-Pack]]'' (1951)<!-- Methuen, 560560739 184pp --> —set in the Cotswolds in 1493 
+* ''[[Ring Out Bow Bells!]]'' (1953)<!-- Methuen, 560560692 217pp --> —set in London in 1415 
+* ''[[Stars of Fortune]]'' (1956)<!-- Methuen, 560560716 223pp--> —set in 1554
+* ''[[The Load of Unicorn]]'' (1959)<!-- Methuen, 752626144 239pp --> —set in London in 1482
+* ''[[The Writing on the Hearth]]'' (1971), illus. Gareth Floyd<!-- Methuen, 629165 303pp ISBN 0416467601 --> —set in the 1430s
+
+In the U.S. these six books were first published as 
+''The Great House'' (1968),<!-- World Pub oclc=438849 190pp -->
+''Nicholas and the Wool-Pack'' (1953),<!-- Putnam oclc=606625763 181pp --><!-- later The Merchant's Mark; oclc=10208460 181pp -->
+''The Drawbridge Gate'' (1953),<!-- Putnam oclc=1599251 250pp --><!-- later The Sign of the Green Falcon; oclc=10163326 217pp with indexed map London in the time of King Henry V 1413-1422; oclc=12756483 -->
+''Stars of Fortune'' (1956),<!-- Putnam 1599678 256pp -->
+''Caxton's Challenge'' (1960),<!-- World Pub, 1483540 254pp --><!-- later The Cargo of the Madalena -->
+and ''The Writing on the Hearth'' (1973).<!-- Viking, 700374 318pp ISBN 0670791199 -->
+At least three were re-titled again in the 1980s.
+
+;Others
+* ''The Green Popinjay'' (Blackwell, 1955) <!-- 32pp, ill.; evidently a picture book -->
+* ''A Fifteenth-Century Wool Merchant'' (Oxford, 1962) <!--oclc=30220092 31pp; evidently a picture book; People of the Past series http://www.worldcat.org/search?qt=hotseries&q=se%3A%22People+of+the+past+series.%22 -->
+* ''Monasteries & Monks'' (B. T. Batsford, 1963), illus. [[Edward Osmond]] <!-- 176pp, ill., maps, plans; LCC BX2592.H3 (nonfiction) -->
+{{col-end}}
+
+==See also==
+{{Portal bar |Children's literature |Middle Ages |England }} <!-- delete the word "bar" if/when there are enough ordinary See also -->
+
+==Notes==
+{{notelist |25em |notes= 
+{{efn |name=HC |1=
+Since 1995 there are usually eight books on the Carnegie shortlist.
+According to CCSU some runners-up were Commended (from 1954) or Highly Commended (from 1966). There were about 160 commendations of both kinds in the 49 years to 2002, including five for 1959.}}
+}}
+
+==References==
+{{reflist |25em |refs=
+<ref name=medal1951>
+[http://www.carnegiegreenaway.org.uk/livingarchive/title.php?id=106 (Carnegie Winner 1951)]. Living Archive: Celebrating the Carnegie and Greenaway Winners. [[CILIP]]. Retrieved 16 August 2012.</ref>
+<ref name=ccsu>
+[http://web.ccsu.edu/library/nadeau/award%20books/CarnegieMedal.htm "Carnegie Medal Award"]. 2007(?). Curriculum Lab. Elihu Burritt Library. [[Central Connecticut State University]] ('''CCSU'''). Retrieved 21 August 2012.</ref>
+
+<ref name=childrens>
+[http://www.oxfordreference.com/view/10.1093/acref/9780195146561.001.0001/acref-9780195146561-e-1384 "Harnett, Cynthia"]. Bridget Carrington. ''The Oxford Encyclopedia of Children's Literature''. Jack Zipes, ed. Oxford University Press. 2006. Retrieved 17 November 2012.</ref>
+<ref name=english>
+[http://www.oxfordreference.com/view/10.1093/acref/9780192806871.001.0001/acref-9780192806871-e-8824 "Harnett, Cynthia"]. ''The Oxford Companion to English Literature''. Dinah Birch, ed. Oxford University Press. 2009. Retrieved 17 November 2012.</ref>
+<ref name=worldcat>
+WorldCat identities: [http://www.worldcat.org/identities/np-harnett,%20c%20m Harnett, C. M.]; [http://www.worldcat.org/identities/lccn-n50-26073 Harnett, Cynthia]; [http://www.worldcat.org/identities/lccn-nb98-27807 Stokes, George Vernon]; [http://www.worldcat.org/identities/np-stokes,%20vernon Stokes, Vernon]. Retrieved 17 November 2012.</ref>
+}}
+
+==External links==
+*[https://archive.is/20130414202130/http://goodtoread.org/choice/historical-stories-of-cynthia-harnett-the/ "The Historical Stories of Cynthia Harnett"]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Harnett, Cynthia}}
+[[Category:1893 births]]
+[[Category:1981 deaths]]
+[[Category:Alumni of Chelsea College of Arts]]
+[[Category:Artists from London]]
+[[Category:Carnegie Medal in Literature winners]]
+[[Category:English children's writers]]
+[[Category:English historical novelists]]
+[[Category:Writers from London]]
+[[Category:Writers who illustrated their own writing]]
+[[Category:Place of death missing]]
+[[Category:Writers of historical fiction set in the Middle Ages]]
+[[Category:Writers of historical fiction set in the early modern period]]

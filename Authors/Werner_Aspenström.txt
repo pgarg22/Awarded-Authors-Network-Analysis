@@ -1,0 +1,103 @@
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = Werner Aspenström
+| honorific_suffix = 
+| image            = Werner Aspenstrom.jpg
+| image_size       = 200px
+| image_upright    = 
+| alt              = 
+| caption          = Werner Aspenström in 1960
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = {{Birth date|1918|11|13|df=y}}
+| birth_place      = [[Norrbräcke]], [[Sweden]]
+| death_date       = {{Death date and age|df=y|1997|1|25|1918|11|13}}
+| death_place      = [[Stockholm]], Sweden
+| resting_place    = 
+| occupation       = writer, poet
+| language         = Swedish
+| residence        = 
+| nationality      = Swedish
+| citizenship      = 
+| education        = 
+| alma_mater       = 
+| home_town        = 
+| period           = 
+| genre            = 
+| subject          = 
+| movement         = 
+| notableworks     = 
+| spouse           = 
+| partner          = 
+| children         = 
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = 
+| portaldisp       = 
+}}
+'''Karl Werner Aspenström''' (13 November 1918&nbsp;–&nbsp;25 January 1997) was a Swedish poet.
+
+Born at [[Norrbärke]], he was a member of the [[Swedish Academy]], where he held Seat 12 from 1981 to 1997. Following his breakthrough in 1949 with ''Snölegend'' (''"Snow legend"'') he was considered one of the leading 20th-century Swedish poets, and his poetry has often been compared to the works of the Nobel Prize laureates [[Harry Martinson]] and [[Tomas Tranströmer]].<ref>{{cite book| last=Isaksson |first=Hans |title=Werner Aspenström |year=2003 |publisher=[[Natur & Kultur]] |isbn=91-27-07865-5  }}</ref> Aspenström claimed that his motivation for writing was "writing for his cat".
+
+He was a friend of [[Stig Dagerman]]. His widow died in 2015.
+
+==Selected works==
+* ''Förberedelse'' (1943)
+* ''Oändligt är vårt äventyr'' (prose, 1945)
+* ''Skriket och tystnaden'' (1946)
+* ''Snölegend'' (1949)
+* ''Litania'' (1952)
+* ''Förebud'' (1953)
+* ''Hundarna'' (1954)
+* ''Dikter under träden'' (1956)
+* ''Bäcken'' (prose, 1958)
+* ''Motsägelser'' (essays, 1961)
+* ''Om dagen om natten'' (1961)
+* ''Trappan'' (1964)
+* ''Sommar'' (prose, 1968)
+* ''Inre'' (1969)
+* ''Under tiden'' (1972)
+* ''Tidigt en morgon, sent på jorden'' (1980)
+* ''Sorl'' (1983)
+* ''Det röda molnet'' (1986)
+* ''Varelser'' (1988)
+* ''Enskilt och allmänt'' (1991)
+* ''Ty'' (1993)
+* ''Israpport'' (1997)
+* ''Öva Sitt Eget'' (2004) ''(posthumous, co-written with Signe Lund-Aspenström)''
+* ''Samlade dikter 1943-1997'' (Collected poems 1943-1997, 2014)
+
+[[File:Werner Aspenström.jpg|300px|thumb|right|Werner Aspenström]]
+
+==References==
+<references/>
+
+{{S-start}}
+{{s-culture}}
+{{Succession box|title=[[Swedish Academy]],<br>[[List of members of the Swedish Academy#Seat 12|Seat No.12]]|before=[[Sten Lindroth]]|after=[[Per Wästberg]]|years=1981-97}}
+{{S-end}}
+
+{{Authority control}}
+
+{{More citations needed|date=August 2017}}
+
+{{DEFAULTSORT:Aspenstrom, Werner}}
+[[Category:1918 births]]
+[[Category:1997 deaths]]
+[[Category:People from Smedjebacken Municipality]]
+[[Category:Writers from Dalarna]]
+[[Category:Swedish-language poets]]
+[[Category:Swedish male poets]]
+[[Category:Burials at Maria Magdalena Church]]
+[[Category:20th-century Swedish poets]]
+[[Category:20th-century Swedish male writers]]
+
+
+{{Sweden-writer-stub}}

@@ -1,0 +1,37 @@
+'''Gilbert Hay''' (b. c. 1403; last mentioned in 1456) or '''Sir Gilbert the Haye''', [[Scotland|Scottish]] [[poet]] and translator, was perhaps a kinsman of the house of [[Earl of Erroll|Errol]].
+
+If he is the student named in the registers of the [[University of St Andrews]] in 1418-1419, his birth may be fixed about 1403. He was in France in 1432, perhaps some years earlier, for a "Gilbert de la Haye" is mentioned as present at [[Reims]], in July 1430, at the coronation of [[Charles VII of France|Charles VII]]. He has left it on record, in the Prologue to his ''Buke of the Law of Armys'', that he was "chaumerlayn umquhyle to the maist worthy King Charles of France." In 1456 he was back in Scotland, in the service of the chancellor, William, [[Earl of Orkney and Caithness]], "in his castell of [[Roslin Castle|Rosselyn]]," south of [[Edinburgh]]. The date of his death is unknown.
+
+Hay is named by [[William Dunbar|Dunbar]] in his ''[[Lament for the Makaris]]'', and by [[David Lyndsay|Sir David Lyndsay]] in his ''Testament and Complaynt of the Papyngo''. His only poetic work is ''[[The Buik of King Alexander the Conquerour]]'', of which a portion, in copy, formerly at [[Taymouth Castle]], now lies in the National Records of Scotland.<ref>Edinburgh, National Records of Scotland, MS GD 112/71/9</ref> Another copy, believed to be an earlier version, on which the Taymouth copy is based, can be found at the British Library.<ref>London, British Library, Additional MS 40732</ref> A more accessible version of both with a detailed textual analysis of the differences was published by the Scottish Text Society in 1986.<ref>The Buik of King Alexander the Conqueror by Sir Gilbert Hay by John Cartwright Scottish Text Society 1986</ref>
+
+He has left three translations, extant in one volume (in old binding) in the collection of Abbotsford:
+#''The Buke of the Law of Armys or the Buke of Bataillis'', a translation of [[Honoré Bonet]]'s ''Arbre des batailles''
+#''The Buke of the Order of Knichthood'' from the ''Livre de l'ordre de chevalerie'' (''Llibre qui es de l'ordre de cavalleria'') of [[Ramon Llull]]
+#''The Buke of the Governaunce of Princes'', from a French version of the pseudo-[[Aristotle|Aristotelian]] ''Secreta secretorum''
+The second of these precedes [[William Caxton|Caxton]]'s independent translation by at least ten years.
+
+An early commentary and edited version of the Taymouth Castle MS of the ''Bulk of Alexander'' was written by [[Albert Herrmann]] as ''The Taymouth Castle Manuscript of Sir Gilbert Hay's Buik, &c.'', (Berlin, 1898). The complete Abbotsford Manuscript has been reprinted by the [[Scottish Text Society]] (ed. JH Stevenson). The first volume, containing ''The Buke of the Law of Armys'', appeared in 1901. The ''Order of Knichthood'' was printed by [[David Laing (Scottish antiquary)|David Laing]] for the Abbotsford Club (1847). See also STS edition "Introduction" and Gregory Smith's ''Specimens of Middle Scots'', in which annotated extracts are given from the Abbotsford Manuscript, the oldest known example of literary Scots prose.
+
+== Works ==
+* Albert Herrmann: ''The Taymouth castle manuscript of Sir Gilbert Hays "Buik of King Alexander the Conquerour"''. 1898 [http://nbn-resolving.de/urn:nbn:de:hbz:061:1-91516 digital]
+* Albert Herrmann: ''The Forraye of Gadderis. The Vowis : extracts from Sir Gilbert Hay's "Buik of King Alexander the Conquerour"''. 1900 [http://nbn-resolving.de/urn:nbn:de:hbz:061:1-91578 digital]
+
+== References ==
+{{Reflist}}
+* {{EB1911|wstitle=Hay, Gilbert|volume=13|page=105}}
+
+==External links==
+* {{Gutenberg author | id=Hay,+Gilbert | name=Gilbert Hay}}
+* {{Internet Archive author |sname=Gilbert Hay |sopt=t}}
+
+{{Scots makars}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hay, Gilbert}}
+[[Category:1403 births]]
+[[Category:15th-century deaths]]
+[[Category:Alumni of the University of St Andrews]]
+[[Category:15th-century Scottish writers]]
+[[Category:15th-century Scottish poets]]
+[[Category:Early Scots poets]]

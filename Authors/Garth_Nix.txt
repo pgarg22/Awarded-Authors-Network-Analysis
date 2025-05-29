@@ -1,0 +1,215 @@
+{{short description|Australian fantasy writer}}
+{{Use Australian English|date=July 2011}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Garth Nix
+| image        = Garth Nix at Comic Con, 2014, cropped.jpeg
+| imagesize    = 250px
+| caption      = Nix at the 2014 [[Comic Con]]
+| pseudonym    =
+| birth_name   = Garth Richard Nix
+| birth_date   = {{birth date and age|df=y|1963|7|19}}
+| birth_place  = [[Melbourne]], [[Victoria (Australia)|Victoria]], Australia
+| death_date   =
+| death_place  =
+| occupation   = Writer
+| nationality  = Australian
+| years_active = 1990–present 
+| genre        = Fantasy
+| subject      =  <!-- nonfiction if pertinent -->
+| movement     =
+| signature    =
+| website      = {{URL|garthnix.com}}
+}}
+
+'''Garth Richard Nix''' (born 19 July 1963) is an Australian writer who specialises in children's and young adult [[fantasy]] novels, notably the ''[[Old Kingdom (book series)|Old Kingdom]]'', ''[[The Seventh Tower|Seventh Tower]]'' and ''[[The Keys to the Kingdom|Keys to the Kingdom]]'' series. He has frequently been asked if his name is a pseudonym, to which he has responded, "I guess people ask me because it sounds like the perfect name for a writer of fantasy. However, it is my real name."<ref>{{cite book |last1= Nix |first1= Garth |title= Across the Wall |year= 2007 |publisher= Harper Collins |isbn= 978-0-00-722146-2}}</ref>
+
+==Biography==
+Born in Melbourne, Nix was raised in Canberra.<ref name=austlit/> He attended Turner Primary School, Lyneham High School and [[Dickson College]] for schooling. While at Dickson College, Nix joined the Australian Army Reserve.<ref>{{cite web|url=http://www.garthnix.com/garthnix.html |title=Something about Garth Nix |first1=Garth|last1=Nix|publisher=Garth Nix |access-date=14 March 2008|url-status=dead |archive-url=https://web.archive.org/web/20080723105106/http://www.garthnix.com/garthnix.html |archive-date=23 July 2008}}</ref> After a period working for the Australian government, he traveled in Europe before returning to Australia in 1983 and undertaking a BA in professional writing at [[Canberra University]]. He worked in a Canberra bookshop after graduation, before moving to Sydney in 1987, where he worked his way up in the publishing field. He was a sales rep and publicist before becoming a senior editor at [[HarperCollins]]. In 1993 he commenced further travel in Asia, the Middle East and Eastern Europe before becoming a marketing consultant, founding his own company, Gotley Nix Evans Pty Ltd. From 1999 to 2002 he worked as a literary agent with Curtis Brown (Australia) Pty Ltd before becoming a full-time author.<ref name="MUPp134">{{cite book | last1 = Collins| first1 = Paul |  author2 = Steven Paulsen |author3 = Sean McMullen | title = The MUP Encyclopaedia of Australian Science Fiction and Fantasy | publisher = Melbourne University Press | page = 134 | year = 1998 | location = Melbourne | isbn = 0-522-84771-4}}</ref>
+
+In addition to his work as a fantasy novelist, Nix has written a number of scenarios and articles for the role playing field, including those for ''[[Dungeons & Dragons]]'' and ''[[Traveller (role-playing game)|Traveller]]''. These have appeared in related publications such as ''[[White Dwarf (magazine)|White Dwarf]]'', ''[[Multiverse]]'' and ''[[Breakout!]]''. He has also written case studies, articles and news items in the information technology field, his work appearing in publications such as ''[[Computerworld]]'' and ''[[PC World (magazine)|PCWorld]]''.<ref name="MUPp134" />
+
+Nix currently lives in Sydney with his wife Anna McFarlane, a publisher,<ref>{{Cite web|title=Anna McFarlane|url=https://au.linkedin.com/in/anna-mcfarlane-96235a43|website=linkedin}}</ref> and their sons Thomas and Edward.
+
+==Bibliography==
+===Very Clever Baby===
+The series was self-published and republished by Text Media in Melbourne. Described as books for "Very Clever Babies Aged 3–6 Months", they contain such words as [[Ichthyology|ichthyologist]], as used by the character Freddy the Fish.
+* ''Very Clever Baby's First Reader'' (1988)
+* ''Very Clever Baby's Ben Hur'' (1988)
+* ''Very Clever Baby's Guide to the Greenhouse Effect'' (1992)
+* ''Very Clever Baby's First Christmas'' (1998)
+
+===Young Adult and Children's literature===
+====''The Old Kingdom''====
+{{main|Old Kingdom (book series)}}
+
+=====Novels=====
+* ''[[Sabriel]]'' (1995)
+* ''[[Lirael]]'' (2001)
+* ''[[Abhorsen]]'' (2003)
+* ''[[Clariel]]'' (2014)
+* ''[[Goldenhand]]'' (2016)
+* ''Terciel and Elinor'' (2021)
+
+=====Short fiction=====
+* "Nicholas Sayre and the Creature in the Case" (2005). A novella produced for [[World Book Day]] and originally entitled "The Creature in the Cave". Reprinted under the new title in the collection ''[[Across the Wall: A Tale of the Abhorsen and Other Stories]]''.)
+* "The Nine Gates of Death: An Extract of the Journal of Idrach the Lesser Necromancer" (2009). A short story released on oldkingdom.com.au<ref name="oldkingdom.com.au">{{Cite web|url=http://oldkingdom.com.au/extras_ninegates.html|title=oldkingdom.com.au – The Nine Gates of Death: An Extract of the Journal of Idrach the Lesser Necromancer|access-date=24 May 2020}}</ref>
+* "An Essay on Free Magic". Short text released on the Old Kingdom website.
+* "To Hold the Bridge". A novella original published in the ''Legends of Australian Fantasy'' anthology edited by Jack Dann and Jonathan Strahan.<ref>{{cite web|url=http://www.insideadog.com.au/residence/ |title=residence |publisher=Inside A Dog }}</ref> Reprinted in the collection ''To Hold the Bridge''.
+* "Doctor Crake Crosses the Wall". Short story included in the Australian edition of Goldenhand, also published on the official Australian Old Kingdom website.
+
+=====Omnibus=====
+* ''The Old Kingdom Chronicles'' (''The Abhorsen Chronicles'' in the United States) (2009). This contained the first three Abhorsen books and "The Creature in the Case".
+
+====The Seventh Tower====
+{{main|The Seventh Tower}}
+# ''[[The Fall (Garth Nix novel)|The Fall]]'' (2000)
+# ''[[Castle (novel)|Castle]]'' (2000)
+# ''[[Aenir]]'' (2001)
+# ''[[Above the Veil]]'' (2001)
+# ''[[Into Battle (novel)|Into Battle]]'' (2001)
+# ''[[The Violet Keystone]]'' (2001)
+
+====The Keys to the Kingdom====
+{{main|The Keys to the Kingdom}}
+# ''[[Mister Monday]]'' (2003)
+# ''[[Grim Tuesday]]'' (2004)
+# ''[[Drowned Wednesday]]'' (2005)
+# ''[[Sir Thursday]]'' (2006)
+# ''[[Lady Friday]]'' (2007)
+# ''[[Superior Saturday]]'' (2008)
+# ''[[Lord Sunday]]'' (2010)
+
+====Troubletwisters (co-written with [[Sean Williams (Author)|Sean Williams]])====
+{{main|Troubletwisters Series}}
+# ''Troubletwisters'' (2011)
+# ''The Monster'' (2012)
+# ''The Mystery'' (2013)
+# ''The Missing''   (2014)
+====Have Sword, Will Travel (co-written with Sean Williams)====
+# ''Have Sword, Will Travel'' (2017)
+# ''Let Sleeping Dragons Lie'' (2018)
+
+===Works in multi-author series===
+====Spirit Animals====
+* ''Spirit Animals Book 3: Blood Ties'' (2014, with [[Sean Williams (author)|Sean Williams]])
+
+====''Aussie Bites''====
+* ''Serena and the Sea Serpent'' (2000, part of ''Aussie Bites'' series)
+
+====''The X-Files'' (Young Adult Series)====
+* "The Calusari'' (1997), an adaptation of the ''X-Files'' episode of the same name
+
+===Standalone novels===
+* ''[[The Ragwitch]]'' (1990), a children's fantasy novel
+* ''[[Shade's Children]]'' (1997)
+* ''[[A Confusion of Princes]]'' (2012), a young adult [[space opera]] novel
+* ''Newt's Emerald'' (2015), a fantasy romance
+* ''Frogkisser!'' (2017), a children's fantasy novel
+* ''Angel Mage'' (2019), a young adult fantasy sci-fi novel
+* ''The Left-Handed Booksellers of London'' (2020), a young adult fantasy novel
+
+===Works for Adults===
+====Sir Hereward and Mister Fitz====
+# 2007 "Sir Hereward and Mister Fitz Go To War Again", in ''Jim Baen's Universe''
+# 2008 "Beyond the Sea Gate of the Scholar-Pirates of Sarsköe", in ''Fast Ships, Black Sails'' edited by [[Jeff Vandermeer]] and [[Ann Vandermeer]]
+# 2010 "A Suitable Present for a Sorcerous Puppet"'', in ''Swords and Dark Magic'', edited by [[Lou Anders]] and [[Jonathan Strahan]]
+# 2013 "Losing Her Divinity", in ''Rags & Bones: New Twists on Timeless Tales'', edited by [[Melissa Marr]] and [[Tim Pratt]]
+# 2014 "A Cargo of Ivories", in ''[[Rogues (anthology)|Rogues]]'', edited by [[George R. R. Martin]] and [[Gardner Dozois]]
+# 2014 "Home is the Haunter", in ''Fearsome Magics'', edited by [[Jonathan Strahan]]
+# 2017 "A Long, Cold Trail", in ''The Book of Swords'', edited by [[Gardner Dozois]]
+# 2020 "Cut me Another Quill, Mister Fitz", in ''The Book of Dragons'' , edited by [[Jonathan Strahan]]
+* The first three stories are collected in ''Sir Hereward and Mister Fitz: Three Adventures'' (2011).
+
+===Short fiction===
+==== Collections ====
+* 2007 ''One Beastly Beast: Two Aliens, Three Inventors, Four Fantastic Tales'' - a book of short stories for younger readers
+** ''Serena and the Sea ''
+** ''Bill the Inventor''
+** ''Blackbread the Pirate''
+** ''The Princess and the Beastly Beast''
+* 2005 ''[[Across the Wall: A Tale of the Abhorsen and Other Stories]]''
+** 2005 "Nicholas Sayre and the Creature in the Case" (published for World Book Day)
+** 2001 "Under the Lake" (from ''The Magazine of Fantasy & Science Fiction'')
+** 2005 "Charlie Rabbit" (from ''Kids' Night In'' collected for War Child)
+** 1996 "From the Lighthouse" (from ''Fantastic Worlds'' anthology edited by [[Paul Collins (fantasy writer)|Paul Collins]])
+** 2001 "The Hill" (from ''X-Changes: Stories for a New Century'')
+** 2001 "Lightning Bringer" (from ''Love & Sex'' anthology edited by [[Michael Cart]])
+** 1987 "Down to the Scum Quarter" (from''Myths and Legends'', reprinted in''Breakout!'' magazine in 1988)
+** 2002 "Heart's Desire" (from ''The Magazine of Fantasy & Science Fiction'')
+** 2000 "Hansel's Eyes" (from ''A Wolf at the Door'' anthology edited by [[Ellen Datlow]] and [[Terri Windling]])
+** 2003 "Hope Chest" (from ''Firebirds'' anthology edited by [[Sharyn November]])
+** 1999 "My New Really Epic Fantasy Series" (from Swancon Program Book)
+** 2000 "Three Roses" (from ''Eidolon'' magazine, Autumn 2000)
+** 2004 "Endings" (from ''Gothic! Ten Original Dark Tales'' anthology edited by [[Deborah Noyes]])
+* 2015 ''To Hold the Bridge''
+** 2010 "To Hold the Bridge: An Old Kingdom Story" (from''Legends of Australian Fantasy'' anthology, edited by [[Jack Dann]] and [[Jonathan Strahan]])
+** 2011 "Vampire Weather" (from ''Teeth'' anthology, edited by [[Ellen Datlow]] and [[Terri Windling]])
+** 2008 "Strange Fishing in the Western Highlands" (from ''Hellboy: Oddest Jobs'', edited by [[Christopher Golden]]_
+** 2008 "Old Friends" (from ''Dreaming Again'' anthology, edited by [[Jack Dann]])
+** 2011 "The Quiet Knight" (from''Geektastic'' anthology edited by [[Holly Black]] and [[Cecil Castellucci]])
+** 2012 "You Won't Feel a Thing" (from ''After'' anthology edited by [[Ellen Datlow]] and [[Terri Windling]])
+** 2012 "A Handful of Ashes" (from ''Under My Hat'' anthology, edited by [[Jonathan Strahan]])
+** 2012 "The Big Question" (from''Elsewhere'', Edinburgh Festival Special)
+** 2009 "Stop!" (from ''The Dragon Book'' anthology edited by [[Jack Dann]] and [[Gardner Dozois]])
+** 2008 "Infestation" (from ''The Starry Rift'' anthology edited by [[Jonathan Strahan]])
+** 2011 "The Heart of the City" (from ''Subterranean Online'' magazine)
+** "Ambrose and the Ancient Spirits of East and West" (from ''The Thackery T. Lambshead Cabinet of Curiosities'' anthology edited by [[Ann Vandermeer]] and [[Jeff Vandermeer]])
+** 2007 "Holly and Iron" (from ''Wizards'' anthology, edited by [[Jack Dann]] and [[Gardner Dozois]])
+** 2011 "The Curious Case of the Moondawn Daffodils Murder: As Experienced by Sir Magnus Holmes and Almost-Doctor Susan Shrike" (from ''Ghosts by Gaslight'' anthology edited by [[Jack Dann]] and [[Nick Gevers]])
+** 2009 "An Unwelcome Guest" (from ''Troll's-Eye View'' anthology edited by [[Ellen Datlow]] and [[Terri Windling]])
+** 2010 "The Highest Justice" (from ''Zombies vs. Unicorns'' anthology edited by [[Holly Black]] and [[Justine Larbalestier]])
+** 2012 "Master Haddad's Holiday" (a bonus story from the Australian printing of ''A Confusion of Princes'')
+** 2012 "Sidekick of Mars" (originally from the ''Under the Moons of Mars'' anthology edited by [[John Joseph Adams]])
+** 2011 "Peace in Our Time" (originally from the ''Steampunk!'' anthology edited by [[Kelly Link]] and [[Gavin J. Grant]])
+* 2011 ''Sir Hereward and Mister Fitz: Three Adventures''
+** 2007 "Sir Hereward and Mister Fitz Go To War Again" (from ''Jim Baen's Universe'')
+** 2008 "Beyond the Sea Gate of the Scholar-Pirates of Sarsköe" (from ''Fast Ships, Black Sails'' anthology edited by [[Jeff Vandermeer|Jeff]] and [[Ann Vandermeer]])
+** 2010 "'A Suitable Present for a Sorcerous Puppet'" (from ''[[Swords and Dark Magic]]'' anthology edited by [[Lou Anders]] and [[Jonathan Strahan]])
+
+=== Uncollected stories ===
+* 1984 "Sam, Cars and the Cuckoo" in ''[[Warlock (magazine)|Warlock]]'' magazine no. 2
+* 1996 "The Kind Old Sun Will Know" first published in ''Eidolon'' magazine
+* 2005 "Read It in the Headlines!" in ''[[Daikaiju! Giant Monster Tales]]'' (ed. [[Rob Hood|Robert Hood]], [[Robin Pen]])
+* 2006 "Dog Soldier" first published in ''Jim Baen's Universe'', 2006
+* 2007 "Bad Luck, Trouble, Death and Vampire Sex" first published in ''Eclipse'', edited by [[Jonathan Strahan]]
+* 2009 ''The Nine Gates of Death: An Extract of the Journal of Idrach the Lesser Necromancer'' – Short Story released on oldkingdom.com.au<ref name="oldkingdom.com.au"/>
+* 2010 "The Highest Justice" in ''Zombies vs. Unicorns'' (ed [[Justine Larbalestier]], [[Holly Black]])
+* 2013 "Crossing the Line" first published in ''Fearie Tales'', edited by [[Stephen Jones (author)|Stephen Jones]]
+* 2013 "Fire Above, Fire Below" first published by Tor.com
+* 2014 "Shay Corsham Worsted" first published in ''Fearful Symmetries'', edited by [[Ellen Datlow]]
+* 2014 "Happy Go Lucky" first published in ''Kaleidoscope'', edited by [[Alisa Krasnostein]] and [[Julia Rios]]
+* 2015 "By Frogsled and Lizardback to Outcast Venusian Lepers" in ''[[Old Venus]]'' (edited by George R. R. Martin and Gardner Dozois, 2015<ref name="GRRM 2014-06">{{cite web|url=http://grrm.livejournal.com/374059.html?thread=19204907 |title=Not A Blog: ''Venus'' In March |first1=George R. R. |last1=Martin |author-link=George R. R. Martin |date=19 June 2014 |website=GRRM.livejournal.com |access-date=27 September 2014 |url-status=dead |archive-url=https://web.archive.org/web/20140821044623/http://grrm.livejournal.com/374059.html?thread=19204907 |archive-date=21 August 2014 }}</ref>
+* 2019 "Dislocation Space" first published by Tor.com<ref>{{cite web |title=Dislocation Space |url=https://www.tor.com/2019/12/11/dislocation-space-garth-nix/ |website=Tor.com |date=11 December 2019 |publisher=Tor}}</ref>
+* 2020 "The Case of the Somewhat Mythic Sword" first published by Tor.com<ref>{{cite web |title=The Case of the Somewhat Mythic Sword |url=https://www.tor.com/2020/01/29/the-case-of-the-somewhat-mythic-sword-garth-nix/ |website=Tor.com |date=29 January 2020 |publisher=Tor}}</ref>
+* 2020 "The Necessary Arthur" first published by Tor.com<ref>{{cite web |title=The Necessary Arthur |url=https://www.tor.com/2020/07/08/the-necessary-arthur-garth-nix/ |website=Tor.com |publisher=Tor |date=8 July 2020}}</ref>
+
+==References==
+{{reflist|colwidth=25em |refs=
+<ref name=austlit>
+[http://www.austlit.edu.au/austlit/page/A7425 "Garth Nix"]. AUSTLIT (austlit.edu.au). Retrieved 2014-08-02.</ref>
+}}
+
+==External links==
+{{commons|Garth Nix}}
+{{wikiquote}}
+* {{official website}}
+* [http://bookbanter.wordpress.com/2009/11/15/bookbanter-episode-with-garth-nix/ Interview by ''BookBanter'']
+* {{isfdb name|2237}}
+* [http://www.oldkingdom.com.au/ The Old Kingdom Chronicles] (official)
+* [https://web.archive.org/web/20110930064222/http://www.keystothekingdom.com.au/ The Keys to the Kingdom] (official)
+* [http://nla.gov.au/anbd.aut-an000035633324 Garth Nix] at Libraries Australia Authorities with catalogue search {{subscription}}
+* {{LCAuth|n96003050|Garth Nix|31|}}
+
+{{Garth Nix}}
+{{Authority control}}
+
+{{DEFAULTSORT:Nix, Garth}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:Australian children's writers]]
+[[Category:Australian fantasy writers]]
+[[Category:The Magazine of Fantasy & Science Fiction people]]
+[[Category:Writers from Melbourne]]
+[[Category:People educated at Dickson College]]
+[[Category:Australian male novelists]]

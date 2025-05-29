@@ -1,0 +1,101 @@
+{{Use dmy dates|date=April 2021}}
+{{Infobox writer
+| name = Jovan Sterija Popović
+| image = Sterija.jpg
+| birth_date = {{birth date|df=yes|1806|1|13}}
+| birth_place = [[Vršac|Werschetz]], [[Austrian Empire]]<br>{{small|(modern-day [[Vršac]], Serbia)}}
+| death_date = {{death date and age|1856|03|10|1806|01|13|df=y}}
+| death_place = Werschetz, Austrian Empire
+| occupation = Playwright, poet, lawyer, [[pedagogue]]
+| period      =
+| genre       =
+| subject     =
+| movement    = [[Classicism]], [[Romanticism]], [[Realism (arts)|Realism]]
+| notableworks =
+| signature = Sterija1.png
+}}
+
+'''Jovan Sterija Popović''' ({{IPA-sh|jɔ̌v̞an stɛ̂ːrija pɔ̌pɔv̞it͡ɕ|pron}}; {{lang-sr-cyr|Јован Стерија Поповић}}; 13 January 1806 – 10 March 1856) was a [[Serbian language|Serbian]] playwright, poet, [[lawyer]], [[philosopher]] and [[pedagogue]] who taught at the [[University of Belgrade#History|Belgrade Higher School]]. Sterija was recognized by his contemporaries as the one of the leading Serbian intellectuals and he is regarded as one of the best [[comedy|comic]] playwrights in [[Serbian literature]].<ref>{{Cite book | url=https://books.google.com/books?id=tT2sDAAAQBAJ&q=serbian+legal+philosophers&pg=PA653 | title=A Treatise of Legal Philosophy and General Jurisprudence: Volume 12 Legal Philosophy in the Twentieth Century: The Civil Law World, Tome 1: Language Areas, Tome 2: Main Orientations and Topics| isbn=9789400714793| last1=Pattaro| first1=Enrico| last2=Roversi| first2=Corrado| date=13 July 2016}}</ref><ref>{{Cite journal|last=Zoran T.|first=Jovanović|date=2009|title=KOMEDIJA RODOLJUPCI JOVANA STERIJE POPOVIĆA – IZMEĐU PROŃLOSTI I SADAŃNJOSTI|url=http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11089_2192/c/6_PSZN_15_Jovanovic.pdf|journal=Język – Literatura – Kultura|volume=6|pages=165}}</ref>
+
+== Life ==
+Popović was born in [[Vršac|Werschetz (Vršac)]], in the [[Temes County|Temesch County]] of [[Habsburg Monarchy|Habsburg]] [[Kingdom of Hungary]] (now [[Serbia]]). His father Sterija (meaning "star"), after whom he was nicknamed,{{sfn|Pavlović|1999}} was a merchant.<ref>{{harvnb|Mihailovich|Mikasinovich|2007|p=41}}, {{harvnb|Mikasinovich|Milivojević|Mihailovich|1973|p=26}}</ref> The ethnicity of Popović's father or of Popović himself are disputed, with some saying that they were of [[Aromanians|Aromanian]] descent{{sfn|Pavlović|1999}}{{sfn|BRILL|2021|p=174}} while others saying they were of [[Greeks|Greek]] one.<ref>{{harvnb|Mihailovich|Mikasinovich|2007|p=41}}, {{harvnb|Mikasinovich|Milivojević|Mihailovich|1973|p=26}}</ref> His maternal grandfather was known painter and poet [[Nikola Nešković]],{{sfn|Pavlović|1999}} whom he would later write the biography of.<ref>{{cite book|title=Südost-Forschungen|volume=24|url=https://books.google.com/books?id=v-dBAAAAYAAJ|year=1965|publisher=S. Hirzel|page=169}}</ref>
+
+Popović attended grammar schools in Vršac, [[Sremski Karlovci|Karlowitz (Sremski Karlovci)]], [[Timișoara|Temeschwar (Timișoara)]] and [[Budapest|Ofenpesth (Budapest)]].{{sfn|Norris|2008|pp=107–108}} He studied law at [[Kežmarok|Käsmark (Kežmarok)]]. After he finished his studies (1830), he worked as a professor, and from 1835, when he passed his bar examination, he returned to his hometown where he first taught [[Latin language|Latin]], then opened his law practice.{{sfn|Norris|2008|pp=107–108}} Like many other intellectuals of [[Vojvodina]], driven by patriotic feelings, he decided to work in the [[Principality of Serbia]].{{sfn|Norris|2008|pp=107–108}} He began to write historical dramas but soon switched to comedy. In 1840 he went to [[Kragujevac]] to study at the pedagogic school of natural law. In the same year, he moved to [[Belgrade]], where he would spend eight years, teaching at what was then the most advanced school in [[Serbia]], [[Grande École]] ([[University of Belgrade|Belgrade Higher School]], future University).{{sfn|Norris|2008|pp=107–108}}
+
+He was instrumental in founding the [[Serbian Academy of Sciences]] and the [[National Museum of Serbia|National Museum]].{{sfn|Hochman|1984|p=154}} He continued to write dramas, which he also organized, staged, and directed. He was appointed head of the Ministry of Education by the constitutional government in 1842.<ref>{{Cite journal|last=Zoran T.|first=Jovanović|date=2009|title=KOMEDIJA RODOLJUPCI JOVANA STERIJE POPOVIĆA – IZMEĐU PROŃLOSTI I SADAŃNJOSTI|url=http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11089_2192/c/6_PSZN_15_Jovanovic.pdf|journal=Język – Literatura – Kultura|volume=6|pages=165}}</ref> He remained in this position until 1848, working on organizing the school system and education in Serbia. His continued disagreement with the leading politicians of the day and ill health would soon force him to withdraw from public life. At the beginning of the same year (1848) he decided to tender his resignation and return to Vršac (1848-9 part of [[Serbian Vojvodina]], 1849–60 [[Voivodeship of Serbia and Banat of Temeschwar|Serbia and Temeschwar]]), where he lived till his death in 1856, deeply disappointed with people and life in general. He is buried at the [[Serbian Orthodox Church|Orthodox]] cemetery in Vršac.<ref>{{Cite web|url=https://arhiva.evrsac.rs/index.php/kultura/item/12556-na-danasnji-dan-pre-211-godina-u-vrscu-je-roden-rodonacelnik-srpske-komediografije|title=Na današnji dan, pre 211 godina u Vršcu je rođen rodonačelnik srpske komediografije|last=eVršac|website=arhiva.evrsac.rs|language=sr-yu|access-date=12 December 2019}}</ref>
+
+== Drama ==
+Jovan Sterija Popović is undoubtedly one of the most significant figures of [[Serbian literature]]. With good reason he has been given the name "the father of Serbian drama". Following the example of the great French and German tragedians, he described events from the history of the Serbian people. The Belgrade theatre [[Theater on Đumruk]] opened with his tragedy ''Smrt [[Stefan of Dečani|Stefana Dečanskog]]'' in 1841. The first Sterija's tragedy ''Svetislav i Mileva'' is worth mentioning, then ''[[Miloš Obilić]] ili [[Fall of the Serbian Empire|Padnuće serbskog carstva]]'', ''Nesrećno supružestvo ili Naod Simeon'', ''[[Skenderbeg]]'' and ''Lahan''. [[Andrija Kačić Miošić|Miošić's]] poems about Skanderbeg from his most important work ''A Pleasant Discourse of the Slavic People'' were basis for ''Život i viteška voevanja slavnog kneza epirskog Đorđa Kastriota Skenderbega'' written by Sterija Popović in 1828.<ref>{{Citation |last=Šurmin |first=Đuro |title= Povjest književnosti hrvatske i srpske (History of Croatian and Serbian literature) |url= https://books.google.com/books?id=8ClXAAAAMAAJ&q=%22%C5%BEivot+i+vite%C5%A1ka+voevanja%22&pg=PA260 |access-date= 26 November 2011 |year= 1898 |publisher=Tisak i naklada knjižare L. Hartmana, Kugli i Deutsch |location=Zagreb |language= hr |oclc=11356363 |page=260 |quote="Život i viteška voevanja slavnog kneza epirskoga Đorđa Kastriota Skenderbega" imade i Kačićevih pjesama po kojima je pisac i radio to svoje djelo. }}</ref>
+
+Sterija showed a real artistic value as the writer of comedies. His comedian talent has created strong and great literary works, which are even greater because it was, in fact, Sterija who paved the way to the Serbian comedy in general. The first period of Sterija's writing of comedies falls on the time of his life in Vršac, between 1830 and 1840. Sterija eternalized his home-town with the characters of Kir Janja, Fema Ružić and others. His comedies ''Laža i Paralaža'' (1830), ''Pokondirena tikva'' (1830), ''Tvrdica'' (1837) and ''Zla žena'' (1838), have brought him the appreciation of his contemporaries and the reputation of being "Serbian [[Molière]]".<ref>{{Cite web|url=https://www.studnel.com/kultura/na-danasnji-dan/item/1709-jovan-sterija-popovic-osnivac-srpske-drame|title=Jovan Sterija Popović — osnivač srpske drame|last=Janačković|first=Jelica|website=www.studnel.com|language=sr-yu|access-date=12 December 2019}}</ref> In 1841, 1842 and 1847 some less important Sterija's comedies were also performed: ''Ženidba i udadba'', ''Simpatije i antipatije'', ''Volšebni magarac'', ''Džandrljiv muž'', ''Sudbina jednog razuma'', and ''Prevara za prevaru''. His comedy ''Beograd nekad i sad'' which describes the environment of 19th century Belgrade was published in 1853. The last comedy Sterija wrote was the satire ''Rodoljupci''. He did not print this important comedy at all, so it remained in manuscript long after his death. Sterija found the inspiration for this comedy in the [[Revolutions of 1848|revolutionary events]] of 1848–1849.<ref>{{Cite journal|last=Zoran T.|first=Jovanović|date=2009|title=KOMEDIJA RODOLJUPCI JOVANA STERIJE POPOVIĆA – IZMEĐU PROŃLOSTI I SADAŃNJOSTI|url=http://cejsh.icm.edu.pl/cejsh/element/bwmeta1.element.hdl_11089_2192/c/6_PSZN_15_Jovanovic.pdf|journal=Język – Literatura – Kultura|volume=6|pages=165–166}}</ref>
+
+== Poetry ==
+Jovan Sterija Popović frequently returned to the theme: the discrepancy between what was being proclaimed and actual behaviour  was always the focus of his criticism. In his poem ''Godine 1848'' (Year 1848) it is the betrayal of the ideals of the [[American Revolution]]—legal slavery in the land of the free; in ''Izobraženiku'' (To an Enlightened One) it is the hypocrisy of those who condemn the [[Ottoman Empire]] as barbaric, while at the same time engaging in conquest and the slave trade themselves.{{citation needed|date=December 2015}}
+
+== Legacy ==
+[[File:Јован Стерија Поповић.JPG|thumb|Jovan Sterija Popović monument in the Russian park in [[Vršac]]]]
+[[File:Jovan Sterija Popović 1957 Yugoslavia stamp.jpg|thumb|Popović on a 1957 stamp of Yugoslavia]]
+Sterija was recognized by his contemporaries as the one of the leading Serbian intellectuals.{{sfn|Norris|2008|p=107}} He is regarded as one of the best [[comedy|comic]] playwrights in [[Serbian literature]].{{sfn|Politikin Zabavnik|2014}}
+
+Sterija's comedies are artistically authentic pictures of one part of the Serbian society in [[Vojvodina]], in the first half of the 19th century. They bring a very rich gallery of characters.<ref>{{Cite journal|last=Popovic|first=Tanja|title=T. Popovic, Sterija i evropska komediografija|url=https://www.academia.edu/40665151|journal=Književna Istorija, 130|language=en}}</ref> Sterija's comedies have passed the framework of their time, have gotten the everlasting value, and have become a part of the Serbian cultural inheritance.<ref>{{Cite web|url=https://portalibris.rs/da-li-znate-ko-je-jovan-sterija-popovic/|title=Da li znate ko je Jovan Sterija Popović? – Portalibris|language=sr-RS|access-date=12 December 2019}}</ref> Diverse as a writer, Sterija also wrote satires, novels, dissertations about literature and language and reflexive poetry, published in the book ''Davorje'' which is considered to be one of the best books of reflexive poetry in the Serbian literature.<ref>{{Cite web|url=https://www.knjizara.com/Jovan-Sterija-Popovic-o1652|title=Jovan Sterija Popović – autor|website=Knjizara.com|language=en|access-date=12 December 2019}}</ref> Living in Serbia as Minister of Education, Sterija was the founder of The Society of Serbian Letters (now [[Serbian Academy of Science and Art]]) and the [[National Museum of Serbia]]. He laid the foundation of the modern Serbian school system and he was the author of many textbooks.
+
+A documentary about his life was produced in [[SFRY|Yugoslavia]] in 1956.<ref>{{IMDb title|0264737|Jovan Sterija Popovic}}]</ref> He is included in [[The 100 most prominent Serbs]].
+
+== Notable works ==
+*''Slezi Bolgariji'', [[epic poem]], 1825
+*''Boj na Kosovu (Milan Toplica i Zoraida)'', historical novel, 1828
+*''Svetislav i Mileva (Nevinost)'', [[historical drama]], 1827
+*''Miloš Obilić'', historical drama, 1828
+*''Život i viteška vojevanja slavnoga kneza epirskoga Đurđa Kastriota Skenderbega'', 1828{{sfn|Miljković|1956|p=278}}
+*''Nahod Simeun'', historical drama, 1830
+*''Dejan i Damjanka (Padenije Bosanskog kreljevstva)'', historical novel, 1830
+*''Laža i paralaža'', comedy, 1830
+*''Tvrdica (Kir Janja)'', comedy, 1837
+*''Pokondirena tikva'', comedy, 1838
+*''Zla žena'', comedy, 1838
+*''Roman bez romana'', novel, 1832–1838
+*''Vladislav'', [[tragedy]], 1843
+*''San Marka Kraljevića'', tragedy, 1848
+*''Smrt Stefana Dečanskog'', tragedy, 1849
+*''Rodoljupci'', comedy, 1849–1853
+*''Ajduci'', tragedy, 1853
+*''Lahan'', tragedy, 1853
+*''Ženidba i udadba'', comedy, 1853
+*''Beograd nekad i sad'', comedy, 1853
+*''Davorje'', book of poems, 1854
+
+== References ==
+{{Reflist|2}}
+
+== Sources ==
+*{{cite book|last=Hochman|first=Stanley|title=McGraw-Hill Encyclopedia of World Drama: An International Reference Work in 5 Volumes|url=https://books.google.com/books?id=2SrVpFGioFUC&pg=PA154|year=1984|publisher=VNR AG|isbn=978-0-07-079169-5}}
+*{{cite book|last1=Mikasinovich|first1=Branko|last2=Milivojević|first2=Dragan|last3=Mihailovich|first3=Vasa D.|title=Introduction to Yugoslav literature: an anthology of fiction and poetry|url=https://books.google.com/books?id=yK6xAAAAIAAJ|year=1973|publisher=Twayne Publishers}}
+*{{cite book|last1=Mihailovich|first1=Vasa|last2=Mikasinovich|first2=Branko|title=An Anthology of Serbian Literature|year=2007|publisher=Slavica|isbn=978-0-89357-320-1}}
+*{{cite book|last=Miljković|first=Branislav|title=Knjiga o Steriji|url=https://books.google.com/books?id=MvE_AAAAIAAJ|year=1956|publisher=Štamp. "Kultura"}}
+*{{cite book|last=Norris|first=David|title=Belgrade: A Cultural History|url=https://books.google.com/books?id=BjtjRKAhBkMC|year=2008|publisher=Oxford University Press|isbn=978-0-19-537609-8}}
+*{{cite book|url=https://books.google.com/books?id=kLMlEAAAQBAJ|title=The Romance-Speaking Balkans: Language and the Politics of Identity|editor-first1=Annemarie|editor-last1=Sorescu-Marinković|editor-first2=Mihai|editor-last2=Dragnea|editor-first3=Thede|editor-last3=Kahl|editor3-link=Thede Kahl|editor-first4=Blagovest|editor-last4=Njagulov|editor-first5=Donald Leroy|editor-last5=Dyer|editor-first6=Angelo|editor-last6=Costanzo|publisher=[[Brill Publishers|BRILL]]|year=2021|isbn=9789004456174|ref={{harvid|BRILL|2021|p=174}}}}
+*{{cite journal|last=Pavlović|first=Trifun|title=KOJI OD ZVEZDA VODI POREKLO|journal=Srpsko Nasleđe|issue=13|date=1999|url=http://www.srpsko-nasledje.co.rs/sr-l/1999/01/article-18.html}}
+*{{cite journal | script-title=sr:Отац српске драме и позоришта|trans-title=Father of Serbian drama and theater | journal=[[Politikin Zabavnik]] |date= 10 April 2014 | language=sr|issn=0032-339X| issue=3296 | pages=25|ref={{harvid|Politikin Zabavnik|2014}} }}
+
+== External links ==
+*{{cite document|last=Marković|first=Olga|title=Јован Стерија Поповић (1806 –1856)|work=Galerija SANU|publisher=SANU|url=https://www.sanu.ac.rs/GalerijaPics/Sterija_katalog.pdf}}
+*[https://web.archive.org/web/20090419140503/http://www.rastko.org.rs/drama/sterija-kirjanja.html Kir Janja – Rastko.com]
+*{{IMDb name|0691424}}
+
+{{Serbian literature}}
+{{Authority control}}
+
+{{DEFAULTSORT:Popovic, Jovan}}
+[[Category:1806 births]]
+[[Category:1856 deaths]]
+[[Category:19th-century Serbian people]]
+[[Category:Serbian dramatists and playwrights]]
+[[Category:Serbian male poets]]
+[[Category:Serbian science fiction writers]]
+[[Category:Serbian people of Aromanian descent]]
+[[Category:Serbian people of Greek descent]]
+[[Category:People from Vršac]]
+[[Category:Belgrade Higher School faculty]]
+[[Category:19th-century poets]]
+[[Category:19th-century Serbian dramatists and playwrights]]
+[[Category:Lyceum of the Principality of Serbia faculty]]

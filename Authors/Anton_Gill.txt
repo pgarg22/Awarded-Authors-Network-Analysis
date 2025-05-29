@@ -1,0 +1,70 @@
+{{for|the basketball player|Anton Gill (basketball)}}
+{{Multiple issues|
+{{BLP sources|date=June 2018}}
+{{BLP primary sources|date=June 2018}}
+}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Anton Gill
+| image       =
+| imagesize   = 
+| caption     =
+| birth_place = [[Ilford]], [[Essex]], [[United Kingdom]]
+|birth_date = 1948
+| death_date  =
+| death_place =
+| occupation  = [[Writer]]
+| genre       = [[Contemporary history]], [[fiction]]
+| pseudonym = {{flatlist|
+*Oliver Bowden<ref>{{Cite web|url=https://www.fantasticfiction.com/b/oliver-bowden|title=Oliver Bowden|work=Fantastic Fiction|access-date=November 2, 2021}}</ref> 
+*Antony Cutler<ref>{{Cite web|url=https://www.fantasticfiction.com/c/antony-cutler|title=Antony Cutler|work=Fantastic Fiction|access-date=November 2, 2021}}</ref> 
+*Ray Evans<ref>{{Cite web|url=https://www.fantasticfiction.com/g/anton-gill|title=Anton Gill|work=Fantastic Fiction|access-date=November 2, 2021}}</ref>}}
+| movement    =
+| influences  = 
+| influenced  = 
+| signature   = 
+| website     = {{url|antongill.com}}
+}}
+'''Anton Gill'''  is a British writer of historical fiction and nonfiction. He won the H. H. Wingate Award for non-fiction for ''The Journey Back From Hell'', an account of the lives of survivors after their liberation from Nazi concentration camps.<ref name="Journey Back From Hell">{{cite web | url=http://www.antongill.com/2015/06/18/the-journey-back-from-hell/ | title=H H Wingate award winning book | publisher=Anton Gill | date=18 June 2015 | accessdate=27 September 2018}}</ref><ref>{{Cite news|url=https://www.harpercollins.com/author/cr-108977/anton-gill/|title=Anton Gill|work=HarperCollins Publishers: World-Leading Book Publisher|access-date=2018-11-13|language=en-US}}</ref>
+
+==Personal life==
+
+Gill was born in [[Ilford, Essex]], and educated at [[Chigwell School]] and [[Clare College]], [[Cambridge]]. He started writing professionally in 1984 after fifteen years in the theatre. He lives in London with his wife, the actress [[Marji Campi]]. Other than writing, his chief interests are travel and art.<ref name=ag>{{cite web|url=http://www.antongill.com|title=Anton Gill, Award-Winning Writer & Historian|accessdate=6 June 2018}}</ref>
+
+==Career==
+Gill worked as an actor and as a director in the theatre (especially at the [[Royal Court Theatre]] in London), for the [[Arts Council of Great Britain|Arts Council]], and for the BBC and [[TV-am]] (as writer and producer) before turning to full-time writing.<ref name="Fantastic Fiction">[http://www.fantasticfiction.co.uk/g/anton-gill/ Anton Gill], Fantastic Fiction</ref>
+
+He has been a full-time professional writer since 1984. He has published over 40 books{{citation needed|date=June 2018}} on a variety of ancient and contemporary historical subjects, including three biographies. His work includes both fiction and non-fiction, where his special field is contemporary European history. In fiction, he has written a series of historical mysteries set in [[Ancient Egypt in the Western imagination|Ancient Egypt]], during the [[Amarna Period]]. These stories feature "the world's first private eye", the scribe, Huy, and have been published worldwide. Titles in the Huy series are ''City of the Horizon'' (1991), ''City of Dreams'' (1993), and ''City of the Dead'' (1994).<ref>Montserrat, Dominic. ''Akhenaten : History, Fantasy and Ancient Egypt''.Hoboken : Taylor and Francis, 2014. {{ISBN|9781134690343}} (pg. 164)</ref> More recently, he published ''[[The Sacred Scroll]]'', a history-mystery, with Penguin. He is also the author of two major biographies, on ''[[William Dampier]]'' and ''[[Peggy Guggenheim]]''. His most recent titles are the novels 'City of Gold' (Penguin), 'The Accursed' (Piatkus), and 'Into Darkness' (Endeavour; Sharpe).
+
+==Bibliography==
+
+;Non-fiction:
+*''The Journey Back from Hell'' (1988); eBook reissue (2015)<ref name="Journey Back From Hell"/>
+*''A Dance between Flames''
+*''An Honourable Defeat''
+*''Berlin to Bucharest''
+*''The Devil's Mariner''
+*''Art Addict''
+
+Fiction:
+*''The Egyptian Mysteries''
+*''The Sacred Scroll''
+*''City of Gold''
+*''The Accursed''
+*''Into Darkness''
+*''Assassins Creed''
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gill, Anton}}
+[[Category:Living people]]
+[[Category:English writers]]
+[[Category:Alumni of Clare College, Cambridge]]
+[[Category:1948 births]]
+[[Category:English historical novelists]]
+[[Category:English mystery writers]]
+[[Category:Writers of historical fiction set in antiquity]]
+[[Category:Writers of historical mysteries]]

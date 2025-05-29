@@ -1,0 +1,257 @@
+{{Short description|Tang-dynasty Chinese poet, musician, painter, and statesman}}
+{{family name hatnote|[[Wang (surname)|Wang]]|lang=Chinese}}
+{{Infobox writer
+| name        = Wang Wei
+| image       = Wang Wei.jpg
+| imagesize   = 185px
+| alt         =
+| caption     =
+| birth_date  = 699
+| birth_place = Qi County, [[Jinzhong]], [[Shanxi]]
+| death_date  = {{death year and age|759|699}}
+| death_place = [[Xi'an]], [[Shaanxi]]
+| occupation  = Politician, painter, musician, poet
+| genre       =
+| movement    =
+| period      = [[Tang Dynasty]]
+| influences  =
+| influenced  =
+| module      = 
+}}
+{{Infobox Chinese
+|pic=Wang Wei (Chinese characters).svg
+|piccap=Wang's name in Traditional (top) and Simplified (bottom) Chinese characters
+|picupright=0.45
+|t={{linktext|王|維}}
+|s={{linktext|王|维}}
+|p=Wáng Wéi
+|w=Wang<sup>2</sup> Wei<sup>2</sup>
+|mi={{IPAc-cmn|wang|2|-|wei|2}}
+|j=Wong4 Wai4
+|y=Wòhng Wàih
+|ci={{IPAc-yue|w|ong|4|-|w|ai|4}}
+|tl=Ông Uî
+|mc={{IPA|ɦuang jwi}}
+|altname = Mojie
+|s2={{linktext|摩|诘}}
+|t2={{linktext|摩|詰}}
+|p2=Mójié
+|mi2={{IPAc-cmn|m|uo|2|j|ie|2}}
+|y2=Mō-kit
+|tl2=Môo-khiat
+|altname3 = Householder Mojie 
+|t3 = {{linktext|摩|诘|居士}}
+|s3 = {{linktext|摩|詰|居士}}
+|l3 = See [[Householder (Buddhism)|Householder]]
+|p3 = Mójié Jūshì
+}}
+
+'''Wang Wei''' ({{zh|t=王維}}; 699–759<ref>bio dates: Ch'en and Bullock, 49 and 53; Stimson, 22; Watson, 10 and 170; and Wu, 225. Note, however, other sources, such as Chang, 58, and Davis, x, give his years as 701–761</ref>) was a Chinese poet, musician, painter, and politician during the [[Tang dynasty]]. He was one of the most famous [[Man of letters|men of arts and letters]] of his time.  Many of his poems are preserved, and twenty-nine were included in the highly influential 18th-century anthology ''[[Three Hundred Tang Poems]]''.
+
+==Names==
+His family name was Wang, and his given name is Wei. Wang chose the courtesy name Mojie and would sign his works Wang Weimojie because Wei-mo-Jie ({{lang|zh-Hant|維摩詰}}) was a reference to [[Vimalakirti]], the central figure of the Buddhist [[sutra]] by that name.<ref>Ferguson, 73</ref> In this holy book of Buddhism, which is partly in the form of a debate with [[Manjusri|Mañjuśrī]] (the Bodhisattva of Wisdom), a [[upasaka|lay person]], Vimalakīrti, expounds the doctrine of [[Sunyata|Śūnyatā]], or emptiness, to an assembly which includes [[arhat]]s and [[bodhisattva]]s, and then culminates with the wordless teaching of silence.
+
+==Life==
+[[File:Manjusri Debates Vimalakirti Dunhuang Mogao Caves.jpeg|thumb|left|150px|[[Manjusri]] Debates Vimalakirti, copy of a painting from the [[Dunhuang]] [[Mogao Caves]]]]
+Wang Wei is especially known as a poet and painter of nature. Of his poems some four hundred survive: these were first collected and originally edited into a corpus by his next-youngest brother, [[Wang Jin (Tang dynasty)|Wang Jin]], by imperial command. Of his paintings, no authenticated specimens survive, although there is evidence of his work through influences on later paintings and descriptive accounts of his paintings. His musical talents were regarded very highly, although nothing survives of his music except reports. He furthermore  had a successful career as a court official. Eventually, he became a devout [[Zen]] [[Buddhism|Buddhist]] and a [[vegetarian]].<ref>Wu, 49–51</ref> Wang Wei spent ten years studying with [[Chán]] master Daoguang.
+
+===Early years===
+Born into an aristocratic family, of [[Han Chinese|Han]] ethnicity, originally from [[Qi County, Shanxi|Qixian]] (present-day Qi County in [[Shanxi]] province), Wang Wei's father moved east of the [[Yellow River]] to Puzhou, part of the historic [[Hedong Commandery]] (today's [[Yongji, Shanxi]]). Known for his youthful precocity,<ref>Chang, 58</ref> Wang Wei, the eldest of five brothers,<ref>Ch'en and Bullock, 49</ref> set off for the imperial capital at the age of nineteen, in order to study and take the [[Imperial examination|''jinshi'']] civil service entrance examination. In the period while residing in [[Chang'an]], before taking the test, Wang's proficiency at poetry and his musical proficiency with the [[pipa]] helped him to achieve popularity at the royal court.<ref>Ch'en and Bullock, 50</ref> He passed the ''jinshi'' examination, in 721, with the first class award (''[[Imperial examination#Details of the imperial examination|Zhuangyuan]]''), which started his potentially lucrative civil service career. Wang Wei's career as an official had its ups and downs. His first appointment was as a court musician, or "Deputy Master of Music"; however, he was then demoted to a position of being in charge of a granary in the former province of [[Jizhou (ancient China)|Jizhou]] (now the name of a different town [[Jizhou City|Jizhou]], in [[Hebei]]).<ref>Ch'en and Bullock, 50; Chang, 59</ref> The reason for this demotion, according to tradition, was Wang's breach of etiquette by performing a [[lion dance]].<ref>Chang, 59</ref>
+
+In any case, this was only a minor setback to his career, and it had a compensation in that it did allow him to travel. Then, a series of promotions following this demotion was apparently attributable to a relationship with the prominent governmental minister, poet, and literary scholar [[Zhang Jiuling]],<ref>Chen and Bullock, 50; Chang, 59</ref> at least until Zhang's 727 demotion to a post in [[Jingzhou]]. By 728, Wang Wei was back in Chang'an, where he entertained the poet [[Meng Haoran]],<ref>Chang, 59</ref> who was to become a close friend and poetic colleague. At this point, Wang seems to have achieved the rank of Assistant Censor, and then a subsequent governmental promotion, but then later being demoted back to Assistant Censor, with the loss in imperial favor of Zhang Jiuling and the rising political ascendency of [[Li Linfu]]. After his wife's death in 731,<ref>Chang, 61</ref> he never remarried. It was in his role as a government official that Wang Wei was dispatched to [[Liangzhou]],<ref>Chang, 60</ref> which was then the northwestern frontier of the Chinese empire, and the scene of constant military conflicts. By invitation of the local commander, Wang served in this location until returning to Chang'an in 738 or early 739.<ref>Chang, 60</ref>
+
+===Middle years===
+After his return to Chang'an from Liangzhou, and lacking another official posting, Wang Wei took the opportunity to explore the countryside to the south of the capital, in the [[Lantian County|Lantian]] area of the [[Zhongnan Mountains]]. Wang Wei then made friends with [[Pei Di]].<ref>Chang, 60</ref> In 740–741 Wang resumed his successful governmental career, including an inspection tour of [[Xiangyang]], Hubei (the home territory of [[Meng Haoran]]), and afterwards serving in various positions in Chang'an. Besides the official salary connected with this government work, he had received financial rewards as an artist; thus he was able to acquire a sizable estate in Lantian, formerly owned by the poet [[Song Zhiwen]], known as Wang Chuan.<ref>Chang, 61</ref> Upon his Lantian estate Wang Wei established a shrine to honor his Buddhist mother, and after his mother died, in 747–748, he spent the traditional three-year mourning period for the death of a parent in this location, apparently so afflicted by grief that he was reduced almost to a skeleton.<ref>Chang, 61</ref> By 751–752 Wang Wei had resumed official duties. But at this point the historical record becomes problematic because of the effects of the [[An Lushan Rebellion|An Shi disorders]] upon record keeping.
+
+===War===
+[[File:Riders on Horseback, Northern Qi Dynasty.jpg|thumb|Riders on Horseback, Northern Qi Dynasty, the general area of the rebel heartland, although of an earlier date]]
+{{Main|An Lushan Rebellion}}
+Some view that the [[An Lushan Rebellion|An-Shi rebellion]], which took place between 755 and 763, profoundly affected Chinese social culture in general and Wang Wei in particular. However, [[Nicolas Tackett]] has recently argued that it was not as destructive to the Tang aristocracy as had previously been thought.<ref>Nicolas Tackett, The Destruction of the Medieval Chinese Aristocracy (Cambridge: Harvard Asia Center, 2014)</ref> In 756, Wang Wei was residing in the capital of [[Chang'an]], where he was captured by the rebels when they took the city. Although the emperor [[Emperor Xuanzong of Tang|Xuanzong]] and his court and most of the governmental officials had already evacuated to [[Sichuan]], Wang Wei had come down with dysentery and at that time was an invalid and thus unable to travel,<ref>Ch'en and Bullock, 50</ref> especially not on this notoriously mountainous and difficult passage. The rebels then took their prize captive to their capital at [[Luoyang]],<ref>Ch'en and Bullock, 51</ref> where the government of the rebellion sought his collaboration. According to some sources, he attempted to avoid actively serving the insurgents during the capital's occupation by pretending to be [[deafness|deaf]]; other sources state that, in an attempt to destroy his voice, he drank medicine that created cankers on his mouth. In any case, at Luoyang, Wang Wei was unable to avoid becoming officially one of the rebels, with an official title.<ref>Chang, 62</ref> In 757, with the ascendency of [[Tang Suzong|Suzong]], and the Tang recapture of Luoyang from the rebel forces, Wang Wei was arrested and imprisoned by the Tang government as a suspected traitor.<ref>Chang, 62</ref>
+
+The charges of disloyalty were eventually dropped, partly because of the intervention of his brother, [[Wang Jin (Tang dynasty)|Wang Jin]], who held high government rank (as Undersecretary of the Board of Punishments<ref>Chang, 62</ref>) and whose loyal efforts in the defense of [[Taiyuan]] were well known. Furthermore, the poems he had written during his captivity were produced, and accepted as evidence in favor of his loyalty.<ref>Ch'en and Bullock, 51</ref> Following his pardon, Wang Wei spent much of his time in his Buddhist practice and activities.<ref>Chang, 62</ref> Then, with the further suppression of the rebellion, he again received a government position, in 758,<ref>Chang, 62</ref> at first in a lower position than prior to the rebellion, as a ''tàizǐ zhōngchōng'' ({{lang|zh-Hant|太子中充}}), in the court of the crown prince rather than that of the emperor himself. In 759 Wang Wei was not only restored to his former position in the emperor's court, but he was eventually promoted. Over time, he was moved to the secretarial position of ''jǐshìzhōng'' ({{lang|zh-Hant|給事中}}) and his last position, which he held until his death in 761, was ''shàngshū yòuchéng'' ({{lang|zh-Hant|尚書右丞}}), or deputy prime minister. As these positions were in the city of Chang'an, they were not too far from his private estate to prevent him from visiting and repairing it. During all this time, he continued his artistic endeavors.
+
+===Later years===
+[[File:Pinus tabuliformis Hua Shan5.jpg|thumb|left|A modern picture from [[Mount Hua]], in the Qinling Mountain Range, perhaps suggesting some of the area's wild and rugged features which still exist today, and that would have also been enjoyed by Wang Wei and his friends.]]
+Wang Wei never lived to see the empire return to peace, as the An-Shi disturbances and their aftermath continued beyond his lifetime. However, at least he could enjoy a relative return to stability compared to the initial years of the rebellion, especially when he had the opportunity to spend time in the relative seclusion of his Lantian estate, which allowed him both a poetic and a Buddhist retreat, as well as a place to spend time with his friends and with nature, painting and writing. But, finally, his writing came to an end, and in the seventh month of 759, or in 761, Wang Wei requested writing implements, wrote several letters to his brother and to his friends, and then died.<ref>Ch'en and Bullock, 53</ref> He was then buried at his Lantian estate.<ref>Hinton, 158</ref>
+
+==Works==
+[[File:Wang Shimin-After Wang Wei's Snow Over Rivers and Mountains.jpg|thumb|[[Wang Shimin]]: "After Wang Wei's 'Snow Over Rivers and Mountains'". [[Qing Dynasty]].]]
+Wang Wei was famous for both his poetry and his paintings, about which [[Su Shi]] coined a phrase: "The quality of Wang Wei’s poems can be summed as, the poems hold a painting within them.  In observing his paintings you can see that, within the painting there is poetry."<ref>苏轼在《东坡志林》中说：“味摩诘之诗，诗中有画；观摩诘之画，画中有诗。” https://www.zybang.com/question/696b7c913828335406a31bb359dabb96.html</ref>  He is especially known for his compositions in the [[Shanshui poetry|Mountains and Streams]] (Shanshui) poetry genre, the landscape school of poetry, along with [[Meng Haoran]]; their family names were combined in a form of mutual reference and they are commonly referred to as "Wang Meng" due to their excellence in poetic composition, as contemporaries. In his later years, Wang Wei lost interest in being a statesman and became more involved in Buddhism and his poems reflected his focus on [[Chan Buddhism|Chan]] practice, therefore he was posthumously referred to as the "Poet Buddha".  His works are collected in ''Secretary General Wang's Anthology'', which includes 400 poems.  He excelled in painting images of people, bamboo forests and scenery of mountains and rivers.  It is recorded that his landscape paintings have two different genres, one of the Father and Son of the Li Family ({{lang|zh-Hant|李氏父子}}) and the other being of strong brush strokes. His work of ''Picture of Wang River'' is of the latter, but unfortunately the original no longer exists.  His works of ''Scenery of Snow and Creek'' and ''Jinan’s Fusheng Portrait'' are both realistic in their representation of the subjects.
+
+===Poetry===
+At present 420 poems are attributed to Wang Wei, of which 370 are thought to be genuine.<ref>[[Jaroslav Průšek]] and Zbigniew Słupski, eds., Dictionary of Oriental Literatures: East Asia (Charles Tuttle, 1978): 195.</ref> Wang Wei was a "very great master" of the [[jueju]]:<ref>Davis, x</ref> many of his [[quatrain]]s depict quiet scenes of water and mist, with few details and little human presence. The ''Indiana Companion'' comments that he affirms the world's beauty, while questioning its ultimate reality. It also draws a comparison between the deceptive simplicity of his works and the Chan path to [[Bodhi|enlightenment]], which is built on careful preparation but is achieved without conscious effort.
+
+One of Wang Wei's famous poems is "One-hearted" (''Xiang Si'' {{lang|zh-Hant|相思}}):
+{|
+!class="nowrap"|Original Chinese
+!class="nowrap"|English Translation
+|-
+| lang="zh-Hant" |
+:　 相思
+:紅豆生南國
+:春來發幾枝
+:願君多採擷 
+:此物最相思
+|
+::One-Hearted
+:When those red berries of the South,
+:Flush on the branches in the spring,
+:Take home an armful, for my sake,
+:As a symbol of our love.
+|}
+
+===''Wang River'' Collection===
+{{Main|Wangchuan ji}}
+Some of Wang Wei's most famous poetry was done as a series of couplets written by him to which his friend [[Pei Di]] wrote replying couplets. Together, these form a group titled the ''Wang River Collection''. Note that "Wang" as in the river is a different character that the "Wang" of Wang Wei's name. It literally refers to the outside part of a wheel; and also that these are sometimes referred to as the "Lantian poems", after the real name of Wang's estate's location, in what is now [[Lantian County]]. Inspired in part by Wang's Lantian home and features of its neighborhood and by their correspondences with other places and features, the collection includes such pieces as the poem often translated "Deer Park" (literally, "Deer Fence").<ref name="deerpark">{{webarchive | url=https://web.archive.org/web/20100611171909/http://www.chinapage.com/poem/wangwei/wangwei-trs.html | date=11 June 2010 | title=Several Translations of One Poem by 王維 }}</ref> However, the poems tend to have a deceptive simplicity to them, while they actually have great depth and complexity upon closer examination.
+
+===Painting===
+{{Main|Chinese painting}}
+Wang Wei has historically been regarded as the founder of the [[Southern School]] of Chinese landscape art,<ref>Davis, x</ref> a school which was characterised by strong brushstrokes contrasted with light ink washes.
+
+==Cultural references==
+[[File:Dong Qichang.Landscapes in the Manner of Old Masters (Wang Wei). Album leaf.1621-24 Nelson-Atkuns Museum.jpg|thumb|[[Dong Qichang]]'s painting of "Landscapes in the Manner of Old Masters" (Wang Wei). Album leaf. Nelson-Atkins Museum]]
+
+===Influence in the East===
+Wang Wei was of extensive influence in China and its area of cultural influence, particularly in terms of monochrome ink painting and in terms of his deceptively simple and insightful Buddhist-influenced poetry. [[Wang Shimin]] and [[Wang Yuanqi]] of the [[Six Masters of the early Qing period]] painted works in the style of Wang Wei, as well as copying his paintings as "copying former masters was seen as the cornerstone of artistic training."<ref>Jenny So, in "Antiques in Antiquity: Early Chinese Looks at the Past", a paper presented at Brown University, March 5, 2008.</ref> In the [[Ming Dynasty]], [[Dong Qichang]] included Wang Wei's style in his paintings after the old masters.
+
+One of Wang Wei's poems, called ''Weicheng Qu'' or "Song of the City of Wei" has been adapted to the famous music melody, ''Yangguan Sandie'' or "Three Refrains on the [[Yangguan|Yang Pass]]". The most famous version of this melody is based on a tune for [[guqin]] first published in 1864 but may be traced back to a version from 1530.<ref name="yangguan">{{cite web |url=http://www.silkqin.com/02qnpu/09zysz/zy13ygsd.htm  |title=13. Thrice (Parting for) Yangguan }}</ref>
+
+Wang Wei's lasting influence is seen in the [[death poem]] of the Japanese [[haiku]] master [[Yosa Buson]]:
+{{quote|<poem>
+   winter warbler;
+   long ago in Wang Wei's
+   hedge also
+</poem>
+}}
+
+===Influence in the West===
+* Wang Wei's poetry, in translation, formed the inspiration for the final ''Der Abschied'' movement of the Austrian composer [[Gustav Mahler]]'s penultimate completed work, ''[[Das Lied von der Erde]]''.<ref>Mitchell, Donald (1985), ''Gustav Mahler: Songs and Symphonies of Life and Death''. London: Faber and Faber.</ref>  ''[[Der Abschied]]'' is set to a loose German translation of Wang Wei's ''Farewell'' ({{lang|zh-Hant|送别}}), a work addressed to fellow poet [[Meng Haoran]] on the occasion of his retirement (after a brief civil service career) to become a scholar-recluse (''yinshi'', {{lang|zh-Hant|隱士}}).
+{|
+! class="nowrap" |
+! class="nowrap" |
+|-
+| lang="zh-Hant" |
+:　 送别
+:下馬飲君酒
+:問君何所之
+:君言不得意
+:歸臥南山陲<ref>Nanshan ({{lang|zh-Hant|南山}}, "South Hill") likely refers to a particular geographical feature near Meng Haoran's hometown of [[Xiangyang]], in modern day Hubei Province.  Another interpretation is that Nanshan is short for [[Zhongnan Mountains|Zhongnanshan]] ({{lang|zh-Hant|終南山}}), a well-known retreat for Daoist hermits.</ref>
+:但去莫復問
+:白雲無盡時
+|
+::Farewell
+:"Alight and bide a while my friend,"
+:a cup of wine I recommend.  
+:"Whither go ye on this journey?"
+:Disappointments, you confide —
+:"On South Hill's fringes I'll reside,
+:retire by the mountainside."
+:"Go, good friend," my queries end.
+:Yonder, white clouds time transcend.
+|-
+|
+|
+|}
+* Wang Wei's poetry, found in the works of [[Ernest Fenollosa]], also provided inspiration for the American poet [[Ezra Pound]] in the creation of [[Pound's Ideogrammic Method]].
+* His art inspired [[Innisfree Garden]] in [[Millbrook, New York]].
+
+==See also==
+{{portal|Poetry}}
+*[[Abe no Nakamaro]]
+*[[Chinese poetry]]
+*[[Classical Chinese poetry]]
+*[[Das Lied von der Erde]]
+*[[Dong Yuan]]
+*[[Double Ninth Festival]]
+*[[Han Gan]]
+*[[Ink and wash painting]]
+*[[Jueju]]
+*[[List of Chinese language poets]]
+*[[List of Chinese painters]]
+*[[List of National Treasures of Japan (writings: Chinese books)]]
+*[[Quantangshi]]
+*[[Shan shui]]
+*[[Shen Kuo]]
+*[[Shi (poetry)]]
+*[[Tang poetry]]
+*[[Timeline of Chinese history]]
+*[[Wangchuan ji]]
+*[[Wang Jin (Tang dynasty)|Wang Jin]]
+*[[Wang Yuanqi]]
+*[[Yangguan]]
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* Bynner, Witter (1929), trans. (from the texts of Kiang Kang-hu). ''The Jade Mountain, a Chinese Anthology: Being Three Hundred Poems of the T'ang Dynasty''. New York: Knopf.
+* Chang, H.C. (1977), ''Chinese Literature 2: Nature Poetry''. New York: Columbia University Press. {{ISBN|0-231-04288-4}}.
+* Chang, Yin-nan, and Lewis C. Walmsley (1958), trans. ''Poems by Wang Wei''. Rutland, VT: Tuttle.
+* [[Jerome Chen|Ch'en, Jerome]] and Michael Bullock (1960), ''Poems of Solitude''. London: Abelard-Schuman. {{ISBN|978-0-85331-260-4}}.
+* Cheng, Francois (1977), ''L'Ecriture poétique chinoise''.  Paris: Editions du Seuil. Trans. by Donald A. Riggs and Jerome P. Seaton as ''Chinese Poetic Writing: With an Anthology of T'ang Poetry'' Bloomington: Indiana University Press, 1982.
+* Davis, A.R. (Albert Richard), Editor and Introduction (1970), ''The Penguin Book of Chinese Verse''. Baltimore: Penguin Books.
+* Ferguson, John C. (1927), ''Chinese Painting''. Chicago: University of Chicago Press.
+* Fletcher, W.J.B. (1919), trans. ''Gems of Chinese Verse, Translated into English Verse''. Shanghai: Commercial Press.
+* Giles, Herbert (1884), ed. and trans. ''Chinese Poetry in English Verse''. Shanghai: Kelly & Walsh.
+* [[David Hinton|Hinton, David]] (2008), ''Classical Chinese Poetry: An Anthology''. New York: Farrar, Straus, and Giroux. {{ISBN|0-374-10536-7|978-0-374-10536-5}}.
+* Kenner, Hugh (1971), ''The Pound Era''. Berkeley: University of California Press.
+* Mitchell, Donald (1985), ''Gustav Mahler: Songs and Symphonies of Life and Death''. London: Faber and Faber.
+* Robinson, G.W. (1974), ''Wang Wei Poems'' Penguin Classics, {{ISBN|978-0-14-044296-0}}
+* [[Hugh McBirney Stimson|Stimson, Hugh M.]] (1976), ''Fifty-five T'ang Poems''. Far Eastern Publications: Yale University, New Haven, CN. {{ISBN|0-88710-026-0}}
+* Wagner, Marsha (1982), ''Wang Wei''. Boston: Twayne.
+* Watson, Burton (1971), ''Chinese Lyricism: Shih Poetry from the Second to the Twelfth Century''. New York: Columbia University Press. {{ISBN|0-231-03464-4}}.
+* Weinberger, Eliot, and Octavio Paz (1987), ''Nineteen Ways of Looking at Wang Wei: How a Chinese Poem Is Translated''. Wakefield, RI: Moyer Bell.
+* Wu, John C.H. (1972), ''The Four Seasons of Tang Poetry''. Rutland, Vermont: Charles E. Tuttle. {{ISBN|978-0-8048-0197-3}}.
+* Yip, Wai-lim (1972), trans. ''Hiding the Universe: Poems by Wang Wei''. New York: Munshinsha/Grossman.
+* Yip, Wai-lim (1993), ''Diffusion of Distances: Dialogues between Chinese and Western Poetics''. Berkeley: University of California Press.
+* Yu, Pauline (1980), ''The Poetry of Wang Wei: New Translations and Commentary''. Bloomington: Indiana University Press.
+
+{{refend}}
+
+== Critical editions ==
+* ''Wang Youcheng Ji Jianzhu'' 《王右丞集箋注》 (''An Annotated Edition of the Collected Works of Wang [Wei] the Right [[Department of State Affairs|Assistant Secretary of State Affairs]]''). Edited by Zhao Diancheng (趙殿成) (1683–1756). Shanghai: Shanghai Ancient Books Publishing House, 1961.
+
+== Further reading ==
+* [[Perry Link|Link, Perry]], "A Magician of Chinese Poetry" (review of [[Eliot Weinberger]], with an afterword by [[Octavio Paz]]), ''19 Ways of Looking at Wang Wei (with More Ways)'', New Directions, 88 pp. and [[Eliot Weinberger]], ''The Ghosts of Birds'', New Directions, 211 pp. ''[[The New York Review of Books]]'', vol. LXIII, no. 18 (November 24, 2016), pp.&nbsp;49–50.
+* Rouzer, Paul (2020). [https://www.degruyter.com/serial/PPWW-B/html The Poetry and Prose of Wang] {{openaccess}}. ''De Gruyter Mouton''.
+
+==External links==
+{{Wikiquote}}
+{{commons category|Wang Wei}}
+* [https://www.degruyter.com/document/doi/10.1515/9781501516023/html Complete translation of Wang Wei's poems, as well as selected prose works, by Paul Rouzer]
+* [http://poemsintranslation.blogspot.com/search/label/Wang%20Wei Wang Wei in English] at ''Poems Found in Translation''
+* {{curlie|Arts/Literature/Authors/W/Wang_Wei|Wang Wei}}
+* [https://web.archive.org/web/20080310234556/http://www.poetry-chinese.com/wangwei-m.htm Regulated verses of Wang Wei, with English translation, pinyin transliteration, and tonal patterns.]
+* [https://web.archive.org/web/20100611171909/http://www.chinapage.com/poem/wangwei/wangwei-trs.html Translations by sixteen poets of "Deer Park"]
+* [http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/88271/rec/1 Landscapes Clear and Radiant: The Art of Wang Hui (1632–1717)], an exhibition catalog from The Metropolitan Museum of Art (fully available online as PDF), which contains material on Wang Wei (see index)
+* [http://www.ziyexing.cn/shici/wangwei/whangwei_index.htm Complete works of Wang Wei, in Chinese, at 'The Poetry of Chinese Antiquity' website]
+* {{Librivox author |id=3145}}
+*Books of the ''[[Quan Tangshi]]'' that include collected poems of Wang Wei at the [[Chinese Text Project]]:
+**[http://ctext.org/quantangshi/125 Book 125]
+**[http://ctext.org/quantangshi/126 Book 126]
+**[http://ctext.org/quantangshi/127 Book 127]
+**[http://ctext.org/quantangshi/128 Book 128]
+
+{{Chinese poetry}}
+{{Tang dynasty topics}}
+{{Authority control}}
+
+{{DEFAULTSORT:Wang, Wei}}
+[[Category:699 births]]
+[[Category:759 deaths]]
+[[Category:8th-century Chinese poets]]
+[[Category:8th-century Chinese painters]]
+[[Category:Chinese portrait painters]]
+[[Category:Musicians from Shanxi]]
+[[Category:Painters from Shanxi]]
+[[Category:Politicians from Yuncheng]]
+[[Category:Poets from Shanxi]]
+[[Category:Tang dynasty politicians from Shanxi]]
+[[Category:Tang dynasty musicians]]
+[[Category:Tang dynasty painters]]
+[[Category:Three Hundred Tang Poems poets]]
+[[Category:Buddhist artists]]
+[[Category:Tang dynasty poets]]
+[[Category:8th-century Chinese musicians]]

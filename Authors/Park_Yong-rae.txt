@@ -1,0 +1,78 @@
+{{family name hatnote|Park||lang=Korean}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+| name = Park Yong-rae
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| pseudonym = 
+| birth_date = {{birth date|1925|08|14|mf=yes}}
+| birth_place = 
+| death_date = {{death date and age|1980|11|21|1925|08|14|mf=yes}}
+| death_place = 
+| resting_place = 
+| occupation = 
+| language = [[Korean language|Korean]]
+| nationality = [[South Korea|South Korean]]
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre = [[Poetry]]
+| subject = 
+| movement = 
+| notableworks = 
+| spouse = 
+| partner = 
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| module = 
+| website = <!-- www.example.com -->
+| portaldisp = 
+}}
+{{Infobox Korean name
+|title = Korean name
+|hangul = 박용래
+|hanja = 朴龍來
+|rr = Bak Yong-nae
+|mr = Pak Yongnae
+|hangulho = 
+|hanjaho = 
+|rrho = 
+|mrho = 
+|hangula = 
+|hanjaa = 
+|rra = 
+|mra = 
+}}
+
+'''Park Yong-rae''' ([[Hangul]]: 박용래; [[Hanja]]: 朴龍來; August 14, 1925—November 21, 1980) was a [[South Korea]]n poet.<ref>{{Cite web|url=http://encykorea.aks.ac.kr/Contents/SearchNavi?keyword=%EB%B0%95%EC%9A%A9%EB%9E%98&ridx=0&tot=2|title=박용래(朴龍來)|date=1995|website=Encyclopedia of Korean Culture|language=ko|trans-title=Park Yong-rae|access-date=2018-06-19}}</ref><ref name=":0">{{Cite web|url=https://people.search.naver.com/search.naver?where=nexearch&sm=tab_ppn&query=%EB%B0%95%EC%9A%A9%EB%9E%98&os=104112&ie=utf8&key=PeopleService|title=박용래|date=2014-08-26|website=Naver People Search|language=ko|trans-title=Park Yong-rae|access-date=2018-06-19}}</ref>
+
+==Life==
+Park was born on August 14, 1925 in [[Buyeo County|Buyeo]], [[Chungcheongnam-do]] [[Korea]] and died November 21, 1980.<ref name=":0" /> He graduated from the Ganggyeong Commercial High School, and debuted his work in 1956 with the publication of “Song of Autumn”. Park worked as a bank employee and teacher and middle and high schools.<ref name="Lee1996">{{cite book|title=Who's Who in Korean Literature|chapter=Park, Yong-Rae|page=422|author=Lee, Kyung-ho|publisher=Hollym|location=Seoul|year=1996|isbn=1-56591-066-4}}</ref> Park died on November 21, 1980.<ref>{{cite book |title=Korean Writers The Poets |publisher=[[Minumsa Press]]|chapter=Park Yong-rae |year=2005 |page=149}}</ref>
+
+==Works in Korean (selected)==
+* Snow Pellets (Ssaraknun, 1969)
+* Foxtails (Gang-ajipul, 1975)
+* Distant Sea (Meon Bada, 1984)
+
+==Awards==
+* Korean Literature Author's Award (1980)
+* Contemporary Poetry Prize (1969)
+* [[Chungnam]] Culture Award (1961)
+
+==See also==
+*[[Korean Literature]]
+*[[List of Korean-language poets]]
+
+== References ==
+{{reflist}}
+
+{{Authority control}}
+{{DEFAULTSORT:Park, Yong-rae}}
+[[Category:1925 births]]
+[[Category:South Korean male poets]]
+[[Category:1980 deaths]]

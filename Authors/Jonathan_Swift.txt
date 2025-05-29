@@ -1,0 +1,359 @@
+{{Short description|Anglo-Irish satirist, essayist, and cleric (1667–1745)}}
+{{pp-semi-indef}}
+{{Use British English|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| honorific_prefix = [[The Very Reverend]]
+| name             = Jonathan Swift
+| image            = Jonathan Swift by Charles Jervas detail.jpg
+| caption          = Portrait by [[Charles Jervas]], 1710
+| birth_date       = {{birth date|df=yes|1667|11|30}}
+| birth_place      = [[Dublin]], [[Kingdom of Ireland|Ireland]]
+| death_date       = {{death date and age|df=yes|1745|10|19|1667|11|30}}
+| death_place      = Dublin, [[Kingdom of Ireland|Ireland]]
+| resting_place    = [[St Patrick's Cathedral, Dublin]]
+| pseudonym        = [[Isaac Bickerstaff]], [[M. B. Drapier]], [[Lemuel Gulliver]], [[Simon Wagstaff, Esq.]]
+| occupation       = {{flatlist|
+* [[Satirist]]
+* essayist
+* political [[pamphleteer]]
+* poet
+* priest
+}}
+| language         = English
+| nationality      =
+| alma_mater       = [[Trinity College, Dublin]]
+| genre            =
+| spouse           =
+| movement         =
+| notableworks     = {{plainlist|
+* ''[[A Tale of a Tub]]''
+* ''[[Drapier's Letters]]''
+* ''[[Gulliver's Travels]]''
+* ''[[A Modest Proposal]]''}}
+| signature        = Jonathan Swift signature.svg
+}}
+
+'''Jonathan Swift''' (30 November 1667 – 19 October 1745) was an [[Anglo-Irish]]<ref name="Britannica">{{Britannica|577008}}</ref> [[satire|satirist]], essayist, political [[pamphleteer]] (first for the [[Whig (British political party)|Whigs]], then for the [[Tories (British political party)#1678–1760|Tories]]), poet and [[Anglican cleric]] who became [[Dean (Christianity)|Dean]] of [[St Patrick's Cathedral, Dublin]],<ref>{{citation |url=http://www.online-literature.com/swift/ |title=Online literature |contribution=Swift |access-date=17 December 2011 |archive-date=3 August 2019 |archive-url=https://web.archive.org/web/20190803044307/http://www.online-literature.com/swift/ |url-status=live }}</ref> hence his common [[sobriquet]], "Dean Swift".
+
+Swift is remembered for works such as ''[[A Tale of a Tub]]'' (1704), ''[[An Argument Against Abolishing Christianity]]'' (1712), ''[[Gulliver's Travels]]'' (1726), and ''[[A Modest Proposal]]'' (1729). He is regarded by the ''[[Encyclopædia Britannica]]'' as the foremost prose satirist in the English language,<ref name="Britannica"/> and is less well known for his poetry. He originally published all of his works under pseudonyms—such as [[Lemuel Gulliver]], [[Isaac Bickerstaff]], [[M. B. Drapier]]—or anonymously. He was a master of two styles of satire, the [[Satire#Classifications|Horatian and Juvenalian]] styles.
+
+His [[deadpan]], [[ironic]] writing style, particularly in ''[[A Modest Proposal]]'', has led to such [[satire]] being subsequently termed "Swiftian".<ref>"What higher accolade can a reviewer pay to a contemporary satirist than to call his or her work ''[https://en.wiktionary.org/wiki/Swiftian Swiftian] {{Webarchive|url=https://web.archive.org/web/20171023230958/https://en.wiktionary.org/wiki/Swiftian |date=23 October 2017 }}''?" Frank Boyle, "Johnathan Swift", Ch 11 in ''A Companion to Satire: Ancient and Modern'' (2008), edited by Ruben Quintero, John Wiley & Sons {{ISBN|0470657952}}</ref>
+
+==Biography==
+=== Early life===
+Jonathan Swift was born on 30 November 1667 in [[Dublin]] in the [[Kingdom of Ireland]]. He was the second child and only son of Jonathan Swift (1640–1667) and his wife Abigail Erick (or Herrick) of [[Frisby on the Wreake]].<ref>{{cite DNB|wstitle=Swift, Jonathan|last=Stephen|first=Leslie|volume=55|page=204}}</ref> His father was a native of [[Goodrich, Herefordshire]], but he accompanied his brothers to [[Ireland]] to seek their fortunes in law after their [[Royalist]] father's estate was brought to ruin during the [[English Civil War]]. His maternal grandfather, James Ericke, was the vicar of [[Thornton, Leicestershire|Thornton in Leicestershire]]. In 1634 the vicar was convicted of Puritan practices. Some time thereafter, Ericke and his family, including his young daughter Abigail, fled to Ireland.<ref>{{cite book |last=Stubbs |first=John |title=Jonathan Swift: The Reluctant Rebel |pages=25–26 |publisher=WW Norton & Co |location=New York |date=2016}}</ref>
+
+Swift's father joined his elder brother, Godwin, in the practice of law in Ireland.<ref>Stubbs (2016), p. 43.</ref> He died in Dublin about seven months before his namesake was born.<ref>{{cite book|url=https://books.google.com/books?id=so6ZNdlRfLIC&q=jonathan+swift%27s+father+died&pg=PA412|title=Jonathan Swift|isbn=978-1438108513|last1=Degategno|first1=Paul J.|last2=Jay Stubblefield|first2=R.|year=2014|access-date=4 October 2020|archive-date=26 January 2021|archive-url=https://web.archive.org/web/20210126142416/https://books.google.com/books?id=so6ZNdlRfLIC&q=jonathan+swift%27s+father+died&pg=PA412|url-status=live}}</ref><ref>{{cite web|url=http://bnreview.barnesandnoble.com/t5/A-Reading-Life/Jonathan-Swift-His-Life-and-His-World/ba-p/11769|title=Jonathan Swift: His Life and His World|work=The Barnes & Noble Review|access-date=16 March 2014|archive-date=2 July 2014|archive-url=https://web.archive.org/web/20140702000858/http://bnreview.barnesandnoble.com/t5/A-Reading-Life/Jonathan-Swift-His-Life-and-His-World/ba-p/11769|url-status=live}}</ref> He died of [[syphilis]], which he said he got from dirty sheets when out of town.<ref>Stubbs (2016), p. 54.</ref>
+
+At the age of one, child Jonathan was taken by his [[wet nurse]] to her hometown of [[Whitehaven]], [[Cumberland]], England. He said that there he learned to read the Bible. His nurse returned him to his mother, still in Ireland, when he was three.<ref>Stubbs (2016), pp. 58–63.</ref>
+
+His mother returned to England after his birth, leaving him in the care of his uncle Godwin Swift (1628–1695), a close friend and confidant of [[John Temple (judge)|Sir John Temple]], whose son later employed Swift as his secretary.<ref name=LS205>Stephen ''DNB'', p. 205</ref>
+
+[[File:Houghton Lowell 1816.7.3 - Life of Jonathan Swift, p 8.jpg|thumb|left|The house in which Swift was born; 1865 illustration]]
+Swift's family had several interesting literary connections. His grandmother Elizabeth (Dryden) Swift was the niece of [[Sir Erasmus Dryden, 1st Baronet|Sir Erasmus Dryden]], grandfather of poet [[John Dryden]]. The same grandmother's aunt Katherine (Throckmorton) Dryden was a first cousin of [[Elizabeth Raleigh|Elizabeth]], wife of [[Sir Walter Raleigh]]. His great-great grandmother Margaret (Godwin) Swift was the sister of [[Francis Godwin]], author of ''[[The Man in the Moone]]'' which influenced parts of Swift's ''[[Gulliver's Travels]]''. His uncle Thomas Swift married a daughter of poet and playwright [[Sir William Davenant]], a godson of [[William Shakespeare]].
+
+Swift's benefactor and uncle Godwin Swift took primary responsibility for the young man, sending him with one of his cousins to [[Kilkenny College]] (also attended by philosopher [[George Berkeley]]).<ref name=LS205 /> He arrived there at the age of six, where he was expected to have already learned the basic declensions in Latin. He had not, and thus began his schooling in a lower form. Swift graduated in 1682, when he was 15.<ref>Stubbs (2016), pp. 73–74.</ref>
+[[File:Jonathan Swift, by Thomas Pooley.jpg|thumb|Jonathan Swift in 1682, by Thomas Pooley. The artist had married into the Swift family<ref name="Hourican">{{cite web |last1=Hourican |first1=Bridget |title=Thomas Pooley |url=https://dib.cambridge.org/viewReadPage.do?articleId=a7421&searchClicked=clicked&searchBy=&browsesearch=yes |website=Royal Irish Academy – Dictionary of Irish Biography |publisher=Cambridge University Press |access-date=3 November 2020 |date=2002}}</ref>]]
+He attended [[Trinity College, Dublin]], the sole constituent college of the [[University of Dublin]], in 1682,<ref>"Alumni Dublinenses Supplement p. 116: a register of the students, graduates, professors and provosts of Trinity College in the University of Dublin (1593–1860) [[George Dames Burtchaell|Burtchaell, G.D]]/[[Thomas Sadleir|Sadlier, T.U]]: Dublin, Alex Thom and Co, 1935</ref> financed by Godwin's son Willoughby. The four-year course followed a curriculum largely set in the Middle Ages for the priesthood. The lectures were dominated by Aristotelian logic and philosophy. The basic skill taught the students was debate, and they were expected to be able to argue both sides of any argument or topic. Swift was an above-average student but not exceptional, and received his B.A. in 1686 "by special grace."<ref>Stubbs (2016), pp. 86–90</ref>
+
+=== Adult life ===
+
+==== Maturity ====
+
+Swift was studying for his master's degree when political troubles in Ireland surrounding the [[Glorious Revolution]] forced him to leave for England in 1688, where his mother helped him get a position as secretary and personal assistant of [[William Temple (British politician)|Sir William Temple]] at [[Moor Park, Farnham]].<ref>Stephen ''DNB'', p. 206</ref> Temple was an English diplomat who arranged the [[Triple Alliance of 1668]]. He had retired from public service to his country estate, to tend his gardens and write his memoirs. Gaining his employer's confidence, Swift "was often trusted with matters of great importance".<ref name=LS207>Stephen ''DNB'', p. 207</ref> Within three years of their acquaintance, Temple had introduced his secretary to [[William III of England|William&nbsp;III]] and sent him to London to urge the King to consent to a bill for triennial Parliaments.
+
+Swift took up his residence at Moor Park where he met [[Esther Johnson]], then eight years old, the daughter of an impoverished widow who acted as companion to Temple's sister Lady Giffard. Swift was her tutor and mentor, giving her the nickname "Stella", and the two maintained a close but ambiguous relationship for the rest of Esther's life.<ref name=LS208>Stephen ''DNB'', p. 208</ref>
+
+In 1690, Swift left Temple for Ireland because of his health, but returned to Moor Park the following year. The illness consisted of fits of vertigo or giddiness, now believed to be [[Ménière's disease]], and it continued to plague him throughout his life.<ref name=Bewley>Bewley, Thomas H., "The health of Jonathan Swift", ''Journal of the Royal Society of Medicine'' 1998;91:602–605</ref> During this second stay with Temple, Swift received his M.A. from [[Hertford College, Oxford#Hart Hall|Hart Hall]], [[University of Oxford|Oxford]], in 1692. He then left Moor Park, apparently despairing of gaining a better position through Temple's patronage, in order to become an ordained priest in the Established [[Church of Ireland]]. He was appointed to the [[prebendary|prebend]] of Kilroot in the [[Diocese of Connor (Church of Ireland)|Diocese of Connor]] in 1694,<ref>"Fasti Ecclesiae Hibernicae: The succession of the prelates Volume 3" [[Henry Cotton (divine)|Cotton, H.]] p. 266: Dublin, Hodges & Smith, 1848–1878</ref> with his parish located at [[Kilroot]], near [[Carrickfergus]] in [[County Antrim]].
+
+Swift appears to have been miserable in his new position, being isolated in a small, remote community far from the centres of power and influence. While at Kilroot, however, he may well have become romantically involved with Jane Waring, whom he called "Varina", the sister of an old college friend.<ref name=LS207 /> A letter from him survives, offering to remain if she would marry him and promising to leave and never return to Ireland if she refused. She presumably refused, because Swift left his post and returned to England and Temple's service at Moor Park in 1696, and he remained there until Temple's death. There he was employed in helping to prepare Temple's memoirs and correspondence for publication. During this time, Swift wrote ''[[The Battle of the Books]]'', a satire responding to critics of Temple's ''Essay upon Ancient and Modern Learning'' (1690), though ''Battle'' was not published until 1704.
+
+Temple died on 27 January 1699.<ref name=LS207 /> Swift, normally a harsh judge of human nature, said that all that was good and amiable in mankind had died with Temple.<ref name=LS207 /> He stayed on briefly in England to complete editing Temple's memoirs, and perhaps in the hope that recognition of his work might earn him a suitable position in England. Unfortunately, his work made enemies among some of Temple's family and friends, in particular Temple's formidable sister Lady Giffard, who objected to indiscretions included in the memoirs.<ref name=LS208 /> Swift's next move was to approach King William directly, based on his imagined connection through Temple and a belief that he had been promised a position. This failed so miserably that he accepted the lesser post of secretary and chaplain to the [[Baron Berkeley|Earl of Berkeley]], one of the Lords Justice of Ireland. However, when he reached Ireland, he found that the secretaryship had already been given to another. He soon obtained the living of Laracor, [[Agher]], and Rathbeggan, and the prebend of Dunlavin<ref>"Fasti Ecclesiae Hibernicae: The succession of the prelates Volume 2" [[Henry Cotton (divine)|Cotton, H.]] p. 165: Dublin, Hodges & Smith, 1848–1878</ref> in St Patrick's Cathedral, Dublin.<ref>Stephen ''DNB'', p.  209</ref>
+
+Swift ministered to a congregation of about 15 at [[Laracor]], which was just over four and half miles (7.5&nbsp;km) from [[Summerhill, County Meath]], and {{convert|20|mi|km|spell=in}} from Dublin. He had abundant leisure for cultivating his garden, making a canal after the Dutch fashion of Moor Park, planting willows, and rebuilding the vicarage. As chaplain to Lord Berkeley, he spent much of his time in Dublin and travelled to London frequently over the next ten years. In 1701, he anonymously published the political pamphlet ''A Discourse on the Contests and Dissentions in Athens and Rome''.
+
+====Writer====
+Swift had residence in [[Trim, County Meath]], after 1700. He wrote many of his works during this time period. In February 1702, Swift received his [[Doctor of Divinity]] degree from [[Trinity College, Dublin]]. That spring he travelled to England and then returned to Ireland in October, accompanied by Esther Johnson—now 20—and his friend Rebecca Dingley, another member of William Temple's household. There is a great mystery and controversy over Swift's relationship with Esther Johnson, nicknamed "Stella". Many, notably his close friend [[Thomas Sheridan (divine)|Thomas Sheridan]], believed that they were secretly married in 1716; others, like Swift's housekeeper Mrs Brent and Rebecca Dingley (who lived with Stella all through her years in Ireland), dismissed the story as absurd.<ref>Stephen ''DNB'', pp. 215–217</ref> Swift certainly did not wish her to marry anyone else: in 1704, when their mutual friend [[William Tisdall (cleric)|William Tisdall]] informed Swift that he intended to propose to Stella, Swift wrote to him to dissuade him from the idea. Although the tone of the letter was courteous, Swift privately expressed his disgust for Tisdall as an "interloper", and they were estranged for many years.
+
+During his visits to England in these years, Swift published ''[[A Tale of a Tub]]'' and ''[[The Battle of the Books]]'' (1704) and began to gain a reputation as a writer. This led to close, lifelong friendships with [[Alexander Pope]], [[John Gay]], and [[John Arbuthnot]], forming the core of the Martinus [[Scriblerus Club]] (founded in 1713).
+
+Swift became increasingly active politically in these years.<ref>Stephen ''DNB'', p. 212.</ref> Swift supported the [[Glorious Revolution]] and early in his life belonged to the [[Whigs (British political party)|Whigs]].<ref name="Fox">{{cite book |last1=Fox |first1=Christopher |title=The Cambridge Companion to Jonathan Swift |date=2003 |publisher=Cambridge University Press |pages=36–39}}</ref><ref name="Cody">{{cite web |last1=Cody |first1=David |title=Jonathan Swift's Political Beliefs |url=http://www.victorianweb.org/previctorian/swift/politics1.html |website=Victorian Web |access-date=26 October 2018 |archive-date=8 November 2018 |archive-url=https://web.archive.org/web/20181108192150/http://www.victorianweb.org/previctorian/swift/politics1.html |url-status=live }}</ref> As a member of the [[Anglican Church]], he feared a return of the Catholic monarchy and "Papist" absolutism.<ref name="Cody" /> From 1707 to 1709 and again in 1710, Swift was in London unsuccessfully urging upon the Whig administration of [[Lord Godolphin]] the claims of the Irish clergy to the [[Queen Anne's Bounty|First-Fruits and Twentieths]] ("Queen Anne's Bounty"), which brought in about £2,500 a year, already granted to their brethren in England. He found the opposition [[Tory (British political party)|Tory]] leadership more sympathetic to his cause, and, when they came to power in 1710, he was recruited to support their cause as editor of ''[[The Examiner (1710–1714)|The Examiner]]''. In 1711, Swift published the political pamphlet ''[[The Conduct of the Allies]]'', attacking the Whig government for its inability to end the prolonged war with France. The incoming Tory government conducted secret (and illegal) negotiations with France, resulting in the [[Treaty of Utrecht]] (1713) ending the [[War of the Spanish Succession]].
+
+Swift was part of the inner circle of the Tory government,<ref>Stephen ''DNB'', pp. 212–215</ref> and often acted as mediator between [[Henry St John, 1st Viscount Bolingbroke|Henry St John]] (Viscount Bolingbroke), the secretary of state for foreign affairs (1710–15), and [[Robert Harley, 1st Earl of Oxford and Mortimer|Robert Harley]] (Earl of Oxford), lord treasurer and prime minister (1711–14). Swift recorded his experiences and thoughts during this difficult time in a long series of letters to Esther Johnson, collected and published after his death as ''[[A Journal to Stella]]''. The animosity between the two Tory leaders eventually led to the dismissal of Harley in 1714. With the death of [[Anne, Queen of Great Britain|Queen Anne]] and accession of [[George I of Great Britain|George I]] that year, the Whigs returned to power, and the Tory leaders were tried for treason for conducting secret negotiations with France.
+
+Swift has been described by scholars as "a Whig in politics and Tory in religion" and Swift related his own views in similar terms, stating that as "a lover of liberty, I found myself to be what they called a Whig in politics&nbsp;... But, as to religion, I confessed myself to be an High-Churchman."<ref name="Fox" /> In his "Thoughts on Religion", fearing the intense partisan strife waged over religious belief in the seventeenth century England, Swift wrote that "Every man, as a member of the commonwealth, ought to be content with the possession of his own opinion in private."<ref name="Fox" /> However, it should be borne in mind that, during Swift's time period, terms like "Whig" and "Tory" both encompassed a wide array of opinions and factions, and neither term aligns with a modern political party or modern political alignments.<ref name="Fox" />
+
+Also during these years in London, Swift became acquainted with the Vanhomrigh family (Dutch merchants who had settled in Ireland, then moved to London) and became involved with one of the daughters, [[Esther Vanhomrigh|Esther]]. Swift furnished Esther with the nickname "[[Vanessa (name)|Vanessa]]" (derived by adding "Essa", a pet form of Esther, to the "Van" of her surname, Vanhomrigh), and she features as one of the main characters in his poem ''[[Cadenus and Vanessa]]''. The poem and their correspondence suggest that Esther was infatuated with Swift, and that he may have reciprocated her affections, only to regret this and then try to break off the relationship.<ref>Stephen ''DNB'', pp. 215–216</ref> Esther followed Swift to Ireland in 1714, and settled at her old family home, [[Celbridge Abbey]]. Their uneasy relationship continued for some years; then there appears to have been a confrontation, possibly involving Esther Johnson. Esther Vanhomrigh died in 1723 at the age of 35, having destroyed the will she had made in Swift's favour.<ref>Stephen ''DNB'', p. 216</ref> Another lady with whom he had a close but less intense relationship was [[Anne Long]], a toast of the [[Kit-Cat Club]].
+
+====Final years ====
+[[File:Jonathan Swift by Rupert Barber, 1745, National Portrait Gallery, London.JPG|thumb|upright|Jonathan Swift (shown without wig) by Rupert Barber, 1745, National Portrait Gallery, London]]
+Before the fall of the Tory government, Swift hoped that his services would be rewarded with a church appointment in England. However, Queen Anne appeared to have taken a dislike to Swift and thwarted these efforts. Her dislike has been attributed to ''A Tale of a Tub'', which she thought blasphemous, compounded by ''The Windsor Prophecy'', where Swift, with a surprising lack of tact, advised the Queen on which of her bedchamber ladies she should and should not trust.<ref>{{cite book |last=Gregg |first=Edward |title=Queen Anne |publisher=Yale University Press |date=1980 |pages= 352–353}}</ref> The best position his friends could secure for him was the [[Dean of St. Patrick's Cathedral, Dublin|Deanery of St Patrick's]];<ref>"Fasti Ecclesiae Hibernicae: The succession of the prelates Volume 2" [[Henry Cotton (divine)|Cotton, H.]] pp. 104–105: Dublin, Hodges & Smith, 1848–1878</ref> this was not in the Queen's gift, and Anne, who could be a bitter enemy, made it clear that Swift would not have received the preferment if she could have prevented it.<ref>Gregg (1980), p. 353</ref> With the return of the Whigs, Swift's best move was to leave England and he returned to Ireland in disappointment, a virtual exile, to live "like a rat in a hole".<ref>Stephen ''DNB'' p. 215</ref>
+
+[[File:Brass plate listing deans of Saint Patrick's Cathedral.jpg|thumb|right|list of deans of Saint Patrick's Cathedral, including Jonathan Swift]]
+
+Once in Ireland, however, Swift began to turn his pamphleteering skills in support of Irish causes, producing some of his most memorable works: ''Proposal for Universal Use of Irish Manufacture'' (1720), ''[[Drapier's Letters]]'' (1724), and ''A Modest Proposal'' (1729), earning him the status of an Irish patriot.<ref>Stephen ''DNB'' pp. 217–218</ref> This new role was unwelcome to the Government, which made clumsy attempts to silence him. His printer, Edward Waters, was convicted of [[seditious libel]] in 1720, but four years later a [[grand jury]] refused to find that the ''Drapier's Letters'' (which, though written under a pseudonym, were universally known to be Swift's work) were seditious.<ref>Sir [[Walter Scott]]. ''Life of Jonathan Swift'', vol. 1, Edinburgh 1814, pp. 281–282</ref> Swift responded with an attack on the Irish judiciary almost unparalleled in its ferocity, his principal target being the "vile and profligate villain" [[William Whitshed]], [[Lord Chief Justice of Ireland]].<ref>Ball, F. Elrington. ''The Judges in Ireland 1221–1921'', London John Murray 1926, vol. 2 pp. 103–105</ref>
+
+Also during these years, he began writing his masterpiece, ''Travels into Several Remote Nations of the World, in Four Parts, by Lemuel Gulliver, first a surgeon, and then a captain of several ships'', better known as ''[[Gulliver's Travels]]''. Much of the material reflects his political experiences of the preceding decade. For instance, the episode in which the giant Gulliver puts out the Lilliputian palace fire by urinating on it can be seen as a metaphor for the Tories' illegal peace treaty; having done a good thing in an unfortunate manner. In 1726 he paid a long-deferred visit to London,<ref name=LS219>Stephen ''DNB'', p. 219</ref> taking with him the manuscript of ''Gulliver's Travels''. During his visit he stayed with his old friends Alexander Pope, John Arbuthnot and John Gay, who helped him arrange for the anonymous publication of his book. First published in November 1726, it was an immediate hit, with a total of three printings that year and another in early 1727. French, German, and Dutch translations appeared in 1727, and pirated copies were printed in Ireland.
+
+Swift returned to England one more time in 1727, and stayed once again with Alexander Pope. The visit was cut short when Swift received word that Esther Johnson was dying, and rushed back home to be with her.<ref name=LS219 /> On 28 January 1728, Johnson died; Swift had prayed at her bedside, even composing prayers for her comfort. Swift could not bear to be present at the end, but on the night of her death he began to write his ''The Death of Mrs Johnson''. He was too ill to attend the funeral at St Patrick's.<ref name=LS219 /> Many years later, a lock of hair, assumed to be Johnson's, was found in his desk, wrapped in a paper bearing the words, "Only a woman's hair".
+
+===== Death =====
+[[File:St. Patrick's Cathedral Swift bust.jpg|thumb|left|[[Bust (sculpture)|Bust]] in [[St Patrick's Cathedral, Dublin|St Patrick's Cathedral]]]]
+Death became a frequent feature of Swift's life from this point. In 1731 he wrote ''Verses on the Death of Dr. Swift'', his own obituary, published in 1739. In 1732, his good friend and collaborator John Gay died. In 1735, John Arbuthnot, another friend from his days in London, died. In 1738 Swift began to show signs of illness, and in 1742 he may have suffered a stroke, losing the ability to speak and realising his worst fears of becoming mentally disabled. ("I shall be like that tree", he once said, "I shall die at the top.")<ref>Stephen ''DNB'', p. 221</ref> He became increasingly quarrelsome, and long-standing friendships, like that with Thomas Sheridan, ended without sufficient cause. To protect him from unscrupulous hangers on, who had begun to prey on the great man, his closest companions had him declared of "unsound mind and memory". However, it was long believed by many that Swift was actually insane at this point. In his book ''[[Literature and Western Man]]'', author [[J. B. Priestley]] even cites the final chapters of ''Gulliver's Travels'' as proof of Swift's approaching "insanity". Bewley attributes his decline to 'terminal dementia'.<ref name=Bewley />
+
+In part VIII of his series, ''[[The Story of Civilization]]'', [[Will Durant]] describes the final years of Swift's life as such:
+
+<blockquote>"Definite symptoms of madness appeared in 1738. In 1741, guardians were appointed to take care of his affairs and watch lest in his outbursts of violence he should do himself harm. In 1742, he suffered great pain from the inflammation of his left eye, which swelled to the size of an egg; five attendants had to restrain him from tearing out his eye. He went a whole year without uttering a word."<ref>"The Story of Civilization", vol. 8., 362.</ref></blockquote>
+
+In 1744, Alexander Pope died. Then on 19 October 1745, Swift, at nearly 80, died.<ref name=LS222>Stephen ''DNB'', p. 222</ref> After being laid out in public view for the people of Dublin to pay their last respects, he was buried in his own cathedral by Esther Johnson's side, in accordance with his wishes. The bulk of his fortune (£12,000) was left to found a hospital for the mentally ill, originally known as St Patrick's Hospital for Imbeciles, which opened in 1757, and which [[St Patrick's University Hospital|still exists]] as a psychiatric hospital.<ref name=LS222 />
+
+[[File:St. Patrick's Cathedral Swift epitaph.jpg|thumb|[[Epitaph]] in [[St Patrick's Cathedral, Dublin]] near his burial site]]
+:''(Text extracted from the introduction to ''The Journal to Stella'' by George A. Aitken and from other sources).''
+
+Jonathan Swift wrote his own [[epitaph]]:
+{|
+|-
+|<poem>''Hic'' depositum est Corpus
+IONATHAN SWIFT S.T.D.
+Hujus Ecclesiæ Cathedralis Decani,
+
+''Ubi'' sæva Indignatio
+Ulterius
+Cor lacerare nequit.
+Abi Viator
+Et imitare, si poteris,
+Strenuum pro virili
+Libertatis Vindicatorem.
+
+Obiit 19º Die Mensis Octobris
+A.D. 1745 Anno Ætatis 78º.</poem>
+|style="padding-left:2em;"|<poem>''Here'' is laid the Body
+of Jonathan Swift, Doctor of Sacred Theology,
+Dean of this Cathedral Church,
+
+''where'' fierce Indignation
+can no longer
+injure the Heart.
+Go forth, Voyager,
+and copy, if you can,
+this vigorous (to the best of his ability)
+Champion of Liberty.
+
+He died on the 19th Day of the Month of October,
+A.D. 1745, in the 78th Year of his Age.</poem>
+|}
+
+[[W. B. Yeats]] poetically translated it from the Latin as:
+
+: Swift has sailed into his rest;
+: Savage indignation there
+: Cannot lacerate his breast.
+: Imitate him if you dare,
+: World-besotted traveller; he
+: Served human liberty.
+
+==Works==
+Swift was a prolific writer, notable for his satires. The most recent collection of his prose works (Herbert Davis, ed. Basil Blackwell, 1965–) comprises fourteen volumes. A recent edition of his complete poetry (Pat Rodges, ed. Penguin, 1983) is 953 pages long. One edition of his correspondence (David Woolley, ed. P. Lang, 1999) fills three volumes.
+
+===Major prose works===
+{{more citations needed|section|date=October 2017}}<!--only one reference in section-->
+[[File:Jonathan Swift - Project Gutenberg eText 18250.jpg|thumb|upright|left|Jonathan Swift at the [[Deanery]] of St Patrick's, illus. from 1905 Temple Scott edition of ''Works'']]
+
+Swift's first major prose work, ''[[A Tale of a Tub]]'', demonstrates many of the themes and stylistic techniques he would employ in his later work. It is at once wildly playful and funny while being pointed and harshly critical of its targets. In its main thread, the ''Tale'' recounts the exploits of three sons, representing the main threads of Christianity, who receive a bequest from their father of a coat each, with the added instructions to make no alterations whatsoever. However, the sons soon find that their coats have fallen out of current fashion, and begin to look for loopholes in their father's will that will let them make the needed alterations. As each finds his own means of getting around their father's admonition, they struggle with each other for power and dominance. Inserted into this story, in alternating chapters, the narrator includes a series of whimsical "digressions" on various subjects.
+
+In 1690, Sir [[Sir William Temple, 1st Baronet|William Temple]], Swift's patron, published ''An Essay upon Ancient and Modern Learning'' a defence of classical writing (see [[Quarrel of the Ancients and the Moderns]]), holding up the ''Epistles of Phalaris'' as an example. [[William Wotton]] responded to Temple with ''Reflections upon Ancient and Modern Learning'' (1694), showing that the ''Epistles'' were a later forgery. A response by the supporters of the Ancients was then made by [[Charles Boyle, 4th Earl of Orrery|Charles Boyle]] (later the 4th Earl of Orrery and father of Swift's first biographer). A further retort on the Modern side came from [[Richard Bentley]], one of the pre-eminent scholars of the day, in his essay ''Dissertation upon the Epistles of Phalaris'' (1699). The final words on the topic belong to Swift in his ''[[Battle of the Books]]'' (1697, published 1704) in which he makes a humorous defence on behalf of Temple and the cause of the Ancients.
+
+[[File:Swift works.png|thumb|The title page to Swift's 1735 ''Works'', depicting the author in the Dean's chair, receiving the thanks of Ireland. The [[Horace|Horatian]] motto reads, {{Lang|la|Exegi Monumentum Ære perennius}}, "I have completed a monument more lasting than brass." The 'brass' is a pun, for [[William Wood (ironmaster)|William Wood]]'s [[Halfpenny (British pre-decimal coin)|halfpennies]] (alloyed with brass) lie scattered at his feet. [[Cherub]]im award Swift a poet's laurel.]]
+In 1708, a cobbler named [[John Partridge (astrologer)|John Partridge]] published a popular [[almanac]] of [[astrological]] predictions. Because Partridge falsely determined the deaths of several church officials, Swift attacked Partridge in ''Predictions for the Ensuing Year'' by [[Isaac Bickerstaff]], a parody predicting that Partridge would die on 29 March. Swift followed up with a pamphlet issued on 30 March claiming that Partridge had in fact died, which was widely believed despite Partridge's statements to the contrary. According to other sources,{{citation needed|date=June 2008}} [[Richard Steele]] used the persona of Isaac Bickerstaff, and was the one who wrote about the "death" of John Partridge and published it in ''[[The Spectator (1711)|The Spectator]]'', not Jonathan Swift.
+
+The ''Drapier's Letters'' (1724) was a series of pamphlets against the monopoly granted by the English government to [[William Wood (ironmaster)|William Wood]] to mint copper coinage for Ireland. It was widely believed that Wood would need to flood Ireland with debased coinage in order to make a profit. In these "letters" Swift posed as a shop-keeper—a draper—to criticise the plan. Swift's writing was so effective in undermining opinion in the project that a reward was offered by the government to anyone disclosing the true identity of the author. Though hardly a secret (on returning to Dublin after one of his trips to England, Swift was greeted with a banner, "Welcome Home, Drapier") no one turned Swift in, although there was an unsuccessful attempt to prosecute the publisher [[John Harding (printer)|John Harding]].<ref>Elrington Ball. ''The Judges in Ireland'', vol. 2 pp. 103–105</ref> Thanks to the general outcry against the coinage, Wood's patent was rescinded in September 1725 and the coins were kept out of circulation.<ref>{{cite book |first=Sabine |last=Baltes |year=2003 |title=The Pamphlet Controversy about Wood's Halfpence (1722–25) and the Tradition of Irish Constitutional Nationalism |publisher=Peter Lang GmbH |page=273}}</ref> In "Verses on the Death of Dr. Swift" (1739) Swift recalled this as one of his best achievements.
+
+''[[Gulliver's Travels]]'', a large portion of which Swift wrote at Woodbrook House in County Laois, was published in 1726. It is regarded as his masterpiece. As with his other writings, the ''Travels'' was published under a pseudonym, the fictional Lemuel Gulliver, a ship's surgeon and later a sea captain. Some of the correspondence between printer Benj. Motte and Gulliver's also-fictional cousin negotiating the book's publication has survived. Though it has often been mistakenly thought of and published in [[bowdlerised]] form as a children's book, it is a great and sophisticated satire of human nature based on Swift's experience of his times. ''Gulliver's Travels'' is an anatomy of human nature, a sardonic looking-glass, often criticised for its apparent [[misanthropy]]. It asks its readers to refute it, to deny that it has adequately characterised human nature and society. Each of the four books—recounting four voyages to mostly fictional exotic lands—has a different theme, but all are attempts to deflate human pride. Critics hail the work as a satiric reflection on the shortcomings of Enlightenment thought.
+
+In 1729, Swift's ''[[A Modest Proposal|A Modest Proposal for Preventing the Children of Poor People in Ireland Being a Burden on Their Parents or Country, and for Making Them Beneficial to the Publick]]'' was published in Dublin by [[Sarah Harding (printer)|Sarah Harding]].<ref>{{Cite web|url=https://www.irishtimes.com/life-and-style/abroad/irish-v-english-prizefighters-eye-gouging-kicking-and-sword-fighting-1.4133850|title=Irish v English prizefighters: eye-gouging, kicking and sword fighting|last=Traynor|first=Jessica|website=The Irish Times|language=en|access-date=2020-04-12|archive-date=9 January 2020|archive-url=https://web.archive.org/web/20200109223650/https://www.irishtimes.com/life-and-style/abroad/irish-v-english-prizefighters-eye-gouging-kicking-and-sword-fighting-1.4133850|url-status=live}}</ref> It is a satire in which the narrator, with intentionally grotesque arguments, recommends that Ireland's poor escape their poverty by selling their children as food to the rich: "I have been assured by a very knowing American of my acquaintance in London, that a young healthy child well nursed is at a year old a most delicious nourishing and wholesome food&nbsp;..." Following the satirical form, he introduces the reforms he is actually suggesting by deriding them:
+<blockquote>Therefore let no man talk to me of other expedients&nbsp;... taxing our absentees&nbsp;... using [nothing] except what is of our own growth and manufacture&nbsp;... rejecting&nbsp;... foreign luxury&nbsp;... introducing a vein of parsimony, prudence and temperance&nbsp;... learning to love our country&nbsp;... quitting our animosities and factions&nbsp;... teaching landlords to have at least one degree of mercy towards their tenants.&nbsp;... Therefore I repeat, let no man talk to me of these and the like expedients, till he hath at least some glympse of hope, that there will ever be some hearty and sincere attempt to put them into practice.<ref>{{cite book |last1=Swift |first1=Jonathan |title=A Modest Proposal |date=2015 |publisher=Penguin |location=London |isbn=978-0141398181 |page=29}}</ref>
+</blockquote>
+
+===Essays, tracts, pamphlets, periodicals===
+* "A Meditation upon a Broom-stick" (1703–10): Full text: [http://www.gutenberg.org/files/16126/16126-h/16126-h.htm#xxviii Project Gutenberg]
+* "A Tritical Essay upon the Faculties of the Mind" (1707–11): Full text: [http://jonathanswiftarchive.org.uk/browse/year/text_4_2_2.html Jonathan Swift Archives, King's College London]<ref>This work is often wrongly referred to as "A Critical Essay upon the Faculties of the Mind".</ref>
+* The Bickerstaff-Partridge Papers (1708–09): Full text: [https://web.archive.org/web/20080118185815/http://etext.library.adelaide.edu.au/s/swift/jonathan/s97b/ U of Adelaide]
+* "[[An Argument Against Abolishing Christianity]]" (1708–11): Full text: [https://ebooks.adelaide.edu.au/s/swift/jonathan/s97ab/ U of Adelaide]
+* ''The Intelligencer'' (with [[Thomas Sheridan (actor)|Thomas Sheridan]] (1719–1788)): Text: [https://www.gutenberg.org/ebooks/13169 Project Gutenberg]
+* ''The Examiner'' (1710): Texts: [https://web.archive.org/web/20060104231332/http://www.ourcivilisation.com/smartboard/shop/swift/examiner/index.htm Ourcivilisation.com], [https://www.gutenberg.org/ebooks/13169 Project Gutenberg]
+* "A Proposal for Correcting, Improving and Ascertaining the English Tongue" (1712): Full texts: [https://web.archive.org/web/20051102043902/http://andromeda.rutgers.edu/~jlynch/Texts/proposal.html Jack Lynch], [http://etext.lib.virginia.edu/etcbin/ot2www-pubeng?specfile=/texts/english/modeng/publicsearch/modengpub.o2w&act=text&offset=607794346&textreg=3&query=&id= U of Virginia]
+* "On the Conduct of the Allies" (1711)
+* "Hints Toward an Essay on Conversation" (1713): Full text: [http://www.bartleby.com/27/8.html Bartleby.com]
+* "A Letter to a Young Gentleman, Lately Entered into Holy Orders" (1720)
+* "A Letter of Advice to a Young Poet" (1721): Full text: [http://www.bartleby.com/27/10.html Bartleby.com]
+* ''[[Drapier's Letters]]'' (1724, 1725): Full text: [https://www.gutenberg.org/ebooks/12784 Project Gutenberg]
+* "Bon Mots de Stella" (1726): a curiously irrelevant appendix to "Gulliver's Travels"
+* "[[A Modest Proposal]]", perhaps the most notable satire in English, suggesting that the Irish should engage in cannibalism. (Written in 1729)
+* "An Essay on the Fates of Clergymen"
+* "A Treatise on Good Manners and Good Breeding": Full text: [http://www.bartleby.com/27/9.html Bartleby.com]
+* "A modest address to the wicked authors of the present age. Particularly the authors of Christianity not founded on argument; and of The resurrection of Jesus considered" (1743–45?)
+
+===Poems===
+[[File:International Mag Jonathan Swift.jpg|thumb|An 1850 illustration of Swift]]
+* "Ode to the Athenian Society", Swift's first publication, printed in [[The Athenian Mercury]] in the [https://books.google.com/books?id=JCwUAAAAQAAJ&printsec=frontcover&dq=%22Athenian+Oracle%22#PPA112,M1 supplement of Feb 14, 1691.]
+* Poems of Jonathan Swift, D.D. Texts at Project Gutenberg: [https://www.gutenberg.org/ebooks/14353 Volume One], [https://www.gutenberg.org/ebooks/13621 Volume Two]
+* "Baucis and Philemon" (1706–09): Full text: [https://archive.today/20130129103857/http://www.munseys.com/diskone/baucphildex.htm Munseys]
+* "A Description of the Morning" (1709): Full annotated text: [https://web.archive.org/web/20080118112716/http://rpo.library.utoronto.ca/poem/2062.html U of Toronto]; Another text: [http://etext.lib.virginia.edu/etcbin/ot2www-pubeng?specfile=/texts/english/modeng/publicsearch/modengpub.o2w&act=text&offset=607746679&textreg=3&query=&id= U of Virginia]
+* "A Description of a City Shower" (1710): Full text: [http://etext.lib.virginia.edu/etcbin/ot2www-pubeng?specfile=/texts/english/modeng/publicsearch/modengpub.o2w&act=text&offset=607759837&textreg=3&query=&id= U of Virginia]
+* "[[Cadenus and Vanessa]]" (1713): Full text: [https://archive.today/20130129110551/http://www.munseys.com/diskone/cadvanedex.htm Munseys]
+* "Phillis, or, the Progress of Love" (1719): Full text: [http://www.theotherpages.org/poems/swift01.html theotherpages.org]
+* Stella's birthday poems:
+** 1719. Full annotated text: [https://web.archive.org/web/20080118112721/http://rpo.library.utoronto.ca/poem/2065.html U of Toronto]
+** 1720. Full text: [http://etext.lib.virginia.edu/etcbin/ot2www-pubeng?specfile=/texts/english/modeng/publicsearch/modengpub.o2w&act=text&offset=607768675&textreg=3&query=&id= U of Virginia]
+** 1727. Full text: [https://web.archive.org/web/20080118112726/http://rpo.library.utoronto.ca/poem/2066.html U of Toronto]
+* "The Progress of Beauty" (1719–20): Full text: [https://web.archive.org/web/20071229103503/http://www.ourcivilisation.com/smartboard/shop/swift/verse/chap2.htm OurCivilisation.com]
+* "The Progress of Poetry" (1720): Full text: [http://www.theotherpages.org/poems/swift01.html theotherpages.org]
+* "A Satirical Elegy on the Death of a Late Famous General" (1722): Full text: [https://web.archive.org/web/20090421133852/http://rpo.library.utoronto.ca/poem/2064.html U of Toronto]
+* "To Quilca, a Country House not in Good Repair" (1725): Full text: [https://web.archive.org/web/20090421205103/http://rpo.library.utoronto.ca/poem/2063.html U of Toronto]
+* "Advice to the Grub Street Verse-writers" (1726): Full text: [https://web.archive.org/web/20090130022050/http://rpo.library.utoronto.ca/poem/2060.html U of Toronto]
+* "The Furniture of a Woman's Mind" (1727)
+* "On a Very Old Glass" (1728): Full text: [https://web.archive.org/web/20060107163832/http://www.gosford.co.uk/swift.html#glass Gosford.co.uk]
+* "A Pastoral Dialogue" (1729): Full text: [https://web.archive.org/web/20060107163832/http://www.gosford.co.uk/swift.html#pastoral Gosford.co.uk]
+* "The Grand Question debated Whether Hamilton's Bawn should be turned into a Barrack or a Malt House" (1729): Full text: [https://web.archive.org/web/20060107163832/http://www.gosford.co.uk/swift.html#bawn Gosford.co.uk]
+* "On Stephen Duck, the Thresher and Favourite Poet" (1730): Full text: [https://web.archive.org/web/20090421110050/http://rpo.library.utoronto.ca/poem/2067.html U of Toronto]
+* "Death and Daphne" (1730): Full text: [https://web.archive.org/web/20071229045103/http://www.ourcivilisation.com/smartboard/shop/swift/verse/chap3.htm OurCivilisation.com]
+* "The Place of the Damn'd" (1731): {{webarchive |url=https://web.archive.org/web/20091027145356/http://www.geocities.com/soho/nook/7255/damned.html |date=27 October 2009 |title=Full text }}
+* "A Beautiful Young Nymph Going to Bed" (1731): Full annotated text: [https://web.archive.org/web/20051224040216/http://andromeda.rutgers.edu/~jlynch/Texts/nymphbed.html Jack Lynch]; Another text: [http://etext.lib.virginia.edu/etcbin/ot2www-pubeng?specfile=/texts/english/modeng/publicsearch/modengpub.o2w&act=text&offset=607752257&textreg=3&query=&id= U of Virginia]
+* "Strephon and Chloe" (1731): Full annotated text: [https://web.archive.org/web/20060105205156/http://andromeda.rutgers.edu/~jlynch/Texts/strephon.html Jack Lynch]; Another text: [http://etext.lib.virginia.edu/etcbin/ot2www-pubeng?specfile=/texts/english/modeng/publicsearch/modengpub.o2w&act=text&offset=607775280&textreg=3&query=&id= U of Virginia]
+* "Helter Skelter" (1731): Full text: [https://web.archive.org/web/20060104003409/http://www.ourcivilisation.com/smartboard/shop/swift/verse/chap5.htm OurCivilisation.com]
+* "Cassinus and Peter: A Tragical Elegy" (1731): Full annotated text: [https://web.archive.org/web/20060219033309/http://andromeda.rutgers.edu/~jlynch/Texts/cassinus.html Jack Lynch]
+* "The Day of Judgment" (1731): [https://web.archive.org/web/20000124060044/http://www.geocities.com/SoHo/Nook/7255/judgement.html Full text]
+* "Verses on the Death of Dr. Swift, D.S.P.D." (1731–32): Full annotated texts: [https://web.archive.org/web/20060105202407/http://andromeda.rutgers.edu/~jlynch/Texts/verses.html Jack Lynch], [https://web.archive.org/web/20081211004921/http://rpo.library.utoronto.ca/poem/2068.html U of Toronto]; Non-annotated text:: [http://etext.lib.virginia.edu/etcbin/ot2www-pubeng?specfile=/texts/english/modeng/publicsearch/modengpub.o2w&act=text&offset=607701505&textreg=3&query=&id= U of Virginia]
+* "An Epistle to a Lady" (1732): Full text: [https://web.archive.org/web/20060104003603/http://www.ourcivilisation.com/smartboard/shop/swift/verse/chap7.htm OurCivilisation.com]
+* "The Beasts' Confession to the Priest" (1732): Full annotated text: [https://web.archive.org/web/20090421133847/http://rpo.library.utoronto.ca/poem/2061.html U of Toronto]
+* "[[The Lady's Dressing Room]]" (1732): Full annotated text: [https://web.archive.org/web/20051231075844/http://andromeda.rutgers.edu/~jlynch/Texts/dressing.html Jack Lynch]
+* "On Poetry: A Rhapsody" (1733)
+* "The Puppet Show" Full text: [http://www.worldwideschool.org/library/books/lit/shortstories/thebattleofthebooksandothershortpieces/chap7.html Worldwideschool.org]
+* "The Logicians Refuted" Full text: [http://www.worldwideschool.org/library/books/lit/shortstories/thebattleofthebooksandothershortpieces/chap6.html Worldwideschool.org]
+
+===Correspondence, personal writings===
+* "When I Come to Be Old" – Swift's resolutions. (1699): Full text: [http://www.jaffebros.com/lee/gulliver/other_swift/when.html JaffeBros]
+* ''[[A Journal to Stella]]'' (1710–13): Full text (presented as daily entries): [https://web.archive.org/web/20080923224010/http://www.swiftiana.com/stella/ The Journal to Stella]; Extracts: [https://web.archive.org/web/20060104214009/http://www.ourcivilisation.com/smartboard/shop/swift/stella/index.htm OurCivilisation.com];
+* Letters:
+** Selected Letters: [http://www.jaffebros.com/lee/gulliver/letters/index.html JaffeBros]
+** To Oxford and Pope: [https://web.archive.org/web/20060104231243/http://www.ourcivilisation.com/smartboard/shop/swift/letters/index.htm OurCivilisation.com]
+* ''The Correspondence of Jonathan Swift, D.D''. Edited by David Woolley. In four volumes, plus index volume. Frankfurt am Main; New York : P. Lang, c. 1999–c. 2007.
+
+===Sermons, prayers===
+* Three Sermons and Three Prayers. Full text: [https://web.archive.org/web/20060213024207/http://isis.library.adelaide.edu.au/pg/etext03/trsm10h.htm U of Adelaide], [https://www.gutenberg.org/ebooks/9276 Project Gutenberg]
+* Three Sermons: I. on mutual subjection. II. on conscience. III. on the trinity. Text: [https://www.gutenberg.org/ebooks/4738 Project Gutenberg]
+* Writings on Religion and the Church. Text at Project Gutenberg: [https://www.gutenberg.org/ebooks/12252 Volume One], [https://www.gutenberg.org/ebooks/12746 Volume Two]
+* "The First He Wrote Oct. 17, 1727." Full text: [http://www.worldwideschool.org/library/books/lit/shortstories/thebattleofthebooksandothershortpieces/chap11.html Worldwideschool.org]
+* "The Second Prayer Was Written Nov. 6, 1727." Full text: [http://www.worldwideschool.org/library/books/lit/shortstories/thebattleofthebooksandothershortpieces/chap12.html Worldwideschool.org]
+
+===Miscellany===
+* ''[[Directions to Servants]]'' (1731): Full text: [http://jonathanswiftarchive.org.uk/browse/year/text_4_18_4.html?page=d2e58 Jonathon Swift Archive]
+* ''[[A Complete Collection of Genteel and Ingenious Conversation]]'' (1738)
+* "Thoughts on Various Subjects." Full text: [http://etext.library.adelaide.edu.au/s/swift/jonathan/s97th/ U of Adelaide]
+* Historical Writings: [https://www.gutenberg.org/ebooks/13040 Project Gutenberg]
+* Swift quotes at Bartleby: [http://www.bartleby.com/100/211.html Bartleby.com] – 59 quotations, with notes
+
+==Legacy==
+[[File:Swiftdeathmask.jpg|thumb|upright|Swift's [[death mask]]]] [[John Ruskin]] named him as one of the three people in history who were the most influential for him.<ref>In the preface of the 1871 edition of ''Sesame and Lilies'' Ruskin mentions three figures from literary history with whom he feels an affinity: [[Guido Guinicelli]], [[Jean-François Marmontel|Marmontel]] and Dean Swift; see John Ruskin, [https://books.google.com/books?id=aCUVAAAAYAAJ&dq= ''Sesame and lilies: three lectures''] {{Webarchive|url=https://web.archive.org/web/20160611024316/https://books.google.com/books?id=aCUVAAAAYAAJ&dq= |date=11 June 2016 }}, Smith, Elder, & Co., 1871, p. xxviii.</ref>
+
+[[George Orwell]] named him as one of the writers he most admired, despite disagreeing with him on almost every moral and political issue.<ref>"Politics vs. Literature: an examination of Gulliver's Travels" ''[[Shooting an Elephant]] and other Essays'' Secker and Warburg London 1950</ref> [[Modernist poetry|Modernist poet]] [[Edith Sitwell]] wrote a fictional biography of Swift, titled ''[[I Live Under a Black Sun]]'' and published in 1937.<ref name="Griffin2003">{{cite book|author=Gabriele Griffin|title=Who's Who in Lesbian and Gay Writing|url=https://books.google.com/books?id=NPqFAgAAQBAJ&pg=PA244|year=2003|publisher=Routledge|isbn=978-1134722099|page=244|access-date=19 May 2016|archive-date=15 February 2017|archive-url=https://web.archive.org/web/20170215074310/https://books.google.com/books?id=NPqFAgAAQBAJ&pg=PA244|url-status=live}}</ref>
+
+[[Swift (Deimian crater)|Swift crater]], a [[impact crater|crater]] on [[Mars]]'s [[Natural satellite|moon]] [[Deimos (moon)|Deimos]], is named after Jonathan Swift, who predicted the existence of the [[moons of Mars]].<ref>[http://www.mathpages.com/home/kmath151/kmath151.htm MathPages – Galileo's Anagrams and the Moons of Mars] {{Webarchive|url=https://web.archive.org/web/20180612142432/http://www.mathpages.com/home/kmath151/kmath151.htm |date=12 June 2018 }}.</ref>
+
+In 1982, Soviet playwright [[Grigory Gorin]] wrote a theatrical fantasy called ''The House That Swift Built'' based on the last years of Jonathan Swift's life and episodes of his works.<ref>{{cite web |author1=Justin Hayford |title=The House That Swift Built |url=https://www.chicagoreader.com/chicago/the-house-that-swift-built/Content?oid=920998 |website=Performing Arts Review |publisher=Chicago Reader |access-date=9 February 2020 |archive-url=https://web.archive.org/web/20200209215620/https://www.chicagoreader.com/chicago/the-house-that-swift-built/Content?oid=920998 |archive-date=9 February 2020 |language=en |date=January 12, 2006}}</ref> The play was filmed by director [[Mark Zakharov]] in [[The House That Swift Built|the 1984 two-part television movie of the same name]].
+
+In honour of Swift's long-time residence in [[Trim, County Meath|Trim]], there are several monuments in the town marking his legacy. Most notable is Swift's Street, named after him. Trim also holds a recurring festival in honour of Swift, called the 'Trim Swift Festival'.
+
+[[Jake Arnott]] features him in his 2017 novel ''The Fatal Tree''.<ref>{{Cite book|title=The Fatal Tree|last=Arnott|first=Jake|publisher=Sceptre|year=2017|isbn=978-1473637740}}</ref>
+
+A 2017 analysis of library holdings data revealed that Swift is the most popular Irish author, and that ''Gulliver’s Travels'' is the most widely held work of Irish literature in libraries globally.<ref>{{Cite news|url=https://www.irishtimes.com/culture/books/what-is-the-most-popular-irish-book-1.3136544|title=What is the most popular Irish book?|work=The Irish Times|access-date=2017-12-01|language=en-US|archive-date=2 December 2017|archive-url=https://web.archive.org/web/20171202052535/https://www.irishtimes.com/culture/books/what-is-the-most-popular-irish-book-1.3136544|url-status=live}}</ref>
+
+==See also==
+{{Portal|Poetry}}
+* ''[[Poor Richard's Almanack#Poor Richard|Poor Richard's Almanack]]''
+* [[Sweetness and light]]
+
+==Notes==
+{{Reflist|20em}}
+
+==References==
+{{Refbegin|30em}}
+* {{cite book|last1=Damrosch|first1=Leo |author-link=Leo Damrosch |title=Jonathan Swift : His Life and His World|date=2013|publisher=Yale University Press|location=New Haven|isbn=978-0300164992}}. Includes almost 100 illustrations.
+* {{cite book|last1=Delany|first1=Patrick|author-link1=Patrick Delany, D.D.|title=Observations Upon Lord Orrery's Remarks on the Life and Writings of Dr. Jonathan Swift|date=1754|publisher=W. Reeve|location=London|ol=25612897M}}
+* {{cite book|editor1-last=Fox|editor1-first=Christopher|title=The Cambridge Companion to Jonathan Swift|date=2003|publisher=Cambridge University Press|location=Cambridge|isbn=978-0521002837 }}
+* {{cite book|last1=Ehrenpreis|first1=Irvin|title=The Personality of Jonathan Swift|date=1958|publisher=Methuen|location=London|isbn=978-0416603101}}.
+**  {{cite book|last1=Ehrenpreis|first1=Irvin|author-mask=1 |title=Swift: The Man, His Works, and the Age |volume=I: Mr. Swift and his Contemporaries |date=1962 |publisher=Harvard University Press |location=Cambridge, MA |isbn=0674858301}}
+**  {{cite book|last1=Ehrenpreis|first1=Irvin|author-mask=1 |title=Swift: The Man, His Works, and the Age |volume=II: Dr. Swift |date=1967 |publisher=Harvard University Press |location=Cambridge, MA |isbn=0674858328}}
+**  {{cite book|last1=Ehrenpreis|first1=Irvin|author-mask=1 |title=Swift: The Man, His Works, and the Age |volume=III: Dean Swift |date=1983 |publisher=Harvard University Press |location=Cambridge, MA |isbn=0674858352}}
+* {{cite book|last1=Nokes|first1=David|author-link1=David Nokes|title=Jonathan Swift, a Hypocrite Reversed: A Critical Biography|date=1985|publisher=Oxford University Press|location=Oxford|isbn=978-0198128342|url-access=registration|url=https://archive.org/details/jonathanswifthyp0000noke}}
+* {{cite book|last1=Orrery|first1=John Boyle, Earl of|author-link1=John Boyle, 5th Earl of Cork|title=Remarks on the Life and Writings of Dr. Jonathan Swift|date=1752|orig-year=1751|edition=third, corrected|publisher=Printed for A. Millar|location=London|ol=25612886M}}
+* {{cite book|last1=Stephen|first1=Leslie|author-link1=Leslie Stephen|title=Swift |series=English Men of Letters|date=1882|publisher=Harper & Brothers|location=New York |ol=15812247W}} Noted biographer succinctly critiques (pp. v–vii) biographical works by Lord Orrery, Patrick Delany, Deane Swift, John Hawkesworth, Samuel Johnson, Thomas Sheridan, Walter Scott, William Monck Mason, John Forester, John Barrett, and W.R. Wilde.
+* {{cite book|last1=Stephen|first1=Leslie|editor1-last=Smith|editor1-first=George|title=[[Dictionary of National Biography]]|date=1898|publisher=Smith, Elder, & Co.|location=London|volume=55:Stow – Taylor|pages=204–227|chapter=Jonathan Swift|chapter-url=https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Swift,_Jonathan|ol=7215056M|access-date=31 December 2020|archive-date=24 November 2020|archive-url=https://web.archive.org/web/20201124154913/https://en.wikisource.org/wiki/Dictionary_of_National_Biography,_1885-1900/Swift,_Jonathan|url-status=live}}
+* {{cite book|last1=Wilde|first1=W. R.|title=The Closing Years of Dean Swift's Life|date=1849|publisher=Hodges and Smith|location=Dublin |ol=23288983M}}
+* [[Samuel Johnson]]'s "Life of Swift": [http://www.jaffebros.com/lee/gulliver/biography/johnslife.html JaffeBros] {{Webarchive|url=https://web.archive.org/web/20051107220537/http://www.jaffebros.com/lee/gulliver/biography/johnslife.html |date=7 November 2005 }}. From his ''Lives of the Poets''.
+* [[William Makepeace Thackeray]]'s influential vitriolic biography: [http://www.jaffebros.com/lee/gulliver/biography/thackeray.html JaffeBros] {{Webarchive|url=https://web.archive.org/web/20051107220601/http://www.jaffebros.com/lee/gulliver/biography/thackeray.html |date=7 November 2005 }}. From his ''English Humourists of The Eighteenth Century''.
+* Sir [[Walter Scott]] [https://archive.org/details/memoirsjonathan00scotgoog Memoirs of Jonathan Swift, D.D., Dean of St. Patrick's, Dublin]{{Open access}}. Paris: A. and W. Galignani, 1826.
+* {{cite book |last1=Whibley |first1=Charles |author-link1=Charles Whibley |title=[[s:Jonathan Swift|Jonathan Swift]]: the Leslie Stephen lecture delivered before the University of Cambridge on 26 May 1917 |date=1917 |publisher=Cambridge University Press |location=Cambridge |language=en}}
+{{Refend}}
+
+==External links==
+{{Sister project links|Jonathan Swift|s=Author:Jonathan Swift|wikt=no|b=no|n=no|v=no|voy=no}}
+{{Library resources box}}
+* [http://www.eighteenthcenturypoetry.org/authors/pers00148.shtml Jonathan Swift] at the [http://www.eighteenthcenturypoetry.org/ Eighteenth-Century Poetry Archive (ECPA)]
+* {{Cite EB1911|wstitle=Swift, Jonathan}}
+* [http://www.bbc.co.uk/programmes/b00h3650 BBC audio file] "Swift's ''A modest Proposal''". BBC discussion. ''In our time''.
+* {{curlie|Arts/Literature/Authors/S/Swift,_Jonathan}}
+* [http://www.npg.org.uk/collections/search/person.php?LinkID=mp04388 Jonathan Swift] at the [[National Portrait Gallery, London]]
+* [http://www.nationalarchives.gov.uk/nra/searches/subjectView.asp?ID=P27782 Swift, Jonathan (1667–1745) Dean of St Patrick's Dublin Satirist] at the [[National Register of Archives]]
+
+'''Online works'''
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/jonathan-swift}}
+* {{Gutenberg author |id=Swift,+Jonathan | name=Jonathan Swift}}
+* {{Internet Archive author |sname=Jonathan Swift}}
+* {{Librivox author |id=1038}}
+* {{OL author}}
+* [http://onlinebooks.library.upenn.edu/webbin/book/search?amode=start&author=Swift%2c%20Jonathan Works by Jonathan Swift] at The Online Books Page
+
+{{Jonathan Swift|state=expanded}}
+{{Gulliver's Travels}}
+{{Irish poetry}}
+{{Authority control}}
+
+{{DEFAULTSORT:Swift, Jonathan}}
+[[Category:Jonathan Swift| ]]
+[[Category:1667 births]]
+[[Category:1745 deaths]]
+[[Category:18th-century Anglo-Irish people]]
+[[Category:18th-century English novelists]]
+[[Category:18th-century Irish Anglican priests]]
+[[Category:18th-century Irish novelists]]
+[[Category:18th-century Irish writers]]
+[[Category:18th-century Irish male writers]]
+[[Category:Alumni of Hart Hall, Oxford]]
+[[Category:Alumni of Trinity College Dublin]]
+[[Category:Anglo-Irish artists]]
+[[Category:British male poets]]
+[[Category:Burials at St Patrick's Cathedral, Dublin]]
+[[Category:Christian writers]]
+[[Category:Deans of St. Patrick's Cathedral, Dublin]]
+[[Category:Doctors of Divinity]]
+[[Category:English Anglicans]]
+[[Category:English fantasy writers]]
+[[Category:English male novelists]]
+[[Category:English male poets]]
+[[Category:English male short story writers]]
+[[Category:English pamphleteers]]
+[[Category:English political writers]]
+[[Category:English satirists]]
+[[Category:English short story writers]]
+[[Category:Irish fantasy writers]]
+[[Category:Irish male poets]]
+[[Category:Irish poets]]
+[[Category:Irish political writers]]
+[[Category:Irish satirists]]
+[[Category:Irish science fiction writers]]
+[[Category:Neoclassical writers]]
+[[Category:People educated at Kilkenny College]]
+[[Category:People from County Dublin]]
+[[Category:18th-century pseudonymous writers]]

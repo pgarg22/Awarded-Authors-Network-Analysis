@@ -1,0 +1,147 @@
+{{for multi|the metro station|Antonio Machado (Madrid Metro)|the Portuguese politician|António Ginestal Machado|the Brazilian Olympic fencer|Antônio Machado}}
+{{short description|Spanish poet}}
+{{family name hatnote|Machado|Ruiz|lang=Spanish}}
+{{ infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] --> 
+| name          = Antonio Machado
+| image         =AntonioMachado.JPG
+| alt           = 
+| caption       = 
+| pseudonym     = 
+| birth_name     = Antonio Cipriano José María y Francisco de Santa Ana Machado y Ruiz
+| birth_date     = {{Birth date|1875|7|26|df=yes}}
+| birth_place    = [[Seville]], Spain
+| death_date     = {{Death date and age|1939|2|22|1875|7|26|df=yes}}
+| death_place    = [[Collioure]], France
+| resting_place = 
+| occupation    = Poet<br/>Professor of French
+| language      = Spanish
+| citizenship   = 
+| education     =
+| alma_mater    = 
+| period        = 
+| genre         = Poetry
+| subject       = 
+| movement      = 
+| notableworks  = Soledades, Campos de Castilla
+| spouse        = {{married|[[Leonor Izquierdo]]|1909|1912|end=d.}}
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| website       = 
+| portaldisp    = 
+}}
+
+'''Antonio Cipriano José María y Francisco de Santa Ana Machado y Ruiz''' (26 July 1875 &ndash; 22 February 1939), known as '''Antonio Machado''', was a Spanish poet and one of the leading figures of the Spanish literary movement known as the [[Generation of '98]]. His work, initially modernist, evolved towards an intimate form of symbolism with romantic traits. He gradually developed a style characterised by both an engagement with humanity on one side and an almost [[Taoism|Taoist]] contemplation of existence on the other, a synthesis that according to Machado echoed the most ancient popular wisdom. In [[Gerardo Diego|Gerardo Diego's]] words, Machado "spoke in verse and lived in poetry."<ref>Diego, Gerardo. ''«Tempo» lento en Antonio Machado''. Madrid: Ediciones Taurus. 1973. p=272</ref>
+
+==Biography==
+Machado was born in [[Seville]], [[Spain]], one year after his brother [[Manuel Machado (poet)|Manuel]]. The family moved to [[Madrid]] in 1883 and both brothers enrolled in the [[Institución Libre de Enseñanza]]. During these years—with the encouragement of his teachers—Antonio discovered his passion for literature. While completing his ''[[Bachelor's degree|Bachillerato]]'' in Madrid, economic difficulties forced him to take several jobs including working as an actor. In 1899, he and his brother traveled to [[Paris]] to work as translators for a French publisher. During these months in Paris, he came into contact with the great French [[Symbolist]] poets [[Jean Moréas]], [[Paul Fort]] and [[Paul Verlaine]], and also with other contemporary literary figures, including [[Rubén Darío]] and [[Oscar Wilde]]. These encounters cemented Machado's decision to dedicate himself to poetry.
+
+[[File:Estatua de Machado de Antonio Pérez Almahan (2009). 01.jpg|thumb|Statue of Antonio Machado on Calle San Pablo in [[Baeza, Spain|Baeza]], [[Province of Jaén (Spain)|Jaén]].]]
+[[Image:2015-08-09-12h15 jmt-myc collioure-tumba-machado-con-libro-marc-y-carmen 842x1122px-300ppi-PRINT-h95mm-1.2Mb.jpg|thumb|Machado's grave at Collioure cemetery]]
+In 1901, he had his first poems published in the literary journal 'Electra'. His first book of poetry was published in 1903, titled ''Soledades''. Over the next few years, he gradually amended the collection, removing some and adding many more. In 1907, the definitive collection was published with the title ''Soledades'' and ''Galerías. Otros Poemas''. In the same year, Machado was offered the job of Professor of French at the school in [[Soria]]. Here, he met [[Leonor Izquierdo]], daughter of the owners of the boarding house Machado was staying in. They were married in 1909, he was 34 and Leonor was 15. Early in 1911, the couple went to live in Paris where Machado read more [[French literature]] and studied philosophy. In the summer however, Leonor was diagnosed with advanced [[tuberculosis]] and they returned to Spain. On 1 August 1912, Leonor died, just a few weeks after the publication of ''Campos de Castilla''. Machado was devastated and left Soria, the city that had inspired the poetry of ''Campos'', never to return. He went to live in [[Baeza, Spain|Baeza]], [[Andalucia]], where he stayed until 1919. Here, he wrote a series of poems dealing with the death of Leonor which were added to a new (and now definitive) edition of ''Campos de Castilla'' published in 1916 along with the first edition of ''Nuevas canciones''. While his earlier poems are in an ornate, Modernist style, with the publication of "Campos de Castilla" he showed an evolution toward greater simplicity, a characteristic that was to distinguish his poetry from then on.
+
+Between 1919 and 1931, Machado was Professor of French at the [[I.E.S. Mariano Quintanilla, Segovia|Instituto de Segovia]], in [[Segovia]]. He moved there to be nearer to Madrid, where Manuel lived. The brothers would meet at weekends to work together on a number of plays, the performances of which earned them great popularity. It was here also that Antonio had a secret affair with [[Pilar de Valderrama]], a married woman with three children, to whom he would refer in his work by the name ''Guiomar''. In 1932, he was given the post of professor at the "[[Instituto Calderón de la Barca]]" in [[Madrid]].
+
+When the [[Spanish Civil War]] broke out in July 1936, Machado was in Madrid. The war was to separate him forever from his brother Manuel who was trapped in the Nationalist (Francoist) zone, and from Valderrama who was in [[Portugal]]. Machado was evacuated with his elderly mother and uncle to [[Valencia (city in Spain)|Valencia]], and then to [[Barcelona]] in 1938. Finally, as Franco closed in on the last [[Second Spanish Republic|Republican]] strongholds, they were obliged to move across the [[France|French]] border to [[Collioure]]. It was here, on 22 February 1939, that Antonio Machado died, just three days before his mother. In his pocket was found his last poem, ''Estos días azules y este sol de infancia''. Machado is buried in Collioure where he died; Leonor is buried in Soria.
+
+On his way to Collioure in December 1938, he wrote "For the strategists, for the politicians, for the historians, all this will be clear: we lost the war. But at a human level I am not so sure: perhaps we won''."''<ref>{{Cite web|url=https://www.jacobinmag.com/2019/04/spain-civil-war-franco-nationalist-fascism|title = No Beauty in Defeat}}</ref>
+
+He turned away from the hermetic esthetic principles of post-symbolism and cultivated the dynamic openness of [[social realism]]. Like such French æsthetes as Verlaine, Machado began with a [[fin de siècle]] contemplation of his sensory world, portraying it through memory and the impressions of his private consciousness. And like his socially conscious colleagues of the Generation of 1898, he emerged from his solitude to contemplate Spain's historical landscape with a sympathetic yet unindulgent eye. His poetic work begins with the publication of ''Soledades'' in 1903. In this short volume, many personal links which will characterize his later work are noticeable. In ''Soledades, Galerías. Otros poemas'', published in 1907, his voice becomes his own and influences 20th Century poets [[Octavio Paz]], [[Derek Walcott]], and [[Giannina Braschi]] who writes about Machado's impact in her Spanglish classic ''[[Yo-Yo Boing!]]''.<ref>{{cite book|last=Braschi|first=Giannina|title=Yo-Yo Boing!|url=https://www.amazon.com/gp/product/B004Y6ZC2M/ref=pd_lpo_k2_dp_sr_2?pf_rd_p=1535523722&pf_rd_s=lpo-top-stripe-1&pf_rd_t=201&pf_rd_i=1611090636&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=14FD0KT86GAR34P2WSMP|access-date=April 20, 2013|year=1998|publisher=AmazonCrossing|location=Seattle|isbn=161109089X|page=187}}</ref> The most typical feature of his personality is the antipathetic, softly sorrowful tone that can be felt even when he describes real things or common themes of the time, for example abandoned gardens, old parks or fountains: places which he approaches via memory or dreams.
+
+After Machado's experience with the introspective poetry of his first period, he withdrew from the spectacle of his conflictive personality and undertook to witness the general battle of the "two Spains", each one struggling to gain the ascendancy. In 1912, he published "Campos de Castilla", a collection of poems lyricising the beauty of the Castilian countryside. Just as the poet's own personality revealed mutually destructive elements in the earlier ''Galerías'' and ''Soledades,'' so too did the [[Cain and Abel|Cain-Abel Bible story]], interpreted in "La Tierra de Alvargonzález", later attest to the factions in Spain that shredded one another and the national fabric in an effort to restore unity. At the same time, other poems projected Castilian archetypes that evoked emotions like pathos ("La mujer manchega", "The [[La Mancha|Manchegan]] Woman"), revulsion ("Un criminal"), and stark rapture ("Campos de Soria").
+
+{{Quote box |width=400px |align=left |quoted=true |bgcolor=#FFFFF0 |salign=right
+ |quote  =
+{{col-begin}}
+{{col-break|width=50%}}
+<poem>
+Caminante, son tus huellas
+el camino y nada más;
+caminante, no hay camino,
+se hace camino al andar.
+Al andar se hace camino,
+y al volver la vista atrás
+se ve la senda que nunca
+se ha de volver a pisar.
+Caminante, no hay camino,
+sino estelas en la mar.
+</poem>
+{{col-break|width=50%}}
+<poem>
+Wayfarer, only your footprints
+are the path, and nothing more;
+wayfarer, there is no path,
+you make the path as you walk.
+As you walk you make the path,
+and as you turn to glance behind
+you see the trail that you never
+shall return to tread again.
+Wayfarer, there is no path,
+only wake trails on the sea.
+</poem>
+{{col-end}}
+|source =  from "Proverbios y cantares" in ''Campos de Castilla,'' 1912}}
+
+In 1917, various poems were added to "Campos", including a group of poems written in [[Baeza, Spain|Baeza]] about the death of his young wife, a series of short reflective poems, often resembling popular songs or sayings, called "Proverbios y Cantares", and a series of "Elogios", dedicated to people such as [[Rubén Dario]] or [[Federico García Lorca]] who had been influential in his life.
+
+Machado's later poems are a virtual anthropology of Spain's common people, describing their collective psychology, social mores, and historical destiny. He achieves this panorama through basic myths and recurrent, eternal patterns of group behavior. He developed these archetypes in ''Campos de Castilla'' ("Castilian Fields") in such key poems as "La tierra de Alvargonzález", and "Por tierras de España", which are based on Biblical inheritance stories. The metaphors of this second period use geographical and topographical allusions that frame powerful judgments about socio-economic and moral conditions on the Peninsula.
+
+His next book, "Nuevas canciones" (''New Songs''), published in 1924, marks the last period of his work. The complete works of his poetry, ''Poesías Completas'' was published in 1938 and contains ''Poesias de Guerra'' (''Poems of War''), with ''El crimen fue en Granada'' (''The crime took place in Granada''), an elegy to [[Federico García Lorca]].
+
+Poet [[Geoffrey Hill]] has hailed him as [[Eugenio Montale|Montale]]'s 'grand equal'.<ref>CXXXIV, ''The Triumph of Love'' (London, 1998), p.73.</ref> His phrase "[[the two Spains]]"—one that dies and one that yawns—referring to the left-right political divisions that led to the Civil War, has passed into Spanish and other languages.
+
+==Major publications==
+* ''Soledades'' (1903)
+* ''Soledades. Galerías. Otros poemas'' (1907)
+* ''Campos de Castilla'' (1912). See {{citation |title=Campos de Castilla |trans-title=Fields of Castile |translator=Stanley Appelbaum |publisher=Dover Publications |year=2007 |isbn=978-0486461779}}.
+* ''Poesías completas'' (1917)
+* ''Nuevas canciones'' (1924)
+* ''Poesías completas'' (1936, cuarta edición)
+* ''[[Juan de Mairena]]'' (1936)
+
+==Translations into English (selected poems)==
+*{{cite book |title=Times Alone: Selected Poems of Antonio Machado |url=https://archive.org/details/timesaloneselect00mach |url-access=registration |others=[[Robert Bly]] (translator) |publisher=Wesleyan |date=1982 |isbn=978-0819560810}} Dual language edition.
+*{{cite book |title=Border of a Dream: Selected Poems of Antonio Machado |others=[[Willis Barnstone]] (translator) |date=2003 |publisher= Copper Canyon Press |isbn=978-1556591983 }} Dual language edition.
+*{{cite book |title=The Dream Below the Sun: Selected Poems of Antonio Machado |others=Willis Barnstone (translation), [[John Dos Passos]] (introduction) |date=1981 |publisher=Crossing Press |isbn=978-0895940476 |url-access=registration |url=https://archive.org/details/dreambelowsun00mach }} Dual language edition.
+*{{cite book |title=Antonio Machado: Selected Poems |others=Alan S. Trueblood (translation) |date=1988 |publisher=Harvard University Press |isbn=978-0674040663 |oclc=490064076}}
+*{{cite book |title=Antonio Machado: Solitudes & Other Early Poems |others=[[Michael Smith (poet)|Michael Smith]] & Luis Ingelmo (translation) |date=2015 |publisher=Shearsman Books  |isbn=978-1848613911 |oclc=899975241}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*   [http://www.newyorker.com/archive/1996/11/18/1996_11_18_095_TNY_CARDS_000375075 Walcott, Derek "Reading Machado" ''The New Yorker'' 18 November 1996]
+*   Ballagas, Emilio  ''Del sueño y la vigilia en Antonio Machado''. Ballagas. ''Revista Nacional de Cultura de Venezuela''. 1945 (article)
+*   Barnstone, Willis "Antonio Machado: A Theory of Method in His Use of Dream, Landscape, and Awakening" in ''Revista Hispánica Moderna'' Year 39, No. 1/2 (1976/1977), pp.&nbsp;11–25 University of Pennsylvania Press
+*   Braschi, Giannina, "La Gravedad de la Armonia en 'Soledades Galerias y Otros Poemas' de Machado," PLURAL, San Juan, Puerto Rico, 1983.
+*   Fernández-Medina, Nicolás. [http://press.uchicago.edu/ucp/books/book/distributed/P/bo11415297.html ''The Poetics of Otherness in Antonio Machado's Proverbios y cantares'']. Cardiff: U of Wales P, 2011.
+*   ---. "[https://www.academia.edu/4911806/Intertextuality_and_Poetic_Practice_in_José_Ángel_Valente_s_Dialogue_with_Antonio_Machado Intertexutality and Poetic Practice in José Angel Valente's Dialogue with Antonio Machado]," 2011. 
+*   ---. "[https://www.academia.edu/4849963/Pythagoras_Buddha_and_Christ_Antonio_Machado_s_Poem_lxv_of_Proverbios_y_cantares_Nuevas_canciones_ Pythagoras, Buddha, and Christ: Antonio Machado's Poem lxv of 'Proverbios y cantares' (Nuevas canciones)]," 2010.
+*   ---. "[https://www.academia.edu/30898249/Reality_Idealism_and_the_Subject_Object_Divide_Antonio_Machado_and_the_Modernist_Crisis_of_Knowledge Reality, Idealism, and the Subject/Object Divide: Antonio Machado and the Modernist Crisis of Knowledge]," 2016.
+*   ---. "[https://www.academia.edu/50927701/Antonio_Machado_en_diálogo_con_Emmanuel_Lévinas_El_compromiso_con_la_objetividad_y_la_otredad Antonio Machado en diálogo con Emmanuel Lévinas: El compromiso con la objetividad y la otredad]," 2020.
+*   Johnston, Philip (2002) ''The power of paradox in the work of Spanish poet Antonio Machado'' Edwin Mellen Press
+*   Prowle, Allen (2010) "Sunshine and Shadows: translations from Bertollucci, Machado and Pavese" Nunny Books, 2011.
+
+==External links==
+*{{Wikisource author-inline}}
+*{{Wikiquote-inline}}
+*{{Commons category-inline}}
+*Poems and videos in [https://www.poeticous.com/machado Poeticous]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Machado, Antonio}}
+[[Category:1875 births]]
+[[Category:1939 deaths]]
+[[Category:People from Seville]]
+[[Category:20th-century Spanish poets]]
+[[Category:Writers from Andalusia]]
+[[Category:Members of the Royal Spanish Academy]]
+[[Category:Spanish people of the Spanish Civil War (Republican faction)]]
+[[Category:Exiles of the Spanish Civil War in France]]
+[[Category:Complutense University of Madrid alumni]]
+[[Category:Spanish male poets]]
+[[Category:20th-century Spanish male writers]]

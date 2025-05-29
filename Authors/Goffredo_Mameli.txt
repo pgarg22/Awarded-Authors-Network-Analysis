@@ -1,0 +1,85 @@
+{{Use dmy dates|date=December 2013}}
+{{Infobox person
+| name               = Goffredo Mameli
+| image              = Induno Domenico Goffredo Mameli.jpg
+| caption            = 
+| birth_date         = {{Birth date|1827|9|5|df=y}}
+| birth_place        = [[Genoa]], Italy
+| death_date         = {{Death date and age|1849|7|6|1827|9|5|df=y}}
+| death_place        = [[Rome]], Italy
+| resting_place      = Mausoleo Ossario del Gianicolo, [[Janiculum]], Italy
+| other_names        = 
+| known_for          = wrote the lyrics of the original version of the Italian [[national anthem]] "[[Il Canto degli Italiani]]"
+| occupation         = patriot, poet, and writer
+| nationality        = Italian
+}}
+
+'''Goffredo Mameli''' ({{IPA-it|ɡofˈfreːdo maˈmɛːli}}; 5 September 1827 – 6 July 1849) was an Italian patriot, poet, writer and a notable figure in the [[Risorgimento]]. He is also the author of the lyrics of "[[Il Canto degli Italiani]]", the national anthem of Italy.
+
+==Biography==
+[[Image:LapideMameli.jpg|thumb|left|Memorial tablet at the church of [[Santissima Trinità dei Pellegrini, Rome]]. The text states: "In this hospice poet Goffredo Mameli and many other valiant men died of wounds in defence of Rome for Italian freedom in the year MDCCCXLIX".]]
+The son of an aristocratic [[Sardinian people|Sardinian]] [[admiral]], Mameli was from [[Genoa]] where he was born, and where his father was in command of the [[Naval fleet|fleet]] of the Kingdom of Sardinia. At the age of seven he was sent to Sardinia, to his grandfather's place, to escape the risk of [[cholera]], but soon came back to Genoa to complete his studies.
+
+The achievements of Mameli's very short life are concentrated in only two years, during which time he played major parts in insurrectional movements and the [[Risorgimento]].
+
+In 1847 Mameli joined the ''Società Entelema'', a cultural movement that soon would have turned to a political movement, and here he became interested in the theories of [[Giuseppe Mazzini]].
+
+Mameli is mostly known as the author of the lyrics of the Italian [[national anthem]], ''[[Il Canto degli Italiani]]'' (music by [[Michele Novaro]]), better known in Italy as ''Inno di Mameli'' (Mameli's Hymn).<ref>{{cite web|url=http://nationalanthems.me/italy-il-canto-degli-italiani/|title=Italy – Il Canto degli Italiani/Fratelli d'Italia|publisher=NationalAnthems.me|access-date=24 November 2011}}</ref> These lyrics were used for the first time in November 1847, celebrating King [[Charles Albert of Sardinia]] in his visit to Genoa after his first reforms. Mameli's lyrics to a "hymn of the people" —"[[Suona la tromba]]"— were set by [[Giuseppe Verdi]] the following year.
+
+Mameli was deeply involved in nationalist movements and some more "spectacular" actions are remembered, such as his exposition of the ''[[Flag of Italy|Tricolore]]'' (current Italian flag, then prohibited) to celebrate the expulsion of [[Austria-Hungary|Austrians]] in 1846. Yet, he was with [[Nino Bixio]] ([[Giuseppe Garibaldi|Garibaldi]]'s later major supporter and friend) in a committee for public health, already on a clear Mazzinian position. In March 1848, hearing of the insurrection in [[Milan]], Mameli organised an expedition with 300 other patriots, joined Bixio's troops that were already on site, and entered the town. He was then admitted to Garibaldi's irregular army (really the volunteer brigade of general Torres), as a captain, and met Mazzini.
+
+Back in Genoa, he worked more on a literary side, wrote several hymns and other compositions, he became the director of the newspaper ''Diario del Popolo'' ("People's Daily"), and promoted a press campaign for a war against [[Austria]]. In December 1848 Mameli reached Rome, where [[Pellegrino Rossi]] had been murdered, helping in the clandestine works for declaration (9 February 1849) of the [[Roman Republic (19th century)|Roman Republic]]. Mameli then went to [[Florence, Italy|Florence]] where he proposed the creation of a common state between [[Tuscany]] and [[Latium]].
+
+In April 1849 he was again in Genoa, with Bixio, where a popular insurrection was strongly opposed by General [[Alberto La Marmora]]. Mameli soon left again for Rome, where the French had come to support the [[Papacy]] ([[Pope Pius IX]] had actually escaped from the town) and took active part in the combat.
+
+===Death===
+<!-- Image Verano - Begin -->
+[[Image:Verano - Monument to Goffredo Mameli.jpg|thumb|left|250px|Luciano Campisi's grave monument to Mameli in [[Campo Verano]], Rome, built in 1891.{{efn|The original Italian text: "''E lira e spada staranno giusto simbolo della sua vita sulla pietra che un dì gli ergeremo in Roma nel camposanto dei Martiri della Nazione''" ("Both lyre and sword will remain, as the fair symbol of his life, on the stone we will raise in his honor one day in the cemetery of the Nation's Martyrs in Rome") —&nbsp;Giuseppe Mazzini}}]]
+<!-- Image Verano - End -->
+
+During the [[Roman Republic (19th century)#French siege|siege of Rome]], he was an aide of [[Giuseppe Garibaldi]], who fought in Palestrina (9 May) and in Velletri (19 May).<ref name=treccani>{{cite web|url=http://www.treccani.it/enciclopedia/goffredo-mameli_%28L%27Unificazione%29/|title=Mameli, Goffredo|publisher=treccani.it|language=it}}</ref> In particular he fought in the defense of the Villa del Vascello on the [[Janiculum]] hill. He was wounded in the left leg by the French during the last assault of 3 June at [[Palazzo Corsini, Rome|Villa Corsini]], occupied by the French.<ref name=treccani/> However, there is a theory that he was accidentally wounded by the [[bayonet]] of a fellow soldier.{{citation needed|date=September 2021}}
+
+Mameli suffered from [[gangrene]], which doctor Pietro Maestri observed after four days. After a consultation with Maestri and other doctors, it was decided to amputate the leg, performed by surgeon Paolo Maria Raffaello Baroni. Despite this, the infection gradually increased to the point of causing death by [[sepsis]], on 6 July 1849, at the age of 21, in the hospice of Trinità dei Pellegrini.<ref name=death>{{cite web|url=https://www.quirinale.it/qrnw/statico/simboli/inno/inno.htm|publisher=quirinale.it|title=I SIMBOLI DELLA REPUBBLICA - L'INNO NAZIONALE|archive-url=https://web.archive.org/web/20090724025908/https://www.quirinale.it/qrnw/statico/simboli/inno/inno.htm|archive-date=24 July 2009|language=it}}</ref> He was originally buried at [[Campo Verano]] in Rome, however, his remains were moved to the Mausoleo Ossario del Gianicolo in 1941.<ref name=death/>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+[[Image:Trastevere - monumento ai caduti a via Garibaldi (1941) - Goffredo Mameli 00695.JPG|thumb|left|200 px|"Both lyre and sword" on the stone in honor of Mameli in via Garibaldi on Rome's [[Janiculum]] Hill]]
+
+==Bibliography==
+*{{cite book
+ | last = Barrili
+ | first = Anton Giulio
+ | author-link = Anton Giulio Barrili
+ | year = 1902
+ | title = Scritti editi ed inediti di G. Mameli
+ | publisher = Soc.Ligure di Storia Patria
+ | location = Genoa
+}}
+*{{cite journal
+ | author = Anton Giulio Barrili
+ | date = 1 June 1902
+ | title = G. Mameli nella vita e nell'arte
+ | journal = Nuova Antologia
+ }}
+
+==External links==
+{{wikisource author}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mameli, Goffredo}}
+[[Category:1827 births]]
+[[Category:1849 deaths]]
+[[Category:Writers from Genoa]]
+[[Category:19th-century Italian poets]]
+[[Category:Italian male poets]]
+[[Category:People of the Revolutions of 1848]]
+[[Category:Italian people of the Italian unification]]
+[[Category:National anthem writers]]
+[[Category:19th-century Italian writers]]
+[[Category:Accidental deaths in Italy]]
+[[Category:19th-century Italian male writers]]
+[[Category:Burials at Campo Verano]]

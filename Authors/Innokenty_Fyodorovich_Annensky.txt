@@ -1,0 +1,120 @@
+{{short description|Russian poet, critic and translator}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| birth_name       = Innokentiy Fyodorovich Annensky
+| image            = Innokentij Annenskij.jpg
+| imagesize        = 200px
+| caption          = 
+| birth_date       = {{OldStyleDate|1 September|1855|20 August}}
+| birth_place      = [[Omsk]], [[Russian Empire]]
+| death_date       = {{OldStyleDate|13 December |1909 |30 November}} (aged 54)
+| death_place      = [[Saint Petersburg]], [[Russian Empire]]
+}}
+'''Innokentiy Fyodorovich Annensky''' ({{lang-rus|Инноке́нтий Фёдорович А́нненский|p=ɪnɐˈkʲenʲtʲɪj ˈfʲɵdərəvʲɪtɕ ˈanʲɪnskʲɪj|a=Innokyentiy Fyodorovich Annyenskiy.ru.vorb.oga}}; (1 September [<nowiki/>[[Old Style and New Style dates|O.S.]] 20 August] 1855, [[Omsk]] – 13 December [<nowiki/>[[Old Style and New Style dates|O.S.]] 30 November] 1909, [[Saint Petersburg]]) was a poet, critic, scholar, and translator, representative of the first wave of [[Russian Symbolism]], although he was not well known for his poetry until after his death.<ref>Kelly, C. (1986). [https://ora.ox.ac.uk/objects/uuid:402cf752-742c-4447-ae0c-ffeace85f95c Innokenty Fedorovich Annensky and the classical ideal] [PhD thesis]. University of Oxford, Abstract p. 3</ref> In fact, Annensky never wrote professionally; he made little to no income from writing. Instead, he spent his career in academia as a full-time professor and administrator, translator of classic Greek works, and writer of essays and reviews.{{sfn|Kelly|1986|p=Abstract, 3}}  Despite this, Annensky is considered to be one of the most significant Russian poets from the early 20th century.<ref>{{Cite journal|last=Bedford|first=C. H.|date=1965|title=Review of Studies in the Life and Work of Innokentij Annenskij, by Vsevolod Setchkarev|url=https://www.cambridge.org/core/product/identifier/S0037677900131997/type/journal_article|journal=Slavic Review|language=|volume=24|issue=1|pages=150–152|doi=|issn=}}</ref> Critics have cited Annensky's connection to [[Symbolism (arts)|French Symbolism]] and to the French poet [[Stéphane Mallarmé]] for their shared use of "associative symbolism".<ref>{{Cite journal|last=Byrns|first=Richard|last2=Kotzamanidou|first2=M.|date=1977|title=Mallarme and the Poetry of Innokenty Annensky: A Study of Surfaces and Textures|url=https://www.jstor.org/stable/40245919|journal=Comparative Literature Studies|volume=14|issue=3|pages=223–232|issn=|via=JSTOR}}</ref> Annensky was considered to be an under-recognized or neglected poet, but he later gained most of his popularity, particularly in the west, because a number of later [[Russian symbolism|Russian Symbolists]], such as [[Osip Mandelstam|Mandelstam]], [[Anna Akhmatova|Akhmatova]], [[Boris Pasternak|Pasternak]], and [[Vladimir Mayakovsky|Mayakovsky]], were inspired and influenced by his work.{{sfn|Kelly|1986|p=Abstract, 19}}
+
+==Biography==
+
+Annensky was born into the family of a public official in [[Omsk]] on [[Old Style and New Style dates|N.S.]] 1 September [<nowiki/>[[Old Style and New Style dates|O.S.]] 20 August] 1855.<ref>In the memoirs of his son, [[Valentin Krivich]] the birth year was stated incorrectly as 1856, from there the date propagated in many biographies, the same incorrect birth year is even stated on Innokenty Anennsky's grave. Only in the 1970s a special archive investigation determined the correct birth year as 1855. See [http://az.lib.ru/a/annenskij_i_f/text_0510.shtml]</ref> In 1860, while still a child, he was taken to [[Saint Petersburg]]. Innokenty lost his parents early on, and was raised in the family of his older brother, [[Nikolai Annensky]], a prominent [[Narodnik]] and political activist.
+
+In 1879, Innokenty graduated from the [[Philology|philological]] department of [[Saint Petersburg State University|St. Petersburg University]], where he concentrated on [[Historical-comparative linguistics]]. He became a teacher, and taught classical languages and ancient literature studies in a [[Gymnasium (school)|gymnasium]] in [[Tsarskoe Selo]]. He served as the Director of this school from 1886 until his death in 1909. [[Anna Akhmatova]] graduated from this school, and called Annensky "my only teacher," as did [[Nikolai Gumilev]], who called him "the last of Tsarskoe Selo's swans."
+
+Like [[Vasily Zhukovsky]] before him, Annensky was somewhat reluctant to publish his original poems and first gained renown with his masterful translations of [[Euripides]] and the French Symbolists. From 1890 until his death in 1909, he translated from [[Ancient Greek]] all the works of [[Euripides]]. At the beginning of the 1900s, Annensky wrote a series of tragedies modelled after those of ancient Greece: ''Melanippa-filosof'' (1901), ''Tsar Iksion'' (1903), ''Laodamia'' (1906). Some of these works were dedicated to his colleague, [[Faddei Zielinski]], who would later write his obituary.
+{{quote box
+| title = '''Among the Worlds (1901)'''
+| quote = 
+<poem>
+Among the worlds, in glimmering of stars,
+The single Star is ever my attraction…
+Not 'cause I'd so loved Her so far,
+But 'cause I live with others with aversion.
+
+And if my doubts were an awful plight,
+I just from Her wait for the final answers,
+Not 'cause She sends to me the saving light,
+But 'cause with Her I can live and in darkness.
+</poem>
+Translation by [http://www.poetryloverspage.com/yevgeny/annensky/ Yevgeny Bonver] 2001
+<br>
+[[File:Rule Segment - Fancy1 - 40px.svg|center]]
+<poem>
+Among cold worlds, immersed in starry glow,
+One single star's name I repeat- why bother
+It's not because she has my only love
+Because it's simply far too dark with others.
+
+And if it's getting heavy with the doubt
+Hers is the only precious answer heeded
+It's not because her light is very bright
+It is because no light with her is needed.
+</poem>
+Translated by Gregory B, Khavin, 2012
+}}
+{{Verse translation|italicsoff=y|
+
+
+Среди миров, в мерцании светил
+Одной Звезды я повторяю имя...
+Не потому, чтоб я Её любил,
+А потому, что я томлюсь с другими.
+
+И если мне сомненье тяжело,
+Я у Неё одной ищу ответа,
+Не потому, что от Неё светло,
+А потому, что с Ней не надо света.
+|
+Amid the Worlds
+
+Amid the worlds, in twinkling of the stars
+There's the One, whose name I always utter…
+'Tis not because I love Her with my heart,
+But rather because languish I with others.
+
+And if my doubt is hard in all its might,
+'Tis She alone, whom always I inquire,
+'Tis not because She gives abundant light,
+But rather because with Her no light is required.|attr2=Translated by Eugenius, 2013}}
+
+As a literary critic, Annensky published ''The Book of Reflections'', two volumes of essays on [[Nikolai Gogol]], [[Mikhail Lermontov]], [[Ivan Goncharov]], and, his favourite, [[Fyodor Dostoyevsky]]. His essays were sometimes termed "critical prose" because of the artistic value of these texts. During his last months, Annensky worked as an editor of [[Sergei Makovsky]]'s journal ''Apollon'', in which he published some essays on poetry theory. [[Nikolai Gumilev]] valued these theoretical works very highly and considered Annensky to be the first true [[Acmeist poetry|acmeist]].
+
+In [[literary history]], Annensky is remembered primarily as a [[poet]]. He started writing poetry in the 1870s but did not publish it. He decided not to publish any works until he was 35, advice that was given by his older brother Nikolay. His first collection of poems, entitled ''Quiet Songs,'' was published in 1904 under the pseudonym ''Nik. T.-o'' (i.e., Никто, "No one" in Russian). Because Annensky was a director of a public school at the time, publishing this [[Avant-garde|avant garde]] work under his real name would have been controversial.<ref>{{Cite book|last=Annensky|first=Innokenty|title=The Cypress Chest / Innokenty Annensky ; translated by R.H. Morrison, Introduction by V. Setchkarev|publisher=Ardis|year=1982|isbn=0882334743|location=Ann Arbor, Michigan|pages=vii}}</ref> The book gained moderate praise from leading Symbolists, some of whom didn't suspect that Annensky was the author. Annensky's second book, ''Тhe Cypress Chest'' (1910), is his best known collection of poetry. Annensky died just days before its projected publication. Many of his unpublished pieces were later edited and released in the 1920s by his son, Valentin Krivich.
+
+On [[Old Style and New Style dates|N.S.]] 13 December [<nowiki/>[[Old Style and New Style dates|O.S.]] 30 November] 1909, while heading to a meeting to discuss an unpublished essay about [[Euripides]] at the Society of Classical Philology, Annensky died from a [[myocardial infarction|heart attack]] at the Tsarskoe Selo railway station in [[Saint Petersburg]].{{sfn|Kelly|1986|p=100}} Many of his finest pieces (e.g., ''Stansy'', ''Dalnie Ruki'') were inspired by Annensky's unrequited love for his daughter-in-law.
+
+==Poetic Assessment==
+Annensky was interested in [[Symbolism (arts)|Symbolism]], and he followed its growth in both [[Europe]] and [[Russia]]. This, combined with his knowledge of [[poetry]], can be seen in his verses. Setchkarev, author of the first critical study of Annensky, claims that Annensky was likely the "most pessimistic of the Russian Symbolists".{{sfn|Morrison|1982|p=ix}}<ref>{{Cite web|date=2000-05-18|title=Faculty of Arts and Sciences — Memorial Minute — Vsevolod Setchkarev|url=https://news.harvard.edu/gazette/story/2000/05/faculty-of-arts-and-sciences-memorial-minute-vsevolod-setchkarev/|access-date=2021-10-19|website=Harvard Gazette|language=en-US}}</ref> Annensky saw life as a "wicked enchantment" and an unhappy nightmare that he knew would end in death.{{sfn|Morrison|1982|p=x}} The specificities and unknowns of death raise questions within symbolist poetry, and it has a particularly strong position in Annensky's poetry. He sensed that life was nothing without the inescapable concept of death and wrote often about symbols of life and time. Some of his common imagery, such as shadows, ice, dirt, et cetera, in his poems are not poetic, but he surrounds them with structure and sounds that create a "poetic aura". Some of these details and themes have roots in [[Symbolism (arts)|French Symbolism]].[[File:Memory stone to poet Innokenty Annensky.jpg|thumb|right|220px|Memorial stone to Innokenty Annensky in [[Omsk]], Russia]]
+
+== Legacy ==
+* Asteroid [[3724 Annenskij]], discovered by [[Soviet Union|Soviet]] astronomer [[Lyudmila Zhuravlyova]] in 1979 was named in his honor.<ref>{{cite book | last = Schmadel | first = Lutz D. | title = Dictionary of Minor Planet Names | edition = 5th | year = 2003 | publisher = Springer Verlag | location = New York | url = https://books.google.com/books?q=3724+Annenskij&btnG=Search+Books | isbn = 3-540-00238-3 | page = 314}}</ref>
+* Memorial stone to Innokenty Annensky in [[Omsk]], Russia (established in 2008).
+
+==References and notes==
+{{reflist}}
+
+==External links==
+{{commons category|Innokenty Annensky}}
+*[http://az.lib.ru/a/annenskij_i_f/ Works of Innokenty Annensky] - in Russian
+*[https://web.archive.org/web/20061009000218/http://www.litera.ru/stixiya/authors/annenskij.html Works and Biography of Innokenty Annensky] - in Russian
+*[https://web.archive.org/web/20070929090234/http://www.litera.ru/stixiya/articles/860.html Biography of Annensky] - in Russian
+*[http://www.poetryloverspage.com/yevgeny/annensky/ Yevgeny Bonver Translations of Annensky] -in English<!-- Is there an alternative to the Yevgeny Bonver translations? I'm glad that someone tried to translate Annensky's poetry, but IMO his translations don't give a good sense of the original.  -->
+*[https://web.archive.org/web/20040716095733/http://friends-partners.org/friends/culture/literature/20century/Annensky.html Biography of Annensky]- in English
+*[http://www.albany.edu/offcourse/issue41/cigale_translations1.html#annensky English translations of 4 poems]
+*[http://www.silveragepoetry.com/2013/01/innokenty-annensky.html Another translation of "Amid Worlds"]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Annensky, Innokenty}}
+[[Category:1855 births]]
+[[Category:1909 deaths]]
+[[Category:People from Omsk]]
+[[Category:Poets of the Russian Empire]]
+[[Category:Male writers of the Russian Empire]]
+[[Category:Russian male poets]]
+[[Category:Saint Petersburg State University alumni]]
+[[Category:Symbolist dramatists and playwrights]]
+[[Category:Symbolist poets]]
+[[Category:Translators of the Russian Empire]]
+[[Category:19th-century poets]]
+[[Category:Male dramatists and playwrights]]
+[[Category:19th-century Russian dramatists and playwrights]]
+[[Category:19th-century Russian translators]]
+[[Category:19th-century Russian male writers]]
+[[Category:20th-century Russian poets]]

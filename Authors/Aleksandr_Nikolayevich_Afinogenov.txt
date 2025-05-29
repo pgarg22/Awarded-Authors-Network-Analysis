@@ -1,0 +1,43 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = Alexander Afinogenov.jpg
+| imagesize   = 170px
+| caption     = 
+| birth_date  = {{birth date|1904|4|4}}
+| birth_place = [[Skopin]], [[Russian Empire]]
+| death_date  = {{death date and age|1941|10|29|1904|4|4}}
+| death_place = [[Moscow]], [[Soviet Union]]
+}}
+'''Alexander Nikolayevich Afinogenov''' ({{lang-ru|Алекса́ндр Никола́евич Афиноге́нов}}) ({{OldStyleDate|4 April|1904|22 March}}, [[Skopin]] - 29 October 1941, [[Moscow]]) was a [[Russia]]n [[playwright]].
+
+== Biography ==
+Alexander was born in the town of Skopin, in [[Ryazan Oblast]]. He joined the [[Communist Party of the Soviet Union|CPSU]] in 1922. He obtained a degree in journalism in 1924, the year that he published his first play. In the 1920s he was a member and later director of the [[Proletkult]]'s theatre. He turned away from the Proletkult in the late 1920s, and became in the early 1930s the chief drama theoretician of the [[Russian Association of Proletarian Writers]]. He wrote 26 plays, but he is best known for ''Fear'' (1931) and ''Mashenka'' (1941). His work was attacked in 1936 and he was expelled from the CPSU in 1937, but he was never [[Great Purge|purged]], and was rehabilitated in 1938. He continued writing until his death in a German air raid in 1941.<ref>{{cite book |title=The Soviet Union: A Biographical Dictionary |last=Brown |first=Archie |year=1991 |publisher=Macmillan |location=NY |isbn=0-02-897071-3 |page=3}}</ref> He was married with American ballerina Jenny Marling (Schwartz). Her first husband was [[John Bovingdon]].<ref>[https://books.google.com/books?id=uToUoQl53x0C&pg=PT160&lpg=PT160&dq=Jenny+Afinogenov&source=bl&ots=thM5DAkCzg&sig=A9QPmFUqfke2MzWaGcXOuG2WIz4&hl=en&sa=X&ei=d2PuUqzHCcS24ASy_oEY&ved=0CCgQ6AEwAQ#v=onepage&q=Jenny%20Afinogenov&f=false  ''Simon Morrison''. Lina and Serge: The Love and Wars of Lina Prokofiev]</ref>
+
+== Works ==
+His play ''Crank'' (Чудак) [[Satire|satirises]] [[bureaucracy]], [[protectionism]], and [[antisemitism]].<ref>[[:ru:Афиногенов, Александр Николаевич|Russian Wikipedia article on Afinogenov]].</ref> It was produced by the [[Second Moscow Art Theatre]] in 1929, in a production that featured [[Azarii Azarin]] as Volgin, [[Serafima Birman]] as Troshchina, and [[Sophia Giatsintova]] as Sima.<ref>Solovyova, p. 332.</ref> His later plays ''Fear'' (Страх, 1931) and ''A Far Place'' (Далекое, 1935) were very popular with audiences; "he is distinguished among Soviet playwrights for his interest in personal psychological problems."<ref>{{cite book |title=Russian Literature Since the Revolution |url=https://archive.org/details/russianliteratur0000brow |url-access=registration |last=Brown |first=Edward J. |year=1982 |publisher=Harvard University Press |isbn=0-674-78203-8 |page=[https://archive.org/details/russianliteratur0000brow/page/174 174]}}</ref>
+
+== References ==
+{{reflist}}
+
+== Sources ==
+* Solovyova, Inna. 1999. "The Theatre and Socialist Realism, 1929-1953." Trans. Jean Benedetti. In ''A History of Russian Theatre.'' Ed. Robert Leach and Victor Borovsky. Cambridge: Cambridge UP. 325-357. {{ISBN|0-521-43220-0}}.
+
+== External links ==
+* [https://www.questia.com/library/encyclopedia/afinogenov-aleksandr-nikolayevich.jsp?l=A&p=2 article on Afinogenov] {{Webarchive|url=https://web.archive.org/web/20110605034037/http://www.questia.com/library/encyclopedia/afinogenov-aleksandr-nikolayevich.jsp?l=A&p=2 |date=2011-06-05 }}
+{{Authority control}}
+
+{{DEFAULTSORT:Afinogenov, Alexander}}
+[[Category:1904 births]]
+[[Category:1941 deaths]]
+[[Category:People from Skopin]]
+[[Category:Russian dramatists and playwrights]]
+[[Category:Russian male dramatists and playwrights]]
+[[Category:Soviet dramatists and playwrights]]
+[[Category:Soviet male writers]]
+[[Category:20th-century Russian male writers]]
+[[Category:Soviet theatre directors]]
+[[Category:Expelled members of the Communist Party of the Soviet Union]]
+[[Category:Soviet civilians killed in World War II]]
+[[Category:Deaths by airstrike during World War II]]
+
+
+{{Russia-writer-stub}}

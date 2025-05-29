@@ -1,0 +1,71 @@
+{{short description|Scottish writer}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox person 
+| name          = Robert Aytoun 
+| birth_date    = 1570 
+| death_date    = {{death year and age|1638|1570}} 
+| resting_place = [[Westminster Abbey]] 
+| occupation    = lawyer, poet 
+| nationality   = [[Scotland|Scottish]] 
+| notable_works = ''Diophantus and Charidora''
+| alma_mater    = [[University of St Andrews]]
+}}
+
+Sir '''Robert Aytoun''' or '''Ayton'''<ref>Or, less often, '''Aiton''' or '''Aitoun''', forms which he used himself, see Charles Rogers, 'Memoir and Poems of Sir Robert Aytoun', ''Transactions of the Royal Historical Society'', vol. 1 (London, 1875), p. 107.</ref> (1570–1638) was a [[Scotland|Scottish]] poet.
+
+==Biography==
+Ayton was the son of Andrew Ayton of Kinaldie Castle, in [[Fife, Scotland]], and Mary Lundie.<ref>Charles Roger, ''Poems of Robert Ayton'' (Edinburgh, 1844), p. xxiii: Charles Rogers, 'Memoir and Poems of Sir Robert Aytoun', ''Transactions of the Royal Historical Society'', vol. 1 (London, 1875), p. 101.</ref>
+
+He and his elder brother John entered [[St Leonard's College (University of St Andrews)|St Leonard's College]] in St Andrews in 1584.<ref>Charles Roger, ''Poems of Robert Ayton'' (Edinburgh, 1844), p. xxiv.</ref> After graduating [[MA (Scotland)|MA]] from St Andrews in 1588, he studied [[Civil law (area)|civil law]] at [[Paris]].{{sfn|Chisholm|1911|p=77}}{{sfn|Cousin|1910}}
+
+He appears to have been well known to his literary contemporaries in Scotland and [[England]]. He became a groom in the privy chamber of [[James VI and I|King James]] in succession to Laurence Marbury, was knighted and became a gentleman of the bedchamber in 1612, and secretary to [[Anne of Denmark]], his queen.<ref>Charles Rogers, 'Memoir and Poems of Sir Robert Aytoun', ''Transactions of the Royal Historical Society'', vol. 1 (London, 1875), pp. 102-3.</ref> He was sent as ambassador to [[Rudolf II, Holy Roman Emperor]] in 1609. He was later secretary to [[Henrietta Maria]].<ref>Charles Roger, ''Poems of Robert Ayton'' (Edinburgh, 1844), p. xxvi-xxxiv.</ref>
+
+He wrote poems in [[Latin]], [[Greek language|Greek]], and [[Scottish English|English]], and was one of the first Scots to write in standard English. His major work was ''Diophantus and Charidora''.{{sfn|Cousin|1910}}
+
+''Inconstancy Upbraided'' is perhaps the best of his short poems. He is credited with a little poem, ''Old Long Syne'', which probably suggested [[Robert Burns]]'s famous ''[[Auld Lang Syne]]''.{{sfn|Cousin|1910}}
+
+Aytoun died at [[Whitehall Palace]] and is buried in the Ambulatory Chapels of in [[Westminster Abbey]].{{sfn|Chisholm|1911|p= 77}} The monument includes his bust by [[Hubert Le Sueur]].<ref>Charles Rogers, 'Memoir and Poems of Sir Robert Aytoun', ''Transactions of the Royal Historical Society'', vol. 1 (London, 1875), p. 110.</ref> Amongst his bequests, Aytoun gave a diamond hatband to [[William Murray, 1st Earl of Dysart|William Murray]] and his French bed to [[Jane Whorwood]].<ref>Charles Rogers, 'Memoir and Poems of Sir Robert Aytoun', ''Transactions of the Royal Historical Society'', vol. 1 (London, 1875), pp. 112.</ref>
+
+==Bothwell and Little Jock Elliot==
+He is also the author of a ballad called "Bothwell" about the battle fought by [[James Hepburn, 4th Earl of Bothwell]] with the [[Border Reivers|border reiver]], John Elliot of Park, also known as [[Little Jock Elliot]] or Little Jock of the Park. The ballad recounts how Bothwell, in attempting to arrest Little Jock Elliot, suffers life-threatening wounds, though he ends by slaying his foe. Ayton was eight years old at the time Bothwell perished in a dungeon in Denmark, and hence must have heard about the attempted arrest of Elliot by people familiar with the story, particularly as Bothwell was a figure of national renown.{{citation needed|date=April 2016}}
+
+The [[Border ballad]] "[[Little Jock Elliot]]" celebrates (among other events) the achievements of Little Jock Elliot on this occasion and has the refrain "My name is little Jock Elliot and wha daur meddle wi' me!". This latter ballad (of indeterminate age) also implicitly states that Little Jock Elliot survived the encounter with Bothwell.{{citation needed|date=April 2016}}
+
+==Notes==
+{{Reflist}}
+
+==References==
+*{{cite EB1911|wstitle=Aytoun, Sir Robert |volume=3 |page=77 }}
+
+'''Attribution:'''
+*{{SBDEL|wstitle=Ayton, Sir Robert}}
+
+==Further reading==
+*{{Cite EB9|wstitle=Ayton, Sir Robert|volume=3 |page=165}}
+*{{cite DNB |last=Grosart |first=Alexander Balloch |wstitle=Ayton, Robert|volume=2 |pages=300–302}}
+*{{cite encyclopedia |first=M.D. |last=Law |title=Aytoun, Sir Robert (1570-1638) |encyclopedia=[[Chambers's Encyclopædia]] |location=London |publisher=[[George Newnes Ltd|George Newnes]] |year=1961 |volume=2 |page=15}}
+* {{Eminent Scotsmen|Ayton, (Sir) Robert|1|83-86}}
+* [[Sydney Goodsir Smith|Smith, Sydney Goodsir]] (1961), review of Helena Mennie Shire (ed.), ''Poems and Songs of Sir Robert Ayton'', in [[Giles Gordon|Gordon, Giles]] and Scott-Moncrieff, Michael (eds.), ''New Saltire'': Summer 1961, [[The Saltire Society]], Edinburgh, pp. 83 & 84.
+
+==External links==
+{{Wikisource-author}}
+* [https://books.google.com/books?id=8kxtAAAAMAAJ&pg=PA170&dq=ayton%27s+ballad,+%22bothwell%22 "Bothwell"]
+* {{Internet Archive author |sname=Robert Aytoun}}
+* {{Librivox author |id=8671}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ayton, Robert}}
+[[Category:1570 births]]
+[[Category:1638 deaths]]
+[[Category:People from Fife]]
+[[Category:Household of Anne of Denmark]]
+[[Category:Alumni of the University of St Andrews]]
+[[Category:University of Paris alumni]]
+[[Category:Burials at Westminster Abbey]]
+[[Category:16th-century Scottish writers]]
+[[Category:16th-century male writers]]
+[[Category:17th-century Scottish writers]]
+[[Category:16th-century Scottish poets]]
+[[Category:17th-century Scottish poets]]
+[[Category:Kingdom of Scotland expatriates in France]]

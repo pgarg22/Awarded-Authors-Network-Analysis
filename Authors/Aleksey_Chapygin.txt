@@ -1,0 +1,44 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = Aleksey Pavlovich Chapygin.jpg
+| imagesize   = 200px
+| caption     = 
+| birth_date  = {{birth date|1870|10|17}}
+| birth_place = [[Kargopolsky Uyezd]], [[Olonets Governorate]], [[Russian Empire]]
+| death_date  = {{death date and age|1937|10|21|1870|10|17}}
+| death_place = [[Leningrad]], [[USSR]] 
+}}
+'''Aleksey Pavlovich Chapygin''' ({{lang-ru|Алексе́й Па́влович Чапы́гин}}; {{OldStyleDate|17 October|1870|5 October}} - 21 October 1937) was a Russian writer, and one of the founders of the Soviet historical novel.<ref name="Dictionary">Columbia Dictionary of Modern European Literature, Bédé, Edgerton, Columbia University Press, 1980.</ref>
+
+==Biography==
+Chapygin was born in [[Kargopolsky Uyezd]], [[Olonets Governorate]]. His northern peasant origins are reflected in his works.<ref name="Dictionary"/> His first book of stories, ''Those Who Keep Aloof'', and his novel ''The White Hermitage'', describing northern life, were published before the [[Russian Revolution (1917)|Russian Revolution of 1917]].<ref>''25 Years of Soviet Russian Literature (1918-1943)'', Gleb Struve, Taylor & Francis, 1944.</ref>  He is best known for his two novels about peasant uprisings in the 17th century, ''Itinerant Folk'' (1934–37) and ''[[Stenka Razin|Stepan Razin]]'' (1926–27). ''Stepan Razin'' is considered a classic of Soviet literature.<ref name="Dictionary"/>
+
+Chapygin drew upon Russian folklore for both the style of ''Stepan Razin'' and the positive and romanticized portrait of Razin himself. The Soviets excused this modernization of history as a justifiable polemic against the negative portrayal of Razin in 19th-century Russian literature.<ref name="Dictionary"/> ''Stepan Razin'' was published in the magazine ''Red Virgin Soil''.<ref>Red Virgin Soil: Soviet Literature in the 1920s, Robert A. Maguire, Northwestern University Press, 2000.</ref>
+
+==English translations==
+
+*''Stepan Razin'', Hutchinson International Authors, Ltd., London, 1946.
+
+==External links==
+* [https://web.archive.org/web/20070310204623/http://www.prazdniki.ru/person/1/87/ Biography] {{in lang|ru}}
+* [https://web.archive.org/web/20070313073159/http://moshkow.rspu.ryazan.ru/cgi-bin/koi/HIST/CHAPYGIN/ Aleksey Chapygin ''Razin Stepan''] {{in lang|ru}}
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chapygin, Aleksey}}
+[[Category:1870 births]]
+[[Category:1937 deaths]]
+[[Category:People from Plesetsky District]]
+[[Category:People from Kargopolsky Uyezd]]
+[[Category:Soviet novelists]]
+[[Category:Soviet male writers]]
+[[Category:20th-century Russian male writers]]
+[[Category:Russian historical novelists]]
+[[Category:Russian male short story writers]]
+[[Category:Soviet short story writers]]
+[[Category:20th-century Russian short story writers]]
+
+
+{{Russia-writer-stub}}

@@ -1,0 +1,118 @@
+{{Otherpeople5|James Macpherson (disambiguation)|James McPherson (disambiguation)}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox writer
+|name        = James Macpherson
+|image       = James Macpherson by George Romney.jpg
+|caption     =
+|birth_date  = 27 October 1736
+|birth_place = [[Ruthven, Badenoch|Ruthven]], [[Inverness-shire]], [[Scotland]]
+|death_date  = 17 February 1796 (aged 59)
+|death_place = Belville, Inverness-shire, Scotland
+|alma_mater = [[Marischal College]], [[University of Aberdeen]]; [[University of Edinburgh]]
+|occupation  = Poet, translator
+|movement    = [[Romanticism]]
+<!-- Deprecated parameters need incorporation into text:
+|influences  = Bible, [[Dante Alighieri|Dante]], [[John Milton|Milton]], [[Emanuel Swedenborg|Swedenborg]]
+|influenced  = [[William Butler Yeats|Yeats]], [[Goethe]], [[Hart Crane]]-->
+}}
+
+'''James Macpherson''' ([[Scottish Gaelic|Gaelic]]: ''Seumas MacMhuirich'' or ''Seumas Mac a' Phearsain''; 27 October 1736 – 17 February 1796) was a [[Scottish people|Scottish]] writer, poet, literary collector and politician, known as the "translator" of the [[Ossian]] cycle of epic poems. He was the first Scottish poet to gain an international reputation.{{citation needed|date=January 2018}}
+
+==Early life and education==
+Macpherson was born at [[Ruthven, Badenoch|Ruthven]] in the parish of [[Kingussie]] in [[Badenoch]], [[Inverness-shire]]. This was a [[Scottish Gaelic]]-speaking area but near the Barracks of the [[British Army]], established in 1719 to enforce [[Whig (British political party)|Whig]] rule from [[London]] after the [[Jacobite rising of 1715|Jacobite uprising of 1715]]. Macpherson's uncle, [[Ewen MacPherson of Cluny|Ewen Macpherson]] joined the Jacobite army in the [[Jacobite rising of 1745|1745]] march south, when Macpherson was nine years old and after the [[Battle of Culloden]], had had to remain in hiding for nine years.<ref name=":0">{{Cite web|title=Living Legends of a Lost World (print copy); This is why James Macpherson's tales of Ossian are so controversial (online)|url=https://www.thenational.scot/news/18435321.james-macphersons-tales-ossian-controversial/|last=Riach|first=Alan|date=8 May 2020|website=The National|language=en|access-date=11 May 2020}}</ref>  In the 1752-3 session, Macpherson was sent to [[King's College, Aberdeen]], moving two years later to [[Marischal College]] (the two institutions later became the [[University of Aberdeen]]), reading Caesar's ''[[Julius Caesar|Commentaries]]'' on the relationships between the 'primitive' Germanic tribes and the 'enlightened' Roman imperial army;<ref name=":0" /> it is also believed that he attended classes at the [[University of Edinburgh]] as a divinity student in 1755–56. During his years as a student, he ostensibly wrote over 4,000 lines of verse, some of which was later published, notably ''The Highlander'' (1758), a six-canto epic poem,<ref name="BainesFerraro">{{cite book|last1=Baines|first1=Paul|last2=Ferraro|first2=Julian|last3=Rogers|first3=Pat|title=The Wiley-Blackwell Encyclopedia of Eighteenth-Century Writers and Writing 1660–1789|chapter-url=https://books.google.com/books?id=bDheyN3vRmUC&pg=PA227|access-date=6 October 2014|year=2010|publisher=Wiley|isbn=9781444390087|pages=227–228|chapter=Macpherson, James}}</ref> which he attempted to suppress sometime after its publication.
+
+==Collecting Scottish Gaelic poetry==
+On leaving college, he returned to Ruthven to teach in the school there, and then became a private tutor.<ref name=":0" /> At [[Moffat]] he met [[John Home]], the author of ''Douglas'', for whom he recited some Gaelic verses from memory. He also showed him manuscripts of Gaelic poetry, supposed to have been picked up in the [[Scottish Highlands]] and the [[Western Isles]]; one was called ''The Death of Oscar''.<ref name=":0" />
+
+In 1760, Macpherson visited [[North Uist]] and met with [[John MacCodrum]], the official [[Bard]] to the [[Scottish clan chief|Chief]] of [[Clan MacDonald of Sleat]]. As a result of their encounter, MacCodrum made, according to [[John Lorne Campbell]], "a brief appearance in the [[Ossian]]ic controversy which is not without it's humorous side." When Macpherson met MacCodrum, he asked, ''"A bheil dad agaibh air an Fheinne?"'' Macpherson believed himself to have asked, "Do you know anything of the [[Fianna]]?" He had actually said, however, "Do the Fianna owe you anything?"<ref>Campbell (1971), ''Highland Songs of the Forty-Five'', page 246.</ref>
+
+In reply, MacCodrum quipped, ''"Cha n-eil agus ge do bhiodh cha ruiginn a leas iarraidh a nis"'', or in English, "No, and if they did it would be useless to ask for it now." According to Campbell, this, "dialogue... illustrates at once Macpherson's imperfect Gaelic and MacCodrum's quickness of reply."<ref>Campbell (1971), ''Highland Songs of the Forty-Five'', pages 247-247.</ref>
+
+Encouraged by Home and others, Macpherson produced 15 pieces, all laments for fallen warriors, [[translate]]d from the [[Scottish Gaelic]], despite his limitations in that tongue, which he was induced to publish at [[Edinburgh]] in 1760, including the ''Death of Oscar,'' in a pamphlet: ''[[Fragments of Ancient Poetry collected in the Highlands of Scotland]]''. Extracts were then published in ''The Scots Magazine'' and ''The Gentleman's Magazine'' which were popular and the notion of these fragments as glimpses of an unrecorded Gaelic epic began.<ref name=":0" />
+
+[[Hugh Blair]], who was a firm believer in the authenticity of the poems, raised a subscription to allow Macpherson to pursue his Gaelic researches. In the autumn,1760,  Macpherson set out to visit western Inverness-shire, the islands of [[Isle of Skye|Skye]], [[North Uist]], [[South Uist]] and [[Benbecula]]. Allegedly, Macpherson obtained manuscripts which he translated with the assistance of a Captain Morrison and the Rev. Gallie. Later he made an expedition to the [[Isle of Mull]], where he claimed to obtain other manuscripts.
+
+==Ossian==
+In 1761, Macpherson announced the discovery of an epic on the subject of ''Fingal'' (related to the [[Irish mythology|Irish mythological]] character [[Fionn mac Cumhaill]]/Finn McCool) written by [[Ossian]] (based on Fionn's son [[Oisín]]), and in December he published ''Fingal, an Ancient Epic Poem in Six Books, together with Several Other Poems composed by Ossian, the Son of Fingal, translated from the Gaelic Language'', written in the musical measured [[prose]] of which he had made use in his earlier volume. ''[[Temora (poem)|Temora]]'' followed in 1763, and a collected edition, ''[[The Works of Ossian]]'', in 1765. The name Fingal or ''Fionnghall'' means "white stranger",<ref name="name">{{Cite web|url=http://www.behindthename.com/php/view.php?name=fingal|title=Name: Fingal|access-date=16 November 2008|publisher=Behindthename.com|year=2008|author=Mike Campbell}}</ref> and it is suggested that the name was rendered as Fingal through a derivation of the name which in old Gaelic would appear as Finn.<ref name="ss">{{Cite web|url=http://www.sundown.pair.com/SundownShores/Volume_IV/notes.htm|title=The Works of "Fiona MacLeod" Notes to First Edition|publisher=SundownShores|year=2000|author=Mary Ann Dobratz|url-status=dead|archive-url=https://web.archive.org/web/20131016052544/http://www.sundown.pair.com/SundownShores/Volume_IV/notes.htm|archive-date=16 October 2013|df=dmy-all}}</ref>
+
+The authenticity of these so-called translations from the works of a 3rd-century [[bard]] was immediately challenged by Irish historians, especially [[Charles O'Conor (historian)|Charles O'Conor]], who noted technical errors in chronology and in the forming of Gaelic names, and commented on the implausibility of many of Macpherson's claims, none of which Macpherson was able to substantiate. More forceful denunciations were later made by [[Samuel Johnson]], who asserted (in ''[[A Journey to the Western Islands of Scotland]]'', 1775) that Macpherson had found fragments of poems and stories, and then woven them into a romance of his own composition. Further challenges and defences were made well into the nineteenth century, but the issue was moot by then. Macpherson's manuscript Gaelic "originals" were published posthumously in 1807;<ref>{{cite book |last1=Macpherson |first1=James |last2=M'Arthur |first2=John |last3=Ross |first3=Thomas |last4=Cesarotti |first4=Melchiorre |last5=Macfarlan |first5=Robert |title=The poems of Ossian in the original Gaelic |date=1807 |publisher=Printed by W. Bulmer |location=London |url=https://catalog.hathitrust.org/Record/100571801 |access-date=27 November 2019}}</ref> [[Ludwig Christian Stern]] was sure they were in fact back-translations from his English version.<ref>{{cite book |last1=Ní Mhunghaile |first1=Lesa |chapter=Ossian and the Gaelic World |date=2017 |page=9 |editor-first=Dafydd |editor-last=Moore |title=The International Companion to James Macpherson and the Poems of Ossian |chapter-url=https://aran.library.nuigalway.ie/handle/10379/6694 |location=Glasgow |publisher=Scottish Literature International |isbn=9781908980199 |language=en}}</ref>
+
+==Later works==
+In 1764, Macpherson was made secretary to the colonial governor [[George Johnstone (royal navy)|George Johnstone]] at [[Pensacola, Florida]]. He returned to Great Britain two years later, and, despite a quarrel with Johnstone, was allowed to retain his salary as a pension.
+
+Macpherson went on to write several historical works, the most important of which was ''Original Papers, containing the Secret History of Great Britain from the Restoration to the Accession of the House of Hanover'', to which are prefixed ''Extracts from the Life of James II'', as written by himself (1775). He enjoyed a salary for defending the policy of [[Lord North]]'s government, and held the lucrative post of London agent to the [[Mohamed Ali Khan Walajan|Nawab of Arcot]]. He entered [[Parliament of Great Britain|parliament]] in 1780, as Member of Parliament for [[Camelford (UK Parliament constituency)|Camelford]] and continued to sit for the remainder of his life.
+
+==Time in Parliament==
+Despite his Jacobite roots, and in line with his Hanovarian sympathies, for a time Macpherson had desired a seat in Parliament and he finally received it in the 1780 general election. On 11 September 1780, he became junior member for [[Camelford (UK Parliament constituency)|Camelford]]. Later he became the senior member in the results of the April 1784 election. He stayed in this position until his death. Although there is not a lot recorded about his time in parliament, his name is in a list of confidential parliamentary pensions which suggest that his undocumented work was more of an under-the-table government scheme.  This suggestion is more or less backed by letters corresponding with other suggested government scammers of the time such as Paul Benfield. In 1783 he also held a position as an agent working with Sir [[Nathaniel Wraxall]],<ref>{{cite web|last1=Bailey|first1=Saunders|title=The Life and Letters of James Macpherson|url=https://archive.org/stream/lifeandlettersj00saungoog#page/n293/mode/1up|website=WebArchive|year=1894|publisher=S. Sonnenschein & co .; Macmillan & co|access-date=2015-05-06}}</ref>  and was noted since this time for being very wealthy, probably from his secret parliamentary pensions he was receiving.
+
+==Death==
+In his later years he bought an estate, to which he gave the name Belville or Balavil, in his native Inverness-shire, where he died at the age of 59.<ref name="NamierBrooke1985">{{cite book|author1=Lewis Namier|author2=John Brooke|title=The House of Commons, 1754-1790|url=https://books.google.com/books?id=Taw7DVGrbRcC&pg=PA96|year=1985|publisher=Boydell & Brewer|isbn=978-0-436-30420-0|pages=96}}</ref> Macpherson's remains were carried from Scotland and interred in the [[Westminster Abbey|Abbey Church of Westminster]].<ref>{{Cite web|url=http://www.westminster-abbey.org/our-history/people/james-macpherson|title=James Macpherson|website=www.westminster-abbey.org|access-date=2018-02-05}}</ref> The Highland MP and antiquarian, [[Charles Fraser-Mackintosh]], appears to comment enviously on the success of James Macpherson in his second series of ''Antiquarian Notes'' (Inverness 1897, pp 369 et seq, public domain):<blockquote>Mr James Macpherson of Ossianic fame, who acquired Phoiness, Etterish, and Invernahaven, began this wretched business and did it so thoroughly that not much remained for his successors ... Every place James Macpherson acquired was cleared, and he also had a craze for changing and obliterating the old names ... [including] ... Raitts into Belville. Upon this point it may be noticed that Mac Ossian, in making an entail and calling four of his numerous bastards [this comment has no support] in the first instance to the succession, declares an irritancy if any of the heirs uses any other designation than that of Macpherson of Belville.</blockquote>After calling Macpherson's children bastards, Fraser-Mackintosh asserts that Macpherson bought the right to be buried in Westminster Abbey. If it was for sale, why not? A recent commentator suggests Macpherson has become known as "a descendent of a Jacobite clan who became a sycophantic Hanovarian toady, a man for the main chance".<ref name=":0" />
+
+==Legacy==
+After Macpherson's death, [[Malcolm Laing]], in an appendix to his ''History of Scotland'' (1800), concluded that the so-called Ossianic poems were altogether modern in origin, and that Macpherson's authorities were practically non-existent.<ref>A "somewhat merciless exposure"; {{DNB Cite|wstitle=Laing, Malcolm}}</ref>
+
+Despite the above, some critics claim that Macpherson nonetheless produced a work of art which by its deep appreciation of natural beauty and the melancholy tenderness of its treatment of the ancient legend did more than any single work to bring about the [[Romanticism|romantic]] movement in European, and especially in German, literature. It was quickly translated into many European languages, and [[Johann Gottfried von Herder|Herder]] and [[Johann Wolfgang von Goethe|Goethe]] (in his earlier period) were among its profound admirers. Goethe incorporated his translation of a part of the work into his novel ''[[The Sorrows of Young Werther]]''. [[Melchiore Cesarotti]]'s Italian translation was reputedly a favourite of [[Napoleon]].<ref>{{cite book|last=Zamoyski|first=Adam|title=Holy Madness: Romantics, Patriots and Revolutionaries|year=2001|publisher=Weidenfeld & Nicolson|location=London|isbn=1-84212-145-6|pages=45}}</ref>
+
+Macpherson's legacy indirectly includes the naming of [[Fingal's Cave]] on the island of [[Staffa]]. The original Gaelic name is "An Uamh Bhin" ("the melodious cave"), but it was renamed by [[Sir Joseph Banks]] in 1772 at the height of Macpherson's popularity.<ref>{{cite book |author=Elizabeth A. Bray |title=Discovery of the Hebrides|publisher=Birlinn Publishers|year=1999|pages=268|isbn=1-874744-59-9}}</ref><ref>{{Haswell-Smith|544}}</ref>
+
+==See also==
+*[[Iolo Morganwg]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+*{{EB1911|wstitle=Macpherson, James|volume=17|pages=267–268}}
+
+==Further reading==
+*{{cite book |author1=Gaskill, Howard |author2=Macpherson, James |title=The poems of Ossian and Related Works |publisher=Edinburgh University Press |location=Edinburgh |year=1996 |pages=573 |isbn=0-7486-0707-2}}
+*{{cite book |author=Gaskill, Howard |title=The Reception of Ossian in Europe |publisher=Continuum International Publishing Group – Athlone |year=2002 |pages=400 |isbn=0-485-80504-9}}
+*{{cite book |author=Stafford, Fiona J. |title=The Sublime Savage: A Study of James Macpherson and The poems of Ossian |publisher=Edinburgh University Press |location=Edinburgh |year=1988 |pages=200 |isbn=0-85224-609-9}}
+*{{cite book |author=Gaskill, Howard |title=Ossian Revisited |publisher=Edinburgh University Press |location=Edinburgh |year=1991 |pages=256 |isbn=0-7486-0247-X}}
+*{{cite book |author=Saunders, Thomas Bailey |title=The Life And Letters of James Macpherson: Containing a particular account of his famous quarrel with Dr. Johnson, and a sketch of the origin and the influence of the Ossianic poems |url=https://archive.org/details/lifeandlettersof00saunuoft |publisher=Swan Sonnernschein & Co. |location=London |year=1895 |pages=[https://archive.org/details/lifeandlettersof00saunuoft/page/327 327] |isbn=978-1103168255}}
+
+==External links ==
+{{Wikisource1911Enc|Macpherson, James}}
+*{{wikisource author-inline}}
+*{{wikiquote-inline}}
+*{{Commons category-inline}}
+*[http://www.eighteenthcenturypoetry.org/authors/pers00291.shtml James Macpherson] at the [http://www.eighteenthcenturypoetry.org/ Eighteenth-Century Poetry Archive (ECPA)]
+*Digitised version of [http://digital.nls.uk/early-gaelic-book-collections/pageturner.cfm?id=77447271 Fingal, an ancient epic poem. : In six books: together with several other poems, composed by Ossian the son of Fingal. / Translated from the Galic language, by James Macpherson..], 1762 edition at [[National Library of Scotland]]
+*[http://www.litencyc.com/php/stopics.php?rec=true&UID=1287 Literary Encyclopedia: ''Ossian'']
+*[http://www.electricscotland.com/history/other/macpherson_james.htm Significant Scots]
+*[http://www.sacred-texts.com/neu/celt/pt4/index.htm Popular Tales of the West Highlands by J. F. Campbell Volume IV (1890)]
+*[http://www.exclassics.com/ossian/ossintro.htm ''The Poetical Works of Ossian''] at the Ex-Classics Web Site
+* {{Gutenberg author |id=MacPherson,+James+(1736-1796)}}
+* {{Internet Archive author |sname=James Macpherson}}
+
+{{Age of Enlightenment}}
+{{Romanticism}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Macpherson, James}}
+[[Category:1736 births]]
+[[Category:1796 deaths]]
+[[Category:Alumni of the University of Aberdeen]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:Epic poetry collectors]]
+[[Category:Literary forgeries]]
+[[Category:Members of the Parliament of Great Britain for constituencies in Cornwall]]
+[[Category:Romantic poets]]
+[[Category:Scottish politicians]]
+[[Category:People from Aberdeen]]
+[[Category:People from Inverness]]
+[[Category:People from Kingussie]]
+[[Category:People of the Scottish Enlightenment]]
+[[Category:18th-century Scottish writers]]
+[[Category:18th-century Scottish poets]]
+[[Category:Clan Macpherson|James]]
+[[Category:British MPs 1780–1784]]
+[[Category:British MPs 1784–1790]]
+[[Category:British MPs 1790–1796]]
+[[Category:Scottish folk-song collectors]]
+[[Category:Scottish folklorists]]
+[[Category:Scottish translators]]
+[[Category:Translators from Scottish Gaelic]]
+[[Category:Translators to English]]

@@ -1,0 +1,65 @@
+{{Use dmy dates|date=July 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|name        = Veljko Petrović
+|image       = Вељко Петровић.jpg
+|imagesize   = 230px
+|caption     = Veljko Petrović, {{circa|1905}}
+|birth_date  = 4 February 1884
+|birth_place = [[Sombor]], [[Austria-Hungary]]
+|death_date  = {{death date and age|1967|07|27|1884|02|04|df=yes}}
+|death_place = [[Belgrade]], [[Socialist Federal Republic of Yugoslavia|SFR Yugoslavia]]
+| resting_place = [[Belgrade New Cemetery]]
+|occupation  = Poet and writer
+|nationality = Serbian
+|alma_mater  = 
+|period      = 
+|genre       =
+|notableworks = 
+|influences  =
+|influenced  =
+|website = 
+}}
+'''Veljko Petrović''' ([[Serbian Cyrillic alphabet|Serbian Cyrillic]]: Вељко Петровић; 4 February 1884 – 27 July 1967) was a Serbian poet, writer, art and literary critic, and [[:wikt:theoretician|theoretician]].
+
+==Biography==
+[[File:Veljko Petrović 1984 Yugoslavia stamp.jpg|thumb|left|Veljko Petrović on a 1984 Yugoslavian stamp]]
+Veljko Petrović was born in [[Sombor]]. His father Gerasim Petrović became an [[Eastern Orthodox]] [[monk]], after his wife died. After graduating from high school in his home town, Veljko went to [[Budapest]] to study law. From 1906 to 1907 he was co-editor of ''Croatia'', a Croatian-Serbian magazine for social, political and economical studies, founded in [[Budapest]]. He also worked on various periodicals in Zagreb and Sarajevo. Because of his nationalistic attitude the Austrian authorities forced him to move to [[Belgrade]], where he participated as a war correspondent in both Balkan Wars and World War I, and wrote poetry. Between the wars he was active in cultural and educational affairs and continued to be so until his death in Belgrade in 1967.
+
+==Works==
+He first came to the attention of literary critics for his patriotic poetry, ''Rodoljubive pesme'' (Patriotic Poems, 1912) and ''Na pragu'' (On the Threshold, 1914). Afterwards, he turned to the short story and remained in the genre. His patriotic poetry avoids bombastic phrases and inflated pathos; it is rather a somber, realistic appraisal of his country and its past and a declaration of sincere, inconspicuous love for it. In his numerous stories he depicts, for the most part the life of the Serbs in Vojvodina, first under the multi-national [[Austro-Hungarian Empire]], and later, part of the triune [[Kingdom of Serbs, Croats and Slovenes]], an unlikely confederacy of Slav states that went on to change its name again to the [[Kingdom of Yugoslavia]] and again after World War II when the communist took over. Petrović's colorful description of the Vojvodina peasants and small-town folk offer a rich thematic canvas of a teeming life, replete with national, social, and moral problems. He has also written love stories and many stories for children.
+
+Along with [[Mileta Jakšić]], according to critic [[Jovan Skerlić]], he is considered to be one of the leading poets of [[Post-Modernism]] in [[Serbian literature]] (only after being influenced by [[modernism]] in his youth). Veljko wrote mostly about [[Vojvodina]] (like Mileta Jakšić) its ambience and people. His many functions and memberships of various boards and committees included the chairmanship of [[Novi Sad]]'s ''Matica srpska'', from 1953 to 1956, followed by his election as the institution's lifelong president. He was a member of the [[Serbian Academy of Sciences and Arts]], and president of ''Srpska knjizevna zadruga'' in [[Belgrade]]. From 1944 until his retirement in 1962, he was the director of the [[National Museum of Serbia]].<ref>{{Cite web|url=http://www.narodnimuzej.rs/o-muzeju/direktori-muzeja/|title=Директори музеја {{!}} Народни музеј|language=sr-RS|access-date=2019-07-08}}</ref>
+
+His collection of short stories are: ''Varljivo proleće'' (Changing Spring, 1921); ''Bunja i drugi iz Ravangrada'' (Bunja and Others from Ravangrad, 1921); ''Pomerene savest'' (Demented Consciences, 1922); ''Iskusenja'' (Temptations, 1924); ''Izdanci iz zapaljena grma'' (Shoots from a Burning Stump, 1932); and ''Prepelica u ruci'' (A Quail in the Hand, 1948). He is best remembered, however, for ''Dah'' (Breath). He was the author of numerous magazine articles and studies on literature and art. He was one of the few to receive the coveted ''Yugoslav Writers' Association award''.
+
+==References==
+* [[Jovan Skerlić]], ''Istorija nove srpske književnosti'' (Belgrade 1914, 1921), pp.&nbsp;463–464.
+
+==External links==
+{{Commons category}}
+* [http://www.biblioso.org.rs/html/ger/kultura/veljko.htm Biography] {{in lang|de}}
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-culture}}
+{{succession box|title=Director of [[National Museum of Serbia]]|before=[[Milan Kašanin]]|after=Lazar Trifunović|years=1944&ndash;1962}}
+{{succession box|title=President of [[Matica Srpska]]|before=[[Milan Petrović (academic)|Milan Petrović]]|after=[[Radomir Radujkov]]|years=1953&ndash;1956}}
+{{s-end}}
+
+{{Presidents of Association of Writers of Serbia}}
+{{Serbian literature}}
+{{Authority control}}
+
+{{DEFAULTSORT:Petrovic, Veljko}}
+[[Category:1884 births]]
+[[Category:1967 deaths]]
+[[Category:Writers from Sombor]]
+[[Category:Serbian male poets]]
+[[Category:Serbian literary critics]]
+[[Category:Serbian journalists]]
+[[Category:War correspondents of the Balkan Wars]]
+[[Category:20th-century Serbian poets]]
+[[Category:Burials at Belgrade New Cemetery]]
+[[Category:20th-century journalists]]

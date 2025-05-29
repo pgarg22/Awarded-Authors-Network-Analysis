@@ -1,0 +1,83 @@
+{{Use dmy dates|date=March 2018}}
+{{Use British English|date=March 2018}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = A. J. Dalton
+| image         = 
+| image_size    = 
+| alt           = 
+| caption       = 
+| pseudonym     = 
+| birth_name    = Adam James Dalton
+| birth_date    = {{Birth date and age|df=yes|1970|09|01}}
+| birth_place   = 
+| death_date    = <!-- {{Death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place   = 
+| resting_place = 
+| occupation    = Novelist
+| language      = 
+| nationality   = [[United Kingdom|British]]
+| ethnicity     = 
+| citizenship   = 
+| education     = University
+| alma_mater    = [[University of Warwick]]
+| period        = 2008–present
+| genre         = [[Fantasy]]
+| subject       = 
+| movement      = 
+| notableworks  = The Book of Angels, Empire of the Saviours, Necromancer's Gambit
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| module        =
+| website       = {{URL|www.ajdalton.eu}}
+| portaldisp    = 
+}}
+
+'''Adam James Dalton''' (born September 1970) is a [[United Kingdom|British]] fantasy writer and teacher of English. He is the author of the best-selling ''Chronicles of a Cosmic Warlord'' (''Empire of the Saviours'', ''Gateway of the Saviours'' and ''Tithe of the Saviours''), the ''Flesh & Bone Series'' (''Necromancer's Gambit'', ''Necromancer's Betrayal'' and ''Necromancer's Fall''), and three collections with Grimbold Books (''The Book of Orm, The Book of Angels and The Book of Dragons''). He has also published a range of academic articles on science fiction and fantasy.
+
+==Biography==
+
+Adam Dalton was born in [[Croydon, England]] on a dark and stormy night{{Citation needed|date=November 2019}}. He was educated at [[Whitgift School]] and the [[University of Warwick]], where he completed a BA in English and American Literature and an MA in English Literature.<ref>{{cite web|title=A J Dalton Profile|url=http://metaphysicalfantasy.wordpress.com/a-j-dalton-2/a-j-dalton/}}</ref>
+
+Dalton moved into English language teaching, working in a variety of countries between 1996 and 2005. He then took a managerial position in [[Manchester, England]], with the British Council, the UK's international organisation for cultural relations, a registered charity. While working there, he self-published the Flesh & Bone series: ''Necromancer's Gambit'' (2008), ''Necromancer's Betrayal'' (2009), and ''Necromancer's Fall'' (2010)''.<ref>{{cite web |title=Gollancz - Exclusive Interview with AJ Dalton |url=http://www.gollancz.co.uk/2012/05/exclusive-interview-with-aj-dalton/ |access-date=13 October 2013 |archive-url=https://web.archive.org/web/20170703105336/https://www.gollancz.co.uk/2012/05/exclusive-interview-with-aj-dalton/ |archive-date=3 July 2017 |url-status=dead }}</ref>  ''In late 2011, he signed a deal with Gollancz for ''Empire of the Saviours'' and a further two volumes, namely ''Gateway of the Saviours'' and ''Tithe of the Saviours''. In 2015, he published ''The Book of Orm'' with Kristell Ink, a collection of fantasy stories based on Scandinavian mythology. He followed that collection with ''The Book of Angels'' in 2016 and'' The Book of Dragons'' in 2017.
+
+Dalton's academic study of fantasy and its subgenres was completed in 2018, when he completed a PhD with the [[University of Huddersfield]]. That academic work, his earlier publications and website (2008) have seen him recognised as the creator and lead author of the fantasy sub-genre known as 'metaphysical fantasy'{{Citation needed|date=November 2019}}.
+
+==Publications==
+
+===Standalones===
+* ''The Book of Orm'' (Apr 2015)
+* ''The Book of Angels'' (Sept 2016)
+* ''The Book of Dragons'' (Sept 2017)
+
+===Chronicles of a Cosmic Warlord===
+# ''Empire of the Saviours'' (May 2012) – longlisted for the [[David Gemmell Legend Awards|Gemmell Legend Award 2013]]
+# ''Gateway of the Saviours'' (May 2013)
+# ''Tithe of the Saviours'' (May 2014)
+
+===The Flesh & Bone Series===
+# ''Necromancer's Gambit'' (Feb 2008)
+# ''Necromancer's Betrayal'' (Aug 2009)
+# ''Necromancer's Fall'' (Aug 2010)
+
+===Short stories and Novellas===
+* ''A Passport to Your Dreams'' – appeared in the 2005 book Blending In: Farang Reflections on Living in Thai Culture
+* ''Knight of Ages'' (Oct 2012)
+* ''I am a Small God'' (Sept 2016)
+
+==External links==
+* A J Dalton's homepage (http://www.ajdalton.eu) 
+* A J Dalton on the Orion website (https://www.youtube.com/watch?v=tSs843KB5_0)
+
+{{reflist}}
+
+{{DEFAULTSORT:Dalton, A. J.}}
+[[Category:British fantasy writers]]
+[[Category:Living people]]
+[[Category:Alumni of the University of Warwick]]
+[[Category:People from Croydon]]
+[[Category:1970 births]]

@@ -1,0 +1,96 @@
+{{Short description|American writer (1952–2009)}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Tom Deitz
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| birth_name = Thomas Franklin Deitz
+| birth_date =  {{birth date|1952|01|17}}
+| birth_place = [[Georgia (U.S. state)|Georgia]]
+| death_date =  {{death date and age|2009|04|27|1952|01|17}}
+| death_place = 
+| resting_place = 
+| occupation = {{flatlist|
+* [[Novelist]]
+* professor
+* artist
+}}
+| language = English
+| nationality = [[United States of America|United States]]
+| ethnicity = 
+| education = BA, MA
+| alma_mater = [[University of Georgia]]
+| genre = Fantasy
+| notableworks =  <!-- or: | notablework = -->
+| awards = {{awd|[[Phoenix Award (science fiction)|Phoenix Award]]|2007}}
+| years_active = 1989–2002
+}}
+
+'''Thomas Franklin Deitz''' (January 17, 1952 – April 27, 2009) was an American fantasy [[novelist]], professor, and artist from [[Georgia (U.S. state)|Georgia]]. He was best known for authoring the ''David Sullivan'' contemporary fantasy series, though he also authored three other fantasy series and a standalone novel set in the same universe as the ''David Sullivan'' series.
+
+He was an assistant professor at [[Gainesville State College]], where he was named faculty member of the year in 2008, and an adjunct professor at two other colleges. Deitz was awarded the [[Phoenix Award (science fiction)|Phoenix Award]] in 2007 for contributions toward Southern science fiction and fantasy fandom.
+
+Deitz died on April 27, 2009 of heart failure after having a heart attack in January of the same year.
+
+==Biography==
+Thomas Franklin Deitz was born January 17, 1952 in [[North Carolina (U.S. state)|North Carolina]]. He earned both a [[Bachelor of Arts|Bachelor]] and a [[Master of Arts]] in medieval English from the [[University of Georgia]].
+
+Deitz won the [[Phoenix Award (science fiction)|Phoenix Award]] in 2007 for lifetime achievement in promoting Southern fandom. This award was given at the annual [[DeepSouthCon]], a traveling convention in the southeastern United States. In 2007, it was held in [[Dickson, Tennessee]] as OutsideCon 20.<ref name="deepsouthcon">{{cite web|url=http://www.southernfan.com/deepsouthcon.htm|title=A Brief History Of The DeepSouthCon|accessdate=October 1, 2014|publisher=Southern Fandom Resource Guide|first=Kelly|last=Lockhart}}</ref>
+
+Deitz was an adjunct English faculty member at [[Gainesville State College]], Lanier Tech, and [[Tri-County Community College]], and received a tenure-track appointment as assistant professor in Fall 2008 at Gainesville State College. He was recognized as GSC's adjunct faculty member of the year in 2008.
+
+In addition to writing, Deitz's creative outlets included creating murals and fantasy art, participating in drama productions (with minor roles in a number of community and college productions), model automobile collecting, costuming, and other pursuits via the [[Society for Creative Anachronism]]. He was a founding member of the SCA's Barony of Bryn Madoc.
+
+Deitz died on Monday, April 27, 2009 of heart failure.  He had a heart attack in January of that year and was a candidate to receive a [[ventricular assist device]] (VAD), but had suffered too much damage to his heart for the device to be implanted.
+
+==Works==
+===David Sullivan series===
+#''Windmaster's Bane'' (1986, Avon, {{ISBN|0380750295}})
+#''Fireshaper's Doom'' (1987, Avon, {{ISBN|0380753294}})
+#''Darkthunder's Way'' (1989, Avon, {{ISBN|0380755084}})
+#''Sunshaker's War'' (1990, Avon, {{ISBN|0380760622}})
+#''Stoneskin's Revenge'' (1991, Avon, {{ISBN|0380760630}})
+#''Ghostcountry's Wrath'' (1995, Avon, {{ISBN|0380768380}})
+#''Dreamseeker's Road'' (1995, Avon, {{ISBN|0380774844}})
+#''Landslayer's Law'' (1997, Avon, {{ISBN|0380786494}})
+#''Warstalker's Track'' (1999, Eos, {{ISBN|0380786508}})
+
+Though not part of this series, Deitz’ ''The Gryphon King'' (1989, Avon, {{ISBN|0380755068}}) is set in the same universe.
+
+===Soulsmith Trilogy===
+#''Soulsmith'' (1991, Avon, {{ISBN|0380762897}})
+#''Dreambuilder'' (1992, Avon, {{ISBN|0380762900}})
+#''Wordwright'' (1993, Avon, {{ISBN|0380762919}})
+
+===A Tale of Eron series===
+#''Bloodwinter'' (1999, Bantam Spectra, {{ISBN|0553378635}})
+#''Springwar'' (2000, Bantam Spectra, {{ISBN|0553378643}})
+#''Summerblood'' (2001, Bantam Spectra, {{ISBN|0553380702}})
+#''Warautumn'' (2002, Bantam Spectra, {{ISBN|0553380710}})
+
+===Thunderbird O'Conner series===
+#''Above the Lower Sky'' (1994, William Morrow & Co., {{ISBN|0688137164}})
+#''The Demons in the Green'' (1996, Avon, {{ISBN|0380782715}})
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.fantasticfiction.co.uk/d/tom-deitz/ Unofficial bibliography]
+*[http://books.ofearna.us/deitz.html Illustrated bibliography (unofficial)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Deitz, Tom}}
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:American science fiction writers]]
+[[Category:University of Georgia alumni]]
+[[Category:Novelists from Georgia (U.S. state)]]
+[[Category:1952 births]]
+[[Category:2009 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

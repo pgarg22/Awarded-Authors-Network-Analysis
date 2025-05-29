@@ -1,0 +1,111 @@
+{{Infobox writer
+| name             = Michael Dickman
+| image            = 
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       =  August 20, 1975
+| birth_place      = Portland, Oregon
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date) -->
+| death_place      = 
+| resting_place    = 
+| occupation       = Poet
+| language         = English
+| nationality      = American
+| citizenship      = American
+| education        = 
+| alma_mater       = 
+| period           = 
+| genre            = <!-- or: | genres = -->
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notable_works    = 
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 2
+| relatives        = 
+| awards           = *2008 Narrative Prize by Narrative Magazine
+*  2010 James Laughlin Award from the Academy of American Poets
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc.; or omit -->
+}}
+
+'''Michael Dickman''' is an American poet born August 20, 1975 in [[Portland, Oregon|Portland]], [[Oregon]]. His work has appeared in ''The New Yorker'', ''The American Poetry Review'', ''Field'', ''Tin House'', and ''Narrative Magazine''. Michael Dickman currently teaches at [[Princeton University]].
+
+== Education and background ==
+Dickman attended and graduated from La Salle Catholic College Preparatory, after which he attended five colleges (Portland State, the University of San Francisco, Portland Community College, Marylhurst University and the University of Oregon). He received a fellowship from The James A. Michener Center for Writers at the University of Texas. In 2009, he received an Alfred Hodder Fellowship at Princeton University.<ref>{{cite web |url=http://www.princeton.edu/arts/lewis_center/society_of_fellows/fellows/dickman/ |title=Michael Dickman: 2009 Hodder Fellow |publisher=Princeton University |access-date=2010-09-04}}</ref>
+
+== Career ==
+His poem "Returning to Church" was awarded the 2008 Narrative Prize by [[Narrative Magazine]].<ref>{{cite news |title=Portland twins Matthew and Michael Dickman are making their mark in the poetry world |url=http://www.seattlepi.com/books/398420_dickmans03.html |last=Marshall |first=John |date=February 2, 2009 |work=[[Seattle Post-Intelligencer|Seattle PI]] |access-date=2009-10-03}}</ref> Dickman's first book, ''The End of the West'', was published in 2009 by [[Copper Canyon Press]]. His second book, ''Flies'' ([[Copper Canyon Press]], 2011), won the 2010 [[Academy of American Poets#James Laughlin Award|James Laughlin Award]] from the Academy of American Poets.<ref>{{cite web |title=Michael Dickman Receives the James Laughlin Award |url=http://www.poets.org/viewmedia.php/prmMID/21811 |access-date=2010-09-04}}</ref> He is also the coauthor, with his twin brother [[Matthew Dickman]], of the 2012 poetry collection ''50 American Plays'', published by Copper Canyon Press.
+
+He and his brother Matthew starred as the pre-cog twins, Arthur and Dashiell respectively, in the 2002 [[Steven Spielberg]] film [[Minority Report (film)|''Minority Report'']].
+
+Michael and Matthew Dickman were the subject of an April 6, 2009, ''New Yorker'' profile.<ref>{{cite magazine |last=Mead |first=Rebecca |title=Couplet: A Pair of Twin Poets |magazine=The New Yorker |date=April 6, 2009 |pages=42–49 |url=http://archives.newyorker.com/?i=2009-04-06#folio=042}}</ref>
+
+Michael Dickman's poem "Scholls Ferry Rd.," published in ''Poetry'' Magazine in 2020, received criticism for its use of racist language.<ref>{{cite journal |title=To Our Readers Regarding "Scholls Ferry Rd." by Michael Dickman |journal=Poetry |date=June 26, 2020|url=https://www.poetryfoundation.org/harriet/2020/06/to-our-readers-regarding-scholls-ferry-rd-by-michael-dickman}}</ref> [[Don Share]], the Editor in Chief of ''Poetry'', subsequently resigned, and Dickman requested that the poem be removed from circulation.<ref>{{cite journal |last=Share |first=Don |title=Editor's Note|journal=Poetry |date=July 16, 2020|url=https://www.poetryfoundation.org/poetrymagazine/articles/153943/editor39s-note-5f0f1bc747964}}</ref>
+
+== Family ==
+He is married and has two children.
+
+==Bibliography==
+{{Expand list|date=August 2016}}
+
+===Collections===
+* {{cite book |author=Dickman, Michael |title=The end of the West |location=Port Townsend, Wash. |publisher=Copper Canyon Press |year=2009 |isbn=9781556592898}}
+* {{cite book |author=Dickman, Michael |author-mask=1 |title=Flies |location=Port Townsend, Wash. |publisher=Copper Canyon Press |year=2011 <!--isbn=-->}}
+* {{cite book |author1=Dickman, Matthew |author-link1=Matthew Dickman |author2=Michael Dickman |name-list-style=amp |title=50 American plays : poems |location=Port Townsend, Wash. |publisher=Copper Canyon Press |year=2012 |isbn=9781556593932}}
+* ''Green Migraine'' ([[Copper Canyon Press]], 2016)
+*  {{cite book |author=Dickman, Michael |author-mask=1 |title=Days & days |year=2019 <!--isbn=-->}}
+
+=== List of poems ===
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+|-
+|From the canal
+|2013
+|{{cite magazine |author=Dickman, Michael |date=May 6, 2013 |title=From the canal |magazine=The New Yorker |volume=89 |issue=12 |pages=36 |url=http://www.newyorker.com/magazine/2013/05/06/from-the-canal <!--accessdate=2016-08-18-->}}
+| 
+|-
+|Hotel days
+|2019
+|{{cite magazine |author=Dickman, Michael |date=March 4, 2019 |title=Hotel days |magazine=The New Yorker |volume=95 |issue=2 |pages=42–43 |url=https://www.newyorker.com/magazine/2019/03/04/hotel-days <!--accessdate=2019-08-02-->}}
+|
+|-
+|Mouse hunt
+|2014
+|{{cite magazine |author=Dickman, Michael |date=September 1, 2014 |title=Mouse hunt |magazine=The New Yorker |volume=90 |issue=25 |pages=46–47 |url=https://www.newyorker.com/magazine/2014/09/01/mouse-hunt-2 <!--accessdate=2019-08-05-->}}
+|
+|-
+|Lakes Rivers Streams
+|2018
+|{{cite journal |author=Dickman, Michael |date=July 2018|title=Lakes Rivers Streams|journal=Poetry |url=https://www.poetryfoundation.org/poetrymagazine/poems/147141/lakes-rivers-streams <!--accessdate=20120-08-24-->}}
+|
+|}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dickman, Michael}}
+[[Category:Poets from Oregon]]
+[[Category:Living people]]
+[[Category:Writers from Portland, Oregon]]
+[[Category:Portland State University alumni]]
+[[Category:University of San Francisco alumni]]
+[[Category:Marylhurst University alumni]]
+[[Category:The New Yorker people]]
+[[Category:University of Oregon alumni]]
+[[Category:Michener Center for Writers alumni]]
+[[Category:1975 births]]

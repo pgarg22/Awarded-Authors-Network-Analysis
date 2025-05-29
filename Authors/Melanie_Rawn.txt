@@ -1,0 +1,94 @@
+{{short description|American author of fantasy literature (born 1954)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+| imagesize   =
+| name        = Melanie Rawn
+| caption     = 
+| birth_date   = {{birth year and age|1954}}
+| birth_place  =
+| death_date   = 
+| death_place  = 
+| occupation  = Novelist
+| genre       = [[Epic fantasy]]
+| movement    = 
+| notableworks = The Dragon Prince trilogy
+| influences  = 
+| influenced  = 
+| website     = {{URL|http://www.melanierawn.org}}
+}}
+'''Melanie Rawn''' (born 1954) is an American author of [[fantasy]] literature. She received a BA in history from [[Scripps College]] and worked as a teacher and editor before becoming a writer.
+
+She has been nominated for a [[Locus Awards|Locus award]] on three occasions: in 1989 for ''Dragon Prince'' in the first novel category, in 1994 for ''Skybowl'' in the fantasy novel category, and again in 1995 for ''Ruins of Ambrai'' in the fantasy novel category. The third novel in the "Exiles" trilogy has now been "forthcoming" since the late 1990s due to the author suffering from clinical depression and moving on to other projects to facilitate her recovery.<ref>{{cite book|last=Rawn|first=Melanie|title=Spellbinder: A Love Story With Magical Interruptions|year=2007|publisher=Macmillan|isbn=978-0-7653-5436-5|pages=499–500}}</ref> Rawn gave an interview in 2014 with [[Kate Elliot]]'s blog where she announced that she intended to complete the trilogy after finishing the fifth book of the ''Glass Thorns'' series.<ref>{{cite web|author1=Kate Elliot|authorlink1=Kate Elliot|title=Update on Melanie Rawn's EXILES 3, The Captal's Tower|url=http://www.imakeupworlds.com/index.php/2014/07/update-on-melanie-rawns-exiles-3-the-captals-tower/|website=I Make Up Worlds|access-date=15 May 2018}}</ref>
+
+==Bibliography==
+
+===''Dragon Prince'' trilogy===
+*''[[Dragon Prince]]'', 1988
+*''[[The Star Scroll]]'', 1989
+*''[[Sunrunner's Fire]]'', 1990
+
+===''Dragon Star'' trilogy===
+*''[[Stronghold (novel)|Stronghold]]'', 1991
+*''[[The Dragon Token]]'', 1993
+*''[[Skybowl]]'', 1994
+
+===''The Golden Key'' universe===
+*''[[The Golden Key (novel)|The Golden Key]]'', 1996 (with [[Kate Elliott (writer)|Kate Elliott]] and [[Jennifer Roberson]])
+*''[[The Diviner (novel)|The Diviner]]'', 2011 (prequel to ''The Golden Key'')
+
+===''Exiles'' trilogy===
+*''[[The Ruins of Ambrai]]'', 1994
+*''[[The Mageborn Traitor]]'', 1997
+*''[[The Captal's Tower]]'' (unpublished)
+
+===''Spellbinder''===
+*''Spellbinder: A Love Story with Magical Interruptions'', 2006
+*''Fire Raiser'', 2009
+
+===''Glass Thorns''===
+*''[[Touchstone (novel)|Touchstone]]'', 2012
+*''[[Elsewhens (novel)|Elsewhens]]'', 2013
+*''Thornlost'', 2014
+*''Window Wall'', 2015
+*''Playing to the Gods'', 2017
+
+===Stand-alone===
+*''The Rushden Legacy'', 1985 (as Ellen Randolph)
+*''Knights of the Morningstar'', 1994, [[Quantum Leap]] tie-in novel
+
+===Short stories===
+*''Salve, Regina'' in ''Return to Avalon'' (Roberson; 1995 DAW)
+*''The Lady's Gift'' in ''Ancient Enchantresses''  (Massie-Ferch, Greenberg, Gilliam; 1995 DAW)
+*''Of the Death of Kings'' in ''Warrior Enchantresses''  (Maisse-Ferch, Greenberg; 1996 DAW)
+*''The Abbot of Croxton'' in ''Highwaymen: Robbers & Rogues''  (Roberson; 1997 DAW)
+*''There Goes the Neighborhood'' in ''Return of the Dinosaurs''  (Resnick, Greenberg; 1997 DAW)
+*''The Sacrifice'' in ''Fantasy: DAW 30th Anniversary''  (Gilbert, Wollheim; 2002 DAW)
+*''Mother of All Russiya'' in ''Lightspeed, May 2012''  (Adams; 2012 Lightspeed Magazine)
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.melanierawn.org Official website]
+* [http://www.sffworld.com/interview/206p0.html Interview with Melanie Rawn] at [http://www.sffworld.com SFFWorld.com]
+* {{isfdb name|id=Melanie_Rawn|name=Melanie Rawn}}
+
+{{Melanie Rawn novels}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rawn, Melanie}}
+[[Category:1954 births]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American women short story writers]]
+[[Category:American short story writers]]
+[[Category:American women novelists]]
+[[Category:Dragon Prince series]]
+[[Category:Living people]]
+[[Category:Novels by Melanie Rawn| ]]
+[[Category:Scripps College alumni]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American women writers]]

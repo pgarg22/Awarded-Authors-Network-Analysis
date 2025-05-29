@@ -1,0 +1,548 @@
+{{Short description|French novelist, poet and dramatist (1802–1885)}}
+{{Other uses|Victor Hugo (disambiguation)}}
+{{Use dmy dates|date=January 2021}}{{EngvarB|date=September 2015}}
+{{Infobox writer
+| name = Victor Hugo
+| image = Victor Hugo by Étienne Carjat 1876 - full.jpg
+| image_size = 
+| caption = Hugo by [[Étienne Carjat]], 1876
+| birth_name = Victor-Marie Hugo
+| genre = Novel, poetry, theatre
+| movement = [[Romanticism]]
+| notableworks = {{Unbulleted list 
+| ''[[Les Misérables]]''
+| ''[[Ruy Blas]]''
+| {{nowrap|''[[The Hunchback of Notre-Dame]]''}}
+}}
+| years_active = 1829–1883
+| module = {{Collapsed infobox section begin|Offices held {{nowrap|1841–1885}}}}
+{{Infobox officeholder | embed = yes
+ | office = [[Senate (France)|Senator]] for [[Seine (department)|Seine]]
+| term_start = 30 January 1876
+| term_end = 22 May 1885
+| successor = 
+| constituency = Paris
+| office1 = Member of the [[National Assembly (1871)|National Assembly]]<br/>for [[Gironde]]
+| term_start1 = 9 February 1871
+| term_end1 = 1 March 1871
+| successor1 = 
+| constituency1 = [[Bordeaux]]
+| office2 = Member of the [[National Assembly (France)|National Assembly]]<br/>for [[Seine (department)|Seine]]
+| term_start2 = 24 April 1848
+| term_end2 = 3 December 1851
+| constituency2 = Paris
+| office3 = [[Peerage of France|Peer of France]]
+| term_start3 = 13 April 1845
+| term_end3 =  February 1848
+| office4 = [[List of members of the Académie française|Member of the Académie française]]<br/><small>Seat 14</small>
+| term_start4 = 7 January 1841
+| term_end4 = 22 May 1885
+| predecessor4 = [[Népomucène Lemercier]]
+| successor4 = [[Leconte de Lisle]]{{Collapsed infobox section end}}
+| party = {{Unbulleted list 
+| [[Party of Order]] {{small|(1848–1851)}}
+| [[Liberalism in France|Independent liberal]] {{small|(1871)}}
+| [[Republican Union (France)|Republican Union]] {{small|(1876–1885)}}
+}}
+}}
+| birth_date = {{Birth date|df=y|1802|2|26}}
+| birth_place = [[Besançon]], [[French First Republic|France]]
+| death_date = {{Death date and age|df=y|1885|5|22|1802|2|26}}
+| death_place = [[Paris]], [[French Third Republic|France]]
+| resting_place = [[Panthéon, Paris]] and [[Coupvray]]
+| occupation = Poet, novelist, [[Playwright|dramatist]], essayist, politician
+| spouse = {{marriage|[[Adèle Foucher]]<br/>|1822|1868|end=d.}}
+| children = 5
+| parents = {{Unbulleted list 
+| [[Joseph Léopold Sigisbert Hugo|Joseph Léopold Hugo]]
+| [[Sophie Trébuchet]]
+}}
+}}
+{{French literature sidebar}}
+{{Liberalism sidebar}}
+
+'''Victor-Marie Hugo''' ({{IPA-fr|viktɔʁ maʁi yɡo|lang|Victor_Hugo.ogg}}; 26 February 1802 – 22 May 1885) was a French poet, novelist, essayist, playwright, and dramatist of the [[Romanticism|Romantic movement]]. During a literary career that spanned more than sixty years, he wrote abundantly in an exceptional variety of genres: lyrics, satires, epics, philosophical poems, epigrams, novels, history, critical essays, political speeches, funeral orations, diaries, letters public and private, as well as dramas in verse and prose.
+
+Hugo is considered to be one of the greatest and best-known French writers. Outside France, his most famous works are the novels ''[[Les Misérables]]'', 1862, and ''[[The Hunchback of Notre-Dame]]'' ({{lang-fr|links=no|Notre-Dame de Paris}}), 1831. In France, Hugo is renowned for his poetry collections, such as {{lang|fr|[[Les Contemplations]]}} (''The Contemplations'') and {{lang|fr|[[La Légende des siècles]]}} (''The Legend of the Ages''). Hugo was at the forefront of the [[Romanticism|Romantic literary movement]] with his play ''[[Cromwell (play)|Cromwell]]'' and drama ''[[Hernani (drama)|Hernani]]''. Many of his works have inspired music, both during his lifetime and after his death, including the musicals ''[[Les Misérables (musical)|Les Misérables]]'' and ''[[Notre-Dame de Paris (musical)|Notre-Dame de Paris]]''. He produced more than 4,000 drawings in his lifetime, and campaigned for social causes such as the abolition of [[Capital punishment in France|capital punishment]].
+
+Though a committed [[royalist]] when he was young, Hugo's views changed as the decades passed, and he became a passionate supporter of [[republicanism]] serving in politics as both deputy and senator. His work touched upon most of the political and social issues and the artistic trends of his time. His opposition to absolutism and his colossal literary achievement established him as a national hero. He was honoured by interment in the [[Panthéon]].
+
+== Early life ==
+Victor-Marie Hugo was born on 26 February 1802 in {{lang|fr|[[Besançon]]|italic=no}} in Eastern France. The youngest son of [[Joseph Léopold Sigisbert Hugo]] (1774–1828) a general in the [[Napoleonic army]], and [[Sophie Trébuchet]] (1772–1821); the couple had two more sons: {{lang|fr|Abel Joseph|italic=no}} (1798–1855) and {{lang|fr|Eugène|italic=no}} (1800–1837). The Hugo family came from [[Nancy, France|Nancy]] in [[Lorraine]] where Victor Hugo's grandfather was a wood merchant. Léopold enlisted in the army of [[Revolutionary France]] at fourteen, he was an atheist and an ardent supporter of the republic created following the abolition of the monarchy in 1792. Victor's mother Sophie was a devout Catholic who remained loyal to the deposed [[House of Bourbon|dynasty]]. They met in [[Châteaubriant]], a few miles from Nantes in 1796 and married the following year.<ref name="Robb 1999 p.">{{cite book|last=Robb|first=G.|url=https://books.google.com/books?id=kU9LloPylhQC|title=Victor Hugo|publisher=W.W. Norton & Company|year=1999|isbn=978-0-393-31899-9|page=12|language=lt}}</ref>
+
+Since Hugo's father was an officer in Napoleon's army, the family moved frequently from posting to posting, Sophie had three children in four years. Léopold Hugo wrote to his son that he had been conceived on one of the highest peaks in the [[Vosges Mountains]], on a journey from Lunéville to Besançon. "This elevated origin", he went on, "seems to have had effects on you so that your muse is now continually sublime."<ref>Escholier, Raymond, ''Victor Hugo raconté par ceux qui l'ont vu'', Librairie Stock, 1931, p. 11.</ref> Hugo believed himself to have been conceived on 24 June 1801, which is the origin of [[Jean Valjean]]'s prisoner number [[24601]].<ref>{{Cite book|title=The Novel of the Century : The extraordinary adventure of Les Miserables|last=Bellos|first=David|publisher=Particular Books|year=2017|isbn=978-1-846-14470-7|pages=162}}</ref>
+
+In 1810 Hugo's father was created Count Hugo de Cogolludo y Sigüenza by then King of Spain [[Joseph Bonaparte]],<ref name="dHauterive 1845 p. 223">{{cite book | last=d'Hauterive | first=A.F.B. | title=Annuaire de la pairie et de la noblesse de France et des maisons souveraines de l'Europe et de la diplomatie | publisher=Bureau de la Pub| issue=v. 3 | year=1845 | url=https://books.google.com/books?id=XZhAAAAAcAAJ&pg=PA223 | language=fr}}</ref> though it seems that the Spanish title was not legally recognized in France. Hugo later titled himself as a viscount, and it was as "Vicomte Victor Hugo" that he was appointed a [[Peerage of France|peer of France]] on 13 April 1845.<ref>{{Cite book|last=Biré|first=Edmond|title=Victor Hugo après 1830, Vol II|publisher=Perrin|year=1891|location=Paris|pages=73}}</ref><ref name="Pairs de France">{{cite web | last=Pairs de France | first=Nat | title=Pairs de France : HUGO Marie-Victor, vicomte Hugo | website=Accueil – Sénat | url=http://www.senat.fr/pair-de-france/hugo_marie_victorpf0733.html | language=fr}}</ref>
+
+Weary of the constant moving required by military life, Sophie separated temporarily from Léopold and settled in Paris in 1803 with her sons; she began seeing General [[Victor Fanneau de La Horie]], Hugo's godfather who had been a comrade of General Hugo's during the campaign in Vendee. In October 1807 the family rejoined Leopold, now Colonel Hugo, Governor of the province of [[Province of Avellino|Avellino]]. In that city, Victor was taught math by [[Giuseppe de Samuele Cagnazzi]], elder brother of Italian scientist [[Luca de Samuele Cagnazzi]].<ref>[[#Vicenti|Vicenti]], p. 46</ref> Sophie found out that Leopold had been living in secret with an Englishwoman called Catherine Thomas.<ref name="Stephens 2019 p. 24">{{cite book|last=Stephens|first=B.|url=https://books.google.com/books?id=laCKDwAAQBAJ&pg=PA24|title=Victor Hugo|publisher=Reaktion Books|year=2019|isbn=978-1-78914-111-5|series=Critical Lives|page=24|language=lt}}</ref>
+{{Gallery
+|align=center
+|File:Sophie Trébuchet.jpg|[[Sophie Trébuchet]], mother of Victor Hugo
+|File:Général Joseph-Leopold Sigisbert Hugo.jpg|General [[Joseph Léopold Sigisbert Hugo|Joseph-Leopold Hugo]], father of Victor Hugo
+}}
+Soon Hugo's father was called to Spain to fight the [[Peninsular War]]. Madame Hugo and her children were sent back to Paris in 1808, where they moved to an old convent, 12 {{Lang|fr|Impasse des Feuillantines|italic=no}}, an isolated mansion in a deserted quarter of the left bank of the Seine. Hiding in a chapel at the back of the garden, was Victor Fanneau de La Horie, who had conspired to restore the Bourbons and had been condemned to death a few years earlier. He became a mentor to Victor and his brothers.<ref name="Caussé p. 4">{{cite book|last=Caussé|first=E.|url=https://books.google.com/books?id=JlxcBAAAQBAJ&pg=PP4|title=Victor Hugo – Tout pour briller en société|publisher=Les Éditions de l'Ebook malin|page=4|language=fr}}</ref>
+
+In 1811 the family joined their father in Spain, Victor and his brothers were sent to school in Madrid at the {{Lang|es|Real Colegio de San Antonio de Abad}} while Sophie returned to Paris on her own, now officially separated from her husband. In 1812 Victor Fanneau de La Horie was arrested and executed. In February 1815 Victor and Eugene were taken away from their mother and placed by their father in the Pension Cordier, a private boarding school in Paris, where Victor and Eugène remained three years while also attending lectures at [[Lycée Louis-le-Grand|Lycée Louis le Grand.]]<ref name="Robb 2017 p. 49">{{cite book|last=Robb|first=G.|url=https://books.google.com/books?id=XNslDwAAQBAJ&pg=PT49|title=Victor Hugo|publisher=Pan Macmillan|year=2017|isbn=978-1-5098-5565-0|page=49|language=lt}}</ref>
+
+On 10 July 1816, Hugo wrote in his diary: “I shall be Chateaubriand or nothing”. In 1817 he wrote a poem for a competition organised by the [[Académie Française|Academie Française]], for which he received an honorable mention. The Academicians refused to believe that he was only fifteen.<ref name="King 1878 p. 11">{{cite book | last=King | first=E. | title=French Political Leaders | publisher=G.P. Putnam's sons | series=Brief biographies of European public men | year=1878 | url=https://books.google.com/books?id=CQjSAAAAMAAJ&pg=PA11 |page=15}}</ref> Victor moved in with his mother 18 {{Lang|fr|rue des Petits-Augustins|italic=no}} the following year and began attending law school. Victor fell in love and secretly became engaged, against his mother's wishes, to his childhood friend [[Adèle Foucher]]. In June 1821 Sophie Trebuchet died, and Léopold married his long time mistress Catherine Thomas a month later. Victor married Adèle the following year. In 1819, Victor and his brothers began publishing a periodical called {{Lang|fr|Le Conservateur littéraire}}.<ref name="Frey Laster Hugo 1999 p. 201">{{cite book|last1=Frey|first1=J.A.|url=https://books.google.com/books?id=olFboDm4bcgC&pg=PA201|title=A Victor Hugo Encyclopedia|last2=Laster|first2=A.|last3=Hugo|first3=V.|publisher=Greenwood Press|year=1999|isbn=978-0-313-29896-7|series=ABC-Clio ebook|page=201|language=pl}}</ref>
+
+== Career ==
+Hugo published his first novel the year following his marriage ({{lang|fr|[[Han d'Islande]]}}, 1823), and his second three years later (''[[Bug-Jargal]]'', 1826). Between 1829 and 1840, he published five more volumes of poetry ({{lang|fr|[[Les Orientales]]}}, 1829; {{lang|fr|[[Les Feuilles d'automne]]}}, 1831; {{lang|fr|[[Les Chants du crépuscule]]}}, 1835; {{lang|fr|[[Les Voix intérieures]]}}, 1837; and {{lang|fr|[[Les Rayons et les Ombres]]}}, 1840), cementing his reputation as one of the greatest elegiac and lyric poets of his time.
+
+Like many young writers of his generation, Hugo was profoundly influenced by {{lang|fr|[[François-René de Chateaubriand]]|italic=no}}, the famous figure in the literary movement of [[Romanticism]] and France's pre-eminent literary figure during the early 19th century. In his youth, Hugo resolved to be "{{lang|fr|Chateaubriand|italic=no}} or nothing", and his life would come to parallel that of his predecessor in many ways. Like {{lang|fr|Chateaubriand|italic=no}}, Hugo furthered the cause of Romanticism, became involved in politics (though mostly as a champion of [[Republicanism]]), and was forced into exile due to his political stances.
+
+The precocious passion and eloquence of Hugo's early work brought success and fame at an early age. His first collection of poetry ({{lang|fr|[[Odes et poésies diverses]]}}) was published in 1822 when he was only 20 years old and earned him a royal pension from [[Louis XVIII of France|Louis XVIII]]. Though the poems were admired for their spontaneous fervor and fluency, the collection that followed four years later in 1826 ({{lang|fr|[[Odes et Ballades]]}}) revealed Hugo to be a great poet, a natural master of lyric and creative song.
+[[File:Achille_Devéria,_Victor_Hugo,_1829,_NGA_208390.jpg|alt=Image of Victor Hugo|thumb|Victor Hugo in 1829, lithograph by Achille Devéria in the collection of the [[National Gallery of Art]]|248x248px]]
+Victor Hugo's first mature work of fiction was first published in February 1829 by Charles Gosselin without the author's name and reflected the acute social conscience that would infuse his later work. {{lang|fr|Le Dernier jour d'un condamné}} (''[[The Last Day of a Condemned Man]]'') would have a profound influence on later writers such as [[Albert Camus]], [[Charles Dickens]], and [[Fyodor Dostoyevsky]]. {{lang|fr|[[Claude Gueux]]|italic=no}}, a documentary short story about a real-life murderer who had been executed in France, appeared in 1834 and was later considered by Hugo himself to be a precursor to his great work on social injustice, {{lang|fr|[[Les Misérables]]}}.
+
+Hugo became the figurehead of the Romantic literary movement with the plays ''Cromwell'' (1827) and ''Hernani'' (1830).<ref>{{cite web |last=State Library of Victoria |title=Victor Hugo: Les Misérables – From Page to Stage research guide |url=http://guides.slv.vic.gov.au/victorhugo |url-status=dead |archive-url=https://web.archive.org/web/20140714180659/http://guides.slv.vic.gov.au/victorhugo |archive-date=14 July 2014 }}</ref> ''Hernani'' announced the arrival of French romanticism: performed at the [[Comédie-Française]], it was greeted with several nights of rioting as romantics and traditionalists clashed over the play's deliberate disregard for neo-classical rules. Hugo's popularity as a playwright grew with subsequent plays, such as ''Marion Delorme'' (1831), ''The King Amuses Himself'' (1832), and ''Ruy Blas'' (1838).<ref>Brockett, Oscar G. ''History of the Theatre''. Eight Edition. Boston: Allyn & Bacon, 1999. P. 339.</ref>
+Hugo's novel {{lang|fr|Notre-Dame de Paris}} (''[[The Hunchback of Notre-Dame]]'') was published in 1831 and quickly translated into other languages across Europe. One of the effects of the novel was to shame the City of Paris into restoring the much-neglected [[Notre Dame de Paris|Cathedral of Notre Dame]], which was attracting thousands of tourists who had read the popular novel. The book also inspired a renewed appreciation for pre-Renaissance buildings, which thereafter began to be actively preserved.
+
+Hugo began planning a major novel about social misery and injustice as early as the 1830s, but a full 17 years were needed for {{lang|fr|Les Misérables}} to be realised and finally published in 1862.
+Hugo had used the departure of prisoners for the [[Bagne of Toulon]] in one of his early stories, "Le Dernier Jour d'un condamné" He went to Toulon to visit the Bagne in 1839 and took extensive notes, though he did not start writing the book until 1845. On one of the pages of his notes about the prison, he wrote in large block letters a possible name for his hero: " JEAN TRÉJEAN". When the book was finally written, Tréjean became [[Jean Valjean]].<ref>''Le Bagne de Toulon (1748–1873)'', Académie du Var, Autres Temps Editions (2010), {{ISBN|978-2-84521-394-4}}</ref>
+
+Hugo was acutely aware of the quality of the novel, as evidenced in a letter he wrote to his publisher, Albert Lacroix, on 23 March 1862, "My conviction is that this book is going to be one of the peaks, if not the crowning point of my work."<ref>{{cite web|url=http://www.alalettre.com/Hugo-miserables.htm|title=Les Misérables de Victor Hugo |work=alalettre.com|access-date=3 April 2017}}</ref> Publication of ''Les Misérables'' went to the highest bidder. The Belgian publishing house {{lang|fr|Lacroix|italic=no}} and {{lang|nl|Verboeckhoven|nocat=y}} undertook a marketing campaign unusual for the time, issuing press releases about the work a full six months before the launch. It also initially published only the first part of the novel ("[[Fantine]]"), which was launched simultaneously in major cities. Installments of the book sold out within hours and had enormous impact on French society.
+[[File:Ebcosette.jpg|thumb|left|Illustration by [[Émile Bayard]] from the original edition of {{lang|fr|[[Les Misérables]]}} (1862)|237x237px]]
+[[File:Victor_Hugo-Hunchback.jpg|alt=|thumb|176x176px|right|Illustration by [[Luc-Olivier Merson]] for [[The Hunchback of Notre-Dame|Notre-Dame de Paris]] (1881)]]
+The critical establishment was generally hostile to the novel; {{lang|fr|[[Hippolyte Taine|Taine]]|italic=no}} found it insincere, {{lang|fr|[[Jules Barbey d'Aurevilly|Barbey d'Aurevilly]]|italic=no}} complained of its vulgarity, {{lang|fr|[[Gustave Flaubert]]|italic=no}} found within it "neither truth nor greatness", the [[Goncourt brothers|{{lang|fr|Goncourt|nocat=y}} brothers]] lambasted its artificiality, and {{lang|fr|[[Charles Baudelaire|Baudelaire]]|italic=no}} – despite giving favourable reviews in newspapers – castigated it in private as "repulsive and inept". ''Les Misérables'' proved popular enough with the masses that the issues it highlighted were soon on the agenda of the [[National Assembly of France]]. Today, the novel remains his most well-known work. It is popular worldwide and has been adapted for cinema, television, and stage shows.
+
+An apocryphal tale<ref>Garson O'Toole, [http://quoteinvestigator.com/2014/06/14/exclamation/ "Briefest Correspondence: Question Mark? Exclamation Mark!"] (14 June 2014).</ref> about the shortest correspondence in history is said to have been between Hugo and his publisher [[Hurst and Blackett]] in 1862. Hugo was on vacation when {{lang|fr|Les Misérables}} was published. He queried the reaction to the work by sending a single-character [[telegram]] to his publisher, asking {{mono|?}}. The publisher replied with a single {{mono|!}} to indicate its success.<ref>Norris McWhirter (1981). ''Guinness Book of World Records: 1981 Edition''. Bantam Books, p. 216.</ref>
+Hugo turned away from social/political issues in his next novel, {{lang|fr|Les Travailleurs de la Mer}} (''[[Toilers of the Sea]]''), published in 1866. The book was well received, perhaps due to the previous success of {{lang|fr|Les Misérables}}. Dedicated to the channel island of [[Guernsey]], where he spent 15 years of exile, Hugo tells of a man who attempts to win the approval of his beloved's father by rescuing his ship, intentionally marooned by its captain who hopes to escape with a treasure of money it is transporting, through an exhausting battle of human engineering against the force of the sea and a battle against an almost mythical beast of the sea, a giant squid. Superficially an adventure, one of Hugo's biographers calls it a "metaphor for the 19th century–technical progress, creative genius and hard work overcoming the immanent evil of the material world."<ref>{{cite book |last=Robb |first=Graham |title=Victor Hugo: A Biography |year=1997 |publisher=W.W. Norton & Company |page=414 |isbn=9780393318999 |url=https://books.google.com/books?id=kU9LloPylhQC&pg=PA414 }}</ref>
+
+The word used in Guernsey to refer to squid ({{lang|fr|pieuvre}}, also sometimes applied to octopus) was to enter the French language as a result of its use in the book. Hugo returned to political and social issues in his next novel, {{lang|fr|L'Homme Qui Rit}} (''[[The Man Who Laughs]]''), which was published in 1869 and painted a critical picture of the aristocracy. The novel was not as successful as his previous efforts, and Hugo himself began to comment on the growing distance between himself and literary contemporaries such as {{lang|fr|[[Gustave Flaubert|Flaubert]]|italic=no}} and {{lang|fr|[[Émile Zola]]|italic=no}}, whose [[Literary realism|realist]] and [[naturalism (literature)|naturalist]] novels were now exceeding the popularity of his own work.
+
+His last novel, {{lang|fr|Quatre-vingt-treize}} (''[[Ninety-Three]]''), published in 1874, dealt with a subject that Hugo had previously avoided: the [[Reign of Terror]] during the [[French Revolution]]. Though Hugo's popularity was on the decline at the time of its publication, many now consider ''Ninety-Three'' to be a work on par with Hugo's better-known novels.
+
+==Political life and exile==
+After three unsuccessful attempts, Hugo was finally elected to the {{lang|fr|[[Académie française]]}} in 1841, solidifying his position in the world of French arts and letters. A group of French academicians, particularly {{lang|fr|[[Victor-Joseph Étienne de Jouy|Étienne de Jouy]]|italic=no}}, were fighting against the "romantic evolution" and had managed to delay Victor Hugo's election.<ref>On the role of E. de Jouy against V. Hugo, see {{lang|fr|Les aventures militaires, littéraires et autres de Etienne de Jouy de l'Académie française}} by {{lang|fr|Michel Faul|italic=no}} (Editions Seguier, France, 2009 {{ISBN|978-2-84049-556-7}})</ref> Thereafter, he became increasingly involved in French politics.
+
+On the nomination of King {{lang|fr|[[Louis-Philippe]]|italic=no}}, Hugo entered the Upper Chamber of Parliament as a {{lang|fr|[[pair de France]]}} in 1845, where he spoke against the [[capital punishment in France|death penalty]] and [[social injustice]], and in favour of [[freedom of the press]] and [[self-government]] for Poland.
+
+In 1848, Hugo was [[1848 French Constituent Assembly election|elected to the National Assembly]] of the [[French Second Republic|Second Republic]] as a conservative. In 1849, he broke with the conservatives when he gave a noted speech calling for the end of misery and poverty. Other speeches called for universal suffrage and free education for all children. Hugo's advocacy to abolish the death penalty was renowned internationally.
+[[File:Victor Hugo-Exile.jpg|thumb|Among the Rocks on [[Jersey]] (1853–1855)|198x198px|alt=]]
+These parliamentary speeches are published in {{lang|fr|Œuvres complètes: actes et paroles I : avant l'exil, 1841–1851}}. Scroll down to the {{lang|fr|Assemblée Constituante 1848}} heading and subsequent pages.<ref>{{cite web |publisher=[[State Library of Victoria]] |title=Victor Hugo: Les Misérables – From Page to Stage research guide |url=http://guides.slv.vic.gov.au/content.php?pid=572687&sid=4722472}}</ref>
+When Louis Napoleon ([[Napoleon III]]) [[French coup d'état of 1851|seized complete power in 1851]], establishing an anti-parliamentary constitution, Hugo openly declared him a traitor to France. He moved to [[Brussels]], then [[Jersey]], from which he was expelled for supporting a Jersey newspaper that had criticised Queen Victoria. He finally settled with his family at [[Hauteville House]] in [[Saint Peter Port]], [[Guernsey]], where he would live in exile from October 1855 until 1870.
+
+While in exile, Hugo published his famous political pamphlets against Napoleon III, {{lang|fr|[[Napoléon le Petit]]}} and {{lang|fr|[[Histoire d'un crime]]}}. The pamphlets were banned in France but nonetheless had a strong impact there. He also composed or published some of his best work during his period in [[Guernsey]], including {{lang|fr|[[Les Misérables]]}}, and three widely praised collections of poetry ({{lang|fr|[[Les Châtiments]]}}, 1853; {{lang|fr|[[Les Contemplations]]}}, 1856; and {{lang|fr|[[La Légende des siècles]]}}, 1859).
+
+Like most of his contemporaries, Victor Hugo justified colonialism in terms of a civilizing mission and putting an end to the [[Barbary slave trade|slave trade]] on the Barbary coast. In a speech delivered on 18 May 1879, during a banquet to celebrate the abolition of slavery, in the presence of the French abolitionist writer and parliamentarian Victor Schœlcher, Hugo declared that the [[Mediterranean Sea]] formed a natural divide between " ultimate civilisation and […] utter barbarism," adding "God offers Africa to Europe, Take it," to civilise its indigenous inhabitants.
+
+This might partly explain why in spite of his deep interest and involvement in political matters he remained silent on the Algerian issue. He knew about the atrocities committed by the French Army during the [[French conquest of Algeria]] as evidenced by his diary<ref>{{Cite book|title=Choses Vues|last=Hugo|first=Victor|publisher=Gallimard|year=1972|isbn=2-07-040217-7|location=Paris|pages=286–87}}</ref> but he never denounced them publicly; however in ''Les Misérables'', Hugo wrote: "Algeria too harshly conquered, and, as in the case of India by the English, with more barbarism than civilization".<ref>Les Misérables, Random House Publishing Group, 2000, 1280 pages, {{ISBN|9780679641551}}, p. 720.</ref>
+
+After coming in contact with [[Victor Schœlcher]], a writer who fought for the abolition of slavery and French colonialism in the Caribbean, he started strongly campaigning against slavery. In a letter to American abolitionist [[Maria Weston Chapman]], on 6 July 1851, Hugo wrote: Slavery in the United States! It is the duty of this republic to set such a bad example no longer.... The United States must renounce slavery, or they must renounce liberty.{{sfn|Hugo|American Anti-Slavery Society|1860|p=7}} In 1859 he wrote a letter asking the United States government, for the sake of their own reputation in the future, to spare abolitionist [[John Brown (abolitionist)|John Brown's]] life, Hugo justified Brown's actions by these words: "Assuredly, if insurrection is ever a sacred duty, it must be when it is directed against Slavery".{{sfn|l'Esclavage}} Hugo agreed to diffuse and sell one of his best known drawings, "Le Pendu", an homage to John Brown, so one could "keep alive in souls the memory of this liberator of our black brothers, of this heroic martyr John Brown, who died for Christ just as Christ".{{sfn|Herrington|2005|p=131}}{{Quote|text=Only one slave on Earth is enough to dishonour the freedom of all men. So the abolition of slavery is, at this hour, the supreme goal of the thinkers|author=Victor Hugo|title=17 January 1862|source={{sfn | Langellier | 2014 | p=117}}}}
+
+Victor Hugo fought a lifelong battle for the abolition of the death penalty as a novelist, diarist, and member of Parliament. ''[[The Last Day of a Condemned Man]]'' published in 1829 analyses the pangs of a man awaiting execution; several entries of Things Seen (''Choses vues''), the diary he kept between 1830 and 1885, convey his firm condemnation of what he regarded as a barbaric sentence;<ref>{{Cite book|last=Hugo|first=Victor|title=Choses vues|publisher=Gallimard|year=1972|isbn=2-07-040217-7|location=Paris|pages=267–69}}</ref> on 15 September 1848, seven months after the [[French Revolution of 1848|Revolution of 1848]], he delivered a speech before the Assembly and concluded, "You have overthrown the throne. […] Now overthrow the scaffold."<ref>{{Cite web|last=Hugo|first=Victor|date=15 September 1848|title=Speech on the death penalty|url=https://fr.wikisource.org/wiki/Discours_%C3%A0_l%E2%80%99Assembl%C3%A9e_constituante_1848|access-date=31 January 2017|website=Wikisource.org}}</ref> His influence was credited in the removal of the death penalty from the constitutions of [[Capital punishment in Switzerland|Geneva]], [[Capital punishment in Portugal|Portugal]], and [[Colombia]].<ref>{{cite web|title=Victor Hugo, l'homme océan|url=http://expositions.bnf.fr/hugo/pedago/dossiers/mort/reperes/signe.htm|access-date=19 July 2012|publisher={{lang|fr|Bibliothèque nationale de France|italic=no}}}}</ref> He had also pleaded for [[Benito Juárez]] to spare the recently captured emperor [[Maximilian I of Mexico]] but to no avail.
+
+Although Napoleon III granted an amnesty to all political exiles in 1859, Hugo declined, as it meant he would have to curtail his criticisms of the government. It was only after Napoleon III fell from power and the [[French Third Republic|Third Republic]] was proclaimed that Hugo finally returned to his homeland in 1870, where he was promptly elected to the National Assembly and the Senate.
+
+He was in Paris during the [[Siege of Paris (1870–71)|siege by the Prussian Army in 1870]], famously eating animals given to him by the Paris Zoo. As the siege continued, and food became ever more scarce, he wrote in his diary that he was reduced to "eating the unknown".<ref>{{cite news |url=https://news.google.com/newspapers?id=7NtVAAAAIBAJ&pg=5281%2C6531479 |title=Victor Hugo's diary tells how Parisians dined on zoo animals |newspaper=[[The Spokesman-Review]] |location=Spokane, Washington |page=3 |date=7 February 1915 }}</ref>
+
+[[File:Combats dans la rue Rivoli.jpg|thumb|[[Paris Commune|Communards]] defending a barricade on the Rue de Rivoli]]During the [[Paris Commune]] – the revolutionary government that took power on 18 March 1871 and was toppled on 28 May – Victor Hugo was harshly critical of the atrocities committed on both sides. On 9 April, he wrote in his diary, "In short, this Commune is as idiotic as the National Assembly is ferocious. From both sides, folly."<ref>Hugo, Victor, Choses vues, 1870–1885, Gallimard, 1972, {{ISBN|2-07-036141-1}}, p. 164</ref> Yet he made a point of offering his support to members of the Commune subjected to brutal repression. He had been in [[Brussels]] since 22 March 1871 when in the 27 May issue of the Belgian newspaper ''l’Indépendance'' Victor Hugo denounced the government's refusal to grant political asylum to the Communards threatened with imprisonment, banishment or execution.<ref>{{cite book|url=https://archive.org/details/actesetparoles06hugogoog|quote=l'indépendance.|title=Actes et paroles: 1870–1871–1872|first=Victor|last=Hugo|date=1 January 1872|publisher=Michel Lévy frères|access-date=3 April 2017|via=Internet Archive}}</ref> This caused so much uproar that in the evening a mob of fifty to sixty men attempted to force their way into the writer's house shouting "Death to Victor Hugo! Hang him! Death to the scoundrel!".<ref>Hugo, Victor, Choses vues, Gallimard, 1972, {{ISBN|2-07-036141-1}}, pp. 176–77</ref>
+
+Victor Hugo, who said "A war between Europeans is a civil war",<ref>Hugo, Victor, Choses vues, Gallimard, 1972, {{ISBN|2-07-036141-1}}, p. 258</ref> was an enthusiastic advocate for the creation of the [[United States of Europe]]. He expounded his views on the subject in a speech he delivered during the [[International Peace Congress]] which took place in Paris in 1849. The Congress, of which Hugo was the President, proved to be an international success, attracting such famous philosophers as [[Frederic Bastiat]], [[Charles Gilpin (politician)|Charles Gilpin]], [[Richard Cobden]], and [[Henry Richard]]. The conference helped establish Hugo as a prominent public speaker and sparked his international fame, and promoted the idea of the "United States of Europe".<ref>Peace Congress, 2d, Paris, 1849. Report of the proceedings of the second general Peace Congress, held in Paris on the 22nd, 23rd, and 24 August 1849. Compiled from authentic documents under the superintendence of the Peace Congress Committee. London, Charles Gilpin, 1849</ref> On 14 July 1870 he planted the "oak of the United States of Europe" in the garden of [[Hauteville House]] where he stayed during his exile on [[Guernsey]] from 1856 to 1870. The [[Batak massacre|massacres]] of Balkan Christians by the Turks in 1876 inspired him to write [[Pour la Serbie]] (For Serbia) in his sons' newspaper ''[[Le Rappel]]''. This speech is today considered one of the founding acts of the European ideal.<ref>{{Cite web|url=http://www.senat.fr/evenement/archives/D24/etats.html|title=Bicentenaire de Victor Hugo (1802–2002) – Sénat, French Government|website=www.senat.fr|url-status=dead|access-date=23 January 2020|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303170355/http://www.senat.fr/evenement/archives/D24/etats.html}}</ref>
+
+Because of his concern for the rights of artists and [[copyright]], he was a founding member of the {{lang|fr|[[Association Littéraire et Artistique Internationale]]}}, which led to the [[Berne Convention for the Protection of Literary and Artistic Works]]. However, in {{lang|fr|Pauvert|italic=no}}'s published archives, he states strongly that "any work of art has two authors: the people who confusingly feel something, a creator who translates these feelings, and the people again who consecrate his vision of that feeling. When one of the authors dies, the rights should totally be granted back to the other, the people".
+He was one of the earlier supporters of the concept of ''[[domaine public payant]]'', under which a nominal fee would be charged for copying or performing works in the public domain, and this would go into a common fund dedicated to helping artists, especially young people.
+
+==Religious views==
+Hugo's religious views changed radically over the course of his life. In his youth and under the influence of his mother, he identified as a Catholic and professed respect for Church hierarchy and authority. From there he became a [[lapsed Catholic|non-practising Catholic]] and increasingly expressed anti-Catholic and [[anti-clerical]] views. He frequented [[spiritism]] during his exile (where he participated also in many [[séance]]s conducted by Madame [[Delphine de Girardin]])<ref>{{cite book |last=Malgras |first=J. |title=Les Pionniers du Spiritisme en France: Documents pour la formation d'un livre d'Or des Sciences Psychiques |location=Paris |year=1906 }}</ref><ref>{{lang|fr|Chez Victor Hugo. Les tables tournantes de Jersey.}} Extracts from meeting minutes published by {{lang|fr|Gustave Simon|italic=no}} in 1923</ref> and in later years settled into a [[rationalist]] [[deism]] similar to that espoused by [[Voltaire]]. A census-taker asked Hugo in 1872 if he was a Catholic, and he replied, "No. A [[Free thought|Freethinker]]".<ref>{{cite book |last=Gjelten |first=Tom |title=Bacardi and the Long Fight for Cuba |year=2008 |publisher=Penguin |pages=48 |isbn=9780670019786 |url=https://books.google.com/books?id=3BDH9FK6grMC&pg=PA48 }}</ref>
+
+After 1872, Hugo never lost his antipathy towards the Catholic Church. He felt the Church was indifferent to the plight of the working class under the oppression of the monarchy. Perhaps he also was upset by the frequency with which his work appeared on the Church's [[Index Librorum Prohibitorum|list of banned books]]. Hugo counted 740 attacks on ''Les Misérables'' in the Catholic press.<ref>{{cite book |last=Robb |first=Graham |title=Victor Hugo |year=1997 |publisher=Picador |location=London |page=32 |isbn=9780393318999 |url=https://books.google.com/books?id=kU9LloPylhQC&pg=PA32 }}</ref> When Hugo's sons Charles and {{lang|fr|François-Victor|italic=no}} died, he insisted that they be buried without a [[crucifix]] or priest. In his will, he made the same stipulation about his own death and funeral.<ref>{{cite book |last=Petrucelli |first=Alan |title=Morbid Curiosity: The Disturbing Demises of the Famous and Infamous |year=2009 |publisher=Penguin |page=152 |isbn=9781101140499 |url=https://books.google.com/books?id=r7csXXH7S9UC&pg=PT152 }}</ref>
+
+Yet he believed in life after death and prayed every single morning and night, convinced as he wrote in ''[[The Man Who Laughs]]'' that "Thanksgiving has wings and flies to its right destination. Your prayer knows its way better than you do".<ref>Hugo, Victor, ''The Man Who Laughs'', CreateSpace Independent Publishing Platform, 2014, {{ISBN|978-1495441936}}, p. 132</ref>
+
+Hugo's [[rationalism]] can be found in poems such as ''[[Torquemada (play)|Torquemada]]'' (1869, about [[religious fanaticism]]), ''The Pope'' (1878, [[anti-clerical]]), ''Religions and Religion'' (1880, denying the usefulness of churches) and, published posthumously, ''The End of Satan'' and ''God'' (1886 and 1891 respectively, in which he represents Christianity as a [[griffin]] and [[rationalism]] as an [[angel]]). [[Vincent van Gogh]] ascribed the saying "Religions pass away, but God remains", actually by [[Jules Michelet]], to Hugo.<ref>{{cite web |url=http://vangoghletters.org/vg/letters/let294/letter.html#n-6 |title=Vincent van Gogh to Theo van Gogh. The Hague, between about Wednesday, 13 & about Monday, 18 December 1882 |publisher=[[Van Gogh Museum]] |access-date=31 January 2012}}</ref>
+
+== Relationship with music ==
+Although Hugo's many talents did not include exceptional musical ability, he nevertheless had a great impact on the music world through the inspiration that his works provided for composers of the 19th and 20th centuries. Hugo himself particularly enjoyed the music of [[Christoph Willibald Gluck|Gluck]] and [[Carl Maria von Weber|Weber]]. In {{lang|fr|Les Misérables}}, he calls the huntsman's chorus in Weber's ''[[Euryanthe]]'', "perhaps the most beautiful piece of music ever composed".<ref>Hugo, V., {{lang|fr|Les misérables}}, Volume 2, Penguin Books, 1 December 1980, p. 103.</ref> He also greatly admired [[Ludwig van Beethoven|Beethoven]], and rather unusually for his time, he also appreciated works by composers from earlier centuries such as [[Giovanni Pierluigi da Palestrina|Palestrina]] and [[Claudio Monteverdi|Monteverdi]].<ref name="autogenerated2002">"{{lang|fr|Hugo à l'Opéra}}", ed. Arnaud Laster, {{lang|fr|L'Avant-Scène Opéra}}, no. 208 (2002).</ref>
+
+Two famous musicians of the 19th century were friends of Hugo: [[Hector Berlioz]] and [[Franz Liszt]]. The latter played Beethoven in Hugo's home, and Hugo joked in a letter to a friend that, thanks to Liszt's piano lessons, he learned how to play a favourite song on the piano – with only one finger. Hugo also worked with composer [[Louise Bertin]], writing the libretto for her 1836 opera ''[[La Esmeralda (opera)|La Esmeralda]]'', which was based on the character in ''The Hunchback of Notre Dame''.<ref name="autogenerated2002" /> Although for various reasons the opera closed soon after its fifth performance and is little known today, it has enjoyed a modern revival, both in a piano/song concert version by Liszt at the {{lang|fr|Festival international Victor Hugo et Égaux|italic=no}} 2007<ref>[http://www.festival-victorhugo-egaux.fr/cadrefrefigur07.htm {{lang|fr|Cette page use des cadres|nocat=y}}] {{webarchive|url=https://web.archive.org/web/20080508142413/http://www.festival-victorhugo-egaux.fr/cadrefrefigur07.htm |date=8 May 2008 }}. {{lang|fr|Festival international Victor Hugo et Égaux|italic=no}}. Retrieved 19 July 2012.</ref> and in a full orchestral version presented in July 2008 at {{lang|fr|Le Festival de Radio France et Montpellier Languedoc-Roussillon|italic=no}}.<ref>{{cite web |url=http://www.festivalradiofrancemontpellier.com/2008/23-juillet-opera-laesmeralda-louise-bertin.php |title=Mercredi 23 juillet – 20h – Opéra Berlioz / Le Corum |access-date=13 April 2008 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20080509154928/http://www.festivalradiofrancemontpellier.com/2008/23-juillet-opera-laesmeralda-louise-bertin.php |archive-date=9 May 2008 }}</ref>
+
+On the other hand, he had low esteem for [[Richard Wagner]], whom he described as "a man of talent coupled with imbecility.<ref>Hugo, Victor, Choses vues, 1870–1885, Gallimard, 1972, p. 353, {{ISBN|2-07-036141-1}}</ref>"
+
+Well over one thousand musical compositions have been inspired by Hugo's works from the 19th century until the present day. In particular, Hugo's plays, in which he rejected the rules of classical theatre in favour of romantic drama, attracted the interest of many composers who adapted them into operas. More than one hundred operas are based on Hugo's works and among them are [[Gaetano Donizetti|Donizetti]]'s ''[[Lucrezia Borgia (opera)|Lucrezia Borgia]]'' (1833), [[Giuseppe Verdi|Verdi]]'s {{lang|it|[[Rigoletto]]|nocat=y}} (1851) and ''[[Ernani]]'' (1844), and {{lang|it|[[Amilcare Ponchielli|Ponchielli]]|nocat=y}}<nowiki/>'s {{lang|it|[[La Gioconda (opera)|La Gioconda]]|nocat=y}} (1876).<ref name="autogenerated1981">"{{lang|fr|Hugo et la musique}}" in {{lang|fr|Pleins feux sur Victor Hugo}}, {{lang|fr|Arnaud Laster|italic=no}}, {{lang|fr|[[Comédie-Française]]|italic=no}} (1981)</ref>
+
+Hugo's novels, as well as his plays, have been a great source of inspiration for musicians, stirring them to create not only opera and ballet but musical theatre such as {{lang|fr|[[Notre-Dame de Paris (musical)|Notre-Dame de Paris]]}} and the ever-popular {{lang|fr|[[Les Misérables (musical)|Les Misérables]]}}, London [[West End of London|West End]]'s longest running musical. Additionally, Hugo's beautiful poems have attracted an exceptional amount of interest from musicians, and numerous melodies have been based on his poetry by composers such as {{lang|fr|Berlioz|italic=no}}, {{lang|fr|[[Georges Bizet|Bizet]]|italic=no}}, {{lang|fr|[[Gabriel Fauré|Fauré]]|italic=no}}, {{lang|fr|[[César Franck|Franck]]|italic=no}}, {{lang|fr|[[Édouard Lalo|Lalo]]|italic=no}}, {{lang|fr|Liszt|italic=no}}, {{lang|fr|[[Jules Massenet|Massenet]]|italic=no}}, {{lang|fr|[[Camille Saint-Saëns|Saint-Saëns]]|italic=no}}, [[Sergei Rachmaninoff|Rachmaninoff]], and {{lang|de|[[Richard Wagner|Wagner]]|italic=no|nocat=y}}.<ref name="autogenerated1981" />
+
+Today, Hugo's work continues to stimulate musicians to create new compositions. For example, Hugo's novel against capital punishment, ''The Last Day of a Condemned Man'', was adapted into an opera by {{lang|fr|[[David Alagna]]|italic=no}}, with a libretto by {{lang|fr|Frédérico Alagna|italic=no}} and premièred by their brother, tenor {{lang|fr|[[Roberto Alagna]]|italic=no}}, in 2007.<ref>{{cite web |url=http://www.festival-victorhugo-egaux.fr/Programme2008.htm |title=Festival Victor Hugo & Egaux 2008 |url-status=dead |archive-url=https://web.archive.org/web/20080429182135/http://www.festival-victorhugo-egaux.fr/Programme2008.htm |archive-date=29 April 2008 }}</ref> In Guernsey, every two years, the Victor Hugo International Music Festival attracts a wide range of musicians and the premiere of songs specially commissioned from such composers as {{lang|fr|[[Guillaume Connesson]]|italic=no}}, {{lang|fr|[[Richard Dubugnon]]|italic=no}}, {{lang|fr|[[Olivier Kaspar]]|italic=no}}, and {{lang|fr|[[Thierry Escaich]]|italic=no}} and based on Hugo's poetry.
+
+Remarkably, not only Hugo's literary production has been the source of inspiration for musical works, but also his political writings have received attention from musicians and have been adapted to music. For instance, in 2009, Italian composer Matteo Sommacal was commissioned by Festival "Bagliori d'autore" and wrote a piece for speaker and chamber ensemble entitled ''Actes et paroles'', with a text elaborated by Chiara Piola Caselli after Victor Hugo's last political speech addressed to the Assemblée législative, "Sur la Revision de la Constitution" (18 July 1851),<ref>V. Hugo, ''Actes et paroles: Avant l'exile, 1875'', [https://fr.wikisource.org/wiki/Discours_%C3%A0_l%E2%80%99Assembl%C3%A9e_l%C3%A9gislative_1849-1851 ''Discours à l’Assemblée législative 1849–1851''], J. Hetzel, Maison Quantin, Paris, 1875</ref> and premiered in Rome on 19 November 2009, in the auditorium of the Institut français, Centre Saint-Louis, French Embassy to the Holy See, by Piccola Accademia degli Specchi featuring the composer [[Matthias Kadar]].<ref>C. Pulsoni, "L'orazione di Victor Hugo trasformata in musica", ''Il Corriere dell'Umbria'', ''Vivere d'Umbria'', Perugia (IT), 19 November 2009</ref>
+
+==Declining years and death==
+[[File:Victor Hugo deathbed portrait by Nadar, 1885.png|thumb|right|Hugo on his deathbed by [[Nadar]]|201x201px]]
+[[File:Panthéon Victor Hugo.JPG|thumb|Tomb of Victor Hugo at the {{lang|fr|[[Panthéon]]|italic=no}}|200x200px]]
+
+When Hugo returned to Paris in 1870, the country hailed him as a national hero. He was confident that he would be offered the dictatorship, as shown by the notes he kept at the time: "Dictatorship is a crime. This is a crime I am going to commit", but he felt he had to assume that responsibility.<ref>Hugo Victor, Choses vues, 1870–1885, Gallimard, 1972, 2-07-036141-1, p. 257.</ref> Despite his popularity, Hugo lost his bid for re-election to the National Assembly in 1872.
+
+Throughout his life Hugo kept believing in unstoppable humanistic progress. In his last public address on 3 August 1879 he prophesied in an over-optimistic way, "In the twentieth century war will be dead, the scaffold will be dead, hatred will be dead, frontier boundaries will be dead, dogmas will be dead; man will live."<ref>{{cite book|url=https://books.google.com/books?id=1LzeAgAAQBAJ&q=%22La+question+sociale+reste.+Elle+est+terrible%2C+mais+elle+est+simple%2C+c%27est+la+question+de+ceux+qui+ont+et+de+ceux+qui+n%27ont+pas+%21+%22&pg=PA267|title=La Fin de Satan: Nouvelle édition augmentée|first=Hugo|last=Victor|date=18 February 2014|publisher=Arvensa editions|isbn=9782368413029|access-date=3 April 2017|via=Google Books}}</ref>
+
+Within a brief period, he suffered a mild stroke, his daughter Adèle was interned in an [[insane asylum]], and his two sons died. (Adèle's biography inspired the movie ''[[The Story of Adele H.]]'') His wife Adèle had died in 1868.
+
+His faithful mistress, [[Juliette Drouet]], died in 1883, only two years before his own death. Despite his personal loss, Hugo remained committed to the cause of political change. On 30 January 1876, he was elected to the newly created Senate. This last phase of his political career was considered a failure. Hugo was a maverick and achieved little in the Senate.
+
+Hugo suffered a mild stroke on 27 June 1878.<ref>Robb, Graham ''Victor Hugo'' (1997) p. 506</ref><ref name="bandw">{{cite web |url=http://www.kirjasto.sci.fi/vhugo.htm |title=Victor Hugo |website=Books and Writers (kirjasto.sci.fi) |first=Petri |last=Liukkonen |publisher=[[Kuusankoski]] Public Library |location=Finland |archive-url=https://web.archive.org/web/20140324184201/http://www.kirjasto.sci.fi/vhugo.htm |archive-date=24 March 2014 |url-status=dead  }}</ref>
+
+To honour the fact that he was entering his 80th year, one of the greatest tributes to a living writer was held. The celebrations began on 25 June 1881, when Hugo was presented with a {{lang|fr|[[Manufacture nationale de Sèvres|Sèvres]]}} vase, the traditional gift for sovereigns. On 27 June, one of the largest parades in French history was held.
+
+Marchers stretched from the {{lang|fr|Avenue d'Eylau|italic=no}}, where the author was living, down the {{lang|fr|[[Champs-Élysées]]|italic=no}}, and all the way to the centre of Paris. The paraders marched for six hours past Hugo as he sat at the window at his house. Every inch and detail of the event was for Hugo; the official guides even wore cornflowers as an allusion to Fantine's song in {{lang|fr|Les Misérables}}. On 28 June, the city of Paris changed the name of the Avenue d'Eylau to [[Avenue Victor-Hugo (Paris)|Avenue Victor-Hugo]].<ref>[http://canadp-archivesenligne.paris.fr/images/vignettes/hugo.jpg {{lang|fr|Acte de décès de Victor Hugo|nocat=y}}] {{webarchive|url=https://web.archive.org/web/20160303170743/http://canadp-archivesenligne.paris.fr/images/vignettes/hugo.jpg |date=3 March 2016 }}</ref> Letters addressed to the author were from then on labelled "To Mister Victor Hugo, In his avenue, Paris".
+
+Two days before dying, he left a note with these last words: "To love is to act".
+
+On 20 May 1885, [[Le Petit Journal (newspaper)|''le Petit Journal'']] published the official medical bulletin on Hugo's health condition. "The illustrious patient" was fully conscious and aware that there was no hope for him. They also reported from a reliable source that at one point in the night he had whispered the following {{lang|fr|[[alexandrin]]}}, "En moi c’est le combat du jour et de la nuit" – "In me, this is the battle between day and night".<ref>{{Cite web|date=21 May 1885|title=Le Petit journal|url=https://gallica.bnf.fr/ark:/12148/bpt6k608676z|access-date=17 December 2020|website=Gallica|language=EN}}</ref> [[Le Matin (France)|''Le Matin'']] published a slightly different version, "Here is the battle between day and night."
+[[File:Paris-arc de triomphe-Victor Hugo 1885-14.jpg|thumb|alt=|273x273px|The [[Catafalque]] of Victor Hugo under the [[Arc de Triomphe]] on 1 June 1885.]]
+Hugo's death from [[pneumonia]] on 22 May 1885, at the age of 83, generated intense national mourning. He was not only revered as a towering figure in literature, he was a statesman who shaped the [[French Third Republic|Third Republic]] and democracy in France. All his life he remained a defender of liberty, equality and fraternity as well as an adamant champion of French culture. In 1877, aged 75, he wrote, "I am not one of these sweet-tempered old men. I am still exasperated and violent. I shout and I feel indignant and I cry. Woe to anyone who harms France! I do declare I will die a fanatic patriot".<ref>Hugo, Victor, Choses vues 1870–1885, Gallimard, 1972, {{ISBN|2-07-036141-1}}, p. 411</ref>
+
+Although he had requested a pauper's funeral, he was awarded a state funeral by decree of President [[Jules Grévy]]. More than two million people joined his funeral procession in Paris from the {{lang|fr|[[Arc de Triomphe]]}} to the {{lang|fr|[[Panthéon]]|italic=no}}, where he was buried. He shares a crypt within the {{lang|fr|Panthéon|italic=no}} with {{lang|fr|[[Alexandre Dumas]]|italic=no}} and {{lang|fr|[[Émile Zola]]|italic=no}}. Most large French towns and cities have a street or square named after him.
+
+Hugo left five sentences as his last will, to be officially published:
+
+{{quote|<poem lang="fr" style="margin-center: 1em; font-style: italic;">
+Je donne cinquante mille francs aux pauvres. Je veux être enterré dans leur corbillard.
+Je refuse l'oraison de toutes les Églises. Je demande une prière à toutes les âmes.
+Je crois en Dieu.
+</poem>}}
+{{quote|<poem lang="fr" style="margin-center: 1em; font-style:;">
+I leave 50,000 francs to the poor. I wish to be buried in their hearse.
+I refuse [funeral] orations from all Churches. I ask [for] a prayer to all souls.
+I believe in God.
+</poem>}}
+
+==Drawings==
+Hugo produced more than 4,000 drawings. Originally pursued as a casual hobby, drawing became more important to Hugo shortly before his exile when he made the decision to stop writing to devote himself to politics. Drawing became his exclusive creative outlet between 1848 and 1851.
+
+Hugo worked only on paper, and on a small scale; usually in dark brown or black [[pen and ink|pen-and-ink]] wash, sometimes with touches of white, and rarely with colour. The surviving drawings are surprisingly accomplished and "modern" in their style and execution, foreshadowing the experimental techniques of [[Surrealism]] and [[Abstract expressionism]].
+
+He would not hesitate to use his children's stencils, ink blots, puddles and stains, lace impressions, "{{lang|fr|pliage}}" or folding (e.g. Rorschach blots), "{{lang|fr|grattage}}" or rubbing, often using the charcoal from matchsticks or his fingers instead of pen or brush. Sometimes he would even toss in coffee or soot to get the effects he wanted. It is reported that Hugo often drew with his left hand or without looking at the page, or during [[Spiritist]] [[séance]]s, to access his [[unconscious mind]], a concept only later popularised by [[Sigmund Freud]].
+
+Hugo kept his artwork out of the public eye, fearing it would overshadow his literary work. However, he enjoyed sharing his drawings with his family and friends, often in the form of ornately handmade calling cards, many of which were given as gifts to visitors when he was in political exile. Some of his work was shown to, and appreciated by, contemporary artists such as [[Vincent van Gogh|van Gogh]] and {{lang|fr|[[Eugène Delacroix|Delacroix]]|italic=no}}; the latter expressed the opinion that if Hugo had decided to become a painter instead of a writer, he would have outshone the artists of their century.
+
+== Personal life ==
+===Family===
+====Marriage====
+Hugo married [[Adèle Foucher]] in October 1822. Despite their respective affairs, they lived together for nearly 46 years until she died in August 1868. Hugo, who was still banished from France, was unable to attend her funeral in Villequier where their daughter [[Léopoldine Hugo|Léopoldine]] was buried. From 1830 to 1837 Adèle had an affair with [[Charles Augustin Sainte-Beuve|Charles-Augustin Sainte Beuve]], a reviewer and writer.<ref>
+Foucher-Hugo Adèle, Victor Hugo raconté par Adèle Hugo, Plon, 1985, 861 p., {{ISBN|2259012884}}, p. 41.</ref>
+
+====Children====
+Adèle and Victor Hugo had their first child, Léopold, in 1823, but the boy died in infancy. On 28 August 1824, the couple's second child, [[Léopoldine Hugo|Léopoldine]] was born, followed by [[Charles Hugo (writer)|Charles]] on 4 November 1826, [[François-Victor Hugo|François-Victor]] on 28 October 1828, and [[Adèle Hugo|Adèle]] on 28 July 1830.
+
+Hugo's eldest and favourite daughter, Léopoldine, died in 1843 at the age of 19, shortly after her marriage to Charles Vacquerie. On 4 September, she drowned in the [[Seine]] at [[Villequier]] when the boat she was in overturned. Her young husband died trying to save her. The death left her father devastated; Hugo was travelling at the time, in the south of France, when he first learned about Léopoldine's death from a newspaper that he read in a café.<ref>{{lang|fr|Victor Hugo, tome 1: Je suis une force qui va}} by Max Gallo, pub. {{lang|fr|Broché|italic=no}} (2001)</ref>
+[[File:Léopoldine lisant, Adèle Foucher, 1837, dessin, 19,2 x 27 cm , Maison de Victor Hugo, Paris.png|thumb|Léopoldine reading. Drawing by her mother [[Adèle Foucher]], 1837]]
+He describes his shock and grief in his famous poem "À Villequier":
+{{Verse translation|lang=frm|
+Hélas ! vers le passé tournant un œil d'envie,
+Sans que rien ici-bas puisse m'en consoler,
+Je regarde toujours ce moment de ma vie
+Où je l'ai vue ouvrir son aile et s'envoler!
+
+Je verrai cet instant jusqu'à ce que je meure,
+L'instant, pleurs superflus !
+Où je criai : L'enfant que j'avais tout à l'heure,
+Quoi donc ! je ne l'ai plus !
+|
+Alas! My envious eye, turning toward the past,
+Without anything else down here able to console me,
+I look continually at that moment of my life
+Where I saw her spread her wings and fly away!
+
+I will see that instant until I die,
+That instant, nothing beyond!
+Where I cried: "The child I had a short time ago,
+What! I have her no more!"
+}}
+
+He wrote many poems afterward about his daughter's life and death, and at least one biographer{{who|date=February 2021}} claims he never completely recovered from it. His most famous poem is undeniably "Demain, dès l'aube" (Tomorrow, at Dawn), in which he describes visiting her grave.
+
+===Exile===
+Hugo decided to live in exile after [[Napoleon III]]'s [[French coup d'état of 1851|coup d'état at the end of 1851]]. After leaving France, Hugo lived in Brussels briefly in 1851, and then moved to the [[Channel Islands]], first to Jersey (1852–1855) and then to the smaller island of Guernsey in 1855, where he stayed until Napoleon III's fall from power in 1870. Although Napoleon III proclaimed a general amnesty in 1859, under which Hugo could have safely returned to France, the author stayed in exile, only returning when Napoleon III was removed from power by the creation of the [[French Third Republic]] in 1870, as a result of the French defeat at the [[Battle of Sedan]] in the [[Franco-Prussian War]]. After the [[Siege of Paris (1870-71)|Siege of Paris]] from 1870 to 1871, Hugo lived again in Guernsey from 1872 to 1873, and then finally returned to France for the remainder of his life. In 1871, after the death of his son Charles, Hugo took custody of his grandchildren [[Jeanne Hugo|Jeanne]] and Georges-Victor.
+
+===Other relationships===
+====Juliette Drouet====
+[[File:Victor Hugo-Drouet.jpg|thumb|150px|right|Juliette Drouet]]
+From February 1833 until her death in 1883, [[Juliette Drouet]] devoted her whole life to Victor Hugo, who never married her even after his wife died in 1868. He took her on his numerous trips and she followed him in exile on [[Guernsey]].<ref>{{Cite web|title=Victor Hugo's House in Pasaia – European Romanticisms in Association|url=http://www.euromanticism.org/victor-hugos-house-in-pasaia/|access-date=17 December 2020|language=en}}</ref> There Hugo rented a house for her near [[Hauteville House]], his family home. She wrote some 20,000 letters in which she expressed her passion or vented her jealousy on her womanizing lover.<ref>Guillemin, Henri, ''Hugo'', Seuil, 1978, 191 p.  {{ISBN|2020000016}}, p. 55</ref>
+On 25 September 1870 during the [[Siege of Paris (1870–71)|Siege of Paris]] (19 September 1870 – 28 January 1871) Hugo feared the worst. He left his children a note reading as follows:
+
+"J.D.
+She saved my life in December 1851. For me she underwent exile. Never has her soul forsaken mine. Let those who have loved me love her. Let those who have loved me respect her.
+She is my widow."
+V.H.<ref>Seghers, Pierre, ''Victor Hugo visionnaire'', Robert Laffont, 95 p., {{ISBN|2221010442}}, p. 10.</ref>
+
+====Léonie d’Aunet====
+For more than seven years, Léonie d’Aunet, who was a married woman, was involved in a love relationship with Hugo. Both were caught in adultery on 5 July 1845. Hugo, who had been a Member of the [[Chamber of Peers (France)|Chamber of Peers]] since April, avoided condemnation whereas his mistress had to spend two months in prison and six in a convent. Many years after their separation, Hugo made a point of supporting her financially.<ref>Hugo, Victor, Choses vues 1849–1885, Gallimard, 1972, 1014 pp., {{ISBN|2070402177}}, p. 857 (17 Sep 1876)</ref>
+
+====Others====
+Hugo gave free rein to his sensuality until a few weeks before his death. He sought a wide variety of women of all ages, be they courtesans, actresses, prostitutes, admirers, servants or revolutionaries like [[Louise Michel]] for sexual activity. Both a [[graphomania]]c and [[erotomania]]c, he systematically reported his casual affairs using his own code, as [[Samuel Pepys]] did, to make sure they would remain secret. For instance, he resorted to Latin abbreviations (''osc.'' for kisses) or to Spanish (''Misma. Mismas cosas'': The same. Same things). Homophones are frequent: ''Seins'' (Breasts) becomes Saint; ''Poële'' (Stove) actually refers to ''Poils'' (Pubic hair). Analogy also enabled him to conceal the real meaning: A woman's ''Suisses'' (Swiss) are her breasts – due to the fact that Switzerland is renowned for its milk. After a rendezvous with a young woman named ''Laetitia'' he would write ''Joie'' (Happiness) in his diary. If he added ''t.n.'' (''toute nue'') he meant she stripped naked in front of him. The initials ''S.B.'' discovered in November 1875 may refer to [[Sarah Bernhardt]].<ref>Hugo, Victor, Choses vues 1870–1885, 529 p., {{ISBN|2070361411}}, pp. 371, 521 (n. 1).</ref>
+
+==Gallery==
+{{Gallery|align=center|caption=
+|File:Victor Hugo-Bridge.jpg|{{lang|fr|Ville avec le pont de Tumbledown}}, ("Town with Tumbledown Bridge"), 1847.
+|File:Victor Hugo-Octopus.jpg|{{lang|fr|Pieuvre avec les initiales V.H.}}, ("Octopus with the initials V.H."), 1866.
+|File:Le Rocher de l'Ermitage.jpg|{{lang|fr|Le Rocher de l'Ermitage dans un paysage imaginaire}} ("Ermitage Rock in an imaginary landscape")
+|File:Hugo.jpg|{{lang|fr|Le phare}} ("The Lighthouse")
+|File:Victor hugo gavroche a 11 ans.jpg|{{lang|fr|Gavroche a onze ans}}, ("{{lang|fr|Gavroche}} at eleven years old"). 
+|title=Victor Hugo's drawings|height=120px}}
+
+{{Gallery|align=center|caption=
+|File:Châtillon, Auguste de - Portrait de Victor Hugo avec son fils de François-Victor Hugo - 194 - Maison de Victor Hugo.jpg|Victor Hugo with his son François-Victor by [[Auguste de Châtillon]], 1836.
+|File:Victor Hugo bust.jpg|Marble bust of Victor Hugo by [[Auguste Rodin]]
+|File:Victor Hugo by Charles Hugo, c1850-55.jpg|Victor Hugo by Charles Hugo c. 1853
+|File:Victor hugo.jpg|[[Photogravure]] 
+|title=Portraits of Victor Hugo|height=120px}}
+
+==Memorials==
+[[File:Victur-Hugo-Ave-Paris-Photo-by-Pejman-Akbarzadeh.JPG|thumb|250px|{{lang|fr|[[Avenue Victor-Hugo (Paris)|Avenue Victor-Hugo]]|italic=no}} in Paris.|alt=|left]]
+[[File:Victor Hugo Statue.jpg|alt= Statue of Victor Hugo in Rome, Italy.|thumb|Statue of Victor Hugo in Rome, Italy. It is across from the Museo Carlo Bilotti on Viale Fiorello La Guardia.|434x434px]]
+His legacy has been honoured in many ways, including his portrait being placed on French currency.
+
+The people of [[Guernsey]] erected a statue by sculptor [[Jean Boucher (artist)|Jean Boucher]] in Candie Gardens ([[Saint Peter Port]]) to commemorate his stay in the islands. The City of Paris has preserved his residences [[Hauteville House]], [[Guernsey]], and {{lang|fr|6, Place des Vosges}}, Paris, as museums. The house where he stayed in [[Vianden]], Luxembourg, in 1871 has also become a commemorative museum.
+
+The [[Avenue Victor-Hugo (Paris)|Avenue Victor-Hugo]] in the [[16th arrondissement of Paris]] bears Hugo's name and links the {{lang|fr|[[Place de l'Étoile]]|italic=no}} to the vicinity of the {{lang|fr|[[Bois de Boulogne]]|italic=no}} by way of the {{lang|fr|Place Victor-Hugo|italic=no}}. This square is served by a [[Paris Métro]] [[Victor Hugo (Paris Métro)|stop]] also named in his honour. In the town of {{lang|fr|[[Béziers]]|italic=no}} there is a main street, a school, hospital and several cafés named after Hugo, and a number of streets and avenues throughout France are named after him. The school {{lang|fr|Lycée Victor Hugo|italic=no}} was founded in his town of birth, {{lang|fr|[[Besançon]]|italic=no}} in France. {{lang|fr|Avenue Victor-Hugo|italic=no}}, located in [[Shawinigan]], Quebec, was named to honour him. A street in San Francisco, Hugo Street, is named for him.<ref>''The Chronicle'' 12 April 1987 p.6</ref>
+[[File:France 5 Nouveaux Francs 1959. VF- Banknote.jpg|thumb|left|A 1959 French banknote featuring Hugo|alt=|212x212px]]
+In the city of [[Avellino]], Italy, Victor Hugo lived briefly stayed in what is now known as {{lang|it|Il Palazzo Culturale|nocat=y}} when reuniting with his father, {{lang|fr|Leopold Sigisbert Hugo}}, in 1808. Hugo would later write about his brief stay here, quoting {{lang|fr|"C'était un palais de marbre..."|italic=no}} ("It was a palace of [[marble]]").
+
+There is a statue of Hugo across from the [[Museo Carlo Bilotti]] in Rome, Italy.
+
+Victor Hugo is the namesake of the city of [[Hugoton, Kansas]].<ref>{{cite book |url=https://archive.org/details/bub_gb_9V1IAAAAMAAJ |title=The Origin of Certain Place Names in the United States |publisher=United States Government Publishing Office |last=Gannett |first=Henry |year=1905 |pages=[https://archive.org/details/bub_gb_9V1IAAAAMAAJ/page/n162 163] }}</ref>
+
+In [[Havana]], Cuba, there is a park named after him.
+
+A bust of Hugo stands near the entrance of the [[Old Summer Palace]] in Beijing.
+
+A [[mosaic]] commemorating Hugo is located on the ceiling of the [[Thomas Jefferson Building]] of the [[Library of Congress]].
+
+The [[London and North Western Railway]] named a 'Prince of Wales' Class 4-6-0 No 1134 after Hugo. [[British Rail]]ways perpetuated this memorial, naming Class 92 Electric Unit 92001 after him.
+
+Hugo is venerated as a [[saint]] in the Vietnamese religion of {{lang|vi|[[Cao Đài]]|nocat=y}}, a new religion established in Vietnam in 1926.<ref>{{cite web|title=Caodaism: A Vietnamese-centred religion|url=http://www.religioustolerance.org/caodaism.htm|access-date=8 May 2009}}</ref>
+
+==Works==
+===Novels, novellas, and short stories===
+* ''[[Bug-Jargal]]'' (1820)
+* {{lang|fr|[[Han d'Islande]]}} (1823), (''Hans of Iceland'')
+* ''[[Bug-Jargal]]'' (1826)
+* {{lang|fr|Le Dernier jour d'un condamné}} (''[[The Last Day of a Condemned Man]]''; 1829)
+* {{lang|fr|Notre-Dame de Paris}} (''[[The Hunchback of Notre-Dame]]''; 1831)
+* ''[[Claude Gueux]]'' (1834)
+* {{lang|fr|[[Les Misérables]]}} (1862)
+* {{lang|fr|Les Travailleurs de la Mer}} (''[[Toilers of the Sea]]''; 1866)
+* {{lang|fr|L'Homme qui rit}} (''[[The Man Who Laughs]]''; 1869)
+* {{lang|fr|[[Quatrevingt-treize]]}} (''Ninety-Three''; 1874)
+
+===Other works published during Hugo's lifetime===
+{{colbegin|colwidth=32em}}
+* ''[[Cromwell (play)|Cromwell]]'', preface only (1819)
+* {{lang|fr|[[Odes et poésies diverses]]}} (1822)
+* ''[[Odes (Hugo)|Odes]]'' (1823)
+* {{lang|fr|[[Nouvelles Odes]]}} (1824)
+* {{lang|fr|[[Odes et Ballades]]}} (1826)
+* ''[[Cromwell (play)|Cromwell]]'' (1827)
+* {{lang|fr|[[Les Orientales]]}} (1829)
+* ''[[Hernani (drama)|Hernani]]'' (1830)
+* {{lang|fr|[[Marion de Lorme (Hugo)|Marion de Lorme]]}} (1831)
+* {{lang|fr|[[Les Feuilles d'automne]]}} (''Autumn Leaves''; 1831)
+* {{lang|fr|[[Le roi s'amuse]]}} (1832)
+* ''[[Lucrezia Borgia (play)|Lucrezia Borgia]]'' (1833)
+* ''[[Marie Tudor]]'' (1833)
+* {{lang|fr|[[Littérature et philosophie mêlées]]}} (''A Blend of Literature and Philosophy''; 1834)
+* ''[[Angelo, Tyrant of Padua]]'' (1835)
+* {{lang|fr|[[Les Chants du crépuscule]]}} (''Songs of the Half Light''; 1835)
+* {{lang|fr|[[La Esmeralda (opera)|La Esmeralda]]}} (only libretto of an opera written by Victor Hugo himself) (1836)
+* {{lang|fr|[[Les Voix intérieures]]}} (1837)
+* ''[[Ruy Blas]]'' (1838)
+* {{lang|fr|[[Les Rayons et les Ombres]]}} (1840)
+* {{lang|fr|[[Le Rhin]]}} (1842)
+* {{lang|fr|[[Les Burgraves]]}} (1843)
+* {{lang|fr|[[Napoléon le Petit]]}} (''Napoleon the Little''; 1852)
+* {{lang|fr|[[Les Châtiments]]}} (1853)
+* [[The Poor People (by Victor Hugo)|The Poor People]] (1854)
+* {{lang|fr|[[Les Contemplations]]}} (''The Contemplations''; 1856)
+* {{lang|fr|[[Les TRYNE]]}} (1856)
+* {{lang|fr|[[La Légende des siècles]]}} (''The Legend of the Ages''; 1859)
+* ''[[William Shakespeare (essay)|William Shakespeare]]'' (1864)
+* {{lang|fr|[[Les Chansons des rues et des bois]]}} (''Songs of Street and Wood''; 1865)
+* {{lang|fr|[[La voix de Guernsey]]}} (1867)
+* {{lang|fr|[[L'Année terrible]]}} (1872)
+* {{lang|fr|[[Mes Fils]]}} (1874)
+* {{lang|fr|[[Actes et paroles]] – [[Avant l'exil]]}} (1875)
+* {{lang|fr|Actes et paroles – [[Pendant l'exil]]}} (''Deeds and Words''; 1875)
+* {{lang|fr|Actes et paroles – [[Depuis l'exil]]}} (1876)
+* {{lang|fr|La Légende des Siècles 2e série}} (1877)
+* {{lang|fr|[[L'Art d'être grand-père]]}} (''The Art of Being a Grandfather''; 1877)
+* {{lang|fr|''[[Histoire d'un crime]]'' 1re partie|italic=unset}}  (''History of a Crime''; 1877)
+* {{lang|fr|''Histoire d'un crime'' 2e partie|italic=unset}} (1878)
+* {{lang|fr|[[Le Pape]]}} (1878)
+* {{lang|fr|[[La Pitié suprême]]}} (1879)
+* {{lang|fr|[[Religions et religion]]}} (''Religions and Religion''; 1880)
+* {{lang|fr|[[L'Âne]]}} (1880)
+* {{lang|fr|[[Les Quatres vents de l'esprit]]}} (''The Four Winds of the Spirit''; 1881)
+* {{lang|es|[[Torquemada (play)|Torquemada]]|nocat=y}} (1882)
+* {{lang|fr|''La Légende des siècles'' Tome III|italic=unset}} (1883)
+* {{lang|fr|[[L'Archipel de la Manche]]}} (1883)
+{{colend}}
+
+'''[[Poems of Victor Hugo]]'''
+
+===Published posthumously===
+* {{lang|fr|Théâtre en liberté}} (1886)
+* {{lang|fr|[[La Fin de Satan]]}} (1886)
+* {{lang|fr|Choses vues}} (1887)
+* {{lang|fr|Toute la lyre}} (1888), (''[[The Whole Lyre]]'')
+* {{lang|fr|Amy Robsart}} (1889)
+* {{lang|fr|Les Jumeaux}} (1889)
+* {{lang|fr|Actes et Paroles – Depuis l'exil, 1876–1885}} (1889)
+* {{lang|fr|Alpes et Pyrénées}} (1890), (''[[Alps and Pyrenees]]'')
+* {{lang|fr|[[Dieu]]}} (1891)
+* {{lang|fr|France et Belgique}} (1892)
+* {{lang|fr|Toute la lyre – dernière série}} (1893)
+* {{lang|fr|Les fromages}} (1895)
+* {{lang|fr|Correspondences – Tome I}} (1896)
+* {{lang|fr|Correspondences – Tome II}} (1898)
+* {{lang|fr|Les années funestes}} (1898)
+* {{lang|fr|Choses vues – nouvelle série}} (1900)
+* {{lang|fr|Post-scriptum de ma vie}} (1901)
+* {{lang|fr|Dernière Gerbe}} (1902)
+* {{lang|fr|Mille francs de récompense}} (1934)
+* {{lang|fr|Océan. Tas de pierres}} (1942)
+* {{lang|fr|L'Intervention}} (1951)
+* ''[[Conversations with Eternity]]'' (1998)
+
+==References==
+{{Reflist}}
+
+==Additional sources==
+* {{cite book | last=Hugo | first=V. | author2=American Anti-Slavery Society | title=Letters on American Slavery from Victor Hugo, de Tocqueville, Emile de Girardin, Carnot, Passy, Mazzini, Humboldt, O. Lafayette—etc | publisher=American Anti-Slavery Society | series=HeinOnline: Slavery in America and the world: history, culture & law | year=1860 | url=https://books.google.com/books?id=XlREAQAAMAAJ&pg=PA7}}
+* {{cite book | last=Herrington | first=E. | title=The Afterlife of John Brown | publisher=Palgrave Macmillan US | year=2005 | isbn=978-1-4039-7846-2 | url=https://books.google.com/books?id=HebFAAAAQBAJ&pg=PA132}}
+* {{cite book | last=Langellier | first=J.P. | title=Dictionnaire Victor Hugo | publisher=Place des éditeurs | series=Dictionnaires-Atlas-Encyclopédies | year=2014 | isbn=978-2-262-04938-6 | url=https://books.google.com/books?id=6_peBAAAQBAJ&pg=PT117 | language=fr}}
+* {{cite web | last=l'Esclavage | first=Mémoires des abolitions de | title=History | website=Road of Abolitions | url=http://en.abolitions.org/index.php?IdPage=1552143712 }}
+* {{Cite book |author=Vincenzo Vicenti |title=Medaglioni altamurani del 1799 |editor=Arcangela Vicenti e Giuseppe Pupillo| location=[[Cassano delle Murge]] |year=1998 |ref=Vicenti |publisher=Messaggi |pages=45–46 |url=https://www.scribd.com/document/386175192/Vincenzo-Vicenti-Medaglioni-altamurani-del-1799}}
+
+==Further reading==
+* Afran, Charles (1997). [http://www.discoverfrance.net/France/Theatre/Hugo/hugo.shtml “Victor Hugo: French Dramatist”]. Website: Discover France. (Originally published in ''Grolier Multimedia Encyclopedia'', 1997, v.9.0.1.) Retrieved November 2005.
+* [[Joxe Azurmendi|Azurmendi, Joxe]], (1985). [http://www.jakingunea.com/aldizkaria/artikulua/victor-hugo-euskal-herrian/1670 Victor Hugo {{lang|eu|Euskal Herrian|nocat=y}}], ''[[Jakin (magazine)|Jakin]]'', 37: 137–66. Website: Jakingunea.
+* Bates, Alfred (1906). [http://www.theatrehistory.com/french/hugo001.html “Victor Hugo”]. Website: Theatre History. (Originally published in ''The Drama: Its History, Literature and Influence on Civilization'', vol. 9. ed. Alfred Bates. London: Historical Publishing Company, 1906. pp.&nbsp;11–13.) Retrieved November 2005.
+* Bates, Alfred (1906). [http://www.theatrehistory.com/french/hugo006.html “Hernani”]. Website: Theatre History. (Originally published in ''The Drama: Its History, Literature and Influence on Civilization'', vol. 9. ed. Alfred Bates. London: Historical Publishing Company, 1906. pp.&nbsp;20–23.) Retrieved November 2005.
+* Bates, Alfred (1906). [http://www.theatrehistory.com/french/hugo005.html “Hugo's Cromwell”]. Website: Theatre History. (Originally published in ''The Drama: Its History, Literature and Influence on Civilization'', vol. 9. ed. Alfred Bates. London: Historical Publishing Company, 1906. pp.&nbsp;18–19.) Retrieved November 2005.
+* Bittleston, Misha. [https://web.archive.org/web/20110615024428/http://www.bittleston.com/artists/victor_hugo/ "Drawings of Victor Hugo"]. Website: Misha Bittleston. Retrieved November 2005.
+* Burnham, I.G. (1896). [http://www.theatrehistory.com/french/hugo008.html "Amy Robsart"]. Website: Theatre History. (Originally published in ''Victor Hugo: Dramas''. Philadelphia: The Rittenhouse Press, 1896. pp.&nbsp;203–06, 401–02.) Retrieved November 2005.
+* Columbia Encyclopedia, 6th Edition (2001–05). [https://web.archive.org/web/20080516093903/http://aol.bartleby.com/65/hu/Hugo-Vic.html "Hugo, Victor Marie, Vicomte"]. Website: Bartleby, Great Books Online. Retrieved November 2005. Retrieved November 2005.
+* Haine, W. Scott (1997). [https://web.archive.org/web/20080411025136/http://www.cats.ohiou.edu/~Chastain/dh/hugo.htm "Victor Hugo"]. Encyclopedia of 1848 Revolutions. Website: Ohio University. Retrieved November 2005.
+* Karlins, N.F. (1998). [http://www.artnet.com/Magazine/features/karlins/karlins5-5-98.asp "Octopus With the Initials V.H."] Website: ArtNet. Retrieved November 2005.
+* Liukkonen, Petri (2000). {{Books and Writers |id=vhugo |name=Victor Hugo}}
+* Meyer, Ronald Bruce (2004). {{webarchive |url=https://web.archive.org/web/20060508103328/http://www.ronaldbrucemeyer.com/rants/0226almanac.htm |date=8 May 2006 |title=Victor Hugo }}. Website: Ronald Bruce Meyer. Retrieved November 2005.
+* Portasio, Manoel (2009). [http://www.sirwilliam.org/index.php?option=com_content&view=article&id=138%3Avictor&catid=30%3Aspecial&Itemid=2&lang=en "{{lang|pt|Victor Hugo e o Espiritismo|nocat=y}}"]. Website: Sir William Crookes Spiritist Society. (Portuguese) Retrieved August 2010.
+* Robb, Graham (1997). [https://www.nytimes.com/books/first/r/robb-hugo.html "A Sabre in the Night"]. Website: ''The New York Times'' (Books). (Excerpt from Graham, Robb (1997). ''Victor Hugo: A Biography''. New York: W.W. Norton & Company.) Retrieved November 2005.
+* Roche, Isabel (2005). [https://web.archive.org/web/20080319092617/http://www.barnesandnoble.com/writers/writerdetails.asp?cid=30497 "Victor Hugo: Biography"]. Meet the Writers. Website: Barnes & Noble. (From the Barnes & Noble Classics edition of ''The Hunchback of Notre Dame'', 2005.) Retrieved November 2005.
+* Schneider, Maria do Carmo M (2010). http://www.miniweb.com.br/Literatura/Artigos/imagens/victor_hugo/face_oculta.pdf {{Webarchive|url=https://web.archive.org/web/20170329134544/http://www.miniweb.com.br/Literatura/Artigos/imagens/victor_hugo/face_oculta.pdf |date=29 March 2017 }}. Website: MiniWeb Educacao. (Portuguese) Retrieved August 2010.
+* State Library of Victoria (2014). [https://web.archive.org/web/20140714180659/http://guides.slv.vic.gov.au/victorhugo "Victor Hugo: {{lang|fr|Les Misérables|nocat=y}} – From Page to Stage"]. Website: Retrieved July 2014.
+* Uncited author. [http://www.spartacus-educational.com/EUhugo.htm "Victor Hugo"]. Website: Spartacus Educational. Retrieved November 2005.
+* Uncited author. [https://www.bbc.co.uk/guernsey/content/articles/2004/09/20/victor_hugo_timeline_feature.shtml "Timeline of Victor Hugo"]. Website: BBC. Retrieved November 2005.
+* Uncited author. (2000–2005). [http://www.online-literature.com/victor_hugo/ "Victor Hugo"]. Website: The Literature Network. Retrieved November 2005.
+* Uncited author. [https://web.archive.org/web/20020128084404/http://www.victorhugo.education.fr/ressources/caricature.htm "Hugo Caricature"]. Website: Présence de la Littérature a l'école. Retrieved November 2005.
+* Barbou, Alfred (1882). ''Victor Hugo and His Times''. University Press of the Pacific: 2001 paperback edition. {{ISBN|0-89875-478-X}}
+* Barnett, Marva A., ed. (2009). ''Victor Hugo on Things That Matter: A Reader''. New Haven, Connecticut: Yale University Press. {{ISBN|0-300-12245-4}}
+* Brombert, Victor H. (1984). ''Victor Hugo and the Visionary Novel''. Boston: Harvard University Press. {{ISBN|0-674-93550-0}}
+* Davidson, A.F. (1912). ''Victor Hugo: His Life and Work''. University Press of the Pacific: 2003 paperback edition. {{ISBN|1-4102-0778-1}}
+* Dow, Leslie Smith (1993). {{lang|fr|Adele Hugo: La Miserable}}. Fredericton: Goose Lane Editions. {{ISBN|0-86492-168-3}}
+* Falkayn, David (2001). ''Guide to the Life, Times, and Works of Victor Hugo''. University Press of the Pacific. {{ISBN|0-89875-465-8}}
+* Feller, Martin (1988). {{lang|de|Der Dichter in der Politik. Victor Hugo und der Deutsch-Französische Krieg von 1870/71. Untersuchungen zum französischen Deutschlandbild und zu Hugos Rezeption in Deutschland.|nocat=y}} Marburg: Doctoral Dissertation.
+* Frey, John Andrew (1999). ''A Victor Hugo Encyclopedia''. Greenwood Press. {{ISBN|0-313-29896-3}}
+* Grant, Elliot (1946). ''The Career of Victor Hugo''. Harvard University Press. Out of print.
+* Halsall, A.W. et al. (1998). ''Victor Hugo and the Romantic Drama''. University of Toronto Press. {{ISBN|0-8020-4322-4}}
+* Hart, Simon Allen (2004). ''Lady in the Shadows: The Life and Times of Julie Drouet, Mistress, Companion and Muse to Victor Hugo.'' Publish American. {{ISBN|1-4137-1133-2}}
+* Houston, John Porter (1975). ''Victor Hugo''. New York: Twayne Publishers. {{ISBN|0-8057-2443-5}}
+* Hovasse, Jean-Marc (2001), {{lang|fr|Victor Hugo: Avant l'exil}}. Paris: Fayard. {{ISBN|2-213-61094-0}}
+* Hovasse, Jean-Marc (2008), {{lang|fr|Victor Hugo: Pendant l'exil I}}. Paris: Fayard. {{ISBN|2-213-62078-4}}
+* Ireson, J.C. (1997). ''Victor Hugo: A Companion to His Poetry''. Clarendon Press. {{ISBN|0-19-815799-1}}
+* Maurois, Andre (1956). ''Olympio: The Life of Victor Hugo''. New York: Harper & Brothers.
+* Maurois, Andre (1966). ''Victor Hugo and His World''. London: Thames and Hudson. Out of print.
+* {{cite book |editor=O'Neill, J |url=http://libmma.contentdm.oclc.org/cdm/ref/collection/p15324coll10/id/102063 |title=Romanticism & the school of nature : nineteenth-century drawings and paintings from the Karen B. Cohen collection |location=New York |publisher=[[Metropolitan Museum of Art]] |year=2000}} (contains information on Hugo's drawings)
+{{external media| float = right| video1 = [https://www.c-span.org/video/?100364-1/victor-hugo-biography Presentation by Graham Robb on ''Victor Hugo: A Biography'', February 8, 1998], [[C-SPAN]]}}
+* Robb, Graham (1997). ''Victor Hugo: A Biography''. W.W. Norton & Company: 1999 paperback edition. {{ISBN|0-393-31899-0}}, ([https://web.archive.org/web/20080512023348/http://www.wwnorton.com/catalog/spring99/victorhugo.htm description/reviews at wwnorton.com])
+
+==External links==
+{{external links|date=June 2021}}
+{{Commons category}}
+{{Wikiquote}}
+{{Wikisource author}}
+* [http://cordite.org.au/translations/nashar-hugo/ Two poems by Victor Hugo], ''Cordite Poetry Review''
+* [http://www.mtholyoke.edu/courses/rschwart/hist255 France of Victor Hugo]
+* [https://web.archive.org/web/20080408091638/http://www.victorhugo.gg/ Guernsey's official Victor Hugo website]
+* [http://www.vhfestival.com Guernsey's Victor Hugo International Music Festival]
+* [http://www.gavroche.org/vhugo Victor Hugo Central]
+* [http://www.intratext.com/Catalogo/Autori/AUT187.HTM Victor Hugo's works]: text, concordances and frequency lists
+* [http://www.cliffsnotes.com/literature/l/les-miserables/book-summary {{lang|fr|Les Misérables|nocat=y}}] at [http://www.cliffsnotes.com/ CliffsNotes.com]
+* [https://web.archive.org/web/20130710085447/http://www.3dsrc.com/victorhugo/ Victor Hugo le dessinateur]
+* [https://web.archive.org/web/20080411175635/http://www.victorhugo.asso.fr/ Official site of the {{lang|fr|Société des Amis de Victor Hugo|italic=no|nocat=y}}]
+* [http://www.festival-victorhugo-egaux.fr/ Official site of the {{lang|fr|Festival international Victor Hugo et Égaux|italic=no|nocat=y}}]
+* {{IBList |type=author|id=117|name=Victor Hugo}}
+*[https://web.archive.org/web/20200529014711/https://exchange.umma.umich.edu/resources/18322 Portrait of Victor Hugo] at the [[University of Michigan Museum of Art]]
+*[https://exchange.umma.umich.edu/resources/9674 Study of Victor Hugo for 'Le panorama du siècle', (Panorama of the Century)] by [[Alfred Stevens (painter)|Alfred Stevens]] at University of Michigan Museum of Art
+*[[hdl:10079/fa/beinecke.hugo|Victor Hugo Collection]]. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.
+
+===Online works===
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/victor-hugo}}
+* {{Gutenberg author | id=Hugo,+Victor }}
+* {{FadedPage|id=Hugo, Victor|name=Victor Hugo|author=yes}}
+* {{Internet Archive author |sname=Victor Marie Hugo}}
+* {{Librivox author |id=706}}
+* {{OL author|id=OL107571A}}
+* [http://poemsintranslation.blogspot.com/2009/06/victor-hugo-at-dawn-tomorrow-from.html English translation of Hugo's ''At Dawn Tomorrow'' ({{lang|fr|Demain, dès l'aube|nocat=y}})]
+* [http://uclue.com/?xq=924 Translation of Victor Hugo note found in ''Hunchback of Notre Dame'', french edition] {{Webarchive|url=https://web.archive.org/web/20170328105055/http://uclue.com/?xq=924 |date=28 March 2017 }}
+* [https://web.archive.org/web/20130616070620/http://athena.unige.ch/athena/hugo/hugo_voix_interieures.html {{lang|fr|Les Voix intérieures|nocat=y}} – at athena.unige.ch] {{in lang|fr}}
+* [http://www.soviet-empire.com/ussr/viewtopic.php?f=118&t=47140 Translation of The legend of Victor Hugo by Paul Lafargue]
+* [http://purl.dlib.indiana.edu/iudl/general/VAB9908 The Century Was Two Years Old : Victor Hugo] The Lilly Library, Bloomington IN
+
+{{Victor Hugo}}
+{{The Hunchback of Notre Dame}}
+{{Les Misérables}}
+{{Angelo, Tyrant of Padua}}
+{{Marie Tudor}}
+{{The Man Who Laughs}}
+{{Académie française Seat 14}}
+{{Romanticism}}
+{{Portal bar|Biography|France|Literature|Poetry|Children's literature}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hugo, Victor}}
+[[Category:Victor Hugo| ]]
+[[Category:1802 births]]
+[[Category:1885 deaths]]
+[[Category:19th-century French dramatists and playwrights]]
+[[Category:Burials at the Panthéon, Paris]]
+[[Category:Cao Dai saints]]
+[[Category:Critics of the Catholic Church]]
+[[Category:Jersey writers]]
+[[Category:Former Roman Catholics]]
+[[Category:French anti–death penalty activists]]
+[[Category:French Christian mystics]]
+[[Category:French fantasy writers]]
+[[Category:French pacifists]]
+[[Category:French people of Lorrainian descent]]
+[[Category:Guernsey writers]]
+[[Category:Maritime writers]]
+[[Category:French philhellenes]]
+[[Category:French poets]]
+[[Category:French Senators of the Third Republic]]
+[[Category:French writers exiled in Belgium]]
+[[Category:French spiritualists]]
+[[Category:Lycée Louis-le-Grand alumni]]
+[[Category:Members of the 1848 Constituent Assembly]]
+[[Category:Members of the Académie Française]]
+[[Category:Members of the Chamber of Peers of the July Monarchy]]
+[[Category:Members of the National Assembly (1871)]]
+[[Category:Members of the National Legislative Assembly of the French Second Republic]]
+[[Category:Officiers of the Légion d'honneur]]
+[[Category:Members of the Serbian Academy of Sciences and Arts]]
+[[Category:French deists]]
+[[Category:Deist philosophers]]
+[[Category:Party of Order politicians]]
+[[Category:People from Besançon]]
+[[Category:Philosophical theists]]
+[[Category:Politicians from Bourgogne-Franche-Comté]]
+[[Category:Republican Union (France) politicians]]
+[[Category:Romantic poets]]
+[[Category:Rosicrucians]]
+[[Category:Senators of Seine (department)]]
+[[Category:University of Paris alumni]]
+[[Category:Writers from Bourgogne-Franche-Comté]]
+[[Category:Writers of Gothic fiction]]
+[[Category:Writers who illustrated their own writing]]
+[[Category:Viscounts of France]]

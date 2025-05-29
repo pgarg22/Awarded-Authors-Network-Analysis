@@ -1,0 +1,72 @@
+{{short description|Australian author (born 1981)}}
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = James Islington
+| honorific_suffix = 
+| image            = 
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = {{circa|1981}}<!-- {{Birth date and age|YYYY|MM|DD}} -->
+| birth_place      = 
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place      = 
+| resting_place    = 
+| occupation       = Novelist
+| language         = English
+| residence        = 
+| nationality      = [[Australia]]n
+| citizenship      = 
+| education        = 
+| alma_mater       = 
+| home_town        = 
+| period           = 
+| genre            = [[High fantasy]]
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notableworks     = [[The Shadow of What Was Lost]]
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 2
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 2014-present
+| module           = 
+| website          = {{url|jamesislington.com/about-me.html}}
+| portaldisp       = <!-- "on", "yes", "true", etc.; or omit -->
+}}
+
+'''James Islington''' (born {{circa|1981}})<ref name=cr>{{cite web|url=https://civilianreader.com/2016/11/08/interview-with-james-islington/ |title=Interview with James Islington |publisher=Civilian Reader |date=8 Nov 2016 |accessdate=4 Feb 2020}}</ref> is an [[Australians|Australian]] author best known for his [[high fantasy]] series ''The Licanius Trilogy''.
+
+==Career==
+Prior to becoming a writer, Islington ran a [[tech startup]].<ref name=cr/> Though he always liked the idea of becoming an author, he only began writing seriously at the age of 30.<ref>{{cite web|url=http://qwillery.blogspot.com/2016/11/interview-with-james-islington-author.html |title=The Qwillery: Interview with James Islington, author of The Shadow of What Was Lost |date=8 Nov 2016 |accessdate=4 Feb 2020}}</ref> Islington originally self-published ''[[The Shadow of What Was Lost]]'' in 2014. He signed a deal with [[Orbit Books]] less than a year later. He has published two sequel novels, entitled ''[[An Echo of Things to Come]]'' (2018) and ''The Light of All That Falls'' (2019).<ref>{{cite web|url=https://fantasy-focus.com/2019/12/interview-with-james-islington/ |title=Interview with James Islington |date=10 December 2019 |author=Kelly Blanchard-Dale}}</ref> Islington stated that writing the second novel was much more stressful than writing his debut novel, in part because of the increased pressure that comes from being signed by a major publishing company.<ref>{{cite web|url=https://www.barnesandnoble.com/blog/sci-fi-fantasy/epic-endings-james-islington-evan-winter-on-perfect-titles-finding-your-fans-and-wrapping-a-trilogy/ |publisher=[[Barnes and Noble]] |title=Epic Endings: James Islington & Evan Winter on Perfect Titles, Finding Your Fans, and Wrapping a Trilogy |author=Joel Cunningham |date=9 Dec 2019 |accessdate=4 Feb 2020}}</ref>
+
+''The Shadow of What Was Lost'' received moderately positive reviews. Some critics praised the novel's complex magic, political intrigue, and large cast of characters, while others criticized the unoriginal premise while still complimenting the author's prose.<ref name=pw>{{cite web| url=https://www.publishersweekly.com/978-0-316-27409-8 |title=Fiction Book Review: The Shadow of What Was Lost by James Islington |date=3 October 2016 |accessdate=24 January 2020 |publisher=[[Publishers Weekly]]}}</ref><ref name=tor>{{cite web| url=https://www.tor.com/2016/11/08/memories-found-the-shadow-of-what-was-lost-james-islington/ |title=Memories Found: The Shadow of What Was Lost |publisher=[[Tor.com]] |date=8 November 2016 |accessdate=24 January 2020 |author=Robert H. Bedford}}</ref><ref name=kirkus>{{cite web| url=https://www.kirkusreviews.com/book-reviews/james-islington/shadow-what-was-lost/ |title=The Shadow of What Was Lost by James Islington |publisher=[[Kirkus Reviews]] |date=5 October 2016 |accessdate=24 January 2020}}</ref><ref name=guardian>{{cite web| url=https://www.theguardian.com/books/2016/oct/28/eric-brown-science-fiction-and-fantasy-roundup |title=The Best Recent Science Fiction and Fantasy Novels - Reviews Roundup |publisher=[[The Guardian]] |date=28 October 2016 |accessdate=24 January 2020 |author=Eric Brown}}</ref> The second book, ''An Echo of Things to Come'', has received positive reviews which described it as a "dense, suspenseful adventure",<ref name=pw2>{{cite web |url=https://www.publishersweekly.com/978-0-316-27411-1 |title=Fiction Book Review: An Echo of Things to Come |date=19 June 2017 |accessdate=6 Feb 2020 |publisher=[[Publishers Weekly]]}}</ref> as well as "gripping [yet] overelaborate".<ref name=kirkus2>{{cite web|url=https://www.kirkusreviews.com/book-reviews/james-islington/an-echo-of-things-to-come-the-licanius-trilogy/ |title=An Echo of Things to Come by James Islington |publisher=[[Kirkus Reviews]] |date=15 June 2017 |accessdate=6 Feb 2020}}</ref>
+
+==Bibliography==
+;The Licanius Trilogy
+#[[The Shadow of What Was Lost]]. (4 August 2014). Originally [[self-publishing|self-published]], later [[Orbit Books]]. {{ISBN|9780992580209}}
+#[[An Echo of Things to Come]]. (22 August 2018). Orbit. {{ISBN|9780316274111}}
+#The Light of All That Falls. (10 December 2019). Orbit. {{ISBN|9780356507835}}
+
+==Personal life==
+Islington was born and raised in [[Victoria (Australia)|Victoria, Australia]]. He and his wife live on the [[Mornington Peninsula]]. They have two children.<ref>{{cite web|url=http://jamesislington.com/about-me.html|title=About Me |accessdate=4 Feb 2020}}</ref>
+
+==References==
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Islington, James}}
+[[Category:21st-century Australian male writers]]
+[[Category:Australian fantasy writers]]
+[[Category:Living people]]
+[[Category:Year of birth uncertain]]

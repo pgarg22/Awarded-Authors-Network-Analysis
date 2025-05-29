@@ -1,0 +1,211 @@
+{{short description|Canadian legal scholar}}
+{{Redirect|F. Scott|the American author|F. Scott Fitzgerald}}{{Infobox person
+| name               = F.&nbsp;R. Scott
+| post-nominals      = {{post-nominals|country=CAN|CC|QC|FRSC|FBA|size=100%}}
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| landscape          = <!-- yes, if wide image, otherwise leave blank -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| birth_name         = Francis Reginald Scott
+| birth_date         = {{birth date|1899|8|1}}
+| birth_place        = {{nowrap|[[Quebec City]], [[Quebec]], Canada}}
+| death_date         = {{death date and age|1985|1|30|1899|8|1}}
+| death_place        = [[Montreal]], [[Quebec]], Canada
+| other_names        = Frank Scott
+| party              = {{ubl | [[Co-operative Commonwealth Federation]] | [[New Democratic Party]]}}
+| spouse             = {{marriage|[[Marian Dale Scott]]|1928}}
+| children           = [[Peter Dale Scott]]
+| parents            = [[Frederick George Scott]]
+| awards             = {{ubl | [[Lorne Pierce Medal]] (1962) | [[Molson Prize]] (1965–1966) | [[Governor General's Awards|Governor General's Award]] (1977; 1981)}}
+| module             = {{Infobox writer |embed=yes
+| language           = English
+| period             = 
+| genre              = Poetry
+| subject            = <!-- or: | subjects = -->
+| movement           = [[Montreal Group]]
+| notable_works      = ''Collected Poems of F.&nbsp;R. Scott'' (1981)
+}}
+| module2            = {{Infobox academic |child=yes
+| alma_mater         = {{ubl | [[Bishop's University]] | [[Magdalen College, Oxford]] | [[McGill University]]}}
+| thesis_title       = 
+| thesis_year        = 
+| school_tradition   = [[Christian socialism]]
+| doctoral_advisor   = 
+| academic_advisors  = 
+| influences         = <!--must be referenced from a third-party source-->
+| discipline         = {{hlist | [[Law]] | [[political science]]}}
+| sub_discipline     = [[Constitutional law]]
+| workplaces         = <!--full-time positions only, not student positions-->
+| doctoral_students  = <!--only those with WP articles-->
+| notable_students   = {{flatlist|
+* Francisco Cuevas Cancino
+* [[Layton Fergusson]]
+* Ismail Suny
+}}
+| main_interests     = 
+| notable_works      = ''Essays on the Constitution'' (1977)
+| notable_ideas      = 
+| influenced         = <!--must be referenced from a third-party source-->
+}}
+| signature          = 
+| signature_alt      = 
+}}
+'''Francis Reginald Scott''' {{post-nominals|country=CAN|CC|QC|FRSC|FBA}} (1899–1985), commonly known as '''Frank Scott''' or '''F.&nbsp;R. Scott''', was a [[Canadian poetry|Canadian poet]], intellectual, and constitutional scholar. He helped found the first Canadian [[Social democracy|social democratic]] party, the [[Co-operative Commonwealth Federation]], and its successor, the [[New Democratic Party (Canada)|New Democratic Party]]. He won Canada's top literary prize, the [[Governor General's Award]], twice, once for poetry and once for non-fiction. He was married to artist [[Marian Dale Scott]].
+
+==Life and work==
+Scott was born on August 1, 1899, in [[Quebec City]], the sixth of seven children. His father was [[Frederick George Scott]], "an [[Anglican]] priest, minor poet and staunch advocate of the civilizing tradition of imperial Britain, who instilled in his son a commitment to serve mankind, a love for the regenerative balance of the Laurentian landscape and a firm respect for the social order."<ref name=richardson>Keith Richardson, "[http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0007227 Scott, Francis Reginald (Frank)]," ''Canadian Encyclopedia'' (Edmonton: Hurtig, 1988), 1961.</ref> He witnessed the riots in the city during the [[Conscription Crisis of 1917]].
+
+Completing his undergraduate studies at [[Bishop's University]], in [[Lennoxville, Quebec|Lennoxville]], [[Quebec]], Scott went to [[Magdalen College, Oxford]], as a [[Rhodes Scholarship|Rhodes Scholar]] and was influenced by the [[Christian socialism|Christian socialist]] ideas of [[R.&nbsp;H. Tawney]] and the [[World Student Christian Federation|Student Christian Movement]].
+
+Scott returned to Canada, settled in [[Montreal]] and studied law at [[McGill University]], eventually joining the [[McGill University Faculty of Law|law faculty]] as a professor. While at McGill, Scott became a member of the [[Montreal Group]] of [[modernist poetry|modernist poets]], a circle that also included [[Leon Edel]], [[John Glassco]], and [[A.&nbsp;J.&nbsp;M. Smith]].<ref name="irvine">Dean Irvine, "[http://www.answers.com/topic/montreal-group Montreal Group]," ''Oxford Companion to Canadian History''. Answers.com, Web, March 25, 2011.</ref>
+Scott and Smith became lifelong friends.<ref name=richardson/> Scott  contributed to the ''McGill Daily Literary Supplement'', which Smith edited; when that folded in 1925, he and Smith founded and edited the ''McGill Fortnightly Review''. After the ''Review'' folded, Scott helped found and briefly co-edited ''The Canadian Mercury''.<ref>Dean Irvine, "[http://www.jrank.org/history/pages/7691/Montreal-Group.html Montreal Group]," ''Encyclopedia of Canadian History'', JRank.org. Web, March 15, 2011.</ref> Scott, assisted by Smith and [[Leo Kennedy]], also anonymously edited the modernist poetry anthology ''[[New Provinces (poetry anthology)|New Provinces]]'' (in which he published ten poems), which was published in 1936.<ref>Michael Gnarowski, "[http://www.encyclopediecanadienne.ca/index.cfm?PgNm=TCE&Params=A1ARTA0005706 New Provinces: Poems of Several Authors]," ''Canadian Encyclopedia'' (Hurtig: Edmonton, 1988), 1479.</ref>
+
+[[Image:Claire Gillis, David Lewis, M.J.Coldwell c007253.jpg|thumb|[[Co-operative Commonwealth Federation]] delegation attending the September 1944 Conference of Commonwealth Labour Parties in [[London]],  England.  ''Pictured from Left to right'': [[Clarie Gillis]], MP for [[Cape Breton South (federal electoral district)|Cape Breton South]]; [[David Lewis (Canadian politician)|David Lewis]], National Secretary; [[Major James Coldwell|M.&nbsp;J. Coldwell]], National Leader, MP for [[Rosetown—Biggar (federal electoral district)|Rosetown—Biggar]]; Percy E. Wright, MP for [[Melfort (electoral district)|Melfort]]; and Frank Scott, National Chairman.]]
+The [[Great Depression]] greatly disturbed Scott; he and the historian [[Frank Underhill]] founded the [[League for Social Reconstruction]] (LSR) to advocate [[socialist]] solutions in a Canadian context. Through the LSR, Scott became an influential figure in the [[Socialism in Canada|Canadian socialist]] movement. He was a founding member of the [[Co-operative Commonwealth Federation]] (CCF) and a contributor to that party's [[Regina Manifesto]]. He also edited a book advocating ''Social Planning for Canada'' (1935).<ref name=richardson/> In 1943, he co-authored ''Make This Your Canada'', spelling out the CCF national programme, with [[David Lewis (Canadian politician)|David Lewis]]. Scott was elected national chairman of the CCF in 1942, and would serve until 1950.<ref name=richardson/>
+
+In March 1942 Scott co-founded a literary magazine, ''Preview'', with the Montreal poet [[Patrick Anderson (poet)|Patrick Anderson]]. Like the earlier Montreal Group publications, "''Preview's'' orientation was [[wikt:cosmopolitan|cosmopolitan]]; its members looked largely towards the English poets of the 1930s for inspiration."<ref name=woodcock>George Woodcock, "[http://www.thecanadianencyclopedia.com/index.cfm?PgNm=TCE&Params=A1ARTA0005811 Northern Review]," ''Canadian Encyclopedia'' (Edmonton: Hurtig, 1988), 1515.</ref>
+
+In 1950–1951 Scott cofounded Recherches sociales, a study group concerned with the French–English relationship. He began translating French-Canadian poetry.<ref name=richardson/>
+
+In 1952 he served as a [[United Nations]] technical assistance resident representative in [[Burma]], helping to build a socialist state in that country.<ref name=richardson/>
+
+During the 1950s, Scott was an active opponent of the [[Maurice Duplessis|Duplessis]] regime in Quebec and  went to court to fight the [[Padlock Law]].  He also represented Frank Roncarrelli, a [[Jehovah's Witness]], in ''[[Roncarelli v Duplessis]]'' all the way to the [[Supreme Court of Canada]] a battle that Maurice Duplessis lost.
+
+Scott began translating French-Canadian poetry, publishing ''[[Anne Hébert]] and [[Saint-Denys Garneau]]'' in 1962. He edited ''Poems of French Canada'' (1977), which won the [[Canada Council]] prize for translation.
+
+[[File:Funeral monument F.R. Scott.jpg|thumb|Scott's funeral monument in Mount Royal Cemetery.]]
+Scott served as dean of law at [[McGill University]] from 1961 to 1964 and served on the [[Royal Commission on Bilingualism and Biculturalism]]. In 1970 he was offered a seat in the [[Senate of Canada]] by [[Pierre Trudeau]] but declined the appointment.  He did, however, support Trudeau's imposition of the [[War Measures Act]] during the [[October Crisis]] that same year.
+
+Scott opposed Quebec's [[Bill 22]] and [[Bill 101]] which established the province within its jurisdiction as an officially unilingual province within an officially bilingual country.
+
+Following his death on January 30, 1985, Scott was interred in [[Mount Royal Cemetery]], Montreal.
+
+===Recognition===
+
+Scott won the [[1977 Governor General's Awards|1977 Governor General's Award for non-fiction]] for his ''Essays on the Constitution'' and the [[1981 Governor General's Awards|1981 Governor General's Award for poetry]] for his ''Collected Poems''.<ref name="Canadian Poetry Online">"[http://www.library.utoronto.ca/canpoetry/scott_fr/index.htm F.R. Scott: Biography]," Canadian Poetry Online, University of Toronto. Web, March 21, 2011.</ref>
+
+The [[Royal Society of Canada]] elected Scott a fellow in 1947, and awarded him its [[Lorne Pierce Medal]] in 1962.<ref name="Canadian Poetry Online"/>
+
+Scott won the [[Molson Prize]] in 1965.<ref name="Canadian Poetry Online"/>
+
+In 1966, Scott received an honorary doctorate from [[Sir George Williams University]], which later became [[Concordia University]].<ref>{{Cite web|url=http://archives.concordia.ca/scott|title=Honorary Degree Citation – Francis Reginald Scott* {{!}} Concordia University Archives|website=archives.concordia.ca|access-date=2016-03-29}}</ref>
+
+[[Leonard Cohen]] added music to Scott's [[villanelle]], "A Villanelle for Our Time", and recorded it on his album ''[[Dear Heather]]''.
+
+Scott is the subject of a number of critical works, as well as a major biography, ''The Politics of the Imagination: A Life of F.&nbsp;R. Scott'' by [[Sandra Djwa]].
+
+==Publications==
+
+===Poetry===
+* ''Overture''. Toronto: Ryerson Press, [[1945 in poetry|1945]].
+*''Events and Signals''. Toronto: Ryerson Press, [[1954 in poetry|1954]].
+*''The Eye of the Needle: Satire, Sorties, Sundries''. Montreal: Contact Press, [[1957 in poetry|1957]].
+*''Signature''. Vancouver: Klanak Press, [[1964 in poetry|1964]].
+*''Selected Poems''. Toronto: Oxford University Press, [[1966 in poetry|1966]].
+*''Trouvailles: Poems from Prose''. Montreal: Delta Canada, [[1967 in poetry|1967]].
+*''The Dance is One''. Toronto: McClelland and Stewart, [[1973 in poetry|1973]].
+*''The Collected Poems of F.&nbsp;R. Scott''. Toronto: McClelland and Stewart, [[1981 in poetry|1981]].
+
+===Translations===
+*''St-Denys Garneau & Anne Hebert: Translations/Traductions''. Translated by F.&nbsp;R. Scott. Vancouver: Klanak Press, [[1962 in poetry|1962]].
+*''Poems of French Canada''. Translated by F.&nbsp;R. Scott. Burnaby, BC: Blackfish Press, [[1977 in poetry|1977]].
+
+<small>''Except where indicated, bibliographical information on poetry courtesy of Canadian Poetry Online.''</small><ref name="F.R. Scott: Publications">"[http://www.library.utoronto.ca/canpoetry/scott_fr/pub.htm F.R. Scott: Publications]," Canadian Poetry Online, UToronto.ca, Web, May 7, 2011.</ref>
+
+===Non-fiction===
+*''Social Reconstruction and the B.N.A. Act'' – 1934
+*''Labour Conditions in the Men's Clothing Industry'' – 1935 (with H.&nbsp;M. Cassidy)
+*''Social Planning for Canada''  – 1935.<ref name=richardson/>
+*''Canada Today: A Study of Her National Interests and National Policy'' – 1938
+*''Canada's Role in World Affairs'' – 1942
+*''Make This Your Canada: A Review of C.C.F. History and Policy'' – 1943 (with [[David Lewis (Canadian politician)|David Lewis]])
+*''Cooperation for What? United States and British Commonwealth'' – 1944
+*''The World War Against Poverty'' – 1953 (with R.&nbsp;A. MacKay and A.&nbsp;E. Ritchie)
+*''What Does Labour Need in a Bill of Rights'' – 1959
+*''The Canadian Constitution and Human Rights'' – 1959
+*''Civil Liberties and Canadian Federalism'' – 1959
+*''Dialogue sur la traduction'' – 1970 (with [[Anne Hebert]])
+*''Essays on the Constitution: Aspects of Canadian Law and Politics'' – 1977
+*{{cite book | first = Frank R. | last = Scott | year = 1986 | title = A New Endeavour: Selected Political Essays, Letters, and Addresses | others = Edited and introduced by [[Michiel Horn]]| publisher = University of Toronto Press | location = Toronto | isbn = 0-8020-5672-5  }}
+
+===Edited===
+*''[[New Provinces (poetry anthology)|New Provinces: Poems of Several Authors]]'' (with [[A.&nbsp;J.&nbsp;M. Smith]] and [[Leo Kennedy]]). Toronto: Macmillan, 1936.
+*''The Blasted Pine: An Anthology of Satire, Invective and Disrespectful Verse'' – 1957 (with [[A.&nbsp;J.&nbsp;M. Smith]])
+
+==Discography==
+* ''Six Montreal Poets''. New York: Folkways Records, 1957. Includes A.&nbsp;J.&nbsp;M. Smith, Leonard Cohen, Irving Layton, F.&nbsp;R. Scott, Louis Dudek, and A.&nbsp;M. Klein. (cassette, 60 mins)
+*''Canadian Poets on Tape''. Toronto: Ontario Institute for Studies in Education, 1969, 1971. (cassette, 30 mins)
+*''A Poetry Reading''. Toronto: League of Canadian Poets, 1982. (cassette, 60 mins)
+*''Celebration: Famous Canadian Poets CD''  London, Ontario: [[Canadian Poetry Association]] — 1999 {{ISBN|1-55253-022-1}}    (CD#4) (with [[James Reaney]] )
+
+<small>''Except where noted, discographical information courtesy Canadian Poetry Online.''</small><ref name="F.R. Scott: Publications"/>
+
+==See also==
+*[[List of Bishop's College School alumni]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+*[https://web.archive.org/web/20070907094017/http://www.ucalgary.ca/UofC/faculties/HUM/ENGL/canada/poet/f_scott.htm University of Calgary biography]
+*[http://www.library.utoronto.ca/canpoetry/scott_fr/poem5.htm Canadian Poetry Online: F.R. Scott] – 6 poems (Lakeshore, Laurentian Shield, The Canadian Authors Meet, A Grain of Rice, W.L.M.K., Resurrection)
+* http://www.library.utoronto.ca/canpoetry/scott_fr/pub.htm
+*Archives of F.R. Scott [http://central.bac-lac.gc.ca/.redirect?app=fonandcol&id=103891&lang=eng (Francis Reginald Scott fonds, R5822)] are held at [[Library and Archives Canada]]
+
+
+{{s-start}}
+{{s-ppo}}
+{{s-bef|before=[[M.&nbsp;J. Coldwell]]}}
+{{s-ttl|title=National Chairman of the<br />[[Co-operative Commonwealth Federation]]|years=1942–1950}}
+{{s-aft|after=[[Percy Wright]]}}
+{{s-aca}}
+{{s-bef|before=[[Maxwell Cohen]]}}
+{{s-ttl|title=[[McGill University Faculty of Law|Dean of Law at McGill University]]|years=1961–1964}}
+{{s-aft|after=[[Maxwell Cohen]]}}
+{{s-ach|aw}}
+{{s-bef|before=[[Robertson Davies]]}}
+{{s-ttl|title=[[Lorne Pierce Medal]]|years=1962}}
+{{s-aft|after=[[Léo-Paul Desrosiers]]}}
+{{s-bef|before=[[Donald Creighton]]}}
+{{s-ttl|title=[[Molson Prize]]|years=1965–1966|with=[[Jean Gascon]]|rows=2}}
+{{s-aft|after=[[Georges-Henri Lévesque]]}}
+{{s-break}}
+{{s-bef|before=[[Alain Grandbois]]}}
+{{s-aft|after=[[Hugh MacLennan]]}}
+{{s-end}}
+
+{{Portal bar|Biography|Canada|Poetry|Socialism}}
+{{Authority control}}
+
+{{DEFAULTSORT:Scott, Frank}}
+[[Category:1899 births]]
+[[Category:1985 deaths]]
+[[Category:20th-century Canadian male writers]]
+[[Category:20th-century Canadian poets]]
+[[Category:Alumni of Magdalen College, Oxford]]
+[[Category:Anglican poets]]
+[[Category:Anglican socialists]]
+[[Category:Anglophone Quebec people]]
+[[Category:Bishop's University alumni]]
+[[Category:Burials at Mount Royal Cemetery]]
+[[Category:Canadian Anglicans]]
+[[Category:Canadian Christian socialists]]
+[[Category:Canadian male non-fiction writers]]
+[[Category:Canadian male poets]]
+[[Category:Canadian modernist poets]]
+[[Category:Bishop's College School alumni]]
+[[Category:Canadian Queen's Counsel]]
+[[Category:Canadian Rhodes Scholars]]
+[[Category:Co-operative Commonwealth Federation]]
+[[Category:Companions of the Order of Canada]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Corresponding Fellows of the British Academy]]
+[[Category:Fellows of the Royal Society of Canada]]
+[[Category:Governor General's Award-winning non-fiction writers]]
+[[Category:Governor General's Award-winning poets]]
+[[Category:Lawyers in Quebec]]
+[[Category:McGill University Faculty of Law alumni]]
+[[Category:McGill University Faculty of Law faculty]]
+[[Category:Canadian scholars of constitutional law]]
+[[Category:Writers from Quebec City]]

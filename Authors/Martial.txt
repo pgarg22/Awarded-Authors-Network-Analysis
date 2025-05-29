@@ -1,0 +1,210 @@
+{{Redirect|Martialis|other ancient Romans with the cognomen|Martialis (cognomen)}}
+{{Other uses}}
+{{short description|1st-century Latin poet from Hispania}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Martial
+| image       = Martialis.jpg
+| birth_date  = March, between 38 and 41 AD
+| birth_place = [[Augusta Bilbilis]] (now [[Calatayud]], [[Spain]])
+| death_date  = Between 102 and 104 AD
+| death_place = [[Augusta Bilbilis]]
+| occupation  = Author
+| nationality = [[Ancient Rome|Roman]]
+| genre       = [[Satire]]
+| notableworks = ''Epigrams''
+}}
+
+'''Marcus Valerius Martialis''' (known in [[English language|English]] as '''Martial''' {{IPAc-en|ˈ|m|ɑr|ʃ|əl}}; March, between 38 and 41 AD – between 102 and 104 AD) was a Roman poet from [[Hispania]] (modern [[Spain]]) best known for his twelve books of ''[[Epigram]]s'', published in [[Ancient Rome|Rome]] between AD 86 and 103, during the reigns of the [[Roman emperor|emperors]] [[Domitian]], [[Nerva]] and [[Trajan]]. In these short, witty poems he cheerfully [[satire|satirises]] city life and the scandalous activities of his acquaintances, and romanticises his provincial upbringing. He wrote a total of 1,561 epigrams, of which 1,235 are in [[elegiac couplet]]s.
+
+Martial has been called the greatest Latin epigrammatist,<ref>{{cite web|url=http://mek.oszk.hu/02000/02042/html/6.html |title=Janus Pannonius |last=Czigány |first=Lóránt |publisher=Library of Hungarian Studies |access-date=January 19, 2017}}</ref><ref>{{cite web|url=http://www.oxfordbibliographies.com/view/document/obo-9780195389661/obo-9780195389661-0073.xml |title=Epigrams and Satire in Latin Poetry |last=Johnston |first=Patricia A. |publisher=Oxford University Press |access-date=January 19, 2017}}</ref> and is considered the creator of the modern [[epigram]].
+
+==Early life==
+Knowledge of his origins and early life are derived almost entirely from his works, which can be more or less dated according to the well-known events to which they refer. In Book X of his ''Epigrams'', composed between 95 and 98, he mentions celebrating his fifty-seventh birthday; hence he was born during March 38, 39, 40 or 41 AD (x. 24, 1),<ref>Not necessarily March 1, on account of the habit of celebrating one's birthday on that day if one had been born during that month: D. R. Shackleton Bailey, ''Martial. Epigrams. Edited and translated by D. R. S. B.'' (Cambridge (Mass.): Harvard University Press, 1993), vol. I, p. 1 n. 1.</ref>
+under [[Caligula]] or [[Claudius]]. His place of birth was [[Augusta Bilbilis]] (now [[Calatayud]]) in [[Hispania Tarraconensis]]. His parents, Fronto and Flaccilla, appear to have died in his youth.
+
+His name seems to imply that he was born a Roman citizen, but he speaks of himself as "sprung from the [[Celts]] and [[Hispania|Iberia]]ns, and a countryman of the [[Tagus]]"; and, in contrasting his own masculine appearance with that of an effeminate Greek, he draws particular attention to "his stiff [[Hispania]]n hair" (x. 65, 7).
+
+His home was evidently one of rude comfort and plenty, sufficiently in the country to afford him the amusements of [[hunting]] and [[fishing]], which he often recalls with keen pleasure, and sufficiently near the town to afford him the companionship of many comrades, the few survivors of whom he looks forward to meeting again after his thirty-four years' absence (x. 104). The memories of this old home, and of other spots, the rough names and local associations which he delights to introduce into his verse, attest to the simple pleasures of his early life and were among the influences which kept his spirit alive in the stultifying routines of upper-crust social life in Rome.
+
+He was educated in Hispania, a part of the Roman Empire which in the 1st century produced several notable Latin writers, including [[Seneca the Elder]] and [[Seneca the Younger]], [[Lucan (poet)|Lucan]] and [[Quintilian]], and Martial's contemporaries [[Licinianus (poet)|Licinianus]] of Bilbilis, Decianus of [[Emerita Augusta|Emerita]] and [[Cania (gens)|Canius]] of Gades. Martial professes to be of the school of [[Catullus]], [[Albinovanus Pedo|Pedo]], and [[Domitius Marsus|Marsus]]. The epigram bears to this day the form impressed upon it by his unrivalled skill in wordsmithing.
+
+==Life in Rome==
+The success of his countrymen may have been what motivated Martial to move to [[Rome]], from Hispania, once he had completed his education. This move occurred in AD 64. [[Seneca the Younger]] and [[Lucan]] may have served as his first patrons, but this is not known for sure.
+
+Not much is known of the details of his life for the first twenty years or so after he came to Rome. He published some juvenile poems of which he thought very little in his later years, and he chuckles at a foolish bookseller who would not allow them to die a natural death [http://la.wikisource.org/wiki/Epigrammaton_liber_I#CXIII (I. 113)]. His faculty ripened with experience and with the knowledge of that social life which was both his theme and his inspiration; many of his best epigrams are among those written in his last years. From many answers which he makes to the remonstrances of friends&mdash;among others to those of [[Quintilian]]&mdash;it may be inferred that he was urged to practice at the bar, but that he preferred his own lazy, some would say [[Bohemianism|Bohemian]] kind of life. He made many influential friends and patrons and secured the favor of both [[Titus]] and [[Domitian]]. From them he obtained various privileges, among others the ''semestris tribunatus'', which conferred on him [[equestrian (Roman)|equestrian]] rank. Martial failed, however, in his application to Domitian for more substantial advantages, although he commemorates the glory of having been invited to dinner by him, and also the fact that he procured the privilege of citizenship for many persons on whose behalf he appealed to him.
+
+The earliest of his extant works, known as ''Liber spectaculorum'', was first published at the [[Inaugural games of the Flavian Amphitheatre|opening]] of the [[Colosseum]] in the reign of Titus. It relates to the theatrical performances given by him, but the book as it now stands was published about the first year of Domitian, i.e. about the year 81. The favour of the emperor procured him the countenance of some of the worst creatures at the imperial court&mdash;among them of the notorious Crispinus, and probably of Paris, the supposed author of [[Juvenal]]'s exile, for whose monument Martial afterwards wrote a eulogistic epitaph. The two books, numbered by editors XIII and XIV, known by the names of ''Xenia'' and ''Apophoreta''&mdash;inscriptions in two lines each for presents&mdash;were published at the [[Saturnalia]] of 84. In 86 he produced the first two of the twelve books on which his reputation rests.
+
+From that time till his return to Hispania in 98 he published a volume almost every year. The first nine books and the first edition of Book X appeared in the reign of Domitian; Book XI. appeared at the end of 96, shortly after the accession of [[Nerva]]. A revised edition of book X, that which we now possess, appeared in 98, about the time of [[Trajan]]'s entrance into Rome. The last book was written after three years' absence in Hispania, shortly before his death about the year 102 or 103.
+
+These twelve books bring Martial's ordinary mode of life between the age of forty-five and sixty before us. His regular home for thirty-five years was the bustle of metropolitan Rome. He lived at first up three flights of stairs, and his "garret" overlooked the laurels in front of the portico of [[Marcus Vipsanius Agrippa|Agrippa]]. He had a small villa and unproductive farm near [[Nomentum]], in the [[Sabine]] territory, to which he occasionally retired from the pestilence, boors and noises of the city (ii. 38, xii. 57). In his later years he had also a small house on the [[Quirinal Hill|Quirinal]], near the temple of [[Quirinus]].
+
+At the time when his third book was brought out he had retired for a short time to [[Cisalpine Gaul]], in weariness, as he tells us, of his unprofitable attendance on the bigwigs of Rome. For a time he seems to have felt the charm of the new scenes which he visited, and in a later book (iv. 25) he contemplates the prospect of retiring to the neighbourhood of [[Aquileia]] and the [[Timavus]]. But the spell exercised over him by Rome and Roman society was too great; even the epigrams sent from Forum Corneli and the [[Aemilian Way]] ring much more of the Roman forum, and of the streets, baths, porticos, brothels, market stalls, public houses, and clubs of Rome, than of the places from which they are dated.
+
+His final departure from Rome was motivated by a weariness of the burdens imposed on him by his social position, and apparently the difficulties of meeting the ordinary expenses of living in the metropolis (x. 96); and he looks forward to a return to the scenes familiar to his youth. The well-known epigram addressed to Juvenal (xii. I 8) shows that for a time his ideal was happily realized; but the evidence of the prose epistle prefixed to Book XII proves and that he could not live happily away from the literary and social pleasures of Rome for long. The one consolation of his exile was a lady, Marcella, of whom he writes rather platonically as if she were his patroness&mdash;and it seems to have been a necessity of his life to always have a patron or patroness&mdash;rather than his wife or mistress.
+
+During his life at Rome, although he never rose to a position of real independence, he seems to have known many writers of the time. In addition to [[Lucan]] and [[Quintilian]], he numbered among his friends [[Silius Italicus]], [[Juvenal]] and [[Pliny the Younger]]. Despite the two authors writing at the same time and having common friends, Martial and [[Statius]] are largely silent about one another, which may be explained by mutual dislike. Martial in many places shows an undisguised contempt for the artificial kind of epic on which Statius's reputation chiefly rests; and it is possible that the respectable author of the ''Thebaid'' and the ''Silvae'' felt little admiration for the life or the works of the bohemian epigrammatist.
+
+==Martial and his patrons==
+Martial was dependent on his wealthy friends and patrons for gifts of money, for his dinner, and even for his dress, but the [[patronage in ancient Rome|relation of client to patron]] had been recognized as an honourable one by the best Roman traditions. No blame had attached to [[Virgil]] or [[Horace]] on account of the favours which they received from [[Augustus]] and [[Maecenas]], or of the return which they made for these favours in their verse. That old honourable relationship, however, greatly changed between Augustus and Domitian. Men of good birth and education, and sometimes even of high official position (Juv. i. 117), accepted the dole (''sportula''). Martial was merely following a general fashion in paying his court to "a lord," and he made the best of the custom. In his earlier career he used to accompany his patrons to their villas at [[Baiae]] or [[Tivoli, Italy|Tibur]], and to attend their morning levees. Later on, he went to his own small country house, near Nomentum, and sent a poem, or a small volume of his poems, as his representative at the early visit.
+
+==Martial's character==
+[[Pliny the Younger]], in the short tribute which he pays to him on hearing of his death, wrote, "He had as much good-nature as wit and pungency in his writings".<ref>[[Pliny the Younger]], ''Letters'', [http://www.attalus.org/old/pliny3.html#21 3.21]</ref> Martial professes to avoid personalities in his satire, and honour and sincerity (''fides'' and ''simplicitas'') seem to have been the qualities which he most admires in his friends. Some have found distasteful his apparent servile flattery to the worst of the many bad emperors of Rome in the 1st century. These were emperors Martial would later censure immediately after their death (xii. 6). However, he seems to have disliked [[hypocrisy]] in its many forms, and seems to be free from [[Hypocrisy|cant]], [[pedantry]], or affectation of any kind.
+
+Though many of his epigrams indicate a cynical disbelief in the character of women, yet others prove that he could respect and almost revere a refined and courteous lady. His own life in Rome afforded him no experience of domestic virtue; but his epigrams show that, even in the age which is known to modern readers chiefly from the ''Satires'' of [[Juvenal]], virtue was recognized as the purest source of happiness. The tenderest element in Martial's nature seems, however, to have been his affection for children and for his dependents.
+
+==Martial's ''Epigrams''==
+Martial's keen curiosity and power of observation are manifested in his epigrams. The enduring literary interest of Martial's epigrams arises as much from their literary quality as from the colorful references to human life that they contain. Martial's epigrams bring to life the spectacle and brutality of daily life in imperial Rome, with which he was intimately connected.
+
+From Martial, for example, we have a glimpse of living conditions in the city of Rome:
+
+{{poemquote|
+I live in a little cell, with a window that won't even close,
+In which [[Anemoi#Boreas|Boreas]] himself would not want to live.
+| [[wikisource:la:Epigrammaton liber VIII#XIV|''Book VIII, No. 14. 5–6'']]
+}}
+
+As Jo-Ann Shelton has written, "fire was a constant threat in ancient cities because wood was a common building material and people often used open fires and [[oil lamp]]s. However, some people may have [[insurance fraud|deliberately set fire to their property in order to collect insurance money]]."<ref>Jo-Ann Shelton, ''As the Romans Did: A Sourcebook in Roman Social History'' (New York: Oxford University Press, 1988), 65.</ref> Martial makes this accusation in one of his epigrams:
+
+{{poemquote|
+Tongilianus, you paid two hundred for your house;
+An accident too common in this city destroyed it.
+You collected ten times more. Doesn't it seem, I pray,
+That you set fire to your own house, Tongilianus?
+|[[wikisource:la:Epigrammaton liber III#LII|''Book III, No. 52'']]
+}}
+
+Martial also pours scorn on the doctors of his day:
+
+{{poemquote|
+I felt a little ill and called Dr. Symmachus.
+Well, you came, Symmachus, but you brought 100 medical students with you.
+One hundred ice-cold hands poked and jabbed me.
+I didn't have a fever, Symmachus, when I called you–but now I do.
+|[[wikisource:la:Epigrammaton liber V#IX|''Book V, No. 9'']]
+}}
+
+Martial's epigrams also refer to the extreme cruelty shown to slaves in Roman society. Below, he chides a man named Rufus for flogging his cook for a minor mistake:
+
+{{poemquote|
+You say that the hare isn't cooked, and ask for the whip;
+Rufus, you prefer to carve up your cook than your hare.
+|[[wikisource:la:Epigrammaton liber III#XCIV|''Book III, No. 94'']]
+}}
+
+Martial's epigrams are also characterized by their biting and often scathing sense of wit as well as for their lewdness; this has earned him a place in literary history as the original [[insult comic]]. Below is a sample of his more insulting work:
+
+{{poemquote|
+You feign youth, Laetinus, with your dyed hair
+So suddenly you are a raven, but just now you were a swan.
+You do not deceive everyone. [[Proserpina]] knows you are grey-haired;
+She will remove the mask from your head.
+|[[wikisource:la:Epigrammaton liber III#XLIII|''Book III, No. 43'']]
+}}
+
+{{poemquote|
+:"Rumor tells, Chiona, that you are a virgin,
+and that nothing is purer than your fleshy delights.
+Nevertheless, you do not bathe with the correct part covered:
+if you have the decency, move your panties onto your face.
+|[[wikisource:la:Epigrammaton liber III#LXXXVII|''Book III, No. 87'']]
+}}
+
+{{poemquote|
+'You are a frank man', you are always telling me, Cerylus.
+Anyone who speaks against you, Cerylus, is a frank man.
+|[[wikisource:la:Epigrammaton liber I#LXVII|''Book I, No. 67'']]
+}}
+
+{{poemquote|
+Eat lettuce and soft apples eat:
+For you, Phoebus, have the harsh face of a defecating man.
+|[[wikisource:la:Epigrammaton liber III#LXXXIX|''Book III, No. 89'']]
+}}
+
+Or the following two examples (in translations by Mark Ynys-Mon):
+
+{{poemquote|
+Fabullus' wife Bassa frequently totes
+A friend's baby, on which she loudly dotes.
+Why does she take on this childcare duty?
+It explains farts that are somewhat fruity.
+|[[wikisource:la:Epigrammaton liber IV#LXXXVII|''Book IV, No. 87'']]
+}}
+
+{{poemquote|
+With your giant nose and cock
+I bet you can with ease
+When you get excited
+check the end for cheese.
+|[[wikisource:la:Epigrammaton liber VI#XXXVI|''Book VI, No. 36'']]
+}}
+
+Along with [[Roman graffiti]], the Epigrams are important sources for [[Latin obscenity|Latin obscene words]].
+
+==Reception==
+The works of Martial became highly valued on their discovery by the [[Renaissance]], whose writers often saw them as sharing an eye for the urban vices of their own times. The poet's influence is seen in [[Juvenal]], late classical literature, the [[Carolingian Renaissance|Carolingian revival]], the Renaissance in France and Italy, the [[Spanish Golden Age|Siglo de Oro]], and early modern English and German poetry, until he became unfashionable with the growth of the [[romanticism|Romantic movement]].
+
+The 21st century has seen a resurgence of scholarly attention to Martial's work.<ref>{{cite web|url=http://repository.upenn.edu/edissertations/1864/ |title=Hidden in Plain Sight: Martial and the Greek Epigrammatic Tradition |last=Lucci |first=Joseph M. |publisher=University of Pennsylvania |date=2015 |access-date=January 19, 2017}}</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+* Coleman, Kathleen M. (2006). "The Identity of Caesar." In ''M. Valerii Martialis Liber Spectaculorum''. Edited by Kathleen Coleman, xlv–lxiv. New York: Oxford Univ. Press.
+* Fagan, Garrett G. (1999). "A Visit to the Baths with Martial" In ''Bathing in Public in the Roman World''.   Ann Arbor:  University of Michigan Press. 
+* Fitzgerald, William. (2007). ''Martial: The World of the Epigram''. Chicago: Univ. of Chicago Press.
+* Howell, Peter. (2009). ''Martial. Ancients in Action''. London: Bristol Classical Press.
+* Leary, Timothy John. (2012). "Modifying Martial in Nineteenth-Century Britain." In ''Expurgating the Classics: Editing Out in Greek and Latin''. Edited by Stephen Harrison and Christopher Stray.  London: Bristol Classical Press.
+* Nisbet, Gideon. (2003). ''Greek Epigram in the Roman Empire: Martial's Forgotten Rivals''. Oxford: Oxford Univ. Press.
+* Rimell, Victoria. (2008). ''Martial's Rome: Empire and the Ideology of Epigram''. Cambridge, UK: Cambridge Univ. Press.
+* Sapsford, Francesca May (2012). [http://etheses.bham.ac.uk/3671/2/Sapsford_12_PhD.pdf ''The 'Epic' of Martial'']. University of Birmingham PhD thesis.
+* Stanley, Farland. (2014). "Observations on Martial's Imagery of Provincial Spain." ''Glotta'', 90, 192-215. 
+* Sullivan, John P. (2004). ''Martial: The Unexpected Classic: A Literary and Historical Study''. Cambridge, UK: Cambridge Univ. Press.
+* Sullivan, John P. (1989). "Martial's "Witty Conceits": Some Technical Observations." ''Illinois Classical Studies'' 14.1/2: 185–199.
+
+==External links==
+{{Commons category|Marcus Valerius Martialis}}
+{{wikiquote}}
+{{wikisource-author}}
+{{wikisource-lang|la|Scriptor:Marcus Valerius Martialis|Marcus Valerius Martialis}}
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Martial
+  |viaf= |lccn= |lcheading= |wikititle= }}
+
+===Works===
+* [https://www.perseus.tufts.edu/hopper/searchresults?q=martial Works by Martial at Perseus Digital Library]
+* [http://www.thelatinlibrary.com/martial.html ''Epigrammaton libri''] (in Latin) at The Latin Library.
+* [http://www.tertullian.org/fathers/index.htm#Martial_Epigrams ''Complete Epigrams''] (in English, 1897 edition) at The Tertullian Project—actually incomplete: scatological and sexually explicit material is left untranslated.
+* [http://martialis.blogspot.com/ Martial Blog]—translations from much of the first three books of ''Epigrams''
+* [http://www.poetryintranslation.com/PITBR/Latin/Martial.htm Selected ''Epigrams''] translated by A. S. Kline
+* [http://eduke.org/martial Selected ''Epigrams''] translated by Elizabeth Duke
+* Selected ''Epigrams'' in translation at [http://www.theaterofpompey.com/ Theatre of Pompey]: [http://www.theaterofpompey.com/auditorium/pa-sources/martial-2-14.html 2:14]; [http://www.theaterofpompey.com/auditorium/pa-sources/mart-6-9.html 6:9]; [http://www.theaterofpompey.com/auditorium/pa-sources/mart-10-51.html 10:51]; [http://www.theaterofpompey.com/auditorium/pa-sources/martial-11-1.html 11:1]; [http://www.theaterofpompey.com/auditorium/pa-sources/mart-11-47.html 11:47]; [http://www.theaterofpompey.com/auditorium/pa-sources/mart-14-29.html 14:29]; [http://www.theaterofpompey.com/auditorium/pa-sources/mart-14-166.html 14:166]
+* Some of Martial's more [https://web.archive.org/web/20140517122930/http://artfuldodge.sites.wooster.edu/content/joseph-s-salemi-martial risqué ''Epigrams''] translated by Joseph S Salemi
+* [https://web.archive.org/web/20110722193326/http://www.mgilleland.com/fpamart.htm Translations from Martial] by Franklin P Adams
+
+===Other links===
+*[http://www.poemhunter.com/marcus-valerius-martialis/ Poems by Martial] at PoemHunter.com
+*[http://www.quotationspage.com/quotes/Marcus_Valerius_Martialis/ Martial Quotations] at The Quotations Page
+*[http://www.rhapsodes.fll.vt.edu/martial.htm SORGLL: Martial I.96, V.41, and X.30; read by Wakefield Foster]
+*[http://www.nybooks.com/articles/22360 Court Poet & Pornographer] [[Glen Bowersock]] on Martial from ''[[The New York Review of Books]]''
+* *{{EB1911|wstitle=Martial|volume=17|pages=788–790}}
+
+{{Ancient Rome topics|state=collapsed}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martial}}
+[[Category:1st-century births]]
+[[Category:100s deaths]]
+[[Category:1st-century Romans]]
+[[Category:2nd-century Romans]]
+[[Category:1st-century writers]]
+[[Category:2nd-century writers]]
+[[Category:Latin-language writers]]
+[[Category:Roman-era satirists]]
+[[Category:Silver Age Latin writers]]
+[[Category:Romans from Hispania]]
+[[Category:Epigrammatists]]
+[[Category:People from Calatayud]]
+[[Category:Valerii]]
+[[Category:Ancient LGBT people]]

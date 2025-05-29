@@ -1,0 +1,53 @@
+{{Short description|Old French poet}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Jean Bodel
+| birth_date  = {{circa|1165}}
+| death_date  = {{circa|1210}}
+| death_place = [[Arras]] 
+| occupation  = [[poet]]
+| nationality = [[French people|French]]
+| period      = [[Medieval]]
+| genre       = [[chanson de geste]], [[fabliaux]]
+}}
+{{French literature sidebar}}
+'''Jean Bodel''' (c. 1165 – c. 1210), was an [[Old French]] [[poet]] who wrote a number of ''[[chanson de geste|chansons de geste]]'' as well as many [[fabliaux]]. He lived in [[Arras]].<ref name=EB1911>{{Cite EB1911 |wstitle=Bodel, Jehan |volume=4 |page=108}}</ref>
+
+==Writings==
+Bodel wrote ''[[:fr:Chanson des Saisnes|La Chanson des Saisnes]]''<ref name=EB1911/> ("Song of the Saxons") about the war of King [[Charlemagne]] with the [[Saxon people|Saxons]] and their leader [[Widukind]], whom Bodel calls ''Guiteclin''.  He also wrote a [[miracle play]] called the ''[[:fr:Le Jeu de saint Nicolas|Le Jeu de saint Nicolas]]'' ("The Game of Saint Nicolas"), which was probably first performed in [[Arras]] on 5 December 1200. Set in the middle of an epic battle between Christians and Muslims, the play tells the story of a good Christian who escapes the battle and is found praying to a statue of Saint Nicolas by the Muslim forces. The Muslim leader decides to test the saint by unlocking the doors to his treasury and leaving the statue as a guardian, stipulating that if anything were stolen the Christian would forfeit his life. Three thieves attempt to steal the treasure, but Saint Nicolas stops them. As a result, the Muslim ruler and his entire army convert to Christianity.<ref>Lynn T. Ramey, "Unauthorized Preaching: The Sermon in Jean Bodel's Jeu de Saint Nicolas," in n: ''Speculum Sermonis: Interdisciplinary Reflections on the Medieval Sermon'', ed. Georgiana Donavin, Cary J. Nederman, and Richard Utz (Turnhout: Brepols, 2004), pp. 221-33.</ref>
+
+Like another French miracle play from the same time period, ''[[Le Miracle de Théophile]]'', ''Le Jeu de saint Nicolas'' contains an invocation to the Devil in an unknown language:<ref>Discussed in: [[Émile-Jules Grillot de Givry|Grillot de Givry]], ''Witchcraft, Magic & Alchemy'', Courier Dover Publications, 1971, p. 109.</ref>
+
+::''Palas aron ozinomas''
+::''Baske bano tudan donas''
+::''Geheamel cla orlay''
+::''Berec hé pantaras tay''
+
+Bodel was the first person of record to classify the legendary themes and [[literature cycle|literary cycles]] known to [[medieval literature]] into the "Three Matters":{{citation needed|date=March 2018}}
+
+*the "[[Matter of Rome]]", or retellings of stories from [[classical antiquity]]
+*the "[[Matter of Britain]]", concerning [[King Arthur]] and related topics
+*the "[[Matter of France]]", concerning [[Charlemagne]] and his [[paladin]]s
+
+Bodel contracted [[leprosy]] in 1202 or 1205,<ref name=EB1911/> and entered a [[leprosarium]].<ref name=EB1911/> He then wrote a long farewell, ''"Les Congés"'',<ref name=EB1911/> his most personal and touching work.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Wikisourcelang-inline|fr|Jean Bodel|Jean Bodel}}
+* {{Internet Archive author |sname=Jean Bodel}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bodel, Jean}}
+[[Category:1160s births]]
+[[Category:1210 deaths]]
+[[Category:People from Arras]]
+[[Category:French poets]]
+[[Category:Medieval poets]]
+[[Category:12th-century French writers]]
+[[Category:12th-century French poets]]
+[[Category:French male poets]]
+
+
+{{France-poet-stub}}

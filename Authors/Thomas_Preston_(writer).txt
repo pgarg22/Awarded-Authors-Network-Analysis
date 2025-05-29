@@ -1,0 +1,92 @@
+{{short description|16th-century Master of Trinity Hall, Cambridge}}
+{{EngvarB|date=July 2017}}
+{{Use dmy dates|date=July 2017}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Thomas Preston
+| image       =
+| caption     =
+| birth_date   = 1537
+| birth_place  = [[Simpson, Buckinghamshire]], England
+| death_date   = 1 June 1598
+| death_place  = [[Cambridge, Cambridgeshire]], England
+| alma mater  =
+| occupation  =
+| nationality = English
+| period      =
+| movement    =
+| debut_work  =
+| influenced  =
+| signature   = }}
+
+'''Thomas Preston''' (1537–1598) was an English master of [[Trinity Hall, Cambridge]], and possibly a dramatist.
+
+==Life==
+Preston was born at [[Simpson, Milton Keynes|Simpson, Buckinghamshire]], in 1537, and was educated at [[Eton College|Eton]] and at [[King's College, Cambridge]], where he was elected scholar, 16 August 1553, and fellow, 18 September 1556. He graduated B.A. in 1557 and M.A. in 1561.<ref>{{acad|id=PRSN553T|name=Preston, Thomas}}</ref> When [[Elizabeth I of England|Queen Elizabeth]] visited Cambridge in August 1564, he attracted the royal favour by his performance of a part in the tragedy of ''Dido'',<ref>See further [http://www.bartleby.com/215/0409.html "Early English Tragedy: Introduction of ''intermedii''"] in ''The Cambridge History of English and American Literature'' (1907–1921), vol. 5.</ref> and by disputing in philosophy with [[Thomas Cartwright (Puritan)|Thomas Cartwright]] in the royal presence.<ref>Siobhan Keenan in Archer, Goldring, and Knight (eds.), ''The Progresses, Pageants, and Entertainments of Queen Elizabeth I'' (Oxford 2007), p. 92.</ref> He also addressed the queen in a [[Latin]] oration on her departure, when she invited him to kiss her hand, and gave him a pension of 20''l.'' a year, with the title of "her scholar."<ref>[[John Strype]], ''Annals''.</ref> He served as [[proctor]] in the university in 1565. In 1572 he was directed by the authorities of his college to study civil law, and four years later proceeded to the degree of LL.D. In 1581 he resigned his fellowship. He seems to have joined the College of Advocates. In 1584 he was appointed master of Trinity Hall, and he served as vice-chancellor of the university in 1589–90.
+
+Preston died on 1 June 1598, and was buried in the chapel of Trinity Hall. A monumental brass near the altar, placed there by his wife Alice, bears a Latin inscription<ref>See C.H. Cooper and T. Cooper, ''Athenae Cantabrigienses'' (1861), [https://books.google.com/books?id=80oJAAAAQAAJ&pg=PA248#v=onepage&q=&f=false vol. II, p. 248].</ref> and a full-length effigy of him in the habit of a Cambridge doctor of laws.
+
+==Works==
+
+===''Cambyses''===
+[[File:Thomas Preston - Cambyses, King of Persia (title page).jpg|thumb|right|Title page of an early edition of ''Cambyses'', showing the division of roles among actors.]]Preston was a pioneer of the English drama, and published in 1569 ''A lamentable tragedy mixed ful of pleaſant mirth,conteyning the life of CAMBISES King of PERCIA, from the beginning of his kingdome vnto his death, his one good deed of execution, after that many wicked deeds and tirannous murders, committed by and through him, and laſt of all, his odious death by Gods Juſtice appointed, Doon in ſuch order as foloweth. By Thomas Preston.'' There are two undated editions: one by John Allde, who obtained a license for its publication in 1569, and another by [[Edward Allde]].<ref>Cf. [[John Payne Collier]], ''[[Stationers' Register|Registers]]'', Shakespeare Society, i. 205.</ref> It was reprinted in Hawkins's ''Origin of the English Drama'' (i. 143) and in [[Robert Dodsley|Dodsley]]'s ''Old English Drama'' (ed. [[William Carew Hazlitt|Hazlitt]], iv. 157 sq.).  A reference to the death of [[Edmund Bonner|Bishop Bonner]] in September 1569 shows that the piece was produced after that date.
+
+The play illustrates the transition from the [[morality play]] to historical drama. The dramatis personae include [[allegory|allegorical]] figures (e.g. Cruelty, Small Ability)<ref>See further Karl P. Wentersdorf, "[https://www.jstor.org/stable/3194566 The Allegorical Role of the Vice in Preston's ''Cambises'']," ''Modern Language Studies'' 11:2 (1981), pp. 54–69.</ref> as well as historical personages (such as the title character, [[Cambyses II of Persia]]). The plot, characterisation, and language are rugged and uncouth. Murder and bloodshed abound. The play is largely written in rhyming [[Fourteener (poetry)|fourteener]] couplets, with some irregular [[heroic verse]] (as in the speeches of the comic character Ambidexter).  The bombastic grandiloquence of the piece became proverbial, and [[William Shakespeare|Shakespeare]] is believed to allude to it when he makes [[Falstaff]] say "I must speak in passion, and I will do it in King Cambyses' vein" (''[[Henry IV, Part 1]]'', ii.4).
+
+====Preston's authorship====
+Critics objecting to the style of ''Cambyses'' have doubted whether the playwright may not have been a different Thomas Preston.  M. Channing Linthicum lists some of these possibilities:<blockquote>Those who dislike to think of ''Cambyses'' as even a puerile attempt of the Latin scholar Thomas Preston, may entertain [[Edmund Kerchever Chambers|Chambers]]' suggestion that it may have been composed by a popular writer of the same name.  He mentions, (''Elizabethan Stage'', III, 469), a "quarterly waiter at Court" under [[Edward VI of England|Edward VI]], and [[Thomas Preston (composer)|a choirmaster at Windsor]].  A "gentleman waiter" of this name was detailed to the service of the Princess of [[Crown of Castile|Castile]] in 1514 (see ''Letters & Papers of [[Henry VIII of England|Henry VIII]]'', I, ii, entry 2656 [6]); a Thomas Preston was rewarded by [[Mary I of England|Princess Mary Tudor]], 1537 (see [[Frederic Madden|Madden]], ''Privy Purse Expenses of Princess'' Mary, 59); in 1544, Thomas Preston—presumably the same person—was granted, as the King's "servant" a tenement "called le Crystofer in St Botulphs parishe without Aldrychgate" (see ''Letters & Papers of Henry VIII'', XIX, i, p. 644); "le messuage called le White Beare" was said in 1548, to have been "lately in tenure of Thomas Preston" (see ''[[Patent Rolls|Cal. Pat. Rolls]]'', July 25, 1548, m. 34).  None of these—if they were different persons—is termed writer or "player," but the references show that the name was not uncommon in London, and the subject needs to be investigated.<ref>M. Channing Linthicum, "The Date of Cambyses," ''PMLA'', Vol. 49, No. 3. (Sep., 1934), pp. 959–961, p. 960 n. 2</ref></blockquote>
+
+On the other hand, Émile Legouis has noted, "The marked and yet artless bad taste of the style has thrown doubt on the authorship, yet the play shows signs of having been written by a [[Renaissance humanism|humanist]], for [[Herodotus]] is followed step by step, and there are many mythological reminiscences."<ref>Émile Legouis, ''A History of English Literature'', vol. 1 (London: Dent, 1926), p. 156.</ref>  But it has since been argued that the Herodotean account may have been mediated by a [[chronicle]] such as [[Johann Carion]]'s ''Chronica'';<ref>Don Cameron Allen, "[https://www.jstor.org/stable/2912880 A Source for ''Cambises'']," ''Modern Language Notes'' 49 (1934), pp. 384–387.</ref> a more recent refinement of this theory suggests that Preston used [[Richard Taverner]]'s 1539 ''The Garden of Wysedom'', which drew on Carion.<ref>Irving Ribner, ''The English History Play in the Age of Shakespeare'' (2005), p. 52; [https://books.google.co.uk/books?id=l0LHz_Eki_IC&pg=PA52&lpg=PA52&dq=%22Herman+Bonnus%22+Carion&source=bl&ots=gOFwY0-eJW&sig=woClgSF3apWPK3I0H8t8GKgvhRU&hl=en&ei=IRN7TrLyCsLE8QOb1J2QBQ&sa=X&oi=book_result&ct=result&resnum=1&ved=0CB8Q6AEwAA#v=onepage&q=%22Herman%20Bonnus%22%20Carion&f=false Google Books].</ref>
+
+===Ballads===
+
+Preston (or the author of ''Cambyses'') also wrote a [[Broadside (music)|broadside ballad]] entitled ''A Lamentation from Rome how the Pope doth bewayle the Rebelles in England cannot prevayle. To the tune of "Rowe well, ye mariners"'' (London by William Griffith, 1570; reprinted in Collier's ''Old Ballads'', edited for the [[Percy Society]], and in the ''Borderer's Table Book'' by [[Moses Aaron Richardson]], vii. 154).<ref>Collier, i. 210.</ref> This ballad is written "in the person of a fly who happens to be lodged in [[Pope Pius V|the pope]]'s nose when news comes about [[Rising of the North|the Catholic uprising in the north of England]]" and describes the pope raging and hurling furniture, to the fly's terror.<ref>Bruce R. Smith, ''The Acoustic World of Early Modern England: Attending to the O-Factor'' (University of Chicago Press, 1999), pp. 189f.  Cf. [[Arundell Esdaile]], ''Autolycus' Pack and Other Light Wares'' (London: Grafton & Co., 1940), [https://books.google.com/books?id=OmPMfkdazVUC&pg=PA19&vq=%22A+Lamentation+from+Rome%22&dq=%22fabyn+flye%22+preston&sig=lSFj0veOJDkcdJr1nmUHxU5q4bk p. 19], where the ballad's first several lines are quoted.</ref> Another ballad, titled ''A Ballad from the Countrie, sent to showe how we should Fast this Lente'' is extant and dated 1589.<ref name="chambers-469">E.K. Chambers, ''The Elizabethan Stage'', vol. 3, p. 469.</ref> Both the surviving ballads, as well as ''Cambyses'', are subscribed at the end "Quod Thomas Preston".<ref name="chambers-469"/>
+
+A third ballad by Preston, not now extant, ''A geliflower of swete marygolde, wherein the frutes of tyranny you may beholde'', was licensed for publication to William Griffith, 1569–70.<ref>Collier, i. 222.</ref>
+
+===Latin works===
+
+Besides the orations connected to the queen's 1564 Cambridge visit, Preston contributed Latin verses to the university collection on the restitution of [[Martin Bucer]] and [[Paul Fagius]] (1560), and to [[Nicholas Carr (professor)|Nicholas Carr]]'s Latin translation of seven orations of [[Demosthenes]] (London, 1571).
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite DNB|wstitle=Preston, Thomas (1537-1598)|first=Sidney|last=Lee|authorlink=Sidney Lee|volume=46|page=314}}
+
+==Editions of ''Cambyses''==
+* Craik, T.W. (1974) ''Minor Elizabethan tragedies'', new ed. London. Dent.
+* Creeth, E. (1966)  ''Tudor plays: an anthology of early English drama''.  Garden City.  Anchor/Doubleday.
+* Fraser, R.A. and Rabkin, N.C. (1976) ''Drama of the English Renaissance'', vol. 1. New York. Macmillan.
+* Johnson, R.C. (1975) ''A critical edition of Thomas Preston's Cambises''.  Salzburg. Institut für Englische Sprache und Literatur, Universität Salzburg.
+
+==External links==
+* Dodsley/Hazlitt edition of ''Cambyses'': [https://books.google.com/books?id=KM6G6FDmJNoC&pg=PA157 Google Books copy 1], [https://books.google.com/books?id=HXcLAAAAIAAJ&pg=PA159 Google Books copy 2], [https://archive.org/details/dodsleysplays04hazluoft archive.org]
+* [http://www.umm.maine.edu/faculty/necastro/drama/cambises.txt ''Cambises''], plaintext ed. Gerard NeCastro (closer to original spelling) in his collection [http://www.umm.maine.edu/faculty/necastro/drama/ Medieval and Renaissance Drama]
+* [https://www.gutenberg.org/ebooks/18799 Wynne's ''Growth of English Drama''] (gutenberg.org) – discusses the place of ''Cambyses'' in the tradition of Interludes (''intermedii'') and includes a summary of the play's grievous incidents, whose overabundance and comic touches the author sees as risking a "near caricature" of tragedy despite an element of "unaffected pathos."
+
+{{s-start}}
+{{s-aca}}
+{{succession box
+  | title  = [[Trinity Hall, Cambridge|Master of Trinity Hall, Cambridge]]
+  | years  = 1585–1598
+  | before = [[Henry Harvey (Trinity Hall)|Henry Harvey]]
+  | after  = [[John Cowell (jurist)|John Cowell]]
+}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Preston, Thomas}}
+[[Category:1537 births]]
+[[Category:1598 deaths]]
+[[Category:English Renaissance dramatists]]
+[[Category:Masters of Trinity Hall, Cambridge]]
+[[Category:People from Buckinghamshire]]
+[[Category:People educated at Eton College]]
+[[Category:New Latin-language poets]]
+[[Category:16th-century Latin-language writers]]
+[[Category:16th-century male writers]]
+[[Category:16th-century scholars]]
+[[Category:16th-century English dramatists and playwrights]]
+[[Category:Vice-Chancellors of the University of Cambridge]]
+[[Category:Fellows of King's College, Cambridge]]

@@ -1,0 +1,53 @@
+{{Infobox person
+| name        = Christoph Lode
+| image       = 
+| alt         = 
+| caption     = 
+| other_names = Wolf, Daniel (pseudonym)
+| occupation  = German author
+| birth_date  = {{birth-date and age|January 11, 1977}}
+| birth_place = [[Kaiserslautern]], Germany
+}}
+
+'''Christoph Lode''' (born January 11, 1977 in [[Kaiserslautern]]) is a German novelist. He also publishes under the pseudonym '''Daniel Wolf'''.<ref name="Pfalz-ExpressBuchtipp">{{cite web|url=http://www.pfalz-express.de/buchtipp-das-salz-der-erde-von-speyerer-autor-daniel-wolf/|title=Buchtipp: Das Salz der Erde von Speyerer Autor Daniel Wolf|date=4 February 2015|publisher=Pfalz-Express|accessdate=2015-12-29}}</ref><ref name="TemporatiChristoph">{{cite web|url=http://temporati.de/Christoph_Lode.html|title=Lebenslauf von Christoph Lode|publisher=Temporati|accessdate=2015-12-29}}</ref>
+
+== Biography ==
+From 1997 to 2001 he studied social pedagogy in [[Ludwigshafen am Rhein]] and worked at the  {{Interlanguage link multi|Psychiatrisches Zentrum Nordbaden|de|3=Psychiatrisches Zentrum Nordbaden|lt=North Baden Psychiatric Center}}  in [[Wiesloch]].<ref name="MorgenwebSchreiben">{{cite web|url=http://www.morgenweb.de/nachrichten/kultur/kultur-allgemein/schreiben-ist-eine-lange-ubung-1.1258340|title="Schreiben ist eine lange Übung" – Kultur allgemein|publisher=Mannheimer Morgen|date=26 October 2013|accessdate=2015-12-29}}</ref> Since 2009 he has devoted himself completely to writing. He lives with his wife in [[Speyer]].<ref>Lode, Christoph. "''Über mich''", at [http://www.christoph-lode.de/ Christoph Lode's personal webpage]</ref>
+
+== Bibliography ==
+
+* ''Der Gesandte des Papstes'' (“The Envoy of the Pope”). Page & Turner, Munich 2008, {{ISBN|978-3-442-20326-0}}
+* ''Das Vermächtnis der Seherin'' (“The Legacy of the Prophetess”). Page & Turner, Munich 2008, {{ISBN|978-3-442-20327-7}}
+* ''Pandaemonia: Der letzte Traumwanderer'' (Pandæmonia: The Last Dream-Wanderer”). Goldmann, Munich 2010, {{ISBN|978-3-442-47173-7}}
+* ''Pandaemonia: Die Stadt der Seelen'' (“Pandæmonia: The City of Souls”). Goldmann, Munich 2011, {{ISBN|978-3-442-47174-4}}
+* ''Die Bruderschaft des Schwertes'' (“The Brotherhood of the Sword”). Goldmann, Munich 2011, {{ISBN|978-3-442-47376-2}}
+* ''Pandaemonia: Phoenixfeuer'' (“Pandæmonia: Phœnix Fire”). Goldmann, Munich 2011, {{ISBN|978-3-442-47175-1}}
+* (as Daniel Wolf) ''Das Salz der Erde'' (“The Salt of the Earth”). Goldmann, Munich 2013, {{ISBN|978-3-442-47947-4}}<ref name="EluniversalDaniel">{{cite web|url=http://www.eluniversal.com/arte-y-entretenimiento/cultura/150618/daniel-wolf-debuta-en-castellano-como-el-ken-follett-aleman|title=Daniel Wolf debuta en castellano como el "Ken Follett alemán" - Cultura|publisher=eluniversal.com|date=18 June 2015|accessdate=2015-12-29}}</ref>
+* (as Daniel Wolf) ''Das Licht der Welt'' (“The Light of the World”). Goldmann, Munich 2014, {{ISBN|978-3-442-48050-0}}
+* (as Daniel Wolf) ''Der Vasall des Königs'' ("The Vassal of the King"). Goldmann, Munich 2015, {{ISBN|978-3-641-18079-9}}
+* (as Daniel Wolf) ''Das Gold des Meeres'' ("The Gold of the Sea"). Goldmann, Munich 2016, {{ISBN|978-3-442-48318-1}}
+* (as Daniel Wolf) ''Die Gabe des Himmels'' ("The Gift of Heaven"). Goldmann, Munich 2018, {{ISBN|978-3-442-48319-8}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{DNB-Portal|133983722}}
+* [http://www.christoph-lode.de/ Website of Christoph Lode] (in German)
+* [https://web.archive.org/web/20130301232515/http://www.montsegur.de/interviews/lode_christoph.html Interview with Christoph Lode at montsegur.de] (in German)
+* [http://www.literatina.de/thread.php?threadid=4646 Interview with Christoph Lode at literatina.de]{{dead link|date=August 2017 |bot=InternetArchiveBot |fix-attempted=yes }} (in German)
+
+This article is a translation of the article found on the German Wikipedia page.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lode, Christoph}}
+[[Category:German male novelists]]
+[[Category:21st-century German novelists]]
+[[Category:German historical novelists]]
+[[Category:German fantasy writers]]
+[[Category:Writers from Rhineland-Palatinate]]
+[[Category:1977 births]]
+[[Category:Living people]]
+[[Category:21st-century German male writers]]
+[[Category:21st-century pseudonymous writers]]

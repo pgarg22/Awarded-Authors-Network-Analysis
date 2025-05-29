@@ -1,0 +1,46 @@
+{{Infobox peer
+|name          = Mark Alexander Boyd
+|image         =
+|image_size    =
+|caption       =
+|birth_name    =
+|birth_date    = 13 January 1562
+|birth_place   = Ayrshire, Scotland
+|death_date    = {{death date and age|df=yes|1601|4|10|1562|1|13}}
+|death_place   =
+}}
+
+{{Use British English|date=January 2014}}
+{{Use dmy dates|date=August 2021}}
+'''Mark Alexander Boyd''' (13 January 1562 &ndash; 10 April 1601) was a [[Scotland|Scottish]] [[poet]] and [[mercenary|soldier of fortune]]. He was born in [[Ayrshire]], [[Scotland]]. His father was from Penkill, [[Carrick, Scotland|Carrick]], in [[Ayrshire]]. He was educated under the care of his uncle, the [[Archbishop of Glasgow]], James Boyd of Trochrig. As a young man, he left Scotland for [[France]], where he studied [[Civil law (legal system)|civil law]]. He took part in the [[French Wars of Religion]], serving in the army of [[Henri III]].
+
+He had two collections of [[Latin]] [[poem]]s published, in 1590 and 1592, at a time when he was teeacing at the [[College of Guienne]] in Bordeaux. He returned to Scotland in 1596, and died back in Ayrshire on 10 April 1601. He is now remembered for one poem in [[Scots language|Scots]], the ''Sonnet of Venus and Cupid'', which was attributed to him in 1900, and which [[Ezra Pound]] called "the most beautiful sonnet in the language"<ref name="Pound134">Pound, Ezra (1934), p. 134</ref>
+
+==Works==
+* {{cite book |date=1590 |title=Marci Alexandri Bodii Scoti Epistolae quindecim, quibus totidem Ovidii respondet. Accedent & ejusdem elegiae, epigrammata, illustriumque mulierum elogia |url=http://bibliotheque.bordeaux.fr/in/faces/imageReader.xhtml?id=h::BordeauxS_B330636101_B4951_2&pageIndex=1&mode=simple&selectedTab=thumbnail |location=Bordeaux |publisher=Simon Millanges |page=122 }}
+* Epistolae Heroides et Hymni (1592)<ref>Boyd, Mark Alexander (1592), ''Epistolae Heroides et Hymni'', [[Jérôme Haultin]], La Rochelle</ref>
+* Sonnet of Venus and Cupid
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*Pound, Ezra. ''ABC of Reading'' (1934) New Directions (reprint). {{ISBN|0-8112-1893-7}}
+
+==External links==
+*[http://www.electricscotland.com/history/other/boyd_mark.htm Significant Scots]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Boyd, Mark Alexander}}
+[[Category:Scottish soldiers]]
+[[Category:16th-century Scottish poets]]
+[[Category:16th-century soldiers]]
+[[Category:16th-century Scottish people]]
+[[Category:Lallans poets]]
+[[Category:1562 births]]
+[[Category:1601 deaths]]
+[[Category:Scottish mercenaries]]
+
+
+{{Scotland-poet-stub}}

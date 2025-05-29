@@ -1,0 +1,52 @@
+{{infobox person/Wikidata|fetchwikidata=ALL|movement=[[Baroque]]|birth_place=[[Seville]], [[Kingdom of Spain]]|death_place=[[Granada]], [[Kingdom of Spain]]}}
+'''Juan de la Cueva de Garoza''' (1543&ndash;1612) was a [[Spain|Spanish]] [[dramatist]] and [[poet]]. He was born in [[Seville]] to an aristocratic family; his younger brother Claudio, with whom he spent some time in [[Guadalajara, Mexico]], went on to become an [[archdeacon]] and [[inquisitor]].<ref name="Ward1978">{{cite book|last=Ward|first=Philip|title=The Oxford Companion to Spanish Literature|url=https://archive.org/details/oxfordcompaniont00ibli|url-access=registration|year=1978|publisher=Clarendon Press|page=[https://archive.org/details/oxfordcompaniont00ibli/page/143 143]}}</ref> He was acquainted with a number of major contemporary intellectual figures, including Fernando de Herrera and Juan de Mal Lara, and took part in the Casa de Pilatos literary academy in Seville.<ref name="Parker1998">{{cite book|last=Burton|first=David G.|editor=Parker, Mary|title=Spanish Dramatists of the Golden Age: A Bio-bibliographical Sourcebook|url=https://books.google.com/books?id=pF6LTaiaFloC|year=1998|publisher=Greenwood Publishing Group|isbn=978-0-313-28893-7|page=87}}</ref> After his return to Spain in 1577, he began writing for the stage and produced a total of ten comedies and four tragedies.<ref name="OxTheatre">"Cueva, Juan de la." The Oxford Companion to Theatre and Performance. Oxford University Press, 2010. Oxford Reference. 2010. Date accessed 10 July 2016</ref> He appears never to have married, though some of his poetical works are dedicated to a Felipa de la Paz.<ref name="Parker1998" /> After apparently spending some time in [[Cuenca, Spain|Cuenca]] after 1610, he died in [[Granada]] in 1612.<ref name="Parker1998" />
+
+==Works==
+
+His first play, ''Primera parte de las Comedias y Tragedias'', was published in 1579. This was an unusual step in itself; few of his contemporaries bothered publishing their works, which are consequently only partially known.<ref name="Ward1978" /> Although he wrote in part on the classical themes that were typical of Spanish theatre at the time, he innovated in a number of regards. He consciously disregarded the conventional [[classical unities]], reduced the traditional number of acts from five to four and introduced new [[Metre (poetry)|metrical]] forms.<ref name="OxTheatre" /> His use of such polimetric verse forms was intended to indicate the mood and tone of scene.<ref name="Parker1998" /> He also sought to maximise the theatrical effect of his works by playing up sensational themes of violent death and supernatural events.<ref name="OxTheatre" />
+
+Cueva's plays draw on a mixture of classical, historical and fictional themes, often adapting stories from ballads and medieval chronicles. This step is considered to be a significant advance in Spanish theatre<ref name="Parker1998" /> and proved highly influential on later playwrights such as [[Lope de Vega]].<ref name="Ward1978" /> For modern audiences, however, his plays are seen as off-putting due to their sensationalistic nature and the perverse, violent and grotesque characters that inhabit them.<ref name="Mujica2015">{{cite book|last=Mujica|first=Bárbara|title=A New Anthology of Early Modern Spanish Theater: Play and Playtext|url=https://books.google.com/books?id=0bXlBQAAQBAJ|year=2015|publisher=Yale University Press|isbn=978-0-300-10956-6|page=12}}</ref>
+
+Despite his innovations, Cueva's works lack much literary merit as they were often hastily composed. His shortcomings were particularly visible in his poetic works.<ref name="Ward1978" /> Some of his earliest published poetry was composed during his stay in Mexico and was published in an anthology of poets then resident in New Spain.<ref name="Parker1998" /> Later works of poetry included the ''Obras'' (1582), a collection of erotic lyrics in the style of [[Petrarch]], ''Caro Febeo de romances historiales'' (1587), which Bartolomé José Gallardo called "the worst [thing] that I have read in Castilian", and the epic poem ''Conquista de la Bética'', which Philip Ward describes as "tedious".<ref name="Ward1978" /> Cueva also produced a treatise in verse titled ''Ejemplar poético, o Arte poética española'', in which he discusses poetry and historical drama.<ref name="OxRenaissance">"Cueva, Juan de la." The Oxford Dictionary of the Renaissance. Ed. Campbell, Gordon. Oxford University Press, 2003. Oxford Reference. 2005. Date accessed 10 July 2016</ref> His works were rediscovered after 1917, when Francisco A. de Icaza published all fourteen of his plays, based on the 1588 second edition of Cueva's works. The last surviving copy of the 1583 first edition was found shortly afterwards. Further works were republished in 1924.<ref name="Ward1978" />
+
+==List of works==
+
+; Historical plays:
+* ''Comedia de la muerte del rey don Sancho y reto de Zamora por don Diego Ordóñez'' (Comedy about the Death of King Sancho and the Challenge of Zamora by Don Diego Ordóñez) (1579)
+* ''Comedia del saco de Roma y muerte de Borbón y coronación de nuestro invicto emperador Carlos Quinto'' (Comedy about the Sack of Rome and Death of Bourbon and the Coronation of Our Unconquered Emperor Charles V) (1579)
+* ''Tragedia de los sieta Infantes de Lara'' (Tragedy about the Seven Princes of Lara) (1579)
+* ''Comedia de la libertad de España por Bernado del Carpio'' (Comedy about the Liberation of Spain by Bernardo del Carpio) (1579)
+
+; Classical plays:
+* ''Tragedia de la muerte de Ayaz Telamón sobre las armas de Aquiles'' (Tragedy about the Death of Ajax over Achilles' Armour) (1579)
+* ''Tragedia de la muerte de Verigina y Appio Claudio'' (Tragedy about the Deaths of Virginia and Appius Claudius) (1580)
+* ''Comedia de la libertad de Roma por Mucio Cévola'' (Comedy about the Liberation of Rome by Mucius Scaevola) (1581)
+
+; Fictional plays:
+* ''Comedia del degollado'' (Comedy about the Beheaded Man) (1579)
+* ''Comedia del tutor'' (Comedy about the Tutor) (1579)
+* ''Comedia de la constancia de Arcelina'' (Comedy about Arcelina's Constancy) (1579)
+* ''Comedia del príncipe tirano'' (Comedy about the Tyrant Prince) (1580)
+* ''Tragedia del príncipe tirano'' (Tragedy about the Tyrant Prince) (1580)
+* ''Comedia del viejo enamorado'' (Comedy about the Old Man in Love) (1580)
+* ''Comedia del infamador'' (Comedy about the Defamer) (1581)
+
+; Poetical works:
+* ''Obras'' (1582)
+* ''Caro Febeo de romances historiales'' (1587)
+* ''Conquista de la Bética'' (1603)
+* ''Ejemplar poético, o Arte poética española'' (1609)
+
+==References==
+<references/>
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cueva, Juan de la}}
+[[Category:Spanish dramatists and playwrights]]
+[[Category:Spanish male dramatists and playwrights]]
+[[Category:Spanish poets]]
+[[Category:1543 births]]
+[[Category:1612 deaths]]
+[[Category:Spanish male poets]]
+[[Category:Baroque writers]]

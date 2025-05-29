@@ -1,0 +1,91 @@
+{{Infobox person
+| name               = Ann Lauterbach
+| image              = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt                = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption            = 
+| birth_name         = <!-- only use if different from name -->
+| birth_date         = 1942
+| birth_place        = 
+| death_date         = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date)  -->
+| death_place        = 
+| nationality        = American
+| other_names        = 
+| occupation         = {{flatlist|
+* Poet
+* essayist
+* art critic
+* professor
+}}
+| years_active       = 
+| known_for          = 
+| notable_works      = 
+}}
+
+'''Ann Lauterbach''' (born 1942)<ref name="Library of Congress Online Catalog">[http://catalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&Search_Arg=ann+lauterbach&Search_Code=GKEY^*&CNT=100&hist=1&type=quick Library of Congress Online Catalog]</ref> is an [[United States|American]] poet, essayist, art critic, and professor.
+
+==Early life==
+Lauterbach was born and raised in New York City, and earned her B.A. from the [[University of Wisconsin]]. She lived in London for eight years, working in publishing and for art institutions, including London's Thames and Hudson art publishing house. On her return to the U.S., she worked in art galleries in New York before she began teaching.<ref>[http://www.poets.org/poet.php/prmPID/598 Academy of American Poets > Ann Lauterbach Biography]</ref>
+
+==Poetry==
+Her most recent poetry collection is ''Spell'' ([[Penguin Books]], 2018). Her poems have been published in literary journals and magazines including ''Conjunctions,'' and in anthologies including ''American Hybrid: A Norton Anthology of New Poetry'' ([[W.W. Norton]], 2009) and ''American Women Poets in the 21st Century: Where Lyric Meets Language'' ([[Wesleyan University Press]], 2002).<ref name="Library of Congress Online Catalog"/>
+
+==Teaching==
+She has taught at [[Brooklyn College]], [[Columbia University]], the [[Iowa Writers Workshop]], [[Princeton University]], and at the City College of New York and Graduate Center of CUNY. Since 1991 she has taught at [[Bard College]], and is currently a David and Ruth Schwab Professor of Languages and Literature there, where she teaches and co-directs the Writing Division of the M.F.A. program, and lives in Germantown, New York.<ref name="nationalbook.org"/><ref name="background">{{cite web
+  | title = Academy of American Poets > Ann Lauterbach
+  | date=
+  | url=http://www.poets.org/poet.php/prmPID/598
+  | accessdate = 2006-12-05}}
+</ref>  As an art critic, she has educated at the Yale School of Art, Yale University.<ref>{{Cite web|url=https://www.zingmagazine.com/drupal/node/497|title=Readings at Max Protetch {{!}} zingmagazine|website=www.zingmagazine.com|access-date=2019-08-05}}</ref>
+
+==Honors==
+Her honors include fellowships from the [[John Simon Guggenheim Memorial Foundation|Guggenheim Foundation]], the [[Ingram Merrill Foundation]], the [[MacArthur Foundation|John D. and Catherine T. MacArthur Foundation]], and the New York State Foundation for the Arts.<ref name="nationalbook.org">{{Cite web |url=http://www.nationalbook.org/nba2009_p_lauterbach.html |title=The National Book Foundation > 2009 National Book Award Finalist > Ann Lauterbach |access-date=2010-02-25 |archive-url=https://web.archive.org/web/20100104083308/http://www.nationalbook.org/nba2009_p_lauterbach.html |archive-date=2010-01-04 |url-status=dead }}</ref><ref>[http://www.nyfa.org/nyfa_artists_detail.asp?pid=1751 New York Foundation for the Arts > Artists Fellowship 1998 Poetry] {{webarchive |url=https://web.archive.org/web/20100617140402/http://www.nyfa.org/nyfa_artists_detail.asp?pid=1751 |date=June 17, 2010 }}</ref>
+
+==Selected bibliography==
+'''Full-Length Poetry Collections'''
+* ''Spell'' ([[Penguin Books]], 2018)
+* ''Under the Sign'' ([[Penguin Books]], 2013)
+* ''Or to Begin Again'' ([[Penguin Books]], 2009)
+* ''Hum'' (Penguin Books, 2005)
+* ''If in Time: Selected Poems 1975-2000'' (Penguin Books, [[2001 in poetry|2001]])
+* ''On a Stair'' (Penguin Books, [[1997 in poetry|1997]])
+* ''And for Example'' (Penguin Books, [[1994 in poetry|1994]])
+* ''Clamor'' ([[Viking]], [[1991 in poetry|1991]])
+* ''Before Recollection'' ([[Princeton University Press]], [[1987 in poetry|1987]])
+* ''Many Times, but Then'' ([[University of Texas Press]], [[1979 in poetry|1979]])
+
+'''Essay Collections'''
+* ''The Night Sky: Writings on the Poetics of Experience'' (Viking, 2005)
+
+==References==
+<references />
+
+==External links==
+* {{YouTube|wwmy_M6iIfc|Video Reading: The Holloway Series in Poetry > Ann Lauterbach}}
+* [http://www.poetryfoundation.org/archive/poet.html?id=3954 Biography: The Poetry Foundation > Ann Lauterbach]
+* [http://www.conjunctions.com/archives/c17-al.htm Poem: ''Conjunctions'' > 17, Fall 1991 > ''Tangled Reliquary'' by Ann Lauterbach]
+* [https://web.archive.org/web/20091015161058/http://www.raintaxi.com/online/2009summer/lauterbach.shtml Review: ''Rain Taxi'' > Winter 2009/2010 > A Review by Michael D. Snediker of ''Or to Begin Again'' by Ann Lauterbach]
+* [http://mappemunde.typepad.com/mappemunde/2004/04/rootless_elegia.html Interview: ''Mappemunde'' > April 17, 2004 > An Interview with Ann Lauterbach by Tim Peterson]
+* [http://hdl.handle.net/10079/fa/beinecke.lauterbach ''Guide to the Ann Lauterbach Papers'']
+* [[hdl:10079/fa/beinecke.lauterbach|Ann Lauterbach Papers]]. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lauterbach, Ann}}
+[[Category:1942 births]]
+[[Category:20th-century American poets]]
+[[Category:21st-century American poets]]
+[[Category:Bard College faculty]]
+[[Category:Columbia University faculty]]
+[[Category:Iowa Writers' Workshop faculty]]
+[[Category:Living people]]
+[[Category:MacArthur Fellows]]
+[[Category:University of Wisconsin&ndash;Madison alumni]]
+[[Category:Writers from New York (state)]]
+[[Category:American women poets]]
+[[Category:American women essayists]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American women writers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American essayists]]
+[[Category:Brooklyn College alumni]]
+[[Category:American women academics]]

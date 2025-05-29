@@ -1,0 +1,37 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = Daniil Lukich Mordovtsev.jpg
+| imagesize   = 220px
+| caption     =
+| birth_date  = {{birth date|1830|12|19}}
+| birth_place = [[Don Host Oblast]], Russia
+| death_date  = {{death date and age|1905|6|23|1830|12|19}}
+| death_place = [[Kislovodsk]], Russia
+}}
+'''Daniil Lukich Mordovtsev''' ({{Lang-ru|Даниил Лукич Мордовцев}}; December 19, 1830 in [[Danilovka, Volgograd Oblast|Danilovka]], [[Don Host Oblast]], [[Russian Empire]] – June 23, 1905 in [[Kislovodsk]], [[Russian Empire]]) was a [[Zaporozhian Cossacks|Ukrainian Cossack]]-born [[Russian writer]] and historian.
+
+==Biography==
+Mordovtsev was born in [[Danilovka, Volgograd Oblast]], [[Russia]]. Mordovtsev's father was a [[Don Cossacks|Don Cossack]] and an estate manager. Mordovtsev spent his childhood in [[Don Host Oblast]], where he learned in school. He graduated from the faculty of history and philology at [[Saint Petersburg State University|St. Petersburg University]] in 1854.<ref name="Great">{{cite web |url=http://encyclopedia2.thefreedictionary.com/Daniil+Lukich+Mordovtsev |title=Great Soviet Encyclopedia |publisher=Gale Group |access-date=2012-01-05}}</ref>
+
+Mordovtsev's literary debut came in the mid-1850s. His first work was the poem ''The Cossacks and the Sea'' (1854, published 1859).<ref name="Great"/> He began writing in Russian in the 1860s his first novels.<ref name="Plot">{{cite book |title=Plotting History: the Russian Historical Novel in the Imperial Age |last=Ungurianu |first=Dan |year=2007 |publisher=University of Wisconsin Press |isbn=978-0-299-22500-1  |pages=129–131 |url=https://books.google.com/books?id=7HP3dpNnAk4C&pg=PA129 |access-date=2012-01-05}}</ref> His novella ''New Russian People'' (1868) dealt with the [[Narodnik]]s and their cause, and with the position of [[raznochintsy]] intellectuals, as did the novel ''Signs of the Times'' (1869), although Mordovets did not share the views of the Narodniks.<ref name="Great"/> His historical novels were widely read;<ref name="Plot"/> (''The False Dmitry'', 1879; ''Tsar Peter and the Regent Sophia'', 1885; ''The Tsar and the Hetman'', 1880; ''Lord Novgorod the Great'', 1882; ''For Whose Sins?'', 1890); these novels demonstrated Mordovets's democratic leanings.<ref name="Great"/> He served for more than thirty years as an official in [[Saratov]] and was the editor of the ''Saratov Provincial News''. He contributed to several popular journals, including ''Russian Word'', ''[[Otechestvennye Zapiski|Notes of the Fatherland]]'', and ''Affairs''.<ref name="Great"/>
+
+Mordovets also published many historical works, such as ''Impostors and the Freemen of the Lower Reaches'' (1867), ''The Haidamak Uprising'' (1870), ''Political Movements of the Russian People'' (2 vols, 1871), and ''On the Eve of Freedom'' (1872, published 1889), and his memoirs, ''From My Past and Experiences'' (1902, written in Ukrainian), in which he tells of his meetings with [[Taras Shevchenko]] and [[Nikolay Chernyshevsky]].<ref name="Great"/> His historical works were received favorably in St. Petersburg academic circles, and he was even considered for a position on the faculty of St. Petersburg University.<ref name="Plot"/>
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mordovtsev, Daniil}}
+[[Category:1830 births]]
+[[Category:1905 deaths]]
+[[Category:Novelists of the Russian Empire]]
+[[Category:Male writers of the Russian Empire]]
+[[Category:Historians from the Russian Empire]]
+[[Category:Russian male short story writers]]
+[[Category:Russian historical novelists]]
+[[Category:Russian memoirists]]
+[[Category:Ukrainian writers]]
+[[Category:19th-century Russian novelists]]
+[[Category:19th-century Russian short story writers]]
+[[Category:19th-century male writers]]
+[[Category:19th-century memoirists]]

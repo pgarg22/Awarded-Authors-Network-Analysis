@@ -1,0 +1,162 @@
+{{short description|Italian classical scholar and poet (1454-1494)}}
+{{redirect|Politian|the work by Edgar Allan Poe|Politian (play)}}
+{{pp-semi-indef}}
+{{Infobox philosopher
+| name = Angelo Poliziano
+| image = Angelo Poliziano - Angel Appearing to Zacharias (detail).jpg
+| caption = Angelo Poliziano from a fresco painted by Renaissance artist [[Domenico Ghirlandaio]] in the [[Tornabuoni Chapel]], [[Santa Maria Novella]], [[Florence]]
+| birth_name = Angelo Ambrogini
+| birth_date = July 14, 1454
+| birth_place = [[Montepulciano]]
+| death_date = {{death date and age|1494|09|24|1454|07|14}}
+| death_place = [[Florence]], Italy
+| death_cause = [[Death by poisoning|Poisoning]]
+| doctoral_advisor = {{hlist|[[Marsilio Ficino]]|[[Cristoforo Landino]]}}
+| notable_students  = [[Alessandra Scala]], [[Cassandra Fedele]], [[Piero II de' Medici]]
+| influences = {{hlist|Marsilio Ficino|[[Demetrius Chalcocondyles]]}}
+| occupation = [[Poet]], [[dramatist]] and [[writer]]
+}}
+
+[[Image:Capella sassetti, conferma della regola francescana, dettaglio 04.jpg|thumb|Poliziano and [[Giuliano de' Medici, Duke of Nemours|Giuliano de' Medici]], from a fresco painted by Renaissance artist [[Domenico Ghirlandaio]] in the [[Sassetti Chapel]], [[Santa Trinita]], [[Florence]] ]]
+'''Agnolo (Angelo) Ambrogini''' (14 July 1454&nbsp;– 24 September 1494), commonly known by his nickname '''Poliziano''' ({{IPA-it|politˈtsjaːno|lang}}; anglicized as '''Politian'''; [[Latin]]: '' Politianus''),<ref name="Kraye1" /> was an [[Italy|Italian]] [[classical scholar]] and [[poet]] of the [[Florentine Renaissance]]. His scholarship was instrumental in the divergence of [[Renaissance Latin|Renaissance (or Humanist) Latin]] from [[Medieval Latin|medieval norms]]<ref name="Celenza1" /><ref name="Moss1" /> and for developments in [[philology]].<ref name="Daneloni1" /> His nickname, ''Poliziano'', by which he is chiefly identified to the present day, was derived from the Latin name of his birthplace, [[Montepulciano]] (''Mons Politianus'').
+
+Poliziano's works include translations of passages from [[Homer]]'s ''[[Iliad]]'', an edition of the poetry of [[Catullus]] and commentaries on classical authors and literature. It was his classical scholarship that brought him the attention of the wealthy and powerful [[Medici family]] that ruled [[Florence]]. He served the Medici as a tutor to their children, and later as a close friend and political confidant. His later poetry, including ''La Giostra'', glorified his patrons.
+
+He used his [[didactic]] poem ''Manto'', written in the 1480s, as an introduction to his lectures on [[Virgil]].
+
+==Biography==
+
+===Early life===
+Poliziano was born as Angelo Ambrogini in [[Montepulciano]], in central [[Tuscany]] in 1454.<ref name="biography1" /> His father Benedetto, a jurist of good family and distinguished ability, was murdered by political antagonists for adopting the cause of [[Piero di Cosimo de' Medici|Piero de' Medici]] in Montepulciano; this circumstance gave his eldest son, Angelo, a claim on the [[House of Medici]].
+
+At the age of ten, after the premature death of his father, Poliziano began his studies at [[Florence]], as the guest of a cousin. There he learned the classical languages of [[Latin language|Latin]] and [[Greek Language|Greek]]. From [[Marsilio Ficino]] he learned the rudiments of [[philosophy]]. At 13 he began to circulate Latin letters; at 17 he wrote essays in Greek versification; and at 18 he published an edition of [[Catullus]]. In 1470 he won the title of ''homericus adulescens'' by translating books II-V of the ''[[Iliad]]'' into Latin [[hexameter]]s. [[Lorenzo de' Medici]], the autocrat of Florence and the chief patron of learning in [[Italy]] at the time, took Poliziano into his household, made him the tutor of his children,<ref name="Cathenc1" /> among which were [[Piero the Unfortunate]] and Giovanni, the future [[Pope Leo X]]. The humanistic content of his lessons brought him into constant conflict with their mother, [[Clarice Orsini|Clarice]]. Lorenzo also secured him a distinguished post at the [[University of Florence]]. During this time, Poliziano lectured at the Platonic Academy under the leadership of Marsilio Ficino, at the Careggi Villa.
+
+===Adulthood and teaching===
+
+[[Image:Angel Appearing to Zacharias (detail) - 1486-90.JPG|thumb|The annunciation of the angel to Zaccharia 1486–90. [[Marsilio Ficino]] (left), [[Cristoforo Landino]] (centre), Angelo Poliziano (third), and [[Demetrius Chalcondyles]] (far right)<ref name="Societa1" />]]
+
+Among Poliziano's pupils could be numbered the chief students of [[Europe]], the men who were destined to carry to their homes the ''[[spolia opima]]'' of [[Culture of Italy|Italian culture]]. He also educated students from [[Germany]], [[England]] and [[Portugal]].
+
+It was the method of professors at that period to read the Greek and Latin authors with their class, dictating [[philology|philological]] and critical notes, emending corrupt passages in the received texts, offering elucidations of the matter, and teaching [[laws]], [[manners]], religious and philosophical [[opinions]] of the ancients. Poliziano covered nearly the whole ground of classical literature during his tenure, and published the notes of his courses upon [[Ovid]], [[Suetonius]], [[Statius]], [[Pliny the Younger]], and [[Quintilian]]. He also undertook a recension of the text of [[Justinian II]]'s [[Pandects]] and lectured about it. This recension influenced the [[Roman law|Roman]] code.{{citation needed|date=February 2013}}
+
+===Proposal to King John II of Portugal===
+
+Poliziano wrote a letter to [[John II of Portugal]] paying him a profound homage:
+
+:''to render you thanks on behalf of all who belong to this century, which now favours of your quasi-divine merits, now boldly competing with ancient centuries and all Antiquity.''
+
+and considering his achievements to be of merit above [[Alexander the Great]] or [[Julius Caesar]]. He offered himself to write an epic work giving an account of John II's accomplishments in navigation and conquests. The king replied in a positive manner, in a letter of October 23, 1491, but delayed the commission. The epic work regarding [[Portuguese discoveries]] was only written almost one hundred years later by [[Luís de Camões]].<ref name="XDjDf">{{cite book|author=Manuel Bernardes Branco|title=Portugal e os Estrangeiros|year=1879|pages=[https://archive.org/details/portugaleosestr02brangoog/page/n450 415]–417|publisher=Livraria de A.M.Pereira|location=Lisboa|url=https://archive.org/details/portugaleosestr02brangoog}} (Translation of the Latin by [[Teófilo Braga]])'' "render-vos graças em nome de todos quantos pertencemos a este século, o qual agora, por favor dos vossos méritos quasi-divinos, ousa já denodadamente competir com os vetustos séculos e com toda a antiguidade."''</ref>
+
+===Final years===
+[[File:Style of Niccolò Fiorentino, Angelo Poliziano, 1454-1494, Humanist (obverse), c. 1494, NGA 44832.jpg|thumb|left|Style of Niccolò Fiorentino, ''Angelo Poliziano, 1454-1494'', c. 1494, medallion in the [[National Gallery of Art]]]]
+Poliziano spent his final years without financial or other worries, studying philosophy. [[Piero the Unfortunate]] even asked [[Pope Alexander VI]] to make him a cardinal.
+
+It is likely that Poliziano was [[homosexual]], or at least had male lovers, and he never married.<ref name="Strathern1" /> Evidence includes denunciations of [[sodomy]] made to the Florentine authorities, poems and letters of contemporaries, allusions within his work (most notably the ''[[L'Orfeo|Orfeo]]'') and the circumstances of his death. The last suggests he was killed by a fever (possibly resulting from [[syphilis]]) which was exacerbated by standing under the windowsill of a boy he was infatuated with despite being ill.<ref name="DelLungo1" /> He may also have been a lover of [[Pico della Mirandola]].<ref name="12TeL">''The Ugly Renaissance,'' Lee, A., (2013), p.3</ref>
+
+But it is just as likely that his death was precipitated by the loss of his friend and patron [[Lorenzo de' Medici]] in April 1492, Poliziano himself dying on 24 September 1494, just before the foreign invasion gathering in France swept over Italy.
+
+In 2007, the bodies of Poliziano and [[Pico della Mirandola]] were exhumed from the [[San_Marco,_Florence|Church of San Marco]] in Florence to establish the causes of their deaths.<ref name="ef05t">[http://news.bbc.co.uk/2/hi/europe/6920443.stm Medici writers exhumed in Italy]. BBC News, 28 February 2007. Accessed June 2013.</ref> Forensic tests showed that both Poliziano and Pico likely died of arsenic poisoning, possibly the order of Lorenzo's successor, Piero de' Medici.<ref name="OxlpR">Malcolm Moore (7 February 2008). [https://www.telegraph.co.uk/news/worldnews/1577958/Medici-philosophers-mystery-death-is-solved.html "Medici philosopher's mysterious death is solved"] ''The Daily Telegraph''. London. Accessed June 2013.</ref>
+
+==Legacy==
+
+Poliziano was well known as a scholar, a professor, a critic, and a Latin poet in an age when the classics were still studied with assimilative curiosity, and not with the scientific industry of a later period. He was the representative of that age of scholarship in which students drew their ideal of life from [[Ancient history|antiquity]]. He was also known as an Italian poet, a contemporary of [[Ariosto]].
+
+At the same time he was busy as a translator from the Greek. His versions of [[Epictetus]], [[Hippocrates]], [[Galen]], [[Plutarch]]'s ''Eroticus'' and [[Plato]]'s ''Charmides'' distinguished him as a writer. Of these learned labors, the most universally acceptable to the public of that time were a series of discursive essays on philology and [[criticism]], first published in 1489 under the title of ''Miscellanea''. They had an immediate and lasting effect, influencing the scholars of the next century.
+
+Anthony Grafton writes that Poliziano's "conscious adoption of a new standard of accuracy and precision" enabled him "to prove that his scholarship was something new, something distinctly better than that of the previous generation":<blockquote>
+By treating the study of antiquity as completely irrelevant to civic life and by suggesting that in any case only a tiny elite could study the ancient world with adequate rigor, Poliziano departed from the tradition of classical studies in Florence. Earlier Florentine humanists had studied the ancient world in order to become better men and citizens. Poliziano by contrast insisted above all on the need to understand the past in the light of every possibly relevant bit of evidence — and to scrap any belief about the past that did not rest on firm documentary foundations&nbsp;... [But] when he set ancient works back into their historical context Poliziano eliminated whatever contemporary relevance they might have had.<ref name="Grafton1" />
+</blockquote>
+
+==Works==
+
+His Latin and Greek works include:
+* the poem ''[[Manto (poem)|Manto]]'', in which he pronounced a [[panegyric]] of [[Virgil]];
+* the ''Ambra'', which contains an idyllic sketch of [[Tuscany|Tuscan]] landscape and a [[eulogy]] of [[Homer]];
+* the ''Rusticus'', which celebrated country life;
+* the ''Nutricia'', which was intended to serve as a general introduction to the study of ancient and modern poetry.
+
+His principal [[Italian language|Italian]] works are:
+* his most highly regarded work in Italian, [[Stanze per la giostra]], or ''[http://www.metmuseum.org/toah/works-of-art/25.30.22 La Giostra]'', written upon [[Giuliano di Piero de' Medici|Giuliano de' Medici's]] victory in a tournament in 1475. This work was left unfinished following the 1478 [[Pazzi conspiracy]], which resulted in the assassination of its protagonist. In addition, Lorenzo's wife [[Clarice Orsini|Clarice]] strongly disapproved of the humanistic nature of the poem, causing Politian to resign, leave Florence in 1479 and settle in Mantua, where he set to work on the [[Fabula di Orfeo]].
+* the ''Orfeo'', a lyrical drama performed at [[Mantua]] with musical accompaniment;
+* a collection of Tuscan songs, reproducing various forms of popular poetry distinguished by a roseate fluency.
+
+His philosophical works are:
+* ''Praelectio de dialectica'' (1491), an introduction to Aristotelian logic;
+* ''Lamia. Praelectio in Priora Aristotelis Analytica'' (1492);
+* ''Dialectica'' (1493), an introduction to a course on Aristotelian philosophy.
+
+===English translations===
+* {{cite book |author=Poliziano, A. |others=David Quint (ed. trans.) |title=The Stanze of Angelo Poliziano |url=https://archive.org/details/stanzeofangelopo0000poli |url-access=registration |year=1979 |publisher=University of Massachusetts Press|isbn=9780870231452 }}
+* {{cite book |author=Poliziano, A. |others=C. Fantazzi (ed. trans.) |title=Silvae |year=2004 |publisher=Harvard University Press |location=Cambridge |isbn=0-674-01480-4}}
+* {{cite book |author=Poliziano, A. |others=S. Butler (ed. trans.) |title=Letters |year=2006 |publisher=Harvard University Press |location=Cambridge |isbn=0-674-02196-7}}
+* {{cite book |author=Poliziano, A. |others=C. S. Celenza (ed. trans.) |title=Angelo Poliziano's Lamia|year=2010 |publisher=Brill |location=Leiden |isbn=978-90-04-18590-6}}
+
+==Notes==
+{{reflist|30em|refs=
+<ref name="DelLungo1">The account is set out in a letter by Antonio Spannocchi, writing in latin on 29 September 1494. Found in: Del Lungo (1897) 265f.</ref>
+
+<ref name="Strathern1">Strathern (1993).</ref>
+
+<ref name="Societa1">Società editrice Fiorentina (1910) 81. "The admirable frescoes now to be seen are by Domenico Ghirlandaio : they were executed by order of John Tornabuoni and costed more than 1000 gold florins&nbsp;... The patriarch Zachariah in the Temple : the four half-figures at left hand are the portraits of Agnolo Poliziano, Cristopher Landino, (in red cloak), Demetrius Calcondila, and Marsilio Ficino, (in purple robe)"</ref>
+
+<ref name="Kraye1">Kraye (1997) 192.</ref>
+
+<ref name="biography1">His most extensive biography may be found in Orvieto (2009), others in: Nativel (1997) and Leuker (1997) 1–7.</ref>
+
+<ref name="Grafton1">Grafton (1994) 72f.</ref>
+
+<ref name="Moss1">For an interpretation of changes between classical and humanist Latin, and the controversy among Renaissance scholars, see: Moss (2003) 271.</ref>
+
+<ref name="Daneloni1">Daneloni (2001).</ref>
+
+<ref name="Celenza1">Celenza (2009).</ref>
+
+<ref name="Cathenc1">{{CathEncy|wstitle=Politian}}</ref>
+
+}}
+
+==References==
+* {{EB1911|wstitle=Politian}}
+
+==Further reading==
+* {{cite journal |author=Celenza, C.S. |title=End Game: Humanist Latin in the Late Fifteenth Century |journal=Latinitas Perennis Volume II: Appropriation and Latin Literature Brill's Studies in Intellectual History 178 |others=Maes, Y.; Papy, J.; Verbaal, W. (eds.) |location=Leiden, The Netherlands |publisher=Koninklijke Brill NV |year=2009 |pages=201–244}}
+* {{cite book |author=Daneloni, A. |title=Poliziano e il testo dell'Institutio oratoria |location=Messina |publisher=Centro interdipartimentale di studi umanistici|year=2001|isbn=88-87541-04-3}}
+* {{cite book |author=Godman, P. |title=From Poliziano to Machiavelli: Florentine Humanism in the High Renaissance |year=1998 |publisher=Princeton University Press |location=Princeton |isbn=0-691-01746-8}}
+* {{cite book |author=Grafton, A. |author-link=Anthony Grafton |title=Defenders of the Text: The Traditions of Scholarship in an Age of Science, 1450–1800 |year=1994 |publisher=Harvard University Press |location=Cambridge |isbn=0-674-19545-0}}
+* {{cite book |author=Kraye, J. |title=Cambridge Translations of Renaissance Philosophical Texts: Moral philosophy |year=1997 |publisher=Cambridge University Press |location=Cambridge |isbn=0-521-42604-9}}
+* {{cite book |author=Leuker, T. |title=Angelo Poliziano, Dichter, Redner, Stratege: eine Analyse der "Fabula di Orpheo" und ausgewählter lateinischer Werke des Florentiner Humanisten |year=1997 |publisher=De Gruyter |location=Stuttgart |isbn=3-11-096840-1}}
+* {{cite book |author=Del Lungo, I. |title=Florentia |url=https://archive.org/details/florentiauomini01lunggoog |year=1897 |publisher=Barbera |location=Florence |isbn=88-87187-60-6}}
+* {{cite book |author=Maïer, I. |title=Ange Politien. La formation d'un poète humaniste (1469–1480) |year=1966 |publisher=Librairie Droz |location=Geneva |id= [[European Article Number|EAN]] [http://www.ean-search.org/perl/ean-search.pl?q=3600121074972 3600121074972]}}
+* {{cite book |author=Maïer, I. |title=Les Manuscrits d'Ange Politien: Catalogue descriptif |year=1965 |publisher=Librairie Droz |location=Geneva |isbn=2-600-03002-6}}
+* {{cite book |author=Meltzoff, S. |author-link=Stanley Meltzoff |title=Botticelli, Signorelli and Savonarola, Theologia Poetica and Painting from Boccaccio to Poliziano |year=1987 |publisher=L.S. Olschki |location=Florence |isbn=88-222-3494-4}}
+* {{cite book |author=Moss, A. |author-link= Ann Moss |title=Renaissance Truth and the Latin Language Turn|location=Oxford|publisher=Oxford University Press|year=2003}}
+* {{cite book |author=Nativel, C. |title=Centuriae latinae: cent une figures humanistes de la Renaissance aux Lumières offertes à Jacques Chomarat |year=1997 |publisher=Librairie Droz |location=Geneva |isbn=2-600-00222-7 |pages=623–628}}
+* {{cite book |author=Orvieto, P. |title=Poliziano e l'ambiente mediceo |year=2009 |publisher=Salerno |location=Rome |isbn=978-88-8402-650-7}}
+* {{cite book|author=Quint, D. L. |title=The Stanze of Angelo Poliziano|year=2005|publisher=[[Penn State University Press]]|isbn=978-0-271-02871-2}}
+* {{cite book |author=Società editrice Fiorentina |title=Artistic guide of Florence and its environs&nbsp;... : with historical notices on the town and on the principal monuments, engravings, topographical plans-catalogues of the galleries Edition: 3 |location=Firenze |publisher=Società editrice Fiorentina |year=1910 |page=81 |oclc=23489553}}
+* {{cite book |author=Strathern, P. |author-link=Paul Strathern |title=The Medici: Godfathers of the Renaissance |year=1993 |publisher=Random House UK |location=London |isbn=0-09-952297-7}}
+
+==External links==
+{{Wikiquote}}
+* {{MathGenealogy|id=131535}}
+*{{OL author|200411A}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Poliziano}}
+[[Category:1454 births]]
+[[Category:1494 deaths]]
+[[Category:People from Montepulciano]]
+[[Category:Medieval LGBT people]]
+[[Category:Gay writers]]
+[[Category:LGBT writers from Italy]]
+[[Category:Italian Renaissance humanists]]
+[[Category:Italian poets]]
+[[Category:Italian male poets]]
+[[Category:New Latin-language poets]]
+[[Category:15th-century Latin writers]]
+[[Category:Greek–Latin translators]]
+[[Category:15th-century Italian poets]]
+[[Category:15th-century translators]]
+[[Category:Translators of Homer]]
+[[Category:Italian Renaissance writers]]

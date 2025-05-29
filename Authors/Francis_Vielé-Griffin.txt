@@ -1,0 +1,81 @@
+{{short description|French symbolist poet}}
+{{One source|date=June 2009}}
+{{Infobox writer
+| name= Francis Vielé-Griffin
+| image= Francis Vielé-Griffin, portrait.jpg
+| caption=
+| birth_date= {{birth date|df=yes|1864|5|26}}
+| birth_place= [[Norfolk, Virginia|Norfolk]], [[Virginia]], US
+| death_date= {{death date and age|df=yes|1937|11|12|1864|5|26}}
+| death_place= Bergerac
+| occupation= Poet
+| influences=
+| influenced=
+| genre= [[Symbolism (arts)|Symbolist]]
+| signature= 
+}}
+{{French literature sidebar}}
+'''Francis Vielé-Griffin''' (May 26, 1864{{snd}}November 12, 1937), was a French [[Symbolism (arts)|symbolist]] poet. He was born at [[Norfolk, Virginia]], USA and was the son of [[Egbert Ludovicus Viele]].
+
+Vielé-Griffin was educated in France and divided his time between Paris and [[Touraine]].  He was a writer of ''[[vers libre]]'' and founded the highly influential journal ''[[Entretiens politiques et littéraires]]'' (1890–92).{{sfn|Chisholm|1911|p=50}}
+His name will remain attached to the history of symbolism and vers-librism. His first collection, Cueille d'avril, appeared in 1885. He practiced a relaxed prosody, which did not take into account the obligatory alternation of masculine and feminine rhymes, the prohibition to rhyme a plural with a singular, replaces the rhyme with an assonance, if not neglected here and there the rhyme or assonancer:
+:{{lang|fr|Ne croyez pas}}
+:{{lang|fr|Pour ce qu'avril rit rose}}
+:{{lang|fr|Dans les vergers}}
+:{{lang|fr|Ou palit de l'exces voluptueux des fleurs}}
+:{{lang|fr|Que toutes choses}}
+:{{lang|fr|Sont selon nos gais coeurs}}
+:{{lang|fr|Et qu'il n'est plus une soif a etancher.}}
+
+==Works==
+His volumes include:{{sfn|Chisholm|1911|p=50}}
+*''Cueille d'avril'' (1885) (<i>Cull of April</i>, in English translation by Sunny Lou Publishing: {{ISBN|978-1-95539-218-1}}, 2021)
+*''Les Cygnes'' (1887; new series, 1892)
+*''Joies'' (1889)
+*''La Chevauchée d'Yeldis'' (1893)
+*''Swanhilde'', a dramatic poem (1894)
+*''Laus Veneris'' (1895), a volume of translations from [[Algernon Charles Swinburne|Swinburne]]
+*''Poèmes et Poésies'' (1895), a collection containing much of his earlier work
+*''Phocas le jardinier'' (1898)
+*''La Légende ailee de Wieland le Forgeron'' (1899), a dramatic poem.
+*''L'Amour sacré'' (1903), poems
+"Plus loin" (1906)
+"Voix d'Ionie" (1914)
+"La Rose au flat" (1922)
+"Le Livre des reines" (1929)
+==References==
+{{Reflist}}
+
+;Attribution
+*{{EB1911|wstitle=Viélé-Griffin, Francis|volume=28 |page=50}}
+
+==External links==
+{{commons category}}
+* [http://www.blackcatpoems.com/v/francis_viele_griffin.html Poems by Francis Vielé-Griffin]
+* [http://www.uni-duisburg-essen.de/lyriktheorie/texte/1907_viele.html Une conquête morale] (1907)
+* [[:fr:Francis Vielé-Griffin|Francis Vielé-Griffin on French Wiki]]
+* {{Internet Archive author |sname=Francis Vielé-Griffin}}
+* {{Librivox author |id=1448}}
+* Jean Rousselot. Dictionnaire de la poesie francaise contemporaine 1968, Auge, Guillon, Hollier -Larousse, Mooreau et Cie.-Librairie Larousse, Paris 
+{{Authority control}}
+
+{{DEFAULTSORT:Viele-Griffin, Francis}}
+[[Category:1864 births]]
+[[Category:1937 deaths]]
+[[Category:American expatriates in France]]
+[[Category:American male poets]]
+[[Category:French male poets]]
+[[Category:American writers in French]]
+[[Category:American people of French descent]]
+[[Category:Writers from Norfolk, Virginia]]
+[[Category:Symbolist poets]]
+[[Category:Poets from Virginia]]
+[[Category:19th-century American poets]]
+[[Category:19th-century French poets]]
+[[Category:20th-century American poets]]
+[[Category:20th-century French poets]]
+[[Category:19th-century American male writers]]
+[[Category:20th-century American male writers]]
+
+
+{{France-poet-stub}}

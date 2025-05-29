@@ -1,0 +1,107 @@
+{{short description|Canadian fantasy writer}}
+{{Infobox writer 
+| name        = Sebastien de Castell
+| image       =
+| caption     =
+| occupation  = Author
+| genre       = [[Fantasy]]
+| signature   =
+| nationality = Canadian, United Kingdom
+| birth_place = [[Pointe Claire]], [[Quebec]], Canada<ref>{{cite web|url=http://www.isfdb.org/cgi-bin/ea.cgi?200492|title=Summary Bibliography: Sebastien de Castell}}</ref>
+| website     = {{URL|decastell.com}} 
+}}
+'''Sebastien de Castell''' is a Canadian fantasy writer, mostly known for his ''Greatcoat'' series that has been described as "''Three Musketeers'' meets high fantasy",<ref name="auto">{{cite web|url=https://vancouversun.com/entertainment/books/the-time-george-r-r-martin-called-vancouver-writer-sebastien-de-castell-a-loser|title=Author Sebastien de Castell on the low demand for Canadian science fiction and fantasy lit|date=23 September 2016}}</ref> and which got him nominated several [[science fiction]] and [[fantasy]] awards, such as the [[Astounding Award for Best New Writer]] and the [[David Gemmell Awards for Fantasy]]. His next series ''Spellslinger'' would see him nominated for [[Grand prix de l'Imaginaire]] and the [[Sunburst Award]], as well as the winner of the [[Elbakin.net]] Award. De Castell has stated his interest in writing "optimistic but flawed heroes", saying that it was the type of heroes he enjoyed reading about as a kid, but placed "in an environment that had some of the depth and darkness".<ref>{{cite web |url=https://theprovince.com/entertainment/books/vancouver-fantasy-writer-signs-blockbuster-book-deal|title=Vancouver fantasy writer signs blockbuster book deal|date=18 July 2015}}</ref>
+
+De Castell has at various time worked as a full-time musician, an interaction designer, teacher, project manager, fight choreographer, actor and more.<ref>{{cite web |url=https://civilianreader.com/2014/02/12/an-interview-with-sebastien-de-castell/|title=An Interview with Sebastien de Castell|date=12 February 2014}}</ref>  Before publishing his first novel, de Castell worked at the Vancouver Film School.<ref name="auto"/>
+
+== Bibliography ==
+
+=== Novels ===
+
+{|class="sortable wikitable"
+|-
+! Year !! Title !! Series
+|-
+|2014
+|''[[Traitor's Blade]]''
+|The ''Greatcoat'' series
+|-
+|2014
+|''Knight's Shadow''
+|The ''Greatcoat'' series
+|-
+|2016
+|''Saint's Blood''
+|The ''Greatcoat'' series
+|-
+|2017
+|''Tyrant's Throne''
+|The ''Greatcoat'' series
+|-
+|2017
+|''Spellslinger''
+|The ''Spellslinger'' series
+|-
+|2017
+|''Shadowblack''
+|The ''Spellslinger'' series
+|-
+|2018
+|''Charmcaster''
+|The ''Spellslinger'' series
+|-
+|2018
+|''Soulbinder''
+|The ''Spellslinger'' series
+|-
+|2019
+|''Queenslayer''
+|The ''Spellslinger'' series
+|-
+|2019
+|''Crownbreaker''
+|The ''Spellslinger'' series
+|-
+|2021
+|''Way of the Argosi''
+|The ''Argosi'' series
+|-
+|2021
+|''The Fall of the Argosi''
+|The ''Argosi'' series
+|}
+
+=== Short Stories ===
+
+* ''The Fox and the Bowman'' (2018)
+
+== Awards ==
+
+=== Won ===
+* [[Elbakin.net]], Best translated fantasy YA, Winner 2018 (''Spellslinger'')<ref>{{cite web|url=http://www.elbakin.net/association/prix|trans-title=Elbakin.net Association Presentation|title=Elbakin.net Association Présentation|language=French}}</ref>
+
+=== Nominated ===
+* [[Goodreads Choice Award]], Semi-Finalist 2014 (''Traitor's Blade'')<ref>{{Cite web|url=https://www.goodreads.com/choiceawards/best-fantasy-books-2014|title=Announcing the Goodreads Choice Winner in Best Fantasy!|website=Goodreads}}</ref>
+* [[David Gemmell Awards for Fantasy]], Morningstar Award for Best Debut, Finalist 2015 <ref>{{Cite web|url=http://file770.com/voting-opens-for-2015-david-gemmell-awards/|title=Voting Opens for 2015 David Gemmell Awards|first=Mike|last=Glyer|date=June 1, 2015}}</ref>
+* [[Astounding Award for Best New Writer]], Finalist 2016 <ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/2016-hugo-awards/|title=2016 Hugo Awards|first=Scryde ru|last=Says|date=December 29, 2015}}</ref>
+* ''Prix_Imaginales'', Foreign translation, Finalist 2016 (''Traitor's Blade'')<ref>{{cite web|url=https://www.imaginales.fr/prix-imaginales-2016/|trans-title=2016 Imaginal Awards|title=Prix Imaginales 2016|language=French}}</ref>
+* [[Grand prix de l'Imaginaire]], Best Foreign Young Adult, Finalist 2019 (''Spellslinger'', ''Shadowblack'')<ref>{{cite web|url=https://gpi.noosfere.org/gpi-2019/|trans-title=Grand Prix of the Imaginary 2019|date=7 October 2019|title=Grand Prix de l’Imaginaire 2019|language=French}}</ref>
+* [[Sunburst Award]], Young Adult Award, Finalist 2019 (''Spellslinger'')<ref>{{cite web|url=http://sunburstaward.org/2019-sunburst-winners|date=9 June 2019|title=2019 Sunburst Winners}}</ref>
+
+== References ==
+{{reflist}}
+
+== External links ==
+*{{official site |https://decastell.com/}}
+
+{{authority control}}
+
+{{DEFAULTSORT:De Castell, Sebastien}}
+[[Category:21st-century Canadian novelists]]
+[[Category:Canadian fantasy writers]]
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+
+
+{{Canada-writer-stub}}
+{{Fantasy-writer-stub}}

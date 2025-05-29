@@ -1,0 +1,54 @@
+{{short description|Indian-American psychoanalyst and poet}}
+{{Use Indian English|date=December 2015}}
+{{Use dmy dates|date=December 2015}}
+{{Infobox person
+| name         = Salman Akhtar
+| image        =
+| caption      =
+| birth_date   = {{birth date and age|df=yes|1946|07|31}}
+| birth_place  = [[Lucknow]], [[United Provinces of Agra and Oudh|United Provinces]], [[British Raj|British India]]
+| occupation   = {{hlist|[[Poet]]|[[Psychoanalyst]]}}
+| father       = [[Jan Nisar Akhtar]]
+| spouse       =
+| children     = [[Kabir Akhtar]] (son)
+| relatives    = Shahid Akhtar (brother)<br>[[Javed Akhtar]] (brother)<br>Uneza Akhtar (sister)<br>[[Farhan Akhtar]] (nephew)<br>[[Zoya Akhtar]] (niece)
+| website      =
+| signature    =
+}}
+
+'''Salman Akhtar''' (born 31 July 1946)<ref name="Hellinga">{{cite book|last1=Hellinga|first1=Gerben|first2=J B |last2=van Luyn |first3=Henk-Jan |last3=Dalewijk|title=Personalities: Master Clinicians Confront the Treatment of Borderline Personality Disorders|publisher=Uitgeverij Boom|year=2000|isbn=90-5352-551-3|url=https://books.google.com/books?id=4SyNJkffx8MC&q=%22Salman+Akhtar%22&pg=PA25|page=26}}</ref> is an Indian-American [[psychoanalyst]] practicing in the [[United States]]. He is an author and Professor of Psychiatry and Human Behavior at [[Jefferson Medical College]] in [[Philadelphia]].
+
+==Biography==
+Salman Akhtar was born into a [[Muslim]] family in [[Khairabad, Sitapur|Khairabad]], Uttar Pradesh to [[Jan Nisar Akhtar]], a Bollywood film songwriter and [[Urdu poet]], and singer Safia Akhtar, a teacher and writer. His grandfather, [[Muztar Khairabadi]], was a poet while his great great grandfather, [[Fazl-e-Haq Khairabadi]], was a scholar of Islamic studies and theology and played an important role in the [[Indian Rebellion of 1857]]. He is the brother of veteran poet and film lyricist [[Javed Akhtar]] and brother-in-law of actress and social activist [[Shabana Azmi]]. His son [[Kabir Akhtar]] is an American television director and [[Emmy Award|Emmy-nominated]] [[Film editor|editor]].
+
+==Education and career==
+After receiving his M.B.B.S. degree at Aligarh Muslim University's Medical School (JNMC)<ref>https://www.jefferson.edu/university/jmc/departments/psychiatry/faculty/akhtar.html</ref> in India, Salman Akhtar did his internship at Maulana Azad Medical College of the University of Delhi in India. He completed post-graduate medical education in psychiatry at [[PGIMER Chandigarh]] under renowned Psychiatrist N. N. Wig.<ref>Prof. N.N. Wig : Pioneer, Conscientious Researcher, and a Multi-faceted Personality. (2005). Mens sana monographs, 3(2), 3–6.</ref> During this time, he wrote a famous article "A phenomenological analysis of symptoms in obsessive-compulsive neurosis".<ref>Akhtar, S., Wig, N., Varma, V., Pcrshad, D., & Verma, S. (1975). A Phenomenological Analysis of Symptoms in Obsessive-Compulsive Neurosis. British Journal of Psychiatry, 127(4), 342-348. doi:10.1192/bjp.127.4.342</ref> He moved to the United States in 1973 and repeated his psychiatric training at the University of Virginia Medical Center in 1976. He obtained psychoanalytic training from the Philadelphia Psychoanalytic Institute in 1986. 
+
+Currently, he is Professor of Psychiatry & Human Behavior at Jefferson Medical College and psychiatrist an at the Jefferson University Hospital as well as a Training and Supervising Analyst at the Psychoanalytic Center of Philadelphia. He has served on the editorial boards of the ''[[International Journal of Psychoanalysis]]'' and the ''Journal of the American Psychoanalytic Association''. Salman Akhtar has authored, edited, or co-edited more than 300 publications, including 100 academic books. He has also served as the Film Review Editor for the ''International Journal of Psychoanalysis'', and is currently serving as the Book Review Editor for the ''International Journal of Applied Psychoanalytic Studies''. He also has published seven collections of poetry and serves as a Scholar-in-Residence at the Inter-Act Theatre Company in Philadelphia.
+
+==Selected publications==
+{{refbegin}}
+* Akhtar, S. (1999). ''Immigration and Identity''. Jason Aronson.
+* Akhtar, S. (2007). ''Listening to Others''. Jason Aronson.
+* Akhtar, S. (2009). ''Comprehensive Dictionary of Psychoanalysis''. Routledge.
+* Akhtar, S. (2012). ''Psychoanalytic Listening''. Routledge. 
+* Akhtar, S. (2014). ''Source of Suffering''. Routledge. 
+* Akhtar, S. (2021). ''Tales of Transformation: A Life in Psychotherapy and Psychoanalysis''. Phoenix Publishing House.
+{{refend}}
+
+== References ==
+<references />
+
+{{Authority control}}
+
+{{DEFAULTSORT:Akhtar, Salman}}
+[[Category:1946 births]]
+[[Category:Indian emigrants to the United States]]
+[[Category:American psychiatrists]]
+[[Category:20th-century American poets]]
+[[Category:Aligarh Muslim University alumni]]
+[[Category:Scientists from Lucknow]]
+[[Category:Indian Muslims]]
+[[Category:Living people]]
+[[Category:American people of Indian descent in health professions]]
+[[Category:American academics of Indian descent]]

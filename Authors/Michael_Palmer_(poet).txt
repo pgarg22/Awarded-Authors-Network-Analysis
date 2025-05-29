@@ -1,0 +1,245 @@
+{{short description|American poet and translator (born 1943)}}
+{{Other people|Michael Palmer}}
+{{Essay-like|date=December 2007}}
+{{Infobox writer 
+| name        = Michael Palmer
+| image         = 9.13.09AntoonPalmerBanksByLuigiNovi.jpg
+| imagesize   = 200
+| caption       = Palmer (center) at the 2009 [[Brooklyn Book Festival]]
+| pseudonym =
+| birth_date   = {{birth date and age|1943|5|11}}
+| birth_place  = [[Manhattan, New York]], [[United States|U.S.]]
+| death_date   = 
+| death_place  = 
+| occupation  = [[Poet]], [[translator]]
+| period      = 
+| genre       = poetry, prose, "analytic lyric"
+| subject     = 
+| movement    = [[postmodern]], Language poetry
+| signature   = 
+| website     = 
+}}
+'''Michael Palmer''' (born May 11, 1943) is an [[United States poetry|American poet]] and [[translator]]. He attended [[Harvard University]], where he earned a BA in French and an MA in Comparative Literature.<ref>[http://www.poetryfoundation.org/learning/poetics-essay.html?id=237884 The Flower of Capital (1979)] {{webarchive|url=https://web.archive.org/web/20100419102611/http://www.poetryfoundation.org/learning/poetics-essay.html?id=237884 |date=2010-04-19 }} reprinted at the Poetry Foundation website where it is labeled 'a poetics essay'. Includes a brief bio sketch.</ref> He has worked extensively with [[Contemporary dance]] for over thirty years and has collaborated with many [[composers]] and [[visual arts|visual artists]]. Palmer has lived in San Francisco since 1969.
+
+Palmer is the 2006 recipient of the [[Wallace Stevens Award]] from the [[Academy of American Poets]]. This $100,000 (US) prize recognizes outstanding and proven mastery in the art of poetry.<ref>[[Robert Hass]], among those selecting Palmer to receive the award, wrote: "Michael Palmer is the foremost experimental poet of his generation and perhaps of the last several generations. A gorgeous writer who has taken cues from [[Wallace Stevens]], the [[Black Mountain poets]], [[John Ashbery]], [[French literature of the 20th century|contemporary French poets]], the poetics of [[Octavio Paz]], and from language poetries. He is one of the most original craftsmen at work in English at the present time. His poetry is at once a dark and comic interrogation of the possibilities of representation in language, but its continuing surprise is its resourcefulness and its sheer beauty." - [http://www.poets.org/viewmedia.php/prmMID/20808 Press release from poets.org] {{Webarchive|url=https://web.archive.org/web/20100407115543/http://poets.org/viewmedia.php/prmMID/20808 |date=2010-04-07 }} accessed 30 Aug 2009</ref>
+
+==Beginnings==
+Michael Palmer began actively publishing poetry in the 1960s. Two events in the early sixties would prove particularly decisive for his development as a poet.
+
+First, he attended the now famous [[Vancouver Poetry Conference]] in 1963. This July–August 1963 Poetry Conference in [[Vancouver, British Columbia]] spanned three weeks and involved about sixty people who had registered for a program of discussions, workshops, lectures, and readings designed by [[Warren Tallman]] and [[Robert Creeley]] as a summer course at the University of B.C.<ref name="slought.org">[http://slought.org/toc/Vancouver1963/ Fred Wah’s recordings of the 1963 Vancouver Poetry Conference] {{webarchive|url=https://web.archive.org/web/20070210161029/http://slought.org/toc/Vancouver1963/ |date=2007-02-10 }}, at Slought Foundation website</ref> There Palmer met writers and artists who would leave an indelible mark on his own developing sense of a poetics, especially [[Robert Duncan (poet)|Robert Duncan]], [[Robert Creeley]], and [[Clark Coolidge]], with whom he formed lifelong friendships. It was a landmark moment as Robert Creeley observed:
+<blockquote>
+[[Vancouver Poetry Conference]] brought together for the first time, a decisive company of then disregarded poets such as [[Denise Levertov]], [[Charles Olson]], [[Allen Ginsberg]], [[Robert Duncan (poet)|Robert Duncan]], [[Margaret Avison]], [[Philip Whalen]]... together with as yet unrecognised younger poets of that time, Michael Palmer, Clark Coolidge and many more."<ref name="slought.org"/><ref>{{Cite web|url=http://epc.buffalo.edu/authors/coolidge/chronol.html|title = Electronic Poetry Center}}</ref>
+</blockquote>
+
+Palmer's second initiation into the rites of a public poet began with the editing of the journal ''Joglars'' with fellow poet [[Clark Coolidge]]. ''Joglars'' (Providence, Rhode Island) numbered just three issues in all, published between 1964–66, but extended the correspondence with fellow poets begun in Vancouver. The first issue appeared in Spring 1964 and included poems by [[Gary Snyder]], [[Michael McClure]], [[Fielding Dawson]], [[Jonathan Williams (poet)|Jonathan Williams]], [[Lorine Niedecker]], [[Robert Kelly (poet)|Robert Kelly]], and [[Louis Zukofsky]]. Palmer published five of his own poems in the second number of ''Joglars'', an issue that included work by [[Larry Eigner]], [[Stan Brakhage]], [[Russell Edson]], and [[Jackson Mac Low]].<ref>{{cite web|url=http://www.oac.cdlib.org/findaid/ark:/13030/kt5v19p056 |title=Finding Aid for the Joglars Records, 1963-1966 |publisher=Oac.cdlib.org |date=1939-02-26 |accessdate=2011-06-18}}</ref>
+
+For those who attended the Vancouver Conference or learned about it later on, it was apparent that the poetics of [[Charles Olson]], [[proprioception|proprioceptive]] or [[Projectivist]] in its reach, was exerting a significant and lasting influence on the emerging generation of artists and poets who came to prominence in the 1950s and 1960s. Subsequent to this emerging generation of artists who felt Olson's impact, poets such as Robert Creeley and Robert Duncan would in turn exert their own huge impact on our [[List of national poetry|national poetries]] (see also: [[Black Mountain poets]] and [[San Francisco Renaissance]]). Of this particular company of poets encountered in Vancouver, Palmer says:
+
+{{quote|...before meeting that group of poets in 1963 at the Vancouver Poetry Conference, I had begun to read them intensely, and they proposed alternatives to the poets I was encountering at that time at [[Harvard University|Harvard]], the confessional poets, whose work was grounded to a greater or lesser degree in [[New Criticism]], at least those were their mentors. The [[confessional poet]]s struck me as people absolutely lusting for fame, all of them, and they were all trying to write great lines.<ref name=rivercity>[http://www.iowadsl.net/~jpcraig/palmer_interview.html The River City Interview with Michael Palmer] {{webarchive |url=https://web.archive.org/web/20050906035400/http://www.iowadsl.net/~jpcraig/palmer_interview.html |date=September 6, 2005 }}</ref>}}
+
+===Early development of poetry and poetics===
+{| class="toccolours" style="float: left; margin-left: 2em; margin-right: 1em; font-size: 90%; background: pink; width:30em; max-width: 40%;" cellspacing="5"
+| style="text-align: left;" |
+: "...here was Duncan with this liberatory attitude, very much like Bob Creeley, who was also important to me then. I started reading Creeley around the same time. His poetry, like Duncan's, was exploratory and uncertain of itself and certainly didn't even have a critical audience to address. These were poets working in the dark and working at the margins, and those have always been the poets who tended to attract me more than the ones who were courting favor with official culture. So there was a circle of people who, when I was quite young, were very important to me."
+|-
+| style="text-align: right;" | '''Michael Palmer'''<ref name=rivercity/>
+|}
+Following the Vancouver Conference, Robert Duncan and Robert Creeley remained primary resources. Both poets had a lasting, active influence on Palmer's work which has extended until the present. In an essay, "Robert Duncan and Romantic Synthesis" (see 'External links' below), Palmer recognizes that Duncan's appropriation and synthesis of previous poetic influences was transformed into a poetics noted for "exploratory audacity...the manipulation of complex, resistant harmonies, and by the kinetic idea of "composition by field", whereby all elements of the poem are potentially equally active in the composition as 'events' of the poem".<ref>{{cite web|url=http://www.english.uiuc.edu/maps/poets/m_r/palmer/palmeronduncan.htm |title=On Robert Duncan-by Michael Palmer |publisher=English.uiuc.edu |date= |accessdate=2011-06-18}}</ref>
+
+And if this statement marks a certain tendency readers have noted in Palmer's work all along, or remains a touchstone of sorts, we sense that from the beginning Palmer has consistently confronted not only the problem of subjectivity and public address in poetry, but the specific agency of Poetry and the relationship between poetry and the political: "The implicit...question has always concerned the human and social justification for this strange thing, poetry, when it is not directly driven by the political or by some other, equally other evident purpose [...] Whereas the significant artistic thrust has always been toward artistic independence '''within''' the world, not '''from''' it."<ref name=jubilat>[http://www.jubilat.org/n1/index.html JUBILAT | number 1] {{webarchive |url=https://web.archive.org/web/20051018161226/http://www.jubilat.org/n1/index.html |date=October 18, 2005 }}</ref>
+
+So for Michael Palmer, this ''tendency'' seems there from the beginning. Today these concerns continue through multiple collaborations across the fields of poetry, dance, translation, and the visual arts. Perhaps similar to Olson's impact on his generation, Palmer's influence remains singular and palpable, if difficult to measure. Since Olson's death in 1970, we continue to be, following upon [[George Oppen]]'s phrase, ''carried into the incalculable'',<ref>from Oppen's poem "Route" included in _George Oppen: New Collected Poems_, edited by [[Michael Davidson (poet)|Michael Davidson]] (New York: New Directions, 2002)</ref> As Palmer recently noted in a blurb for [[Claudia Rankine]]'s poetic testament ''Don't Let Me Be Lonely'' (2004), ours is ''"a time when even death and the self have been re-configured as [[commodity|commodities]]"''.
+
+==Work==
+Palmer is the author of twelve full-length books of poetry, including ''Thread'' (2011), ''Company of Moths'' (2005) (shortlisted for the 2006 Canadian [[Griffin Poetry Prize]]), ''Codes Appearing: Poems 1979-1988'' (2001), ''The Promises of Glass'' (2000), ''The Lion Bridge: Selected Poems 1972-1995'' (1998), ''At Passages'' (1996), ''Sun'' (1988), ''First Figure'' (1984), ''Notes for Echo Lake'' (1981), ''Without Music'' (1977), ''The Circular Gates'' (1974), and ''Blake's Newton'' (1972). A prose work, ''The Danish Notebook,'' was published in 1999. In the spring of 2007, a chapbook, ''The Counter-Sky'' (with translations by Koichiro Yamauchi), was published by Meltemia Press of Japan, to coincide with the Tokyo Poetry and Dance Festival. His work has appeared in literary magazines such as ''Boundary 2, Berkeley Poetry Review, Sulfur, Conjunctions, Grand Street'' and ''O-blek''.
+
+Besides the 2006 Wallace Stevens Award, Michael Palmer's honors include two grants from the Literature Program of the [[National Endowment for the Arts]]. In 1989-90 he was a [[Guggenheim Fellow]]. During the years 1992–1994 he held a Lila Wallace-Reader's Digest Fund Writer's Award. From 1999 to 2004, he served as a Chancellor of the [[Academy of American Poets]]. In the spring of 2001 he received the [[Shelley Memorial Award|Shelly Memorial Prize]] Prize from the Poetry Society of America.
+
+Introducing Palmer for a reading at the DIA Arts Center in 1996, Brighde Mullins noted that Palmer's poetics is both ''"situated yet active"''. Palmer alludes to this himself, perhaps, when he speaks of poetry signaling a "site of passages". He says, "The space of the page is taken as a site in itself, a [[syntactical]] and visual space to be expressively exploited, as was the case with the Black Mountain poets, as well as writers such as [[Frank O'Hara]], perhaps partly in response to gestural abstract painting."<ref>{{cite web |url=http://wings.buffalo.edu/AandL/english/pubs/spc/alyric/bell/Sources.htm |archive-url=https://wayback.archive-it.org/all/20090416233238/http://wings.buffalo.edu/AandL/english/pubs/spc/alyric/bell/Sources.htm |url-status=dead |archive-date=2009-04-16 |title=Department of English :: University at Buffalo &#124; |publisher=Wings.buffalo.edu |accessdate=2013-04-23 }}</ref>
+{| class="toccolours" style="float:right; margin-left:2em; margin-right:1em; font-size:90%; background:#f99; width:30em; max-width:40%;" cellspacing="5"
+| style="text-align: left;" |
+:
+"Palmer's [[dialectic]], with its underpinning of [[Phenomenology (psychology)|phenomenological]] panic, with its awareness of the [[psychotic]] matrix of the political and the personal, is evinced in [[Somatic theory|somatic]] terms, is realized through [[semantic]] sustenance. His poetic is situated yet active, and it affords a range of pleasure due to his wonderful ear, his intellection, his breadth. In this century of the Eye over the Ear, Palmer's insistence on Sound evokes a subtextual joy."
+|-
+| style="text-align: right;" | '''Brighde Mullins'''<ref>[http://www.diacenter.org/prg/poetry/96_97/intrpalmer.html Michael Palmer Introduction] {{webarchive |url=https://web.archive.org/web/20060929123704/http://www.diacenter.org/prg/poetry/96_97/intrpalmer.html |date=September 29, 2006 }}</ref>
+|}
+Elsewhere he observes that "in our reading we have to rediscover the radical nature of the poem." In turn, this becomes a search for "the essential place of [[lyric poetry]]" as it delves ''"beneath it to its relationship with language".''<ref name=jubilat/> Since he seems to explore the nature of [[language]] and its relation to human consciousness and perception, Palmer is often associated with the [[Language poets]] (sometimes referred to as the [[L=A=N=G=U=A=G=E (magazine)|L=A=N=G=U=A=G=E poets]], after the magazine that bears that name).
+
+Of this particular association, Palmer comments in a recent (2000) interview:
+{{quote|It goes back to an organic period when I had a closer association with some of those writers than I do now, when we were a generation in San Francisco with lots of poetic and theoretical energy and desperately trying to escape from the assumptions of poetic production that were largely dominant in our culture. My own hesitancy comes when you try to create, let's say, a fixed theoretical matrix and begin to work from an ideology of prohibitions about expressivity and the self — there I depart quite dramatically from a few of the Language Poets.<ref name="jubilat+quote">[http://www.jubilat.org/n1/index.html JUBILAT | number 1] {{webarchive|url=https://web.archive.org/web/20051018161226/http://www.jubilat.org/n1/index.html |date=2005-10-18 }} '''Note''':in the actual interview with Palmer from which this quote is taken, the odd spelling of "Language" is retained: [[L=A=N=G=U=A=G=E (magazine)|L=A=N=G=U=A=G=E poets]]. The Wikipedia articles on "[[Language Poetry]]" and the accompanying "discussion" pages describe this ongoing controversy with reference to the use of the ("="/equal sign) in the spelling</ref>}}
+
+==Critical reception==
+Michael Palmer's poetry has been described variously as abstract, intimate, allusive, personal, political and inaccessible.<ref>[http://www.eastbayexpress.com/search/events.php?eventSearch=1&date=2006-11-29 East Bay Express's Events Column (November 29, 2006)] {{webarchive|url=https://web.archive.org/web/20061101013103/http://eastbayexpress.com/search/events.php?eventSearch=1&date=2006-11-29 |date=November 1, 2006 }} "Choose your euphemism for the work of Michael Palmer", writes columnist Anneli Rufus, "who has been busy in the Bay Area these past thirty years, writing and translating poetry and collaborating with painters and choreographers".</ref>
+{| class="toccolours" style="float:left; margin-left:2em; margin-right:1em; font-size:90%; background:#f9f; width:30em; max-width:40%;" cellspacing="5"
+| style="text-align: left;" |
+: "How does the human break down so completely that the only alternative we have is to impose massive destruction and then...massive suffering among civilian populations?"
+|-
+| style="text-align: right;" | '''Michael Palmer'''<ref name=jubilat/>
+|}
+
+While some reviewers or readers may value Palmer's work as an "extension of [[modernism]]",<ref>[http://www.sptraffic.org/html/authors/palmer.html poetry reading at "Small Press Traffic", San Francisco] {{webarchive|url=https://web.archive.org/web/20050221014311/http://www.sptraffic.org/html/authors/palmer.html |date=2005-02-21 }} introductory remarks made before his reading on December 10, 1999</ref> they criticize and even reject Palmer's work as discordant: an ''interruption of our composure'' (to invoke Robert Duncan's phrase).<ref>Robert Duncan, from his "Introduction" to ''Bending the Bow'' (New Directions, 1968)</ref> Palmer's own stated poetics will not allow or settle for "vanguard gesturalism".<ref name=jubilat/> In a singular confrontion with the modernist [[project]], the poet must suffer 'loss', embrace disturbance and paradox, and agonize over what cannot be accounted for. It is a poetry that can, at once, gesture toward [[post-modern]], post-[[avant-garde]], [[semiotic]] concerns even as it acknowledges that
+
+{{quote|...the artist after Dante's poetics, works with all parts of the poem as [[polysemy|polysemous]], taking each thing of the composition as generative of meaning, a response to and a contribution to the building form.[...]But this putting together and rendering anew operates in our own apprehension of emerging articulations of time. Every particular is an immediate happening of meaning at large; every present activity in the poem redistributes future as well as past events. This is a presence extended in a time we create as we keep words in mind."<ref>Robert Duncan, "Introduction" to ''Bending the Bow'' (New Directions, 1968)</ref>}}
+
+We can recognize that the "weary beauty"<ref name=autogenerated1>[http://www.sptraffic.org/html/authors/palmer.html poetry reading at "Small Press Traffic", San Francisco] {{webarchive |url=https://web.archive.org/web/20050221014311/http://www.sptraffic.org/html/authors/palmer.html |date=February 21, 2005 }}</ref> of Palmer's work bespeaks the tension and accord he offers toward the Modernists and the vanguardists, even as he is ''seeking to maintain or at least continue to search for an ethics of the I/Thou''.<ref name="jubilat+modernism">[http://www.jubilat.org/n1/index.html JUBILAT | number 1] {{webarchive|url=https://web.archive.org/web/20051018161226/http://www.jubilat.org/n1/index.html |date=2005-10-18 }} (see also article:[[modernism]])</ref>
+
+It is an awkward truce we make with modernism when there is no cessation of hostilities. But sometimes in reading Palmer's work we recognize (almost against ourselves) a poetry that is described as [[Surrealism|surreal]] in context and contour, livid in aural accomplishment, but all the while confronts the reader with a poetics both active and situated. And if Palmer is sometimes praised for this, more often than not he is criticized, rebuked, vilified and dismissed (just as [[Paul Celan]] was) for [[hermeticism]], deliberate obscurity, and bogus erudition. Palmer admits to a stated ''"essential errancy of discovery in the poem"'' that would not necessarily be a ''"unified narrative explanation of the self"'', but would allow for itself ''"cloaked meaning and necessary semantic indirection"''<ref name="jubilat+modernism"/>
+
+===Confrontation with Modernism===
+
+He remains candid about the giants of modernism: i.e., [[Yeats]], [[T. S. Eliot|Eliot]] and [[Ezra Pound|Pound]]. Whether it is the [[fascism]] of [[Ezra Pound]] or the less overt but no less insidious [[anti-semitism]] found in the work of [[T. S. Eliot]], Palmer's position is a fierce rejection of their politics, but qualified with the acknowledgment that, as [[Marjorie Perloff]] has observed of Pound, "he remains the great inventor of the period, the poet who really MADE THINGS NEW".<ref>{{cite web |url=http://www.chicagopostmodernpoetry.com/marjorie.htm |title=Chicago Postmodern Poetry Profile and Interview |publisher=Chicagopostmodernpoetry.com |accessdate=2011-06-18 |url-status=dead |archiveurl=https://web.archive.org/web/20110708143903/http://www.chicagopostmodernpoetry.com/marjorie.htm |archivedate=2011-07-08 }}</ref> Thus, Palmer decries that what remains for us is something quite harrowing ''"inscribed at the heart of modernism"''.<ref name="jubilat+modernism"/>
+{| class="toccolours" style="float: right; margin-left: 2em; margin-right: 1em; font-size: 90%; background:beige; width:30em; max-width: 40%;" cellspacing="5"
+| style="text-align: left;" |
+: "It's a difficult thing when you're growing up and you have heroes like Pound and so on, and the truth begins to come out about Yeats and Pound and their political agenda, and its horrifying: [[racism]], [[anti-Semitism]] you name it, they got it. It was an extraordinary relief to realize that there were all these counter-movements in the early 20th century such as the [[Objectivist poets|Objectivists]] (poets) who had something more like a humanity about their poetics in relation to the world, a little bit less benighted."
+|-
+| style="text-align: right;" | '''Michael Palmer'''<ref name=rivercity/>
+|}
+
+Perhaps we can invoke one of Palmer's real 'heroes', [[Antonio Gramsci]],<ref>ie., Palmer specifically invokes Gramsci by name in his poems "Autobiography 8" (from _The Promise of Glass_, p.27) and "Sun" (the second version of that poem in Palmer's 1988 volume _Sun_). However, the reference to Gramsci in "Autobiography 8" could also refer to "The Ashes of Gramsci" (1954), a poem by [[Pier Paolo Pasolini]])</ref> and say here, now, what precisely has been inscribed over against what today (in the vicious circles of media and cultural production) is merely forecast as [[cultural hegemony]].
+
+So if Palmer, on the one hand, variously describes or defines an [[Ideology]] as that which "invades the field of meaning",<ref>quoted from Michael Palmer's talk, "Active boundaries: Poetry at the periphery" as reprinted in Baker, Peter, ed., _Onward: Contemporary Poetry and Poetics_, (New York: Peter Lang, 1996). Listen to the audiofile of this talk [http://media.sas.upenn.edu/pennsound/authors/Palmer/SUNY/Palmer-Michael_03_Talk_UB_11-8-90.mp3 ~>link here]</ref> we recognize not only in Pound or Eliot, but now as if against ourselves, that ideology implicitly deploys values and premises that must remain unspoken in order for them to function as ideology or to remain hidden in plain sight, as such. At some point we can invoke the 'post-ideological' stance of [[Slavoj Žižek]] who, after [[Althusser]], jettisons the Marxist equation: ideology=false consciousness and say that, perhaps Ideology, to all intents and purposes, IS consciousness.
+{| class="toccolours" style="float: left; margin-left: 2em; margin-right: 1em; font-size: 90%; background: pink; width:30em; max-width: 40%;" cellspacing="5"
+| style="text-align: left;" |
+: "Reading Duncan's poems in ''The Opening in the Field'' now, its very easy to see why many of these poets would pose a kind of non-prescriptive adventure, one that allowed you to go your own way rather than proposing an absolute cultural model. It may be that rather than the vatic romanticism of Duncan's work that I was attracted to the notion of composition by field, where everything resonated, where the structure was open rather than being a structure of subordination of elements, where anything might happen, as Eliot was always afraid might happen".
+|-
+| style="text-align: right;" | '''Michael Palmer'''<ref name=rivercity/>
+|}
+
+As a way out of this seeming [[Double bind|double-bind]], or to his admissions that poetry is, as Pound observed, "news that stays news", that it remains an active and viable (or "actively situated") principle within the social dynamic, critics and readers alike point to Palmer's own avowals of an emerging [[countertradition]]<ref>In other words, a poetry originating with Ezra Pound, [[William Carlos Williams]], [[Louis Zukofsky]] and expanding through the lives and works of [[Charles Olson]], Oppen, Duncan, Creeley, [[Allen Ginsberg]], [[Denise Levertov]], and others (specifically post-World War II)</ref> to the prevailing literary establishment: an 'alternative tradition' that just slipped under the radar as far as the Academy and its various 'schools' of poetry are concerned. Though not always so visible, this counter-tradition continues to exert an underground influence. Poetry, as [[critique]] or praise, can perhaps in its reach exceed the grasp of modernism and procure for us as visible again, that which is all or nothing except for the 'ghostlier demarcations' of the social wager within sight of the ''shipwreck of the singular'' (as [[George Oppen]] characterized it) which denotes or delimits the very idea of the social, if not the very idea that there is a ''definition'' of the social other than this : the community of those who have no community. Indeed, the unavowable community (to borrow a title and phrasing from [[Maurice Blanchot]]).
+
+Faced with shipwreck, "in the dark" amidst the ravished heresies of the unspoken as even against silence itself, we can think with the poem. With fierce determination or graceful adherence we can perhaps even "see" with the poem, account for its usefulness. Even as we use the language, attend to its fissures and abhorrences, language in turn uses us, or has its own uses for us, as Palmer attests:
+
+{| class="toccolours" style="float: center; margin-left: 2em; margin-right: 1em; font-size: 90%; background:#c6dbf7; width:30em; max-width: 40%;" cellspacing="5"
+| style="text-align: left;" |
+:''And the poem, from its homeless home'',
+:''writes of blindsight and silence''
+|-
+| style="text-align: right;" | from the poem "Night Gardening", ''Company of Moths'' (2005)
+|}
+
+Palmer has repeatedly stated, in interviews and in various talks given across the years, that the situation for the poet is [[paradox]]ical: a seeing which is blind, a "nothing you can see", an "active waiting", "purposive, ''sometimes'' a music", or a "nowhere" that is "now / here". For Palmer, it is a situation which is never over, and yet it mysteriously starts up again each day, as if describing a [[circle]]. Poetry can "interrogate the radical and violent instability of our moment, asking where is the location of culture,
+where the site of self, selves, among others" (as Palmer has characterized the poetry of [[Myung Mi Kim]]).
+
+==Collaborations==
+Palmer has published translations from French, Russian and Brazilian Portuguese, and has engaged in multiple [[collaboration]]s with painters. These include the German painter [[Gerhard Richter]], French painter [[Micaëla Henich]],<ref>[http://www.hydra.umn.edu/derrida/coll.html Collector's Items for fans and adversaries] {{webarchive|url=https://web.archive.org/web/20070925063644/http://www.hydra.umn.edu/derrida/coll.html |date=2007-09-25 }} : "Micaëla Henich's collection of 1003 india ink drawings, published under the title "Mille e tre", is accompanied by 5 writer-poet-thinkers who were asked each to write on 200 of the drawings in the series (the last three have no text). They are: [[Jacques Derrida]], [[Dominique Fourcade]], Michael Palmer, [[Tom Raworth]], [[Jacques Roubaud]]. Derrida's appeared in "Mille e tre, cinq: Lignées" (published by William Blake & Co.)</ref> and Italian painter [[Sandro Chia]]. He edited and helped translate ''Nothing The Sun Could Not Explain: Twenty Contemporary Brazilian Poets'' (Sun & Moon Press, 1997). With Michael Molnar and John High, Palmer helped edit and translate a volume of poetry by the Russian poet [[Alexei Parshchikov]], ''Blue Vitriol'' (Avec Books, 1994). He also translated "Theory of Tables" (1994), a book written by [[Emmanuel Hocquard]], a project that grew out of Hocquard's translations of Palmer's "Baudelaire Series" into French. Palmer has written many [[radio plays]] and works of [[criticism]]. But his lasting significance occurs as the singular concerns of the artist extend into the [[aleatory]], the multiple, and the collaborative.
+
+===Dance===
+For more than thirty years he has collaborated on over a dozen dance works with [[Margaret Jenkins]] and her Dance Company. Early dance scenarios in which Palmer participated include ''Interferences'', 1975; ''Equal Time'', 1976; ''No One but Whitington'', 1978; ''Red, Yellow, Blue'', 1980, ''Straight Words'', 1980; ''Versions by Turns'', 1980; ''Cortland Set'', 1982; and ''First Figure'', 1984.<ref>"Biography - Palmer, Michael (1943-)" ''Contemporary Authors Online'' (biography) - 2006, Gale Reference Team, Publisher: Thomson Gale</ref> A particularly noteworthy example of a recent Jenkins/Palmer collaboration would be ''The Gates (Far Away Near)'', an evening-length dance work in which Palmer worked with not only Ms. Jenkins, but also Paul Dresher and Rinde Eckert. This was performed in September 1993 in the San Francisco Bay Area and in July 1994 at New York's [[Lincoln Center]]. Another recent collaboration with Jenkins resulted in "Danger Orange", a 45-minute outdoor site-specific performance, presented in October 2004 before the Presidential elections. The color orange metaphorically references the national alert systems that are in place that evoke the sense of danger.[see also:[[Homeland Security Advisory System]]]
+{| class="toccolours" style="float:right; margin-left:2em; margin-right:1em; font-size:90%; background:#c96; width:30em; max-width:40%;" cellspacing="5"
+| style="text-align: left;" |
+: "But then Michael Palmer might not be a Language Poet. We won't know until he dies and they cut his heart open and see if L=A=N=G=U=A=G=E can be found there. ...And the politics of it all is fascinating, but there are people who are much better equipped to speak about it than I am. You might want to go and talk to some of them about it, if you're interested."
+|-
+| style="text-align: right;" | [[David Bromige]]<ref>{{cite web|url=http://www.epoetry.org/issues/spring01/text/prose/bromige.html |title=An Interview with David Bromige |publisher=Epoetry.org |date= |accessdate=2011-06-18}}</ref>
+|}
+
+===Painters and visual artists===
+Similar to his friendship with Robert Duncan and the painter [[Jess Collins]], Palmer's work with painter [[Irving Petlin]] remains generative. Irving's singular influence from the beginning demonstrated for Palmer a "working" of the poet as "maker" (in the radical sense, even ancient sense of that word). Along with Duncan, Zukofsky, and others, Petlin's work modeled, demonstrated, circumscribed and, perhaps most importantly for Palmer, ''verified'' that "the way" (this way for the artist who is a maker, a creator) would also be, as [[Gilles Deleuze]] termed it, "a life". This in turn delineates Palmer's own sense of both a [[poetics]] and an ongoing [[counter-poetic]] tradition, offering him fixture and a place of repair.
+
+Recently he worked with painter and [[visual artist]] [[Augusta Talbot]], and curated her exhibition at the CUE Art Foundation (March 17 -April 23, 2005). When asked in an interview how collaboration has pushed the boundaries of his work, Palmer responded :
+
+{{quote|There were a variety of influences. One was that, when I was using language---but even when I wasn't, when I was simply envisioning a structure, for example---I was working with the idea of actual space. Over time, my own language took on a certain physicality or gestural character that it hadn't had as strongly in the earliest work. Margy (Margaret Jenkins) and I would often work with language as [[gesture]] and gesture as language---we would cross these two media, have them join at some [[wikt:nexus|nexus]]. And inevitably then, as I brought certain characteristics of my work to dance, and to dance structure and gesture, it started crossing over into my work. It added space to the poems.<ref name=jubilat/>}}
+
+It may be that for Palmer, [[friendship]] (acknowledging both the multiple and collaborative), becomes in part what [[Jack Spicer]] terms a "composition of the real". Across the fields of painting and dance, Palmer's work figures as an "unrelenting tentacle of the proprioceptive".<ref name=autogenerated1 /> Furthermore, it may signal a ''Coming Community'' underscored in the work of [[Giorgio Agamben]], [[Jean-Luc Nancy]] and [[Maurice Blanchot]] among others. It is a poetry that would, along with theirs, articulate a place for, even spaces where, both the "poetic imaginary" is constituted and a possible social space is envisioned. As Jean-Luc Nancy has written in ''The Inoperative Community'' (1991): "These places, spread out everywhere, yield up and orient new spaces...other tracks, other ways, other places for all who are there."
+
+==Bibliography==
+
+===Poetry===
+* ''Plan of the City of O'', Barn Dreams Press (Boston, Massachusetts), 1971.
+* ''Blake's Newton'', [[Black Sparrow Press]] (Santa Barbara, California), 1972.
+* ''C's Songs'', Sand Dollar Books (Berkeley, California), 1973.
+* ''Six Poems'', Black Sparrow Press (Santa Barbara, California), 1973.
+* ''The Circular Gates'', Black Sparrow Press (Santa Barbara, California), 1974.
+* (Translator, with Geoffrey Young) [[Vicente Huidobro]], ''Relativity of Spring: 13 Poems'', Sand Dollar Books (Berkeley, California), 1976.
+* ''Without Music'', Black Sparrow Press (Santa Barbara, California), 1977.
+* ''Alogon'', Tuumba Press (Berkeley, California), 1980.
+* ''Notes for Echo Lake'', North Point Press (Berkeley, California), 1981.
+* (Translator) Alain Tanner and [[John Berger]], ''Jonah Who Will Be 25 in the Year 2000'', North Atlantic Books (Berkeley, California), 1983.
+* ''First Figure'', North Point Press (Berkeley, California), 1984.
+* ''Sun'', North Point Press (Berkeley, California), 1988.
+* ''At Passages'', [[New Directions Publishing|New Directions]] (New York, New York), 1995.
+* ''The Lion Bridge: Selected Poems, 1972-1995'', New Directions (New York, New York), 1998.
+* ''The Promises of Glass'', New Directions (New York, New York), 2000.
+* ''Codes Appearing: Poems, 1979-1988'', New Directions (New York, New York), 2001. ''Notes for Echo Lake'', ''First Figure'', and ''Sun'' together in one volume. {{ISBN|978-0-8112-1470-4}}
+* (With Régis Bonvicino) ''Cadenciando-um-ning, um samba, para o outro: poemas, traduções, diálogos'', Atelieì Editorial (Cotia, Brazil), 2001.
+* ''Company of Moths'', New Directions (New York, New York), 2005. {{ISBN|978-0-8112-1623-4}}
+* ''Aygi Cycle '', Druksel (Ghent, Belgium), 2009 (chapbook with 10 new poems, inspired by the Russian poet Gennadiy Aygi.<ref>{{cite web|url=http://www.druksel.be/nl/fondsen/palmer/meer.html |title=Druksel, een uitgeverij van bibliofiele boeken |publisher=Druksel.be |date=2003-11-06 |accessdate=2011-06-18}}</ref>
+* (With [[Jan Lauwereyns]]) ''Truths of Stone'', Druksel (Ghent, Belgium), 2010.
+* ''Thread'', New Directions (New York, New York), 2011. {{ISBN|978-0-8112-1921-1}}
+* ''The Laughter of the Sphinx'', New Directions (New York, New York), 2016. {{ISBN|978-0-8112-2554-0}} <ref group="n">Although it was published in June 2016, various sources had originally reported a release date of 2015.[[Jerome Rothenberg]] noted a 2015 publication by New Directions here: http://jacket2.org/commentary/michael-palmer-new-poems-“-laughter-sphinx”-mac-low-tcherepnin-artaud/. Also, other sources reported this as well, ie., see: http://www.sfweekly.com/sanfrancisco/ed-roberson/Event?oid=3183321</ref><ref>{{Cite web|url=http://www.ndbooks.com/book/the-laughter-of-the-sphinx/|title = The Laughter of the Sphinx|date = 28 June 2016}}</ref><ref>{{Cite news|url=https://www.nytimes.com/2016/10/02/books/review/poetry-night-etel-adnan-ghostspeaking-peter-boyle.html?_r=0|title = Poetry|newspaper = The New York Times|date = 30 September 2016|last1 = Hollander|first1 = Benjamin}}</ref>
+
+===Other===
+* ''Idem 1-4'' (radio plays), 1979.
+* (Editor) ''Code of Signals: Recent Writings in Poetics'', North Atlantic Books (Berkeley, California), 1983.
+* ''The Danish Notebook'', Avec Books (Penngrove, California), 1999 — prose/memoir
+* ''Active Boundaries: Selected Essays and Talks'', New Directions (New York, New York), 2008. {{ISBN|0-8112-1754-X}}
+
+===Palmer sites and exhibits===
+* [http://www.poets.org/poet.php/prmPID/98 Exhibit at The Academy of American Poets] includes links to on-line poems by Palmer not listed below
+* [http://www.english.uiuc.edu/maps/poets/m_r/palmer/palmer.htm Modern American Poetry site]
+* [http://www.literaturfestival.com/bios1_3_6_772.html Author Page at ''Internationales Literatufestival Berlin'' site] (in English) Palmer was a guest of the ILB (''Internationales Literatufestival Berlin''/ Germany) in 2001 and 2005.
+* [https://web.archive.org/web/20070928111129/http://www.literaryhistory.com/20thC/Palmer.htm An internet bibliography for Michael Palmer] from LiteraryHistory.com
+
+===Poems===
+* [http://www.jacketmagazine.com/26/palm.html ''"Dream of a Language That Speaks"''] a poem from ''Company of Moths'' (2005) @ ''[[Jacket Magazine]]'' site
+* [https://web.archive.org/web/20051028075430/http://www.newamericanwriting.com/21/palmer.htm ''"Scale"''] first published in ''Richter 858'' (ed. David Breskin, The Shifting Foundation, SF MOMA: [[San Francisco Museum of Modern Art]]); included in ''Company of Moths
+* [https://web.archive.org/web/20060322105149/http://www.conjunctions.com/archives/c26-mp.htm ''"Autobiography 3"'' & ''Autobiography 5''"] two poems from ''Conjunctions'' magazine's on-line archive; included in ''The Promises of Glass'' (2000)
+* [http://jacketmagazine.com/33/pieces-of-air.shtml#palmer ''To the Title (Are there titles?)''] included in ''Jacket Magazine 33''
+* [http://bostonreview.net/BR35.2/palmer.php four poems from '''Thread'''] from [[Boston Review]]'s March/April 2010 issue
+*{{YouTube|DytZO3_PWcI|Late Night Poetry @ Tony Bilson's Number One: Palmer reads "The Dream of Narcissus"}} Video of Palmer at the 2010 Sydney (Australia) Writers Festival.
+*{{YouTube|4DKhX8pUeoA|Michael Palmer reads Mahmoud Darwish's "The Strangers' Picnic"}} Video of Palmer reading a poem from [[Mahmoud Darwish]]'s collection ''Unfortunately, It Was Paradise: Selected Poems''
+* [https://web.archive.org/web/20160108083518/http://www.podcasting.es/krcb-fm-wordtemple-podcast-384764/michael-palmer-paul-hoover-with-the-poetry-of-maria-baranda-september-27-2015-episodio-277938353/ Michael Palmer, Paul Hoover with the poetry of Maria Baranda - September 27, 2015] – Palmer reads from his book ''Thread'' and from his forthcoming collection ''The Laughter of the Sphinx''. He also reads a single poem from his collection ''The Company of Moths''.
+
+===Selected essays and talks===
+* [http://www.durationpress.com/archives/code/codeofsignals.pdf ''Period (senses of duration)''] this is a version of a talk Palmer gave in San Francisco in February 1982. Scroll down to "Table of Contents" to find the Palmer selection. Here it appears in an [[e-book]] representation of ''Code of Signals'' (which Palmer edited in 1983, with the subtitle "Recent Writings in Poetics").
+* [http://www.english.uiuc.edu/maps/poets/m_r/palmer/palmeronduncan.htm ''On Robert Duncan''] reprint of Palmer's essay ''"Robert Duncan and Romantic Synthesis"''
+* [https://web.archive.org/web/20060501070353/http://www.writing.upenn.edu/pennsound/x/Palmer.html Michael Palmer audio-files at PENNsound]
+* [https://web.archive.org/web/20060511162633/http://www.goldenhandcuffsreview.com/78.html ''"On the Sustaining of Culture in Dark Times"''] text of Palmer's keynote address given at the 3rd Annual ''Sustainable Living Conference'' at [[Evergreen State College]] in February 2004
+* [http://jacketmagazine.com/29/palmer-duncan.html ''"Ground Work: On Robert Duncan"''] Michael Palmer's "Introduction" to a combined edition of ''Ground Work: Before the War'', and ''Ground Work II: In the Dark'', published by [[New Directions Publishing|New Directions]] in April 2006.
+* [http://blogs.lib.berkeley.edu/blogs/whats-new.php/2006/09/30/lunch_poems_reading_by_michael_palmer ''Lunch Poems reading'' by Michael Palmer: Webcast] Held on October 5, 2006, in the Morrison Library, [[University of California at Berkeley]]: webcast online
+* [https://web.archive.org/web/20070205052026/http://poempresent.uchicago.edu/ "In Company: On Artistic Collaboration and Solitude"] This is the title of the lecture/talk that Palmer gave, along with a poetry reading, at the [[University of Chicago]] in October 2006. (In audio & video format)
+* [https://archive.org/details/Michael_Palmer_lecture__Bad_to_the_bone__02P009 Bad to the bone: What I learned outside] Lecture & Talk given in June 2002, when Palmer taught for a brief stint at the [[Jack Kerouac School of Disembodied Poetics]] at [[Naropa University|Naropa]] in [[Boulder, Colorado]]<ref>The note on the website indicates that in this lecture, Michael Palmer is exploring translation and its aesthetic implications. The title refers to writers who refuse to submit to an authoritarian poetic or political reality. Palmer discusses [[Arthur Rimbaud]], [[Herman Melville]], [[Stéphane Mallarmé]], [[Friedrich Hölderlin]], [[Octavio Paz]] and [[Paul Celan]]. The lecture concludes with a brief question and answer session.
+</ref>
+* [https://web.archive.org/web/20070812181523/http://www.sibila.com.br/sIbyl47poeticobligations.html Poetic Obligations (Talking about Nothing at Temple)] This is a talk Palmer gave at [[Temple University]] in February 1999, and was originally published in [[Fulcrum (annual)|Fulcrum: An annual of poetry and aesthetics]] (Issue 2, 2003).
+* [https://archive.today/20070812181511/http://www.sibila.com.br/sIbyl22michael.html Poetry and Contingency: Within a Timeless Moment of Barbaric Thought] essay/talk originally published in the [[Chicago Review]] (June, 2003)
+
+===Interviews with Palmer===
+* [https://web.archive.org/web/20050906035400/http://www.iowadsl.net/~jpcraig/palmer_interview.html The ''River City Interview''] conducted by Paul Naylor, Lindsay Hill, and J. P. Craig; appeared in 1994.
+* [https://web.archive.org/web/20060215132531/http://dfire.org/x1920.xml An Interview with Michael Palmer] by Robert Hicks in 2006
+* [http://www.berkeleydaily.org/text/article.cfm?issue=04-07-06&storyID=23854 Interview at ''Berkeley Daily Planet'': April 7, 2006] discusses a reading Palmer & [[Douglas Blazek]] gave together at ''Moe's'', a bookstore in Berkeley, California; includes interviews
+* [https://web.archive.org/web/20100619225104/http://archjournal.wustl.edu/node/36  Interview with Michael Palmer] an interview conducted at [[Washington University in St. Louis]] in 2008 by the student editors of "Arch Literary Journal" in conjunction with a talk and reading Palmer gave at the school. Includes an introductory essay by one of the editors, Lawrence Revard, "'What Reading?': Play in Michael Palmer's Poetics"
+*{{cite web|author=|url=http://www.litshow.com/archive/season-07/michael-palmer-interview |title=An interview with Michael Palmer |publisher=Litshow.com |date=2013-02-13 |accessdate=2013-04-23}}
+
+===Others on Palmer===
+* [http://www.mjdc.org/ Margaret Jenkins Dance Company] info on both Palmer & his collaborators in their on-going work with Dance
+* [http://www.valpo.edu/english/vpr/rameyreviewpalmer.html Lauri Ramey:"Michael Palmer: The Lion Bridge"] Ramey wrote a doctoral dissertation on Palmer, and here reviews his "Selected Poems"
+* [http://english.chass.ncsu.edu/freeverse/Archives/Spring_2002/reviews/M_Dowdy.html A Collision of "Possible Worlds"] A 2002 review of ''The Promises of Glass'' by Michael Dowdy @''Free Verse'' website
+* [http://www.bostonreview.net/BR31.1/obrien.html A review of ''Company of Moths''] a book review of Palmer's 2005 collection
+* [http://www.griffinpoetryprize.com/awards-and-poets/shortlists/2006-shortlist/michael-palmer/ Griffin Poetry Prize biography, including audio and video clips] Palmer was shortlisted for this prize in 2006
+* [http://www.sfbg.com/entry.php?entry_id=669 Margaret Jenkins Dance Company's "A Slipping Glimpse"] 2006 dance piece in collaboration with Tanushree Shankar Dance School & the text by Palmer
+* [https://web.archive.org/web/20060623071018/http://hindustantimes.com/news/7752_1705575,004100180004.htm ''Cultural camaraderie''] article from Hindustantimes.com on the dance performance ''A Slipping Glimpse''. Article discusses Palmer's collaboration (includes quotes)
+* [https://web.archive.org/web/20061216035606/http://www.cca.edu/about/press/2006/mpalmerwr2006 Palmer is Spring 2007 Writer in Residence] press release from [[California College of the Arts]]
+* [http://www.accessmylibrary.com/coms2/summary_0286-30836917_ITM Michael Palmer (Six Introductions)] a brief essay by [[Clayton Eshleman]] who edited ''[[Sulfur (magazine)|Sulfur]]'' magazine, for which Palmer served as a contributing editor.
+*[http://www.villagevoice.com/dance/0742,jowitt,78057,14.html Hands Across Many Seas: From San Francisco and India, a dance collaboration] article by Deborah Jowitt on "A Slipping Glimpse", performed by the Margaret Jenkins Dance Company at the "Danspace Project" at Saint Mark's Church, October 4 through 6, 2007
+*[http://www.raggedsky.com/blog/archives/84 Lyric Persuasions at Poets House] [[Rae Armantrout]] and [[Zoketsu Norman Fischer]] discuss Michael Palmer's work as recorded by Vasiliki Katsarou at the [[Poet's House]] in the Spring of 2010
+
+==Notes==
+<references group="n"/>
+
+==External links==
+{{Commons category|Michael Palmer}}
+
+==References==
+{{reflist|30em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Palmer, Michael}}
+[[Category:1943 births]]
+[[Category:Living people]]
+[[Category:American male poets]]
+[[Category:Language poets]]
+[[Category:English-language poets]]
+[[Category:American translators]]
+[[Category:Harvard University alumni]]
+[[Category:Writers from New York City]]
+[[Category:Writers from San Francisco]]

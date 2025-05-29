@@ -1,0 +1,58 @@
+{{short description|American poet}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+ | name        = Lucretia Maria Davidson
+ | image       = LucretiaMariaDavidson transparent.png
+ | imagesize   = 200px
+ | caption     = 
+ | birth_date  = {{Birth date|1808|09|27|mf=y}}
+ | birth_place = [[Plattsburgh (city), New York|Plattsburgh, New York]]
+ | death_date  = {{Death date and age|1825|08|27|1808|09|27|mf=y}}
+ | death_place = Plattsburgh, New York
+ | occupation  = Poet
+ | signature   = Appletons' Davidson Lucretia Maria signature.jpg
+}}
+
+'''Lucretia Maria Davidson''' (September 27, 1808 – August 27, 1825) was an American poet of the early 19th century.
+
+==Biography==
+She was born in [[Plattsburgh (city), New York|Plattsburgh, New York]], on September 27, 1808. Her father, Oliver Davidson, was a physician, and her mother, [[Margaret Miller (author)|Margaret Miller]], was an author. She was sent at the age of four to [[Plattsburgh Academy]], where she learned to read, and wrote [[Latin characters|Roman letters]] in the sand. Soon afterward her mother observed that her writing paper was disappearing strangely, and finally discovered a pile of little blank books, containing artfully sketched pictures, with descriptions in poetry, all printed in Roman letters, turned and twisted in a curious fashion. The child was so mortified at the discovery of what she had been doing that she burned all her work.<ref name=appletons>{{Cite Appletons'|wstitle=Davidson, Lucretia Maria|year=1900}}</ref>
+
+Lucretia learned to write in her seventh year and developed a great fondness for reading. Before she was twelve she had read much history, and the dramatic works of [[William Shakespeare]], [[Oliver Goldsmith]] and [[August von Kotzebue]], with many popular novels and romances. Davidson was an extremely precocious child, and she wrote the earliest remaining specimen of her verse, "Epitaph on a Robin", at the age of nine. She wrote poetry rapidly, when in the mood, but preferred to be alone while composing, often burning an unfinished piece that had been seen by others. She was fond of childish sports, but would often stop in the midst of them to write when struck with an idea for a poem.<ref name="appletons"/>
+
+When about fourteen years old she was allowed to attend a ball in Plattsburgh, but, in the midst of her preparations, was found sitting in a corner writing verses on "What the World Calls Pleasure". Her mother's friends advised that pen and ink be kept from her, and, hearing of this, she voluntarily gave up her favorite pursuit for several months, until her mother, seeing that she grew melancholy, advised her to resume it. In October 1824, a gentleman visiting Plattsburgh saw some of her verses and offered to give her a better education than her parents could afford. She was accordingly sent to Mrs. Willard's school in [[Troy, New York|Troy, N.Y.]], but her studies undermined her health, and she returned home. After her recovery, she was sent to Miss Gilbert's school in Albany but remained there only about three months before she was taken home to die.<ref name="appletons"/> Davidson died at Plattsburgh on August 27, 1825, at the age of 16 years and 11 months of [[tuberculosis]], then known as consumption, although it has been speculated that her condition may have been linked to [[anorexia nervosa]].<ref>Vincent, Patrick H. ''Lucretia Davidson in Europe: Female Elegy, Literary Transmission and the Figure of the Romantic Poetess''. Section 6. [http://www.erudit.org/revue/ron/2003/v/n29/007724ar.html]</ref> Davidson wrote prolifically in her short life, and her surviving poems, of various lengths, number 278, among these being five pieces of several cantos each.
+
+Davidson was praised, with varying levels of enthusiasm, by such notable figures as [[Edgar Allan Poe]], [[Robert Southey]], [[Marceline Desbordes-Valmore]] and [[Catharine Sedgwick]]. Sedgwick wrote a biographical sketch which was included with Davidson's ''Poetical Remains'', and Desbordes-Valmore wrote an ode to her.
+
+Southey's influential, romanticizing 1829 study of her, which compared Davidson to [[Thomas Chatterton]] and [[Henry Kirke White]], greatly enhanced her reputation. Southey also remarked upon her personal beauty: "In person she was exceedingly beautiful. Her forehead was high, open, and fair as infancy; her eyes large, dark, and of that soft beaming expression which shews the soul in the glance."<ref>[[Henry Gardiner Adams|Adams, Henry Gardiner]] (ed.), [https://books.google.com/books?id=mVUBAAAAQAAJ&pg=PA233&#PPA233,M1 ''A Cyclopædia of Female Biography''. 1857. Page 223]</ref> Poe was critical of Southey's role in the creation of the romantic "myth" of Davidson, noting the distinction in quality between her "poetic soul" and the actual quality of her output.<ref>Poe, Edgar Allan. ''Margaret Miller Davidson and Lucretia Maria Davidson''. [http://www.eapoe.org/works/CRITICSM/dvdson.htm]</ref>
+
+==Family==
+Davidson's sister, [[Margaret Miller Davidson]] (Plattsburgh, March 26, 1823 – [[Saratoga Springs, New York|Saratoga Springs]], November 25, 1838), was also a noted and published poet. She began to write at six years of age. At ten, while visiting in New York, she wrote, in two days, a drama entitled ''The Tragedy of Alethia'', and acted in it with some young friends, taking the principal part. Her poems were introduced to the world by [[Washington Irving]]. Notwithstanding her sister's fate, her intellectual activity was not restrained. Like her sister, she too died of consumption in her teens and was praised posthumously. The works of the two sisters were afterward published together (New York, 1850).<ref name=appletons/>
+
+Lucretia's brother, Levi P. Davidson (1817 – [[Saratoga, New York|Saratoga]], June 27, 1842), also wrote verse. He was a soldier by profession and graduated at the [[United States Military Academy]] in 1837, assigned to the 1st Dragoons, and after serving on frontier duty at [[Fort Leavenworth, Kansas]], and Fort Wayne, Indian Territory, was promoted 1st lieutenant in 1840.<ref name=appletons/>
+
+After the poems of her daughter had made them famous, selections from Mrs. Davidson's writings were published in 1844 in a volume with a preface by Sedgwick.<ref name=appletons/>
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+*[https://books.google.com/books?id=hA4TAAAAIAAJ&pg=PA1&#PPP15,M1 ''Poems'' at Google Books]
+*[https://books.google.com/books?id=Xw4TAAAAIAAJ&printsec=titlepage&#PPR11,M1 ''Poetical Remains of the Late Lucretia Maria Davidson'' at Google Books]
+*[https://books.google.com/books?id=JxMTAAAAIAAJ&pg=PA1&dq=#PPR1,M1 ''Amir Khan and Other Poems'' at Google Books]
+* {{Find a Grave|64251947}}
+* [https://archive.org/details/TheDavidsonSistersInRetrospect "THE DAVIDSON SISTERS IN RETROSPECT" (Lucretia and Margaret Miller Davidson)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Davidson, Lucretia Maria}}
+[[Category:1808 births]]
+[[Category:1825 deaths]]
+[[Category:People from Plattsburgh, New York]]
+[[Category:American women poets]]
+[[Category:American child writers]]
+[[Category:19th-century American poets]]
+[[Category:19th-century American women writers]]
+[[Category:19th-century deaths from tuberculosis]]
+[[Category:Tuberculosis deaths in New York (state)]]
+[[Category:Burials at Greenridge Cemetery]]

@@ -1,0 +1,46 @@
+'''Thomas of Britain''' (also known as '''Thomas of England''') was a poet of the 12th century. He is known for his [[Old French]] poem ''[[Tristan]]'', a version of the [[Tristan and Iseult]] legend that exists only in eight fragments, amounting to around 3,300 lines of verse, mostly from the latter part of the story. It is calculated that this represents about one sixth of the original.
+
+==Works==
+Because Thomas has an "obvious dependence" on [[Wace]]'s 1155 ''[[Roman de Brut]]'',<ref>Legge, M. Dominica. ''Anglo-Norman Literature and its Background''. London: Oxford UP, 1963. P. 46.</ref> ''Tristan'' was written between 1155 and 1160, possibly for [[Eleanor of Aquitaine]],<ref>Legge, p. 49</ref> since the work suggests close ties with the court of [[Henry II of England|Henry II]]. Beyond this, his identity is obscure; it has been speculated that he is to be identified with the "Thomas" who wrote the ''[[Romance of Horn]]'', but this is unsupported.<ref>Legge, p. 49</ref> It is similar to the Tristan-story ''[[Chevrefoil]]'' by [[Marie de France]], but either author could have borrowed from the other, or both from a third source.<ref>Legge, p. 46</ref>
+
+Although Thomas's own text is fragmentary, later adaptations of his work make it possible to reconstruct what is missing:
+* [[Gottfried von Strassburg]]'s ''Tristan'' ([[Middle High German]]), left incomplete c. 1210, though fortuitously it covers all those parts of Thomas's work which are lost. Gottfried expanded the story by about a third, while nonetheless remaining fairly faithful to Thomas.
+* [[Brother Robert]]'s [[Old Norse]] ''Tristrams saga ok Ísöndar'' (Saga of Tristram and Isond), written in 1226 (prose), condensing the story.
+* The Middle English ''[[Sir Tristrem]]'' (verse, late 13th Century), a much abbreviated retelling.
+* The Italian ''La Tavola Ritonda'' (prose, 14th century).
+
+Thomas' version is the earliest known representative of the "courtly branch" of the legend, to which Gottfried's also belongs. This branch differs from the "common" or "primitive" versions of [[Béroul]] and [[Eilhart von Oberge]], in that greater emphasis is placed on pleasing the sensibilities and expectations of a courtly audience. Some scholars have theorized an "Ur-Tristan", an original French version that inspired all later accounts. [[Joseph Bédier]] attempted to reconstruct this original from the evidence provided by the later versions.
+
+==See also==
+{{portal|Poetry}}
+*[[Anglo-Norman literature]]
+
+==References==
+{{reflist}}
+
+==Editions and translations==
+*Thomas, ''Les fragments du Roman de Tristan'', ed. Bartina H. Wind, Paris/Geneva 1960.
+*Gottfried von Strassburg, ''Tristan'', with the suriviving fragments of the Tristran of Thomas, translated [[Arthur Thomas Hatto|A.T. Hatto]], Penguin, 1960.
+*''The Saga of Tristram and Ísönd'', translated with an introduction by Paul Schach, University of Nebraska Press 1973.
+
+==External links==
+*[http://fr.wikisource.org/wiki/Tristan_(Thomas_d'Angleterre) ''Tristan'' of Thomas of Britain] in French Wikisource.
+*[http://abu.cnam.fr/cgi-bin/donner_html?thotri1 Complete text of three fragments]
+*[http://www.ecole-alsacienne.org/CDI/pdf/1400/14107_THOM.pdf Text of three fragments and modern French translation]
+*[http://web.clas.ufl.edu/users/jshoaf/Carlisle.htm The Carlisle Fragment of Thomas's ''Tristan''], translated J. Shoaf
+*[http://www.fh-augsburg.de/~harsch/gallica/Chronologie/12siecle/Thomas/tho_tri0.html Text of 6 fragments]
+*[http://www.gutenberg.org/files/14244/14244-h/14244-h.htm The Romance of Tristan & Iseult Drawn from the best French Sources and Retold by J. Bédier Rendered into English by H. Belloc] at Project Gutenberg.
+
+{{Tristan and Iseult}}
+
+{{Authority control}}
+
+[[Category:Anglo-Norman literature]]
+[[Category:Writers of Arthurian literature]]
+[[Category:British poets]]
+[[Category:British writers in French]]
+[[Category:12th-century French writers]]
+[[Category:12th-century poets]]
+[[Category:Norman-language poets]]
+[[Category:British male poets]]
+[[Category:Tristan and Iseult]]

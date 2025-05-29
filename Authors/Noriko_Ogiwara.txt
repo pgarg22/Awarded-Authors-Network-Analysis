@@ -1,0 +1,51 @@
+{{short description|Japanese fantasy writer (born 1959)}}
+{{BLP sources|date=October 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image        = 
+| name         = Noriko Ogiwara
+| pseudonym    =  
+| birth_date   = {{birth year and age|1959}}
+| birth_place  = [[Japan]]
+| occupation   = novelist, manga writer
+| period       = 1987 - present
+| genre        = [[Romance novel|romance]], [[fantasy]], [[Children's literature|Juvenile]]
+| movement     = 
+| notableworks = ''[[The Jade Trilogy]]''
+| website      = {{URL|andante-d.way-nifty.com/blog}}
+}}
+
+{{nihongo|'''Noriko Ogiwara'''|荻原規子}} (born 1959) is a Japanese [[fantasy]] writer.
+
+==Biography==
+Noriko Ogiwara was born in 1959. Having read [[C. S. Lewis]]' ''[[The Chronicles of Narnia|Chronicles of Narnia]]'' at a very early age, she decided to become a fantasy writer.
+
+Her first book, {{nihongo|''Sorairo Magatama''|空色勾玉|"Sky-colored Jade"}} won her several awards for children's literature and was translated into English by Cathy Hirano as ''[[Dragon Sword and Wind Child]]''; the English version was out-of-print until it was re-released by [[Viz Media]] in October 2007.  The two [[sequel]]s, {{nihongo|''Hakuchou Iden''|白鳥異伝|"Swan's Strange Legend"}} and {{nihongo|''Usubeni Tennyo''|薄紅天女|"Pink Nymph"}}, have only been published in [[Japanese language|Japanese]].  The re-issuing of ''Dragon Sword and Wind Child'' encouraged Viz to publish the next novel in the sequence, ''Hakuchou Iden'', as ''Mirror Sword and Shadow Prince'' in May 2011, also translated by Cathy Hirano.  These three books together are called ''[[The Jade Trilogy]]''.
+
+Another of her works is ''Nishi no Yoki Majo'' (西の善き魔女 "Good Witch of the West Astraea Testament"), a western-styled high fantasy series featuring a girl on the quest of finding out the mysteries surrounding the legends of her country and her friends.  The series consists of eight books, including three side stories also penned by her.  ''Nishi no Yoki Majo'' has been adapted into a manga series by Haruhiko Momokawa in Comic Blade, and licensed for English publication as ''[[The Good Witch of the West]]''. ''The Good Witch of the West'' was also animated and aired in Japan in 2006.
+
+Her fantasy novel series {{Nihongo|''[[Red Data Girl]]''|RDG レッドデータガール|RDG reddo dēta gāru}} was first published in 2008. It consists of six books, and was adapted into an anime television series.<ref>{{cite web |url=http://www.animenewsnetwork.com/news/2011-12-17/rdg-red-data-girl-fantasy-novels-have-anime-in-the-works|title=''RDG Red Data Girl'' Fantasy Novels Have Anime in the Works|date=2011-12-17|accessdate= 2012-07-22|work=[[Anime News Network]]}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{in lang|zh}} [https://web.archive.org/web/20070527055822/http://www.zephy.net/mansion/?p=137 Noriko Ogiwara Information #1]
+*{{in lang|ja}} [http://d.hatena.ne.jp/keyword/%B2%AE%B8%B6%B5%AC%BB%D2 Noriko Ogiwara Information #2]
+*{{in lang|ja}} [https://web.archive.org/web/20070823215707/http://www13.ocn.ne.jp/~m-room/ogiwara.html Collection of Noriko Ogiwara's work]
+*{{in lang|en}} {{isfdb name|id=Noriko_Ogiwara|name=Noriko Ogiwara}}
+*{{in lang|en}} {{ann|people|54701}}
+*{{in lang|en}} [https://archive.today/20130928071658/http://www.booksfromjapan.jp/authors/item/71-noriko-ogiwara J'Lit | Authors : Noriko Ogiwara | Books from Japan]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ogiwara, Noriko}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:Japanese fantasy writers]]
+[[Category:Japanese children's writers]]
+[[Category:Japanese women children's writers]]
+[[Category:20th-century Japanese novelists]]
+[[Category:21st-century Japanese novelists]]
+
+
+{{Japan-writer-stub}}

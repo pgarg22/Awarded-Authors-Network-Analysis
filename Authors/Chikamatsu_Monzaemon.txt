@@ -1,0 +1,137 @@
+{{short description|Japanese playwright}}
+{{Infobox person
+| name          = Chikamatsu Monzaemon
+| image         = Chikamatsu Monzaemon.jpg
+| image_size    = 240px
+| alt           = 
+| caption       = 
+| birth_name    = Sugimori Nobumori
+| birth_date    = {{Birth year|1653}}
+| birth_place   = 
+| death_date    = {{Death date and age|1724|1|6|1653||}}<ref name=Kamikaji>{{Cite journal|last=Kamikaji|first=Ai|date=2003|title=Review of Chikamatsu: Five Late Plays|url=https://www.jstor.org/stable/4146120|journal=Bulletin of the School of Oriental and African Studies, University of London|volume=66|issue=3|pages=520–522|issn=0041-977X}} "[...] all the reliable sources I have found in Japan clearly state that Chikamatsu died in 1724, even while quoting the playwright's age at death as 72. In traditional Japanese calculations of age, a new born baby is one year old in its first year of life with a year added to its age every New Year's Day. Therefore, I feel that perhaps it should be explained that in terms of the Gregorian calendar Chikamatsu died aged 71 in 1724."</ref>
+| death_place   = 
+| death_cause   = 
+| other_names   = 
+| occupation    = 
+| years_active  = 
+| known_for     = 
+| notable_works = 
+| spouse        = 
+| children      = 
+| awards        = 
+| alma_mater    = 
+}}
+{{family name hatnote|Chikamatsu|lang=Japanese}}
+{{nihongo|'''Chikamatsu Monzaemon'''|近松 門左衛門||real name '''Sugimori Nobumori''', 杉森 信盛, 1653 – 6 January 1725}} was a [[Japanese people|Japanese]] [[drama]]tist of [[jōruri (music)|jōruri]], the form of puppet theater that later came to be known as [[bunraku]], and the live-actor drama, [[kabuki]]. The ''[[Encyclopædia Britannica]]'' has written that he is "widely regarded as the greatest Japanese dramatist".<ref name="eb"/> His most famous plays deal with double-suicides of honor bound lovers. Of his puppet plays, around 70 are ''jidaimono'' (時代物) (historical romances) and 24 are ''sewamono'' (世話物) (domestic tragedies). The domestic plays are today considered the core of his artistic achievement, particularly works such as ''[[The Courier for Hell]]'' (1711) and ''[[The Love Suicides at Amijima]]'' (1721). His histories are viewed less positively, though ''[[The Battles of Coxinga]]'' (1715) remains praised.
+
+==Biography==
+Chikamatsu was born Sugimori Nobumori<ref name="keene-2">{{Citation | page = 4 | chapter = Introduction | title = [[Four Major Plays of Chikamatsu]]}}.</ref> to a [[samurai]] family. There is disagreement about his birthplace. The most popular theory<ref name="mori">{{Citation | pages = 12–15 | title = Chikamatsu Monzaemon | last = Mori | first = Shū}}.</ref> suggests he was born in [[Echizen Province]], but there are other plausible locations, including [[Hagi, Yamaguchi|Hagi]], [[Nagato Province]].  His father, Sugimori Nobuyoshi, served the ''[[daimyō]]'' Matsudaira in Echizen as a medical doctor. Chikamatsu's younger brother became a medical doctor, and Chikamatsu himself wrote a book on health care.
+
+[[Image:Tomb of Chikamatsu KousaiTemple.jpg|thumb|Tomb of Chikamatsu at Kousai Temple]]
+In those days, doctors who served the ''daimyōs'' held samurai status. But Chikamatsu's father lost his office and became a ''[[rōnin]]'', a masterless samurai. At some point in his teens, between 1664 and 1670, Chikamatsu moved to Kyoto with his father<ref name="keene-1">{{Citation | page = 3 | chapter = Introduction | title = [[Four Major Plays of Chikamatsu]]}}.</ref> where he served for a few years as an obscure page for a noble family, but other than that, little is known about this period of Chikamatsu's life. He published his first known literary work in this period, a [[haiku]] that appeared in 1671.<ref name="keene-1"/> After serving as a page, he next appears in records of the [[Gonshō-ji]] (近松寺) temple (long suggested as the origin of his pen name "Chikamatsu", which is [[kun reading]] of 近松) in [[Ōmi Province]], in present-day [[Shiga Prefecture]].
+
+With the production in 1683 of his puppet play in Kyoto about the Soga brothers (''[[The Soga Successors]]'' or "The Soga Heir"; ''Yotsugi Soga''), Chikamatsu became known as a playwright. ''The Soga Successors'' is believed to have been Chikamatsu's first play although sometimes 15 earlier anonymous plays are contended to have been by Chikamatsu as well. Chikamatsu also wrote plays for the [[kabuki]] theatre between 1684 and 1695, most of which were intended to be performed by a famous actor of the day, [[Sakata Tōjūrō]] (1647–1709).<ref name="keene-2" /> After 1695, and until 1705, Chikamatsu wrote almost exclusively Kabuki plays, and then he abruptly almost completely abandoned that genre. The exact reason is unknown, although speculation is rife: perhaps the puppets were more biddable and controllable than the ambitious kabuki actors, or perhaps Chikamatsu did not feel kabuki worth writing for since Tōjūrō was about to retire, or perhaps the growing popularity of the puppet theater was economically irresistible. [[Andrew Gerstle|C. Andrew Gerstle]] argues that Chikamatsu's collaborations with various performers affected his development as a playwright. His collaborations with kabuki practitioners led to more realistic characters, while his later collaboration with Takeda Izumo led to a heightened theatricality.<ref name=Saltzman-Li>{{Cite journal|last=Saltzman-Li|first=Katherine|date=2002|title=Review of Chikamatsu: Five Late Plays|url=https://www.jstor.org/stable/1124318|journal=Asian Theatre Journal|volume=19|issue=2|pages=358|issn=0742-5457|via=JSTOR}}</ref>
+
+In 1705, Chikamatsu became a "Staff Playwright" as announced by early editions of ''The Mirror of Craftsmen of the Emperor Yōmei''. In 1705 or 1706,<ref>The ''Encyclopædia Britannica'' states that "he moved in 1705 from Kyoto to Osaka to be nearer to Gidayu's puppet theatre, the Takemoto-za. Chikamatsu remained a staff playwright for this theatre until his death." although Keene states he moved in 1706.</ref> Chikamatsu left Kyoto for Osaka, where the puppet theater was even more popular.<ref name="keene-3">{{Citation | pages = 4–6 | chapter = Introduction | title = [[Four Major Plays of Chikamatsu]]}}.</ref> Chikamatsu's popularity peaked with his domestic plays of love-suicides, and with the blockbuster success of ''[[The Battles of Coxinga]]'' in 1715, but thereafter the tastes of patrons turned to more sensational gore fests and otherwise more crude antics; Chikamatsu's plays would fall into disuse, so even the actual music would be lost for many plays. He died January 6, 1725, in either [[Amagasaki]] in [[Hyōgo Prefecture|Hyōgo]],<ref name="eb">"[http://search.eb.com/eb/article-9024045 Chikamatsu Monzaemon]". 2006. ''Encyclopædia Britannica Online''. 12 November 2006.</ref> or [[Osaka]].
+
+In 1706, he wrote a three-act puppet play entitled ''Goban Taiheiki'' ("A chronicle of great peace played on a chessboard"), based on the story of the [[Forty-seven rōnin]]; this became the basis of the later and much better-known ''[[Chūshingura]]''.
+
+Chikamatsu was the first known Japanese playwright who did not act in the pieces he wrote.{{Citation needed|date=February 2007}} Currently, 130 plays have been verified to have been authored by Chikamatsu, with another 15 plays (mostly early Kabuki works) suspected to also have been penned by him.
+
+==Quotations==
+* "Art is something that lies in the slender margin between the real and the unreal." — Chikamatsu Monzaemon, ''Naniwa Miyage''<ref name="eb"/>
+
+==Reception==
+Chikamatsu's ''bunraku'' ([[Jōruri (music)|''jōruri'']]) pieces, of which 24 are ''[[sewamono]]'' (domestic plays),<ref>{{Cite book|url=https://books.google.com/books?id=myLDA0_brhcC&pg=PA274|title=Encyclopedia of Literary Translation Into English: A-L|last=Classe|first=O.|date=2000|publisher=Taylor & Francis|isbn=9781884964367|pages=275|language=en}}</ref> came to be regarded as high literature in the [[Meiji (era)|Meiji]] and [[Taishō|Taishō eras]].<ref>{{Cite web|url=https://www.colorado.edu/cas/sites/default/files/attached-files/janice_kanemitsu_hr.pdf|title=Guts and Tears: Kinpira Jōruri and Its Textual Transformations|last=Kanemitsu|first=Janice Shizue|website=University of Colorado Boulder}}</ref> Many have argued that his genius was “his masterful depiction of the passions, obsessions, and irrationality of the human heart.” While Chikamatsu's ''jidaimono'' (history plays) were considered more important in his own time, the domestic tragedies are now “the main focus of critical attention and the more frequently performed”,{{Sfn|Shirane|2002|p=283}} praised as deeply drawn in their portrayals of commoners. ''The Love Suicides at Sonezaki'' (1703), one of the earliest domestic plays in puppet theater, was a hit that revived the fortunes of the Takemoto Theater in Osaka.{{Sfn|Shirane|2002|p=242}} While it is not considered as strong as his later play ''[[The Love Suicides at Amijima]]'' (1721), Donald Keene praised the death passage as “one of the loveliest passages in Japanese literature”.<ref>{{Cite web|url=https://washburn.edu/reference/bridge24/Chickamatsu.html|title=Chickamatsu Monzaemon|website=washburn.edu|access-date=2019-07-12}}</ref> Also, it was written in ''Early Modern Japanese Literature: An Anthology, 1600-1900'' that ''The Drum of the Waves of Horikawa'' (1707) is “of considerable interest for its exploration of female sexuality and its implicit critique of the life of lower-level samurai”.{{Sfn|Shirane|2002|p=260}} Rei Sasaguchi listed the same play as one of Chikamatsu's most striking ''bunraku'' works along with ''The Couriers of Love to the Other World''.<ref>{{Cite web|url=https://www.japantimes.co.jp/culture/2002/02/20/stage/master-of-lifes-joys-and-sorrows/|title=Master of life's joys and sorrows|last=Sasaguchi|first=Rei|date=2002-02-20|website=The Japan Times|language=en-US|access-date=2019-07-12}}</ref>
+
+''The Love Suicides at Amijima'' is generally regarded as the greatest of his domestic plays,{{Sfn|Shirane|2002|p=313}} though ''[[The Courier for Hell]]'' (1711), ''[[The Uprooted Pine]]'' (1718), and ''The Woman-Killer and the Hell of Oil'' (1721) have also been praised as works “of exceptional power”.<ref>{{Cite book|url=https://books.google.com/books?id=oPOQf26l-PEC&pg=PA125|title=The Reader's Encyclopedia of World Drama|last1=Gassner|first1=John|last2=Quinn|first2=Edward|date=2002-01-01|publisher=Courier Corporation|isbn=9780486420646|pages=125|language=en}}</ref> The last of the three initially was not well-received, and acquired a high reputation only in the late 19th century.<ref>{{Cite book|url=https://books.google.com/books?id=UcWBA4cgpuIC&pg=PA425|title=Major Plays of Chikamatsu|last=Chikamatsu|first=Monzaemon|date=1990|publisher=Columbia University Press|isbn=9780231074155|pages=425|language=en}}</ref> Robert Nichols wrote that ''The Almanac of Love'' (1715) is highly regarded.{{Sfn|Nichols|2010|p=42}} Kenneth P. Kirkwood argued that the work is somewhat thin in texture but “nevertheless reveals the playwright’s skill in making a dramatic plot out of the slightest materials.”<ref>{{Cite book|url=https://books.google.com/books?id=YBXQAgAAQBAJ&pg=PT223|title=Renaissance in Japan: A Cultural Survey of the Seventeenth Century|last=Kirkwood|first=Kenneth P.|date=2012-08-21|publisher=Tuttle Publishing|isbn=9781462912094|language=en}}</ref> In a review of Gerstle's ''Chikamatsu: Five Late Plays'', Katherine Saltzman-Li praised the "depth of character" achieved in ''Twins at the Sumida River'' (1720) through the various allusions.<ref name=Saltzman-Li/>
+
+The histories are mostly considered weaker, with Nichols writing that character in them tends to be subordinated to plot.{{Sfn|Nichols|2010|p=42}} ''The Battles of Coxinga'' (1715), however, ran for seventeen months and became the classical model for later history plays. It remains in the repertoires of both the ''bunraku'' and ''kabuki'' traditions,{{Sfn|Shirane|2002|p=241}} and Donald Keene referred to it as the only ''jidaimono'' “with real literary value”.{{Sfn|Keene|1999|p=263}} ''Keisei hotoke no hara'' (1699) and ''Keisei mibu dainembutsu'' (1702) are among the most renowned kabuki plays,<ref>{{Cite journal|last1=Kanazawa|first1=Shizue|last2=Kobayashi|first2=Tadashi|last3=Yoshikawa|first3=Itsuji|last4=Hōgetsu|first4=Keigo|last5=Sakamato|first5=Tarō|last6=Iwao|first6=Seiichi|date=1975|title=47. Chikamatsu Monzaemon (1653-1724)|url=https://www.persee.fr/doc/dhjap_0000-0000_1975_dic_3_1_871_t2_0033_0000_4|journal=Dictionnaire Historique du Japon|volume=3|issue=1|pages=33–35}}</ref>{{Sfn|Keene|1999|p=251}} though Keene argued that even they are “inferior in every respect” to the ''jōruri'' works written around the same period. Nichols listed ''The Courtesan’s Frankincense'', ''The Tethered Steed'', and ''Fair Ladies at a Game of Poem-Cards'' as the best histories.{{Sfn|Nichols|2010|p=42}} Anne Walthall at [[University of California, Irvine|UC Irvine]] said that the "vivid portrayal of interpersonal relations and individual personality [in ''Love Suicides on the Eve of the Kōshin Festival''] provides excellent evidence why Chikamatsu's domestic plays have become more popular than his historical dramas."<ref>{{Cite journal|last=Walthall|first=Anne|date=2002|title=Review of Chikamatsu: Five Late Plays|url=https://www.jstor.org/stable/3096720|journal=Monumenta Nipponica|volume=57|issue=2|pages=247|issn=0027-0741|via=JSTOR}}</ref> "Devil’s Island", the second scene of the second act of ''Heike and the Island of Women'' (1719), became part of the kabuki repertory in the 19th century and today is usually performed in jōruri and kabuki as a single play.{{Sfn|Shirane|2002|p=301}}
+
+== Adaptations ==
+
+=== Film adaptations ===
+
+* [[Kenji Mizoguchi]]'s black and white film [[Chikamatsu Monogatari]] (literally, 'a story from Chikamatsu' but given titles in French "Les amants crucifiées" and in English "The Crucified Lovers"] is a 1954 film based on a domestic lover-suicide play by Chikamatsu called Daikyōji Mukashi Goyomi (1715). 
+* [[Masahiro Shinoda]]'s celebrated 1969 film, ''Shinjū: Ten no Amijima'' (billed in English as ''[[Double Suicide]]'') employs cinematic techniques based on [[bunraku]] conventions and takes as its basis Chikamatsu's play ''[[The Love Suicides at Amijima]].'' 
+
+* [[The Love Suicides at Sonezaki (1978 film)|''The Love Suicides at Sonezaki'' (1978 film)]]
+*[[The Love Suicides at Sonezaki (1981 film)|''The Love Suicides at Sonezaki'' (1981 film)]]
+
+=== Opera ===
+
+* Japanese composer [[Mayako Kubo]]'s opera ''Osan'',<ref>{{Cite web|title=KUBO Mayako : Osan, from "Shinju Ten no Amejima"|url=https://www.nntt.jac.go.jp/english/season/s250e/s250e.html|access-date=2020-11-08|website=www.nntt.jac.go.jp}}</ref> an adaptation of ''[[The Love Suicides at Amijima|Shinjū: Ten no Amijima]]'' that premiered at the [[New National Theatre Tokyo]] in February 2005.
+
+== References in popular culture ==
+
+=== Other ===
+
+*In the fictional world of [[Naruto]], the first [[Jutsu (Naruto)#Puppet Technique|ninja puppeteer]] is named Chikamatsu Monzaemon, a reference to Chikamatsu's puppet plays.
+* In the ''[[Digimon]]'' multimedia franchise, a puppet Digimon by the name of Monzaemon—an obvious homage to Chikamatsu—was one of the first characters in the original line of virtual pets.
+
+==Major works==
+[[Image:Chikamatsu2.jpg|thumb|Statue of Chikamatsu Monzaemon at [[Amagasaki, Hyogo]]]]
+
+===Jōruri===
+* ''[[Kagekiyo Victorious]]'' (''Shusse kagekiyo'' 出世景清) (1685)
+* ''[[The Love Suicides at Sonezaki]]'' (''Sonezaki shinjū'' 曾根崎心中) (1703)
+* ''[[The Night Song of Yosaku from Tamba]]'' (''Tamba Yosaku machiyo no komurobushi'' 丹波与作待夜のこむろぶし)
+* ''[[The Courier for Hell]]'' (''Meido no hikyaku'' 冥途の飛脚) (1711)
+*''The Almanac of Love'' (''Koi hakke hashiragoyomi'') (1715)
+* ''[[The Battles of Coxinga]]'' (''Kokusen'ya kassen'' 国姓爺合戦) (1715)
+* ''[[The Uprooted Pine]]'' (''Nebiki no Kadomatsu'' 寿の門松) (1718)
+* ''[[The Love Suicides at Amijima]]'' (''Shinjū Ten no Amijima'' 心中天網島) (1721)
+* ''[[The Woman-Killer and the Hell of Oil]]'' (''Onnagoroshi abura no jigoku'' 女殺油地獄) (1721)
+
+===Kabuki===
+* ''[[The Courtesan on Buddha Plain]]''[http://muse.jhu.edu/journals/asian_theatre_journal/v017/17.1kominz.html] (''Keisei hotoke no hara'' けいせい仏の原) (1699)
+
+===Critical work===
+* ''Naniwa Miyage'' (1738; written by a friend and preserving a number of statements by Chikamatsu on the art of the puppet theater)
+
+===Translations into English===
+* ''Major Plays of Chikamatsu'', translated and introduced by Donald Keene. NY: Columbia University Press. 1961/1990. Consists of:
+** Twins at the Sumida River (Futago sumidagawa, 1720)
+** Lovers Pond in Settsu Province (Tsu no kuni meoto-ike, 1721)
+** Battles at Kawa-nakajima (Shinsh kawa-nakajima kassen, 1721)
+** Love Suicides on the Eve of the Kishin Festival (Shinju yoigoshin, 1722)
+** Tethered Steed and the Eight Provinces of Kanto (Kanhasshu tsunagi-uma, 1724)
+* ''Chikamatsu: Five Late Plays'', translated by C. Andrew Gerstle. 2001.
+
+==See also==
+* [[Japanese literature]]
+* [[List of Japanese authors]]
+* [[Gagaku]]
+
+==References==
+<references/>
+
+==Sources==
+{{div col|colwidth=30em}}
+* {{cite book|url=https://books.google.com/books?id=gwQTF-9axqoC|title=World Within Walls: Japanese Literature of the Pre-modern Era, 1600-1867, Volume 1|publisher=Columbia University Press|year=1999|isbn=0231114672|last=Keene|first=Donald}}
+* {{cite book|url=https://books.google.com/books?id=YYxaBwAAQBAJ|title=Masterpieces of Chikamatsu|publisher=Routledge|year=2010|isbn=978-1136913433|last=Nichols|first=Robert}}
+* {{cite book|url=https://books.google.com/books?id=QbJo2oiFFoUC|title=Early Modern Japanese Literature: An Anthology, 1600-1900|publisher=Columbia University Press|year=2002|isbn=0231507437|editor-last=Shirane|editor-first=Haruo}}
+{{div col end}}
+
+==Further reading==
+
+* ''Circles of Fantasy: Convention in the Plays of Chikamatsu'' by C. Andrew Gerstle. 1986 (a critical study of Chikamatsu's plays).
+
+==External links==
+* [https://web.archive.org/web/20111212071738/http://www.washburn.edu/reference/bridge24/Chickamatsu.html "Chapter 4--Renaissance--CHIKAMATSU MONZAEMON (1653-1725)"]
+* [https://web.archive.org/web/20060906093306/http://www.columbia.edu/cu/cup/catalog/data/023111/0231111010.HTM "Four Major Plays of Chikamatsu"]
+* [https://www.yorku.ca/inpar/tethered_miyamori.pdf English translation of ''The Tethered Steed'', translated by Asataro Miyamori and revised by Robert Nichols]
+* [https://web.archive.org/web/20080320103923/http://eloise.cocolog-nifty.com/rodoku/chikamatsu_monzaemon/index.html "Audio book read in Japanese"]
+
+{{Authority control}}
+
+[[Category:1653 births]]
+[[Category:1725 deaths]]
+[[Category:Bunraku]]
+[[Category:Kabuki playwrights]]
+[[Category:Japanese dramatists and playwrights]]
+[[Category:Japanese writers of the Edo period]]
+[[Category:17th-century Japanese writers]]
+[[Category:18th-century Japanese writers]]
+[[Category:17th-century Japanese dramatists and playwrights]]
+[[Category:18th-century Japanese dramatists and playwrights]]

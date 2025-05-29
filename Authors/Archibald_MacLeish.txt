@@ -1,0 +1,281 @@
+{{short description|American poet and 9th Librarian of Congress}}
+{{Use mdy dates|date=June 2012}}
+{{Infobox officeholder
+|name         = Archibald MacLeish
+|image        = Archibaldmacleish.jpeg
+|alt          = 
+|caption      = 
+|order1       = 1st
+|title1       = [[Assistant Secretary of State for Public Affairs]]
+|president1   = [[Franklin D. Roosevelt]] <br />[[Harry S. Truman]]
+|term_start1  = December 20, 1944
+|term_end1    = August 17, 1945
+|predecessor1 = Position established
+|successor1   = [[William Benton (senator)|William Benton]]
+|order2       = 9th
+|title2       = [[Librarian of Congress]]
+|president2   = [[Franklin D. Roosevelt]]
+|term_start2  = July 10, 1939
+|term_end2    = December 19, 1944
+|predecessor2 = [[Herbert Putnam]]
+|successor2   = [[Luther H. Evans]]
+|birth_date   = {{Birth date|1892|05|07}}
+|birth_place  = [[Glencoe, Illinois]], US
+|death_date   = {{Death date and age|1982|04|20|1892|05|07}}
+|death_place  = [[Boston, Massachusetts]], US
+|nationality  = American
+|known_for    = Poetry, drama, essays, librarianship
+|occupation   = {{flatlist|
+* Poet
+* playwright
+* essayist
+* librarian of Congress
+* lawyer
+}}
+|module       = 
+  {{Infobox writer | embed=yes
+  | period           = 
+  | genre            = Poetry, drama, essays
+  | subject          = <!-- or: | subjects = -->
+  | movement         = 
+  | notableworks     = [[Panic (1935 play)|Panic]], [[J.B. (play)|J.B.]]
+  }}
+}}
+
+'''Archibald MacLeish''' (May 7, 1892 – April 20, 1982) was an American poet and writer, who was associated with the [[modernism|modernist]] school of poetry. MacLeish studied English at [[Yale University]] and law at [[Harvard University]]. He enlisted in and saw action during the [[First World War]] and lived in Paris in the 1920s. On returning to the United States, he contributed to [[Henry Luce]]'s magazine ''[[Fortune (magazine)|Fortune]]'' from 1929 to 1938. For five years, MacLeish was the ninth [[Librarian of Congress]], a post he accepted at the urging of President [[Franklin D. Roosevelt]].<ref name =librarian>{{cite web| url = https://www.loc.gov/about/about-the-librarian/previous-librarians-of-congress/archibald-macleish/| title = Archibald MacLeish, 9th Librarian of Congress 1939-1944| access-date = July 19, 2016| publisher = Library of Congress}}</ref> From 1949 to 1962, he was Boylston Professor of Rhetoric and Oratory at Harvard. He was awarded three [[Pulitzer Prize]]s for his work.
+
+==Early years==
+MacLeish was born in [[Glencoe, Illinois]]. His father, Scottish-born [[Andrew MacLeish]], worked as a dry-goods merchant and was a founder of the Chicago department store [[Carson Pirie Scott]].{{citation needed|date=August 2019}} His mother, Martha (née Hillard), was a college professor and had served as president of [[Rockford College]].<ref>{{Cite web|url=https://www.rhsil.org/uploads/2/6/4/3/26435469/1972_-_vol_09_-_no_5.pdf|website=www.rhsil.org|access-date=2019-01-17|title=Nuggets of History}}</ref>  He grew up on an estate bordering [[Lake Michigan]]. He attended the [[Hotchkiss School]] from 1907 to 1911. For his college education, MacLeish went to Yale University, where he majored in English, was elected to [[Phi Beta Kappa]], and was selected for the [[Skull and Bones]] society. He then enrolled in [[Harvard Law School]], where he served as an editor of the ''[[Harvard Law Review]]''.<ref>{{cite web |last=Davis |first=Robert Gorham |url=https://www.nytimes.com/1986/08/10/books/lives-of-the-poet.html |title=Lives of the Poet |work=The New York Times |date=August 10, 1986 |access-date= December 26, 2007}}</ref>
+
+His studies were interrupted by [[World War I]], in which he served first as an ambulance driver and later as an artillery officer. He fought at the Second Battle of the Marne.<ref>{{cite book|last1=Donaldson|first1=Scott|title=Archibald MacLeish: an American Life|date=1992|publisher=Houghton Mifflin|isbn=0395493269|page=[https://archive.org/details/archibaldmacleis00dona/page/93 93]|url-access=registration|url=https://archive.org/details/archibaldmacleis00dona/page/93}}</ref> His brother, [[Kenneth MacLeish]], was killed in action during the war.<ref>{{cite book|last1=Nettleton|first1=George Henry|title=Yale in the World War: Volume I|date=1925|publisher=Yale University Press|location=New Haven, CT|pages=286–7}}</ref> He graduated from law school in 1919, taught law for a semester for the government department at Harvard, then worked briefly as an editor for ''[[The New Republic]]''. He next spent three years practicing law with the Boston firm [[Choate, Hall & Stewart]].<ref name="Kahlenberg">{{cite book|last1=Kahlenberg|first1=Richard|title=Broken Contract: A Memoir of Harvard Law School|date=1999|publisher=University of Massachusetts Press|page=109}}</ref> MacLeish expressed his disillusion with war in his poem ''Memorial Rain'', published in 1926.<ref name =poet/>
+
+==Years in Paris==
+In 1923, MacLeish left his law firm and moved with his wife to Paris, France, where they joined the community of literary [[expatriate]]s that included such members as [[Gertrude Stein]] and [[Ernest Hemingway]]. They also became part of the famed coterie of [[French Riviera|Riviera]] hosts [[Gerald Murphy|Gerald and Sarah Murphy]], which included Hemingway, [[Zelda Fitzgerald|Zelda]] and [[F. Scott Fitzgerald]], [[John Dos Passos]], [[Fernand Léger]], [[Jean Cocteau]], [[Pablo Picasso]], [[John O'Hara]], [[Cole Porter]], [[Dorothy Parker]], and [[Robert Benchley]]. He returned to America in 1928. From 1930 to 1938, he worked as a writer and editor for Henry Luce's ''Fortune'',<ref name =poet/> during which he also became increasingly politically active, especially with [[anti-fascism|antifascist]] causes. By the 1930s, he considered capitalism to be "symbolically dead" and wrote the verse play ''[[Panic (1935 play)|Panic]]'' (1935) in response.
+
+While in Paris, [[Harry Crosby]],  publisher of the [[Black Sun Press]], offered to publish MacLeish's poetry. Both MacLeish and Crosby had overturned the normal expectations of society, rejecting conventional careers in the legal and banking fields. Crosby published MacLeish's long poem "Einstein" in a deluxe edition of 150 copies that sold quickly. MacLeish was paid US$200 for his work.<ref name=wolff>{{Cite book|title=Black Sun: The Brief Transit and Violent Eclipse of Harry Crosby |url=https://books.google.com/books?id=RpVaAAAAMAAJ|author=Geoffrey Wolff|year=2003|isbn=1-59017-066-0|publisher=New York Review of Books}}</ref>{{rp|183}} In 1932, MacLeish published his long poem "Conquistador", which presents [[Hernán Cortés|Cortés's]] conquest of [[Aztec|the Aztecs]] as symbolic of the American experience. In 1933, "Conquistador" was awarded a Pulitzer Prize, the first of three awarded to MacLeish.<ref name =poet>{{cite web| url = http://www.english.illinois.edu/maps/poets/m_r/macleish/life.htm| title = Archibald MacLeish's Life and Career| author = Barber, David| access-date = July 19, 2016
+| publisher = Modern American Poetry}}</ref>
+
+In 1934, he wrote a libretto for ''{{Interlanguage link multi|Union Pacific (ballet)|ru|3=Юнион Пасифик (балет)|lt=Union Pacific|vertical-align=sup}}'', ballet by [[Nicolas Nabokov]] and [[Léonide Massine]] ([[Ballet Russe de Monte-Carlo]]); it premiered in [[Philadelphia]] with a great success.
+
+In 1938, MacLeish published as a book a long poem "Land of the Free", built around a series of 88 photographs of the rural depression by [[Dorothea Lange]], [[Walker Evans]], [[Arthur Rothstein]], [[Ben Shahn]], and the [[Farm Security Administration]] and other agencies. The book was influential on Steinbeck in writing ''[[The Grapes of Wrath]]''.
+
+===Librarian of Congress===
+[[American Libraries]] has called MacLeish "one of the 100 most influential figures in librarianship during the 20th century" in the United States.<ref>''100 of the Most Important Leaders We Had in the 20th century'' (1999). ''American Libraries, 30''(11), 39.</ref> MacLeish's career in libraries and public service began, not with an internal desire, but from a combination of the urging of a close friend, [[Felix Frankfurter]], and as MacLeish put it, "The President decided I wanted to be Librarian of Congress."<ref>{{cite book|last=MacLeish|first=William H.|title=Uphill with Archie : a son's journey|year=2001|publisher=Simon & Schuster|location=New York, NY [u.a.]|isbn=0-684-82495-7|page=[https://archive.org/details/uphillwitharchie00macl/page/141 141]|url-access=registration|url=https://archive.org/details/uphillwitharchie00macl/page/141}}</ref> [[Franklin D. Roosevelt]]'s nomination of MacLeish was a controversial and highly political maneuver fraught with several challenges.
+
+MacLeish sought support from expected places such as the president of Harvard, MacLeish's current place of work, but found none. Support from unexpected places, such as [[M. Llewellyn Raney]] of the [[University of Chicago]] libraries, alleviated the ALA letter-writing campaign against MacLeish's nomination."<ref name=donaldson/>{{rp|297}} The main Republican argument against MacLeish's nomination from within Congress was that he was a poet and was a "[[fellow traveler]]" or sympathetic to communist causes. Calling to mind differences with the party he had over the years, MacLeish avowed, "no one would be more shocked to learn I am a Communist than the Communists themselves."<ref name=donaldson/>{{rp|296}} In Congress, MacLeish's main advocate was [[Senate Majority Leader]] [[Alben Barkley]], Democrat from Kentucky. With President Roosevelt's support and Senator Barkley's skillful defense in the [[United States Senate]], victory in a [[roll call vote]] with 63 senators voting in favor of MacLeish's appointment was achieved.<ref name=donaldson/>{{rp|298}} MacLeish was sworn in as Librarian of Congress on July 10, 1939, by the local postmaster at [[Conway, Massachusetts]].<ref name =librarian/>
+
+MacLeish became privy to Roosevelt's views on the library during a private meeting with the President.  According to Roosevelt, the pay levels were too low and many people would need to be removed. Soon afterward, MacLeish joined the retiring Librarian of Congress [[Herbert Putnam]] for a luncheon in New York. At the meeting, Putnam relayed his intention to continue working at the library, that he would be given the title of librarian emeritus, and that his office would be down the hall from MacLeish's. The meeting further crystallized for MacLeish that as Librarian of Congress, he would be "an unpopular newcomer, disturbing the status quo."<ref name=donaldson>{{cite book|last=Donaldson|first=Scott|title=Archibald MacLeish an American life|year=2001|publisher=Authors Guild Backprint|location=Lincoln, NE|isbn=978-0-595-17078-4}}</ref>{{rp|302}}
+
+[[File:LOC Main Reading Room Highsmith.jpg|thumbnail|[[Library of Congress]] reading room]]
+A question from MacLeish's daughter, Mimi, led him to realize, "Nothing is more difficult for the beginning librarian than to discover [in] what profession he was engaged."<ref name=donaldson/>{{rp|309}}  Mimi, his daughter, had inquired about what her daddy was to do all day, "...hand out books?"<ref name=donaldson/>{{rp|309}}  MacLeish created his own job description and set out to learn about how the library was currently organized.  In October 1944, MacLeish described that he did not set out to reorganize the library, rather "...one problem or another demanded action, and each problem solved led on to another that needed attention."<ref name=donaldson/>{{rp|318}}
+
+MacLeish's chief accomplishments had their start in instituting daily staff meetings with division chiefs, the chief assistant librarian, and other administrators.  He then set about setting up various committees on various projects, including acquisitions policy, fiscal operations, cataloging, and outreach.  The committees alerted MacLeish to various problems throughout the library. Putnam was conspicuously not invited to attend these meetings, resulting in the librarian emeritus' feelings being "mortally hurt", but according to MacLeish, it was necessary to exclude Putnam; otherwise, "he would have been sitting there listening to talk about himself which he would take personally."<ref name=donaldson/>{{rp|319}}
+
+First and foremost, under Putnam, the library was acquiring more books than it could [[Library catalog|catalog]]. A report in December 1939, found that over one-quarter of the library's collection had not yet been cataloged. MacLeish solved the problem of acquisitions and cataloging through establishing another committee instructed to seek advice from specialists outside of the Library of Congress. The committee found many subject areas of the library to be adequate and many other areas to be, surprisingly, inadequately provided for. A set of general principles on acquisitions was then developed to ensure that, though it was impossible to collect everything, the Library of Congress would acquire the bare minimum of canons to meet its mission. These principles included acquiring all materials necessary to members of Congress and government officers, all materials expressing and recording the life and achievements of the people of the United States, and materials of other societies past and present that are of the most immediate concern to the peoples of the United States.<ref name=donaldson/>{{rp|320}}
+
+Secondly, MacLeish set about reorganizing the operational structure.  Leading scholars in [[library science]] were assigned a committee to analyze the library's managerial structure. The committee issued a report a mere two months after it was formed, in April 1940, stating that a major [[restructuring]] was necessary. This was no surprise to MacLeish, who had 35 divisions under him. He divided the library's functions into three departments: administration, processing, and reference. All existing divisions were then assigned as appropriate.<ref name=donaldson/>{{rp|321}} By including library scientists from inside and outside the Library of Congress, MacLeish was able to gain faith from the library community that he was on the right track. Within a year, MacLeish had completely restructured the Library of Congress, making it work more efficiently and aligning the library to "report on the mystery of things."<ref name="MacLeishessay">{{cite book|last=MacLeish |first=Archibald |title=Riders on the Earth: Essays and Recollections |url=https://archive.org/details/ridersonearthess00macl |url-access=registration |publisher=Houghton Mifflin Company |location=Boston |chapter=The Premise of Meaning  |date= 1978|page =[https://archive.org/details/ridersonearthess00macl/page/40 40]|isbn=9780395263822 }}</ref>
+
+Last, but not least, MacLeish promoted the Library of Congress through various forms of [[public advocacy]]. Perhaps his greatest display of public advocacy was requesting a budget increase of over a million dollars in his March 1940 budget proposal to Congress. While the library did not receive the full increase, it received an increase of $367,591, the largest one-year increase to date.<ref name=donaldson/>{{rp|322}} Much of the increase went toward improved pay levels, increased acquisitions in underserved subject areas, and new positions. MacLeish resigned as Librarian of Congress on December 19, 1944, to take up the post of [[Assistant Secretary of State for Public Affairs]].<ref name =librarian/>
+
+==World War II==
+[[File:Archibald MacLeish.jpg|thumb|left|MacLeish in 1944]]
+Archibald MacLeish also assisted with the development of the new "[[Research and Analysis Branch]]" of the  [[Office of Strategic Services]], the precursor to the [[Central Intelligence Agency]]. "These operations were overseen by the distinguished Harvard University historian [[William L. Langer]], who, with the assistance of the [[American Council of Learned Societies]] and Librarian of Congress Archibald MacLeish, set out immediately to recruit a professional staff drawn from across the social sciences. Over the next 12 months, academic specialists from fields ranging from [[geography]] to [[classical philology]] descended upon Washington, bringing with them their most promising graduate students, and set up shop in the headquarters of the Research and Analysis (R&A) Branch at Twenty-third and E Streets, and in the new annex to the Library of Congress."<ref>Katz, Barry M. 1991. "German Historians in the Office of Strategic Services." In: An Interrupted Past: German Speaking Refugee Historians in the United States After 1933. Pages 136-137.</ref>
+
+During [[World War II]], MacLeish also served as director of the [[United States War Department|War Department's]] [[Office of Facts and Figures]], and as the assistant director of the [[Office of War Information]]. These jobs were heavily involved with propaganda, which was well-suited to MacLeish's talents; he had written quite a bit of politically motivated work in the previous decade. He spent a year as the [[Assistant Secretary of State for Public Affairs]] and a further year representing the U.S. at the creation of [[UNESCO]]. After this, he retired from public service and returned to [[academia]].
+
+==Return to writing==
+Despite a long history of debate over the merits of [[Marxism]], MacLeish came under fire from anticommunists in the 1940s and 1950s, including [[J. Edgar Hoover]] and [[Joseph McCarthy]].  Much of this was due to his involvement with left-wing organizations such as the [[League of American Writers]], and to his friendships with prominent [[Left-wing politics|left-wing]] writers. ''[[Time (magazine)|Time]]'' magazine's [[Whittaker Chambers]] cited him as a fellow traveler in a 1941 article:  "By 1938, U. S. Communists could count among their allies such names as [[Granville Hicks]], [[Newton Arvin]], [[Waldo Frank]], [[Lewis Mumford]], [[Matthew Josephson]], [[Kyle Crichton]] (Robert Forsythe), [[Malcolm Cowley]], [[Donald Ogden Stewart]], [[Erskine Caldwell]], [[Dorothy Parker]], Archibald MacLeish, [[Lillian Hellman]], [[Dashiell Hammett]], [[John Steinbeck]], [[George Soule (Mayflower passenger)|George Soule]], many another."<ref>
+{{cite journal
+| last = Chambers
+| first = Whittaker
+| title = The Revolt of the Intellectuals
+| journal = Time
+| date = 6 January 1941
+| url = http://www.time.com/time/magazine/article/0,9171,765178-1,00.html| archive-url = https://web.archive.org/web/20100609084034/http://www.time.com/time/magazine/article/0,9171,765178-1,00.html| url-status = dead| archive-date = June 9, 2010}}</ref>
+
+In 1949, MacLeish became the Boylston Professor of Rhetoric and Oratory at Harvard University. He held this position until his retirement in 1962. In 1959, his play ''[[J.B. (play)|J.B.]]'' won the [[Pulitzer Prize for Drama]]. From 1963 to 1967, he was the John Woodruff Simpson Lecturer at [[Amherst College]]. In  1969, MacLeish met [[Bob Dylan]], and asked him to contribute songs to ''Scratch'', a musical MacLeish was writing, based on the story "[[The Devil and Daniel Webster]]" by [[Stephen Vincent Benét]].<ref>Heylin,  2011, ''Bob Dylan: Behind the Shades:  The 20th Anniversary Edition'', p. 319.</ref>  The collaboration was a failure and ''Scratch'' opened without any music; Dylan describes their collaboration in the third chapter of his autobiography ''[[Chronicles, Vol. 1]]''.<ref name=NYT11032020>Adam Langer, [https://www.nytimes.com/2020/11/03/theater/bob-dylan-scratch-broadway-macleish.html Bob Dylan’s First Musical Had a Devil of a Time], ''The New York Times'', November 3, 2020, ''accessed November 5, 2020.''</ref><ref>Dylan, 2004, ''Chronicles, Volume One'', pp. 107–131.</ref>
+
+MacLeish greatly admired [[T. S. Eliot]] and [[Ezra Pound]], and his work shows quite a bit of their influence. He was the literary figure who played the most important role in freeing Ezra Pound from St. Elisabeth's Hospital in Washington, DC, where he was incarcerated for high treason between 1946 and 1958. MacLeish's early work was very traditionally [[Modernism|modernist]] and accepted the contemporary modernist position holding that a poet was isolated from society. His most well-known poem, "[[Ars Poetica (MacLeish)|Ars Poetica]]," contains a classic statement of the modernist aesthetic: "A poem should not mean / But be." He later broke with modernism's pure aesthetic. MacLeish himself was greatly involved in public life and came to believe that this was not only an appropriate, but also an inevitable role for a poet.
+
+In 1969, MacLeish was commissioned by the ''New York Times'' to write a poem to celebrate the [[Apollo 11|Apollo 11 moon landing]], which he entitled "Voyage to the Moon" and appeared on the front page of the July 21, 1969, edition of the ''Times''. [[A. M. Rosenthal]], then-editor of the ''Times'', later recounted: "We decided what the front page of ''The Times'' would need when the men landed was a poem. What the poet wrote would count most, but we also wanted to say to our readers, look, this paper does not know how to express how it feels this day and perhaps you don't either, so here is a fellow, a poet, who will try for all of us. We called one poet who just did not think much of moons or us, and then decided to reach higher for somebody with more zest in his soul – for Archibald MacLeish, winner of three Pulitzer Prizes. He turned in his poem on time and entitled it 'Voyage to the Moon.'"<ref>Rosenthal, A.M. [https://www.nytimes.com/1989/07/18/opinion/on-my-mind-standby-update-moon-poem.html "ON MY MIND; Standby Update Moon Poem"], ''[[The New York Times]]'', New York, 18 July 1989. Retrieved on 27 December 2018.</ref>
+
+==Legacy==
+MacLeish worked to promote the arts, culture, and libraries.  Among other impacts, MacLeish was the first Librarian of Congress to begin the process of naming what would become the [[United States Poet Laureate]].  The [[Poet Laureate Consultant in Poetry to the Library of Congress]] came from a donation in 1937 from [[Archer M. Huntington]], a wealthy ship builder.  Like many donations, it came with strings attached. In this case, Huntington wanted poet [[Joseph Auslander]] to be named to the position. MacLeish found little value in Auslander's writing.  However, MacLeish was happy that having Auslander in the post attracted many other poets, such as [[Robinson Jeffers]] and [[Robert Frost]], to hold readings at the library. He set about establishing the consultantship as a revolving post rather than a lifetime position.<ref name=donaldson/>{{rp|327}}  In 1943, MacLeish displayed his love of poetry and the Library of Congress by naming [[Louise Bogan]] to the position.  Bogan, who had long been a hostile critic of MacLeish's own writing, asked MacLeish why he appointed her to the position; MacLeish replied that she was the best person for the job.  For MacLeish, promoting the Library of Congress and the arts was vitally more important than petty personal conflicts.<ref>{{cite journal |last=Alenier |first= Karen L. |title=On Archibald MacLeish |journal=Beltway: A Poetry Quarterly |edition=Memorial Issue |url=http://washingtonart.com/beltway/macleish.html}}</ref>
+
+In the June 5, 1972, issue of ''[[The American Scholar]]'', MacLeish laid out in an essay his philosophy on libraries and librarianship, further shaping modern thought on the subject:
+
+{{quote|
+When he was 74 years old, the Cretan novelist [[Nikos Kazantzakis]] began a book.  He called it ''Report to Greco'' ... Kazantzakis thought of himself as a soldier reporting to his commanding officer on a mortal mission—his life. ...
+
+Well, there is only one ''Report to Greco'', but no true book ... was ever anything else than a report.  ...  A true book is a report upon the mystery of existence ... it speaks of the world, of our life in the world.  Everything we have in the books on which our libraries are founded—[[Euclid]]'s figures, [[Leonardo da Vinci|Leonardo]]'s notes, [[Isaac Newton|Newton]]'s explanations, [[Miguel de Cervantes|Cervantes]]' myth, [[Sappho]]'s broken songs, the vast surge of [[Homer]]—everything is a report of one kind or another and the sum of all of them together is our little knowledge of our world and of ourselves.  Call a book ''[[Das Kapital]]'' or ''[[The Voyage of the Beagle]]'' or ''[[Theory of Relativity]]'' or ''[[Alice in Wonderland]]'' or ''[[Moby-Dick]]'', it is still what Kazantzakis called his book—it is still a "report" upon the "mystery of things."
+
+But if this is what a book is ... then a library is an extraordinary thing. ...
+
+The existence of a library is, in itself, an assertion.  ...  It asserts that ... all these different and dissimilar reports, these bits and pieces of experience, manuscripts in bottles, messages from long before, from deep within, from miles beyond, belonged together and might, if understood together, spell out the meaning which the mystery implies. ...
+
+The library, almost alone of the great monuments of civilization, stands taller now than it ever did before.  The city ... decays.  The nation loses its grandeur ...  The university is not always certain what it is.  But the library remains: a silent and enduring affirmation that the great Reports still speak, and not alone but somehow all together ...<ref name="MacLeishessay"/>}}
+
+Two collections of MacLeish's papers are held at the [[Yale University]] [[Beinecke Rare Book and Manuscript Library]]. These are the Archibald MacLeish Collection<ref>{{cite document |title= Archibald MacLeish Collection (YCAL MSS 38)|hdl = 10079/fa/beinecke.macleish}}</ref> and the Archibald MacLeish Collection Addition.<ref>{{cite document |title= Archibald MacLeish Collection Addition (YCAL MSS 269)|hdl = 10079/fa/beinecke.macleishadd}}</ref> Additionally, more than 13,500 items from his papers and his personal library are held in the Archibald MacLeish Collection at Greenfield Community College in Greenfield, Mass. 
+<ref>{{cite web| url = https://www.gcc.mass.edu/library/collections/macleish/| title = Archibald MacLeish Collection| access-date = December 10, 2019
+| publisher = Greenfield Community College}}</ref>
+
+==Personal life==
+In 1916, he married Ada Hitchcock, a musician.<ref>{{cite web |url=http://www.poets.org/poet.php/prmPID/47 |title=Archibald MacLeish |access-date= December 3, 2010}}</ref> 
+MacLeish had three children: Kenneth, Mary Hillard, and William, the author of a memoir of his father, ''Uphill with Archie'' (2001).<ref>{{cite journal | title = We Pay Our Respects To—Archibald MacLeish |journal = Broadcasting and Broadcast Advertising | date = May 11, 1942 | pages = 73, 88 | publisher = Broadcasting Publications, Inc. | location = Washington, D.C. | volume = 22 | issue = 19}}</ref>
+
+== Awards ==
+{{Div col|colwidth=22em}}
+*1933: [[Pulitzer Prize for poetry]] (''Conquistador '')
+*1946: [[Commandeur de la Legion d'honneur]]
+*1953: [[Pulitzer Prize for poetry]] (''Collected Poems 1917–1952'')
+*1953: [[National Book Award for Poetry]] (''Collected Poems, 1917–1952'')<ref name=nba1953>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1953 "National Book Awards – 1953"]. [[National Book Foundation]]. Retrieved 2012-03-02.
+<br />(With acceptance speech by MacLeish and essay by John Murillo from the Awards 60-year anniversary blog.)</ref>
+*1953: [[Bollingen Prize in Poetry]]
+*1959: [[Pulitzer Prize for Drama]] (''[[J.B. (play)|J.B.]]'')
+*1959: [[Tony Award for Best Play]] (''J.B.'')
+*1977: [[Presidential Medal of Freedom]]
+{{div col end}}
+
+== Works ==
+
+===Poetry collections===
+{{Div col|colwidth=22em}}
+*''Class Poem'' (1915)
+*''Songs for a Summer's Day'' (1915)
+*''Tower of Ivory'' (1917)
+*''The Happy Marriage'' (1924)
+*''The Pot of Earth'' (1925)
+*''Nobodaddy'' (1926)
+*''The Hamlet of A. Macleish'' (1928)
+*''Streets in the Moon'' (1928)
+*''Einstein'' (1929)
+*''New Found Land'' (1930)
+*''Conquistador'' (1932)
+*''[[Elpenor]]'' (1933)
+*''Frescoes for Mr. Rockefeller's City'' (1933)
+*''Poems, 1924–1933'' (1935)
+*''Public Speech'' (1936)
+*''The Land of the Free'' (1938)
+*''Actfive and Other Poems'' (1948)
+*''Collected Poems'' (1952)
+*''Songs for Eve'' (1954)
+*''The Collected Poems of Archibald MacLeish'' (1962)
+*''The Wild Old Wicked Man and Other Poems'' (1968)
+*''The Human Season, Selected Poems 1926–1972'' (1972)
+*''New and Collected Poems, 1917–1976'' (1976)
+{{div col end}}
+
+===Prose===
+{{Div col|colwidth=22em}}
+*''Jews in America'' (1936)
+*''America Was Promises'' (1939)
+*''The Irresponsibles: A Declaration'' (1940)
+*''The American Cause'' (1941)
+*''A Time to Speak'' (1941)
+*''American Opinion and the War: the Rede Lecture'' (1942)
+*''A Time to Act: Selected Addresses'' (1943)
+*''Freedom Is the Right to Choose'' (1951)
+*''Art Education and the Creative Process'' (1954)
+*''Poetry and Experience'' (1961)
+*''The Dialogues of Archibald MacLeish and Mark Van Doren'' (1964)
+*''[[The Eleanor Roosevelt Story]]'' (1965)
+*''A Continuing Journey'' (1968)
+*''Champion of a Cause: Essays and Addresses on Librarianship'' (1971)
+*''Poetry and Opinion: the Pisan Cantos of Ezra Pound'' (1974)
+*''Riders on the Earth: Essays & Recollections ''(1978)
+*''Letters of Archibald MacLeish, 1907–1982'' (1983)
+{{div col end}}
+
+===Drama===
+{{Div col|colwidth=22em}}
+*''Union Pacific'' (ballet) (1934)
+*''[[Panic (1935 play)|Panic]]'' (1935)
+*''[[The Fall of the City]]'' (1937)
+*''Air Raid'' (1938)
+*''Colloquy for the States'' (1943)
+*''The American Story: Ten Broadcasts'' (1944)
+*''The Trojan Horse'' (1952)
+*''This Music Crept By Me on the Waters'' (1953)
+*''[[J.B. (play)|J.B.]]'' (1958)
+*''Three Short Plays: The Secret of Freedom. Air Raid. The Fall of the City.'' (1961)
+*''An Evening's Journey to Conway'' (1967)
+*''Herakles'' (1967)
+*''Scratch'' (1971)
+*''Magic Prison: the Poetry of Emily Dickinson'' (1975)
+*''The Great American Fourth of July Parade'' (1975)
+*''Six Plays'' (1980)
+{{div col end}}
+
+==See also==
+{{Portal|Biography}}
+*[[List of ambulance drivers during World War I]]
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+*{{cite book| url=https://books.google.com/books?id=BUeA_vdrF9kC| title=Archibald MacLeish| author=Grover Cleveland Smith| publisher=University of Minnesota Press| year= 1971| isbn= 978-0-8166-0618-4 }}
+
+==External links==
+{{Spoken Wikipedia|En-Archibald MacLeish.ogg|date=2013-03-31}}
+{{wikiquote}}
+{{commons}}
+* {{wikisource author-inline}}
+* {{worldcat id|id=lccn-n80-15459}}
+* [http://www.poetsgraves.co.uk/macleish.htm Archibald MacLeish's Grave]
+* {{cite journal| url=http://www.theparisreview.org/interviews/3944/the-art-of-poetry-no-18-archibald-macleish| journal=The Paris Review| volume=Summer 1974| issue=58| title=Archibald MacLeish, The Art of Poetry No. 18| date=Summer 1974| author=Benjamin DeMott }}
+*[https://archive.org/download/ColumbiaWorkshop/370411_The_Fall_of_the_City.mp3  The Fall of the City], Columbia Workshop, CBS radio, 1937
+*[http://www.poets.org/poet.php/prmPID/47 "Archibald MacLeish"], ''Academy of American Poets''
+*{{cite book| chapter-url=https://books.google.com/books?id=EQogr9JUVD0C&pg=RA3-PA236| chapter=Archibald MacLeish| title=Classes on modern poets and the art of poetry| author=James Dickey| editor=Donald J. Greiner| publisher=University of South Carolina Press| year=2004| isbn=978-1-57003-528-9| url-access=registration| url=https://archive.org/details/classesonmodernp0000dick}}
+*https://web.archive.org/web/20091007121253/http://www.americaslibrary.gov/cgi-bin/page.cgi/jb/progress/macleish_1
+*[http://asteria.fivecolleges.edu/findaids/mountholyoke/mshm367_main.html Archibald MacLeish papers at Mount Holyoke College]
+*[[hdl:10079/fa/beinecke.macleish|Archibald MacLeish Collection.]] Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.
+*[[hdl:10079/fa/beinecke.macleishadd|Archibald MacLeish Collection Addition]]. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.
+
+{{s-start}}
+{{s-gov}}
+{{succession box|
+ before=New Office|
+ title=[[Assistant Secretary of State for Public Affairs]]|
+ after=[[William Benton (senator)|William Benton]]|
+ years=December 20, 1944 – August 17, 1945
+}}
+{{end}}
+{{PulitzerPrize PoetryAuthors 1922–1950}}
+{{PulitzerPrize PoetryAuthors 1951–1975}}
+{{PulitzerPrize DramaAuthors 1951-1975}}
+{{Librarians of Congress}}
+{{National Football Foundation Distinguished American Award}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Macleish, Archibald}}
+[[Category:1892 births]]
+[[Category:1982 deaths]]
+[[Category:American librarians]]
+[[Category:American people of Scottish descent]]
+[[Category:20th-century American poets]]
+[[Category:Amherst College faculty]]
+[[Category:Harvard Law School alumni]]
+[[Category:Librarians of Congress]]
+[[Category:National Book Award winners]]
+[[Category:People from Glencoe, Illinois]]
+[[Category:Military personnel from Illinois]]
+[[Category:Writers from Illinois]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Pulitzer Prize for Drama winners]]
+[[Category:Pulitzer Prize for Poetry winners]]
+[[Category:Hotchkiss School alumni]]
+[[Category:Yale University alumni]]
+[[Category:Bollingen Prize recipients]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:Fortune (magazine) people]]
+[[Category:United States Assistant Secretaries of State]]
+[[Category:Dern family]]
+[[Category:Tony Award winners]]
+[[Category:People of the United States Office of War Information]]
+[[Category:United States Army personnel of World War I]]
+[[Category:United States Army officers]]
+[[Category:Presidents of the American Academy of Arts and Letters]]
+[[Category:Lost Generation writers]]

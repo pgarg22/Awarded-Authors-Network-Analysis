@@ -1,0 +1,64 @@
+{{Short description|British science fiction author}}
+{{Use dmy dates|date=August 2020}}
+{{Use British English|date=August 2012}}{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Patrick Tilley
+| image = 
+| caption =  
+| birth_date = {{Birth date|1928|7|4}}
+| birth_place =  [[Southend-on-Sea]], [[Essex]], [[United Kingdom]]
+| death_date       = {{Death date and age|2020|5|25|1928|7|4}}
+| residence =  
+| education =  [[Durham University]]
+| occupation =  Writer, screenwriter, artist
+| nationality = British
+| period =  1975-1995 (as writer)
+| genre =  [[Science fiction]]
+| subject = 
+| movement = 
+| notableworks = ''[[The Amtrak Wars]]'' series 
+| spouse =  
+| partner = 
+| children =  
+| relatives = 
+| website = 
+| signature =  
+}}
+
+'''Patrick Tilley''' (4 July 1928 &ndash; 25 May 2020) was a British [[science fiction]] author best known for ''[[The Amtrak Wars]]'' series of books – a futureworld epic set on the eve of the fourth millennium in a world emerging from the ravages of a dimly understood global holocaust.<ref>[http://www.enterstageright.com/archive/articles/1009/1009tradlibp6.htm Traditionalist and libertarian themes in science fiction and fantasy: Part Six – Some notable SF works], ESR, 28 September 2009</ref> The name "Amtrak" – appropriated by a specific group of survivors – is a name remembered from what is called "The Old Time".
+
+Tilley died on 25 May 2020 after a short illness.<ref>[https://news.ansible.uk/a403.html Ansible newslettter]</ref><ref>[http://www.sf-encyclopedia.com/entry/tilley_patrick Encyclopedia of Science Fiction]</ref>
+
+== Bibliography ==
+=== The Amtrak Wars ===
+# ''Cloud Warrior'' (1983)
+# ''First Family'' (1985)
+# ''Iron Master'' (1987)
+# ''Blood River'' (1988)
+# ''Death-Bringer'' (1989)
+# ''Earth-Thunder'' (1990)
+
+=== Other novels ===
+* ''Fade-Out'' (1975)<ref>[https://pqasb.pqarchiver.com/chicagotribune/access/610523262.html?dids=610523262:610523262&FMT=ABS&FMTS=ABS:AI&type=historic&date=Jul+13,+1975&author=&pub=Chicago+Tribune&desc=And+intrepid+Americans+contend+with+an+Alien+Force&pqatl=google And intrepid Americans contend with an Alien Force], ''Chicago Tribune'' (13 July 1975) (review)</ref>
+* ''Mission'' (1981)
+* ''Xan'' (1986)
+* ''Star Wartz: Tales of Adventure from the Rimworld''  (1995)
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{Official website|https://www.patricktilley.co.uk/}}
+* {{isfdb name|id=Patrick_Tilley|name=Patrick Tilley}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tilley, Patrick}}
+[[Category:1928 births]]
+[[Category:2020 deaths]]
+[[Category:British science fiction writers]]
+[[Category:British fantasy writers]]
+[[Category:British male novelists]]
+
+
+{{UK-novelist-stub}}
+{{sf-writer-stub}}

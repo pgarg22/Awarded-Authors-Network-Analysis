@@ -1,0 +1,196 @@
+{{short description|British playwright and writer|bot=PearBOT 5}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = David Edgar
+| image        =
+| imagesize    = 
+| alt          =
+| caption      =
+| pseudonym    =
+| birth_name   =
+| birth_date   = {{birth date and age|df=yes|1948|2|26}}
+| birth_place  = [[Birmingham]], England
+| death_date   =
+| death_place  =
+| occupation   = Playwright
+| ethnicity    =
+| citizenship  =
+| education    =
+| alma_mater   =
+| period       =
+| genre        =
+| subject      =
+| notableworks =
+| awards       =
+}}
+'''David Edgar''' (born 26 February 1948) is a British playwright and writer who has had more than sixty of his plays published and performed on stage, radio and television around the world, making him one of the most prolific dramatists of the post-1960s generation in Great Britain.<ref name="diclit">[http://www.bookrags.com/biography/david-edgar-dlb2/ Dictionary of Literary Biography] excerpt at Bookrags.com</ref> He was resident playwright at the [[Birmingham Repertory Theatre]] in 1974–5 and has been a board member there since 1985.<ref name="british">{{cite web |url=http://www.contemporarywriters.com/authors/?p=auth01j12o313412620079 |title=The British Council |publisher=Contemporarywriters.com |access-date=3 March 2009 |url-status=dead |archive-url=https://web.archive.org/web/20071001175124/http://www.contemporarywriters.com/authors/?p=auth01J12O313412620079 |archive-date=1 October 2007 |df=dmy-all}}</ref> Awarded a Fellow in Creative Writing at [[Leeds Metropolitan University|Leeds Polytechnic]], he was made a Bicentennial Arts Fellow (US) (1978–79).
+
+Edgar has enjoyed a long-term association with the [[Royal Shakespeare Company]] since 1976,<ref name="doollee">[http://www.doollee.com/PlaywrightsE/edgar-david.html doollee.com] – the playwrights database</ref> beginning with his play ''Destiny''; he was the company's literary consultant from 1984 to 1988, and became an honorary associate artist of the company in 1989. His plays have been directed by former artistic directors of both of the largest British subsidised companies, [[Trevor Nunn]] for the RSC and [[Peter Hall (director)|Peter Hall]] for the [[Royal National Theatre|National Theatre]].<ref name="doollee"/>
+
+His works have been performed in Ireland, throughout western and eastern Europe, the U.S., and as far afield as Australia, New Zealand, Canada and Japan.<ref name="doollee"/> He is also the author of ''The Second Time as Farce: Reflections on the Drama of Mean Times'' (1988)<ref name="marx">[http://www.marxists.org/archive/marx/works/1852/18th-brumaire/ch01.htm The title is a quotation from Karl Marx.] It comes from the opening sentences of ''The Eighteenth Brumaire of Louis Bonaparte'' (1852), which read: "Hegel remarks somewhere that all great world-historic facts and personages appear, so to speak, twice. He forgot to add: the first time as tragedy, the second time as farce."</ref> and editor of ''The State of Play'' (2000), a book by playwrights on the art of writing plays.<ref name="british"/> He had his first operatic libretto, ''The Bridge'', performed as part of the [[Covent Garden]] Festival in 1998.<ref name="doollee"/> He is a former president of the [[Writers Guild of Great Britain]],<ref name="writers">{{cite web |url=http://www.writersguild.org.uk/public/006_WritersGuil/019_Whoswho.html |title=The Writers Guild |publisher=The Writers Guild |access-date=3 March 2009 |url-status=dead |archive-url=https://web.archive.org/web/20081229042844/http://www.writersguild.org.uk/public/006_WritersGuil/019_Whoswho.html |archive-date=29 December 2008 |df=dmy-all}}</ref> and a [[Fellow of the Royal Society of Literature]].<ref name="british"/>
+
+He founded the [[University of Birmingham]]'s MA in Playwriting Studies programme in 1989 and was its director until 1999. He was appointed Professor of Playwriting Studies in 1995.<ref name="british"/>
+
+== Early life ==
+Edgar was born in [[Birmingham]], England, into the fourth generation of a theatrical family. His maternal grandmother was the character actress Isabel Thornton who had made films in the 1930s, including ''Laugh with Me'' (1938);<ref name="thornton">[https://www.imdb.com/title/tt0416907/ Isabel Thonrnton at IMDb]-Edgar's Grandmother's film</ref> his maternal aunt Nancy Burman ran the [[Birmingham Repertory Theatre]] throughout the 1960s and '70s, and his mother [[Joan Edgar|Joan]] (née Burman) was an actress and [[BBC World Service|BBC Overseas Service]] radio announcer during [[World War II]].<ref>Edgar, David, [https://www.theguardian.com/tv-and-radio/2013/jan/17/barrie-edgar "Other Lives: Barrie Edgar"], ''The Guardian'', 17 January 2013.</ref> His father, [[Barrie Edgar]] (1919–2012),<ref>[https://www.telegraph.co.uk/news/obituaries/9783730/Barrie-Edgar.html "Obituary: Barrie Edgar"], telegraph.co.uk, 6 January 2013.</ref> was an actor and stage manager at the Birmingham Rep before joining the [[BBC]] in 1946,<ref name=LRB /> soon working as a television producer, whose credits included ''[[Come Dancing]]'' and ''[[Songs of Praise]]''.<ref name="diclit"/><ref name="guardiew">O'Mahony, John, [https://www.theguardian.com/stage/2004/mar/20/theatre.politicaltheatre "Enter, stage left"], ''The Guardian'', 20 March 2004.</ref> Barrie Edgar's father, and David Edgar's grandfather, was the early broadcaster [[Percy Edgar]]<ref name=LRB>{{cite news |last=Edgar |first=David |title=What are we telling the nation? |magazine=London Review of Books |location=London |publisher=LRB (London) |date=7 July 2005 |url=http://www.lrb.co.uk/v27/n13/edga01_.html |access-date=28 June 2009}}</ref> who had been the founding manager of [[5IT]] – the first BBC radio station to open outside London – and the first regional Director of the [[BBC West Midlands|BBC Midland Region]].<ref>{{cite book |last=Briggs |first=Asa |publication-date=1995 |year=1978 |title=Sound and Vision |volume=IV |series=The History of Broadcasting in the United Kingdom |location=Oxford |publisher=Oxford University Press |isbn=0-19-212967-8 |url=https://books.google.com/books?id=ndvkTwjfP9kC |page=80 |access-date=28 June 2009}}</ref>
+
+Being brought up in what he later recalled as a "more or less upper-middle-class family"<ref name="guardiew"/> with both parents, three grandparents, and "various other slightly more distant relatives" all involved in the theatre or broadcasting, Edgar remembers having seen most of the [[Shakespeare]] canon by the age of fifteen, either in his native Birmingham or in nearby [[Stratford-upon-Avon]], plus the complete [[Agatha Christie]] and many more of "the sort of plays one would never go to now."<ref name="diclit"/> His father converted a garden shed into a twelve-seat theatre for him in their garden and the young Edgar began to write plays for "the theatre in the shed" from the age of five with the intention of giving himself the starring role.<ref name="brittheatre">[http://www.britishtheatreguide.info/otherresources/interviews/DavidEdgar.htm British Theatre Guide] – Sheila Connor interviews.</ref> By the age of nine he had written his first full-scale work, ''The Life and Times of William Shakespeare''. "At this stage", Edgar recalled, "the idea of being a playwright who would write large parts for other people had not entered my consciousness." He really wanted to be an actor, "I wrote the 'Life and Times' for the sole purpose of playing Shakespeare's lead actor [[Richard Burbage]]."<ref name="guardiew"/> But after some tactful advice from his mother regarding his acting ability he decided that acting was not for him and turned his hand to writing more seriously.<ref name="brittheatre"/>
+
+At [[Oundle School]] in Northamptonshire, Edgar became immersed in theatre and was the first pupil in over 300 years of school history to be permitted to direct a play.<ref name="guardiew"/> Undeterred by his actors all being male, he chose [[Bertolt Brecht]]'s ''[[Mother Courage and Her Children|Mother Courage]]'', a play calling for six female roles and, forgetting his mother's advice, cast himself in the lead role as the woman who hopes to profit from war by running a canteen for soldiers, but loses all three of her children to the war from which she had hoped to profit. After leaving school in 1966, Edgar taught for one term at a [[Preparatory school (United Kingdom)|preparatory school]] and then went to [[Manchester University]] to read drama<ref name="diclit"/> with a view to becoming a playwright.
+
+In addition to chairing the Socialist Society at Manchester University, Edgar edited the student newspaper, and found himself unable to heed his mother's advice. In 1967, the [[National Student Drama Festival]] was held in Bradford and was won by [[Edinburgh University]]'s production of [[Harold Pinter]]'s ''[[The Homecoming]]'' (1965). Peter Farrago, director of the winning play put together a cast from talent at the Festival to perform [[Mike Alfreds]]' ''Mandrake, The Musical'' at the next Edinburgh Festival. That cast included [[Ian Charleson]] and [[David Rintoul]], both of Edinburgh University, [[Tim Pigott-Smith]] from [[Bristol University]] and David Edgar played the Apothecary.<ref name="nsdf">[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/stage/theatre/article2180647.ece ''Sunday Times'']- 1 August 2007, Edgar at Edinburgh Festival.</ref> On graduating in 1969, he became a journalist with the ''[[Telegraph & Argus]]'' in Bradford before becoming a full-time writer in 1972. He maintains his journalism with regular contributions to newspapers and journals such as ''[[The Guardian]]'' and ''[[The London Review of Books]]''.<ref name="diclit"/><ref name="british"/>
+
+==Early theatre pieces==
+Initially, Edgar's career as a journalist developed alongside his attempts to write plays. In 1970, soon after moving to Bradford to take up his role with the ''Argus'', he met [[Chris Parr]], a Fellow in Theatre at [[Bradford University]],<ref name="diclit"/> who was able to commission aspiring playwrights and produce their works with the Bradford University Theatre Group,<ref name="doollee"/> the company consisting of university students. While writing for his newspaper to expose a minor scandal in local politics in northern England, Edgar wrote a play for Parr dealing with the anti-apartheid campaign directed against a tour of South African rugby players. Before the play was accepted, however, the tour was called off.<ref name="diclit"/>
+
+On the strength of this, Parr commissioned Edgar to write a play for two student actresses to perform at the [[Edinburgh Festival]]. The result was ''Two Kinds of Angel'', a one-act play that received its Bradford premiere in July 1970, was revived at the Basement Theatre in London and led to more commissions from Parr for the Bradford Theatre Group.<ref name="diclit"/> ''Two Kinds of Angel'' is set in a flat where the squabbles of the two main characters are inter cut with flashbacks to the lives of their respective ''alter egos''. Rosa is a student revolutionary who re-enacts episodes from the life of [[Rosa Luxemburg]], while her flatmate Norma is a blond actress re-enacting the life of [[Marilyn Monroe]].<ref name="diclit"/> Edgar later described it as a "highly melodramatic piece" that relied on a series of "fairly obvious effects culled from watching the wrong sorts of plays at an impressionable age."<ref name="diclit"/> "It wasn't very good", Edgar admits.<ref name="statesman">[http://www.newstatesman.com/200509120035 ''New Statesman'']-Helen Chappell, 12 September 2005.</ref> He re-used the character of Rosa Luxemburg in his first full-length work, ''Bloody Rosa'', produced by students of Manchester University at the Edinburgh Festival in August 1971. The play is set ostensibly in a university lecture theatre with a professor telling the story of Luxembourg's political journey, culminating with her violent death at the hand of the fascists in 1919. Edgar added the dramatic twist that events were being regularly interrupted by the students to question the professor's version of events.<ref name="diclit"/>
+
+Further material followed in quick succession and by the end of 1971 Edgar had seen eight of his plays performed,<ref name="diclit"/> including ''A Truer Shade of Blue'' (1970),<ref name="playography">[http://www.doollee.com/PlaywrightsE/edgar-david.html Playwrights Database]-Complete list</ref> a one-act play in which two businessmen visit a [[Soho]] strip club where they encounter a stripper/waitress whose story changes their perception of such entertainment; ''Still Life: Man in Bed'' (1971), produced at the Pool Theatre, Edinburgh, and again at the Little Theatre, London in 1972 is a one-act re-working of the theme of [[Ivan Goncharov]]'s novel ''[[Oblomov]]'' (1859), in which the hero remains in bed for 79 days unable to cope with the decimalisation of currency;<ref name="playography"/> ''Acid'' (1971) produced by Parr's Bradford University Theatre Group, then again at the Edinburgh Festival in 1971, is a one-act play that has a copycat of the [[Charles Manson]] massacre take place after a 1970 pop festival on the Isle of Wight; ''Tedderella'' (1971), produced at the Pool Theatre, Edinburgh, then again at the [[Bush Theatre]] in London in 1973, is a one-act pantomime transposing political events in the life of British Prime Minister [[Edward Heath]] into a pantomime reminiscent of ''[[Cinderella]]''. The ugly sisters, [[Harold Wilson]] and [[Roy Jenkins]], won't let "Tedderella" (Heath) go to the [[EEC|Common Market]] Ball when the [[1970 United Kingdom general election|1970 general election]] intervenes.
+
+During this period Edgar continued to work as a full-time journalist, and even found time to do some acting with Parr's group, in parts such as the title role in ''Toad of Toad Hall'' and [[Harry Flashman|Flashman]] in [[Richard Crane (playwright)|Richard Crane]]'s adaptation of ''Tom Brown's Schooldays'' (1971).<ref name="diclit"/> Edgar's acting also ran to playing God in [[Howard Brenton]]'s ''Scott of the Antarctic'' (1971), a mock "cabaret on ice" in which Scott is confronted by the Devil on a motorbike with [[Hells Angels]] trying to stop his expedition to the [[South Pole]].<ref name="brenton">[http://www.doollee.com/PlaywrightsB/brenton-howard.html#4557 Scott of the Antarctic]-at the Playwrights Database</ref> This was staged as part of a series of events produced by Parr for which Edgar's main contribution was ''The End'', presented as a Cold War Game in the great hall at Bradford University in March 1972. On the stage, scenes in a nuclear [[submarine]] were being played out while in the hall itself [[Campaign for Nuclear Disarmament]] marchers and various political figures including [[John F. Kennedy]], [[Hugh Gaitskell]] and [[Bertrand Russell]], are spending the night in a school hall during their march to [[Aldermaston]]. Meanwhile, computer monitors permitted the audience to contribute to the action and the ending varied each evening according to the decisions made by the spectators.<ref name="diclit"/>
+
+During the early 1970s, Bradford had what ''The Guardian'' called a "burgeoning fringe scene"<ref name="guardiew"/> which included theatre companies with names like the John Bull Puncture Repair Kit and The Welfare State. Edgar was co-founder of such a group that took the name The General Will Theatre Company which specialised in a "crude and cartoonish" style of political commentary presented with generous dollops of music hall and burlesque for comedic effect. General Will took several of Edgar's works on tour including ''The National Interest'' (1971), a series of sketches showing how the mythical concept of 'The National Interest' can be used to justify sacrifices by the many on behalf of the self-interested few; ''The Rupert Show'' (1971) a one-act play set in a church during a service conducted by among others a vicar who also plays [[Superman]], [[Lord Longford]] and [[Michael Argyle (lawyer)|Judge Argyle]], the judge in the [[Oz (magazine)#UK obscenity trial and appeal|''Oz'' obscenity trial]], which the title mocks, and ''State of Emergency'' (1972), which toured with General Will and also appeared at the Edinburgh Festival and at the Royal Court Theatre Upstairs, all in 1972, was a one-act documentary with songs about industrial resistance to the Conservative government. General Will came to a halt when the only gay member of the company took exception to the heterosexual slant of the material and went on strike in mid-performance.<ref name="guardiew"/> They did, however, lead to Edgar's first foreign premiere.
+
+Shortly after the [[Bloody Sunday (1972)|Bloody Sunday]] shootings in 1972, Edgar collaborated with six friends (Tony Bicat, [[Brian Clark (writer)|Brian Clark]], [[Howard Brenton]], Francis Fuchs, [[David Hare (playwright)|David Hare]] and [[Snoo Wilson]]) who pretended to be on a walking holiday and booked an isolated country cottage for a week where they sat down and wrote a play together. They took what later came to be termed the "firing squad" approach to playwriting. In a firing squad one member of the party has a blank round, and since no member knows who this is none of them need assume responsibility for the killing. Edgar and his friends tried to write in a style as similar to the others as possible so none of them need take responsibility for his contribution to the play. The result was ''England's Ireland'' (1972), an episodic look at the history of the British in [[Northern Ireland]] with different episodes shown from different perspectives. This received its world premiere in 1972 at the hands of the Shoot Theatre Company at the Mickery Theatre, [[Amsterdam]], and later the same year transferred to the Round House Theatre in London.<ref name="guild">[http://www.writersguild.org.uk/public/008_Featurearticl/142_WGGBFeatures.html The Writers Guild] {{webarchive |url=https://web.archive.org/web/20090207173309/http://writersguild.org.uk/public/008_Featurearticl/142_WGGBFeatures.html |date=7 February 2009}}-Interviews David Edgar, 21 June 2007.</ref>
+
+By now, Edgar was receiving commissions from repertory theatres and small touring groups<ref name="doollee"/> resulting in ''Excuses Excuses'' (1972)<ref name="british"/> for the Belgrade Theatre Studio, [[Coventry]] and later revived by OpenSpace Theatre, London in 1973 and then revived as ''Fired'' (1975) by Second City Theatre Company was a debate on the motives for arson committed in protest at redundancies at a local factory;<ref name="playography"/> ''Rent or Caught in the Act'' (1972), at the Unity Theatre, London was about housing conditions for the working classes (and this was also produced at a community centre in Battersea at the request of the Wandsworth Community Workshop led by the Tenants Union, as part of the campaign in 1971–72 against the Housing Finance Bill, eventually enacted as the Housing Finance Act 1972); ''Road to Hanoi'' (1972) produced on tour by Paradise Foundry Theatre Company, London, was a ten-minute play written with Howard, Wandor and Snoo Wilson about [[Bob Hope]]'s 1971 visit to [[Hanoi]] to attempt to buy back American POWs;<ref name="guardiew"/> In 1972, Edgar decided to put the journalism to one side and took to being a playwright full-time.<ref name="doollee"/>
+
+== Gaining a reputation ==
+Lunchtime theatre is an avant-garde phenomenon that seems to exist on the fringe of the fringe and whose popularity waxes and wanes but never disappears. One series in [[Glasgow]] was scheduled for a dozen plays, but proved so popular they eventually had over a hundred.<ref name="lunchtime">[http://www.britishtheatreguide.info/articles/060108.htm British Theatre Record]-Lunchtime Theatre</ref> In London in the 1970s it had something of a renaissance at the [[Orange Tree Theatre]], at the [[Warehouse Theatre|Croydon Warehouse]] where it proved so popular they didn't bother putting on evening performances for a while, and at a gays-only lunchtime theatre club called Ambience (from which developed London's Gay Sweatshop). The Soho Polytechnic was another lunchtime theatre venue where Edgar put on a number of necessarily short plays written for office workers on their lunchbreak but which proved remarkably popular with television producers.
+
+''Backshot'' (1973), written for the Soho Polytechnic was a one-act play in which two small-time crooks are cheated of their loot whilst trying to rob broken vending machines in a motorway cafeteria. This was televised as ''Sanctuary'' by Scottish Television in 1973. ''Baby Love'' (1973) was written for Leeds Playhouse Theatre where it premiered in March 1973 then transferred to the Soho Polytechnic Lunchtime Theatre. It was a one-act play in which Eileen, after the still birth of her illegitimate baby, steals a baby at random and is sentenced to nine months in prison, where Valium is found to be the answer. This was televised by the [[BBC]] as part of their ''Play for Today'' series in November 1974, with [[Patti Love]] as Eileen.<ref name="babyloveimdb">[https://www.imdb.com/title/tt0770069/ Baby Love on TV]-at IMDb</ref> In the wake of the 1973 [[sit-in]] at the [[Triumph Engineering|Triumph]] motorcycle factory at [[Meriden, West Midlands|Meriden]] that lasted until 1976, the play, ''Events Following The Closure of a Motorcycle Factory'' was written and went on tour after debut at Birmingham Rep.<ref>Wilson, Steve, ''British Motorcycles Since 1950 (Vol 5) Triumph: The Company'', Patrick Stephens Limited (1991), {{ISBN|1-85260-021-7}}</ref><ref>http://www.doollee.com/PlaywrightsE/edgar-david.html</ref>
+
+Whilst working as a journalist in Bradford, Edgar came across a group led by an ex-conservative councillor that called itself the Yorkshire Campaign to Stop Immigration. This group apparently, "addressed many real needs and some real fears" by holding meetings at which they showed films upside down with no sound. This group later merged with the [[British National Front|National Front]] which, in 1973, won 16% of the vote at the [[West Bromwich]] by-election, at which point Edgar decided it was time to write a play about them. ''Destiny'' (1976) was the result. Edgar had wanted it to be produced in a big repertory theatre in a multi-racial city but it was instead picked up by Ron Daniels at the Royal Shakespeare Company who produced it at [[The Other Place (theatre)|The Other Place]], Stratford-upon-Avon, which Edgar described as, "a tin hut in rural Warwickshire". From there it transferred to the RSC's London home, The Aldwych Theatre, opening in May 1977 at the height of the Queen's Silver Jubilee celebrations and just after the National Front won almost 120,000 votes in London's local elections.<ref
+name="destiny">Edgar, David, [https://www.theguardian.com/stage/2005/sep/14/theatre.politicsandthearts "My fight with the Front"], ''The Guardian'', 14 September 2005.</ref>
+
+That summer, Britain was in the throes of the Queen's Silver Jubilee and West End theatre audience figures suffered as a consequence, with only two shows managing to hold their own during Jubilee week, both of which were at the Aldwych. One of them was about a mad king provoking a Civil War by dividing his kingdom between his daughters, and the other was Edgar's lightly veiled suggestion that Britain was exposed to a fascist takeover. The play was picketed by a group of neo-fascists waving union flags that echoed the patriotic bunting on the front of the theatre, and small scuffles broke out between these pickets and the emerging theatre audience.
+
+The play itself was an attempt to answer the question: How can a movement espousing the ideology that the UK had defied during the war gain purchase in postwar Britain? ''Destiny'' starts in India, on the day of independence, introducing four main characters whose lives intersect thirty years later in a small town in the English West Midlands. A British Colonel is a dying Conservative MP; a Major who is hoping to succeed him; a Sergeant who is a candidate for a far-right party and an Indian who works in a local foundry. During the election campaign a strike breaks out at the foundry and the "cosy English ritual" of a local by-election is transformed into a multi-cultural battleground which results in the fascists turning for protection and support to the forces they oppose.<ref name="destiny"/>
+
+Edgar's comparison of British fascists with German Nazis was condemned as "dishonest" by [[Peter Jenkins (journalist)|Peter Jenkins]] in ''The Guardian'',<ref name="guardiew"/> but the play won the [[John Whiting Award]], presented by the [[Arts Council England|Arts Council]] for new dramatic writing and was televised by the [[BBC]] as part of the ''Play for Today'' series in January 1978 with [[Frederick Treves (actor)|Frederick Treves]] as the Colonel, [[Nigel Hawthorne]] as the Major, [[Colin Jeavons]] as the Sergeant, and [[Saeed Jaffrey]] as Gurjeet Singh Khera.<ref name="destinyimdb">[https://www.imdb.com/title/tt0077424/ Destiny on TV]-at IMDb</ref>
+
+== ''Nickleby'' and after ==
+After his greatest success in 1980 with ''[[The Life and Adventures of Nicholas Nickleby (play)|The Life and Adventures of Nicholas Nickleby]]'' for the [[Royal Shakespeare Company]], an adaptation of [[Charles Dickens]]'s novel ''[[Nicholas Nickleby]]'', he resumed writing original plays which deal more overtly with political subjects. After the abandonment of the left by a number of public figures during the 1970s, ''Maydays'' (1983) deals with people's drift rightwards as they age. The play returned to [[The Other Place (theatre)|The Other Place]] at the [[Royal Shakespeare Company]] in September 2018.<ref>{{cite web |url=https://www.rsc.org.uk/mischief-festival/maydays/ |title=Maydays at the RSC |archive-date=17 September 2018}}</ref>
+
+Edgar wrote a trilogy of plays on the theme of negotiation set in Eastern Europe: ''[[The Shape of the Table]]'' (1990), written shortly [[Communism#Dissolution of the Soviet Union|after the collapse of the Soviet Union]]; the second part, ''[[Pentecost (play)|Pentecost]]'', set during the early 1990s, concerning the discovery of a [[mural]] in a small church; and ''[[The Prisoner's Dilemma (play)|The Prisoner's Dilemma]]'' (2001), which premiered shortly before [[September 11 attacks|11 September]].
+
+His other recent plays include ''[[Albert Speer (play)|Albert Speer]]'' (2000) and ''[[Playing with Fire (Edgar)|Playing with Fire]]'' (2005), both of which premiered at the [[Royal National Theatre]], in London. ''Albert Speer'', based on [[Gitta Sereny]]'s biography of [[Adolf Hitler]]'s chief architect, munitions minister, and friend [[Albert Speer]], and other historical biographies and documents, focuses on Speer's imprisonment, release, and personal struggle to overcome his denial of the [[Holocaust]]. ''[[Playing with Fire (Edgar play)|Playing with Fire]]'', a play about the politics of [[New Labour]], [[multiculturalism]], and ethnic tensions in the north of England, has been produced both on stage and in an adaptation for radio.<ref>[http://www.outofjoint.co.uk/prods/testingtheecho.html Testing the Echo] ([[Out of Joint]] 2008).</ref> ''Testing the Echo'' was concerned with a diverse set of characters preparing to become British citizens.
+
+In 2003 Edgar was commissioned by the [[Oregon Shakespeare Festival]], in [[Ashland, Oregon]], and the [[Berkeley Repertory Theatre]], in [[Berkeley, California]], to write ''Continental Divide'', a two-play epic about [[American politics]], which was produced at both theatres to mixed reviews. In 2011 he produced ''[[Written on the Heart]]'' for the Royal Shakespeare Company, on the translation of the [[King James Bible]].
+
+He also participated in the Bush Theatre's 2011 project ''Sixty Six'' with a piece he wrote based on a chapter of the [[King James Bible]].<ref>{{cite web |url=http://www.bushtheatre.co.uk/biography/writers/ |title=Archived copy |access-date=19 June 2012 |url-status=dead |archive-url=https://web.archive.org/web/20110704090950/http://www.bushtheatre.co.uk/biography/writers/ |archive-date=4 July 2011}}</ref>
+
+== Personal life ==
+Edgar married the social activist Eve Brook in 1979; she died of lung cancer aged 53 in 1998.<ref>Edgar, David, [https://www.theguardian.com/theguardian/1999/feb/23/features11.g2 "'She woke just after two, flurried and fought a little, and then died'"], ''The Guardian'', 23 February 1999. Retrieved 18 April 2009.</ref> In 1999, he met fellow dramatist Stephanie Dale. In 2007 they wrote together ''[[A Time to Keep]]'', a play for large cast based on a story by Dale.<ref name="guardiew"/>
+
+== Political views ==
+In December 2019, along with 42 other leading cultural figures, Edgar signed a letter endorsing the [[Labour Party (UK)|Labour Party]] under [[Jeremy Corbyn]]'s leadership in the [[2019 United Kingdom general election|2019 general election]]. The letter stated that "Labour's election manifesto under Jeremy Corbyn's leadership offers a transformative plan that prioritises the needs of people and the planet over private profit and the vested interests of a few."<ref name="theguardian1">{{cite news |url=https://www.theguardian.com/politics/2019/dec/03/vote-for-hope-and-a-decent-future|title= Vote for hope and a decent future |work=[[The Guardian]]|date=3 December 2019|access-date=4 December 2019}}</ref><ref name="theguardian2">{{cite news |last=Proctor|first=Kate|url=https://www.theguardian.com/politics/2019/dec/03/coogan-klein-lead-cultural-figures-backing-corbyn-labour|title=Coogan and Klein lead cultural figures backing Corbyn and Labour|work=[[The Guardian]]|date=3 December 2019|access-date=4 December 2019}}</ref>
+
+== Selected playography ==
+*''Two Kinds Of Angel'' (1970)
+*''A Truer Shade Of Blue'' (1970)
+*''Bloody Rosa'' (1971)
+*''Still Life: Man In Bed'' (1971)
+*''Acid'' (1971)
+*''Tedderella'' (1971)
+*''The National Interest'' (1971)
+*''The Rupert Show'' (1971)
+*''Conversation in Paradise'' (1971)
+*''The End'' (1972)
+*''Death Story'' (1972)
+*''State of Emergency'' (1972)
+*''England’s Ireland'' (1972)
+*''Excuses, Excuses aka. Fired'' (1972)
+*''Rent or Caught in the Act'' (1972)
+*''Road to Hanoi'' (1972)
+*''Not With A Bang But A Whimper'' (1972)
+*''Backshot'' (1973)
+*''Baby Love'' (1973)
+*''The Eagle Has Landed'' (1973)
+*''A Fart For Europe'' (1973)
+*''Gangsters'' (1973)
+*''The Case of the Workers’ Plane'' (1973)
+*''Liberated Zone'' (1973)
+*''Operation Iskra'' (1973)
+*''Man Only Dines'' (1974)
+*''The Show'' (1974)
+*''Dick Deterred'' (1974)
+*''The Dunkirk Spirit'' (1974)
+*''I Know What I Meant'' (1974) [TV]
+*''Ball Boys'' (1975)
+*''Blood Sports'' (1975)
+*''O Fair Jerusalem'' (1975)
+*''The National Theatre'' (1975)
+*''Summer Sports'' (1975)
+*''Events Following the Closure of a Motorcycle Factory'' (1976)
+*''Saigon Rose'' (1976)
+*''The Perils of Bardfrod'' (1976)
+*''Ten Years On'' (1976)
+*''Destiny'' (1976)
+*''Wreckers'' (1977)
+*''Our Own People'' (1977)
+*''Ecclesiastes'' (1977) [radio]
+*''The Jail Diary of Albie Sachs'' (1978)
+*''Mary Barnes'' (1979)
+*''Teendreams'' (1979)
+*''[[The Life and Adventures of Nicholas Nickleby (play)|The Life and Adventures of Nicholas Nickleby]]'' (1980)
+*''Maydays'' (1983)
+*''Entertaining Strangers'' (1985)
+*''That Summer'' (1987)
+*''Midas Connection'' (1989)
+*''Heartlanders'' (1989)
+*''Vote for Them'' (1989) [TV]
+*''[[The Shape of the Table]]'' (1990)
+*''The Strange Case of Dr. Jekyll and Mr. Hyde'' (1991)
+*''Buying a Landslide'' (1992)
+*''A Movie Starring Me'' (1991) [radio]
+*''[[Pentecost (play)|Pentecost]]'' (1994)
+*''Citizen Locke'' (1994) [TV]
+*''Talking to Mars'' (1996) [radio]
+*''Dirty Tickets'' (1998)
+*''[[Albert Speer (play)|Albert Speer]]'' (2000)
+*''The Secret Parts'' (2000) [radio]
+*''[[The Prisoner's Dilemma (play)|The Prisoner's Dilemma]]'' (2001)
+*''Continental Divide'' (2003)
+*''Daughters of the Revolution'' (2003)
+*''Mothers Against'' (2003)
+*''[[Playing with Fire (Edgar play)|Playing with Fire]]'' (2005)
+*''Something Wrong About the Mouth'' (2007) [radio]
+*''Testing the Echo'' (2008)
+*''[[A Time to Keep]]'' (2009)
+*''Black Tulips'' (2009)
+*''Arthur and George'' (2010)
+*''[[Written on the Heart]]'' (2011)
+*''If Only'' (2013)
+*''[[Adaptations of A Christmas Carol|A Christmas Carol]]'' (2017)
+*''Trying It On'' (2018) [also performer]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+*{{British council|id=david-edgar|name= David Edgar}}
+*View a segment on David Edgar and "Continental Divide" at [http://www.kqed.org/arts/people/spark/profile.jsp?id=4216 KQED's Spark]
+*{{IMDb name|id=0249201|name=David Edgar}}
+*[https://web.archive.org/web/20090201085517/http://britishtheatreguide.info/index.htm British Theatre Guide]
+<!-- Goes above DEFAULTSORT/Categories -->
+
+{{Portalbar|Theatre}}
+{{John Whiting Award}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Edgar, David}}
+[[Category:1948 births]]
+[[Category:Living people]]
+[[Category:Alumni of the University of Manchester]]
+[[Category:Fellows of the Royal Society of Literature]]
+[[Category:20th-century British writers]]
+[[Category:People educated at Oundle School]]
+[[Category:Writers from Birmingham, West Midlands]]
+[[Category:Academics of the University of Birmingham]]
+[[Category:English male dramatists and playwrights]]
+[[Category:20th-century English male writers]]
+[[Category:20th-century English dramatists and playwrights]]
+[[Category:21st-century British dramatists and playwrights]]

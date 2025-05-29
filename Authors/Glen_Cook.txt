@@ -1,0 +1,56 @@
+{{short description|American fantasy and science fiction writer}}
+{{for|the baseball player|Glen Cook (baseball)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Glen Cook
+| image       = Utos109-Glen Cook.jpg
+| caption     = Cook at [[Utopiales]] in 2011
+| pseudonyms  =
+| birth_date  = {{Birth date and age|1944|7|9}}
+| birth_place = [[New York City]], [[New York (state)|New York]], United States
+| death_date  = 
+| death_place = 
+| nationality = American
+| occupation  = Novelist
+| period      = 1970–present<ref name=isfdb/>
+| genre       = [[Science fiction]], [[fantasy]]
+| movement    =
+| notableworks = ''[[The Black Company]]''
+| debut_works =
+| website     =
+| footnotes   =
+}}
+
+'''Glen Charles Cook''' (born July 9, 1944)<ref name=isfdb/> is an American writer  of [[fantasy]] and [[science fiction]], known for ''[[The Black Company]]'' and ''[[Garrett P.I.]]'' fantasy series.
+
+==Biography==
+Cook was born in New York City.<!--immed. source is Ext link LCCN--><ref name=isfdb>[http://www.isfdb.org/cgi-bin/ea.cgi?20 "Glen Cook – Summary Bibliography"]. [[ISFDB]]. Retrieved August 2, 2014.</ref> Cook served in the United States Navy from 1962 to 1972 and specifically was attached, for a time, to a Marine Force Recon unit, the 3rd Marine Battalion.<ref>{{Cite web|title=Cook, Glen 1944– |url=https://www.encyclopedia.com/children/scholarly-magazines/cook-glen-1944|access-date=2021-04-19 |publisher=[[Encyclopedia.com]]}}</ref> During his time attached to the Force Recon Unit, Cook participated in what he called "practice combat", and left active duty, "a month before [the unit] shipped out to Viet Nam".<ref>{{Cite web|title=The SF Site: An Interview with Glen Cook|url=https://www.sfsite.com/10a/gc209.htm|access-date=2021-04-19|website=[[SF Site]]}}</ref> He later worked his way through college. Cook began to write in earnest while working for [[General Motors]] at an auto assembly plant in a job which was "hard to learn, but [involved] almost no mental effort", writing as many as three books per year.<ref>{{cite web|url=http://www.quantummuse.com/glen_cook_interview.html|title=The Glen Cook Interview|access-date=June 20, 2006 }}</ref>
+
+Cook wrote ''[[The Black Company (novel)|The Black Company]]'', a novel published by [[Tor Books|Tor Fantasy]] in May 1984. It began a gritty fantasy series of the same name (or Chronicles of the Black Company)<ref name=isfdb/> following an elite mercenary unit through several decades of its history. As of 2016, it comprises the novels published in three subseries 1984–85, 1989–90, and 1996–2000, plus recent short fiction.<ref name=isfdb/> It has become something of a cult classic, especially among current and former members of the military. When asked about the series' popularity among soldiers, Cook replied:  "The characters act like the guys actually behave. It doesn't glorify war; it's just people getting on with the job. The characters are real soldiers. They're not soldiers as imagined by people who've never been in the service. That's why service guys like it."<ref name="SH">{{cite web|url=http://www.strangehorizons.com/2005/20050117/cook-int-a.shtml|title=Strange Horizons Interview|access-date=June 20, 2006 }}</ref>   Cook is also known for his [[Garrett P.I.]] series, which tells the haphazard adventures of [[hardboiled]] [[detective]] Garrett, and his [[Dread Empire]] series.
+
+==List of works==
+{{main|List of works by Glen Cook}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikiquote}}
+* {{isfdb name|20}}
+* {{IBList|type=author|id=511|name=Glen Cook}}
+* [http://www.fantasyliterature.com/cookglen.html Novel synopses, cover art, and reviews at Fantasy Literature]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cook, Glen}}
+[[Category:1944 births]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American novelists]]
+[[Category:21st-century American short story writers]]
+[[Category:United States Navy sailors]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:American male short story writers]]
+[[Category:Living people]]

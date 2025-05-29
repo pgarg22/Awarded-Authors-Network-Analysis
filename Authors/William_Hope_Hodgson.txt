@@ -1,0 +1,362 @@
+{{Use dmy dates|date=April 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = William Hope Hodgson
+| image        = William Hope Hodgson 2.jpg
+| imagesize    =
+| caption      =
+| pseudonym    =
+| birth_name    =
+| birth_date    = {{birth date|df=yes|1877|11|15}}
+| birth_place   = Blackmore End, [[Essex]], England
+| death_date    = {{d-da|19 April 1918|15 November 1877}}<ref>https://williamhopehodgson.wordpress.com/2018/04/17/on-what-day-did-hodgson-die/</ref>
+| death_place   = [[Ypres salient]], Belgium
+| occupation   = Author, sailor, soldier
+| nationality  = British
+| ethnicity    =
+| citizenship  =
+| period       =
+| genre        = Fantasy, horror, [[weird fiction]]
+| subject      =
+| movement     =
+| notableworks = ''[[The House on the Borderland]]'', ''[[The Night Land]]''
+| spouse       = {{marriage|Betty Farnworth|26 February 1913|April 1918|reason=his death}}
+| relatives    =
+| influences   =
+| influenced   = 
+| awards       =
+| signature    =
+| portaldisp   =
+}}
+'''William Hope Hodgson''' (15 November 1877 – 19 April 1918) was an English author. He produced a large body of work, consisting of essays, short fiction, and novels, spanning several overlapping genres including [[horror fiction|horror]], [[fantasy|fantastic fiction]], and science fiction.<ref>{{cite news|author=[[E. F. Bleiler|Bleiler, E.F]] (editor)|title=William Hope Hodgson|work=Supernatural Fiction Writers|location=New York|publisher= Scribner's|date= 1985|pages=421–428|isbn= 0-684-17808-7}}</ref><ref name="dfs">{{cite book|author=Bruce, Samuel W.|title=British Fantasy and Science-Fiction Writers Before World War I|editor=Harris-Fain, Darren|location=London|publisher=Gale Research|date=1997|page=[https://archive.org/details/britishfantasysc178harr/page/121 121]|isbn=0-8103-9941-5|series=[[Dictionary of Literary Biography]]|volume=178|url-access=registration|url=https://archive.org/details/britishfantasysc178harr/page/121}}</ref><ref name="ea">Alder, Emily. "Passing the Barrier or Life: Spiritualism, Psychical Research and Boundaries in William Hope Hodgson's "The Night Land"". in Ramone, Jenni and Twitchen, Gemma, eds. ''Boundaries''. Newcastle: Cambridge Scholars Publishing, 2007. {{ISBN|9781847181794}} (pp. 120-139).</ref><ref name="bs">[[Brian Stableford|Stableford, Brian]], "Hodgson, William Hope", in [[David Pringle|Pringle, David]] ed., ''St. James Guide to Horror, Ghost & Gothic Writers''. London: St. James Press, 1998. {{ISBN|1558622063}} (pp. 273-275).</ref> Hodgson used his experiences at sea to lend authentic detail to his short horror stories, many of which are set on the ocean, including his series of linked tales forming the "[[Sargasso Sea Stories]]". His novels, such as ''[[The House on the Borderland]]'' (1908) and ''[[The Night Land]]'' (1912), feature more cosmic themes, but several of his novels also focus on horrors associated with the sea. Early in his writing career Hodgson dedicated effort to poetry, although few of his poems were published during his lifetime. He also attracted some notice as a photographer and achieved renown as a [[bodybuilder]]. He died in World War I at age 40.
+
+==Life==
+===Early years and life at sea===
+Hodgson was born in the hamlet of Blackmore End near [[Braintree, Essex|Braintree]] in Essex, the son of the Reverend Samuel Hodgson, an [[Anglican]] priest, and Lissie Sarah Brown. He was the second of 12 children, three of whom died in infancy.<ref name="dfs" /> The death of a child is a theme in several of Hodgson's works including the short stories [[List of stories by William Hope Hodgson#"The Valley of Lost Children"|"The Valley of Lost Children"]], [[List of stories by William Hope Hodgson#"The Sea-Horses"|"The Sea-Horses"]], and [[Carnacki#"The Searcher of the End House"|"The Searcher of the End House"]].
+
+Hodgson's father was moved frequently and served 11 different parishes in 21 years, including one in [[Ardrahan]], [[County Galway]], Ireland.<ref name="dfs" /> This setting was later featured in Hodgson's novel ''[[The House on the Borderland]]''.<ref name="dfs" /> 
+
+Hodgson ran away from his boarding school at age 13, in an effort to become a sailor. He was caught and returned to his family, but eventually received his father's permission to be apprenticed as a [[cabin boy]] and began a four-year apprenticeship in 1891.<ref name="dfs" /> Hodgson's father died shortly thereafter, of throat cancer, leaving the family impoverished; while William was away, the family subsisted largely on charity. After his apprenticeship ended in 1895, Hodgson began two years of study in [[Liverpool]] and was then able to pass the tests and receive his mate's certificate; he then began several more years as a sailor.
+
+At sea, Hodgson experienced bullying. This led him to begin a program of personal training.<ref name="daa">[[Douglas A. Anderson|Anderson, Douglas A.]] "Introduction", in ''Adrift on the haunted seas : the best short stories of William Hope Hodgson''.
+Cold Springs Harbor, NY : Cold Spring Press, 2005. {{ISBN|9781593600495}} (pp. 7-11)</ref> According to [[Sam Moskowitz]],<ref name="Moskowitz_Storm">{{cite news|author=Moskowitz, Sam|title=William Hope Hodgson|work=Out of the Storm|location= West Kingston, RI|publisher= Donald M. Grant|date= 1975}}</ref>
+
+<blockquote>The primary motivation of his body development was not health, but self-defence. His relatively short height and sensitive, almost beautiful face made him an irresistible target for bullying seamen. When they moved in to pulverize him, they would learn too late that they had come to grips with easily one of the most powerful men, pound for pound, in all England.</blockquote>
+
+The theme of bullying of an apprentice by older seamen, and revenge taken, appeared frequently in his sea stories.
+
+While away at sea, in addition to his exercises with weights and with a punching bag, Hodgson also practised his photography, taking photographs of [[aurora borealis]], cyclones, lightning, sharks, and the maggots that infested the food given to sailors. He also built up a stamp collection, practised his marksmanship while hunting, and kept journals of his experiences at sea.<ref name="dfs" /> In November 1898, he was awarded the [[Royal Humane Society]] medal for heroism for saving another sailor who, in March of the same year, had fallen from the topmast into the sea in shark-infested waters off the coast of New Zealand.<ref name="dfs" /> 
+
+===Physical culture, essays and poetry===
+In 1899, at age 22, he opened a School of Physical Culture in Ainsworth Street, [[Blackburn]], England, as "the inventor and teacher of a system that will cure indigestion". The School offered tailored exercise regimes for personal training. <ref name="hh">Kalush, William, and Sloman, Larry. ''The Secret Life of Houdini : the Making of America's First Superhero''.  London : Simon & Schuster, Limited, 2008. {{ISBN|9781847396198}} (pp. 143-146). </ref> Among his customers were members of the Blackburn police force. In 1902, Hodgson himself appeared on stage with handcuffs and other restraining devices supplied by the Blackburn police department and applied the restraints to [[Harry Houdini]], who had previously escaped from the Blackburn jail.<ref name="hh" /> His behavior towards Houdini generated controversy; the escape artist had some difficulty removing his restraints, complaining that Hodgson had deliberately injured him and jammed the locks of his handcuffs.<ref name="hh" />
+
+Hodgson was not shy of publicity, and in another notable stunt, rode a bicycle down a street so steep that it had stairs, an event written up in the local paper. Despite his reputation, he eventually found that he could not earn a living running his personal training business, which was seasonal in nature, and shut it down. He began instead writing articles such as "Physical Culture versus Recreative Exercises" (published in 1903). One of these articles, "Health from Scientific Exercise", featured photographs of Hodgson himself demonstrating his exercises. The market for such articles seemed to be limited, however; so, inspired by authors such as [[Edgar Allan Poe]], [[H. G. Wells]], [[Jules Verne]] and [[Arthur Conan Doyle]],<ref name="wisker">{{cite book|author=Wisker, Gina|title=Horror fiction: An Introduction|publisher=Continuum International Publishing Group|date= 2005|isbn= 0-8264-1561-X|pages= 75–76}}</ref> Hodgson turned his attention to fiction, publishing his first short story, [[List of stories by William Hope Hodgson#"The Goddess of Death"|"The Goddess of Death"]], in 1904, followed shortly by "[[A Tropical Horror]]" (1905). He also contributed to an article in ''[[The Grand Magazine]]'', taking the "No" side in a debate on the topic "Is the Mercantile Navy Worth Joining?" In this piece, Hodgson laid out in detail his negative experiences at sea, including facts and figures about salaries. This led to a second article in ''[[The Nautical Magazine]]'', an exposé on the subject of apprenticeships; at the time, families often were forced to pay to have boys accepted as apprentices. Hodgson began to give paid lectures, illustrated with his photography in the form of colorized slides, about his experiences at sea.
+
+Although he wrote a number of poems, only a handful were published during his lifetime; several, such as "[[Madre Mia]]" (1907), appeared as dedications to his novels. Apparently cynical about the prospects of publishing his poetry, in 1906 he published an article in ''The Author'' magazine, suggesting that poets could earn money by writing inscriptions for tombstones. Many of his poems were published by his widow in two posthumous collections, but some 48 poems were not published until their appearance in the collection ''The Lost Poetry of William Hope Hodgson'' (2005).
+
+===Career in fiction, and marriage===
+Hodgson's first short story was "The Goddess of Death" (1904), in which he utilised a statue of Flora which stood in [[Corporation Park, Blackburn]], as the focus of a tale in which a Hindu statue, seized from an Indian temple, stood in a small English town. The statue comes alive to take its revenge on the people who stole it. ''The Royal Magazine'' published the story in April 1904.
+
+In 1906, the American magazine ''The Monthly Story Magazine'' published [[William Hope Hodgson's Sargasso Sea Stories#"From the Tideless Sea Part One"|"From the Tideless Sea"]], the first of Hodgson's [[Sargasso Sea]] stories. Hodgson continued to sell stories to American magazines as well as British magazines for the remainder of his career, carefully managing the rights to his work in order to maximize his remuneration.<ref name="bs" />
+
+While he still lived with his mother in relative poverty, his first published novel, ''[[The Boats of the "Glen Carrig"]]'', appeared in 1907, to positive reviews. Hodgson also published "[[The Voice in the Night]]" the same year, as well as [[List of stories by William Hope Hodgson#"Through the Vortex of a Cyclone"|"Through the Vortex of a Cyclone"]], a realistic story inspired by Hodgson's experiences at sea and illustrated with tinted slides made from his own photographs; Hodgson had previously used these slides to illustrate a "lantern lecture" entitled "Through the Heart of a Cyclone", which he had given at the Trinity Wesleyan School in Montague Street, Blackburn, on 16 November 1906. Hodgson also explored the subject of ships and cyclones in his story [[List of stories by William Hope Hodgson#"The Shamraken Homeward-Bounder"|"The Shamraken Homeward-Bounder"]] (1908). Also in 1908, Hodgson published his second novel, ''[[The House on the Borderland]]'', again to positive reviews, as well as an unusual satirical science fiction story, [[List of stories by William Hope Hodgson#"Date 1965: Modern Warfare"|"Date 1965: Modern Warfare"]], a [[Swiftian]] satire in which it is suggested that war should be carried out by men fighting in pens with knives, and the corpses carefully salvaged for food, although in letters to the editor published at the time, Hodgson expressed strong patriotic sentiments.
+
+In 1909, he published [[List of stories by William Hope Hodgson#"Out of the Storm"|"Out of the Storm"]], a short horror story about "the death-side of the sea", in which the protagonist drowning in a storm rants about the horrors of a storm at sea.<ref name="bs" /> According to Moskowitz,
+
+<blockquote>"This story proved an emotional testament beyond all other evidence. Hodgson, whose literary success would be in a large measure based on the impressions he received at sea, actually hated and feared the waters with an intensity that was the passion of his life."<ref name="Moskowitz_Storm"/></blockquote>
+
+Also in 1909, Hodgson published another novel, ''[[The Ghost Pirates]]''. In the foreword, he wrote that it
+
+<blockquote>"... completes what, perhaps, may be termed a trilogy; for, though very different in scope, each of the three books deals with certain conceptions that have an elemental kinship. With this book, the author believes that he closes the door, so far as he is concerned, on a particular phase of constructive thought."</blockquote>
+
+''[[The Bookman (London)|The Bookman]]'' magazine in its review of the novel in 1909 concluded with the comment:
+
+<blockquote>"We can only hope that Mr. Hodgson may be induced to reconsider his decision, for we know of nothing like the author's previous work in the whole of present-day literature."</blockquote>
+
+Despite the critical success of his novels, Hodgson remained relatively poor. To try to bolster his income from short story sales, he began working on the first of his recurring characters, Thomas [[Carnacki]], featured in several of his most famous stories and partly inspired by [[Algernon Blackwood]]'s occult detective [[John Silence]].<ref name="wisker"/> The first of these, [[Carnacki#"The Gateway of the Monster"|"The Gateway of the Monster"]], was published in ''[[The Idler (1892–1911)|The Idler]]'' (1910). In 1910, Hodgson also published [[List of stories by William Hope Hodgson#"The Captain of the Onion Boat"|"The Captain of the Onion Boat"]], an unusual story that combines a nautical tale and a romance. He continued to publish many stories and non-fiction pieces, occasionally resorting to the use of recycled plot elements and situations, sometimes to the annoyance of his publishers.
+
+His last novel to see publication, ''[[The Night Land]]'', was published in 1912, although it likely had its genesis a number of years earlier.<ref name="bs" /> Hodgson also worked on a 10,000-word novelette version of the novel, now known as ''[[The Dream of X]]'' (1912). He continued to branch out into related genres, publishing [[List of stories by William Hope Hodgson#"Judge Barclay's Wife"|"Judge Barclay's Wife"]], a [[Western (genre)|Western]] adventure, in the United States, as well as several non-supernatural mystery stories and the science fiction story "[[The Derelict (Hodgson)|The Derelict]]" (1912), and even war stories (several of the [[Captain Gault]] tales feature wartime themes).
+
+In 1912, Hodgson married Betty Farnworth, known also as Bessie, a girl from [[Cheadle Hulme]] and a staff member who wrote the "agony" column for the women's magazine ''Home Notes''. Both were 35. She gave up her job after they married on 26 February 1913, in the London borough of Kensington. They moved to the south of France and took up residence there, owing in part to the low cost of living. Hodgson began a work entitled "Captain Dang (An account of certain peculiar and somewhat memorable adventures)" and continued to publish stories in multiple genres, although financial security continued to elude him. When war broke out in Europe, the Hodgsons returned to England.
+
+===Later life, World War I experience and death===
+Hodgson joined the University of London's [[Officers' Training Corps]]. Refusing to have anything to do with the sea despite his experience and [[Third Mate]]'s certificate, he received a commission as a lieutenant in the [[Royal Artillery]]. In 1916, he was thrown from a horse and suffered a broken jaw and a serious head injury; he received a mandatory discharge, and returned to writing.
+
+Refusing to remain on the sidelines, Hodgson recovered sufficiently to re-enlist. His published articles and stories from the time reflect his experience in war. He was killed by the direct impact of an artillery shell at the [[Battle of the Lys (1918)|Fourth Battle of Ypres]] in April 1918; sources suggest either the 17th or 19th.<ref name="bs" /> He was eulogized in ''[[The Times]]'' on 2 May 1918. The American magazine ''[[Adventure (magazine)|Adventure]]'', to which Hodgson had contributed fiction, also ran an obituary which reprinted a clipping from his widow, describing how Hodgson led a group of
+[[Non-commissioned officer|NCOs]] to safety under heavy fire.<ref>{{cite book|author=Jones, Robert Kenneth|title=The Lure of "Adventure"|publisher=Starmont House|date=1989|pages= 8–9|isbn= 1-55742-142-0}}</ref>
+
+==Most famous works==
+Hodgson is most widely known for two works. ''[[The House on the Borderland]]'' (1908) is a novel of which [[H. P. Lovecraft]], in his long essay "[[Supernatural Horror in Literature]]", wrote "but for a few touches of commonplace sentimentality [it] would be a classic of the [[first water]]".<ref name="HPL">{{cite web |url=http://gaslight.mtroyal.ca/superhor.htm |title=Archived copy |access-date=2010-03-10 |url-status=dead |archive-url=https://web.archive.org/web/20091012165932/http://gaslight.mtroyal.ca/superhor.htm |archive-date=12 October 2009 |df=dmy-all }}</ref> ''[[The Night Land]]'' (1912) is a much longer novel, written in an archaic style and expressing a sombre vision of a sunless far-future world; Lovecraft described it as "one of the most potent pieces of macabre imagination ever written".<ref name="HPL" /> These works both contain elements of science fiction, although they also partake of [[Horror fiction|horror]] and the [[occult]]. According to critical consensus, in these works, despite his often laboured and clumsy language, Hodgson achieves a deep power of expression which focuses on a sense not only of terror but as well of the ubiquity of ''potential'' terror, of the thinness of the invisible boundary between the world of normality and an underlying, unaccountable reality for which humans are not suited.
+
+''[[The Ghost Pirates]]'' (1909) has less of a reputation than ''The House on the Borderland'', but is an effective seafaring horror story of a ship attacked and ultimately dragged down to its doom by supernatural creatures. The book purports to be the spoken testimony of the sole survivor, and the style lacks the pseudo-[[archaism]] which makes ''[[The Boats of the "Glen Carrig"]]'' (1907) and ''The Night Land'' tedious reading for many.
+
+Hodgson is also known for his short stories featuring recurring characters: the "detective of the occult" [[Carnacki|Thomas Carnacki]], and the smuggler [[Captain Gault]]. The Carnacki story [[Carnacki#"The Whistling Room"|"The Whistling Room"]] has been reprinted in numerous anthologies, including collections introduced by [[Alfred Hitchcock]]. Hodgson's single most famous short story is probably "[[The Voice in the Night]]" (1907), which has been adapted for film twice. Another story regarded highly by critics is [[List of stories by William Hope Hodgson#"The Shamraken Homeward-Bounder"|"The Shamraken Homeward-Bounder"]].
+
+Hodgson's work is said to have had an influence on H.P. Lovecraft, even though Lovecraft did not read his works until 1934. In a 2009 essay, [[China Miéville]] traces the origin of "the tentacle" as an object of horror to Hodgson's ''[[The Boats of the "Glen Carrig"]]'', but the motif had already been used by [[M. R. James]] in "[[Count Magnus]]", which Lovecraft first read shortly before employing the motif.
+
+==Literary influence==
+After his death, Hodgson's work was largely forgotten. In the 1930s, however, Hodgson's supernatural fiction was anthologised in both Colin de la Mare's ''They Walk Again'' (1931) and [[Dennis Wheatley]]'s ''A Century of Horror Stories'' (1935); this began a revival of interest in Hodgson's work.<ref name="dfs" /> 
+
+Hodgson's work was inspirational to many science fiction and fantasy writers. In Britain, [[Adrian Ross]], [[Olaf Stapledon]] and Dennis Wheatley were all influenced by Hodgson's work.<ref name="dfs" /><ref name="daa" /> Across the Atlantic, [[Clark Ashton Smith]]<ref>{{cite news|author=[[Darrell Schweitzer|Schweitzer, Darrell]]|title=Introduction|work=The Ghost Pirates by William Hope Hodgson|location= Rockville, MD|publisher= Wildside Press|date= 2005|page= 9|isbn=978-1-55742-409-9}}</ref> and [[Henry S. Whitehead]]<ref>{{cite news |author1=Dziemianowicz, Stefan R. (author) |title=Whitehead, Henry S(t. Clair) |author2=[[David Pringle]], (editor) |work= St. James Guide to Horror, Ghost & Gothic Writers |location= London |publisher=St. James Press |date=1998 |isbn=1-55862-206-3}}</ref> were also influenced by Hodgson's writings. Modern authors who cite Hodgson as an influence include [[Iain Sinclair]],<ref>{{cite news|author1=Hogdson, William Hope|author2= Newman, Kim (editor)|title=The BFI Companion to Horror|location= London|publisher= Cassell|date= 1996|page=157|isbn=0-304-33216-X}}</ref> [[Gene Wolfe]], [[Greg Bear]], [[China Miéville]], [[Simon Clark (novelist)|Simon Clark]], [[Elizabeth Massie]], [[Tim Lebbon]], and [[Brian Keene]].
+
+==Hodgson's literary estate==
+Hodgson's widow, Bessie, worked to keep his books in print and to publish works he was not able to get published during his lifetime, including two books of poetry. After Bessie Hodgson died in 1943, Hodgson's sister Lissie took over his [[literary estate]].
+
+While the first six [[Carnacki]] stories were collected during Hodgson's lifetime, "The Haunted Jarvee" appeared posthumously in 1929, and two more Carnacki stories, "The Find" and "The Hog," were published in 1947 by [[August Derleth]]. Some critics suspected that Derleth might actually be the author of these two stories, but that theory has been discounted.{{citation needed|date=May 2015}}
+
+One [[Captain Gault]] story, "The Plans of the Reefing Bi-Plane", was not published until 1996, when it was included in the short story collection ''Terrors of the Sea''.
+
+Some of Hodgson's poems were first published in 2005, when they appeared in ''The Lost Poetry of William Hope Hodgson''.
+
+A number of other Hodgson works are reprinted for the first time since their original publication in the five-volume ''Collected Fiction of William Hope Hodgson'' series published by [[Night Shade Books]].
+
+Copyright protection has now expired on most of Hodgson's work, {{cns|date=July 2018|text=with the exception of some of the works published posthumously}}, including many of his poems.
+
+==Novels==
+*''[[The Boats of the "Glen Carrig"]]'' (1907)
+*''[[The House on the Borderland]]'' (1908)
+*''[[The Ghost Pirates]]'' (1909)
+*''[[The Night Land]]'' (1912)
+*''[[The Dream of X]]'' (1912) (a 20,000-word abridgement of the 200,000-word novel ''The Night Land'')
+*''[[The House on the Borderland and Other Novels]]'' (1946) (a posthumous collection of Hodgson's four major novels)
+*''Captain Dang'' (unfinished)
+
+===Order of writing versus order of publication===
+Sam Gafford, in his 1997 essay "Writing Backwards: The Novels of William Hope Hodgson" has suggested that Hodgson's four major novels may have been published in roughly the reverse order of their writing.<ref>{{cite web|title=Writing Backwards: The Novels of William Hope Hodgson |url=http://alangullette.com/lit/hodgson/gafford.htm |date=31 May 1997 |last=Gafford |first=Sam |access-date=2015-01-26}}</ref> If this is true, then ''[[The Night Land]]'' was Hodgson's first novel, in which he poured out his imagination at its most unbridled, and not his last. Gafford writes:
+
+<blockquote>"This concern over the order of composition of the novels may seem of little importance until we consider the implications toward Hodgson's work overall. .. in effect, Hodgson moved away from ''TNL''’s quasi-science fiction scenario (which contained an astounding number of original conceptions) and toward ''BoGC''’s more basic adventure slant."</blockquote>
+
+If we accept Gafford's thesis, then Hodgson actually wrote ''[[The Boats of the "Glen Carrig"]]'' last, and it benefits from the modernization of style to the point where it is Hodgson's most accessible novel:
+
+<blockquote>"When he finishes the group with ''BoGC'', Hodgson has managed to rid himself of these affectations of style and produces a book written in a flat but serviceable tone. With each book, Hodgson learns better control of language and more writing savvy and eventually begins to develop his own voice."</blockquote>
+
+But despite the excessively archaic prose style, which does make them less approachable, it is actually Hodgson's earlier works that are considered masterpieces today. And as Gafford says:
+
+<blockquote>"...we can only wonder what wonderfully imaginative excesses like ''The Night Land'' may have been lost because of an unappreciative public."</blockquote>
+
+==Short stories==
+===Miscellaneous stories===
+''Note'': the following list of stories is based on the five-volume ''Collected Fiction of William Hope Hodgson'' published by [[Night Shade Books]], completed in late 2006. The list includes details of first publication, where known.
+*[[List of stories by William Hope Hodgson#"The Goddess of Death"|"The Goddess of Death"]]. ''[[Royal Magazine]]'', 1904
+*"The Valley of Lost Children". Cornhill Magazine, February 1906
+*[[List of stories by William Hope Hodgson#"Terror of the Water-Tank"|"Terror of the Water-Tank"]]. ''[[Blue Book (magazine)|The Blue Book]]'', 1907
+*[[List of stories by William Hope Hodgson#"Bullion"|"Bullion"]]. ''Everybody's Weekly'', 1911
+*[[List of stories by William Hope Hodgson#"The Mystery of the Water-Logged Ship"|"The Mystery of the Water-Logged Ship"]]. ''Grand Magazine'', 1911
+*[[List of stories by William Hope Hodgson#"The Ghosts of the Glen Doon"|"The Ghosts of the ''Glen Doon''"]]. ''The Red Magazine'', 1911
+*[[List of stories by William Hope Hodgson#"''My House Shall Be Called the House of Prayer''"|"My House Shall Be Called the House of Prayer"]]. Cornhill Magazine, February 1911
+*[[List of stories by William Hope Hodgson#"Mr. Jock Danplank"|"Mr. Jock Danplank"]]. ''The Red Magazine'', 1912
+*[[List of stories by William Hope Hodgson#"The Mystery of Captain Chappel"|"The Mystery of Captain Chappel"]]. ''The Red Magazine'', 1917
+*[[List of stories by William Hope Hodgson#"The Home-Coming of Captain Dan"|"The Home-Coming of Captain Dan"]]. ''The Red Magazine'', 1918
+*[[List of stories by William Hope Hodgson#"Merciful Plunder"|"Merciful Plunder"]] (first published in 1925 in ''[[Argosy (magazine)|Argosy-Allstory Weekly]]'')
+*[[List of stories by William Hope Hodgson#"The Haunting of the Lady Shannon"|"The Haunting of the ''Lady Shannon''"]] (''Out of the Storm'', 1975)
+*[[List of stories by William Hope Hodgson#"The Heathen's Revenge"|"The Heathen's Revenge"]] (first published in a chapbook as "The Way of the Heathen", 1988)
+*"[[A Tropical Horror]]" (first published in 1905)
+*"[[The Voice in the Night]]" (first published in 1907)
+*"[[The Derelict (Hodgson)|The Derelict]]" (first published in 1912)
+*"Eloi Eloi Lama Sabachthani" (first published as "[[The Baumoff Explosive]]" in 1919)
+*[[List of stories by William Hope Hodgson#"The Shamraken Homeward-Bounder"|"The Shamraken Homeward-Bounder"]]
+*[[List of stories by William Hope Hodgson#"Out of the Storm"|"Out of the Storm"]]
+*[[List of stories by William Hope Hodgson#"The Albatross"|"The Albatross"]]
+*[[List of stories by William Hope Hodgson#"The 'Prentices' Mutiny"|"The 'Prentices' Mutiny"]]
+*[[List of stories by William Hope Hodgson#"The Island of the Crossbones"|"The Island of the Crossbones"]]
+*[[List of stories by William Hope Hodgson#"The Stone Ship"|"The Stone Ship"]]
+*[[List of stories by William Hope Hodgson#"The Regeneration of Captain Bully Keller"|"The Regeneration of Captain Bully Keller"]]
+*[[List of stories by William Hope Hodgson#"The Mystery of Missing Ships"|"The Mystery of Missing Ships"]]
+*[[List of stories by William Hope Hodgson#"We Two and Bully Dunkan"|"We Two and Bully Dunkan"]]
+*[[List of stories by William Hope Hodgson#"The Haunted Pampero"|"The Haunted Pampero"]]
+*[[List of stories by William Hope Hodgson#"The Real Thing: 'S.O.S.'"|"The Real Thing: 'S.O.S.'"]]
+*[[List of stories by William Hope Hodgson#"Jack Grey, Second Mate"|"Jack Grey, Second Mate"]]
+*[[List of stories by William Hope Hodgson#"The Smugglers"|"The Smugglers"]]
+*[[List of stories by William Hope Hodgson#"In the Wailing Gully"|"In the Wailing Gully"]]
+*[[List of stories by William Hope Hodgson#"The Girl with the Grey Eyes"|"The Girl with the Grey Eyes"]]
+*[[List of stories by William Hope Hodgson#"Kind, Kind and Gentle is She"|"Kind, Kind and Gentle Is She"]]
+*[[List of stories by William Hope Hodgson#"A Timely Escape"|"A Timely Escape"]]
+*[[List of stories by William Hope Hodgson#"The Homecoming of Captain Dan"|"The Homecoming of Captain Dan"]]
+*[[List of stories by William Hope Hodgson#"On the Bridge"|"On the Bridge"]]
+*[[List of stories by William Hope Hodgson#"Through the Vortex of a Cyclone"|"Through the Vortex of a Cyclone"]]. Cornhill Magazine, November 1906
+*[[List of stories by William Hope Hodgson#"A Fight with a Submarine"|"A Fight with a Submarine"]]
+*[[List of stories by William Hope Hodgson#"In the Danger Zone"|"In the Danger Zone"]]
+*[[List of stories by William Hope Hodgson#"Old Golly"|"Old Golly"]]
+*[[List of stories by William Hope Hodgson#"Demons of the Sea"|"Demons of the Sea"]]. ''Sea Stories'', 1923. Edited and renamed "The Crew of the Lancing" for ''Over the Edge'' (1964), edited by [[August Derleth]]. 
+*[[List of stories by William Hope Hodgson#"The Wild Man of the Sea"|"The Wild Man of the Sea"]]
+*[[List of stories by William Hope Hodgson#"The Habitants of Middle Islet"|"The Habitants of Middle Islet"]]
+*[[List of stories by William Hope Hodgson#"The Riven Night"|"The Riven Night"]]
+*[[List of stories by William Hope Hodgson#"The Heaving of the Log"|"The Heaving of the Log"]]
+*[[List of stories by William Hope Hodgson#"The Sharks of the St. Elmo"|"The Sharks of the St. Elmo"]]
+*[[List of stories by William Hope Hodgson#"Sailormen"|"Sailormen"]]
+*[[List of stories by William Hope Hodgson#"By the Lee"|"By the Lee"]]
+*[[List of stories by William Hope Hodgson#"The Captain of the Onion Boat"|"The Captain of the Onion Boat"]]
+*[[List of stories by William Hope Hodgson#"The Sea-Horses"|"The Sea-Horses"]]
+*[[List of stories by William Hope Hodgson#"The Valley of Lost Children"|"The Valley of Lost Children"]]
+*[[List of stories by William Hope Hodgson#"Date 1965: Modern Warfare"|"Date 1965: Modern Warfare"]]
+*[[List of stories by William Hope Hodgson#"Judge Barclay's Wife"|"Judge Barclay's Wife"]]
+*[[List of stories by William Hope Hodgson#"How the Honorable Billy Darrell Raided the Wind"|"How the Honorable Billy Darrell Raided the Wind"]]
+*[[List of stories by William Hope Hodgson#"The Friendship of Monsieur Jeynois"|"The Friendship of Monsieur Jeynois"]]
+*[[List of stories by William Hope Hodgson#"The Inn of the Black Crow"|"The Inn of the Black Crow"]]
+*[[List of stories by William Hope Hodgson#"What Happened in the Thunderbolt"|"What Happened in the Thunderbolt"]]
+*[[List of stories by William Hope Hodgson#"How Sir Jerrold Treyn Dealt with the Dutch in Caunston Cove"|"How Sir Jerrold Treyn Dealt with the Dutch in Caunston Cove"]]
+*[[List of stories by William Hope Hodgson#"Jem Binney and the Safe at Lockwood Hall"|"Jem Binney and the Safe at Lockwood Hall"]]
+*[[List of stories by William Hope Hodgson#"Diamond Cut Diamond with a Vengeance"|"Diamond Cut Diamond with a Vengeance"]]
+*[[List of stories by William Hope Hodgson#"The Room of Fear"|"The Room of Fear"]]
+*[[List of stories by William Hope Hodgson#"The Promise"|"The Promise"]]
+
+===Sargasso Sea stories===
+{{Main|Sargasso Sea Stories (William Hope Hodgson) }}
+
+*[[William Hope Hodgson's Sargasso Sea Stories#"From the Tideless Sea Part One"|"From the Tideless Sea Part One"]]. ''Monthly Story Magazine'', 1906
+*[[William Hope Hodgson's Sargasso Sea Stories#"From the Tideless Sea Part Two: Further News of the Homebird"|"From the Tideless Sea Part Two: Further News of the ''Homebird''"]]. ''The Blue Book Magazine'', 1907
+*[[William Hope Hodgson's Sargasso Sea Stories#"The Mystery of the Derelict"|"The Mystery of the Derelict"]]. ''The Story-teller'', 1907
+*[[William Hope Hodgson's Sargasso Sea Stories#"The Thing in the Weeds"|"The Thing in the Weeds"]]. ''The Story-teller'', 1912. Expanded as "An Adventure of the Deep Waters" in the magazine ''[[Short Stories (magazine)|Short Stories]]'', 1916.
+*[[William Hope Hodgson's Sargasso Sea Stories#"The Finding of the Graiken"|"The Finding of the ''Graiken''"]]. ''The Red Magazine'', 1913
+*[[William Hope Hodgson's Sargasso Sea Stories#"The Call in the Dawn"|"The Call in the Dawn"]]. ''Premier Magazine'', 1920, as ''The Voice in the Dawn''
+
+===Carnacki stories===
+*[[Carnacki#"The Thing Invisible"|"The Thing Invisible"]]. ''The New Magazine'', MONTH UNKNOWN, 1912
+*[[Carnacki#"The Gateway of the Monster"|"The Gateway of the Monster"]]. ''The Idler'', January 1910
+*[[Carnacki#"The House Among the Laurels"|"The House Among the Laurels"]]. ''The Idler'', February 1910
+*[[Carnacki#"The Whistling Room"|"The Whistling Room"]]. ''The Idler'', March 1910
+*[[Carnacki#"The Horse of the Invisible"|"The Horse of the Invisible"]]. ''The Idler'', April 1910
+*[[Carnacki#"The Searcher of the End House"|"The Searcher of the End House"]]. ''The Idler'', June 1910
+*[[Carnacki#"The Haunted Jarvee"|"The Haunted ''Jarvee''"]]. ''The Premier Magazine'', MONTH UNKNOWN, 1929
+*[[Carnacki#"The Find"|"The Find"]] (first published in 1947 as part of the ''Carnacki the Ghost Finder'' collection)
+*[[Carnacki#"The Hog"|"The Hog"]]. ''Weird Tales'', MONTH UNKNOWN, 1947
+
+===Captain Jat stories===
+*[[Captain Jat#"The Island of the Ud"|"The Island of the Ud"]]. ''The Red Magazine'', 1912
+*[[Captain Jat#"The Adventure of the Headland"|"The Adventure of the Headland"]]. ''The Red Magazine'', 1912
+
+===Captain Gault stories===
+*[[Captain Gault#"Contraband of War"|"Contraband of War"]]. ''London Magazine'', 1914
+*[[Captain Gault#"The Diamond Spy"|"The Diamond Spy"]]. ''London Magazine'', 1914
+*[[Captain Gault#"The Red Herring"|"The Red Herring"]]. ''London Magazine'', 1914
+*[[Captain Gault#"The Case of the Chinese Curio Dealer"|"The Case of the Chinese Curio Dealer"]]. ''London Magazine'', 1914
+*[[Captain Gault#"The Drum of Saccharine"|"The Drum of Saccharine"]]. ''London Magazine'', 1914
+*[[Captain Gault#"From Information Received"|"From Information Received"]]. ''London Magazine'', 1914
+*[[Captain Gault#"The German Spy"|"The German Spy"]]. ''London Magazine'', 1915
+*[[Captain Gault#"The Problem of the Pearls"|"The Problem of the Pearls"]]. ''London Magazine'', 1915
+*[[Captain Gault#"The Painted Lady"|"The Painted Lady"]]. ''London Magazine'', 1915
+*[[Captain Gault#"The Adventure of the Garter"|"The Adventure of the Garter"]]. ''London Magazine'', 1916
+*[[Captain Gault#"My Lady's Jewels"|"My Lady's Jewels"]]. ''London Magazine'', 1916
+*[[Captain Gault#"Trading with the Enemy"|"Trading with the Enemy"]]. ''London Magazine'', 1916
+*[[Captain Gault#"The Plans of the Reefing Bi-Plane"|"The Plans of the Reefing Bi-Plane"]] (not published until its inclusion in ''Terrors of the Sea'' in 1996)
+
+===D.C.O. Cargunka stories===
+*[[D.C.O. Cargunka#The Bells of the Laughing Sally|"The Bells of the Laughing Sally"]]. ''The Red Magazine'', 1914
+*[[D.C.O. Cargunka#The Adventure with the Claim Jumpers|"The Adventure with the Claim Jumpers"]]. ''The Red Magazine'', 1915
+
+===Selected short story collections===
+*''Carnacki, the Ghost-Finder'' (1913) 
+*''Men of the Deep Waters'' (1914) 
+*''The Luck of the Strong'' (1916)
+*''[[Captain Gault]], Being the Exceedingly Private Log of a Sea-Captain'' (1917)
+*''[[Carnacki, the Ghost-Finder]]'' (1947) (expanded from the 1913 edition)
+
+===Non-fiction===
+*''Health from Scientific Exercise''. Cassell's Magazine, November 1903
+*''The Magic of Kipling''. The Bookman, November 1909
+
+==Poems==
+*"Amanda Panda"
+*"Beyond the Dawning"
+*"Billy Ben"
+*"Bring Out Your Dead"
+*"The Calling of the Sea"
+*"Down the Long Coasts"
+*"Eight Bells"
+*"Grey Seas are Dreaming of My Death"
+*"The Hell! Oo! Chaunty" (appears in ''[[The Ghost Pirates]]'')
+*"I Come Again"
+*"I Have Borne My Lord a Son"
+*"Listening"
+*"Little Garments"
+*"Lost"
+*"[[Madre Mia]]" (appears as the dedication in ''[[The Boats of the "Glen Carrig"]]'')
+*"Mimosa"
+*"The Morning Lands"
+*"My Babe, My Babe"
+*"Nevermore"
+*"The Night Wind"
+*"O Parent Sea"
+*"The Pirates"
+*"[[The Place of Storms]]"
+*"Rest"
+*"The Ship"
+*"The Sobbing of the Freshwater". ''London Magazine'', 1912
+*"The Song of the Great Bull Whale". ''Grand Magazine'', 1912
+*"Song of the Ship"
+*"Speak Well of the Dead"
+*"Storm"
+*"Thou Living Sea"
+*"To My Father"
+*"The Voice of the Ocean"
+*"Shoon of the Dead" (appears in ''[[The House on the Borderland]]'')
+*"Who Make Their Bed in Deep Waters"
+
+===Poetry collections===
+* ''The Calling of the Sea'' (published posthumously by Hodgson's widow in 1920)
+* ''The Voice of the Ocean'' (published posthumously by Hodgson's widow in 1921)
+* ''Poems of the Sea'' (published in 1977 and collecting the poems from the two previously published collections)
+* ''The Lost Poetry of William Hope Hodgson'' (published in 2005, edited by Jane Frank, including 43 previously unpublished poems)
+
+==Recent publications of Hodgson's work==
+* ''[[Out of the Storm (short story collection)|Out of the Storm: Uncollected Fantasies]]'' (1975) ([[Sam Moskowitz]], ed.) The 1975 hardcover edition contains an introductory 100-page essay by Moskowitz about Hodgson's life and work; the paperback reissue lacks the essay.
+* ''[[The Haunted "Pampero"]]'' (1992) ([[Sam Moskowitz]], ed.)
+* ''Terrors of the Sea (Unpublished and Uncollected Fantasies)'' (1996) ([[Sam Moskowitz]], ed.)
+*''The Boats of the "Glen Carrig" and Other Nautical Adventures: The Collected Fiction of William Hope Hodgson Volume 1'' (2004) {{ISBN|1-892389-39-8}}
+*''The House on the Borderland and Other Mysterious Places: The Collected Fiction of William Hope Hodgson Volume 2'' (2004) {{ISBN|1-892389-40-1}}
+*''The Ghost Pirates and Other Revenants of the Sea: The Collected Fiction of William Hope Hodgson Volume 3'' (2005) {{ISBN|1-892389-41-X}}
+*''The Night Land and Other Romances: The Collected Fiction of William Hope Hodgson Volume 4'' (2005) {{ISBN|1-892389-42-8}}
+*''The Dream of X and Other Fantastic Visions: The Collected Fiction of William Hope Hodgson Volume 5'' (2009) {{ISBN|1-892389-43-6}}
+*''Adrift on The Haunted Seas: The Best Short Stories of William Hope Hodgson'' (2005) ([[Douglas A. Anderson]], ed.)
+* ''The Lost Poetry of William Hope Hodgson'' (published in 2005, edited by Jane Frank, including 43 previously unpublished poems)
+* ''The Wandering Soul: Glimpses of a Life: A Compendium of Rare and Unpublished Works'' (2005), edited by Jane Frank. This volume contains photographs, articles, and essays by and about Hodgson, including an essay on [[bodybuilding]], one of his sailing logs, and his obituary.
+
+==See also==
+*[[List of horror fiction authors]]
+
+==Notes and references==
+{{Reflist}}
+
+==Further reading==
+*{{cite book|authors=Berrutti, Massimo Berrutti, S.T. Joshi & Gafford, Sam (editors)|title=William Hope Hodgson: Voices from the Borderland: Seven Decades of Criticism on the Master of Cosmic Horror|location= NY|publisher=Hippocampus Press|date= 2014}}
+*{{cite book|author=Gafford, Sam Gafford|title=Hodgson: A Collection of Essays|location= Warren, RI|publisher= Ulthar Press|date= 2013}}
+*{{cite journal|author=[[Benjamin Szumskyj|Szumskyj, Benjamin]]|date=2009|title=Outer Monstrosities: William Hope Hodgson's 'The Hog'|journal=Wormwood|volume= 12}}
+
+==External links==
+{{wikisource author}}
+{{wikiquote}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/william-hope-hodgson}}
+* {{Gutenberg author | id=Hodgson,+William+Hope }}
+* {{FadedPage|id=Hodgson, William Hope|name=William Hope Hodgson|author=yes}}
+* {{Internet Archive author |sname=William Hope Hodgson |sopt=t}}
+* {{Librivox author |id=2513}}
+* [http://ebooks.adelaide.edu.au/h/hodgson/william_hope/ Works by William Hope Hodgson] at The University of Adelaide Library
+* [http://alangullette.com/lit/hodgson/ William Hope Hodgson]
+* [http://alangullette.com/lit/hodgson/whhbio.htm Alan Gullette, "William Hope Hodgson: Reporter from the Borderland"]
+* [http://www.forgottenfutures.com/game/ff4/ ''Carnacki the Ghost Finder'' with its original illustrations]
+* [https://archive.org/details/captaingaultbei00hodggoog ''Captain Gault; being the exceedingly private log of a sea-captain (1918)''] at Archive.org
+* [http://nightland.website/index.php/background/essays/197-an-extract-from-supernatural-horror-in-literature/ H.P. Lovecraft on Hodgson in "Supernatural Horror in Literature"]
+* [http://nightland.website/index.php/background/essays/198-h-p-lovecraft-letters-mentioning-william-hope-hodgson/ H.P Lovecraft's letters mentioning Hodgson]
+* [https://web.archive.org/web/20051020074528/http://www.thenightland.co.uk/nightbiblio.html Bibliography]
+* [https://web.archive.org/web/20060523040218/http://archive.thisislancashire.co.uk/2000/3/6/738389.html An account of the Hodgson-Houdini controversy]
+* {{isfdb name|163|name=William Hope Hodgson}}
+* {{IMDb name|0388300}}
+* {{LCAuth|n50031260|William Hope Hodgson|24|ue}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hodgson, William Hope}}
+[[Category:20th-century English novelists]]
+[[Category:English fantasy writers]]
+[[Category:English horror writers]]
+[[Category:English science fiction writers]]
+[[Category:English bodybuilders]]
+[[Category:Royal Artillery officers]]
+[[Category:British Army personnel of World War I]]
+[[Category:British military personnel killed in World War I]]
+[[Category:People from Essex]]
+[[Category:1877 births]]
+[[Category:1918 deaths]]
+[[Category:Weird fiction writers]]
+[[Category:Ghost story writers]]
+[[Category:20th-century British short story writers]]
+[[Category:English male novelists]]

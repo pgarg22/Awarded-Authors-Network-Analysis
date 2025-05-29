@@ -1,0 +1,93 @@
+{{short description|Canadian playwright, director and actor (born 1952)}}
+{{multiple issues|
+{{BLP sources|date=August 2011}}
+{{citation style|date=August 2011}}
+{{lead too short|date=July 2018}}
+}}
+
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image = 
+|imagesize = |
+|caption = 
+| name = Morris Panych
+| pseudonym =
+| birth_name = Morris Stephen Panych
+| birth_date = {{birth year and age|1952}}
+| birth_place = [[Calgary]], [[Alberta]], Canada
+| death_date =
+| death_place =
+| occupation = [[Playwright]], Director, [[Actor]]
+| nationality = [[Canadians|Canadian]]
+| period =
+| genre =
+| subject =
+| movement =
+| notableworks = 7 Stories, Vigil, The Dishwashers, Lawrence & Holloman, Girl in the Goldfish Bowl
+| partner = Ken MacDonald
+| influences =
+| influenced =
+| signature =
+| website = {{URL|kenandmorris.com}}
+}}
+
+'''Morris Stephen Panych''' (born 30 June 1952) is a [[Canadians|Canadian]] [[playwright]], [[Theatre director|director]] and [[actor]].
+
+==Early life==
+Panych was born in [[Calgary]], [[Alberta]] and grew up in [[Edmonton]], Alberta. He studied at [[Northern Alberta Institute of Technology]], and the [[University of British Columbia]].
+
+==Plays==
+*''[[The Ends of the Earth (play)|The Ends of the Earth]]'' (1994)
+*''Vigil'' (1996)<ref>{{Cite web|url=https://variety.com/2009/legit/reviews/vigil-4-1200475795/|title = Vigil|date = 30 September 2009}}</ref> (adapted for the British stage as ''Auntie and Me'')
+*''Lawrence & Holloman''
+*''[[Girl in the Goldfish Bowl]]'' (2003)
+*''Earshot''
+*''[[7 Stories]]''
+*''Dishwashers''
+*'' ''Still Laughing: Three Adaptations by Morris Panych'' (2009), Panych's adaptations of: 
+**''The Government Inspector'' by Nikolai Gogol
+**''Hotel Peccadillo'' by Georges Feydeau and Mauric Desvallières
+**''The Amorous Adventures of Anatol'' by Arthur Schnitzler
+*''The Trespassers'' (2010)
+*''Gordon'' (2011)
+*''In Absentia'' (2012)
+*''The Shoplifters'' (2014)
+*''Sextet'' (2014)
+*''[[The Waiting Room (John Mann album)|The Waiting Room]]'' (2015)<ref name=waitingroom>[https://www.straight.com/arts/550851/morris-panych-and-john-manns-waiting-room-labour-love "Morris Panych and John Mann's The Waiting Room a labour of love"]. ''[[The Georgia Straight]]'', October 7, 2015.</ref>
+
+He has directed nearly one hundred theatre and opera productions, including most of his own works, and the Prix Italia nominated ''The Overcoat'', plus several music videos and ''[[Da Vinci's Inquest]]''. He won the 1994 Governor General's Award for Drama for ''The Ends of the Earth'', and the 2004 Governor General's Award for Drama for ''Girl in the Goldfish Bowl''.
+
+In 2020 he created and wrote the web series ''[[Hey Lady!]]'', starring [[Jayne Eastwood]], for [[CBC Gem]].<ref name=simonpillai>Radheyan Simonpillai, [https://nowtoronto.com/movies/reviews/cbc-gem-hey-lady-review "TV review: Hey Lady! is a great showcase for Jayne Eastwood"]. ''[[Now (newspaper)|Now]]'', February 11, 2020.</ref>
+
+==Personal life==
+[[Coming out|Openly]] [[gay]], Panych married his longtime partner, Ken MacDonald, in 2004.<ref name="thomas">{{citation |title=Morris Panych Pens an Homage to Work |first=Colin |last=Thomas |periodical=[[The Georgia Straight]] |url=https://www.straight.com/article/morris-panych-pens-an-homage-to-work |date=February 17, 2005 |accessdate=2007-11-14}}</ref>
+
+== References ==
+{{Reflist}}
+
+== External links ==
+* {{IMDb name |id=0659926}}
+* [http://www.canadiantheatre.com/dict.pl?term=Morris%20Panych Canadian Theatre Encyclopedia entry]
+* [http://www.kenandmorris.com kenandmorris.com] Morris Panych and Ken MacDonald
+
+{{Authority control}}
+
+{{DEFAULTSORT:Panych, Morris}}
+[[Category:1952 births]]
+[[Category:20th-century Canadian dramatists and playwrights]]
+[[Category:21st-century Canadian dramatists and playwrights]]
+[[Category:Governor General's Award-winning dramatists]]
+[[Category:Living people]]
+[[Category:Canadian gay writers]]
+[[Category:Male actors from Calgary]]
+[[Category:Male actors from Edmonton]]
+[[Category:Writers from Calgary]]
+[[Category:Writers from Edmonton]]
+[[Category:LGBT dramatists and playwrights]]
+[[Category:Canadian male dramatists and playwrights]]
+[[Category:Canadian music video directors]]
+[[Category:20th-century Canadian male writers]]
+[[Category:21st-century Canadian male writers]]
+
+
+{{Canada-actor-stub}}
+{{theat-bio-stub}}

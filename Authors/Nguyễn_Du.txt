@@ -1,0 +1,94 @@
+{{Short description|Vietnamese poet (1765–1820)}}
+{{for|the 16th-century Chinese-language Vietnamese poet, author of ''Strange Tales''|Nguyễn Dữ}}
+{{family name hatnote|Nguyễn|Du|Nguyen|lang=Vietnamese}}{{Contains special characters|Vietnamese}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name             = Nguyễn Du
+| image            = Tượng đài cụ Nguyễn Du.jpg
+| image_size       = 
+| alt              = 
+| caption          = 
+| native_name      = Nguyễn Du<br />阮攸
+| native_name_lang = vi
+| birth_date       = {{birth date|1765|1|3|df=y}}
+| birth_place      = [[Hanoi|Dongkinh]],  Việt Nam
+| death_date       = {{death date and age|1820|9|18|1765|1|3|df=y}}
+| death_place      = [[Huế]],  Việt Nam
+| resting_place    = [[Nghi Xuân District|Nghi Xuân]], [[Hà Tĩnh Province|Hà Tĩnh]],  [[Names of Vietnam|Việt Nam]]
+| occupation       = [[Poet]], [[Later Lê dynasty warlord period|Lê Trung Hưng]] [[mandarin (bureaucrat)|mandarin]]
+| language         = [[Chinese language|Hanese]], [[Vietnamese language|Vietnamese]]
+| period           = 
+| genre            = <!-- or: | genres =      -->
+| subject          = <!-- or: | subjects =    -->
+| movement         = 
+| notableworks     = [[The Tale of Kiều]]
+| spouse           = <!-- or: | spouses =     -->
+| partner          = <!-- or: | partners =    -->
+| children         = 
+| relatives        = 
+| years_active     = 
+<!-- | signature_type   = [[Seal (East Asia)|Seal]] -->
+| signature        = Seal of Nguyễn Du (阮攸) from a book cover - Nhân Dân.png
+| module           =
+{{infobox Vietnamese
+|child=yes
+|title=Vietnamese name
+|vie=Nguyễn Du
+|hn={{linktext|阮|攸}}}}
+}}
+'''Nguyễn Du''' ({{vi-nom|{{linktext|阮|攸}}}}; 3 January 1766 – 16 September 1820), [[pen name]]s '''Tố Như''' ({{vi-nom|{{linktext|素|如}}}}) and '''Thanh Hiên''' ({{vi-nom|{{linktext|清|軒}}}}), is a celebrated Vietnamese poet. He is most known for writing the epic poem ''[[The Tale of Kiều]]''.<ref>Patricia M. Pelley ''Postcolonial Vietnam: New Histories of the National Past'' 2002 Page 126 "Many postcolonial critics who focused on the ''masterpiece'' of Vietnamese literature — Nguyễn Du's narrative poem The Tale of Kiều — were tempted to interpret it as a critical, allegorical reflection on the rise of the Nguyễn dynasty."</ref><ref name="Nguyễn Du">{{cite web|publisher=greatthoughtstreasury|title=Nguyễn Du|url=http://www.greatthoughtstreasury.com/author/nguyễn-du}}</ref>
+
+==Biography==
+
+===Youth===
+{{unreferenced section|date=April 2020}}
+Nguyễn Du was born in a great wealthy family in 1765 in Bích Câu, [[Thăng Long]].<ref>{{cite journal|last=Embassy of Viet-Nam|journal=Vietnam Bulletin|year=1971|volume=5-8}}</ref><ref>{{cite book|last=Dingwall|first=Alastair|title=Traveller's Literary Companion to South-East Asia|year=1994|publisher=In Print Publishing|location=the University of Michigan|isbn=9781873047255|page=202}}</ref><ref>{{cite book|last=Taus-Bolstad|first=Stacy|title=Vietnam in Pictures|year=2003|publisher=Twenty-First Century Books|page=71}}</ref> His father's name is '''Nguyễn Nghiễm''', who was born in Tiên Điền village, [[Nghi Xuân District|Nghi Xuân]], [[Hà Tĩnh Province|Hà Tĩnh]], Vietnam. He was the seventh child of Nguyễn Nghiễm, a former prime minister under the [[Lê dynasty]]. By the age of 10, Nguyễn lost his father, he also lost his mother at age 13, so for most of his teen years he lived with his brother [[Nguyễn Khản]] or with his brother-in-law Đoàn Nguyễn Tuấn.
+
+At the age of 19 (some sources say 17), Nguyễn passed the provincial examination and received the title of "tú tài" (Bachelor's degree), which made him (very roughly) the equivalent of a [[high school]] graduate. However, in Nguyễn Du's time this was a far more difficult credential to obtain both because few people were affluent enough to devote themselves to study and because of exacting standards applied.
+
+Nguyễn's mother was his father's third wife, noted for her ability at singing and composing poetry. In fact, she made her living by singing, which at that time was considered a disreputable occupation. It is said that Nguyễn may have inherited a part of his talents from his mother. He loved listening to traditional songs; and there was a rumor that, when he was 18, he himself eloped with a songstress.
+
+===Adulthood===
+{{unreferenced section|date=April 2020}}
+After passing the provincial exam, he was appointed to the position of a military advisor in the Royal (Trịnh) army. After the [[Trịnh lords]] were defeated in 1786 by [[Nguyễn Huệ]] (the second youngest, most able and popular of the three [[Tây Sơn]] brothers), Nguyễn Du refused to serve in the Tây Sơn administration. He was arrested and held for some time before moving back to his native village in the north of the country.
+
+When [[Nguyễn Ánh]] defeated the Tây Sơn and took control over all of Vietnam in 1802, Nguyễn Du agreed to serve in his administration (many mandarins from the north refused to do this as it was widely felt that a mandarin should only serve one dynasty). At first he was given his old post of military advisor but after a decade he was promoted to ambassador to China (1813). While in China, he discovered and translated the [[Ming dynasty]] era tale that would become the basis for the ''Tale of Kieu''. He was later appointed to two more diplomatic missions to [[Peking]], but before he could depart for the last one, he died of a long illness for which he refused treatment.
+
+Nguyễn's father had been a minister under the [[Lê dynasty]], and his family had benefited greatly under their rule. For most of his life, Nguyễn Du was haunted by what he felt was his own betrayal of the rightful rulers of Vietnam, which occurred when he accepted a post under the Nguyễns.
+
+==''The Tale of Kiều''==
+{{main|The Tale of Kiều}}
+''[[The Tale of Kiều]]'' (Vietnamese ''Truyện Kiều'') was based on an earlier Chinese prose narrative, ''Kim Vân Kiều''. It was written under a pen-name as the story was quite critical of the basic tenets of Confucian morality. It is a tragic tale of two lovers forced apart by the girl's loyalty to her [[family honor]]. In Vietnam, the poem is so popular and beloved that some people know the whole epic by heart and can recite it without a mistake.<ref name="Love And Sacrifice In Vietnam's National Epic">{{cite web|publisher=washingtonpost|title=Love And Sacrifice In Vietnam's National Epic|url=https://www.washingtonpost.com/archive/entertainment/books/1983/09/04/love-and-sacrifice-in-vietnams-national-epic/336540fb-5baa-454f-bf00-866837d58c13/?noredirect=on}}</ref>
+
+==Other works==
+*''Thanh Hiên thi tập'' ({{vi-nom|清軒詩集}} Poems of Thanh Hiên)
+*''Nam Trung Tạp Ngâm'' ({{vi-nom|南中雜吟}} Various Poems Made in the South)
+*''Bắc Hành Tạp Lục'' ({{vi-nom|北行雜錄}} Various Records during the Travel to the North)
+*''Văn tế thập loại chúng sinh''
+
+==Modern depiction==
+* Portrayed by [[Quách Ngọc Ngoan]] in the 2010 movie ''[[The Musician at the Dragon Citadel]]''.
+
+==Sources==
+*''Renowned Vietnamese Intellectuals prior to the 20th Century'' (essay by the Vietnamese historian Nguyen Khac Vien) published by The Gioi Publishers, 2004.
+
+==See also==
+{{Wikiquote}}
+{{Portal|Vietnam|Poetry|Politics|Biography}}
+*[[History of Vietnam]]
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+<!-- In Vietnamese, the family name comes first; the given name comes last. -->
+
+{{DEFAULTSORT:Nguyen Du}}
+[[Category:1766 births]]
+[[Category:1820 deaths]]
+[[Category:People from Hà Tĩnh Province]]
+[[Category:19th-century Vietnamese poets]]
+[[Category:Vietnamese male poets]]
+[[Category:19th-century male writers]]
+[[Category:Nguyễn dynasty writers]]
+[[Category:Tây Sơn dynasty writers]]

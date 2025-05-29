@@ -1,0 +1,62 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|  name=Charles R. Tanner |    
+|  image = Charlesrtanner1930.jpg
+|  birth_date = February 17, 1896 |
+|  birth_place = Cincinnati, Ohio |
+|  death_date = January 9, 1974 |
+|  death_place =  |
+|  occupation = Short story writer, poet |
+|  nationality = American |
+|  genre=[[horror fiction|horror]], [[fantasy]], [[science fiction]] |
+|  notes =
+}}
+'''Charles R. Tanner''' (February 17, 1896 – 9 January 1974) was an American science fiction and fantasy author who wrote in the late 1930s and early 1940s.  Tanner's first short story was "The Color of Space", published in ''[[Wonder Stories|Science Wonder Stories]]'' in 1930. Within a few years, he created his character Tumithak, who featured in three stories published during Tanner's lifetime ("Tumithak of the Corridors", "Tumithak in Shawm", and "Tumithak and the Towers of Fire") and a fourth, "Tumithak and the Ancient Word", published posthumously in 2005.
+
+During the [[Great Depression]], one of Tanner's three children died, while his wife suffered an extended hospitalization for [[tuberculosis]].<ref>"Meet the Authors", ''Amazing Stories'', June 1938, pp.&nbsp;6–7</ref>
+
+==Bibliography==
+
+*"The Color of Space" (1930)
+*"The Flight of the Mercury" (1930)
+*"Tumithak of the Corridors" (1932)
+*"Tumithak in Shawm" (1933)
+*"The Vanishing Diamonds" (1938)
+*"Out of the Jar" (1941)
+*"The Stillwell Degravitator" (1941)
+*"The Improbable" (1941)
+*"Tumithak of the Towers of Fire" (1941)
+*"Cham of the Hills" (1942)
+*"The Luck of Enoch Higgins" (1942)
+*"The Revolt of the Machine Men" (1942)
+*"Mutiny in the Void" (1943)
+*"Mr. Garfinkel and the Lepra-Cohen" (1950)
+*"Johnny Goodturn" (1950)
+*"Angus MacAuliffe and the Gowden Tooch" (1951)
+*"Tumithak and the Ancient Word" (2005)
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://tumithak.com/index.htm All of Tanner's stories at Tumithak.com]
+*[http://www.charlesrtanner.com/ Biography: "The Writings of Charles R. Tanner"]
+*{{isfdb name|id=Charles_R._Tanner}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tanner, Charles R.}}
+[[Category:1896 births]]
+[[Category:1974 deaths]]
+[[Category:American fantasy writers]]
+[[Category:American horror writers]]
+[[Category:American science fiction writers]]
+[[Category:American male poets]]
+[[Category:American male novelists]]
+[[Category:American male short story writers]]
+[[Category:20th-century American poets]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American short story writers]]
+[[Category:20th-century American male writers]]
+
+
+{{US-sf-writer-stub}}

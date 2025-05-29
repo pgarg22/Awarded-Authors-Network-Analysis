@@ -1,0 +1,199 @@
+{{Use dmy dates|date=December 2020}}
+{{Infobox person
+| name = Maria Luise Thurmair
+| image = 
+| caption = 
+| birth_name = Maria Luise Mumelter
+| birth_date = {{birth date|1912|09|27|df=y}}
+| birth_place = [[Bolzano|Bozen]], [[South Tyrol]], [[Austro-Hungarian Empire]]
+| death_date = {{death date and age|2005|10|24|1912|09|27|df=y}}
+| death_place = [[Germering]], Germany
+| education = [[University of Innsbruck]]
+| occupation = {{plainlist|
+* [[Hymnodist]]
+* Writer
+}}
+| organizations = {{plainlist|
+* [[Liturgical Movement]]
+* Commission for ''[[Gotteslob]]''
+}}
+| spouse = [[Georg Thurmair]]
+| awards = [[Pro Ecclesia et Pontifice]]
+}}
+'''Maria Luise Thurmair''' née Mumelter (27 September 1912 – 24 October 2005) was a German [[Catholic Church|Catholic]] theologian, [[hymnodist]] and writer. She contributed the lyrics of many hymns when the Catholic hymnal ''[[Gotteslob]]'' was first published in 1975.
+
+== Career ==
+Maria Luise Mumelter was born in [[Bolzano|Bozen]], [[South Tyrol]], then in the [[Austro-Hungarian Empire]],<ref name="BMLO" /> the daughter of the towns's last Austrian {{ill|Bezirkshauptmann|de}}. Due to political pressure, the family moved to [[Innsbruck]], where she earned her [[Matura]].<ref name="Negel-Täuber" /> She studied philosophy at the [[University of Innsbruck]] and attended classes in [[Liturgics]] with [[Josef Andreas Jungmann]] [[Society of Jesus|SJ]]. She wrote her doctoral thesis on [[Irene Angelina]] of Byzanz in 1936.<ref name="Negel-Täuber" /> She married [[Georg Thurmair]], a poet in [[Munich]], in 1941.
+
+Thurmair and her husband were active in the {{ill|Catholic Youth Movement|de|Katholische Jugendbewegung}} and especially in the [[Liturgical Movement]].<ref name="Gallegos Sánchez" /> She began during World War II to work for the Innsbruck hymnal ''Gotteslob'', followed by contributions to several hymnals of German dioceses, the songbooks ''Singende Gemeinde'' (Singing congregation) and ''[[Kirchenlied]]'' (Church song), a precursor of the later ''Gotteslob''.<ref name="Gallegos Sánchez" /> She translated Latin [[hymn]]s and several books. She published during the war ''Liebesgespräche im Krieg'' (Love talks during the war), a lyrical dialogue of letters including poems which she exchanged with her husband who was a soldier.<ref name="Negel-Täuber" /> It was reprinted in 1981 by Aventinus. She lectured on subjects such as faith, liturgical year, first communion and religious education. The couple had six children and lived in Munich.<ref name="Gallegos Sánchez" />
+
+From 1963, Thurmair worked on the first Catholic hymnal for German-speaking countries, ''[[Gotteslob (1975)|Gotteslob]]'' (GL), as the only woman in the commission.<ref name="Negel-Täuber" /><ref name="Kathnews" /> The first edition of 1975 included 38 of her songs, which was the highest number for one hymnwriter. Some of her hymns (or single stanzas) have also been included in the Protestant hymnal ''[[Evangelisches Gesangbuch]]'' (EG). The current ''[[Gotteslob]]'' includes 28 of her songs.
+
+She received the Papal order ''[[Pro Ecclesia et Pontifice]]''. She died in [[Germering]], near [[Munich]].<ref name="BMLO" />
+
+== Works ==
+=== Selected prose works ===
+* ''Liebesgespräche im Krieg''<ref name="Negel-Täuber" />
+* ''Fünf Paar Kinderschuhe''<ref name="Gallegos Sánchez" />
+
+=== Hymns in ''Gotteslob'' ===
+Several of her hymns appear in the current Catholic German hymnal ''[[Gotteslob]]'', and even more in its first [[Gotteslob (1975)|1975 edition]]. She wrote several lyrics for the parts of the [[Mass (liturgy)|mass]] [[Kyrie]], [[Gloria in excelsis Deo|Gloria]], [[Credo]], and many psalm songs, often on traditional melodies. Several songs are related to the occasions of the liturgical year, such as [[Advent]], [[Christmas]] and [[Pentecost]]. Other songs relate to events such as the [[Stations of the Cross]]. She wrote many ''Psalmlieder'', rephrasing [[psalms]]. The table lists the incipit, the place of the hymn in the liturgy, a model for the text, year and author of the melody in the current ''Gotteslob'' when the song appears in it, otherwise of the first edition, the year when the text was completed, the numbers in the first and current ''Gotteslob'', and notes.
+{| class="wikitable sortable" style="margin-right: 0;"
+|-
+! Incipit !! Liturgy !! Text source !! Tune  !! Year !! GL 1975 !! GL !! Note
+|-
+| Tau aus Himmelshöhn || Kyrie ||  || 1952 [[Heinrich Rohr|Rohr]] || 1952 || 103 || 158 || Advent
+|-
+| Licht, das uns erschien || Kyrie ||  || 2009 Alan Wilson || 1952 || 129 || 159 || Christmas
+|-
+| Gott des Vaters ewger Sohn || Kyrie ||  || 1952 Rohr || 1952 || 524 || 160 || 
+|-
+| Der in seinem Wort uns hält || Kyrie ||  || 1950 Rohr || 1958 || 485 || 164 || 
+|-
+| Send uns deines Geistes Kraft || Kyrie ||  || 1950 Rohr || 1952 || 246 || 165 || Pentecost
+|-
+| Christus, Gotteslamm || Kyrie ||  || 1952 Rohr || 1952 || 175 ||  || 
+|-
+| Herr Jesus, König ewiglich || Kyrie ||  || 1601 [[Johann Koler]] || 1962 || 518 ||  || 
+|-
+| Preis und Ehre Gott dem Herren || Gloria ||  || 1962 Rohr || 1971 || 486 || 171 || 
+|-
+| Herr, Gott im Himmel, dir sei Ehre || Gloria ||  || 1971 Otmar Faulstich || 1970 || 458 ||  || 
+|-
+| [[Herr, deine Güt ist unbegrenzt]] || Psalm || [[Psalm 36]] || 1525 [[Matthias Greitter|Greitter]] || 1971 || 289 || 427 || 
+|-
+| Erbarme dich, erbarm dich mein || Psalm || [[Psalm 51]] || 1562 {{nowrap|[[Caspar Ulenberg|Ulenberg]]}} || 1975 || 164 || 268 || Penitence
+|-
+| König ist der Herr || Psalm || [[Psalm 99]] || 1562 || 1971 || 275 ||  || 
+|-
+| [[Herr, dir ist nichts verborgen]] || Psalm || [[Psalm 139]] || 1562 Ulenberg || 1973 || 292 || 428 || 
+|-
+| Dich will ich rühmen, Herr und Gott || Psalm || [[Psalm 145]] || 1971 Paul Ernst Ruppel || 1971 || 274 ||  || 
+|-
+| Ihr Sonnen und Monde<br /> stanzas 2–5 for [[Erfreue dich, Himmel, erfreue dich, Erde|Erfreue dich, Himmel]] || Psalm || [[Psalm 148]] || 1669 || 1963 || 259 || 467 || 
+|-
+| Gott ist dreifaltig einer || Credo ||  || 1642 || 1943 || 489 || 354 || 
+|-
+| Dir Vater Lobpreis werde || Offertory ||  || 1562 Ulenberg || 1975 || 523 || 183 || 
+|-
+| Hoch sei gepriesen unser Gott || [[Benedictus (Song of Zechariah)|Benedictus]] ||  || 1530 || 1985 ||  || 384 || 
+|-
+| [[Den Herren will ich loben]] || Magnificat || [[Magnificat]] || 1614 [[Melchior Teschner|Teschner]] || 1972 || 261 || 395 || 
+|-
+| Tag an Glanz und Freuden groß || Christmas || Dies est laetitiae || 1320 || 1969 || 137 ||  || Paraphrase
+|-
+| Das Geheimnis lasst uns künden || [[Corpus Christi (feast)|Corpus Christi]] || [[Pange Lingua Gloriosi Corporis Mysterium|Pange Lingua]] || 1300 || 1969 || 544 ||  || Paraphrase
+|-
+| Lobe, Zion, deinen Hirten || Corpus Christi || [[Lauda Sion]] || 1300 || 1972 || 545 || 850 || Würzburg region, paraphrase
+|-
+| Komm herab, o Heilger Geist || Pentecost || [[Veni Sancte Spiritus]] || 1200 || 1971 || 244 || 344 || paraphrase, with Markus Jenny
+|-
+| [[Der Geist des Herrn erfüllt das All]] || Pentecost ||  || 1609 [[Melchior Vulpius|Vulpius]] || 1946 || 249 || 347 || 
+|-
+| Du heller Schein, du lebendig Licht<br /> stanzas 2–4 for [[Nun bitten wir den Heiligen Geist]] || Pentecost ||  || 1500 || 1994 || 248 || 348 || 
+|-
+| Komm, o Tröster, Heilger Geist || Pentecost || [[Veni Sancte Spiritus]] || 1639 || 1972 || 250 || 349 || 
+|-
+| Salve – Maria, Königin ||  || [[Salve Regina]] || 1666 || 1979 || 572 ||  || 
+|-
+| Maria, Mutter unsres Herrn ||  || [[Alma Redemptoris Mater]] || 1599 || 1969 || 577 || 530 || after an old hymn
+|-
+| [[Dank sei dir, Vater, für das ewge Leben]] ||  ||  || 1640 [[Johann Crüger|Crüger]] || 1994 || 634 || 484 || 
+|-
+| Such uns heim mit deiner Kraft<br /> stanzas 2–4 for [[Morgenglanz der Ewigkeit]] ||  ||  || 1662 [[Johann Rudolf Ahle|Ahle]] || 1975 || 668 || 84 || Morning
+|-
+| Herr, wir hören auf dein Wort ||  ||  || 1960 Heino Schubert || 1959 || 998/2 || 449 || 
+|-
+| Laßt uns den Engel preisen ||  ||  || 1614 Teschner || 1975 || 687 || 540 || Angels
+|-
+| Sieh, dein Licht will kommen ||  ||  || 1971 Markus Jenny || 1971 || 147 ||  || 
+|-
+| Du schweigst, Herr || [[Passion of Jesus|Passion]] ||  || 1965 Bertold Hummel || 1972 || 185 || 773 || Würzburg region, [[Stations of the Cross]]
+|-
+| Alles Leben ist dunkel ||  ||  || 1973 Wolfgang Menschick || 1971 || 552 ||  || 
+|-
+| Komm, Herr Jesu, komm ||  ||  || 1951 Rohr || 1973 || 568 ||  || 
+|-
+| Gelobt sei Gott in aller Welt || Apostles ||  || 1970 Erhard Quack || 1970 || 610 || 882 || Würzburg region
+|-
+| In Jubel, Herr, wir dich erheben || Martyrs ||  || 1970 Erhard Quack || 1940 || 611 ||  || 
+|-
+| Herr, sei gelobt durch deinen Knecht ||  ||  || 1940 Erhard Quack || 1970 || 612 || 880 || Würzburg region
+|-
+| Gott sei durch euch gepriesen || Virgins ||  || 1971 Erhard Quack || 1972 || 613 ||  || 
+|-
+| Sieh, dein Licht will kommen || Christmas ||  || 1971 Markus Jenny || 1971 || 147 ||  || 
+|-
+| Seht unsers Herrn Erbarmen im Tempel dagestellt ||  ||  ||  ||  || 837 || 785 || Passau region
+|-
+|}
+
+== Literature ==
+* Martin Lätzel: Thurmair-Mumelter, Maria-Luise. In: [[Biographisch-Bibliographisches Kirchenlexikon]] (BBKL), vol 27, Bautz, Nordhausen 2007, {{ISBN|978-3-88309-393-2}}.
+
+==References==
+{{Reflist
+| refs =
+
+<ref name="Gallegos Sánchez">{{cite journal
+| last = Gallegos Sánchez
+| first = Katrin
+| url = http://www.konradsblatt-online.de/html/liste/oktober.html?&tab=detail&scene=detail&m=27473&e=27557&id=96
+| title = 24. Oktober: Maria-Luise Thurmair-Mumelter
+| journal = Konradsblatt
+| publisher = [[Diocese of Freiburg]]
+| language = German
+| accessdate = 13 February 2017
+}}</ref>
+
+<ref name="Negel-Täuber">{{cite news
+| last = Negel-Täuber
+| first = Birgitta
+| url = https://www.domradio.de/nachrichten/2012-09-26/zum-100-geburtstag-der-kirchenlieddichterin-thurmair
+| title = 24. Oktober: Maria-Luise Thurmair-Mumelter / Zum 100. Geburtstag der Kirchenlieddichterin Thurmair / Der liturgischen Bewegung verpflichtet
+| publisher = Domradio
+| date = 26 September 2012
+| language = German
+| accessdate = 13 February 2017
+}}</ref>
+
+<ref name="BMLO">{{cite web
+| url = http://www.bmlo.uni-muenchen.de/t0758
+| title = Thurmair-Mumelter (Thurmayr, Thurmair, Mumelter), Maria Luise
+| work = Bayerisches Musikerlexikon Online
+| publisher = [[University of Munich]]
+| language = German
+| accessdate = 10 February 2017
+}}</ref>
+
+<ref name="Kathnews">{{cite news
+| url = http://kath.net/news/11846
+| title = Gotteslob'-Dichterin Maria Luise Thurmair verstorben
+| publisher = kath.net
+| date = 25 October 2005 | language = German
+| accessdate = 10 February 2017
+}}</ref>
+
+}}
+
+== External links ==
+* {{DNB portal|121755924}}
+* [http://informatik.uni-leipzig.de:8080/MusikerProfiling/?gnd=121755924 Profil von: Thurmair-Mumelter, Maria Luise] [[University of Leipzig]]
+* [http://www.gesangbuch-online.de/index.php?buchstabe=D&Lied=Dank+sei+dir%2C+Vater%2C+f%FCr+das+ewge+Leben Dank sei dir, Vater, für das ewge Leben] gesangbuch-online.de
+
+{{20th-century hymns in German|state=collapsed}}
+{{authority control}}
+
+{{DEFAULTSORT:Thurmair, Maria Luise}}
+[[Category:German Roman Catholic hymnwriters]]
+[[Category:German women writers]]
+[[Category:20th-century German writers]]
+[[Category:Writers from Bolzano]]
+[[Category:20th-century Austrian Roman Catholic theologians]]
+[[Category:Women Christian theologians]]
+[[Category:1912 births]]
+[[Category:2005 deaths]]
+[[Category:University of Innsbruck alumni]]
+[[Category:Women hymnwriters]]
+[[Category:20th-century women musicians]]
+[[Category:20th-century German women]]

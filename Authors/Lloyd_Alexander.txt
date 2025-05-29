@@ -1,0 +1,231 @@
+{{short description|American writer}}
+{{For|the German automobile model|Lloyd 600}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| birth_name          = Lloyd Chudley Alexander
+| image         = Lloyd Alexander.jpg
+| caption       =
+| birth_date    = {{birth date|1924|1|30|mf=y}}
+| birth_place   = [[Philadelphia]], [[Pennsylvania]], U.S.
+| death_date    = {{death date and age|2007|5|17|1924|1|30|mf=y}}
+| death_place   = [[Drexel Hill]], Pennsylvania, U.S. 
+| resting_place =
+| occupation    = Novelist
+| genre         = [[Fantasy]], [[children's literature]]
+| citizenship   =
+| education     =
+| alma_mater    = [[University of Paris]]
+| period        = 1955–2007
+| notableworks  = ''[[The Chronicles of Prydain]]'' <br>''[[Westmark (novel)|Westmark]]'' trilogy <br/>
+{{Awards
+| award   = Newbery Medal
+| year    = 1969
+| title   = The High King
+}}
+{{Awards
+| award   = National Book Award
+| year    = 1971
+| title   = The Marvelous Misadventures of Sebastian
+| year2   = 1982
+| title2  = Westmark
+}}
+| spouse  = {{marriage|Janine Denni|1946|2007|reason=died}}
+| children = 1 (adopted)
+| signature     = lloyd_alexander_signature.png
+| website       =
+}}
+
+'''Lloyd Chudley Alexander''' (January 30, 1924 – May 17, 2007) was an American author of more than 40 books, primarily [[fantasy novels]] for [[children's literature|children and young adults]]. Over his seven-decade career, Alexander wrote 48 books, and his work has been translated into 20 languages.{{sfn|Crossley|2012|p=53:05}} His most famous work is ''[[The Chronicles of Prydain]]'', a series of five [[high fantasy]] novels whose conclusion, ''[[The High King]]'', was awarded the 1969 [[Newbery Medal]] for excellence in American children's literature.<ref name=newbery/> He won U.S. [[National Book Award]]s in 1971 and 1982.<ref name=nba1971>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1971 "National Book Awards – 1971"]. [[National Book Foundation]] (NBF). Retrieved 2012-02-22.</ref><ref name=nba1982>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1982 "National Book Awards – 1982"]. NBF. Retrieved 2012-02-22.</ref> 
+
+Alexander grew up in [[Pennsylvania]] during the [[Great Depression]]. He developed a passion for reading books and writing poetry. He attended college for only one term, believing that there was nothing more college could teach him. He enlisted in the United States Army and rose to be a staff sergeant in intelligence and counter-intelligence. He met his wife while he was stationed in France and studied French literature at the University of Paris. After returning to the United States with his new family, he struggled to make a living from writing until he published ''And Let the Credit Go'' (1955), his first autobiographical novel. His interest in Welsh mythology led to the publication of his series ''The Chronicles of Prydain''. 
+
+Alexander was nominated twice for the international [[Hans Christian Andersen Award]], and received the 1971 National Book Award for Children's Books for ''The Marvelous Misadventures of Sebastian'' and the 1982 National Book Award for ''Westmark''. Alexander received three lifetime achievement awards before his death in 2007. The [[Harold B. Lee Library]] at [[Brigham Young University]] contains a permanent Lloyd Alexander exhibit which showcases several items from his home office including his desk, typewriter, and manuscripts and editions of his books.
+
+==Early life and education==
+Alexander was born in [[Philadelphia]] on January 30, 1924 to Edna (née Chudley) and Alan Audley Alexander,<ref>[http://www.bookrags.com/shortguide-iron-ring/abouttheauthor.html Lloyd Alexander Biography]</ref> and grew up in [[Drexel Hill, Pennsylvania]], a section of [[Upper Darby Township, Delaware County, Pennsylvania|Upper Darby]] just west of the city.{{sfn|Jacobs|Tunnell|1991|pp=1-3}} He had an elder sister, Florence. His parents only read newspapers, but they did buy books "at the [[Salvation Army]] to fill up empty shelves."<ref name=wpost>{{cite news |last1=Bernstein |first1=Adam |title=Lloyd Alexander; Fantasy and Adventure Writer |url=https://www.washingtonpost.com/wp-dyn/content/article/2007/05/17/AR2007051702371.html |access-date=23 June 2020 |work=The Washington Post |date=18 May 2007}}</ref> He taught himself to read around age four and skipped grades one and two at a private Quaker school. He and his friends played at war, using equipment from [[World War I]] in their games. After his father Alan, a stockbroker, bankrupted in the [[Wall Street Crash of 1929]], Alexander attended public school, where he skipped yet another grade, entering seventh grade at age nine.{{sfn|May|1991|pp=2-3}} Alexander read [[William Shakespeare|Shakespeare]], [[Charles Dickens|Dickens]], [[Mark Twain]] and myths, especially [[King Arthur]].<ref name=about1999/> In addition to being interested in art, at age thirteen, Alexander wanted to become an [[Episcopal Church (United States)|Episcopalian]] priest; however, his family could not afford to send him to divinity school.{{sfn|Jacobs|Tunnell|1991|pp=3-4}}{{sfn|May|1991|p=3}} Passionate about writing, Alexander believed he could preach and worship God through his writing and his art.{{sfn|Jacobs|Tunnell|1991|p=4}} In high school, he began writing romantic poetry modeled after the work of nineteenth-century poets and writing narrative short stories, but he failed to acquire interest from publishers.{{sfn|Jacobs|Tunnell|1991|pp=5}} His parents found him a job as a bank messenger, which inspired a satire that would become his first book published fifteen years later, ''And Let the Credit Go'' (1955).<ref name=wpost/> He graduated at age sixteen in 1940 from [[Upper Darby High School]], where he was inducted into the school's Wall of Fame in 1995.<ref name="WoF">{{cite web | title = Wall of Fame| publisher = Upper Darby High School| url = http://www.udsd.k12.pa.us/alumni/wof_3.php?id=9| access-date =2011-12-24 |archive-url = https://web.archive.org/web/20070821091630/http://www.udsd.k12.pa.us/alumni/wof_3.php?id=9 |archive-date=2007-08-21 }}</ref>  
+
+He attended [[West Chester University|West Chester State Teachers College]], which he left after only one term because he did not find the curriculum rigorous enough.{{sfn|Jacobs|Tunnell|1991|pp=6-7}} After dropping out of college, Alexander worked for six months in the mailroom of the Atlantic Refining Company.{{sfn|Jacobs|Tunnell|1991|p=7}} Alexander decided that adventure was a better school for a writer than college and enlisted in the [[United States Army|US Army]] during [[World War II]]. He was too clumsy with artillery to be sent to the front, and the sight of blood made him faint, making him unfit to work as a medic. With no prior musical experience, he briefly played the cymbals in a marching band in Texas. Shortly after he was transferred to serve as a chaplain's assistant. He had the opportunity to study French language, politics, customs, and geography at [[Lafayette College]] through the army.{{sfn|Jacobs|Tunnell|1991|p=8}}{{sfn|May|1991|p=5}} He was later moved to Camp Ritchie, Maryland, to receive specialized intelligence training in the United States Army Combat Intelligence and Counter-Intelligence Corps. There he met war veterans, scholars, refugees, and members of the [[Cherokee]] tribe.{{sfn|Jacobs|Tunnell|1991|p=9}}{{sfn|Ingram|1986|p=5}} He rose to be a [[staff sergeant]] in the corp.<ref>{{Cite web|url=https://www.upperdarbysd.org/Page/4511|title=Alumni Wall of Fame|date=February 23, 2019|website=Upper Darby School District|access-date=2019-02-23}}</ref> 
+
+Alexander was stationed in Wales and England briefly and then was assigned to the 7th army in eastern France where he translated radio messages for six months.{{sfn|Jacobs|Tunnell|1991|p=10}} His next assignment was for the Paris office of the Counter Intelligence Corps (CIC) where he worked as a translator and an interpreter until the end of 1945.{{sfn|Jacobs|Tunnell|1991|p=10}} After the war, Alexander attended the [[University of Paris]] where he studied French literature and was fascinated by the poetry of [[Paul Éluard]]. Alexander called Éluard on the phone and subsequently and showed him his English translations of his work. Éluard immediately named Alexander his sole English translator.{{sfn|Jacobs|Tunnell|1991|p=10}}{{sfn|May|1991|p=7}} Alexander also contacted [[Gertrude Stein]], who advised him that becoming a writer was a difficult and discouraging process.{{sfn|May|1991|p=7}} In Paris, he met Janine Denni who had a young daughter named Madeleine. Alexander and Denni were married on January 8, 1946, and soon moved to Philadelphia.{{sfn|Jacobs|Tunnell|1991|p=11}} The three moved into the attic of his parents home where Alexander spent twelve hours a day translating Éluard's work and writing his own works.{{sfn|Jacobs|Tunnell|1991|p=12}}
+
+==Writing career==
+For about fifteen years in Philadelphia, Alexander wrote primarily fiction, non-fiction, and translations for adults. Desperate for a job, Alexander worked as a potter's apprentice for his sister. At the end of 1948, Alexander started writing advertising copy and he began to receive more royalties for his translations, leading him to purchase a house for his family in Kellytown. However, he lost his job after three months, requiring his wife to take up employment in a textile mill to make ends meet. Alexander continued to write diligently, though no publishers bought his novels for seven years.{{sfn|Jacobs|Tunnell|1991|pp=14–15}} One of his short stories, "The Fantastic Symphony" (1949) was published in the ''New Directions Annual'', a surrealistic piece inspired by Berlioz's notes on the ''[[Symphonie fantastique]]''.{{sfn|May|1991|p=9}} Alexander's breakthrough came with his novel ''And Let the Credit Go'' (1955), his first autobiographical work which he focused on his experience as a bank messenger in his adolescence.{{sfn|Jacobs|Tunnell|1991|p=16}} He wrote his second novel ''My Five Tigers'' (1956) about his cats, continuing the trend of writing about subjects familiar to him.{{sfn|Jacobs|Tunnell|1991|p=18}} He found work as a copyeditor and a cartoonist where he finished his last four adult publications. He wrote two semi-autobiographical novels: ''Janine is French'' (1959) and ''My Love Affair with Music'' (1960). Alexander co-authored ''Park Avenue Vet'' (1960) with [[Louis J. Camuti|Louis Camuti]], who specialized in treating cats. [[American Society for the Prevention of Cruelty to Animals|The American Society for the Prevention of Cruelty to Animals]] subsequently commissioned their history, which Alexander wrote as ''Fifty Years in the Doghouse'' (1964) .{{sfn|Jacobs|Tunnell|1991|p=18}} During that time he wrote two non-fiction books for children, biographies for [[August Bondi]] and [[Aaron Lopez]] commissioned by the Jewish Publication Society, the former of which won the National Jewish Book Award in 1959.<ref>{{cite book |editor1-last=Sleeman |editor1-first=Elizabeth |title=International Who's Who: Authors and Writers |date=2003 |publisher=Europa Publications |location=London |isbn=1857431790 |page=11 |url=https://books.google.com/books?id=phhhHT64kIMC&pg=PA11 |access-date=4 March 2020}}</ref><ref name="latimes">{{cite news |last1=Rourke |first1=Mary |title=Lloyd Alexander, 83; children's author wrote 'Prydain Chronicles" |url=https://www.latimes.com/archives/la-xpm-2007-may-19-me-alexander19-story.html |access-date=4 March 2020 |work=Los Angeles Times |date=May 19, 2007}}</ref>{{sfn|Jacobs|Tunnell|1991|p=19}} Alexander's subsequent novel was his first of the fantasy genre: ''[[Time Cat]]'' (1963). He later called it "the most creative and liberating experience of my life".<ref name=about1999>{{cite book |last1=Alexander |first1=Lloyd |title=The Foundling and Other Tales of Prydain |date=1999 |publisher=Henry Hold and Company |location=New York |isbn=0805061304 |page=97}}</ref> The novel imagines a cat who can visit its other lives in different time periods, which Alexander researched extensively.{{sfn|Jacobs|Tunnell|1991|p=20}} ''Fifty Years in the Doghouse'' (1964; reprinted as ''Send for Ryan'') told stories of how William Michael Ryan saved animals as part of his job as a special agent for the ASPCA.{{sfn|Ingram|1986|p=7}}
+
+Almost forty years old, he then specialized in children's fantasy, the genre of his best-known works. His wartime tenure in Wales introduced him to castles and scenery that would inspire settings for many of his books.<ref name=about1999/> Alexander was particularly fascinated with [[Welsh mythology]], especially the ''[[Mabinogion]]''. The plot for ''The Book of Three'' is based on a fragment from the [[The Myvyrian Archaiology of Wales|''Myvyrian Archaiology'']]. Alexander signed a book deal with Henry Holt and Company for a trilogy called ''The Sons of Llyr''.{{sfn|Jacobs|Tunnell|1991|pp=22-23}}<ref name=wpost/> Alexander resisted simplifying the Welsh names, stating that they gave the book a certain mood and strangeness.{{sfn|Jacobs|Tunnell|1991|p=24}}  After the release of the first novel, ''The Book of Three'' (1964), the series became known as ''The Chronicles of Prydain''. The second book of the series, ''The Black Cauldron'', followed in 1965.{{sfn|Jacobs|Tunnell|1991|p=25}} After beginning the third book ''The Castle of Llyr'' (1966), Alexander decided his story needed to be told in four books, not three, and he planned his fourth and final novel ''The High King of Prydain''. During this time he also worked at the ''Delaware Valley Announcer'' as an associate editor.{{sfn|Jacobs|Tunnell|1991|p=25}} After having a near-death experience, Alexander hastily finished ''The High King'', concerned he would be unable to finish his saga. However, his editor Ann Durell suggested that he write a fourth book in-between ''The Castle of Llyr'' and ''The High King'' (1968); this book became ''Taran Wanderer'' (1967).{{sfn|Jacobs|Tunnell|1991|pp=26-27}} The five novels detail the adventures of a young man named [[Taran (character)|Taran]], who dreams of being a sword-bearing hero but has only the title Assistant Pig-Keeper. He progresses from youth to maturity and must finally choose whether to be High King of Prydain. Alexander also wrote two spin-off children's books from the Prydain series ''Coll and His White Pig'' (1965) and ''The Truthful Harp'' (1967).{{sfn|Jacobs|Tunnell|1991|p=27}} Alexander won the Newbery Medal for ''The High King'' in 1969.{{sfn|Jacobs|Tunnell|1991|p=27}} 
+
+Alexander's novel ''The Marvelous Misadventures of Sebastian'' (1970) was rejected after its first submission, and Alexander rewrote it three times before it was published.{{sfn|Jacobs|Tunnell|1991|pp=29-30}} It won the National Book Award in 1971.{{sfn|Jacobs|Tunnell|1991|p=30}} He published two picture books: ''The King's Fountain'' (1971) for which he collaborated with the author [[Ezra Jack Keats]], and ''The Four Donkeys'' (1972). He wrote the novel ''The Cat Who Wished to be a Man'' in 1973.{{sfn|Jacobs|Tunnell|1991|p=30}} The same year Alexander published ''The Foundling: And Other Tales of Prydain'', a companion book to the Prydain series.{{sfn|Jacobs|Tunnell|1991|p=30}} After the success of ''Prydain'', Alexander was author-in-residence at [[Temple University]] from 1970 to 1974.<ref>{{cite book |last=Sleeman |first=Elizabeth, series ed. |title=International who's who of authors and writers 2004 |year=2003 |publisher=Europa Publications, Taylor & Francis Group |location=London |isbn=1-85743-179-0 |url=https://books.google.com/books?id=phhhHT64kIMC&q=lloyd+alexander+author-in-residence+temple+university&pg=PA11 |edition=19th |access-date=2011-12-29 |page=11}}</ref> He once described it as being educational for him and as "rather like being a visiting uncle, who has a marvelous time with his nephews and nieces, then goes off leaving the parents to cope with attacks of whooping cough, mending socks and blackmailing the kids to straighten up the mess in their rooms."<ref name="IRA71">{{cite book |editor=Painter, Helen W. |title=Reaching Children and Young People Through Literature|year=1971|publisher=[[International Reading Association]] |location=Newark, DE |url=http://www.eric.ed.gov/PDFS/ED068915.pdf |access-date=2011-12-29 |page=26 }}</ref> Alexander wrote ''The Wizard in the Tree'' while suffering from depression and published it in 1975. The character Arbican was based on Alexander and his personal struggles.{{sfn|Jacobs|Tunnell|1991|p=31}} In 1977 Alexander published ''The Town Cats'', which received a more favorable critical reception than ''The Wizard in the Tree''.{{sfn|Jacobs|Tunnell|1991|p=31}} His next book ''The First Two Lives of Lukas-Kasha'', set in a fantasy world based on 15th century Persia, was published in 1978.{{sfn|Jacobs|Tunnell|1991|p=32}} It won the Silver Slate Pencil Award in Holland and the Austrian Book Award in Austria.{{sfn|Jacobs|Tunnell|1991|p=32}}    
+
+Alexander's other fiction series are ''[[Westmark (novel)|Westmark]]'' (1981 to 1984) and ''[[Vesper Holly]]'' (1987 to 1990 and 2005). ''Westmark'' features a former printer's apprentice involved in the rebellion and civil war in a fictional European kingdom around 1800. Vesper Holly is a wealthy and brilliant Philadelphia [[orphan]] who has adventures in various fictional countries during the 1870s.{{efn|
+Holly visits five fictional countries and her last adventure is set in and around Philadelphia during the 1876 [[Centennial Exhibition]].}} There was some controversy about ''The Fortune-Tellers'' (1992), a picture book illustrated by [[Trina Schart Hyman]]. Some felt that the story was European in origin and therefore inappropriate for its African setting.<ref>{{cite book |last=Lasky |first=Kathryn |editor= Dana L. Fox and Kathy G. Short |title=Stories Matter: The Complexity of Cultural Authenticity in Children's Literature |year= 2003 |publisher=[[National Council of Teachers of English]] |isbn=0-8141-4744-5 |pages=86–87}}</ref> Alexander's last novel, ''The Golden Dream of Carlo Chuchio'', was published in August 2007.<ref name="newyorktimes">{{cite news |last1=Fox |first1=Margalit |title=Lloyd Alexander, Author of Fantasy Novels, Is Dead at 83 |url=https://www.nytimes.com/2007/05/19/arts/19alexander.html |access-date=6 March 2020 |work=The New York Times |date=May 19, 2007}}</ref> 
+
+Alexander helped create the children's literary magazine ''[[Cricket (magazine)|Cricket]]'' and served on its editorial board.<ref name=writeaway>{{cite news | url=http://www.writeaway.org.uk/content/view/184/2/ | title=Lloyd Alexander 1924–2007 |last=Gamble |first=Nikki |publisher=Write Away| date=May 24, 2007 |access-date=2008-09-05 |archive-url=https://web.archive.org/web/20081121180100/http://www.writeaway.org.uk/content/view/184/2/ |archive-date=2008-11-21 }}</ref>{{sfn|Ingram|1986|p=21}} He served on the library committee of ''World Book Encyclopedia'' in 1974 and in the board of directors in the Friends of the International Board on Books for Young People in 1982.{{sfn|Ingram|1986|p=19}} Alexander maintained a rigorous working schedule, awakening at 4am and working until the late afternoon, afterwards enjoying his sole meal with his wife. He adhered to this routine even when he didn't feel inspired, stating that he couldn't rely on inspiration alone.{{sfn|May|1991|p=12}} He corresponded with fans, who on occasion visited him in his home.{{sfn|May|1991|pp=10; 143}} Alexander died on May 17, 2007, of cancer,<ref>{{Cite web|url=https://www.nytimes.com/2007/05/19/arts/19alexander.html|title=Lloyd Alexander, Author of Fantasy Novels, Is Dead at 83|first=Margalit|last=Fox|date=May 19, 2007|access-date=Dec 30, 2019|via=NYTimes.com}}</ref> a few weeks after the death of his wife of sixty-one years.<ref name="latimes" /> His stepdaughter, Madeleine Khalil, had predeceased both him and her mother in 1995. He was survived by his five step-grandchildren and five step-great-grandchildren. He is buried at [[Arlington Cemetery (Pennsylvania)|Arlington Cemetery]] in Drexel Hill.<ref>{{cite web |title=Lloyd Alexander |url=http://www.arlingtoncemetery.us/tribute.asp?Id=244346 |archive-url=https://web.archive.org/web/20110901191744/http://www.arlingtoncemetery.us/tribute.asp?Id=244346 |url-status=dead |archive-date=1 September 2011 |website=Arlington Cemetery |access-date=6 March 2020}}</ref>
+
+==Themes and style==
+The Prydain Chronicles are set in a fantasy world that has much in common with Welsh folklore and mythology. Critics called the chronicles "one of the most important and compelling examples of Welsh mythopoesis to date."{{sfn|Oziewicz|2008|pp=149-150}} According to ''Dictionary of Literary Biography'', Alexander's books had "the special depth and insight provided by characters who not only act but think, feel and struggle with the same kinds of problems that confuse and trouble people in the twentieth century."<ref name=wpost/> Arthurian scholars argue that Alexander took too many liberties with the material, creating works that are "too contemporary". Alexander described his own writings as based on myth, but written with his personal life experience or "micromythology".{{sfn|Oziewicz|2008|pp=151-152}}  C.W. Sullivan, a professor of Northern European mythology at East Carolina University, stated that Alexander took the structure of a fairy tale, or [[Fairy tale|märchen]], and added Welsh details.{{sfn|Sullivan|1989|pp=183; 103}} [[Brian Attebery]] wrote that ''The Book of Three'' was "no more than a clever imitation of Tolkien," but noted that Taran, written by an American, finds his identity in the future, not the past. Attebery described Alexander's mythopoeism as a "modest" success, bringing his own creativity to Welsh mythology.{{sfn|Attebery|1980|pp=156-157}} Mark Oziewicz, a professor specializing in young adult fantasy,<ref>{{cite web |title=Marek Oziewicz Curriculum and Instruction University of Minnesota |url=https://www.cehd.umn.edu/CI/people/oziewicz.html |website=www.cehd.umn.edu}}</ref> wrote that the Pyridian chronicles show the importance of connecting the present to the past.{{sfn|Oziewicz|2008|pp=156-157}} Taran learns firsthand the importance of the stories when he encounters people from the stories, who are often nothing like he imagined. Throughout the series, he must trust the knowledge of authority figures when he takes on quests he does not initially understand {{sfn|Oziewicz|2008|pp=159-160}} The gradual transformation of Prydain from magical to mundane mirrors Taran's coming-of-age.{{sfn|Oziewicz|2008|p=166}} The way the series starts in the past but comments on the future is reminiscent of Welsh ''hanesion'' narrative, which returns to the past in order to heal the present.{{sfn|Oziewicz|2008|p=169}} Alexander's biographer Jill May, along with critic Normal Bagnall, noted several American themes in the Prydain series: that leadership is an ability, not inherited, and that anyone can become a hero.{{sfn|May|1991|p=48}}{{sfn|Bagnall|1990|p=26}} Bagnall further elucidated that Taran's character development was American, with him growing from an inarticulate, self-conscious teen into a self-educated, self-sacrificing adult.{{sfn|Bagnall|1990|p=27}} In contrast, Kath Filmer-Davies from the University of Queensland argues that the Welshness of the Prydain chronicles is responsible for much of their appeal.{{sfn|Filmer-Davies|1996|pp=63-64}} She noted that in Welsh culture, Taran's knowledge and nationalism are more important than his non-noble family status.{{sfn|Filmer-Davies|1996|p=66}}
+
+Alexander's works are usually coming-of-age novels in fantasy settings where characters fulfill quests.{{sfn|Gale Literature|2007|pp=4-5}} The main characters are common people who return to their regular life after their quests. While his settings are inspired by fairy tales and legends, his stories are modern. Self-acceptance and awareness are vital for the protagonists to grow. Alexander's works are fundamentally optimistic about human nature, with endings that are hopeful rather than tragic. He stated that in his fantasy world, "good is ultimately stronger than evil" and "courage, justice, love, and mercy actually function."<ref>{{cite journal |last1=May |first1=Jill P. |title=Lloyd Alexander's Truthful Harp |journal=Children's Literature Association Quarterly |date=Spring 1985 |volume=10 |issue=1|pages=37–38 |doi=10.1353/chq.0.0258 }}</ref> The Prydain Chronicles deal with themes of good and evil and what it means to be a hero. The Westmark Trilogy also explores good and evil and shows how corrupt leadership can lead to unrest and revolution. The main character, Mickle, reluctantly joins the army in an unexpected war, subverting typical war heroics. The books are appealing adventure stories that simultaneously discuss ethical issues, a quality critic Hazel Rochman praised in ''School Library Journal''. Writing at ''The Horn Book'', Mary M. Burns stated that ''The Illyrian Adventure'' was excellent because it was believable while being a fantasy and had a strong underlying theme. Alexander himself remarked that his "own concerns and questions" still came out in his fiction.{{sfn|Gale Literature|2007|pp=4-5}} He consciously used fantasy stories as a way to understand reality.{{sfn|Gale Literature|2007|p=6}}
+
+Alexander strove to create women characters who were more than a passive trophy for the hero. Rodney Fierce, a history professor,<ref>{{Cite web|title=Rodney Fierce|url=https://www.sonomaacademy.org/rodney-fierce|access-date=2020-07-21|website=www.sonomaacademy.org}}</ref> analyzes Eilonwy's agency and character over the five books in the Prydain Chronicles. While she is independent and assertive in ''The Book of Three'', other characters disapprove of her adventuring in ''The High King'' as unladylike, consistently dismissing her useful advice. Taran only becomes attracted to her when she is wearing fancy feminine clothes, while Eilonwy's affections do not rely on Taran being luxuriously accoutered. In ''The Castle of Llyr'', Taran commands her not to leave the castle but cannot tell her why leaving readers to feel that his controlling behavior is noble. His secrecy is only vital to make Eilonwy a helpless victim, which will in turn allow Taran to rescue her. In fighting the enchantress who conquered her ancestral home in Caer Colur, Eilonwy destroys her and the castle that would rightfully be hers. After the destruction of her home castle, Eilonwy's desire shifts from being focused on her own development to waiting to marry Taran. Even though Taran decides he would rather stay in Prydain than be with Eilonwy, Eilonwy gives up her magical power to marry Taran and stay with him in Prydain. Fierce concludes that, unlike other women in fantasy fiction, at least Eilonwy made the decision herself to lose her magical powers.<ref>{{cite journal |last1=Fierce |first1=Rodney M.D. |title=Isn't it Romantic? Sacrificing Agency for Romance in The Chronicles of Prydain |journal=Mythlore |date=2015 |volume=33 |issue=2}}</ref> Sullivan noted how Taran's rise to power symbolizes an "age of male dominance," contrasting Prydain's previous age of women in power.{{sfn|Sullivan|1989|p=64}} In 1985, Lois Kuznets argued that the Prydain chronicles do not achieve American ideals because Taran becomes a king rather than a president, and Eilonwy does not "achieve womanhood." Alexander's biographer, Jill May, rebutted this argument, stating that when Alexander wrote the books in the 1960s, his audience was just beginning to accept feminist ideas, and his works need to be considered in their historical context.{{sfn|May|1991|pp=148-149}} One critic, [[John Rowe Townsend]], disliked the "two-dimensional" and "predictable" characters of Taran and Eilonwy.{{sfn|May|1991|p=145}}
+
+Several critics have commented on Alexander's writing style. In a ''Horn Book'' review of the Vesper Holly books, Ethel L. Heins stated that Alexander's writing was "elegant, witty, [and] beautifully paced."{{sfn|Gale Literature|2007|pp=4-5}} Reviewers praised the action scenes in the Prydain chronicles, stating that they involved the reader in the scene without gruesome detail.{{sfn|Ingram|1986|p=13}} One of Alexander's biographers, Jill P. May, stated that his prose changes depending on the goal of his work. While his fantasy style has been compared to J.R.R. Tolkien and C.S. Lewis, his later writings have a completely different style.{{sfn|May|1991|p=ix}} His first work for children, a biography of a Jewish freedom fighter August Bondi, had little dialogue, perhaps in an effort to be faithful to historical sources. The fictional characters stood out more than Bondi's.{{sfn|May|1991|pp=16-17}} Alexander wrote another biography for the Jewish Publication Society on Aaron Lopez. In absence of detailed historical sources, Alexander fictionalized more events in this work, with Lopez's fictional attitudes mirroring Alexander's.{{sfn|May|1991|pp=20}}
+
+== Awards and honors ==
+He first garnered significant critical acclaim with his ''The Chronicles of Prydain'' series. The second volume (''[[The Black Cauldron (novel)|The Black Cauldron]]'') was a runner-up for the 1966 Newbery Medal; the fourth (''[[Taran Wanderer]]'') was a ''[[School Library Journal]]'' Best Book of the Year; the fifth and concluding volume (''The High King'') won the 1969 Newbery.<ref name="www.cas.usf.edu">{{cite web|url=http://www.cas.usf.edu/lis/alis/lis5937/prior/eliza.htm|title=Biography of Lloyd Alexander|last=Prior|first=Elizabeth|archive-url=https://web.archive.org/web/20071111192956/http://www.cas.usf.edu/lis/alis/lis5937/prior/eliza.htm|archive-date=2007-11-11|access-date=2011-12-29}}</ref> Alexander was included in the 1972 third volume of the [[HW Wilson]] reference series, ''Book of Junior Authors and Illustrators''<ref name=writeaway/>—early in his career as a children's writer, but after ''Prydain'' was complete.<ref name=isfdb/> For his contribution as a children's writer, Alexander was U.S. nominee in 1996 and again in 2008 for the biennial, international [[Hans Christian Andersen Award]], the highest recognition available to creators of children's books.<ref name="ibby2008" /><ref name="ibby-nominee" /> Many of Alexander's later books received awards ''The Marvelous Misadventures of Sebastian'' won the 1971 [[National Book Award for Young People's Literature|National Book Award in category Children's Books]]<ref name="nba1971" /> and in 1982 ''Westmark'' also won a National Book Award.<ref name="nba1982" />{{efn|
+The NBAs were revamped as "American Book Awards" from 1980 to 1986. Several categories were subdivided and ''Westmark'' won one of [[List of winners of the National Book Award#Children's Books, Fiction|five for children's books]], namely hardcover fiction.}}
+''The Fortune-Tellers'', illustrated by Trina Schart Hyman, won the 1992
+[[Boston Globe–Horn Book Award]] in the Picture Book category.<ref name="bghb" /> The American Library Association selected ''The Beggar Queen'' as one of the best books for young adults in 1984, and ''The Illyrian Adventure'' as a "notable book" in 1986.{{Sfn|May|1991|p=150}} 
+He received at least three lifetime achievement awards.
+In 1991 the [[Free Library of Philadelphia]] and the Pennsylvania Center for the Book awarded him the Pennbook Lifetime Achievement Award.<ref>{{cite news |last=Hoffner |first=Gloria A. |title=Fantasist Weaves Tales For Children|url=http://articles.philly.com/1991-11-07/news/25770811_1_national-book-award-finalist-letter-writers-philadelphia-connection |access-date=2011-12-24 |newspaper=The Philadelphia Inquirer |date=November 7, 1991}}</ref>
+In 2001 he received the inaugural [[Parents' Choice Award|Parents' Choice Foundation Lifetime Achievement Award]].<ref>{{cite web |title=A Lifetime Achievement Award for Lloyd Alexander |url=http://www.parents-choice.org/print_article.cfm?art_id=40&the_page=editorials |publisher=Parent's Choice Foundation |access-date=2011-12-24}}</ref>
+In 2003 Alexander received the [[World Fantasy Award for Life Achievement]].<ref>{{cite web|publisher=[[World Fantasy Convention]] |year=2010 |title=Award Winners and Nominees |url=http://www.worldfantasy.org/awards/awardslist.html/ |access-date=2011-02-04 |url-status=dead |archive-url=https://web.archive.org/web/20101201074405/http://worldfantasy.org/awards/awardslist.html |archive-date=2010-12-01 }}</ref>
+
+On January 28, 2010, an exhibit opened at the [[Harold B. Lee Library]] on the campus of [[Brigham Young University]], displaying several items from Alexander's home office, which he referred to as "the Box." Items include manuscripts, editions of all his books, his violin, typewriter, and desk.<ref>[http://lib.byu.edu/sites/news/2009/12/19/the-harold-b-lee-library-to-celebrate-the-opening-of-the-lloyd-alexander-collection/ The Harold B. Lee Library to Celebrate the Opening of the Lloyd Alexander Collection] (December 19, 2009). Brigham Young University. Retrieved 2010-02-27.</ref> On October 19, 2012, a documentary chronicling the life and writings of Alexander was released.<ref>[http://lloydalexanderfilm.blogspot.com/2012/10/press-release.html  Lloyd Alexander Documentary Premieres at Harold B. Lee Library ] (October 15, 2012). Press Release. Retrieved 2014-06-09.</ref> The film is titled "Lloyd Alexander".<ref>[https://www.imdb.com/title/tt2644286/?ref_=fn_al_tt_1  "Lloyd Alexander" at Internet Movie Database] (October 19, 2012). IMDB. Retrieved 2014-06-09.</ref> On September 23, 2014 to mark the fiftieth anniversary of the series, [[Henry Holt (publisher)|Henry Holt]] published a special "50th Anniversary Edition" of ''The Book of Three''.<ref>{{cite news |last1=Maughan |first1=Shannon |title='The Book of Three' Marks 50 Years |url=https://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/64185-the-book-of-three-marks-50-years.html |access-date=4 March 2020 |work=Publishers Weekly |publisher=PWxyz |date=September 30, 2014}}</ref>
+
+==Works==
+
+===Prydain series===
+{{Main |The Chronicles of Prydain}}
+;''The Chronicles of Prydain''
+:* ''[[The Book of Three (novel)|The Book of Three]]'' (1964)
+:* ''[[The Black Cauldron (novel)|The Black Cauldron]]'' (1965), winner of the 1966 [[Newbery Honor]]
+:* ''[[The Castle of Llyr]]'' (1966)
+:* ''[[Taran Wanderer]]'' (1967)
+:* ''[[The High King]]'' (1968), winner of the 1969 [[Newbery Medal]]
+;Supplementary
+:* ''Coll and His White Pig'' (1965), picture book
+:* ''The Truthful Harp'' (1967), picture book
+:* ''[[The Foundling and Other Tales of Prydain]]'' (1973, expanded 1999)
+
+===Westmark trilogy===
+:* ''[[Westmark (novel)|Westmark]]'' (1981) —National Book Award<ref name=nba1982/>
+:* ''[[The Kestrel]]'' (1982)
+:* ''[[The Beggar Queen]]'' (1984)
+
+===Vesper Holly series===
+{{main|Vesper Holly}}
+:* ''The Illyrian Adventure'' (1986)
+:* ''The El Dorado Adventure'' (1987)
+:* ''The Drackenberg Adventure''  (1988)
+:* ''The Jedera Adventure'' (1989)
+:* ''The Philadelphia Adventure'' (1990)
+:* ''The Xanadu Adventure'' (2005)
+
+===Other===
+:* ''And Let the Credit Go'' (1955) — autobiographical first novel<ref name=wpost/>
+:* ''My Five Tigers'' (1956)
+:* ''Border Hawk: August Bondi'' (1958) — biography of [[August Bondi]] for children<ref name=isfdb/>
+:* ''Janine is French'' (1960) — Alexander also collaborated to write a stage adaptation of this<ref>{{cite web|last=Caust-Ellenbogen|first=Celia|title=Philadelphia, according to Lloyd Alexander|url=http://libwww.freelibrary.org/blog/index.cfm?postid=1190|work=Free Library Blog|publisher=Free Library of Philadelphia|access-date=17 September 2013}}</ref> 
+:* ''My Love Affair with Music'' (1960)
+:* ''The Flagship Hope: Aaron Lopez'' (1960) — biography of [[Aaron Lopez]] for children<ref name=isfdb/>
+:* ''Park Avenue Vet'' (1962), by Alexander and Dr. [[Louis J. Camuti]], New York City cat veterinarian
+:* ''Fifty Years in the Doghouse'' (1963); originally ''Send for Ryan!'', retitled in 1964 — non-fiction "concerning [[William Michael Ryan]] and the [[American Society for the Prevention of Cruelty to Animals|American SPCA]]"<ref name=isfdb/>
+:* ''[[Time Cat: The Remarkable Journeys of Jason and Gareth]]'' (1963) — first children's fantasy<ref name=about1999/><ref name=isfdb/>
+:* ''The Marvelous Misadventures of Sebastian'' (1970) — [[National Book Award]]<ref name=nba1971/>
+:* ''The King's Fountain'' (1971)
+:* ''The Four Donkeys'' (1972)
+:* ''[[The Cat Who Wished to Be a Man]]'' (illustrated by Mark Hess in 2000) (1973)
+:* ''The Wizard in the Tree'' (1974)
+:* ''The Town Cats and Other Tales'' (1977)
+:* ''[[The First Two Lives of Lukas-Kasha]]'' (1978)
+:* ''The Big Book for Peace'' (illustrated by [[Dirk Zimmer]]) (1990)
+:* ''The Remarkable Journey of Prince Jen'' (1991)
+:* ''The Fortune-Tellers'' (illustrated by [[Trina Schart Hyman]]) (1992)
+:* ''The Arkadians'' (1995)
+:* ''The House Gobbaleen'' (1995)
+:* ''[[The Iron Ring]]'' (1997)
+:* ''[[Gypsy Rizka]]'' (1999)
+:* ''How the Cat Swallowed Thunder'' (2000)
+:* ''The Gawgon and the Boy'' (2001); UK title, ''The Fantastical Adventures of the Invisible Boy''<ref name=isfdb/>
+:* ''The Rope Trick'' (2002)
+:* ''Dream-of-Jade: The Emperor's Cat'' (2005)
+:* ''The Golden Dream of Carlo Chuchio'' (2007) — last book published
+
+===Translations===
+:* ''The Diary of Antoine Roquentin'' ([[London]]: [[John Lehmann]], 1949), first English translation of [[Jean-Paul Sartre]], ''[[Nausea (novel)|La Nausée]]'' ([[Éditions Gallimard]], 1938).  The celebrated [[existentialist]], [[epistolary novel]] is better known by the direct translation of its title, ''[[Nausea]]''.<!-- source is our article -->
+:* ''[[Intimacy]]'' ([[London]]: Neville Spearman Ltd., 1949), translation of ''[[The Wall (Sartre short story collection)|Le Mur]]'' by [[Jean-Paul Sartre]] ([[Éditions Gallimard]], 1939).
+:* ''Selected Writings'' ([[London]]: Routledge & Kegan, 1952), by [[Paul Éluard]]
+
+===Adaptations===
+''The Cat Who Wished to Be a Man'' and ''The Wizard in the Tree'' were adapted and produced in Japan. Also in Japan, ''The Marvelous Misadventures of Sebastian'' was made into a TV series.{{sfn|Gale Literature|2007|p=3}}
+
+In 1985, a [[Walt Disney Animation Studios|Disney]] [[animated film]], ''[[The Black Cauldron (film)|The Black Cauldron]]'' (1985) was based on the first two books. The first Disney animated film to employ computer-generated images, it was a box-office failure and received mixed critical reviews. It was not released for home video for over a decade later. As of 2016, Disney is in early production of another adaptation of the ''Prydain'' series.<ref>{{cite news |last1=McNary |first1=Dave |title=Chronicles of Prydain Movie in the Works at Disney |url=https://variety.com/2016/film/news/chronicles-of-prydain-movie-disney-1201733058/ |access-date=4 March 2020 |work=Variety |publisher=Variety Media |date=March 17, 2016}}</ref><ref>{{cite news |last1=Miller |first1=John J. |title=Taran Wanders Again |url=https://www.wsj.com/articles/SB10001424052748704206804575468221723518354 |access-date=4 March 2020 |work=The Wall Street Journal |publisher=Dow Jones & Company |date=September 15, 2010}}</ref>
+
+== Notes ==
+{{notelist|notes=
+}}
+
+== References ==
+{{Reflist|refs=
+<ref name=isfdb>
+{{isfdb name|691}} (ISFDB). Retrieved 2011-12-27.</ref>
+
+<!-- some awards refs -->
+<ref name=bghb>
+{{cite magazine|url=http://archive.hbook.com/bghb/past/past.asp |title=Boston Globe–Horn Book Awards: Winners and Honor Books 1967 to present |magazine=The Horn Book |access-date=2013-07-19 |url-status=dead |archive-url=https://web.archive.org/web/20121214080902/http://archive.hbook.com/bghb/past/past.asp |archive-date=2012-12-14 }}</ref>  
+<ref name=newbery>
+[http://www.ala.org/alsc/awardsgrants/bookmedia/newberymedal/newberyhonors/newberymedal "Newbery Medal and Honor Books, 1922–Present"]. [[Association for Library Service to Children]] (ALSC). American Library Association (ALA).<br> 
+&nbsp; [http://www.ala.org/alsc/awardsgrants/bookmedia/newberymedal/aboutnewbery/aboutnewbery "The John Newbery Medal"]. ALSC. ALA. Retrieved 2013-07-19.</ref>
+<ref name=ibby2008>
+[http://www.ibby.org/index.php?id=845 "IBBY Announces Winners of 2008 Hans Christian Andersen Awards"]. [[International Board on Books for Young People]] (IBBY). Press release  31 March 2008.<br>
+&nbsp; [http://www.ibby.org/index.php?id=273 "Hans Christian Andersen Awards"]. IBBY. Retrieved 2013-07-23.</ref>
+<ref name=ibby-nominee>
+[http://www.literature.at/viewer.alo?objid=14769&viewmode=fullscreen&scale=3.33&rotate=&page=105 "Candidates for the Hans Christian Andersen Awards 1956–2002"] {{webarchive|url=https://archive.today/20130114185952/http://www.literature.at/viewer.alo?objid=14769&viewmode=fullscreen&scale=3.33&rotate=&page=105 |date=2013-01-14 }}. ''The Hans Christian Andersen Awards, 1956–2002''. IBBY. [[Gyldendal]]. 2002. Pages 110–18. Hosted by [[Austrian Literature Online]] (literature.at). Retrieved 2013-07-19.</ref>
+
+}}
+===Sources===
+{{refbegin}}
+*{{cite book |last1=Attebery |first1=Brian |title=The fantasy tradition in American literature : from Irving to Le Guin |date=1980 |publisher=Indiana University Press |location=Bloomington |isbn=0253356652}}
+*{{cite journal |last1=Bagnall |first1=Norma |title=An American Hero in Welsh Fantasy: The Mabinogion, Alan Garner, and Lloyd Alexander |journal=The New Welsh Review |date=1990 |volume=2 |issue=4 }}
+*{{cite AV media |people=Crossley, Jared (Director) |date=2012 |title=Lloyd Alexander |medium=Motion picture |location=Provo, UT |publisher=Brigham Young University|ref={{harvid|Crossley|2012}}}}
+*{{cite book |last1=Filmer-Davies |first1=Kath |title=Fantasy fiction and Welsh myth: Tales of belonging |date=1996 |publisher=St. Martin's Press |location=New York |isbn=0312159277}}
+*{{cite book |last1=Ingram |first1=Laura |editor1-last=Estes |editor1-first=Glen E. |title=American Writers for Children Since 1960: Fiction |date=1986 |publisher=Gale Literature: Dictionary of Literary Biography |chapter=Lloyd Alexander (30 January 1924-)}} 
+*{{cite book |last1=Jacobs |first1=James S. |last2=Tunnell |first2=Michael O. |title=Lloyd Alexander: A Bio-Bibliography |date=1991 |publisher=Greenwood Press |location=New York |isbn=0313265860}}
+*{{cite journal |title=Lloyd Alexander |journal=Gale Literature: Contemporary Authors |date=2007 |url=https://link.gale.com/apps/doc/H1000001205/LitRC?u=byuprovo&sid=LitRC&xid=de216cb5 |publisher=Gale Literature Resource Center|ref={{sfnref|Gale Literature|2007}}}}
+*{{cite book |last1=May |first1=Jill P. |title=Lloyd Alexander |date=1991 |publisher=Twayne Publishers |location=Boston |isbn=0805776222}}
+*{{cite book |last1=Oziewicz |first1=Marek |title=One Earth, One People: The Mythopoeic Fantasy Series of Ursula K. Le Guin, Lloyd Alexander, Madeline L'Engle and Orson Scott Card |date=2008 |publisher=McFarland &Company, Inc.}}
+*{{cite book |last1=Sullivan |first1=C.W. |title=Welsh Celtic Myth in Modern Fantasy |date=1989 |publisher=Greenwood Press |isbn=0313249989}}
+{{refend}}
+
+==External links==
+{{wikiquote|Lloyd Alexander}}
+* [http://us.macmillan.com/author/lloydalexander Lloyd Alexander] at publisher Henry Holt
+*{{isfdb name|691|Lloyd Alexander}}
+*{{Find a Grave|19427949}}
+* {{LCAuth|n79076023|Lloyd Alexander|78|}}
+* [https://findingaid.lib.byu.edu/viewItem/MSS%206833 Lloyd Alexander papers, MSS 6833] at L. Tom Perry Special Collections, [[Brigham Young University]]
+
+{{The Chronicles of Prydain}}
+{{Lloyd Alexander}}
+{{World Fantasy Award Life Achievement}}
+{{Authority control}}
+
+{{DEFAULTSORT:Alexander, Lloyd}}
+[[Category:1924 births]]
+[[Category:2007 deaths]]
+[[Category:American children's writers]]
+[[Category:American fantasy writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:American Episcopalians]]
+[[Category:Burials at Arlington Cemetery (Pennsylvania)]]
+[[Category:National Book Award for Young People's Literature winners]]
+[[Category:Newbery Medal winners]]
+[[Category:Newbery Honor winners]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Writers from Philadelphia]]
+[[Category:University of Paris alumni]]
+[[Category:The Chronicles of Prydain]]
+[[Category:American writers of young adult literature]]
+[[Category:United States Army non-commissioned officers]]
+[[Category:United States Army personnel of World War II]]
+[[Category:Mythopoeic writers]]
+[[Category:American male novelists]]
+[[Category:Novelists from Pennsylvania]]
+[[Category:Deaths from cancer in Pennsylvania]]
+[[Category:People from Drexel Hill, Pennsylvania]]
+[[Category:Harold B. Lee Library-related articles]]
+[[Category:American expatriates in France]]
+[[Category:Ritchie Boys]]

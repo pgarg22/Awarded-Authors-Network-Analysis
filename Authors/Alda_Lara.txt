@@ -1,0 +1,46 @@
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+| name          = Alda Lara
+| birth_name    = Alda Ferreira Pires Barreto de Lara Albuquerque 
+| birth_date    = {{birth date|1930|6|9|df=y}}
+| birth_place   = [[Benguela]], [[Portuguese Angola]] 
+| death_date    = {{death date and age|1962|1|30|1930|6|9|df=y}}
+| death_place   = [[Cambambe]], Portuguese Angola
+| occupation    = Medical doctor, poet, journalist
+| citizenship   = [[Portuguese people|Portuguese]]
+| notableworks 	= Tempo de chuva
+| spouse        = Orlando Albuquerque (writer)
+}}
+
+'''Alda Ferreira Pires Barreto de Lara Albuquerque''', known as '''Alda Lara''' (9 June 1930, [[Benguela]], [[Angola]] – 30 January 1962, [[Cambambe]], Angola) was a [[Portuguese-language]] Angolan poet.<ref name=ovimbundu>{{cite web|url=http://www.ovimbundu.org/categoria/escritores-ovimbundus/alda-lara |title=Alda Lara |work=Nação Ovimbundu.org|accessdate=6 November 2016|language=Portuguese}}</ref><ref name="Margaret Busby 1993">[[Margaret Busby]] (ed.), ''[[Daughters of Africa: An International Anthology of Words and Writings by Women of African Descent from the Ancient Egyptian to the Present]]'', London: Jonathan Cape, 1992; Vintage, 1993.</ref>
+
+==Biography==
+Alda Lara was born on 9 June 1930 in [[Benguela]], [[Angola]]. She came from a wealthy family and received a Christian education, which gave her a spirit of liberalism according to one commentator. Her brother was the noted poet [[Ernesto Lara Filho]]. Lara attended a women's school in Sá da Bandeira (now Lubango) before moving to Portugal to finisher her secondary schooling.<ref name="luso">{{cite web|title=Biografia de Alda Lara|url=http://www.lusofoniapoetica.com/artigos/angola/alda-lara/biografia-alda-lara.html|website=Lusophonia Poetica|accessdate=6 November 2016|language=Portuguese|archive-date=7 November 2016|archive-url=https://web.archive.org/web/20161107092727/http://www.lusofoniapoetica.com/artigos/angola/alda-lara/biografia-alda-lara.html|url-status=dead}}</ref> She attended [[Lisbon University]] and resided at the Casa dos Estudantes do Imperio (House of the Students of the Empire). She had an active student life and began her writing career by publishing poetry in the literary journal ''Mensagem'', a publication specifically for Africans. Lara later attended the [[University of Coimbra]] and earned a degree in medicine.<ref name="sheldon"/>
+
+Lara wrote for several newspapers and magazines such as the ''[[Jornal de Benguela]]'', the ''[[Jornal de Angola]]'', and the ''ABC e Ciência''.<ref name="luso"/> She married the Mozambican-Portuguese writer [[Orlando Albuquerque]] and gave birth to four children. After living in Portugal for 13 years, Lara moved back to Angola in 1961.<ref name="sheldon"/> However, her return would be short-lived, as she died on 30 January 1962 in [[Cambambe]].<ref name=ovimbundu/> Her husband set about publishing her collected works after her death, including ''Poemas'' in 1966 and ''Tempo de Chuva'' in 1973. Lara's poems and short stories mostly deal with themes of motherhood and children as well as liberty and justice.<ref name="sheldon">{{cite book|last1=Sheldon|first1=Kathleen|title=Historical Dictionary of Women in Sub-Saharan Africa|date=2016|publisher=Rowman & Littlefield|isbn=978-1442262935|edition=2nd.|page=155}}</ref> Much of her poetry reflect a dissatisfaction with the colonial status quo.<ref name=ovimbundu/>
+
+The [[Alda Lara Prize]] (in Portuguese, ''Prémio Alda Lara'') was established in her honour by the city of [[Lubango]].<ref name="sheldon"/> [[Paulo de Carvalho]], a famed Portuguese singer, who has had a strong artistic career, recorded "Preludio/Mãe Negra", a poem written by Alda Lara.<ref>{{cite web|title=Paulo de Carvalho|url=http://www.casadamusica.com/pt/media/604519/2012-03-25_paulo_de_carvalho_fs_af.pdf?lang=pt|website=Casa da Musica|accessdate=6 November 2016|language=Portuguese}}</ref> ''Movimento'', the second album of [[Aline Frazão]] released in 2013, features a poem by Lara set to music.<ref name=":0">{{cite news|url=http://brasileiros.com.br/2014/12/aline-frazao-musica-brasileira-e-autossuficiente-2/|title=Aline Frazão: 'a música brasileira é autossuficiente'|author=Thaís Folgosi|work=Brasileiros|date=20 December 2014|language=Portuguese|accessdate=6 November 2016|archive-url=https://web.archive.org/web/20161005210841/http://brasileiros.com.br/2014/12/aline-frazao-musica-brasileira-e-autossuficiente-2/|archive-date=2016-10-05|url-status=dead}}</ref>
+
+==Books (posthumous)==
+* ''Poemas'' (1966)
+* ''Tempo da Chuva'' (1973)
+* ''Poesia'' (1979)
+* ''Poemas'' (1984) (her collected poems)
+
+==References==
+{{Reflist|30em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lara, Alda}}
+[[Category:1930 births]]
+[[Category:1962 deaths]]
+[[Category:People from Benguela]]
+[[Category:Portuguese women writers]]
+[[Category:Angolan people of Portuguese descent]]
+[[Category:Colonial people in Angola]]
+[[Category:20th-century Portuguese writers]]
+[[Category:Angolan women poets]]
+[[Category:Angolan women writers]]
+[[Category:20th-century Angolan poets]]
+[[Category:20th-century Portuguese women writers]]
+[[Category:Portuguese-language writers]]

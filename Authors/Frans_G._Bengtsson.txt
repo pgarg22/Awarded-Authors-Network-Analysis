@@ -1,0 +1,47 @@
+{{Use dmy dates|date=September 2020}}{{Infobox writer
+|image       = Frans G. Bengtsson.jpg
+|name        = Frans G. Bengtsson
+|birth_name  = Frans Gunnar Bengtsson
+|birth_date  = {{birth date|1894|10|4|df=y}}
+|birth_place = Sweden
+|death_place = Sweden
+|death_date  = {{death date and age|1954|12|19|1894|10|4|df=y}}
+|genre       = [[Fiction]]
+|occupation  = [[Novelist]]
+}}
+
+'''Frans Gunnar Bengtsson''' (4 October 1894 &ndash; 19 December 1954) was a Swedish novelist, essayist, poet and biographer. He was born in [[Tåssjö]] (now in [[Ängelholm Municipality]]) in [[Skåne]] and died at Ribbingsfors Manor in northern [[Västergötland]].
+
+==Literary career==
+Bengtsson began as a poet, with his debut work ''Tärningkast'' (Throwing Dice) published in 1923. In 1929 he published an essay collection titled ''Litteratörer och Militärer'' (Writers and Warriors) with contributions on [[François Villon]], [[Walter Scott]], [[Joseph Conrad]], and [[Stonewall Jackson]]. His essays mainly dealt with literary and historical subjects. A selection was translated into English in 1950 and published as ''A Walk to an Ant Hill and Other Essays''.
+
+His biography on the Swedish king [[Charles XII]] (''Karl XII:s levnad'') 1932 is his [[Masterpiece|magnum opus]]. He describes the king through excerpts from contemporary diaries by officers and common soldiers, and from a wealth of quotes from the published literature. Bengtsson's work draws heavily on the biography of Charles XII by [[Voltaire]] published in 1731, thirteen years after the king’s death.
+
+Later, Bengtsson became widely known for his [[Viking]] saga novel ''Röde Orm'' (''[[The Long Ships]]''),<ref name=NYT>{{cite web|work=[[The New York Times]]|title=The Long Ships (1963) Screen: 'The Long Ships': Widmark and Poitier in Viking Adventure|first=Howard|last=Thompson|date=June 25, 1964|url=https://www.nytimes.com/movie/review?res=9F02E4DF163DE13ABC4D51DFB066838F679EDE}}</ref> published in two parts in 1941 and 1945. The hero Orm, later called Röde Orm (Red Snake) because of his red beard, is kidnapped as a boy onto a raiding ship and leads an exciting life [[Caliphate of Córdoba|in the Mediterranean area]] around the year 1000 AD. Later, he makes an expedition eastward into [[Gardarike|what is now Ukraine]]. ''The Long Ships'' was later adapted into [[The Long Ships (film)|a film]].<ref name=NYT/> The novel was the inspiration for the name of the wireless technology [[Bluetooth]].<ref>{{Cite web|last=Kardach|first=Jim|date=2008-03-05|title=Tech History: How Bluetooth got its name|url=https://www.eetimes.com/tech-history-how-bluetooth-got-its-name/|url-status=live|archive-url=|archive-date=|access-date=|website=EE Times}}</ref>
+
+Bengtsson once said: "[[Joan of Arc]], [[Charles XII]], and [[Giuseppe Garibaldi|Garibaldi]] are the persons I would like to meet - for them the truth was more important than intrigues."{{Citation needed|date=September 2010}}
+
+==Personal life==
+Bengtsson studied at the [[University of Lund]] from 1912, but spent a lot of his time writing poetry and playing [[chess]] rather than studying. He graduated with a [[Licentiate (degree)|licentiate]] degree in English literature in 1930.{{citation needed|date=June 2014}} Bengtsson married Gerda Fineman in 1939 and the couple had a son.
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Books and Writers |id=bengtss |name=Frans G. Bengtsson}}
+* [http://fgb-sallskapet.org/ Frans G. Bengtsson-sällskapet] (The Frans G. Bengtsson society, in Swedish)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bengtsson, Frans Gunnar}}
+[[Category:1894 births]]
+[[Category:1954 deaths]]
+[[Category:People from Ängelholm Municipality]]
+[[Category:Writers from Scania]]
+[[Category:Swedish-language writers]]
+[[Category:Swedish historical novelists]]
+[[Category:Lund University alumni]]
+[[Category:Swedish essayists]]
+[[Category:20th-century Swedish novelists]]
+[[Category:20th-century essayists]]
+[[Category:Swedish biographers]]

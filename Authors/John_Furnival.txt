@@ -1,0 +1,79 @@
+{{Use dmy dates|date=June 2020}}
+{{Short description|British artist and teacher}}
+{{Infobox artist
+| honorific_prefix = 
+| name             = John Furnival
+| honorific_suffix = 
+| image            = 
+| image_size       = 
+| alt              = 
+| caption          = 
+| birth_date       = {{Birth date|1933|05|29|df=y}}
+| birth_place      = [[Brockley]], London, England
+| death_date       = {{Death date and age|2020|05|31|1933|05|29|df=y}}
+| death_place      = 
+| resting_place    = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality      = British
+| education        = {{plainlist|
+*[[Haberdashers' Aske's Hatcham College]]
+*[[Wimbledon College of Arts|Wimbledon School of Art]]
+*[[Royal College of Art]]}}
+| alma_mater       = 
+| known_for        = 'Wordscapes'<ref name="theguardian-moxham-tooby"/><ref name="bathspa"/>
+| notable_works    = 
+| style            = [[visual poetry|Visual]] and [[concrete poetry|concrete]] poetry
+| home_town        = 
+| movement         = GLOUP (the GLOUcestershire grouP)
+| spouse           = Astrid
+| partner          = 4
+| awards           = <!-- {{awd|award|year|title|role|name}} (optional) -->
+| elected          = 
+| patrons          = 
+| memorials        = 
+| website          = {{URL|www.johnfurnival.com}}
+| module           = 
+}}
+'''John Furnival''' (29 May 1933 – 31 May 2020) was a British artist and teacher, active in [[visual poetry|visual]] and [[concrete poetry|concrete]] poetry.<ref name="theguardian-moxham-tooby">{{cite news|first1=Bernard|last1=Moxham|first2=Mike|last2=Tooby|accessdate=18 June 2020|title=John Furnival obituary|url=https://www.theguardian.com/artanddesign/2020/jun/17/john-furnival-obituary|newspaper=The Guardian|date=17 June 2020|issn=0261-3077}}</ref> He was best known for his 'wordscapes'.<ref name="bathspa">{{cite web|accessdate=18 June 2020|title=John Furnival|url=https://www.bathspa.ac.uk/our-people/john-furnival/|website=www.bathspa.ac.uk}}</ref>
+
+His work is held in the collections of the [[Museum of Modern Art]] in New York, and [[Tate]], the [[British Museum]] and the [[Victoria and Albert Museum|V&A]] in London.
+
+==Life and work==
+Furnival was born in [[Brockley]], [[south London]].<ref name="theguardian-moxham-tooby"/> He studied at [[Haberdashers' Aske's Hatcham College]] (from 1944)<ref>{{cite web|first1=John|last1=Furnival|accessdate=2020-06-19|title=John Furnival, About John Furnival|url=https://www.johnfurnival.com/the-artist|website=johnfurnival.com}}</ref> then [[Wimbledon College of Arts|Wimbledon School of Art]] (1951–1952). Between 1954 and 1957 he did [[Conscription in the United Kingdom|national service]], receiving tuition in [[Russian language|Russian]] in Fife, Scotland then working in the [[War Office]] in [[Whitehall]], translating Russian documents.<ref name="theguardian-moxham-tooby"/> Afterwards he studied at the [[Royal College of Art]] (1957–1959).<ref name="theguardian-moxham-tooby"/><ref name="bathspa"/>
+
+He was best known for his 'wordscapes', "made by drawing letters, words, phrases and long passages directly on to paper, card or painted panels. Towers (the Tower of Babel especially) and mazes were his recurring themes, as were witty imagery and verbal gymnastics."<ref name="theguardian-moxham-tooby"/> His preferred medium was pen and ink", using "whatever came to hand – envelopes, food labels or commercial documents".<ref name="theguardian-moxham-tooby"/>
+
+In 1960, Furnival moved to [[Gloucestershire]] and taught at Cheltenham Art School and at Stroud Art College. The same year he married Astrid Belling and the pair moved to near [[Nailsworth]] in the [[Cotswolds]], where he spent most of his life.<ref name="theguardian-moxham-tooby"/><ref name="bathspa"/> He taught at Bath Academy of Art in Corsham, Wiltshire, and after its return to Bath, at [[Bath School of Art and Design]], between 1965 and 2002.<ref name="theguardian-moxham-tooby"/><ref name="bathspa"/>
+
+Furnival, [[Sylvester Houédard]] and [[Edward Wright (artist)|Edward Wright]], founded Openings in 1964 to publish [[visual poetry|visual]] and [[concrete poetry|concrete]] poetry.<ref name="theguardian-moxham-tooby"/> With Houédard and [[Kenelm Cox]], he founded GLOUP (the GLOUcestershire grouP) in 1974.<ref name="theguardian-moxham-tooby"/> Furnival also collaborated on print, drawing and book projects with [[Ian Hamilton Finlay]], [[Anselm Hollo]], Thomas Meyer and [[Jonathan Williams (poet)|Jonathan Williams]],<ref name="theguardian-moxham-tooby"/> and with his wife, a textile artist.<ref name="bathspa"/>
+
+He died on 31 May 2020, aged 87. He is survived by his wife Astrid and their children, Eve, Jack, Harry and Claudia.<ref name="theguardian-moxham-tooby"/>
+
+==Collections==
+Furnival's work is held in the following permanent collections:
+*[[British Museum]], London: 4 works (as of June 2020)<ref>{{cite web|accessdate=18 June 2020|title=Collections Online|url=https://www.britishmuseum.org/collection/term/BIOG28107|website=British Museum}}</ref>
+*[[Museum of Modern Art]], New York: 2 works (as of June 2020)<ref>{{cite web|accessdate=18 June 2020|title=John Furnival|url=https://www.moma.org/artists/69882|website=The Museum of Modern Art}}</ref>
+*[[Tate]], UK: 1 work (as of June 2020)<ref>{{cite web|last1=Tate|accessdate=18 June 2020|title=John Furnival born 1933|url=https://www.tate.org.uk/art/artists/john-furnival-17787|website=Tate}}</ref>
+*[[Victoria and Albert Museum]], London: 4 works (as of June 2020)<ref>{{cite web|accessdate=18 June 2020|title=Your Search Results|url=http://collections.vam.ac.uk/name/john-furnival/C6951/|website=Victoria and Albert Museum}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{Official website|www.johnfurnival.com}}
+
+{{Authority control}}
+{{DEFAULTSORT:Furnival, John}}
+
+[[Category:1933 births]]
+[[Category:2020 deaths]]
+[[Category:20th-century English artists]]
+[[Category:21st-century English artists]]
+[[Category:Academics of Bath Spa University]]
+[[Category:Alumni of Wimbledon College of Arts]]
+[[Category:Alumni of the Royal College of Art]]
+[[Category:Artists from London]]
+[[Category:English male artists]]
+[[Category:People from Brockley]]
+[[Category:Place of death missing]]
+[[Category:Writers from London]]

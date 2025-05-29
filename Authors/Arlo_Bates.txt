@@ -1,0 +1,84 @@
+{{Short description|American author}}{{Infobox person
+| name = Arlo Bates
+| image       = Arlo Bates.jpg
+| caption     =
+| birth_date = {{birth date|1850|12|16}}
+| birth_place = [[East Machias, Maine]]
+| death_date = {{death date and age|1918|8|25|1850|12|16}}<ref name="nyt" />
+| death_place = [[Boston, Massachusetts]]<ref name="nyt" />
+| alma_mater = [[Bowdoin College]]
+| occupation =
+| profession =
+| spouse = [[Harriet Bates|Harriet Leonora Vose]] (d. 1886)<ref name="nyt" />
+| religion =
+| signature = Arlo Bates signature.png
+| website =
+}}
+
+'''Arlo Bates''' (December 16, 1850 – August 25, 1918) was an American author, educator and newspaperman.
+
+==Biography==
+Arlo Bates was born at [[East Machias, Maine|East Machias]], [[Maine]]. He graduated from [[Bowdoin College]] in 1876. In 1880 Bates became the editor of the [[Boston, Massachusetts|Boston]] ''[[Boston Sunday Courier|Sunday Courier]]'' (1880–1893) and afterward became [[professor]] of English at the [[Massachusetts Institute of Technology]]. He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1900.<ref name="amacad" />
+
+==List of works==
+Novels:
+*''The [[Paganism|Pagan]]s'' (1884)<ref name="pagans" />
+*''The Wheel of Fire'' (1885)
+*''The [[Philistines]]'' (1888)<ref name="philistines" />
+*''Albrecht'' (1890)
+*''The  [[Puritan]]s'' (1899)<ref name="puritans" />
+*''Love in a Cloud'' (1900)
+
+Collected Poems:
+*''Berries of the Brier'' (1886)
+*''Sonnets in Shadow'', (1887)
+*''a Poet and his Self'' (1891)
+*''Told in the Gate'' (1892)
+*''The Torchbearers'' (1894)
+*''Under the Beech Tree'' (1899)
+
+Collected Criticisms:
+*''Talks on Writing English'' (1897)
+*''Talks on the Study of Literature'' (1898)
+*''The Diary of a Saint'' (1902)
+*''Talks on Teaching Literature'' (1906)
+
+Collected Stories:
+*''The Intoxicated [[Ghost]]'' (1908)
+
+In 1912 he wrote an introduction to [[Edwin Percy Whipple|E. P. Whipple's]] ''[[Charles Dickens]]''.
+
+==Notes==
+{{more footnotes|date=July 2013}}
+{{reflist|refs=
+<ref name="amacad">{{cite web|title=Book of Members, 1780–2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=May 20, 2011}}</ref>
+<ref name="nyt">{{Citation|title = ''Arlo Bates Dies- Author of Many Books and Teacher at Institute of Technology'' | page = 11 | work = The New York Times | location = New York, NY | date = August 26, 1918}}</ref>
+<ref name="pagans">{{Gutenberg|no=8671|name=The Pagans}}</ref>
+<ref name="philistines">{{Gutenberg|no=8570|name=The Philistines}}</ref>
+<ref name="puritans">{{Gutenberg|no=8522|name=The Puritans}}</ref>
+}}
+
+==References==
+*{{NIE}}
+
+==External links==
+*[http://library.bowdoin.edu/arch/mss/abg.shtml Arlo Bates papers] at [[Bowdoin College]]
+* {{Gutenberg author |id=Bates,+Arlo | name=Arlo Bates}}
+* {{Internet Archive author |sname=Arlo Bates}}
+* {{Librivox author |id=2668}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bates, Arlo}}
+[[Category:1850 births]]
+[[Category:1918 deaths]]
+[[Category:American newspaper editors]]
+[[Category:19th-century American novelists]]
+[[Category:Novelists from Massachusetts]]
+[[Category:Bowdoin College alumni]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:MIT School of Humanities, Arts, and Social Sciences faculty]]
+[[Category:People from East Machias, Maine]]
+[[Category:American male novelists]]
+[[Category:19th-century American male writers]]
+[[Category:American male non-fiction writers]]

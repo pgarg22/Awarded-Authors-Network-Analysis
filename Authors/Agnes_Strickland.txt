@@ -1,0 +1,87 @@
+{{Use British English|date=October 2016}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Agnes Strickland
+| image = Agnes Strickland by John Hayes.jpg
+| caption = Agnes Strickland by [[John Hayes (painter)|John Hayes]], 1846
+| birth_date = {{Birth date|df=yes|1796|7|18}}
+| death_date = {{death date and age|df=yes|1874|7|8|1796|8|19}}
+| occupation = Author
+| genre = History
+}}
+
+'''Agnes Strickland''' (18 July 1796 – 8 July 1874) was an English historical writer and poet. She is particularly remembered for her ''Lives of the Queens of England'' (12 vols, 1840–1848).
+
+==Biography==
+The daughter of Thomas Strickland and his wife Elizabeth ({{nee}} Homer), Agnes was born in [[Rotherhithe]], at that time in [[Surrey]], where her father was employed as a manager of the [[Greenland Dock]]. She was christened at [[St Mary's Church, Rotherhithe]] on 18 August 1796. The family subsequently moved to [[Thorpe Hamlet]], Norwich, and then Stowe House, near [[Bungay]], Suffolk, before settling in 1808 at Reydon Hall, [[Reydon]], near [[Southwold]], also in Suffolk.<ref>Cooper 1946.</ref> Agnes' siblings were Elizabeth, Sarah, [[Jane Margaret Strickland|Jane Margaret]], [[Catharine Parr Traill]], [[Susanna Moodie]] (1803–1885) Tom and Samuel Strickland. Agnes and her elder sister Elizabeth were educated by their father to a standard more usual for boys at that time. All of the children except Sarah and Tom eventually became writers.<ref>Mitchell 2004.</ref>
+
+Agnes began her literary career with a poem, ''Worcester Field'', followed by ''The Seven Ages of Woman'' and ''Demetrius''. Abandoning poetry, she produced ''Historical Tales of Illustrious British Children'' (1833), ''The Pilgrims of Walsingham'' (1835) and ''Tales and Stories from History'' (1836). Her chief works, however, are ''Lives of the Queens of England from the Norman Conquest, and Lives of the Queens of Scotland, and English Princesses, etc.''. (8 vols., 1850–1859), ''Lives of the Bachelor Kings of England'' (1861), and ''Letters of Mary Queen of Scots'', in some of which she was assisted by her sister Elizabeth. Strickland's researches were laborious and conscientious, and she remains a useful source. Her style is engaging and anecdotal, not as objective as most modern historians, but gives a valuable insight into the mores of her own time.
+
+Much of the Strickland sisters' historical research and writing was done by Elizabeth. Elizabeth, however, refused all publicity, and Agnes was named as sole author. Their biographical works are fine representations of the biographies written by Victorian women, many of which focused on female subjects and included aspects of social history such as dress, manners, and diet.<ref>Maitzen 1995.</ref>
+
+Agnes' sisters [[Susanna Moodie]] and [[Catharine Parr Traill]] became particularly well known for their works about pioneer life in early Canada,<ref>https://www.cbc.ca/archives/entry/roughing-it-with-moodie-and-traill {{Bare URL inline|date=November 2021}}</ref> where they both emigrated with their husbands in 1832. Agnes Strickland was a friend and correspondent of the Scottish poet and composer, [[Mary Maxwell Campbell]].<ref>{{cite book |last1=Edwards |first1=David H. |title=One hundred modern Scottish poets : with biographical and critical notices |date=1880 |publisher=Edwards |location=Brechin |page=[https://archive.org/details/onehundredmodern12edwa/page/176 176] |url=https://archive.org/details/onehundredmodern12edwa |access-date=18 November 2019}}</ref>
+
+==Literary works==
+
+===Biographies===
+* ''Lives of the Queens of England.'' 12 vols., 1840–1848
+* ''The Letters of Mary Queen of Scots.'' 1842–1843
+* ''Lives of the Queens of Scotland and English Princesses Connected with the Regal Succession of Great Britain.'' 8 Vols., 1851–1859
+* ''Lives of the Bachelor Kings of England.'' 1861
+* ''The Lives of the Seven Bishops Committed to the Tower in 1688. Enriched and Illustrated with Personal Letters, Now First Published, from the Bodleian Library.'' 1866
+* ''Lives of the Tudor Princesses, Including Lady Jane Gray and Her Sisters.'' 1868
+* ''Lives of the Last Four Princesses of the Royal House of Stuart.'' 1872
+
+===Children's books===
+* ''The Moss-House: In Which Many of the Works of Nature Are Rendered a Source of Amusement to Children.'' 1822
+* ''The Tell-Tell.'' 1823
+* ''The Aviary; Or, An Agreeable Visit. Intended for Children.'' 1824
+* ''The Use of Sight: Or, I Wish I Were Julia : Intended for the Amusement and Instruction of Children.'' 1824
+* ''The Little Tradesman, or, A Peep into English Industry.'' 1824
+* ''The Young Emigrant.'' 1826
+* ''The Rival Crusoes, or, The Shipwreck: Also A Voyage to Norway; and The Fisherman's Cottage : Founded on Facts.'' 1826
+* ''The Juvenile Forget Me Not; Or, Cabinet of Entertainment and Instruction.'' 1827
+* ''Historic Tales of Illustrious British Children.'' 1833
+* ''Tales of the School Room.'' 1835
+* ''Tales and Stories From History.'' 1836
+* ''Alda, the British Captive.'' 1841
+
+==Sources==
+;Attribution
+{{SBDEL|wstitle=Strickland, Agnes}}
+
+*{{Cite DNB|wstitle=Strickland, Agnes}}
+* {{cite journal |first=Ernest R. |last=Cooper |title=Agnes Strickland and her birth-place |journal=Proceedings of the Suffolk Institute of Archaeology & History |volume=24 |issue=1 |year=1946 |pages=33–35 |url=http://suffolkinstitute.pdfsrv.co.uk/customers/Suffolk%20Institute/2014/01/10/Volume%20XXIV%20Part%201%20(1946)_Agnes%20Strickland%20and%20her%20birth-place%20E%20R%20Cooper_33%20to%2035.pdf }}
+* {{cite book |editor-first=Stanley J. |editor-last=Kunitz |editor-link=Stanley J. Kunitz |chapter=Strickland, Agnes |title=British Authors of the Nineteenth Century |url=https://archive.org/details/britishauthorsof00kuni |url-access=registration |publisher=H. W. Wilson Company |location=New York |year=1936 }}
+* {{cite journal |first=Rohan |last=Maitzen |title=This feminine preserve: historical biographies by Victorian women |journal=[[Victorian Studies]] |volume=38 |issue=3 |year=1995 |pages=371–393 }}
+* {{ODNBweb |first=Rosemary |last=Mitchell |title=Strickland, Agnes (1796–1874) |year=2004 |edition=online |id=26663 }}
+* {{cite book |first=Una |last=Pope-Hennessy |title=Agnes Strickland: biographer of the queens of England, 1796–1874 |location=London |publisher=Chatto & Windus |year=1940 }}
+* {{cite book |first=Jane Margaret |last=Strickland |author-link=Jane Margaret Strickland |title=Life of Agnes Strickland |url=https://archive.org/details/lifeofagnesstric00striuoft |location=Edinburgh |publisher=W. Blackwood and Sons |year=1887 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Agnes Strickland}}
+{{wikisource author|Agnes Strickland}}
+* {{Gutenberg author | id=Strickland,+Agnes | name=Agnes Strickland}}
+* {{FadedPage|id=Strickland, Agnes|name=Agnes Strickland|author=yes}}
+* {{Internet Archive author |sname=Agnes Strickland}}
+* {{Librivox author |id=1287}}
+* {{OL author|113784A}}
+* [http://www.worldcat.org/search?q=agnes+strickland&fq=ap%3AAgnes+Strickland+%3E+yr%3A1830&qt=facet_yr%3A WorldCat.org] Accessed 29 June 2007
+* [https://web.archive.org/web/20070626235634/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.1 ''Lives of the Queens of England'', Vol. 1], [https://web.archive.org/web/20070626235509/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.2 2], [https://web.archive.org/web/20070627002735/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.3 3], [https://web.archive.org/web/20070626235353/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.4 4], [https://web.archive.org/web/20070627002701/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.5 5], [https://web.archive.org/web/20070626235608/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.6 6], [https://web.archive.org/web/20070626235330/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.7 7], [https://web.archive.org/web/20070626235307/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.8 8], [https://web.archive.org/web/20070626235422/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.9 9], [https://web.archive.org/web/20110716080438/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.10 10], [https://web.archive.org/web/20070627002602/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.11 11], [https://web.archive.org/web/20070627002758/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.12 12], [https://web.archive.org/web/20070626235657/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.13 13], [https://web.archive.org/web/20110716080538/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.14 14], [https://web.archive.org/web/20070626235533/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.15 15], [https://web.archive.org/web/20070627002536/http://posner.library.cmu.edu/Posner/books/book.cgi?call=920_S91L_VOL.16 16]
+* {{UK National Archives ID}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Strickland, Agnes}}
+[[Category:1796 births]]
+[[Category:1874 deaths]]
+[[Category:English women non-fiction writers]]
+[[Category:English historians]]
+[[Category:People from Southwold]]
+[[Category:19th-century English writers]]
+[[Category:19th-century historians]]
+[[Category:19th-century English women writers]]
+[[Category:British women historians]]

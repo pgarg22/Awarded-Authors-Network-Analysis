@@ -1,0 +1,104 @@
+{{Short description|Japanese poet, author, and literary critic}}
+{{Use mdy dates|date=February 2014}}
+{{Infobox person <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name               = Masaoka Shiki
+| image              = Masaoka Shiki.jpg
+| caption            = Masaoka Shiki c. 1900
+| birth_date         = October 14, 1867<ref name=birth>[[#JB1|Beichman]], p. 2</ref>
+| birth_place        = [[Matsuyama, Ehime]], [[Japan]]<ref name=birth/>
+| death_date         = September 19, 1902 (age 34)
+| death_place        = [[Tokyo]], [[Japan]]
+| occupation         = Writer, journalist
+| movement           = 
+| parents            = Masaoka Tsunenao
+| influences         = 
+}}
+{{family name hatnote|Masaoka|lang=Japanese}}
+{{nihongo|'''Masaoka Shiki'''|正岡 子規|extra=October 14, 1867 – September 19, 1902}}, pen-name of '''Masaoka Noboru''' (正岡 升),<ref>{{cite book|author=Natsume Sōseki|author-link=Natsume Sōseki|title=Ten nights of dream, Hearing things, The heredity of taste|publisher=Tuttle|year=1974|page=11}}</ref> was a Japanese [[Japanese poetry|poet]], author, and [[literary critic]] in [[Meiji period]] Japan. Shiki is regarded as a major figure in the development of modern [[haiku]] poetry,<ref>[[#JB1|Beichman]], Preface, p. i</ref> credited with writing nearly 20,000 stanzas during his short life.<ref name=shiki-kushuu>{{cite book|last1=Masaoka|first1=Shiki|year=1940|editor1-last=Takahama|editor1-first=Kyoshi|title=子規句集|script-title=ja:Shiki Kushuu|trans-title=Shiki Haiku Collection|language=ja|location=Tokyo|publisher=Iwanami Shoten|publication-date=1993|pages=4|quote=原句は凡そ二万句足らずある中から見るものの便をはかって、二千三百六句を選んだ。}}</ref> He also wrote on reform of ''[[tanka]]'' poetry.<ref name=tankaref/>
+
+Some consider Shiki to be one of the four great haiku masters, the others being [[Matsuo Bashō]], [[Yosa Buson]], and [[Kobayashi Issa]].<ref name=5greats>{{cite book|author=Burton Watson|author-link=Burton Watson|chapter=Introduction|title=[[#Selected|''Masaoka Shiki: selected poems'']]|year=1997|chapter-url=https://books.google.com/books?id=zfk5EkyOaRMC&q=burton%20watson%20shiki&pg=PA5|page=5|isbn=9780231110914}}</ref><ref>{{cite book|last1=Higginson|first1=William J.|year=1985|chapter=The Four Great Masters of Japanese Haiku|title=The Haiku Handbook: How to Write, Share, and Teach Haiku|location=Tokyo|publisher=Kodansha International|publication-date=1989|pages=7–24}}</ref>
+
+==Early life==
+Shiki, or rather Tsunenori (常規) as he was originally named,<ref>Frédéric, Louis. ''Japan encyclopedia''. Harvard University Press, 2005. {{ISBN|978-0-674-01753-5}}. p. 613</ref> was born in [[Matsuyama, Ehime|Matsuyama City]] in [[Iyo Province]] (present day [[Ehime Prefecture]]) to a [[samurai]] class family of modest means.<ref name=birth/> As a child, he was called Tokoronosuke (處之助); in adolescence, his name was changed to Noboru (升).{{citation needed|date=October 2017}}
+
+His father, Tsunenao (正岡常尚),<ref>[http://www.shikian.or.jp/sikian2-2.htm Official website of the ''Shiki-an''] {{webarchive|url=https://web.archive.org/web/20130624021929/http://www.shikian.or.jp/sikian2-2.htm |date=June 24, 2013 }}, Shiki's Tokyo residence, page {{nihongo|"Shiki's Family"|子規の家族|Shiki no Kazoku}} (in Japanese)</ref><ref>{{cite web | url = http://p-www.iwate-pu.ac.jp/~acro-ito/Japan_pics/Japan_EMY/imageidx.html | title = Image Index: Matsuyama City, Ehime | work = Atelier Aterui | access-date = January 5, 2014 }}</ref> was an alcoholic who died when Shiki was five years of age.<ref name=birth/> His mother, Yae,<ref name=page27>[[#JB1|Beichman]], p. 27</ref> was a daughter of Ōhara Kanzan, a [[Confucianism|Confucian]] scholar.<ref name=birth/> Kanzan was the first of Shiki's extra-school tutors; at the age of 7 the boy began reading [[Mencius]] under his tutelage.<ref name=mencius/> Shiki later confessed to being a less-than-diligent student.<ref name=mencius>[[#JB1|Beichman]], p. 4</ref>
+
+At age 15 Shiki became something of a political radical, attaching himself to the then-waning [[Freedom and People's Rights Movement]] and getting himself banned from public speaking by the principal of [[Ehime Prefectural Matsuyama Higashi High School|Matsuyama Middle School]], which he was attending.<ref name=matsuyamamiddle>[[#JB1|Beichman]], pp. 7–8</ref> Around this time he developed an interest in moving to Tokyo and did so in 1883.<ref name=scholarship1>[[#JB1|Beichman]], pp. 8–9</ref>
+
+==Education==
+The young Shiki first attended his hometown [[Ehime Prefectural Matsuyama Higashi High School|Matsuyama Middle School]], where Kusama Tokiyoshi, a leader of the discredited [[Freedom and People's Rights Movement]], had recently served as principal.<ref name=matsuyamamiddle/> In 1883, a maternal uncle arranged for him to come to Tokyo.<ref name=scholarship1/> Shiki was first enrolled in Kyōritsu Middle School and later matriculated into University Preparatory School.<ref name=bloodc/> (Daigaku Yobimon) affiliated with Imperial University ([[University of Tokyo|Teikoku Daigaku]]).<ref>[[#JB1|Beichman]], p. 9</ref> While studying here, the teenage Shiki enjoyed playing baseball<ref name=bball/> and befriended fellow student [[Natsume Sōseki]], who would go on to become a famous novelist.<ref>{{Cite book | editor-first = Donald H. | editor-last = Shively | title = Tradition and Modernization in Japanese Culture | publisher = Princeton University Press | year = 1971 | location = Princeton, NJ | page = [https://archive.org/details/traditionmoderni0000unse/page/384 384] | isbn = 0-691-03072-3 | url = https://archive.org/details/traditionmoderni0000unse/page/384 }}</ref>
+
+He entered [[University of Tokyo|Tokyo Imperial University]] in 1890.<ref name=dropout/> But by 1892 Shiki, by his own account too engrossed in haiku writing, failed his final examinations, left the [[Hongō, Tokyo|Hongō]] dormitory that had been provided to him by a scholarship, and dropped out of college.<ref name=dropout/> Others say [[tuberculosis]], an illness that dogged his later life, was the reason he left school.<ref>{{Cite book | ref = Skato | last = Kato | first = Shuichi | author-link = Shūichi Katō (critic) | title = A History of Japanese Literature: The Modern Years | publisher = Kodansha International | volume = 3 | year = 1983 | location = Tokyo, New York, and San Francisco | page = 133 | isbn = 0-87011-569-3}}</ref>
+
+==Literary career==
+While Shiki is best known as a haiku poet,<ref name=claimtofame/> he wrote other genres of poetry,<ref>Burton, Watson. Introduction. [[#Selected|''Masaoka Shiki: selected poems'']], [https://books.google.com/books?id=zfk5EkyOaRMC&lpg=PP1&dq=burton%20watson%20shiki&pg=PA11#v=onepage&q&f=false p. 11]</ref> prose criticism of poetry,<ref name=critic/> autobiographical prose,<ref name=critic>[[#JB1|Beichman]], p. 22</ref> and was a short prose essayist.<ref name=page27/> (His earliest surviving work is a school essay, ''Yōken Setsu'' ("On Western Dogs"), where he praises the varied utility of [[Western world|western]] dogs as opposed to Japanese ones, which "only help in hunting and scare away burglars."<ref>[[#JB1|Beichman]], p. 5</ref>)
+
+Contemporary to Shiki was the idea that traditional Japanese poetic short forms, such as the [[haiku]] and ''[[tanka]]'', were waning due to their incongruity in the modern [[Meiji period]].<ref name=bloodc>[[#JB1|Beichman]], p. 14</ref> Shiki, at times, expressed similar sentiments.<ref>{{Cite book | last = Keene | first = Donald | ref = DK1 | author-link = Donald Keene | title = Some Japanese Portraits | publisher = Kodansha International | year = 1978 | location = Tokyo, New York, and San Francisco | page = [https://archive.org/details/somejapaneseport00keen/page/200 200] | isbn = 0870112988 | url = https://archive.org/details/somejapaneseport00keen/page/200 }}</ref> There were no great living practitioners although these forms of poetry retained some popularity.<ref>[[#DK1|Keene]], pp. 195–198</ref>
+
+Despite an atmosphere of decline, only a year or so after his 1883 arrival in Tokyo, Shiki began writing haiku.<ref name=dropout>[[#JB1|Beichman]], pp. 15–16</ref> In 1892, the same year he dropped out of university, Shiki published a [[Serial (literature)|serialized]] work advocating haiku reform, ''Dassai Shooku Haiwa'' or "Talks on Haiku from the Otter's Den".<ref name=claimtofame/> A month after completion of this work, in November 1892, he was offered a position as haiku editor in the paper that had published it, ''Nippon'', and maintained a close relationship with this journal throughout his life.<ref name=claimtofame/> In 1895 another serial was published in the same paper, "A Text on Haikai for Beginners", ''Haikai Taiyō''.<ref name=claimtofame>[[#JB1|Beichman]], [https://archive.org/details/masaokashikihisl0000beic/page/23 <!-- quote=masaoka shiki. --> pp. 18–19]</ref> These were followed by other serials: ''Meiji Nijūkunen no Haikukai'' or "The Haiku World of 1896" where he praised works by disciples<ref name=ito>[[#JB1|Beichman]], pp. 27–28</ref> [[Kyoshi Takahama|Takahama Kyoshi]] and Kawahigashi Hekigotō,<ref name=buson>[[#JB1|Beichman]], p. 25</ref> ''Haijin Buson'' or "The Haiku Poet [[Yosa Buson|Buson]]" (1896–1897<ref name=buson/>) expressing Shiki's idea of this 18th-century poet whom he identifies with his school of haiku,<ref name=tankaref>[[#JB1|Beichman]], p. 26</ref> and ''Utayomi ni Atauru Sho'' or "Letters to a Tanka Poet" (1898) where he urged reform of the ''[[Tanka (poetry)|tanka]]'' poetry form.<ref name=tankaref/>
+
+The above work, on ''tanka'', is an example of Shiki's expanded focus during the last few years of his life. He died four years after taking up ''tanka'' as a topic.<ref>[[#DK1|Keene]], p. 202</ref> Bedsore and morphine-addled, little more than a year before his death Shiki began writing sickbed diaries.<ref>[[#JB1|Beichman]], pp. 26–29</ref> These three are ''Bokujū Itteki'' or "A Drop of Ink" (1901), ''Gyōga Manroku'' or "Stray Notes While Lying on My Back" (1901–1902), and ''Byōshō Rokushaku'' or "A Sixfoot Sickbed" (1902).<ref name=tankaref/>
+
+==Later life==
+Shiki suffered from [[tuberculosis]] (TB) much of his life. In 1888<ref>[[#DK1|Keene]], p. 198</ref> or 1889<ref name=penname/> he began coughing up blood<ref name=bloodc/> and soon adopted the [[pen-name]] "Shiki" from the Japanese ''hototogisu''—the Japanese name for [[lesser cuckoo]]s.<ref name=penname>[[#JB1|Beichman]], p. 20</ref> The Japanese word ''hototogisu'' can be written with various combinations of [[kanji|Chinese characters]], including 子規, which can alternatively be read as either ''"hototogisu"'' or ''"shiki".'' It is a Japanese conceit that this bird coughs blood as it sings,<ref name=penname/> which explains why the name "Shiki" was adopted.
+
+Suffering from the early symptoms of TB, Shiki sought work as a war correspondent in the [[First Sino-Japanese War]]<ref name=penname/> and, while eventually obtaining his goal, he arrived in China after the April 17, 1895 signing of the [[Treaty of Shimonoseki]].<ref name=sinojpn>[[#JB1|Beichman]], p. 21</ref> Instead of reporting on the war, he spent an unpleasant time harassed by Japanese soldiers<ref>{{Cite book | last = Rabson | first = Steve | title = Righteous cause or tragic folly: changing views of war in modern Japanese poetry | publisher = the Center for Japanese Studies, the University of Michigan | year = 1998 | location = Ann Arbor, MI | pages = 23–26 | isbn = 0-939512-77-7}}</ref> in [[Dalian]], Luangtao, and the [[Lüshunkou District]], meeting on May 10, 1895<ref>{{Cite book | last = Bowring | first = Richard John | title = Mori Ōgai and the modernization of Japanese culture | publisher = Cambridge University Press | series = University of Cambridge oriental publications | volume = 28 | year = 1979 | location = London, New York, Melbourne | pages = 175 | isbn =0-521-21319-3 }}</ref> the famous novelist [[Mori Ōgai]], who was at the time an army doctor.<ref name=sinojpn/>
+
+Living in filthy conditions in China apparently worsened his TB.<ref name=sinojpn/> Shiki continued to cough blood throughout his return voyage to Japan and was hospitalized in [[Kobe]].<ref name=sinojpn/> After being discharged, he returned to his home town of [[Matsuyama, Ehime|Matsuyama city]] and convalesced in the home of the famed novelist [[Natsume Sōseki]].<ref name=sinojpn/> During this time he took on disciples and promulgated a style of haiku that emphasized gaining inspiration from personal experiences of nature.<ref name=sinojpn/> Still in Matsuyama in 1897, a member of this group, Yanigihara Kyokudō, established a haiku magazine, ''[[Hototogisu (magazine)|Hototogisu]]'',<ref name=tankaref/> an allusion to Shiki's pen name.<ref name=penname/> Operation of this magazine was quickly moved to Tokyo. Takahama Kyoshi, another disciple,<ref name=ito/> assumed control and the magazine's scope was extended to include prose work.<ref name=page27/>
+
+Shiki came to Tokyo,<ref>[[#JB1|Beichman]], p. 23</ref> and his group of disciples there were known as the "Nippon school" after the paper where he had been haiku editor and that now published the group's work.<ref name=buson/>
+
+Although bedridden by 1897,<ref name=tankaref/> Shiki's disease worsened further around 1901.<ref name=page27/> He developed [[Pott disease|Pott's disease]] and began using [[morphine]] as a painkiller.<ref name=page27/> By 1902 he may have been relying heavily on the drug.<ref>[[#JB1|Beichman]], p. 28</ref> During this time Shiki wrote three autobiographical works.<ref name=tankaref/> He died of tuberculosis in 1902 at age 34.<ref name=penname/>
+
+==Legacy==
+[[File:Shiki Masaoka stone monument is recognized as one of the symbols of Matsuyama-City.JPG|thumb|A monument containing a haiku by Shiki, in front of [[Matsuyama Station (Ehime)|Matsuyama Station]]]]
+
+Shiki may be credited with salvaging traditional short-form Japanese poetry and carving out a niche for it in the modern [[Meiji period]].<ref>[[#DK1|Keene]], p. 203</ref> While he advocated reform of haiku, this reform was based on the idea that haiku was a legitimate literary genre.<ref name=page32>[[#JB1|Beichman]], p. 32</ref> He argued that haiku should be judged by the same yardstick that is used when measuring the value of other forms of literature — something that was contrary to views held by prior poets.<ref>[[#Skato|Kato]], p. 134</ref> Shiki firmly placed haiku in the category of literature, and this was unique.{{Citation needed|date=September 2011}}
+
+Some modern haiku deviate from the traditional 5–7–5 sound pattern and dispensing with the [[kigo]] ("season word"); Shiki's haiku reform advocated neither break with tradition.<ref name=5greats/>
+
+His particular style rejected "the puns or fantasies often relied on by the old school" in favor of "realistic observation of nature".<ref>[[#JB1|Beichman]], p. 45</ref> Shiki, like other Meiji period writers,{{citation needed|date=September 2011}} borrowed a dedication to realism from Western literature. This is evident in his approach to both haiku<ref name=page32/> and ''tanka''.<ref>Burton, Watson. Introduction. [[#Selected|''Masaoka Shiki: selected poems'']], [https://books.google.com/books?id=zfk5EkyOaRMC&lpg=PP1&dq=burton%20watson%20shiki&pg=PA9#v=onepage&q&f=false p. 9]</ref>
+
+===Baseball===
+Shiki played [[baseball]] as a teenager and was inducted into the [[Japanese Baseball Hall of Fame]] in 2002.<ref name=bball>{{cite web|url=http://english.baseball-museum.or.jp/baseball_hallo/detail/detail_144.html|title=Masaoka Shiki|publisher=Japanese Baseball Hall of Fame|access-date=July 20, 2008}}</ref> A group of 1898 ''[[tanka]]'' by him mention the sport.<ref>[[#JB1|Beichman]], pp. 89, 91</ref>
+
+==See also==
+*[[Haiku]]
+*[[Masaoka Shiki International Haiku Awards]]
+*[[Shiki Memorial Museum]]
+*[[Sokotsu Samukawa|Samukawa Sokotsu]]
+
+==References==
+{{Reflist|30em}}
+
+== Further reading ==
+* {{Citation | last = Beichman | first = Janine | ref = JB1 | title = Masaoka Shiki: his life and works | publisher = Cheng & Tsui | year = 2002 | edition = revised | isbn = 0-88727-364-5 | url-access = registration | url = https://archive.org/details/masaokashikihisl0000beic }}
+*Masaoka, Shiki, ''Songs from a Bamboo Village: Selected Tanka from Take no Sato Uta'', translated by Sanford Goldstein and Seishi Shinoda, [[Rutland (city), Vermont|Rutland, Vermont]]: Charles E. Tuttle Co. © 1998 {{ISBN|0-8048-2085-6}} pbk [488 pp.&nbsp;298 tanka]
+*Masako, Hirai, ed. ''Now, To Be! Shiki’s Haiku Moments for Us Today / Ima, ikiru! Shiki no sekai''. U-Time Publishing, 2003, {{ISBN|4-86010-040-9}}
+* {{Cite book|first=Masaoka | last = Shiki| ref = Selected |title=Masaoka Shiki: selected poems | publisher = Columbia University Press | year = 1997 | url= https://books.google.com/books?id=zfk5EkyOaRMC | isbn = 0-231-11090-1}}
+
+== External links ==
+{{wikiquote}}
+{{commons category}}
+* {{in lang|ja}} [http://www.aozora.gr.jp/index_pages/person305.html#sakuhin_list_1 e-texts of Shiki's works (Japanese only)] at [[Aozora bunko]]
+* [https://web.archive.org/web/20110604021659/http://etext.lib.virginia.edu/japanese/shiki/beichman/BeiShik.utf8.html Selected Poems (haiku and tanka) of Masaoka Shiki, Translated by Janine Beichman] at [http://etext.virginia.edu/japanese/ University of Virginia Library Japanese Text Initiative] poem translations from 'Masaoka Shiki' by Janine Beichman
+* [https://web.archive.org/web/20070930230321/http://haiku.cc.ehime-u.ac.jp/~shiki/sm/sm.html Ehime University site on Masaoka Shiki with photos, poetry]
+* [http://www.terebess.hu/english/haiku/shiki.html fan site with bio and poems]
+* [http://www.ndl.go.jp/portrait/e/datas/329.html National Diet Library bio and photos]
+* {{Internet Archive author |sname=Masaoka Shiki}}
+* {{Librivox author |id=10072}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Masaoka, Shiki}}
+[[Category:Japanese literary critics]]
+[[Category:Japanese baseball players]]
+[[Category:20th-century deaths from tuberculosis]]
+[[Category:1867 births]]
+[[Category:1902 deaths]]
+[[Category:People from Matsuyama, Ehime]]
+[[Category:University of Tokyo alumni]]
+[[Category:People of Meiji-period Japan]]
+[[Category:Tuberculosis deaths in Japan]]
+[[Category:19th-century Japanese poets]]
+[[Category:Japanese haiku poets]]

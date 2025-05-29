@@ -1,0 +1,77 @@
+{{short description|French writer and filmmaker}}
+{{more footnotes|date=November 2011}}
+{{Expand French|date=February 2016|Armand Gatti|topic=bio}} 
+{{Infobox person
+| name =  Armand Gatti
+| birth_date = {{birth date|1924|1|26|df=y}}
+| birth_place = [[Monte Carlo]], [[Monaco]]
+| death_date = {{death date and age|2017|4|6|1924|1|26|df=y}}
+| death_place = [[Saint-Mandé]], [[France]]
+| occupation = {{flatlist|
+* Playwright
+* poet
+* journalist
+* screenwriter
+* filmmaker
+}}
+| years_active = 1960–2012
+}}
+'''Armand Gatti''' ({{IPA-fr|gati|lang}}; 26 January 1924 – 6 April 2017) was a French playwright, poet, journalist, screenwriter, filmmaker and World War II resistance fighter.<ref name=cct>Banham (1998, 413).</ref> His debut film ''[[Enclosure (film)|Enclosure]]'' was entered into the [[2nd Moscow International Film Festival]] where he won the Silver Prize for Best Director.<ref name="Moscow1961">{{cite web|url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1961 |title=2nd Moscow International Film Festival (1961) |accessdate=2012-11-11 |work=MIFF |url-status=dead |archiveurl=https://web.archive.org/web/20130116210653/http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1961 |archivedate=2013-01-16 }}</ref> Two years later, his film ''[[El Otro Cristóbal]]'' was entered into the [[1963 Cannes Film Festival]].<ref name="festival-cannes.com">{{cite web |url=http://www.festival-cannes.com/en/archives/ficheFilm/id/3099/year/1963.html |title=Festival de Cannes: El Otro Cristóbal |accessdate=2009-02-27|work=festival-cannes.com}}</ref>
+
+In 2013 he was awarded the [[Grand prix du théâtre (Académie française)|Grand prix du théâtre de l'Académie française]].
+
+==Biography==
+One of the most acclaimed theater writer/directors of the 20th century, Gatti was originally a member of the informal Left Bank group of filmmakers that included [[Alain Resnais]], [[Chris Marker]], [[Agnès Varda]], [[Henri Colpi]] and [[Jean Cayrol]], but because none of his films have been released on video in the US, he remains an elusive figure for many cinephiles. He appears in Resnais' ''[[Toute la mémoire du monde]]'' (1956) and in Marker's ''Immemory'' CD-Rom; he wrote ''China'' (1956) for Marker's ''Petite Planète'' collection and traveled with Marker in the making of ''[[Letter from Siberia]]'' (1957), which inspired his book ''Siberia — Zero + Infinity'' the following year.
+
+According to his 1989 biographer, [[Dorothy Knowles (academic)|Dorothy Knowles]], Gatti was born in 1924 in a [[shantytown]] in [[Monaco]] to Auguste Rainier an Italian anarchist from [[Piedmont]], who escaped murder in a [[Chicago]] slaughterhouse because of his political activities and fled [[Benito Mussolini]]'s regime and to Letizia Lusona a maid.<ref>{{cite web|last1=Lafosse|first1=Philippe|title=Eloge de la révolution|url=http://www.monde-diplomatique.fr/2001/02/LAFOSSE/1858|website=monde-diplomatique.fr|accessdate=24 October 2015}}</ref> During [[World War II]], Gatti joined a small [[French resistance]] [[Maquis (World War II)|maquis]]. Captured, tortured, and sentenced to a [[concentration camp]] in [[Hamburg]] where he was forced to work in a diving bell at the bottom of the [[Baltic Sea]], Gatti eventually escaped and joined a British [[Special Air Service]] [[special forces]] team. After the war, he worked as an award-winning journalist for many years until he traveled with Marker, published his first plays, and directed his first film, ''[[Enclosure (film)|Enclosure]]'' (''L'Enclos'', 1961).
+
+L'Enclos was screened out of competition at the [[Cannes Film Festival]] but it was hailed by Truffaut, Resnais, Cocteau and others.
+
+He was awarded the French [[Legion of Honour]] in 1999, the [[Ordre des Arts et des Lettres]] in 2004 and the Grand prix du théâtre from the [[Académie française]] in 2013.
+
+He died on 6 April 2017.<ref>[http://www.lemonde.fr/disparitions/article/2017/04/06/mort-d-armand-gatti-figure-du-theatre-du-xxe-siecle_5106966_3382.html Mort d’Armand Gatti, figure du théâtre du XXe siècle] {{in lang|fr}}</ref>
+
+==Theatrical works==
+*1957 ''Le Poisson noir'' (awarded [[Fénéon Prize]])
+
+==Filmography==
+*1960 ''Moranbong, une aventure coréenne'' (writer only)
+*1961 ''[[Enclosure (film)|Enclosure]]'' 
+*1963 ''[[El Otro Cristóbal]]''
+*1968 ''Das imaginäre Leben des Straßenkehrers Auguste G.''  (writer only)
+*1970 ''Der Übergang über den Ebro''
+*1983 ''Nous étions tous des noms d'arbres''
+
+==References==
+{{reflist}}
+
+==Sources==
+* Banham, Martin, ed. 1998. ''The Cambridge Guide to Theatre.'' Cambridge: Cambridge UP. {{ISBN|0-521-43437-8}}.
+
+==External links==
+* [http://www.armand-gatti.org/ Official site]
+*{{IMDb name|id=0309775|name=Armand Gatti}}
+*[Biography (in French) http://www.armand-gatti.org/index.php?cat=biographie]
+*[DVD http://www.editionsmontparnasse.fr/p1364/Le-Lion-sa-cage-et-ses-ailes-DVD]
+*[https://www.avis-de-deces.com/deces-celebrites/2200/Mort-A-L-Age-De-93-Ans-D-Armand-Gatti Gatti passed away at the Begin Hospital in Vincennes on Thursday, April 6th.]
+
+{{Authority control}}
+
+{{French New Wave}}
+
+{{DEFAULTSORT:Gatti, Armand}}
+[[Category:1924 births]]
+[[Category:2017 deaths]]
+[[Category:20th-century French dramatists and playwrights]]
+[[Category:20th-century French poets]]
+[[Category:French journalists]]
+[[Category:French film directors]]
+[[Category:Albert Londres Prize recipients]]
+[[Category:French Resistance members]]
+[[Category:Nazi concentration camp survivors]]
+[[Category:Special Air Service soldiers]]
+[[Category:French people of Italian descent]]
+[[Category:People of Piedmontese descent]]
+[[Category:Prix Fénéon winners]]
+[[Category:Monegasque people]]
+[[Category:French expatriates in Germany]]

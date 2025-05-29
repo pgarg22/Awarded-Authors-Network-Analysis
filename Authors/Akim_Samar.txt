@@ -1,0 +1,66 @@
+{{more citations needed|date=January 2012}}
+{{Infobox writer
+| name             = Akim Samar
+| embed            = 
+| honorific_prefix = 
+| honorific_suffix = 
+| image            = 
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| native_name      = Аким Дмитриевич Самар
+| native_name_lang = ru
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = 1916
+| birth_place      = Russian Far East  
+| death_date       = 1943
+| death_place      = Battle of Stalingrad
+| resting_place    = 
+| occupation       = Poet and novelist
+| language         = Nanai
+| residence        = 
+| nationality      = Soviet
+| citizenship      = 
+| education        = Institute of the Peoples of the North 
+| alma_mater       = 
+| period           = 
+| genre            = <!-- or: | genres = -->
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notableworks     = Songs of the Nanai, Poems, A Poor Man's Son
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Akim Dmitriyevich Samar''' ({{lang-ru|Аким Дмитриевич Самар}}, 1916–1943) was a [[Soviet Union|Soviet]] poet and novelist regarded as the first [[Nanai-language]] writer.
+
+Born in the [[Russian Far East]] in 1916, Samar was a student at [[Institute of the Peoples of the North]] in [[Leningrad]] and joined the [[Red Army]] after [[Nazi Germany]] [[Operation Barbarossa|invaded the Soviet Union]]. He died at the [[Battle of Stalingrad]] in 1943. His works included the poetry collections ''Songs of the Nanai'' (1938) and ''Poems'' (1940) and the 1941 [[novel]] ''A Poor Man's Son''.
+
+==External links==
+* [http://bse.sci-lib.com/article099125.html Akim Dmitriyevich Samar] in the ''[[Great Soviet Encyclopedia]]'' {{in lang|ru}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Samar, Akim}}
+[[Category:1916 births]]
+[[Category:1943 deaths]]
+[[Category:People from Solnechny District]]
+[[Category:People from Primorskaya Oblast]]
+[[Category:Soviet novelists]]
+[[Category:Soviet male writers]]
+[[Category:20th-century male writers]]
+[[Category:Soviet poets]]
+[[Category:Male poets]]
+[[Category:Soviet military personnel killed in World War II]]
+[[Category:Tungusic peoples]]

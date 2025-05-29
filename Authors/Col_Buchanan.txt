@@ -1,0 +1,41 @@
+{{short description|Northern Irish fantasy writer|bot=PearBOT 5}}
+{{notability|bio|date=January 2011}}
+{{Infobox writer <!-- for information see [[Template:Infobox Writer/doc]] -->
+| name = Col Buchanan 
+| birth_name = Col Buchanan
+| birth_date=1973
+| birth_place= [[Lisburn]], Northern Ireland
+| occupation = Novelist
+| website = {{URL|http://www.colbuchanan.com}}
+}}
+
+'''Col Buchanan''' (born 1973 [[Lisburn]], Northern Ireland) is a Northern Irish fantasy writer. His first two books are ''[[Farlander]]'' and ''[[Stands a Shadow]]''.<ref>http://www.isfdb.org/cgi-bin/ea.cgi?130355</ref>
+
+He lives in [[Lancaster, England]].<ref>http://us.macmillan.com/author/colbuchanan</ref>
+
+== Works ==
+'''Heart of the World''' series
+# ''[[Farlander]]'' (March 2010)
+# ''[[Stands a Shadow]]'' (July 2011)
+# ''The Black Dream'' (March 2015)
+# ''Fierce Gods'' (February 2017)
+
+==Reviews==
+*{{cite news| url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/fiction/article7092352.ece| date=April 10, 2010| title=Sci-fi and fantasy by Alastair Reynolds, Col Buchanan, Peter Straub and Joe Hill| author=Lisa Tuttle| work=The Sunday Times }}
+*[https://archive.is/20130124190948/http://www.graemesfantasybookreview.com/2010/02/farlander-col-buchanan-tor-uk.html "‘Farlander’ – Col Buchanan (Tor UK)"], ''Graeme's Fantasy Book Review'', 25 February 2010
+*[http://www.fantasticfiction.co.uk/b/col-buchanan/farlander.htm "''Farlander'' (2010), A novel by Col Buchanan"], ''Fantastic Fiction''
+*''Barnes & Noble'' [https://web.archive.org/web/20130406033232/http://bookclubs.barnesandnoble.com/t5/Explorations-The-BN-SciFi-and/Farlander-Col-Buchanan-s-Hypnotic-Debut-Novel-is-an-Epic-Fantasy/ba-p/854304 ''Farlander'' (Tor 2010)]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://civilian-reader.blogspot.co.uk/2011/06/interview-with-col-buchanan.html Interview with Col Buchanan]
+*{{official website|http://www.colbuchanan.com/}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Buchanan, Col}}
+[[Category:Living people]]
+[[Category:1973 births]]
+[[Category:British fantasy writers]]

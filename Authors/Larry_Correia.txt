@@ -1,0 +1,205 @@
+{{short description|American fantasy writer}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Larry Correia
+| image       = Larry Correia.jpg
+| pseudonym   =
+| caption     = Correia at [[WorldCon]]
+| birth_name  = Larry Correia
+| birth_date  = 1977<ref name=birthday>{{cite web |url=https://www.baen.com/podcastfiles/mp3/baen-free-radio-hour-2018-08-31-Correia-1-Black-Sword-7.mp3  |title=Podcast |website=www.baen.com}}</ref><!--Do not add month and day per WP:BLPPRIVACY-->
+| birth_place = El Nido, California, United States
+| death_date  =
+| death_place =
+| occupation  = Author
+| nationality = American
+| alma_mater  = [[Utah State University]]
+| period      = 2007–present
+| genre       = {{unbulleted list|[[Urban fantasy]]|[[Thriller (genre)|Thriller]]|[[Fantasy]]|[[Science fiction]]}}
+| notableworks= {{unbulleted list|''Monster Hunter International''|''Hard Magic''|''Spellbound''|''[[Son of the Black Sword]]''|''Monster Hunter Memoirs: Grunge''|''[[House of Assassins]]''}}
+| awards      = {{unbulleted list|[[Audie Award|Audie]] (2012, 2013)|[[Dragon Awards|Dragon]] (2016, 2017, 2019, 2021)}}
+| influences  =
+| influenced  =
+| signature   =
+| website     = {{URL|monsterhunternation.com}}
+}}
+
+'''Larry Correia''' is an American fantasy and science fiction writer, known for his ''Monster Hunter'', ''Grimnoir Chronicles'', and ''Saga of the Forgotten Warriors'' series. He has authored or co-authored over 20 novels, has over 50 published short works, and has co-edited two published anthologies.
+
+He was nominated for the [[John W. Campbell Award for Best New Writer]] in 2011, and his works have been nominated for the [[Audie Award]] multiple times, winning twice. He has won the [[Dragon Awards|Dragon Award]] for Best Military Science Fiction or Best Fantasy Novel four times. In 2014, Correia started the failed [[Sad Puppies]] campaign to nominate works for the [[Hugo Award]], including his own, that he claimed were more popular but often unfairly passed over by voters in favor of more literary works or stories with progressive political themes.
+
+==Early life==
+Correia grew up in El Nido, California working on his Portuguese father's dairy farm until his mid-teens, when his family moved to Utah. He stayed in California for about a year before joining his family in Utah. While attending [[Utah State University]], Correia—who was raised [[Catholic]]—joined [[The Church of Jesus Christ of Latter-day Saints]] and served a two-year mission in Alabama.<ref name="about">{{cite web | url=http://monsterhunternation.com/about/| title=About me | author=Correia, Larry | publisher=Monster Hunter Nation | date=2013 | access-date=June 14, 2014}}</ref>
+
+After returning home from his mission, he got married before graduating with an accounting degree. He worked as an accountant for several years before Correia opened a gun store with business partners while continuing to work as an accountant. He also started working as a firearms instructor and a [[concealed carry|CCW]] instructor.<ref name="gun control article">{{cite web | url=https://monsterhunternation.com/2012/12/20/an-opinion-on-gun-control/ | title=An opinion on gun control | author=Correia, Larry | publisher=Monster Hunter Nation | date=December 20, 2012 | access-date=March 26, 2014}}</ref> In 2013, he began working as a writer full-time.<ref name="about"/>
+
+==Writing career==
+Correia's works often include magic and mythical monsters, such as vampires and werewolves. His stories are typically action-oriented with accurate and detailed depictions of firearms usage.<ref name="FantasyBookReview">{{cite web|url=http://www.fantasybookreview.co.uk/Larry-Correia/biography.html/|title=Larry Correia Biography|work=Fantasy Book Review|access-date=June 11, 2014|archive-url=https://web.archive.org/web/20150213032822/http://www.fantasybookreview.co.uk/Larry-Correia/biography.html|archive-date=February 13, 2015|url-status=dead}}</ref> Correia used to be active on firearms discussion boards, where he would write about his interest in weapons and low-budget monster movies, and also get inspiration from various online threads. The original rough draft of ''Dead Six'' appeared on one of these forums, "The High Road", in a thread started by Mike Kupari called "Welcome Back, Mr. Nightcrawler".<ref name="dead six origins">{{cite web|url=https://www.thehighroad.org/index.php?threads/welcome-back-mr-nightcrawler.207390/ |title=Welcome Back, Mr. Nightcrawler |author=Nightcrawler |date=June 26, 2006 |access-date=April 11, 2017 |archive-url=https://www.webcitation.org/6peckcqLq?url=https://www.thehighroad.org/index.php?threads%2Fwelcome-back-mr-nightcrawler.207390%2F |archive-date=April 11, 2017 |url-status=live }}</ref><ref name="419fw">{{cite web |url=http://www.419fw.afrc.af.mil/news/story.asp?id=123293639 |title=Reservist, best-selling author team up for action-thriller |date=12 March 2012 |publisher=USAF |archive-url=https://web.archive.org/web/20120327102404/https://www.419fw.afrc.af.mil/news/story.asp?id=123293639 |archive-date=March 27, 2012 |url-status=dead}}</ref>
+
+His self-published first novel, ''Monster Hunter International'', was written for—and marketed directly to—the posters on these boards. One of these posters had once worked in a large independent bookstore, and passed it on to his old employer—who in turn passed it to [[Baen Books]]—which offered Correia a publishing contract.<ref name="examiner 20151027">{{cite web|url=http://www.examiner.com/article/an-interview-with-monster-hunter-author-larry-correia |title=An interview with 'Monster Hunter' author Larry Correia |date=October 27, 2015 |first=Rob |last=Reed |website=Examiner.com |access-date=April 11, 2017 |archive-url=https://web.archive.org/web/20160202134930/http://www.examiner.com/article/an-interview-with-monster-hunter-author-larry-correia |archive-date=February 2, 2016 |url-status=dead }}</ref> ''Monster Hunter International'', despite being self-published, reached the ''[[Entertainment Weekly]]'' bestseller list in April 2008, before he received this publishing contract. ''Monster Hunter International'' was re-released by Baen in July 2009 and was on the ''[[Locus (magazine)|Locus]]'' bestseller list in November 2009.
+
+The sequel, ''Monster Hunter Vendetta'', was a [[The New York Times Best Seller list|''New York Times'' bestseller]] when released in September 2010.<ref name="nyt bestseller 20101017">{{cite news |title=Best Sellers: Paperback Mass-Market Fiction |url=https://www.nytimes.com/best-sellers-books/2010-10-17/mass-market-paperback/list.html |newspaper=[[The New York Times]] |date=October 17, 2010 |access-date=November 20, 2011}}</ref> The third book in the series, ''Monster Hunter Alpha'', was released in July 2011 and was also a ''New York Times'' bestseller.<ref name="nyt bestseller 20110814">{{cite news |title=Best Sellers: Paperback Mass-Market Fiction |url=https://www.nytimes.com/best-sellers-books/2011-08-14/mass-market-paperback/list.html |newspaper=[[The New York Times]] |date=August 14, 2011 |access-date=November 20, 2011}}</ref> ''Dead Six'', the first book in a new trilogy co-authored with Mike Kupari, was released in September 2011. Correia was a finalist for the 2011 [[John W. Campbell Award for Best New Writer]].<ref name="campbell 2011 isfdb"/> The fourth ''Monster Hunter International'' novel, ''Monster Hunter Legion'', received 17 fewer nominations than the least-nominated finalist for the 2013 [[Hugo Award]] for Best Novel.<ref name="hugo 2013 isfdb">{{cite web|url=http://www.isfdb.org/cgi-bin/ay.cgi?23+2013|title=2013 Hugo Award|publisher=[[Internet Speculative Fiction Database]]|access-date=April 10, 2016}}</ref><ref name="hugo 2013 file770">{{cite web|url=http://file770.com/?p=15783 |title=Larry Correia's Vulgar Blog Post – His Word |first=Mike |last=Glyer |author-link=Mike Glyer |publisher=[[File 770]] |date=January 22, 2014 |access-date=April 11, 2016 |archive-date=April 11, 2017 |archive-url=https://www.webcitation.org/6peMiSJEr?url=http://file770.com/?p=15783 |url-status=live }}</ref><ref name="hugo 2013 guardian">{{cite news|url=https://www.theguardian.com/books/2016/apr/26/the-hugo-awards-george-rr-martin-vox-day-and-alastair-reynolds-on-the-prizes-future |title=The Hugo Awards: George RR Martin, Vox Day and Alastair Reynolds on the prize's future |first=David |last=Barnett |newspaper=[[The Guardian]] |date=April 26, 2016 |access-date=April 11, 2016 |archive-date=April 11, 2017 |archive-url=https://www.webcitation.org/6peO08gaE?url=https://www.theguardian.com/books/2016/apr/26/the-hugo-awards-george-rr-martin-vox-day-and-alastair-reynolds-on-the-prizes-future |url-status=live }}</ref><ref name="hugo 2013 activismnow">{{cite web|url=http://activismnow.us/politricks/sad-puppies/ |title=Sad Puppies |website=Activismnow.us |access-date=April 11, 2016 |archive-date=April 11, 2017 |archive-url=https://www.webcitation.org/6peN80VFx?url=http://activismnow.us/politricks/sad-puppies/ |url-status=dead }}</ref>
+
+Correia's ''The Grimnoir Chronicles'' trilogy, set in an alternate and magical 1930s, began with the release of ''Hard Magic'' in May 2011. The second book, ''Spellbound'', was released in November that same year. The [[audiobook]] versions of ''Hard Magic'' and ''Spellbound'' won [[Audie Award]]s in 2012 and 2013 (respectively).<ref name="2012-audie-win"/><ref name="audie 2012 locus"/><ref name="2013-audie-win"/><ref name="audie 2013 locus"/>  ''Warbound'' (August 2013), the final book in the trilogy, was a finalist for the [[Hugo Award for Best Novel]] as a result of the [[Sad Puppies]] campaign, and received an Audie Award in 2014.<ref name="hugo-noms2014">{{cite web|url=http://www.thehugoawards.org/hugo-history/2014-hugo-awards/|title=2014 Hugo Awards|date=April 20, 2014|access-date=June 11, 2014}}</ref><ref name="2014-audie-nom"/><ref name="2014 audie nom PW"/> The second ''Dead Six'' novel, ''Swords of Exodus'', was released in September 2013. Correia wrote a number of short stories and a novel in 2013 and 2014 for [[Privateer Press]] that were set in the ''[[Iron Kingdoms]]'' role-playing world.
+
+''Monster Hunter Nemesis'' (July 2014), the fifth volume in the main ''Monster Hunter'' series, was chosen as a finalist for the Hugo Award for Best Novel in 2015, but Correia declined the nomination.<ref name="hugo 2015 isfdb"/><ref name="why i declined">{{cite web|url=http://monsterhunternation.com/2015/04/04/sad-puppies-update-the-nominees-announced-and-why-i-refused-my-nomination |title=The Nominees Announced and Why I Refused My Nomination |date=April 4, 2015 |first=Larry |last=Correia |access-date=April 11, 2017 |website=Monster Hunter Nation |archive-date=April 11, 2017 |archive-url=https://www.webcitation.org/6ped6WNSc?url=http://monsterhunternation.com/2015/04/04/sad-puppies-update-the-nominees-announced-and-why-i-refused-my-nomination |url-status=live }}</ref> Correia began ''Saga of the Forgotten Warrior'', a new epic fantasy series, with ''[[Son of the Black Sword]]'' (November 2015), which won an inaugural [[Dragon Con#The Dragon Awards|Dragon Award]] in the "Best Fantasy Novel" category in 2016.<ref name="2016-dragon-award-win"/> It was also nominated for the [[David Gemmell Awards for Fantasy|David Gemmell Legend Award]] and placed 9th in the voting for the [[Locus Award for Best Fantasy Novel]] in 2016.<ref name="gemmell 2016 isfdb"/><ref name="locus 2016 isfdb"/>
+
+A spin-off series set in the ''Monster Hunter'' universe—co-written with [[John Ringo]]—was started in August 2016 with ''Monster Hunter Memoirs''. It is set about 30 years before the main series and follows the exploits of Oliver Chadwick Gardenier. The final book in the ''Dead Six'' trilogy, ''Alliance of Shadows'', as well as ''Monster Hunter Memoirs: Sinners'' were released in October and December (respectively) that year. ''Monster Hunter Siege'' was released in August 2017, while ''Monster Hunter Memoirs: Saints'' was released in July 2018. ''[[House of Assassins]]'' is projected for release in 2019.<ref name="House of Assassins">{{Cite book |title=House of Assassins (Saga of the Forgotten Warrior) Hardcover |isbn=978-1481483766 |quote=February 5, 2019. |last1=Correia |first1=Larry |date=5 February 2019 }}</ref> ''Monster Hunter Guardian'', co-authored with [[Sarah A. Hoyt]], was released in August 2019, and ''Monster Hunter Bloodlines'' was released in August 2021.<ref name="ReferenceA">{{Cite web|url=https://www.monsterhunternation.com/2021/03/08/march-update-post-2/|title=March Update Post}}</ref> The third book in the Saga of the Forgotten Warrior series, ''Destroyer of Worlds'', was released in December 2020,<ref name="destroyer official baen">{{Cite web |title=Destroyer of Worlds by Larry Correia |url=https://www.baen.com/destroyer-of-worlds.html |publisher=Baen Books |access-date=23 April 2020}}</ref> and the fourth and fifth books have been announced.<ref name="ReferenceA"/>
+
+Outside of writing, Correia has been a guest on "Shooting Gallery",<ref>https://monsterhunternation.com/2018/02/27/im-on-tv-my-episode-of-shooting-gallery-airs-on-2-28-on-the-outdoor-channel/</ref> Joe Mantegna’s Gun Stories,<ref>https://monsterhunternation.com/2017/04/25/behind-the-scenes-of-me-filming-gun-stories/</ref> and Huckabee<ref>https://www.youtube.com/watch?v=jzyuvl5Ry4g</ref> talking about firearms. He and Steven Diamond also host a writing podcast called "Writers Dojo".<ref>https://anchor.fm/writerdojo</ref>
+
+==Sad Puppies==
+{{main|Sad Puppies}}
+Correia and [[science fiction]] author [[Brad R. Torgersen]] were leaders of the "[[Sad Puppies]]", a group of SF fans and authors who organized a voting campaign to nominate more works by conservative and libertarian authors, as well as classic "pulp" science fiction, for [[Hugo Award]]s. The Sad Puppies charged that these popular works were often unfairly passed over by Hugo voters in favor of more literary works, or stories with progressive political themes.<ref name=io9>{{cite web |last1=Anders |first1=Charlie Jane |title=The Hugo Awards were always political, but now they're only political |url=http://io9.com/the-hugo-awards-were-always-political-now-theyre-only-1695721604 |publisher=[[io9]] |access-date=31 July 2015}}</ref><ref name=apstory>{{cite news |last1=Italie |first1=Hillel |title=Hugo Awards reflect sci-fi/fantasy divide |url=http://bigstory.ap.org/article/9ceb65e5d2b14d1cb05dfc3ccb3d3340/puppies-attack-hugo-awards-reflect-sci-fifantasy-divide |access-date=31 July 2015 |agency=Associated Press |date=April 17, 2015}}</ref>  The campaign was ultimately unsuccessful and was discontinued in 2017.
+
+==Works==
+{{main|Larry Correia bibliography}}
+Correia is best known for his ''Monster Hunter International'', ''Grimnoir Chronicles'', and ''Saga of the Forgotten Warrior'' series. The ''Monster Hunter International'' series chronicles the fictional adventures of the employees of Monster Hunter International, a company that hunts vampires, werewolves, zombies, and other monsters in order to protect the general public from them. The existence of these monsters is suppressed by a secret governmental organization known as the Monster Control Bureau. As the MCB is too small to handle all the monster hunting, they place bounties on the various monsters, and companies like MHI receive those bounties after proving they have eliminated them. The main character is Owen Zastava Pitt, a former accountant whose boss turned into a werewolf and tried to kill him. After nearly dying while dispatching his boss, Owen is recruited into MHI.
+
+The ''Grimnoir Chronicles'' is an alternate history fantasy series set in the 1930s. In the world of ''Grimnoir'', magical abilities began manifesting in people in 1849. Most of those with magical abilities have very minor magic (about one in 100 people). About one in a thousand of those has major abilities and is known as an Active. The main character, Jake Sullivan, is a Heavy (he can manipulate gravity). He eventually joins the Grimnoir Society after finding the government is lying to him, working with them to stop the Imperium and the ambitions of Okubo Tokugawa.
+
+In ''Saga of the Forgotten Warrior'', Ashok is a Protector, warrior monks chosen to enforce the law and root out anyone who is practicing the old ways. He is very good at what he does, until he finds out he isn't who he thinks he is, and that he's been lied to his entire life. He has to choose whether to hide the lies or to rebel against what he thought was right.
+
+==Awards and recognition==
+Correia has been nominated for and won multiple awards over his career.
+
+{| class="wikitable" style="width:95%;" cellpadding="5"
+|-
+! scope="col" style="width:30px;"|  Year
+! scope="col" style="width:120px;"|  Organization
+! scope="col" style="width:150px;"|  Award title, Category
+! scope="col" style="width:150px;"|  Work
+! scope="col" style="width:10px;"|  Result
+! scope="col" style="width:10px;"|  Refs
+<!-- Use the template below for each row
+|-
+| YEAR
+| ORGANIZATION
+| TITLE, CATEGORY
+| WORK
+| {{nom}} or {{won}}
+| REFERENCES
+-->
+|-
+| 2011
+| [[World Science Fiction Society]]
+| [[John W. Campbell Award for Best New Writer]]
+| n/a
+| {{nom}}
+| <ref name="campbell 2011 isfdb">{{cite web|url=http://www.isfdb.org/cgi-bin/ay.cgi?27+2011|title=2011 John W. Campbell Award for Best New Writer|publisher=[[Internet Speculative Fiction Database]]|access-date=April 10, 2016}}</ref>
+|-
+| 2012
+| [[Audio Publishers Association]]
+| [[Audie Award]], Paranormal
+| ''Hard Magic''
+| {{won}}
+| <ref name="2012-audie-win">{{cite web|url=https://www.audiopub.org/winners/2012|title=2012 Audies|publisher=[[Audio Publishers Association]]|access-date= September 6, 2016}}</ref><ref name="audie 2012 locus">{{cite magazine|url=http://www.locusmag.com/News/2012/06/2012-audie-awards-winners/|title=2012 Audie Awards Winners|date=June 8, 2012|magazine=[[Locus (magazine)|Locus]]|access-date=September 13, 2016}}</ref>
+|-
+| 2013
+| Audio Publishers Association
+| Audie Award, Paranormal
+| ''Spellbound''
+| {{won}}
+| <ref name="2013-audie-win">{{cite web|url=https://www.audiopub.org/winners/2013-audies|title=2013 Audies|publisher=[[Audio Publishers Association]]|access-date= September 6, 2016}}</ref><ref name="audie 2013 locus">{{cite magazine|url=http://www.locusmag.com/News/2013/05/2013-audie-awards-winners/|title=2013 Audie Awards Winners|date=May 31, 2013|magazine=[[Locus (magazine)|Locus]]|access-date=September 13, 2016}}</ref>
+|-
+| 2014
+| Audio Publishers Association
+| Audie Award, Paranormal
+| ''Warbound''
+| {{nom}}
+| <ref name="2014-audie-nom">{{cite web|url=https://www.audiopub.org/winners/2014-winners-circle|title=2014 Audies|publisher=[[Audio Publishers Association]]|access-date= September 6, 2016}}</ref><ref name="2014 audie nom PW">{{cite magazine|url=http://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/61095-2014-audie-finalists-announced.html|title=2014 Audie Finalists Announced|date=February 18, 2014|magazine=[[Publishers Weekly]]|access-date=September 13, 2016}}</ref>
+|-
+| 2014
+| World Science Fiction Society
+| Hugo Award, Best Novel
+| ''Warbound''
+| {{nom}}
+| <ref name="hugo nom 2014 PW">{{cite magazine|url=http://www.publishersweekly.com/pw/by-topic/industry-news/bea/article/62453-bea-2014-baen-beams-at-30.html|title=BEA 2014: Baen Beams at 30|date=May 30, 2014|first=Wendy|last=Werris|magazine=[[Publishers Weekly]]|access-date=September 13, 2016}}</ref><ref name="hugo 2014 isfdb">{{cite web|url=http://www.isfdb.org/cgi-bin/ay.cgi?23+2014|title=2014 Hugo Award|publisher=[[Internet Speculative Fiction Database]]|access-date=April 10, 2016}}</ref>
+|-
+| 2015
+| Audio Publishers Association
+| Audie Award, Thriller/Suspense
+| ''Dead Six''
+| {{nom}}
+| <ref name="2015-audie-nom">{{cite web|url=https://www.audiopub.org/winners/2015-winners-circle|title=2015 Audies|publisher=[[Audio Publishers Association]]|access-date= September 6, 2016}}</ref>
+|-
+| 2015
+| World Science Fiction Society
+| Hugo Award, Best Novel
+| ''Monster Hunter Nemesis''
+| {{nom|Withdrawn}}
+| <ref name="hugo 2015 isfdb">{{cite web|url=http://www.isfdb.org/cgi-bin/ay.cgi?23+2015|title=2015 Hugo Award|publisher=[[Internet Speculative Fiction Database]]|access-date=April 10, 2016}}</ref>
+|-
+| 2016
+| Audio Publishers Association
+| Audie Award, Fantasy
+| ''[[Son of the Black Sword]]''
+| {{nom}}
+| <ref name="2016-audie-nom">{{cite web|url=https://www.audiopub.org/winners/2016-winners-circle|title=2016 Audies|publisher=[[Audio Publishers Association]]|access-date= September 6, 2016}}</ref>
+|-
+| 2016
+| [[Dragon Con]]
+| Dragon Award, Best Fantasy Novel
+| ''Son of the Black Sword''
+| {{won}}
+| <ref name="2016-dragon-award-win">{{cite web|url=http://www.isfdb.org/cgi-bin/ay.cgi?63+2016|title=2016 Dragon Award|publisher=[[Internet Speculative Fiction Database]]|access-date= September 6, 2016}}</ref>
+|-
+| 2016
+| [[David Gemmell Awards for Fantasy]]
+| Legend Award
+| ''Son of the Black Sword''
+| {{nom}}
+| <ref name="gemmell 2016 isfdb">{{cite web|url=http://www.isfdb.org/cgi-bin/award_category.cgi?695+1|title=Award Category: Legend Award (David Gemmell Awards for Fantasy)|publisher=[[Internet Speculative Fiction Database]]|access-date=April 10, 2016}}</ref>
+|-
+| 2016
+| [[Locus (magazine)|''Locus'']] readers
+| [[Locus Award|Locus Poll Award]], [[Locus Award for Best Fantasy Novel|Best Fantasy Novel]]
+| ''Son of the Black Sword''
+| {{nom|9}}
+| <ref name="locus 2016 isfdb">{{cite web|url=http://www.isfdb.org/cgi-bin/ay.cgi?28+2016|title=2016 Locus Poll Award|publisher=[[Internet Speculative Fiction Database]]|access-date=April 10, 2016}}</ref>
+|-
+| 2017
+| [[Dragon Con]]
+| Dragon Award, Best Fantasy Novel
+| ''Monster Hunter Memoirs: Grunge''
+| {{Won}}
+| <ref name="2017-dragon-award-win">{{cite web|url=https://www.dragoncon.org/awards/2017_winners|title=2017 Dragon Award|publisher= [[Dragon Awards]]|access-date= October 1, 2019}}</ref>
+|-
+| 2019
+| [[Dragon Con]]
+| Dragon Award, Best Fantasy Novel
+| ''[[House of Assassins]]''
+| {{Won}}
+| <ref name="2019-dragon-award-win">{{cite web|url=https://www.dragoncon.org/awards/2019-recipients|title=2019 Dragon Award|publisher= [[Dragon Awards]]|access-date= October 1, 2019}}</ref>
+|-
+| 2021
+| [[Dragon Con]]
+| Dragon Award, Best Military Science Fiction or Fantasy Novel
+| ''Gun Runner''
+| {{Won}}
+| <ref>https://www.johndbrown.com/gun-runner-wins-dragon-award/</ref>
+|}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{Wikiquote}}
+* {{cite web |url=http://authors.simonandschuster.com/Larry-Correia/62734448 |title=Larry Correia Simon & Schuster Publisher Page |publisher=Simon & Schuster }}
+* {{cite web |url=http://www.sf-encyclopedia.com/entry/correia_larry |title=Correia, Larry |publisher=[[The Encyclopedia of Science Fiction]] }}
+* {{IMDb name | id=8716051 | name= Larry Correia }}
+* [http://www.isfdb.org/cgi-bin/ea.cgi?130466 Larry Correia] at the [[Internet Speculative Fiction Database]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Correia, Larry}}
+[[Category:21st-century American novelists]]
+[[Category:21st-century American male writers]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:American people of Portuguese descent]]
+[[Category:Converts to Mormonism]]
+[[Category:Latter Day Saints from California]]
+[[Category:Latter Day Saints from Utah]]
+[[Category:Living people]]
+[[Category:Novelists from Utah]]
+[[Category:Place of birth missing (living people)]]
+[[Category:1977 births]]

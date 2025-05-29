@@ -1,0 +1,129 @@
+{{Short description|Canadian novelist and poet}}
+{{Use mdy dates|date=November 2021}}
+{{Infobox writer
+| name        = Guy Gavriel Kay
+| honorific_suffix = [[Order of Canada|CM]]
+| image       = Guy Kay.jpeg <!-- this newer image supplied by Guy Kay via OTRS -->
+| caption     = Kay in 2011
+| pseudonym   =
+| birth_name  =
+| birth_date  = {{birth date and age|1954|11|7|mf=y}}
+| birth_place = [[Weyburn]], Saskatchewan, Canada
+| death_date  =
+| death_place =
+| occupation  = Writer
+| period      = 1984–present
+| genre       = [[Fantasy]], [[scriptwriting]], [[poetry]]
+| subject     =
+| movement    =
+| notableworks= {{plainlist|
+* ''[[The Fionavar Tapestry]]''
+* ''[[Tigana]]''
+}}
+| website     = {{URL|brightweavings.com}}
+}}
+
+'''Guy Gavriel Kay''' (born November 7, 1954) is a Canadian writer of [[fantasy]] fiction. The majority of his novels take place in [[Fictional universe|fictional setting]]s that resemble real places during real historical periods, such as [[Constantinople]] during the reign of [[Justinian I]] or Spain during the time of [[El Cid]]. Kay has expressed a preference to avoid genre categorization of these works as [[historical fantasy]]. {{As of|2019}}, Kay has published 14 novels and a book of poetry. {{As of|2018}}, his fiction has been translated into at least 22 languages.<ref>{{cite web |title=au:Guy Gavriel Kay |url=https://www.worldcat.org/search?q=au%3AGuy+Gavriel+Kay&fq=x0%3Abook+%3E+mt%3Afic&dblist=638&fc=ln:_25&qt=show_more_ln%3A&cookie |publisher=WorldCat |access-date=November 11, 2021}}</ref>
+
+==Biography==
+
+Kay was born in [[Weyburn]], Saskatchewan, in 1954.<ref name="biog"/> He was raised and educated in [[Winnipeg]], Manitoba, and received a [[bachelor's degree]] from the [[University of Manitoba]] in 1975. He obtained an [[LLB]] from the [[University of Toronto]] in 1978.<ref name="biog"/>
+
+When [[Christopher Tolkien]] needed an assistant to edit his father [[J. R. R. Tolkien]]'s unpublished work, he chose Kay, then a student of philosophy at the [[University of Manitoba]]. Kay moved to [[Oxford]] in 1974 to assist Christopher in editing ''[[The Silmarillion]]''.<ref>{{cite web |url=https://www.theguardian.com/books/2014/oct/29/guy-gavriel-kay-jrr-tolkien-interview-fionovar-tapesty-the-summer-tree |title=Guy Gavriel Kay: 'I learned a lot about false starts from JRR Tolkien' |last=Flood |first=Alison |website=The Guardian |date=October 29, 2014 |access-date=April 1, 2017}}</ref>
+
+He returned to Canada in 1975 to pursue a law degree at the [[University of Toronto]]. He was called to the bar of Ontario in 1981 and practiced law for a year.<ref name="biog"/> Kay became principal writer and an associate producer for a [[Canadian Broadcasting Corporation]] radio series, ''The Scales of Justice,'' and continued as principal writer when the series transferred to television.<ref name="biog"/>
+
+In 1984, Kay's first fantasy work, ''[[The Summer Tree]]'', the first volume of ''[[The Fionavar Tapestry]]'' trilogy, was published.<ref name="biog"/>
+
+Kay has stated concerns about the decline of individual privacy, the expectation of privacy, and also literary privacy. The latter primarily concerns the use of real individuals in works of fiction, such as [[Michael Cunningham]] basing ''[[The Hours (novel) |The Hours]]'' on [[Virginia Woolf]].<ref>{{cite news |url=https://www.theglobeandmail.com/arts/privacy-between-the-covers/article25575216/ |title=Privacy between the covers |last=Levin |first=Martin |newspaper=[[The Globe and Mail]] |date=December 2, 2000 |access-date=October 28, 2021}}</ref><ref>{{cite magazine |url=https://quillandquire.com/book-news/2007/12/18/the-internet-and-other-modern-horrors/ |title=The Internet, and other modern horrors |last=Woods |first=Stuart |magazine=[[Quill & Quire]] |date=December 18, 2007 |access-date=October 28, 2021}}</ref>
+
+==Bibliography==
+<!-- is this intended to be complete for books? -->
+
+===Novels===
+* ''[[The Fionavar Tapestry]]'', a [[portal fantasy]] in which five travel from our Earth to "the first of all worlds"
+** ''[[The Summer Tree]]'' (1984)
+** ''[[The Wandering Fire]]'' (1986), winner of the 1987 [[Prix Aurora Award]]<ref name="aurora">{{Cite web |title=Professional Awards (1980–2006) |url=http://www.prixaurorawards.ca/English/AuroraHistory/proAwards.htm |archive-url=https://web.archive.org/web/20100325110703/http://www.prixaurorawards.ca/English/AuroraHistory/proAwards.htm |url-status=dead |archive-date=March 25, 2010}}</ref>
+** ''[[The Darkest Road]]'' (1986)
+* ''[[Tigana]]'' (1990), taking place in a setting based on [[Renaissance Italy]]
+* ''[[A Song for Arbonne]]'' (1992), inspired by the [[Albigensian Crusade]] in medieval [[Provence]]
+* ''[[The Lions of Al-Rassan]]'' (1995), set in an analogue of [[Spain in the Middle Ages|medieval Spain]]
+* ''[[The Sarantine Mosaic]]'', inspired by the [[Byzantium]] of [[Justinian I]]
+** ''[[The Sarantine Mosaic|Sailing to Sarantium]]'' (1998)
+** ''[[Lord of Emperors]]'' (2000)
+* ''[[The Last Light of the Sun]]'' (2004), inspired by the Viking invasions during the reign of [[Alfred the Great]]
+* ''[[Ysabel]]'' (2007), a [[contemporary fantasy]] set in Provence, centering on a teenage boy and his encounters with characters from the distant past. Linked to his ''Fionavar Tapestry'' series.
+* ''[[Under Heaven (novel)|Under Heaven]]'' (April 27, 2010), inspired by the 8th century [[Tang Dynasty]] and the events leading up to the [[An Shi Rebellion]]
+* ''[[River of Stars]]'' (April 2, 2013), taking place in the same setting as ''Under Heaven'', based on the 12th century [[Song Dynasty]] and the events around the [[Jin-Song Wars]] and the transition from Northern Song to Southern Song
+* ''[[Children of Earth and Sky]]'' (May 10, 2016), taking place in the same world as ''The Lions of Al-Rassan'', ''The Sarantine Mosaic'', and ''The Last Light of the Sun'', and taking place in a world based on Italy, Istanbul and the Balkans in the 15th century
+*''[[A Brightness Long Ago]]'' (May 14, 2019), prequel to ''Children of Earth and Sky''<ref>{{cite web |url=https://www.penguinrandomhouse.com/books/317337/a-brightness-long-ago-by-guy-gavriel-kay/9780451472984/ |title=A Brightness Long Ago by Guy Gavriel Kay |website=PenguinRandomhouse.com |access-date=September 5, 2018}}</ref>
+* ''All the Seas of the World'' (scheduled for May 2022)
+
+===Poetry===
+* ''Beyond This Dark House'' (2003), a collection
+
+== Awards and distinctions ==
+
+===Awards===
+
+* Kay won the 1985 Scales of Justice Award for best media treatment of a legal issue, Canadian Law Reform Commission, 1985, for "Second Time Around".<ref name="biog">{{Cite web |url=https://biography.jrank.org/pages/2072/Kay-Guy-Gavriel-1954.html |title=Guy Gavriel Kay (1954–) Biography – Personal, Addresses, Career, Member, Honors Awards, Writings, Adaptations, Sidelights |website=biography.jrank.org}}</ref>
+* ''The Wandering Fire'' won the 1987 Prix Aurora Award in the English category for best [[speculative fiction]].<ref name="aurora"/><ref name="biog"/>
+* Kay won the 1991 [[List of winners and nominees for the Aurora Award for Best Novel|Aurora Award for Best Novel]] for ''Tigana''.<ref name="biog"/>
+* Kay was runner up for the [[White Pine Award]] in 2007 for ''Ysabel''.
+* ''Ysabel'' was the winner of the 2008 [[World Fantasy Award for Best Novel]].<ref>{{Cite web |url=http://www.worldfantasy.org/awards/ |archive-url=https://web.archive.org/web/20121027005155/http://www.worldfantasy.org/awards/ |url-status=dead |title=Awards &#124; World Fantasy Convention |archive-date=October 27, 2012}}</ref>
+* Kay won the International Goliardos Award for his contributions of the international literature of the fantastic.<ref>{{Cite web |url=http://www.sunburstaward.org/2005_shortlist.html |archive-url=https://web.archive.org/web/20100317001412/http://www.sunburstaward.org/2005_shortlist.html |url-status=dead |title=Shortlist for the 2005 Sunburst Award |archive-date=March 17, 2010}}</ref>
+* ''Under Heaven'' won the [[Sunburst Award]] in 2011<ref>{{Cite web |url=http://www.sunburstaward.org/content/2011-winners |archive-url=https://web.archive.org/web/20140809162801/http://www.sunburstaward.org/content/2011-winners |url-status=dead |title=2011 Sunburst Award Winners |archive-date=August 9, 2014}}</ref> and was longlisted for the IMPAC/Dublin Literary prize.<ref>{{Cite web |url=http://www.impacdublinaward.ie/award-archive/winners-1996-2012/2012-longlist/ |archive-url=https://web.archive.org/web/20130421025058/http://www.impacdublinaward.ie/award-archive/winners-1996-2012/2012-Longlist/ |url-status=dead |title=International IMPAC DUBLIN Literary Award: 2012 Longlist |archive-date=April 21, 2013}}</ref>
+* Kay was appointed to the [[Order of Canada]] in 2014 "for his contributions to the field of speculative fiction as an internationally celebrated author".<ref>{{Cite web |url=https://www.gg.ca/en |title=The Governor General of Canada |first=Office of the Secretary to the Governor |last=General |website=The Governor General of Canada}}</ref><ref>{{cite magazine |url=https://quillandquire.com/awards/2014/07/02/guy-gavriel-kay-chris-hadfield-given-order-of-canada-honours/ |title=Guy Gavriel Kay, Chris Hadfield given Order of Canada honours |last=Cerny |first=Dory |magazine=[[Quill & Quire]] |date=July 2, 2014 |access-date=October 28, 2021}}</ref>
+*''Under Heaven'' won the 2015 Prix Elbakin in France.<ref name="Elbakin">{{cite web |url=http://www.elbakin.net/blog/l-association/Remise-de-trophees-du-prix-Elbakin-net |title=Remise de trophées du prix Elbakin.net |website=www.elbakin.net |language=fr |access-date=October 13, 2018}}</ref>
+*''River of Stars'' won the 2017 Prix Elbakin in France.<ref>{{cite web |url=http://www.elbakin.net/edition/Remise-des-trophees-du-prix-Elbakin-net-adulte-aux-Utopiales |title=Remise des trophées du prix Elbakin.net adulte aux Utopiales 2017 |website=www.elbakin.net |language=fr |access-date=October 13, 2018}}</ref>
+*''Under Heaven'' was named the best fantasy novel of the year by The American Library Association,<ref>{{cite web |url=http://www.ala.org/awardsgrants/node/21619 |title=2011 The REading list {{!}} Awards & Grants |website=www.ala.org |access-date=October 13, 2018}}</ref> and was the SF Book Club's Book of the Year.
+
+===Nominations===
+
+* Kay has been nominated several times for the [[Mythopoeic Awards|Mythopoeic Fantasy Award]] for Adult Literature.
+* Kay has been nominated four times for the [[World Fantasy Award]], and won in 2008 for "'Ysabel'".
+* Kay has been nominated multiple times for the Canadian [[Sunburst Award]].<ref name="biog" />
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*{{cite magazine|url=https://thewalrus.ca/slaying-dragons/|title=Slaying dragons|last=Landau|first=Emily|magazine=[[The Walrus]]|date=May 14, 2013|access-date=October 29, 2021}}
+*{{cite magazine|url=https://c2cjournal.ca/2016/09/the-fantastic-fiction-of-guy-gavriel-kay/|title=The fantastic fiction of Guy Gavriel Kay|last=Tarantino|first=Bob|magazine=C2C Journal|date=September 7, 2016|access-date=November 1, 2021}}
+
+== External links ==
+{{Wikiquote}}
+
+* [http://www.brightweavings.com Bright Weavings] – authorized website with some contributions by Kay
+* [http://www.guygavrielkay.ca Kay] at publisher Penguin Books Canada
+* {{isfdb name|415|name=Guy Gavriel Kay}}
+* {{LCAuth|n84223190|Guy Gavriel Kay|22|ue}}
+
+===Interviews and lectures===
+* [https://bookspotcentral.com/interview-guy-gavriel-kay/ Interview at Boomtron.com]
+* {{webarchive |url=https://web.archive.org/web/19991004002337/http://www.eventhorizon.com/sfzine/chats/transcripts/040899.html |date=October 4, 1999 |title=Interview on the now-defunct Event Horizon }}
+* [http://www.lib.rochester.edu/camelot/intrvws/kay.htm Interview by Raymond H. Thompson] at the [http://www.lib.rochester.edu Library of Rochester]
+* [https://web.archive.org/web/20080517104548/http://worldfantasy2008.libsyn.com/index.php?post_id=337869 World Fantasy 2008 Podcast]
+* In May 2021, Kay delivered the eighth [[Tolkien Lecture]] at [[Pembroke College, Oxford]].<ref>[https://tolkienlecture.org/2021/05/14/guy-gavriel-kay-lecture-recording/], 'Guy Gavriel Kay Lecture Recording', May 14, 2021. Retrieved June 10, 2021.</ref>
+
+{{Guy Gavriel Kay}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kay, Guy Gavriel}}
+[[Category:1954 births]]
+[[Category:Canadian fantasy writers]]
+[[Category:Lawyers in Ontario]]
+[[Category:Living people]]
+[[Category:People from Weyburn]]
+[[Category:Writers from Winnipeg]]
+[[Category:University of Manitoba alumni]]
+[[Category:University of Toronto alumni]]
+[[Category:Writers from Saskatchewan]]
+[[Category:Members of the Order of Canada]]
+[[Category:Jewish Canadian writers]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:University of Toronto Faculty of Law alumni]]
+[[Category:20th-century Canadian novelists]]
+[[Category:21st-century Canadian novelists]]
+[[Category:Canadian male novelists]]

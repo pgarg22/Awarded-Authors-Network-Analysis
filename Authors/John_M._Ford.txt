@@ -1,0 +1,201 @@
+{{short description|American writer, game designer, and poet}}
+{{for2|the English nonfiction author known as Dr. Mike|[[Michael Arnheim]]|the American [[celebrity doctor]]|[[Mikhail Varshavski]]}}
+{{Use mdy dates|date=May 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = John Milo Ford
+| image       = JohnMFord 2001 ddb.jpg<!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| caption     = John M. Ford portrait 2000
+| birth_date  = {{birth date|1957|4|10}}
+| birth_place = [[East Chicago, Indiana]], US
+| death_date  = {{death date and age|2006|9|25|1957|4|10}}<ref name="ssdi"/>
+| death_place = [[Minneapolis, Minnesota]], US
+| occupation  = {{flatlist|
+* Novelist
+* writer
+* [[game designer]]
+}}
+| genre       = Science fiction, [[fantasy]], [[cyberpunk]] 
+| movement    =
+| notableworks =
+| partner     = [[Elise Matthesen]]
+| website     =
+}}
+[[Image:JohnMFord as DrMike ddb176.jpg|thumb|Dr. Mike at [[Minicon]] 38 in 2003]]
+'''John Milo "Mike" Ford''' (April 10, 1957 – September 25, 2006) was an American science fiction and [[fantasy]] writer, [[game designer]], and poet.
+
+A contributor to several [[online discussion]]s,<ref name="makl060925"/> Ford composed poems, often improvised, in both complicated forms and [[blank verse]]; he also wrote pastiches and [[parody|parodies]] of many other authors and styles. At [[Minicon]] and other [[science fiction convention]]s he would perform "Ask Dr. Mike", giving humorous answers to scientific and other questions in a lab coat before a whiteboard.<ref name="shetintro" />
+
+==Life==
+Ford was born in [[East Chicago, Indiana]], and raised in [[Whiting, Indiana]].<ref name=vezner/> In the mid-1970s he attended [[Indiana University Bloomington]], where he was active in the IU [[science fiction club]] and [[Society for Creative Anachronism]] (using the name Miles Atherton de Grey); while there, he published his first short story "This, Too, We Reconcile" in the May 1976 ''[[Analog Science Fiction and Fact|Analog]]''.<ref>{{cite book
+|last1       = Ashley
+|first1      = Mike
+|author-link  = Mike Ashley (writer)
+|year        = 2000
+|title       = Gateways to Forever: The Story of the Science-fiction Magazines from 1970 to 1980
+|url         = https://books.google.com/books?id=2qkmF8HvP_gC&pg=PA21
+|publisher   = [[Liverpool University Press]]
+|page        = 21
+|access-date = 2019-05-02
+|isbn = 9781846310034
+}}</ref>
+
+Ford left IU and moved to New York to work on the newly founded ''[[Isaac Asimov's Science Fiction Magazine]]'',<ref name=vezner /> where, starting in mid-1978, he published poetry, fiction, articles, and game reviews. Although his last non-fiction appeared there in September 1981, he was tenth most frequent contributor for the 1977–2002 period.<ref name="asim0304"/> About 1990, he moved to [[Minneapolis]].<ref name=vezner /> In addition to writing, he worked at various times as a hospital orderly, computer consultant, [[slush pile]] reader, and [[copy editing|copy editor]].<ref name="makl051225"/>
+
+Ford suffered from complications related to [[diabetes]] since childhood and also had [[kidney|renal]] dysfunction which required [[dialysis]] and, in 2000, a [[kidney transplant]], which improved his quality of life considerably. He was found dead from natural causes in his Minneapolis home on September 25, 2006,<ref name="makl060925"/> by his partner since the mid-1990s, [[Elise Matthesen]].<ref name="vezner"/> He was a prominent member of the ''Friends of the [[Minneapolis Public Library]]'', which established a ''John M. Ford Book Endowment'' after his death with the donations to be used as [[interest]]-generating capital for yearly purchase of new books.<ref name="hyim061002"/>
+
+==Work==
+Ford's works were varied in setting and style.<ref name="sleight" /> Several were of the [[Bildungsroman]] (coming-of-age) type: in ''[[Web of Angels]]'', ''[[The Final Reflection]]'', ''Princes of the Air'', ''Growing Up Weightless'', and ''The Last Hot Time'', Ford wrote variations on the theme of growing up, learning about one's world and one's place in it, and taking responsibility for it – which involves taking on the power and wisdom to influence events, to help make the world a better place.
+
+Ford spent part of his career working in other people's universes. His 1983 book ''[[The Klingons: A Sourcebook and Character Generation Supplement|The Klingons]]'' for [[FASA]]'s [[Star Trek: The Role Playing Game|''Star Trek'' role-playing game]] influenced later Paramount productions.<ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=Mongoose Publishing|year=2011| isbn= 978-1-907702-58-7}}</ref>{{rp|121}} He also wrote a comedic novel set in the Star Trek universe called ''[[How Much for Just the Planet?]]'', where the ''Enterprise'' crew compete with a Klingon crew for control of a planet whose unhappy colonists defend their peace in inventive and farcial ways. The book includes song lyrics that satirize many 20th century stage [[music theater|musicals]].<ref name="sleight" /> 
+
+Ford authored the award-winning adventure ''[[The Yellow Clearance Black Box Blues]]'' (1985) for [[West End Games]]' ''[[Paranoia (role-playing game)|Paranoia]]'' role-playing game.<ref name="designers"/>{{rp|189}}
+
+Ford used a variety of styles to suit the world, characters, and situations he chose to write about. Author and critic [[John Clute]] wrote in the 1993  ''[[The Encyclopedia of Science Fiction|Encyclopedia of Science Fiction]]'' that "two decades into his career, there remains some sense that JMF remains unwilling or unable to create a definitive style or mode; but his originality is evident, a shifting feisty energy informs almost everything he writes, and that career is still young."<ref>Clute, John; Nicholls, Peter (1993). ''The Encyclopedia of Science Fiction''. London: Orbit Books.</ref>{{page needed|date=May 2019}}
+
+Ford's was much respected by his fellow writers, editors, critics and fans.<ref name="sleight" /> [[Robert Jordan]], Ford's lifelong close friend, called Ford "the best writer in America – bar none." [[Neil Gaiman]] called Ford "my best critic … the best writer I knew." [[Patrick Nielsen Hayden]] said "Most normal people had the slight sense that something large and super-intelligent and trans-human had sort of flown over ... There would be a point where basically the plot would become so knotted and complex he would lose all of us."<ref name=vezner />
+
+After his death, almost all of Ford's work was out-of-print. The rights to his work had reverted to his legal heirs, but no-one had managed to get in touch with them. After an investigation by a journalist, Isaac Butler, Ford's editors at [[Tor Books]] were able to reconnect with his family, and in November 2019 an agreement was reached to reissue all his published works, starting in 2020 with ''The Dragon Waiting.''<ref>{{cite web |url=https://slate.com/culture/2019/11/john-ford-science-fiction-fantasy-books.html |title=The Disappearance of John M. Ford |last=Butler |first=Isaac |date=November 15, 2019 |website=Slate |access-date=27 January 2020}}</ref>
+
+==Bibliography==
+
+===Books===
+* ''Web of Angels'' (1980, [[Pocket Books]], {{ISBN|0-671-82947-5}}; 1992, [[Tor Books]], {{ISBN|0-8125-0959-5}}), an early exploration of some topics that would later be described as [[cyberpunk]]
+* ''The Princes of the Air'' (1982, Pocket Books, {{ISBN|0-671-44482-4}}; 1991, Tor Books, {{ISBN|0-8125-0958-7}}), a [[space opera]]
+* ''[[The Dragon Waiting]]'' (1983, [[Timescape Books]], {{ISBN|0-671-47552-5}}; 1985, [[Avon Books]], {{ISBN|0-380-69887-0}}; 2002, [[Victor Gollancz Ltd|Gollancz]], {{ISBN|0-575-07378-0}}), a fantasy [[alternate history]] combining [[vampire]]s, the [[Medici]]s, and the convoluted English politics surrounding [[Edward IV of England|Edward IV]] and [[Richard III of England|Richard III]]; winner of the [[World Fantasy Award for Best Novel#1984|1984 World Fantasy Award]]
+* ''[[The Final Reflection]]'' (1984, Pocket Books, {{ISBN|0-671-47388-3}}; 1985, Ultramarine, {{ISBN|0-318-37547-8}}; 1985, Gregg Press, {{ISBN|0-8398-2885-3}}; 1991, Pocket Books, {{ISBN|0-671-74354-6}}), a [[Star Trek]] tie-in novel; (also 2004, Pocket Books, {{ISBN|0-7434-9659-0}} [in omnibus Signature Edition, ''The Hand of Kahless''])
+* ''[[How Much for Just the Planet?]]'' (1987, Pocket Books, {{ISBN|0-671-62998-0}}; 1990, {{ISBN|0-671-72214-X}}; 1991, {{ISBN|0-671-03859-1}}), a Star Trek tie-in novel
+* ''The Scholars of Night'' (1988, Tor Books, {{ISBN|0-312-93051-8}}; 1989, {{ISBN|0-8125-0214-0}}), a [[high tech]] [[Cold War]] [[Thriller (genre)|thriller]] involving an undiscovered [[Christopher Marlowe]] play
+* ''Casting Fortune'' (1989, Tor Books, {{ISBN|0-8125-3815-3}}), a collection of stories set in the [[Liavek]] [[shared world]], reprints "A Cup of Worrynot Tea" and "Green Is the Color" and original story "The Illusionist"
+* ''Fugue State'' (1990, Tor Books, {{ISBN|0-8125-0813-0}}), a longer version of the novella of the same name, published as [[Tor Double Novels|Tor SF Double]] No. 25 with ''The Death of Doctor Island'' by [[Gene Wolfe]]
+* ''[[Growing Up Weightless]]'' (1993, [[Bantam Spectra]], {{ISBN|0-553-37306-4}}; 1994, {{ISBN|0-553-56814-0}}), a [[Bildungsroman]] set on a human-colonized [[Moon]]; joint winner of the 1993 [[Philip K. Dick Award]]
+* ''Timesteps'' (1993, Rune Press), a selection of poems
+* ''From the End of the Twentieth Century'' (1997, [[NESFA Press]], {{ISBN|0-915368-74-9}}, {{ISBN|0-915368-73-0}}), a collection of short stories, poetry, and essays<ref name="nesfa060805"/>
+* ''[[The Last Hot Time]]'' (2000, Tor Books, {{ISBN|0-312-85545-1}}; 2001 paperback, {{ISBN|0-312-87578-9}}), [[urban fantasy]] set in a magical [[Chicago, Illinois]]
+* ''Heat of Fusion and Other Stories'' (2004, Tor Books, {{ISBN|0-312-85546-X}}), a collection of short stories and poetry, finalist for the World Fantasy Award in 2005
+*''Aspects'' (TBA, Tor Books, {{Isbn|9781250269034}}), The final novel written by Ford. <ref>{{Cite web|title=Aspects|url=https://us.macmillan.com/books/9781250269034/aspects|access-date=2021-09-07|website=Macmillan|language=en-US}}</ref>
+
+With [[Darrell Schweitzer]] and [[George H. Scithers]], Ford co-authored ''On Writing Science Fiction (The Editors Strike Back!)'' (1981, Owlswick Press, {{ISBN|0-913896-19-5}}; [[Wildside Press]] 2000, {{ISBN|1-880448-78-5}}), a writers' manual with advice illustrated by short stories that were first sales to ''IASFM''.<ref name="wcat1981"/>
+
+===Short works and poetry===
+* "A Cup of Worrynot Tea" in ''Liavek: The Players of Luck'' (1986, edited by [[Emma Bull]] and [[Will Shetterly]])
+* "Green Is the Color", "Eel Island Shoals" (song), "Pot-Boil Blues" (song) in ''Liavek: Wizard's Row'' (1987, edited by [[Emma Bull]] and [[Will Shetterly]])
+* "Winter Solstice, Camelot Station" (in ''Invitation to Camelot'', edited by [[Parke Godwin]])
+* "Riding the Hammer" in ''Liavek: Spells of Binding'' (1988, edited by [[Emma Bull]] and [[Will Shetterly]])
+* "The Grand Festival: Sestina" (poem), "Divination Day: Invocation" (poem), "Birth Day: Sonnet" (poem), "Procession Day/Remembrance Night: Processional/Recessional" (poem), "Bazaar Day: Ballad" (poem), "Festival Day: Catechism" (poem), "Restoration Day: Plainsong" in ''Liavek: Festival Week'' (1990, edited by [[Emma Bull]] and [[Will Shetterly]])
+* "Scrabble with God", IASFM October 1985, reprinted in ''From the End of the Twentieth Century''
+
+===Other published works===
+* Ford wrote extensively for the [[Traveller (role-playing game)]].
+* Ford published some children's fiction under pseudonyms that he did not make public, and two children's [[gamebook]]s under [[pen name#"House" name|house names]] Michael J. Dodge (''Star Trek: Voyage to Adventure'', 1984) and Milo Dennison (''The Case of the Gentleman Ghost'', 1985).
+* Ford plotted three issues of the ''[[Captain Confederacy]]'' [[alternate history]] comics in the late 1980s and wrote issue number 10, "Driving North."
+* Ford also contributed to ''The World of Robert Jordan's [[The Wheel of Time]]'' (2001, Tor Books, {{ISBN|0-312-86936-3}}), drawing some of the maps.
+
+===Games===
+* [[Traveller (role-playing game)]]
+* ''[[The Yellow Clearance Black Box Blues]]'' (1985, West End Games, {{ISBN|0-87431-027-X}}), an adventure for the [[Paranoia (role-playing game)|Paranoia]] roleplaying game
+* ''[[Star Trek III (board game)|Star Trek III]]'' with [[Greg Costikyan]] and Doug Kaufman (1985, West End Games)
+* ''[[GURPS Time Travel]]'' with [[Steve Jackson (US)|Steve Jackson]] (1991, [[Steve Jackson Games]], {{ISBN|1-55634-115-6}}), a resource book for the [[GURPS]] roleplaying game
+* ''GURPS Y2K'' with Steve Jackson et al. (1999, Steve Jackson Games, {{ISBN|1-55634-406-6}}), a resource book for the GURPS roleplaying game
+* ''GURPS Traveller: Starports'' (2000, Steve Jackson Games, {{ISBN|1-55634-401-5}}), a resource book for the [[Traveller (role-playing game)|GURPS Traveller]] roleplaying game
+* ''[[GURPS Infinite Worlds]]'' with Steve Jackson and [[Kenneth Hite]] (2005, Steve Jackson Games, {{ISBN|1-55634-734-0}}), a resource book for the GURPS roleplaying game
+* [[Scared Stiffs]] with Bill Slaviscek (1987, [[West End Games]], {{ISBN|0874310628}}), a module for the [[Ghostbusters Roleplaying Game]].
+* Ford further wrote Klingon manuals for the [[Star Trek: The Role Playing Game|''Star Trek'' role-playing game]],<ref name="sfpm070120"/> and a number of [[role-playing game|RPG]] articles, which appeared in ''[[Autoduel Quarterly]]'', ''[[Pyramid (magazine)|Pyramid]]'', ''[[Roleplayer]]'', ''[[Space Gamer]]'', and ''[[Journal of the Travellers' Aid Society]]''.
+* In ''[[The Final Reflection]]'' he described a chess-like game played by Klingons, ''klin zha,'' which has been adopted by Klingon fandom.<ref name="klin zha"/>
+
+==Awards==
+* 2005 [[Origins Award]] for Role-Playing Game Supplement of the Year – ''[[GURPS Infinite Worlds]] 4th Edition''
+* 1998 [[Minnesota Book Award]] for Fantasy & Science Fiction<ref name="mhc1998"/>
+* 1993 [[Philip K. Dick Award]] – ''Growing Up Weightless''
+* 1991 [[Origins Award]] for Best Roleplaying Supplement – ''GURPS Time Travel''
+* 1989 [[World Fantasy Award for Best Short Fiction]] – "[[Winter Solstice, Camelot Station]]" (in ''Invitation to Camelot'', edited by [[Parke Godwin]])
+* 1989 [[Rhysling Award]] for Long Poem – also "Winter Solstice, Camelot Station"
+* 1985 [[Origins Award]] for Best Roleplaying Supplement – ''The Yellow Clearance Black Box Blues''
+* 1984 [[World Fantasy Award for Best Novel]] – ''The Dragon Waiting''
+
+===Nominations===
+* 2005 [[World Fantasy Award for Best Collection]] – ''Heat of Fusion and Other Stories''
+* 1996 [[Nebula Award for Best Novelette]] – "Erase/Record/Play" (in ''Starlight 1'', edited by [[Patrick Nielsen Hayden]])
+* 1996 [[Theodore Sturgeon Award]] – also "Erase/Record/Play"
+* 1995 [[Rhysling Award]] for Long Poems – "Troy: The Movie" (in ''[[Weird Tales]]'', Spring 1994)
+* 1991 Rhysling Award for Long Poems – "Bazaar Day: Ballad" (in ''Liavek: Festival Week'', edited by [[Will Shetterly]] and [[Emma Bull]]) and "Cosmology: A User’s Manual" (in ''[[Isaac Asimov's Science Fiction Magazine]]'', January 1990)
+* 1990 Rhysling Award for Long Poems – "A Holiday in the Park" (in ''[[Weird Tales]]'', Winter 1988/1989)
+* 1987 Nebula Award for Best Novelette (final ballot) – "Fugue State" (in ''[[Under the Wheel]]'', edited by Elizabeth Mitchell)
+
+==References==
+{{Reflist|30em|refs=
+<ref name="ssdi">{{cite web |work=[[Social Security Death Index|United States Social Security Death Index]] |title=John Milo Ford, September 25, 2006 |via=[[FamilySearch]] |url=https://familysearch.org/pal:/MM9.1.1/J5TC-LZN |access-date=February 16, 2013}}</ref>
+<ref name=vezner>{{cite news|first=Tad |last=Vezner |url=http://www.twincities.com/mld/pioneerpress/15868982.htm |archive-url=https://web.archive.org/web/20070929090235/http://www.twincities.com/mld/pioneerpress/15868982.htm |url-status=dead |archive-date=September 29, 2007 |title=Crafters of sci-fi attend obscure writer's eulogy: Peers laud Minneapolis author for his unpredictable works |work=[[St. Paul Pioneer Press]] |date=October 28, 2006 }} ([https://archive.today/20121203224953/http://community.livejournal.com/nemesis_draco/8908.html Discussion by fans] of the article and a few factual errors in it.)</ref>
+<ref name="asim0304">{{cite web|first=James Patrick |last=Kelly |author-link=James Patrick Kelly |url=http://www.asimovs.com/_issue_0304/onthenet.shtml |title=On the Net: Frequent Fliers |work=[[Isaac Asimov's Science Fiction Magazine|Asimov's]] |date=April 2003 |url-status=dead |archive-url=https://web.archive.org/web/20060806033229/http://www.asimovs.com/_issue_0304/onthenet.shtml |archive-date=August 6, 2006 }} (See also [http://www.asimovs.com/cgi-bin/searcheng.cgi?searchstring=ford Ford's entries]  {{webarchive|url=https://web.archive.org/web/20070430070141/http://www.asimovs.com/cgi-bin/searcheng.cgi?searchstring=ford |date=April 30, 2007 }} in the ''Asimov's'' index.)</ref>
+<ref name="shetintro">{{cite web|first=Will |last=Shetterly |author-link=Will Shetterly |url=http://www.asimovs.com/_issue_0304/onthenet.shtml |title=An Introduction to John M. Ford |work=player.org |date=February 2005 |url-status=dead |archive-url=https://web.archive.org/web/20061004005143/http://www.player.org/pub/flash/ford/ |archive-date=October 4, 2006 }}</ref>
+<ref name="makl051225">{{cite web |title=Ford's comment at a "four things" meme blogpost |url=http://nielsenhayden.com/makinglight/archives/007117.html#107842 |work=[[Making Light]] |date=December 25, 2005}}</ref>
+<ref name="makl060925">{{cite web |first=Elise |last=Matthesen |work=[[Making Light]] |url=http://nielsenhayden.com/makinglight/archives/008033.html |title=John M. Ford, 1957–2006 |date=September 25, 2006}}</ref>
+<ref name="hyim061002">{{cite web|first=Elise |last=Matthesen |author-link=Elise Matthesen |work=Honour Your Inner Magpie |title=The John M. Ford Book Endowment |url=http://elisem.livejournal.com/907925.html |date=October 2, 2006 |access-date=April 29, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20150425012527/http://elisem.livejournal.com/907925.html |archive-date=April 25, 2015 |df=mdy-all }}</ref>
+<ref name="sfpm070120">{{cite web|url=http://community.livejournal.com/nemesis_draco/16572.html |title=Against Entropy |date=January 20, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20110105051615/http://community.livejournal.com/nemesis_draco/16572.html |archive-date=January 5, 2011 |df=mdy-all }}</ref>
+<ref name="wcat1981">{{cite book |publisher=[[WorldCat]] |title=On Writing Science Fiction (The Editors Strike Back!) |date=1981 |oclc=7885690 }}</ref>
+<ref name="nesfa060805">{{cite web |publisher=[[NESFA Press]] |title=From the End of the Twentieth Century |url=http://nesfa.org/press/Books/Ford.html |date=August 5, 2006 |access-date=April 5, 2011}}</ref>
+<ref name="sleight">{{cite web |first=Graham |last=Sleight |work=[[Locus Online]] |url=https://locusmag.com/2012/04/graham-sleights-yesterdays-tomorrows-john-m-ford/ |title=Graham Sleight's Yesterday's Tomorrows: John M. Ford |date=April 15, 2012}}</ref>
+<ref name="klin zha">{{cite web |first=Jean-Louis |last=Cazaux |work=chessvariants.com |url=https://www.chessvariants.com/shape.dir/klinzha/klinzha.html |title=Klin Zha |date=November 24, 2001}}</ref>
+<ref name="mhc1998">{{cite web |publisher=The Minnesota Humanities Commission |location=[[St. Paul, MN]] |title=1998 Minnesota Book Awards Nominees and Winners |url=http://www.thinkmhc.org/Book/1998.htm |archive-url=https://web.archive.org/web/20020819133122/http://thinkmhc.org/Book/1998.htm |archive-date=August 19, 2002}}</ref>
+}}
+
+== Further reading ==
+
+===Texts by Ford online===
+* [http://nielsenhayden.com/makinglight/archives/008034.html Mike Ford: Occasional Works – Part One] to Twelve and [http://nielsenhayden.com/makinglight/archives/009225.html Coda]: selection of Ford's comments to Patrick and [[Teresa Nielsen Hayden]]'s weblog ''Making Light'', with links to context
+* [http://www.110stories.us 110 Stories], poem written about the [[September 11, 2001 attacks]]
+* [https://web.archive.org/web/20061114014552/http://www.strangehorizons.com/2002/20020429/troy.shtml Troy: The Movie], 1994 poem
+* [http://listserv.heanet.ie/cgi-bin/wa?A2=ind9711&L=CELTIC-L&P=R18841 Winter Solstice, Camelot Station], 1989 poem
+* [https://web.archive.org/web/20061230050946/http://www.strangehorizons.com/2002/20020429/as_above.shtml "As Above, So Below"], short story (in ''Dragons of Light'', ed. [[Orson Scott Card]], Ace Books, 1980)
+* [https://web.archive.org/web/20110708030355/http://captainconfederacy.blogspot.com/2006/11/driving-north.html "Driving North"], short story written as the script for [https://web.archive.org/web/20110708030438/http://captainconfederacy.blogspot.com/2006/09/chapter-ten.html issue 10] of ''[[Captain Confederacy]]''
+* ''[[Strange Horizons]]'' [https://web.archive.org/web/20061114013122/http://www.strangehorizons.com/2002/20020429/interview.shtml 2002 interview with Ford]
+* [[Patrick Nielsen Hayden]]'s [http://www.well.com/conf/inkwell.vue/topics/126/John-M-Ford-The-Last-Hot-Time-page01.html 2001 online interview with Ford] (and other ink[[WELL (virtual community)|WELL]] participants)
+* Alex Krislov's [http://www.textfiles.com/sf/fordco.hum 1980s interview with Ford]
+* [http://www.j-bradford-delong.net/movable_type/2003_archives/001284.html Quote from "Playing Scrabble with God"], [https://archive.today/20121209084737/http://kate-nepveu.livejournal.com/203516.html another]
+* [http://groups.google.com/groups/profile?enc_user=Av8UchYAAAA8bONUQoZINuUg88GBoSNl-ezzl9S5U795pqlcEbAFPA Ford's USENET posts] 1994–5, in [[Google Groups]] archive
+
+===About Ford===
+* [[Teresa Nielsen Hayden]]: [http://nielsenhayden.com/makinglight/archives/008033.html ''Making Light:'' John M. Ford, 1957–2006]. With links to online works by Ford, articles, weblog posts and memories about Ford
+* [[Will Shetterly]]: [https://web.archive.org/web/20061004005143/http://www.player.org/pub/flash/ford/]
+* [[Neil Gaiman]]: [http://www.neilgaiman.com/journal/2006/09/ten-years-ago.html Introduction to ''From the End of the Twentieth Century'']
+* [[Steve Jackson (US)|Steve Jackson]]: [http://www.sjgames.com/ill/archive/September_26_2006/John_M_Ford Daily Illuminator article] remembering Ford
+* [[John Clute]]: [https://web.archive.org/web/20061129100213/http://news.independent.co.uk/people/obituaries/article1772294.ece Obituary: John M. Ford], in ''[[The Independent]]''
+* [http://www.darwinwars.com/page1.html Andrew Brown]: [https://www.theguardian.com/wormseyeview/story/0,,1929491,00.html column on London memorial gathering for Ford], in ''[[The Guardian]]''
+* [[David Langford]]: [http://ansible.co.uk/sfx/sfx151.html John M Who?] ''[[SFX (magazine)|SFX]]'' December 2006
+* [https://www.flickr.com/photos/tags/johnmford/ Photos tagged "JohnMFord" at Flickr.com]
+* [https://web.archive.org/web/20080719222638/http://www.kith.org/journals/jed/2006/09/25/3686.html More links remembering John M. Ford]
+
+==External links==
+* {{isfdb name|name=John M. Ford}}
+* [http://www.boardgamegeek.com/boardgamedesigner/1759 John M. Ford, game designer] at BoardGameGeek.Com
+* [https://web.archive.org/web/20060923101130/http://www.nesfa.org/boskone/b34/fordbib.html John M. Ford: A Chronological Bibliography] up to 1997 by [[New England Science Fiction Association]]
+* [http://www.johnmford.com Fan memorial website]
+* [http://www.fantasticfiction.co.uk/f/john-m-ford/ Bibliography with cover scans] at Fantastic Fiction
+<!--- this first part intended for official-looking bibliographies etc.-->
+{{World Fantasy Award Best Short Fiction}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ford, John M.}}
+[[Category:1957 births]]
+[[Category:2006 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American poets]]
+[[Category:American fantasy writers]]
+[[Category:American alternate history writers]]
+[[Category:American gamebook writers]]
+[[Category:American male novelists]]
+[[Category:American male poets]]
+[[Category:American science fiction writers]]
+[[Category:Cyberpunk writers]]
+[[Category:GURPS writers]]
+[[Category:Indiana University Bloomington alumni]]
+[[Category:American male short story writers]]
+[[Category:People from East Chicago, Indiana]]
+[[Category:People from Whiting, Indiana]]
+[[Category:Role-playing game designers]]
+[[Category:Rhysling Award for Best Long Poem winners]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Novelists from Minnesota]]
+[[Category:20th-century American short story writers]]
+[[Category:Kidney transplant recipients]]
+[[Category:20th-century American male writers]]

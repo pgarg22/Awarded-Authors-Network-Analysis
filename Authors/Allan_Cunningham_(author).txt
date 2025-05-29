@@ -1,0 +1,64 @@
+{{Short description|Scottish poet and author}}
+{{about||the [[botany|botanist]]|Allan Cunningham (botanist)|the soldier|Alan Gordon Cunningham}}
+{{more footnotes|date=March 2013}}
+{{Use dmy dates|date=April 2013}}
+[[File:Allan Cunningham by Henry Room.jpg|thumb|''Allan Cunningham'', [[Henry Room]], c.1840]]
+[[File:Bust of Allan Cunningham, by Henry Weekes, 1842, SNPG.jpg|thumb|Bust of Allan Cunningham, by [[Henry Weekes]], 1842]]
+'''Allan Cunningham''' (7 December 1784{{snd}}30 October 1842) was a [[Scottish people|Scottish]] poet and author.
+
+==Life==
+He was born at [[Keir, Dumfries and Galloway|Keir]], near [[Dalswinton]], [[Dumfries and Galloway]], and first worked as a stonemason's apprentice. His father was a neighbour of [[Robert Burns]] at Ellisland, and Allan with his brother James visited [[James Hogg]], the "Ettrick shepherd", who became a friend to both.<ref name="EB1911">{{EB1911|inline=y|wstitle=Cunningham, Allan|volume=7|page=633}}</ref> Cunningham's other brothers were the [[ship's doctor|naval surgeon]] [[Peter Miller Cunningham]] (1789–1864) and the poet, [[Thomas Mounsey Cunningham]] (1776–1834).
+
+Cunningham gave his leisure to reading and writing imitations of old Scottish ballads. In 1809 he collected old [[ballad]]s for [[Robert Hartley Cromek]]'s ''Remains of [[Nithsdale]] and [[Galloway]] Song''; he sent in, however, poems of his own, which the editor inserted, even though he may have suspected their real authorship.<ref name="EB1911"/> It gained for him the friendship of [[Walter Scott]] and [[James Hogg]].
+
+In 1810 Cunningham went to [[London]], where he worked as a parliamentary reporter and journalist till 1814, when he became clerk of the works in the studio of the sculptor, [[Francis Legatt Chantrey|Francis Chantrey]], a post he kept until Chantrey's death in 1841.<ref name="EB1911"/>
+
+==Works==
+Cunningham contributed some songs to [[Eugenius Roche]]'s ''Literary Recreations'' in 1807. He wrote three novels, a life of [[David Wilkie (artist)|Sir David Wilkie]],<ref>{{cite journal|title=Review of ''The Life of Sir David Wilkie, R.A.'' by Allan Cunningham|journal=The Quarterly Review|date=September 1843|volume=72|pages=397–452|url=https://babel.hathitrust.org/cgi/pt?id=hvd.32044092628825;view=1up;seq=409}}</ref> and ''Lives of Eminent British Painters, Sculptors, and Architects'' (1829–33),<ref>{{cite journal|title=Review of ''Lives of the most Eminent British Painters, Sculptors, and Architects'' by Allan Cunningham, in 6 vols., 1830–1833|journal=The Quarterly Review|date=October 1833|volume=50|pages=56–88|url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074711402;view=1up;seq=70}}</ref><ref>{{cite journal|title=Review of ''Lives of the British Architects'' by Allan Cunningham, 1831; and ''Designs for Parsonages and Farm Houses, &c.'' by E. F. Hunt, 1828; and ''Exemplars of Tudor Architecture'' by E. F. Hunt, 1830 |journal=The Quarterly Review|date=July 1831|volume=45|pages=471–504|url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015074711451;view=1up;seq=481}}</ref> that include biographies of [[William Hogarth]], [[Sir Joshua Reynolds]], [[Thomas Gainsborough]]  and [[William Blake]].<ref>{{cite book|author=Cunningham, Allan|title=The lives of the most eminent British painters and sculptors|location=New York|publisher=J. & J. Harper|url=https://catalog.hathitrust.org/Record/009016283|postscript=; 5 vols.; vol. 1 publ. 1846; vols. 2–5 publ. 1835}} (See vol. 1 for Hogarth, Reynolds, & Gainsborough; vol. 2 for Blake.)</ref>
+
+Besides these, he wrote many songs. ''A Wet Sheet and a Flowing Sea'' is a sea-song; and many other of Cunningham's songs became popular. He also brought out an edition of Robert Burns' Works.
+
+Other works included:
+
+*''Sir Marmaduke Maxwell'' (1820) (play)
+*''The King of the Peak'' (1822), the story of Sir George Vernon and his daughter, Dorothy Vernon's supposed elopement with John Manners from [[Haddon Hall]].
+*''The Maid of Elvar'' (1830) (a poem, in twelve parts)
+
+==Family==
+Cunningham was married to Jean Walker, who had been servant in a house where he lived, and they had five sons and one daughter,<ref name="EB1911"/> all of whom rose to important positions, and inherited in some degree his literary gifts. Among them were [[Joseph Davey Cunningham]], [[Alexander Cunningham]], [[Peter Cunningham (writer, born 1816)|Peter Cunningham]] and [[Francis Cunningham (Indian Army officer)|Francis Cunningham]].
+
+==See also==
+{{portal|Poetry}}
+*[[Scottish literature]]
+
+==References==
+{{reflist}}
+*{{A Short Biographical Dictionary of English Literature}}
+<!-- https://archive.org/stream/biographicaldict05chamiala#page/154/mode/2up -->
+
+==External links==
+{{wikisource author}}
+{{wikiquote|Allan Cunningham}}
+{{Commons category|Allan Cunningham (author)}}
+* {{Gutenberg author | id=8069 | name=Allan Cunningham}}
+* {{Internet Archive author |sname=Allan Cunningham |birth=1784 |death=1842}}
+* {{Librivox author |id=2829}}
+* {{OL author}}
+* {{UK National Archives ID}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cunningham, Allan}}
+[[Category:Scottish poets]]
+[[Category:Scottish biographers]]
+[[Category:Scottish journalists]]
+[[Category:People from Dumfries and Galloway]]
+[[Category:1784 births]]
+[[Category:1842 deaths]]
+[[Category:Burials at Kensal Green Cemetery]]
+[[Category:Scottish song collectors]]
+[[Category:Protestant Jacobites]]
+[[Category:Scottish Jacobites]]
+[[Category:Jacobite propagandists]]
+[[Category:William Blake scholars]]
+[[Category:Scottish folk-song collectors]]

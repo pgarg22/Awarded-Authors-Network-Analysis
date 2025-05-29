@@ -1,0 +1,74 @@
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=January 2021}}
+
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image = Kennethbulmer1956.jpg
+| imagesize = 
+| name        = Kenneth Bulmer
+| caption     = Kenneth Bulmer c. 1956
+| birth_date = {{birth date|1921|1|14|df=y}}
+| birth_place = [[London]], [[England]]
+| death_date = {{death date and age|2005|12|16|1921|1|14|df=y}}
+| death_place = [[Royal Tunbridge Wells|Tunbridge Wells]], [[Kent]], [[England]]
+| occupation  = Author
+| genre       = Science fiction
+| nationality = British
+| spouse = Pamela Buckmaster
+| period      = 
+| movement    = 
+| notableworks = 
+| influences  = 
+| influenced  = 
+}}
+'''Henry Kenneth Bulmer''' (14 January 1921 – 16 December 2005) was a British author, primarily of [[science fiction]].
+
+==Life==
+Born in London, he married Pamela Buckmaster on 7 March 1953. They had one son and two daughters, and they divorced in 1981. Bulmer lived in [[Royal Tunbridge Wells|Tunbridge Wells]], [[Kent]] where he died on 16 December 2005.
+
+==Career in science fiction==
+A prolific writer, Bulmer penned over 160 novels and numerous short stories, both under his real name and various pseudonyms. For instance, his long-running [[Dray Prescot series]] of [[planetary romance]]s was initially published as Alan Burt Akers, and later as by the first-person protagonist of the series, Prescot himself.
+
+Bulmer's works are popular in translation, particularly Germany, to the extent that in some cases they have been published only in German editions, with the original English-language versions remaining unpublished.
+
+Bulmer did some work in comics, writing [[Jet-Ace Logan]] stories for ''[[Tiger (comic)|Tiger]]'',<ref>Andrew Darlington, "Captain Condor: Space Hero in Search of an Artist", [http://efanzines.com/Mentor/TM84COMP.pdf ''The Mentor'' 84], October 1994, pp. 5–8, 11</ref> scripts for ''[[War Picture Library]]'', ''[[Lion (comics)|Lion]]'' and ''[[Valiant (comics)|Valiant]]'', and helping to create the British comics antihero [[Steel Claw|The Steel Claw]].<ref>[https://www.independent.co.uk/news/obituaries/ken-bulmer-520171.html Obituary: Ken Bulmer], ''The Independent'', 20 December 2005</ref> [[Paul Grist (comics)|Paul Grist]]'s comics series ''[[Jack Staff]]'' acknowledges this in the real name of its character The Claw, Ben Kulmer.
+
+Bulmer was also active in [[science fiction fandom]], including travelling to the United States in 1955 as the [[TransAtlantic Fan Fund]] (TAFF) delegate.
+
+In the 1970s he edited nine issues of the ''[[New Writings in SF|New Writings in Science Fiction]]'' [[anthology]] series in succession to [[John Carnell]], who originated the series.
+
+==Pen names and imaginary biographies==
+Bulmer's pseudonyms include Alan Burt Akers, Frank Brandon, Rupert Clinton, Ernest Corley, Peter Green, Adam Hardy, Philip Kent, Bruno Krauss, Karl Maras, Manning Norvil, Chesman Scot, Nelson Sherwood, Richard Silver, H. Philip Stratford and Tully Zetford. Kenneth Johns was a collective pseudonym used for a collaboration with author John Newman. Some of Bulmer's works were published along with the works of other authors under "[[Pen name#"House" names|house names]]" (collective pseudonyms) Ken Blake (for a series of tie-ins with the 1970s television programme ''[[The Professionals (TV series)|The Professionals]]''), Arthur Frazier, Neil Langholm, Charles R. Pike, and Andrew Quiller. He also [[Ghostwriter|ghost-wrote]] books for [[Barry Sadler]].
+
+In some cases, Bulmer used not only a different name but also included in the books a detailed imaginary biography giving specific personal details substantially different from the true ones. For example, the Viking series published under the name "Neil Langholm" included biographical details intended to create the impression that the series – as appropriate to its subject – was written by a [[Danish people|Dane]]:
+
+{{bquote|Neil Langholm was born in [[Copenhagen]] in 1931, but was educated in England at [[eton college|Eton]] and [[Oxford]]. He started his career as a veterinary surgeon but gave up in 1960 to begin writing full time. He is the author of several bestselling western and science fiction series, which he writes under a pseudonym. Mr. Langholm now lives with his wife and five children in [[Ruislip]]. His hobbies are breeding dogs and archery.<ref>From the introduction page to "Blood Sacrifice", 1975</ref>}}
+
+== Bibliography ==
+{{Main|Kenneth Bulmer bibliography}}
+
+== References ==
+{{reflist}}
+
+== External links ==
+* {{isfdb name|id=Kenneth_Bulmer|name=Kenneth Bulmer}}
+* [http://www.throneworld.com/wiki/index.php?title=Category:Kregen A wiki dedicated to Kenneth Bulmer's Kregen]
+* [http://www.mushroom-ebooks.com/authors/akers/akers.html Mushroom eBooks – the current publisher of the Dray Prescot books]
+* [https://web.archive.org/web/20060509061057/http://www.dcs.gla.ac.uk/SF-Archives/Taff/reports/hkb1.html ''TAFF Tales'', Bulmer's report of his 1955 TAFF trip]
+* [https://web.archive.org/web/20070324005721/http://news.independent.co.uk/people/obituaries/article334153.ece Obituary], ''[[The Independent]]'', 20 December 2005
+* [http://www.erbzine.com/mag35/3566.html Sword and Planet Fiction, by Charles Allen Gramlich and Stephen James Servello]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bulmer, Kenneth}}
+[[Category:1921 births]]
+[[Category:2005 deaths]]
+[[Category:20th-century English novelists]]
+[[Category:British comics writers]]
+[[Category:British male novelists]]
+[[Category:British male short story writers]]
+[[Category:English fantasy writers]]
+[[Category:English historical novelists]]
+[[Category:English science fiction writers]]
+[[Category:Science fiction fans]]
+[[Category:20th-century British short story writers]]
+[[Category:20th-century English male writers]]

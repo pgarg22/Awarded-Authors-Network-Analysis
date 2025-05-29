@@ -1,0 +1,23 @@
+{{short description|3rd-century BC Greek poet}}
+'''Alcaeus of Messene''' ({{IPAc-en|æ|l|ˈ|s|iː|ə|s}}; [[Greek language|Greek]]: {{lang|grc|Ἀλκαῖος ὁ Μεσσήνιος}}) was an ancient [[Greeks|Greek]] poet, who flourished between 219 and 196 BC. Twenty-two of his short poems or [[epigram]]s survive in the [[Greek Anthology]], from some of which his date may be fixed at around the late 3rd/early 2nd century BC.<ref name="DGRBM">{{cite encyclopedia|last=Smith |first=Philip |title=Alcaeus of Messene |editor=[[William Smith (lexicographer)|William Smith]] |encyclopedia=[[Dictionary of Greek and Roman Biography and Mythology]] |volume=1 |pages=95 |publisher=[[Little, Brown and Company]] |location=Boston |year=1867 |url=http://www.ancientlibrary.com/smith-bio/0104.html |url-status=dead |archiveurl=https://web.archive.org/web/20070303095629/http://www.ancientlibrary.com/smith-bio/0104.html |archivedate=2007-03-03 }}</ref> Some of his poems are on literary themes, but most are political.
+
+Alcaeus was contemporary with [[Philip V of Macedon|Philip V]], king of [[Macedon]] and son of [[Demetrius II of Macedon]], against whom several of his poems are pointed, apparently from patriotic feelings.  One of these, however, gave more offense to the Roman general [[Titus Quinctius Flamininus|Flamininus]] than to Philip, as Alcaeus ascribed the victory of the [[battle of Cynoscephalae]] to the [[Aetolia]]ns as much as to the Romans.  Philip contented himself with writing an epigram in reply to that of Alcaeus, in which he gave the Messenian a very broad hint of the fate he might expect if he fell into his hands.<ref>[[Plutarch]], ''Flamininus'' 9</ref>  This reply was enough to lead French classical scholar [[Claudius Salmasius]]  to suppose that Alcaeus was actually crucified by Philip.<ref>[[Claudius Salmasius]], ''De Cruce'', p. 449, ap. [[Johann Albert Fabricius|Fabric.]] ''Biblioth. Graec.'' ii. p. 88</ref>  In another epigram, in praise of Flamininus, the mention of the Roman general's name, Titus, led [[John Tzetzes]] into the error of imagining the existence of an epigrammatist named Alcaeus under the emperor Titus.<ref>[[John Tzetzes]], ''Proleg. in Lycophron''</ref>  Those epigrams of Alcaeus which bear internal evidence of their date were written between the years 219 and 196.
+
+Of the 22 epigrams in the Greek Anthology which bear the name of Alcaeus, two are written "[[Alcaeus of Mytilene]]"; but most scholars take this to be the addition of some ignorant [[copyist]].  Others bear the name of "Alcaeus of Messene," and some of Alcaeus alone.  But in the last class there are several which must, from internal evidence, have been written by Alcaeus of Messene, and there seems no reason to doubt his being the author of all twenty-two.<ref name="DGRBM"/>
+
+==Notes==
+{{reflist}}
+
+==References==
+*{{SmithDGRBM|title= Alcaeus of Messene}}
+
+==External links==
+* [http://www.attalus.org/poetry/alcaeus.html Alcaeus of Messene: translation of all surviving epigrams] at ''attalus.org''; adapted from W.R.Paton (1916-18)
+
+{{authority control}}
+
+{{DEFAULTSORT:Alcaeus Of Messene}}
+[[Category:Epigrammatists of the Greek Anthology]]
+[[Category:3rd-century BC Greek people]]
+[[Category:3rd-century BC poets]]
+[[Category:Ancient Messenians]]

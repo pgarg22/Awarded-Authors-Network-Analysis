@@ -1,0 +1,39 @@
+{{short description|Serbian writer}}
+{{Use dmy dates|date=February 2014}}
+{{More citations needed|date=February 2011}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Stefan Stefanović
+| birth_date = 1807
+| birth_place = Novi Sad, [[Austrian Empire]], today [[Serbia]]
+| death_date = 1828
+| death_place = Novi Sad, [[Austrian Empire]], today [[Serbia]]
+| nationality         = [[Serbs|Serbian]]
+| occupation = writer
+}}
+'''Stefan Stefanović''' ({{lang-sr-cyr|Стефан Стефановић}}; 1807–1828) was a Serbian writer and playwright who is best remembered for the popular play about [[Stefan Uroš V of Serbia]].
+
+==Biography==
+Stefan Stefanović, who lived and worked in [[Novi Sad]] and [[Budapest]], is said to have been only nineteen years of age when he wrote the 1826 tragic drama "Death of [[Stefan Uroš V|Stefan Uroš V the Last Serbian Tsar]]", which would place his birth about the year 1807. He was [[Vuk Karadžić]]'s disciple. He wrote an ''"Ode to Vuk Karadžić"'' in the same reformed language that Vuk was advocating, and had it published in ''Srpski Letopis'' in 1826. Stefanović read German authors in the original language and translated them into modern Serbian. He was an ardent admirer of [[Schiller]]. He preferred a life of study and writing to the military service in which his peers were distinguished. He basically lived all his life in Novi Sad where he was born and Pest, Hungary, where he studied. There his time was also spent in literary pursuits, however short it turned out to be.
+
+His drama, ''"Death of Uroš V the Last Serbian Tsar"'', was inspired by Serbian Patriarch Pajsije I Janjevac (1614–1647) who wrote the biography of the last Serbian emperor, Uroš, and composed a service to him. Stefanović's drama about the life and death of the last Serbian tsar — [[Stefan Uroš V]] of Serbia — was frequently performed and it was popular at the time. It is assumed that such a theatrical performance must have been the source of inspiration for the painting of the scene subject by Serbian artist [[Novak Radonić]] in 1857.
+
+Stefan Stefanović died in 1828, in Novi Sad, afflicted with [[tuberculosis]]. He was 21. On his tombstone, his sister gave the date of birth and death: "1807–1828."
+
+==Romantic Drama==
+
+Despite the lack of material evidence, owing to the turbulent times of the period, the years of birth and death of Stefan Stefanović, the author of the first original drama in Serbian, are taken to be 1807 and 1828 respectively because that was what his sister had inscribed on his tombstone. The early historians of Serbian literature practically do not mention Stefanović, whereas later it was said that his historical drama was one of the best such pieces in the Serbian literature of the 19th century. Despite his youth, Stefanović possessed a certain maturity, as well as a resolution and conviction of the necessity of building national literature, a belief that everything that was written must be a contribution to the cultural development of his people. Only in his later pieces, especially the latest one, was there a step towards determining the historical and literary importance of Stefanović in Serbian literature and theater art, especially as the playwright of the historical drama "The Death of Uroš the Fifth, the Last Emperor of Serbia". It was indicated that his stratified and multifaceted piece, which tackles the relationship of the ruler and his rule, founded one of the basic directions in the development of Serbian drama, the one that led towards a romantic drama.
+
+==References==
+* {{cite book|author1=Stanley Hochman|author2=McGraw-Hill, inc|title=McGraw-Hill Encyclopedia of World Drama: An International Reference Work in 5 Volumes|url=https://books.google.com/books?id=88xIQiXVMCQC&pg=PA494|year=1984|publisher=VNR AG|isbn=978-0-07-079169-5|pages=494–}}
+* {{cite book|author=Leslie J. Workman|title=Medievalism in Europe|url=https://books.google.com/books?id=5yV6eqhflp8C&pg=PA218|year=1994|publisher=Boydell & Brewer|isbn=978-0-85991-400-0|pages=218–}}
+* http://www.equilibrium.rs/knjiga/A-03505/smrt-urosa-petog-tragedija-u-pet-cinova
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stefan Stefanovic}}
+[[Category:1807 births]]
+[[Category:1828 deaths]]
+[[Category:Writers from Novi Sad]]
+[[Category:19th-century deaths from tuberculosis]]
+[[Category:19th-century Serbian people]]
+[[Category:Tuberculosis deaths in Serbia]]

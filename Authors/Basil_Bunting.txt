@@ -1,0 +1,148 @@
+{{Use dmy dates|date=January 2020}}
+{{EngvarB|date=January 2020}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Basil Bunting
+| image         = Basil_Bunting_c1980s_photo_by_Jonathan_Williams.jpg
+| image_size    = 200px
+| alt           = Black and white photograph of Basil Bunting, poet, in sitting position.
+| caption       = Basil Bunting, in a photo taken by poet and photographer Jonathan Williams
+| pseudonym     = 
+| birth_name    = Basil Cheesman Bunting
+| birth_date    = {{Birth date|df=y|1900|03|01}}
+| birth_place   = [[Benwell and Scotswood|Scotswood-on-Tyne]], Northumberland, England, UK
+| death_date    = {{Death date and age|df=y|1985|04|17|1900|03|01}}
+| death_place   = [[Hexham]], Northumberland, England, UK
+| resting_place = Quaker graveyard at [[Brigflatts Meeting House|Brigflatts]], [[Sedbergh]], Cumbria, England<ref name="BBuntingGravesite">Poets' Graves. [http://www.poetsgraves.co.uk/bunting.htm "Basil Bunting 1900–1985"]. Retrieved 23 October 2013.</ref>
+| occupation    = Poet, military intelligence analyst, diplomat, journalist
+| nationality   = 
+| ethnicity     = 
+| citizenship   = British
+| education     = 
+| alma_mater    = [[London School of Economics]] (did not graduate)
+| period        = 
+| genre         = 
+| subject       = 
+| movement      = [[Modernist poetry in English|Modernism]]
+| notableworks  = "[[Briggflatts]]" (1966)
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| module        =
+| website       = <!-- www.example.com -->
+| portaldisp    = 
+}}
+'''Basil Cheesman Bunting''' (1 March 1900 – 17 April 1985)<ref name="durham">{{cite web |url= http://www.dur.ac.uk/basil-bunting-poetry.centre/basic.chronology/|title= Basic Bunting – A Basic Chronology|date= 26 May 2009|website= Basil Bunting Poetry Center|publisher= Durham University|access-date=21 May 2010}}</ref> was a British [[modernist poetry|modernist]] poet whose reputation was established with the publication of ''[[Briggflatts]]'' in 1966, generally regarded as one of the major achievements of the modernist tradition in English.<ref>[http://www.bloodaxebooks.com/titlepage.asp?isbn=1852245271 Bloodaxe Books.] {{webarchive |url=https://web.archive.org/web/20100309231748/http://www.bloodaxebooks.com/titlepage.asp?isbn=1852245271 |date=9 March 2010 }}</ref> He had a lifelong interest in music that led him to emphasise the sonic qualities of poetry, particularly the importance of reading poetry aloud. He was an accomplished reader of his own work.<ref name="ReferenceA">Schmidt, Michael, ''Lives of the Poets'', Weidenfeld & Nicolson, 1998.</ref>
+
+==Life and career==
+Born into a [[Quaker]] family in [[Benwell and Scotswood]], [[Newcastle-on-Tyne]], Northumberland, he studied at two Quaker schools: from 1912 to 1916 at [[Ackworth School]] in the [[West Riding of Yorkshire]] and from 1916 to 1918 at [[Leighton Park School]] in Berkshire.<ref name="Literary Encyclopedia Bunting">{{cite web
+ | last = Pursglove
+ | first = Glyn
+ | date = 21 March 2002
+ | url = http://www.litencyc.com/php/speople.php?rec=true&UID=639
+ | title = Basil Bunting
+ | website = The Literary Encyclopedia
+ | access-date = 7 May 2006
+}}</ref> His Quaker education strongly influenced his pacifist opposition to the [[First World War]], and in 1918 he was arrested as a [[conscientious objector]] having been refused recognition by the tribunals and refusing to comply with a notice of call-up. Handed over to the military, he was court-martialled for refusing to obey orders, and served a sentence of more than a year in [[Wormwood Scrubs (HM Prison)|Wormwood Scrubs]] and [[HMP Winchester|Winchester prison]]s.<ref name="Centre for Northern Studies Bunting">{{cite web
+ |last=Myers 
+ |first=Alan 
+ |year=2004 
+ |url=http://online.northumbria.ac.uk/faculties/art/humanities/cns/m-bunting.html 
+ |title=Basil Bunting (1900–1985) 
+ |website=Myers Literary Guide to North-East England 
+ |publisher=Centre for Northern Studies 
+ |access-date=7 May 2006 
+ |archive-url=https://web.archive.org/web/20060305124332/http://online.northumbria.ac.uk/faculties/art/humanities/cns/m-bunting.html 
+ |archive-date=5 March 2006 
+ |url-status=dead 
+}}</ref> Bunting's friend [[Louis Zukofsky]] described him as a "conservative/anti-fascist/imperialist",<ref>James J. Wilhelmm, E''zra Pound: the tragic years, 1925–1972'', Penn State Press, 1994, p. 128.</ref> though Bunting himself listed the major influences on his artistic and personal outlook somewhat differently as "Jails and the sea, Quaker mysticism and socialist politics, a lasting unlucky passion, the slums of Lambeth and Hoxton ..."<ref name="See Bunting to Eric Mottram, quoted in">{{cite journal|last=Bill Griffiths|journal=Chicago Review|year=1998|volume=44}}</ref> 
+ 
+These events were to have an important role in his first major poem, "Villon" (1925). "Villon" was one of a rather rare set of complex structured poems that Bunting labelled "sonatas", thus underlining the sonic qualities of his verse and recalling his love of music. Other "sonatas" include "Attis: or, Something Missing", "Aus Dem Zweiten Reich",  "The Well of Lycopolis",  "The Spoils" and, finally, "Briggflatts". After his release from prison in 1919, traumatised by the time spent there, Bunting went to London, where he enrolled in the [[London School of Economics]], and had his first contacts with journalists, social activists and Bohemia. Bunting was introduced to the works of [[Ezra Pound]] by [[Nina Hamnett]] who lent him a copy of ''Homage to Sextus Propertius''.<ref>Peter Makin, "Bunting: the Shaping of his Verse" (Oxford: Clarendon Press, 1992).</ref> The glamour of the cosmopolitan modernist examples of Nina Hamnett and [[Mina Loy]] seems to have influenced Bunting in his later move from London to Paris.
+
+After travelling in Northern Europe, Bunting left the London School of Economics without a degree and went to France. There, in 1923, he became friendly with [[Ezra Pound]], who years later would dedicate his ''Guide to Kulchur'' (1938) to both Bunting and [[Louis Zukofsky]], "strugglers in the desert". Between February and October 1927, Bunting wrote articles and reviews for ''[[The Outlook (British magazine)|The Outlook]]'', and then became its music critic until the magazine ceased publication in 1928.<ref>{{cite book |title=A Strong Song Tows Us: The Life of Basil Bunting, Britain's Greatest Modernist Poet |first=Richard |last=Burton |publisher=Infinite Ideas |year=2013 |isbn=978-1-909-65248-4 |url=https://books.google.com/books?id=rScRAgAAQBAJ |page=133}}</ref> Bunting's poetry began to show the influence of the friendship with Pound, whom he visited in [[Rapallo]], Italy, and later settled there with his family from 1931 to 1933. He was published in the [[Objectivist poets|Objectivist]] issue of ''[[Poetry (magazine)|Poetry]]'' magazine, in the ''Objectivist Anthology'', and in Pound's ''Active Anthology''.{{fact|date=January 2021}}
+
+In the 1930s, Bunting became interested in medieval Persian literature, studied to the language to some degree, and began publishing adaptations of Persian poems by [[Ferdowsi]], [[Manuchehri]], [[Saadi Shirazi|Sa’di]], [[Hafez]], and [[Obayd Zakani]]; their use of sound patterning seems to have influenced his own.<ref>Simon Patton and Omid Azadibougar, 'Basil Bunting’s Versions of Manuchehri Damghani', ''Translation and Literature'', 25 (2016), 339–62 (esp. pp. 341, 361-62); {{DOI|10.3366/tal.2016.0262}}.</ref> During the [[Second World War]], Bunting served in British Military Intelligence in [[Iran|Persia]]. After the war, in 1948, he left government service to become the correspondent for ''The Times of London'', in Iran. He married a [[Kurds|Kurdish]] woman – Sima Alladadian who was thirty years his junior. Because of his marriage to the underage girl, Bunting was fired from the British embassy.<ref>{{Cite journal|last=Loloi|first=Parvin|date=2009|title=BUNTING, Basil Cheesman|url=https://www.iranicaonline.org/articles/bunting-basil-cheesman|journal=[[Iranica Online]]}}</ref> 
+
+Back in Newcastle, he worked as a journalist on the ''Evening Chronicle'' until his rediscovery during the 1960s by young poets, notably [[Tom Pickard]] and [[Jonathan Williams (poet)|Jonathan Williams]], who were interested in working in the [[modernist]] tradition. In 1965, he published his major long poem, ''[[Briggflatts]]'', named after the village in [[Cumbria]] where he is now buried in the Quaker graveyard.<ref>{{cite book|last1=Birch|first1=Dana|title=Oxford Companion to English Literature|date=2009|publisher=Oxford University Press|location=Oxford|isbn=9780191735066|edition=7th|doi=10.1093/acref/9780192806871.001.0001}}</ref><ref>{{cite web|title=Basil Bunting|url=https://www.poetsgraves.co.uk/bunting.htm|website=Poets' Graves|access-date=18 January 2017}}</ref>
+
+In later life he published ''Advice to Young Poets'', beginning "I SUGGEST / 1. Compose aloud; poetry is a sound."<ref name="ReferenceA"/>
+
+Bunting died in 1985 in [[Hexham]], Northumberland.<ref name="durham"/>
+
+The Basil Bunting Poetry Award and Young Person's Prize, administered by [[Newcastle University]], are open internationally to any poet writing in English.<ref>[http://www.ncl.ac.uk/ncla/competitions/bunting The Basil Bunting Poetry Award, NCLA Newcastle Centre for the Literary Arts, Newcastle University]</ref><ref>[http://basilbuntingaward.co.uk/w13/ The Basil Bunting Poetry Award, Changes Ahead by John Halliday 29 November 2013] {{webarchive |url=https://web.archive.org/web/20150123004106/http://basilbuntingaward.co.uk/w13/ |date=23 January 2015 }}</ref>
+
+===Briggflatts===
+{{main|Briggflatts}}
+Divided into five parts and noted for its intricate use of sound and resonances with medieval literature,<ref>Helen Price, '[http://etheses.whiterose.ac.uk/6607/ Human and NonHuman in Anglo-Saxon and British Postwar Poetry: Reshaping Literary Ecology]' (unpublished doctoral thesis, University of Leeds, 2013), pp. 179-94.</ref> ''Briggflatts'' is an autobiographical long poem, looking back on teenage love and on Bunting's involvement in the high modernist period. In addition, ''Briggflatts'' can be read as a meditation on the limits of life and a celebration of [[Northumberland|Northumbrian]] culture and dialect, as symbolised by events and figures like the doomed Viking King [[Eric Bloodaxe]]. The critic [[Cyril Connolly]] was among the first to recognise the poem's value, describing it as "the finest long poem to have been published in England since [[T. S. Eliot]]'s ''[[Four Quartets]]''".
+
+===Portrait bust of Basil Bunting===
+
+Basil Bunting sat in Northumberland for sculptor [[Alan Thornhill]], with a resulting terracotta<ref>[http://alanthornhill.co.uk/sm_005.htm Portrait head of Basil Bunting in clay for bronze] {{webarchive |url=https://web.archive.org/web/20080719115538/http://alanthornhill.co.uk/sm_005.htm |date=19 July 2008 }}, image of sculpture by Alan Thornhill, who travelled to Northumberland for Bunting's sitting.</ref> (for bronze) in existence. The correspondence file relating to the Bunting portrait bust is held as part of the Thornhill Papers (2006:56) in the archive<ref>[http://www.henry-moore-fdn.co.uk/matrix_engine/content.php?page_id=584 HMI Archive.] {{webarchive|url=https://web.archive.org/web/20090112193428/http://www.henry-moore-fdn.co.uk/matrix_engine/content.php?page_id=584 |date=12 January 2009 }}</ref> of the [[Henry Moore Foundation]]'s Henry Moore Institute in Leeds and the terracotta remains in the collection of the artist. The 1973 portrait is displayed in the Burton (2014) biography of Bunting.<ref>Richard Burton, ''A Strong Song Tows Us: The Life of Basil Bunting'' (2014), Infidea, {{ISBN|978 1 908984 25 8}}.</ref>
+
+==In popular culture==
+[[Mark Knopfler]] wrote a song, titled 'Basil', about his time as a Saturday afternoon [[copy boy]] on the Newcastle ''[[Evening Chronicle]]'' when Bunting worked there. The song was recorded for Knopfler's 2015 album ''[[Tracker (album)|Tracker]]''.
+
+==Books==
+* 1930: ''[[Redimiculum Matellarum]]'' (privately printed) 
+* 1950: ''Poems'' (Cleaners' Press, 1950) revised and published as ''Loquitur'' (Fulcrum Press, 1965). 
+* 1951: ''The Spoils''
+* 1965: ''First Book of Odes''
+* 1965: ''Ode II/2''
+* 1966: ''Briggflatts: An Autobiography''
+* 1967: ''Two Poems''
+* 1967: ''What the chairman Told Tom'' 
+* 1968: ''Collected Poems''
+* 1972: ''Version of Horace''
+* 1991: ''Uncollected Poems'' (posthumous, edited by Richard Caddel)
+* 1994: ''The Complete Poems'' (posthumous, edited by Richard Caddel)
+* 1999: ''Basil Bunting on Poetry'' (posthumous, edited by Peter Makin)
+* 2000: ''Complete Poems'' (posthumous, edited by Richard Caddel)
+* 2009: ''Briggflatts'' (with audio CD and video DVD)
+* 2012: ''Bunting's Persia'' (translations by Basil Bunting, edited by Don Share)
+* 2016: ''The Poems of Basil Bunting'' (posthumous, edited, with intro and commentary by Don Share)
+
+==References==
+
+===Notes===
+{{reflist}}
+
+===Further reading===
+* Alldritt, Keith, ''Modernism in the Second World War:The Later Poetry of Ezra Pound, T.S. Eliot, Basil Bunting and Hugh MacDiarmid'', New York: Peter Lang, 1989, {{ISBN|0-8204-0865-4}}
+* Alldritt, Keith, ''The Poet As Spy: The Life and Wild Times of Basil Bunting'', London: Aurum Press, 1998, {{ISBN|978-1-85410-477-9}}.
+* Bunting, Basil, I SUGGEST, ''Advice to Young Poets'', Basil Bunting Poetry Archive, Durham University Library 190 
+* Burton, Richard, ''A Strong Song Tows Us: The Life of Basil Bunting'', Oxford: Infinite Ideas, 2013, {{ISBN|978-1-908984-18-0}}.
+* Makin, Peter (editor) ''Basil Bunting on Poetry'', Johns Hopkins University Press, Baltimore, 1999. {{ISBN|978-0-8018-6166-6}}.
+* Patton, Simon; Azadibougar, Omid (2016). [https://www.euppublishing.com/doi/full/10.3366/tal.2016.0262 "Basil Bunting's Versions of Manuchehri Damghani"]. ''Translation and Literature'', Volume 25 Issue 3, Page 339-362, ISSN 0968-1361. (Edinburgh University Press).
+* Williams, Jonathan, ''Descant On Rawthey's Madrigal: Conversations with Basil Bunting'', Lexington, KY: Gnomon Press, 1968.
+
+== External links ==
+{{wikiquote}}
+*{{YouTube|eZ7greLmS3I|Listen to Basil Bunting reading one of his poems aloud}}
+*[http://www.dur.ac.uk/basil-bunting-poetry.centre/ Basil Bunting Poetry Centre]
+*[http://www.poetsgraves.co.uk/bunting.htm Basil Bunting's Grave]
+*[http://epc.buffalo.edu/authors/bunting/ Basil Bunting Home Page at EPC, Buffalo]
+*[http://jacketmagazine.com/10/bunt-brig.html At Briggflatts Meetinghouse] recording read by the author
+*[http://jacketmagazine.com/10/cadd-bunt.html Minor Poet, Not Conspicuously Dishonest], [[Richard Caddel]]'s Introduction to ''Complete Poems''
+*[http://jacketmagazine.com/12/bunt-bak.html Review of ''Complete Poems'']
+*[http://spec.lib.miamioh.edu/wp-content/uploads/2013/02/Basil_Bunting_Collection.pdf Basil Bunting Finding Aid, Miami University Libraries]
+*[https://web.archive.org/web/20160204021754/http://www.lightningdpress.com/blog/scratched-on-black On Bunting and Apophasis]
+
+{{Modernism}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bunting, Basil}}
+[[Category:1900 births]]
+[[Category:1985 deaths]]
+[[Category:Objectivist poets]]
+[[Category:English conscientious objectors]]
+[[Category:Writers from Newcastle upon Tyne]]
+[[Category:People educated at Ackworth School]]
+[[Category:People educated at Leighton Park School]]
+[[Category:People educated at the Royal Grammar School, Newcastle upon Tyne]]
+[[Category:Alumni of the London School of Economics]]
+[[Category:English Christian pacifists]]
+[[Category:20th-century English poets]]

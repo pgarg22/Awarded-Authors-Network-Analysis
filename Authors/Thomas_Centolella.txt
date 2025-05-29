@@ -1,0 +1,110 @@
+{{Short description|American poet and educator|bot=PearBOT 5}}
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = Thomas Centolella
+| honorific_suffix = 
+| image            = TC jpg.jpg
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = <!-- {{Birth date and age|YYYY|MM|DD}} -->
+| birth_place      = 
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place      = 
+| resting_place    = 
+| occupation       = poet and educator
+| language         = English
+| nationality      = American
+| citizenship      = American
+| education        = 
+| alma_mater       = 
+| home_town        = 
+| period           = 
+| genre            = poetry
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notable_works    = 
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 
+| relatives        = 
+| awards           = Guggenheim Fellowship, The Dorset Prize, Lannan Literary Award for Poetry
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc.; or omit -->
+}}
+
+'''Thomas Centolella''' is an American poet and educator. He has published four books of poetry and has had many poems published in periodicals including American Poetry Review. He has received awards for his poetry including those from the National poetry Series, the American Book Award, the Lannan Literary Award for Poetry and the Dorset Prize. In 2019, he received a [[Guggenheim Fellowship]].<ref>{{Cite web|title=John Simon Guggenheim Foundation {{!}} Thomas Centolella|url=https://www.gf.org/fellows/all-fellows/thomas-centolella/|access-date=2020-09-09|language=en-US}}</ref>
+
+[[File:Thomas Centolella.jpg|thumb|Thomas Centolella]]
+
+==Life==
+
+Centolella has published four books of poetry: ''Terra Firma'', ''Lights & Mysteries'', ''Views from along the Middle Way'', and ''Almost Human''.<ref name=gr>{{cite web|author=Thomas Centolella |url=http://www.goodreads.com/book/show/1458112.Terra_Firma |title=Terra Firma by Thomas Centolella - Reviews, Discussion, Bookclubs, Lists |publisher=Goodreads.com |date= |accessdate=2013-10-06}}</ref> His poetry has appeared in ''Alaska Quarterly Review'',<ref>{{cite web|url=http://www.uaa.alaska.edu/aqr/back-issues/14_3and4.cfm |title=Spring & Summer 1996 |publisher=Uaa.alaska.edu |date=2012-04-03 |accessdate=2013-10-06}}</ref> ''American Poetry Review'',<ref>[http://www.aprweb.org/shopsite/page8.html ] {{webarchive |url=https://web.archive.org/web/20090101074209/http://www.aprweb.org/shopsite/page8.html |date=January 1, 2009 }}</ref> ''Parthenon West Review, Ploughshares, Poetry Northwest, and The Los Angeles Times, ''among many other periodicals''.<ref>{{cite web|url=http://www.parthenonwestreview.com/ |title=Parthenon West Review ~ Poetry is Our Nation |publisher=Parthenonwestreview.com |date= |accessdate=2013-10-06}}</ref>  ''His poem "View #45", was read at the [[United Nations]] as a part of Poets Against the War.''<ref>[http://www.poetsagainstthewar.org/NNPTreaty.asp ] {{webarchive |url=https://web.archive.org/web/20081205131354/http://www.poetsagainstthewar.org/NNPTreaty.asp |date=December 5, 2008 }}</ref> ''"In the evening we shall be examined on love" and "Lines of Force" were featured on Garrison Keillor's ''Writers' Almanac'' on NPR.''<ref>{{cite web|url=http://blog.32poems.com/934/dc-writers-and-magazines-at-awp-in-chicago/ |title=DC Writers and Magazines at AWP in Chicago - 32 Poems Magazine |publisher=Blog.32poems.com |date=2009-02-10 |accessdate=2013-10-06}}</ref><ref>{{cite web|url=http://www.sfartscommission.org/WC/category/blog/teaching-arts/ |title=WritersCorps » Teaching Arts |publisher=Sfartscommission.org |date= |accessdate=2013-10-06}}</ref>
+
+He has been a visiting writer at many universities and colleges.
+
+Mr. Centolella served as a Wallace Stegner Fellow at [[Stanford University]]. He has taught literature and creative writing at San Francisco State University, at the [[University of California, Berkeley]] (Extension), at the Institute on Aging (San Francisco), at San Francisco [[WritersCorps]], and in the California Poets in the Schools Program.<ref name=gr/>
+
+He currently lives in San Francisco<ref name=gr/> and teaches at College of Marin and in private workshops.
+
+==Awards==
+* 1990 National Poetry Series (selected by Denise Levertov)
+* 1991 [[American Book Award]] from the Before Columbus Foundation, and Bay Area Book Reviewers Award (aka, Northern California Book Award).
+* 1992 Lannan Literary Award for Poetry.
+* 1996 Poetry Medal from the Commonwealth Club of California (aka California Book Award).
+* 2015 The Dorset Prize, (selected by Edward Hirsch),Tupelo Press.
+* 2019 Guggenheim Fellowship
+
+==Work==
+
+===Books===
+* {{cite book| title=Terra Firma| publisher=[[Copper Canyon Press]]| year=1990| isbn=978-1-55659-030-6| url-access=registration| url=https://archive.org/details/terrafirmapoems00cent}}
+* {{cite book| title=Lights & Mysteries| publisher=Copper Canyon Press| year=1995| isbn=978-1-55659-106-8| url-access=registration| url=https://archive.org/details/lightsmysteries00cent}}
+* {{cite book| title=Views from along the Middle Way: poems| publisher=Copper Canyon Press| year=2002| isbn=978-1-55659-161-7 }}
+*''Almost Human.'' Tupelo Press, 2017.
+
+===Anthologies===
+* ''America, We Call Your Name: Poems of Resistance and Resilience'', Sixteen Rivers Press (2018)
+* ''The Place That Inhabits Us: Poems of the San Francisco Bay Watershed'', Sixteen Rivers Press (2010)
+* {{cite book| title=Days I Moved Through Ordinary Sounds | editor=Chad Sweeney | editor-link=Chad Sweeney | publisher=City Lights Publishers | isbn=978-1-931404-10-5| date=January 2009 }}
+* {{cite book| title=75 Poems on Retirement| editor1=Robin Chapman| editor2=Judith Strasser| publisher=University of Iowa Press| year=2007| isbn=978-1-58729-527-0| url-access=registration| url=https://archive.org/details/onretirement75po0000unse}}
+* {{cite book| url=https://books.google.com/books?id=XcFW1DR31mQC&q=Thomas+Centolella&pg=PA331| title=The Art of Bicycling | author=Justin Daniel Belmont| publisher=Breakaway Books| year=2005 | isbn=978-1-891369-56-8 }}
+* {{cite book| title=The Other Side of the Postcard| editor=devorah major| publisher=City Lights Foundation| year=2004| isbn=978-1-931404-06-8 }}
+* {{cite book| title=Don't Tell Mama! The Penguin Book of Italian American Writing| editor=Regina Barreca| publisher=Tandem Library| year=2002| isbn=978-1-4177-0459-0 }}
+* {{cite book| title=Learning by Heart: Contemporary American Poetry about School|editor1=Maggie Anderson |editor2=David Hassler | publisher=University of Iowa Press| year=1999| isbn=978-0-87745-663-6 | url=https://books.google.com/books?id=OUPh2C8hzk4C| page=58}}
+
+===Editor===
+* {{cite book| title=I Fall Into the Bright, Bright World: Poems| publisher=[[Manic D Press]]| year=2002| author=Grace Grafton, Thomas Centolella, Calif Lakeshore Alternative Elementary School }}
+* {{cite book| title=The Irresistible Earth: Poems| author=Grace Grafton, Thomas Centolella, Calif Lakeshore Alternative Elementary School |publisher=[[Manic D Press]]| year=2002 }}
+
+===Poetry===
+* {{cite journal| title=The Raptors | journal=Ploughshares| date=Spring 1995}}
+* {{cite journal| title=The Orders  | journal=Ploughshares| date=Spring 1995}}<ref>{{cite web|url=http://www.pshares.org/read/author-detail.cfm?intAuthorID=252 |title=author detail |publisher=Pshares.org |date=2010-07-08 |accessdate=2013-10-06}}</ref>
+* [http://www.poemhunter.com/poem/view-45/ "View #45", ''poemhunter'']
+* "The Secret Life," ''Poetry Northwest'', [http://www.poetrynw.org/thomas-centolella-secret-life/]
+* 10 poems,https://www.poetryfoundation.org/poets/thomas-centolella
+
+==References==
+{{Reflist}}
+
+{{American Book Awards}}
+{{Authority control}}
+
+{{DEFAULTSORT:Centolella, Thomas}}
+[[Category:Stanford University alumni]]
+[[Category:UC Berkeley Extension faculty]]
+[[Category:College of Marin faculty]]
+[[Category:American male poets]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:American Book Award winners]]

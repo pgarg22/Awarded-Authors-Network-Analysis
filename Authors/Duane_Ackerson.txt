@@ -1,0 +1,60 @@
+{{Short description|American writer (1942–2020)}}
+{{Use mdy dates|date=February 2021}}
+{{Infobox person
+| name        = Duane Ackerson
+| image       = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt         =
+| caption     =
+| birth_name  =
+| birth_date  = {{Birth date|1942|10|17}} 
+| birth_place = [[New York City]], [[New York (state)|New York]], U.S.
+| death_date  = {{death date and age|2020|4|19|1942|10|17}}
+| death_place = [[Salem, Oregon]], U.S.
+| nationality =
+| other_names =
+| known_for   =
+| occupation  = Poet, writer
+}}
+'''Duane Ackerson''' (October 17, 1942 – April 19, 2020)<ref>"United States Public Records, 1970-2009," database, FamilySearch (May 23, 2014), Duane W Ackerson, Residence, Salem, Oregon, United States; a third party aggregator of publicly available information.</ref> was an [[American literature|American writer]] of [[speculative poetry]] and [[speculative fiction|fiction]].<ref>[http://www.ravennapress.com/alba/issue_10/ackerson10a.html Alba]</ref>
+
+Не taught at the [[University of Oregon]], then headed the creative program at [[Idaho State University]]. He lived in [[Salem, Oregon]], where he died on April 19, 2020.<ref>{{cite news|url = http://oregonpoeticvoices.org/poet/219/|title = Duane Ackerson|website = Oregon Poetic Voices|accessdate = February 19, 2021}}</ref>
+
+Duane Ackerson's work has appeared in [[anthologies]] that include ''The Year's Best SF 1974'', ''100 Great Science Fiction Short Short Stories'', ''Future Pastimes'', and the textbook ''Writing Poetry''. He has won the [[Rhysling Award]] for Best Short Poem twice, in 1978 and 1979.
+
+Ackerson's poems are translated into Russian by [[Dmitry Kuzmin]].<ref>[http://textonly.ru/mood/?issue=44&article=38930 TextOnly]</ref>
+
+== Bibliography ==
+* ''The Bird at the End of the Universe''
+* ''The Eggplant & Other Absurdities''
+* ''Weathering''
+* ''UA Flight to Chicago''. Lincoln, Nebraska: The Best Cellar Press, 1971.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{isfdb name|id=Duane_Ackerson|name=Duane Ackerson}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ackerson, Duane}}
+[[Category:1942 births]]
+[[Category:2020 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American poets]]
+[[Category:American male novelists]]
+[[Category:American male poets]]
+[[Category:American male short story writers]]
+[[Category:American science fiction writers]]
+[[Category:American short story writers]]
+[[Category:Idaho State University faculty]]
+[[Category:Novelists from New York (state)]]
+[[Category:Novelists from Oregon]]
+[[Category:Rhysling Award for Best Short Poem winners]]
+[[Category:Writers from New York City]]
+[[Category:Writers from Salem, Oregon]]
+[[Category:University of Oregon faculty]]
+
+
+{{US-poet-1940s-stub}}
+{{US-sf-writer-stub}}

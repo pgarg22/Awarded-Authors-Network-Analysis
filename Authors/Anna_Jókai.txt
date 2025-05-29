@@ -1,0 +1,82 @@
+{{Use dmy dates|date=October 2015}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Anna Jókai
+| honorific_prefix = 
+| honorific_suffix = 
+| image = Anna Jókai 2015-09 (PICT4954).jpg
+| image_size = 220px
+| alt = 
+| caption = Anna Jókai at Gothenburg Book Fair in 2015
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date =  {{birth date|1932|11|24|df=yes}}
+| birth_place = [[Budapest]], [[Hungary]]
+| death_date = {{death date and age|2017|6|5|1932|11|24|df=yes}} 
+| death_place = [[Budapest]], [[Hungary]]
+| resting_place = 
+| occupation = Writer, Teacher
+| language = 
+| nationality = Hungarian
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  <!-- or: | notablework = -->
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Anna Jókai''' ([[Hungarian language|Hungarian]]: ''Jókai Anna'') (24 November 1932 – 5 June 2017) was a [[Hungarians|Hungarian]] author, poet and teacher.<ref name="hunlit.hu">{{cite web|url=http://www.hunlit.hu/jokaianna,en|title=HUNLIT A Magyar Könyv Alapítvány Többnyelvű Irodalmi Adatbázisa|access-date=30 September 2015}}</ref> She began her writing career in 1974 and, during the 1980s, she participated in the Hungarian liberation movement. Between 1990 and 1992, she was the chairperson of the [[Hungarian Writers' Union]].<ref name="irodalmijelen.hu">[http://www.irodalmijelen.hu/2014-mar-16-1821/szeljegyzet-jokai-anna-kossuth-dija-melle Jokai Anna kossuth dija melle] Irodalmijelen.hu Retrieved 30 September 2015</ref>
+
+==Biography==
+Anna Jókai was born in Budapest, and at an early age she started to show interest in writing. However, when she was sixteen, she stopped with her early attempts at becoming an author and did not attempt it again until seventeen years later.<ref name="hunlit.hu"/> During her school years she had different employments within accounting and teaching. During most of the 1950s, she worked as a government-supported author.<ref name="hunlit.hu"/> In 1956, she studied at university and in 1961 she graduated with degrees in Hungarian literature and history. She worked as a junior-level teacher until 1970 in [[Budapest]].<ref name="hunlit.hu"/>
+
+Between 1971 and 1974, Jókai worked as a high school teacher. Between 1968 and 1977, she wrote five books and four novels.<ref name="hunlit.hu"/> Slowly she gained the interest from readers, and since 1974 she has been a full-time author and writer.<ref name="hunlit.hu"/> Between 1986 and 1989, she was the chairman of the Hungarian Writers Association, and between 1990 and 1992, she was the chancellor.<ref name="irodalmijelen.hu"/>
+
+In 1994 and 2014, she received the Hungarian Kossuth award.<ref>{{cite web|url=http://www.atv.hu/belfold/20140314-ok-az-idei-kossuth-dijasok|title=Jókai Anna Kossuth-nagydíjat, Schmidt Mária Széchenyi-díjat kapott|author=ATV|work=ATV.hu|access-date=30 September 2015}}</ref>
+
+==Bibliography==
+*''Kötél nélkül'', 1969
+*''A labda'', 1971/1994
+*''Napok'',1972/2001
+*''Mindhalálig'', 1974
+*''A feladat'', 1977/1996
+*''Szegény Sudár Anna'', 1989/1999
+*''Ne féljetek', 1998
+*''Bölcsek és Pásztorok'', 2006
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commonscat-inline|Anna Jókai}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Jokai, Anna}}
+[[Category:1932 births]]
+[[Category:2017 deaths]]
+[[Category:Hungarian women poets]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century Hungarian women writers]]
+[[Category:21st-century Hungarian poets]]
+[[Category:21st-century Hungarian women writers]]
+[[Category:Writers from Budapest]]
+[[Category:20th-century Hungarian novelists]]
+[[Category:21st-century Hungarian novelists]]
+[[Category:Hungarian women novelists]]

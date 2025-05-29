@@ -1,0 +1,131 @@
+{{short description|Russian poet}}
+{{ infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->  
+| image         = Alexander Blok.jpeg
+| imagesize     = 190px
+| alt           = 
+| caption       = Alexander Blok in 1903
+| birth_name     = Alexander Alexandrovich Blok
+| birth_date     = {{OldStyleDate|28 November|1880|16 November}}
+| birth_place    = [[Saint Petersburg]], [[Russian Empire]]
+| death_date     = {{death date and age|1921|8|7|1880|11|28|df=yes}}
+| death_place    = [[Saint Petersburg|Petrograd]], [[Russian Soviet Federative Socialist Republic|Russian SFSR]]
+| occupation    = {{flatlist|
+* Poet
+* writer
+* publicist
+* playwright
+* translator
+* literary critic
+}}
+| language      = Russian
+| citizenship   = 
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = 
+| subject       = 
+| movement      = [[Russian symbolism]]
+| notableworks  = ''[[The Twelve (poem)|The Twelve]]''
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| website       = 
+| portaldisp    = 
+}}
+'''Alexander Alexandrovich Blok''' ({{lang-rus|Алекса́ндр Алекса́ндрович Бло́к|p=ɐlʲɪˈksandr ɐlʲɪˈksandrəvʲɪtɕ ˈblok|a=Ru-Alyeksandr Alyeksandrovich Blok.oga}}; {{OldStyleDate|28 November|1880|16 November}}{{spaced ndash}}7 August 1921) was a Russian lyrical poet, writer, publicist, playwright, translator and literary critic.
+
+==Early life ==
+Blok was born in [[Saint Petersburg]], into an intellectual family of Alexander Lvovich Blok and Alexandra Andreevna Beketova. His father was a law professor in [[Warsaw]], and his maternal grandfather, [[Andrey Beketov]], was a famous botanist and the rector of [[Saint Petersburg State University]]. After his parents' separation, Blok lived with aristocratic relatives at the manor [[Solnechnogorsk|Shakhmatovo]] near [[Moscow]], where he discovered the philosophy of [[Vladimir Solovyov (philosopher)|Vladimir Solovyov]], and the verse of then-obscure 19th-century poets, [[Fyodor Tyutchev]] and [[Afanasy Fet]].  These influences would affect his early publications, later collected in the book ''Ante Lucem''.
+
+==Career and marriage==
+In 1903 he married the actress Lyubov (Lyuba) Dmitrievna Mendeleeva, daughter of the renowned chemist [[Dmitri Mendeleev]]. Later, she would involve him in a complicated love-hate relationship with his fellow Symbolist [[Andrei Bely]]. To Lyuba he dedicated a cycle of poetry that made him famous, ''Stikhi o Prekrasnoi Dame'' (''Verses About the Beautiful Lady'', 1904).
+
+{{Quote box |width=250px |align=right |quoted=true |bgcolor=#FFFFF0 |salign=right
+|quote=<poem>
+Night, street and streetlight, drug store,
+The purposeless, half-dim, drab light.
+For all the use live on a quarter century – 
+Nothing will change.  There's no way out.
+
+You'll die – and start all over, live twice,
+Everything repeats itself, just as it was:
+Night, the canal's rippled icy surface,
+The drug store, the street, and streetlight.
+</poem>
+|source = "Night, street and streetlight, drugstore..." (1912)
+Trans. by Alex Cigale
+}}
+
+[[File:BlokLeiden2.JPG|thumb|200px|right|Blok's poem as [[Wall poems in Leiden|wall poem in Leiden]] ]]
+Blok enthusiastically greeted the [[1905 Russian Revolution]].<ref>{{cite journal |last1=White |first1=Duffield |title=Blok's Nechaiannaia Radosť |journal=Slavic Review |date=1991 |volume=50 |issue=4 |pages=779–791|doi=10.2307/2500461 |jstor=2500461 }}</ref> During the last period of his life, Blok emphasised political themes, pondering the messianic destiny of his country (''Vozmezdie,'' 1910–21; ''Rodina,'' 1907–16; ''Skify,'' 1918). In 1906 he wrote an encomium to [[Mikhail Bakunin]].<ref>{{cite journal |last1=Toscano |first1=Alberto |title=The Broken Music of the Revolution: Trotsky and Blok |journal=Crisis and Critique |date=2017 |volume=4 |issue=2 |pages=404–426 |url=http://research.gold.ac.uk/22265/}}</ref> Influenced by Solovyov's doctrines, he had vague apocalyptic apprehensions and often vacillated between hope and despair. "I feel that a great event was coming, but what it was exactly was not revealed to me", he wrote in his diary during the summer of 1917. Quite unexpectedly for most of his admirers, he accepted the [[October Revolution]] as the final resolution of these apocalyptic yearnings.
+
+In May 1917 Blok was appointed as a [[stenographer]] for the Extraordinary Commission to investigate illegal actions ex officio Ministers<ref>[http://www.randomhouse.com/acmart/catalog/display.pperl?isbn=9780307754660&view=printexcerpt The Rasputin File by Edvard Radzinsky]</ref> or to transcribe the (Thirteenth Section's) interrogations of those who knew [[Grigori Rasputin]].<ref>{{Cite web |url=http://www.rulit.net/books/rasputin-s-daughter-read-69723-55.html |title=Archived item |access-date=2014-04-22 |archive-url=https://web.archive.org/web/20141209160629/http://www.rulit.net/books/rasputin-s-daughter-read-69723-55.html |archive-date=2014-12-09 |url-status=dead }}</ref> According to [[Orlando Figes]] he was only present at the interrogation.<ref>{{cite web|url=http://www.worldcat.org/wcpa/servlet/DCARead?standardNo=0300081065&standardNoType=1&excerpt=true|title=Interpreting the Russian Revolution: The Language and Symbols of 1917|website=www.worldcat.org}}</ref>
+
+When the [[Socialist Academy of Social Sciences]] was established in 1918, Blok became a participant.<ref name="AB and Suppression of Collectivism">{{cite web |last1=Biggart |first1=John |title=Alexander Bogdanov and the suppression of &quot;Collectivism&quot; |url=https://www.academia.edu/60162576/Alexander_Bogdanov_and_the_suppression_of_Collectivism_?email_work_card=view-paper |website=Academia}}</ref>
+
+==Decline in health==
+
+By 1921 Blok had become disillusioned with the Russian Revolution. He had not written any poetry for three years. He complained to [[Maksim Gorky]] that his "faith in the wisdom of humanity" had ended, and explained to his friend [[Korney Chukovsky]] why he could not write poetry any more: "All sounds have stopped. Can't you hear that there are no longer any sounds?"<ref name="Tragedy">[[Orlando Figes]]. ''A People's Tragedy: The Russian Revolution 1891-1924'', 1996, {{ISBN|0-7126-7327-X}}, pp 784-785</ref> Within a few days Blok became sick. His doctors requested that he be sent abroad for medical treatment, but he was not allowed to leave the country.
+
+Gorky pleaded for a visa.  On 29 May 1921, he wrote to [[Anatoly Lunacharsky]]: "Blok is Russia's finest poet. If you forbid him to go abroad, and he dies, you and your comrades will be guilty of his death." A resolution on departure for Blok was signed by members of the Political Bureau of the Central Committee on 23 July 1921. But on 29 July Gorky asked permission for Blok's wife to accompany him, since Blok's health had deteriorated sharply. Permission for Liubov' Dmitrievna Blok to leave Russia was signed by Molotov on 1 August 1921, but Gorky was notified only on 6 August. The permission was delivered on 10 August, after Blok had already died.<ref name="Tragedy"/>
+
+Several months earlier, Blok had delivered a celebrated lecture on [[Alexander Pushkin]], the memory of whom he believed to be capable of uniting [[White movement|White]] and [[Russian Soviet Federative Socialist Republic|Soviet]] Russian factions.<ref name="Tragedy"/>
+
+==Work==
+[[File:Blok leto 1917 Zimny.jpg|thumb|160px|left|Blok, 1917, The Winter Palace]]
+The idealized mystical images presented in his first book helped establish Blok as a major poet of the [[Russian Symbolism]] style. Blok's early verse is musical, but he later sought to introduce daring rhythmic patterns and uneven beats into his poetry. Poetical inspiration was natural for him, often producing unforgettable, otherworldly images out of the most banal surroundings and trivial events (''Fabrika'', 1903). Consequently, his mature poems are often based on the conflict between the [[Platonism|Platonic theory]] of ideal beauty and the disappointing reality of foul industrialism (''The Puppet Show'', 1906).
+
+The description of St Petersburg he crafted for his next collection of poems, ''The City'' (1904–08), was both impressionistic and eerie. Subsequent collections, ''Faina'' and the ''Mask of Snow'', helped augment Blok's reputation. He was often compared with [[Alexander Pushkin]], and is considered perhaps the most important poet of the [[Silver Age of Russian Poetry]]. During the 1910s, Blok was admired greatly by literary colleagues, and his influence on younger poets was virtually unsurpassed. [[Anna Akhmatova]], [[Marina Tsvetaeva]], [[Boris Pasternak]], and [[Vladimir Nabokov]] wrote important verse tributes to Blok.
+[[File:Blok.jpg|thumb|left|160px|Portrait by [[Konstantin Somov]], 1907]]
+Blok expressed his opinions about the revolution by the enigmatic poem "[[The Twelve (poem)|The Twelve]]” (1918). The long poem exhibits "mood-creating sounds, polyphonic rhythms, and harsh, slangy language" (as the ''[[Encyclopædia Britannica]]'' termed it). It describes the march of twelve  [[Bolshevik]] soldiers (likened to the [[Twelve Apostles]] of Christ) through the streets of revolutionary [[Saint Petersburg|Petrograd]], with a fierce winter blizzard raging around them. "The Twelve" alienated Blok from many of his intellectual readers (who accused him of lack of artistry), while the Bolsheviks scorned his former mysticism and asceticism.<ref>{{cite book |title=Blok without gloss|last=Pavel Fokin, Sv.Poliakova|year=2008|publisher=Amphora|location=[[Saint Petersburg]] |page=360}}</ref>
+
+Searching for modern language and new images, Blok used unusual sources for the poetry of [[Symbolism (arts)|Symbolism]]: urban folklore, ballads (songs of a sentimental nature) and ditties ("chastushka"). He was inspired by the popular [[chansonnier]] [[Mikhail Savoyarov]], whose concerts during the years 1915–1920 were visited often by Blok.<ref name="Ouvarova">{{cite book |title=Encyclopedia of Russian Variety Art, XX century|last=ed. Ouvarova|year=2000|publisher=«Rospen» |location=Moscow }}</ref> Academician [[Viktor Shklovsky]] noted that the poem is written in criminal language and  in ironic style, similar to Savoyarov's [[couplet]]s, by which Blok imitated the slang of 1918 [[Petrograd]].<ref name="Shklovsky">[https://books.google.com/books?id=25G3wpbwZaoC&pg=PA175&lpg=PA175&sig=z3dIVF1maN2sHQdUIUnfxVbts1I&hl=ru&ei=juHpSe3iFtTisAaYrrGTBw] ''[[Viktor Shklovsky]]'' The Writing Table // The Hamburg Account: articles, memoirs, essays (1914-1933), Moscow, [[Sovetsky Pisatel]], 1990. {{ISBN|5-265-00951-5}}, {{ISBN|978-5-265-00951-7}}.</ref>
+
+==Musical settings==
+[[Image:SG103846 - копия.JPG|thumb|right|[[Shakhmatovo]], Blok's country house]]
+* [[Dmitri Shostakovich]] wrote a late song cycle for soprano and piano trio, ''[[Seven Romances on Poems by Alexander Blok]]'', Op. 127.
+* [[Mieczysław Weinberg]] wrote a song cycle for soprano and piano, ''Beyond the Border of Past Days'', Op. 50.
+* [[Arthur Lourié]] wrote a choral cantata, ''In the Sanctuary of Golden Dreams''.
+* Alexander Blok was a favourite poet of [[Georgy Sviridov]]; such works as "Petersburg" (a vocal poem), "Nightly Clouds" (cantata) and "Songs From Hard Times" (concerto) were written to Blok's poetry.
+*[[Yevgania Yosifovna Yakhina]] set several of Blok's poems to music.
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+{{wikiquote}}
+{{wikisource author}}
+* {{Internet Archive author |sname=Alexander Alexandrovich Blok}}
+* {{Librivox author |id=8489}}
+* Translations into English
+** [https://ruverses.com/alexander-blok/ The Poems] by Alexander Blok (with Russian originals, also some in German, French, Spanish, Italian, Dutch, Bulgarian, etc.)
+** [http://stihi.ru/2007/07/28-1514 Collection of Alexander Blok's poems in English] (with Russian originals)
+** [http://www.albany.edu/offcourse/issue41/cigale_translations6.html#blok 4 short poems], translated by Alex Cigale. University of Albany. Retrieved 2010-10-28
+** [http://www.silveragepoetry.com/2012/12/alexander-blok-1880-1921.html A night, a street (Ноць, улицаб, фонарь, аптека)]
+** [http://www.stihi.ru/2002/03/10-623 Dark Maiden (Чёрная Дева)]
+** [http://www.silveragepoetry.com/2015/02/alexander-blok-lady-unknown.html The Lady Unknown (Незнакомка)], translation by Dina Belyayeva
+* [http://stihipoeta.ru/poety-serebryanogo-veka/aleksandr-blok/ Alexander Blok poetry] (Russian texts)
+* Reviews, criticism and analysis
+** [https://www.nytimes.com/1982/05/09/books/died-and-survived.html?scp=1&sq=%22alexander%20blok%22&st=cse "Died and survived" review of new works published on Blok] By Simon Karlinsky. 9 May 1982 ''[[The New York Times]]''. Retrieved 2010-10-28
+** [http://russiasgreatwar.org/media/culture/twelve.shtml Essay on Blok's poem "the Twelve", Maria Carlson, University of Kansas]. Retrieved 2010-10-28
+** [http://www.marxists.org/archive/trotsky/1924/lit_revo/ch03.htm Essay on Blok] by [[Leon Trotsky]] (Chapter 3 of ''[[Literature and Revolution]]''). Retrieved 2010-10-28
+** [[Anatoly Rykov|Rykov A.]] [https://www.academia.edu/30563558/Politics_of_Modernism._Nikolay_Punin_and_Alexander_Blok Politics of Modernism. Nikolay Punin and Alexander Blok]
+** {{cite journal|last1=Struve|first1=Gleb|title=Blok and Gumilyov: A double anniversary|url=https://archive.org/stream/in.ernet.dli.2015.185585/2015.185585.The-Slavonic-Reviewvol64#page/n175/mode/2up|journal=The Slavonic and East European Review|date=November 1946|volume=25|issue=64}}
+{{Authority control}}
+
+{{DEFAULTSORT:Blok, Alexander}}
+[[Category:1880 births]]
+[[Category:1921 deaths]]
+[[Category:Russian male poets]]
+[[Category:Russian symbolism]]
+[[Category:Symbolist dramatists and playwrights]]
+[[Category:Symbolist poets]]
+[[Category:Russian male dramatists and playwrights]]
+[[Category:20th-century dramatists and playwrights]]
+[[Category:20th-century Russian poets]]
+[[Category:20th-century Russian male writers]]

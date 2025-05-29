@@ -1,0 +1,48 @@
+{{Use dmy dates|date=August 2013}}
+{{French literature sidebar}}
+'''Jean de Meun''' (or '''de Meung''', {{IPA-fr|ʒɑ̃ də mœ̃|lang}}) ({{circa|1240|1305}}) was a French author best known for his continuation of the ''[[Roman de la Rose]]''.<ref name="EB1911"/>
+
+==Life==
+He was born '''Jean Clopinel''' or '''Jean Chopinel''' at [[Meung-sur-Loire]]. Tradition asserts that he studied at the [[University of Paris]]. He was, like his contemporary, [[Rutebeuf]], a defender of [[Guillaume de Saint-Amour]] and a bitter critic of the [[mendicant order]]s. Jean de Meung says that in his youth he composed songs that were sung in every public place and school in France.<ref name="EB1911">{{EB1911|inline=1|wstitle=Jean de Meun |volume=15 |page=298 }}</ref>
+
+Most of his life seems to have been spent in Paris, where he possessed, in the Rue Saint-Jacques, a house with a tower, court and garden, which was described in 1305 as the house of the late Jean de Meun, and was then bestowed by a certain Adam d'Andely on the [[Dominican Order|Dominicans]].<ref name="EB1911"/> He was buried in the now-demolished church of Paris's [[Couvent des Jacobins de la rue Saint-Jacques|Dominican monastery]], which was also on Rue Saint-Jacques.{{Citation needed|date=July 2016}}
+
+==''Roman de la Rose''==
+In the enumeration of his own works he places first his continuation of the ''Roman de la Rose'' of [[Guillaume de Lorris]]. The date of this second part (lines 4,089–21,780<ref name="Dahlberg">{{cite book|author=Charles Dahlberg|title=The Romance of the Rose|url=https://books.google.com/books?id=NFB-NgrsYqcC|year=1995|publisher=Princeton University Press|isbn=0-691-04456-2}}</ref>) is generally fixed between 1268 and 1285 by a reference in the poem to the death of [[Manfred of Sicily|Manfred]] and [[Conradin]], executed in 1268 by order of [[Charles I of Sicily|Charles of Anjou]] (d. 1285) who is described as the present king of [[Sicily]]. M. F. Guillon (Jean Clopinel, 1903), however, considering the poem primarily as a [[political satire]], places it in the last five years of the 13th century. Jean de Meun doubtless edited the work of his predecessor, Guillaume de Lorris, before using it as the starting-point of his own vast poem, running to 19,000 lines. The continuation of Jean de Meun is a satire on the monastic orders, on celibacy, on the nobility, the [[papal see]], the excessive pretensions of royalty, and especially on women and marriage. Guillaume had been the servant of love, and the exponent of the laws of "[[courtoisie]]"; Jean de Meun added an "art of love," describing with brutality the supposed vices of women and the means by which men may outwit them. Jean de Meun embodied the mocking, sceptical spirit of the [[fabliau]]x. He did not share in current superstitions, he had no respect for established institutions, and he scorned the conventions of feudalism and romance. His poem shows in the highest degree, in spite of the looseness of its plan, the faculty of keen observation, of lucid reasoning and exposition, and it entitles him to be considered the greatest of French medieval poets. He handled the French language with an ease and precision unknown to his predecessors, and the length of his poem was no bar to its popularity in the 13th and 14th centuries. Part of its vogue was no doubt because the author, who had mastered practically all the scientific and literary knowledge of his contemporaries in France, had found room in his poem for a great amount of useful information and for numerous citations from classical authors. The book was attacked by [[Guillaume de Deguileville]] in his ''Pèlerinage de la vie humaine'' ({{circa|lk=no|1330}}), long a favorite work both in England and France, by [[Jean Gerson]], and by [[Christine de Pisan]] in her ''Épître au dieu d'amour''. It also found energetic defenders.<ref name="EB1911"/>
+
+Part of Jean's poem was translated into Middle English verse by [[Geoffrey Chaucer|Chaucer]]. The whole poem was translated into Modern English verse by [[Frederick Startridge Ellis|F. S. Ellis]]<ref>{{Cite EB1911|wstitle=Roman de la Rose|volume=23|page=510}}</ref> and later by Charles Dahlberg.<ref name="Dahlberg"/>
+
+==Other works==
+Jean de Meun translated in 1284 the treatise ''[[De re militari]]'' of [[Vegetius]] into French as ''Le livre de Végèce de l'art de chevalerie''. He also produced a spirited version, the first in French, of the letters of [[Peter Abelard|Abélard]] and [[Héloïse]]. A 14th-century manuscript of this translation in the [[Bibliothèque nationale de France|Bibliothèque Nationale]] has annotations by [[Petrarch]]. His translation of the ''[[The Consolation of Philosophy|De consolatione philosophiae]]'' of [[Boethius]] is preceded by a letter to [[Philip IV of France|Philip IV]] in which he enumerates his earlier works, two of which are lost: ''De spirituelle amitié'' from the ''De spirituali amicitia'' of [[Aelred of Rievaulx]] (d. 1166), and the ''Livre des merveilles d'Hirlande'' from the ''[[Topographia Hibernica]]'', or ''De Mirabilibus Hiberniae'' of [[Giraldus Cambrensis]] (Gerald de Barri). His last poems are doubtless his ''Testament'' and ''Codicille''. The ''Testament'' is written in [[quatrain]]s in [[monorhyme]], and contains advice to the different classes of the community.<ref name="EB1911"/>
+
+==Notes==
+{{reflist}}
+
+==References==
+* Comprehensive bibliography on [http://www.arlima.net/il/jean_de_meun.html Arlima (Archives de littérature du Moyen Âge)]
+* Fyler, John, ''Language and the Declining World in Chaucer, Dante, and Jean de Meun'' (Cambridge and New York: Cambridge University Press, 2007), Pp. cii, 306.
+
+== External links ==
+{{Commons category|Jean de Meun}}
+* {{Gutenberg author |id=Jean,+de+Meun | name=Jean de Meun}}
+* {{Gutenberg author |id=Meung,+Jean+de | name=Jean de Meung}}<!--Same person has multiple IDs at PG-->
+* {{Internet Archive author |search=( "Jean de" AND (Meung OR Meun) )}}
+* {{Cite CE1913|wstitle=Jean Clopinel de Meun |short=x}}
+* [http://romandelarose.org Roman de la Rose Digital Library]
+* [http://openn.library.upenn.edu/Data/0025/html/OthmerMS9.html Othmer MS 9 Le petit rosaire; Extract on Alchemy from the Roman de la Rose at OPenn]
+{{Authority control}}
+
+{{EB1911 article with no significant updates}}
+
+{{DEFAULTSORT:Meun, Jean de}}
+[[Category:1240 births]]
+[[Category:1305 deaths]]
+[[Category:People from Loiret]]
+[[Category:French poets]]
+[[Category:French novelists]]
+[[Category:French fantasy writers]]
+[[Category:Medieval poets]]
+[[Category:13th-century French writers]]
+[[Category:French male poets]]
+[[Category:French male novelists]]
+[[Category:13th-century French poets]]

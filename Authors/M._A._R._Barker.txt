@@ -1,0 +1,131 @@
+{{Short description|Linguist, scholar, author and game designer (1929–2012)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name          = Muhammad Abd-al-Rahman Barker
+| image         = 
+| pseudonym     = 
+| birth_name    = Phillip Barker
+| birth_date    = {{birth date|1929|11|3|mf=y}}
+| birth_place   = [[Spokane, Washington]], U.S.<ref name="MARbackground">{{cite web |last= Barker |first= M.A.R. |title= Family Background note by M.A.R. Barker |url= http://games.groups.yahoo.com/group/tekumel/message/18608 |archive-url= https://archive.today/20130106024936/http://games.groups.yahoo.com/group/tekumel/message/18608 |url-status= dead |archive-date= 2013-01-06 |date= 2005-04-07 |access-date= 2009-10-13 }}</ref>
+| death_date    = {{Death date and age|2012|03|16|1929|11|3|mf=y}}
+| death_place   = [[Minneapolis]], Minnesota, U.S.
+| occupation    = {{flatlist|
+* Linguist
+* scholar
+* professor
+* game designer
+* author
+}}
+| period        = 1949&ndash;2012
+| genre         = [[Linguistics]], [[role-playing game]]s, [[fantasy]], [[science fantasy]]
+| subject       = 
+| movement      = 
+| notableworks  = 
+| influences    = 
+| influenced    = 
+| website       = 
+| resting_place = Pleasant View Memorial Gardens (Burnsville, Minnesota)
+}}
+
+'''Muhammad Abd-al-Rahman Barker''' (born '''Phillip Barker''',{{#tag:ref|Although his birth name is Phillip and was known as "Phil" to his friends, Barker is not the "[[Phil Barker]]" who wrote several ancient-period [[miniature wargaming|miniatures games]], although he is a distant cousin.<ref name="MARbackground"/> Nevertheless, in an interesting coincidence, the miniatures game author Philip Barker became interested in Tékumel and included army lists for various nations of Tékumel in his ''Hordes of the Things'' wargame rules.{{original research inline|date=June 2009}} He still frequently signs himself as "Phil" in correspondence. Also, several Tékumel-related works refer to a "Fíru Bá Yéker", a [[Tsolyáni]] rendering of his name.|name=Phillip}} November 3, 1929&nbsp;– March 16, 2012) was an American linguist who was professor of [[Urdu]] and [[South Asia]]n Studies and created one of the first [[roleplaying games]], ''[[Empire of the Petal Throne]]''. He also wrote several [[fantasy]]/[[science fantasy]] novels based in his associated world setting of [[Tékumel]].
+
+==Early life==
+Born in [[Spokane, Washington]], descended from ancestors who had originally settled in America in 1626, Barker's childhood was spent around Washington and [[Idaho]].<ref name="MARbackground"/> As a youth he had an interest in "fairy stories, history and literature" which would be further influenced by such films as ''[[The Thief of Bagdad (1940 film)|The Thief of Bagdad]]''; all of which helped to turn his casual "wargames" with toy soldiers more towards fantasy. From this his fictional lands of Tsolyanu and others, in what was later to become [[Tékumel]], emerged and were embellished further in middle and high school years during which time he commenced construction of armies of hand-carved figures to represent his creations. Also at an early age, Barker's interest in languages was piqued by neighboring children of [[Basques|Basque]] origin who were able to exclude others from their secret conversations in their native tongue.<ref name="TSR">{{cite journal | last = Barker | first = M.A.R. | author-link = M.A.R. Barker | title = Tsolyani Names Without Tears | journal =[[Strategic Review]] | issue = 4 | pages = 7–9 | publisher = [[TSR, Inc.|TSR]] | date = Winter 1975 | url = http://www.tekumel.com/downloads/StrategicReviewVol1No4.pdf | access-date =2009-10-13 }}</ref><ref name="Drag4Kask">{{cite journal | last = Kask | first = Tim | author-link = Tim Kask | title = Dragon Rumbles (Editorial) | journal =[[Dragon (magazine)|The Dragon]] | issue = 4 | page = 3 | publisher = [[TSR, Inc.|TSR]] | date = December 1976 | url = http://www.tekumel.com/downloads/Dragon04.pdf}}</ref>
+
+==Academic life and creative networking==
+In, and just before 1950, while Barker was studying at the [[University of Washington]] under [[Melville Jacobs]], he became involved with [[science fiction fanzines|small press publications]], writing articles, short stories and contributing reviews to ''Fanscient'' and the local clubzine ''Sinisterra'',<ref name="Sinistra">Barker's world, later known as Tékumel, was placed as the fourth planet in the [http://www.constellationsofwords.com/stars/Sinistra.html ''Sinistra''] [[planetary system|system]].</ref> the latter of which contained his review of, and content from, [[Jack Vance]] relating to his recently published book, ''[[The Dying Earth]]''.<ref name="fan09">{{cite journal | last = Barker | first = Phillip | title = Egyptian Mythology in Fantastic Literature | journal = Fanscient | issue = 9 | pages = 41–44 | publisher = Donald B. Day | date = Fall 1949 | url = http://sffrd.library.tamu.edu/browse/63660/ | location = Portland, Oregon | archive-url = https://web.archive.org/web/20110717211812/http://sffrd.library.tamu.edu/browse/63660/ | archive-date = 2011-07-17 | url-status = dead }}</ref><ref name="fan11">{{cite journal | last = Barker | first = Phillip | title = The Language Problem | journal =Fanscient | issue = 11 | pages = 28–30 | publisher = Donald B. Day | date = Spring 1950 | url = http://www.fanac.org/fanzines/Fanscient/Fanscient11-28.html | location = Portland, Oregon | access-date =2009-10-13 }}</ref><ref name="fan12">{{cite journal | last = Barker | first = Phillip | title =-and the STRONG Shall INHERIT | journal =Fanscient | issue = 12 | pages = 28–31 | publisher = Donald. B. Day | date = Summer 1950 | url = http://www.fanac.org/fanzines/Fanscient/Fanscient12-28.html | location = Portland, Oregon | access-date =2009-10-13 }}</ref><ref name="sinis4">{{cite journal | last = Barker | first = Phillip | title =An Appreciation of The Dying Earth (with a letter from [[Jack Vance]]) | journal =Sinisterra | issue = 4 | pages = 21–23 | publisher = The Nameless Ones. (Gertrude Carr and Richard Frahm) | date = Winter 1950 | location = Seattle, Washington}}</ref> Also at this time, Barker corresponded with other authors who contributed to those same publications, including [[Lin Carter]] in whose writings and linguistic experiments<ref name="carter">{{cite book | last = Carter | first = Lin | author-link = Lin Carter | year=1949–1950| title=The Tursai os Llani Alphabet and some remarks on Grammar| location=St. Petersburg, Florida}}</ref> he took an interest and with whom he finally put to paper the story line of his own created world.<ref name=PetalThrone>{{cite web|url=http://www.tekumel.com/tektalesTPT.html |title=Tékumel :: The World of the Petal Throne |publisher=Tekumel.com |date=2001-10-18 |access-date=2013-04-25}}</ref><ref name="bar1">{{cite book | last = Barker | first = Phillip | year=1950| pages =1–7| title=A History of the Nations of the Universe| location=Seattle}}</ref><ref name="bar2">{{cite book | last = Barker | first = Phillip | year=1950| pages =1–15| title=Remarks Upon the Ts Solyani (by Messìliu Badàrian)| location=Seattle}}</ref>
+
+He received a [[Fulbright Scholarship]] in 1951 to study the [[languages of India]] and on his first trip to India that year converted to [[Islam]] "for purely theological reasons. It seemed like a more logical religion", according to Fine,<ref name="Fine">{{cite book | title=Shared Fantasy: Role Playing Games As Social Worlds | last=Fine | first=Gary | author-link=Gary Fine | year=1983 | publisher=University of Chicago Press | isbn=0-226-24944-1 | location=Chicago}}</ref> although Barker himself admitted at the time to an "[unimaginable] feeling of awe and religious ecstasy" upon hearing the recitations of the [[99 Names of Allah]] at the [[Taj Mahal]].<ref name="sinis5">{{cite journal | last = Barker | first = Phillip | title =A Letter from Phil Barker/'India Barks' | journal =Sinisterra | volume = 2| issue = 1 | pages = 14–25 | publisher = The Nameless Ones (Gertrude Carr and Richard Frahm) | year = 1951 | location = Seattle, Washington}}</ref>
+
+==Later academic studies and career==
+Barker attended the [[University of California, Berkeley]] for graduate studies, writing a dissertation on [[Klamath language]], collecting [[Modoc traditional narratives|traditional myths, legends, tales, and oral histories]] and later publishing a grammar and dictionary on the language.<ref name="bar3">{{cite book | last = Barker | first = M. A. R. | year=1963| pages =7–117| title=Klamath Texts. University of California Publications in Linguistics (No. 30) | publisher= [[University of California]] | location=Berkeley}} (21 Klamath myths collected in 1955-1957)</ref><ref>{{cite web|url=http://www.language-archives.org/language/kla |title=OLAC resources in and about the Klamath-Modoc language |publisher=Language-archives.org |date=2011-02-08 |access-date=2013-04-25}}</ref>
+
+He taught at the Institute of Islamic Studies at [[McGill University]] from around 1958/59 until 1972 and became active in the development of Urdu and Baluchi instruction materials for English-speaking students following a period of two years from 1960 when he was attached to [[Panjab University]].<ref>{{cite web | last = Rehman | first = Mumtazul Haque |title= The Story of Indo-Pakistani Muslim Community in Montreal, Quebec |url= http://www.docstoc.com/docs/2260612/The-Story-of-Indo-Pakistani-Muslim-Community-in-Montreal-Quebec |access-date= 2009-10-13}}</ref> Some of these are still recommended university course study materials as of 2010.<ref>{{cite web | last = Pritchett | first = Frances |title= Readings in Urdu Literature (Spring 2010 Syllabus) |url= http://www.columbia.edu/itc/mealac/pritchett/00fwp/readings_course.html |publisher= [[Columbia University]] |access-date= 2009-10-14}}</ref> From 1972 he moved to teach at the [[University of Minnesota]] in [[Minneapolis]], where he chaired the Department of South Asian studies until his retirement in the early 1990s, a few years after that department was disbanded due to reduced funding.<ref>{{cite web|url=http://voices.cla.umn.edu/artistpages/junghareIndira.php |title=Indira Junghare: Voices From the Gaps: University of Minnesota |publisher=Voices.cla.umn.edu |date=2012-12-03 |access-date=2013-04-25}}</ref>
+
+=="The forgotten Tolkien"==
+While at Berkeley, Barker had not set aside his world creation project. Indeed, despite stepping back somewhat from an active role in the published science fiction/fantasy fandom,<ref>{{cite web | last = Raymond | first = Victor |title= A Brief History of Roleplaying Games |date= 1994 |url= http://www.darkshire.net/~jhkim/rpg/whatis/history/earlyhistory.html |access-date= 2009-10-14}}</ref> he had commenced "proto-gaming" with a group of like-minded science fiction fans including fellow linguist [[William F. Shipley|Bill Shipley]]<ref>{{cite book | last = Lamb | first = Sydney M. |author2=Webster, Jonathan | year= 2004 | page = 23 | title= Language and Reality (Open Linguistics)| publisher= Continuum International Publishing Group Ltd. | location= London & New York | isbn= 0-8264-6820-9 | url= https://books.google.com/books?id=vrlPUxB2_JwC }}</ref> and Victor Golla, producing elaborate documents to support the exploration of that shared world.<ref name="Drag4Cover">{{cite journal | last = Barker | first = M. A. R. | title = Land grant to the Shipali Family of the Protectorate of Kerunan (Cover) | journal =[[Dragon (magazine)|Dragon]] | issue = 4 | page = 1 | publisher = [[TSR, Inc.|TSR]] | date = December 1976 }}</ref>
+
+Having watched the ''[[Dungeons & Dragons]]'' games started by Mike Mornard, one of the original testers for D&D, when he moved to Minneapolis from [[Lake Geneva, Wisconsin]], Barker resolved to create his own ruleset based on his own created world and the game mechanics from D&D. After six weeks, this was self-published in August 1974 as ''[[Empire of the Petal Throne]]'' and play commenced forthwith, including such occasional members as [[Dave Arneson]] – who singled out Barker and Tékumel as being his favorite [[Dungeon Master]] and roleplaying game, respectively – from early days.<ref name="Spiegel">{{cite magazine | last = Lischka | first = Konrad |title= Der vergessene Tolkien |trans-title= The Forgotten Tolkien |magazine= [[Der Spiegel]] |date= 2009-10-06 |url=http://www.spiegel.de/netzwelt/spielzeug/0,1518,649336,00.html |access-date= 2009-10-13}} [http://www.dragonsfoot.org/forums/viewtopic.php?f=1&t=38708&p=791084#p791084 (English translation)]</ref><ref>{{cite journal | title = Interview with Dave Arneson | journal =Fight On! | issue = 2 | pages = 63–64 | publisher = Ignatius Umlaut | date = Summer 2008 }}</ref>
+
+Once [[Gary Gygax]]'s attention had been drawn to Barker's work, it was decided that [[TSR, Inc.|TSR]] would publish a revised version of the game mechanics along with a condensed version of his [[campaign setting]]. TSR's ''Empire of the Petal Throne'' was published in 1975 for [[Gen Con]] VIII, making it TSR's third role-playing game to be published.<ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=Mongoose Publishing|year=2011| isbn= 978-1-907702-58-7}}</ref>{{rp|8}} In a Dragon Magazine editorial from December 1976, editor Tim Kask drew comparisons between the world of Tékumel and [[J. R. R. Tolkien]]'s [[Middle-earth]] not in terms of literature created, nor that his work was derivative of Tolkien's, but rather regarding the in-depth detail in the setting, mythos and linguistic backgrounds and concluded that "In terms of development of detail, I think EPT [Empire of the Petal Throne] has it over Middle Earth in the matters that most concern gamers"<ref name=Drag4Kask/> since it had been developed by a "wargamer", whereas Tolkien had no such background and having died prior to the release of D&D was thus unable to address this new pastime personally.<ref name="EPT">{{cite book | last = Barker | first = M. A. R. | year=1975| title=Empire of the Petal Throne | publisher= [[TSR, Inc.|TSR]] | location=[[Lake Geneva, Wisconsin]]| asin=B000G9WH5Q }}</ref>
+
+Barker disliked the limited support given to the setting, and after 1977 he took his world of Tékumel from TSR and ultimately moved it on to a succession of additional publishers: Imperium Publishing (1978), [[Adventure Games]] (1981), [[Gamescience]] (1983–1984), Tékumel Games (1983–1986), [[Different Worlds Publications]] (1987–1988), TOME (1991–1994), Tita's House of Games (1997–2002), Zottola Publishing (2002–2003), and [[Guardians of Order]] (2005).<ref name="designers"/>{{rp|8}} Due to Dave Arneson's personal friendship with Barker, Adventures Games released several Tékumel-related books, including army lists, maps and other general reference material.<ref name="designers"/>{{rp|39}} Barker's RPG novel ''[[The Man of Gold (novel)|The Man of Gold]]'' (July 1984), set in Tékumel, was published by DAW.<ref name="designers"/>{{rp|238}}
+
+Despite having had a head start on other in-depth campaign settings and seeing his game released no less than four times with various supplements and magazine articles, many which he contributed to, and having authored five books using the same setting, Barker's Tékumel in both roleplaying and literary domains is still well known to only a relatively small audience, leading German magazine ''[[Der Spiegel]]'' in 2009 to publish an article on Barker's life entitled "{{lang|de|italics=no|Der vergessene Tolkien}}" ("The forgotten Tolkien"). The article quotes friends and acquaintances who posit that this may be, at least in part, due to the unfamiliarity of the setting<ref name="EoASW4">{{cite journal | last = Brady | first = Patrick | title = You're not in Kansas anymore | journal =The Eye of All-Seeing Wonder | issue = 4 | page = 3 | publisher = Dave Morris | date = Spring 1995 | url = http://www.tekumel.com/eoasw4_02.html | access-date = 2009-10-14}}</ref> compared with Western society, echoing Fine's observations from 1983, and possibly even that Tékumel was released to the gaming world too early on, when players had only just started to experiment with their own invented worlds rather than fitting their play into preconfigured, non-literary domains with novel backgrounds.<ref name="Fine"/><ref name=Spiegel/>
+
+In 2008, Barker founded the Tékumel Foundation along with many of his long-time players to preserve and manage rights relating to his creations in future.<ref name=Spiegel/>
+
+Barker died in [[hospice|home hospice]] on March 16, 2012. He is survived by his wife, Ambereen.<ref>{{cite magazine|title=Gaming Giant M. A. R. Barker Dead At 83|magazine=[[Forbes]]|url=https://www.forbes.com/sites/davidewalt/2012/03/17/mar-barker-dies-tekumel/|date=2012-03-17|access-date=2012-03-17}}</ref>
+
+==Partial bibliography==
+
+===Language texts===
+Barker studied various languages academically and helped author and co-author various publications relating to some of those, including the following:
+
+Published by the [[University of California Press]]:
+{{Refbegin|2}}
+* Klamath Texts (1963)
+* Klamath Dictionary (1963)
+* Klamath Grammar (1964)
+{{Refend}}
+Published by the [[McGill University Institute of Islamic Studies]]:
+{{Refbegin|2}}
+* A Course in Urdu (1967)
+* An Urdu Newspaper Reader (1968)
+* A Reader of Modern Urdu Poetry (1968)
+* A Course in Baluchi (1969)
+{{Refend}}
+
+===Roleplaying===
+Tékumel has spawned five professionally published roleplaying games over the course of the years. It was also reportedly<!-- Tekumel mailing list, 2016-03-12 --> a major influence on other creations such as ''[[Hârn]]'' and the ''[[Skyrealms of Jorune]]''.
+{{Refbegin|2}}
+* ''Empire of the Petal Throne'' (1975) as a boxed set by [[TSR, Inc.]]<ref name="EPT"/> following earlier self-publication in 1974,<ref name=Spiegel/> and reprinted later as a single book by [[Different Worlds]] in 1987.<ref>{{cite web|url=http://www.tekumel.com/gaming_rulesEPT.html |title=Tékumel :: The World of the Petal Throne |publisher=Tekumel.com |access-date=2013-04-25}}</ref>
+* ''Swords & Glory'' (1983/4) in two volumes by [[Gamescience]].<ref>{{cite web|url=http://www.tekumel.com/gaming_rulesSAG.html |title=Tékumel :: The World of the Petal Throne |publisher=Tekumel.com |access-date=2013-04-25}}</ref>
+* ''[[Tékumel|Gardásiyal: Adventures on Tékumel]]'' (1994) by [[Theatre of the Mind Enterprises]]; with Neil R. Cauley.<ref>{{cite web|url=http://www.tekumel.com/gaming_rulesG.html |title=Tékumel :: The World of the Petal Throne |publisher=Tekumel.com |access-date=2013-04-25}}</ref>
+* ''Tekumel: Empire of the Petal Throne'' (2005) by [[Guardians of Order]]; by various, with M.A.R. Barker.<ref>{{cite web|url=http://www.tekumel.com/gaming_rulesTEPT.html |title=Tékumel :: The World of the Petal Throne |publisher=Tekumel.com |access-date=2013-04-25}}</ref>
+* ''Bethorm: The Plane of Tékumel'' (2014) by [[UNIGames]]; by Jeff Dee and M.A.R. Barker.<ref>{{cite web |url=http://bethorm.com/?p=299 |title=Bethorm :: The Plane of Tékumel |publisher=bethorm.com |url-status=dead |archive-url=https://web.archive.org/web/20150204205532/http://bethorm.com/?p=299 |archive-date=2015-02-04 }}</ref>
+{{Refend}}
+
+===Novels===
+Barker has written five novels set in the world of Tékumel - in chronological reading order these are:
+{{Refbegin|2}}
+# ''[[The Man of Gold (novel)|The Man of Gold]]'' (1984)
+# ''[[Flamesong]]'' (1985)
+# ''Lords of Tsámra'' (2003)
+# ''Prince of Skulls'' (2002)
+# ''A Death of Kings'' (2003)
+{{Refend}}
+
+==See also==
+*[[Tsolyáni language]]
+
+==Notes and references==
+{{Reflist}}
+
+==External links==
+*[http://www.tekumel.com/ Official Tékumel website]
+*[http://www.weirdrealm.com/tekumel/ Brett Slocum's Tékumel Site]
+*[https://web.archive.org/web/20081015130819/http://games.groups.yahoo.com/group/tekumel/ Tékumel Discussion Group - participants include Prof. Barker and regular players in his "Thursday Night Group"]
+* {{isfdb name}}
+*[https://web.archive.org/web/19990823022453/http://scifan.com/writers/bb/BarkerMAR.asp Bibliography] on SciFan
+*[http://www.sfbookcase.com/author.asp?authorid=1343 Bibliography] on SFBookcase.com
+*{{Find a Grave|120445770}}
+
+<!--what does this mean 'approximated' Living?-->
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barker, M. A. R.}}
+[[Category:1929 births]]
+[[Category:2012 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:Linguists from the United States]]
+[[Category:American male novelists]]
+[[Category:American Muslims]]
+[[Category:Converts to Islam]]
+[[Category:Linguists of Klamath]]
+[[Category:Role-playing game designers]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:Constructed language creators]]

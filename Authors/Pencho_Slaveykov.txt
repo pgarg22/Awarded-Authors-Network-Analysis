@@ -1,0 +1,58 @@
+{{Use dmy dates|date=March 2020}}
+{{Infobox writer
+| name             = Pencho Slaveykov
+| image            = BASA-546K-1-108-4-Pencho Slaveykov (cropped).JPG
+| birth_date       = {{Birth date|1866|04|27|df=yes}}
+| birth_place      = [[Tryavna]], [[Ottoman Empire]]
+| death_date       = {{Death date and age|1912|05|28|1866|04|27|df=yes}}
+| death_place      = [[Brunate]], [[Italy]]
+|resting_place =    [[Central Sofia Cemetery]]
+|resting_place_coordinates ={{coord|42|42|47.6|N|023|20|02.2|E|type:landmark}}
+| genre            = Poem, [[Essay]]
+| partner          = [[Mara Belcheva]]
+| parents        = [[Petko Slaveykov]] 
+}}
+'''Pencho Petkov Slaveykov''' ({{lang-bg|Пенчо Петков Славейков}}) (27 April 1866 [[Old Style and New Style dates|O.S.]]  – 10 June 1912 ([[Old Style and New Style dates|O.S.]] 28 May 1912)) was a noted [[Bulgaria]]n [[poet]] and one of the participants in the Misal ("Thought") circle. He was the youngest son of the writer [[Petko Slaveykov]].
+
+==Biography==
+[[File:Petko and his son Pencho Slaveykov (cropped).jpg|thumb|Pencho Slaveykov ''(left sculpture)'' and his father [[Petko Slaveykov|Petko]] ''(right sculpture)'' as immortalized on [[Slaveykov Square]] in [[Sofia]].]]
+Born in [[Tryavna]] during the [[Bulgarian National Revival]] under [[Decline of the Ottoman Empire|Ottoman]] rule, Pencho was educated there as well as in [[Stara Zagora]] and [[Plovdiv]]. After an accident in January 1884, when at the age of eighteen he fell asleep on a bench while it was snowing and thus he fell ill with [[pneumonia]], and despite lengthy treatment in Plovdiv, [[Sofia]], [[Leipzig]], [[Berlin]] and [[Paris]], this illness left him with serious impairments – he could not walk without a cane, and he wrote and spoke with difficulties. He suffered from [[melancholia|melancholic]] episodes, which forced him to find a cure in literature and to harden his will.
+
+Slaveykov's works include poems and intimate lyrics. He collaborated with a number of magazines, which issued his works, and spent a part of his life in Leipzig studying philosophy, where he became familiar with [[German literature]], thought and art.
+
+After returning to [[History of Independent Bulgaria|Bulgaria]] in 1898, Slaveykov joined the Misal circle with a number of other noted writers, such as [[Krastyo Krastev]], Petko Todorov and [[Peyo Yavorov]]. He became an assistant director (1901–1909) and later director of the [[SS. Cyril and Methodius National Library|National Library of Bulgaria]] (1909–1911) and a director of the [[Ivan Vazov National Theatre|Bulgarian National Theatre]] (1908–1909).
+
+In 1903 he began a relationship with poet [[Mara Belcheva]] which lasted until his death in 1912.<ref>{{Cite book|url=https://books.google.com/books?id=2Wf1SVbGFg8C&q=mar+ivanova+belceva&pg=PA106|title=An Encyclopedia of Continental Women Writers|last=Wilson|first=Katharina M.|date=1991-01-01|publisher=Taylor & Francis|isbn=9780824085476|language=en}}</ref> They never married but referred to her as his "wife" throughout his writings.<ref>{{Cite journal|last=Ivanoff|first=Albert M.|date=1947-01-01|title=Pencho Slaveikov's Crypto-Autobiography|jstor=4203925|journal=The Slavonic and East European Review|volume=26|issue=66|pages=209–223}}</ref>
+
+He was sent on missions to [[Moscow]] (1909) and [[Istanbul]], [[Athens]], [[Naples]], [[Sorrento, Italy|Sorrento]], and [[Rome]] (1911), where he studied the development of the libraries. Upon returning he engaged in hectic work.
+
+He was fired from the post of director of the National Library because of political misunderstandings with the minister of culture Stefan Bobchev on 10 July 1911, and left Bulgaria, living in [[Zürich]], [[Lucerne]], [[Göschenen]], [[Andermatt]], [[Lugano]] and other places in [[Switzerland]] before arriving in [[Italy]] in the end of November 1911. He remained in Rome for three months, but set off in May 1912 to travel through [[Florence]], the [[Engadin]] and the mountains looking for a cure. In the end of the month he arrived in the small town of [[Brunate]] near [[Lake Como]], where he died on 10 June 1912.
+
+Slaveykov was buried in Brunate's cemetery and his remains were moved to Bulgaria in 1921. Due to his death, the suggestion by [[Sweden|Swedish]] professor Al. Jensen that Slaveykov be awarded a [[Nobel Prize]] was not considered by the Nobel Prize committee.
+
+Slaveykov and Belcheva are portrayed on the Bulgarian 50 [[Bulgarian lev|levs]] banknote, issued in 1999 and 2006.<ref>[http://www.bnb.bg Bulgarian National Bank]. Notes and Coins in Circulation: [http://www.bnb.bg/bnb/notes_coins.nsf/vNotesCoins/F733BB05BC1ED5FCC2256B51003606ED?OpenDocument&EN 50 levs] (1999 issue) & [http://www.bnb.bg/bnb/notes_coins.nsf/vNotesCoins/1DC32A1777F8F885C225719D0022C89B?OpenDocument&EN 50 levs] (2006 issue). – Retrieved on 26 March 2009.</ref>
+
+==References==
+{{Reflist}}
+
+* {{Cite web|url=http://www.slovo.bg/showbio.php3?ID=105 |title=Пенчо Славейков Биографични бележки |publisher=Словото |access-date=2006-11-26 |language=bg }}
+* {{Cite web |url=http://www.libvar.bg/publications/slaveykov/biografia.html |title=Пенчо Славейков – биография |publisher=Public Library Varna |access-date=2006-11-26 |language=bg |url-status=dead |archive-url=https://web.archive.org/web/20070927230444/http://www.libvar.bg/publications/slaveykov/biografia.html |archive-date=27 September 2007}}
+
+==External links==
+{{commons category|Pencho Slaveykov}}
+* {{Citation |last= Slaveikoff|first= Pencho |year=1904 |editor-last=Bernard |editor-first=Henry |contribution= The Folk-Songs of the Bulgars |title= The Shade of the Balkans: Being a Collection of Bulgarian Folk-Songs and Proverbs, Here for the First Time Rendered into English, Together with an Essay on Bulgarian Popular Poetry, and Another on the Origin of the Bulgars|edition=First |publisher= David Nutt|publication-date=1904 |location= London |pages=23–87 |url=https://archive.org/stream/shadeofbalkansbe00bernrich#page/22/mode/2up |access-date=2012-12-21 }}
+* {{gutenberg author| id=Pencho+Slaveikov | name=Pencho Slaveykov}} {{in lang|bg}}
+* {{worldcat id|lccn-n82-18278}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Slaveykov, Pencho}}
+[[Category:1866 births]]
+[[Category:1912 deaths]]
+[[Category:People from Tryavna]]
+[[Category:19th-century Bulgarian poets]]
+[[Category:20th-century Bulgarian poets]]
+[[Category:Bulgarian male poets]]
+[[Category:Members of the Bulgarian Academy of Sciences]]
+[[Category:Burials at Central Sofia Cemetery]]
+[[Category:Bulgarian librarians]]

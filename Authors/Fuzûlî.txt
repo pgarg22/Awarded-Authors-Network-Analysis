@@ -1,0 +1,170 @@
+{{Short description|Azerbaijani poet, writer and thinker}}
+{{other uses|Füzuli (disambiguation)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Fuzuli
+| image        = Fuzûlî.jpg
+| imagesize    = 175px
+| caption      = Miniature of Fuzuli in 16th century ''Meşâirü'ş-şuarâ''
+| birth_name   = Mahammad Suleyman oghlu
+| birth_date   = {{circa|1494}}
+| birth_place  = [[Karbala]], [[Aq Qoyunlu]] confederation (now [[Iraq]])
+| death_date   = 1556
+| death_place  = [[Karbala]], [[Ottoman Empire]] (now Iraq)
+| genre        = [[Azerbaijani language|Azerbaijani]], [[Arabic language|Arabic]] and [[Persian language|Persian]] [[epic poetry]], [[wisdom literature]]
+| notableworks = ''The Epic of [[Layla and Majnun]]'' ({{lang|az|Leyli və Məcnun}})
+}}
+
+'''Mahammad bin Suleyman''' ([[Azerbaijani language|Classical Azerbaijani]]: {{lang|az-Arab|محمد سليمان اوغلی}} {{lang|az|Məhəmməd Süleyman oğlu}}), better known by his [[pen name]] '''Fuzuli''' ({{lang-az-Arab|فضولی}} {{lang|az|Füzuli}};{{efn|His name has also been translated as:
+* {{lang-ar|محمد بن سليمان الفضولي}} {{transl|ar|Muḥammad bin Sulaymān al-Fuḍūlī}};
+* {{lang-ota|محمد بن سلیمان فضولی}} {{lang|tr|Mehmed bin Süleymân Fuzûlî}};
+* {{lang-fa|محمد بن سلیمان فضولی}} {{transl|fa|Moḥammad ben Soleymân Fożuli}}.}} {{circa|1494}}&nbsp;– 1556), was an [[Azerbaijani people|Azerbaijani]],<ref>{{cite web |url=https://iranicaonline.org/articles/azerbaijan-viii |title=AZERBAIJAN viii. Azeri Turkish |author=Gerhard Doerfer |author-link=Gerhard Doerfer |website=iranicaonline.org |publisher=[[Encyclopædia Iranica]] |quote=Other important Azeri authors were Shah Esmāʿīl Ṣafawī “Ḵatāʾī” (1487-1524), and Fożūlī (about 1494-1556), an outstanding Azeri poet.}}</ref><ref>{{cite web |url=http://www.iranicaonline.org/articles/azerbaijan-x |title=AZERBAIJAN x. Azeri Turkish Literature |author=H. Javadi and K. Burill |website=iranicaonline.org |publisher=[[Encyclopædia Iranica]] }}</ref><ref>{{cite book |author=A. M. A. Shushtery |title=Outlines of Islamic Culture - Volume I: Historical and Cultural Aspects |date=March 2007 |url=https://books.google.com/books?id=RTYLVhJG8e8C&pg=PA130 |page=130 |isbn=978-1-4067-4113-1}}</ref> of the [[Bayat (tribe)|Bayat]] tribes of [[Oghuz Turks|Oghuz]],<ref name="TurkishCulturalFoundation">{{cite web |url=http://www.turkishculture.org/pages.php?ChildID=129&ParentID=3&ID=4&ChildID1=634&miMore=1 |title=MUHAMMED FUZULI (1498-1556) |author=<!--Not stated--> |website=turkishculture.org |publisher=[[Turkish Cultural Foundation]] |quote=He belonged to the Turkic tribe of Bayat, one of the Turcoman tribes that was scattered in all over the Middle East, Anatolia and the Caucasus from the 10th to 11th century and which has roots connected to the Azerbaijanian people.}}</ref><ref>{{cite web |url=https://www.britannica.com/biography/Mehmed-bin-Suleyman-Fuzuli |title=Mehmed bin Süleyman Fuzuli |author=<!--Not stated--> |website=brittanica.org |publisher=[[Encyclopædia Britannica]] }}</ref><ref>{{cite book |author=Kathleen R. F. Burrill |date=1 January 1972 |title=The Quatrains of Nesimi, Fourteenth-century Turkic Hurufi |publisher=De Gruyter Mouton |isbn=978-9027923288}}</ref> poet, writer and thinker. Often considered one of the greatest contributors to the [[diwan (poetry)|divan tradition]] of [[Azerbaijani literature]], Fuzuli in fact wrote his collected poems (divan) in three different languages: in his native [[Azerbaijani language|Azerbaijani]], [[Arabic language|Arabic]] and [[Persian language|Persian]].<ref>Peter Rollberg. The modern encyclopedia of Russian and Soviet literature (including Non-Russian and Emigre literatures) / Edited by Harry B. Weber.&nbsp;— Academic International Press, 1987.&nbsp;— Volume 8.&nbsp;— Page 76. In Mesopotamia Fuzuli was in intimate contact with three cultures&nbsp;— Turkic, Arabic, and Persian. Besides his native Azeri, he learned Arabic and Persian at an early age and acquired a through command of the literatures in all three languages, an accomplishment in which the cosmopolitan literary and scholarly circles of Hilla played an important role.</ref> He was well-versed in both the [[Ottoman Turkish language|Ottoman]] and [[Chagatai language|Chagatai]] Turkic literary traditions as well as [[mathematics]] and [[astronomy]].<ref name="Fozuli, Mohammad b. Solayman">[http://www.iranicaonline.org/articles/fozuli "Fozuli, Mohammad b. Solayman"] in Encyclopaedia Iranica</ref>
+
+==Life==
+Fuzûlî is generally believed to have been born around 1480 in what is now [[Iraq]], when the area was under [[Ak Koyunlu]] [[Turkoman (ethnonym)|Turkmen]] rule; he was probably born in either [[Karbala|Karbalā’]] or [[Najaf|an-Najaf]].<ref name="Fozuli, Mohammad b. Solayman"/> He is believed to belong to [[Bayat (name)|Bayat]] [[tribe]], one of the [[Turkic peoples|Turkic]] [[Oghuz Turks|Oghuz]] tribes who are related to Azerbaijanis and were scattered throughout the [[Middle East]], [[Anatolia]], and the [[Caucasus]] at the time.<ref name="TurkishCulturalFoundation" /> Though Fuzûlî's ancestors had been of [[nomad]]ic origin, the family had long since settled in towns.
+
+Fuzûlî appears to have received a good education, first under his father—who was a [[mufti]] in the city of [[Al Hillah]]—and then under a teacher named Rahmetullah.<ref>Şentürk 281</ref> It was during this time that he learned the Persian and Arabic languages in addition to his native Azerbaijani. Fuzûlî showed poetic promise early in life, composing sometime around his twentieth year the important ''[[Masnavi (poetic form)|masnavi]]'' entitled ''Beng ü Bâde'' (بنگ و باده; "Hashish and Wine"), in which he compared the Ottoman [[Sultan]] [[Bayezid II]] to [[hashish]] and the [[Safavid dynasty|Safavid]] [[shah]] [[Ismail I]] to [[wine]], much to the advantage of the latter.
+
+One of the few things that is known of Fuzûlî's life during this time is how he arrived at his pen name. In the introduction to his collected Persian poems, he says: "In the early days when I was just beginning to write poetry, every few days I would set my heart on a particular pen name and then after a time change it for another because someone showed up who shared the same name".<ref>Quoted in Andrews, 236.</ref> Eventually, he decided upon the Arabic word ''fuzûlî''—which literally means "impertinent, improper, unnecessary"—because he "knew that this title would not be acceptable to anyone else".<ref name="auto">''Ibid.''</ref> Despite the name's pejorative meaning, however, it contains a [[Pun|double meaning]]—what is called ''tevriyye'' (توريه) in [[Poetry of the Ottoman Empire|Ottoman Divan poetry]]—as Fuzûlî himself explains: "I was possessed of all the arts and sciences and found a pen name that also implies this sense since in the dictionary ''fuzûl'' (ﻓﻀﻮل) is given as a plural of ''fazl'' (ﻓﻀﻞ; 'learning') and has the same [[Meter (poetry)#Ottoman Turkish|rhythm]] as ''‘ulûm'' (ﻋﻠﻮم; 'sciences') and ''fünûn'' (ﻓﻨﻮن; 'arts')".<ref name="auto"/>
+
+In 1534, the [[Ottoman Empire|Ottoman]] [[sultan]] [[Suleiman the Magnificent|Süleymân I]] conquered the region of [[Baghdad Province, Ottoman Empire|Baghdad]], where Fuzûlî lived, from the Safavid Empire. Fuzûlî now had the chance to become a court poet under the Ottoman [[Patronage|patronage system]], and he composed a number of ''[[Qasida|kasîde]]''s, or [[panegyric]] poems, in praise of the sultan and members of his [[retinue]], and as a result, he was granted a stipend. However, owing to the complexities of the Ottoman [[bureaucracy]], this stipend never materialized. In one of his best-known works, the letter ''Şikâyetnâme'' (شکايت نامه; "Complaint"), Fuzûlî spoke out against such bureaucracy and its attendant [[Political corruption|corruption]]:
+
+:سلام وردم رشوت دگلدر ديو آلمادىلر
+:''Selâm verdim rüşvet değildir deyü almadılar.''<ref>Kudret 189</ref>
+:I gave my greetings but they didn't receive it as it wasn't a bribe.
+
+Though his poetry flourished during his time among the Ottomans, the loss of his stipend meant that, materially speaking, Fuzûlî never became secure. In fact, most of his life was spent attending upon the [[Imam Ali Mosque|Tomb of `Alî]] in the city of an-Najaf, south of [[Baghdad]].<ref>Andrews 237</ref> He died during a [[Bubonic plague|plague]] outbreak in 1556, in Karbalā’, either of the plague itself or of [[cholera]].
+
+==Works==
+{{Original research|date=September 2007}}
+[[File:Story of Mejnun - in wilderness.jpg|thumb|200px|left|'''[[Layla and Majnun]]''']]
+{{Quote box|quote=یا رب بلای عشق ايله قيل آشنا منى<br />بیر دم بلای عشقدن ایتمه جدا منى<br />آز ايلمه عنایتونى اهل دردن<br/>يعنى كی چوخ بلالره قيل مبتلا منى<br />
+''Yâ Rabb belâ-yı ‘aşk ile kıl âşinâ meni''<br />''Bir dem belâ-yı ‘aşkdan etme cüdâ meni''<br />''Az eyleme ‘inâyetüni ehl-i derdden''
+<br />''Ya‘ni ki çoh belâlara kıl mübtelâ meni''<ref>''Leylâ ve Mecnun'' 216</ref><br />Oh God, make me acquainted with the affliction of love!<br />For one moment make me not separated from the affliction of love!<br />Do not lessen your solicitude from the people of pain,<br />But rather, make afflicted me one more of them!|source=—Excerpt from ''Dâstân-ı Leylî vü Mecnun''.|align=right}}
+[[File:Brooklyn Museum - Manuscript of the Hadiqat al-Su`ada (Garden of the Blessed) of Fuzuli - Muhammad bin Sulayman known as Fuzuli.jpg|thumb|upright|Manuscript of the ''Hadiqat al-Su`ada (Garden of the Blessed)'' of Fuzuli, 1602-3 C.E. [[Brooklyn Museum]].]]
+[[File:Fuzuli Divan.jpg|thumb|upright|A page from the collected poems of Fuzûlî]]
+
+Fuzûlî has always been known, first and foremost, as a poet of [[love]]. It was, in fact, a characterization that he seems to have agreed with:
+
+:مندن فضولی ايستمه اشعار مدح و ذم
+:من عاشقام هميشه سوزوم عاشقانه دیر
+
+:''Menden Fuzûlî isteme eş'âr-ı medh ü zem''
+:''Men âşıkam hemîşe sözüm âşıkânedür''<ref>Tarlan 47</ref>
+
+:Don't ask Fuzûlî for poems of praise or rebuke
+:I am a lover and speak only of love
+
+Fuzûlî's notion of love, however, has more in common with the [[Sufism#Basic beliefs|Sufi idea of love]] as a projection of the essence of [[Allah|God]]—though Fuzûlî himself seems to have belonged to no particular [[Tariqah|Sufi order]]—than it does with the [[Western culture|Western]] idea of [[romantic love]]. This can be seen in the following lines from another poem:
+
+:عاشق ايمش هر ن وار ﻋﺎﻝﻢ
+:ﻋلم بر قيل و قال ايمش آنجق
+
+:''‘Âşık imiş her ne var ‘âlem''
+:''‘İlm bir kîl ü kâl imiş ancak''<ref>Kudret 20</ref>
+
+:All that is in the world is love
+:And knowledge is nothing but gossip
+
+The first of these lines, especially, relates to the idea of ''[[Wahdat-ul-Wujood|wahdat al-wujūd]]'' (وحدة الوجود), or "unity of being", which was first formulated by [[Ibn Arabi|Ibn al-‘Arabī]] and which states that nothing apart from various manifestations of God exists. Here, Fuzûlî uses the word "love" (عشق ''‘aşk'') rather than God in the formula, but the effect is the same.
+
+Fuzûlî's most extended treatment of this idea of love is in the long poem ''Dâstân-ı Leylî vü Mecnun'' (داستان ليلى و مجنون), a ''mesnevî'' which takes as its subject the classical Arabian love story of [[Layla and Majnun]]. In his version of the story, Fuzûlî concentrates upon the pain of the mad lover Majnun's separation from his beloved Layla, and comes to see this pain as being of the essence of love.
+
+The ultimate value of the suffering of love, in Fuzûlî's work, lies in that it helps one to approach closer to "the Real" (''al-Haqq'' الحق), which is one of the [[99 Names of God|99 names of God]] in [[Islam]]ic tradition.
+
+==Selected bibliography==
+
+===Works in [[Azerbaijani language|Azerbaijani Turkic]]===
+* ''Dîvân'' ("Collected Poems")
+* ''Beng ü Bâde'' (بنگ و باده; "Hashish and Wine")
+* ''Hadîkat üs-Süedâ'' (حديقت السعداء; "Garden of Pleasures")
+* ''Dâstân-ı Leylî vü Mecnûn'' (داستان ليلى و مجنون; "The Epic of Layla and Majnun")
+* ''Risâle-i Muammeyât'' (رسال ﻤﻌﻤيات; "Treatise on Riddles")
+* ''Şikâyetnâme'' (شکايت نامه; "Complaint")
+
+===Works in [[Persian language|Persian]]===
+* ''Dîvân'' ("Collected Poems")
+* ''Anîs ol-qalb'' (انیس القلب; "Friend of the Heart")
+* ''Haft Jâm'' (هفت جام; "Seven Goblets")
+* ''Rend va Zâhed'' (رند و زاهد; "Hedonist and Ascetic")
+* ''Resâle-e Muammeyât'' (رسال ﻤﻌﻤيات; "Treatise on Riddles")
+* ''Sehhat o Ma'ruz'' (صحت و معروض; "Health and Sickness")
+
+===Works in [[Arabic language|Arabic]]===
+* ''Dīwān'' ("Collected Poems")
+* ''Maṭla‘ ul-I‘tiqādi'' (مطلع الاﻋﺘﻘﺎد; "The Birth of Faith")
+
+===Translations into English===
+* Fuzuli. ''Leyla and Mejnun.'' Translated by Sofi Huri. Introduction and notes by Alessio Bombaci. London: George Allen & Unwin, Ltd., 1970.
+
+==Legacy==
+[[File:Portrait of Azerbaijani poet Fuzuli by Azimzade.jpg|thumb|upright|Portrait of Fuzuli by [[Azim Azimzade]] (1914). [[National Art Museum of Azerbaijan]] ([[Baku]])]]
+According to the ''Encyclopædia Iranica'':{{cquote|Fuzuli is credited with some fifteen works in Arabic, Persian, and Turkic, both in verse and prose. Although his greatest significance is undoubtedly as a Turkic poet, he is also of importance to Persian literature thanks to his original works in that language (indeed, Persian was the language he preferred for his Shi'ite religious poetry); his Turkic adaptations or translations of Persian works; and the inspiration he derived from Persian models for his Turkic works.
+...
+The fundamental gesture of Fuzûlî's poetry is inclusiveness. It links Azeri, [[Turkmen people|Turkmen]] and [[Ottomans|Ottoman]] (Rumi) poetry, east and west; it also bridges the religious divide between [[Shiism]] and [[Sunnism]]. Generations of Ottoman poets admired and wrote responses to his poetry; no contemporary canon can bypass him.}}
+
+{{multiple image|total width=150|align=left|image1=AZ-1996-100manat-Fuzuli-a.png|image2=AZ-1996-100manat-Fuzuli-b.png}}
+In April 1959, in honour of his 400th death anniversary, [[Fuzuli District|Karyagin district]] and the [[Fuzuli (city)]] were renamed to Fuzuli.<ref>Presidium of the Supreme Soviet of the Azerbaijan SSR, (1961), ''Azerbaijan SSR, Administrative-territorial division on January 1, 1961'', p. 9</ref> A street and a square are named after him in the center of [[Baku]], as well as streets in many other cities of Azerbaijan. Several Azerbaijani institutions are named after him, including the Institute of Manuscripts in Baku.
+
+[[File:Statue of Fuzuli in Guba.jpg|thumb|right|Statue of Fuzuli in Guba]]
+In 1996 the [[National Bank of Azerbaijan]] minted a golden 100 [[Azerbaijani manat|manat]] and a silver 50 manat [[commemorative coin]]s dedicated to the 500th anniversary of Fuzûlî's life and activities.<ref>[http://www.cbar.az Central Bank of Azerbaijan]. Commemorative coins. [http://www.cbar.az/pages/national-currency/commemorative-coins/1992-2010/ Coins produced within 1992-2010] {{webarchive |url=https://web.archive.org/web/20100119220546/http://www.cbar.az/pages/national-currency/commemorative-coins/1992-2010/ |date=January 19, 2010 }}: Gold and silver coins dedicated to memory of Mahammad Fuzuli.&nbsp;– Retrieved on 25 February 2010.</ref>
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Sources==
+'''Primary'''
+* Fuzulî. ''Fuzulî Divanı: Gazel, Musammat, Mukatta' ve Ruba'î kısmı''. Ed. Ali Nihad Tarlan. İstanbul: Üçler Basımevi, 1950.
+* Fuzulî. ''Leylâ ve Mecnun''. Ed. Muhammet Nur Doğan. {{ISBN|975-08-0198-9}}.
+
+'''Secondary'''
+* Andrews, Walter G. "Fuzûlî" in ''Ottoman Lyric Poetry: An Anthology''. pp.&nbsp;235–237. {{ISBN|0-292-70472-0}}.
+* [http://www.iranicaonline.org/articles/fozuli "Fozuli, Mohammad b. Solayman"]. Encyclopædia Iranica. Retrieved 25 August 2006.
+* "Fuzuli, Mehmed bin Süleyman." Encyclopædia Britannica. 2006. Encyclopædia Britannica Premium Service. 23 Aug. 2006  <[http://www.britannica.com/eb/article-9035730 ]>.
+* Kudret, Cevdet. ''Fuzuli''. {{ISBN|975-10-2016-6}}.
+* Şentürk, Ahmet Atillâ. "Fuzûlî" in ''Osmanlı Şiiri Antolojisi''. pp.&nbsp;280–324. {{ISBN|975-08-0163-6}}.
+* The investigation of the mystical similarities and differences of Fozoli's Persian and Turkish Divans against [[The Divān of Hafez|Hafez's Divan]] (Thesis for M.A degree Islamic Azad University of Tabriz, Iran ) By: Gholamreza Ziyaee Prof.: Ph.D: Aiyoub Koushan
+* A comparative adaptation of Peer in Khajeh Hafez's divan with Hakim Fozooli's Persian and Turkish divans,Article 7, Volume 6, Number 21, Autumn 2012, Page 159-188
+Document Type: Research Paper
+Authors:
+1Aiyoub Koushan; 2Gholamreza Zyaee
+1Faculty member, Department of Persian Literature, Tabriz Branch, Islamic Azad University, Tabriz, Iran
+2Student, Department of Persian Literature, Tabriz Branch, Islamic Azad University, Tabriz, Iran.
+
+==External links==
+* [https://archive.org/search.php?query=creator%3A%22Fuzul%2C+1495%3F-1556%22  Fuzûlî], on archive.org
+* [https://web.archive.org/web/20090220141810/http://math.umn.edu/~ata/divan/fuzuli1.html Muhammed Fuzuli]—a website with a brief biography and translated selections from ''Leyla and Mecnun''
+* [http://www.kerkukfeneri.com/haber_detay.asp?haberID=30 FUZULİ]
+* [https://books.google.com/books?vid=ISBN0521291631&id=UVmsI0P9RDUC&pg=PA14 Fuzûlî] in Stanford J. Shaw's ''History of the Ottoman Empire and Modern Turkey''
+
+{{Azerbaijani Turkic literature}}
+{{Turkish literature}}
+{{Persian literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fuzuli}}
+[[Category:1494 births]]
+[[Category:1556 deaths]]
+[[Category:16th-century Azerbaijani people]]
+[[Category:16th-century writers of the Ottoman Empire]]
+[[Category:16th-century poets of the Ottoman Empire]]
+[[Category:Ottoman Arabic poets]]
+[[Category:Azerbaijani-language poets]]
+[[Category:Azerbaijani poets]]
+[[Category:Iraqi calligraphers]]
+[[Category:Divan poets of the Ottoman Empire]]
+[[Category:Ottoman literature]]
+[[Category:Iraqi Shia Muslims]]
+[[Category:Turkish people of Azerbaijani descent]]
+[[Category:Turks of the Ottoman Empire]]
+[[Category:Male poets of the Ottoman Empire]]
+[[Category:Persian-language poets]]
+[[Category:16th-century Arabic poets]]
+[[Category:Persian poets]]
+[[Category:15th-century Arabic poets]]
+[[Category:Iraqi multilingual poets]]
+[[Category:Medieval Azerbaijani people]]
+[[Category:People from the Bayat tribe]]

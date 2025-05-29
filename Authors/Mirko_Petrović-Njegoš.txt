@@ -1,0 +1,65 @@
+{{Infobox royalty
+| name        = Mirko Petrović-Njegoš
+| image       = Vojvoda Mirko.jpg
+| caption     = Vojvoda Mirko, circa 1860
+| house       = [[House of Petrović-Njegoš|Petrović-Njegoš]]
+| birth_date  = {{birth date|1820|8|19|df=y}}
+| birth_place = [[Njeguši]], [[Prince-Bishopric of Montenegro|Montenegro]]
+| death_date  = {{death date and age|1867|8|1|1820|8|19|df=y}}
+| death_place = [[Cetinje]], [[Principality of Montenegro]]
+| spouse      = Stana Martinović
+| issue       = [[Nikola I Petrović-Njegoš]] <br> Princess Anastasia<br> Princess Maria
+| occupation  = {{nowrap|Military commander, politician, poet}}
+}}
+'''Mirko Petrović-Njegoš''' ({{lang-sr-cyr|Мирко Петровић-Његош}}; 19 August 1820 – 1 August 1867) was a Montenegrin military commander, politician and poet, belonging to the [[House of Petrović-Njegoš]]. He was given the title of ''veliki vojvoda'' (Grand Duke) of [[Grahovo, Nikšić|Grahovo]], and is thus also known as '''Vojvoda Mirko''' (Duke Mirko). He was the father of [[Nikola I Petrović-Njegoš|Nikola]], the future ruler of Montenegro.
+
+==Life==
+Mirko was born on 19 August 1820, in [[Njeguši]],<ref name="Paunović1998">{{cite book|author=Marinko Paunović|title=Srbi: biografije znamenitih : A-Š|url=https://books.google.com/books?id=9qE-AQAAIAAJ|year=1998|publisher=Emka|page=195|isbn=9788685205040}}</ref> the son of Stanko Petrović-Njegoš and wife Krstinja Vrbica. He was the older brother of [[Danilo I, Prince of Montenegro|Prince Danilo I]], while his uncle was [[Petar II Petrović-Njegoš]]. He is famous for winning the [[Battle of Grahovac]] on 1 May 1858, leading the Montenegrin army against the [[Ottoman Empire|Ottomans]].
+
+In 1862, after the [[Convention of Scutari]], he was deported because he had fought against the Ottomans.
+
+His epic corpus ''Junački spomenik'' (''Heroic Monument''), published in the Montenegrin capital of [[Cetinje]] in 1864, glorifies Montenegro and Montenegrins, and tells of the great victories over the Ottoman Empire.
+
+He was married in Njeguši on {{OldStyleDate|November 7|1840|October 26}} to Anastasia (Stana) Martinović ([[Bajice]], {{OldStyleDate|June 27|1824|June 15}} – [[Cetinje]], {{OldStyleDate|December 23|1894|January 12}}), daughter of [[Vojevoda]] Drago Martinović and wife Stana Martinović.<ref>Burke's Royal Families of the World; Europe and Latin-America</ref>
+
+They had three children: 
+* [[Nikola I Petrović-Njegoš|Nikola]] ({{OldStyleDate|October 7|1841|September 25}} – March 1, 1921)
+* Princess Anastasia (d. March 29, 1879), married to Sava Plamenac
+* Princess Maria, married to Capt. Y. Gopcević.
+
+In February 1857, vojvoda Mirko Petrović-Njegoš replaced his cousin [[Đorđije Petrović-Njegoš]] as the President of the [[Government of Montenegro|Governing Senate of Montenegro and the Highlands]], he served during the reign of his brother prince [[Danilo II Petrović-Njegoš|Danilo II]] and later during the reign of his son prince [[Nicholas I of Montenegro|Nicholas]]. He held the position of president until his death in August 1867.
+
+== Work ==
+His writings include this book of poetry owned by the Library of Congress in Washington, DC:
+* ''Junački spomenik'' (1951; 185 pages) LCCN: 55037918 Call number: PG1418.P53 J8
+
+== See also ==
+* [[Battle of Grahovac]]
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Commons category|Mirko Petrović-Njegoš}}
+
+* [http://www.njegos.org/petrovics/mirko.htm Junački spomenik]
+* {{cite web |last=Marek |first=Miroslav |url=http://genealogy.euweb.cz/balkan/njegosh1.html |title= Genealogy of the House of Petrović-Njegoš |publisher= Genealogy.EU}}
+*[http://portalanalitika.me/clanak/183506/ko-je-bio-vojvoda-mirko-veliki-ratni-pobjednik-i-spasilac-mostiju-sv-vasilija-ostroskog "Ko je bio vojvoda Mirko: Veliki ratni pobjednik i spasilac moštiju sv. Vasilija Ostroškog" (text in montenegrin language)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Petrovic-Njegos, Mirko}}
+[[Category:1820 births]]
+[[Category:1867 deaths]]
+[[Category:People of the Principality of Montenegro]]
+[[Category:Montenegrin soldiers]]
+[[Category:Montenegrin poets]]
+[[Category:Montenegrin composers]]
+[[Category:Military personnel from Cetinje]]
+[[Category:Petrović-Njegoš dynasty]]
+[[Category:19th-century poets]]
+[[Category:Prime Ministers of Montenegro]]
+[[Category:Speakers of the Parliament of Montenegro]]
+[[Category:Politicians from Cetinje]]
+[[Category:Writers from Cetinje]]
+{{Montenegro-bio-stub}}

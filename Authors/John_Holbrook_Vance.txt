@@ -1,0 +1,385 @@
+{{short description|American mystery and speculative fiction writer}}
+{{for|the Canadian general|Jack Vance (general)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Jack Vance
+| image       = Jack Vance Boat Skipper.jpg
+| imagesize   = 200px
+| caption     = Jack Vance at the helm of his boat on San&nbsp;Francisco Bay in the early 1980s
+| birth_name  = John Holbrook Vance
+| birth_date  = {{birth date|1916|8|28}}
+| birth_place = {{nowrap|[[San Francisco]], [[California]]}}
+| death_date  = {{death date and age|2013|5|26|1916|8|28}}
+| death_place = [[Oakland, California]]
+| occupation  = Writer
+| nationality = American
+| period      = 1950–2009 (books)<ref name=isfdb>{{isfdb series |2288 |Gaean Reach}} (ISFDB). Retrieved 2012-06-19.</ref>
+| genre       = [[Fantasy literature|Fantasy]], science fiction, [[Mystery fiction|mystery]]
+| notableworks= ''[[Dying Earth]]''<ref name=isfdb-series/>
+| awards      =
+{{awd |[[Hugo Award]] |1963, 1967, 2010}}
+{{awd |[[Nebula Award]] |1967}} and career honors<ref name=SFAwards/>
+}}
+
+[[File:Satellite science fiction 195712.jpg|thumb|right|Vance's ''[[The Languages of Pao]]'' was originally published in the December&nbsp;1957 issue of ''[[Satellite Science Fiction]]'', under what is likely the last SF magazine cover by [[Frank R. Paul]]]]
+
+'''John Holbrook''' "'''Jack'''" '''Vance''' (<!-- Please do not change the date of birth as it is currently correct, thanks. !-->August 28, 1916 – May 26, 2013) was an [[American people|American]] [[List of mystery writers|mystery]], [[List of fantasy authors|fantasy]], and [[science fiction writer]]. Though most of his work has been published under the name Jack Vance, he also wrote several mystery novels under pen names.
+
+Vance won the [[World Fantasy Award for Life Achievement]] in 1984,<ref name=SFAwards/> and he was a Guest of Honor at the 1992 [[World Science Fiction Convention]] in [[Orlando, Florida]]. The [[Science Fiction and Fantasy Writers of America]] made him its 15th [[SFWA Grand Master|Grand Master]] in 1997,<ref name=SFWA/> and the [[EMP Museum#Science Fiction Hall of Fame|Science Fiction Hall of Fame]] inducted him in 2001, its sixth class of two deceased and two living writers.<ref name=sfhof-old/><ref name=sfhof-vance/>
+
+Among his awards for particular works were:
+; [[Hugo Award]]s: in 1963 for ''[[The Dragon Masters]]'', in 1967 for ''[[The Last Castle (novella)|The Last Castle]]'', and in 2010 for his memoir ''[[This is Me, Jack Vance!]]''
+; [[Nebula Award]]: in 1966, also for ''The Last Castle''
+; [[Jupiter Award (science fiction award)|Jupiter Award]]: in 1975
+; [[World Fantasy Award]]: in 1990 for ''Lyonesse: Madouc''.<ref name=SFAwards/>
+; [[Edgar Award]]: in 1961 for the best first mystery novel for ''The Man in the Cage''.
+
+His first publications were stories in science fiction magazines. As he became well known, he published novellas and novels, many of which were translated into French, Dutch, Spanish, Russian, Italian and German. An Integral Edition of all Vance's works was published in 44 volumes and in 2010 a six-volume ''The Complete Jack Vance'' was released. A 2009 profile in ''[[The New York Times Magazine]]'' described Vance as "one of American literature's most distinctive and undervalued voices".<ref name="NYTmag">{{cite news |last=Rotella |first=Carlo |date=July 19, 2009 |title=The genre artist |newspaper=[[The New York Times]] Magazine |url=https://www.nytimes.com/2009/07/19/magazine/19Vance-t.html?_r=1 |access-date=2009-07-18}}</ref> He died at his home in [[Oakland, California]] on May 26, 2013, aged 96.<ref>{{cite news |title=Sci-Fi author Jack Vance dies at Oakland home |date=May 29, 2013 |newspaper=[[Contra Costa Times]] |type=obituary |url=http://www.contracostatimes.com/breaking-news/ci_23349416/sci-fi-author-jack-vance-dies-at-oakland |access-date=2013-05-31}}</ref>
+
+== Biography ==
+Vance's great-grandfather is believed to have arrived in California from Michigan a decade before the [[California Gold Rush|Gold Rush]] and married a San Francisco woman.<ref name=Williams-wld-thkr/> Early family records were apparently destroyed in the fire following the [[1906 San Francisco earthquake]].<ref name=Vance-web-bio>{{cite web |title=Jack Vance Website - Jack Vance Biography |website=jackvance.com |url=https://jackvance.com/jackvance/bio/ |access-date=2020-04-23}}</ref> Vance’s maternal grandfather, L. M. (Ludwig Mathias) Hoefler, was a successful lawyer in San Francisco.<ref name=Williams-wld-thkr/>
+
+Vance grew up in the family's large house in San Francisco on Filbert Street. When Vance's father left the family to live on his ranch in Mexico, the family's house in San Francisco was rented out to the father's sister.<ref name=Williams-wld-thkr/> With the separation of his parents, and the loss of use of the San Francisco house, Vance's mother moved him and his siblings to their maternal grandfather's California ranch near [[Oakley, California|Oakley]] in the [[River delta|delta]] of the [[Sacramento River]]. This setting formed Vance's love of the outdoors, and allowed him time to indulge his passion as an avid reader of his mother's large book collection, which included [[Edgar Rice Burroughs]]’ ''[[Tarzan of the Apes]]'' and his Barsoom novels and [[Jules Verne]]'s ''[[The Mysterious Island]]''.<ref name=Williams-wld-thkr/> When Vance explored the nearby town, he started reading [[Pulp magazine|pulp fiction]] magazines at the local drugstore.<ref name=Williams-wld-thkr/>
+
+With the death of his grandfather, who supported the family, which coincided with the economic challenges of [[Great Depression]], the Vance family’s fortune dwindled, and Vance was forced to leave junior college and work to support himself, assisting his mother when able. Vance plied many trades for short stretches: as a [[bellhop]] (a "miserable year"), in a [[cannery]], and on a gold [[dredge]].<ref name="BioSketch">Jack Vance, Biographical Sketch (2000) in ''Jack Vance: critical appreciations and a bibliography'', British Library, 2000.</ref> Vance described this era as a time of personal change: “Over a span of four or five years, I developed from an impractical little intellectual into a rather reckless young man, competent at many skills and crafts, and determined to try every phase of life.”<ref name=Williams-wld-thkr/>
+
+He subsequently entered the [[University of California, Berkeley]], and over the next six years studied mining engineering, physics, journalism, and English. Vance wrote one of his first science fiction stories for an English class assignment: his professor commented in a scornful tone, "We also have a piece of science fiction"—Vance's first negative review.<ref name=VanceMuseum>{{cite web |first=David B. |last=Williams |title=Vance Museum - miscellany - Biographical sketch |publisher=massmedia.com  |url=http://www.vancemuseum.com/vance_bio_1.htm}}</ref>
+
+He worked as an electrician in the naval shipyards at [[Pearl Harbor]], Hawaii, being paid "56¢ an hour," and worked for a time as part of a [[degaussing]] crew. The [[attack on Pearl Harbor]] took place about a month after he resigned his employment there.<ref name=BioSketch/>
+
+Vance graduated in 1942.<ref name=Priest-2013-05-29-obit>{{cite news | last=Priest | first=Christopher | date=2013-05-29 | title=Jack Vance obituary | newspaper=[[The Guardian]] | url=https://www.theguardian.com/books/2013/may/30/jack-vance-dies-96-science-fiction}}</ref> Weak eyesight prevented military service. He found a job as a rigger at the [[Kaiser Shipyard]] in [[Richmond, California]], and enrolled in an Army Intelligence program to learn Japanese, but washed out. In 1943, he memorized an [[eye chart]] and became an able seaman in the [[United States Merchant Marine|Merchant Marine]].<ref name=VanceMuseum/> In later years, boating remained his favorite recreation; boats and voyages are a frequent motif in his work. He worked as a seaman, a rigger, a surveyor, a ceramicist, and a carpenter before he established himself fully as a writer, which did not occur until the 1970s.
+
+[[Image:Jack Vance Banjo Kazoo.jpg|thumb|left|200px|Jack Vance playing the jazz banjo and kazoo in 1979 in San Francisco]]
+From his youth, Vance had been fascinated by Dixieland and traditional [[jazz]]. He was an amateur of the cornet and ukulele, often accompanying himself with a kazoo, and was a competent harmonica player. His first published writings were jazz reviews for ''[[The Daily Californian]]'' (his college paper), and music is an element in many of his works.
+
+In 1946, Vance met and married Norma Genevieve Ingold (died March 25, 2008), another [[University of California, Berkeley|Cal]] student. Vance continued to live in [[Oakland, California|Oakland]], in a house he built and extended with his family over the years, including a hand-carved wooden ceiling from Kashmir. The Vances had extensive travels,<ref>{{Cite web|url=https://www.theguardian.com/books/2013/may/30/jack-vance-dies-96-science-fiction|title = Jack Vance obituary|date = 29 May 2013}}</ref> including one around-the-world voyage, and often spent several months at a time living in places like Ireland, [[Tahiti]], South Africa, [[Positano]] (in Italy) and on a houseboat on Lake Nagin in [[Kashmir]].
+
+Vance began trying to become a professional writer in the late 1940s, as part of the [[San Francisco Renaissance]], a movement of experimentation in literature and the arts. His first lucrative sale{{when|date=June 2012}} was one of the early [[Magnus Ridolph]] stories to [[Twentieth Century Fox]], who also hired him as a screenwriter for the ''[[Captain Video]]'' television series. The proceeds supported the Vances for a year's travel in Europe.<ref name="BioSketch"/> There are various references to the [[San Francisco Bay Area|Bay Area]] Bohemian life in his work. In the 1950s, Vance started a pottery and ceramics hobby, buying a kiln; this interest was an influence on his story "The Potters of Firsk” (1950).
+
+Science fiction authors [[Frank Herbert]] and [[Poul Anderson]] were among Vance's closest friends. In the early 1950s, when Frank Herbert was a reporter, he  interviewed Vance, and the men  became friends.  They moved to Mexico with their families to establish a "writer’s colony" at Lake Chapala, near [[Guadalajara]].<ref name=Williams-wld-thkr/>
+In 1962, Vance, [[Frank Herbert]] and [[Poul Anderson]] jointly built a [[houseboat]] which they sailed in the [[Sacramento Delta]]. The Vances and the Herberts lived together near [[Lake Chapala]], Mexico, for a while.<ref name=Vance-web-bio/><ref name=B-Herbert-2000/> Vance's interest in houseboats led him to depict them in “The Moon Moth” (1961), ''The Palace of Love'' (1967), and in  chapter&nbsp;2 of ''Wyst: Alastor 1716'' (1978).<ref name=Williams-wld-thkr/>
+
+In the early 1980s, Vance became increasingly interested in sailing, and he started building a 36&nbsp;foot [[trimaran]]. Later, he owned  ''Venture'' (a 17&nbsp;foot [[Cutter (boat)|cutter-rigged]] boat), ''Columbia'' (a 35&nbsp;foot [[ketch|ketch-rigged]] boat), and finally ''Hinano'' (a 45&nbsp;foot boat).<ref name=Williams-wld-thkr/> While Vance derived pleasure from his sailing hobby, his increasingly poor eyesight and the high costs of outfitting, berthing, and maintaining the vessel led him to sell the ''Hinano''.<ref name=Williams-wld-thkr/> Vance's failing eyesight also led him to cease his amateur [[jazz]] hobby.<ref name=Williams-wld-thkr/>
+
+Although legally blind since the 1980s,<ref name=Priest-2013-05-29-obit/> Vance continued to write with the aid of BigEd software, written especially for him by [[Kim Kokkonen]]. His final novel was ''[[Lurulu]]''. Although Vance had stated ''Lurulu'' would be his final book,<ref>Jack Vance, Preface in ''The Jack Vance Treasury'', Terry Dowling and Jonathan Strahan (editors), Subterranean Press, {{ISBN|1-59606-077-8}}</ref> he subsequently completed an autobiography, which was published in July 2009.<ref name=autobio>{{cite web |url=http://www.subterraneanpress.com/Merchant2/merchant.mv?Screen=PROD&Product_Code=vance05&Category_Code=PRE&Product_Count=26 |title=This is Me, Jack Vance! (preorder page) |publisher=[[Subterranean Press]] |url-status=dead |archive-url=https://web.archive.org/web/20110722132203/http://www.subterraneanpress.com/Merchant2/merchant.mv?Screen=PROD&Product_Code=vance05&Category_Code=PRE&Product_Count=26 |archive-date=2011-07-22 }}</ref>
+
+=== Death ===
+Vance died on the morning of May 26, 2013 at the age of 96 in his home in the Oakland Hills.<ref>{{cite web|first=Adi |last=Robertson |url=https://www.theverge.com/2013/5/29/4377152/prolific-science-fiction-and-fantasy-author-jack-vance-dies-at-96 |title=Prolific science fiction and fantasy author Jack Vance dies at 96 |website=The Verge |access-date=2013-05-30|date=2013-05-29 }}</ref><ref>{{cite web|url=http://foreverness.jackvance.com/ |title=Foreverness - Raise a Toast to Jack Vance! |publisher=Foreverness.jackvance.com |date=2013-05-26 |access-date=2013-05-30}}</ref> Vance's son John Holbrook Vance II described the cause as the complications of [[old age]], saying (then aged 96) "everything just finally caught up with him".<ref name=Trounson-2013-05-30/> Tributes to Vance were given by various authors, including [[George R. R. Martin]], [[Michael Moorcock]], [[Neil Gaiman]], and [[Elizabeth Bear]].<ref name="Guard-trib">{{Cite news | url=https://www.theguardian.com/books/2013/may/30/jack-vance-tributes-george-rr-martin | title=Jack Vance tributes pour in after his death | work=Guardian | date=2013-05-30 | access-date=2013-05-31 | author=Flood, Alison}}</ref> [[Steven Gould]], president of the [[Science Fiction Writers of America]], described Vance as "one of the greatest science fiction and fantasy writers of the 20th century".<ref name="Guard-trib"/> A memorial site set up by his family to post tributes received hundreds of messages in the days following his death.<ref name="Guard-trib"/><ref name="foreverness">{{cite web | url=http://foreverness.jackvance.com/ | title=Foreverness – Raise a Toast to Jack Vance | access-date=2013-05-31}}</ref>
+
+==Work==
+[[File:Cae-20-legendrekvater1975couverturegalaxiebis45.jpg|thumb|upright|French edition of ''The Many Worlds of Magnus Ridolph'', illustrating "The Kokod Warriors"]]
+
+Vance made his debut in print with "The World-Thinker", a 16-page story published by [[Sam Merwin]] in ''[[Thrilling Wonder Stories]]'', Summer 1945.<ref name=isfdb/> His lifetime output totals more than 60 books—perhaps almost 90.<ref name=sfhof-vance/> His work has been published in three categories: science fiction, fantasy and mystery. Among Vance's earliest published work was a set of fantasy stories written while he served in the [[United States Merchant Marine|merchant marine]] during the war. They appeared in 1950, several years after Vance had started publishing science fiction in the pulp magazines, under the title ''[[The Dying Earth]]''.<ref>Vance's original title, used for the Vance Integral Edition, is ''Mazirian the Magician''.</ref>
+
+Vance wrote many science fiction short stories in the late 1940s and through the 1950s, which were published in magazines. Of his novels written during this period, a few were science fiction, but most were mysteries. Few were published at the time, but Vance continued to write mysteries into the early 1970s. In total, he wrote 15 novels outside of science fiction and fantasy, including the extended outline, ''The Telephone was Ringing in the Dark'', published only by the VIE ([[Vance Integral Edition]]), and three books published under the [[Ellery Queen (house name)|Ellery Queen]] pseudonym.<ref>{{Cite news|url=https://www.thetimes.co.uk/article/jack-vance-gz7hktrdpjw|title=Jack Vance}}</ref>  Some of these are not mysteries, such as ''Bird Isle'', and many fit uneasily in the category. These stories are set in and around his native San Francisco, except for one set in Italy and another in Africa. Two begin in San Francisco but take to the sea.
+
+Many themes important to his more famous science fiction novels appeared first in the mysteries. The most obvious is the "book of dreams", which appears in ''[[Bad Ronald (novel)|Bad Ronald]]'' and ''The View from Chickweed's Window'', prior to being featured in ''[[The Book of Dreams (Vance novel)|The Book of Dreams]]''. The revenge theme is also more prominent in certain mysteries than in the science fiction (''The View from Chickweed's Window'' in particular). ''Bad Ronald'' was adapted to a TV film [[Bad Ronald|of the same name]] aired on [[American Broadcasting Company|ABC]] in 1974, as well as a French production (''Méchant garçon'') in 1992; this and ''Man in the Cage'' are the only works by Vance to be made into film to date.
+[[File:Galaxy 196208.jpg|thumb|right|Vance's Hugo Award-winning novella ''The Dragon Masters'' was the cover story on the August 1962 issue of ''[[Galaxy Science Fiction]]'']]
+
+Certain of the science fiction stories are also mysteries, penned using his full name John Holbrook Vance, three under the house [[pseudonym]] [[Ellery Queen (house name)|Ellery Queen]], and one each using the pseudonyms Alan Wade, Peter Held, John van See, and Jay Kavanse.<ref name=isfdb/><ref>{{cite web|url=http://www.integralarchive.org/biblio-3.htm |title=All Title Index |url-status=dead |archive-url=https://web.archive.org/web/20120222112433/http://www.integralarchive.org/biblio-3.htm |archive-date=2012-02-22 }}</ref> Some editions of his published works give his year of birth as 1920.In addition to the comic Magnus Ridolph stories, two major stories feature the effectuator Miro Hetzel, a futuristic detective, and ''Araminta Station'' is largely concerned with solving various murders. Vance returned to the "dying Earth" setting (a far distant future in which the sun is slowly going out, and magic and technology coexist) to write the [[picaresque]] adventures of the ne'er-do-well scoundrel [[Eyes of the Overworld|Cugel the Clever]], and those of the magician [[Rhialto the Marvellous]]. These books were written in 1963, 1978 and 1981. His other major fantasy work, ''Lyonesse'' (a trilogy comprising ''Suldrun's Garden'', ''[[The Green Pearl]]'', and ''Madouc''), was completed in 1989 and set on a mythological archipelago off the coast of France in the early [[Middle Ages]].
+
+Vance's stories written for pulps in the 1940s and 1950s covered many [[List of science fiction themes|science fiction themes]], with a tendency to emphasize mysterious and biological themes (ESP, genetics, brain parasites, body switching, other dimensions, cultures) rather than technical ones. Robots, for example, are almost entirely absent, though the short story "The Uninhibited Robot" features a computer gone awry. Many of the early stories are comic. By the 1960s, Vance had developed a futuristic setting that he came to call the [[Gaean Reach]], a fictional region of space settled by humans. Thereafter, all his science fiction was, more or less explicitly, set therein.<ref name=isfdb/> The Gaean Reach per se is loose and expanding. Each planet has its own history, state of development and culture. Within the Reach conditions tend to be peaceable and commerce tends to dominate. At the edges of the Reach, out in the lawless Beyond, conditions are usually less secure.
+
+Vance influenced many writers in the genre. Most notably, Michael Shea wrote a sequel to ''Eyes of the Overworld'', featuring Cugel the Clever, before Vance did one himself (called ''Cugel's Saga''). Vance gave permission, and the book by Shea went into print before Vance's. Shea's book, ''[[A Quest For Simbilis]]'', is entirely in keeping with the vision of Vance. Cugel is a complete rogue, who is nevertheless worthy of sympathy in always failing to achieve his goals.<ref>{{citation |chapter-url=https://books.google.com/books?id=vl6gLmUNFRYC&pg=PA115 |title=Discovering Modern Horror Fiction II |chapter=The Grim Imperative of Michael Shea |author=Arthur Jean Cox|isbn=9781587150081 |date=1988-12-01 }}</ref>
+
+=== Literary influences ===
+[[File:Amazing stories 196208.jpg|thumb|right|Vance's novella "Gateway to Strangeness" was the cover story in the August 1962 issue of ''[[Amazing Stories]]'', illustrated by [[Alex Schomburg]]. Under the title "Dust of Far Suns", it became the title piece in a Vance story collection in 1981]]
+When asked about literary influences, Vance most often cited [[Jeffery Farnol]], a writer of adventure books, whose style of "high" language he mentions (the Farnol title ''Guyfford of Weare'' being a typical instance); [[P. G. Wodehouse]], an influence apparent in Vance's taste for overbearing aunts; and [[L. Frank Baum]], whose fantasy elements were directly borrowed by Vance (see 'The Emerald City of Oz').<ref>articles in ''Cosmopolis''{{full citation needed |date=June 2012}}</ref> In the introduction to Dowling and Strahan's ''The Jack Vance Treasury'', Vance mentions that his childhood reading including [[Edgar Rice Burroughs]], [[Jules Verne]], [[Robert W. Chambers]], science fiction published by [[Edward Stratemeyer]], the magazines ''[[Weird Tales]]'' and ''[[Amazing Stories]]'', and [[Lord Dunsany]].<ref name="BioSketch"/> According to pulp editor Sam Merwin, Vance's earliest magazine submissions in the 1940s were heavily influenced by the style of [[James Branch Cabell]].<ref>Lin Carter, ''[[Imaginary Worlds – the Art of Fantasy|Imaginary Worlds: the Art of Fantasy]]'', New York: Ballantine Books, 1973, p. 151. SBN 345-03309-4-125. {{USD|1.25}}. {{ISBN|0-345-03309-4}}.</ref> Fantasy historian Lin Carter notes several probable lasting influences of Cabell on Vance's work, and suggests that the early "pseudo-Cabell" experiments bore fruit in ''The Dying Earth'' (1950).<ref>Carter, pp. 151–53.</ref>  SF critic Don Herron <ref>''Jack Vance'', ''Writers of the 21st Century'' series, New York: Taplinger, 1980, p. 87 ff.</ref> cites [[Clark Ashton Smith]] as an influence on Vance's style and characters' names.
+
+=== Characteristics and commentary ===
+Vance's science fiction runs the gamut from stories written for pulps in the 1940s to multi-volume tales set in the space age. Scott Bradfield states that Vance "wrote about incomprehensibly far-off futures that weren’t driven by the splashy intergalactic military conflicts of his Golden Age predecessors, such as E.E. Doc Smith or Robert A. Heinlein. Instead, Vance’s futures are marked by rich, panoramic socioeconomic systems."<ref>{{cite web |url=https://newrepublic.com/article/155978/science-fictions-wonderful-mistakes |title=Science Fiction's Wonderful Mistakes |last= Bradfield|first= Scott|date= |website=newrepublic.com |publisher=New Republic |access-date=15 November 2021 |quote=}}</ref> While Vance's stories have a wide variety of temporal settings, a majority of them belong to a period long after humanity has colonized other stars, culminating in the development of a fictional region of interstellar space called the [[Gaean Reach]]. In its early phase, exhibited by the Oikumene of the [[Demon Princes]] series, this expanding, loose and pacific agglomerate has an aura of colonial adventure, commerce and exoticism. Later it becomes peace-loving and stolidly middle class.
+
+Vance's stories are seldom concerned directly with war and the conflicts are rarely direct. If there are battles, such as in the slave revolt against the nobility at the end of ''[[The Last Castle (novella)|The Last Castle ]]'', they are depicted in an abbreviated length, as Vance is more interested in the social and political context than the clashing of swords. Sometimes at the edges of the Reach or in the lawless areas of Beyond, a planet is menaced or craftily exploited. Some more extensive battles are described in ''The Dragon Masters'', "The Miracle Workers", and the ''Lyonesse Trilogy'', in which medieval-style combat abounds. His characters usually become inadvertently enmeshed in low-intensity conflicts between alien cultures; this is the case in ''[[Emphyrio]]'', the [[Planet of Adventure|Tschai]] series, the Durdane series, or the comic stories in ''Galactic Effectuator'', featuring Miro Hetzel. Personal, cultural, social, or political conflicts are the central concerns. This is most particularly the case in the Cadwal series, though it is equally characteristic of the three Alastor books, ''[[Maske: Thaery]]'', and, one way or another, in most of his science fiction novels.
+
+Another way in which Vance expands the usually narrow focus of most speculative fiction writers are the extensive details ranging from the culture of language, to food, music, and rituals. In ''[[The Languages of Pao]]'', after a planet with a passive, lazy and backwards culture is invaded and occupied, the planet's leader orders three new languages developed, to make his people more aggressive, industrious and inventive. In the short story "[[The Moon Moth]]", natives must master a number of musical instruments in order to communicate with each other. Spoken words are modulated to acquire different meanings, or may be said to be given full meaning, (respect, derision or sarcasm) by means of the musical sounds. These fascinating details paint a far more detailed and complex picture of life and cultures in his books.
+
+The "Joe Bain" stories (''The Fox Valley Murders'', ''The Pleasant Grove Murders'', and an unfinished outline published by the VIE) are set in an imaginary northern California county; these are the nearest to the classical mystery form, with a rural policeman as protagonist. ''Bird Isle'', by contrast, is not a mystery at all, but a Wodehousian idyll (also set near San Francisco), while ''[[The Flesh Mask]]'' or ''Strange People&nbsp;...'' emphasize psychological drama. The theme of both ''[[The House on Lily Street]]'' and ''Bad Ronald'' is solipsistic megalomania, taken up again in the Demon Princes cycle of science fiction novels.
+
+Three books published under the [[Ellery Queen (house name)|house name Ellery Queen]] were written to editorial requirements and heavily revised by the publisher. (Volume 45 of The Vance Integral Edition contains the original text for the three Ellery Queen novels. Vance previously refused to acknowledge them for their degree of rewriting.) Four others reflect Vance's world travels: ''[[Strange People, Queer Notions]]'' based on his stay in Positano, Italy; ''The Man in the Cage'', based on a trip to Morocco; ''[[The Dark Ocean]]'', set on a merchant marine vessel; and ''[[The Deadly Isles]]'', based on a stay in [[Tahiti]].
+
+The mystery novels reveal much about Vance's evolution as a science fiction and fantasy writer. He stopped working in the mystery genre in the early 1970s, except for science-fiction mysteries; see below. ''Bad Ronald'' is especially noteworthy for its portrayal of a trial-run for [[Howard Alan Treesong]] of ''The Book of Dreams''. The Edgar-Award-winning ''The Man in the Cage'' is a thriller set in North Africa at around the period of the French-Algerian war. ''A Room to Die In'' is a classic 'locked-room' murder mystery featuring a strong-willed young woman as the amateur detective. ''Bird Isle'', a mystery set at a hotel on an island off the California coast, reflects Vance's taste for farce.
+
+Vance's two rural Northern California mysteries featuring [[Sheriff Joe Bain]] were well received by the critics. ''[[The New York Times]]'' said of ''The Fox Valley Murders'': "Mr. Vance has created the county with the same detailed and loving care with which, in the science fiction he writes as Jack Vance, he can create a believable alien planet." And [[Dorothy B. Hughes]], in ''[[The Los Angeles Times]]'', wrote that it was "fat with character and scene". As for the second Bain novel, ''The New York Times'' said: "I like regionalism in American detective stories, and I enjoy reading about the problems of a rural county sheriff ... and I bless John Holbrook Vance for the best job of satisfying these tastes with his wonderful tales of Sheriff Joe Bain&nbsp;...".
+
+Vance has also written mysteries set in his science fiction universes. An early 1950s short story series features Magnus Ridolph, an interstellar adventurer and amateur detective who is elderly and not prone to knocking anyone down, and whose exploits appear to have been inspired, in part, by those of [[Jack London]]'s South Seas adventurer, Captain David Grief. The "Galactic Effectuator" novelettes feature Miro Hetzel, a figure who resembles Ridolph in his blending of detecting and troubleshooting (the "effectuating" indicated by the title). A number of the other science fiction novels include mystery, spy thriller, or crime-novel elements: ''The Houses of Iszm'', ''Son of the Tree'', the Alastor books ''Trullion'' and ''Marune'', the Cadwal series, and large parts of the Demon Princes series.
+
+According to writer [[Michael Chabon]], "Jack Vance is the most painful case of all the writers I love who I feel don’t get the credit they deserve. If ‘The Last Castle’ or ‘The Dragon Masters’ had the name [[Italo Calvino]] on it, or just a foreign name, it would be received as a profound meditation, but because he's Jack Vance and published in [[Amazing Stories|Amazing Whatever]], there's this insurmountable barrier."<ref name="Rotella">{{cite web |url=https://www.nytimes.com/2009/07/19/magazine/19Vance-t.html |title=The Genre Artist |last=Rotella |first=Carlo |date=15 July 2009 |website=New York Times |access-date=8 March 2020 }}</ref> Vance fans developed a website called Totality (pharesm.org), which enables users to do electronic searches of the Vance Integral Edition texts.<ref name="Rotella"/>
+
+== Publication ==
+For most of his career, Vance's work suffered the vicissitudes common to most writers in his chosen field: ephemeral publication of stories in magazine form, short-lived softcover editions, in which stories sometimes were insensitively edited beyond his control. As he became more widely recognized, conditions improved, and his works became internationally renowned among aficionados. Much of his work has been translated into several languages, including Dutch, Esperanto, French, Spanish, Russian, and Italian.{{NoteTag|name=languages}} Beginning in the 1960s, Jack Vance's work has also been extensively translated into German. In the large German-language market, his books continue to be widely read.
+
+Vance was an original member of the [[Swordsmen and Sorcerers' Guild of America]] (SAGA), a loose-knit group of [[heroic fantasy]] authors founded in the 1960s and led by [[Lin Carter]]. Its purpose was to promote the [[sword and sorcery]] subgenre (such as Dying Earth stories by Vance), and some new works were published in ''[[Flashing Swords!]]'' anthologies edited by Carter, in both mass-market paperback and [[Doubleday (publisher)|Doubleday]] Science Fiction Book Club editions.<ref name=isfdb/><!-- for Vance, "Morreion" and "Bagful of Dreams" -->
+
+In 1976, the fantasy/sf small press [[Underwood-Miller]] released their first publication, the first hardcover edition of ''The Dying Earth'' in a high-quality limited edition of just over 1000 copies. Other titles in the "Dying Earth" cycle also received hardcover treatment from Underwood-Miller shortly thereafter, such as ''The Eyes of the Overworld'' and ''Cugel's Saga''. After these first publications and until the mid-1990s, Underwood-Miller published many of Vance's works, including his mystery fiction, often in limited editions featuring dustjacket artwork by leading fantasy artists. The entire Jack Vance output from Underwood-Miller comes close to a complete collection of Vance's previously published works, many of which had not seen hardcover publication. Also, many of these editions are described as "the author's preferred text", meaning that they have not been drastically edited. In the mid-1990s, Tim Underwood and Charles Miller parted company. However, they have continued to publish Vance titles individually, including such works as ''Emphyrio'' and ''[[To Live Forever (novel)|To Live Forever]]'' by Miller, and a reprint edition of ''The Eyes of the Overworld'' by Underwood. Because of the low print-run on many of these titles, often they could only be found in science fiction bookstores at the time of their release.
+
+=== The Vance Integral Edition ===
+An Integral Edition of all Vance's works was published in a limited edition of 44 hardback volumes. A special 45th volume contains the three novels Vance wrote as [[Ellery Queen (house name)|Ellery Queen]]. This edition was created from 1999 to 2006 by 300 volunteers working via the internet, under the aegis of the author.<ref>{{Citation
+| url = http://www.integralarchive.org/base3.htm
+| title = The Vance Integral Edition
+| archive-url = https://web.archive.org/web/20160520231910/http://www.integralarchive.org/base3.htm
+| archive-date = May 20, 2016
+}}</ref> The texts and titles used are those preferred by the author.{{citation needed|date=December 2014}}
+
+In 2010, Afton House Books presented ''The Complete Jack Vance'' {{ISBN|978-0-9825953-0-5}} in six large volumes using texts prepared by the Vance Integral Edition. In 2012, Spatterlight Press started offering [[Digital rights management|DRM]]-free [[e-book]]s editions of many of the works of Jack Vance, based on the source texts collected by the Integral Edition project. It is the intent of Spatterlight Press to publish the complete Integral Edition in e-book form, and also as print-on-demand paperbacks.<ref>{{Citation
+| url = https://www.jackvance.com/signatureseries/
+| title = The Spatterlight Press Signature Series
+| access-date = September 22, 2018
+}}</ref>   Gollancz use the VIE texts in their "SF Gateway" e-ditions starting in 2012.
+
+== List of works==
+{{Main list|List of works by Jack Vance}}
+
+==Works inspired by Vance==
+* ''[[A Quest for Simbilis]]'' by [[Michael Shea (author)|Michael Shea]] ([[DAW Books|DAW]], NY, 1974) (authorised sequel of the Cugel novel ''[[Eyes of the Overworld]]'' although Vance later wrote his own sequel [[Cugel's Saga|Cugel the Clever]]; Shea also wrote ''[[Nifft the Lean]]'' ([[DAW Books|DAW]], NY, 1982), and ''[[The Mines of Behemoth]]'' (1997) about a Cugel-like character; and ''[[In Yana, the Touch of Undying]]'' ([[DAW Books|DAW]], NY, 1985) which is also Vancian. ''A Quest for Simbilis'' was reprinted in 2020 by Spatterlight Press under the "Paladins of Vance" label.).
+* The ''Archonate'' series by [[Matt Hughes (writer)|Matthew Hughes]] (beginning with ''Fools Errant'' (Aspect Books, 2001)) is set in a Vancean universe which at long intervals changes between running on science and rational cause-and-effect to magic and sympathetic association, with cataclysmic effects for its inhabitants. Stories set before this change, including the Henghis Hapthorn and Luff Imbry series take place in a futuristic space opera setting reminiscent of Vance's Gaean Reach while those set after, including the Raffalon and Baldemar series are in the Dying Earth subgenre. Hughes also published an authorised sequel to the ''Demon Princes'' series with Spatterlight Press under the "Paladins of Vance" label; titled ''Barbarians of the Beyond'', the book was released in summer 2021. 
+* ''Phaedra: Alastor 824'' by [[Tais Teng]] (Spatterlight Press, 2019) (authorised [[Alastor Cluster]] novel under the "Paladins of Vance" label.)
+* ''[[Dinosaur Park (novel)|Dinosaur Park]]'' by [[Hayford Peirce]] ([[Tor Books|Tor]], NY, 1994).
+* ''Fane'' by [[David M. Alexander]] (longtime Vance friend). ([[Pocket Books]], NY, 1981).
+* ''The Pharaoh Contract'' (Bantam, 1991), ''Emperor of Everything'' (Bantam, 1991), ''Orpheus Machine'' (Bantam, 1992) by [[Ray Aldridge]].
+* [[Gene Wolfe]] has acknowledged that ''The Dying Earth'' influenced his ''[[The Book of the New Sun]]''.<ref>[http://home.austin.rr.com/lperson/wolfe.html Suns New, Long, and Short: An Interview with Gene Wolfe] {{webarchive|url=https://web.archive.org/web/20060716072544/http://home.austin.rr.com/lperson/wolfe.html |date=2006-07-16 }} by Lawrence Person, ''Nova Express Online'', 1998</ref>
+* Dan Simmons's [[Hyperion Cantos]] has many echoes of Vance, explicitly acknowledged in one of the later books.
+* ''[[The Golden Age (John C. Wright novel)|The Golden Age]]'' by [[John C. Wright (author)|John C. Wright]] has some similarities to Jack Vance's works, including an ornamented language, and a baroque and sterile culture toppled by a lone individualist.
+* ''The Arbiter Tales'' (1995–1956), three novels by L. Warren Douglas, were strongly influenced by Vance’s [[Alastor Cluster]] stories. (Douglas’s first novel, ''A Plague of Change'' (1992), is dedicated to Jack Vance.<ref name=Douglas-website/>)
+* ''The Dog of the North'' (2008), a fantasy by Tim Stretton, is strongly influenced by Vance, as noted in the acknowledgements.  He outlines his debt to Vance on his blog.<ref name=Stretton-2008/>
+* ''[[Songs of the Dying Earth]]'' (2009), a tribute anthology to Jack Vance's seminal ''Dying Earth'' series,<ref>[http://www.subterraneanpress.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=SP&Product_Code=martin07 "Songs of the Dying Earth"] {{webarchive |url=https://web.archive.org/web/20090621102248/http://www.subterraneanpress.com/Merchant2/merchant.mv?Screen=PROD&Store_Code=SP&Product_Code=martin07 |date=June 21, 2009 }}. Promotion in advance of publication. [[Subterranean Press]].</ref> edited by [[George R. R. Martin]] and [[Gardner Dozois]], both avid Vance fans.
+* The ''[[Dungeons & Dragons]]'' [[role-playing game]] and associated literature used a magic system inspired in part by Jack Vance's ''Dying Earth'' series, notably the fact that magic users in the game forget spells they have learned immediately upon casting them, and must re-study them in order to cast them again.<ref name=Gygax-2001/><ref>{{cite web|url=http://www.wizards.com/default.asp?x=dnd/4ex/20071009a |title=Birth of a Rule |access-date=October 9, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20090602003701/http://www.wizards.com/default.asp?x=dnd%2F4ex%2F20071009a |archive-date=June 2, 2009 }}, article from the D&D website</ref> ''The Dying Earth'' and ''The Eyes of the Overworld'' are featured in the "Appendix E: Inspirational Reading" section of the [[Editions of Dungeons & Dragons#Dungeons & Dragons 1st edition|1st edition]] of the Dungeon Masters Guide and the [[Editions of Dungeons & Dragons#Dungeons & Dragons 5th edition|5th edition]] of the Player's Handbook.<ref>Mearls, Mike, and Jeremy Crawford. "Appendix E: Inspirational Reading." Dungeons & Dragons Player's Handbook. 5th ed. Renton, WA: Wizards of the Coast, 2014. 312. Print.</ref>
+* Other role-playing games include: ''Lyonesse'', ''[[The Dying Earth Roleplaying Game|Dying Earth]]'', and ''Talislanta'' (originally designed by [[Stephen Michael Sechi]]).
+* ''[[A Song of Ice and Fire]]'' by [[George R.R. Martin]].<ref>{{cite web|url=http://grrm.livejournal.com/324891.html |title=A Sad Day for SF |access-date=2013-07-08 |url-status=dead |archive-url=https://web.archive.org/web/20130715204602/http://grrm.livejournal.com/324891.html |archive-date=2013-07-15 |date=2013-05-29 }}</ref> In the series, Martin includes a minor character, "Lord Vance of Wayfarer's Rest". In further reference to Jack Vance, the character's daughters are named Liane, Rhialta, and Emphyria for Liane the Wayfarer, Rhialto the Marvellous, and Emphyrio, respectively.
+* ''Intergalactic Words: Articles for Consideration'' (2011), a series of articles by Joseph Wykel, is strongly influenced by Vance.  Particularly the article ''Solo Ball Future'' about the dying sun.<ref>{{cite web|url=https://www.amazon.com/Intergalactic-Words-Consideration-Joseph-Wykel-ebook/dp/B07KSJBSPG  |title=Intergalactic Words: Articles for Consideration by Joseph Wykel}}</ref>
+
+==See also==
+{{Portal bar |Speculative fiction |San Francisco }} <!-- delete "bar" if/when there are enough ordinary See also -->
+
+== Notes ==
+{{NoteFoot
+|notes =
+{{NoteTag|[[WorldCat]]<!-- footer link--> participating libraries report holding some editions of books by Vance in 14 languages other than English — perhaps all or most of his books in French, Dutch, Spanish, and German.|name=languages}}
+}}
+
+== References ==
+{{reflist|25em|refs=
+
+<ref name=B-Herbert-2000>
+{{cite book
+ |last=Herbert |first=Brian
+ |year=2000
+ |title=Dreamer of Dune: The biography of Frank Herbert
+ |publisher=Tor Books
+ |isbn=9780765306470
+ |location=New York, NY
+ |page=54
+}}
+</ref>
+
+<ref name=Douglas-website>
+{{cite web
+ |author=Douglas, L. Warren 
+ |url=http://www.iserv.net/~ldouglas/index.html
+ |title=Douglas's personal website
+ |website=iserv.net/~ldouglas
+}}{{page needed|date=May 2012}}{{citation needed|date=May 2012|reason=first, the footnote gives the main page, not one related to the book in question; second, the page for the named novel (like that main page) does not land on "Vance"}}
+</ref>
+
+<ref name=Gygax-2001>
+{{cite web
+ |last1=Gygax |first1=Gary
+ |title=Jack Vance & the D&D Game
+ |website=Dying Earth (roleplaying game)
+ |type=promotional site
+ |publisher=Pelgrane Press
+ |url=http://www.dyingearth.com/files/gary%20gygax%20jack%20vance.pdf
+ |access-date=23 May 2015  |url-status=dead
+ |archive-url=https://web.archive.org/web/20150610173333/http://www.dyingearth.com/files/gary%20gygax%20jack%20vance.pdf
+ |archive-date=10 June 2015
+}}
+</ref>
+
+<ref name=isfdb-series>
+[http://www.isfdb.org/cgi-bin/pe.cgi?281 "Dying Earth – Series Bibliography"].
+ISFDB.
+Retrieved 2013-04-05
+</ref>
+
+<ref name=sfhof-vance>
+{{sfhof |960 |Jack Vance}} <!-- template links to SF Hall of Fame, new site -->
+Retrieved 2012-05-21
+</ref>
+
+<ref name=Stretton-2008>
+blog posts by Tim Stretton – 
+[http://timstretton.blogspot.com/2008/11/why-i-write-guardian-has-interesting.html Why I Write]
+and
+[http://timstretton.blogspot.com/2009/01/choosing-what-to-write-im-never-averse.html Choosing what to write]
+</ref>
+
+<ref name=Williams-wld-thkr>
+Williams, David B.
+''The World-Thinker: A biographical sketch and literary assessment of Jack Vance''{{full citation needed|date=July 2021}}
+</ref>
+
+<!-- some awards refs -->
+
+<ref name=SFAwards>
+{{cite web
+ |title=Vance, Jack
+ |series=The Locus index to SF awards: Index to literary nominees
+ |website=[[Locus (magazine)|LocusMag]]
+ |publisher=[[Locus (magazine)|Locus]] / [[Locus Publications]]
+ |url=http://www.locusmag.com/SFAwards/Db/NomLit141.html#5342
+ |access-date=2012-05-21 
+ |archive-url = https://web.archive.org/web/20120531092405/http://www.locusmag.com/SFAwards/Db/NomLit141.html
+ |archive-date=2012-05-31
+}}
+</ref>
+
+<ref name=SFWA>
+{{cite web
+ |title=Damon Knight Memorial Grand Master
+ |series=[[Nebula Award]]s / Nebula weekend
+ |publisher=Science Fiction and Fantasy Writers of America (SFWA)
+ |url=http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/
+ |access-date=2013-03-26  |url-status=  
+ |archive-url = https://web.archive.org/web/20130308182313/http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/
+ |archive-date=2013-03-08 
+}}
+</ref>
+
+<ref name=sfhof-old>
+{{cite web
+ |title=Science Fiction and Fantasy Hall of Fame
+ |publisher=Mid-American Science Fiction and Fantasy Conventions, Inc.
+ |url=http://www.midamericon.org/halloffame/
+ |access-date=2013-03-26 |url-status=dead <!-- presumed -->
+ |archive-url=https://web.archive.org/web/20130521070009/http://www.midamericon.org/halloffame/
+ |archive-date=May 21, 2013
+}} — This was the official website of the hall of fame up to 2004 
+</ref>
+
+<ref name=Trounson-2013-05-30>
+{{cite web
+ |first=Rebecca |last=Trounson
+ |date=2013-05-30
+ |title= Jack Vance dies at 96; prolific, award-winning author
+ |newspaper=[[The Los Angeles Times]]
+ |type=obituary
+ |url=http://www.latimes.com/news/obituaries/la-me-jack-vance-20130531,0,3391800.story
+ |access-date=2013-05-30
+}}
+</ref>
+
+}} <!-- end "refs=" -->
+
+== Sources ==
+{{refbegin}}
+
+* Tim Underwood and Chuck Miller [eds.] (1980) ''Jack Vance'', [Writers of the 21st Century Series], New York, NY: [publisher missing]
+* Jack Rawlins (1986) ''Demon Prince: The Dissonant Worlds of Jack Vance'', [Milford Series Popular Writers of Today, vol&nbsp;40], San Bernardino, CA: [publisher missing]
+* Dan Temianka ed. (1992) ''The Jack Vance Lexicon: From Ahulph to Zipangote'', Novato, CA & Lancaster, PA: [publisher missing]
+* Jerry Hewett and Daryl F. Mallett (1994) ''The Work of Jack Vance: An Annotated Bibliography & Guide'', [Bibliographies of Modern Authors, nr.&nbsp;29], San Bernardino, CA, Penn Valley, CA, & Lancaster, PA: Borgo Press
+* A.E. Cunningham, ed. (2000) ''Jack Vance: Critical appreciations and a bibliography'', Boston Spa, UK: The British Library
+* Michael Andre-Driussi (1997) ''Vance Space: A Rough Guide to the Planets of Alastor Cluster, the Gaean Reach, the Oikumene, & other exotic sectors from the Science Fiction of Jack Vance'', San Francisco: Sirius Fiction
+* David G. Mead (2002) ''An Encyclopedia of Jack Vance: 20th Century Science Fiction Writer'' [Studies in American Literature, vol&nbsp;50], Lewiston, New York: Edwin Mellen Press
+* {{cite book
+ | last1=Levack    | first1=Daniel J.H.
+ | last2=Underwood | first2=Tim
+ | year=1978 
+ | title=Fantasms
+ | location=San Francisco
+ |publisher=Underwood/Miller
+}}
+
+* {{cite web
+ | last = Contento | first = William G.
+ | year = 2008
+ | title = Index to Science Fiction Anthologies and Collections
+ | edition = combined
+ | url = http://www.philsp.com/homeville/ISFAC/b30.htm#A783
+ | access-date = 2008-02-10
+}}
+
+* {{cite web
+ | last1 = Brown    | first1 = Charles N.  | author1-link = Charles N. Brown
+ | last2 = Contento | first2 = William G.
+ | title = The Locus Index to Science Fiction (1984-1998)
+ | publisher = [[Locus Publications]]
+ | website = [[Locus (magazine)|LocusMag]]
+ | url = http://www.locusmag.com/index/b482.htm#A7077
+ | access-date = 2008-02-10
+}}
+{{refend}}
+
+== External links ==
+{{wikiquote}}
+* {{Official website|http://www.jackvance.com/}}
+* {{sfhof |960 |Jack Vance}}
+
+;Bibliography and works by Vance
+* {{isfdb name|id=136}}
+* {{imdb name|0888533|John Holbrook Vance}}
+* {{cite web
+ |title=Totality online
+ |website=pharesm.org
+ |url=http://www.pharesm.org/
+}} — Vance vocabulary search tool
+* {{cite web
+ |title=Foreverness
+ |website=vanderveeke.net
+ |url=http://www.vanderveeke.net/foreverness/index.htm
+}} — Bibliographic information, 11&nbsp;first chapters from selected books, information about the ''Vance Integral Edition'', archive of ''Cosmopolis'' and ''Extant'', with interviews, accounts of encounters with Vance, and essays
+* {{cite AV media
+ |url=https://archive.org/download/OTRR_Dimension_X_Singles/Dimension_X_1950-07-28__17_PottersOfFirsk.mp3
+ |medium=audio
+ |title=The Potters of Firsk
+ |series=Dimension X
+ |publisher=[[National Broadcasting Corporation]] (NBC)
+ |department=[[NBC Radio]]
+ |year=1950
+}}
+* {{IBList
+ |name=Jack Vance
+ |type=author
+ |id=653
+}}
+* {{cite web
+ |title=Jack Vance
+ |website=Fantasy Literature
+ |url=http://www.fantasyliterature.com/vancejack.html
+}}
+* {{Gutenberg author
+ |name=Jack Vance
+ |id=Vance,+Jack
+}}
+* {{Internet Archive author
+ |sname=Jack Vance
+}}
+* {{Librivox author
+ |id=8732
+}} {{Librivox author
+ |id=8893
+}}<!--Same person has multiple IDs at LV-->
+* {{LCAuth | n79021250 | Jack Vance | 101 | }}
+
+{{Jack Vance}}
+{{World Fantasy Award Life Achievement}}{{Damon Knight Memorial Grand Master Awards}}{{Authority control}}
+
+{{DEFAULTSORT:Vance, John Holbrook}}
+[[Category:1916 births]]
+[[Category:2013 deaths]]
+[[Category:American fantasy writers]]
+[[Category:American mystery writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American science fiction writers]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Nebula Award winners]]
+[[Category:SFWA Grand Masters]]
+[[Category:Edgar Award winners]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Writers from the San Francisco Bay Area]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:American male novelists]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:Weird fiction writers]]
+[[Category:Pulp fiction writers]]
+[[Category:United States Merchant Mariners of World War II]]

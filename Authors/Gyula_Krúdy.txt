@@ -1,0 +1,58 @@
+{{eastern name order|Krúdy Gyula}}
+{{expand Hungarian|date=August 2018}}
+{{Infobox person
+|name = Gyula Krúdy 
+|image = Krúdy by Ferenc Márton - Petőfi Literary Museum.jpeg
+|image_size = 200px
+|caption = Drawing by {{ill|Ferenc Márton|hu|Márton Ferenc (festő)}}
+|birth_date = {{birth date|1878|10|21|df=yes}}
+|birth_place = [[Nyíregyháza]], [[Austria-Hungary]]
+|death_date = {{death date and age|1933|5|12|1878|10|21|df=yes}}
+|death_place = [[Óbuda]], [[Hungary]]
+|nationality = [[Hungary|Hungarian]] 
+|occupation = Writer, journalist
+}}
+
+'''Gyula Krúdy''' (21 October 1878 &ndash; 12 May 1933) was a [[Hungarian people|Hungarian]] writer and journalist.
+
+==Biography==
+{{unsourced|section|date=November 2016}}
+Gyula Krúdy was born in [[Nyíregyháza]], [[Austria-Hungary]]. His father was a lawyer and his mother was a maid working for the Krúdy family. His parents did not marry until Gyula was 17 years old. In his teens, Krúdy published newspaper pieces and began writing short stories. Although his father wanted him to become a lawyer, Krúdy worked as an editor at provincial newspapers (Debrecen, Nagyvárad) for several years, then moved to Budapest in 1896. He was disinherited, but supported his wife (also a writer) and three children through the publication of short stories, along with novels that were almost always serialized in daily papers and periodicals.
+
+''Sinbad's Youth'', published in 1911, proved a success, and Krúdy used the character, a man who shared the name of the [[Sinbad the Sailor|hero]] of the ''[[One Thousand and One Nights|Arabian Nights]]'', many times throughout his career. Another alter ego, Kazmer Rezeda, is the hero of half a dozen novels, including ''The Crimson Coach'' (1913), English translation by Paul Tabori published in 1965. Krúdy's last collection of stories, ''Life Is a Dream'', has also appeared in English translation by John Batki(Penguin Books, 2010).
+
+Krúdy's novels about Budapest were popular during the [[First World War]] but afterward he was often broke due to difficulties in getting his works published, exacerbated by excessive drinking and smoking. His first marriage fell apart. His second marriage produced one daughter, Zsuzsa, who later edited several volumes of her father's work. In the late 1920s and early 1930s, his health declined and his readership dwindled. 
+
+In the years after his death, his works were largely forgotten until 1940, when Hungarian novelist [[Sándor Márai]] published ''Sinbad Comes Home'', a fictionalized account of Krúdy's last days. This book's success brought Krúdy's works back to the Hungarian public. The edition of his collected works published by Szépirodalmi (Budapest, 1978–89) ran to twenty volumes. There is a permanent exhibit on Krúdy's life at the [[Hungarian Museum of Commerce and Tourism]], which is located in a building in [[Óbuda]] in which he lived for the last three years of his life.
+
+==Select bibliography==
+===Translated into English===
+* ''Sunflower'' (1918, published in English in 2007), Hungarian title: ''Napraforgó'' {{ISBN|1-59017-186-1}}
+* ''The Adventures of Sinbad'' (1911, published in English in 1998 by [[Central European University Press]]), Hungarian title: ''Szindbád ifjúsága és utazásai'' {{ISBN|978-963-9116-12-2}}
+* ''The Crimson Coach'' (1913, published in English translation by P. Tabori in 1967) Hungarian title: ''A vörös postakocsi''
+* ''Krudy's Chronicles'' (selections of Krúdy's journalism, translated by John Batki, published in English in 2000 by [[Central European University Press]]) {{ISBN|978-963-9116-78-8}}
+* ''Ladies Day'' (1919, published in English in 2007), Hungarian title: ''Asszonyságok díja''    {{ISBN|978-963-13-5549-9}}
+* ''Life Is a Dream'' : Ten Stories (1931, English translation by John Bátki, Penguin Books, 2010), Hungarian title: ''Az élet álom'' {{ISBN|9780141193038}}
+* ''The Charmed Life of Kázmér Rezeda: A Novel of Budapest in the Good Old Days'' (1933, English translation by John Bátki, Corvina Books, Budapest, 2011), Hungarian title: ''Rezeda Kázmér szép élete'' {{ISBN|978-963-13-6039-4}}
+* ''Knight of the Cordon Bleu'' (1931, English translation by John Bátki, Corvina Books, Budapest, 2013), Hungarian title: ''A Kékszalag hőse'' {{ISBN|9789631361261}}
+* ''Blessed Days of my Youth'' (1930, English translation by John Bátki, Corvina Books, Budapest, 2016), Hungarian title: ''Boldogult úrfikoromban'' {{ISBN|9789631363760}}
+* ''The Knight of Dreams. The Journeys of Sindbad and Other Stories'' (selections of Krúdy's stories, translated by Eszter Molnár, Noran Books, Budapest, 1999) {{ISBN|9639048526}}
+
+==External links==
+* [http://www.nybooks.com/books/imprints/classics/sunflower Biodata], nybooks.com; accessed 6 November 2016. 
+* {{Gutenberg author|id=Krúdy,+Gyula|name=Gyula Krúdy}}
+* {{Internet Archive author|sname=Gyula Krúdy}} 
+
+{{Authority control}}
+
+{{DEFAULTSORT:Krudy, Gyula}}
+[[Category:1878 births]]
+[[Category:1933 deaths]]
+[[Category:People from Nyíregyháza]]
+[[Category:Hungarian journalists]]
+[[Category:Hungarian male novelists]]
+[[Category:Burials at Kerepesi Cemetery]]
+[[Category:Disease-related deaths in Hungary]]
+[[Category:20th-century Hungarian novelists]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Hungarian short story writers]]

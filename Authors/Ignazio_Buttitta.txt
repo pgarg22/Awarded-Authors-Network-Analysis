@@ -1,0 +1,133 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Ignazio Buttitta
+| image = Ignazio-buttitta-1986.jpg
+| caption = Ignazio Buttitta in 1986
+| birth_date = {{Birth date|1899|09|19|df=y}}
+| birth_place = [[Bagheria]], Italy
+| death_date = {{death date and age|1997|04|05|1899|09|19|df=y}}
+| death_place = 
+| resting_place = 
+| occupation = Poet
+| movement = 
+}}
+'''Ignazio Buttitta''' (19 September 1899 – 5 April 1997) was an [[Italy|Italian]] [[poet]] who wrote predominantly in [[Sicilian language|Sicilian]].
+
+==Biography==
+Born at [[Bagheria]], [[Italy]] into a merchant's family, after having taken part in [[World War I]] Buttitta joined the [[Italian Socialist Party]] and around this time started to write poetry in [[Sicilian language|Sicilian]].  His first volume of poetry published was ''Sintimintali'' (Sentimental), followed in 1928 by ''Marabedda''. Soon after, Buttitta relocated to [[Milan]], where he achieved some success in the commercial world while continuing to pursue his passion for literature. Due to his political leanings, he had to leave Milan during [[World War II]]; after which he joined the [[World War II#Resistance|Resistance]], was jailed by the fascists, and narrowly avoided the [[death penalty]], before returning to Milan, where he spent time with Sicilian intellectuals such as [[Elio Vittorini]], [[Salvatore Quasimodo]] and [[Renato Guttuso]]. In 1954 he published his new book of poetry, ''Lu pani si chiama pani'' (The bread is called bread), financed by the [[Italian Communist Party]]. In this volume he defined himself as ''Pueta e latru'' (Poet and thief), an allusion to the manner in which he would pass among the people like a thief, appropriating their feelings, leaving behind a sentimental thread. This was especially the case in relation to his nostalgia for his homeland, but there are also more socially-oriented themes, in particular, protests against the social situation of Italy and Sicily, such as ''A stragi di Purtedda'' (1947, about [[Salvatore Giuliano]] and the [[Portella della Ginestra massacre]]), and ''Lamentu per la morte di Turiddu Carnevale'' (1956, about [[Salvatore Carnevale]] - a Sicilian [[trade union]]ist from Sciara who was killed by [[Sicilian Mafia|the Mafia]] on 16 May 1955 - and his mother [[Francesca Serio]]).
+
+In 1964 [[cantastorie]] and folk singer-songwriter [[Otello Profazio]] set to music several Buttitta's poems in the album ''Il treno del sole'' (also known as ''Profazio Canta Buttitta'').<ref name=Deregibus>{{cite book|last=Enrico Deregibus|title=Dizionario completo della Canzone Italiana|publisher=Giunti Editore, 2010|isbn=8809756258}}</ref> In 1972 Buttitta won the [[Viareggio Prize]], for the volume ''Io faccio il poeta'' (I am a poet). His works have been translated into [[French language|French]], [[Russian language|Russian]] and [[Greek language|Greek]].
+
+Buttitta, during his career as a poet, has never hidden his pride in being Sicilian, and his love for the language of the island. In one of his most famous poems, ''Lingua e dialettu'' (Language and dialect), he explicitly talks about language as a key issue for his people, and implores his fellows Sicilians to preserve their language:
+{{Verse translation|
+{{lang|it|Un populu
+diventa poviru e servu
+quannu ci arrubbanu a lingua
+addutata di patri:
+è persu pi sempri.}}
+|
+A people
+becomes poor and servile
+when their language is stolen from them
+inherited from their forefathers:
+it is lost forever.}}
+
+A contemporary Berlin-based Sicilian folk singer, [[Etta Scollo]], celebrates the work of Sicilian folk singer and Buttitta associate, [[Rosa Balistreri]], including rendering a version of Buttitta's  ''The Pirates of Palermo'':
+{{Verse translation|lang=it|
+Arrivaru li navi
+Tanti navi a Palermu
+Li pirati sbarcaru
+Cu li facci d’infernu
+
+N’arrubbaru lu suli, lu suli
+Arristamu a lu scuru,
+chi scuru
+Sicilia chianci!
+
+Tuttu l’oru a l’aranci
+Li pirati arrubbaru
+Li campagni spugghiati
+Cu la negghia lassaru
+
+N’arrubbaru lu suli, lu suli
+Arristamu a lu scuru,
+chi scuru
+Sicilia chianci!
+
+Li culura dû mari
+N’arrubbaru chi dannu
+Su ‘mpazzuti li pisci
+Chi lamentu ca fannu
+
+N’arrubbaru lu suli, lu suli
+Arristamu a lu scuru,
+chi scuru
+Sicilia chianci!
+
+A li fìmmini nostri
+Ci scipparu di l’occhi
+La lustrura e lu focu
+Ca addumava li specchi
+
+N’arrubbaru lu suli, lu suli
+Arristamu a lu scuru,
+chi scuru
+Sicilia chianci!
+|
+The ships arrive
+So many ships at Palermo
+The pirates come ashore
+With infernal faces
+
+They steal from us the sun, the sun
+We are left in darkness
+what a darkness
+Sicily weeps!
+
+All the gold of the oranges
+The pirates steal away
+Their rapacious campaigns
+In the fog they create
+
+They steal from us the sun, the sun
+We are left in darkness
+what a darkness
+Sicily weeps!
+
+The colours of the sea
+They steal those from us, an outrage!
+The fish are so crazed
+As to lament their existence
+
+They steal from us the sun, the sun
+We are left in darkness
+what a darkness
+Sicily weeps!
+
+From our women's eyes
+They tear out
+The splendor and fire
+Which lit up mirrors
+
+They steal from us the sun, the sun
+We are left in darkness
+what a darkness
+Sicily weeps!}}
+
+==References==
+{{Reflist}}
+
+
+
+{{Mondello Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Buttitta, Ignazio}}
+[[Category:1899 births]]
+[[Category:1997 deaths]]
+[[Category:Italian male poets]]
+[[Category:Italian resistance movement members]]
+[[Category:People from Bagheria]]
+[[Category:Writers from the Province of Palermo]]
+[[Category:20th-century Italian poets]]
+[[Category:Sicilian-language poets]]
+[[Category:20th-century Italian male writers]]

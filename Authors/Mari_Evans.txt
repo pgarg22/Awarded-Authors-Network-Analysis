@@ -1,0 +1,161 @@
+{{Infobox person
+| name                      = Mari Evans<!-- include middle initial, if not specified in birth_name -->
+| image                     = <!-- just the name, without the File: or Image: prefix or enclosing [[brackets]] -->
+| image_size                =
+| alt                       =
+| caption                   =
+| birth_name                =
+| birth_date                = {{birth date|1923|07|16|mf=yes}}<ref name=Kovacik/><ref name=Birthdate/>
+| birth_place               = [[Toledo, Ohio]]
+| death_date                = {{death date and given age|2017|03|10|97|mf=yes}}
+| death_place               = [[Indianapolis, Indiana]]
+| resting_place             =
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| nationality               =
+| citizenship               =
+| education                 =
+| alma_mater                =
+| occupation                = {{flatlist|
+* Writer
+* poet
+* teacher
+}}
+| years_active              =
+| known_for                 =
+| notable_works             =
+| television                =
+| movement                  = [[Black Arts Movement]]
+| boards                    =
+| religion                  = <!-- Religion should be supported with a citation from a reliable source -->
+| denomination              = <!-- Denomination should be supported with a citation from a reliable source -->
+| spouse                    =
+| children                  =
+| parents                   =
+| awards                    =
+| signature                 =
+| signature_alt             =
+| signature_size            =
+| website                   = <!-- {{URL|Example.com}} -->
+| footnotes                 = 
+}}
+
+'''Mari Evans''' (July 16, 1919<ref name=Kovacik>{{cite web| author=Kovacik, Karen| title =Mari Evans at 90 | work =No More Corn | date =July 16, 2013 | url =http://karenkovacik.wordpress.com/2013/07/16/mari-evans-at-90/ | accessdate =April 18, 2019 }}</ref> – March 10, 2017)<ref>{{cite web| author=Davis, Victoria T.| title =Poet, activist Mari Evans dies at age 93 | publisher =RTV6 | date =March 12, 2017 | url =http://www.theindychannel.com/news/local-news/poet-activist-mari-evans-dies-at-age-93 | accessdate =April 19, 2019}}</ref> was an [[African-American]] poet, writer, and dramatist<ref name="Oxford University Press">{{Cite book|title=The Concise Oxford Companion to African American Literature|date=2001|publisher=Oxford University Press |editor=Andrews, William L. |editor2=Foster, Frances Smith |editor3=Harris, Trudier|isbn=9780199916498|location=New York|oclc=49346948}}</ref> associated with the [[Black Arts Movement]].<ref name="worldcat.org">{{Cite book|title=The Norton Anthology of African American Literature |year=2014 |editor=Gates, Henry Louis Jr |editor2=Smith, Valerie |isbn=9780393923698|edition=Third|location=New York|oclc=866563833}}</ref> Evans received grants and awards including a lifetime achievement award from the Indianapolis Public Library Foundation. Her poetry is known for its lyrical simplicity and the directness of its themes.<ref name="worldcat.org"/> She also wrote nonfiction and edited ''Black Women Writers (1950–1980): A Critical Evaluation'' ([[Doubleday (publisher)|Doubleday]], 1984), an important and timely<ref name="worldcat.org"/> critical anthology devoted to the work of fifteen writers. Evans died at the age of ninety-seven in [[Indianapolis, Indiana]].<ref name=Age>Several sources reported at the time of Evans's death that she was ninety-three years old; however, her nephew, Chris Phemster, who spoke at her funeral said this was incorrect, she was actually ninety-seven; her birth year was 1919, not 1923. See: {{cite news| author=Higgins, Will | title =Remembering Mari Evans' intense, unblinking life | newspaper =The Indianapolis Star | location =Indianapolis, Indiana | publisher =IndyStar.com | date =March 20, 2017 | url =https://www.indystar.com/story/news/2017/03/20/remembering-mari-evans-intense-unblinking-life/99203978/ | accessdate =April 19, 2019}} Among those who incorrectly reported her age at the time of her death: {{cite web|last1=Adams|first1=Dwight|title=Late Indianapolis Poet Mari Evans Leaves Legacy of Social Justice |url=http://www.indystar.com/story/news/2017/03/11/famed-indianapolis-poet-mari-evans-leaves-legacy-social-justice/99055190/|work=Indianapolis Star|accessdate=March 11, 2017}}</ref>
+
+==Early life and education==
+Evans was born in [[Toledo, Ohio]], on July 16, 1919, to Mary Jane Jacobs and William Reed Evans.<ref name=Birthdate>Some sources incorrectly report that the year of Evans's birth was 1923. See, for example, {{cite web| title =Mari Evans | work =Writing Her Story | publisher =Indiana Commission for Women | url =https://www.in.gov/icw/files/20170331%20Evans,%20Mari.pdf | accessdate =April 17, 2019}} Also: {{cite web|title =Mari Evans, a writer and a teacher | publisher =African American Registry | url =https://aaregistry.org/story/mari-evans-a-writer-and-a-teacher/ | accessdate =April 19, 2019}} Also: {{cite web| title = Mari Evans | publisher =Academy of American Poets  | url =https://www.poets.org/poetsorg/poet/mari-evans | accessdate =April 19, 2019}}</ref><ref name=":0">"Biographical Note" in {{Cite web|url=https://findingaids.library.emory.edu/documents/evans1284/|title=Mari Evans papers, circa 1900-2012 [bulk 1960-2012]|date=2014-02-07|website=findingaids.library.emory.edu|access-date=2019-02-06}}</ref><ref>{{cite journal| author=Hoppe, David | title =The Radical Clarity of Mari Evans: A Remembrance | journal =Traces of Indiana and Midwestern History | volume =30 | issue =2 | page=6 | publisher =Indiana Historical Society | location =Indianapolis | date =Spring 2018}}</ref> Evans's mother died when Mari was seven years old.<ref name=":0" /> Evans's father strongly encouraged her to develop and cultivate her writing ability throughout her life.<ref name="BlackPast">{{cite web| author=Sullivan, Erin| title =Mari E. Evans | publisher =BlackPast.org  | date =December 7, 2010  | url =http://www.blackpast.org/aah/evans-mari-e-1923 
+ | accessdate =April 19, 2019}}</ref>
+
+Evans attended local public schools before enrolling at the [[University of Toledo]] in 1939. She majored in fashion design, but left in 1941 without earning a college degree.<ref name=":0" /><ref name="BlackPast"/>
+
+== Career ==
+After leaving college, Evans decided to pursue a career as a musician.<ref name=":0" /> This decision prompted her to move to the [[East Coast of the United States|East Coast]], where she began to collaborate with various jazz musicians, including [[Wes Montgomery]], a native of [[Indianapolis]], [[Indiana]]. In 1947, Evans left the East Coast and moved to Indianapolis. After she settled in the city, Evans worked for the Indiana Housing Authority before joining the [[United States federal civil service|U.S. Civil Service]].<ref name=":0" /><ref>{{cite book |editor=Gugin, Linda C. |editor2=James E. St. Clair | title =Indiana's 200: The People Who Shaped the Hoosier State | publisher =Indiana Historical Society Press| year =2015 | location =Indianapolis | pages =247–49  | isbn =978-0-87195-387-2}}</ref>
+
+Evans gained notoriety as a poet during the 1960s and 1970s and became associated with the [[Black Arts Movement]],<ref name=Story>{{cite web| title =Mari Evans | work =Writing Her Story | publisher =Indiana Commission for Women | url =https://www.in.gov/icw/files/20170331%20Evans,%20Mari.pdf | accessdate =April 17, 2019}}</ref> an effort to explore African American culture and history through the arts and literature.<ref>{{cite web| title =A Brief Guide to the Black Arts Movement | publisher =Academy of American Poets  | url =https://www.poets.org/poetsorg/text/brief-guide-black-arts-movement| accessdate =April 19, 2019}}</ref> In addition to Evans, other prominent members of the movement were [[Amiri Baraka]], [[Gwendolyn Brooks]], [[Nikki Giovanni]], [[Etheridge Knight]], [[Haki R. Madhubuti]], [[Larry Neal]], and [[Sonia Sanchez]], among others.<ref>Hoppe, "The Radical Clarity of Mari Evans," p. 11.</ref><ref name=Higgins>{{cite news| author=Higgins, Will | title =Remembering Mari Evans' intense, unblinking life | newspaper =The Indianapolis Star | location =Indianapolis, Indiana | publisher =IndyStar.com | date =March 20, 2017 | url = https://www.indystar.com/story/news/2017/03/20/remembering-mari-evans-intense-unblinking-life/99203978/ | accessdate =April 19, 2019}}</ref> Evans was also an activist interested in social justice issues<ref name=Adams-Late>{{cite news| author=Adams, Dwight | title =Late Indianapolis poet Mari Evans leaves legacy of social justice | newspaper =The Indianapolis Star | location =Indianapolis, Indiana | publisher =IndyStar.com | date =March 11, 2017 | url =https://www.indystar.com/story/news/2017/03/11/famed-indianapolis-poet-mari-evans-leaves-legacy-social-justice/99055190/ | accessdate = April 19, 2019}}</ref> and a critic of racism.<ref name=Higgins/> As she later remarked, "From the time I was five . . . I was aware that color was an issue over which the society and I would war."<ref name=Hoppe6>Hoppe, "The Radical Clarity of Mari Evans," p. 6.</ref>
+
+Evans began a series of teaching appointments in American universities in 1969.<ref name=":0" /> During 1969–70 she served as writer-in-residence at [[Indiana University – Purdue University at Indianapolis]], where she taught courses in African American literature. Evans accepted a position the following year as an assistant professor and writer-in-residence at [[Indiana University]] in [[Bloomington, Indiana|Bloomington]], where she taught until 1978.<ref name="Oxford University Press" /> From 1968 to 1973, Evans produced, wrote, and directed  ''The Black Experience'', a weekly television program for [[WTTV]] in Indianapolis.<ref name="AAR">{{cite web| title =Mari Evans, a writer and a teacher | publisher =African American Registry | url =http://www.aaregistry.org/historic_events/view/mari-evans-writer-and-teacher | accessdate =April 19, 2019}}See also:{{cite web| title =Mari Evans | publisher =Academy of American Poets  | url =https://www.poets.org/poetsorg/poet/mari-evans | accessdate =April 19, 2019}}</ref><ref name=NBAW>{{cite book |author=Smith, Jessie Carney |author2=Shirelle Phelps |chapter=Mari Evans |title =Notable Black American Women | publisher =Gale Research | volume =1 | year =1992 | location =Detroit, Michigan | pages =326–27 | isbn =9780787664947}}</ref> Later, she explained that the program was her attempt to represent African Americans to themselves.<ref name="worldcat.org" />
+
+In 1975 Evans received an honorary doctorate of humane letters degree from [[Marian University (Indiana)|Marian College]].<ref name=Samuels173>{{cite book |author=Wilfred D. Samuels |author2=Tracie Church Guzzio |author3=Loretta Gilchrist Woodard | title =Encyclopedia of African-American Literature | publisher =Facts On File | year =2007 | location =New York, New York | page =[https://archive.org/details/encyclopediaafri00samu/page/n183 173] | url =https://archive.org/details/encyclopediaafri00samu| url-access=limited | isbn =9780816050734}}</ref> She continued her teaching career at [[Purdue University]] (1978–80), [[Washington University in Saint Louis]] (1980), [[Cornell University]] (1981–85), the [[State University of New York at Albany]] (1985–86), and [[Spelman College]].<ref name=":0" />
+
+==Writing==
+Although her most renowned collection of poetry, ''I Am a Black Woman'' (1970), and many of her early poems preceded the [[Black Arts Movement]], these works coincided with the Black Arts poets' messages of black cultural, psychological, and economic liberation. Themes of love, loss, loneliness, struggle, pride, and resistance are common in Evans's poetry.<ref name="Oxford University Press"/><ref name="worldcat.org"/><ref name=NBAW/> She also used "imagery, metaphor, and rhetoric" to describe the African American experience, the focus of her literary work,<ref name=Story/> and explained that "when I write, I write according to the title of poetry Margaret Walker's classic: 'for my people'."<ref name=Hoppe8>Hoppe, "The Radical Clarity of Mari Evans," p. 8.</ref>
+
+Evans's writing focused primarily of the issues of race and identity. Her poems frequently featured African American women.<ref name=Beaulieu>{{cite book |editor=Elizabeth Ann Beaulieu | title =Writing African American Women: An Encyclopedia of Literature By and About Women of Color | publisher =Greenwood Press | volume =I | year =2009 | location =Westport, Connecticut | pages =[https://archive.org/details/writingafricanam0000unse/page/307 307–09] | url =https://archive.org/details/writingafricanam0000unse/page/307 | isbn =978-0313331978 }}</ref> She also became "known for her intensity and no-nonsense candor."<ref name=Higgins/> Although her first poetry collection, ''Where is All the Music?'', did not attract critical acclaim, her second poetry collection, ''I Am a Black Woman'' (1970), brought her international attention and notoriety. This second collection called for social change and included her best-known individual poem, "I Am a Black Woman."<ref name=Beaulieu/><ref name=Chen>{{cite news| author=Chen, Wei-Huan | title =Indiana poet Mari Evans receives lifetime achievement award | newspaper =The Indianapolis Star | location =Indianapolis, Indiana | publisher =IndyStar.com | date =October 8, 2015| url=http://www.indystar.com/story/entertainment/2015/10/08/indiana-poet-mari-evans-receives-lifetime-achievement-award/73545482/ | accessdate =April 19, 2019}}</ref> Evans's other memorable poems include: "Celebration," "If There be Sorrow," "Speak the Truth to the People," "When in Rome," and "The Rebel," among others.<ref name=Story/> Her later works included poetry collections, ''Nightstar 1973–1978''  (1981), considered one of her best poetry collections, and ''A Dark and Splendid Mass'' (1992).<ref name=Beaulieu/><ref name=Hoppe12>Hoppe, "The Radical Clarity of Mari Evans," p. 12.</ref>
+
+In her later work, Evans began to use experimental techniques and incorporate African American idioms in ways that encouraged readers to identify with and respect the speaker.<ref name="Oxford University Press"/> Her poems were also characterized as "realistic," "hopeful," "sometimes ironic," and enthusiastic.<ref name=Higgins/> In her poem, "Who Can Be Born Black," she concludes with the lines: "Who/ can be born/ black/ and not exhult!"<ref name=Higgins/> In addition, Evans spoke of the need to make Blackness both beautiful and powerful.{{citation needed|date=May 2019}} In her poem "I am a Black Woman", the final stanza reads: "I am a black woman/ tall as a cypress/ strong/ beyond all definition still/ defying place/ and time/ and circumstance/ assailed/ impervious/ indestructible/ Look on me and be/renewed."<ref>{{cite web| author=Evans, Mari| title =I am a Black Woman – Poem by Mari Evans | publisher =PoemHunter.com | url =https://www.poemhunter.com/poem/i-am-a-black-woman | accessdate =April 28, 2019}}</ref> She is also well known for the line: "I have never been contained except I made the prison."{{citation needed|date=May 2019}}
+
+Although she is primarily known for her poetry, Evans also wrote short fiction, children's books, dramas, nonfiction articles, and essays.<ref name=Adams-Late/> She also edited the "ground-breaking anthology," ''Black Women Writers (1950–1980): A Critical Evaluation'' (1984),<ref name=Hoppe12/> and wrote ''Clarity As Concept: A Poet's Perspective'' (2006), a collection of essays.<ref name=Hoppe6/> Evans tackled social issues in her writing, even in her children's books. ''Dear Corinne, Tell Somebody! Love, Annie'' (1999), for example, is about child abuse and ''"I'm Late"'' (2006) deals with teen pregnancy.<ref name=NBAW/><ref name=Adams-Funeral/>
+
+In 1975 Evans attended the [[MacDowell Colony|MacDowell Writers Colony]] and in 1984 she attended the [[Yaddo]] writers retreat.<ref name=":0" />
+
+==Community service==
+Mari Evans was an activist for prison reform, and was against [[capital punishment]]. She also worked with theater groups and local community organizations including [[Girls, Inc.]] of Greater Indianapolis and the [[YMCA|Young Men's Christian Association]]. In addition, Evans volunteered in elementary and secondary schools.<ref name=":0" /><ref name="Oxford Companion">{{cite book |last=Dorsey |first=David E. Jr |chapter=Mari Evans |editor=William L. Andrews |editor2=Frances Smith Foster |editor3=Trudier Harris | title =The Concise Oxford Companion to African American Literature | publisher =Oxford University Press | year =2001 | page=134 | chapter-url =https://books.google.com/books?id=-9XtCY7cijMC&pg=PA134 | isbn =9780195138832}}</ref>
+
+==Personal life==
+Evans, who was divorced and the mother of two sons, led a quiet life in Indianapolis.<ref name=Adams-Late/><ref name=NBAW/> She enjoyed playing the piano and "was a fan of the [[Indiana Avenue]] jazz scene" during the 1940s and '50s.<ref name=Adams-Funeral>{{cite news| author=Adams, Dwight | title =Funeral for Indianapolis poet Mari Evans will be Monday | newspaper =The Indianapolis Star | location =Indianapolis, Indiana | publisher =IndyStar.com | date =March 14, 2017 | url = https://www.indystar.com/story/news/2017/03/14/funeral-famed-indianapolis-poet-mari-evans-monday/99169452/| accessdate =April 19, 2019}}</ref> In addition, Evans was a member of Indianapolis's [[Bethel A.M.E. Church (Indianapolis, Indiana)|Bethel African Methodist Episcopal Church]], but attended Broadway United Methodist Church in her later years.<ref name=Higgins/>
+
+==Death and legacy==
+Evans died in Indianapolis on March 10, 2017, at the age of ninety-seven.<ref name=Story/><ref>Hoppe, "The Radical Clarity of Mari Evans," p. 5.</ref> Funeral services were held at Saint Luke's Methodist Church in Indianapolis due to the large crowd that expected to attend.<ref name=Higgins/>
+
+Evans was "often considered a key figure of the Black Arts Movement" and among the most influential of the twentieth century's black poets.<ref name=Chen/> Although she was well known in East Coast "literary circles," Evans and her poetry were not as well known in Indianapolis, where she lived for many years.<ref name=Adams-Late/> A literary critic noted that Evans used "black idioms to communicate the authentic voice of the black community is a unique characteristic of her poetry."<ref name=Beaulieu/> ''I Am a Black Woman'' (1970), her best-known poetry collection, won the Black Academy of Art and Letters First Poetry Award in 1975, and includes her best-known poem, "I Am a Black Woman."<ref name=NBAW/> ''Black Women Writers (1950–1980): A Critical Evaluation'', a collection of more than forty essays related to the literary contributions of fifteen women writers, including Evans, is considered  "an important addition" to the limited scholarly work on the subject of black women authors.<ref name=Beaulieu/>
+
+==Selected published works==
+===Poetry===
+*''Where is all the Music?'' (1968)<ref name=KanderGreer>{{cite book |author=Kander, Jenny |author2=C. E. Greer | title =And Know This Place: Poetry of Indiana | publisher =Indiana Historical Society Press | year =2011 | location =Indianapolis | pages =341 | isbn =9780871952929}}</ref><ref>''Where is all the Music?'': {{OCLC|119992}}</ref>
+*''I am a Black Woman'' (1970)<ref name=KanderGreer/><ref>''I am a Black Woman'' {{ISBN|9780863163142}} See also: {{OCLC|232624035}}</ref>
+*''Nightstar 1973–1978'' (1981)<ref name=KanderGreer/><ref>''Nightstar 1973–1978'': 
+{{ISBN|9780934934077}} See also: {{OCLC|6791209}}</ref>
+*''A Dark and Splendid Mass'', Harlem River Press (1992)<ref name=KanderGreer/><ref>''A Dark and Splendid Mass'': {{ISBN|9780863163135}} See also: {{OCLC|702366001}}</ref>
+*''Continuum'', [[Black Classic Press]] (2007)<ref name=KanderGreer/><ref>''Continuum'':{{ISBN|9781933491165}} See also: {{OCLC|940364042}}</ref>
+
+===Children's books===
+*''J.D.'' (1973)<ref name=Samuels173/><ref>''J.D.'': {{ISBN|9780380003488}} See also: {{OCLC|2573915}}</ref>
+*''Look at Me!'' (1974)<ref name=Samuels173/>
+*''Rap Stories'' (1974)<ref name=Beaulieu/>
+*''Singing Black: Alternative Nursery Rhymes for Children'' (1976)<ref name=Samuels173/><ref>''Singing Black'': {{ISBN|9780940975804}} See also: {{OCLC|39254707}}</ref>
+*''Jim Flying High'' (1979)<ref>''Jim Flying High'': {{ISBN|9780385141307}} See also: {{OCLC|4593207}}</ref>
+*''Dear Corinne, Tell Somebody! Love, Annie: A Book About Secrets'' (1999)<ref>''Dear Corinne, Tell Somebody!'': {{ISBN|9780940975811}} See also: {{OCLC|248502909}}</ref>
+*'''I'm Late': The Story of LaNeese and Moonlight and Alisha Who Didn't Have Anyone of Her Own,'' Just Us Books, (2006)<ref>'''I'm Late''': {{ISBN|9781933491004}} See also: {{OCLC|64627091}}</ref>
+
+===Dramas===
+*''River of My Song'' (1977))<ref name=Beaulieu/>
+*''Eyes''<ref>''Eyes'' is an adaptation of [[Zora Neale Hurston]]'s novel ''[[Their Eyes Were Watching God]]'' (1979) See Samuels, Guzzio, and Woodard, p. 173.</ref>
+*''Portrait of a Man'' (1979))<ref name=Samuels173/>
+*''Boochie'' (1979))<ref name=Samuels173/>
+*''The Pro'' (1979)
+*''New World'' (1984)<ref>''New World'' is a children's musical. See Samuels, Guzzio, and Woodard, p. 173.</ref>
+
+===Nonfiction===
+*''Black Women Writers (1950–1980): A Critical Evaluation'', New York: Doubleday (1984)<ref name=KanderGreer/><ref>''Black Women Writers (1950–1980): A Critical Evaluation'': {{ISBN|9780385171250}} See also: {{OCLC|1005475874}}</ref>
+*''Black Women Writers: Arguments and Interviews'', London: [[Pluto Press]] (1984))<ref>''Black Women Writers: Arguments and Interviews'': {{ISBN|9780745300184}} See also: {{OCLC|18799981}}</ref>
+*''Clarity as Concept: A Poet's Perspective: A Collection of Essays'', Chicago: [[Third World Press]] (2006)<ref>''Clarity as Concept'': {{ISBN|9780883782316}} See also: {{OCLC|238628840}}</ref>
+
+==Awards and honors==
+*[[John Hay Whitney]] fellowship, 1965–66<ref name=Samuels173/>
+*[[Woodrow Wilson Foundation]] grant, 1968<ref name=Samuels173/>
+*Indiana University Writers Conference Award, 1970<ref name=Samuels173/>
+*First Annual Poetry Award, Black Academy of Arts and Letters, 1970<ref name=NBAW/>
+*Honorary doctorate in humane letters from Marian College, 1975<ref name=Samuels173/>
+*[[MacDowell Colony|MacDowell]] fellowship<ref name=Samuels173/>
+*Copeland fellowship, [[Amherst College]], 1980
+*[[National Endowment for the Arts]] Creative Writing Award, 1981<ref name=Samuels173/>
+*Featured on Ugandan postage stamp,<ref name=Adams-Late/> 1997
+*[[Grammy Award]] nominatee for her liner notes to ''The Long Road Back to Freedom: An Anthology of Black Music'', 2002
+*African American Legacy Project of Northwest Ohio Legend Honoree, 2007
+* Indianapolis Public Library Foundation's Indiana Authors Lifetime Achievement Award, 2015<ref name=Chen/>
+* Mural of Evans by Michael "Alkemi" Jordan was installed on an exterior wall of a building along [[Massachusetts Avenue, Indianapolis|Massachusetts Avenue]] in Indianapolis, 2016<ref name=Story/><ref>{{cite web| author=Victoria T. Davis | title=Indianapolis-based poet, Mari Evans, honored with art mural on Mass Ave |publisher=The Indy Channel |date=August 11, 2016| url =http://www.theindychannel.com/news/local-news/indianapolis-based-poet-mari-evans-honored-with-art-mural-on-mass-ave }}</ref>
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+*{{cite book | author=Douglas, Robert L.| title =Resistance, Insurgence and Identity: The Art of Mari Evans, Nelson Stevens and the Black Arts Movement | publisher =Africa World Press | year =2008 | location =Trenton, New Jersey | isbn =9781592215645}}
+
+==External links==
+* [http://pid.emory.edu/ark:/25593/fhg6r Mari Evans papers, circa 1900-2012] at the Stuart A. Rose Manuscript, Archives, and Rare Book Library, [[Emory University]]
+*[https://vimeo.com/183574867 "A Mural of Mari Evans"] on Vimeo
+
+{{Authority control}}
+
+{{DEFAULTSORT:Evans, Mari}}
+[[Category:20th-century births]]
+[[Category:University of Toledo alumni]]
+[[Category:American women poets]]
+[[Category:African-American poets]]
+[[Category:Poets from Ohio]]
+[[Category:21st-century American women writers]]
+[[Category:21st-century American poets]]
+[[Category:20th-century American poets]]
+[[Category:Writers from Indianapolis]]
+[[Category:Poets from Indiana]]
+[[Category:2017 deaths]]
+[[Category:Women anthologists]]
+[[Category:American women essayists]]
+[[Category:African-American women writers]]
+[[Category:Black Arts Movement writers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American essayists]]
+[[Category:20th-century American women writers]]
+[[Category:20th-century African-American women]]
+[[Category:20th-century African-American people]]
+[[Category:21st-century African-American women]]
+[[Category:21st-century African-American people]]

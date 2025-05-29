@@ -1,0 +1,134 @@
+{{short description|English playwright and poet}}
+{{Use dmy dates|date=December 2015}}
+{{Use British English|date=December 2015}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name             = Henry Taylor
+| honorific_prefix = Sir
+| honorific_suffix = {{post-nominals|country=GBR|size=100%|KCMG}}
+| native_name      = 
+| native_name_lang = 
+| image            = Picture of Sir Henry Taylor.jpg
+| image_size       = 200px
+| alt              = 
+| caption          = Sir Henry Taylor, by W. J. Hawker.
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = {{birth date|df=yes|1800|10|18}}
+| birth_place      = [[Bishop Middleham]], England
+| death_date       = {{death date and age|df=yes|1886|03|27|1800|10|18}}
+| death_place      = 
+| resting_place    = 
+| occupation       = Dramatist and poet
+| language         = English
+| nationality      = 
+| citizenship      = 
+| education        = 
+| alma_mater       = 
+| period           = 
+| genre            = <!-- or: | genres =      -->
+| subject          = <!-- or: | subjects =    -->
+| movement         = 
+| notableworks     = <!-- or: | notablework = -->
+| spouse           = [[Thomas Spring Rice, 1st Baron Monteagle of Brandon#Family|The Honorable Theodosia Alice Spring Rice]]
+| partner          = <!-- or: | partners =    -->
+| children         = Five: including [[Ida Alice Ashworth Taylor]]
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = 
+| portaldisp       = <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''Sir Henry Taylor''' {{post-nominals|country=GBR|KCMG}} (18 October 1800 &ndash; 27 March 1886) was an English [[dramatist]] and poet, Colonial Office official, and man of letters.
+
+==Early life==
+Henry Taylor was born on 18 October 1800 in [[Bishop Middleham]]. He was the third son of George Taylor Snr and Eleanor Ashworth, who died when he was an infant.<ref name="DNB">{{cite DNB|wstitle=Taylor, Henry (1800-1886)}}</ref> His father remarried Jane Mills in 1818, and the family then moved to [[Witton-le-Wear]].<ref name="ODNB">{{ODNBweb|id=27030|title=Taylor, Henry|first=Mark|last=Reger}}</ref> George Taylor Snr's friend [[Charles Arbuthnot]] found vocational positions in London for Henry Taylor and his elder brother, George Taylor Jnr. In 1817, the pair along with their second brother, William, a medical student, went to London. Soon afterwards, all three siblings contracted [[typhus fever]], and both his brothers died within a fortnight.<ref name="DNB"/> 
+
+Following this tragedy, Henry Taylor then accepted work in the Colonial administration of [[Barbados]].<ref name="ODNB" /> Taylor's place in Barbados was abolished in 1820, subsequent to which he returned to his father's house.
+
+==At the Colonial Office==
+Taylor obtained a clerkship in the [[Colonial Office]], where he subsequently worked from 1824 until 1872, through [[Sir Henry Holland, 1st Baronet|Henry Holland]]. In this position Taylor served under the permanent secretary [[Robert William Hay]].<ref name="DNB"/><ref>{{ODNBweb|id=58175|title=Hay, Robert William|first=John D.|last=Blackwell}}</ref> Taylor was appointed a Knight Commander of the [[Order of St Michael and St George]] (KCMG) in the [[1869 Birthday Honours]].<ref>{{London Gazette |issue=23512 |page=3750 |date=1 July 1869 }}</ref>
+
+Hay's successors included [[James Stephen (civil servant)|James Stephen]], [[Herman Merivale]] and [[Frederic Rogers]]. Hay, Stephen, Taylor and [[James Spedding]], who also worked in the Office, each proposed reform.<ref>{{cite book|author=Gillian Sutherland|title=Studies in the Growth of Nineteenth-century Government|url=https://books.google.com/books?id=6489AAAAIAAJ&pg=PA146|access-date=16 December 2012|year=1972|publisher=Routledge & Kegan Paul|isbn=978-0-7100-7170-5|page=146}}</ref> During the 1830s, Taylor and Stephen endorsed the abolitionist contentions of [[Henry Grey, 3rd Earl Grey|Viscount Howick]], as a consequence of which Stephen replaced Hay.<ref>{{cite book|author=Galbrath, John S|title=Reluctant Empire: British Policy on the South African Frontier, 1834-1854|url=https://books.google.com/books?id=w9TmJBYHWlAC&pg=PA12|access-date=16 December 2012|year=1963|publisher=University of California Press|pages=12–3|id=GGKEY:1HK80QN8SKK}}</ref>
+
+Taylor died on 27 March 1886.<ref name="ODNB"/>
+
+==Literary connections==
+[[File:Study of King David, by Julia Margaret Cameron.jpg|thumb|Study of [[David|King David]], by [[Julia Margaret Cameron]]. King David is depicted by Sir Henry Taylor, 1866]]
+Taylor wrote Byronic poems and an article on [[Thomas Moore]], which in 1822 was accepted for the ''[[Quarterly Review]]'' by [[William Gifford]].<ref>{{Cite journal | last = Taylor | first = Henry | title = 654: Article 6. Moore's ''Irish Melodies'' | journal = [[Quarterly Review]] | volume = 28 | issue = 55 | pages = 139–144 | publisher = [[John Murray (1778–1843)|John Murray II]] | date = October 1822 | url = http://www.rc.umd.edu/reference/qr/index/55.html }}</ref> Returning to London in October 1823, he found that Gifford had printed another article of his, on [[Lord John Russell]].<ref>{{Cite journal | last1 = Taylor | first1 = Henry | last2 = Gifford | first2 = William | author-link2 = William Gifford | title = 687: Article 4. Lord John Russell, ''Don Carlos, or Persecution; a Tragedy, in Five Acts'' | journal = [[Quarterly Review]] | volume = 29 | issue = 58 | pages = 370–382 | publisher = [[John Murray (1778–1843)|John Murray II]] | date = July 1823 | url = http://www.rc.umd.edu/reference/qr/index/58.html }}</ref> Taylor had also contributed to the ''[[London Magazine]]'',<ref>{{Cite journal | last = Taylor | first = Henry | title = Recent poetical plagiarisms and imitations | journal = [[The London Magazine|The London Magazine, pp. 569-676]] | volume = VIII | issue = 6 | pages = 597–604 | publisher = Baldwin, Craddock & Joy | date = December 1832 | url = http://babel.hathitrust.org/cgi/pt?id=mdp.39015033845689;view=1up;seq=613 }}</ref> and had an offer of the editorship.<ref name="DNB"/>
+
+His father George was a friend of [[William Wordsworth]]. In 1823, on a visit to the [[Lake District]], Henry Taylor made the acquaintance of [[Robert Southey]], and they became friends.<ref name="DNB"/> Jane Taylor had a first cousin, [[Isabella Fenwick]] (1783–1856), whom he introduced to the Wordsworth family. She became a close friend of Wordsworth in later life, as she had been of Taylor up to the time of his marriage.<ref>{{cite book|author1=William Wordsworth|author2=Jared R. Curtis|title=The Fenwick Notes of William Wordsworth|url=https://books.google.com/books?id=iqtjVSYaN3AC&pg=PA12|access-date=16 December 2012|year=2008|publisher=Humanities-Ebooks|isbn=978-1-84760-004-2|page=12 note}}</ref><ref>{{cite book|title=Wordsworth and His Circle|year = 1965|url=https://books.google.com/books?id=M6IOAAAAQAAJ&pg=PA311|access-date=16 December 2012|publisher=Taylor & Francis|page=311}}</ref><ref name="Wyatt1995">{{cite book|author=John Wyatt|title=Wordsworth and the Geologists|url=https://books.google.com/books?id=L7_xuUhuvewC&pg=PA95|access-date=16 December 2012|date=2 November 1995|publisher=Cambridge University Press|isbn=978-0-521-47259-3|pages=94–5}}</ref> Though Fenwick was not herself a writer, her friendship left an enduring impression on the writings of Taylor and Wordsworth. In his autobiography, Henry Taylor wrote, “There is a good deal of her mind in my writings. I wish there was more; and I wish that she had left her thoughts behind her in writings of her own.”<ref>{{Cite book|last=Taylor|first=Henry|url=https://books.google.com/books?id=gxdHAAAAYAAJ&q=autobiography+of+henry+taylor|title=Autobiography of Henry Taylor, Volume I|publisher=Longmans, Green|year=1885|location=London|pages=54}}</ref> 
+
+[[File:Henry Taylor Philip Van Artevelde, by Julia Margaret Cameron.jpg|thumb|right|Henry Taylor, photographed by [[Julia Margaret Cameron]], for whom he was a regular sitter. The beard was grown after illness made him wary of shaving himself. [[John Everett Millais|Millais]] wished (in vain) to have Taylor model for him as Moses.<ref>{{cite book|author1=Colin Ford|author2=Julia Margaret Cameron|title=Julia Margaret Cameron: A Critical Biography|url=https://books.google.com/books?id=Wadpyu1Gz90C&pg=PA51|access-date=16 December 2012|year=2003|publisher=Getty Publications|isbn=978-0-89236-707-8|page=51}}</ref>]]
+Taylor's work also brought him literary friends: the circle of [[Thomas Hyde Villiers]], and his colleague [[James Stephen (civil servant)|James Stephen]].<ref>{{ODNBweb|id=28303|title=Villiers, Thomas Hyde|first=H. C. G.|last=Mathew}}</ref><ref>{{ODNBweb|id=26374|title=Stephen, James|first=A. G. L.|last=Shaw}}</ref> Through Villiers he became acquainted with [[Charles Austin (lawyer)|Charles Austin]], [[John Stuart Mill]], and some of the [[Benthamite]]s. He made speeches in opposition to their views, in the debating society documented by Mill. He also invited them to personal meetings with Wordsworth and Southey.<ref name="DNB"/> Mill introduced Taylor to [[Thomas Carlyle]] in November 1831, initiating a long friendship.<ref name="Cumming2004">{{cite book|author=Mark Cumming|title=The Carlyle Encyclopedia|url=https://books.google.com/books?id=8Nvdx-4-CzoC&pg=PA461|access-date=16 December 2012|year=2004|publisher=Fairleigh Dickinson Univ Press|isbn=978-0-8386-3792-0|page=461}}</ref> Carlyle's opinion of the "marked veracity" of Taylor was printed wrongly by the editor [[James Anthony Froude]] as "morbid vivacity".<ref name="Mr. Froude and Carlyle">{{cite book|title=Mr. Froude and Carlyle|year = 1970|url=https://books.google.com/books?id=sJn1pCTHFvkC&pg=PA158|access-date=16 December 2012|publisher=Ardent Media|page=158|id=GGKEY:8XQN23A2TB5}}</ref> He also knew [[John Sterling (author)|John Sterling]],<ref>{{ODNBweb|id=26408|title=Sterling, John|first=Eric W.|last=Nye}}</ref> and made the acquaintance of [[Frances Milton Trollope|Fanny Trollope]] whilst attending the court of [[Louis Philippe I|Louis Philippe]] of France.
+
+Taylor aspired to become the official biographer of Southey. The family row over Southey's second marriage, to [[Caroline Anne Bowles]], found him with the Wordsworths and others hostile to Bowles.<ref>{{cite book|author=Lynda Pratt|title=Robert Southey and the Contexts of English Romanticism|url=https://books.google.com/books?id=GfmepWeuW_kC&pg=PA224|access-date=16 December 2012|year=2006|publisher=Ashgate Publishing, Ltd.|isbn=978-0-7546-3046-3|pages=223–4}}</ref> He did become Southey's [[literary executor]].<ref name="Seville1999">{{cite book|author=Catherine Seville|title=Literary Copyright Reform in Early Victorian England: The Framing of the 1842 Copyright Act|url=https://books.google.com/books?id=_n4suaopVXsC&pg=PA182|access-date=16 December 2012|date=20 September 1999|publisher=Cambridge University Press|isbn=978-0-521-62175-5|page=182}}</ref>
+
+==Works==
+In Witton, Taylor wrote ''The Cave of Ceada'' which was accepted for the ''[[Quarterly Review]]''.  Taylor wrote a number of plays, including ''Isaac Comnenus'' (1827),<ref>{{cite book | last = Taylor | first = Henry | title = Isaac Comnenus | url = https://archive.org/details/isaaccomnenusap00taylgoog | publisher = John Murray | location = London | year = 1827 | oclc = 707078180 }}</ref> ''and Philip van Artevelde'' (1834).<ref>{{cite book | last = Taylor | first = Henry | title = Philip van Artevelde | publisher = Boston, Ticknor and Fields | location = London | year = 1863 | oclc = 405182 }}</ref> This latter brought him fame and elicited comparisons with Shakespeare. In 1845 there followed a book of lyrical poems. His essay ''The Statesman'' (1836) caused some controversy, as a "supposedly" satirical view of how the civil service worked.<ref>{{cite book | last = Taylor | first = Henry |editor-last= Schaefer |editor-first= David Lewis|editor2-last= Schaefer |editor2-first= Roberta R.| title = The statesman | publisher = Praeger | location = Westport, Connecticut | year = 1992 | orig-year = 1836 | isbn = 9780275944032 }}</ref>
+
+Taylor published his ''Autobiography'' in 1885, which contains portraits of Wordsworth, Southey, [[Alfred Tennyson, 1st Baron Tennyson|Tennyson]] and [[Walter Scott]]. In it, on his own account, he gave [[Richard Whately]]'s opinion of him as a "resuscitated Bacon", who had better things to do than write verse (which could be left to women).<ref>* {{cite book | last = Taylor | first = Henry | title = Autobiography of Henry Taylor, 1800-1875, Volume 2: 1844-1875 | page = 66 | publisher = Longmans, Green | location = London | year = 1885 | oclc = 277228504 }} [https://archive.org/stream/autobiographyhe01taylgoog#page/n180/mode/2up archive.org.]</ref>
+
+His poem ''Edwin the Fair''<ref>{{cite book | last = Taylor | first = Henry | title = Edwin the Fair | url = https://archive.org/details/edwinfairanhist04taylgoog | publisher = John Murray | location = London | year = 1842 | oclc = 4790134 }}</ref> depicted [[Charles Elliot]] as Earl Athulf.<ref>{{ODNBweb|id=8656|title=Elliot, Charles|first=Andrew|last=Lambert}}</ref> [[Thomas Frederick Elliot]], Charles's brother, was a Colonial Office colleague.<ref name="DNB"/>
+
+==Literary reputation==
+In his own time, Taylor was highly esteemed as a poet and dramatist.<ref>{{cite journal|last1=Patmore|first1=Coventry|title=The Modern English Drama|journal=North British Review|date=1858|volume=29|pages=134–35}}</ref><ref>{{cite journal|last1=De Vere|first1=Aubrey|title=Mr. Henry Taylor's Late Plays and Minor Poems|journal=North British Review|date=1865|volume=43|pages=385–424}}</ref>  For example, J.G. Lockhart claimed that ''Philip Van Artevelde'' secured Taylor "a place among the real artists of his time",<ref>{{cite journal|last1=Lockhart|first1=J.G.|title=Philip Van Artevelde|journal=Quarterly Review|date=1834|volume=51|page=391}}</ref> and, as late as 1868, J.H. Stirling ranked ''Philip'' higher than anything produced by [[Robert Browning]].<ref>{{cite journal|last1=Stirling|first1=J.H.|title=The Poetical Works of Robert Browning|journal=North British Review|date=1868|volume=49|page=387}}</ref>
+
+Modern literary historians, however, tend to overlook Taylor's accomplishments in verse and drama and emphasize his importance as a literary critic, pointing out that he was a strong advocate for stylistic simplicity, subject matter rooted in common life, and intellectual discipline in poetic composition, placing special importance on clear and reasoned structure.<ref name="poston">{{cite journal|last1=Poston|first1=Lawrence|title=Wordsworth among the Victorians: The Case of Sir Henry Taylor|journal=Studies in Romanticism|date=1978|volume=17|issue=3|pages=293–305|doi=10.2307/25600139|jstor=25600139|url=http://www.austinlibrary.com:2138/stable/25600139?Search=yes&resultItemClick=true&searchText=Sir&searchText=Henry&searchText=Taylor&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DSir%2BHenry%2BTaylor%26amp%3Bacc%3Don%26amp%3Bwc%3Don%26amp%3Bfc%3Doff%26amp%3Bgroup%3Dnone&seq=6#page_scan_tab_contents|access-date=23 October 2016}}</ref><ref>{{cite journal|last1=Cox|first1=R.G.|title=Victorian Criticism of Poetry: The Minority Tradition|journal=Scrutiny|date=1951|volume=18|page=16}}</ref>
+
+==Marriage and family==
+Taylor married Hon. Theodosia Alice Spring Rice, daughter of [[Thomas Spring Rice, 1st Baron Monteagle of Brandon]], on 17 October 1839. They had five children, including the biographer [[Ida Alice Ashworth Taylor]].<ref name="ODNB"/><ref name="Wyatt1995"/>
+
+==Sources==
+* {{A Short Biographical Dictionary of English Literature}}
+* {{DNB|wstitle=Taylor, Henry (1800-1886)}}
+
+== Selected bibliography ==
+
+=== Plays ===
+* {{cite book | last = Taylor | first = Henry | title = Isaac Comnenus | url = https://archive.org/details/isaaccomnenusap00taylgoog | publisher = John Murray | location = London | year = 1827 | oclc = 707078180 }}
+* {{cite book | last = Taylor | first = Henry | title = The virgin widow | url = https://archive.org/details/virginwidowplay00tay | publisher = Longman, Brown, Green, and Longmans | location = London | year = 1850 | oclc = 774388 }}
+* {{cite book | last = Taylor | first = Henry | title = St. Clement's eve | url = https://archive.org/details/stclementseveap01taylgoog | publisher = Chapman and Hall | location = London | year = 1862 | oclc = 4790189 }}
+* {{cite book | last = Taylor | first = Henry | title = Philip van Artevelde | url = https://archive.org/details/philipvanartevel00tayl | publisher = Boston, Ticknor and Fields | location = London | year = 1863 | oclc = 405182 }}
+
+=== Poems ===
+* {{cite book | last = Taylor | first = Henry | title = Edwin the Fair | url = https://archive.org/details/edwinfairanhist04taylgoog | publisher = John Murray | location = London | year = 1842 | oclc = 4790134 }}
+* {{cite book | last = Taylor | first = Henry | title = The poetical works of Henry Taylor | url = https://archive.org/details/poeticalworks00johngoog | publisher = Chapman and Hall | location = London | year = 1864 | oclc = 1878181 }}
+* {{cite book | last = Taylor | first = Henry | title = The works | publisher = Chadwyck-Healey | location = Cambridge, England | year = 1992 | orig-year = 1878 | oclc = 60518022 }}
+
+=== Chapters in books ===
+* {{citation | last = Taylor | first = Henry | contribution = Sir Henry Taylor (1800–86): On secrecy | editor-last = Gross | editor-first = John J. | title = The Oxford book of essays | publisher = Oxford University Press | location = Oxford England New York | year = 1991 | isbn = 9780192141859 | postscript = . | url-access = registration | url = https://archive.org/details/oxfordbookofessa00gros }}
+**Also available as: {{citation | last = Taylor | first = Henry | contribution = On secrecy | editor-last = Taylor | editor-first = Henry| title = The statesman | pages = 128–131 | publisher = Longman, Rees, Orme, Brown, Green, & Longman | location = London | year = 1836 | oclc = 4790233 | postscript = .}} [https://archive.org/details/statesman00taylgoog Preview.]
+
+=== Essays ===
+* {{Cite journal | last = Taylor | first = Henry | title = 654: Article 6. Moore's ''Irish Melodies'' | journal = [[Quarterly Review]] | volume = 28 | issue = 55 | pages = 139–144 | publisher = [[John Murray (1778–1843)|John Murray II]] | date = October 1822 | url = http://www.rc.umd.edu/reference/qr/index/55.html }} With an Appendix containing the original Advertisements, and the Prefatory Letter on Music.
+* {{Cite journal | last1 = Taylor | first1 = Henry | last2 = Gifford | first2 = William | author-link2 = William Gifford | title = 687: Article 4. Lord John Russell, ''Don Carlos, or Persecution; a Tragedy, in Five Acts'' | journal = [[Quarterly Review]] | volume = 29 | issue = 58 | pages = 370–382 | publisher = [[John Murray (1778–1843)|John Murray II]] | date = July 1823 | url = http://www.rc.umd.edu/reference/qr/index/58.html }} 
+* {{cite book | last = Taylor | first = Henry |editor-last= Schaefer |editor-first= David Lewis|editor-last2= Schaefer |editor-first2= Roberta R.| title = The statesman | publisher = Praeger | location = Westport, Connecticut | year = 1992 | orig-year = 1836 | isbn = 9780275944032 }}
+**Originally published as: {{cite book | last = Taylor | first = Henry | title = The statesman | url = https://archive.org/details/statesman00schagoog | publisher = Longman, Rees, Orme, Brown, Green, & Longman | location = London | year = 1836 | oclc = 4790233 }} [https://archive.org/details/statesman00taylgoog Preview.]
+* {{cite book | last = Taylor | first = Henry | title = Notes from life in six essays | url = https://archive.org/details/notesfromlifeins00tay | publisher = John Murray | location = London | year = 1847 | oclc = 1112226 }} [https://archive.org/details/notesfromlifein00sirgoog Available online.]
+**Money / Humility & independence / Wisdom / Choice in marriage / Children / The life poetic
+* {{citation | last = Mazzeo | first = Tilar J. | contribution = "The slip-shod muse": Byron, originality, and aesthetic plagiarism | editor-last = Mazzeo | editor-first = Tilar J. | title = Plagiarism and literary property in the Romantic period | pages = 94–104 | publisher = University of Pennsylvania Press | location = Philadelphia | year = 2007 | isbn = 9780812202731 | quote = ... Byron's most extended engagement with questions of plagiarism occurs in ''Child Harold's Pilgrimage'', canto 3. The third canto of the poem was published in November of 1816, and by 1817 semi-public allegations of plagiarism were being circulated by Wordsworth. These charges were later made publicly in an 1823 essay, written by Wordsworth's friend Henry Taylor for ''The London Magazine''... | postscript = .}} 
+**''Wordsworth's letter to Henry Taylor regarding the essay'': {{citation | contributor-last = Wordsworth | contributor-first = William | contributor-link = William Wordsworth | contribution = CCCLXXXIX William Wordsworth to Henry Taylor: Rydal Mount, December 26th, [1823.] |last1 = Wordsworth |first1 = William |last2 = Wordsworth |first2 = Dorothy | editor-last = Knight | editor-first = William Angus| author-link2 = Dorothy Wordsworth | editor-link = William Angus Knight | title = Letters of the Wordsworth family, from 1787 to 1855 Vol. 3 1833-1855 | pages = 211–213 | publisher = Haskell House Publishing | location = New York, New York | year = 1969 | orig-year = 1907 | oclc = 255149323 | quote = ...he [Byron] deserves the severe chastisement which you, or some one else, will undoubtedly one day give him, and may have done already, as I see by advertisement the subject has been treated in the ''London Magazine'' | postscript = .}}
+**''The essay'': {{cite journal | last = Taylor | first = Henry | title = Recent poetical plagiarisms and imitations | journal = [[The London Magazine|The London Magazine, pp. 569-676]] | volume = VIII | issue = 6 | pages = 597–604 | publisher = Baldwin, Craddock & Joy | date = December 1832 | url = http://babel.hathitrust.org/cgi/pt?id=mdp.39015033845689;view=1up;seq=613 | quote = Mr. Coleridge has not suffered by this, and the plagiarism has availed nothing to Lord Byron, because it is obvious and unqualified; and therefore, by every reader acquainted with poetry, it is appropriated to its author }}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Commons category inline|Sir Henry Taylor}}
+* {{Internet Archive author |sname=Sir Henry Taylor |birth=1800 |death=1886 |sopt=t}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Taylor, Henry}}
+[[Category:1800 births]]
+[[Category:1886 deaths]]
+[[Category:English dramatists and playwrights]]
+[[Category:Knights Commander of the Order of St Michael and St George]]
+[[Category:English male dramatists and playwrights]]
+[[Category:19th-century British dramatists and playwrights]]
+[[Category:19th-century male writers]]
+[[Category:People from Bishop Middleham]]
+[[Category:People from Witton-le-Wear]]

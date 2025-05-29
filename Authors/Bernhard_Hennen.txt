@@ -1,0 +1,95 @@
+{{short description|German writer of fantasy literature (born 1966)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Bernhard Hennen
+| image       = Bernhard Hennen 1.jpg
+| caption     =
+| birth_date  = {{Birth year and age|1966}}<ref name="DNB"/>
+| birth_place = [[Krefeld]], [[Germany]]<ref name="DNB"/>
+| death_date  =
+| death_place =
+| occupation  = [[Novelist]]
+| notableworks =
+| genre       = [[Fantasy]]
+| influences  =
+| influenced  =
+| networth    =
+| website = {{URL|http://www.bernhard-hennen.de}}
+}}
+
+'''Bernhard Hennen''' (born 1966 in [[Krefeld]]<ref name="DNB">{{DNB portal|12156858X|TYP=}}</ref>) is a [[German writer]] of [[fantasy literature]].<ref name="DNB"/>
+
+He is best known internationally for his series ''Die Elfen'' ("The Elves", since 2004), which has been translated into a number of European languages.
+
+== Career ==
+He graduated from the [[University of Cologne]]. He worked as a journalist for various newspapers and radio stations.
+
+He began his writing career with ''Das Jahr des Greifen'' which he co-authored with [[Wolfgang Hohlbein]] in 1994. He followed up with four historical novels published 1996&ndash;1999 before returning to the fantasy genre in the 2000s. 
+
+He also wrote for the role-playing game ''[[The Dark Eye]].''
+
+== Personal life ==
+He is married, has two children, and lives again in Krefeld since 2000.<ref>{{Cite web|title=Bernhard Hennen|url=https://www.lovelybooks.de/autor/Bernhard-Hennen/|access-date=2021-01-05|website=LovelyBooks|language=de}}</ref>
+
+==Bibliography ==
+* 1996 - ''Der Tempelmord''
+* 1996 - ''Der Flötenspieler''
+* 1998 - ''Die Husarin''
+* 1999 - ''Die Könige der ersten Nacht''
+* 2001 - ''Nebenan''
+* 2001 - ''Das Jahr des Greifen'', together with [[Wolfgang Hohlbein]] (a [[The Dark Eye]]-novel)
+* 2002 - ''Der Wahrträumer. [[Gezeitenwelt]] 1''
+* 2003 - ''Im Schatten des Raben'' (a [[The Dark Eye]]-novel)
+* 2004 - ''Das Geheimnis der Gezeitenwelt - Die Saga von der Wiedergeburt der Magie''
+* 2005 - ''Alica und die Dunkle Königin''
+* 2007 - ''Rabensturm'' (a [[The Dark Eye]]-novel)
+
+;Die Elfen
+Bernhard Hennens ''Die Elfen'' series was translated into Dutch (De Elfen), Italian (Gli Elfi), French (Les Elfes), Czech (Elfové), Spanish (Los Elfos), Portuguese (Os Elfos), Russian (Эльфы), Ukrainian (Ельфи) and English (The Elven).
+* 2004 - ''Die Elfen'', together with James A. Sullivan
+** Translated into English as ''The Elven''
+* 2005 - ''Elfenwinter''
+** Translated into English in two parts: ''Elven Winter'' and ''Elven Queen''
+* 2006 - ''Elfenlicht''
+* 2009 - ''Elfenlied''
+* 2009 - ''Elfenkönigin''
+* 2010 - ''Elfenwelten''
+* 2017 - ''Elfenmacht''
+'''Drachenelfen'''
+* 2011 - ''Drachenelfen''
+* 2012 - ''Drachenelfen - Die Windgängerin''
+* 2013 - ''Drachenelfen - Die gefesselte Göttin''
+* 2015 - ''Drachenelfen - Die letzten Eiskrieger''
+* 2016 - ''Drachenelfen - Himmel in Flammen''
+
+'''Elfenritter'''
+* 2007 - ''Elfenritter - Die Ordensburg''
+* 2008 - ''Elfenritter - Die Albenmark''
+* 2008 - ''Elfenritter - Das Fjordland''
+
+;Die Phileasson-Saga (together with [[Robert Corvus]])
+* 2016 – ''Die Phileasson-Saga – Nordwärts''
+* 2016 – ''Die Phileasson-Saga – Himmelsturm''
+* 2016 – ''Die Phileasson-Saga – Die Wölfin''
+* 2017 – ''Die Phileasson-Saga – Silberflamme''
+* 2018 – ''Die Phileasson-Saga – Schlangengrab''
+* 2018 – ''Die Phileasson-Saga – Totenmeer''
+* 2019 – ''Die Phileasson-Saga – Rosentempel''
+* 2020 – ''Die Phileasson-Saga – Elfenkrieg''
+* 2020 – ''Die Phileasson-Saga – Echsengötter''
+
+==References==
+{{reflist}}
+* {{DNB portal|12156858X|TYP=}}
+
+==External links==
+*[http://bernhard-hennen.de bernhard-hennen.de]
+* {{ISFDB name|id=211682|name=Bernhard Hennen}}
+*[https://web.archive.org/web/20100127101517/http://www.epenschmiede.de/2009/12/interview-mit-bernhard-hennen-die-elfen.html#translation 2009 interview] at epenschmiede.de
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hennen, Bernhard}}
+[[Category:1966 births]]
+[[Category:Living people]]
+[[Category:German fantasy writers]]
+[[Category:German male writers]]

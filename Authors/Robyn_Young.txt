@@ -1,0 +1,77 @@
+{{Short description|English writer}}
+{{for|the Swazi swimmer|Robyn Young (swimmer)}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image        = 
+| name         = Robyn Young
+| caption      = 
+| pseudonym    = 
+| birth_date   = {{birth year and age|1975|9}}
+| birth_place  = [[Oxford]], United Kingdom
+| occupation   = Novelist
+| nationality  = English
+| period       = 2006-present
+| genre        = [[Historical novel|Historical]]
+| notableworks = ''Brethren'' trilogy
+| spouse       = 
+| partner      = 
+| children     = 
+| relatives    = 
+| awards       = 
+| signature    = 
+| website      = {{URL|robynyoung.com}}
+}}
+
+'''Robyn Young''' (born in [[Oxford]] in September 1975) is an [[English people|English]] author of [[historical fiction]]. She is most widely known for her ''Brethren'' trilogy, set in the Middle Ages. Her books have been published in more than 15 languages.<ref>{{cite web|url=http://www.thebookseller.com/feature/bookseller-industry-awards-2010.html-0 |title=Industry Awards 2010 |publisher=The Bookseller |date= |accessdate=2011-11-02}}</ref>
+
+==Biography==
+Young attended [[University of Sussex]] in [[Brighton]], England where she completed her master's degree in Creative Writing, the Arts and Education.<ref>{{cite web | url=http://www.robynyoung.com/biography/ | publisher=robynyoung.com | last=Young | first=Robyn | accessdate=2014-08-07 | title=Biography}}</ref>
+
+She now lives and writes in Brighton full-time.<ref name="BBC">{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment/6665401.stm |title=Entertainment &#124; UK authors of the future unveiled |publisher=BBC News |date=2007-05-17 |accessdate=2011-11-02}}</ref> In May 2007, Robyn was recognised as one of [[Waterstone's]] 25 "Authors of the future"; chosen from 100 authors nominated by publishers, editors and literary agents.<ref name="BBC"/><ref name="wstone25">{{cite web
+ |url         = http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1293
+ |title       = 25 Authors of the Future
+ |publisher   = [[Waterstone's]]
+ |date        = 2007-05-17
+ |accessdate  = 2008-09-12
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20070928072023/http://www.waterstones.com/waterstonesweb/navigate.do?pPageID=1293
+ |archivedate = 2007-09-28
+}}</ref><ref>{{cite news|author=John Ezard |url=https://www.theguardian.com/uk/2007/may/17/books.shopping |title=Bookshop lists its 25 writing stars &#124; UK news |publisher=The Guardian |date= 2007-05-17|accessdate=2011-11-02 |location=London}}</ref>
+
+Young was one of the founding members of the "Historical Writers Association".<ref>{{cite web|url=http://www.thebookseller.com/news/historical-writers-association-launches.html |title=Historical Writers Association launches |publisher=The Bookseller |date= |accessdate=2011-11-02}}</ref> She also took part in the inaugural HWA festival, together with [[Simon Scarrow]] and [[Michael Morpurgo]].<ref>{{cite web|url=http://www.thebookseller.com/news/morpurgo-young-and-scarrow-join-first-hwa-festival.html |title=Morpurgo, Young and Scarrow to join first HWA festival |publisher=The Bookseller |date= |accessdate=2011-11-02}}</ref>
+
+Young's novels have been translated into 19 languages.
+
+==Books==
+
+===''Brethren'' Trilogy===
+# ''[[Brethren (novel)|Brethren]]'' ([[Hodder & Stoughton]], 2006)
+# ''[[Crusade (Young novel)|Crusade]]'' ([[Hodder & Stoughton]], 2007)
+# ''[[Requiem (Young novel)|Requiem]]'' ([[Hodder & Stoughton]], 2008) (known as ''The Fall of the Templars'' in the United States)
+
+===''Insurrection'' Trilogy===
+# ''[[Insurrection (Young novel)|Insurrection]]'' ([[Hodder & Stoughton]], 2010)
+# ''Renegade'' ([[Hodder & Stoughton]], 2012)<ref>{{cite web |url=http://www.robynyoung.com/robyn/insurrection-trilogy/whats-in-a-name/ |title=WHAT’S IN A NAME…? &#124; Robyn Young's Blog |publisher=Robynyoung.com |date=2011-03-01 |accessdate=2011-11-08 |first=Robyn |last=Young |url-status=dead |archiveurl=https://web.archive.org/web/20120425151610/http://www.robynyoung.com/robyn/insurrection-trilogy/whats-in-a-name/ |archivedate=2012-04-25 }}</ref>
+# ''Kingdom'' ([[Hodder & Stoughton]], 2015)<ref>{{cite web|url=http://www.robynyoung.com/insurrection.htm |title=Insurrection &#124; Robyn Young |publisher=Robynyoung.com  |accessdate=2014-03-04|first=Robyn|last=Young}}</ref>
+
+===''New World Rising'' Trilogy===
+# ''Sons of the Blood'' ([[Hodder & Stoughton]], 2016)
+# ''Court of Wolves'' ([[Hodder & Stoughton]], 2018)
+
+==Notes==
+{{reflist}}
+
+==External links==
+* {{Official website|http://www.robynyoung.com/}}
+
+{{Robyn Young}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Young, Robyn}}
+[[Category:Living people]]
+[[Category:1975 births]]
+[[Category:English historical novelists]]
+[[Category:Writers of historical fiction set in the Middle Ages]]
+[[Category:People from Oxford]]
+
+{{UK-novelist-stub}}

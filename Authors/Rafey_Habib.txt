@@ -1,0 +1,41 @@
+'''M. A. Rafey Habib''' is an academic [[humanities]] scholar.
+
+His published books are about  [[literary theory]],<ref name=histlitcrit/> [[T. S. Eliot]],<ref name=eliot/> [[Urdu poetry]],<ref name=urdu/>   translating the [[Quran]], [[pacifism in Islam]],<ref name=cbs/><ref name=mcgowan/> and the philosophy of [[Georg Wilhelm Friedrich Hegel]].<ref name=hegel/> He is currently Distinguished Professor in the Department of English at [[Rutgers University]],<ref name=cbs>{{Cite news|title=Rutgers Professor Pens Book Of Poetry On Islam In The 21st Century|publisher=CBS Philly|url=https://philadelphia.cbslocal.com/2010/10/31/rutgers-professor-pens-book-of-poerty-on-islam-in-the-21st-century/|date=October 31, 2010}}</ref>
+
+== Works ==
+Habib's books include:
+* ''Hegel and the Foundations of Literary Theory'' (2018)<ref>{{Cite book|isbn = 978-1108471381|title = Hegel and the Foundations of Literary Theory|last = Habib|first = M. A. R.|date = 2018|location=Cambridge|publisher=Cambridge University Press|doi=10.1017/9781108602952}} Review:
+*{{cite journal | last = Harris | first = Oliver | date = September 2020 | doi = 10.1017/hgl.2020.23 | journal = Hegel Bulletin | pages = 1–4 | title = none}}</ref>
+* ''Hegel and Empire: From Postcolonialism to Globalism'' (2017)<ref name=hegel>{{Cite book|isbn = 978-3319684116|title = Hegel and Empire: From Postcolonialism to Globalism|last1 = Habib|first1 = M. A. R.|location=New York|publisher=Palgrave Macmillan|year=2017}} Reviews:
+*{{cite journal|last=Bertholf|first=Garry|date=June 2019|doi=10.1093/pq/pqz034|journal=The Philosophical Quarterly|title=none|volume=70|issue=279|pages=424–426}}
+*{{cite journal|last=Shaw|first=Wendy|date=November 2019|doi=10.1515/ngs-2019-0018|issue=3|journal=New Global Studies|pages=404–409|title=none|volume=13|s2cid=199156029}}</ref>
+* ''The Cambridge History of Literary Criticism: Volume 6, The Nineteenth Century, c.1830–1914'' (2013)<ref>{{Cite book|isbn = 978-1316606100|title = The Cambridge History of Literary Criticism: Volume 6, the Nineteenth Century, c.1830-1914|last1 = Habib|first1 = M. A. R.|year = 2013|location=Cambridge|publisher=Cambridge University Press}} Review:
+*{{cite journal|last=Collini|first=Stefan|date=November 2014|doi=10.1086/677193|issue=2|journal=Modern Philology|jstor=10.1086/677193|pages=E197–E201|title=none|volume=112|s2cid=164129377}}</ref>
+* ''A Dictionary of Literary Terms and Literary Theory'' (revised 5th ed., 2012)<ref>{{Cite book|isbn = 978-0141047157|title = A Dictionary of Literary Terms and Literary Theory|last1 = Cuddon|first1 = J. A.|editor-first=Habib|editor-last=M. A. R.|edition=5th|publisher= John Wiley & Sons|year=2012}} Reviews:
+*{{cite journal|last=Filipczak|first=Dorota|date=January 2013|doi=10.2478/texmat-2013-0039|issue=3|journal=Text Matters – A Journal of Literature, Theory and Culture|publisher=University of Lodz|title=A garden of orismological delights|volume=3|doi-access=free}}
+*{{cite journal|last=Langan|first=Kathleen A.|date=February 2014|doi=10.1108/rr-09-2013-0239|issue=2|journal=Reference Reviews|pages=25–26|publisher=Emerald|title=none|volume=28}}</ref>
+* ''Literary Criticism from Plato to the Present: An Introduction'' (2011)<ref>{{Cite book|isbn = 978-1405160353|title = Literary Criticism from Plato to the Present: An Introduction|last1 = Habib|first1 = M. A. R.|year=2011|publisher= John Wiley & Sons}}</ref>
+* ''Shades of Islam: Poems for a New Century'' (2010)<ref name=cbs/><ref name=mcgowan>{{Cite book|title=The Bridge: Revelation and Its Implications|first=Michael W.|last=McGowan|publisher=Wipf and Stock|year=2015|isbn=9781498270601|page=2|url=https://books.google.com/books?id=g1FgCgAAQBAJ&pg=PA2}}</ref><ref>{{Cite book|title=Shades of Islam: Poems for a New Century|first=M. A. R.|last=Habib|year=2010|location=Markfield|publisher=Kube Publishing}}</ref>
+* ''Modern Literary Criticism and Theory: A History'' (2008)<ref>{{Cite book|isbn = 978-1405176668|title = Modern literary criticism and theory: A history|last1 = Habib|first1 = Rafey|year = 2008|location = Oxford|publisher = Blackwell|url-access = registration|url = https://archive.org/details/modernliterarycr0000habi}}</ref>
+* ''A History of Literary Criticism: From Plato to the Present'' (2005)<ref name=histlitcrit>{{Cite book|isbn = 978-1405176088|title = A History of Literary Criticism: From Plato to the Present|last1 = Habib|first1 = M. A. R.|year=2005|location=Oxford|publisher=Blackwell}} Review:
+*{{cite journal|last=Tambling|first=Jeremy|date=July 2007|doi=10.2307/20467438|issue=3|journal=The Modern Language Review|jstor=20467438|pages=812–813|title=none|volume=102}}</ref>
+* ''An Anthology of Modern Urdu Poetry: In English Translation'' (translated and edited, 2003)<ref name=urdu>{{Cite book|isbn = 9780873527972 |title = An Anthology of Modern Urdu Poetry: In English Translation, with Urdu Text|last = Habib|first = M. A. R.|year = 2003|publisher=Modern Language Association|series=MLA Texts and Translations}} Review:
+*{{cite journal|title=Translating Modern Urdu Poetry|last=Ramaswamy|first=Anushiya|journal=Papers on Language and Literature|volume=45|issue=3|date=Summer 2009|pages=325–329|id={{ProQuest|198423858}}}}</ref>
+* ''The Early T.S. Eliot and Western Philosophy'' (1999)<ref name=eliot>{{Cite book|isbn = 978-0521063531|title = The Early T. S. Eliot and Western Philosophy|last1 = Habib|first1 = Rafey|year=1999|location=Cambridge|publisher=Cambridge University Press}} Reviews:
+*{{cite journal|last=Roeffaers|first=H.|date=Fall 2000|issue=2|journal=Tijdschrift voor Filosofie|jstor=40888910|pages=399–400|title=none|volume=62}}
+*{{cite journal|last=Rainford|first=Lydia|date=February 2001|issue=205|journal=The Review of English Studies|jstor=3070521|pages=156–158|title=none|volume=52}}
+*{{cite journal|last=Wilkins|first=Christopher|date=Fall 2001|issue=2|journal=International Journal of the Classical Tradition|jstor=30224216|pages=335–338|title=none|volume=8}}</ref>
+* ''The Dissident Voice: Poems of N.M. Ráshed'' (translated and edited, 1993)<ref>{{cite book|title=The Dissident Voice|first=N. M.|last=Ráshed|year=1993|publisher=Oxford University Press}} Review:
+*{{cite journal|last=Perry|first=John Oliver|date=Fall 1993|doi=10.2307/40149819|issue=4|journal=World Literature Today|jstor=40149819|pages=902–903|title=none|volume=67}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+*[https://habib.camden.rutgers.edu Rutgers home page]
+
+{{DEFAULTSORT:Habib, Rafey}}
+[[Category:Living people]]
+[[Category:Year of birth missing (living people)]]
+[[Category:Rutgers University faculty]]
+[[Category:American academics of English literature]]

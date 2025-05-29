@@ -1,0 +1,179 @@
+{{short description|16th-century English pamphleteer and poet}}
+{{redirect|Nashe|the radio station|Nashe Radio}}
+{{For|those of a similar name|Thomas Nash (disambiguation)}}
+{{more footnotes|date=April 2020}}
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=July 2018}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Thomas Nashe
+| image       = Thomas-Nashe.jpg
+| alt         = A crudely printed, full-length picture of a standing man. He is in Elizabethan-style clothing and chains are around his ankles
+| caption     = Polemical woodcut deriding Nashe as jailbird. From
+[[Richard Lichfield]]'s ''The Trimming of Thomas Nashe, Gentleman'' (1597)
+| birth_date   = Baptised November 1567
+| birth_place  = [[Lowestoft]], Suffolk
+| death_date   = {{circa|1601}} (aged 33–34)
+| death_place  =
+| alma_mater  = [[St John's College, Cambridge]]
+| occupation  = Playwright, poet, satirist
+| nationality = English
+| period      = {{circa|1589–1599}}
+| movement    =
+| notableworks  = ''[[Summer's Last Will and Testament]]'' (1592)
+| debut_work  =
+| influences  =
+| influenced  =
+| relatives   ={{Plainlist |
+* William Nashe, father
+* Margaret Nashe (née Witchingham), mother}}
+}}
+'''Thomas Nashe''' (baptised November 1567 – c. 1601; also '''Nash''') was an [[Elizabethan]] playwright, poet, [[Satire|satirist]] and a significant [[pamphleteer]].<ref name=nicholl/>{{rp|5}} He is known for his novel ''[[The Unfortunate Traveller]]'',<ref name=to>{{cite news|author1=John O‘Connell|title=Sex and books: London's most erotic writers|url=http://www.timeout.com/london/books/sex-and-books-londons-most-erotic-writers|access-date=26 November 2015|work=Time Out|date=28 February 2008}}</ref> his pamphlets including ''[[Pierce Penniless]],'' and his numerous defences of the [[Church of England]].<ref>https://www.enotes.com/topics/thomas-nashe/critical-essays/nashe-thomas-vol-41</ref>
+
+==Life==
+Nashe was the son of the [[parson]] William Nashe and Janeth (née Witchingham). He was born and baptised in [[Lowestoft]], on the coast of [[Suffolk]], where his father, William Nashe, or Nayshe as it is recorded, was curate. Though his mother bore seven children, only two survived childhood: Israel (born in 1565) and Thomas.<ref name=nicholl>Nicholl, Charles. ''A Cup of News: The Life of Thomas Nashe''. Routledge & Kegan Paul. 1984.</ref>{{rp|11}}
+
+The family moved to [[West Harling]], near [[Thetford]], in 1573 after Nashe's father was awarded the living there at the church of All Saints. Around 1581 Thomas went up to [[St John's College, Cambridge]], as a [[sizar]], gaining his [[bachelor's degree]] in 1586.<ref>{{acad|id=NS582T|name=Nash, Thomas}}</ref> From references in his own polemics and those of others, he does not seem to have proceeded [[Master of Arts (Oxbridge)|Master of Arts]] there. Most of his biographers agree that he left his college about summer 1588, as his name appears on a list of students due to attend philosophy lectures in that year. His reasons for leaving are unclear; his father may have died the previous year, but [[Richard Lichfield]] maliciously reported that Nashe had fled possible expulsion for his role in ''Terminus et non-terminus'', one of the raucous student theatricals popular at the time. Some years later, [[William Covell]] wrote in ''Polimanteia'' that Cambridge "has been unkind to the one [i.e., Nashe] to wean him before his time." Nashe himself said he could have become a fellow had he wished (in ''Have With You to Saffron-Walden'').
+
+He moved to London and began his literary career. The remaining decade of his life was dominated by two concerns: finding employment and participating in controversies, most famously with Richard and [[Gabriel Harvey]]. He arrived in London with his one exercise in [[euphuism]], ''The Anatomy of Absurdity''. His first appearance in print was his preface to [[Robert Greene (16th century)|Robert Greene]]'s ''Menaphon'', which offers a brief definition of art and overview of contemporary literature.
+
+In 1590, he contributed a preface to an unlicensed edition of [[Philip Sidney]]'s ''[[Astrophil and Stella]]'', but the edition was called in, and the authorised second edition removed Nashe's work.{{full citation needed|date=November 2015}}
+
+He is featured in [[Thomas Dekker (poet)|Thomas Dekker]]'s ''News from Hell''. He is referred to in the anonymous [[Parnassus plays]], which provides this eulogy:
+
+{{poemquote|
+Let all his faultes sleepe with his mournfull chest
+And there for ever with his ashes rest.
+His style was wittie, though it had some gall,
+Some things he might have mended, so may all.
+Yet this I say, that for a mother witt,
+Few men have ever seene the like of it.
+}}
+
+It is not known where Nashe died, or where he is buried.
+
+==In London, Marprelate controversy==
+He was drawn into the [[Martin Marprelate]] controversy on the side of the bishops. As with the other writers in the controversy, his share is difficult to determine. He was formerly credited with the three "[[Pasquill (the Cavaliero)|Pasquill]]" tracts of 1589–1590,<ref name="Lowndes1834">{{cite book|author=William Thomas Lowndes|url=https://books.google.com/books?id=gWhhFitkMJUC&pg=PA1225|title=The Bibliographer's Manual of English Literature : containing an account of rare, curious and useful books, published in or relating to Great Britain and Ireland, from the invention of printing ; with bibliographical and critical notices, collations of the rarer articles, and the prices at which they have been sold in the present century. 4. &#91;R - Z&#93;|publisher=William Pickering|year=1834|page=1225}}</ref> which were included in [[R. B. McKerrow]]'s standard edition of Nashe's works: however McKerrow himself later argued strongly against their being by Nashe.<ref>{{cite book|last1=Nashe|first1=Thomas|title=The Works of Thomas Nashe, Vol. 5|date=1910|publisher=Sigwick & Jackson|editor1-last=McKerrow|editor1-first=Ronald B.|location=London|page=57}}</ref> The anti-Martinist ''An Almond for a Parrot'' (1590), ostensibly credited to one "Cutbert Curry-knave", is now universally recognised as Nashe's work, although its author humorously claims, in its dedication to the comedian [[William Kempe]], to have met Harlequin in [[Bergamo]] while returning from a trip to [[Venice]] in the summer of 1589. But there is no evidence Nashe had either time or means to go abroad, and he never subsequently refers to having visited Venice in his work.
+
+==Feud with the Harvey brothers==
+His friendship with Greene drew Nashe into the Harvey controversy, involving the brothers [[Richard Harvey (astrologer)|Richard]] and [[Gabriel Harvey]]. In 1590, Richard Harvey's ''The Lamb of God'' complained of the anti-Martinist pamphleteers in general, including a side-swipe at the ''Menaphon'' preface. Two years later, Greene's ''A Quip for an Upstart Courtier'' contained a passage on "rope makers" that clearly refers to the Harveys (whose father made ropes). The passage, which was removed from subsequent editions, may have been Nashe's. After Gabriel Harvey mocked Greene's death in ''Four Letters'', Nashe wrote ''Strange News'' (1592). Nashe attempted to apologise in the preface to ''Christ's Tears Over Jerusalem'' (1593), but the appearance of ''Pierce's Supererogation'' shortly after offended Nashe anew. He replied with ''[[Have with You to Saffron-Walden]]'' (1596), with a possibly sardonic dedication to [[Richard Lichfield]], a barber of Cambridge. Harvey did not publish a reply, but Lichfield answered in a tract called "The Trimming of Thomas Nash," (1597). This pamphlet also contained a crude woodcut portrait of Nashe, shown as a man disreputably dressed and in [[fetters]].
+
+==Works==
+While staying in the household of Archbishop [[John Whitgift]] at [[Croydon Palace]] in October 1592 he wrote an entertainment called ''[[Summer's Last Will and Testament]]'', a "show" with some resemblance to a [[masque]]. In brief, the plot describes the death of Summer, who, feeling himself to be dying, reviews the performance of his former servants and eventually passes the crown on to Autumn. The play was published in 1600. Nashe is widely remembered for three short poems, all drawn from this play and frequently reprinted in anthologies of Elizabethan verse:  “Adieu, farewell, earth’s bliss,” “Fair summer droops” and “Autumn hath all the summer’s fruitful treasure.” Nashe may also have contributed to ''[[Henry VI, Part 1]]'', the play later published under Shakespeare's name as the first part of the ''Henry VI'' trilogy. [[Gary Taylor (English literature scholar)|Gary Taylor]] believes that Nashe was the principal author of the first act.<ref>Taylor, Gary. "Shakespeare and Others: The Authorship of Henry the Sixth, Part One", Medieval and Renaissance Drama, 7 (1995), 145–205.</ref> Nashe subsequently promoted the play in his pamphlet ''Pierce Penniless''.<ref>Stanley W. Wells, Gary Taylor, ''The complete works By William Shakespeare', Oxford University Press, 2005, p.125.</ref> In 1593 Nashe published ''Christ's Tears Over Jerusalem'', a pamphlet dedicated to Lady [[Elizabeth Spencer, Baroness Hunsdon|Elizabeth Carey]]. Despite the work's apparently devotional nature it contained satirical material which gave offence to the London civic authorities and Nashe was briefly imprisoned in [[Newgate Prison]]. The intervention of Lady Elizabeth's husband [[Sir George Carey]] gained his release.
+
+He remained in London, apart from periodic visits to the countryside to avoid the plague—a fear reflected in the play ''Summer's Last Will and Testament'', written in the autumn of 1592. [[William Sommers]], whose comments frame the play, was [[Henry VIII of England|Henry VIII]]'s jester. It includes the famous lyric:
+
+{{poemquote|
+Adieu, farewell earths blisse,
+This world uncertaine is,
+Fond are lifes lustful joyes,
+Death proves them all but toyes,
+None from his darts can flye;
+I am sick, I must dye:
+Lord, have mercy on us.
+}}
+
+In 1597 Nashe co-wrote the play ''[[The Isle of Dogs (play)|The Isle of Dogs]]'' with [[Ben Jonson]]. The work caused a major controversy for its "seditious" content. The play was suppressed and never published. Jonson was jailed; Nashe's house was raided and his papers seized but he had already escaped to the country. He remained for some time in [[Great Yarmouth]] before returning to London.
+
+Nashe was alive in 1599, when his last known work, ''Nashes Lenten Stuffe'', was published, and dead by 1601, when he was memorialised in a Latin verse in ''Affaniae'' by [[Charles Fitzgeoffrey]].
+
+===''Pierce Penniless''===
+''[[Pierce Penniless|Pierce Penniless, His Supplication to the Divell]]'' is a tall tale, or a prose satire, published in 1592.<ref>Drabble, Margaret, ed. ''The Oxford Companion to English Literature.''  Oxford University Press. 1985</ref> It was among the most popular of the Elizabethan pamphlets.  It was reprinted in 1593 and 1595,<ref name="Harrison">Harrison, G. B.  '‘Thomas Nashe, Pierce Penilesse, His Supplication to the Divell.'’ Corwen Press. 1924</ref> and in 1594 was translated into French.<ref>Gossse, Edmund.  ''The Unfortunate Traveller or the Life of Jack Wilton: With an Essay on the Life and Writings of Thomas Nash.''  The Chiswick Press. 1892</ref><ref>Stapleton, Michael, editor. The Cambridge Guide to English Literature.  Cambridge University Press. 1983</ref>
+It is written from the point of view of Pierce, a man who has not met with good fortune, who bitterly complains of the world’s wickedness, and addresses his complaints to the devil.  At times the identity of Pierce seems to conflate with Nashe's own.  But Nashe also portrays Pierce at times as an arrogant fool.  The story is told in a style that is complex, witty, anecdotal, and peppered with newly-minted words and Latin phrases. The satire can be mocking and bitingly sharp, and at times Nashe’s style seems to relish its own obscurity.<ref>’’The Columbia Encyclopedia.’’ Columbia University Press. Ed. William Bridgwater. 1963</ref><ref>Greenblatt, Stephen.  ‘’Will in the World; How Shakespeare Became Shakespeare’’.  Pimlico. 2005.  p. 202</ref>
+
+===''The Choise of Valentines''===
+At some time in the early 1590s Nashe produced an erotic poem, ''[[The Choise of Valentines]]'' that begins with a sonnet to "Lord S". It has been suggested that ''The Choise of Valentines'' was written possibly for the private circle of [[Ferdinando Stanley, 5th Earl of Derby]] (then known as Lord Strange).<ref>Charles Nicholl, ‘Nashe, Thomas (bap. 1567, d. c.1601)’, Oxford Dictionary of National Biography, Oxford University Press, 2004; online edn, Jan 2008 :‘His panegyric to ‘thrice noble Amyntas’ (Pierce Penilesse, Works, 1.243–245), written in mid-1592, is taken to refer to Ferdinando Stanley, Lord Strange. The phrasing—‘private experience’, ‘benefits received’, and so on—suggests he had already enjoyed the favours of this popular nobleman, as did many writers, among them Marlowe and Kyd, who were ‘writing for his plaiers’ about 1591 (BL, Harley MS 6849, fol. 218)...It was also for Lord Strange (‘Lord S’) that Nashe wrote the mildly obscene verses known as ‘The Choise of Valentines’ or ‘Nash his Dildo’ (Works, 3.403–416), described by Gabriel Harvey in early 1593 as ‘thy unprinted packet of bawdye and filthy rimes’ (Works of Gabriel Harvey, 2.91).</ref> It has alternatively been suggested that "Lord S." refers to the Earl of Southampton, Shakespeare's patron,<ref>Nashe, Thomas. ''The Unfortunate Traveller. or, The life of Jacke Wilton.'' ''The Percy Reprints, no. 1,'' edited by H. F. B. Brett-Smith. Oxford Basil Blackwell. 1920. page 3. [https://archive.org/details/unfortunatetrave00nashuoft]</ref> just as Nashe had inscribed ''The Unfortunate Traveler'', to "Lord Henry Wriothesley Earl of Southampton".<ref>Nashe, Thomas. ''The Unfortunate Traveller. or, The life of Jacke Wilton. The Percy Reprints, no. 1,'' edited by H. F. B. Brett-Smith. Oxford Basil Blackwell. 1920. page 3. [https://archive.org/details/unfortunatetrave00nashuoft]</ref><ref>Sams, Eric. ''The Real Shakespeare Retrieving the early years, 1564–1594.'' Yale University Press. 1995. page 108.</ref>
+
+''The Choise of Valentines'' circulated only in manuscript. It describes the Valentine's Day visit of a young man named 'Tomalin' to the brothel where his lover, "Mistris Francis", has recently become employed. Tomalin poses as a customer. Having paid ten gold pieces for her favours, Tomalin makes his way towards his erotic goal.
+
+{{poemquote|
+And make me happie, stealing by degrees.
+First bare hir legs, then creepe up to her knees ...
+}}
+
+The object of his desire, "A pretty rising womb", is revealed.  Unfortunately Tomalin finds the moment so exciting that he "spends" his all before the "fight" has begun.  Mistress Frances is disappointed and does what she can to revive things.
+
+{{poemquote|
+"Unhappyie me," quoth she, "and wilt not stand?
+Com, let me rubb and chafe it with my hand!"
+}}
+
+She perseveres in arousing him, is successful, and they make love.  This begins a lengthy and witty erotic passage.  But to her disappointment, Tomalin is prematurely satisfied—"the well is drye that should refresh".  Mistress Frances then decides to take matters into her own hands, reaches for the device of the poem's informal title, ''Nashe's Dildo''.
+
+{{poemquote|
+My little dildo shall suplye their kind,
+A knave that moves as light as leaves by winde;
+That bendeth not, nor fouldeth anie deale,
+But stands as stiff as he were made of steele,
+And plays at peacock twixt my leggs right blythe.<ref name=nicholl/>{{rp|91}}<ref>The Project Gutenberg EBook of ''The Choise of Valentines'', by Thomas Nash [http://www.gutenberg.org/files/17779/17779-h/17779-h.htm#l64]</ref>
+}}
+
+This poem comes to an end with Tomalin ranting against the "Eunike dilldo" that has taken his place. It was sharply criticised for its obscenity by contemporary authors [[Joseph Hall (bishop)|Joseph Hall]]<ref>In 1598 Hall attacked a contemporary poet, or poets, for describing in detail the activities of prostitutes ("beastly rites of hyred Venerie").  He does not name the culprit(s) but concludes "Nay, let the Divell, and Saint ''Valentine''(sic)/ Be gossips to those ribald rymes of thine."(''Virgidemiarum'' I, ix, 35–36) Professor Arnold Davenport commented:"That there is an attack on Nashe at the end of the satire is, I think, certain..." {{cite book|title=The Poems of Joseph Hall|editor=Arnold Davenport|year=1969|publisher=Liverpool University Press}}</ref> and [[John Davies of Hereford]]. Nashe had tried to pre-empt criticism by placing it in the tradition of classical erotica: "Yet Ovid's wanton muse did not offend".
+
+It appears not to have been Nashe's only foray into this category of writing.  When he was accused of "prostituting" his pen, he answered, in 1596, by writing:
+
+{{quote|It may and it may not bee so ... [but] when ... the bottom of my purse is turnd downeward, & my conduit of incke will no longer flowe for want of reparations, I am faine to let my Plow stand still in the midst of a furrow, and follow some of these new-fangled ''Galiardos'' and ''Senior Fantasticos'', to whose amorous ''Villanellas'' and ''Quipassas'' I prostitute my pen in hope of gaine.<ref name=nicholl/>{{rp|92}}<ref>Nashe, Thomas. McKerrow, Ronald, B., ed. ''The Works of Thomas Nashe''.  Volume III. Oxford. 1958. pp. 30–31.</ref>
+}}
+
+On the question of what this poem might say about Nashe's own sexuality, Nashe biographer [[Charles Nicholl (author)|Charles Nicholl]], says "not a lot perhaps", but points out that "there is nothing second hand" about Nashe's "evocations of sex."<ref name=nicholl/>{{rp|92}}
+
+===''The Terrors of the Night''===
+In 1594, Nashe wrote a book titled ''The Terrors of the Night; Or A Discourse of Apparitions'', which sceptically considers dreams, nightmares, and apparitions, which Nashe considers born of superstition, melancholy or imagination. He says, "A dream is nothing else but a bubbling scum or froth of the fancy which the day hath left undigested, or an after-feast made of the fragments of idle imagination".<ref>Levin, Carol. ''Dreaming the English Renaissance''. PALGRAVE MACMILLAN. 2008. {{ISBN|978-1-4039-6089-4}} pp. 44–45</ref> He dismisses efforts to interpret dreams, saying "What sense is there that the yolk of an egg should signify gold… that everything must be interpreted backward as Witches say their pater-noster, good being the character of bad, and bad of good." He disregards various spirits mentioning "Robbin-good-fellowes, elves, fairies, hobgoblins". He does, however, see some possible value in visions (not dreams) that are heaven-sent, including the visions of Caesar and Alexander.<ref>Nashe, Thomas. ''The Terrors of the Night; Or A Discourse of Apparitions''. Printed by John Danter. 1594</ref> Correspondence can be seen between the rationalism expressed in Act 5 of Shakespeare’s play ''[[Midsummer Night’s Dream]]'' and the ideas expressed in ''The Terrors of the Night'';  for example when Theseus in the play describes "the poet’s eye, in a fine frenzy rolling"<ref>Shakespeare, William.  ''Midsummer Night’s Dream''. Act 5, scene 1, line 12</ref> and Nashe describes the constant "wheeling and rolling on of our braines".<ref>[https://www.bl.uk/collection-items/the-terrors-of-the-night-by-thomas-nash-1594] ''The Terrors of the Night'' by Thomas Nash, 1594. British Library.</ref>
+
+==Chronology of Nashe's works==
+* 1589 ''The Anatomy of Absurdity''
+* 1589 ''Preface to Greene's Menaphon''
+* 1590 ''An Almond for a Parrot''
+* 1591 ''Preface to Sir Philip Sidney's Astrophel and Stella''
+* 1592 ''[[Pierce Penniless]]''
+* 1592 ''[[Summer's Last Will and Testament]]'' (play performed 1592, published 1600)
+* 1592 ''Strange News''
+* 1593 ''Christ's Tears over Jerusalem''
+* 1594 ''Terrors of the Night''
+* 1594 ''[[The Unfortunate Traveller]]''
+* 1596 ''[[Have with You to Saffron-Walden]]''
+* 1597 ''[[The Isle of Dogs, play|Isle of Dogs]]'' (Lost)
+* 1599 ''Nashe's Lenten Stuffe''
+
+He is also credited with the erotic poem ''The Choise of Valentines'' and his name appears on the title page of [[Christopher Marlowe]]'s ''[[Dido, Queen of Carthage (play)|Dido, Queen of Carthage]]'', though there is uncertainty as to what Nashe's contribution was.<ref>{{Cite journal|last=Freebury-Jones|first=Darren|last2=Dahl|first2=Marcus|date=2020-06-01|title=Searching for Thomas Nashe in Dido, Queen of Carthage|url=https://academic.oup.com/dsh/article/35/2/296/5370652|journal=Digital Scholarship in the Humanities|language=en|volume=35|issue=2|pages=296–306|doi=10.1093/llc/fqz008|issn=2055-7671}}</ref> Some editions of this play, still extant in the 18th century but now unfortunately lost, contained memorial verses on Marlowe by Nashe, who was his friend.
+
+==See also==
+* [[Canons of Elizabethan poetry]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+* [[R. B. McKerrow]], ed., ''The Works of Thomas Nashe'', 5 vols. 1904–10, repr. Oxford: Basil Blackwell, 1958. (The standard edition.)
+* [[George Richard Hibbard|G.R. Hibbard]], ''Thomas Nashe: a critical introduction'' (Harvard University Press, 1962).
+* ''Three Elizabethan pamphlets'' by G R Hibbard; [[Robert Greene (dramatist)|Robert Greene]]; Thomas Nash; [[Thomas Dekker (writer)|Thomas Dekker]] (Folcroft, PA: Folcroft Library Editions, 1972).
+
+==External links==
+{{Wikisource author}}
+{{wikiquotepar|Thomas Nashe}}
+* {{Gutenberg author | id=Nash,+Thomas}}
+* {{Internet Archive author |search=("Thomas Nash" OR "Thomas Nashe" OR "Nash, Thomas" OR "Nashe, Thomas")}}
+* {{Librivox author |id=1218}}
+* [http://www.luminarium.org/renlit/nashe.htm Thomas Nashe at luminarium.org] – Nashe's works; classic and recent essays on Nashe
+* [http://www.oxford-shakespeare.com/nashe.html Works by Thomas Nashe''] at the [http://www.oxford-shakespeare.com/index.html Oxford Authorship Site], edited by Nina Green (modern spelling).
+* {{UK National Archives ID}}
+* [https://books.google.com/books?id=qsw9AAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false ''A Cup of News: The Life of Thomas Nashe''] at [[Google Books]].
+* [https://archive.org/details/piercepenniless00nashgoog With reproduction of original title page: Pierce Penilesse his supplication to the deuill. Describing the ouer-spreading of Vice, and the suppression of Vertue. Pleasantly interlac'd with variable delights: and pathetically intermixt with conceipted reproofes. Written by Thomas Nash, Gentleman. London, Imprinted by Richard Ihones ... 1592]
+* [https://research.ncl.ac.uk/thethomasnasheproject/ The Thomas Nashe Project]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nashe, Thomas}}
+[[Category:1567 births]]
+[[Category:1600s deaths]]
+[[Category:16th-century English dramatists and playwrights]]
+[[Category:16th-century English novelists]]
+[[Category:16th-century male writers]]
+[[Category:Alumni of St John's College, Cambridge]]
+[[Category:British erotica writers]]
+[[Category:English male dramatists and playwrights]]
+[[Category:English male novelists]]
+[[Category:English Renaissance dramatists]]
+[[Category:English satirists]]
+[[Category:People from Harling, Norfolk]]
+[[Category:People from Lowestoft]]
+[[Category:University Wits]]

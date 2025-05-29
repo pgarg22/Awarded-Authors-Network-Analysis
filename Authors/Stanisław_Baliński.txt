@@ -1,0 +1,29 @@
+{{Use dmy dates|date=April 2020}}
+{{Infobox person
+|image = File:Stanisław Baliński.jpg
+|imagesize = 185px
+| name        = Stanisław Baliński
+| birth_date   = {{Birth date|1898|8|2|df=y}}
+| birth_place  = [[Warsaw]], Poland
+| death_date   = {{Death date|1984|11|12|df=y}}
+| death_place  = London, Great Britain
+| othername   =
+| occupation  = Poet
+| yearsactive = 
+}}
+
+'''Stanisław Baliński''' (2 August 1898 in [[Warsaw]] – 12 November 1984 in London) was a Polish poet, writer and diplomat.<ref>{{cite book |title=Introduction to modern Polish literature |last=Gillon |first=Adam |author2=Krystyna M. Olszer  |page=433 |year=1982 |publisher=[[Hippocrene Books]] |isbn=978-0-88254-516-5 }}</ref><ref>{{cite book |title=Literatura polska w okresie międzywojennym, volume 3 |trans-title=Polish literature in the inter-war period |last=Kądziela |first=Jerzy |author2=Jerzy Kwiatkowski |author3=Irena Wyczańska  |pages=449–459 |year=1993 |publisher=[[Polska Akademia Nauk]] |isbn=978-83-08-02054-8 }}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Balinski, Stanislaw}}
+[[Category:1898 births]]
+[[Category:1984 deaths]]
+[[Category:Writers from Warsaw]]
+[[Category:20th-century Polish poets]]
+
+
+{{poland-poet-stub}}

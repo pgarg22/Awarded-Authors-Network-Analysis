@@ -1,0 +1,75 @@
+{{no footnotes|date=February 2013}}
+{{Use dmy dates|date=April 2020}}
+{{Infobox officeholder 
+| name            = Gábor Görgey
+| image           = Gorgey Gabor 2007 Hungarian Kossuth Prize-writer poet director.jpg
+| order           = [[Minister of Education of Hungary|Minister of Culture of Hungary]]
+| term_start      = 27 May 2002
+| term_end        = 18 May 2003
+| president       = 
+| predecessor     =[[Zoltán Rockenbauer]]
+| successor       = [[István Hiller]]
+| birth_date      = {{Birth date and age|df=yes|1929|11|22}}
+| birth_place     = [[Budapest]], [[Kingdom of Hungary]]
+| death_date      = 
+| death_place     =
+| profession      = novelist, director, poet, politician
+| party           = Independent
+| spouse          = Ildikó Iván
+| children        = 3
+}}
+{{eastern name order|Görgey Gábor}}
+
+'''Gábor Görgey''' (born as ''Artúr Görgey'' on 22 November 1929) is a [[Hungary|Hungarian]] writer, poet, director and politician, who served as [[Minister of Culture]] between 2002 and 2003. He is a descendant of the freedom fighter General [[Artúr Görgey]] who served as Minister of War during the [[Hungarian Revolution of 1848]].
+
+==Honours==
+* Graves Prize (1976)
+* [[Attila József]] Prize (1980)
+* [[Tibor Déry]] Award (1989)
+* Book of the Year Award (2000)
+* Pro urbe Budapest (2001)
+* Gold Pen (2005)
+* [[Kossuth Prize]] (2006)
+
+==Works==
+* ''Füst és fény'' (poems, 1956)
+* ''Délkör'' (poems, 1963)
+* ''Köszönöm, jól'' (poems, 1970)
+* ''Alacsony az Ararát'' (plays, 1971)
+* ''Légifolyosó'' (poems, 1977)
+* ''Munkavilágítás'' (essays, 1984)
+* ''A díva bosszúja (short stories, 1988)
+* ''Nők szigete'' (poems, 1990)
+* ''Mindig újabb kutyák jönnek'' (novel, 1991)
+* ''Eszkimó nyár'' (poems, 1993)
+* ''Utolsó jelentés Atlantiszról'' (novel, 2000)
+* ''Volt egyszer egy Felvidék!'' (novel, 1989) [[Magvető|Magvető Kiadó]], Budapest, 1989.
+
+His first drama, the ''Komámasszony, hol a stukker?'' brought significant successes. It was shown in the United States too.
+
+==References==
+* [http://mek.oszk.hu/02200/02227/html/03/1216.html Tanulmány Görgey Gábor művészetéről]
+* [http://web.gondola.hu/cikkek/cikkek/8832 Görgey Gábor életrajza a gondola.hu-n]{{Dead link|date=January 2020 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+{{s-start}}
+{{s-off}}
+{{succession box|title=[[Minister of Education of Hungary|Minister of Culture]]|before=[[Zoltán Rockenbauer]]|after=[[István Hiller]]|years=2002&ndash;2003}}
+{{s-end}}
+{{Hungarian literature}}
+{{HungarianEducationMinisters}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Gorgey, Gabor}}
+[[Category:1929 births]]
+[[Category:Living people]]
+[[Category:Culture ministers of Hungary]]
+[[Category:Hungarian journalists]]
+[[Category:Hungarian male poets]]
+[[Category:Members of the European Academy of Sciences and Arts]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Attila József Prize recipients]]
+
+
+{{Hungary-politician-stub}}

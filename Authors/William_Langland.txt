@@ -1,0 +1,70 @@
+{{Short description|Fourteenth century English poet}}
+{{More footnotes|date=May 2017}}
+{{Use British English|date=October 2020}}
+{{Use dmy dates|date=October 2020}}
+[[Image:Will Dreaming.jpg|thumb|160px|"Langland's Dreamer": from an illuminated initial in a ''[[Piers Plowman]]'' manuscript held at Corpus Christi College, Oxford.]]
+
+'''William Langland''' ({{IPAc-en|ˈ|l|æ|ŋ|l|ə|n|d}}; {{lang-la|Willielmus de Langland}}; {{c.}} 1332 – c. 1386) is the presumed author of a work of [[Middle English]] [[Alliteration|alliterative]] verse generally known as ''[[Piers Plowman]]'', an [[allegory]] with a complex variety of religious themes. The poem translated the language and concepts of the [[cloister]] into symbols and images that could be understood by a layman.
+
+== Life ==
+Little is known of Langland himself.  It seems that he was born in the [[West Midlands (region)|West Midlands]] of [[England]] around 1330, according to internal evidence in ''Piers Plowman''.  The narrator in ''Piers Plowman'' receives his first vision while sleeping in the [[Malvern Hills]] (between [[Herefordshire]] and [[Worcestershire]]), which suggests some connection to the area.  The dialect of the poem is also consistent with this part of the country.  ''Piers Plowman'' was written ''c.'' 1377, as the character's imagination says he has followed him for "five and forty winters."
+
+A fifteenth-century note in the Dublin manuscript of ''Piers Plowman'' says that Langland was the son of Stacy de Rokayle.<ref name="AJ">{{Cite web|url=http://www.luminarium.org/medlit/langlandbio.htm |author=Anniina Jokinen |publisher=Luminarium |date=8 March 2010 |title=Life of William Langland (c.1330-1387?) |website=www.luminarium.org}}</ref>
+
+Langland is believed to have been born in [[Cleobury Mortimer]], [[Shropshire]],<ref>"Mortymers Clibury", Bale, ''Illustris Majoris Britanniae''</ref> although [[Ledbury]], Herefordshire, and [[Great Malvern]], Worcestershire also have strong claims to being his birthplace.  There is a plaque to that effect in the porch of [[St Mary's Church, Cleobury Mortimer|Cleobury Mortimer's parish church]],<ref>{{cite book |last=Dickens |first=Gordon |title=An Illustrated Literary Guide to Shropshire |year=1987 |publisher=Shropshire Libraries |page=46 |isbn=0-903802-37-6}}</ref> which also contains a memorial window, placed in 1875, depicting the ''Piers Plowman'' vision.<ref>{{cite book|title=An Illustrated Literary Guide to Shropshire|page=94}}</ref> Langland is thought to have been a [[novitiate]] of Woodhouse Friary located nearby.<ref>{{Citation |url = http://www.courses.fas.harvard.edu/~chaucer/special/authors/langland/ |title = William Langland |access-date = 5 January 2013 |publisher = [[Harvard College]]}}</ref>
+
+There are strong indications that Langland died in 1385 or 1386. A note written by "Iohan but" (John But) in a fourteenth-century manuscript of the poem (Rawlinson 137) makes direct reference to the death of its author: "''whan this werke was wrouyt, ere Wille myte aspie/ Deth delt him a dent and drof him to the erthe/ And is closed vnder clom"'' ("once this work was made, before Will was aware/ Death struck him a blow and knocked him to the ground/ And now he is buried under the soil"). According to [http://www.hymnsandcarolsofchristmas.com/Hymns_and_Carols/Images/Rickert/martha_edith_rickert.htm Edith Rickert], John But himself seems to have died in 1387, indicating that Langland died shortly before this date.  Nonetheless some scholars believe Langland was the author of a 1399 work, [[Richard the Redeless]].<ref name="AJ" />
+
+Most of what is believed about Langland has been reconstructed from ''Piers Plowman''.  The C text of the poem contains a passage in which the narrator describes himself as a "loller" or "idler" living in the [[Cornhill, London|Cornhill]] area of [[London]], and refers to his wife and child.  It also suggests that he was well above average height and made a living reciting prayers for the dead.  However, the distinction between allegory and reality in ''Piers Plowman'' is blurred, and the entire passage, as [[Wendy Scase]] observes, is reminiscent of the false confession tradition in [[medieval literature]] (also seen in the ''Confessio Goliae'' and in [[Jean de Meun]]'s ''[[Roman de la Rose]]'').
+
+A similar passage in the final Passus of the B and C texts provides further ambiguous details on the poet's wife and his torments by Elde (Old Age), including baldness, [[gout]], and impotence. This may indicate that the poet had reached middle age by the 1370s, but the accuracy of the passage is called into question by the conventional nature of the description (see, for instance, [[Walter Kennedy (poet)|Walter Kennedy]]'s "In Praise of Aige" and ''The Parliament of the Three Ages'') and the fact that it occurs near the end of the poem, when Will's personal development is reaching its logical conclusion.
+
+The detailed and highly sophisticated religious knowledge displayed in the poem indicates that Langland had some connection to the [[clergy]], but the nature of this relationship is uncertain. The poem shows no obvious bias towards any particular group or order of churchmen, but is even-handed in its [[anticlericalism]]. This makes it difficult to align Langland with any specific order. He is probably best regarded, John Bowers writes, as a member of "that sizable group of unbeneficed clerks who formed the radical fringe of contemporary society ... the poorly shod Will is portrayed 'y-robed in russet' traveling about the countryside, a crazed dissident showing no respect to his superiors". [[Malcolm Godden]] has proposed that he lived as an itinerant [[hermit]], attaching himself to a patron temporarily and exchanging writing services for shelter and food.
+
+[[Robert Crowley (printer)|Robert Crowley]]'s 1550 edition of ''Piers Plowman'' promoted the idea that Langland was a follower of [[John Wycliffe]]. However, this conclusion is challenged by early [[Lollard]] appropriation of the Plowman figure (see, for instance, ''[[Pierce the Ploughman's Crede]]'' and ''[[The Plowman's Tale]]''). It is true that Langland and Wycliffe shared many concerns: Both questioned the value of [[indulgence]]s and pilgrimages, promoted the use of the [[vernacular]] in preaching, attacked clerical corruption, and even advocated disendowment. But these topics were widely discussed throughout the late 14th century and were not specifically associated with Wycliffe until after the presumed time of Langland's death. Also, as Pamela Gradon observes{{Citation needed|date=July 2017}}, at no point does Langland echo Wycliffe's characteristic teachings on the [[sacraments]].
+
+== Attribution ==
+The attribution of ''Piers Plowman'' to Langland rests principally on the evidence of a manuscript held at [[Trinity College, Dublin]] (MS 212). This manuscript ascribes ''Piers Plowman'' to Willielmi de Langland, son of Stacy de Rokayle, "who died in [[Shipton-under-Wychwood]], a tenant of the Lord Spenser in the county of [[Oxfordshire]]". Other manuscripts name the author as Robert or William Langland, or Wilhelms W. (most likely shorthand for William of Wychwood).
+
+The poem itself also seems to point to Langland's authorship. At one point, the narrator remarks: "I have lived in londe [...] my name is longe wille" (B XV.152). This can be taken as a coded reference to the poet's name, in the style of much late-medieval literature (see, for instance, [[François Villon|Villon]]'s acrostics in ''[[Le Testament]]''). However, it has also been suggested that medieval scribes and readers may have understood this line as referring to a "William Longwille", the pseudonym used by a [[Norfolk]] rebel in 1381.<ref>{{cite journal|last1=Sobecki|first1=Sebastian|title=Hares, Rabbits, Pheasants:''Piers Plowman'' and William Longewille, a Norfolk Rebel in 1381|journal=Review of English Studies|date=2018|volume=69|issue=289|pages=216–236|doi=10.1093/res/hgx130}}</ref>
+
+Although there is little other evidence, Langland's authorship has been widely accepted since the 1920s. It is not, however, entirely beyond dispute, as recent work by Stella Pates and C. David Benson has demonstrated.<ref>C. David Benson, "The Langland Myth," in ''William Langland's Piers Plowman: A Book of Essays,'' ed. Kathleen M. Hewett-Smith (New York: Routledge, 2001), pp. 83–99. {{ISBN|0-8153-2804-4}}</ref>
+
+==See also==
+{{portal|Poetry}}
+*[[Pearl Poet|''Pearl'' Poet]]
+*[[Piers Plowman]]
+
+== References ==
+{{Reflist}}
+
+== Sources ==
+*John M. Bowers, "Piers Plowman and the Police: notes towards a history of the Wycliffite Langland," ''Yearbook of Langland Studies'' 6 (1992), pp.&nbsp;1–50.
+*Pamela Godden, "Langland and the Ideology of Dissent," ''Proceedings of the British Academy'' 66 (1980), pp.&nbsp;179–205.
+*Malcolm Gradon, ''The Making of Piers Plowman'' (London: Longman, 1990). {{ISBN|0-582-01685-1}}
+*Edith Rickert, "John But, Messenger and Maker," [http://gallica.bnf.fr/ ''Modern Philology'' 11] (1903), pp.&nbsp;107–17.
+*Wendy Scase, ''Piers Plowman and the New Anticlericalism'' (Cambridge: Cambridge University Press, 1989). {{ISBN|0-521-36017-X}}.
+
+==External links==
+{{wikiquote}}
+{{wikisource author}}
+* [http://www.piersplowman.org International ''Piers Plowman'' Society] Website of international scholarly organization for the study of ''Piers Plowman'' and other alliterative poems; includes a searchable database of all scholarship on these poems since 1986.
+* [http://piers.iath.virginia.edu/ Piers Plowman Electronic Archive] A multi-level, hypertextually linked electronic archive of the textual tradition of all three versions of the fourteenth-century allegorical dream vision Piers Plowman.
+* {{Gutenberg author | id=Langland,+William }}
+* {{Internet Archive author |sname=William Langland}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Langland, William}}
+[[Category:1332 births]]
+[[Category:1386 deaths]]
+[[Category:14th-century Christian mystics]]
+[[Category:14th-century English people]]
+[[Category:14th-century English poets]]
+[[Category:14th-century English writers]]
+[[Category:Middle English poets]]
+[[Category:English Christians]]
+[[Category:English male poets]]
+[[Category:English Christian mystics]]
+[[Category:People from Malvern, Worcestershire]]
+[[Category:Roman Catholic mystics]]

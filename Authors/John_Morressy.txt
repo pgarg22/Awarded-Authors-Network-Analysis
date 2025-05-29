@@ -1,0 +1,116 @@
+{{More footnotes|date=March 2014}}
+{{Infobox person
+| name        = John Morressy
+| image       = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date|1930|12|08}}
+| birth_place = Brooklyn, New York
+| death_date  = {{Death date and age|2006|03|20|1930|12|08}}
+| death_place = [[Sullivan, New Hampshire]], United States
+| nationality = 
+| other_names = 
+| known_for   = 
+| occupation  = 
+}}
+'''John Morressy''' (December 8, 1930 – March 20, 2006) was an American [[science fiction]] and [[fantasy]] writer and a professor of English at [[Franklin Pierce College]].
+
+He died at [[Sullivan, New Hampshire]] where he lived.
+
+==Bibliography==
+{{Expand list|date=September 2021}}
+
+===Novels===
+* ''The Blackboard Cavalier'' (1966)
+* ''The Addison Tradition'' (1968)
+* ''A Long Communion'' (1974)
+* ''The Humans of Ziax II'' (1974)
+* ''The Windows of Forever'' (1975)
+* ''The Extraterritorial'' (1977)
+* ''The Drought on Ziax II'' (1978)
+* ''The Juggler'' (1996)
+;Del Whitby series
+* ''Starbrat'' (1972)
+* ''Stardrift'' (1973; also known as ''Nail Down the Stars'')
+* ''Under a Calculating Star'' (1975)
+* ''A Law for the Stars'' (1976)
+* ''Frostworld and Dreamfire'' (1977)
+* ''The Mansions of Space'' (1983)
+;Iron Angel series
+* ''Ironbrand'' (1980)
+* ''Greymantle'' (1981)
+* ''Kingsbane'' (1982)
+* ''The Time of the Annihilator'' (1985)
+;Kedrigern series
+* ''A Voice for Princess'' (1986)
+* ''The Questing of Kedrigern'' (1987)
+*''Kedrigern in Wanderland'' (1988)
+* ''Kedrigern and the Charming Couple'' (1989)
+* ''A Remembrance for Kedrigern'' (1990)
+* ''The Domesticated Wizard'' (2002; omnibus including ''A Voice for Princess'' and ''The Questing of Kedrigern'', plus 6 short stories)
+* ''Dudgeon and Dragons'' (2003; omnibus including ''Kedrigern in Wanderland'' and ''Kedrigern and the Dragon comme il faut-New'', plus 8 short stories)
+;The Apprentice Kedrigern (Young Kedrigern) series
+* ''Young Kedrigern and First Spell''<ref>MORRESSY, John. Mladý Kedrigern a první kouzlo. Frenštát pod Radhoštem: Polaris, 1998.</ref> (published only in [[Czech language|Czech]], 1998)
+* ''Young Kedrigern and Search for the Past''<ref>MORRESSY, John. Mladý Kedrigern a pátrání po minulosti. Frenštát pod Radhoštem: Polaris, 1999.</ref> (published only in [[Czech language|Czech]], 1999)
+* ''Young Kedrigern: The Making of A Wizard'' (published only in [[Czech language|Czech]], 2001)
+
+=== Short fiction ===
+;Collections
+* ''Other Stories'' (1983)
+;Stories<ref>Short stories unless otherwise noted.</ref>
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+!|Notes
+|-
+|Conhoon and the fairy dancer
+|2000
+|{{cite journal |author=Morressy, John |date=March 2000 |title=Conhoon and the fairy dancer |journal=[[The Magazine of Fantasy & Science Fiction|F&SF]] |volume=98 |issue=3 |pages=141–160}}
+| 
+|Novelette
+|-
+|}
+<!-- Move entries below into the table above -->
+* "Autumn Sunshine for Moe Joost" (1979)
+* "No More Pencils, No More Books" (1979)
+* "The Last Jerry Fagin Show" (1980)
+* "A Hedge Against Alchemy" (1981)
+* "Final Version" (1982; included in ''100 Short Short Fantasy Stories'')
+* "Stoneskin" (1984)
+* "Spirits from the Vasty Deep" (1986)
+* "Alaska" (1989)
+* "Timekeeper" (1990)
+* "A Boy and His Wolf: Three Versions of a Fable" (1993; in the anthology ''Xanadu'')
+* "The Persistence of Memory" (1998)
+* "Laugh Clone Laugh"  (''Playboy Magazine'', May 1986)
+
+==References==
+{{reflist}}
+
+==External links==
+* {{isfdb name|id=John_Morressy|name=John Morressy}}
+* {{webarchive |url=https://web.archive.org/web/20080516153447/http://www.sfwa.org/news/2006/jmorressy.htm |date=May 16, 2008 |title=SFWA Obituary }}
+* [https://www.independent.co.uk/news/obituaries/john-morressy-6104083.html Independent (UK) Obituary]. April 1, 2009. 
+
+{{Authority control}}
+
+{{DEFAULTSORT:Morressy, John}}
+[[Category:1930 births]]
+[[Category:2006 deaths]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American short story writers]]
+[[Category:American male novelists]]
+[[Category:American male short story writers]]
+[[Category:American science fiction writers]]
+[[Category:Franklin Pierce University faculty]]
+[[Category:The Magazine of Fantasy & Science Fiction people]]
+[[Category:People from Sullivan, New Hampshire]]
+[[Category:Writers from Brooklyn]]
+
+
+{{US-sf-writer-stub}}

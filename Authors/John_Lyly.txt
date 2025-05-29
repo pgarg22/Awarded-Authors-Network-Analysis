@@ -1,0 +1,153 @@
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = John Lyly
+| honorific_suffix = [[M.A. (Oxon)|M.A. (Oxon) & (Cantab)]]
+| image            = 
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = 1553 or 1554
+| birth_place      = [[Kent]], [[Kingdom of England|England]]
+| death_date       = 30 November 1606 (age about 52)
+| death_place      = [[London]], England
+| resting_place    = [[St Bartholomew-the-Less]], London
+| occupation       = Writer, dramatist, courtier, and [[Member of Parliament]]
+| language         = [[Early Modern English]]
+| residence        = 
+| nationality      = English
+| citizenship      = 
+| education        = 
+| alma_mater       = [[Magdalen College, Oxford]]
+| home_town        = 
+| period           = 
+| genre            = <!-- or: | genres = -->
+| subject          = <!-- or: | subjects = -->
+| movement         = [[English Renaissance]]
+| notable_works    = {{unbulleted list|''[[Euphues: The Anatomy of Wit]]''|''[[Euphues|Euphues and his England]]''|''[[Campaspe (play)|Campaspe]]''|''[[Sapho and Phao]]''|''[[Gallathea]]''|''[[Endymion (play)|Endymion]]''|''[[Midas (Lyly play)|Midas]]''|''[[Mother Bombie]]''|''[[Love's Metamorphosis]]''|''[[The Woman in the Moon]]''}}
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 
+|parents=Peter Lyly and Jane Burgh
+| relatives        = {{unbulleted list|[[William Lily (grammarian)|William Lily]] (grandfather)|[[George Lily]] (uncle)}}
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 1578–1602
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc.; or omit -->
+}}
+[[File:John Lyly's signature (from a letter to Sir Robert Cecil, Feb. 4 1602-3; from original MS. in Hatfield Library).png|thumb|259x259px|Lyly's signature, from a letter to [[Robert Cecil, 1st Earl of Salisbury|Sir Robert Cecil]], 4 Feb. 1602-3]]
+{{short description|16th/17th-century English writer, poet, dramatist, and courtier}}
+{{About|John Lyly|people named John Lilly|John Lilly (disambiguation)}}
+{{Use dmy dates|date=October 2015}}
+{{Use British English|date=October 2015}}
+
+'''John Lyly''' ({{IPAc-en|ˈ|l|ɪ|l|i}}; c. 1553 or 1554 – November 1606; also spelled ''Lilly'', ''Lylie'', ''Lylly'') was an English writer, dramatist, courtier, and parliamentarian, best known during his lifetime for his two books ''[[Euphues|Euphues: The Anatomy of Wit]]'' (1578) and its sequel ''Euphues and His England'' (1580), but perhaps best remembered now for his plays. Lyly's distinctive and much imitated literary style, named after the title character of his two books, is known as ''[[euphuism]]''.
+
+==Biography==
+
+John Lyly was born in [[Kent]], England, in 1553/1554, the eldest son of Peter Lyly and his wife, Jane Burgh (or Brough), of Burgh Hall in the [[North Riding of Yorkshire]]. He was probably born either in [[Rochester, Kent|Rochester]], where his father is recorded as a [[notary public]] in 1550, or in [[Canterbury]], where his father was the [[wikt:registrar|Registrar]] for the Archbishop [[Matthew Parker]] and where the births of his siblings are recorded between 1562 and 1568. His grandfather was [[William Lily (grammarian)|William Lily]], the grammarian and the first High (or Head) Master of [[St Paul's School, London]].<ref>Hunter, G. K. (2004). [http://www.oxforddnb.com/index/17/101017251/ "Lyly, John (1554–1606)"]. ''[[Oxford Dictionary of National Biography]]''. Oxford University Press. Retrieved 23 January 2012.</ref> His uncle, [[George Lily]], was a scholar and cartographer, and served as domestic chaplain to [[Reginald Pole]], [[Archbishop of Canterbury]].
+
+Lyly was probably educated at [[King's School, Canterbury]], where his younger brothers are recorded as contemporaries of [[Christopher Marlowe]].<ref>Hunter, G. K. (2004).   [http://www.oxforddnb.com/index/17/101017251/ "Lyly, John (1554–1606)"]. ''[[Oxford Dictionary of National Biography]]''. Oxford University Press. Retrieved 23 January 2012.</ref> He was about 15 years old when, in October 1569, his father died. In his will he made Lyly and Jane his joint executors, and named "my dwelling house... called the Splayed Eagle", close by [[Canterbury Cathedral]] on either Sun Street or Palace Street.<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 518.</ref> They sold the house fourteen months later, in Jan 1571.<ref>William Urry, ‘John Lyly and Canterbury’, 33rd Annual Report of the Friends of Canterbury Cathedral, April 1960, 19-25, p. 24.</ref> 
+
+In 1571, at the age of 16, Lyly became a student at [[Magdalen College, Oxford]],<ref>C.W. Boase & A. Clark, ''Register of the University of Oxford'', vol. II, part. ii, 51</ref> where he is recorded as having received his bachelor's degree on 27 April 1573, and his master's two years later on 19 May 1575.<ref>C.W. Boase & A. Clark, ''Register of the University of Oxford'', vol. II, part. iii, 27.</ref> In his address "To my very good friends the gentlemen scholars of Oxford" at the end of the second edition of his ''[[Euphues|Anatomy of Wit]]'', he complains about a sentence of [[Rustication (academia)|rustication]] apparently passed on him at some time during his university career, but nothing more is known about either its date or its cause. According to [[Anthony Wood (antiquary)|Anthony Wood]], while Lyly had the reputation of "a noted wit", he never took kindly to the proper studies of the university: {{Blockquote
+|For so it was that his genius being naturally bent to the pleasant paths of poetry (as if [[Apollo]] had given to him a wreath of his own bays without snatching or struggling) did in a manner neglect academical studies, yet not so much but that he took the degrees in arts, that of master being compleated 1575.<ref>{{cite book|first=Anthony|last=Wood|url=https://books.google.com/books?id=nolPAAAAYAAJ&pg=PA357|title=Athenae Oxonienses: An exact history of all the writers and bishops who have had their education in the University of Oxford. To which are added the Fasti, or Annals of the said University.|date=1813|page=676}}</ref>}}
+
+While at Oxford, Lyly wrote to [[William Cecil, 1st Baron Burghley|William Cecil, Lord Burghley]], on 16 May 1574, to seek his assistance in applying for the Queen's letters to admit him as [[Fellow#Academia|fellow]] at Magdalen College.<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 522-3.</ref> Although the fellowship was not granted, later letters to Burghley show that their connection continued after he left university.  "This noble man", Lyly writes in the ''Glasse for Europe,'' in the second part of ''Euphues'' (1580), "I found so ready being but a straunger to do me good, that neyther I ought to forget him, neyther cease to pray for him, that as he hath the wisdom of [[Nestor (mythology)|Nestor]], so he may have the age, that having the policies of [[Odysseus|Ulysses]] he may have his honor, worthy to lyve long, by whom so many lyve in quiet, and not unworthy to be advaunced by whose care so many have been preferred."
+
+At some point after university Lyly moved to London, finding lodgings at the fashionable residence of the [[Savoy Palace#Savoy Hospital|Savoy Hospital]] on the [[Strand, London|Strand]], where [[Gabriel Harvey]] described him as "a dapper & a deft companion" and "a pert-conceited youth."<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 524.</ref> Here he began his literary career, writing his first book ''Euphues, or the Anatomy of Wit''. It was licensed to Gabriel Cawood on 2 December 1578 and printed that year with a dedication to [[William West, 1st Baron De La Warr]], and a second expanded edition immediately followed in 1579. In the same year Lyly was incorporated [[Master of Arts (Oxbridge)|M.A.]] at the [[University of Cambridge]].<ref>{{acad|id=LLY579J|name=Lilly, John}}</ref> ''The Anatomy of Wit'' was an instant success, and Lyly quickly followed it with a sequel, ''Euphues and his England'', licensed to Cawood on 24 July, and published in 1580. Like the first, it won immediate popularity. Between them, the two works went through over thirty editions by 1630. As Leah Scragg, their most recent editor, describes them, they would "prove the literary sensation of the age".<ref>Scragg, Leah. Introduction to ''Euphues: Anatomy of Wit, and Euphues and his England'', Revels Plays Companion Library, Manchester University Press, 2003. p. 2.</ref>[[File:Euphues the anatomy of wit.jpg|thumb|right|[[Title page]] of ''Euphues'', the book that launched Lyly's writing career]]For a time Lyly was the most successful and fashionable of English writers, hailed as the author of "a new English", as a "''raffineur de l'Anglois''"; and, as [[Edward Blount]], one of the publishers of his plays, wrote in 1632, "that beautie in court which could not parley Euphuism was as little regarded as she which nowe there speakes not French". Lyly's prose style was much imitated, for example by [[Barnabe Rich]] in his ''Second Tome of the Travels and Adventures of Don Simonides'', 1584; by [[Robert Greene (dramatist)|Robert Greene]] in his ''Menaphon, Camilla’s Alarum to Slumbering Euphues'', 1589; and by [[Thomas Lodge]] in his ''Rosalynde, Euphues Golden Legacie'', 1590, the source text for ''[[As You Like It]]''.
+
+Lyly dedicated his second ''Euphues'' novel to [[Edward de Vere, 17th Earl of Oxford]], who seems to have acted as patron to most of Lyly's literary associates when they left Oxford for London,<ref>Dover Wilson, John. ''John Lyly'', Macmillan and Bowes, Cambridge, 1905.</ref>  and it is about this time that Lyly became his private secretary. De Vere was Burghley's son-in-law, and two years later a letter from Lyly to Burghley, dated July 1582, protests against an accusation of dishonesty which had brought him into trouble with the Earl, and requests a personal interview in order to clear his name. In the same year, he contributed an introductory epistle, ''John Lyly to the Author his friend'', to [[Thomas Watson (poet)|Thomas Watson]]'s collection of poems ''Hekatompathia, or passionate Centurie of Love'', also published by Cawood, and which Watson also dedicated to de Vere.<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 528-9.</ref>  
+
+In 1583, de Vere secured him the lease of the first [[Blackfriars Theatre|Blackfriars Playhouse]], where Lyly's first two plays, ''[[Campaspe (play)|Campaspe]]'' and ''[[Sapho and Phao]]'' were performed by the joint company of the [[Children of the Chapel]] and the [[Children of Paul's]] known as Oxford's Boys, before their performances at Court in the presence of the Queen at [[Palace of Whitehall|Whitehall Palace]].<ref>''The Complete Works of John Lyly''. R. W. Bond, 3 Vols. Clarendon Press. ii. p. 230.</ref> ''Campaspe'' was performed there during the Christmas festivities 1583-84, on "New Year's Day at Night", and ''Sapho'' during the pre-[[Lent]] festivities on the evening of [[Shrove Tuesday]], 3 March 1584. A warrant issued on 12 March ordered that Lyly be paid a total of £20 for the two performances, although it took until 25 November until he finally received the money.<ref> Wiggins, Martin. ''British Drama 1533–1642: A Catalogue, Vol II: 1567–1589''. Oxford University Press. 2012. p. 336</ref> In the meantime, Lyly lost control of the theatre around [[Easter]] when [[William More (died 1600)|Sir William More]] reclaimed the lease, closing it down, and in June, Lyly was briefly jailed in the [[Fleet Prison]] for a debt of £9 8s 8d owed to Nicholas Bremers.<ref> Common Pleas record [http://aalt.law.uh.edu/AALT5/Eliz/CP40no1402/bCP40no1402dorses/IMG_0444.htm] Retrieved 24 March 2021.</ref> [[Patent Roll|Patent Rolls]] show he was quickly released, "for pity's sake", on 10 June, by the intervention the Queen herself.<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 532.</ref> 
+
+A letter written on 30 Oct 1584 from Oxford to Burghley shows that Lyly was still in de Vere's service, and that Lyly was awkwardly positioned in his loyalty to both men, saying "you sent for Amis my man, and yf he wear absent, that Lylle should come unto yow... I mean not to be yowre ward nor yowre chyld... and scorne to be offered that injurie, to think I am so weak of government as to be ruled by servants".<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 532-4.</ref> On 24 November Oxford transferred the rental rights of the manor of [[Bentfield Bury]] and a nearby wood, both in [[Stansted Mountfitchet]], [[Essex]], to Lyly worth £30 13s 4d a year.<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 534-8.</ref> Just over a year later, on 3 March 1586, the property's tenants then bought out the rental rights from him for the lump sum of £250.<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 540-5.</ref> By 1587 his plays were once again being performed, this time by the [[Children of Paul's]] at their playhouse by [[St Paul's Cathedral]], up until that theatre's closure around 1590-91. In total, at least six of Lyly's eight known surviving plays were acted before the Queen. Their brisk lively dialogue, classical colour and frequent allusions to persons and events of the day maintained that popularity with the court which ''Euphues'' had won.
+
+In 1589 Lyly published a tract in the [[Martin Marprelate]] controversy, called ''Pappe with an hatchet, alias a figge for my Godsonne; Or Crack me this nut; Or a Countrie Cuffe, etc.'' Though published anonymously, the evidence for his authorship of the tract may be found in [[Gabriel Harvey]]'s ''Pierce's Supererogation'' (written November 1589, published 1593), in [[Thomas Nashe]]'s ''[[Have with You to Saffron-Walden]]'' (1596), and in various allusions in Lyly's own plays.<ref>See Frederick William Fairholt's ''Dramatic Works of John Lilly'', i. 20.</ref>
+
+Lyly sat as an [[Member of Parliament|M.P]] in Queen Elizabeth's last four Parliaments, for [[Hindon (UK Parliament constituency)|Hindon]] in [[Wiltshire]] in 1589, for [[Aylesbury (UK Parliament constituency)|Aylesbury]] in [[Buckinghamshire]] twice, in 1593 and 1601, and for [[Appleby (UK Parliament constituency)|Appleby]] in [[Westmorland]] in 1597-8 when he also served on a parliamentary committee about wine casks.<ref>Author: B.D.. [https://www.historyofparliamentonline.org/volume/1558-1603/member/lyly-john-1554-1606/ "Lyly, John (1554–1606)"]. ''[[History of Parliament Online]]''. History of Parliament Trust. Retrieved 22 March 2021.</ref> 
+
+In 1594, Lyly was made an honorary member of [[Gray's Inn]] in order to attend the lawyers' Christmas Revels, during which, on 28 December, Shakespeare's company famously performed their [[The Comedy of Errors#Performance|''Comedy of Errors'']].<ref>Hunter, G. K. (2004). [http://www.oxforddnb.com/index/17/101017251/ "Lyly, John (1554–1606)"]. ''[[Oxford Dictionary of National Biography]]''. Oxford University Press. Retrieved 23 January 2012.</ref> In 1597, Lyly contributed [[commendatory verse]]s in Latin to [[Henry Lok]]'s verse translation of the book of ''[[Ecclesiastes]]'', which Lok dedicated to the Queen.<ref>''Ecclesiastes, otherwise called the Preacher, compendiously abridged, and also paraphristically dilated in English Poesie. . .composed by H. L., Gentleman. Whereunto are annexed sundrie Sonets of Christian Passions heretofore printed, and now corrected and augmented, with other affectionate Sonets of a feeling Conscience of the same Authors'' (London).</ref>
+
+In addition to plays, Lyly also composed at least one "entertainment" (a show that combined elements of [[masque]] and drama) performed for Queen Elizabeth during her various Progresses through the country; ''The Entertainment at Chiswick'' was staged on 28 and 29 July 1602 at the house of Sir William Russell.<ref>Peter Beal. [http://www.celm-ms.org.uk/introductions/LylyJohn/ "John Lyly"]. ''Catalogue of English Literary Manuscripts 1450-1700'', Retrieved 22 April 2021.</ref> Lyly has been suggested as the author of several other royal entertainments of the 1590s, most notably ''The Entertainment at Mitcham'' performed on 13 September 1598 at the house of [[Julius Caesar (judge)|Sir Julius Caesar]].<ref>Logan, Terence P., and Denzell S. Smith, eds. ''The Predecessors of Shakespeare: A Survey and Bibliography of Recent Studies in English Renaissance Drama.'' Lincoln, NE, University of Nebraska Press, 1973; pp. 137-8.</ref>
+
+Two petitions by Lyly to Queen Elizabeth show that he entered her service at some time in the late 1580s, with hopes of becoming her Master of the Revels, hopes that eventually ended in disappointment. In the first petition he says that: {{Blockquote
+|I was entertained your Majestie's servaunt by your own gratious favor... strengthened with condicions that I should ayme all my courses at the Revells (I dare not say with a promise, but with a hopeful Item to the Revercion) for which these ten yeres I have attended with an unwearyed patience}} In the second petition, dated 1601, Lyly complains: {{Blockquote
+|Thirteen yeres your highnes servant but yet nothing. Twenty friends that though they saye they will be sure, I finde them sure to be slowe. A thousand hopes, but all nothing; a hundred promises but yet nothing. Thus casting up the inventory of my friends, hopes, promises and tymes, the summa totalis amounteth to just nothing}} The originals of the two petitions do not survive, but, whatever their success with Elizabeth, after Lyly's death the pair enjoyed the most extensive circulation in manuscript of any Elizabethan-Jacobean dramatist. Forty-six copies of the two letters in post-1620 manuscript miscellanies, anthologies of state correspondence, and letter-manuals, can currently be recorded.<ref>Peter Beal. [http://www.celm-ms.org.uk/introductions/LylyJohn/ "John Lyly"]. ''Catalogue of English Literary Manuscripts 1450-1700''. Retrieved 22 April 2021.</ref> 
+
+A third, now lost, petition is mentioned in a letter to [[Robert Cecil, 1st Earl of Salisbury|Sir Robert Cecil]], Elizabeth's Principal Secretary, dated 4 Feb 1602, where Lyly tells him that: {{Blockquote
+|My wife delivered my petition to the Queen, who accepted it graciously, & as I desired referred it to Mr Grevil... The copy I have sent enclosed, not to trouble your Honour, but only to vouchsafe a view of the particulars, all woven in one, is but to have something<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 562-3.</ref>}} What he did in fact receive, if anything, as a result of this third petition is unknown. At Elizabeth's death a year later in March 1603, Lyly was granted seven yards of black cloth for her funeral, and his servants four yards.<ref>Feuillerat, Albert. ''John Lyly: Contribution a l'Histoire de la Renaissance en Angleterre''. Cambridge: University Press. 1910. p. 528-9.</ref>
+
+Lyly died of unknown causes in 1606, in the early part of the reign of [[James I of England|James I]], and was buried on 30 November in the church of [[St Bartholomew-the-Less]] in London. He was married to Beatrice Browne of Yorkshire, and they had at least four sons and five daughters.
+
+The proverb "All is fair in love and war" has been attributed to Lyly's ''Euphues''.<ref>[https://books.google.com/books?id=7PMZJqSR4sAC&pg=PA355&lpg=PA355&dq=%22Love+and+warre+are+all+one%22&source=bl&ots=ARfpPCNBX1&sig=xRlnJYPtRPfSb2QW2YCylbF-6Eo&hl=en&sa=X&oi=book_result&resnum=4&ct=result Manser, M, and George Latimer Apperson.  ''Wordsworth Dictionary of Proverbs.''  p. 355.  2006.]</ref><ref>[https://books.google.com/books?id=2k96AB7VU7YC&pg=PA49&lpg=PA49&dq=%22All%27s+fair+in+love+and+war%22+John+Lyly&source=web&ots=NsAoqZLBvn&sig=2XQx1DRVL98pc5hVvtfX1McJr0I&hl=en&sa=X&oi=book_result&resnum=3&ct=result Richard Alan Krieger.  Civilization's Quotations: Life's Ideal.  p. 49.  2002.]</ref>
+
+==Comedies==
+Although ''[[Euphues]]'' was Lyly's most popular and influential work in the Elizabethan period, it is his plays which are now admired for their flexible use of dramatic prose and the elegant patterning of their construction.<ref>''The Oxford Companion to English Literature'', 6th Edition. Edited by [[Margaret Drabble]], Oxford University Press, 2000 p. 618</ref>  When describing the playwrights of his day in his ''[[Palladis Tamia|Palladis Tamia, or Wits Treasury]]'', printed in 1598, [[Francis Meres]] placed "eloquent and witty John Lyly" in his list of "the best for comedy amongst us" alongside Shakespeare. [[Ben Jonson]], in his poem "''To the Memory of My Beloved, the Author, Mr William Shakespeare''" printed in the 1623 [[First Folio]], praises him by listing Lyly as one of the best playwrights whom he surpassed: "How far thou didst our Lyly outshine, Or sporting Kyd, or Marlowe's mighty line". Shakespeare’s comedies ''[[Love's Labour's Lost]]'', ''[[A Midsummer Night's Dream|A Midsummer Night’s Dream]]'', ''[[Much Ado About Nothing]]'', ''[[As You Like It]]'', and ''[[Twelfth Night]]'' are all seen to have drawn influence from Lyly’s work.
+
+In 1632, the same year that he published the [[Second Folio]] of Shakespeare's plays, Edward Blount also published ''Sixe Court Comedies,'' the first printed collection of Lyly's plays, informing his readers that: {{Blockquote
+|I have (for the love I beare to Posteritie) dig'd up the Grave of a Rare and Excellent Poet, whom Queene Elizabeth then heard, Graced, and Rewarded... A sinne it were to suffer these Rare Monuments of wit, to lye covered in Dust, and a shame such conceipted Comedies, should be Acted by none but wormes. Oblivion shall not so trample on a sonne of the Muses; And such a sonne, as they called their Darling.}}
+Blount dedicated the volume to [[Richard Lumley, 1st Viscount Lumley|Richard, 1st Viscount Lumley of Waterford]], writing: {{Blockquote
+|It can be no dishonor, to listen to this Poets Music, whose Tunes alighted in the Ears of a great and ever-famous Queene: his Invention was so curiously strung, that ''Elizaes'' Court held his notes in Admiration... For this Poet sat at the ''Sunnes'' Table : ''Apollo'' gave him a wreath of his own ''Bayes'', without snatching. The ''Lyre'' he played on, had no borrowed strings... The greatest treasure our Poet left behind him, are these six ingots of refined invention: richer than Gold. Were they Diamonds they are now yours.}}
+[[File:John Lyly's Six Court Comedies frontispiece.jpg|thumb|Title page of John Lyly's ''Six Court Comedies'', published in 1632]]
+The plays appear in the text in the following order; the parenthetical date indicates the year they appeared separately in quarto form:
+* ''[[Endymion (play)|Endymion]]'' (1591)
+* ''[[Campaspe (play)|Campaspe]]'' (1584)
+* ''[[Sapho and Phao]]'' (1584)
+* ''[[Gallathea]]'' (1592)
+* ''[[Midas (Lyly play)|Midas]]'' (1592)
+* ''[[Mother Bombie]]'' (1594)
+
+The collection printed the songs in ''Campaspe'' and ''Gallathea'' for the first time. Lyly's two other known plays are ''[[Love's Metamorphosis]]'', printed in 1601, and ''[[The Woman in the Moon (play)|The Woman in the Moon]]'', printed in 1597. Of these eight plays, all but this last are in prose. ''A Warning for Faire Women'' (1599) and ''[[The Maid's Metamorphosis]]'' (1600) have been attributed to Lyly, but on altogether insufficient grounds.
+
+The first editions of all these plays were issued between 1584 and 1601, and the majority of them between 1584 and 1592, in what were Lyly's most successful and popular years. His importance as a dramatist has been very differently estimated. Lyly's dialogue is still a long way removed from the dialogue of [[Shakespeare]], but at the same time it is a great advance in rapidity and resource upon anything which had gone before it; his nimbleness and wit represents an important step in English dramatic art.
+
+See ''Lyly's Complete Works'', ed. R. Warwick Bond (3 vols., 1902); ''Euphues'', from early editions, by [[Edward Arber]] (1868); [[Adolphus William Ward|AW Ward]], ''English Dramatic Literature'', i. 151; [[John Payne Collier|JP Collier]], ''History of Dramatic Poetry'', iii. 172; "John Lilly and Shakespeare", by C. C. Hense in the ''Jahrbuch der deutschen Shakesp. Gesellschaft'', vols. vii and viii (1872, 1873); [[F. W. Fairholt]], ''Dramatic Works of John Lilly'' (2 vols.) More recently, all of the comedies have been edited in individual volumes as a part of the Revels Plays series.
+
+==References==
+{{Reflist|33em}}
+
+==Sources==
+* Hunter, G. K. (1962). ''John Lyly: The Humanist as Courtier'' (376  pp). Harvard University Press.
+* {{EB1911|wstitle=Lyly, John|volume=17|pages=159–162}}
+
+==External links==
+
+{{Commons category|John Lyly}}
+{{Wikiquote}}
+{{wikisource-author}}
+* {{Internet Archive author |sname=John Lyly}}
+* {{Gutenberg|no=22525|name=John Lyly}} (A 1905 study by [[J. Dover Wilson]])
+* {{Internet Archive|cu31924013122084|Euphues: the anatomy of wit; Euphues & his England}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lyly, John}}
+[[Category:English Renaissance dramatists]]
+[[Category:1550s births]]
+[[Category:1606 deaths]]
+[[Category:People of the Elizabethan era]]
+[[Category:People from Kent]]
+[[Category:Alumni of Magdalen College, Oxford]]
+[[Category:Alumni of the University of Cambridge]]
+[[Category:University Wits]]
+[[Category:16th-century English writers]]
+[[Category:16th-century male writers]]
+[[Category:17th-century male writers]]
+[[Category:16th-century English novelists]]
+[[Category:16th-century English dramatists and playwrights]]
+[[Category:17th-century English dramatists and playwrights]]
+[[Category:English MPs 1589]]
+[[Category:English MPs 1593]]
+[[Category:English MPs 1597–1598]]
+[[Category:English MPs 1601]]
+[[Category:English male dramatists and playwrights]]
+[[Category:English male novelists]]
+[[Category:English male poets]]

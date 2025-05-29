@@ -1,0 +1,86 @@
+{{short description|American playwright and actress (born 1957)}}
+{{Use American English|date=July 2020}}
+{{Use mdy dates|date=July 2020}}
+{{More citations needed |date=October 2020}}
+{{Infobox person
+| name        = Ellen McLaughlin
+| image       = <!-- just the filename, without the File: or Image: prefix or enclosing [[brackets]] -->
+| alt         = 
+| caption     = 
+| birth_name  = 
+| birth_date  = {{Birth date and age|1957|11|09}}
+| birth_place = 
+| death_date  = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} or {{Death-date and age|Month DD, YYYY|Month DD, YYYY}} (death date then birth date) -->
+| death_place = 
+| nationality = American
+| other_names = 
+| occupation  = Playwright, actress
+| alma_mater  = Yale University
+| home_town   = 
+| spouse      = Rinde Eckert
+| children    = 
+| parents     = 
+| known_for   = 
+}}
+'''Ellen McLaughlin''' (born November 9, 1957) is an American [[playwright]] and actress.
+
+==Early years==
+McLaughlin attended The Potomac School in McLean, Virginia for elementary school (through 9th grade). She subsequently attended [[Sidwell Friends School]], in Washington, D.C., graduating in 1976. She graduated from Yale University in 1980, summa cum laude.
+
+== Writing ==
+In 1992, McLaughlin began adapting Greek plays, beginning with ''Electra'', by Sophocles. For each adaptation, she reads as many English translations as possible, then begins to write her version. Each of her adaptations takes some liberties but retains the original play's basic structure.<ref>{{cite book |title=Brill's Companion to the Reception of Euripides |date=September 17, 2015 |publisher=BRILL |isbn=978-90-04-29981-8 |page=32 |url=https://books.google.com/books?id=kg15CgAAQBAJ&q=%22Ellen+McLaughlin%22+actress&pg=PA32 |accessdate=October 1, 2020 |language=en}}</ref>
+
+Her plays include ''Septimus and Clarissa'', ''Ajax in Iraq'', ''[[Days and Nights Within]]'', ''[[A Narrow Bed]]'', ''[[Infinity's House]]'', ''[[Iphigenia and Other Daughters]]'', ''[[Tongue of a Bird]]'', ''[[The Trojan Women]]'', ''[[Helen of Troy|Helen]]'', ''[[The Persians]]'', ''[[Oedipus]]'', and ''[[The Oresteia]]''.
+Producers include: Actors' Theater of Louisville, The Actors’ Gang L.A., Classic Stage Co., N.Y., The Intiman Theater, Seattle, Almeida Theater, London, The Mark Taper Forum, L.A., the Public Theater in NYC, The Oregon Shakespeare Festival, The National Actors’ Theater, N.Y., The Guthrie Theater in Minnesota, and the [[Shakespeare Theatre Company]] in Washington, D.C., among many other venues.
+
+== Acting ==
+McLaughlin is also an actress, having worked on and Off Broadway as well as extensively in regional theater. She originated the part of the Angel in [[Tony Kushner]]'s ''[[Angels in America]]'', appearing in every U.S. production from its earliest workshops through its Broadway run. Other favorite roles include The Homebody in ''[[Homebody/Kabul]]'' (Intiman Theater, Seattle), Pirate Jenny in ''[[Threepenny Opera]]'' (Trinity Rep. Elliot Norton Award), Mrs. Alving in ''[[Ghosts (play)|Ghosts]]'' (Berkeley Rep.) Titania in ''[[A Midsummer Night's Dream]]'' at the McCarter and the Paper Mill Playhouse, ''A Delicate Balance'', (Arena Stage, Yale Rep.) ''Good People ''(George St. Playhouse, Seattle Rep.), ''Dear Elizabeth'' (People's Light and Theater) and ''Outside Mullingar'' (George St. Playhouse.){{Citation needed |date=October 2020}} On Broadway, she acted in ''Angels in America: Perestroika'' (1993) and ''Angels in America: Millennium Approaches'' (1993).<ref>{{cite web |title=Ellen McLaughlin |url=https://www.ibdb.com/broadway-cast-staff/ellen-mclaughlin-72491 |website=Internet Broadway Database |publisher=The Broadway League |accessdate=October 1, 2020 |archiveurl=https://web.archive.org/web/20201001191118/https://www.ibdb.com/broadway-cast-staff/ellen-mclaughlin-72491 |archivedate=October 1, 2020}}</ref>
+
+McLaughlin's on-screen credits include ''[[Everything Relative]]'', ''The Bed You Sleep In'', with guest appearances on ''[[Law & Order]]''.
+
+== Other professional activities ==
+McLaughlin has taught playwriting in numerous venues, from Yale School of Drama to Princeton University. She has been teaching at ''[[Barnard College]]'' since 1995.<ref name="bio">{{cite web |title=Biography |url=https://www.ellenmmclaughlin.com/biography |website=Ellen McLaughlin |accessdate=October 1, 2020 |archiveurl=https://web.archive.org/web/20201001235447/https://www.ellenmmclaughlin.com/biography |archivedate=October 1, 2020}}</ref>
+
+She is a member of New Dramatists and has served on the board of T.C.G.
+
+Her most recent publication, by T.C.G., is ''[[The Greek Plays]]''.
+
+== Personal life ==
+She is married to Rinde Eckert, a theatre artist and composer.
+
+==Awards and honors==
+*Great American Play Contest
+*Susan Smith Blackburn Prize
+*the NEA
+*the Writer's Award from the Lila Wallace-Reader's Digest Fund
+*the Berilla Kerr Award for playwrighting
+*NEA/TCG Theatre Residency Grant.
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{official|https://www.ellenmmclaughlin.com}}
+* {{IMDb name|0572314}}
+* {{IBDB name}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:McLaughlin, Ellen}}
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:American women dramatists and playwrights]]
+[[Category:21st-century American dramatists and playwrights]]
+[[Category:20th-century American actresses]]
+[[Category:21st-century American actresses]]
+[[Category:American film actresses]]
+[[Category:American stage actresses]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American women writers]]
+[[Category:Yale University alumni]]
+[[Category:Sidwell Friends School alumni]]
+[[Category:Yale University faculty]]
+[[Category:Princeton University faculty]]
+[[Category:Barnard College faculty]]
+[[Category:American women academics]]

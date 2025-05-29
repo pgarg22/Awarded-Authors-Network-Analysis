@@ -1,0 +1,80 @@
+{{Short description|Spanish writer}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Rafael Ábalos
+| image         = Rafael Ábalos.JPG 
+| imagesize     = 
+| alt           = 
+| caption       =Rafael Ábalos at the 'Comédie du Livre' of [[Montpellier, France]], 2009.
+| pseudonym     = 
+| birth_name    = 
+| birth_date    = {{Birth date and age|1956|10|12|df=y}}
+| birth_place   = [[Archidona]], [[Málaga]], [[Spain]]
+| occupation    = Novelist
+| language      = Spanish
+| nationality   = Spanish
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = [[Fantasy]], [[Children's Literature]]
+| subject       = 
+| movement      = 
+| notableworks  = Grimpow: The Invisible Road
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| influences    = 
+| influenced    = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| website       = 
+| portaldisp    = 
+}}
+'''Rafael Ábalos''' (born 12 October 1956) is a [[Spain|Spanish]] [[author]] of the [[bestseller]] book ''Grimpow: The Invisible Road'' <small>({{ISBN|0385733747}})</small> published in 2007.<ref name=twsFebL26>{{cite news
+ |author= Ed Park
+ |title= Running in circles
+ |newspaper= Los Angeles Times
+ |year= 2011
+ |url= http://www.latimes.com/features/la-bkw-park2dec02,0,3507817.story
+ |accessdate= 2011-02-12
+}}</ref><ref name=twsFebL27>{{cite magazine
+ |author= Staff writer
+ |title= Rafael Ábalos, translated by Noël Baca Castex. Delacorte
+ |magazine= Publishers Weekly
+ |isbn= 978-0-385-73374-8
+ |year= 2007
+ |url= https://archive.org/details/grimpow00rafa
+ |accessdate= 2011-02-12
+ |url-access= registration
+ }}</ref> The children's [[Fantasy literature|fantasy novel]] was about a boy finding a mysterious [[amulet]] in [[France]] who becomes a focus of a "centuries-old mission" to enlighten humanity.<ref name=twsFebL27/> According to a review in ''[[Publishers Weekly]]'', Ábalos "blends the grand-scale storytelling prowess and epic quest element of Tolkien’s ''[[Lord of the Rings]]'' with the cryptographic intrigue of Dan Brown’s ''[[The Da Vinci Code]]''", and gave it a positive review.<ref name=twsFebL27/> The book was published by ''[[Random House]]''.<ref name=twsFebL28>{{cite magazine
+ |author= Staff writer
+ |title= Random House Children’s Books
+ |magazine= Publishers Weekly
+ |quote= Random House Children’s Books ...  Grimpow: The Invisible Road by Rafael Ábalos; 
+ |year= 2007
+ |url= http://www.publishersweekly.com/pw/print/20070430/10329-pw-s-bea-exhibitors-guide-q-r-.html
+ |accessdate= 2011-02-12
+}}</ref>
+
+==See also==
+*[[Fantasy literature]]
+{{Portal |Children's literature}}
+
+==References==
+{{Reflist}}
+{{authority control}}
+{{DEFAULTSORT:Abalos, Rafael}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:People from Archidona]]
+[[Category:Spanish children's writers]]
+[[Category:Writers from Andalusia]]
+[[Category:Spanish fantasy writers]]
+[[Category:21st-century Spanish novelists]]
+[[Category:Spanish male novelists]]
+
+
+{{Spain-writer-stub}}

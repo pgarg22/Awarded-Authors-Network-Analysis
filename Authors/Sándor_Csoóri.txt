@@ -1,0 +1,73 @@
+{{eastern name order|Csoóri Sándor}}
+{{Infobox person
+| name = Sándor Csoóri
+| image = Csoóri Sándor (Bahget Iskander).jpg
+| birth_date = {{Birth date|1930|2|3|df=yes}}
+| birth_place = [[Zámoly]], [[Kingdom of Hungary (1920–46)|Hungary]]
+| death_date = {{Death date and age|2016|9|12|1930|2|3|df=yes}}
+| death_place = [[Üröm]], Hungary
+
+| children    = Sándor
+}}
+'''Sándor Csoóri''' (3 February 1930 – 12 September 2016) was a Hungarian poet, essayist, writer, and politician.
+
+==Biography==
+In 1950, he graduated from the Reformed College in the town of Pápa ([[:hu:Pápai Református Kollégium]]) and then studied at [[Eötvös Loránd University|ELTE Institute]], but dropped his studies because of illness. He worked in various journals, such as, during 1953-54, ''The Literary Newspaper'' and, from 1955 until 1956, he was the poetry section editor in "The New Sound" periodical. In 1956, he could not find work for a while and then, in 1960, as at the beginning of the [[Budapest University of Technology]] and newspaper editorial staff, he was the MAFILM dramaturg from 1968 until 1988.<ref>{{cite web |url=http://boaeditions.org/authors/csoori.html |title=Archived copy |access-date=2009-09-21 |url-status=dead |archive-url=https://web.archive.org/web/20090106015802/http://www.boaeditions.org./authors/csoori.html |archive-date=2009-01-06 }}</ref>
+
+His first poems appeared in 1953, raising a big stir, being critical of the [[Mátyás Rákosi|Rákosi]] era.
+The authorities soon noticed that Csoóri was not one of their supporters. He wrote criticizing the dictatorship's impact of personality, and the fate of rural people. He was under surveillance sometimes for years, and did not receive awards. He lived in [[Budapest]], where he met with his friends, including [[Miklós Jancsó]], [[Ottó Orbán]], [[György Konrád]], [[Ferenc Kósa]].<ref>{{cite journal| url=http://www.nybooks.com/articles/5184| title=An Event in Hungary| journal=The New York Review of Books| date=March 13, 1986 }}</ref>  In 1988, he was co-editor with [[Gáspár Nagy]], of ''[[Hitel]]'', and in 1992 editor-in-chief.<ref>http://www.frankfurt.matav.hu/angol/irok/csoori/elet.htm</ref>
+
+Csoóri died at the age of 86 after a long illness on 12 September 2016.<ref>[http://www.kormany.hu/hu/hirek/bucsu-csoori-sandortol Búcsú Csoóri Sándortól]</ref><ref>[http://hungarytoday.hu/news/sandor-csoori-renowned-hungarian-poet-writer-dies-aged-86-23052 SÁNDOR CSOÓRI, RENOWNED HUNGARIAN POET AND WRITER, DIES AGED 86]</ref>
+
+==Awards==
+* [[Attila József Prize]] (1954, 1970)
+* [[Herder Prize]] (1981)
+* [[István Bibó Prize]] (1984)
+* The Book of the Year Award (1985, 1995, 2004)
+* [[Tibor Déry Prize]] (1987)
+* [[Joseph Fitz Award]] (1989)
+* [[Kossuth Prize]] (1990, 2012)
+* Sower Nívódíja Publishing (1990)
+* [[Radnóti Biennial Poetry prize]] (1990)
+* [[Eeva Joenpelto Award]] (1995)
+* [[Károli Gáspár Award]] (1997)
+* [[Hungarian Heritage Award]] (1997, 2005)
+* [[Order of Merit of the Republic of Hungary]], Commander's Crosses with Star, civilian ([[:hu:A Magyar Köztársasági Érdemrend középkeresztje a csillaggal]], 2000)
+* [[Hungarian Art Prize]] (2004)
+* [[Bálint Balassi Memorial Sword Award]] (2006)
+* [[Prima Primissima Award]], 2008
+
+==Works in English==
+*[http://www.bu.edu/agni/poetry/print/2002/56-csoori.html "Letter to the American Poet, Gregory Corso", ''AGNI'']
+*[http://www.thedrunkenboat.com/csoori.html "A Hidden Self-Portrait";  "A Wind-Crown on My Head"; "Devastation", "I Hunt Yellow Bird", ''The Drunken Boat'']
+*{{cite book| title=The Selected Poems of Sándor Csoóri| place=Port Townsend| publisher=Copper Canyon Press| year=1992| isbn=978-1-55659-047-4| url-access=registration| url=https://archive.org/details/selectedpoemsofs0000csor}}
+*{{cite book| title=Before and After the Fall: New Poems | author=Sándor Csoóri| place=Rochester| publisher=BOA Editions, Ltd.| year=2004| url=https://books.google.com/books?id=dZ5Z7ErQvKUC| isbn=978-1-929918-46-1 }}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.themontserratreview.com/bookreviews/beforeandafter.html "Before and After the Fall", ''The Montserrat Review'', Grace Cavalieri]
+*[http://www.balassi.eu Official homepage of Balint Balassi Memorial Sword Award which is founded by Pal Molnar <ref>Pal Molnar</ref>]
+''this article includes material from'' [[:hu:Csoóri Sándor|''this article'']] ''in [[:hu:Kezdőlap|Kezdőlap]]''
+
+{{Herder Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Csoori, Sandor}}
+[[Category:1930 births]]
+[[Category:2016 deaths]]
+[[Category:Hungarian male poets]]
+[[Category:Hungarian essayists]]
+[[Category:Male essayists]]
+[[Category:Hungarian Democratic Forum politicians]]
+[[Category:Budapest University of Technology and Economics alumni]]
+[[Category:Commander's Crosses with Star of the Order of Merit of the Republic of Hungary (civil)]]
+[[Category:20th-century Hungarian poets]]
+[[Category:21st-century Hungarian poets]]
+[[Category:20th-century essayists]]
+[[Category:21st-century essayists]]
+[[Category:Herder Prize recipients]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:21st-century Hungarian male writers]]
+[[Category:Attila József Prize recipients]]

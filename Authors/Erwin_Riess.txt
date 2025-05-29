@@ -1,0 +1,66 @@
+{{Infobox writer
+| embed            =
+| honorific_prefix =
+| name             = Erwin Riess
+| honorific_suffix =
+| image            =Erwin Riess - Wiener Buchmesse 2017.JPG
+| alt              =
+| caption          = Erwin Riess at the Vienna Book Fair in 2017
+| native_name      =
+| native_name_lang = de
+| birth_name       =
+| birth_date       = {{Birth date and age|1957|03|13}}
+| birth_place      =
+| occupation       =
+| language         =
+| nationality      = German
+| education        =
+| alma_mater       =
+| notable_works    =
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         =
+| relatives        =
+| awards           =
+| signature        =
+| signature_alt    =
+| years_active     =
+| module           =
+| website          ={{URL|erwin-riess.at}}
+}}
+'''Erwin Riess''' (born March 13, 1957), is an [[Austria]]n [[political scientist]], [[playwright]] and [[journalist]]; He has been a wheelchair user since 1983, he is an activist for the disabled and has been a freelance writer since 1994 writing plays, radio plays, scripts and prose.<ref name="th_rec">{{cite journal|last=Herbert|first=I.|title=HAWKING'S DREAM or THE GRAND UNIFIED QUANTUM THEORY OF HUMAN GRAVITY|journal=Theatre Record|year=2000|volume=20|issue=9–18|pages=632|url=https://books.google.com/books?id=YocrAQAAIAAJ&q=erwin+riess+-icon|access-date=27 July 2010}}</ref>
+
+==Life==
+Erwin Riess attended school in [[Krems an der Donau|Krems]], [[Austria]] and later returned to [[Vienna]] to study political and theatre science.   In 1983 he was relegated to a wheelchair after the discovery of a back [[tumor]].  He has since been active in [[disability]] campaigns and humanitarian efforts to improve living conditions for disabled persons living in [[Austria]].<ref name="Zeit Online">{{cite web | title=The writer Erwin Riess on the strange conditions in Carinthia (interview) | website=Zeit Online | url=https://www.zeit.de/2012/33/A-Erwin-Riess-Kaernten | language=de}}</ref>
+
+He is a freelance writer providing material for many magazines and newspapers and writing theatrical works, many of which have been performed internationally. Based on the life of [[Stephen Hawking]], "Hawking's Dream" is arguably his most famous and well-received work.<ref name="Zeit Online"/>
+
+==Works==
+* ''Kuruzzen: A Chronicle from the Time of Prince Eugene'' (1996)
+* ''Adieu Madrid'' (1997)
+* ''Hawking's Dream'' (1998)
+* ''Mr. Groll experiences the world'' (1999)
+* ''Giordanos Order'' (novel, 1999)
+* ''My Austria'' (2001)
+
+==External links==
+* [https://www.erwin-riess.at/ erwin-riess.at] Website de Erwin Riess
+* {{DNB-Portal|121225100}}
+* [http://www.ogl.at/archiv/gaeste-ab-1999/bio/R/erwin-riess/ Erwin Riess] Austrian Society for Literature
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Riess, Erwin}}
+[[Category:1957 births]]
+[[Category:Living people]]
+[[Category:20th-century Austrian dramatists and playwrights]]
+[[Category:21st-century Austrian dramatists and playwrights]]
+[[Category:21st-century Austrian novelists]]
+[[Category:Austrian male dramatists and playwrights]]
+[[Category:Austrian male novelists]]
+
+
+{{Austria-writer-stub}}

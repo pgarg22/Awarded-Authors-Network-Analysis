@@ -1,0 +1,67 @@
+{{short description|Slovak writer, translator and critic|bot=PearBOT 5}}
+{{Use dmy dates|date=June 2015}}
+{{Infobox writer
+| name = Radovan Brenkus
+| awards = 
+| image = Radovan_Brenkus.jpg
+| caption = [[Slovak language|Slovak]] writer, translator and critic
+| birth_name =
+| birth_date = {{birth date|df=yes|1974|1|30}}
+| birth_place = [[Bardejov]], Slovakia
+| death_date =
+| death_place =
+| occupation =
+| notableworks = Hell Returns
+| influences =
+| publisher=
+| accessdate=
+}}
+'''Radovan Brenkus''' (born 30 January 1974, [[Bardejov]]) is a [[Slovak language|Slovak]] writer, translator and critic.
+
+== Biography ==
+The author finished the study at Science faculty of [[University of Pavol Jozef Šafárik|P. J. Šafárik University]], in mathematics and [[physics]]. He worked as a teacher in [[Košice]], later as a specialist worker at the Institute of Experimental Physics of [[Slovak Academy of Sciences]]. He publishes in journals at home and abroad. [[Slovenský rozhlas|Slovak Radio]] broadcast a lot of his works, which have been published in international anthologies. He translates works from [[Polish language|Polish]] and occasionally undertakes [[literary criticism]], writing a critical studies and essays. The author works in publishing house Pectus in [[Košice]], which was founded in 2006.<ref>{{cite book|title=Slovak Writers' Dictionary of the 20th Century|year=2008|publisher=The Centre for Information on Literature|location=Bratislava|edition=2nd|isbn=978-80-89222-48-3|language=Slovak}}</ref>
+
+== Creation ==
+Brenkus is a continuator of literary [[modernism]]. In the field of poetry, he observes, analyses and decrypts the chaotic tired world, denounces the prevailing moral circumstances, the differences in its perception from without and within. The inspiratory sources are destructive emptiness, nothingness, limiting pseudo-being. By a symbology of [[pessimism]] and [[decadence]], he shows the loneliness of the individual, his more worsening condition and uncertain future.<ref>{{cite journal|last=Mikulášek|first=Alexej|title=Modernism redivivus?|journal=Obrys-Kmen|volume=2003|issue=18|location=Praha|publisher=Union of the Czech Writers|issn=1210-1494|language=Czech}}</ref>
+
+The motive of his prose is a search for the meaning of existence, awareness of transience, death. Among other things, Brenkus writes in neo-romantic style, as well as criticizes [[existentialism]] and the [[civilization]] [[progress (history)|progress]] which forces a human to find his own survival instinct. Surrealistic characters in author's stories are torn between the ideal and the real, and disturb an accepted order. Through expressive and mystical [[symbol]]ism, dramatic and grotesque scenes, Brenkus displays rebellion against [[elitism]] and decline of contemporary society. He provides a space for [[catharsis]] in the condensed and equally distinctive characteristics of the situations and characters.<ref>{{cite journal|last=Mikulášek|first=Alexej|title=Brenkusiada ex inferno or "Somebody else is in the same situation"|journal=Dotyky|volume=2006|issue=3–4|location=Bratislava|publisher=Slovak Writers' Society|issn=1210-2210|language=Slovak}}</ref>
+
+== Works ==
+
+=== Poetry ===
+
+*1997 – ''March of the Dead''
+*2002 – ''Requiem in the Dust''
+*2005 – ''Romance with a will-o'-the-wisp''
+*2009 – ''Smoke from the Realm of Shadows''
+*2015 – ''Dreaming with a Beast (2017, in Polish)''
+
+=== Prose ===
+
+*2005 – ''Hell Returns (2013, in Polish)'', short-story collection
+
+=== Translations ===
+
+*2008 – ''Zbigniew Domino: Polish Siberiada''
+*2009 – ''Rafał Wojaczek: Letters for Dead Man''
+*2010 – ''Marta Świderska-Pelinko: Taste of Wandering and Eden''
+*2017 – ''Marta Świderska-Pelinko: Where the Violin Cries''
+*2020 – ''Janusz Korczak: Children of the Street''
+*2021 – ''Aldona Borowicz: Stained Glasses in Memory''
+
+== References ==
+{{Reflist}}
+
+== External links ==
+*[http://www.litcentrum.sk/slovenski-spisovatelia/radovan-brenkus Album of the Slovak Writers] ([[Slovak language|sk]])
+*[http://brenkus.svid.eu Personal profile] ([[Slovak language|sk]], [[English language|en]])
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brenkus, Radovan}}
+[[Category:1974 births]]
+[[Category:People from Bardejov]]
+[[Category:Slovak writers]]
+[[Category:Slovak translators]]
+[[Category:Slovak poets]]
+[[Category:Living people]]

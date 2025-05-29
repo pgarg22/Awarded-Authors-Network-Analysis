@@ -1,0 +1,97 @@
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Kjeld Abell
+| image         = 
+| image_size    = 
+| alt           = 
+| caption       = 
+| pseudonym     = 
+| birth_name    = 
+| birth_date    =  {{Birth date|1901|08|25}}  <ref name=EB>{{cite encyclopedia |editor-first=Dale H. |editor-last=Hoiberg |encyclopedia=Encyclopædia Britannica |title=Abell, Kjeld |edition=15th |year=2010 |publisher=Encyclopædia Britannica Inc. |volume=I: A-ak Bayes |location=Chicago, Illinois |isbn=978-1-59339-837-8 |pages=[https://archive.org/details/newencyclopaedia2009ency/page/26 26] |url-access=registration |url=https://archive.org/details/newencyclopaedia2009ency/page/26 }}</ref>
+| birth_place   = [[Ribe]], [[Denmark]]
+| death_date    = {{Death date and age|1961|03|05|1901|08|25}}<ref name=EB/>
+| death_place   = [[Copenhagen]], [[Denmark]]
+| resting_place = [[Assistens Cemetery (Copenhagen)|Assistens Cemetery]], Copenhagen
+| occupation    = [[dramatist]], [[stage designer]]
+| language      = 
+| nationality   = 
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = 
+| subject       = 
+| movement      = 
+| notableworks  = ''[[Melodien der blev vœk]]'' (1935) (The Melody that got Lost), ''[[Anna Sophie Hedvig]]'' (1939)
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| module        =
+| website       = 
+| portaldisp    = 
+}}
+
+'''Kjeld Abell''' (25 August 1901 – 5 March 1961)<ref name=EB/> was a Danish [[playwright]], screenwriter, and theatrical designer. Born in [[Ribe]], [[Denmark]], Abell's first designs were seen in [[ballet]]s directed by [[George Balanchine]] at [[Copenhagen]]'s [[Royal Danish Theatre]] and [[London]]'s [[Alhambra Theatre]].
+
+Roughly the dramatic work of Abell might be divided into three phases: a) criticism of [[middle class]] conventions,  b) fighting [[Nazism]] and c) criticism of post-war [[pessimism]] and urge for death. Perhaps he is the first consequent [[modernist]] among Danish playwrights with his use of a flash back Chinese box system and a growing use of symbols and parallel actions.
+
+==Biography==
+Abell worked as a stagehand and a costume designer in Paris before he got his big break as a playwright in 1935 with ''Melodien, der blev vœk'' 1935, (English translation ''The Melody That Got Lost'', 1939),<ref name=EB/><ref>Abell, Kjeld. ''The Melody that Got Lost''. Allen & Unwil. 1939. ASIN B001P89DZY</ref> which is a playful comedy about spiritual disorientation in a technological society; it is also [[expressionism|expressionistic]] in that it utilizes non-verbal and unrealistic elements, undoubtedly inspired by ballet. The first production of this play was in 1935 in Copenhagen followed by a production a year later in London by the [[Arts Theatre]]. In this play Abell describes the life of the "[[white-collar worker]]" limited by old-fashioned conventions, and it is a fantasy about the mental emancipation of "the little man". A young, disrespectful attitude together with both lyric and imaginative dialogue has let it remain his most popular work. Some of its song lines have become classics.
+
+Both before and during the [[Nazism|Nazi]] occupation of Denmark, Abell used his plays to protest the loss of freedom. Themes in these plays explore freedom and escapism as self-annihilation. These works include ''Anna Sophie Hedvig'' (1939, English translation 1944),<ref name=EB/> a defence of [[violence]] as a necessary means against tyranny and a criticism of passive [[humanism]], beyond any doubt inspired by the [[Spanish Civil War]], and ''Dronning gaar igen'' (''The Queen on Tour'', 1943). Abell spent much of his time during the occupation in hiding due to his anti-Nazi activism. ''Silkeborg'' (1946) expresses criticism of both Danish passivity and acceptance of the German occupation.
+
+Following the war many of his plays took on complex [[mysticism|mystical]] elements. These plays include ''Dage paa en sky'' (''Days on a Cloud'', 1947),<ref>Sprinchorn, Evert, editor. ''The Genius of the Scandinavian Theater''. New American Library. 1964</ref> ''Den blå pekingeser'' (''The Blue Pekingese'', 1954), ''Kameliadamen'' (''The Lady of the Camellias'', 1954 - a personal version of the drama by [[Alexandre Dumas, fils|Dumas]]) and ''Skriget'' (''The Scream'', English translation 1961). The much debated ''Dage paa en Sky'' both takes place among the Olympic mythological goddesses and in the brain of a suicidal scientist, it warns against the [[atomic war]], and accuses scientists of prostituting themselves to the rulers. The even more complex ''Den blå pekingeser'' also takes place in the head of a man, while his former love is threatened by death. Again the message is to break one's isolation and to accept life. Abell died in Copenhagen.
+
+Hailed in his prime as a fresh and humorous reformer, critic and teaser of Danish theatre and later respected for his anti-fascist attitudes. After the war Abell was accused of being a [[fellow traveller]] and also criticised for being too complicated and strained. This together with his growing disappointments with the left wing partly led to isolation. However he is probably still regarded as the most important new-thinker of Danish drama of the inter-war period. In European dramatic literature he has been compared to French authors such as [[Giraudoux]] and [[Anouilh]]. He also was a song writer of revues, and he wrote film scripts.
+
+He became a member of the [[Danish Academy]] in 1960.
+
+==Works==
+{| class="wikitable"
+|-
+! Name !! Year !! English Translation !! Year of Eng. Tr.
+|-
+| Melodien der blev væk|| 1935|| The Melody That Got Lost || 1939<ref name=EB/>
+|-
+| Eva aftjener sin Barnepligt|| 1936|| Eva is Serving Her Child Duty ||
+|-
+| Anna Sophie Hedvig|| 1939||Anna Sophie Hedvig || 1944<ref name=EB/>
+|-
+| Judith|| 1940|| Judith ||
+|-
+| Dage paa en Sky|| 1947|| Days on a Cloud<ref name=EB/> ||
+|- 
+| Den blå pekingeser  || 1954 || The Blue Pekingese ||
+|- 
+| Kameliadamen  || 1959 || The Lady of the Camellias ||
+|- 
+| Skriget || 1961 || The Scream<ref name=EB/> ||
+|}
+
+==Sources==
+* Banham, Martin, ed. ''The Cambridge Guide to Theatre''. Cambridge University Press, 1992.
+* Hartnoll, Phyllis, ed. ''The Oxford Companion to the Theatre''. Oxford University Press, 1983.
+* Frederick J. Marker: ''Kjeld Abell''. Gloucester, Mass. 1976.
+* Sven Møller Kristensen: ''Dansk litteratur 1918-1952''. 2. ed. Copenhagen, 1965 (entirely in Danish)
+
+==References==
+{{reflist}}
+
+==External links==
+*{{IMDb name|id=0008538|name=Kjeld Abell}}
+
+{{Authority control}}
+
+{{Use dmy dates|date=April 2017}}
+
+{{DEFAULTSORT:Abell, Kjeld}}
+[[Category:1901 births]]
+[[Category:1961 deaths]]
+[[Category:20th-century Danish dramatists and playwrights]]
+[[Category:Danish male dramatists and playwrights]]
+[[Category:20th-century Danish male writers]]
+[[Category:People from Ribe]]

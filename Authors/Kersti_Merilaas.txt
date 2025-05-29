@@ -1,0 +1,81 @@
+{{short description|Estonian poet and translator}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox person
+| image       =
+| imagesize   =  
+| name         = Kersti Merilaas
+| birth_date   = {{Birth date|1913|12|07|df=yes}}
+| birth_place  = [[Narva]], [[Estonia]], [[Russian Empire]]
+| birthname    = Eugenie Moorberg
+| death_date   = {{Death date and age|1986|03|08|1913|12|07|df=yes}}
+| death_place  = [[Tallinn]], [[Estonia]] 
+| othername   = 
+| occupation  = Poet, translator
+| yearsactive = 1935–1986
+| spouse = [[August Sang]]
+}}
+'''Kersti Merilaas''' ({{osd|7 December|1913|24 November}} in [[Narva]] – 8 March 1986 in [[Tallinn]])<ref>[http://www.v-maarja.ee/index.php?part=sm_tmpnl&nl_id=detsember,%202003&art_id=10 Väike-Maarja World]</ref> was an [[Estonia]]n poet and translator. In addition, she wrote poems and prose for children and plays.
+
+==Early life and education==
+Kersti Merilaas was born Eugenie Moorberg in [[Narva]], Estonia shortly before the outbreak of the [[First World War]]. She spent her early childhood in [[St. Petersburg, Russia]] with her mother, Anna Moorberg and sister. The family returned to Estonia in 1917 because of the turmoil of the [[Russian Revolution (1917)|Russian Revolution]]. From 1921 to 1927 she attended school in the village of [[Kiltsi]], then furthered her studies in [[Väike-Maarja]] and [[Rakvere]] in [[Lääne-Viru County]].<ref>[http://www.v-maarja.ee/?part=html&id=35&lng=eng Väike-Maarja World]</ref> In 1932, she completed high school in [[Tapa, Estonia|Tapa]], Estonia.
+
+==Career==
+In 1935, she made her literary debut with a collection of poems titled ''Loomingus''.
+
+In 1936, Merilaas married the Estonian writer and translator [[August Sang]] (1914–1969) and the couple had a son named Joel Sang in 1950 who would go on to become a poet, literary critic, linguist, translator and publicist.<ref name="Kiltsi Põhikool">[http://www.v-maarja.ee/kiltsipk/merilaas.htm Kiltsi Põhikool] {{webarchive|url=https://web.archive.org/web/20080529201318/http://www.v-maarja.ee/kiltsipk/merilaas.htm |date=29 May 2008 }}</ref>
+
+From 1936, Merilaas lived in [[Tartu]], where she was employed as a librarian. She was a member of the influential group of Estonian poets brought together in 1938 by literary scholar [[Ants Oras]] who was greatly influenced by [[T. S. Eliot]]. The small circle of poets became known as ''[[Arbujad]]'' ("Soothsayers") and included [[Heiti Talvik]], [[Paul Viiding]], [[Betti Alver]], [[Uku Masing]] and [[Bernard Kangro]]<ref>[http://www.estlit.ee/?id=947 Elic. ''A Short History of Estonian Literature: Literature in an independent Estonia: 1918–1940'']</ref> That year, her anthology of poetry ''Maantee tuuled'' was published to much critical acclaim, particularly for its lyrical preoccupation with love and nature.<ref name="Kiltsi Põhikool"/> Also in 1938 she joined the [[Estonian Writers' Union]].
+
+After the [[Soviet occupation of Estonia|Soviet occupation]] and annexation of Estonia in 1944, Merilaas' work was viewed by authorities as disreputable and promoting "[[bourgeois nationalism]]". In 1950, Merilaas was forced to resign from the Soviet Writers Association of Estonia.<ref>[http://www.okupatsioon.ee/english/overviews/censorship.html Lotman, Piret. ''Censorship During the Occupation of Estonia.''] {{webarchive|url=https://web.archive.org/web/20080615130741/http://www.okupatsioon.ee/english/overviews/censorship.html |date=15 June 2008 }}</ref> During this time, Merilaas was allowed to continue writing children's literature. In 1960, after the relaxation of Soviet authorities, Merilaas was again permitted to write literature for adults.
+
+Besides poetry and prose, Merilaas wrote [[libretti]] for three operas by Estonian composer [[Gustav Ernesaks]] and translated [[German language|German]] works of [[Bertolt Brecht]], [[Georg Christoph Lichtenberg]] and [[Johann Wolfgang von Goethe]] into the [[Estonian language]].<ref name="Kiltsi Põhikool"/>
+
+Merilaas died in [[Tallinn]], Estonia in 1986 at the age of 72.
+
+==Selected works==
+Poetry
+*''Loomingus'' (1935)
+*''Maantee tuuled'' (1938) 
+*''Rannapääsuke'' (1963)
+*''Kevadised koplid'' (1966)  
+*''Kuukressid'' (1969)
+*''Antud ja võetud'' (1981)
+
+Children's Books
+*''Munapühad'' (1940) 
+*''Kallis kodu'' (collection of poems, 1944) 
+*''Päikese paistel'' collection of poems (1948) 
+*''Turvas'' (1950) 
+*''Veskilaul'' (1959)
+*''Lugu mustast ja valgest'' (1962) 
+*''Lumest lumeni'' (1982) 
+*''Kui vanaema noor oli'' (poetry anthology, 1983) 
+*''Kindakiri. – Варежки'' (poem in Estonian and [[Russian language|Russian]], 1986) 
+*''Siit siiani. Piksepill'' (collection of poems, 1989. Posthumous)
+
+Plays
+*''Kaks viimast rida'' (1973) 
+*''Pilli-Tiidu'' (1974)
+
+==Awards==
+In 1976, Kersti Merilaas was awarded the [[Friedebert Tuglas]] Short Story Award for her work ''Eilsete perest.''<ref>[http://www.utkk.ee/eng/award.html Under and Tuglas Literature Centre of the Estonian Academy of Sciencies, Fridebert Tuglas Short Story Award] {{webarchive|url=https://web.archive.org/web/20070927041835/http://www.utkk.ee/eng/award.html |date=27 September 2007 }}</ref>
+
+==Further reading==
+*Kiin, Sirje: ''Kersti Merilaas: luuletaja elu.'' (in Estonian). Eesti Raamat. Tallinn 1989  {{ISBN|5-45-000680-2}} 
+*Hasselblatt, Cornelius: ''Geschichte der estnischen Literatur.'' (in German). Walter de Gruyter. Berlin, New York. 2006. {{ISBN|3-11-018025-1}}
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Merilaas, Kersti}}
+[[Category:1913 births]]
+[[Category:1986 deaths]]
+[[Category:People from Narva]]
+[[Category:People from Yamburgsky Uyezd]]
+[[Category:20th-century Estonian poets]]
+[[Category:Estonian translators]]
+[[Category:Estonian women poets]]
+[[Category:20th-century women writers]]
+[[Category:20th-century translators]]

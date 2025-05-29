@@ -1,0 +1,506 @@
+{{Use dmy dates|date=December 2019}}
+{{short description|German poet, journalist, essayist, and literary critic}}
+{{About|the German writer and poet|the German train route|Heinrich Heine (train)|the German mathematician|Heinrich Eduard Heine}}
+{{Infobox writer
+| name         = Heinrich Heine
+| image        = Heinrich Heine-Oppenheim.jpg
+| alt          =
+| caption      = Painting of Heine by [[Moritz Daniel Oppenheim]]
+| pseudonym    =
+| birth_name    = Harry Heine
+| birth_date    = {{Birth date|1797|12|13|df=y}}
+| birth_place   = [[Düsseldorf]], [[Duchy of Berg]], [[Holy Roman Empire]]
+| death_date   = {{Death date and age|1856|2|17|1797|12|13|df=y}}
+| death_place   = Paris, [[Second French Empire]]
+| occupation   = Poet, essayist, journalist, literary critic
+| nationality  = German
+| ethnicity    =
+| citizenship  =
+| education    =
+| alma_mater   = [[University of Bonn|Bonn]], [[Humboldt University of Berlin|Berlin]], [[University of Göttingen|Göttingen]]
+| period       =
+| genre        =
+| subject      =
+| movement     = [[Romanticism]]
+| notableworks = {{plainlist|
+*''{{ill|Buch der Lieder|de|Buch der Lieder (Heine)}}''
+*''Reisebilder''
+*''[[Germany. A Winter's Tale]]''
+*''Atta Troll''
+*''Romanzero''}}
+| spouse       =
+| partner      =
+| children     =
+| relatives    = {{plainlist|
+*[[Salomon Heine]] (uncle)
+*[[Gustav Heine von Geldern|Gustav Heine]] (brother)
+*[[Karl Marx]] (3rd cousin)}}
+| awards       =
+| signature    = Heinrich Heine signature.svg
+| website      =
+| portaldisp   =
+| imagesize    = 
+}}
+'''Christian Johann Heinrich Heine''' ({{IPA-de|ˈhaɪnʁɪç ˈhaɪnə|lang|De-Heinrich Heine.ogg}}; born '''Harry Heine'''; 13 December 1797 – 17 February 1856) was a German poet, writer and literary critic. He is best known outside Germany for his early [[lyric poetry]], which was set to music in the form of ''[[Lied|lieder]]'' (art songs) by composers such as [[Robert Schumann]] and [[Franz Schubert]]. Heine's later verse and prose are distinguished by their satirical wit and irony. He is considered a member of the [[Young Germany]] movement. His radical political views led to many of his works being [[Censorship in Germany|banned by German authorities]]—which, however, only added to his fame.<ref>{{cite book |url=https://books.google.com/books?id=VnIjAQAAIAAJ&q=%22Heine+became+famous+because+of+censorship,+%22 |title=Censorship: Gabler, Mel, and Norma Gabler-President's Commission on Obscenity and Pornography |last=Amey |first=L.J. |date=1 January 1997 |publisher=Salem Press |isbn=9780893564469 |page=350 |language=en |quote=Ironically, Heine became famous because of censorship, particularly after he wrote a political cycle of poems entitled ''[[Germany. A Winter's Tale]]'' in 1844 that was immediately banned throughout the confederation}}</ref> He spent the last 25 years of his life as an [[expatriate]] in Paris.
+
+==Early life==
+
+===Childhood and youth===
+[[File:Betty Heine (Isidor Popper).jpg|thumb|150px|Heine's mother, "Betty"]]
+Heine was born on 13 December 1797, in [[Düsseldorf]],<ref>{{NDB|8|286|291|Heine, Heinrich|Galley, Eberhard|118548018}}</ref> in what was then the [[Berg (state)|Duchy of Berg]], into a Jewish family.<ref>{{Cite web|url=https://dbs.bh.org.il/luminary/heine-heinrich-112966|title=Heroes – Trailblazers of the Jewish People|website=Beit Hatfutsot}}</ref> He was called "Harry" in childhood but became known as "Heinrich" after his conversion to [[Lutheranism]] in 1825.<ref>"There was an old rumor, propagated particularly by anti-Semites, that Heine's Jewish name was Chaim, but there is no evidence for it." ''Ludwig Börne: A Memorial'', ed. {{ill|Jeffrey L. Sammons|de}}, Camden House, 2006, p. 13 n. 42.</ref> Heine's father, Samson Heine (1764–1828), was a textile merchant. His mother Peira (known as "Betty"), ''née'' van Geldern (1771–1859), was the daughter of a physician.
+
+Heinrich was the eldest of four children. He had a sister, Charlotte, and two brothers, [[Gustav Heine von Geldern]] (later Baron Heine-Geldern and publisher of the Viennese newspaper ''{{ill|Fremden-Blatt|de}}'') and Maximilian, who became a physician in [[Saint Petersburg]].{{sfn|Sammons|1979|pp=11–30}} Heine was also a third cousin once removed of philosopher and economist [[Karl Marx]], also born to a German Jewish family in the [[Rhineland]], with whom he became a frequent correspondent in later life.<ref>Raddatz ''Karl Marx: A Political Biography''{{full citation needed|date=October 2020}}</ref>
+
+Düsseldorf was then a small town with a population of around 16,000. The [[French Revolution]] and subsequent Revolutionary and Napoleonic Wars involving Germany complicated Düsseldorf's political history during Heine's childhood. It had been the capital of the [[Duchy of Jülich|Duchy of Jülich-Berg]], but was under French occupation at the time of his birth.<ref>Sammons p. 30{{incomplete short citation|date=December 2020}}</ref> It then went to the [[Maximilian I Joseph of Bavaria|Elector of Bavaria]] before being ceded to [[Napoleon]] in 1806, who turned it into the capital of the [[Grand Duchy of Berg]], one of three French states he established in Germany. It was first ruled by [[Joachim Murat]], then by Napoleon himself.<ref>In the name of his four-year-old nephew, [[Napoleon Louis Bonaparte|Napoleon Louis]]. {{harv|Sammons|1979|p=31}}</ref> Upon Napoleon's downfall in 1815 it became part of [[Prussia]].
+
+Thus Heine's formative years were spent under French influence. The adult Heine would always be devoted to the French for introducing the [[Napoleonic Code]] and trial by jury. He glossed over the negative aspects of French rule in Berg: heavy taxation, conscription, and economic depression brought about by the [[Continental Blockade]] (which may have contributed to his father's bankruptcy).{{sfn|Sammons|2006|p=67}} Heine greatly admired Napoleon as the promoter of revolutionary ideals of liberty and equality and loathed the political atmosphere in Germany after Napoleon's defeat, marked by the conservative policies of Austrian chancellor [[Klemens von Metternich]], who attempted to reverse the effects of the French Revolution.{{sfn|Sammons|1979|pp=30–35}}
+
+Heine's parents were not particularly devout. They sent him as a young child to a Jewish school where he learned a smattering of [[Hebrew language|Hebrew]], but thereafter he attended Catholic schools. Here he learned French, which became his second language – although he always spoke it with a German accent. He also acquired a lifelong love for Rhenish folklore.{{sfn|Sammons|1979|pp=35–42}}
+
+In 1814 Heine went to a business school in Düsseldorf where he learned to read English, the commercial language of the time.{{sfn|Sammons|1979|p=47}} The most successful member of the Heine family was his uncle [[Salomon Heine]], a millionaire banker in [[Hamburg]]. In 1816 Heine moved to Hamburg to become an apprentice at Heckscher & Co, his uncle's bank, but displayed little aptitude for business. He learned to hate Hamburg, with its commercial ethos, but it would become one of the poles of his life alongside Paris.
+
+When he was 18 Heine almost certainly had an unrequited love for his cousin Amalie, Salomon's daughter. Whether he then transferred his affections (equally unsuccessfully) to her sister Therese is unknown.{{sfn|Sammons|1979|pp=42–46}} This period in Heine's life is not clear but it seems that his father's business deteriorated, making Samson Heine effectively the ward of his brother Salomon.{{sfn|Sammons|1979|pp=47–51}}
+
+===Universities===
+Salomon realised that his nephew had no talent for trade, and it was decided that Heine should enter law. So, in 1819, Heine went to the [[University of Bonn]] (then in Prussia). Political life in Germany was divided between conservatives and liberals. The conservatives, who were in power, wanted to restore things to the way they were before the French Revolution. They were against German unification because they felt a united Germany might fall victim to revolutionary ideas. Most German states were [[absolute monarchy|absolutist monarchies]] with a censored press. The opponents of the conservatives, the liberals, wanted to replace absolutism with representative, constitutional government, equality before the law and a free press. At the University of Bonn, liberal students were at war with the conservative authorities. Heine was a radical liberal and one of the first things he did after his arrival was to take part in a parade which violated the [[Carlsbad Decrees]], a series of measures introduced by Metternich to suppress liberal political activity.{{sfn|Robertson|1988|pages=14–15}}
+
+Heine was more interested in studying history and literature than law. The university had engaged the famous literary critic and thinker [[August Wilhelm Schlegel]] as a lecturer and Heine heard him talk about the ''[[Nibelungenlied]]'' and [[Romanticism]]. Though he would later mock Schlegel, Heine found in him a sympathetic critic for his early verses. Heine began to acquire a reputation as a poet at Bonn. He also wrote two tragedies, ''Almansor'' and ''William Ratcliff'', but they had little success in the theatre.{{sfn|Sammons|1979|pp=55–70}}
+
+After a year at Bonn, Heine left to continue his law studies at the [[University of Göttingen]]. Heine hated the town. It was part of [[Kingdom of Hanover|Hanover]], ruled by the King of the United Kingdom of Great Britain and Ireland, the power Heine blamed for bringing Napoleon down. Here the poet experienced an aristocratic snobbery absent elsewhere. He also hated law as the [[German Historical School|Historical School of law]] he had to study was used to bolster the reactionary form of government he opposed. Other events conspired to make Heine loathe this period of his life: he was expelled from a [[Burschenschaft|student fraternity]] for [[Anti-Semitism|anti-Semitic]] reasons and he heard the news that his cousin Amalie had become engaged. When Heine challenged another student, Wiebel, to a duel (the first of ten known incidents throughout his life), the authorities stepped in and Heine was suspended from the university for six months. His uncle now decided to send him to the [[University of Berlin]].{{sfn|Sammons|1979|pp=70–74}}
+
+[[File:Friedrich Hegel mit Studenten Lithographie F Kugler.jpg|thumb|left|Hegel with his Berlin students, by [[Franz Theodor Kugler|Franz Kugler]]]]
+Heine arrived in Berlin in March 1821. It was the biggest, most cosmopolitan city he had ever visited (its population was about 200,000). The university gave Heine access to notable cultural figures as lecturers: the Sanskritist [[Franz Bopp]] and the Homer critic [[Friedrich August Wolf|F. A. Wolf]], who inspired Heine's lifelong love of [[Aristophanes]]. Most important was the philosopher [[Georg Wilhelm Friedrich Hegel|Hegel]], whose influence on Heine is hard to gauge. He probably gave Heine and other young students the idea that history had a meaning which could be seen as progressive.{{sfn|Sammons|1979|pp=74–81}} Heine also made valuable acquaintances in Berlin, notably the liberal [[Karl August Varnhagen von Ense|Karl August Varnhagen]] and his Jewish wife [[Rahel Varnhagen|Rahel]], who held a leading salon.
+
+Another friend was the satirist [[Karl Leberecht Immermann|Karl Immermann]], who had praised Heine's first verse collection, ''Gedichte'', when it appeared in December 1821.{{sfn|Sammons|1979|pp=81–85}} During his time in Berlin Heine also joined the ''Verein für Cultur und Wissenschaft der Juden'', a society which attempted to achieve a balance between the Jewish faith and modernity. Since Heine was not very religious in outlook he soon lost interest, but he also began to investigate Jewish history. He was particularly drawn to the Spanish Jews of the Middle Ages. In 1824 Heine began a historical novel, ''Der Rabbi von [[Bacherach]]'', which he never managed to finish.{{sfn|Sammons|1979|pp=89–96}}<ref>[[:s:The Works of Heinrich Heine/Vol. 1/The Rabbi of Bacharach|The Rabbi of Bacharach]] on Wikisource.</ref>
+
+In May 1823 Heine left Berlin for good and joined his family at their new home in [[Lüneburg]]. Here he began to write the poems of the cycle ''Die Heimkehr'' ("The Homecoming"). He returned to Göttingen where he was again bored by the law. In September 1824 he decided to take a break and set off on a trip through the [[Harz]] mountains. On his return he started writing an account of it, ''[[Die Harzreise]]''.{{sfn|Sammons|1979|pp=96–107}}
+
+On 28 June 1825 Heine converted to [[Protestantism]]. The Prussian government had been gradually restoring discrimination against Jews. In 1822 it introduced a law excluding Jews from academic posts and Heine had ambitions for a university career.  As Heine said in self-justification, his conversion was "the ticket of admission into European culture". In any event, Heine's conversion, which was reluctant, never brought him any benefits in his career.{{sfn|Sammons|1979|pp=107–110}}{{sfn|Robertson|1988|pages=84–85}}
+
+===Julius Campe and first literary successes===
+Heine now had to search for a job. He was only really suited to writing but it was extremely difficult to be a professional writer in Germany. The market for literary works was small and it was only possible to make a living by writing virtually non-stop. Heine was incapable of doing this so he never had enough money to cover his expenses. Before finding work, Heine visited the North Sea resort of [[Norderney]] which inspired the [[free verse]] poems of his cycle ''Die Nordsee''.{{sfn|Sammons|1979|pp=113–118}}
+
+[[File:Heine Buch der Lieder 1827.jpg|thumb|First page of first edition of Heine's ''Buch der Lieder'', 1827]]
+In Hamburg one evening in January 1826 Heine met {{ill|Julius Campe|de}}, who would be his chief publisher for the rest of his life. Their stormy relationship has been compared to a marriage. Campe was a liberal who published as many dissident authors as he could. He had developed various techniques for evading the authorities. The laws of the time stated that any book under 320 pages had to be submitted to censorship (the authorities thought long books would cause little trouble as they were unpopular). One way around censorship was to publish dissident works in large print to increase the number of pages beyond 320.
+
+The censorship in Hamburg was relatively lax but Campe had to worry about Prussia, the largest German state and largest market for books (it was estimated that one-third of the German readership was Prussian). Initially, any book which had passed the censor in a German state was able to be sold in any of the other states, but in 1834 this loophole was closed. Campe was reluctant to publish uncensored books as he had bad experiences with print runs being confiscated. Heine resisted all censorship; this issue became a bone of contention between the two.{{sfn|Sammons|1979|pp=118–124}}
+
+However, the relationship between author and publisher started well: Campe published the first volume of ''Reisebilder'' ("Travel Pictures") in May 1826. This volume included ''[[Die Harzreise]]'', which marked a new style of German travel-writing, mixing Romantic descriptions of nature with satire. Heine's ''{{ill|Buch der Lieder|de|Buch der Lieder (Heine)}}'' followed in 1827. This was a collection of already published poems. No one expected it to become one of the most popular books of German verse ever published, and sales were slow to start with, picking up when composers began setting Heine's poems as [[Lieder]].{{sfn|Sammons|1979|pp=124–126}} For example, the poem "Allnächtlich im Traume" was set to music by [[Robert Schumann]] and [[Felix Mendelssohn]]. It contains the ironic disillusionment typical of Heine:
+
+[[File:Heinrich Heine.jpg|thumb|Heine, 1829]]
+<poem lang="de" style="margin-left:1em; float:left;">
+Allnächtlich im Traume seh ich dich,
+Und sehe dich freundlich grüßen,
+Und laut aufweinend stürz ich mich
+Zu deinen süßen Füßen.
+
+Du siehst mich an wehmütiglich,
+Und schüttelst das blonde Köpfchen;
+Aus deinen Augen schleichen sich
+Die Perlentränentröpfchen.
+
+Du sagst mir heimlich ein leises Wort,
+Und gibst mir den Strauß von Zypressen.
+Ich wache auf, und der Strauß ist fort,
+Und das Wort hab ich vergessen.</poem>
+
+<poem style="margin-left:1em; float:left;">
+Nightly I see you in dreams – you speak,
+With kindliness sincerest,
+I throw myself, weeping aloud and weak
+At your sweet feet, my dearest.
+
+You look at me with wistful woe,
+And shake your golden curls;
+And stealing from your eyes there flow
+The teardrops like to pearls.
+
+You breathe in my ear a secret word,
+A garland of cypress for token.
+I wake; it is gone; the dream is blurred,
+And forgotten the word that was spoken.
+(Poetic translation by [[Hal Draper]])</poem>
+{{clear|left}}
+
+Starting from the mid-1820s, Heine distanced himself from [[Romanticism]] by adding irony, sarcasm, and satire into his poetry, and making fun of the sentimental-romantic awe of nature and of [[figures of speech]] in contemporary poetry and literature.<ref>''Neue Gedichte'' (New Poems), citing: DHA, Vol. 2, p. 15</ref> An example are these lines:
+
+<poem lang="de" style="margin-left:1em; float:left;">
+Das Fräulein stand am Meere
+Und seufzte lang und bang.	
+Es rührte sie so sehre		
+der Sonnenuntergang.
+
+Mein Fräulein! Sein sie munter,
+Das ist ein altes Stück;		
+Hier vorne geht sie unter		
+Und kehrt von hinten zurück.</poem>
+
+<poem style="margin-left:1em; float:left;">
+A mistress stood by the sea
+sighing long and anxiously.
+She was so deeply stirred
+By the setting sun
+
+My Fräulein!, be gay,
+This is an old play;
+ahead of you it sets
+And from behind it returns.</poem>
+{{clear|left}}
+
+The [[blue flower]] of [[Novalis]], "symbol for the Romantic movement", also received withering treatment from Heine during this period, as illustrated by the following quatrains from ''Lyrisches Intermezzo'':<ref>Perry, Beate Julia, ''Schumann's Dichterliebe and Early Romantic Poetics: Fragmentation of Desire'', Cambridge University Press; 2002, p. 87-88</ref>
+
+<poem lang="de" style="margin-left:1em; float:left;">Am Kreuzweg wird begraben
+Wer selber brachte sich um;
+dort wächst eine blaue Blume,
+Die Armesünderblum.
+
+Am Kreuzweg stand ich und seufzte;
+Die Nacht war kalt und stumm.
+Im Mondenschein bewegte sich langsam
+Die Armesünderblum.</poem>
+<poem style="margin-left:1em; float:left;">At the cross-road will be buried
+He who killed himself;
+There grows a blue flower,
+Suicide’s flower.
+
+I stood at the cross-road and sighed
+The night was cold and mute.
+By the light of the moon moved slowly
+Suicide’s flower.</poem>
+{{clear|left}}
+
+Heine became increasingly critical of [[despotism]] and reactionary [[chauvinism]]  in Germany, of nobility and clerics but also of the narrow-mindedness of ordinary people and of the rising German form of [[nationalism]], especially in contrast to the French and the [[French Revolution|revolution]]. Nevertheless, he made a point of stressing his love for his [[Fatherland]]:
+<blockquote>
+Plant the [[Flag of Germany |black, red, gold banner]] at the summit of the German idea, make it the standard of free mankind, and I will shed my dear heart's blood for it. Rest assured, I love the Fatherland just as much as you do.
+</blockquote>
+
+===Travel and the Platen affair===
+[[File:Platen-Hallermünde, August Graf von.jpg|thumb|Count von Platen, target of Heine's satire in ''Die Bäder von Lucca'']]
+The first volume of travel writings was such a success that Campe pressed Heine for another. ''Reisebilder II'' appeared in April 1827. It contains the second cycle of North Sea poems, a prose essay on the North Sea as well as a new work, ''Ideen: Das Buch Le Grand'', which contains the following satire on German censorship:{{sfn|Sammons|1979|pp=127–129}}<ref>Heine, ''Ideen. Das Buch Le Grand'', Chapter 12</ref>
+<poem style="margin-left:2em;">
+The German Censors&nbsp; —— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;&nbsp;   idiots  &nbsp;&nbsp; —— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——
+—— &nbsp;—— &nbsp;—— &nbsp;—— &nbsp;——</poem>
+
+Heine went to England to avoid what he predicted would be controversy over the publication of this work. In London he cashed a cheque from his uncle for [[pound sterling|£]]200 (equal to £{{formatnum:{{Inflation|UK|200|1827}}}} today), much to Salomon's chagrin. Heine was unimpressed by the English: he found them commercial and prosaic, and still blamed them for the defeat of Napoleon.{{sfn|Sammons|1979|pp=129–132}}
+
+On his return to Germany, [[Johann Friedrich Cotta|Cotta]], the liberal publisher of Goethe and Schiller, offered Heine a job co-editing a magazine, ''Politische Annalen'', in Munich. Heine did not find work on the newspaper congenial, and instead tried to obtain a professorship at Munich University, with no success.{{sfn|Sammons|1979|pp=132–138}} After a few months he took a trip to northern Italy, visiting [[Lucca]], Florence and Venice, but was forced to return when he received news that his father had died. This Italian journey resulted in a series of new works: ''Die Reise von München nach Genua'' (''Journey from Munich to Genoa''), ''Die Bäder von Lucca'' (''The Baths of Lucca'') and ''Die Stadt Lucca'' (''The Town of Lucca'').{{sfn|Sammons|1979|pp=138–141}} ''Die Bäder von Lucca'' embroiled Heine in controversy. The aristocratic poet [[August von Platen-Hallermünde|August von Platen]] had been annoyed by some [[epigram]]s by Immermann which Heine had included in the second volume of ''Reisebilder''. He counter-attacked by writing a play, ''Der romantische Ödipus'', which included anti-Semitic jibes about Heine. Heine was stung and responded by mocking Platen's homosexuality in ''Die Bäder von Lucca''.{{sfn|Sammons|1979|pp=141–147}} This back-and-forth ad hominem literary polemic has become known as the {{Interlanguage link|Platen affair|de|Platen-Affäre}}.
+
+==Paris years==
+[[File:Eugène Delacroix - La liberté guidant le peuple.jpg|thumb|[[Eugène Delacroix|Delacroix]]'s ''Liberty Leading the People'', celebrating France's [[1830 revolution]]]]
+
+===Foreign correspondent===
+
+Heine left Germany for France in 1831, settling in Paris for the remainder of his life. His move was prompted by the [[July Revolution]] of 1830 that had made [[Louis-Philippe]] the  "Citizen King" of the French. Heine shared liberal enthusiasm for the revolution, which he felt had the potential to overturn the conservative political order in Europe.{{sfn|Sammons|1979|pp=150–155}} Heine was also attracted by the prospect of freedom from German censorship and was interested in the new French [[Utopianism|utopian]] political doctrine of [[Saint-Simonianism]]. Saint-Simonianism preached a new social order in which [[meritocracy]] would replace hereditary distinctions in rank and wealth. There would also be female emancipation and an important role for artists and scientists. Heine frequented some Saint-Simonian meetings after his arrival in Paris but within a few years his enthusiasm for the ideology – and other forms of utopianism – had waned.{{sfn|Sammons|1979|pp=159–168}}{{sfn|Robertson|1988|pages=36–38}}
+
+Heine soon became a celebrity in France. Paris offered him a cultural richness unavailable in the smaller cities of Germany. He made many famous acquaintances (the closest were [[Gérard de Nerval]] and [[Hector Berlioz]]) but he always remained something of an outsider. He had little interest in French literature and wrote everything in German, subsequently translating it into French with the help of a collaborator.{{sfn|Sammons|1979|pp=168–171}}
+[[File:Heinrich Heine 1837.jpg|thumb|left|Heine, 1837]]
+In Paris, Heine earned money working as the French correspondent for one of Cotta's newspapers, the ''[[Allgemeine Zeitung]]''. The first event he covered was the [[Salon (Paris)|Salon]] of 1831. His articles were eventually collected in a volume entitled ''Französische Zustände'' ("Conditions in France").{{sfn|Sammons|1979|pp=172–183}} Heine saw himself as a mediator between Germany and France. If the two countries understood one another there would be progress. To further this aim he published ''De l'Allemagne'' ("On Germany") in French (begun 1833). In its later German version, the book is divided into two: ''[[Zur Geschichte der Religion und Philosophie in Deutschland]]'' ("On the History of Religion and Philosophy in Germany") and ''Die romantische Schule'' ("The Romantic School"). Heine was deliberately attacking [[Anne Louise Germaine de Staël|Madame de Staël]]'s book ''[[On Germany|De l'Allemagne]]'' (1813) which he viewed as reactionary, Romantic and obscurantist. He felt de Staël had portrayed a Germany of "poets and thinkers", dreamy, religious, introverted and cut off from the revolutionary currents of the modern world. Heine thought that such an image suited the oppressive German authorities. He also had an [[Age of Enlightenment|Enlightenment]] view of the past, seeing it as mired in superstition and atrocities. "Religion and Philosophy in Germany" describes the replacement of traditional "spiritualist" religion by a [[pantheism]] that pays attention to human material needs. According to Heine, pantheism had been repressed by Christianity and had survived in German folklore. He predicted that German thought would prove a more explosive force than the French Revolution.{{sfn|Sammons|1979|pp=188–197}}
+
+[[File:Mathilde Heine photography.jpg|thumb|Heine's wife "Mathilde" (Crescence Eugénie Mirat)]]
+Heine had had few serious love affairs, but in late 1834 he made the acquaintance of a 19-year-old Paris shopgirl, Crescence Eugénie Mirat, whom he nicknamed "Mathilde". Heine reluctantly began a relationship with her. She was illiterate, knew no German, and had no interest in cultural or intellectual matters. Nevertheless, she moved in with Heine in 1836 and lived with him for the rest of his life (they were married in 1841).{{sfn|Sammons|1979|pp=197–205}}
+
+===Young Germany and Ludwig Börne===
+
+Heine and his fellow radical exile in Paris, [[Ludwig Börne]], had become the role models for a younger generation of writers who were given the name "[[Young Germany]]". They included [[Karl Gutzkow]], [[Heinrich Laube]], [[Theodor Mundt]] and [[Ludolf Wienbarg]]. They were liberal, but not actively political. Nevertheless, they still fell foul of the authorities. In 1835 Gutzkow published a novel, ''Wally die Zweiflerin'' ("Wally the Sceptic"), which contained criticism of the institution of marriage and some mildly erotic passages. In November of that year, the German Diet consequently banned publication of works by the Young Germans in Germany and – on Metternich's insistence – Heine's name was added to their number. Heine, however, continued to comment on German politics and society from a distance. His publisher was able to find some ways of getting around the censors and he was still free, of course, to publish in France.{{sfn|Sammons|1979|pp=205–218}}{{sfn|Robertson|1988|p=20}}
+[[File:Oppenheim - Ludwig Börne.jpg|thumb|left|[[Ludwig Börne|Börne]]. Portrait by [[Moritz Daniel Oppenheim|Oppenheim]].]]
+Heine's relationship with his fellow dissident Ludwig Börne was troubled. Since Börne did not attack religion or traditional morality like Heine, the German authorities hounded him less although they still banned his books as soon as they appeared. Börne was the idol of German immigrant workers in Paris. He was also a republican, while Heine was not. Heine regarded Börne, with his admiration for [[Robespierre]], as a puritanical neo-Jacobin and remained aloof from him in Paris, which upset Börne, who began to criticise him (mostly semi-privately). In February 1837, Börne died. When Heine heard that Gutzkow was writing a biography of Börne, he began work on his own, severely critical "memorial" of the man.
+
+When the book was published in 1840 it was universally disliked by the radicals and served to alienate Heine from his public. Even his enemies admitted that Börne was a man of integrity so Heine's ''ad hominem'' attacks on him were viewed as being in poor taste. Heine had made personal attacks on Börne's closest friend [[Jeanette Wohl]] so Jeannette's husband challenged Heine to a duel. It was the last Heine ever fought – he received a flesh wound in the hip. Before fighting, he decided to safeguard Mathilde's future in the event of his death by marrying her.{{sfn|Sammons|1979|pp=233–242}}
+
+[[File:Max Liebermann Illustration Der Rabbi von Bacherach.jpg|thumb|Illustration by [[Max Liebermann]] for a 1920s edition of Heine's historical novel ''Der Rabbi von Bacherach'']]
+Heine continued to write reports for Cotta's ''Allgemeine Zeitung'' (and, when Cotta died, for his son and successor). One event which really galvanised him was the 1840 [[Damascus Affair]] in which Jews in Damascus had been subject to [[blood libel]] and accused of murdering an old Catholic monk. This led to a wave of anti-Semitic persecution. The French government, aiming at imperialism in the Middle East and not wanting to offend the Catholic party, had failed to condemn the outrage. On the other hand, the Austrian consul in Damascus had assiduously exposed the blood libel as a fraud. For Heine, this was a reversal of values: reactionary Austria standing up for the Jews while France temporised. Heine responded by dusting off and publishing his unfinished novel about the persecution of Jews in the Middle Ages, ''Der Rabbi von Bacherach''.{{sfn|Sammons|1979|pp=243–244}}
+
+===Political poetry and Karl Marx===
+German poetry took a more directly political turn when the new [[Frederick William IV of Prussia|Frederick William IV]] ascended the Prussian throne in 1840. Initially it was thought he might be a "popular monarch" and during this honeymoon period of his early reign (1840–42) censorship was relaxed. This led to the emergence of popular political poets (so-called ''Tendenzdichter''), including [[Hoffmann von Fallersleben]] (author of ''[[Deutschlandlied]]'', the German anthem), [[Ferdinand Freiligrath]] and [[Georg Herwegh]]. Heine looked down on these writers on aesthetic grounds – they were bad poets in his opinion – but his verse of the 1840s became more political too.
+
+Heine's mode was satirical attack: against the Kings of Bavaria and Prussia (he never for one moment shared the belief that Frederick William IV might be more liberal); against the political torpor of the German people; and against the greed and cruelty of the ruling class. The most popular of Heine's political poems was his least typical, ''[[Die schlesischen Weber]]'' ("The Silesian Weavers"), based on the uprising of weavers in [[Peterswaldau]] in 1844.{{sfn|Sammons|1979|pp=253–260}}{{sfn|Robertson|1988|pp=22–23}}
+
+[[File:D02S0150 01JIIz.jpg|thumb|left|Front page of [[Karl Marx|Marx]]'s ''Vorwärts'', featuring Heine's poem "''Die schlesischen Weber''"]]
+In October 1843, Heine's distant relative and German revolutionary, [[Karl Marx]], and his wife [[Jenny von Westphalen]] arrived in Paris after the Prussian government had suppressed Marx's radical newspaper. The Marx family settled in Rue Vaneau. Marx was an admirer of Heine and his early writings show Heine's influence. In December Heine met the Marxes and got on well with them. He published several poems, including ''Die schlesischen Weber'', in Marx's new journal ''Vorwärts'' ("Forwards"). Ultimately Heine's ideas of revolution through sensual emancipation and Marx's [[scientific socialism]] were incompatible, but both writers shared the same negativity and lack of faith in the bourgeoisie.{{Citation needed|date=November 2018|reason=The claim that Heine's ideas of revolution through sensual emancipation and Marx's scientific socialism were incompatible warrants further explanation and a source.}}
+
+In the isolation he felt after the Börne debacle, Marx's friendship came as a relief to Heine, since he did not really like the other radicals. On the other hand, he did not share Marx's faith in the industrial proletariat and remained on the fringes of socialist circles. The Prussian government, angry at the publication of ''Vorwärts'', put pressure on France to deal with its authors, and Marx was deported to Belgium in January 1845. Heine could not be expelled from the country because he had the right of residence in France, having been born under French occupation.{{sfn|Sammons|1979|p=285}} Thereafter Heine and Marx maintained a sporadic correspondence, but in time their admiration for each other faded.{{sfn|Sammons|1979|pp=260–265}}{{sfn|Robertson|1988|pages=68–70}} Heine always had mixed feelings about [[communism]]. He believed its radicalism and materialism would destroy much of the European culture that he loved and admired.
+
+In the French edition of "Lutetia" Heine wrote, one year before he died: "This confession, that the future belongs to the Communists, I made with an undertone of the greatest fear and sorrow and, oh!, this undertone by no means is a mask! Indeed, with fear and terror I imagine the time, when those dark [[iconoclasm|iconoclasts]] come to power: with their raw fists they will batter all marble images of my beloved world of art, they will ruin all those fantastic anecdotes that the poets loved so much, they will chop down my [[Lauraceae|Laurel]] forests and plant potatoes and, oh!, the herbs chandler will use my Book of Songs to make bags for coffee and snuff for the old women of the future – oh!, I can foresee all this and I feel deeply sorry thinking of this decline threatening my poetry and the old world order – And yet, I freely confess, the same thoughts have a magical appeal upon my soul which I cannot resist .... In my chest there are two voices in their favour which cannot be silenced .... because the first one is that of logic ... and as I cannot object to the premise "that all people have the right to eat", I must defer to all the conclusions....The second of the two compelling voices, of which I am talking, is even more powerful than the first, because it is the voice of hatred, the hatred I dedicate to this common enemy that constitutes the most distinctive contrast to communism and that will oppose the angry giant already at the first instance – I am talking about the party of the so-called advocates of nationality in Germany, about those false patriots whose love for the fatherland only exists in the shape of imbecile distaste of foreign countries and neighbouring peoples and who daily pour their bile especially on France".<ref>Heine's draft for ''Préface'' in the French edition of ''Lutezia'' (1855), DHA, Vol. 13/1, p. 294.</ref>
+
+In October–December 1843, Heine made a journey to Hamburg to see his aged mother and to patch things up with Campe with whom he had had a quarrel. He was reconciled with the publisher who agreed to provide Mathilde with an annuity for the rest of her life after Heine's death. Heine repeated the trip with his wife in July–October 1844 to see Uncle Salomon, but this time things did not go so well. It was the last time Heine left France.{{sfn|Sammons|1979|pp=265–268}} At the time, Heine was working on two linked but antithetical poems with Shakespearean titles: ''Deutschland: Ein Wintermärchen'' (''[[Germany. A Winter's Tale]]'') and ''Atta Troll: Ein Sommernachtstraum'' (''Atta Troll: A Midsummer Night's Dream''). The former is based on his journey to Germany in late 1843 and outdoes the radical poets in its satirical attacks on the political situation in the country.{{sfn|Sammons|1979|pp=268–275}} ''Atta Troll'' (actually begun in 1841 after a trip to the [[Pyrenees]]) mocks the literary failings Heine saw in the radical poets, particularly Freiligrath. It tells the story of the hunt for a runaway bear, Atta Troll, who symbolises many of the attitudes Heine despised, including a simple-minded egalitarianism and a religious view which makes God in the believer's image (Atta Troll conceives God as an enormous, heavenly polar bear). Atta Troll's cubs embody the nationalistic views Heine loathed.{{sfn|Robertson|1988|pages=24–26}}
+
+''Atta Troll'' was not published until 1847, but ''Deutschland'' appeared in 1844 as part of a collection ''Neue Gedichte'' ("New Poems"), which gathered all the verse Heine had written since 1831.{{sfn|Sammons|1979|pp=275–278}} In the same year Uncle Salomon died. This put a stop to Heine's annual subsidy of 4,800 francs. Salomon left Heine and his brothers 8,000 francs each in his will. Heine's cousin Carl, the inheritor of Salomon's business, offered to pay him 2,000 francs a year at his discretion. Heine was furious; he had expected much more from the will and his campaign to make Carl revise its terms occupied him for the next two years.{{sfn|Sammons|1979|pp=278–285}}
+
+In 1844, Heine wrote series of musical [[feuilleton]]s over several different music seasons discussing the music of the day. His review of the musical season of 1844, written in Paris on 25 April of that year, is his first reference to [[Lisztomania (phenomenon)|Lisztomania]], the intense fan frenzy directed toward [[Franz Liszt]] during his performances. However, Heine was not always honorable in his musical criticism. That same month, he wrote to Liszt suggesting that he might like to look at a newspaper review he had written of Liszt's performance ''before'' his concert; he indicated that it contained comments Liszt would not like. Liszt took this as an attempt to extort money for a positive review and did not meet Heine. Heine's review subsequently appeared on 25 April in ''Musikalische Berichte aus Paris'' and attributed Liszt's success to lavish expenditures on bouquets and to the wild behaviour of his hysterical female "fans". Liszt then broke relations with Heine. Liszt was not the only musician to be blackmailed by Heine for the nonpayment of "appreciation money". Meyerbeer had both lent and given money to Heine, but after refusing to hand over a further 500 francs was repaid by being dubbed "a music corrupter" in Heine's poem ''Die Menge tut es''.<ref>Walker, Alan, ''Franz Liszt: The virtuoso years, 1811–1847'', Cornell University Press; Rev. ed edition, 1997, p. 164</ref>
+
+===Last years: the "mattress-grave"===
+[[File:Heinrich Heine, teckning av Charles Gleyre.jpg|right|thumb|180px|Heine on his sickbed, 1851]]
+
+In May 1848, Heine, who had not been well, suddenly fell paralyzed and had to be confined to bed. He would not leave what he called his "mattress-grave" (''Matratzengruft'') until his death eight years later. He also experienced difficulties with his eyes.{{sfn|Sammons|1979|pp=295–297}} It had been suggested that he suffered from [[multiple sclerosis]] or [[syphilis]], although in 1997 it was confirmed through an analysis of the poet's hair that he had suffered from chronic [[lead poisoning]].<ref>''{{ill|Bundesgesundheitsblatt|de}}'' (in German). '''48''' (2): 246–250. 2005.</ref> He bore his sufferings stoically and he won much public sympathy for his plight.{{sfn|Sammons|1979|p=297}} His illness meant he paid less attention than he might otherwise have done to the [[1848 revolutions|revolutions which broke out in France and Germany]] in 1848. He was sceptical about the [[Frankfurt Parliament|Frankfurt Assembly]] and continued to attack the King of Prussia.
+
+When the revolution collapsed, Heine resumed his oppositional stance. At first he had some hope [[Napoleon III|Louis Napoleon]] might be a good leader in France but he soon began to share the opinion of Marx towards him as the new emperor began to crack down on liberalism and socialism.{{sfn|Sammons|1979|pp=298–302}} In 1848 Heine also returned to religious faith. In fact, he had never claimed to be an atheist. Nevertheless, he remained sceptical of organised religion.{{sfn|Sammons|1979|pp=305–310}}
+
+He continued to work from his sickbed: on the collections of poems ''Romanzero'' and ''Gedichte (1853 und 1854)'', on the journalism collected in ''Lutezia'', and on his unfinished memoirs.{{sfn|Sammons|1979|pp=310–338}} During these final years Heine had a love affair with the young Camille Selden, who visited him regularly.{{sfn|Sammons|1979|pp=341–343}} He died on 17 February 1856 and was interred in the Paris [[Cimetière de Montmartre]].
+
+His tomb was designed by Danish sculptor [[Louis Hasselriis]]. It includes Heine's poem ''Where?'' ({{lang-de|Wo?}}) engraved on three sides of the tombstone.
+
+[[File:Das Grab Heines.JPG|left|thumb|upright|Heine's grave in Paris]]
+<poem lang="de" style="margin-left:1em; float:left;">
+Wo wird einst des Wandermüden
+Letzte Ruhestätte sein?
+Unter Palmen in dem Süden?
+Unter Linden an dem Rhein?
+
+Werd ich wo in einer Wüste
+Eingescharrt von fremder Hand?
+Oder ruh ich an der Küste
+Eines Meeres in dem Sand?
+
+Immerhin! Mich wird umgeben
+Gotteshimmel, dort wie hier,
+Und als Totenlampen schweben
+Nachts die Sterne über mir.</poem>
+
+<poem lang="de" style="margin-left:1em; float:left;">
+Where shall I, the wander-wearied,
+Find my haven and my shrine? 
+Under palms will I be buried?
+Under lindens on the Rhine?
+
+Shall I lie in desert reaches,
+Buried by a stranger's hand? 
+Or upon the well-loved beaches,
+Covered by the friendly sand?
+
+Well, what matter! God has given
+Wider spaces there than here.
+And the stars that swing in heaven
+Shall be lamps above my bier.
+(translation in verse by L.U.<ref>{{cite web |url=https://archive.org/stream/poemsofheinrichh00heinuoft/poemsofheinrichh00heinuoft_djvu.txt |title=Poems of Heinrich Heine |access-date=27 February 2019}}</ref>)</poem>
+{{clear|left}}
+
+His wife Mathilde survived him, dying in 1883. The couple had no children.{{sfn|Sammons|1979|pp=343–344}}
+
+==Legacy==
+{{Quote box|width=20%|quote=The highest conception of the lyric poet was given to me by Heinrich Heine. I seek in vain in all the realms of millennia for an equally sweet and passionate music. He possessed that divine malice without which I cannot imagine perfection... And how he employs German! It will one day be said that Heine and I have been by far the first artists of the German language.|author=[[Friedrich Nietzsche]]|source=''[[Ecce Homo (book)|Ecce Homo]]''<ref>[[Friedrich Nietzsche]], ''A Nietzsche Reader'', Translated by [[R. J. Hollingdale]], Penguin 1977, p. 147</ref>}}
+
+Among the thousands of books [[book burning|burned]] on Berlin's [[Bebelplatz|Opernplatz]] in 1933, following the [[Nazi]] raid on the [[Institut für Sexualwissenschaft]], were works by Heinrich Heine. To memorialize the event, one of the most famous lines of Heine's 1821 play ''Almansor'', spoken by the Muslim Hassan upon hearing that Christian conquerors burned the [[Quran]] at the marketplace of Granada, was engraved in the ground at the site: "Das war ein Vorspiel nur, dort wo man Bücher verbrennt, verbrennt man auch am Ende Menschen." ("That was but a prelude; where they burn books, they will ultimately burn people as well.")<ref>Heinrich Heine, [http://hhp.uni-trier.de/Projekte/HHP/Projekte/HHP/searchengine/werke/baende/D05/enterdha?pageid=D05S0016&bookid=D05&lineref=Z34&mode=2&textpattern=koran&firsttid=0&widthgiven=30|Historisch-kritische Gesamtausgabe der Werke]; Hrsg. Manfred Windfuhr (Hamburg 1973-1997), Bd. 5, page 16</ref>
+
+In 1835, 98 years before [[Adolf Hitler]] and the [[Nazi Party]] seized power in Germany, Heine wrote in his essay "The History of Religion and Philosophy in Germany":{{sfn|Reid Busk|2014}}
+<blockquote>Christianity – and that is its greatest merit – has somewhat mitigated that brutal Germanic love of war, but it could not destroy it. Should that subduing talisman, the cross, be shattered, the frenzied madness of the ancient warriors, that insane Berserk rage of which Nordic bards have spoken and sung so often, will once more burst into flame. This talisman is fragile, and the day will come when it will collapse miserably. Then the ancient stony gods will rise from the forgotten debris and rub the dust of a thousand years from their eyes, and finally [[Thor]] with his giant hammer will jump up and smash the Gothic cathedrals. ...
+
+Do not smile at my advice – the advice of a dreamer who warns you against Kantians, Fichteans, and philosophers of nature. Do not smile at the visionary who anticipates the same revolution in the realm of the visible as has taken place in the spiritual. Thought precedes action as lightning precedes thunder. German thunder is of true Germanic character; it is not very nimble, but rumbles along ponderously. Yet, it will come and when you hear a crashing such as never before has been heard in the world's history, then you know that the German thunderbolt has fallen at last. At that uproar the eagles of the air will drop dead, and lions in the remotest deserts of Africa will hide in their royal dens. A play will be performed in Germany which will make the French Revolution look like an innocent idyll.{{sfn|Kossoff|1983|pages=125–126}}</blockquote>
+
+The North American Heine Society was formed in 1982.<ref>[https://heine.research.uconn.edu North American Heine Society], [[University of Connecticut]]</ref>
+
+=== Heine in Nazi Germany ===
+Heine's writings were abhorred by the Nazis and one of their political mouthpieces, the ''[[Völkischer Beobachter]]'', made noteworthy efforts to attack him. Within the pantheon of the "Jewish cultural intelligentsia" chosen for anti-Semitic demonization, perhaps nobody was the recipient of more National Socialist vitriol than Heinrich Heine.{{sfn|Dennis|2012|pp=110–123}} When a memorial to Heine was completed in 1926, the paper lamented that Hamburg had erected a "Jewish Monument to Heine and Damascus...one in which ''[[Glossary of Nazi Germany#Alljuda|Alljuda]]'' ruled!".<ref>"Ein Heinrich Heine-Denkmal in Hamburg", ''[[Völkischer Beobachter]]'', October 1926; as found in ''Heinrich Heine im Dritten Reich und im Exil'' by [[Hartmut Steinecke]] (Paderborn: Schöningh, 2008), pp. 10-12.</ref> Editors for the ''Völkischer Beobachter'' referred to Heine's writing as [[Degenerate art|degenerate]] on multiple occasions as did [[Alfred Rosenberg]].<ref>[[Alfred Rosenberg]], ''[[The Myth of the 20th Century]]''. ([https://archive.org/details/TheMythOfTheTwentiethCentury_400 Text])</ref> Correspondingly, as part of the effort to dismiss and hide Jewish contribution to German art and culture, all Heine monuments were removed or destroyed in the [[Third Reich]] and Heine's books were suppressed and, from 1940 on, banned.<ref name="joest08">{{cite journal|url=https://literaturkritik.de/id/12520|title=Eine spannungsgeladene Wirkungsgeschichte|author=Erhard Jöst|author-link=:de:Erhard Jöst|journal=Literaturkritik|number=12|pages=520|date=December 2008|lang=de|quote=Schließlich wurde als Ziel der NS-Kulturpolitik ausgegeben, den Dichter totzuschweigen. Dabei waren Heines Werke anfangs von dem generellen Verbot nicht betroffen, erst ab dem April 1940 fielen sie ebenfalls unter die pauschale Indizierung jüdischen Schrifttums.|trans-quote=Ultimately, it was formulated as the goal of nationalsocialist cultural policy to silence the poet. However, his works were initially not covered by a general ban, only in April 1940 did they fall under the blanket indexing of Jewish literature.}}</ref>
+The popularity of many songs to Heine's lyrics represented a problem for the policy of silencing and proposals such as bans or rewriting the lyrics were discussed.<ref name="joest08" /> However, in contrast to an often-made claim,<ref>First in 1935 by [[Walter A. Berendsohn]] (''Der lebendige Heine im germanischen Norden'') and often repeated, e.g., in {{cite journal|journal=Jewish Social Studies|first=Hannah|last=Arendt|author-link=Hannah Arendt|title=The Jew as Pariah: A Hidden Tradition|volume=6|issue=2|year=1944|p=103|quote=Though they dub its author 'unknown', the Nazis cannot eliminate the Lorelei from the repertoire of German song.}}</ref> there is no evidence that poems such as "{{ill|Die Lorelei (song)|de|Die Lorelei (Lied)|lt=Die Lorelei}}" were included in anthologies as written by an "unknown author".<ref>{{cite book |author=Anja Oesterheld |chapter='Verfasser unbekannt'? Der Mythos der Anonymität und Heinrich Heines Loreley |editor=Stephan Pabst |title=Anonymität und Autorschaft. Zur Literatur und Rechtsgeschichte der Namenlosigkeit |publisher=de Gruyter |location=Berlin |date=2011 |pages=325–358 |lang=de}}</ref>
+
+===Music===
+Many composers have set Heine's works to music. They include [[Robert Schumann]] (especially his Lieder cycle ''[[Dichterliebe]]''), [[Friedrich Silcher]] (who wrote a popular setting of "Die Lorelei", one of Heine's best known poems), [[Franz Schubert]], [[Franz Liszt]], [[Felix Mendelssohn]], [[Fanny Mendelssohn]], [[Johannes Brahms]], [[Hugo Wolf]], [[Richard Strauss]], [[Pyotr Ilyich Tchaikovsky]], [[Edward MacDowell]], [[Maria Anna Stubenberg]], [[Clara Schumann]] and [[Richard Wagner]]; and in the 20th century [[Nikolai Medtner]], [[Lola Carrier Worrell]],<ref>{{Cite book|last=Office|first=Library of Congress Copyright|url=https://books.google.com/books?id=QDshAQAAIAAJ&newbks=0&hl=en|title=Musical Compositions: Part 3|date=1908|publisher=Library of Congress.|language=en}}</ref> [[Hans Werner Henze]], [[Carl Orff]], [[Gerald Hugh Tyrwhitt-Wilson, 14th Baron Berners|Lord Berners]], [[Paul Lincke]], [[Yehezkel Braun]], and [[Marcel Tyberg]].<ref>[https://buffalonews.com/news/performers-revel-in-premiere-of-tyberg-songs/article_af469c63-9f8d-57bd-9466-bc102ba693ae.html Buffalo News. Performers revel in premiere of Tyberg songs]</ref>  
+
+Heine's play ''William Ratcliff'' was used for the libretti of operas by [[César Cui]] (''[[William Ratcliff (Cui)|William Ratcliff]]'') and [[Pietro Mascagni]] (''[[Guglielmo Ratcliff]]''). [[Frank van der Stucken]] composed a "symphonic prologue" to the same play.
+
+In 1964, [[Gert Westphal]] and the [[Attila Zoller|Attila-Zoller]] Quartet released the vinyl "Heinrich Heine Lyrik und Jazz". In 2006 Philips/Universal launched a republication on CD.
+
+[[Wilhelm Killmayer]] set 37 of his poems in [[Song cycles (Killmayer)|his song book]] ''{{lang|de|Heine-Lieder}}'', subtitled ''Ein Liederbuch nach Gedichten von Heinrich Heine'', in 1994.<ref name="Heine">{{cite web
+| url = http://www.schott-international.com/shop/php/Proxy.php?purl=/essh/1/show,39275.html
+| title = Heine Songs
+| publisher = [[Schott Music|Schott]]
+| access-date = 24 August 2017
+}}</ref>
+
+[[Morton Feldman]]'s ''I Met Heine on the Rue Fürstemberg'' was inspired by a vision he had of the dead Heine as he walked through Heine's old neighborhood in Paris: "One early morning in Paris I was walking along the small street on the [[Rive Gauche|Left Bank]] where [[Eugène Delacroix|Delacroix]]'s studio is, just as it was more than a century ago. I'd read his journals, where he tells of [[Chopin]], going for a drive, the poet Heine dropping in, a refugee from Germany. Nothing had changed in the street. And I saw Heine up at the corner, walking toward me. He almost reached me. I had this intense feeling for him, you know, the Jewish exile. I saw him. Then I went back to my place and wrote my work, ''I Met Heine on the Rue Fürstemberg''."<ref>{{cite book|last=Feldman|first=Morton|author-link=Morton Feldman|editor-last=Friedman|editor-first=B. H.|editor-link=B. H. Friedman|title=Give My Regards to Eighth Street|date=2000|publisher=Exact Change|location=Cambridge|isbn=1-878972-31-6|pages=120–121}}</ref>
+
+===Controversy===
+[[File:Heine Bronx 1.jpg|thumb|Statue of [[Lorelei]]; the [[Lorelei Fountain]] – Heine Memorial – is located in the Bronx, New York City]]
+In the 1890s, amidst a flowering of affection for Heine leading up to the centennial of his birth, plans were made to honor Heine with a memorial; these were strongly supported by one of Heine's greatest admirers, [[Elisabeth of Bavaria]], Empress of Austria. The empress commissioned a statue from the sculptor [[Louis Hasselriis]].<ref name="Levy (2005)" /> This statue, originally located at [[Achilleion (Corfu)|Achilleion]], Empress Elisabeth's palace in Corfu, was later removed by [[Kaiser Wilhelm II]] after he acquired Achilleion in 1907,<ref name="Shanks (1996)">{{cite book |last1=Shanks |first1=Michael |title=Classical Archaeology of Greece: Experiences of the Discipline |date=1996 |publisher=Psychology Press |isbn=9780415085212 |page=169 |url=https://books.google.com/books?id=Q8DoQ8SQPP8C&pg=PA169 |language=en}}</ref> but it eventually found a home in [[Toulon]].<ref name="Levy (2005)">Richard S. Levy, Heine Monument Controversy, in ''Antisemitism: A Historical Encyclopedia of Prejudice and Persecution'', ABC-CLIO, 2005, p.295</ref>  This became the inspiration for [[Tony Harrison]]'s 1992 [[film-poem]], ''[[The Gaze of the Gorgon]]''.<ref name="Shanks (1996)" />
+
+Another memorial, a sculpted fountain, was commissioned for [[Düsseldorf]]. While at first the plan met with enthusiasm, the concept was gradually bogged down in [[anti-Semitic]], [[nationalism|nationalist]], and religious criticism; by the time the fountain was finished, there was no place to put it. Through the intervention of [[German American]] activists, the memorial was ultimately transplanted into [[the Bronx]], New York City (in Philadelphia already in 1855 was printed the complete edition of Heine's works in German language).<ref>Rolf Hosfeld, ''Heinrich Heine: Die Erfindung des europäischen Intellektuellen – Biographie'' (Munich 2014), p. 153</ref> While the memorial is known in English as the [[Lorelei Fountain]], Germans refer to it as the Heinrich Heine Memorial.<ref>[https://www.nytimes.com/2007/05/27/realestate/27scap.html "Sturm und Drang Over a Memorial to Heinrich Heine"] by [[Christopher Gray]], ''[[The New York Times]]'', 27 May 2007.</ref> Also, after years of controversy,<ref>[https://www.nytimes.com/1982/03/31/world/west-gemran-universities-what-to-call-them.html "West German Universities: What to Call Them?"] by [[John Vinocur]], ''[[The New York Times]]'', 31 March 1982</ref> the University of Düsseldorf was named [[Heinrich Heine University]]. Today the city honours its poet with a boulevard (Heinrich-Heine-Allee) and a modern monument.
+
+In Israel, the attitude to Heine has long been the subject of debate between [[secular]]ists, who number him among the most prominent figures of [[Jewish history]], and the religious who consider his conversion to Christianity to be an unforgivable act of betrayal. Due to such debates, the city of Tel Aviv delayed naming a street for Heine, and the street finally chosen to bear his name is located in a rather desolate industrial zone rather than in the vicinity of [[Tel Aviv University]], suggested by some public figures as the appropriate location.{{citation needed|date=December 2020}}
+
+''Ha-‘Ir'' (''העיר'' – ''The City'', a [[Left-wing politics|left]]-leaning Tel Aviv magazine) sarcastically suggested that "The Exiling of Heine Street" symbolically re-enacted the course of Heine's own life. Since then, a street in the Yemin Moshe neighborhood of Jerusalem<ref>[http://www.HaGalil.com/postcards/jerusalem.htm Jewish Postcards from... haGalil onLine.] {{webarchive|url=https://archive.today/20140804212936/http://www.hagalil.com/postcards/jerusalem.htm |date=4 August 2014 }}</ref> and, in Haifa, a street with a beautiful square and a community center have been named after Heine. A Heine Appreciation Society is active in Israel, led by prominent political figures from both the left and [[political right|right]] camps.{{citation needed|date=December 2020}} His quote about burning books is prominently displayed in the [[Yad Vashem]] [[Holocaust]] museum in Jerusalem. (It is also displayed in the [[United States Holocaust Memorial Museum]] and in the pavement in Frankfurt am Main.)
+
+<gallery>
+File:HeineMonument.jpg|Heine monument in Düsseldorf
+File:Heine-Denkmal Frankfurt.JPG|Heine monument in Frankfurt, the only pre-1945 one in Germany
+File:Heinrich Heine Brocken 2017.jpg|Monument on Mount [[Brocken]], Germany
+File:Waldemar Grzimek - Heinrich-Heine-Denkmal IIb 01.jpg|Heine monument in Berlin
+File:Heinrich Heine grave.JPG|Heine's bust on his grave in Montmartre, Paris
+File:Heines grab, Gedicht, fot I Nowicka.jpg|The poem ''Where?'' (Wo?) on Heine's grave
+File:Heine, der Wandermüde2.jpg|Grave and poem "Wo?"
+File:DBP 1956 229 Heinrich Heine.jpg|1956 German stamp commemorating the 100th anniversary of Heine's death
+File:Stamp of USSR 1947.jpg|1956 Soviet stamp commemorating the 100th anniversary of Heine's death
+File:Plaque at Bebelplatz.jpg|Plaque at the Nazi book burning memorial on Bebelplatz in Berlin, Germany, with a quote from Heine's play ''Almansor''
+File:Goarshausen Heinrich Heine bust2.jpg|Bust of Heinrich Heine, [[Sankt Goarshausen]] at the foot of the Lorelei rock
+File:HeineHeinrich.jpg|Heine statue in [[Toulon]]; commissioned by [[Elisabeth of Bavaria]] for [[Achilleion (Corfu)|Achilleion]], it was removed by [[Wilhelm II]]
+</gallery>
+
+==Works==
+A list of Heine's major publications in German. All dates are taken from {{harvnb|Sammons|1979}}.
+
+* 1820 (August): ''Die Romantik'' ("Romanticism", short critical essay)
+* 1821 (20 December<ref>The title page says "1822"</ref>): ''Gedichte'' ("Poems")
+* 1822 (February to July): ''Briefe aus Berlin'' ("Letters from Berlin")
+* 1823 (January): ''Über Polen'' ("On Poland", prose essay)
+* 1823 (April): ''Tragödien nebst einem lyrischen Intermezzo'' ("Tragedies with a Lyrical Intermezzo") includes:
+[[File:Plaque at Bebelplatz.jpg|thumb|Plaque at the Nazi book burning memorial on Bebelplatz in Berlin, Germany. The plaque has a quote from Heinrich Heine's play Almansor (written 1821–1822). "Where they burn books, in the end they will also burn human beings" (Dort, wo man Bücher verbrennt, verbrennt man am Ende auch Menschen) about burning of Quran in Granada that was expected to be followed by burning humans (Muslims then Jewish) in 1500s.]]
+**''Almansor'' (play, written 1821–1822)
+**''William Ratcliff'' (play, written January 1822)
+**''Lyrisches Intermezzo'' (cycle of poems)
+* 1826 (May): ''Reisebilder. Erster Teil'' ("Travel Pictures I"), contains:
+**''[[Die Harzreise]]'' ("The Harz Journey", prose travel work)
+**''Die Heimkehr'' ("The Homecoming", poems)
+**''Die Nordsee. Erste Abteilung'' ("North Sea I", cycle of poems)
+* 1827 (April): ''Reisebilder. Zweiter Teil'' ("Travel Pictures II"), contains:
+** ''Die Nordsee. Zweite Abteilung'' ("The North Sea II", cycle of poems)
+** ''Die Nordsee. Dritte Abteilung'' ("The North Sea III", prose essay)
+** ''Ideen: das Buch le Grand'' ("Ideas: The Book of Le Grand")
+** ''Briefe aus Berlin'' ("Letters from Berlin", a much shortened and revised version of the 1822 work)
+* 1827 (October): ''{{ill|Buch der Lieder|de|Buch der Lieder (Heine)}}'' ("Book of Songs"); collection of poems containing the following sections:
+**''Junge Leiden'' ("Youthful Sorrows")
+**''Die Heimkehr'' ("The Homecoming", originally published 1826)
+**''Lyrisches Intermezzo'' ("Lyrical Intermezzo", originally published 1823)
+**"Aus der ''Harzreise''" (poems from ''Die Harzreise'', originally published 1826)
+**''Die Nordsee'' ("The North Sea: Cycles I and II", originally published 1826/1827)
+* 1829 (December): ''Reisebilder. Dritter Teil'' ("Travel Pictures III"), contains:
+**''Die Reise von München nach Genua'' ("Journey from Munich to Genoa", prose travel work)
+**''Die Bäder von Lucca'' ("The Baths of Lucca", prose travel work)
+**''Anno 1829''
+* 1831 (January): ''Nachträge zu den Reisebildern'' ("Supplements to the Travel Pictures"), the second edition of 1833 was retitled as ''Reisebilder. Vierter Teil'' ("Travel Pictures IV"), contains: [[File:Reisebilder.tif|thumb|''Reisebilder'', 1831]]
+**''Die Stadt Lucca'' ("The Town of Lucca", prose travel work)
+**''Englische Fragmente'' ("English Fragments", travel writings)
+* 1831 (April): ''Zu "Kahldorf über den Adel"'' (introduction to the book "Kahldorf on the Nobility", uncensored version not published until 1890)
+* 1833: ''Französische Zustände'' ("Conditions in France", collected journalism)
+* 1833 (December): ''Der Salon. Erster Teil'' ("The Salon I"), contains:
+** ''Französische Maler'' ("French Painters", criticism)
+** ''Aus den Memoiren des Herren von Schnabelewopski'' ("From the Memoirs of Herr Schnabelewopski", unfinished novel)
+* 1835 (January): ''Der Salon. Zweiter Teil'' ("The Salon II"), contains:
+** ''Zur Geschichte der Religion und Philosophie in Deutschland'' ("On the History of Religion and Philosophy in Germany")
+** ''Neuer Frühling'' ("New Spring", cycle of poems)
+* 1835 (November): ''Die romantische Schule'' ("The Romantic School", criticism)
+* 1837 (July): ''Der Salon. Dritter Teil'' ("The Salon III"), contains:
+** ''Florentinische Nächte'' ("Florentine Nights", unfinished novel)
+** ''Elementargeister'' ("Elemental Spirits", essay on folklore)
+* 1837 (July): ''Über den Denunzianten. Eine Vorrede zum dritten Teil des Salons.'' ("On the Denouncer. A Preface to Salon III", pamphlet)
+* 1837 (November): ''Einleitung zum "Don Quixote"'' ("Introduction to ''Don Quixote''", preface to a new German translation of ''[[Don Quixote]]'')
+* 1838 (November): ''Der Schwabenspiegel'' ("The Mirror of Swabia", prose work attacking poets of the Swabian School)
+* 1838 (October): ''Shakespeares Mädchen und Frauen'' ("Shakespeare's Girls and Women", essays on the female characters in Shakespeare's tragedies and histories)
+*1839: ''Anno 1839''
+* 1840 (August): ''Ludwig Börne. Eine Denkschrift'' ("Ludwig Börne: A Memorial", long prose work about the writer [[Ludwig Börne]])
+* 1840 (November): ''Der Salon. Vierter Teil'' ("The Salon IV"), contains:
+** ''Der Rabbi von Bacherach'' ("The Rabbi of Bacharach", unfinished historical novel)
+** ''Über die französische Bühne'' ("On the French Stage", prose criticism)
+* 1844 (September): ''Neue Gedichte'' ("New Poems"); contains the following sections:
+**''Neuer Frühling'' ("New Spring", originally published in 1834)
+**''Verschiedene'' ("Sundry Women")
+**''Romanzen'' ("Ballads")
+**''Zur Ollea'' ("Olio")
+**''Zeitgedichte'' ("Poems for the Times")
+** it also includes ''Deutschland: Ein Wintermärchen'' (''[[Germany. A Winter's Tale]]'', long poem)
+*1847 (January): ''Atta Troll: Ein Sommernachtstraum'' (''Atta Troll: A Midsummer Night's Dream'', long poem, written 1841–46)
+* 1851 (September): ''Romanzero''; collection of poems divided into three books:
+**''Erstes Buch: Historien'' ("First Book: Histories")
+**''Zweites Buch: Lamentationen'' ("Second Book: Lamentations")
+**''Drittes Buch: Hebräische Melodien'' ("Third Book: Hebrew Melodies")
+* 1851 (October): ''Der Doktor Faust. Tanzpoem'' ("Doctor Faust. Dance Poem", ballet libretto, written 1846)
+* 1854 (October): ''Vermischte Schriften'' ("Miscellaneous Writings") in three volumes, contains:
+**Volume One:
+***''Geständnisse'' ("Confessions", autobiographical work)
+***''Die Götter im Exil'' ("The Gods in Exile", prose essay)
+***''Die Göttin Diana'' ("The Goddess Diana", ballet scenario, written 1846)
+***''Ludwig Marcus: Denkworte'' ("Ludwig Marcus: Recollections", prose essay)
+***''Gedichte. 1853 und 1854'' ("Poems. 1854 and 1854")
+**Volume Two:
+***''Lutezia. Erster Teil'' ("Lutetia I", collected journalism about France)
+**Volume Three:
+***''Lutezia. Zweiter Teil'' ("Lutetia II", collected journalism about France)
+
+===Posthumous publications===
+* ''Memoiren'' ("Memoirs", first published in 1884 in the magazine ''Die Gartenlaube''). Published as a book in English as ''The Memoirs of Heinrich Heine and Some Newly-Discovered Fragments of His Writings with an Introductory Essay by Thomas W. Evans, M.D.'' (1884). London: George Bell & Sons.
+
+==Editions in English==
+* ''Poems of Heinrich Heine, Three hundred and Twenty-five Poems'', Translated by [[Louis Untermeyer]], Henry Holt, New York, 1917.
+* ''The Complete Poems of Heinrich Heine: A Modern English Version'' by [[Hal Draper]], Suhrkamp/Insel Publishers Boston, 1982. {{ISBN|3-518-03048-5}}
+* ''Religion and Philosophy in Germany, a fragment'', Tr. James Snodgrass, 1959. Boston, MA (Beacon Press). {{LCCN|59-6391}} [https://archive.org/details/religionandphilo011616mbp Available online].
+
+==See also==
+{{portal|Poetry}}
+* [[Die Lotosblume]]
+* [[On Wings of Song (poem and song)]]
+* [[Heinrich Heine University of Düsseldorf]]
+* [[Heinrich Heine Prize]]
+* ''[[The Gaze of the Gorgon]]''
+
+==References==
+{{Reflist|30em}}
+
+===Sources===
+* {{cite book|last=Dennis|first=David B.|title=Inhumanities: Nazi Interpretations of Western Culture|location=Cambridge and New York|publisher=Cambridge University Press|year=2012}}
+* {{cite book|last=Kossoff|first=Philip|year=1983|title=Valiant Heart: A Biography of Heinrich Heine|pages=125–126|publisher=Associated University Presses|isbn=9780845347621}}
+* {{cite journal|last=Reid Busk|first=Michael|title=Rag-and-Bone Angel: The Angelus Novus in Charles Bernstein's ''Shadowtime''|journal=[[Journal of Modern Literature]]|pages=1–15 [14]|volume=37|number=4|date=Summer 2014|doi=10.2979/jmodelite.37.4.1|jstor=0.2979/jmodelite.37.4.1|s2cid=171072437}}
+* {{cite book|last=Robertson|first=Ritchie|author-link=Ritchie Robertson|title=Heine|series=Jewish Thinkers|location=London|publisher=Halban|year=1988|isbn=9781870015929}}
+* {{wikicite|ref={{harvid|Sammons|1979}}|reference={{ill|Jeffrey L. Sammons|de|lt=Sammons, Jeffrey L.}} (1979). ''Heinrich Heine: A Modern Biography''. Princeton, New Jersey: Princeton University Press.}}
+* {{cite book|last=Sammons|first=Jeffrey L.|year=2006|title=Heinrich Heine: Alternative Perspectives 1985–2005|publisher=Königshausen & Neumann|isbn=9783826032127}}
+
+==Further reading==
+* [[Max Brod|Brod, Max]] (1957). ''Heinrich Heine: The Artist in Revolt''. New York: New York University Press.
+* [[Michael Hofmann|Hoffman, Michael]], "Heine's Heartmobile" (review of George Prochnik, ''Heinrich Heine: Writing the Revolution'', [[Yale University Press]], 2020, 312 pp.), ''[[The New York Review of Books]]'', vol. LXVIII, no. 12 (22 July 2021), pp. 42–44.
+* Pawel, Ernst (1995). ''The Poet Dying: Heinrich Heine's Last Years in Paris''. New York: Farrar, Straus and Giroux.
+* Prochnik, George (2020). ''Heinrich Heine: Writing the Revolution''. New Haven, Connecticut: Yale University Press.
+* Selden, Camille (1884). ''The Last Days of Heinrich Heine'' (translated into English by Clare Brune). London: Remington & Co.
+* {{cite book|last=Skolnik|first=Jonathan|title=Jewish Pasts, German Fictions: History, Memory, and Minority Culture in Germany, 1824–1955|location=Stanford, California|publisher=Stanford University Press|year=2014|ref=none}}
+* Stigand, William (1880). ''The Life, Work, and Opinions of Heinrich Heine'' (two volumes). New York: J. W. Bouton.
+
+==External links==
+{{Wikiquote}}
+{{wikisource author}}
+{{Commons|Heinrich Heine}}
+* {{Gutenberg author |id=1049 | name=Heinrich Heine}}
+* {{FadedPage|id=Heine, Heinrich|name=Heinrich Heine|author=yes}}
+* {{Internet Archive author |sname=Heinrich Heine}}
+* {{Librivox author |id=69}}
+* The German classics of the nineteenth and twentieth centuries: masterpieces of German literature translated into English" 1913–1914 {{cite web|title=''Heinrich Heine'' |url=https://archive.org/stream/germanclassicsof06franuoft#page/n13/mode/2up|access-date=24 September 2010}}
+* [https://web.archive.org/web/20090915185556/http://web.mac.com/nickriddle/iWeb/Outremer/heine.html Parallel German/English text] of Heine's poem Geoffroy Rudel and Melisande of Tripoli
+* [http://www.dw-world.de/dw/article/0,2144,1904846,00.html Deutsche Welle's] review of Heinrich Heine in 2006, 150 years after his death
+* [https://web.archive.org/web/20060206091702/http://artofthestates.org/cgi-bin/piece.pl?pid=313 Art of the States: The Resounding Lyre] – musical setting of Heine's poem "Halleluja"
+*{{ChoralWiki|prep=of texts by}}
+* [http://www.firstthings.com/onthesquare/2009/08/loving-herodias Loving Herodias] by David P. Goldman, ''First Things''
+* [http://www.britannica.com/EBchecked/topic/259683/Heinrich-Heine Heinrich Heine (German author)], Britannica Online Encyclopedia
+
+{{Heinrich Heine}}
+{{Romanticism}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Heine, Heinrich}}
+[[Category:Heinrich Heine| ]]
+[[Category:1797 births]]
+[[Category:1856 deaths]]
+[[Category:Anti-natalists]]
+[[Category:Writers from Düsseldorf]]
+[[Category:19th-century German writers]]
+[[Category:19th-century German male writers]]
+[[Category:German poets]]
+[[Category:German writers in French]]
+[[Category:Romantic poets]]
+[[Category:German Lutherans]]
+[[Category:German travel writers]]
+[[Category:Saint-Simonists]]
+[[Category:German socialists]]
+[[Category:University of Bonn alumni]]
+[[Category:University of Göttingen alumni]]
+[[Category:Converts to Lutheranism from Judaism]]
+[[Category:Jewish poets]]
+[[Category:18th-century German Jews]]
+[[Category:German emigrants to France]]
+[[Category:Burials at Montmartre Cemetery]]
+[[Category:Jewish socialists]]
+[[Category:Spinoza scholars]]
+[[Category:Epic poets]]

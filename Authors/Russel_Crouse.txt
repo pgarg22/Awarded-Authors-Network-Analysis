@@ -1,0 +1,56 @@
+{{Short description|American librettist and producer (1893–1966)}}
+{{Infobox writer
+| name             = Russel Crouse
+| birth_date       = {{birth date|df=y|1893|02|20}}
+| birth_place      = [[Findlay, Ohio]], [[United States|USA]]
+| death_date       = {{death date and age|df=y|1966|04|03|1893|02|20}}
+| death_place      = [[New York City, New York]], [[United States|USA]]
+| awards           = [[Pulitzer Prize for Drama]] (1946)
+| spouse = [[Alison Smith (critic)|Alison Smith]] (d. 1943)<br>Anna Erskine (m. 1945)<ref name="remarry">(29 June 1945). [https://www.nytimes.com/1945/06/29/archives/anna-erskine-wed-to-russel-crouse-married-here.html?searchResultPosition=3 Anna Erskine Wed to Russel Crouse], ''[[The New York Times]]''</ref>
+}}
+'''Russel Crouse''' (20 February 1893 – 3 April 1966) was an American [[playwright]] and [[librettist]], best known for his work in the [[Broadway theatre|Broadway]] writing partnership of [[Lindsay and Crouse]].
+
+==Life and career==
+Born in [[Findlay, Ohio]], Crouse was the son of Sarah (née Schumacher) and Hiram Powers Crouse, a newspaperman.<ref>{{cite book|url=https://books.google.com/books?id=rJQqAAAAMAAJ&q=%22Hiram+Powers+Crouse%22|title=Life With Lindsay and Crouse|first=Cornelia Otis|last=Skinner|date=2 June 1976|publisher=Houghton Mifflin|isbn=9780395245118|via=Google Books}}</ref> He began his Broadway career in 1928 as an actor in the play ''Gentlemen of the Press,'' in which he played Bellflower. By 1931, however, he had turned his attention to writing, penning the book for the musical ''The Gang's All Here,'' collaborating with Frank McCoy, [[Morrie Ryskind]] and [[Oscar Hammerstein II]].
+
+His first work with his long-time partner [[Howard Lindsay]] came in 1934, when the two men revised the [[P. G. Wodehouse]]/[[Guy Bolton]] book for the [[Cole Porter]] musical ''[[Anything Goes]].'' They then went on to adapt Clarence Day's ''[[Life with Father]]'', which became one of the longest running Broadway plays.
+
+Lindsay and Crouse later became Broadway producers, often acting in that capacity for their own work. They also owned and operated the [[Hudson Theatre]] on 44th Street in [[New York City]].
+
+Perhaps their best-known collaboration was on the book for the 1960 [[Tony Award]]-winning musical ''[[The Sound of Music]],'' which featured music by [[Richard Rodgers]] and lyrics by Crouse's old collaborator Oscar Hammerstein II. Their 1946 play ''[[State of the Union (play)|State of the Union]]'' won that year's [[Pulitzer Prize for Drama]]. They also collaborated on ''[[Call Me Madam]]'', ''[[Happy Hunting]]'', ''[[Mr. President (musical)|Mr. President]]'', and ''The Great Sebastians'' (1955). Crouse joined [[The Lambs]] social club in 1941 and remained a member until his death.
+
+Crouse is the father of writer [[Timothy Crouse]], and named his actress daughter [[Lindsay Crouse|Lindsay Ann Crouse]] in an intentional tribute to his collaboration with Howard Lindsay.
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{IBDB name}}
+* {{IMDb name|189496}}
+*[http://arcat.library.wisc.edu/cgi-bin/Pwebrecon.cgi?BBID=693/ Howard Lindsay and Russel Crouse Papers at the Wisconsin Center for Film and Theater Research]
+
+{{Navboxes
+|title = Awards for Russel Crouse
+|list =
+{{PulitzerPrize DramaAuthors 1926-1950}}
+{{Special Tony Award}}
+}}
+{{Lindsay and Crouse}}
+
+{{Authority control}}
+
+<!--
+* * * * * * * Please do not add Category:Tony Award winners which is for competitive Tony Award recipients. The Special Tony Award is a non-competitive honor that is bestowed not won. 
+ --->
+
+{{DEFAULTSORT:Crouse, Russel}}
+[[Category:1893 births]]
+[[Category:1966 deaths]]
+[[Category:Lindsay and Crouse]]
+[[Category:Pulitzer Prize for Drama winners]]
+[[Category:20th-century American dramatists and playwrights]]
+[[Category:People from Findlay, Ohio]]
+[[Category:Special Tony Award recipients]]
+[[Category:Writers from Ohio]]
+
+{{US-playwright-stub}}

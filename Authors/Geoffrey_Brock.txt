@@ -1,0 +1,84 @@
+{{short description|American poet and translator (born 1964)}}
+{{for|the South Australian politician|Geoff Brock}}
+{{Infobox writer
+| name        = Geoffrey Brock
+| image       = 
+| imagesize   = 200px
+| caption     = 
+| pseudonym   = 
+| birth_date  = {{birth date and age|1964|10|19}}
+| birth_place = Atlanta, Georgia, U.S.
+| death_date  = 
+| death_place = 
+| occupation  = Poet<br>Translator<br>Professor
+| period      = 
+| genre       = 
+| subject     = 
+| movement    = 
+| signature   = 
+| spouse      = [[Padma Viswanathan]]
+| website     = {{url|geoffreybrock.com}}
+}}
+'''Geoffrey Brock''' (born October 19, 1964) is an American [[poet]] and translator.
+
+==Education==
+He received a master's degree in Fine Arts from the [[University of Florida]] in 1998.<ref>{{cite web |url=http://www.english.ufl.edu/crw/publications.html |title=Some Alumni & Alumnae of MFA@FLA |publisher=English.ufl.edu |date=2005-05-29 |access-date=2013-08-25 |archive-url=https://web.archive.org/web/20180430041511/http://www.english.ufl.edu/crw/publications.html |archive-date=2018-04-30 |url-status=dead }}</ref>  He also holds a PhD in Comparative Literature from the [[University of Pennsylvania]].
+
+His poems have been published in ''[[Poetry Magazine]], [[Paris Review]], [[Poetry Nation Review|PN Review]], [[New England Review]], [[The Hudson Review]]'', and ''[[The Best American Poetry 2007]]''.
+
+Since 2006 he has taught Creative Writing & Translation at The [[University of Arkansas]], Fayetteville, where he lives with his wife, the novelist [[Padma Viswanathan]], their two children, and a variable number of animals.
+
+==Awards==
+His translations have received a number of prizes and fellowships, including the [[Academy of American Poets]]' [[Raiziss/de Palchi Translation Awards|Raiziss/de Palchi Fellowship]] and a [[Guggenheim Fellowship]]. He received a poetry fellowship from the [[National Endowment for the Arts]] and a [[Stegner Fellowship]] from [[Stanford University]].
+
+==Works==
+
+===Poetry===
+* {{cite book| title=Voices Bright Flags| publisher=Waywiser| year=2014| isbn=978-1-904130642}}
+* {{cite book| title=Weighing Light| publisher=Ivan R. Dee| year=2005| isbn=978-1-56663-667-4 }}
+
+===Translations===
+* {{cite book| author=[[Cesare Pavese]]| title=Disaffections: Complete Poems 1930-1950| publisher=[[Copper Canyon Press]]| year=2002| isbn=978-1-55659-174-7 }}
+* {{cite book| url=https://books.google.com/books?id=2jwp2tIRRGkC&q=Geoffrey+Brock+k+calasso&pg=PP6| title=The Zürau aphorisms of Franz Kafka| author=[[Franz Kafka]], [[Roberto Calasso]]| others=Translator Geoffrey Brock, Michael Hofmann| publisher=Random House, Inc.| year=2006| isbn=978-0-8052-1207-5 }}
+* {{cite book| title=K| author=[[Roberto Calasso]]| others=Translator Geoffrey Brock| publisher=Vintage | year=2006| isbn=978-1-4000-7612-3 }}
+* {{cite book| author=[[Umberto Eco]]| title=[[The Mysterious Flame of Queen Loana]]|  others=Translator Geoffrey Brock| publisher=Houghton Mifflin Harcourt| year=2005| isbn=978-0-15-101140-7 }}
+* {{cite book| author=[[Antonia Arslan]]| title=Skylark Farm| url=https://books.google.com/books?id=_qhlvz5EjC8C&q=Geoffrey+Brock| others=Translator Geoffrey Brock| publisher=Random House, Inc.| year=2006| isbn=978-1-4000-4435-1 }}
+* {{cite book| url=https://books.google.com/books?id=LPGKTfUvFjwC&q=Geoffrey+Brock| title=The Adventures of Pinocchio| authors=[[Carlo Collodi]], Umberto Eco (Introduction), Rebecca West (Afterword)| others=Translator Geoffrey Brock| publisher=New York Review of Books| year=2008| isbn=978-1-59017-289-6 }}
+
+===Anthology edited===
+* {{cite book| title=The FSG Book of Twentieth-Century Italian Poetry| publisher=Farrar, Straus and Giroux| year=2012| isbn=978-0-374-10538-9}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.geoffreybrock.com/ Official site]
+* [http://www.ablemuse.com/v6/featured-poet/geoffrey-brock Featured Interview and Poetry on Able Muse, Reload Issue]
+*[http://www.uark.edu/depts/english/pcwtfaculty/brock.html University of Arkansas Programs in Creative Writing and Translation]
+*[http://www.poets.org/poet.php/prmPID/257 The Academy of American Poets]
+*[http://www.fishousepoems.org/archives/geoffrey_brock/ From the Fishouse]
+*[https://web.archive.org/web/20071214100022/http://www.pen.org/MemberProfile.php/prmProfileID/25556/prmTranslatorID/25556 PEN American Center]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brock, Geoffrey}}
+[[Category:1964 births]]
+[[Category:Living people]]
+[[Category:21st-century American poets]]
+[[Category:American male poets]]
+[[Category:Formalist poets]]
+[[Category:Italian–English translators]]
+[[Category:Literary translators]]
+[[Category:The New York Review of Books people]]
+[[Category:Stanford University alumni]]
+[[Category:University of Arkansas faculty]]
+[[Category:University of Florida alumni]]
+[[Category:University of Pennsylvania alumni]]
+[[Category:21st-century American translators]]
+[[Category:Poets from Georgia (U.S. state)]]
+[[Category:Writers from Atlanta]]
+[[Category:21st-century American male writers]]
+
+
+{{US-translator-stub}}
+{{US-poet-1960s-stub}}

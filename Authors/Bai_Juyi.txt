@@ -1,0 +1,250 @@
+{{short description|Chinese poet of the Tang Dynasty (772-846)}}
+{{More citations needed|reason=Citations are outdated. Waley was a good translator and its amazing what he accomplished, especially for the era in which he lived, but his works are more often cited as relics of pre-war orientalism than as serious scholarly work in their own right. Waley's opinions are noteworthy and should be cited in a "Reception" section, of course. For a more obscure topic, basing the majority of the factual claims on such a source might be acceptable, but we can definitely locate newer sources for this one.|date=September 2017}}
+{{Infobox writer
+| name =Bai Juyi
+| image = 白乐天.jpg
+| image_size = 200px
+| alt = Chinese man sitting in a robe.
+| caption = Portrait of Bai Juyi by [[Chen Hongshou]]
+| birth_date = 772
+| birth_place = [[Taiyuan]], [[Shanxi]], China
+| death_date = 846
+| death_place = Xiangshan Temple, Longmen ([[Luoyang]]), [[Henan]], China
+| occupation = [[Poet]], Government official
+| genre =
+| movement =
+| period =
+| influences =
+| influenced = 
+| children   = Bai Acui (son)
+| relatives  = Bai Huang (grandfather)<br>Bai Jigeng
+| module  = {{Infobox Chinese|child=yes
+  |pic=Bai Juyi (Chinese characters).svg
+  |piccap="Bai Juyi" in Chinese characters
+  |picupright=0.4
+  |c=白居易
+  |p={{Zhwb|Bái Jūyì|Bó Jūyì}}
+  |w={{Zhwb|Pai<sup>2</sup> Chü<sup>1</sup>-i<sup>4</sup>|Po<sup>2</sup> Chü<sup>1</sup>-i<sup>4</sup>}}
+  |mi={{Zhwb|{{IPAc-cmn|b|ai|2|-|j|ü|1|.|yi|4}}|{{IPAc-cmn|b|o|2|-|j|ü|1|.|yi|4}} }}
+  |j=Baak<sup>6</sup> Geoi<sup>1</sup>-ji<sup>6</sup>
+  |y=Baahk Gēui-yih
+  |ci={{IPAc-yue|b|aak|6|-|g|eoi|1|.|j|i|6}}
+  |tl={{Zhwb|Pe̍h Ku-ī|Pi̍k Ku-ī}}
+  |mc=Bɐk Kjwo-jie<sup>C</sup>
+  |kanji=白居易
+  |hiragana=はく きょい
+  |romaji=Haku Kyo'i
+  |hanja=白居易
+  |hangul=백거이
+  |mr=Paek Kŏi
+|altname = Letian
+|s2 = {{linktext|乐|天}}
+|t2 = {{linktext|樂|天}}
+|l2 = 
+|p2 = Lètiān
+|altname3 = Xiangshan Jushi
+|c3 = {{linktext|香|山|居士}}
+|l3 = {{nowrap|[[Householder (Buddhism)|Householder]] of Mount Xiang}}
+|p3 = Xiāngshān Jūshì
+}}
+}}
+{{family name hatnote|[[Bai (surname)|Bai]]|lang=Chinese}}
+'''Bai Juyi''' (also '''Bo Juyi''' or '''Po Chü-i'''; {{zh|c=白居易}}; 772&ndash;846), [[courtesy name]] '''Letian''' ({{zh|t=樂天}}), was a renowned Chinese [[poet]] and [[Tang dynasty]] [[government official]]. Many of his poems concern his career or observations made about everyday life, including as governor of three different provinces. He achieved fame as a writer of verse in a low-key, near vernacular style that was popular throughout China, in Korea and Japan.<ref>{{Cite book|last=Norwich|first=John Julius|url=https://www.worldcat.org/oclc/11814265|title=Oxford illustrated encyclopedia|date=1985–1993|publisher=Oxford University Press|others=Judge, Harry George., Toyne, Anthony.|isbn=0-19-869129-7|location=Oxford [England]|pages=29|oclc=11814265}}</ref>
+
+Bai was also influential in the historical development of Japanese literature, where he is better known by the [[on'yomi]] reading of his courtesy name, '''Haku Rakuten''' ([[shinjitai]]: 白楽天).<ref>Arntzen, S (2008) A Shared Heritage of Sensibility?: The Reception of Bai Juyi's Poetry in Japan. Paper presented at the conference ''Japan-China Cultural Relations'' at the [[University of Victoria]], 25th Jan. [http://capiconf.uvic.ca/viewpaper.php?id=36&print=1&cf=4] {{Webarchive|url=https://web.archive.org/web/20140112105525/http://capiconf.uvic.ca/viewpaper.php?id=36&print=1&cf=4 |date=2014-01-12 }}</ref> His younger brother [[Bai Xingjian]] was a short story writer.
+
+Among his most famous works are the long narrative poems "[[Chang hen ge (poem)|Chang hen ge]]" ("Song of Everlasting Sorrow"), which tells the story of [[Yang Guifei]], and "[[Pipa xing]]" ("Song of the Pipa").
+
+==Life==
+Bai Juyi lived during the [[Tang poetry#Middle Tang|Middle Tang]] period. This was a period of rebuilding and recovery for the Tang Empire, following the [[An Lushan Rebellion]], and following the poetically flourishing era famous for [[Li Bai]] (701－762), [[Wang Wei (Tang dynasty)|Wang Wei]] (701－761), and [[Du Fu]] (712－770). Bai Juyi lived through the reigns of eight or nine emperors, being born in the ''Dali'' regnal era (766-779) of [[Emperor Daizong of Tang]]. He had a long and successful career both as a government official and a poet, although these two facets of his career seemed to have come in conflict with each other at certain points. Bai Juyi was also a devoted [[Zen|Chan Buddhist]].<ref>Hinton, 266</ref>
+
+===Birth and childhood===
+Bai Juyi was born in 772{{sfnm|1a1=Ueki et al.|1y=1999|1p=123}} in [[Taiyuan]], [[Shanxi]], which was then a few miles from location of the modern city, although he was in [[Zhengyang County|Zhengyang]], [[Henan]] for most of his childhood. His family was poor but scholarly, his father being an Assistant Department Magistrate of the second-class.<ref>Waley (1941), 126-27.</ref> At the age of ten he was sent away from his family to avoid a war that broke out in the north of China, and went to live with relatives in the area known as [[Jiangnan]], more specifically [[Xuzhou]].
+
+===Early career===
+Bai Juyi's official career was initially successful. He passed the ''[[Imperial examination|jinshi]]'' examinations in 800. Bai Juyi may have taken up residence in the western capital city of [[Chang'an]], in 801. Not long after this, Bai Juyi formed a long friendship with a [[Scholar-officials|scholar]] [[Yuan Zhen]]. Bai Juyi's father died in 804, and the young Bai spent the traditional period of retirement mourning the death of his parent, which he did along the [[Wei River]], near to the capital. 806, the first full year of the reign of [[Emperor Xianzong of Tang]], was the year when Bai Juyi was appointed to a minor post as a government official, at [[Zhouzhi County|Zhouzhi]], which was not far from  Chang'an (and also in [[Shaanxi]] province). He was made a member (scholar) of the [[Hanlin Academy]], in 807, and Reminder of the Left from 807 until 815,{{Citation needed|date=November 2011}} except when in 811 his mother died, and he spent the traditional three-year mourning period again along the Wei River, before returning to court in the winter of 814, where he held the title of Assistant Secretary to the Prince's Tutor.<ref>Waley (1941), 126- 130</ref> It was not a high-ranking position, but nevertheless one which he was soon to lose.
+
+===Exile===
+[[Image:Bai Juyi.jpg|thumb|right|upright=0.9|Picture of Bai Juyi from the book "Wan hsiao tang".]]
+While serving as a minor palace official in 814, Bai managed to get himself in official trouble. He made enemies at court and with certain individuals in other positions. It was partly his written works which led him into trouble. He wrote two long memorials, translated by Arthur Waley as "On Stopping the War", regarding what he considered to be an overly lengthy campaign against a minor group of [[Tatars]]; and he wrote a series of poems, in which he satirized the actions of greedy officials and highlighting the sufferings of the common folk.<ref>Waley (1941), 130</ref>
+
+At this time, one of the post-[[An Lushan]] warlords (''[[jiedushi]]''), [[Wu Yuanji]] in [[Henan]], had seized control of Zhangyi Circuit (centered in [[Zhumadian]]), an act for which he sought reconciliation with the imperial government, trying to get an imperial pardon as a necessary prerequisite. Despite the intercession of influential friends, Wu was denied, thus officially putting him in the position of rebellion. Still seeking a pardon, Wu turned to assassination, blaming the Prime Minister, [[Wu Yuanheng]], and other officials: the imperial court generally began by dawn, requiring the ministers to rise early in order to attend in a timely manner; and, on July 13, 815, before dawn, the Tang Prime Minister Wu Yuanheng was set to go to the palace for a meeting with Emperor Xianzong. As he left his house, arrows were fired at his retinue. His servants all fled, and the assassins seized Wu Yuanheng and his horse, and then decapitated him, taking his head with them. The assassins also attacked another official who favored the campaign against the rebellious warlords, Pei Du, but was unable to kill him. The people at the capital were shocked and there was turmoil, with officials refusing to leave their personal residences until after dawn.
+
+[[File:YangtzeInThreeGorges.jpg|thumb|left|The Three Gorges of the Yangzi had to be traversed on the boat ride from Jiujiang to Sichuan.]]
+In this context, Bai Juyi overstepped his minor position by memorializing the emperor. As Assistant Secretary to the Prince's Tutor, Bai's memorial was a breach of protocol — he should have waited for those of censorial authority to take the lead before offering his own criticism. This was not the only charge which his opponents used against him.  His mother had died, apparently caused by falling into a well while looking at some flowers, and two poems written by Bai Juyi — the titles of which Waley translates as "In Praise of Flowers" and "The New Well" — were used against him as a sign of lack of [[Filial piety|Filial Piety]], one of the [[Confucian]] ideals.  The result was exile. Bai Juyi was demoted to the rank of Sub-Prefect and banished from the court and the capital city to [[Jiujiang]], then known as Xun Yang, on the southern shores of the [[Yangtze River]] in northwest [[Jiangxi]] Province. After three years, he was sent as Governor of a remote place in Sichuan.<ref>Waley (1941), 130-31, Waley refers to this place as "Chung-chou".</ref> At the time, the main travel route there was up the Yangzi River. This trip allowed Bai Juyi a few days to visit his friend Yuan Zhen, who was also in exile and with whom he explored the rock caves located at [[Yichang]]. Bai Juyi was delighted by the flowers and trees for which his new location was noted.  In 819, he was recalled back to the capital, ending his exile.<ref>Waley (1941), 130-31</ref>
+
+===Return to the capital and a new emperor===
+In 819, Bai Juyi was recalled to the capital and given the position of second-class Assistant Secretary.<ref name="Waley 1941, 131">Waley (1941), 131</ref> In 821, China got a new emperor, [[Emperor Muzong of Tang|Muzong]]. After succeeding to the throne, Muzong spent his time feasting and heavily drinking and neglecting his duties as emperor. Meanwhile, the temporarily subdued regional military governors, ''jiedushi'', began to challenge the central Tang government, leading to the new de facto independence of three circuits north of the [[Yellow River]], which had been previously subdued by Emperor Xianzong. Furthermore, Muzong's administration was characterized by massive corruption. Again, Bai Juyi wrote a series of memorials in remonstrance.
+
+===As Governor of Hangzhou===
+Again, Bai Juyi was sent away from the court and the capital, but this time to the important position of the thriving town of [[Hangzhou]], which was at the southern terminus of the [[Grand Canal (China)|Grand Canal]] and located in the scenic neighborhood of [[West Lake]]. Fortunately for their friendship, Yuan Zhen at the time was serving an assignment in nearby [[Ningbo]], also in what is today [[Zhejiang]], so the two could occasionally get together,<ref name="Waley 1941, 131"/> at least until Bai Juyi's term as Governor expired.
+
+As governor of Hangzhou, Bai Juyi realized that the farmland nearby depended on the water of West Lake, but, due to the negligence of previous governors, the old [[dike (construction)|dike]] had collapsed and the lake had dried out to the point that the local farmers were suffering from severe drought. He ordered the construction of a stronger and taller dike, with a [[dam]] to control the flow of water, thus providing water for irrigation, relieving the drought, and improving the livelihood of the local people over the following years. Bai Juyi used his leisure time to enjoy the beauty of West Lake, visiting the lake almost every day. He ordered the construction of a causeway to allow walking on foot, instead of requiring the services of a boat. A causeway in the West Lake (Baisha Causeway, 白沙堤) was later referred to as Bai Causeway in Bai Juyi's honor, but the original causeway built by Bai Juyi named Baigong Causeway ({{lang|zh|白公堤}}) no longer exists.
+
+===Life near Luoyang===
+In 824, Bai Juyi's commission as governor expired, and he received the nominal rank of Imperial Tutor, which provided more in the way of official salary than official duties, and he relocated his household to a suburb of the "eastern capital," [[Luoyang]].<ref>Waley (1941), 131. Waley refers to this village as "Li-tao-li."</ref> At the time, Luoyang was known as the eastern capital of the empire and was a major metropolis with a population of around one million and a reputation as the "cultural capital," as opposed to the more politically oriented capital of [[Chang'an]].
+
+===Governor of Suzhou===
+[[File:Suzhou Downtown.jpg|thumb|upright=0.9|Suzhou]]
+In 825, at the age of fifty-three, Bai Juyi was given the position of Governor (Prefect) of [[Suzhou]], situated on the lower reaches of the Yangtze River and on the shores of [[Lake Tai]]. For the first two years, he enjoyed himself with feasts and picnic outings, but after a couple years he became ill and was forced into a period of retirement.<ref name="Waley 1941, 132">Waley (1941), 132</ref>
+
+===Later career===
+After his time as [[Prefecture|Prefect]] of [[Hangzhou]] (822-824) and then [[Suzhou]] (825-827), Bai Juyi returned to the capital. He then served in various official posts in the capital, and then again as prefect/governor, this time in [[Henan]], the province in which Luoyang was located. It was in Henan that his first son was born, though only to die prematurely the next year. In 831 Yuan Zhen died.<ref name="Waley 1941, 132"/> For the next thirteen years, Bai Juyi continued to hold various nominal posts but actually lived in retirement.
+
+===Retirement===
+[[File:Longmen-lu-she-na-1.jpg|thumb|left|Buddha and Bodhisattva images carved out of rock, at Longmen]]
+In 832, Bai Juyi repaired an unused part of the Xiangshan Monastery, at [[Longmen Grottoes|Longmen]], about 7.5 miles south of Luoyang. Bai Juyi moved to this location, and began to refer to himself as the "Hermit of Xiangshan". This area, now a [[UNESCO World Heritage Site]], is famous for its tens of thousands of statues of [[Buddha]] and his disciples carved out of the rock. In 839, he experienced a paralytic attack, losing the use of his left leg, and became a bedridden invalid for several months.  After his partial recovery, he spent his final years arranging his Collected Works, which he presented to the main monasteries of those localities in which he had spent time.<ref>Waley (1941), 132-33</ref>
+
+===Death===
+[[File:洛阳龙门白居易墓.jpg|thumb|The Tomb of Bai Juyi.]]
+In 846, Bai Juyi died, leaving instructions for a simple burial in a grave at the monastery, with a plain style funeral, and to not have a posthumous title conferred upon him.<ref>Waley (1941), 133</ref> He has a tomb monument in Longmen, situated on Xiangshan across the Yi River from the [[Longmen Grottoes|Longmen]] cave temples in the vicinity of [[Luoyang]], [[Henan]]. It is a circular mound of earth 4 meters high, 52 meters in circumference, and with a 2.80 meter high Monument inscribed "Bai Juyi".
+
+==Works==
+Bai Juyi has been known for his plain, direct, and easily comprehensible style of verse, as well as for his social and political criticism. Besides his surviving poems, several letters and essays are also extant.
+
+He collected his writings in the anthology called the ''{{illm|Bai  Zhi Wen Ji|zh|白氏文集}}''.{{sfnm|1a1=Ueki et al.|1y=1999|1p=123}}
+
+===History===
+One of the most prolific of the Tang poets, Bai Juyi wrote over 2,800 [[poem]]s, which he had copied and distributed to ensure their survival. They are notable for their relative accessibility: it is said that he would rewrite any part of a poem if one of his servants was unable to understand it.  The accessibility of Bai Juyi's poems made them extremely popular in his lifetime, in both [[China]] and [[Japan]], and they continue to be read in these countries today.
+
+===Famous poems===
+[[File:CMOC Treasures of Ancient China exhibit - Pi Pa Xing in running script, top view.jpg|thumb|Bai Juyi's "Pi Pa Xing", in running script, calligraphy by [[Wen Zhengming]], Ming Dynasty.]]
+[[File:九江琵琶亭白居易石像.JPG|thumb|right|Bai Juyi statue in front of Pipa Pavilion on the Xunyang River at Jiujiang, where he wrote his "The Song of the Pipa Player" poem.]]
+Two of his most famous works are the long [[narrative]] poems "[[Chang hen ge (poem)|Chang hen ge]]" ("Song of Everlasting Sorrow"), which tells the story of [[Yang Guifei]], and "The Song of the [[Pipa]] Player". Like [[Du Fu]], he had a strong sense of social responsibility and is well known for his satirical poems, such as ''The Elderly Charcoal Seller''. Also he wrote about military conflicts during the Tang Dynasty. Poems like "Song of Everlasting Sorrow" were examples of the peril in China during the An Lushan rebellion.
+
+Bai Juyi also wrote intensely romantic poems to fellow officials with whom he studied and traveled.  These speak of sharing wine, sleeping together, and viewing the moon and mountains.  One friend, Yu Shunzhi, sent Bai a [[Bolt (fabric)|bolt]] of cloth as a gift from a far-off posting, and Bai Juyi debated on how best to use the precious material:
+{{quote|<poem>
+About to cut it to make a mattress,
+pitying the breaking of the leaves;
+about to cut it to make a bag,
+pitying the dividing of the flowers.
+It is better to sew it,
+making a coverlet of joined delight;
+I think of you as if I'm with you,
+day or night.<ref>Hinsch, 80-81</ref></poem>
+}}
+
+Bai's works were also highly renowned in Japan, and many of his poems were quoted and referenced in ''[[The Tale of Genji]]'' by [[Murasaki Shikibu]].<ref>[http://www.britannica.com/EBchecked/topic/465541/Bai-Juyi Bai Juyi (Chinese poet) from ''Britannica'']</ref>  [[Zeami Motokiyo]] also quoted from Bai, in his [[Noh plays]], and even wrote one, [[Haku Rakuten]], about the Japanese god of poetry repelling the Chinese poet from Japan, in opposition to Bai's (perceived) challenge to the country's poetic autonomy.<ref>A Waley, ''The Noh Plays of Japan'' (1976) p. 185</ref>
+
+[[File:Chogonka Emaki by Kano Sansetsu.jpg|thumb|center|700px|Scene from the poem ''[[Chang hen ge (poem)|Chang Hen Ge]]'', depicting [[Emperor Xuanzong of Tang|Emperor Xuanzong]] (center) and his concubines.<br>{{small|Japanese painting by [[Kanō Sansetsu]] (1590-1651).}}]]
+
+===Poetic forms===
+Bai Juyi was known for his interest in the old ''[[yuefu]]'' form of poetry, which was a typical form of [[Han poetry]], namely folk ballad verses, collected or written by the [[Music Bureau]].<ref name="Hinton, 265">Hinton, 265</ref> These were often a form of social protest. And, in fact, writing poetry to promote social progress was explicitly one of his objectives.<ref name="Hinton, 265"/> He is also known for his well-written poems in the [[regulated verse]] style.
+
+===Art criticism===
+Bai was a poet of the middle Tang Dynasty. It was a period after the [[An Lushan Rebellion]], the [[Tang dynasty|Tang Empire]] was in rebuilding and recovery. As a government official and a litterateur, Bai observed the court music performance that was seriously affected by Xiyu ([[Western Regions|西域]], Western regions), and he made some articles with indignation to criticize that phenomenon. As an informal leader of a group of poets who rejected the courtly style of the time and emphasized the didactic function of literature, Bai believing that every literary work should contain a fitting moral and a well-defined social purpose.<ref>{{Cite encyclopedia|url=https://www.britannica.com/biography/Bai-Juyi|title=Bai Juyi {{!}} Chinese poet|encyclopedia=Encyclopedia Britannica|access-date=2018-11-22|language=en}}</ref> That makes him not satisfied with cultural performance styles of Tang court.
+
+For instance, in his work of ''Faqu ge'' ({{lang|zh-hant|法曲歌}}), translated as ''Model Music'', is a poem regard to a kind of performing art, he made the following statement:
+
+''' '''              All the faqu's now are combined with songs from the [[Hua–Yi distinction|barbarians]];
+
+but the barbarian music sounds evil and disordered whereas Han music sounds harmonious! ({{Lang|zh-hant|法曲法曲合夷歌，夷聲邪亂華聲和}})<ref name="Download Limit Exceeded">{{Cite document|title=Download Limit Exceeded|citeseerx = 10.1.1.590.6908}}</ref>
+
+Faqu is a kind of performing style of Yanyue, a part of court music performance. In this poem, Bai Juyi strongly criticized Tang Daqu, which was itself heavily influenced by some nonnative musical elements absent in the Han Daqu-the original form of Daqu. Tang culture was an amalgamation of the culture of the ethnic Han majority, the culture of the "[[Western Regions|Western Region]]" ({{lang|zh-hant|西域}}), and [[Buddhism]].<ref name="Download Limit Exceeded"/> The conflict between the mainstream [[Han Chinese|Han culture]] and [[Ethnic minorities in China|minority]] culture exposed after the An Lushan Rebellion. The alien culture was so popular and it had seriously threatened the status of Han culture.
+
+Musical performances at the Tang court are of two types: seated performances ({{lang|zh-hant|坐部}}) and standing performances ({{lang|zh-hant|立部}}). Seated performances were conducted in smaller halls with a limited number of dancers, and emphasized refined artistry. Standing performances involves numerous dancers, and were usually performed in courtyards or squares intended for grand presentations.
+
+Bai's another poem, ''Libuji'' ({{lang|zh-hant|立部伎}}), translated as ''Standing Section Players'', reflected the phenomenon of "decline in imperial court music".<ref>{{Cite web|url=https://core.ac.uk/download/pdf/36687766.pdf|title=BAI JUYI AND THE NEW YUEFU MOVEMENT}}</ref> In this poem, Bai mercilessly pointed out that music style of both seated performances and standing performances were deeply influenced by foreign culture.
+
+Seated performances are more elegant than standing performances. Players in the Seating Section were the most qualified performers, while the performing level of the players in the Standing Section were a bit poor ({{lang|zh-hant|立部賤，坐部貴}}). In Bai Juyi's time, those two performances were full of foreign music, the [[Yayue]] ({{Lang|zh-hant|雅樂}}, literally: "elegant music") was no longer be performed in those two sections. The Yayue music was only be performed by the players who were eliminated from those two sections ({{lang|zh-hant|立部又退何所任，始就樂懸操雅音}}).<ref>{{Cite web|url=http://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCJD&dbname=CCJDLAST2&filename=YUEF201200020&v=MjE0MDl1UnRGQ25oVjd2TlBEak9hTEc0SDlQTXI0OUhaSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxLZVo=|title=从《七德舞》与《立部伎》看白居易的"刺雅乐之替" - 中国知网|website=kns.cnki.net|access-date=2018-11-22}}</ref> This poem shows the culture changing in the middle Tang Dynasty and the decline of Yayue, a form of classical music and dance performed at the royal court and temples
+
+In those two poems of Bai reflected the situation of political and culture in the middle Tang Dynasty after the An Lushan Rebellion, and he was concerned that the popularity of foreign music could lead the Tang society into chaos.
+
+== Appraisal ==
+Bai Juyi is considered one of the greatest Chinese poets, but even during the ninth century, sharp divide in critical opinions of his poetry already existed.<ref name="owen">Owen (2006), pg. 45</ref>  While some poets like [[Pi Rixiu]] only had the highest praise for Bai Juyi, others were hostile, like Sikong Tu ({{lang|zh|司空圖}}) who described Bai as "overbearing in force, yet feeble in energy (''[[qi]]''), like domineering merchants in the market place."<ref name="owen"/> Bai's poetry was immensely popular in his own lifetime, but his popularity, his use of vernacular, the sensual delicacy of some of his poetry, led to criticism of him being "common" or "vulgar".  In a tomb inscription for Li Kan ({{lang|zh|李戡}}), a critic of Bai, poet [[Du Mu]] wrote, couched in the words of Li Kan: "...It has bothered me that ever since the [[Emperor Xianzong of Tang|Yuanhe Reign]] we have had poems by Bai Juyi and [[Yuan Zhen]] whose sensual delicacy has defied the norms.  Excepting gentlemen of mature strength and classical decorum, many have been ruined by them. They have circulated among the common people and been inscribed on walls; mothers and fathers teach them to sons and daughters orally, through winter's cold and summer's heat their lascivious phrases and overly familiar words have entered people's flesh and bone and cannot be gotten out.  I have no position and cannot use the law to bring this under control."<ref>Owen (2006), pg. 277</ref>
+
+Bai was also criticized for his "carelessness and repetitiveness", especially his later works.<ref name="owen4546"/> He was nevertheless placed by Tang poet Zhang Wei ({{lang|zh-hant|張爲}}) in his Schematic of Masters and Followers Among the Poets ({{lang|zh|詩人主客圖}}) at the head of his first category: "extensive and grand civilizing power".<ref name="owen4546">Owen (2006), pp. 45-47, 57</ref>
+
+=== Modern assessment ===
+[[Burton Watson]] says of Bai Juyi: "he worked to develop a style that was simple and easy to understand, and posterity has requited his efforts by making him one of the most well-loved and widely read of all Chinese poets, both in his native land and in the other countries of the East that participate in the appreciation of Chinese culture. He is also, thanks to the translations and biographical studies by [[Arthur Waley]], one of the most accessible to English readers".<ref>Watson, 184.</ref>
+
+==In popular culture==
+Bai Juyi is one of the main characters of the 2017 Chinese fantasy film ''[[Legend of the Demon Cat]]'', where he is portrayed by [[Huang Xuan]]. It the movie, the poet is solving a murder mystery and struggles to finish his famous poem, "Song of Everlasting Regret".
+
+==See also==
+{{Portal|China|Poetry|Biography}}
+*[[Li Shidao]]
+*[[List of emperors of the Tang Dynasty]]
+*[[Salt in Chinese history#The moral debate over salt and society]]
+*[[West Lake]]
+
+== Works cited ==
+*Hinsch, Bret.  (1990).  ''Passions of the Cut Sleeve''.  University of California Press.
+*[[David Hinton|Hinton, David]] (2008). ''Classical Chinese Poetry: An Anthology''. New York: Farrar, Straus, and Giroux. {{ISBN|0-374-10536-7}} / {{ISBN|978-0-374-10536-5}}.
+*{{cite book |title=The Late Tang: Chinese Poetry of the Mid-Ninth Century (827-860) |first=Stephen |last=Owen|author-link =Stephen Owen (academic)|publisher=Harvard University Asia Center |pages=45– |year=2006 |isbn=978-0-674-03328-3 }}
+* Kubin, Wolfgang (=[[Wolfgang Kubin]], book  review ), ''[[Weigui Fang]], 'Den Kranich fragen. 155 Gedichte von Bai Juyi'', in: ORIENTIERUNGEN. Zeitschrift zur Kultur Asiens (Journal sur la culture de l'Asie), n ° 1/2007, pp.&nbsp;129–130.
+*Nienhauser, William H (ed.). ''The Indiana Companion to Traditional Chinese Literature''.  Indiana University Press 1986. {{ISBN|0-253-32983-3}}
+* {{cite encyclopedia
+ |editor-last  = Matsuura
+ |editor-first = Tomohisa
+ |editor-link  = Tomohisa Matsuura
+ |last1        = Ueki
+ |first1       = Hisayuki
+ |author-link1 = Hisayuki Ueki
+ |last2        = Uno
+ |first2       = Naoto
+ |author-link2 = Naoto Uno
+ |last3        = Matsubara
+ |first3       = Akira
+ |author-link3 = Akira Matsubara
+ |chapter      = Shijin to Shi no Shōgai (Haku Kyoi)
+ |pages        = 123–127
+ |title        = Kanshi no Jiten
+ |script-title = ja:漢詩の事典
+ |language     = ja
+ |year         = 1999
+ |location     = Tokyo
+ |publisher    = Taishūkan Shoten
+ |ref          = {{SfnRef|Ueki et al.|1999}}
+ |oclc         = 41025662
+|title-link = Kanshi no Jiten
+ }}
+* Arthur Waley, ''The Life and Times of Po Chü-I, 772-846 A.D''  (New York,: Macmillan,  1949). 238p.
+*[[Arthur Waley|Waley, Arthur]] (1941). ''Translations from the Chinese''. New York: Alfred A. Knopf. {{ISBN|978-0-394-40464-6}}
+*[[Burton Watson|Watson, Burton]] (1971). ''Chinese Lyricism: Shih Poetry from the Second to the Twelfth Century''. (New York: Columbia University Press). {{ISBN|0-231-03464-4}}
+
+== References ==
+{{Reflist|30em}}
+
+==External links==
+{{sisterlinks|d=Q313324|s=Author:Bai Juyi|n=no|commons=category:Bai Juyi|b=no|v=no|voy=no|wikt=no|m=no|mw=no|species=no}}
+* {{Gutenberg author | id=Bai,+Juyi | name=Juyi Bai}}
+* {{Internet Archive author |sname=Bai Juyi}}
+* {{Librivox author |id=3156}}
+*[http://www.blackcatpoems.com/j/bai_juyi.html Bai Juyi: Poems] — English translations of Bai Juyi's poetry.
+*[http://www.chinese-poems.com/bo.html Translations of Chinese poems]
+*[http://www.philmultic.com/pipa/pipa_song.html Chinese poems in translation]
+*[https://web.archive.org/web/20041210161901/http://afpc.asso.fr/wengu/wg/wengu.php?l=Tangshi&no=-1&auteur=Bai_Juyi Six Bai Juyi's poems] included in ''300 Selected Tang Poems'', translated by [[Witter Bynner]]
+*[https://web.archive.org/web/20081202144124/http://www.erasmuspc.com/index.php?id=18838&type=article Article on the Shanghai Oriental Pearl Tower that was based on a poem by Bai Juyi]
+*[http://www.vincentpoon.com/a-poem-for-the-swallows.html English translation of Bai Juyi's "A Poem for the Swallows(《燕詩》 /《燕詩示劉叟》)"] 
+*Books of the ''[[Quan Tangshi]]'' that include collected poems of Bai Juyi at the [[Chinese Text Project]]:
+**[http://ctext.org/quantangshi/424 Book 424], [http://ctext.org/quantangshi/425 Book 425], [http://ctext.org/quantangshi/426 Book 426], [http://ctext.org/quantangshi/427 Book 427], [http://ctext.org/quantangshi/428 Book 428],
+::[http://ctext.org/quantangshi/429 Book 429], [http://ctext.org/quantangshi/430 Book 430], [http://ctext.org/quantangshi/431 Book 431], [http://ctext.org/quantangshi/432 Book 432], [http://ctext.org/quantangshi/433 Book 433],
+::[http://ctext.org/quantangshi/434 Book 434], [http://ctext.org/quantangshi/435 Book 435], [http://ctext.org/quantangshi/436 Book 436], [http://ctext.org/quantangshi/437 Book 437], [http://ctext.org/quantangshi/438 Book 438],
+::[http://ctext.org/quantangshi/439 Book 439], [http://ctext.org/quantangshi/440 Book 440], [http://ctext.org/quantangshi/441 Book 441], [http://ctext.org/quantangshi/442 Book 442], [http://ctext.org/quantangshi/443 Book 443],
+::[http://ctext.org/quantangshi/444 Book 444], [http://ctext.org/quantangshi/445 Book 445], [http://ctext.org/quantangshi/446 Book 446], [http://ctext.org/quantangshi/447 Book 447], [http://ctext.org/quantangshi/448 Book 448],
+::[http://ctext.org/quantangshi/449 Book 449], [http://ctext.org/quantangshi/450 Book 450], [http://ctext.org/quantangshi/451 Book 451], [http://ctext.org/quantangshi/452 Book 452], [http://ctext.org/quantangshi/453 Book 453],
+::[http://ctext.org/quantangshi/454 Book 454], [http://ctext.org/quantangshi/455 Book 455], [http://ctext.org/quantangshi/456 Book 456], [http://ctext.org/quantangshi/457 Book 457], [http://ctext.org/quantangshi/458 Book 458],
+::[http://ctext.org/quantangshi/459 Book 459], [http://ctext.org/quantangshi/460 Book 460], [http://ctext.org/quantangshi/461 Book 461], [http://ctext.org/quantangshi/462 Book 462]
+
+{{Chinese poetry}}
+{{Authority control}}
+
+{{DEFAULTSORT:Bai, Juyi}}
+[[Category:772 births]]
+[[Category:846 deaths]]
+[[Category:Tang dynasty Buddhists]]
+[[Category:Tang dynasty politicians from Henan]]
+[[Category:Tang dynasty musicians]]
+[[Category:Guqin players]]
+[[Category:8th-century Chinese poets]]
+[[Category:Poets from Henan]]
+[[Category:Politicians from Zhengzhou]]
+[[Category:Musicians from Henan]]
+[[Category:9th-century Chinese poets]]
+[[Category:Tang dynasty politicians from Hebei]]
+[[Category:Tang dynasty poets]]
+[[Category:Three Hundred Tang Poems poets]]
+[[Category:Writers from Zhengzhou]]
+[[Category:Buddhist poets]]
+[[Category:9th-century Chinese musicians]]

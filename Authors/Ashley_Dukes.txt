@@ -1,0 +1,54 @@
+{{Use dmy dates|date=June 2015}}
+{{Use British English|date=June 2015}}
+{{infobox person 
+| image =
+| caption =
+| name= Ashley Dukes
+| birth_name = 
+| birth_place = [[Sandford, Devon]], English, United Kingdom
+| birth_date = 29 May 1885
+| death_place=  
+| death_date =  4 May 1959 (aged 73)
+| occupation = Playwright, critic, theatre manager 
+| spouse = [[Marie Rambert]]
+|family = [[Paul Dukes]], [[Cuthbert Dukes]] (brothers)
+}} 
+'''Ashley Dukes''' (29 May 1885 – 4 May 1959) was an English playwright/dramatist, critic, theatre manager.
+
+==Biography==
+===Personal life===
+Ashley Dukes was born one of five children in 1885. He was the son of the [[Congregationalist]] clergyman, Rev. Edwin Joshua Dukes (1847-1930), of [[Kingsland, London]], and his wife, the former Edith Mary Pope (1863-1898), of [[Sandford, Devon]].
+
+He met [[Marie Rambert]], a ballet dancer, at a dinner party in 1917. In Rambert's autobiography she says "after four days of personal meetings, and seven months of correspondence we were married on 3 March 1918."<ref>Marie Rambert, "Quicksilver: Autobiography" (London: St Martin's Press, 1972), p. 94. {{ISBN|978-0333347119}}</ref>
+
+===Career===
+He initially taught science at university and became a drama critic in 1909. He wrote for several publications until 1925.<ref name=varobit>{{cite magazine|magazine=[[Variety (magazine)|Variety]]|title=Obituaries|url=https://archive.org/stream/variety214-1959-05#page/n62/mode/1up|access-date=January 8, 2021|date=May 6, 1959|page=63|via=[[Archive.org]]}}</ref> Dukes wrote ''The World to Play With'' concerning the theatre and the play was published by [[Oxford University Press]] in 1928.
+
+In 1933, he founded the [[Mercury Theatre, Notting Hill Gate|Mercury Theatre]] in London and wrote plays that appeared in the [[West End of London]] and on [[Broadway theatre|Broadway]] in New York. The Ashley Dukes Company was an important interwar promoter of serious drama, and a training ground for actors.<ref>http://findarticles.com/p/articles/mi_qn4158/is_19970707/ai_n14126957 {{Bare URL inline|date=June 2021}}</ref>
+
+Dukes mounted the first theatrical performance of ''[[Murder in the Cathedral]]'' at the Mercury, driving down to Canterbury with [[T. S. Eliot]] to collect scenery and costumes. (He rejected [[W. B. Yeats]]' dramatic ''oeuvre'' for the same stage much to Yeats' annoyance.) Other plays he wrote included ''[[Man with a Load of Mischief]]''.<ref name=varobit/>
+
+===Family===
+He was the older brother of [[MI6]] spy [[Paul Dukes]] and pathologist [[Cuthbert Dukes]], and grandfather of poet Aidan Andrew Dun.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{FadedPage|id=Dukes, Ashley|name=Ashley Dukes|author=yes}}
+*{{IBDB name}}
+*{{IMDb name|0241227}}
+*{{Find a Grave|7984142}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dukes, Ashley}}
+[[Category:1885 births]]
+[[Category:1959 deaths]]
+[[Category:People from Bridgwater]]
+[[Category:English male dramatists and playwrights]]
+[[Category:20th-century English dramatists and playwrights]]
+[[Category:20th-century English male writers]]
+
+
+{{playwright-stub}}

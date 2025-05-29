@@ -1,0 +1,75 @@
+{{Use mdy dates|date=October 2020}}
+{{short description|American writer}}
+{{infobox writer
+| name = Debra A. Kemp
+| image =
+| imagesize =
+| alt =
+| caption=
+| birth_name =
+| birth_date =March 7, 1957
+|birth_place=[[Highland, Lake County, Indiana|Highland, Indiana]]
+| death_date ={{death date and age|2015|2|8|1957|3|7}}
+|death_place=[[Noblesville, Indiana]]
+| occupation = [[Author]]
+| language =   English
+| nationality =American
+| education = 
+| alma_mater = [[Indiana University]]
+| period =
+| genre = [[Historical fiction]]
+| subject =
+| notableworks =''[[The Firebrand (Kemp novel)|The Firebrand]]''
+| spouse = 
+| children = 
+| awards =
+| signature =
+| signature_alt =
+| website = 
+| portaldisp =
+}}
+
+'''Debra A. Kemp''' (March 7, 1957 – February 8, 2015) was an American author.
+
+She wrote [[historical fiction]] and drew inspiration for her ''House of Pendragon'' series from the [[Arthurian legends]].<ref name=kd>{{cite book|last1=Busby|first1=Keith |last2=Dalrymple|first2=Roger |title=Arthurian literature|url=https://books.google.com/books?id=NenKwH-6zg8C&q=Debra+Kemp+Arthurian&pg=PA135|accessdate=August 10, 2010|volume=22|year=2005|publisher=DS Brewer |isbn=978-1-84384-062-6 |page=135}}</ref> She originally studied nursing and earned her degree from [[Indiana University]] in 1981. She died in 2015.<ref>''[http://www.legacy.com/obituaries/indystar/obituary.aspx?pid=174104804 Indianapolis Star]'', Retrieved February 14, 2015</ref>
+
+==Family==
+Kemp lived near [[Indianapolis]] with her husband. They had two grown children.
+
+==Literary career==
+Kemp published her first [[Arthurian literature|Arthurian]] novel ''[[The Firebrand (Kemp novel)|The Firebrand]]'' in 2003. It is set after the [[Battle of Camlann]], and features [[King Arthur]]'s fictional daughter Lin and her early life as a slave in [[Mordred]]'s household.<ref name=kd/><ref>
+{{cite book|first=Michael|last=Ashley|author2=Mike Ashley|title=The mammoth book of King Arthur|publisher=[[Carroll & Graf Publishers]] |location=New York|year=2005|isbn=9780786715664|url=https://books.google.com/books?id=ni119Nfo_QEC&q=debra+a+kemp+firebrand&pg=PA531|page=531}}</ref>
+
+==Works==
+===The House of Pendragon series===
+#''[[The Firebrand (Kemp novel)|The Firebrand]]'' (2003)
+#''The Recruit'' (2007)
+
+==Awards==
+* EPPIE 2005 – Finalist<ref name=ow>[http://www.telltalepress.com/debrakemp.html Official website of historical author Debra A. Kemp] {{webarchive|url=https://web.archive.org/web/20110716204935/http://www.telltalepress.com/debrakemp.html |date=2011-07-16 }} Retrieved January 8, 2011.</ref>
+* Dream Realm Awards – Finalist<ref name=ow/>
+* Top 10 Finisher – Preditors & Editors<ref name=ow/>
+
+== References ==
+{{Reflist}}
+
+==External links==
+*{{isfdb name|id=Debra_A._Kemp|name=Debra A. Kemp}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Kemp, Debra A.}}
+[[Category:1957 births]]
+[[Category:American fantasy writers]]
+[[Category:American women novelists]]
+[[Category:Novelists from Indiana]]
+[[Category:Writers of modern Arthurian fiction]]
+[[Category:American historical novelists]]
+[[Category:People from Highland, Lake County, Indiana]]
+[[Category:21st-century American novelists]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:21st-century American women writers]]
+[[Category:2015 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American women writers]]
+[[Category:Women historical novelists]]

@@ -1,0 +1,51 @@
+{{No footnotes|date=February 2021}}
+{{Use dmy dates|date=October 2020}}
+{{short description|Japanese poet}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Jūkichi Yagi
+| image       = Yagi Jukichi.jpg
+| caption     = Jūkichi Yagi
+| birth_name  = 八木 重吉
+| birth_date  = {{birth date|1898|2|9|df=y}}
+| birth_place = [[Machida, Tokyo]], Japan
+| death_date  = {{Death date and age|1927|10|26|1898|2|9|df=y}}
+| death_place = [[Chigasaki, Kanagawa]], Japan
+| resting_place = Yagi family cemetery, Machida, Tokyo
+| occupation  = schoolteacher
+| genre       = religious poetry
+| movement    =
+| notable_works =
+| influences  =
+| influenced  =
+}}
+{{nihongo|'''Jūkichi Yagi '''|八木 重吉|Yagi Jūkichi|extra=9 February 1898 &ndash; 26 October 1927}} was a [[Japanese poet]] active in the late [[Taishō period]] and for the first few years of the [[Shōwa period]], who focused on modern religious themes.
+
+==Biography==
+Born in what is now part of the city of [[Machida, Tokyo|Machida]] near [[Tokyo]], Yagi attended the Kanagawa Prefectural Normal School, then located in [[Kamakura, Kanagawa|Kamakura]], [[Kanagawa prefecture]]. There he converted to [[Methodism]] and became attracted to the poetry of [[Rabindranath Tagore]]. In 1919, Yagi was baptized at the Komagome Christian Church in Tokyo. He remained a devout [[Protestant]] all his short life, but later moved to the Non-Church Christianity (''[[Mukyōkai]]'') as advocated by [[Uchimura Kanzō]].
+
+After graduation, Yagi taught at the Mikage Normal School in [[Hyōgo Prefecture]], and began to write verse as an expression of his faith. He was very much inspired by the poems of [[John Keats]], to whom he dedicated a number of his poems. Yagi published his first collection, ''Aki no Hitome'' (Autumn Eye) in 1925. Although he contributed several pieces to poetry magazines, he remained shy of literary circles.
+
+Hospitalized with [[tuberculosis]] in [[Chigasaki, Kanagawa]] in 1926, he died on 26 October 1927. Only after his death and the publication of ''Mazushiki Shinto'' (Humble Believer), ''Yagi Jukichi Shishu'' (Yagi Jukichi Anthology), and ''Kami O Yobu'' (Talk to God) did he gain widespread recognition.
+
+==See also==
+*[[Japanese literature]]
+*[[List of Japanese authors]]
+
+==References==
+*Keene, Donald. ''Dawn to the West''. Columbia University Press (1998). {{ISBN|0-231-11435-4}}
+*Okada, Akiko. ''Keats And English Romanticism in Japan''. Peter Lang (2006). {{ISBN|3-03-910-787-9}}
+
+==External links==
+*[http://www.jukichi-yagi.org/ Yagi Jukichi Memorial Museum in Machida] {{in lang|ja}}
+*[https://web.archive.org/web/20150101091142/http://www.asahi-net.or.jp/~PB5H-OOTK/pages/Y/yagijyukichi.html Grave site at Yagi family cemetery, Machida, Tokyo]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Yagi, Jukichi}}
+[[Category:1898 births]]
+[[Category:1927 deaths]]
+[[Category:People from Western Tokyo]]
+[[Category:Japanese Protestants]]
+[[Category:20th-century deaths from tuberculosis]]
+[[Category:Tuberculosis deaths in Japan]]
+[[Category:20th-century Japanese poets]]

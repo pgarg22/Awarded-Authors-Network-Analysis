@@ -1,0 +1,418 @@
+{{short description|Polish national poet, dramatist, essayist, publicist, translator, and political activist}}
+{{Redirect|Mickiewicz|the surname|Mickiewicz (surname)}}
+{{Use dmy dates|date=July 2020}}
+{{good article}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+|name          = Adam Mickiewicz
+|image         = Adam_Mickiewicz_według_dagerotypu_paryskiego_z_1842_roku.jpg
+|image_size    =
+|alt           =
+|caption       =
+|pseudonym     =
+|birth_name    = Adam Bernard Mickiewicz
+|birth_date    = {{Birth date|1798|12|24|df=y}}
+|birth_place   = [[Zavosse|Zaosie]], [[Lithuania Governorate]], [[Russian Empire]] (modern-day [[Belarus]])
+|death_date    = {{Death date and age|1855|11|26|1798|12|24|df=y}}
+|death_place   = [[Constantinople]], [[Ottoman Empire]] (modern-day [[Turkey]])
+|resting_place = [[Wawel Cathedral]], [[Kraków]]
+|occupation    = {{flatlist|
+* Poet
+* dramatist
+* essayist
+* professor of literature
+}}
+|language      = [[Polish language|Polish]]
+|nationality   =
+|ethnicity     =
+|citizenship   =
+|education     =
+|alma_mater    =
+|period        =
+|genre         = [[Romanticism]]
+|subject       =
+|movement      =
+|notableworks  = ''[[Pan Tadeusz]]''<br />''[[Dziady (poem)|Dziady]]''
+|partner       =
+|children      = 6
+|relatives     =
+|awards        =
+|signature     = Autograph-AdamMickiewicz.svg
+|signature_alt =
+|website       = <!-- www.example.com -->
+|portaldisp    =
+|spouse        = {{marriage|[[Celina Szymanowska]]|1834|1855|end=d}}
+}}
+'''Adam Bernard Mickiewicz''' ({{IPAc-pl|AUD|Pl-Adam_Mickiewicz.ogg|m|i|c|'|k|J|e|w|i|cz}}; 24 December 1798{{spaced ndash}}26 November 1855) was a [[Poles|Polish]]<!-- DO NOT CHANGE NATIONALITY PER TALK DISCUSSION --> poet, dramatist, essayist, publicist, translator and political activist. He is regarded as [[List of national poets#Europe|national poet]] in [[Poland]], [[Lithuania]] and [[Belarus]]. A principal figure in [[romanticism in Poland|Polish Romanticism]], he is one of Poland's "[[Three Bards]]" ({{lang-pl|Trzej Wieszcze}})<ref>{{cite web|url=http://www.polish-dictionary.com/poland-poetry |title=Poland's Famous Poets |publisher=Polish-dictionary.com |access-date=2014-08-20}}</ref> and is widely regarded as Poland's greatest poet.<ref name="mickiewicz"/><ref name="mickiewicz1"/><ref name="Cornis-PopeNeubauer2010"/> He is also considered one of the greatest [[Slavic languages|Slavic]]<ref name="PomorskaBaran1992"/> and [[Europeans|European]]<ref name="budowniczowie"/> poets and has been dubbed a "Slavic bard".<ref name="fra"/> A leading Romantic dramatist,<ref name="tm"/> he has been compared in Poland and Europe to [[Lord Byron|Byron]] and [[Johann Wolfgang von Goethe|Goethe]].<ref name=fra/><ref name=tm/>
+
+He is known chiefly for the poetic drama ''[[Dziady (poem)|Dziady]]'' (''Forefathers' Eve'') and the [[Epic poetry|national epic poem]] ''[[Pan Tadeusz]]''. His other influential works include ''[[Konrad Wallenrod]]'' and ''[[Grażyna (poem)|Grażyna]]''. All these served as inspiration for uprisings against the [[Partitions of Poland|three imperial powers that had partitioned the Polish–Lithuanian Commonwealth out of existence]].
+
+Mickiewicz was born in the [[Russian partition|Russian-partitioned]] territories of the former [[Grand Duchy of Lithuania]], which had been part of the [[Polish–Lithuanian Commonwealth]], and was active in the struggle to win independence for his home region.  After, as a consequence, spending five years exiled to central Russia, in 1829 he succeeded in leaving the Russian Empire and, like many of [[Great Emigration|his compatriots]], lived out the rest of his life abroad.  He settled first in Rome, then in Paris, where for a little over three years he lectured on [[Slavs|Slavic]] literature at the [[Collège de France]].  He died, probably of [[cholera]], at [[Constantinople]] in the [[Ottoman Empire]], where he had gone to help organize Polish forces to fight Russia in the [[Crimean War]].
+
+In 1890, his remains were repatriated from [[Montmorency, Val-d'Oise]], in France, to [[Wawel Cathedral]] in [[Kraków]], Poland.
+
+==Life==
+
+===Early years===
+[[File:Zaosie home of Mickiwiecz.jpg|thumb|left|[[Zavosse|Zaosie]] manor, possible birthplace]]
+[[File:Navahradak Farny kasciol.JPG|thumb|[[Transfiguration Church, Navahrudak|Church of the Transfiguration of Jesus]], in [[Navahrudak]], where Mickiewicz was baptized]]
+[[File:Dom A.Mickiewicza w Nowogródku.jpg|thumb|left|Mickiewicz's house, [[Navahrudak]]]]
+
+Adam Mickiewicz was born on 24 December 1798, either at his paternal uncle's estate in [[Zavosse|Zaosie]] (now Zavosse) near [[Navahrudak]] (in [[Polish language|Polish]], ''Nowogródek'') or in Navahrudak itself{{Ref_label|a|a|none}} in what was then part of the [[Russian Empire]] and is now [[Belarus]]. The region was on the periphery of [[Lithuania proper]] and had been part of the [[Grand Duchy of Lithuania]] until the [[Third Partition of Poland|Third Partition]] of the [[Polish–Lithuanian Commonwealth]] (1795).<ref name=venc/><ref name="Yad Vashem Studies"/> Its upper class, including Mickiewicz's family, were either [[Polish people|Polish]] or [[polonization|Polonized]].<ref name=venc/> The poet's father, Mikołaj Mickiewicz, a lawyer, was a member of the Polish<ref name="vytautas"/> [[szlachta|nobility]] (''szlachta'')<ref name="cze208"/> and bore the hereditary [[Poraj coat of arms|Poraj coat-of-arms]];<ref name="Koropeckyj2008"/> Adam's mother was Barbara Mickiewicz, ''née'' Majewska. Adam was the second-born son in the family.<ref name="psb694"/>
+
+Mickiewicz spent his childhood in Navahrudak,<ref name="cze208"/><ref name="psb694"/> initially taught by his mother and private tutors. From 1807 to 1815 he attended a [[Dominican Order|Dominican]] school following a curriculum that had been designed by the now-defunct Polish [[Commission for National Education]], which had been the world's first [[ministry of education]].<ref name="cze208"/><ref name="psb694"/><ref name="Wulff1992"/> He was a mediocre student, although active in games, theatricals, and the like.<ref name="cze208"/>
+
+In September 1815, Mickiewicz enrolled at the [[Vilnius University|Imperial University of Vilnius]], studying to be a teacher.<ref>{{Cite web|title=Adam Mickiewicz - informacje o autorze, biografia|url=https://lekcjapolskiego.pl/analiza-i-interpretacja/adam-mickiewicz,autor26/|access-date=2021-04-13|website=lekcjapolskiego.pl}}</ref> After graduating, under the terms of his government scholarship, he taught secondary school at [[Kaunas]] from 1819 to 1823.<ref name="psb694"/>
+
+In 1818, in the Polish-language ''{{Interlanguage link multi|Tygodnik Wileński|pl}}'' (Wilno Weekly), he published his first poem, "''Zima miejska''" ("City Winter").<ref name="psb695"/> The next few years would see a maturing of his style from [[Sentimentalism (literature)|sentimentalism]]/[[neoclassicism]] to [[romanticism]], first in his poetry anthologies published in [[Vilnius]] in 1822 and 1823; these anthologies included the poem "''[[Grażyna (poem)|Grażyna]]''" and the first-published parts (II and IV) of his major work, ''[[Dziady (poem)|Dziady]]'' (''Forefathers' Eve'').<ref name="psb695"/> By 1820 he had already finished another major romantic poem, "''[[Oda do młodości]]''" ("Ode to Youth"), but it was considered to be too patriotic and revolutionary for publication and would not appear officially for many years.<ref name="psb695"/>
+
+About the summer of 1820, Mickiewicz met the love of his life, {{Interlanguage link multi|Maryla Wereszczakówna|pl}}. They were unable to marry due to his family's poverty and relatively low social status; in addition, she was already engaged to Count {{Interlanguage link multi|Wawrzyniec Puttkamer|pl}}, whom she would marry in 1821.<ref name="psb695"/><ref name="cze210"/>
+
+===Imprisonment and exile===
+[[File:Zinaida Volkonskaya's salon.jpeg|thumb|250px|Princess [[Zinaida Volkonskaya]]'s [[Moscow]] [[salon (gathering)|salon]], frequented by Mickiewicz]]
+In 1817, while still a student, Mickiewicz, [[Tomasz Zan]] and other friends had created a secret organization, the [[Philomaths]].<ref name="psb695"/> The group focused on self-education but had ties to a more radical, clearly pro-Polish-independence student group, the [[Filaret Association]].<ref name="psb695"/> An investigation of secret student organizations by [[Nikolay Novosiltsev]], begun in early 1823, led to the arrests of a number of students and ex-student activists including Mickiewicz, who was taken into custody and imprisoned at [[Basilian Monastery in Vilnius|Vilnius' Basilian Monastery]] in late 1823 or early 1824 (sources disagree as to the date).<ref name="psb695"/> After investigation into his political activities, specifically his membership in the Philomaths, in 1824 Mickiewicz was banished to central Russia.<ref name="psb695"/> Within a few hours of receiving the decree on 22 October 1824, he penned a poem into an album belonging to Salomea Bécu, the mother of [[Juliusz Słowacki]].<ref name="mickiewitch"/> (In 1975 this poem was set to music in Polish and Russian by Soviet composer [[David Tukhmanov]].)<ref name="popsa"/> Mickiewicz crossed the border into Russia about 11 November 1824, arriving in [[Saint Petersburg]] later that month.<ref name="psb695"/> He would spend most of the next five years in Saint Petersburg and Moscow, except for a notable 1824 to 1825 excursion to [[Odessa]], then on to [[Crimea]].<ref name="cze218"/> That visit, from February to November 1825, inspired a notable collection of [[sonnet]]s (some love sonnets, and a series known as ''[[Crimean Sonnets]]'', published a year later).<ref name="psb695"/><ref name="cze218"/><ref name="psb696"/>
+
+Mickiewicz was welcomed into the leading literary circles of Saint Petersburg and Moscow, where he became a great favourite for his agreeable manners and an extraordinary talent for poetic improvisation.<ref name="psb696"/> The year 1828 saw the publication of his poem ''[[Konrad Wallenrod]]''.<ref name="psb696"/> Novosiltsev, who recognized its patriotic and subversive message, which had been missed by the Moscow censors, unsuccessfully attempted to sabotage its publication and to damage Mickiewicz's reputation.<ref name="Koropeckyj2008"/><ref name="psb696"/>
+
+In Moscow, Mickiewicz met the Polish journalist and novelist [[Henryk Rzewuski]] and the Polish composer and piano virtuoso [[Maria Szymanowska]], whose daughter, [[Celina Szymanowska]], Mickiewicz would later marry in Paris, France. He also befriended the great Russian poet [[Alexander Pushkin]]<ref name="psb696"/> and [[Decembrist]] leaders including [[Kondraty Ryleyev]].<ref name="cze218"/> It was thanks to his friendships with many influential individuals that he was eventually able to obtain a passport and permission to leave Russia for Western Europe.<ref name="psb696"/>
+
+===European travels===
+[[File:Adam Mickiewicz.PNG|thumb|left|200px|[[Portrait of Adam Mickiewicz on the Ayu-Dag Cliff|''Adam Mickiewicz on the Ayu-Dag'']], by [[Walenty Wańkowicz]], 1828]]
+After serving five years of exile to Russia, Mickiewicz received permission to go abroad in 1829. On 1 June that year, he arrived in [[Weimar]].<ref name="psb696"/> By 6 June he was in [[Berlin]], where he attended lectures by the philosopher [[G.W.F. Hegel|Hegel]].<ref name="psb696"/> In February 1830 he visited [[Prague]], later returning to Weimar, where he received a cordial reception from the writer, scientist and politician [[Johann Wolfgang von Goethe|Goethe]].<ref name="psb696"/>
+
+He then continued on through Germany all the way to Italy, which he entered via the [[Alps]]' [[Splügen Pass]].<ref name="psb696"/> Accompanied by an old friend, the poet [[Antoni Edward Odyniec]], he visited [[Milan]], Venice, [[Florence]] and Rome.<ref name="psb696"/><ref name="psb697"/> In August that same year (1830) he went to [[Geneva]], where he met fellow [[Three Bards|Polish Bard]] [[Zygmunt Krasiński]].<ref name="psb697"/> During these travels he had a brief romance with {{Interlanguage link multi|Henrietta Ewa Ankwiczówna|pl}}, but class differences again prevented his marrying his new love.<ref name="psb697"/>
+
+Finally about October 1830 he took up residence in Rome, which he declared "the most amiable of foreign cities."<ref name="psb697"/> Soon after, he learned about the outbreak of the [[November Uprising|November 1830 Uprising]] in Poland, but he would not leave Rome until the spring of 1831.<ref name="psb697"/>
+
+On 19 April 1831 Mickiewicz departed Rome, traveling to Geneva and Paris and later, on a false passport, to Germany, via [[Dresden]] and [[Leipzig]] arriving about 13 August in [[Poznań]] (German name: Posen), then part of the [[Kingdom of Prussia]].<ref name="psb697"/> It is possible that during these travels he carried communications from the Italian [[Carbonari]] to the French underground, and delivered documents or money for the Polish insurgents from the Polish community in Paris, but reliable information on his activities at the time is scarce.<ref name="psb697"/><ref name="cze222"/> Ultimately he never crossed into [[Russian Poland]], where the Uprising was mainly happening; he stayed in [[German Poland]] (historically known to Poles as ''Wielkopolska'', or Greater Poland), where he was well received by members of the local Polish nobility.<ref name="psb697"/> He had a brief liaison with Konstancja Łubieńska at her family estate<ref name="psb697"/> in [[Śmiełów]]. Starting in March 1832, Mickiewicz stayed several months in Dresden, in [[Saxony]],<ref name="psb697"/><ref name="psb698"/> where he wrote the third part of his poem ''Dziady''.<ref name="psb698"/>
+
+===Paris émigré===
+[[File:David d'Angers - Adam Mickiewicz.jpg|thumb|left|170px|Mickiewicz, 1835]]
+On 31 July 1832 he arrived in Paris, accompanied by a close friend and fellow ex-Philomath, the future geologist and [[Chile]]an educator [[Ignacy Domeyko]].<ref name="psb698"/> In Paris, Mickiewicz became active in [[Great Emigration|many Polish émigré groups]] and published articles in ''{{Interlanguage link multi|Pielgrzym Polski|pl}}'' (The Polish Pilgrim).<ref name="psb698"/> The fall of 1832 saw the publication, in Paris, of the third part of his ''Dziady'' (smuggled into partitioned Poland), as well as of ''{{Interlanguage link multi|The Books of the Polish People and of the Polish Pilgrimage|pl|3=Księgi narodu polskiego i pielgrzymstwa polskiego}}'', which Mickiewicz self-published.<ref name="psb698"/> In 1834 he published another masterpiece, his [[epic poem]] ''[[Pan Tadeusz]]''.<ref name="psb699"/>
+
+''Pan Tadeusz'', his longest poetic work, marked the end of his most productive literary period.<ref name="psb699"/><ref name="cze227"/> Mickiewicz would create further notable works, such as ''{{Interlanguage link multi|Lausanne Lyrics|pl|3=Liryki lozańskie}}'', 1839–40) and ''Zdania i uwagi'' (Thoughts and Remarks, 1834–40), but neither would achieve the fame of his earlier works.<ref name="psb699"/> His relative literary silence, beginning in the mid-1830s, has been variously interpreted:  he may have lost his talent; he may have chosen to focus on teaching and on political writing and organizing.<ref name="cze229"/>
+
+On 22 July 1834, in Paris, he married Celina Szymanowska, daughter of composer and concert pianist [[Maria Agata Szymanowska]].<ref name="psb699"/> They would have six children (two daughters, Maria and Helena; and four sons, Władysław, Aleksander, Jan and Józef).<ref name="psb699"/> Celina later became mentally ill, possibly with a [[major depressive disorder]].<ref name="psb699"/> In December 1838, marital problems caused Mickiewicz to attempt suicide.<ref name="Twórczość">{{cite book|title=Twórczość|url=https://books.google.com/books?id=SONKAAAAYAAJ|year=1998|publisher=RSW "Prasa-Książa-Ruch"|page=80}}</ref> Celina would die on 5 March 1855.<ref name="psb699"/>
+
+Mickiewicz and his family lived in relative poverty, their major source of income being occasional publication of his work – not a very profitable endeavor.<ref name="psb700"/> They received support from friends and patrons, but not enough to substantially change their situation.<ref name="psb700"/> Despite spending most of his remaining years in France, Mickiewicz would never receive French citizenship, nor any support from the French government.<ref name="psb700"/> By the late 1830s he was less active as a writer, and also less visible on the Polish émigré political scene.<ref name="psb699"/>
+[[File:Adam Mickiewicz by Jan Mieczkowski.jpg|thumb|150px|Mickiewicz]]
+In 1838 Mickiewicz became professor of [[Latin literature]] at the [[University of Lausanne|Lausanne Academy]], in Switzerland.<ref name="psb700"/> His lectures were well received, and in 1840 he was appointed to the newly established chair of [[Slavic languages]] and literatures at the [[Collège de France]].<ref name="psb700"/><ref name="cze230"/> Leaving Lausanne, he was made an honorary Lausanne Academy professor.<ref name="psb700"/>
+
+Mickiewicz would, however, hold the Collège de France post for little more than three years, his last lecture being delivered on 28 May 1844.<ref name="psb700"/> His lectures were popular, drawing many listeners in addition to enrolled students, and receiving reviews in the press.<ref name="psb700"/> Some would be remembered much later; his sixteenth lecture, on Slavic theater, "was to become a kind of gospel for Polish theater directors of the twentieth century."<ref name="cze223"/>
+
+But he became increasingly possessed by religious [[mysticism]] as he fell under the influence of the Polish philosophers [[Andrzej Towiański]] and Krzywióra Dahlschödstein, whom he met in 1841.<ref name="psb700"/><ref name="psb701"/> His lectures became a medley of religion and politics, punctuated by controversial attacks on the Catholic Church, and thus brought him under censure by the French government.<ref name="psb700"/><ref name="psb701"/> The messianic element conflicted with Roman Catholic teachings, and some of his works were placed on the Church's list of prohibited books, though both Mickiewicz and Towiański regularly attended Catholic mass and encouraged their followers to do so.<ref name="psb701"/><ref name="Alvis2005"/>
+
+In 1846 Mickiewicz severed his ties with Towiański, following the rise of revolutionary sentiment in Europe, manifested in events such as the [[Kraków Uprising]] of February 1846.<ref name="psb702"/> Mickiewicz criticized Towiański's passivity and returned to the traditional Catholic Church.<ref name="psb702"/> In 1847 Mickiewicz befriended American journalist, critic and women's-rights advocate [[Margaret Fuller]].<ref name="psb703"/> In March 1848 he was part of a Polish delegation received in audience by [[Pope Pius IX]], whom he asked to support the enslaved nations and the [[French Revolution of 1848]].<ref name="psb702"/> Soon after, in April 1848, he organized a military unit, the [[Mickiewicz Legion]], to support the insurgents, hoping to liberate the Polish and other Slavic lands.<ref name="cze230"/><ref name="psb702"/> The unit never became large enough to be more than symbolic, and in the fall of 1848 Mickiewicz returned to Paris and became more active again on the political scene.<ref name="psb703"/>
+
+In December 1848 he was offered a post at the [[Jagiellonian University]] in Austrian-ruled [[Kraków]], but the offer was soon withdrawn after pressure from Austrian authorities.<ref name="psb703"/> In the winter of 1848–49, Polish composer [[Frédéric Chopin]], in the final months of his own life, visited his ailing compatriot and soothed the poet's nerves with his piano music.<ref name="jachimecki"/> Over a dozen years earlier, Chopin had set two of Mickiewicz's poems to music (see [[Polish songs by Frédéric Chopin]]).<ref name="jachimecki2"/>
+
+===Final years===
+[[File:Adam mickiewicz 550.jpg|thumb|left|Late in life]]
+In the winter of 1849 Mickiewicz founded a French-language newspaper, ''[[La Tribune des Peuples]]'' (''The Peoples' Tribune''), supported by a wealthy Polish émigré activist, {{Interlanguage link multi|Ksawery Branicki (d. 1879){{!}}Ksawery Branicki|pl|3=Ksawery Branicki (z Montrésor)}}.<ref name="psb703"/> Mickiewicz wrote over 70 articles for the ''Tribune'' during its short existence:  it came out between 15 March and 10 November 1849, when the authorities shut it down.<ref name="psb703"/><ref name="cze231"/> His articles supported democracy and socialism and many ideals of the [[French Revolution]] and of the Napoleonic era, though he held few illusions regarding the idealism of the [[House of Bonaparte]].<ref name="psb703"/> He supported the restoration of the [[Second French Empire|French Empire]] in 1851.<ref name="psb703"/> In April 1852 he lost his post at the Collège de France, which he had been allowed to keep (though without the right to lecture).<ref name="psb700"/><ref name="psb703"/> On 31 October 1852 he was hired as a librarian at the [[Bibliothèque de l'Arsenal]].<ref name="psb703"/><ref name="cze231"/> There he was visited by another Polish poet, [[Cyprian Norwid]], who wrote of the meeting in his poem, "''Czarne kwiaty''" ("Black Blossoms"); and there Mickiewicz's wife Celina died.<ref name="psb703"/>
+
+[[File:İstanbul 6137.jpg|thumb|right|Mickiewicz's temporary grave under his [[Istanbul]] apartment, now an [[Adam Mickiewicz Museum, Istanbul|Adam Mickiewicz Museum]]]]
+
+Mickiewicz welcomed the [[Crimean War]] of 1853–1856, which he hoped would lead to a new European order including a restored independent Poland.<ref name="psb703"/> His last composition, a [[Latin language|Latin]] [[ode]] ''Ad Napolionem III Caesarem Augustum Ode in Bomersundum captum'', honored [[Napoleon III]] and celebrated the British-French victory over Russia at the [[Battle of Bomarsund]]<ref name="psb703"/> in the [[Åland Islands]] in August 1854. [[Hôtel Lambert#The political salon|Polish émigrés associated with the Hôtel Lambert]] persuaded him to become active again in politics.<ref name="psb703"/><ref name="psb704"/> Soon after the Crimean War broke out (October 1853), the French government entrusted him with a diplomatic mission.<ref name="psb704"/> He left Paris on 11 September 1855, arriving in [[Constantinople]], in the [[Ottoman Empire]], on 22 September.<ref name="psb704"/> There, working with [[Michał Czajkowski]] (Sadyk Pasha), he began organizing Polish forces to fight under Ottoman command against Russia.<ref name="cze231"/><ref name="psb704"/> With his friend [[Armand Lévy (activist)|Armand Lévy]] he also set about organizing a Jewish legion.<ref name="cze231"/><ref name="psb704"/> He returned ill from a trip to a military camp to his apartment on Yenişehir Street in the [[Beyoğlu|Pera]] (now Beyoğlu) district of Constantinople and died on 26 November 1855.<ref name="psb704"/><ref name="rzeczypospolitej"/> Though [[Tadeusz Boy-Żeleński]] and others have speculated that political enemies might have poisoned Mickiewicz, there is no proof of this, and he probably contracted [[cholera]], which claimed other lives there at the time.<ref name="cze231"/><ref name="psb704"/><ref name="Encyclopedia of the romantic era, 1760-1850, Volume 2"/>
+
+Mickiewicz's remains were transported to France, boarding ship on 31 December 1855, and were buried at [[Montmorency, Val-d'Oise]], on 21 January 1861.<ref name="psb704"/> In 1890 they were disinterred, moved to [[Austrian Poland]], and on 4 July entombed in the crypts of Kraków's [[Wawel Cathedral]], a place of final repose for a number of persons important to Poland's political and cultural history.<ref name="psb704"/>
+
+==Works==
+[[File:Adam Mickiewicz Museum in Vilnius2.jpg|thumb|left|Adam Mickiewicz Museum, [[Vilnius]], [[Lithuania]]]]
+
+Mickiewicz's childhood environment exerted a major influence on his literary work.<ref name="cze208"/><ref name="psb694"/> His early years were shaped by immersion in folklore<ref name="cze208"/> and by vivid memories, which he later reworked in his poems, of the ruins of [[Navahrudak Castle]] and of the triumphant entry and disastrous retreat of Polish and [[Napoleon]]ic troops during [[Napoleon's invasion of Russia|Napoleon's 1812 invasion of Russia]], when Mickiewicz was just a teenager.<ref name="psb694" /> The year 1812 also marked his father's death.<ref name="psb694" /> Later, the poet's personality and subsequent works were greatly influenced by his four years of living and studying in [[Vilnius]].<ref name="psb695"/>[[File:Mickiewicz monument in Brest (2006).jpg|100px|thumb|[[Bust (sculpture)|Bust]] of Mickiewicz in [[Brest, Belarus]]]]His first poems, such as the 1818 "''Zima miejska''" ("City Winter") and the 1819 "''Kartofla''" ("Potato"), were classical in style, influenced by [[Voltaire]].<ref name="cze210" /><ref name="cze209" /> His ''[[Ballads and Romances]]'' and poetry anthologies published in 1822 (including the opening poem "''Romantyczność''", "Romanticism") and 1823 mark the start of [[romanticism in Poland]].<ref name="psb695" /><ref name="cze210" /><ref name="cze212" /> Mickiewicz's influence popularized the use of [[folklore]], folk literary forms, and [[historism]] in Polish romantic literature.<ref name="psb695" /> His exile to Moscow exposed him to a cosmopolitan environment, more international than provincial Vilnius and Kaunas in Lithuania.<ref name="psb696" /> This period saw a further evolution in his writing style, with ''Sonety'' (Sonnets, 1826) and ''[[Konrad Wallenrod]]'' (1828), both published in Russia.<ref name="psb696" /> The ''Sonety'', mainly comprising his ''[[Crimean Sonnets]]'', highlight the poet's ability and desire to write, and his longing for his homeland.<ref name="psb696" />
+
+One of his major works, ''[[Dziady (poem)|Dziady]]'' (Forefathers' Eve), comprises several parts written over an extended period of time.<ref name="psb698" /><ref name="cze214217" /> It began with publication of parts II and IV in 1823.<ref name="psb695" /> [[Czesław Miłosz|Miłosz]] remarks that it was "Mickiewicz's major theatrical achievement", a work which Mickiewicz saw as ongoing and to be continued in further parts.<ref name="cze222" /><ref name="cze214217" /> Its title refers to the [[pagan]] ancestor commemoration that had been practiced by [[Slavic nations|Slavic]] and [[Balts|Baltic]] peoples on [[All Souls' Day]].<ref name="cze214217" /> The year 1832 saw the publication of part III:  much superior to the earlier parts, a "laboratory of innovative genres, styles and forms".<ref name="psb698" /> Part III was largely written over a few days; the "Great Improvisation" section, a "masterpiece of Polish poetry", is said to have been created during a single inspired night.<ref name="psb698" /> A long descriptive poem, "''Ustęp''" (Digression), accompanying part III and written sometime before it, sums up Mickiewicz's experiences in, and views on, Russia, portrays it as a huge prison, pities the oppressed Russian people, and wonders about their future.<ref name="cze224225" /> Miłosz describes it as a "summation of Polish attitudes towards Russia in the nineteenth century" and notes that it inspired responses from Pushkin ("[[The Bronze Horseman (poem)|The Bronze Horseman]]") and [[Joseph Conrad]] (''[[Under Western Eyes (novel)|Under Western Eyes]]'').<ref name="cze224225" /> The drama was first staged by [[Stanisław Wyspiański]] in 1901, becoming, in Miłosz's words, "a kind of national sacred play, occasionally forbidden by censorship because of its emotional impact upon the audience."  The Polish government's 1968 closing down of a production of the play sparked the [[1968 Polish political crisis]].<ref name="cze223" /><ref name="Olszewska2007" />
+
+[[File:Pomnik Adamu Mickieviču, Miensk.jpg|thumb|left|Mickiewicz monument, [[Minsk]], [[Belarus]]]]Mickiewicz's ''[[Konrad Wallenrod]]'' (1828), a [[narrative poem]] describing battles of the Christian order of [[Teutonic Order|Teutonic Knights]] against the pagans of Lithuania,<ref name="Koropeckyj2008" /> is a thinly veiled allusion to the long feud between Russia and Poland.<ref name="Koropeckyj2008" /><ref name="psb696" /> The plot involves the use of subterfuge against a stronger enemy, and the poem analyzes moral dilemmas faced by the Polish insurgents who would soon launch the [[November Uprising|November 1830 Uprising]].<ref name="psb696" /> Controversial to an older generation of readers, ''[[Konrad Wallenrod]]'' was seen by the young as a call to arms and was praised as such by an Uprising leader, poet {{Interlanguage link multi|Ludwik Nabielak|pl}}.<ref name="Koropeckyj2008" /><ref name="psb696" /> Miłosz describes ''Konrad Wallenrod'' (named for its protagonist) as "the most committed politically of all Mickiewczi's poems."<ref name="cze221" /> The point of the poem, though obvious to many, escaped the Russian censors, and the poem was allowed to be published, complete with its telling motto drawn from [[Niccolò Machiavelli|Machiavelli]]: ''"Dovete adunque sapere come sono due generazioni di combattere – bisogna essere volpe e leone."'' ("Ye shall know that there are two ways of fighting – you must be a fox and a lion.")<ref name="Koropeckyj2008" /><ref name="psb696" /><ref name="cze220" /> On a purely literary level, the poem was notable for incorporating traditional folk elements alongside stylistic innovations.<ref name="psb696" />
+
+Similarly noteworthy is Mickiewicz's earlier and longer 1823 poem, ''[[Grażyna (poem)|Grażyna]]'', depicting the exploits of a Lithuanian chieftainess against the Teutonic Knights.<ref name="cze213"/><ref name="cze214"/> Miłosz writes that ''Grażyna'' "combines a metallic beat of lines and syntactical rigor with a plot and motifs dear to the Romantics."<ref name="cze213"/> It is said by [[Christien Ostrowski]] to have inspired [[Emilia Plater]], a military heroine of the [[November Uprising|November 1830 Uprising]].<ref name="The Westminster Review"/> A similar message informs Mickiewicz's "''Oda do młodości''" ("[[Ode to Youth]]").<ref name="psb695"/>
+
+Mickiewicz's ''[[Crimean Sonnets]]'' (1825–26) and poems that he would later write in Rome and Lausanne, Miłosz notes, have been "justly ranked among the highest achievements in Polish [lyric poetry]."<ref name="cze220"/> His 1830 travels in Italy likely inspired him to consider religious matters, and produced some of his best religiously-themed works, such as "''Arcymistrz''" ("The Master") and "''Do Marceliny Łempickiej''" ("To Marcelina Łempicka").<ref name="psb697"/> He was an authority to the young insurgents of 1830–31, who expected him to participate in the fighting (the poet {{Interlanguage link multi|Maurycy Gosławski|pl}} wrote a dedicated poem urging him to do so).<ref name="psb697"/> Yet it is likely that Mickiewicz was no longer as idealistic and supportive of military action as he had been a few years earlier, and his new works such as "''Do matki Polki''" ("To a Polish Mother", 1830), while still patriotic, also began to reflect on the tragedy of resistance.<ref name="psb697"/> His meetings with refugees and escaping insurgents around 1831 resulted in works such as "''Reduta Ordona''" ("Ordon's Redoubt"), "''Nocleg''" ("Night Bivouac") and "''Śmierć pułkownika''" ("Death of the Colonel").<ref name="psb697"/> Wyka notes the irony that some of the most important literary works about the 1830 Uprising were written by Mickiewicz, who never took part in a battle or even saw a battlefield.<ref name="psb697"/>[[File:Manuscript of Pan Tadeusz 8pl.jpg|thumb|250px|[[Manuscript]] of ''[[Pan Tadeusz]]'', bearing ''(bottom right)'' his autograph signature]]His ''Księgi narodu polskiego i pielgrzymstwa polskiego'' (Books of the Polish Nation and the Polish Pilgrimage, 1832) opens with a historical-philosophical discussion of the [[history of humankind]] in which Mickiewicz argues that history is the history of now-unrealized freedom that awaits many oppressed nations in the future.<ref name="psb698" /><ref name="psb699" /> It is followed by a longer "moral [[catechism]]" aimed at Polish émigrés.<ref name="psb699" /> The book sets out a [[messianism#Russian and Slavic|messianist]] [[metaphor]] of Poland as the "[[Christ of Europe|Christ of nations]]".<ref name="cze226" /> Described by Wyka as a [[propaganda]] piece, it was relatively simple, using biblical metaphors and the like to reach less-discriminating readers.<ref name="psb699" /> It became popular not only among Poles but, in translations, among some other peoples, primarily those which lacked their own sovereign states.<ref name="psb699" /><ref name="cze227" /> The ''Books'' were influential in framing Mickiewicz's image among many not as that of a poet and author but as that of ideologue of freedom.<ref name="psb699" />
+''[[Pan Tadeusz]]'' (published 1834), another of his masterpieces, is an [[epic poetry|epic poem]] that draws a picture of the Grand Duchy of Lithuania on the eve of [[French invasion of Russia|Napoleon's 1812 invasion of Russia]].<ref name="psb699"/><ref name="cze227"/> It is written entirely in thirteen-syllable [[couplet]]s.<ref name="cze227"/> Originally intended as an apolitical [[idyll]], it became, as Miłosz writes, "something unique in world literature, and the problem of how to classify it has remained the crux of a constant quarrel among scholars"; it "has been called 'the last epos' in world literature".<ref name="cze228"/>  ''Pan Tadeusz'' was not highly regarded by contemporaries, nor by Mickiewicz himself, but in time it won acclaim as "the highest achievement in all Polish literature."<ref name="cze229"/>
+
+[[File:Lithuanian songs by Adomas Mickevičius.jpg|thumb|right|Three [[folk song|folk songs]] transcribed by Mickiewicz in [[Lithuanian language|Lithuanian]]]]
+
+The occasional poems that Mickiewicz wrote in his final decades have been described as "exquisite, gnomic, extremely short and concise".  His ''{{Interlanguage link multi|Lausanne Lyrics|pl|3=Liryki lozańskie}}'', (1839–40) are, writes Miłosz, "untranslatable masterpieces of metaphysical meditation. In Polish literature, they are examples of that pure poetry that verges on silence."<ref name="cze230"/>
+
+In the 1830s (as early as 1830; as late as 1837) he worked on a [[futurist]] or science-fiction work, ''A History of the Future''.<ref name="psb698"/> It predicted inventions similar to radio and television, and interplanetary communication using [[balloon]]s.<ref name="psb698"/> Written in French, it was never completed and was partly destroyed by the author.<ref name="psb698"/> Other French-language works by Mickiewicz include the dramas ''Les Confederes de Bar'' (The [[Bar Confederation|Bar Confederates]]) and ''Jacques Jasiński, ous les deux Polognes'' (Jacques Jasiński, or the Two Polands).<ref name="psb699"/> These would not achieve much recognition, and would not be published till 1866.<ref name="psb699"/> 
+
+=== Lithuanian language ===
+Adam Mickiewicz did not write any poems in Lithuanian. However, it is known that Mickiewicz did have some understanding of the Lithuanian language, although some Polish describe it as limited.<ref name="Jackiewicz1999" /><ref name="znadwiliiwilno" /><ref name="Surwiło1993" /> 
+
+In the poem ''[[Grażyna (poem)|Grażyna]]'', Mickiewicz quoted one sentence from [[Kristijonas Donelaitis]]' Lithuanian-language poem [[The Seasons (poem)|''Metai'']].<ref>{{Cite video|url=https://www.lrt.lt/mediateka/irasas/9072/ar-adomas-mickevicius-kalbejo-lietuviskai|title=Ar Adomas Mickevičius mokėjo lietuviškai?|last=Digimas|first=A.|type=Videotape|language=lt|publisher=Lietuvos Kino Studija|year=1984|trans-title=Did Adam Mickiewicz know the Lithuanian language?|minutes=4:30-4:36}}</ref> In ''Pan Tadeusz'', there is a un-[[Polonized]] Lithuanian name Baublys.<ref>{{Cite video|url=https://www.lrt.lt/mediateka/irasas/9072/ar-adomas-mickevicius-kalbejo-lietuviskai|title=Ar Adomas Mickevičius mokėjo lietuviškai?|last=Digimas|first=A.|type=Videotape|language=lt|publisher=Lietuvos Kino Studija|year=1984|trans-title=Did Adam Mickiewicz know the Lithuanian language?|minutes=5:58-6:13}}</ref> Furthermore, due to Mickiewicz's position as lecturer on Lithuanian folklore and mythology in Collège de France, it can be inferred that he must have known the language sufficiently to lecture about it.<ref>{{Cite video|url=https://www.lrt.lt/mediateka/irasas/9072/ar-adomas-mickevicius-kalbejo-lietuviskai|title=Ar Adomas Mickevičius mokėjo lietuviškai?|last=Digimas|first=A.|type=Videotape|language=lt|publisher=Lietuvos Kino Studija|year=1984|trans-title=Did Adam Mickiewicz know the Lithuanian language?|minutes=4:44-4:54}}</ref> It is known that Adam Mickiewicz often sung Lithuanian folk songs with the [[Samogitians|Samogitian]] [[Ludmilew Korylski]].<ref name=":0">{{Cite video|url=https://www.lrt.lt/mediateka/irasas/9072/ar-adomas-mickevicius-kalbejo-lietuviskai|title=Ar Adomas Mickevičius mokėjo lietuviškai?|last=Digimas|first=A.|type=Videotape|language=lt|publisher=Lietuvos Kino Studija|year=1984|trans-title=Did Adam Mickiewicz know the Lithuanian language?|minutes=6:26-7:05}}</ref> For example, in the early 1850s when in Paris, Mickiewicz interrupted a Lithuanian folk song sung by Ludmilew Korylski, commenting that he was singing it wrong and hence wrote down on a piece of paper how to sing the song correctly.<ref name=":0" /> On the piece of paper, there are fragments of three different Lithuanian folk songs (''Ejk Tatuszeli i bytiu darża'', ''Atjo żałnieros par łauka'', ''Ej warneli, jod warneli isz''),<ref>{{Cite web|title=Adomas Mickevičius - Lietuviškų dainų fragmentai|trans-title=Adomas Mickevičius and fragments of Lithuanian songs|url=http://antologija.lt/text/adomas-mickevicius-lietuvisku-dainu-fragmentai}}</ref> which are the sole, as of now, known Lithuanian writings by Adam Mickiewicz.<ref>{{Cite web|title=About the fragments of Lithuanian songs, written down by Adomas Mickevičius|url=http://antologija.lt/about_text/adomas-mickevicius-lietuvisku-dainu-fragmentai}}</ref> The folk songs are known to have been sung in [[Darbėnai]].<ref>{{Cite video|url=https://www.lrt.lt/mediateka/irasas/9072/ar-adomas-mickevicius-kalbejo-lietuviskai|title=Ar Adomas Mickevičius mokėjo lietuviškai?|last=Digimas|first=A.|type=Videotape|language=lt|publisher=Lietuvos Kino Studija|year=1984|trans-title=Did Adam Mickiewicz know the Lithuanian language?|minutes=7:00-7:06}}</ref>
+
+==Legacy==
+[[File:Adam Mickiewicz Monument, Kraków.jpg|thumb|left|[[Adam Mickiewicz Monument, Kraków]], [[Poland]]]]
+[[File:Pomnik Adama Mickiewicza w Warszawie 2019c.jpg|thumb|[[Adam Mickiewicz Monument, Warsaw]], [[Poland]]]]
+[[File:Lvov mickiewicz.JPG|thumb|[[Adam Mickiewicz Monument, Lviv|Adam Mickiewicz Monument]], [[Lviv]], [[Ukraine]]]]
+
+A prime figure of the [[romanticism in Poland|Polish Romantic period]], Mickiewicz is counted as one of Poland's's [[Three Bards]] (the others being [[Zygmunt Krasiński]] and [[Juliusz Słowacki]]) and the greatest poet in all [[Polish literature]].<ref name="mickiewicz"/><ref name="mickiewicz1"/><ref name="Cornis-PopeNeubauer2010"/> Mickiewicz has long been regarded as [[List of national poets#Europe|Poland's national poet]]<ref name="Adam Mickiewicz: the national poet of Poland"/><ref name="Krzyzanowski"/> and is a revered figure in [[Lithuania]].<ref name="www"/> He is also considered one of the greatest [[Slavic language|Slavic]]<ref name="PomorskaBaran1992"/> and [[Europea]]n<ref name="budowniczowie"/> poets. He has been described as a "Slavic bard".<ref name="fra"/> He was a leading Romantic dramatist<ref name="tm"/> and has been compared in Poland and in Europe with [[George Gordon Byron|Byron]] and [[Johann Wolfgang von Goethe|Goethe]].<ref name=fra/><ref name=tm/>
+
+Mickiewicz's importance extends beyond literature to the broader spheres of culture and politics; Wyka writes that he was a "singer and epic poet of the Polish people and a pilgrim for the freedom of nations."<ref name="psb704"/> Scholars have used the expression "cult of Mickiewicz" to describe the reverence in which he is held as a "national prophet."<ref name="psb704"/><ref name="Wachtel2006"/><ref name="Peterkiewicz1970"/> On hearing of Mickiewicz's death, his fellow bard Krasiński wrote: <blockquote>For men of my generation, he was milk and honey, gall and life's blood: we all descend from him. He carried us off on the surging billow of his inspiration and cast us into the world.<ref name="psb704" /><ref name="MickiewiczAmerica1944" /> </blockquote>[[Edward Henry Lewinski Corwin]] described Mickiewicz's works as [[Prometheus|Promethean]], as "reaching more Polish hearts" than the other Polish Bards, and affirmed Danish critic [[Georg Brandes]]' assessment of Mickiewicz's works as "healthier" than those of [[George Gordon Byron, 6th Baron Byron|Byron]], [[William Shakespeare|Shakespeare]], [[Homer]], and Goethe.<ref name="corwin" /> Koropeckyi writes that Mickiewicz has "informed the foundations of [many] parties and ideologies" in Poland from the 19th century to this day, "down to the rappers in Poland's post-socialist blocks, who can somehow still declare that 'if Mickiewicz was alive today, he'd be a good [[Rapping|rapper]].'"<ref name="Koropeckyi2008-pref" /> While Mickiewicz's popularity has endured two centuries in Poland, he is less well known abroad, but in the 19th  century he had won substantial international fame among "people that dared resist the brutal might of reactionary empires."<ref name="Koropeckyi2008-pref" />
+
+Mickiewicz has been written about or had works dedicated to him by many authors in Poland ([[Adam Asnyk|Asnyk]], [[Konstanty Ildefons Gałczyński|Gałczyński]], [[Jarosław Iwaszkiewicz|Iwaszkiewicz]], [[Mieczysław Jastrun|Jastrun]], [[Jan Kasprowicz|Kasprowicz]], [[Jan Lechoń|Lechoń]], [[Maria Konopnicka|Konopnicka]], [[Teofil Lenartowicz]], Norwid, [[Julian Przyboś|Przyboś]], [[Tadeusz Różewicz|Różewicz]], [[Antoni Słonimski|Słonimski]], Słowacki, [[Leopold Staff|Staff]], [[Kazimierz Przerwa-Tetmajer|Tetmajer]], [[Julian Tuwim|Tuwim]], [[Kornel Ujejski|Ujejski]], [[Kazimierz Wierzyński|Wierzyński]], [[Józef Bohdan Zaleski|Zaleski]] and others) and by authors outside Poland ([[Valery Bryusov|Bryusov]], Goethe, Pushkin, [[Ludwig Uhland|Uhland]], [[Jaroslav Vrchlický|Vrchlický]] and others).<ref name="psb704"/> He has been a character in works of fiction, including a large body of dramatized biographies, e.g., in 1900, [[Stanisław Wyspiański]]'s ''Legion''.<ref name="psb704"/> He has also been a subject of many paintings, by [[Eugène Delacroix]], [[Józef Oleszkiewicz]], [[Aleksander Orłowski]], [[Wojciech Stattler]] and [[Walenty Wańkowicz]].<ref name="psb705"/> Monuments and other tributes (streets and schools named for him) abound in Poland and Lithuania, and in other former territories of the Polish–Lithuanian Commonwealth: [[Ukraine]] and Belarus.<ref name="psb704" /><ref name="Koropeckyi2008-pref" /> He has also been the subject of many statues and busts by [[Antoine Bourdelle]], [[David d'Angers]], {{Interlanguage link multi|Antoni Kurzawa|pl}}, [[Władysław Oleszczyński]], {{Interlanguage link multi|Zbigniew Pronaszko|pl}}, [[Teodor Rygier]], [[Wacław Szymanowski]] and [[Jakub Tatarkiewicz]].<ref name="psb705"/> In 1898, the 100th anniversary of his birth, a towering statue by [[Cyprian Godebski (sculptor)|Cyprian Godebski]] was erected in Warsaw.  Its base carries the inscription, "To the Poet from the People".<ref name="Warsaw and surroundings"/> In 1955, the 100th anniversary of his death, the [[University of Poznań]] adopted him as its official patron.<ref name="psb704"/>
+
+Much has been written about Mickiewicz, though the vast majority of this scholarly and popular literature is available only in Polish. Works devoted to him, according to Koropeckyi, author of a 2008 English biography, "could fill a good shelf or two".<ref name="Koropeckyi2008-pref" /> Koropeckyi notes that, apart from some specialist literature, only five book-length biographies of Mickiewicz have been published in English.<ref name="Koropeckyi2008-pref" /> He also writes that, though many of Mickiewicz's works have been reprinted numerous times, no language has a "definitive critical edition of his works."<ref name="Koropeckyi2008-pref" />
+
+=== Museums ===
+A number of museums in Europe are dedicated to Mickiewicz.  [[Warsaw]] has an [[Adam Mickiewicz Museum of Literature, Warsaw|Adam Mickiewicz Museum of Literature]].<ref name="psb704" /> His house in [[Novogrudok|Navahrudak]] is now a museum ({{Interlanguage link multi|Adam Mickiewicz Museum, Navahrudak|pl|3=Muzeum Adama Mickiewicza w Nowogródku}});<ref name="Muzeum Adama Mickiewicza w Nowogródku" /> as is the house where he lived and died in Constantinople ([[Adam Mickiewicz Museum, Istanbul]]).<ref name="psb704" /> There is a ''[[Musée Adam Mickiewicz]]'' in [[Paris, France]].<ref name="Musee Adam Mickiewicz" />
+
+==Ethnicity==
+[[File:LT-1998-50litų-Mickevičius-b.png|thumb|[[Litas|Lithuanian coin]] featuring a stylized Mickiewicz]]
+Adam Mickiewicz is known as a [[List of Polish-language poets|Polish poet]],<ref name="O'Connor2006"/><ref name="Kridl1951"/><ref name="Murray2004"/><ref name="Classe2000"/><ref name="prospects"/> [[Polish-Lithuanian identity|Polish-Lithuanian]],<ref name="william"/><ref name="communicating"/><ref name="United Nations in Belarus - Culture"/><ref name="katolickiego"/> [[Lithuanians|Lithuanian]],<ref>{{Cite book|last=Paneth|first=Philip|url=https://archive.org/details/dli.ministry.05283/page/41/mode/2up?q=Mickiewicz+Lithuanian|title=Is Poland Lost?|publisher=Nicholson and Watson|year=1939|location=London|pages=41}}</ref><ref>{{Cite book|last=Mills|first=Clark|url=https://archive.org/details/greenoakselected00land/page/14/mode/2up?q=Mickiewicz+Lithuanian|title=The Green Oak|last2=Landsbergis|first2=Algirdas|publisher=Theo. Gaus' Sons|year=1962|location=New York|pages=15}}</ref><ref>{{Cite book|last=Morfill|first=W.R.|url=https://archive.org/details/polandpo00morfrich/page/300/mode/2up?q=Mickiewicz+Lithuanian|title=Poland|publisher=G.P. Putnam's Sons|year=1893|location=New York|pages=300}}</ref><ref>{{Cite book|last=Boswell|first=A. Bruce|url=https://archive.org/details/dli.granth.91050/page/217/mode/2up?q=Mickiewicz+Lithuanian|title=Poland and the Poles|publisher=Methuen & Co.|year=1919|location=London|pages=217}}</ref><ref>{{Cite book|last=Harrison|first=E.J.|url=https://archive.org/details/lithuaniapastpre00harruoft/page/n167/mode/2up?q=Mickiewicz+|title=Lithuania, Past & Present|publisher=Gresham Press|year=1922|location=London|pages=165}}</ref><ref>{{Cite book|last=Bjornson|first=B.|url=https://archive.org/details/n4poetlorequarte47bost/page/326/mode/2up?q=Mickiewicz|title=Poet Lore World Literature and the Drama|publisher=Bruce Humphries|year=1941|location=Boston|pages=327}}</ref> or [[Belarusians|Belarusian]].<ref>{{cite web |last1=Gliński |first1=Mikołaj |title=The White-Red-White Banner of Polish-Belarusian Literature |url=https://culture.pl/en/article/the-white-red-white-banner-of-polish-belarusian-literature |access-date=24 August 2020}}</ref> ''The Cambridge History of Russia'' describes him as Polish but sees his ethnic origins as "Lithuanian-Belarusian (and perhaps Jewish)."<ref name="The Cambridge History of Russia: Imperial Russia, 1689-1917"/>
+
+Some sources assert that Mickiewicz's mother was descended from a converted, [[Jacob Frank|Frankist]] Jewish family.<ref name="movement"/><ref name="encyclopaedia"/><ref name="brotherhood"/> Others view this as improbable.<ref name="cze231"/><ref name="contemporaries"/><ref name="frankists"/><ref name="niniwa2"/> Polish historian [[Kazimierz Wyka]], in his biographic entry in ''[[Polski Słownik Biograficzny]]'' (1975) writes that this hypothesis, based on the fact that his mother's maiden name, Majewska, was popular among [[Frankism|Frankist]] Jews, has not been proven.<ref name="psb694"/> Wyka states that the poet's mother was the daughter of a noble (''[[szlachta]]'') family of [[Starykoń coat of arms]], living on an estate at [[Czombrów]] in [[Nowogródek Voivodeship (1507–1795)|Nowogródek Voivodeship]] (Navahrudak Voivodeship).<ref name="psb694"/> According to the Belarusian historian Rybczonek, Mickiewicz's mother had [[Tatar]] ([[Lipka Tatars]]) roots.<ref name="mickiewicza" />
+
+Virgil Krapauskas noted that "Lithuanians like to prove that Adam Mickiewicz was Lithuanian"<ref>{{Cite journal|last=Krapauskas|first=Virgil|date=1998-09-01|title=Political change in Poland and Lithuania: The impact on Polish-Lithuanian ethnic relations as reflected in Lithuanian-language publications in Poland (1945–1991)|url=https://doi.org/10.1080/01629779800000111|journal=Journal of Baltic Studies|volume=29|issue=3|pages=261–278|doi=10.1080/01629779800000111|issn=0162-9778}}</ref> while [[Tomas Venclova]] described this attitude as "the story of Mickiewicz’s appropriation by [[Culture of Lithuania|Lithuanian culture]]".<ref name="venc" /> For example, the Lithuanian scholar of literature {{Interlanguage link multi|Juozapas Girdzijauskas|lt}} writes that Mickiewicz's family was descended from an old [[Lithuanian nobility|Lithuanian noble family]] (Rimvydas) with origins predating [[Christianization of Lithuania|Lithuania's Christianization]],<ref name="antologija"/> but the Lithuanian nobility in Mickiewicz's time was heavily [[Polonization|Polonized]] and spoke Polish.<ref name=venc/> Mickiewicz had been brought up in [[Polish-Lithuanian identity|the culture of the Polish–Lithuanian Commonwealth]], a multicultural state that had encompassed most of what today are the separate countries of Poland, Lithuania, Belarus and Ukraine. To Mickiewicz, a splitting of that multicultural state into separate entities – due to trends such as [[Lithuanian National Revival]] – was undesirable,<ref name=venc/> if not outright unthinkable.<ref name="O'Connor2006"/> According to Romanucci-Ross, while Mickiewicz called himself a '' [[Litvin]]'' ("Lithuanian"), in his time the idea of a separate "Lithuanian identity", apart from a "Polish" one, did not exist.<ref name="prospects"/> This multicultural aspect is evident in his works: his most famous poetic work, ''[[Pan Tadeusz]]'', begins with the Polish-language invocation, "O Lithuania, my country, thou art like good health&nbsp;..." (''"Litwo! Ojczyzno moja! ty jesteś jak zdrowie&nbsp;..."''. It is generally accepted, however, that Mickiewicz, when referring to Lithuania, meant a historical region rather than a linguistic and cultural entity, and he often applied the term "Lithuanian" to the Slavic inhabitants of the Grand Duchy of Lithuania.<ref name="venc"/>
+
+==Selected works==
+* ''[[Ode to Youth|Oda do młodości]]'' (Ode to Youth), 1820
+* ''[[Ballads and Romances|Ballady i romanse]]'' (Ballads and Romances), 1822
+* ''[[Grażyna (poem)|Grażyna]]'', 1823
+* ''[[The Crimean Sonnets|Sonety krymskie]]'' (The Crimean Sonnets), 1826
+* ''[[Konrad Wallenrod]]'', 1828
+* ''Księgi narodu polskiego i pielgrzymstwa polskiego'' (The Books of the Polish People and of the Polish Pilgrimage), 1832
+* ''[[Pan Tadeusz]]'' (Sir Thaddeus, Mr. Thaddeus), 1834
+* ''Liryki lozańskie''  (Lausanne Lyrics), 1839–40
+* ''[[Dziady (poem)|Dziady]]'' (Forefathers' Eve), four parts, published from 1822 to after the author's death
+* ''L'histoire d'avenir'' (A History of the Future), an unpublished French-language science-fiction novel
+Source: {{Internet Archive author |sname=Adam Bernard Mickiewicz |sopt=t}}
+
+==See also==
+
+* [[List of things named after Adam Mickiewicz]]
+* [[List of Poles]]
+* [[Polish literature]]
+*{{intitle|Mickiewicz}}
+
+==Notes==
+'''a''' {{Note_label|a|a|none}} [[Czesław Miłosz]] and [[Kazimierz Wyka]] each note that Adam Mickiewicz's exact birthplace cannot be ascertained due to conflicting records and missing documentation.<ref name="cze208"/><ref name="psb694"/>
+
+==References==
+{{Reflist|2|refs=
+
+<ref name="Jackiewicz1999">{{cite book|author=Mieczysław Jackiewicz|title=Literatura litewska w Polsce w XIX i XX wieku|url=https://books.google.com/books?id=UJYYAQAAIAAJ|year=1999|publisher=Wydawn. Uniwersytetu Warmińsko-Mazurskiego|isbn=978-83-912643-4-8|page=21}}</ref>
+
+<ref name="Surwiło1993">{{cite book|author=Jerzy Surwiło|title=Skaičių šalis : matematikos vadovėlis II klasei|url=https://books.google.com/books?id=IFJiAAAAMAAJ|year=1993|publisher=Wydawn. "Magazyn Wileński|isbn=978-5-430-01467-4|page=28}}</ref>
+
+<ref name="mickiewitch">{{in lang|ru}} Adam Mickiewitch, ''Poems'', Moscow, 1979, pp. 122, 340.</ref>
+
+<ref name="popsa">{{in lang|ru}} [http://popsa.info/bio/006/006b.html David Tukhmanov]</ref>
+
+<ref name="znadwiliiwilno">{{cite web |url=http://znadwiliiwilno.lt/materialy/tadeusz-zubinski-czy-adam-mickiewicz-znal-litewska-mowe-zw-47.html |title=Svetainė išjungta – Serveriai.lt |publisher=Znadwiliiwilno.lt |access-date=2013-06-18 |url-status=dead |archive-url=https://web.archive.org/web/20150905053346/http://znadwiliiwilno.lt/materialy/tadeusz-zubinski-czy-adam-mickiewicz-znal-litewska-mowe-zw-47.html |archive-date=5 September 2015}}</ref>
+
+<ref name="Koropeckyi2008-pref">{{cite book|author=Roman Koropeckyi|title=Adam Mickiewicz|url=https://books.google.com/books?id=Pq1KOMGz2yUC&pg=PR9|year=2008|publisher=Cornell University Press|isbn=978-0-8014-4471-5|pages=9–12}}</ref>
+
+<ref name="Koropeckyj2008">{{cite book|author=Roman Robert Koropeckyj|title=Adam Mickiewicz: The Life of a Romantic|url=https://archive.org/details/adammickiewiczli00koro_0|url-access=registration|year=2008|publisher=Cornell University Press|isbn=978-0-8014-4471-5|pages=[https://archive.org/details/adammickiewiczli00koro_0/page/93 93]–95}}</ref>
+
+<ref name="Krzyzanowski">{{cite book |title=Literatura polska: przewodnik encyklopedyczny, Volume 1: A–M |editor1-first=Julian |editor1-last=Krzyżanowski |year=1986 |publisher=Państwowe Wydawnictwo Naukowe |location=Warszawa |isbn=83-01-05368-2 |pages=663–665}}</ref>
+
+<ref name="MickiewiczAmerica1944">{{cite book|author1=Adam Mickiewicz|author2=Polish Institute of Arts and Sciences in America|title=Poems by Adam Mickiewicz|url=https://books.google.com/books?id=zQBiAAAAMAAJ|year=1944|publisher=The Polish Institute of Arts and Sciences in America|page=63|isbn=9780940962248}}</ref>
+
+<ref name="Musee Adam Mickiewicz">{{cite web|url=http://en.parisinfo.com/museum-monuments/112/musee-adam-mickiewicz |title=Musee Adam Mickiewicz |publisher=En.parisinfo.com |date=24 March 2000 |access-date=2013-04-10}}</ref>
+
+<ref name="Muzeum Adama Mickiewicza w Nowogródku">{{cite web |url=http://www.ebialorus.pl/aktualnosci/muzeum_adama_mickiewicza_w_nowogrodku,7589,id,7589.html |title=Muzeum Adama Mickiewicza w Nowogródku |publisher=Ebialorus.pl |access-date=2013-04-10 |archive-url=https://web.archive.org/web/20130903183647/http://www.ebialorus.pl/aktualnosci/muzeum_adama_mickiewicza_w_nowogrodku,7589,id,7589.html |archive-date=3 September 2013 |url-status=dead }}</ref>
+
+<ref name="Olszewska2007">{{cite book|author=Kinga Olszewska|title=Wanderers across language: exile in Irish and Polish literature of the twentieth century|url=https://books.google.com/books?id=ZtRS9pBBhJMC&pg=PA29|year=2007|publisher=MHRA|isbn=978-1-905981-08-3|page=29}}</ref>
+
+<ref name="Peterkiewicz1970">{{cite book|author=Jerzy Peterkiewicz|title=Polish prose and verse: a selection with an introductory essay|url=https://books.google.com/books?id=6efG8PMufHsC|year=1970|publisher=University of London, Athlone Press|isbn=978-0-485-17502-8|page=xlvii}}</ref>
+
+<ref name="The Westminster Review">{{cite book|title=The Westminster Review|url=https://books.google.com/books?id=LmsyAQAAMAAJ|year=1879|publisher=J.M. Mason|page=378}}</ref>
+
+<ref name="Wachtel2006">{{cite book|author=Andrew Wachtel|title=Remaining Relevant After Communism: The Role of the Writer in Eastern Europe|url=https://books.google.com/books?id=Q5l3ywHWZV4C&pg=PA23|year=2006|publisher=University of Chicago Press|isbn=978-0-226-86766-3|page=23}}</ref>
+
+<ref name="Wulff1992">{{cite book|author=Kenneth R. Wulff|title=Education in Poland: Past, Present, and Future|url=https://books.google.com/books?id=FPpYBzGdegQC&pg=PA7|year=1992|publisher=University Press of America|isbn=978-0-8191-8615-7|page=7}}</ref>
+
+<ref name="Yad Vashem Studies">{{cite journal|title=Yad Vashem Studies|journal = Yad Washem Studies on the European Jewish Catastrophe and Resistance|url=https://books.google.com/books?id=pOWtjeac3mYC&pg=PA38|year=2007|publisher=Wallstein Verlag|page=38|issn=0084-3296}}</ref>
+
+<ref name="cze208">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA208|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=208}}</ref>
+
+<ref name="cze209">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA209|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=209}}</ref>
+
+<ref name="cze210">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA210|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=210}}</ref>
+
+<ref name="cze212">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA212|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=212}}</ref>
+
+<ref name="cze213">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA213|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=213}}</ref>
+
+<ref name="cze214">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA214|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=214}}</ref>
+
+<ref name="cze214217">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA214|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|pages=214–217}}</ref>
+
+<ref name="cze218">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA218|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=218}}</ref>
+
+<ref name="cze220">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA220|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=220}}</ref>
+
+<ref name="cze221">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA221|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=221}}</ref>
+
+<ref name="cze222">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA222|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=222}}</ref>
+
+<ref name="cze223">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA223|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=223}}</ref>
+
+<ref name="cze224225">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA224|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|pages=224–225}}</ref>
+
+<ref name="cze226">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA226|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=226}}</ref>
+
+<ref name="cze227">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA227|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=227}}</ref>
+
+<ref name="cze228">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA228|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=228}}</ref>
+
+<ref name="cze229">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA229|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=229}}</ref>
+
+<ref name="cze230">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA230|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=30}}</ref>
+
+<ref name="cze231">{{cite book|author=Czesław Miłosz|author-link=Czesław Miłosz|title=The History of Polish Literature|url=https://books.google.com/books?id=R-MkT9vavwIC&pg=PA231|year=1983|publisher=University of California Press|isbn=978-0-520-04477-7|page=231}}</ref>
+
+<ref name="antologija">{{cite web|url=http://www.antologija.lt/texts/11/autor.html|title=Adomas Mickevičius (Adam Mickiewicz)|publisher=Lithuanian Classic Literature Anthology ([[UNESCO]] "Publica" series)|access-date=2011-02-23}}</ref>
+
+<ref name="brotherhood">{{cite book|author1=Magdalena Opalski|author2=Baṛtal, Israel|title=Poles and Jews: A Failed Brotherhood|url=https://books.google.com/books?id=VQqO8LBNBbsC&pg=PA119|year=1992|publisher=UPNE|isbn=978-0-87451-602-9|pages=119–21|quote="the Frankist background of the poet's mother"}}</ref>
+
+<ref name="budowniczowie">{{cite book|author1=Andrzej Wójcik|author2=Marek Englender|title=Budowniczowie gwiazd|url=https://books.google.com/books?id=Ka6aSAAACAAJ|year=1980|publisher=Krajowa Agencja Wydawn.|pages=19–10}}</ref>
+
+<ref name="communicating">{{cite book|author1=Karin Ikas|author2=Gerhard Wagner|title=Communicating in the Third Space|url=https://books.google.com/books?id=AJh5gwQZOT0C&pg=PR182|year=2008|publisher=Routledge|isbn=978-0-203-89116-2|page=182}}</ref>
+
+<ref name="contemporaries">{{cite book|author=Wiktor Weintraub|title=The poetry of Adam Mickiewicz|url=https://books.google.com/books?id=AlJiAAAAMAAJ|year=1954|publisher=Mouton|page=11|quote=Her (Barbara Mickiewicz) maiden name was Majewska. In old Lithuania, every baptised Jew became ennobled, and there were Majewskis of Jewish origin. That must have been the reason for the rumours, repeated by some of the poet's contemporaries, that Mickiewicz's mother was a Jewess by origin. However, genealogical research makes such an assumption rather improbable}}</ref>
+
+<ref name="encyclopaedia">"Mickiewicz's mother, descended from a converted Frankist family": "Mickiewicz, Adam," ''Encyclopaedia Judaica''. "Mickiewicz's Frankist origins were well-known to the Warsaw Jewish community as early as 1838 (according to evidence in the ''AZDJ'' of that year, p. 362). "The parents of the poet's wife also came from Frankist families": "Frank, Jacob, and the Frankists," ''Encyclopaedia Judaica''.</ref>
+
+<ref name="frankists">{{cite book|author=Czesław Milosz|title=The Land of Ulro|url=https://books.google.com/books?id=1HcvHQAACAAJ|year=2000|publisher=Farrar, Straus and Giroux|isbn=978-0-374-51937-7|page=116|quote=The mother's low social status—her father was a land steward—argues against a Frankist origin. The Frankists were usually of the nobility and therefore socially superior to the common gentry.}}</ref>
+
+<ref name="jachimecki">[[Zdzisław Jachimecki]], "Chopin, Fryderyk Franciszek," ''[[Polski słownik biograficzny]]'', vol. III, [[Kraków]], [[Polish Academy of Learning|Polska Akademia Umiejętności]], 1937, p. 424.</ref>
+
+<ref name="jachimecki2">[[Zdzisław Jachimecki]], "Chopin, Fryderyk Franciszek," ''[[Polski słownik biograficzny]]'', vol. III, [[Kraków]], [[Polish Academy of Learning|Polska Akademia Umiejętności]], 1937, p. 423.</ref>
+
+<ref name="katolickiego">''Studia Polonijne, Tomy 22–23'', Towarzystwo Naukowe Katolickiego Uniwersytetu Lubelskiego, 2001, page 266</ref>
+
+<ref name="mickiewicz">S. Treugutt: ''Mickiewicz – domowy i daleki.'' in: A. Mickiewicz: ''Dzieła I.'' Warszawa 1998, p. 7</ref>
+
+<ref name="mickiewicz1">E. Zarych: ''Posłowie.'' in: A. Mickiewicz: ''Ballady i romanse.'' Kraków 2001, p. 76</ref>
+
+<ref name="mickiewicza">Rybczonek, S., "''Przodkowie Adama Mickiewicza po kądzieli''" ("Adam Mickiewicz's Ancestors on the Distaff Side"), ''Blok-Notes Muzeum Literatury im. Adama Mickiewicza'', 1999, no. 12/13.</ref>
+
+<ref name="movement">[[Meir Balaban|Balaban, Meir]], ''The History of the Frank Movement'', 2 vols., 1934–35, pp.&nbsp;254–259.</ref>
+
+<ref name="niniwa2">{{in lang|pl}} Paweł Goźliński, [http://niniwa2.cba.pl/mickiewicz_rzym_kolo_nowogrodka_wywiad.htm "Rzym koło Nowogródka"] {{webarchive |url=https://web.archive.org/web/20090214010220/http://niniwa2.cba.pl/mickiewicz_rzym_kolo_nowogrodka_wywiad.htm |date=14 February 2009 }} (Rome near Nowogródek), interview with historian [[Tomasz Łubieński]], editor-in-chief of ''Nowe Ksiąźki'', [[Gazeta Wyborcza]], 16 October 1998.</ref>
+
+<ref name="prospects">{{cite book|author1=Lola Romanucci-Ross|author2=George A. De Vos|author3=Takeyuki Tsuda|title=Ethnic Identity: Problems And Prospects for the Twenty-first Century|url=https://books.google.com/books?id=AajCaf34k3oC&pg=PR74|year=2006|publisher=Rowman Altamira|isbn=978-0-7591-0973-5|page=74}}</ref>
+
+<ref name="psb694">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 694.</ref>
+
+<ref name="psb695">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 695.</ref>
+
+<ref name="psb696">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 696.</ref>
+
+<ref name="psb697">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 697.</ref>
+
+<ref name="psb698">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 698.</ref>
+
+<ref name="psb699">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 699.</ref>
+
+<ref name="psb700">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 700.</ref>
+
+<ref name="psb701">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 701.</ref>
+
+<ref name="psb702">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 702.</ref>
+
+<ref name="psb703">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 703.</ref>
+
+<ref name="psb704">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 704.</ref>
+
+<ref name="psb705">[[Kazimierz Wyka]], "Mickiewicz, Adam Bernard", ''[[Polski Słownik Biograficzny]]'', vol. XX, 1975, p. 705.</ref>
+
+<ref name="rzeczypospolitej">Muzeum Adama Mickiewicza w Stambule (przewodnik). Ministerstwo Kultury i Turystyki Republiki Turcji – Ministerstwo Kultury i Dziedzictwa Narodowego Rzeczypospolitej Polskiej, 26 November 2005.</ref>
+
+<ref name="vytautas">{{cite book|author=Vytautas Kubilius|author-link=Vytautas Kubilius|title=Adomas Mickevičius: poetas ir Lietuva|year=1998|publisher=Lietuvos rašytojų sąjungos leidykla|isbn=9986-39-082-6|page=49}}</ref>
+
+<ref name="william">William Richard Morfill, ''Poland'', 1893, p. 300.</ref>
+
+<ref name="www">{{cite web |url=http://www.lrp.lt/en/activities/speeches/address_by_h.e._dalia_grybauskaite_president_of_the_republic_of_lithuania_at_the_celebration_of_the_91st_anniversary_of_polish_independence_day.html |title=Address by H.E. Dalia Grybauskaitė, President of the Republic of Lithuania, at the Celebration of the 91st Anniversary of Polish Independence Day |author=[[Dalia Grybauskaitė]] |year=2008 |publisher=President of the Republic of Lithuania |access-date=2011-04-14 }}</ref>
+
+<ref name="Adam Mickiewicz: the national poet of Poland">{{Cite book |title=Adam Mickiewicz: the national poet of Poland |last=Gardner |first=Monica Mary |author-link=Monica Mary Gardner |year=1911 |publisher=J.M. Dent & Sons |location=New York |oclc= 464724636 |url=https://archive.org/details/adammickiewiczn00gardgoog |access-date=2011-04-14 }}</ref>
+
+<ref name="Alvis2005">{{cite book|author=Robert E. Alvis|title=Religion and the rise of nationalism: a profile of an East-Central European city|url=https://books.google.com/books?id=Uj2UaAKuE8YC&pg=PA101|year=2005|publisher=Syracuse University Press|isbn=978-0-8156-3081-4|page=101}}</ref>
+
+<ref name="Classe2000">{{cite book|author=Olive Classe|title=Encyclopedia of literary translation into English: M-Z|url=https://books.google.com/books?id=C1uXah12nHgC&pg=PA947|year=2000|publisher=Taylor & Francis|isbn=978-1-884964-36-7|page=947}}</ref>
+
+<ref name="Cornis-PopeNeubauer2010">{{cite book|author=Roman Koropeckyj|chapter=Adam Mickiewicz as a Polish National Icon|editor=Marcel Cornis-Pope|editor2=John Neubauer|title=History of the Literary Cultures of East-Eastern Europe|chapter-url=https://books.google.com/books?id=YINYl4iv4ecC&pg=PA39|year=2010|publisher=John Benjamins Publishing Company|isbn=978-90-272-3458-2|page=39}}</ref>
+
+<ref name="Encyclopedia of the romantic era, 1760-1850, Volume 2">{{cite book|title=Encyclopedia of the romantic era, 1760–1850, Volume 2|url=https://books.google.com/books?id=wgS2nYRIuUEC&q=Adam+Mickiewicz+cholera&pg=PA742|author=Christopher John Murray|publisher=[[Taylor & Francis]]|year=2004|isbn=978-1-57958-422-1|page=742}}</ref>
+
+<ref name="Kridl1951">{{cite book|author=Manfred Kridl|title=Adam Mickiewicz, poet of Poland: a symposium|url=https://books.google.com/books?id=TyhiAAAAMAAJ|year=1951|publisher=Columbia University Press|page=33|isbn=9780231901802}}</ref>
+
+<ref name="Murray2004">{{cite book|author=Christopher John Murray|title=Encyclopedia of the romantic era, 1760–1850|url=https://books.google.com/books?id=wgS2nYRIuUEC&pg=PA739|year=2004|publisher=Taylor & Francis|isbn=978-1-57958-422-1|page=739}}</ref>
+
+<ref name="O'Connor2006">{{cite book|author=Kevin O'Connor|title=Culture and customs of the Baltic states|url=https://books.google.com/books?id=8Dl2i1Fkd_cC&pg=PA123|year=2006|publisher=Greenwood Publishing Group|isbn=978-0-313-33125-1|page=123}}</ref>
+
+<ref name="PomorskaBaran1992">{{cite book|author1=Krystyna Pomorska|author2=Henryk Baran|title=Jakobsonian poetics and Slavic narrative: from Pushkin to Solzhenitsyn|url=https://archive.org/details/jakobsonianpoeti00pomo|url-access=registration|year=1992|publisher=Duke University Press|isbn=978-0-8223-1233-8|pages=[https://archive.org/details/jakobsonianpoeti00pomo/page/239 239]–}}</ref>
+
+<ref name="The Cambridge History of Russia: Imperial Russia, 1689-1917">{{cite book|title=The Cambridge History of Russia: Imperial Russia, 1689–1917|url=https://books.google.com/books?id=NzR0cmnP3J8C&pg=PA173|author1=Maureen Perrie |author2=D. C. B. Lieven |author3=Ronald Grigor Suny |publisher=[[Cambridge University Press]]|year=2006|page=173|isbn=978-0-521-81529-1}}</ref>
+
+<ref name="United Nations in Belarus - Culture">{{cite web|title=United Nations in Belarus – Culture|url=http://un.by/en/aboutbelarus/culture/|publisher=United Nations|access-date=2010-09-17|archive-url=https://web.archive.org/web/20110706163141/http://un.by/en/aboutbelarus/culture/|archive-date=6 July 2011|url-status=dead}}</ref>
+
+<ref name="Warsaw and surroundings">{{Cite book |title=Warsaw and surroundings |last=Jabłoński |first=Rafał |year=2002 |publisher=Festina |location=Warsaw |oclc=680169225 |page=103 |quote=The Adam Mickiewicz Monument was unveiled in 1898 to mark the 100th anniversary of the great romantic poet's birth. The inscription on the base reads: "To the Poet from the Nation"}}</ref>
+
+<ref name="corwin">{{cite book|title=The Political History of Poland|url=https://archive.org/details/politicalhistor00corwgoog|page=[https://archive.org/details/politicalhistor00corwgoog/page/n469 449]|quote=He feels for millions and is pleading before God for their happiness and spiritual perfection.|publisher=Polish Book Importing Co.|year=1917|author=[[Edward Henry Lewinski Corwin]]}}</ref>
+
+<ref name="fra">{{cite book|author=Zofia Mitosek|title=Adam Mickiewicz w oczach Francuzów [Adam Mickiewicz to French Eyes]|url=https://books.google.com/books?id=fCEaAQAAIAAJ|year=1999|publisher=Wydawnictwo Naukowe PWN|isbn=978-83-01-12639-1|page=12}}</ref>
+
+<ref name="tm">T. Macios, ''Posłowie'' (Afterword) to Adam Mickiewicz, ''[[Dziady (poem)|Dziady]]'', Kraków, 2004, pp.&nbsp;239–40.</ref>
+
+<ref name="venc">{{cite web |url=http://www.lituanus.org/2007/07_3_03%20Venclova.html |title= Native Realm Revisited: Mickiewicz's Lithuania and Mickiewicz in Lithuania|access-date=2007-04-24 |last=Venclova |first=Tomas |author-link=Tomas Venclova |publisher=Lituanus Volume 53, No 3 – Fall 2007 |quote=This semantic confusion was amplified by the fact that the Nowogródek region, although inhabited mainly by Belarusian speakers, was for several centuries considered part and parcel of ''Lithuania Propria''—Lithuania in the narrow sense; as different from the 'Ruthenian' regions of the Grand Duchy.}}</ref>
+}}
+
+* {{Catholic|wstitle=Adam Mickiewicz}}
+
+==Further reading==
+* {{cite book|author=Roman Koropeckyj|title=Adam Mickiewicz: The Life of a Romantic|url=https://archive.org/details/adammickiewiczli00koro_0|url-access=registration|year=2008|publisher=Cornell UP|isbn=978-0-8014-4471-5}}
+* {{cite book|author=Jadwiga Maurer|title="Z matki obcej--": szkice o powiązaniach Mickiewicza ze światem Żydów (Of a Foreign Mother&nbsp;... Sketches about Adam Mickiewicz's Ties to the Jewish World)|url=https://books.google.com/books?id=hSIaAQAAIAAJ|year=1996|publisher=Fabuss|isbn=978-83-902649-1-2}}
+
+==External links==
+{{wikisource author}}
+{{Wikiquote}}
+{{Commons}}
+{{EB1911 poster|Mickiewicz, Adam}}
+* {{Gutenberg author | id=Mickiewicz,+Adam | name=Adam Mickiewicz}}
+* {{Internet Archive author |sname=Adam Bernard Mickiewicz |sopt=t}}
+* {{Librivox author |id=2576}}
+* [http://www.ruf.rice.edu/~sarmatia/109/291mickie.htm Four Sonnets] translated by [[Leo Yankevich]]
+* [http://www.poemhunter.com/poem/the-akkerman-steppe/ Translation of "the Akkerman Steppe"]
+* [http://www.sonnets.org/mickiewicz.htm Sonnets from the Crimea (Sonety krymskie)] translated by [[Edna W. Underwood]]
+* [https://web.archive.org/web/20060901183103/http://info-poland.buffalo.edu/web/arts_culture/literature/poetry/mickiewicz/poems/link.shtml Adam Mickiewicz Selected Poems (in English)]
+* [http://www.intratext.com/Catalogo/Autori/Aut1069.htm Mickiewicz's works]: text, concordances and frequency list
+* [https://web.archive.org/web/20081205185927/http://home.roadrunner.com/~polishlit/19.html#mick  Polish Literature in English Translation: Mickiewicz]
+* [https://web.archive.org/web/20110724020109/http://www.stambulkg.polemb.net/index.php?document=90 Adam Mickiewicz Museum Istanbul (in Turkish)]
+* [https://web.archive.org/web/20110516103211/http://tlumacz-literatury.pl/polishpoetryfree.pdf Polish poetry in English (includes a few poems by Mickiewicz)]
+* [https://culture.pl/en/artist/adam-mickiewicz Adam Mickiewicz] at Culture.pl
+*[https://culture.pl/en/article/translating-mickiewicz-polands-international-man-of-mystery Translating Mickiewicz: Poland's International Man of Mystery] at Culture.pl
+*[https://culture.pl/en/article/adam-mickiewicz-slept-here-a-worldwide-guide-to-museums-of-polands-poetic-hero Adam Mickiewicz Slept Here! A Worldwide Guide to Museums of Poland’s Poetic Hero] at Culture.pl
+* [https://poezja.org/wz/Mickiewicz_Adam/ Adam Mickiewicz] at poezja.org (polish)
+
+{{Adam Mickiewicz}}
+{{Three Bards}}
+{{Romanticism}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mickiewicz, Adam}}
+[[Category:Adam Mickiewicz| ]]
+[[Category:1798 births]]
+[[Category:1855 deaths]]
+[[Category:People from Baranavichy District]]
+[[Category:People from Lithuania Governorate]]
+[[Category:Polish Roman Catholics]]
+[[Category:Romantic poets]]
+[[Category:Polish male dramatists and playwrights]]
+[[Category:Activists of the Great Emigration]]
+[[Category:People of the Revolutions of 1848]]
+[[Category:Polish exiles in the Russian Empire]]
+[[Category:Deaths from cholera]]
+[[Category:Infectious disease deaths in the Ottoman Empire]]
+[[Category:19th-century Polish male writers]]
+[[Category:Vilnius University alumni]]
+[[Category:Burials at Wawel Cathedral]]
+[[Category:Polish writers in French]]
+[[Category:Polish people of Lithuanian descent]]
+[[Category:Polish expatriates in Turkey]]
+[[Category:Clan of Poraj]]
+[[Category:19th-century Polish poets]]
+[[Category:19th-century Polish dramatists and playwrights]]
+[[Category:Polish male poets]]

@@ -1,0 +1,33 @@
+{{short description|Hungarian poet and journalist}}
+{{About|the composer|the Hungarian composer|János Vajda (composer)}}
+{{eastern name order|Vajda János}}
+{{Infobox person
+|name = János Vajda
+|image = Vajda János Bruck.jpg
+|birth_date = {{birth date|1827|5|7|df=yes}}
+|birth_place = [[Pest, Hungary|Pest]], [[Kingdom of Hungary]]
+|death_date = {{death date and age|1897|1|17|1827|5|7|df=yes}}
+|death_place = [[Budapest]], [[Austria-Hungary]]
+|nationality = [[Hungarians|Hungarian]] 
+|occupation = Poet, journalist
+}}
+'''János Vajda''' (7 May 1827 – 18 January 1897) was a Hungarian poet and journalist. His first poetry was published to the public in ''[[Életképek]]'' in 1844.<ref>{{cite web|url=http://www.babelmatrix.org/works/hu-all/Vajda_J%C3%A1nos/biography|title=Babel Web Anthology :: The page of Vajda János, English biography|work=babelmatrix.org|access-date=20 October 2015}}</ref>  He was a member of the [[Kisfaludy Society]].<ref>Szinnyei, József: ''[http://mek.oszk.hu/00300/00355/html/ABC16241/16294.htm Magyar írók élete és munkái XIV. (Telgárti–Zsutai)].'' Budapest. Hornyánszky. 1914.</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{commons category-inline|János Vajda}}
+
+{{Hungarian literature}}
+{{Authority control}}
+
+{{DEFAULTSORT:Vajda, Janos}}
+[[Category:1827 births]]
+[[Category:1897 deaths]]
+[[Category:19th-century Hungarian poets]]
+[[Category:Hungarian male poets]]
+[[Category:19th-century Hungarian male writers]]
+
+
+{{Hungary-writer-stub}}

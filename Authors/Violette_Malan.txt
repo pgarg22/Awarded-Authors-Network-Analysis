@@ -1,0 +1,46 @@
+{{short description|Canadian editor and fantasy writer}}
+{{BLP sources|date=January 2012}}
+
+{{Infobox person
+| name        = Violette Malan
+| image       = Violette Malan.jpg
+| alt         =
+| caption     = Malan at the 2012 [[Fan Expo Canada]]
+| birth_name  =
+| birth_date  = <!-- {{Birth date and age|YYYY|MM|DD}} or {{Birth-date and age|Month DD, YYYY}} -->
+| birth_place =
+| death_date  = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} or {{Death-date and age|Month DD, YYYY|Month DD, YYYY}} (death date then birth date) -->
+| death_place =
+| nationality =
+| other_names =
+| known_for   =
+| occupation  =
+}}
+'''Violette Malan''' is a Canadian editor and [[fantasy fiction|fantasy]] writer.<ref>{{cite news|url=http://juneauempire.com/stories/020907/boo_20070209001.shtml|title=Juneau libraries' new fiction shelves are captivating  |last=Ward|first=Kathy|date=9 February 2007|work=[[Juneau Empire]]|accessdate=23 April 2012}}</ref> She has a PhD in 18th-century English literature, and has worked as a teacher and a book reviewer.
+
+==Selected works==
+* ''Dead In The Water'' (editor with Therese Greenwood), 2006, Napoleon Publishing, {{ISBN|1-894917-37-5}}
+;The Mirror Prince series
+# ''The Mirror Prince'', 2006, [[DAW Books]], {{ISBN|0-7564-0339-1}}
+# ''Shadowlands '', 2012, DAW, {{ISBN|978-0-7564-0740-7}}
+;Dhulyn and Parno series
+# ''The Sleeping God'', 2007, DAW, {{ISBN|978-0-7564-0446-8}}
+# ''The Soldier King'', 2008, DAW, {{ISBN|978-0-7564-0516-8}}
+# ''The Storm Witch'', 2009, DAW, {{ISBN|978-0-7564-0574-8}}
+# ''Path of the Sun'', 2010, DAW, {{ISBN|978-0-7564-0638-7}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.violettemalan.com/ Violette Malan's official Web site]
+* {{isfdb name|name=Violette Malan|id=Violette_Malan}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Malan, Violette}}
+[[Category:Canadian fantasy writers]]
+[[Category:Canadian women novelists]]
+[[Category:Living people]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Year of birth missing (living people)]]

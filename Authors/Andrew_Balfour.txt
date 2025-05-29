@@ -1,0 +1,171 @@
+{{Short description|Scotland international rugby union player}}
+{{Cleanup bare URLs|date=May 2021}}
+{{other people}}
+{{Use dmy dates|date=August 2020}}
+{{Infobox rugby biography
+| name = Sir Andrew Balfour
+| image = Sir Andrew Balfour 1913.jpeg
+| caption =
+| birth_name = Andrew Balfour
+| birth_date = {{birth date|1873|3|21|df=y}}
+| birth_place = [[Edinburgh]], Scotland
+| death_date = {{Death date and age|1931|1|30|1873|3|21|df=yes}}
+| death_place = [[Penshurst]], England
+| height =
+| weight = 
+| school = [[George Watson's College]]
+| university = [[Edinburgh University]]<br />[[Gonville and Caius College, Cambridge|Caius, Cambridge]]
+| relatives = 
+| occupation = Medical officer
+| ru_position = [[Rugby union positions#Forwards|Forward]]
+| ru_nationalyears = 1896–1897
+| ru_nationalteam = [[Scotland national rugby union team|Scotland]]
+| ru_amateurclubs = [[Cambridge University R.U.F.C.|Cambridge University]]<br />[[Watsonians RFC|Watsonians]]
+| ru_coachclubs =
+| ru_coachyears =
+| website =
+| nickname =
+| ru_amateuryears = 
+| ru_amclubcaps =
+| ru_amclubpoints =
+| ru_amupdate =
+| ru_provinceyears = 
+| ru_province = {{nowrap|[[Edinburgh District (rugby union)|Edinburgh District]]}}
+| ru_provincecaps = 
+| ru_provincepoints =
+| ru_nationalcaps = 4
+| ru_nationalpoints = (0)
+| ru_ntupdate =
+| ru_coachupdate =
+| other =
+| spouse = 
+| children =
+|module2= {{Infobox officeholder | embed = yes
+   | office        = President of the Scottish Rugby Union
+   | term_start    = 1930
+   | term_end      = 1931
+   | predecessor        = [[A. G. G. Asher|Augustus Grant-Asher]]
+   | successor          = [[John Sturrock (rugby union)|John Sturrock]]
+   | prior_term         = 
+   | order = 51st
+ }}
+}}
+
+'''Sir Andrew Balfour''' {{postnominals|country=GBR|KCMG|CB}} (21 March 1873 – 30 January 1931) was a Scottish Medical Officer who specialised in [[tropical medicine]]. Balfour spent twelve years in [[Khartoum]], [[Sudan]] and was the Medical Officer of Health in the city. As well as writing medical publications, Balfour also wrote historical fiction and fantasy novels, the majority of which were published from 1897 to 1903. In his youth Balfour was also a notable sportsman playing [[rugby union]] for [[Cambridge University R.U.F.C.|Cambridge University]] in [[the Varsity Match]] and was selected to represent the [[Scotland national rugby union team|Scotland national team]].
+
+==Medical career==
+[[File:10 Henrietta Street, first home of the WBSR Wellcome L0041431.jpg|thumb|right|10 Henrietta Street, first home of the Wellcome Bureau of Scientific Research.]]
+Balfour was born in [[Edinburgh]] on 21 March 1873 to [[Thomas Alexander Goldie Balfour]].<ref name=Venn>{{acad|id=BLFR896A|name=Balfour, Andrew}}</ref> Balfour was educated at [[George Watson's College]] before matriculating to [[Edinburgh University]].
+
+He graduated from Edinburgh with a [[Bachelor of Medicine, Bachelor of Surgery|MB, CM]] degree in 1894 and joined his father's medical practice.<ref name="BMJ obit">{{cite journal | pmc=2313829 | title=Sir Andrew Balfour | date=7 February 1931 | pmid=20775996 | volume=1 | issue=3657 | journal=[[The British Medical Journal]] | pages=245–6}}</ref> Within two years of leaving Edinburgh University, Balfour returned to education when he entered [[Gonville and Caius College, Cambridge|Caius College]] at [[Cambridge University]] as an advanced student.<ref name=Venn/> Balfour spent his time in Cambridge specialising in the prevention of disease, the field in which he would concentrate the rest of his medical career. He studied under Kanthack, performing research work on [[typhoid fever]], and later spent a period of study at [[Strasbourg]], before taking the [[Professional degrees of public health|D.PH.]] at Cambridge in 1897.<ref name="BMJ obit"/>
+
+He completed his MD in Edinburgh in 1898; his thesis on the toxicity of dyestuffs in relation to river pollution winning him the student gold medal.<ref name="BMJ obit"/><ref>{{Cite journal|last=Balfour|first=Andrew|date=1898|title=The toxicity of the dye stuffs : with special reference to their effects upon the public health, and to river pollution|language=en|hdl=1842/27811}}</ref> He returned to the [[University of Edinburgh]] to earn a BSc in Public Health in 1900
+
+In April 1900, Balfour travelled to South Africa to serve as a civil surgeon in the [[Second Boer War]]. He was posted to [[Estcourt, KwaZulu-Natal|Estcourt]] as part of No. 7 General Hospital<ref name="Boer War">{{cite web | url=http://www.angloboerwar.com/people/surname_b.htm | title=Anglo Boer War - Personalities, Surname B | work=angloboerwar.com | accessdate=17 February 2010 | url-status=dead | archiveurl=https://web.archive.org/web/20100719211810/http://www.angloboerwar.com/people/surname_b.htm | archivedate=19 July 2010}}</ref> and later given duty at the pestilential typhoid camp in [[Pretoria]]. Later in the campaign he was put in charge of the British Garrison and Boer Laagers at [[Kaapsehoop]].<ref name="Boer War"/> While in South Africa, Balfour contracted typhoid and returned to England before the end of 1901.<ref name="BMJ obit"/> During his time in South Africa, he came under the influence of the prominent Scottish [[parasitology|parasitologist]] [[Patrick Manson]], and from this period he became an ardent student of tropical medicine.<ref name="BMJ obit"/>[[File:Wellcome Tropical Lab, Khartoum.jpeg|thumb|300px|left|Wellcome Tropical Research Laboratory, Khartoum. [[Henry Wellcome]] is sat centrally with white pith helmet on lap; Balfour is to his right.]]
+
+Balfour married in September 1902 to Grace, daughter of G Nutter of Sidcup,<ref name="Boer War" /> and the same year he was made the director of the Wellcome Tropical Research Laboratory in Khartoum in Sudan where he also took up the post of Medical Officer of Health. Within two years he was appointed sanitary advisor to the [[Politics of Sudan|Sudanese government]].<ref name="BMJ obit" /><ref>{{cite news|last1=Adeel|first1=Ahmed|title=Andrew Balfour, of Khartoum :A pioneer of tropical medicine worldwide|url=http://www.sudanjp.org/uploads/9/2/7/0/9270568/2013_1_hp_andrew_balfour_of_khartoum.pdf|accessdate=18 February 2016|work=Sudanese Journal of Paediatrics|issue=13:63–74|date=2013}}</ref> His new role within Sudan allowed Balfour to move in high-profile social circles, bringing him into contact with the likes of [[Lord Cromer]], [[Herbert Kitchener, 1st Earl Kitchener|Lord Kitchener]] and Sir [[Reginald Wingate]].<ref name="BMJ obit" /> During his time in Khartoum, he reduced deaths by [[malaria]] by 90 per cent through the removal of mosquito breeding grounds and improving the city's clean water systems and sanitation.<ref name="Wellcome Trust">{{cite web | url=http://www.wellcome.ac.uk/About-us/History/WTX052449.htm | title=Henry Wellcome's tropical medicine laboratories | work=Wellcome Trust | author=Penny Bailey | date=9 December 2008 | accessdate=17 February 2010}}</ref> In 1907 the [[Khedive]] awarded him the Fourth Class of the Imperial Ottoman [[Order of Osmanieh]].<ref>{{London Gazette|issue=28006|page=2001|date=22 March 1907}}</ref> The same period also saw Balfour contribute to four reports produced by the Wellcome Laboratory and in 1911 he co-wrote with Major R.G. Archibald a review of the advances in [[tropical medicine]], which anticipated the work of the Tropical Disease Bureau which was set up in 1912.<ref name="BMJ obit" />
+
+His time in Africa also saw Balfour oversee the introduction of a floating laboratory, a gift from Dr Henry Wellcome to the Sudan Government. This allowed the department to conduct scientific work in the upper reaches of the [[Nile]], and aided the understanding of diseases of the blood. Balfour's most notable work during this period was on [[Spirochaete|spirochaetosis]].<ref name="BMJ obit"/> He was appointed [[Companion of the Order of St Michael and St George]] in the 1912 [[King's Birthday Honours]].<ref>{{London Gazette|issue=28617|supp=y|pages=4299–4300|date=11 June 1912}}</ref> After suffering from ill-health in Africa,<ref name="Wellcome Trust"/> he returned to Britain in 1913, to found the Wellcome Bureau of Scientific Research in London, and to organise what would later become the [[Wellcome Museum of Medical Science]]. 1913 also saw Balfour travel South America and the West Indies for research purposes.<ref name="BMJ obit"/>
+
+With the outbreak of World War I, Balfour again joined the British war effort. Serving in the [[Royal Army Medical Corps]], he reached the rank of Lieutenant-Colonel. Originally posted in France in 1914, he was later a member of the medical advisory committee in [[Mudros]], [[Salonica]] and Egypt.<ref name="BMJ obit"/> After returning to England he was given the role of scientific adviser to the [[Surgeon-General (United Kingdom)|Inspector Surgeon General]] of the [[East African Campaign (World War I)|British forces in East Africa]].<ref name=Venn/> During the war he was appointed [[Companion of the Order of the Bath]] in the [[1918 New Year Honours]],<ref>{{London Gazette|issue=30450|supp=y|page=7|date=1 January 1918}}</ref> and was [[Mentioned in Despatches]] on 12 February 1918.<ref>{{London Gazette|issue=30521|supp=y|page=1933|date=8 February 1918}}</ref> He relinquished his commission on 31 May 1919.<ref>{{London Gazette|issue=31444|supp=y|page=8726|date=8 July 1919}}</ref> In 1920 he was awarded the Mary Kingsley award by the Liverpool School of Tropical Medicine.<ref>[http://www.lstmliverpool.ac.uk/about/mkmedal_winners.htm Mary Kingsley Medal, List of winners]{{dead link|date=October 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+[[File:LSHTM-2015-from GowerSt-03.jpg|alt=London School of Hygiene & Tropical Medicine, Keppel Street|left|thumb|London School of Hygiene & Tropical Medicine, Keppel Street]]
+
+In 1923 Balfour was appointed Director of the [[London School of Hygiene & Tropical Medicine]], and oversaw the construction of a new school. He also served as president of the [[Royal Society of Tropical Medicine and Hygiene]] in 1925–1927. His papers are available from the archives at the [[London School of Hygiene & Tropical Medicine]].<ref>{{Cite web |title= GB 0809 Balfour - Balfour, Sir Andrew (1873-1931) |url=http://calmview.lshtm.ac.uk/CalmView/Record.aspx?src=CalmView.Catalog&id=GB+0809+Balfour&pos=3 |access-date=2017-03-31 |website=calmview.lshtm.ac.uk |language=en}}</ref>
+
+In 1929 he suffered from a nervous breakdown, believed to have been caused by the pressures of his new post; and although the British Medical Journal reported he fully recovered;<ref name="BMJ obit" /> other sources state his breakdown was complete.<ref>{{Cite web |title=Chronology of LSHTM |url=http://www.lshtm.ac.uk/library/archives/chronology.html |url-status=dead |archive-url=https://web.archive.org/web/20090724191727/http://www.lshtm.ac.uk/library/archives/chronology.html |archive-date=24 July 2009 |access-date=19 July 2021 |website=lshtm.ac.uk}}</ref> In the [[1930 New Year Honours]] he was promoted [[Order of St Michael and St George|{{Abbr|KCMG|Knight Commander of the Order of St Michael and St George}}]], thus becoming Sir Andrew Balfour;<ref>{{London Gazette|issue=33566|supp=y|page=4|date=31 December 1929}}</ref> but was later admitted to [[Cassel Hospital]] in [[Penshurst]], Kent to be treated for clinical depression.
+
+His uncle was [[John Hutton Balfour]] botanist and 7th [[Regius Keeper of the Royal Botanic Garden Edinburgh]] and [[Her Majesty's Botanist]].
+
+==Rugby Union career==
+
+===Amateur career===
+
+Balfour was a keen sportsman, and as a youth was an amateur boxer and notable rugby player. His first came to note as a rugby player when he represented [[Watsonians RFC|Watsonians]], a club for former pupils of George Watson's College.
+
+===Provincial career===
+
+He was capped by [[Edinburgh District (rugby union)|Edinburgh District]] in [[1898–99 Scottish Districts season|1898]].<ref>{{Cite web |date=5 December 1898 |title=Google News Archive  |url=https://news.google.com/newspapers?id=PoxEAAAAIBAJ&sjid=RbUMAAAAIBAJ&pg=3794%2C5994353 |access-date=19 July 2021 |website=The Glasgow Herald}}</ref>
+
+===International career===
+[[File:Scotland 1896.jpg|thumb|right|250px|Balfour, back row second from left, with the 1896 Scotland team]]
+It was while representing Watsonians that he was selected to play for the Scotland national team, in the opening game of the [[1896 Home Nations Championship]] against Wales.<ref>{{Cite web |title=Andrew Balfour{{!}} Profile |url=http://www.espnscrum.com/scotland/rugby/player/1173.html |access-date=19 July 2021 |website=ESPN scrum}}</ref> At the age of 22, he was placed into his favoured position in the pack, in a Scottish team that contained two fellow Watsonians, [[Harry Smith (rugby union)|Harry Smith]] and [[Robin Welsh]]. Wales won the game by two [[Try (rugby)|tries]] to nil. Despite the loss, Balfour would play in the remaining two games of the tournament, a scoreless draw away against Ireland and then an impressive win over England, which gave Scotland the [[Calcutta Cup]] for the fourth successive year.<ref>{{cite book |last=Godwin |first=Terry |title=The International Rugby Championship 1883-1983 |year=1984 |publisher=Willow Books |location=London |page=48 |isbn=0-00-218060-X}}</ref> The following season (1896/97), Balfour had enrolled at Cambridge and won a place in the Cambridge University team. He played in the first of two [[The Varsity Match|Varsity Matches]] at the end of 1896 winning his first sporting 'Blue' in a victory over Oxford University.<ref>Marshall (1951), p. 94.</ref>
+
+Just a month later, the [[1897 Home Nations Championship]] was underway, but Balfour was not selected for the national team, and would not rejoin the team until the final match of the competition, an away encounter with England. Scotland lost the game and Balfour never represented the team again. Balfour was still in favour with Cambridge, and was part of the University team to win the Varsity Match in 1897.<ref>Marshall (1951), p. 97.</ref>
+
+===Administrative career===
+
+After his playing career came to an end, Balfour continued his association with rugby union as a supporter of [[London Scottish F.C.]], and became a national selector for the [[Scottish Rugby Union]].<ref name="BMJ obit" /> During the 1929/30 season, Balfour was made Vice-President of the Scottish Rugby Union, the President being [[A.G.G. Asher|Sir Augustus Asher]]. The next season Balfour took on the role of President of the SRU, but did not complete the term due to his untimely death.<ref>{{cite book |last=Thorburn |first=A.M.C. |title=The Scottish Rugby Union, Official History |year=1985 |publisher=Scottish Rugby Union and Collins Publishers|page=124 |isbn= 0-00-435697-7}}</ref>
+
+==Literary career==
+Outside the medical profession, for which he wrote several papers and publications, Balfour was also a keen writer of adventure novels. In 1897, while still at Cambridge University, he completed and saw published, his first novel ''By Stroke of Sword''. Balfour's novels were mainly historical adventures, often set in Scotland and many having connections with his own medical background. Balfour wrote three historical novels. ''By Stroke of Sword'' is about [[Cultural depictions of Mary, Queen of Scots|Mary, Queen of Scots]]. ''To Arms!'' is about the [[Jacobite rising of 1715]]. ''Vengeance Is Mine'' is about [[Cultural depictions of Napoleon|Napoleon]] during the [[Hundred Days]] period.<ref>McGarry,Daniel D.  White, Sarah Harriman, ''Historical Fiction Guide: Annotated Chronological, Geographical, and Topical List of Five Thousand Selected Historical Novels''. Scarecrow Press, 1963 (p.133, 173, 255).</ref> His final novel, ''The Golden Kingdom'' (1903) stands out as a [[Lost World (genre)|lost race]] novel, described by ''[[The Encyclopedia of Science Fiction]]'' as being "under the influence of [[H. Rider Haggard]] and [[Robert Louis Stevenson]]".<ref>{{cite encyclopedia|url=http://www.sf-encyclopedia.com/entry/balfour_andrew|title=Balfour, Andrew|encyclopedia=sf-encyclopedia.com|access-date=17 July 2015}}</ref>
+[[File:Balfour plaque 1.jpg|alt=Plaque to commemorate Sir Andrew Balfour at the London School of Hygiene & Tropical Medicine|thumb|Plaque to commemorate Sir Andrew Balfour at the [[London School of Hygiene & Tropical Medicine]]]]
+
+===Written works===
+[[File:The grave of Andrew Balfour, Grange Cemetery, Edinburgh.jpg|thumb|The grave of Andrew Balfour, [[The Grange, Edinburgh|Grange Cemetery]], Edinburgh]]
+'''Medical'''
+* ''Medicine, Public Health and Preventive Medicine'' (with C. J. Lewis, 1902)
+* ''Memoranda on Medical Diseases in Tropical and Sub-Tropical Areas'' (1916)
+* ''War Against Tropical Disease'' (1920)
+* ''Reports to the Health Committee of the League of Nations on Tuberculosis and Sleeping Sickness in Equatorial Africa'' (1923)
+* ''Health Problems of the Empire'' (with H. H. Scott, 1924)
+
+'''Novels'''
+* ''[[:commons:File:Andrew Balfour - By Stroke of Sword.pdf|By Stroke of Sword]]'' (1897)
+* ''To Arms!'' (1898) [https://openlibrary.org/b/OL342912M/To_arms! Available at OpenLibrary]
+* ''Vengeance is Mine'' (1899) [https://openlibrary.org/b/OL7215210M/Vengeance_is_mine Available at OpenLibrary]
+* ''Cashiered and Other War Stories'' (1902)
+* ''The Golden Kingdom'' (1903) [https://openlibrary.org/b/OL23402058M/golden_kingdom Available at OpenLibrary]
+
+== Death ==
+Balfour died in 1930 during his residence at Cassel Hospital. His frozen body was found on 30 January in the grounds of the hospital after he had fallen from a window.<ref name="LSoH&TM">{{cite web|url=http://www.aim25.ac.uk/cats/37/4036.htm|title=Sir Andrew Balfour (1873-1931)|work=London School of Hygiene and Tropical Medicine|accessdate=17 February 2010}}</ref><ref>{{cite book|last=Greenwood |first=David| title=Antimicrobial drugs: chronicle of a twentieth century medical triumph| publisher=Oxford University Press US |year=2008| page= 271| isbn=978-0-19-953484-5}}</ref> He was survived by his wife and two sons.
+
+He is buried in Edinburgh with his parents in [[Grange, Edinburgh|Grange Cemetery]]. The grave lies in the south-west section close to the central embankment containing the vaults. The headstone has fallen and is currently (2015) lying on its back.
+
+==Family==
+
+His daughter Margaret married the Edinburgh physician [[James Duncan (surgeon)|James Duncan]].<ref>{{Cite web |date=18 February 1917 |title=Heriot Row History - James Duncan |url=http://www.heriotrow.org/James-Duncan/ |access-date=19 July 2021 |website=Heriot Row History}}</ref>
+
+==References==
+{{wikisource author}}
+{{reflist|30em}}
+
+==Bibliography==
+* {{cite book |last=Marshall |first=Howard |author2=Jordon, J.P. |title=Oxford v Cambridge, The Story of the University Rugby Match |year=1951 |publisher=Clerke & Cockeran|location=London }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Balfour, Andrew}}
+[[Category:1873 births]]
+[[Category:1931 deaths]]
+[[Category:Medical doctors from Edinburgh]]
+[[Category:People educated at George Watson's College]]
+[[Category:Alumni of Gonville and Caius College, Cambridge]]
+[[Category:Alumni of the University of Edinburgh]]
+[[Category:19th-century Scottish medical doctors]]
+[[Category:20th-century Scottish medical doctors]]
+[[Category:Scottish rugby union players]]
+[[Category:Rugby union forwards]]
+[[Category:Cambridge University R.U.F.C. players]]
+[[Category:Scotland international rugby union players]]
+[[Category:Companions of the Order of the Bath]]
+[[Category:Knights Commander of the Order of St Michael and St George]]
+[[Category:People of the Second Boer War]]
+[[Category:British Army personnel of World War I]]
+[[Category:Royal Army Medical Corps officers]]
+[[Category:Deaths by defenestration]]
+[[Category:Scottish historical novelists]]
+[[Category:Scottish medical writers]]
+[[Category:Scottish fantasy writers]]
+[[Category:Victorian novelists]]
+[[Category:Scottish people of the British Empire]]
+[[Category:Burials at the Grange Cemetery]]
+[[Category:Scottish knights]]
+[[Category:Scottish soldiers]]
+[[Category:Edinburgh District (rugby union) players]]
+[[Category:Watsonians RFC players]]
+[[Category:Presidents of the Scottish Rugby Union]]
+[[Category:Writers of historical fiction set in the early modern period]]
+[[Category:Writers of historical fiction set in the modern age]]
+[[Category:Writers from Edinburgh]]
+[[Category:Rugby union players from Edinburgh]]

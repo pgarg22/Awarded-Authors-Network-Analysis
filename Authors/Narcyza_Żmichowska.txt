@@ -1,0 +1,68 @@
+{{Infobox writer
+| image        = File:Beyer - Narcyza Żmichowska.jpg
+| caption      =
+| pseudonym    = Gabryella
+| birth_date   = {{birth date|1819|3|4|df=y}}
+| birth_place  = [[Warsaw]], [[Congress Poland]]
+| death_date   = {{death date and age|1876|12|24|1819|3|4|df=y}}
+| death_place  = Warsaw, Congress Poland
+| occupation   = [[Governess]]
+| nationality  = Polish
+| genre        = Feminist [[novelist]] and [[poet]]
+| movement     = [[Modernism]]
+| language     = Polish
+| influences   =
+| influenced   =
+| notableworks = ''The Heathen''
+| awards       =
+}}
+'''Narcyza Żmichowska''' {{IPA-pl|narˈt͡sɨza ʐmʲiˈxɔfska|pron}} ([[Warsaw]], 4 March 1819 – 24 December 1876, Warsaw), also known under her popular ''[[nom de plume]]'' '''Gabryella''', was a [[Poland|Polish]] [[novelist]] and [[poet]]. She is considered a precursor of [[feminism in Poland]].
+
+== Life ==
+Żmichowska became [[governess]] for the noble [[House of Zamoyski]] in 1838. She went with her employer to Paris, where she reunited with her brother Erazm, Polish revolutionary, exiled from the [[Russian Partition]] after the anti-Tsarist [[November Uprising]] crushed by the imperial army. Her brother's political and social views greatly influenced Narcyza. On his advice, she enrolled at the [[Bibliothèque Nationale]], and became one of the first women at the [[French Academy]] ever.<ref name="archive.org" /><ref name="czytelnia.onet" /><ref name="nic-tak-samo" />
+[[File:Manor of Kraszewski family in Romanów - Exhibition hall - 18.jpg|thumb|Narcyza Żmichowska by Władysław Radzikowski, bust at the [[Historical Museum of Kraków]], 1880s]]
+Her stay in France completely changed Żmichowska. She began to publicly express her radicalized views about women; dubbed by her bourgeois surroundings as "an excentric". She smoked cigars, which was prohibited to women. Her perfect knowledge of French enabled Narcyza to find new employment easily upon her return to occupied Poland. She became governess to four children of Stanisław Kisielecki at an estate near [[Łomża]]. She travelled to [[Warsaw]] frequently, where she met with other intellectuals. She debuted in the literary magazine ''Pierwiosnek'' (Primrose), and wrote regularly for other Polish magazines under the Russian censorship including ''Pielgrzym'' (edited by [[Eleonora Ziemięcka]]) and ''Przegląd Naukowy'', where other women published as well. Żmichowska founded a group of [[Suffragettes]] in Warsaw active in 1842–1849, who also took part in anti-Tsarist activities.<ref name="archive.org" /><ref name="czytelnia.onet" /><ref name="nic-tak-samo" /> She was arrested by the Russians in [[Lublin]] and sentenced to three years in prison in 1849 for her membership in the delegalized ''Związek Narodu Polskiego'' [[:pl:Związek Narodu Polskiego (1839)|(pl)]].<ref name="pwn" />
+
+Żmichowska's first novel published in 1846 was ''Poganka'' (''The Heathen''), in which she is known to have expressed interest in her friend Paulina Zbyszewska. The book was published by Northern Illinois University Press in 2012 in English translation by Dr Ursula Phillips.<ref name="archive.org" /> Letters to friends and family written by Żmichowska were published in five volumes by [[Wrocław University]] in 1960. There, she also expressed interest in a married man, Edward Dembowski, which led to a known scandal. Her correspondence with Bibianna Moraczewska (an unmarried woman by choice like Narcyza) spanning 32 years consisted mostly of intellectual discourses.<ref name="archive.org" />
+
+== Works ==
+* ''Poganka'' (''The Heathen'') {{OCLC|10016526}}
+* ''Książka pamiątek'' (''The Book of Mementos'')
+* ''Dwoiste życie'' (''Double Life'')
+* ''Czy to powieść?'' (''Is that a Novel?'') {{OCLC|26836636}}
+* ''Ścieżki przez życie'' (''Paths through Life'') {{OCLC|4232707}}
+* ''Biała róża'' (''White Rose'') {{OCLC|28856696}}
+* ''Wolne chwile Gabryelli'' (''Gabriela's Free Moments'')
+* ''Wykład nauk przeznaczonych do pomocy w domowym wychowaniu panien'' (''Lectures on Bringing up Girls'')
+* ''Wybór powieści'' (Collection of Novels and Novellas) {{OCLC|3277138}}
+
+== See also ==
+* [[List of feminist literature#1840s]]
+
+== References ==
+{{reflist|refs=
+<ref name="archive.org">Maria Woźniakiewicz-Dziadosz, [https://web.archive.org/web/20050523132959/http://www.annales.umcs.lublin.pl/FF/2002_2003/31.pdf Dzieje przyjaźni entuzjastek w świetle listów Narcyzy Żmichowskiej do Bibianny Moraczewskiej] (PDF file, direct download 81.7 KB) [[Lublin University]].</ref>
+<ref name="czytelnia.onet">Marta Mizuro, [https://web.archive.org/web/20050226151528/http://czytelnia.onet.pl/0,1157271,do_czytania.html Barbara Winklowa: Narcyza Żmichowska i Wanda Żeleńska], {{ISBN|978-83-08-03496-5}} Onet.pl book review.</ref>
+<ref name="nic-tak-samo">A. Gruszczyńska, [https://web.archive.org/web/20080925232121/http://www.nic-tak-samo.uni.wroc.pl/teksty/gruszczynska.html Ślady ruchu lesbijskiego.] [[University of Wrocław]].</ref>
+<ref name="pwn">{{cite encyclopedia|title=Żmichowska Narcyza |encyclopedia=[[Internetowa encyklopedia PWN]] |url=http://encyklopedia.pwn.pl/haslo/;4003004 |accessdate=25 October 2014 |url-status=dead |archiveurl=https://web.archive.org/web/20141025142441/http://encyklopedia.pwn.pl/haslo/;4003004 |archivedate=October 25, 2014}}</ref>
+}}
+* ''This article incorporates information from [[:pl:Narcyza Żmichowska|the equivalent article]] on the [[Polish Wikipedia]].''
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zmichowska, Narcyza}}
+[[Category:1819 births]]
+[[Category:1876 deaths]]
+[[Category:Polish feminists]]
+[[Category:Polish women poets]]
+[[Category:Polish women novelists]]
+[[Category:19th-century Polish novelists]]
+[[Category:19th-century Polish poets]]
+[[Category:19th-century Polish women writers]]
+[[Category:19th-century Polish writers]]
+[[Category:Polish women's rights activists]]
+[[Category:Governesses]]
+[[Category:Writers from Warsaw]]
+[[Category:Burials at Powązki Cemetery]]
+[[Category:19th-century pseudonymous writers]]
+[[Category:Pseudonymous women writers]]

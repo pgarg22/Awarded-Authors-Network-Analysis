@@ -1,0 +1,71 @@
+{{Short description|British writer}}
+{{Use dmy dates|date=December 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image = 
+|imagesize = 150px |
+ | name        = David Rain
+ | caption     = 
+ | pseudonym   = Tom Arden 
+ | birth_date  = {{birth date|df=yes|1961|5|2}}
+ | birth_place = [[Mount Gambier, South Australia]]
+ | death_date  = {{death date and age|df=y|2015|12|15|1961|5|2}}
+ | death_place = London, England 
+ | occupation  = Writer
+ | nationality = British
+ | period      = 1997–2014
+ | genre       = Fantasy, Science fiction
+ | subject     = 
+}}
+
+'''David Rain''' (2 May 1961 – 15 December 2015), known by his [[pen name]] '''Tom Arden''',  was a British [[science fiction]] and [[fantasy]] writer. He was born in Australia. His main work is the five volume ''Orokon'' saga, as well as the novels ''Shadow Black'', ''The Translation of Bastian Test'' and the [[Telos Doctor Who novellas|Doctor Who novella]] ''[[Nightdreamers]]''.
+
+Arden was born in 1961 and grew up in [[Mount Gambier, South Australia]]. He wrote his first unpublished novel, ''Moon Escape'' at the age of seven and later studied English at the [[University of Adelaide]], graduating with [[First Class Honours]]. Arden completed his [[Ph.D.]] [[thesis]] on ''[[Clarissa]]'', the epic tale by 18th-century novelist [[Samuel Richardson]].<ref>[http://www.sfsite.com/05b/ta104.htm Interview], by Neil Walsh at the [[SF Site]], published April 2001; retrieved 26 February 2017.</ref>
+
+In 1990, he moved to the United Kingdom, living in Northern Ireland and England. He lectured in English at [[Queen's University of Belfast]] for seven years. Since 2003, he lectured [[creative writing]] at [[Middlesex University]], London.<ref>{{Cite web|title=Rain, David|url=http://www.mdx.ac.uk/about-us/our-people/staff-directory/rain-david|website=mdx.ac.uk|accessdate=16 December 2015|archiveurl=https://web.archive.org/web/20140804115315/http://www.mdx.ac.uk/about-us/our-people/staff-directory/rain-david|archivedate=4 August 2014|publisher=Middlesex University London}}</ref> 
+
+==Death==
+Arden died of cancer on 15 December 2015.{{Where|date=December 2017}}<ref name="Locus">{{Cite web|title=Locus Online News » Tom Arden (1961-2015)|url=http://www.locusmag.com/News/2015/12/tom-arden-1961-2015|website=locusmag.com|accessdate=16 December 2015|url-status=dead|archiveurl=https://web.archive.org/web/20151220021627/http://www.locusmag.com/News/2015/12/tom-arden-1961-2015|archivedate=20 December 2015|df=dmy-all}}</ref>
+
+==Bibliography==
+===The Orokon===
+# ''The Harlequin's Dance'' (1997)
+# ''The King and Queen of Swords'' (1998)
+# ''Sultan of the Moon and Stars'' (1999)
+# ''Sisterhood of the Blue Storm'' (2000)
+# ''Empress of the Endless Dream'' (2001)
+
+===Other novels===
+# ''Shadow Black'' (2002) – gothic mystery
+# ''The Translation of Bastian Test'' (2005) – science fiction
+# As David Rain: ''The Heat of the Sun'' (2012)
+# As David Rain: ''Volcano Street'' (2014)
+
+===Other writings===
+# ''[[Nightdreamers]]'' (original novella) based on the television series ''[[Doctor Who]]''.
+# Short stories for UK publication ''[[Interzone (magazine)|Interzone]]'': "The Indigenes" (IZ 136), "The Volvax Immersion" (IZ 143).
+# Articles have been published in the British Fantasy Society magazine ''Prism''.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://davidrain.net Official Website]
+* {{isfdb name|id=Tom_Arden|name=Tom Arden}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Arden, Tom}}
+[[Category:1961 births]]
+[[Category:2015 deaths]]
+[[Category:Australian science fiction writers]]
+[[Category:Australian fantasy writers]]
+[[Category:British science fiction writers]]
+[[Category:British fantasy writers]]
+[[Category:Deaths from cancer in England]]
+[[Category:20th-century pseudonymous writers]]
+[[Category:21st-century pseudonymous writers]]
+[[Category:University of Adelaide alumni]]
+[[Category:Academics of Queen's University Belfast]]
+[[Category:Academics of Middlesex University]]
+
+{{Australia-writer-stub}}

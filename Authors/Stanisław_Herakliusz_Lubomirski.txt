@@ -1,0 +1,101 @@
+{{Infobox noble|type
+| name              = <small>Prince</small><br>Stanisław Herakliusz<br>Lubomirski
+| title             = 
+| image             = Stanisław Herakliusz Lubomirski.PNG
+| image_size        = 250px
+| caption           = Stanislaw Herakliusz Lubomirski
+| alt               = 
+| CoA               = [[Lubomirski coat of arms|Lubomirski]]
+| more              = no 
+| reign             = 
+| reign-type        = 
+| predecessor       = 
+| successor         = 
+| suc-type          = 
+| succession        = 
+| spouse            = {{unbulleted list| [[Zofia Opalińska]] | [[Elżbieta Doenhoff]]}}
+| spouse-type       = Consorts
+| issue             = 
+| issue-link        = 
+| issue-pipe        = 
+| full name         = 
+| styles            = 
+| titles            = 
+| noble family      = [[Lubomirski]]
+| house-type        = 
+| father            = [[Jerzy Sebastian Lubomirski]]
+| mother            = [[Konstancja Ligęza]]
+| birth_date        = {{birth-date|4 March 1642}}
+| birth_place       = [[Niepołomice]] or [[Wiśnicz]]
+| christening_date  = 
+| christening_place = 
+| death_date        = {{d-da|17 January 1702|4 March 1642}}
+| death_place       = Jazdów ([[Warsaw]])
+| burial_date       = 
+| burial_place      = 
+| occupation        = 
+}}
+
+Prince '''Stanisław Herakliusz Lubomirski''' a.k.a. "'''Mirobulius Tassalinus'''" (4 March 1642 &ndash; 17 January 1702) was a [[Poland|Polish]] [[szlachcic|noble]], politician, patron of the arts and writer.<ref>[http://staropolska.pl/ang/baroque/Lubomirski/Lubomirski.php3 Stanisław Herakliusz Lubomirski (1641–1702) Biography by Michael J. Mikoś.]</ref>
+
+==Biography==
+Lubomirski was the son of Marshal and [[Hetman]] [[Jerzy Sebastian Lubomirski]] and [[Konstancja Ligęza]]. He was married to Zofia Opalińska, the daughter of Court Marshal [[Łukasz Opaliński (1612-1666)|Łukasz Opaliński]], in 1669 and to Elżbieta Doenhoff in 1676.
+
+He was [[Podstoli]] of the Crown from 1669, [[Marszałwek|Court Marshal of the Crown]] from 1673, [[Grand Marshal of the Crown]] from 1676 and [[starost]] of [[Spisz]].
+
+Lubomirski fought in wars against [[Sweden]] and [[Hungary]].  He participated with his father in the siege of [[Toruń]] in 1658. He refused to join the [[Lubomirski Rokosz|rokosz]] of his father and try to mediate between the [[rokosz]]ans and the king.
+
+He was a proponent of the [[vivente rege]] [[Royal elections in Poland|elections]] and supporter of the politics of queen [[Ludwika Maria Gonzaga|Ludwika Maria]].
+
+He performed numerous diplomatic missions to France, Italy and Spain. He was against the abdication of king [[John II of Poland|Jan II Kazimierz]] in 1668. From 1667 he was frequently deputy for the Sejm.
+
+Owing to his experience and authority, the Sejm session in 1670 was not broken like the two sessions before, which were aborted by a [[Liberum veto|veto]].
+
+During the interregnum in 1673&ndash;1674 he supported the candidature of his friend, [[Jan III Sobieski|Jan Sobieski]] for the Polish throne.
+
+In contrast to his father, he was free of private ambitions and always acted according to the interests of the [[Polish–Lithuanian Commonwealth|Republic]].
+
+He was variously talented. He became famous outside of Poland as the author of literary and scientific works. He wrote poems, plays and philosophical, religious and historical tracts. He was the founder and benefactor of schools and churches. 
+ 
+As [[Sejm Marshal]] he led the [[Election Sejm]] from 2 May to 19 June 1669 and the ordinary [[Sejm]] from 9 September to 31 October 1670 in [[Warsaw]].
+
+==Children==
+* [[Elżbieta Sieniawska|Elżbieta Lubomirska]] married Hetman [[Adam Mikołaj Sieniawski]]. 
+* [[Teodor Lubomirski]] became [[starost]], [[voivode]] and Sejm Marshal. 
+* [[Franciszek Lubomirski]] became General of the Crown Army.
+* [[Józef Lubomirski]] became voivode.
+
+==Works==
+* ''Poezje postu Świętego'' (including ''[[Sonnet on the Great Suffering of Jesus Christ]]'')
+* ''Tobiasz wyzwolony'', ''Ecclesiastes''
+* ''Ermida'' (sielanka)
+* ''Rozmowy Artaksesa i Ewandra'' (1683)
+* ''De vanitate consiliorum'' (1700)
+* ''De remediis animi humani'' (1701)
+* ''Genii veredici''
+
+==References==
+<references/>
+
+== External links ==
+*[http://staropolska.pl/ang/baroque/Lubomirski/Moment.php3  Stanisław Herakliusz Lubomirski, A Quiet Moment Comes After a Storm. Translated by Michael J. Mikoś.]
+*[http://staropolska.pl/ang/baroque/Lubomirski/Somnus.php3  Stanisław Herakliusz Lubomirski, Somnus. Translated by Michael J. Mikoś.]
+*[http://staropolska.pl/ang/baroque/Lubomirski/Sonnet.php3 Stanisław Herakliusz Lubomirski, Sonnet on the Great Suffering of Jesus Christ. Translated by Michael J. Mikoś.]
+   
+{{Commons category}}
+
+{{Grand Marshals of the Crown}}
+{{Court Marshals of the Crown}}
+{{Sejm Marshals of the Polish-Lithuanian Commonwealth}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lubomirski, Stanislaw Herakliusz}}
+[[Category:Secular senators of the Polish–Lithuanian Commonwealth]]
+[[Category:Polish Princes of the Holy Roman Empire]]
+[[Category:Polish male dramatists and playwrights]]
+[[Category:1642 births]]
+[[Category:1702 deaths]]
+[[Category:Lubomirski family|Stanislaw Herakliusz]]
+[[Category:17th-century Polish dramatists and playwrights]]
+[[Category:17th-century male writers]]

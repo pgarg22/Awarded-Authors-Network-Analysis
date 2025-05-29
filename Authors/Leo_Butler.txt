@@ -1,0 +1,106 @@
+{{short description|British playwright|bot=PearBOT 5}}
+{{Use dmy dates|date=November 2013}}
+{{Use British English|date=November 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Leo Butler
+| image        = Leo Butler Playwright.jpg
+| imagesize    = 
+| caption      = 
+| birth_date   = {{birth year and age|1974}}
+| birth_place  = [[Sheffield]], [[England]]
+| occupation   = [[Playwright]], [[Screenwriter]]
+| notableworks = ''[[Redundant (play)|Redundant]]'' (2001)<br/>''[[Lucky Dog (play)|Lucky Dog]]'' (2004)<br/>''[[Boy (play)]]''  (2016)
+}}
+
+'''Leo Butler''' (born 1974 in [[Sheffield]]) is a British playwright. His plays have been staged, among others, by the [[Royal Court Theatre|Royal Court]], the [[Royal Shakespeare Company]] and the [[Almeida Theatre]].<ref>http://www.doollee.com/PlaywrightsB/butler-leo.html Profile at doolee.com</ref> His plays have been published by Bloomsbury [[A & C Black]].<ref name="A&C Black">{{cite web|url=http://www.acblack.com/Catalogue/details.asp?sku=1425305&dept_id=7&mscssid=R2N2M3SLV9A98LFF9RTXXRWK5EPL10RE|title=404|last=skyron.co.uk|url-status=dead|archive-url=https://archive.is/20120726231328/http://www.acblack.com/Catalogue/details.asp?sku=1425305&dept_id=7&mscssid=R2N2M3SLV9A98LFF9RTXXRWK5EPL10RE|archive-date=26 July 2012|df=dmy-all}}</ref> His 2001 play [[Redundant (play)|Redundant]] won the [[George Devine Award]].  Between 2005 and 2014 he was Playwriting Tutor for the [[Royal Court Theatre|Royal Court]] Young Writers Programme.<ref>{{cite web|url=http://matttrueman.co.uk/2013/08/teach-first-acts-duncan-macmillan-leo-butler.html|title=Teach First Acts – Duncan Macmillan & Leo Butler – Matt Trueman}}</ref>
+
+==Plays==
+
+*''[[Made Of Stone(play)|Made of Stone]]'' (2000) premiered as part of the Young Writers' Festival at [[Royal Court Theatre]], directed by Deborah Bruce
+*''[[Redundant (play)|Redundant]]'' (2001) premiered at [[Royal Court Theatre]], directed by [[Dominic Cooke]]<ref>{{citation
+  | title = Redundant
+  | work = Royal Court Theatre
+  | url = http://www.royalcourttheatre.com/whats-on/redundant
+  | year = 2001
+  }}</ref>
+*''Devotion'' (2002) produced by [[Theatre Centre]] premiered at Redbridge Drama Centre, directed by Liam Steel<ref>{{cite web|url=http://www.theatre-centre.co.uk/shows/2002/devotion/|title=Devotion – Shows – Theatre Centre}}</ref>
+*''[[Lucky Dog (play)|Lucky Dog]]'' (2004) premiered at [[Royal Court Theatre]], directed by [[James Macdonald (director)|James Macdonald]]<ref>{{citation
+  | title = Lucky Dog
+  | work = Royal Court Theatre
+  | url = http://www.royalcourttheatre.com/whats-on/lucky-dog
+  | year = 2004
+  }}</ref>
+*''[[The Early Bird (play)|The Early Bird]]'' (2006) premiered at Queen's Theatre in the [[Belfast Festival at Queen's|Belfast Festival]], directed by [[Rachel O'Riordan]]<ref>{{cite web|url=http://www.irishplayography.com/play.aspx?playid=2924|title=PlayographyIreland – The Early Bird}}</ref>
+*''Heroes'' (2007) premiered by touring with the [[Royal National Theatre|National Theatre]], directed by Samantha Potter<ref>{{cite web |url=http://d1wf8hd6ovssje.cloudfront.net/documents/Heroes_wkpk.pdf |title=Archived copy |access-date=2015-06-23 |url-status=dead |archive-url=https://web.archive.org/web/20150624034842/http://d1wf8hd6ovssje.cloudfront.net/documents/Heroes_wkpk.pdf |archive-date=24 June 2015 |df=dmy-all }}</ref>
+*''Airbag'' (2007) a collaboration with Nigerian choreographer Anthony Odey, premiered as a Rough Cut at the [[Royal Court Theatre]]<ref>{{cite web|url=http://www.doollee.com/PlaywrightsB/butler-leo.html#87990|title=Leo Butler}}</ref>
+*''[[I'll Be The Devil]]'' (2008) produced by the [[Royal Shakespeare Company]], premiered at [[Tricycle Theatre]], directed by [[Ramin Gray]]<ref>{{citation
+  | title = I'll Be The Devil
+  | work = Tricycle Theatre
+  | url = http://www.tricycle.co.uk/home/about-the-tricycle-pages/about-us-tab-menu/archive/archived-theatre-production/ill-be-the-devil-2/
+  | year = 2008
+  }}</ref>
+*''[[Faces In The Crowd (play)|Faces In The Crowd]]'' (2008) premiered at [[Royal Court Theatre]], directed by [[Clare Lizzimore]]<ref>{{citation
+  | title = Faces In The Crowd
+  | work = Royal Court Theatre
+  | url = http://www.royalcourttheatre.com/whats-on/faces-in-the-crowd
+  | year = 2008
+  }}</ref>
+*''[[Juicy Fruits]]'' (2011) produced by [[Paines Plough]], premiered at Oran Mor, directed by George Perrin<ref>{{citation
+ |title       = Juicy Fruits
+ |work        = Oran Mor
+ |url         = http://www.painesplough.com/current-programme/by-date/juicy-fruits
+ |year        = 2011
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20111015044231/http://www.painesplough.com/current-programme/by-date/juicy-fruits
+ |archive-date = 15 October 2011
+ |df          = dmy-all
+}}</ref>
+* ''Alison! : A Rock Opera'' (2012) co-written with Dan Persad premiered at [[King's Head Theatre]], directed by Nick Bagnall<ref>{{citation
+  | title = Alison! A Rock Opera
+  | work = King's Head Theatre
+  | url = http://www.alisonrockopera.com
+  | year = 2012
+  }}</ref>
+* ''Could You Please Close The Door Please?'' (2012) premiered at Berlin [[Schaubuhne]] as part of the Festival of International Drama.<ref>{{Cite web|url=https://www.schaubuehne.de/uploads/FIND2012_ENGL.pdf|title = F.I.N.D Festival 2012|access-date=2018-12-26}},</ref>
+* ''Sixty-Nine'' (2012) premiered at [[The Pleasance]] Courtyard, [[Edinburgh Festival Fringe]], directed by Donnacadh O'Briain<ref>{{citation
+  | title = Sixty-Nine
+  | work = Pleasence, Courtyard
+  | url = http://www.scotsman.com/what-s-on/theatre-comedy-dance/interview-donnacadh-o-briain-director-of-peep-1-2453230
+  | year = 2012
+  }}</ref>
+* ''Do It!'' (2013) premiered at [[Royal Court Theatre]] Open Court Season, directed by Ned Bennett.<ref>http://doollee.com/PlaywrightsB/butler-leo.php#183943</ref>
+* ''[[Boy (play)|Boy]]'' (2016) premiered at the [[Almeida Theatre]], directed by Sacha Wares<ref>{{Cite web|title = Boy|url = http://www.almeida.co.uk/whats-on/boy/5-apr-2016-28-may-2016|website = Almeida Theatre|access-date = 2016-01-19}}</ref>
+* ''Decades'' (2016) premiered at the [[Ovalhouse]] theatre, produced and performed by the [[BRIT School]], directed by Eva Sampson.<ref>{{cite web|url=http://www.ovalhouse.com/whatson/detail/decades|title=Decades by Leo Butler – Ovalhouse|first=Debbie|last=Vannozzi}}</ref>
+* ''[[Woyzeck]]'' (2018) an adaptation of Georg Buchner's original play premiered at [[Birmingham Repertory Theatre]], directed by Roxana Silbert.<ref>{{Cite news|url=https://www.birmingham-rep.co.uk/whats-on/woyzeck.html|title=Woyzeck|access-date=2018-04-01}}</ref>
+* ''All You Need Is LSD'' (2018) produced by Told By An Idiot theatre company, premiered at [[Birmingham Repertory Theatre]], directed by Paul Hunter and Stephen Harper.<ref>{{Cite news|url=https://www.toldbyanidiot.org/productions/all-you-need-lsd|title=All You Need Is LSD}}</ref>
+* ''Meet Mo'' (2020) short musical composed by Leo Butler, produced online by [[Theatre Royal Stratford East]], directed by Eva Sampson.<ref>{{cite web|url=https://www.stratfordeast.com/news/press-play-here|title=Meet Mo}}</ref>
+
+==Film==
+
+*''Self Made'' (2011 feature) co-written with [[Gillian Wearing]], UK Film Council/Northern Film & Media, premiered at the [[London Film Festival]] 2011.<ref>{{citation
+  | title = Self Made
+  | work = UK Film Council
+  | url = https://www.imdb.com/title/tt1732159/
+  | year = 2011
+  }}</ref>
+
+==Television==
+
+*''Jerusalem the Golden'' (2002) single drama produced by BBC Four/Fictionlab, directed by Louis Caulfield, starring Rudolph Walker and Eddie Marsan.  <ref>https://www.hike.co.uk/dir-2</ref>
+
+==Music==
+*''[[Alison! A Rock Opera]]'' (2012) a rock opera, written by Leo Butler and Dan Persad. <ref>https://www.timeout.com/london/theatre/alison-a-rock-opera</ref> 
+* ''The Collective Psychosis of the 21st Century'' (2017) an album of songs written & performed by Leo Butler and Dan Persad <ref>https://music.apple.com/us/album/the-collective-psychosis-of-the-21st-century/1190686566</ref>
+
+==Notes==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Butler, Leo}}
+[[Category:1974 births]]
+[[Category:Living people]]
+[[Category:Writers from Sheffield]]
+[[Category:English dramatists and playwrights]] 
+[[Category:Alumni of Rose Bruford College]]
+[[Category:English male dramatists and playwrights]]

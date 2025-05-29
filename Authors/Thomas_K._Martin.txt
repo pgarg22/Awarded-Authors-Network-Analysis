@@ -1,0 +1,51 @@
+{{short description|American fantasy author (born 1960)}}
+{{other people|Thomas Martin}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image = 
+|imagesize = 150px |
+| name        = Thomas Kieth Martin
+| caption     = 
+| pseudonym   = 
+| birth_date  = {{Birth date and age|1960|9|25|mf=y}}
+| birth_place = [[Middlesboro, Kentucky|Middlesboro]], [[Kentucky]]
+| death_date  = 
+| death_place = 
+| occupation  = [[Fantasy author]]
+| nationality = American
+| period      = 1992–present
+| genre       = 
+| subject     = 
+| movement    = 
+| influences  = 
+| influenced  = 
+| signature   = 
+| website     = 
+}}
+
+'''Thomas Kieth Martin''' (born [[Middlesboro, Kentucky|Middlesboro]], [[Kentucky]], September 25, 1960) is an American [[fantasy authors|fantasy author]].
+
+==Books==
+===The Delgroth Trilogy===
+*''[[A Two-Edged Sword]]'' (1994) {{ISBN|0-441-83344-6}}
+*''[[A Matter of Honor (novel)|A Matter of Honor]]'' (1994) {{ISBN|0-441-00107-6}}
+*''[[A Call to Arms (novel)|A Call to Arms]]'' (1995) {{ISBN|0-441-00242-0}}
+
+===Magelord Trilogy===
+*''[[Magelord: The Awakening]]'' (1997) {{ISBN|0-441-00435-0}}
+*''[[Magelord: The Time of Madness]]'' (1998) {{ISBN|0-441-00533-0}}
+*''[[Magelord: The House of Bairn]]'' (1999) {{ISBN|0-441-00623-X}}
+
+==External links==
+*[http://members.tripod.com/~TKMartin/ Thomas K. Martin homepage]
+*[http://www.sff.net/people/tkmartin/mybooks.htp Books by Thomas K. Martin]
+*{{isfdb name|id=Thomas_K._Martin|name=Thomas K. Martin}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Martin, Thomas K.}}
+[[Category:1960 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:20th-century American male writers]]

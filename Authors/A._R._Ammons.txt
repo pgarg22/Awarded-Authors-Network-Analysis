@@ -1,0 +1,165 @@
+{{short description|American poet}}
+{{Use mdy dates|date=April 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = A. R. Ammons 
+| image = A R Ammons 1998.jpg
+| caption = Ammons in 1998
+| birth_date = {{birth date|1926|2|18|mf=y}}
+| birth_place = near [[Whiteville, North Carolina]]
+| death_date = {{Death date and age|2001|2|25|1926|2|18}} 
+| death_place = [[Ithaca, New York]]
+| occupation = {{flatlist|
+* Poet
+* columnist
+* essayist
+}}
+| nationality = American
+| ethnicity = 
+| education = [[Wake Forest University]]<br/>[[University of California, Berkeley]]
+| period = 
+}}
+'''Archie Randolph Ammons''' (February 18, 1926 – February 25, 2001) was an American [[poet]] who won the annual [[National Book Award for Poetry]] in 1973 and 1993.<ref name=nba1973/><ref name=nba1993/>
+
+==Poetic themes==
+
+Ammons wrote about humanity's relationship to nature in alternately comic and solemn tones. His poetry often addresses religious and philosophical matters and scenes involving nature, almost in a Transcendental fashion. According to reviewer Daniel Hoffman, his work "is founded on an implied Emersonian division of experience into Nature and the Soul," <ref>{{cite web |url=https://www.poetryfoundation.org/poems-and-poets/poets/detail/a-r-ammons |title=A. R. Ammons |date=May 26, 2021 |publisher=Poetry Foundation |access-date=August 15, 2016<!-- orig source is NY Times Review, need that one -->}}</ref> adding that it "sometimes consciously echo[es] familiar lines from Emerson, Whitman and Dickinson."{{citation needed|date=August 2016}}
+
+==Life==
+Ammons grew up on a tobacco farm near [[Whiteville, North Carolina]], in the southeastern part of the state. He served as a sonar operator in the U.S. Navy during World War II, stationed on board the [[USS Gunason]], a destroyer escort.<ref>Gantt, Patricia (1992). "The A.R. Ammons Papers: Bits of Resistance Against Time."  ''North Carolina Literary Review 1: 164–165.''</ref> After the war, Ammons attended [[Wake Forest University]], majoring in biology. Graduating in 1949, he served as a principal and teacher at Hattaras Elementary School later that year and also married Phyllis Plumbo.<ref>Wilson, Emily Herring (October 2007). "A Poet in Hattaras Village." ''Our State: Down Home in North Carolina'': 204-208.</ref> He received an M.A. in English from the [[University of California, Berkeley]].<ref>{{ cite web |url=http://www.poets.org/poet.php/prmPID/48 |title=A. R. Ammons }}</ref>
+
+In 1964, Ammons joined the faculty of [[Cornell University]], eventually becoming Goldwin Smith Professor of English and Poet in Residence. He retired from Cornell in 1998.<ref name="Lehman 2002">{{Cite book
+ | last=Lehman
+ | first=David
+ | chapter=A.R. Ammons' Life and Career
+ | year=2002
+ | editor-last=Hamilton
+ | editor-first=Ian
+ | title=The Oxford Companion to Twentieth-century Poetry in English
+ | publisher=Oxford UP
+ | publication-date=1994
+ | isbn=0-19-866147-9
+ | url=https://archive.org/details/oxfordcompaniont00hami_0
+ }}</ref><ref>{{cite journal |last=Patterson |first=John |year=1992 |title=A Dictionary of North Carolina Writers, A-Bl|journal=North Carolina Literary Review |volume=1|pages=153–154}}</ref> His students who went on to achieve acclaim as poets include [[Alice Fulton]] and Jerald Bullis.<ref>{{cite web|author=Daniel Aloi |url=https://as.cornell.edu/news/colleagues-celebrate-ar-ammons-temple-zeus |title=Colleagues celebrate A.R. Ammons in Temple of Zeus |publisher=Cornell Chronicle |date=2018-04-19 |access-date=2020-05-05}}</ref>
+
+Ammons had been a longtime resident of the [[South Jersey]] communities of [[Northfield, New Jersey|Northfield]], [[Ocean City, New Jersey|Ocean City]] and [[Millville, New Jersey|Millville]], when he wrote ''Corsons Inlet'' in 1962.<ref>Laymon, Rob. [http://nl.newsbank.com/nl-search/we/Archives?p_product=AC&p_theme=ac&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EAEA9AE897C3FD8&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D "NOTED POET TO INJECT LIFE INTO WORKS IN O.C. VISIT"], ''[[The Press of Atlantic City]]'', July 23, 1992. Accessed March 29, 2011. "Ammons wrote Corsons Inlet in August of 1962, after having lived in Northfield and Millville for many years."</ref><ref>Miller, Michael. [http://www.highbeam.com/doc/1P3-1294834231.html "Pulitzer Prize poet will read works in O.C."]{{dead link|date=February 2019|bot=medic}}{{cbignore|bot=medic}}, ''[[The Press of Atlantic City]]'', June 22, 2007. Accessed September 13, 2015. "The late poet A.R. Ammons, formerly of Ocean City, Northfield and Millville, won the prestigious National Book Award."</ref>
+
+==Awards==
+During the five decades of his poetic career, Ammons was the recipient of many awards and citations. Among his major honors are the 1973 and 1993 U.S. [[National Book Award]]s (for ''Collected Poems, 1951-1971'' and for ''Garbage'');<ref name=nba1973/><ref name=nba1993/> the [[Wallace Stevens Award]] from the [[Academy of American Poets]] (1998); and a [[MacArthur Fellowship]] in 1981, the year the award was established.<ref name="Lehman 2002"/><ref>The A. R. Ammons Poetry Contest in his boyhood home Columbus County, NC was begun in 1992.   http://arammonspoetrycontest.org/about-the-contest/
+{{cite news 
+  | title = Poet A.R. Ammons, twice a National Book Award winner, dead at 75
+  | publisher = Cornell News
+  | date = February 26, 2001
+  | url = http://www.news.cornell.edu/releases/Feb01/Ammons.obit.fc.html
+  | access-date = September 26, 2008}}</ref>
+
+Ammons's other awards include a 1981 [[National Book Critics Circle]] Award for ''A Coast of Trees'';<ref>{{cite web |url=http://bookcriticscircle.blogspot.com/2008/06/in-retrospect-stephen-burt-on-ar-ammons.html |title=In Retrospect: Stephen Burt on A.R. Ammons |access-date=August 28, 2008 |author=Stephen Burt |date=June 17, 2008 |publisher=National Book Critics Circle}}</ref> a 1993 [[Library of Congress]] Rebekah Johnson Bobbitt National Prize for Poetry for ''Garbage''; the 1975 [[Bollingen Prize]] for ''Sphere''; the Poetry Society of America's [[Robert Frost]] Medal; the [[Ruth Lilly Prize]]; and fellowships from the [[John Simon Guggenheim Memorial Foundation|Guggenheim Foundation]] and the [[American Academy of Arts and Letters]].<ref>{{cite web |url=http://www.poets.org/poet.php/prmPID/48 |title=A.R. Ammons |access-date=August 28, 2008 |publisher=The Academy of American Poets}}</ref> He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1978.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter A|url=http://www.amacad.org/publications/BookofMembers/ChapterA.pdf|publisher=American Academy of Arts and Sciences|access-date=April 17, 2011| archive-url= https://web.archive.org/web/20110510021801/http://www.amacad.org/publications/BookofMembers/ChapterA.pdf| archive-date= May 10, 2011 | url-status= live}}</ref>
+
+==Poetic style==
+
+Ammons often writes in two- or three-line stanzas. Poet David Lehman notes a resemblance between Ammons's ''terza libre'' (unrhymed three-line stanzas) and the ''terza rima'' of [[Percy Bysshe Shelley|Shelley's]] "Ode to the West Wind." Lines are strongly [[enjambment|enjambed]].<ref name="Lehman 2006">{{cite journal |last=Lehman |first=David |year=2006 |title=Archie: A Profile of A.R. Ammons |journal=American Poet |url=http://www.poets.org/viewmedia.php/prmMID/15766 |access-date=August 27, 2008 |archive-url=https://web.archive.org/web/20080517022758/http://www.poets.org/viewmedia.php/prmMID/15766 |archive-date=May 17, 2008 |url-status=dead |df=mdy-all }}</ref>
+
+Some of Ammons's poems are very short, one or two lines only, a form known as [[monostich]] (effectively, including the title, a kind of [[couplet]]<ref>Hirsch, Edwatd ' A Poets Glossary' Houghton Mifflin Harcourt, Boston 2014 {{ISBN|9780151011957}}</ref>), while others (for example, the book-length poems ''Sphere'' and ''Tape for the Turn of the Year'') are hundreds of lines long, and sometimes composed on adding-machine tape or other continuous strips of paper. His National Book Award-winning volume ''Garbage'' is a long poem consisting of "a single extended sentence, divided into eighteen sections, arranged in couplets".<ref>{{cite web |url=http://www.enotes.com/poetry-criticism/ammons-r |title=A.R. Ammons Criticism|access-date=August 27, 2008|publisher=eNotes.com}}</ref> Ammons's long poems tend to derive multiple strands from a single image.<ref>Lehman, David - Interview 'The Art of Poetry'  Paris Review no 73 Summer 1996</ref>
+
+Many readers and critics have noted Ammons's idiosyncratic approach to punctuation. Lehman has written that Ammons "bears out [[T. S. Eliot|T. S. Eliot']]s observation that poetry is a 'system of punctuation'." Instead of periods, some poems end with an ellipsis; others have no terminal punctuation at all. The [[Colon (punctuation)|colon]] is an Ammons "signature"; he uses it "as an all-purpose punctuation mark."
+{{quote|
+The colon permits him to stress the linkage between clauses and to postpone closure indefinitely.... When I asked Archie about his use of colons, he said that when he started writing poetry, he couldn't write if he thought "it was going to be important," so he wrote "on the back of used mimeographed paper my wife brought home, and I used small [lowercase] letters and colons, which were democratic, and meant that there would be something before and after [every phrase] and the writing would be a kind of continuous stream."<ref name="Lehman 2006"/>
+}}
+
+According to critic [[Stephanie Burt]], in many poems Ammons combines three types of [[diction]]:
+{{quote|
+* A "normal" range of language for poetry, including the standard English of educated conversation and the slightly rarer words we expect to see in literature ("vast," "summon," "universal").
+* A demotic register, including the folk-speech of eastern North Carolina, where he grew up ("dibbles"), and broader American chatter unexpected in serious poems ("blip").
+* The Greek- and Latin-derived phraseology of the natural sciences ("millimeter," "information of actions / summarized"), especially geology, physics, and cybernetics.
+}}
+Such a mixture is nearly unique, Burt says; these three modes are "almost never found together outside his poems".<ref>{{cite web |url=http://bookcriticscircle.blogspot.com/2008/06/in-retrospect-stephen-burt-on-ar-ammons.html |title=In Retrospect: Stephen Burt on A.R. Ammons |access-date=August 27, 2008 |author=Stephen Burt |date=June 17, 2008 |publisher=National Book Critics Circle}}</ref>
+
+In contrast, critic J. Mark Smith notes that in long poems such as ''Garbage'', with their "improvised, no-stopping, 'one-time event' compositional procedures," "Ammons works with a continuum of utterance whose central furrows are the most frequently repeated words and phrases in the contemporary American vulgate, but whose far outcastings register the faintest traces of anomalous use." That is, Ammons subjected his own poetic style and its relation to contemporary speech to considerable scrutiny. As Smith puts it, "Ammons's premise is that the process of sorting and grouping (or abstracting) that produces what we commonly call 'garbage' also powers the appearances, disappearances, and re-appearances of words."<ref>{{Cite book |last=Smith |first=J. Mark |chapter=Getting Every Word In: ''Garbage'' and the Corpora | editor-last=Smith |editor-first=J. Mark |title=Short Poems, Long Poems, and the Rhetoric of North American Avant-Gardism, 1963-2008
+ |publisher=McGill-Queen's UP |date=2013 |page=226,227 |isbn=978-0-77-354083-5}}</ref>
+
+==Bibliography==
+{{Expand list|date=March 2018}}
+
+===Poetry===
+
+*''Ommateum, with Doxology''. Philadelphia: Dorrance, 1955.  Reprinted, with Preface by Roger Gilbert, Cornell University, by  W. W. Norton & Company, Inc., New York - London, 2006.  {{ISBN|978-0-393-33054-0}} (paperback)
+*''Expressions of Sea Level''. Columbus: Ohio State UP, 1964.
+*''Corsons Inlet''. Ithaca, NY: Cornell UP, 1965. Reprinted by Norton, 1967. {{ISBN|0-393-04463-7}}
+*''Tape for the Turn of the Year''. Ithaca, NY: Cornell UP, 1965. Reprinted by Norton, 1972. {{ISBN|0-393-00659-X}}
+*''Northfield Poems''. Ithaca, NY: Cornell UP, 1966.
+*''Selected Poems''. Ithaca, NY: Cornell UP, 1968.
+*''Uplands''. New York: Norton, 1970. {{ISBN|0-393-04322-3}}
+*''Briefings: Poems Small and Easy''. New York: Norton, 1971. {{ISBN|0-393-04326-6}}
+*''Collected Poems, 1951-1971''. New York: Norton, 1972. {{ISBN|0-393-04241-3}} —winner of the National Book Award<ref name=nba1973>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1973 "National Book Awards – 1973"]. [[National Book Foundation]]. Retrieved 2012-04-07. <br/>(With acceptance speech by Ammons and essay by Christopher Shannon from the Awards 60-year anniversary blog—one "Appreciation" for Ammons' two awards.)</ref>
+*''Sphere: The Form of a Motion''. New York: Norton, 1974. {{ISBN|0-393-04388-6}} —winner of the Bollingen Prize for Poetry
+*''Diversifications''. New York: Norton, 1975. {{ISBN|0-393-04414-9}}
+*''The Selected Poems: 1951-1977''. New York: Norton, 1977. {{ISBN|0-393-04465-3}}
+*''Highgate Road''. Ithaca, NY: Cornell UP, 1977.
+*''The Snow Poems'' . New York: Norton, 1977. {{ISBN|0-393-04467-X}}
+*''Selected Longer Poems''. New York: Norton, 1980. {{ISBN|0-393-01297-2}}
+*''A Coast of Trees''. New York: Norton, 1981. {{ISBN|0-393-01447-9}} —winner of the National Book Critics Circle Award
+*''Worldly Hopes''. New York: Norton, 1982. {{ISBN|0-393-01518-1}}
+*''Lake Effect Country''. New York: Norton, 1983. {{ISBN|0-393-01702-8}}
+*''The Selected Poems: Expanded Edition''. New York: Norton, 1986. {{ISBN|0-393-02411-3}}
+*''Sumerian Vistas''. New York: Norton, 1987. {{ISBN|0-393-02468-7}}
+*''The Really Short Poems''. New York: Norton, 1991. {{ISBN|0-393-02870-4}}
+*''Garbage''. New York: Norton, 1993. {{ISBN|0-393-03542-5}} —winner of the National Book Award<ref name=nba1993>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1993 "National Book Awards – 1993"]. National Book Foundation. Retrieved 2012-04-07. <br/>(With acceptance speech by Ammons.)</ref>
+*''The North Carolina Poems.'' Alex Albright, ed. Rocky Mount, NC: NC Wesleyan College P, 1994. {{ISBN|0-933598-51-3}}
+*''Brink Road.''New York: Norton, 1996. {{ISBN|0-393-03958-7}}
+*''Glare.'' New York: Norton, 1997. {{ISBN|0-393-04096-8}}
+*''Bosh and Flapdoodle: Poems.'' New York: Norton, 2005. {{ISBN|0-393-05952-9}}
+*''Selected Poems.'' David Lehman, ed. New York: Library of America, 2006. {{ISBN|1-931082-93-6}}
+*''The North Carolina Poems.'' New, expanded edition. Frankfort, KY: Broadstone Books, 2010. {{ISBN|978-0-9802117-2-6}}
+*''The Mule Poems.'' Fountain, NC: R. A. Fountain, 2010. {{ISBN|0-9842102-0-2}} (chapbook)
+*''The Complete Poems of A. R. Ammons, Volume 1 1955-1977; Volume 2 1978-2005: Edited by Robert M. West; Introduction by Helen Vendler.  W. W. Norton & Company, Inc., New York, 2017 {{ISBN|9780393070132}} hardcover vol. 1; {{ISBN|9780393254891}} hardcover vol. 2
+
+===Prose===
+*''Set in Motion: Essays, Interviews, and Dialogues'' (1996)
+*''An Image for Longing: Selected Letters and Journals of A.R. Ammons, 1951–1974.'' Ed. Kevin McGuirk. Victoria, BC: ELS Editions, 2014. {{ISBN|978-1550584561}}
+
+===Critical studies and reviews of Ammons' work===
+* {{citation |last=Bloom |first=Harold |author-link=Harold Bloom |title=The Ringers in the Tower: Studies in Romantic Tradition |location=Chicago |publisher=University of Chicago Press |year=1971 |isbn=9780226060491}}
+*''Diacritics 3'' (1973). An entire "essays on Ammons" issue.
+* {{citation |title=A. R. Ammons |url=http://www.poetryfoundation.org/poems-and-poets/poets/detail/a-r-ammons |archive-url=https://web.archive.org/web/20160423033133/http://www.poetryfoundation.org/poems-and-poets/poets/detail/a-r-ammons |url-status=live |archive-date=April 23, 2016 |work=Poetry Foundation |year=2011 |access-date=April 18, 2011 }}
+* {{citation |last=Wilson |first=Emily Herring |title=The A.R. Ammons I Knew |journal=Wake Forest Magazine |url=http://magazine.wfu.edu/2011/01/20/the-a-r-ammons-i-knew/ |date=January 20, 2011 |access-date=April 18, 2011}}
+*{{cite magazine |author=Chiasson, Dan |author-link=Dan Chiasson |date=December 4, 2017 |title=One man's trash : how A. R. Ammons turned the everyday into art |department=The Critics. Books |magazine=The New Yorker |volume=93 |issue=39 |pages=69–72 |url=https://www.newyorker.com/magazine/2017/12/04/the-great-american-poet-of-daily-chores <!--access-date=2018-03-26-->}}<ref>Online version is titled "The great American poet of daily chores".</ref>
+*{{cite journal |last=Bevis |first=Matthew |title= Gravity's Smoothest Dream |journal=London Review of Books| volume=41 |issue=5 |pages=31–35 |date=7 March 2019   |url=https://www.lrb.co.uk/v41/n05/matthew-bevis/gravitys-smoothest-dream/ |access-date=April 8, 2019 }} Review of A.R. Ammons, ''The Complete Poems''.
+
+==References==
+{{Reflist}}
+
+==External links==
+
+{{Wikiquote}} 
+*[http://www.poetryfoundation.org/bio/a-r-ammons Examples of Ammons poetry]
+*[https://wakespace.lib.wfu.edu/handle/10339/39175 A. R. Ammons Audio Collection] Z. Smith Reynolds Library, Wake Forest University, Winston-Salem, North Carolina
+*[http://www.enotes.com/poetry-criticism/ammons-r/ammons-d-grossvogel-interview-date A.R. Ammons Interviewed by David Grossvogel]
+*[http://digital.lib.ecu.edu/special/ead/findingaids/1096-001 Reid and Susan Overcash Literary Collection: A.R. Ammons Papers (#1096-001)], East Carolina Manuscript Collection, J. Y. Joyner Library, East Carolina University
+*[http://www.lib.unc.edu/mss/inv/a/Ammons,A.R.html A. R. Ammons Papers 1944–1987] Southern Historical Collection, Louis Round Wilson Special Collections Library, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina
+*[http://rmc.library.cornell.edu/ead/htmldocs/RMA02665.html Guide to the Archie Ammons Papers, 1945–2010], Division of Rare and Special Collections, Cornell University Library, Ithaca, New York
+*{{cite journal| url=http://www.theparisreview.org/interviews/1394/the-art-of-poetry-no-73-a-r-ammons| title=A. R. Ammons, The Art of Poetry No. 73| journal=Paris Review| date=Summer 1996| author=Lehman, David | volume=Summer 1996| issue=139}}
+*[http://www.english.illinois.edu/MAPS/poets/a_f/ammons/ammons.htm Modern American Poetry], critical essays on Ammons's works
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ammons, A.R.}}
+[[Category:Poets from North Carolina]]
+[[Category:Cornell University faculty]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:MacArthur Fellows]]
+[[Category:Members of the American Academy of Arts and Letters]]
+[[Category:National Book Award winners]]
+[[Category:People from Columbus County, North Carolina]]
+[[Category:People from Millville, New Jersey]]
+[[Category:People from Northfield, New Jersey]]
+[[Category:People from Ocean City, New Jersey]]
+[[Category:UC Berkeley College of Letters and Science alumni]]
+[[Category:Wake Forest University alumni]]
+[[Category:1926 births]]
+[[Category:2001 deaths]]
+[[Category:Bollingen Prize recipients]]
+[[Category:20th-century American poets]]
+[[Category:20th-century American musicians]]
+[[Category:United States Navy personnel of World War II]]
+[[Category:United States Navy sailors]]

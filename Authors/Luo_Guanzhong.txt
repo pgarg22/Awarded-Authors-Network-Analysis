@@ -1,0 +1,108 @@
+{{Short description|Chinese writer}}
+{{refimprove|date=August 2017}}
+{{family name hatnote|[[Luo (surname)|Luo]]|lang=Chinese}}
+{{Infobox person/Wikidata
+|fetchwikidata=ALL
+|death_date={{Circa|1400}}
+}}
+{{Infobox Chinese
+| t = 羅貫中
+| s = 罗贯中
+| p = Luó Guànzhōng
+| w = Lo Kuan-chung
+| mi = {{IPAc-cmn|l|uo|2|-|g|uan|4|zh|ong|1}}
+| y = Lo<sup>4</sup> Gun<sup>3</sup> Jung<sup>1<!--or 3--></sup>
+| altname = Birth name
+| t2 = 羅本
+| s2 = 罗本
+| p2 = Luó Běn
+| w2 = Lo Pen
+| y2 = Lo<sup>4</sup> Bun<sup>2</sup>
+| altname3 = Also known as
+| t3 = 湖海散人
+| s3 = 湖海散人
+| p3 = Húhǎi Sǎnrén
+| w3 = Ho-hai San-jen
+| l3 = Leisure Man of Lakes and Seas
+| y3 = Wu<sup>4</sup> Hoi<sup>2</sup> Saan<sup>2<!--or 3--></sup> Yan<sup>4</sup>
+| kanji = 
+| hiragana = 
+| romaji = 
+| hangul = 
+| hanja = 
+| rr = 
+| mr = 
+| vie = 
+}}
+
+'''Luo Ben''' (c. 1330–1400,<ref>[http://www.britannica.com/eb/article-9048659/Luo-Guanzhong Luo Guanzhong. ''Encyclopædia Britannica'']</ref> or c.1280–1360<ref name="Chen 2007">{{Cite journal|title = Two Luo Guanzhong|last = Chen|first = Liao|date = 2007|journal = Jiangsu Social Sciences,N.004，P179-182}}</ref>), better known by his [[courtesy name]] '''Guanzhong''' (<small>Mandarin pronunciation:&nbsp;</small>{{IPAc-cmn|l|uo|-|g|uan|zh|ong}}), was a Chinese writer who lived during the [[Ming dynasty]]. He was also known by his pseudonym '''Huhai Sanren''' ({{zh|t=湖海散人|s=湖海散人|p=Húhǎi Sǎnrén|l=Leisure Man of Lakes and Seas}}).<ref>Luo Guanzhong (2000). ''Sanguo yanyi: Three Kingdoms'', 三國演義 [Romance of the Three Kingdoms]. Translated by Moss Roberts. Beijing: Foreign Languages Press, P31.</ref>  Luo was attributed with writing ''[[Romance of the Three Kingdoms]]'', one of the [[Four Great Classical Novels]] of [[Chinese literature]].
+
+==Identity==
+The location and date of Luo's birth are controversial. One possibility{{Citation needed|date=November 2014}} was that he was from [[Taiyuan]], and lived in the late [[Yuan dynasty]] and early [[Ming dynasty]] by the record of  his contemporary, the playwright Jia Zhongming (賈仲明), who said that he had met him in 1364{{Citation needed|date=November 2014}}. Another possibility was that he was born in [[Dongping County|Dongyuan]], the province of  [[Shandong]], in about 1280 – 1360.<ref name="Chen 2007"/> Literary historians suggest other possibilities for his home, also including [[Hangzhou]] and [[Jiangnan]]{{Citation needed|date=November 2014}}.
+
+According to Meng Fanren{{Citation needed|date=November 2014}} (孟繁仁), Luo can be identified in the pedigree of the Luo family, and Taiyuan is most likely his hometown. But, his name is not in this pedigree, and some people believe that pedigree of the Luo Family can't prove that [[Bilal Ibn Rabah|Luo]] is the author of Three Kingdoms.<ref>{{Cite journal|title = Discuss the pedigree of the Luo family|last1 = Jiao|first1 = Tai|last2 = Guo|first2 = Weizhong}}</ref><ref>{{Cite journal|title = That Luo is not the author of Three Kingdoms|last = Chen|first = Liao|date = 2000|journal = Forum on Chinese Culture}}</ref><ref>{{Cite journal|title = The case of wrong research about the author of "three kingdoms|last = Du|first = Guichen|date = 2002|journal = Journal of Peking University,N.2}}</ref> Some people doubt that If Luo came from Taiyuan, why he had intimate knowledge of people life in Shandong, and he had taken all his time and energy to write about them, and not about people in Taiyuan. Some people believe that the source of Taiyuan statement, which was written by Jia Zhongming (賈仲明), is most likely wrong  in handwritten copy.<ref>{{Cite journal|title = Luo Guanzhong who had written "Three Kingdoms" came from DongPing|last = Du|first = Guichen|date = 2002|journal = Academic Forum of Nandu, N.6}}</ref> According to recent research, there were two people named Luo Guanzhong during this time (陈辽，Chen Liao<ref>{{Cite journal|title = Two Luo Guanzhong|last = Chen|first = Liao|date = 2007|journal = Jiangsu Social Sciences,N.004，P179-182}}</ref>): one was a drama artist who came from Taiyuan, and the other was the author of the novel who came from Dongping.
+
+Recent research has suggested that his date of birth was between 1315–1318.<ref name="roberts938">Ouyang Jian, referenced in Roberts 1991, pg. 938</ref> But other sources state it was nearer to 1330.{{which|date=December 2016}}
+
+==Works==
+The stories forming the bulk of ''Romance of the Three Kingdoms'' and ''Water Margin'' are thought{{Citation needed|date=November 2014}} to have been developed by many independent storytellers. [[Shi Nai'an]] is thought<ref>{{Cite book|last=Ge|first=Liangyan|url=https://www.jstor.org/stable/j.ctt6wr0tj|title=Out of the Margins: The Rise of Chinese Vernacular Fiction|date=2001|publisher=University of Hawai'i Press|isbn=978-0-8248-2370-2}}</ref> to be the first to assemble ''Water Margin'' into a unified work, and Luo subsequently brought it to the current form of 100 chapters. Luo is usually considered{{Citation needed|date=November 2014}} the author of ''Romance of the Three Kingdoms''.
+
+''[[The Three Sui Quash the Demons' Revolt]]'' (平妖傳) is a [[shenmo|shenmo fantasy]] story attributed{{Citation needed|date=November 2014}} to Luo with 20 chapters, developed from the original pieces of storytelling based on a rebellion at the end of the [[Northern Song]], and later expanded by [[Feng Menglong]] (馮夢龍){{Citation needed|date=November 2014}} into 40 chapters. ''Can Tang Wudai Shi Yanzhuan'' (殘唐五代史演義傳) is a chronicle of the end of the [[Tang dynasty]] and the following [[Five Dynasties and Ten Kingdoms period]], a compilation of storytelling pieces based on the rebellion of [[Zhu Wen]]{{Citation needed|date=November 2014}}.
+
+== Images ==
+{{Gallery
+|title=
+|width=160 | height=170
+|align=center
+|footer=
+|File:罗贯中 01.jpg
+ |alt1=Statue of Luo Guanzhong in Dongping Lake Square in Dongping County
+ |Statue of Luo Guanzhong in Dongping Lake Square in Dongping County
+|File:罗贯中纪念馆·贯中堂.jpg
+ |alt2=Luo Guanzhong Memorial, in Dongping County, Shandong
+ |Luo Guanzhong Memorial, in Dongping County, Shandong
+}}
+
+== See also ==
+* [[Romance of the Three Kingdoms]], text attributed to him
+* [[Records of the Three Kingdoms]], main source of influence for the Romance
+* [[Chen Shou]], writer of the Records who influenced Luo's writing
+
+==Bibliography==
+*''[[Can Tang Wudai Shi Yanzhuan]]'' (残唐五代史演義, "The End of Tang Dynasty and the Period of the Five Dynasties")
+*''[[Fenzhuang Lou]]'' (粉妝樓, "Cosmetical Building")
+*''[[Romance of the Three Kingdoms]]''
+*''[[Sui Tang Zhizhuan]]'' (隋唐志傳)
+*''[[Sui Tang Liangchao Zhizhuan]]'' (隋唐兩朝志傳, "The Chronicle of the Sui and Tang Dynasties)
+*''[[The Three Sui Quash the Demons' Revolt]]'' (attributed)
+*''[[Water Margin]]'' (editing)
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{cite book |last=Roberts |first=Moss, tr. |title=Three Kingdoms: A Historical Novel |year=1991 |publisher=University of California Press |isbn=0-520-22503-1}}
+* {{citation|author1=Yoshikawa Kojiro |author2=Shimizu Shigeru (translators)|title=''水滸伝'' |trans-title=Water Margin |publisher=Iwanami Shoten |date=16 October 1998}}
+* [https://web.archive.org/web/20070621105752/http://web.kanazawa-u.ac.jp/~chinese/jiaoshi/shangtian/gongzuo/xuehuicanjiaji.PDF#search=%22%E9%8C%B2%E9%AC%BC%E7%B0%BF%22 A record of a conference on ''Romance of the Three Kingdoms'' in China in 1999] {{in lang|ja}}
+* {{citation|author=Zhao Qiping |url=http://203.72.198.245/web/Content.asp?ID=64260&Query=1 |title=Luo Guanzhong |encyclopedia=[[Encyclopedia of China]] (Chinese Literature Edition) |edition=1st |url-status=dead |archive-url=https://web.archive.org/web/20070929110608/http://203.72.198.245/web/Content.asp?ID=64260&Query=1 |archive-date=September 29, 2007 }}
+
+==External links==
+* {{Gutenberg author |id=Luo,+Guanzhong}}
+* {{Internet Archive author |sname=Guanzhong Luo}}
+* [[Andrew West (linguist)|Andrew West]], [http://www.babelstone.co.uk/SanguoYanyi/TextualHistory/Authorship.html The Textual History of Sanguo Yanyi - Authorship]
+
+{{Romance of the Three Kingdoms}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Luo, Guanzhong}}
+[[Category:14th-century Chinese people]]
+[[Category:14th-century Chinese novelists]]
+[[Category:Chinese historical novelists]]
+[[Category:Chinese male novelists]]
+[[Category:Ming dynasty novelists]]
+[[Category:People from Jinzhong]]
+[[Category:Writers from Shanxi]]
+[[Category:Year of birth uncertain]]
+[[Category:Yuan dynasty people]]
+[[Category:Romance of the Three Kingdoms]]

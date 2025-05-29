@@ -1,0 +1,56 @@
+'''Bryan Waller Procter''' (pseud. '''Barry Cornwall''') (21 November 1787{{spaced ndash}}5 October 1874) was an [[England|English]] [[poet]] who served as a Commissioner in Lunacy.
+
+{{Infobox person
+| name        = Bryan Waller Procter
+| image       = Bryan Waller Procter.jpg
+| alt         = 
+| caption     = Bryan Waller Procter in an 1830 portrait by [[William Brockedon]]
+| birth_date  = {{Birth date|1787|11|21|df=yes}}
+| birth_place = Leeds, Yorkshire, England
+| death_date  = {{Death date and age|1874|10|5|1787|11|21|df=yes}}
+| death_place = London, England
+| other_names = 
+| children    = [[Adelaide Anne Procter]]
+| spouse      =  Anne Skepper
+| occupation  = Poet, solicitor
+}}
+
+==Life and career==
+Born at [[Leeds]], [[Yorkshire]], he was educated at [[Harrow School]], where he had for contemporaries [[George Gordon Byron, 6th Baron Byron|Lord Byron]] and [[Robert Peel]]. On leaving school he was placed in the office of a [[solicitor]] at [[Calne]], [[Wiltshire]], remaining there until about 1807, when he returned to [[London]] to study [[law]]. By the death of his father in 1816 he became possessed of a small property, and soon after entered into partnership with a solicitor; but in 1820 the partnership was dissolved, and he began to write under the pseudonym of "'''Barry Cornwall'''".
+
+After his marriage in 1824 to Miss Skepper, daughter of Mrs Basil Montague, he returned to his profession as a [[conveyancer]], and was called to the bar in 1831. In the following year he was appointed metropolitan commissioner of [[lunatic|lunacy]]—an appointment annually renewed until his election as one of the [[Commissioners in Lunacy]] constituted by the [[Lunacy Act 1845]]. He resigned in 1861.<ref>{{cite book | title=Bright stars: John Keats, Barry Cornwall and Romantic literary culture | volume=57 | series=Liverpool English texts and studies | author=Richard Marggraf Turley | publisher=Liverpool University Press | year=2009 | isbn=978-1-84631-211-3 | page=60 }}</ref> Most of his verse was composed between 1815, when he began to contribute to the ''[[Literary Gazette]]'', and 1823, or at latest 1832. His daughter, [[Adelaide Anne Procter|Adelaide Anne]], was also a poet.
+
+His principal poetical works were: ''Dramatic Scenes and other Poems'' (1819), ''A Sicilian Story'' (1820), ''Marcian Colonna'' (1820), ''[[Mirandola: a Tragedy|Mirandola]]'', a tragedy performed at [[Covent Garden]] with [[William Charles Macready|Macready]], [[Charles Kemble]] and [[Miss Foote]] in the leading parts (1821), ''The Flood of Thessaly'' (1823) and ''English Songs'' (1832). He was also the author of ''Effigies poetica'' (1824), ''Life of Edmund Kean'' (1835), ''Essays and Tales in Prose'' (1851), ''Charles Lamb; a Memoir'' (1866), and of memoirs of [[Ben Jonson]] and [[William Shakespeare]] for editions of their works. A posthumous autobiographical fragment with notes of his literary friends, of whom he had a wide range from [[William Lisle Bowles]] to [[Robert Browning]], was published in 1877, with some additions by [[Coventry Patmore]].
+
+[[Charles Lamb (writer)|Charles Lamb]] gave the highest possible praise to his friend's ''Dramatic Sketches'' when he said that had he found them as anonymous manuscript in the [[Garrick Collection]] he would have had no hesitation about including them in his ''Dramatic Specimens''. He was perhaps not an impartial critic. "Barry Cornwall's" songs have caught some notes from the [[Elizabethan era|Elizabethan]] and [[Cavalier poet|Cavalier]] lyrics, and blended them with others from the leading poets of his own time; and his dramatic fragments show a similar infusion of the early [[Victorian era|Victorian]] spirit into pre-[[English Restoration|Restoration]] forms and cadences. The results are varied, and lack unity, but they abound in pleasant touches, with here and there the flash of a higher, though casual, inspiration.<ref>{{EB1911|inline=1|wstitle=Procter, Bryan Waller|volume=22|pages=419-420}}</ref>
+
+Rather unknown outside Britain in his times and largely considered to be imitator of greater romantic authors, Barry Cornwall however inspired [[Alexander Pushkin]] to some translations and imitations in 1830. Just hours before his last [[duel]] in 1837 Pushkin sent a collection by Cornwall to a fellow author, [[Aleksandra Ishimova|Mrs. Ishimova]], suggesting that she should translate some poems selected by him.
+
+[[William Makepeace Thackeray]] dedicated ''[[Vanity Fair (novel)|Vanity Fair]]'' to B. W.  Procter. [[Wilkie Collins]] dedicated ''[[The Woman in White (novel)|The Woman In White]]'' to B. W. Procter.
+
+==References==
+{{reflist}}
+
+== External links ==
+{{wikisource author}}
+{{wikiquote}}
+* {{Gutenberg author |id=Cornwall,+Barry | name=Barry Cornwall}}
+* {{Internet Archive author |name=Barry Cornwall}}
+* {{Internet Archive author |name=Bryan Waller Procter}}
+* {{Librivox author |id=5371}}
+*[https://archive.org/details/marciancolonnaa00corngoog "Marcian Colonna: An Italian Tale; with Three Dramatic Scenes, and Other Poems"], 1821, at Internet Archive.
+*[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/the_tls/article4666844.ece "Second only to Byron"]: an essay on "Barry Cornwall" and Keats from [https://web.archive.org/web/20060221112707/http://www.hao.ucar.edu/Public/education/bios/carrington.html TLS], September 3, 2008.
+{{lists of poets |state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Procter, Bryan}}
+[[Category:1787 births]]
+[[Category:1874 deaths]]
+[[Category:Writers from Leeds]]
+[[Category:People educated at Harrow School]]
+[[Category:English male poets]]
+[[Category:Commissioners in Lunacy]]
+[[Category:19th-century English poets]]
+[[Category:19th-century English male writers]]
+[[Category:19th-century English lawyers]]
+[[Category:19th-century pseudonymous writers]]

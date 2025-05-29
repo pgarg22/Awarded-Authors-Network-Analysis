@@ -1,0 +1,90 @@
+{{short description|German playwright and dramaturg (born 1972)}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Marius von Mayenburg
+| honorific_prefix = 
+| honorific_suffix = 
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date = {{birth date and age|1972|02|21|df=y}}
+| birth_place = [[Munich]], Germany
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|1972|02|21|df=y}} -->
+| death_place = 
+| resting_place = 
+| occupation = Playwright
+| language = German
+| nationality = German
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = [[Berlin University of the Arts|Hochschule der Künste]]
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  ''[[Fireface]]''
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = Since 1996
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Marius von Mayenburg''' (born 21 February 1972 in [[Munich]]) is a German playwright and [[dramaturg]].
+
+==Education==
+In 1994, Mayenburg began his studies at the [[Berlin University of the Arts|Hochschule der Künste]] in Berlin. His first play, ''[[Haarmann (play)|Haarmann]]'', was first performed at Baracke (Deutsches Theater in Berlin) in 1996. Since 1999 he is dramaturg and writer-in-residence at the [[Schaubühne]] am Lehniner Platz in Berlin.
+
+==Career==
+''[[Fireface]]'' (German: ''Feuergesicht''), written in 1997, was his breakthrough as a dramatist. The play was performed at [[Munich Kammerspiele]] the following year. Then it was played at the [[Kleist Theater]] in [[Frankfurt (Oder)]] and at the [[Deutsches Schauspielhaus]] in Hamburg. The Hamburg performance gained the most attention. His play ''Perplex'' saw its English-language premiere in April 2014 at the [[Sydney Theatre Company]], Australia<ref>[http://www.smh.com.au/entertainment/theatre/no-place-like-home-20140403-35zg9.html "No place like home – Two couples. One house. In absurdist comedy ''Perplex'', the battle has only just begun."] by Elissa Blake, ''[[The Sydney Morning Herald]]'', 4 April 2014</ref> and ''Martyr'' (''Märtyrer'') at the [[Unicorn Theatre]] in London in October 2015.<ref>{{Cite web|url=https://www.unicorntheatre.com/whatson/101/martyr|title = Martyr - Unicorn Theatre}}</ref> In 2016, a film adaptation of ''Martyrs'' was translated into Russian and filmed in Russia under the title ''The Student'' and was well received by international critics.
+
+==Accolades==
+For ''Fireface'', Mayenburg was awarded the {{Lang|de|Kleistförderpreis für junge Dramatiker}} and {{Lang|de|Preis der Frankfurter Autorenstiftung}}.
+
+==Plays==
+* ''Haarmann'' (1996)
+* ''Fräulein Danzer'' (1996)
+* ''Monsterdämmerung'' (1997)
+* ''Feuergesicht'' (1997)
+* ''Parasiten'' (1999)
+* ''Das kalte Kind'' (2002)
+* ''Fräulein danzer'' (2003)
+* ''Eldorado'' (2004)
+* ''Turista'' (2005)
+* ''Augenlicht'' (2006)
+* ''Der Häßliche'' (2007)
+* ''Der Hund, die Nacht und das Messer'' (2008)
+* ''Der Stein'' (2008)
+* ''Perplex'' (2010)
+* ''Märtyrer'' (2012)
+* ''Stück Plastik'' (2015)
+* ''Mars'' (2019)
+
+==References==
+<references />
+
+==External links==
+* [http://www.goethe.de/kue/the/nds/nds/aut/may/enindex.htm Marius von Mayenburg: New German dramatic art.] [[Goethe-Institut]]s Website
+* [http://www.doollee.com/PlaywrightsV/von-mayenburg-marius.html Marius von Mayenburg at Doollee]
+* [http://www.arlekinplayers.com/ Arlekin Players Theatre present Marius von Mayenburg's The Stone May 17 - June 9] 
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mayenburg, Marius von}}
+[[Category:1972 births]]
+[[Category:Living people]]
+[[Category:Writers from Munich]]
+[[Category:German male dramatists and playwrights]]
+[[Category:20th-century German dramatists and playwrights]]
+[[Category:21st-century German dramatists and playwrights]]

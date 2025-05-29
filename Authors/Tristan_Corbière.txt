@@ -1,0 +1,76 @@
+{{short description|French poet}}
+{{Expand French|Tristan Corbière|date=September 2013}}
+{{Infobox writer
+| name         = Tristan Corbière
+| image        = Photographie du poète Tristan Corbière.jpg
+| imagesize    = 150px
+| alt          = 
+| caption      = 
+| pseudonym    = 
+| birth_name   = 
+| birth_date   = {{Birth date|1845|7|18|df=y}}
+| birth_place  = [[Morlaix]], France
+| death_date   = {{Death date and age|1875|3|1|1845|7|18|df=y}}
+| death_place  = Morlaix, France
+| occupation   = Poet
+| citizenship  = 
+| education    = 
+| alma_mater   = 
+| period       = 
+| genre        = Poetry
+| subject      = 
+| movement     = Symbolism
+| notableworks = 
+| spouse       = 
+| partner      = 
+| children     = 
+| relatives    = 
+| awards       = 
+| signature    = 
+| website      = 
+| portaldisp   = 
+}}
+
+'''Tristan Corbière''' (18 July 1845 – 1 March 1875), born '''Édouard-Joachim Corbière''',  was a [[French poet]] born in Coat-Congar, [[Ploujean]] (now part of [[Morlaix]]) in [[Brittany]], where he lived most of his life before dying of [[tuberculosis]] at the age of 29.
+
+==Family and schooling==
+His mother Marie-Angélique-Aspasie Puyo, 19 years old at the time of his birth, belonged to one of the most prominent families of the local bourgeoisie. His father was [[Édouard Corbière|Antoine-Édouard Corbière]], known for his best-selling novel ''Le Négrier''.  A cousin, [[Constant Puyo]], was a well-known [[Pictorialism|Pictorialist]] photographer.
+
+During his schooling at the Imperial [[Lycée]] of [[Saint-Brieuc]] where he studied from 1858 until 1860, he fell prey to a deep depression, and, over several freezing winters,  contracted the severe [[rheumatism]] which was to disfigure him severely. He blamed his parents for having placed him there, far from his family's care and affection. Difficulties in adapting to the harsh discipline of the college's ''noble débris''<ref>Renzo Paris (ed) ''Corbière:Gli Amori gialli'', Milan 2004 p.vii</ref> (distinguished relics, i.e., teachers) gradually developed those characteristics of anarchic disdain and sarcasm which were to give much of his verse its distinctive voice.
+
+==Poetry==
+Corbière's only published verse in his lifetime appeared in ''Les amours jaunes'', 1873, a volume that went almost unnoticed until [[Paul Verlaine]] included him in his gallery of ''[[Poète maudit|poètes maudits]]'' (accursed poets).  Thereafter Verlaine's recommendation was enough to establish him as one of the masters acknowledged by the [[Symbolism (arts)|Symbolists]], and he was subsequently rediscovered and treated as a predecessor by the [[surrealists]].<ref>Wallace Fowlie, ''Poem and Symbol'' (2010) p. 94</ref>
+
+Close-packed, linked to the ocean and his Breton roots, and tinged with disdain for Romantic sentimentalism,<ref>Geoffrey Brereton, ''A Short History of French Literature'' (1954) p. 299</ref> his work is also characterised by its idiomatic play and exceptional modernity. He was praised by both [[Ezra Pound]] and [[T. S. Eliot]] (whose work he had a great influence on).<ref>{{cite book|last=Warner|first=Val|title=Centenary Corbière|year=2003|publisher=Routledge|location=New York|isbn=0-415-96939-5}}</ref>
+
+Eliot used his self-description as "Mélange adultère de tout" as the title for one of his own (French) poems.<ref>Wallace Fowlie, ''Poem and Symbol'' (2010) p. 96</ref> Many subsequent modernist poets have also studied him,<ref>S. Cushman et al eds., ''The Princeton Encyclopedia of Poetry and Poetics'' (2012) p. 891</ref> and he has often been translated into English.<ref>Val Warner intro, ''Centenary Corbière'' (2003)</ref> 
+
+His complete poems appear in two volumes with translations by the English poet [[Christopher Pilling]].<ref>''These jaundiced loves A translation of Tristan Corbière's Les Amours Jaunes'' by Christopher Pilling. (Calstock Cornwall: Peterloo Poets, 1995) </ref> <ref>''Oysters, Nightingales and Cooking-Pots: Selected Poetry and Prose of Tristan Corbière'', trans. by Christopher Pilling, ed. by Richard Hibbitt and Katherine Lunn-Rockliffe (York: White Rose University Press, 2018). Open access publication; free on https://universitypress.whiterose.ac.uk/site/books/10.22599/Corbiere/</ref>
+
+==See also==
+{{French literature sidebar}}
+*[[Charles Baudelaire]]
+*[[Orientalism]]
+
+==References==
+{{Reflist|2|}}
+
+==External links==
+{{Commons category}}
+{{Wikiquote}}
+*{{Gutenberg author | id=Corbière,+Tristan }}
+*{{Internet Archive author |sname=Tristan Corbière}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Corbiere, Tristan}}
+[[Category:1845 births]]
+[[Category:1875 deaths]]
+[[Category:19th-century French poets]]
+[[Category:19th-century French male writers]]
+[[Category:19th-century deaths from tuberculosis]]
+[[Category:Breton writers]]
+[[Category:Tuberculosis deaths in France]]
+[[Category:French male poets]]
+[[Category:People from Morlaix]]
+[[Category:Poètes maudits]]

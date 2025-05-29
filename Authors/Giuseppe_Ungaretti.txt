@@ -1,0 +1,158 @@
+{{short description|Italian poet and writer}}
+{{Use dmy dates|date=March 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name =Giuseppe Ungaretti
+| image =  Ungaretti Giovane.jpg
+| caption = Ungaretti in Italian infantry uniform during [[World War I]]
+| pseudonym   =
+| birth_date = {{birth date|1888|2|8|df=y}}
+| birth_place = [[Alexandria]], Egypt
+| death_date = {{death date and age|1970|6|2|1888|2|8|df=y}}
+| death_place = [[Milan]], Italy
+| occupation = {{flatlist|
+* Poet
+* journalist
+* essayist
+* academic
+* civil servant
+}}
+| nationality = Italian
+| period      = 1912–1970
+| genre = [[lyric poetry]], [[free verse]]
+| subject     = [[literary criticism]]
+| movement = [[Symbolism (arts)|Symbolism]]<br>[[Futurism]]<br>[[Dada]]<br>[[Hermeticism (poetry)|Ermetismo]]
+| signature   =
+| website =
+}}
+'''Giuseppe Ungaretti''' ({{IPA-it|dʒuˈzɛppe uŋɡaˈretti|lang}}; 8 February 1888 – 2 June 1970) was an Italian [[Modernism|modernist]] poet, journalist, essayist, critic, academic, and recipient of the inaugural 1970 [[Neustadt International Prize for Literature]]. A leading representative of the [[Experimental literature|experimental]] trend known as ''[[Hermeticism (poetry)|Ermetismo]]'' ("[[Hermeticism (poetry)|Hermeticism]]"), he was one of the most prominent contributors to 20th century [[Italian literature]]. Influenced by [[Symbolism (arts)|symbolism]], he was briefly aligned with [[futurism]]. Like many futurists, he took an [[Italia irredenta|irredentist]] position during World War I. Ungaretti debuted as a poet while fighting in the [[Trench warfare|trenches]], publishing one of his best-known pieces, ''[[L'allegria]]'' ("The Joy").
+
+During the [[interwar period]], Ungaretti worked as a journalist with [[Benito Mussolini]] (whom he met during his [[Socialism|socialist]] accession),<ref>Luigi Pacella, [http://www.novecentoletterario.it/profili/profilo%20di%20ungaretti.htm ''Profilo di Letteratura italiana'', "Giuseppe Ungaretti: La biografia", on Novecento letterario.it], "...nel 1915 conobbe anche Benito Mussolini e ne divenne amico" ("...in 1915 he met also Benito Mussolini and became one of his friends").</ref> as well as a foreign-based correspondent for ''[[Il Popolo d'Italia]]'' and ''[[Gazzetta del Popolo]]''. While briefly associated with the [[Dadaism|Dadaists]], he developed ''[[Hermeticism (poetry)|Hermeticism]]'' as a personal take on poetry. After spending several years in Brazil, he returned home during World War II, and was assigned a teaching post at the [[Sapienza University of Rome|University of Rome]], where he spent the final decades of his life and career.
+
+==Biography==
+===Early life===
+Ungaretti was born in [[Alexandria]], [[Khedivate of Egypt|Egypt]] into a family from the Tuscan city of [[Lucca]].<ref name="Picchione & Smith, p. 204">Picchione & Smith, p. 204</ref> Ungaretti's father worked on digging the [[Suez Canal]], where he suffered a fatal accident in 1890.<ref name="Picchione & Smith, p. 204"/> His widowed mother, who ran a bakery on the edge of the [[Sahara]], educated her child on the basis of Roman Catholic tenets.<ref name="Picchione & Smith, p. 204"/>
+
+Giuseppe Ungaretti's formal education began in French, at Alexandria's Swiss School.<ref name="Picchione & Smith, p. 204"/> It was there that he became acquainted with [[Parnassianism]] and [[Symbolist poetry]], in particular with [[Gabriele d'Annunzio]], [[Charles Baudelaire]], [[Jules Laforgue]], [[Stéphane Mallarmé]] and [[Arthur Rimbaud]].<ref name="Picchione & Smith, p. 204"/> He also became familiar with works of the Classicists [[Giacomo Leopardi]] and [[Giosuè Carducci]], as well as with the writings of maverick author [[Giovanni Pascoli]].<ref name="Picchione & Smith, p. 204"/> This period marked his debut as a journalist and literary critic, with pieces published ''Risorgete'', a journal edited by [[Anarchism|anarchist]] writer [[Enrico Pea]].<ref name="Picchione & Smith, p. 204"/> At the time, he was in correspondence with [[Giuseppe Prezzolini]], editor of the influential magazine ''[[La Voce (magazine)|La Voce]]''.<ref name="Picchione & Smith, p. 204"/> A regular visitor of Pea's ''Baracca Rossa'' ("Red House"), Ungaretti was himself a sympathizer of anarchist-socialist circles.<ref>Giuseppe Ungaretti, ''Vita d'un uomo – Saggi e interventi'', [[Arnoldo Mondadori Editore]], Segrate, 1974, p. 681. {{ISBN|978-88-04-11459-8}}</ref> He abandoned Christianity and became an atheist. It was not until 1928 that he returned to the Catholic faith.<ref>Luigi Pacella. [http://www.novecentoletterario.it/profili/profilo%20di%20ungaretti.htm "Giuseppe Ungaretti: La biografia"]</ref>
+
+In 1912, the 24-year-old Giuseppe Ungaretti moved to Paris, France. On his way there, he stopped in Rome, [[Florence]] and [[Milan]], meeting face to face with Prezzolini.<ref name="Picchione & Smith, p. 204"/> Ungaretti attended lectures at the [[Collège de France]] and the [[University of Paris]], and had among his teachers philosopher [[Henri Bergson]], whom he reportedly admired.<ref name="Picchione & Smith, p. 204"/> The young writer also met and befriended French literary figure [[Guillaume Apollinaire]], a promoter of [[Cubism]] and a forerunner of [[Surrealism]].<ref>Payne; Picchione & Smith, p. 204</ref> Apollinaire's work came to be a noted influence on his own.<ref name="Picchione & Smith, p. 204"/> He was also in contact with the Italian expatriates, including leading representatives of [[Futurism]] such as [[Carlo Carrà]], [[Umberto Boccioni]], [[Aldo Palazzeschi]], [[Giovanni Papini]] and [[Ardengo Soffici]],<ref>Payne; Picchione & Smith, p. 204-205</ref> as well as with the independent visual artist [[Amedeo Modigliani]].<ref>Picchione & Smith, p. 204-205</ref>
+
+===World War I and debut===
+Upon the outbreak of World War I in 1914, Ungaretti, like his Futurist friends, supported an [[Italia irredenta|irredentist]] position, and called for his country's intervention on the side of the [[Allies of World War I|Entente Powers]].<ref name="Picchione & Smith, p. 205">Picchione & Smith, p. 205</ref> Enrolled in the infantry a year later, he saw action on the [[Italian Campaign (World War I)|Northern Italian theater]], serving in the [[Trench warfare|trenches]].<ref name="Payne; Picchione & Smith, p. 205">Payne; Picchione & Smith, p. 205</ref> In contrast to his early enthusiasm, he became appalled by the realities of war.<ref name="Picchione & Smith, p. 205"/> The conflict also made Ungaretti discover his talent as a poet, and, in 1917, he published the volume of [[free verse]] ''Il porto sepolto'' ("The Buried Port"), largely written on the [[Kras Plateau|Kras]] front.<ref>Picchione & Smith, p. 205; Talbot, p. 128</ref> Although depicting the hardships of war life, his celebrated ''L'Allegria'' was not unenthusiastic about its purpose (even if in the poem "Fratelli", and in others, he describes the absurdity of the war and the brotherhood between all the men); this made Ungaretti's stance contrast with that of [[Lost Generation]] writers, who questioned their countries' intents, and similar to that of Italian intellectuals such as Soffici, [[Filippo Tommaso Marinetti]], [[Piero Jahier]] and [[Curzio Malaparte]].<ref>David Forgacs, "Twentieth-century Culture", in [[George Holmes (professor)|George Holmes]] (ed.), ''The Oxford Illustrated History of Italy'', [[Oxford University Press]], Oxford, p. 300. {{ISBN|0-19-820527-9}}</ref>
+
+By the time the [[Armistice with Germany (Compiègne)|1918 armistice]] was signed, Ungaretti was again in Paris,<ref name="Picchione & Smith, p. 205"/> working as a correspondent for [[Benito Mussolini]]'s paper ''[[Il Popolo d'Italia]]''.<ref>Picchione & Smith, p. 205; Talbot, p. 142</ref> He published a volume of French-language poetry, titled ''La guerre'' ("The War", 1919).<ref name="Payne">Payne</ref> In 1920, Giuseppe Ungaretti married the Frenchwoman Jeanne Dupoix, with whom he had a daughter, Ninon (born 1925), and a son, Antonietto (born 1930).<ref name="Picchione & Smith, p. 205"/>
+
+During that period in Paris, Ungaretti came to affiliate with the [[anti-establishment]] and anti-art current known as [[Dada]]ism. He was present in the Paris-based Dadaist circle led by [[Romania]]n poet [[Tristan Tzara]], being, alongside [[Alberto Savinio]], [[Julius Evola]], [[Gino Cantarelli]], [[Aldo Fiozzi]] and [[Enrico Prampolini]], one of the figures who established a transition from Italian Futurism to Dada.<ref>Richter, p. 199</ref> In May 1921, he was present at the Dadaist mock trial of [[reactionary]] author [[Maurice Barrès]], during which the Dadaist movement began to separate itself into two competing parts, headed respectively by Tzara and [[André Breton]].<ref>Richter, p. 183-184</ref> He was also affiliated with the literary circle formed around the journal ''[[La Ronda]]''.<ref name="Payne"/>
+
+===''Hermeticism'' and fascism===
+The year after his marriage, Ungaretti returned to Italy, settling in Rome as a [[Italian Minister of Foreign Affairs|Foreign Ministry]] employee.<ref name="Picchione & Smith, p. 205"/> By then, Mussolini had organized the [[March on Rome]], which confirmed his seizure of power. Ungaretti joined in the [[National Fascist Party]], signing the pro-fascist ''Manifesto of the Italian Writers'' in 1925. In his essays of 1926–1929, republished in 1996, he repeatedly called on the ''[[Duce]]'' to direct cultural development in Italy and reorganize the [[Accademia dei Lincei|Italian Academy]] on fascist lines.<ref name="cdsserve">{{in lang|it}} Giorgio De Rienzo, [http://archiviostorico.corriere.it/1996/dicembre/12/Ungaretti_Serve_Duce_alla_guida_co_0_96121214519.shtml "Ungaretti: 'Serve un Duce alla guida della cultura' "], in ''[[Corriere della Sera]]'', 12 December 1996; but in this article Ossola explains also that Ungaretti is not a "constituent" intellectual of Fascism; and that he was not admitted, for many political reasons, in the Fascist Academy</ref> He argued: "The first task of the Academy will be to reestablish a certain connection between men of letters, between writers, teachers, publicists. This people hungers for poetry. If it had not been for the miracle of [[Blackshirts]], we would never have leaped this far."<ref name="cdsserve"/> In his private letters to a French critic, Ungaretti also claimed that fascist rule did not imply [[censorship]].<ref name="cdsserve"/> Mussolini, who did not give a favorable answer to Ungaretti's appeal,<ref name="cdsserve"/> prefaced the 1923 edition of ''Il porto sepolto'', thus politicizing its message.<ref>Talbot, p. 128, 142</ref>
+
+In 1925, Ungaretti experienced a religious crisis, which, three years later, made him return to the Roman Catholic Church.<ref name="Picchione & Smith, p. 205"/> Meanwhile, he contributed to a number of journals and published a series of poetry volumes, before becoming a foreign correspondent for ''[[Gazzetta del Popolo]]'' in 1931, and traveling not only to Egypt, [[Corsica]] and the Netherlands, but also to various regions of Italy.<ref name="Picchione & Smith, p. 205"/>
+
+It was during this period that Ungaretti introduced ''[[Hermeticism (poetry)|Ermetismo]]'', baptized with the [[Italian language|Italian-language]] word for "''[[Hermeticism (poetry)|Hermeticism]]''".<ref name="ermwebst">"Hermeticism", entry in ''Merriam-Webster's Encyclopedia of Literature'', [[Merriam-Webster]], Springfield, 1995, p. 540. {{ISBN|0-87779-042-6}}</ref> The new trend, inspired by both Symbolism and Futurism, had its origins in both ''Il porto sepolto'', where Ungaretti had eliminated structure, [[syntax]] and punctuation, and the earlier contributions of [[Arturo Onofri]].<ref name="ermwebst"/> The style was indebted to the influence of Symbolists from [[Edgar Allan Poe]] to Baudelaire, Rimbaud, Mallarmé and [[Paul Valéry]].<ref name="ermwebst"/> Alongside Ungaretti, its main representatives were [[Eugenio Montale]] and [[Salvatore Quasimodo]].<ref name="ermwebst"/>
+
+Despite the critical acclaim he enjoyed, the poet confronted himself with financial difficulties.<ref name="Picchione & Smith, p. 205"/> In 1936, he moved to the Brazilian city of [[São Paulo]], and became a Professor of Italian at [[University of São Paulo|São Paulo University]].<ref name="Payne; Picchione & Smith, p. 205"/> It was there that, in 1939, his son Antonietto died as a result of a badly performed [[appendectomy]].<ref name="Picchione & Smith, p. 205"/>
+
+===World War II and after===
+In 1942, three years after the start of World War II, Ungaretti returned to [[Axis Powers|Axis]]-allied Italy, where he was received with honors by the officials.<ref name="Picchione & Smith, p. 205"/> The same year, he was made a Professor of Modern Literature at the [[Sapienza University of Rome|University of Rome]].<ref name="Payne; Picchione & Smith, p. 205"/> He continued to write poetry, and published a series of essays.<ref name="Picchione & Smith, p. 205"/> By then, ''[[Hermeticism (poetry)|Hermeticism]]'' had come to an end, and Ungaretti, like Montale and Quasimodo, had adopted a more formal style in his poetry.<ref name="ermwebst"/> At Rome, Ungaretti mentored the poet [[Elio Filippo Accrocca]], whose work was greatly influenced by Ungaretti's.<ref>{{cite web |url=http://www.oxfordreference.com/view/10.1093/oi/authority.20110803095346615 |publisher=Oxford University Press |website=Oxford Reference |title=Elio Filippo Accrocca}}</ref>
+
+At the close of the war, following Mussolini's downfall, Ungaretti was expelled from the faculty owing to his fascist connections, but reinstated when his colleagues voted in favor of his return.<ref name="Picchione & Smith, p. 205"/> Affected by his wife's 1958 death, Giuseppe Ungaretti sought comfort in traveling throughout Italy and abroad.<ref name="Picchione & Smith, p. 205"/> He visited Japan, the [[Soviet Union]], Israel and the United States.<ref name="Picchione & Smith, p. 205"/>
+[[File:Giuseppe Ungaretti (basco).jpg|thumb|Ungaretti with his famous Baschetto]]
+In 1964, he gave a series of lectures at [[Columbia University]] in New York City, and, in 1970, was invited by the [[University of Oklahoma]] to receive its [[Neustadt Prize|Books Abroad Prize]].<ref name="Picchione & Smith, p. 205"/> During this last trip, Ungaretti fell ill with [[bronchopneumonia]], and, although he received treatment in New York City, died while under medical supervision in Milan.<ref name="Picchione & Smith, p. 205"/> He was buried in [[Campo Verano]] (Rome).<ref name="Picchione & Smith, p. 205"/>
+
+==Poetry==
+''L'Allegria'', previously called ''L'Allegria di Naufragi'', is a decisive moment of the recent history of Italian literature: Ungaretti revises with novel ideas the poetic style of the ''[[poète maudit|poètes maudits]]'' (especially the broken verses without punctation marks of [[Guillaume Apollinaire]]'s ''Calligrammes'' and the equality between verse and a single word),<ref>Elio Gioanola, ''Storia letteraria del Novecento in Italia'', SEI, Torino 1966, p. 186</ref> connecting it with his experience of death and pain as a soldier at war. The hope of brotherhood between all the people is expressed strongly, together with the desire of searching for a renovated "harmony" with the universe,<ref>Elio Gioanola, ''ibidem'', p. 187</ref> impressive in the famous verses of ''Mattina'':
+{{Verse translation|
+{{lang|it|M’illumino
+d’immenso}}
+|attr1= [[Santa Maria la Longa]], 26 January 1917 
+|attr2=Flora, August 2010|
+I illuminate (myself)
+with immensity}}
+
+A famous poem regarding the First World War is [[:it:Soldati (poesia)|''Soldati'']] (soldiers), which emblematically and emotionally describes their feelings of uncertainty and fear:
+{{Verse translation|
+{{lang|it|Si sta come
+d'autunno
+sugli alberi
+le foglie}}
+|attr1=Bois de Courton,<ref>{{cite web |url=http://www.geonames.org/3022874/bois-de-courton.html |publisher=geonames.org |title=Bois de Courton}}</ref> July 1918
+|attr2=M. Tanzy, November, 2015|
+It's like being
+in the autumn
+on the trees
+the leaves}}
+
+In the successive works he studied the importance of the poetic word (marked by ''[[Hermeticism (poetry)|Hermeticism]]'' and [[symbolism (arts)|symbolism]]), as the only way to save the humanity from the universal horror, and was searching for a new way to recuperate the roots of the Italian classical poetry.<ref>Elio Gioanola, ''ibidem'', p. 188</ref> His last verses are on the poem ''l'Impietrito e il Velluto'', about the memory of the ''bright universe eyed'' Dunja, an old woman that was house guest of his mother in the time of his childhood. Here is the end:
+{{Verse translation|
+{{lang|it|Il velluto dello sguardo di Dunja
+Fulmineo torna presente pietà}}
+|attr1= L'Impietrito e il Velluto, 1970
+|
+The velvet in the bright gaze of Dunja
+Rapid returns as present mercy<ref>Giuseppe Ungaretti, ''ibidem''</ref>}}
+
+==Legacy==
+Although Ungaretti parted company with ''[[Hermeticism (poetry)|Ermetismo]] ("[[Hermeticism (poetry)|Hermeticism]]")'', his early experiments were continued for a while by poets such as [[Alfonso Gatto]], [[Mario Luzi]] and [[Leonardo Sinisgalli]].<ref name="ermwebst"/> His collected works were published as ''Vita di un uomo'' ("The Life of a Man") at the time of his death.<ref name="Payne"/>
+
+Two of Ungaretti's poems ("Soldiers – War – Another War" and "Vanity") were made into song by American composer [[Harry Partch]] (''Eleven Intrusions'', 1949–50); and eleven poems were set by the French-Romanian composer [[Horațiu Rădulescu]] in his cycle ''End of Kronos'' (1999). Fragments of his poetry are set by composer Michael Mantler in Cerco un Paese Innocente, a work recorded in 1994.
+
+Austrian-Hungarian composer [[Iván Eröd]] used his poems in four of his works: "Tutto ho perduto" Op. 12 (1965), "Canti di Ungaretti" Op. 55 (1988), "Vox lucis" Op. 56 (1988–89) and in his last work "Canti di un Ottantenne" Op. 95 (2019), completed only several days before his death in June 2019.
+
+==Published volumes==
+*''Il porto sepolto'' ("The Buried Port", 1916 and 1923)
+*''La guerra'' ("The War", 1919 and 1947)
+*''Allegria di naufragi'' ("The Joy of Shipwrecks", 1919)
+*''L'allegria'' ("The Joy", 1931)
+*''Sentimento del tempo'' ("The Feeling of Time", 1933)
+*''Traduzioni'' ("Translations", 1936)
+*''Poesie disperse'' ("Scattered Poems", 1945)
+*''Il dolore'' ("The Pain", 1947)
+*''La terra promessa'' ("The Promised Land", 1950)
+*''Un grido e paesaggi'' ("A Shout and Landscapes", 1952)
+*''Il taccuino del vecchio'' ("The Old Man's Notebook", 1960)
+*''Vita di un uomo'' ("The Life of a Man", 1969)
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*Alessandro Baruffi, in ''Giuseppe Ungaretti, the Master of Hermeticism, Translated in English'', [[LiteraryJoint Press]], Philadelphia, PA, 2018. {{ISBN|9781387432561}}
+*Roberta L. Payne, "Ungaretti, Giuseppe", in ''A Selection of Modern Italian Poetry in Translation'', [[McGill-Queen's University Press]], Montreal & Kingston, p.&nbsp;198. {{ISBN|0-7735-2697-8}}
+*John Picchione, Lawrence R. Smith, ''Twentieth-century Italian Poetry. An Anthology'', [[University of Toronto Press]], Toronto, 1993. {{ISBN|0-8020-7368-9}}
+*[[Hans Richter (artist)|Hans Richter]], ''Dada. Art and Anti-art'', [[Thames & Hudson]], London & New York, 2004. {{ISBN|0-500-20039-4}}
+*George Talbot, [http://www.hull.ac.uk/languages/staff/academic/G_TALBOT/publications/Censorship_in_Fascist_Italy.pdf "Alberto Moravia and Italian Fascism: Censorship, Racism and ''Le ambizioni sbagliate''"], in ''Modern Italy'', Vol. 11, No. 2, June 2006 (hosted by the [[University of Hull]])
+*[https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_13431940 Finding aid to Luciano Rebay collection of Giuseppe Ungaretti at Columbia University. Rare Book & Manuscript Library.]
+* Massimo Colella, "Per una semantica della luce ungarettiana. Il caso del 'Porto Sepolto'", in "Rivista di Letteratura Italiana", XXXV, 3, 2017, pp.&nbsp;141–149.
+{{Neustadt International Prize for Literature}}
+{{Authority control}}
+
+==External links==
+{{commons}}
+{{Wikiquote}}
+
+{{DEFAULTSORT:Ungaretti, Giuseppe}}
+[[Category:1888 births]]
+[[Category:1970 deaths]]
+[[Category:Burials at Campo Verano]]
+[[Category:Converts to Roman Catholicism from atheism or agnosticism]]
+[[Category:Deaths from bronchopneumonia]]
+[[Category:Deaths from pneumonia in Lombardy]]
+[[Category:Italian essayists]]
+[[Category:Italian expatriates in Brazil]]
+[[Category:Italian expatriates in Egypt]]
+[[Category:Italian expatriates in France]]
+[[Category:Italian fascists]]
+[[Category:Italian male journalists]]
+[[Category:Italian military personnel of World War I]]
+[[Category:Italian World War I poets]]
+[[Category:Italian writers in French]]
+[[Category:People from Alexandria]]
+[[Category:Sapienza University of Rome faculty]]
+[[Category:Symbolist poets]]
+[[Category:University of São Paulo faculty]]
+[[Category:Italian male poets]]
+[[Category:20th-century Italian male writers]]
+[[Category:20th-century Italian poets]]
+[[Category:Male essayists]]
+[[Category:20th-century essayists]]
+[[Category:20th-century Italian journalists]]

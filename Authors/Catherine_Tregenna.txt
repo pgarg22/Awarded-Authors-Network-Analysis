@@ -1,0 +1,72 @@
+{{Short description|Welsh writer}}
+{{Use dmy dates|date=October 2016}}
+{{Use British English|date=October 2016}}{{Infobox person
+| name          = <!-- use common name/article title -->
+| image         = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = <!-- only use if different from name -->
+| birth_date    = <!-- {{Birth date and age|YYYY|MM|DD}} for living people supply only the year with {{Birth year and age|YYYY}} unless the exact date is already widely published, as per [[WP:DOB]]. For people who have died, use {{Birth date|YYYY|MM|DD}}. -->
+| birth_place   = 
+| death_date    = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date) -->
+| death_place   = 
+| nationality   = 
+| other_names   = 
+| occupation    = {{hlist|[[Actor#The term actress|Actress]]|[[playwright]]|[[Screenwriting#Television writing|television screenwriter]]}}
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+
+'''Catherine Tregenna''' is a [[Wales|Welsh]] playwright, television screenwriter and actress. She has written episodes for ''[[EastEnders]]'', ''[[Casualty (TV series)|Casualty]]'' and for the first four series of [[ITV1]] crime drama ''[[Law & Order: UK]]''.
+
+==Career==
+Tregenna began as an actress. She played the character Kirsty McGurk, for several years, in ''[[Pobol Y Cwm]]'' and a doctor in [[Satellite City (sitcom)|Satellite City]].<ref name="Scity">{{cite web
+  | title = Satellite City Credits & Complete Character Guide
+  | url = http://www.satellitecitytv.net/sc_credits_and_more_characters.html
+  | accessdate = 2008-04-06
+  | url-status = dead
+  | archiveurl = https://web.archive.org/web/20080225131753/http://www.satellitecitytv.net/sc_credits_and_more_characters.html
+  | archivedate = 25 February 2008
+  | df = dmy-all
+  }}</ref>
+
+In 2001, she wrote the comedy play ''Art and Guff''.<ref>{{Cite web|url=http://www.theatre-wales.co.uk/plays/review_archive.asp?playname=Art%20and%20Guff&company=Sgript%20Cymru|title=Details of Art and Guff from the archive of the Theatre in Wales|website=theatre-wales.co.uk|access-date=30 October 2021}}</ref> After, she transitioned back into television as a writer, co-writing the series ''[[Cowbois ac Injans]]'' and four episodes of the [[BBC]]'s [[science fiction]] drama and ''Doctor Who'' spin-off ''[[Torchwood]]'': "[[Out of Time (Torchwood)|Out of Time]]", "[[Captain Jack Harkness (Torchwood episode)|Captain Jack Harkness]]", "[[Meat (Torchwood)|Meat]]" and "[[Adam (Torchwood)|Adam]]". As well as co-writing Meat, she also created the meat props shown in the episode. "Captain Jack Harkness" was nominated for the 2008 [[Hugo Award for Best Dramatic Presentation, Short Form]].<ref name="Denv">{{cite web
+  | title = 2008 Hugo Nomination List
+  | work = Denvention 3: The 66th World Science Fiction Convention
+  | publisher = World Science Fiction Society
+  | year = 2008
+  | url = http://www.denvention.org/hugos/08hugonomlist.php
+  | access-date = 2008-03-21
+  | url-status = dead
+  | archiveurl = https://web.archive.org/web/20081221004127/http://www.denvention.org/hugos/08hugonomlist.php
+  | archivedate = 21 December 2008
+  | df = dmy-all
+  }}</ref>
+
+In November 2014, it was confirmed that she would be writing an episode for the [[Doctor Who (series 9)|ninth series]] of ''[[Doctor Who]]'', "[[The Woman Who Lived]]". She contributed episodes to the third and final series of ''[[Stan Lee's Lucky Man]]'', the third series of ''[[Riviera (TV series)|Riviera]]'' and the fifth episode of ''[[The Watch (TV series)|The Watch]]'', which is inspired by<ref>{{Cite web|url=https://discworldmonthly.co.uk/terrypratchett_thewatchseries.php|title = Terry Pratchett's Discworld the Watch TV Series|website=Discworldmonthly.co.uk}}</ref> the [[Ankh-Morpork City Watch]] from the ''[[Discworld]]'' series of fantasy novels by [[Terry Pratchett]].
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{IMDb name|id=0871734}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tregenna, Catherine}}
+[[Category:20th-century births]]
+[[Category:21st-century British dramatists and playwrights]]
+[[Category:21st-century British screenwriters]]
+[[Category:21st-century Welsh women writers]]
+[[Category:21st-century Welsh writers]]
+[[Category:British soap opera writers]]
+[[Category:Welsh women dramatists and playwrights]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:Welsh dramatists and playwrights]]
+[[Category:Welsh science fiction writers]]
+[[Category:Welsh television writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Women soap opera writers]]
+[[Category:Year of birth missing (living people)]]

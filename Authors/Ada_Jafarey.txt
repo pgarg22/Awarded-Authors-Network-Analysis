@@ -1,0 +1,138 @@
+{{EngvarB|date=December 2013}}
+{{Use dmy dates|date=December 2013}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Ada Jafarey<br/>{{Nastaliq|ادؔا جعفری}}
+| image         = Ada Jafarey.jpg
+| image_size    = 200px
+| alt           = A medium close-up photograph of a light-skinned, middle-aged woman, wearing a teal-coloured, patterned {{transl|ur|ALA-LC|''sāŗī''}}, with a matching {{transl|ur|ALA-LC|''colī''}}; shot taken from her right
+| caption       = Jafarey in 1987 (Karachi)
+| pseudonym     = Ada Jafri
+| birth_name    = Aziz Jahan
+| birth_date    = 22 August 1924
+| birth_place   = [[Badayun]], [[United Provinces (India)|U.P.]], [[British India]], (now [[India]])
+| death_date    = 12 March 2015  (aged 90)
+| death_place   = [[Karachi]], [[Sindh]], [[Pakistan]]
+| resting_place = PECHS Graveyard (Society Qabristan), [[Jamshed Town]], Karachi {{coord|24|52|0|N|67|3|18|E}}
+| occupation    = {{flatlist|
+* [[Urdu poet|Poet]]
+* author
+}}
+| nationality   = [[British India]]n <small>(1924–1947)</small><br>[[Pakistani]] <small>(1947–2015)</small>
+| education     = Primary education in poetry (Maria)
+| alma_mater    = 
+| period        = 1945–2015
+| genre         = [[Ghazal]] • [[free verse]] • [[haiku]] • short essay
+| subject       = [[Feminism]] among others
+| movement      = [[Urdu_literature#Modernism|Modernism]] • [[Urdu_literature#Post-modernism|post-modernism]]
+| notableworks  = {{transl|ur|ALA-LC|''‘Main&#x331; Sāz Ḍhūn&#x331;ḍtī Rahī’''}} (1950)<br>{{transl|ur|ALA-LC|''‘S&#x332;h&#x332;ahr-i Dard’''}} (1967)
+| spouse        = {{marriage|Nurul Hasan Jafarey|29 January 1947|3 December 1995}}
+| partner       = 
+| children      = {{unbulleted list|Sabiha Jafarey|Azmi Jafarey|Aamir Jafarey}}
+| relatives     = 
+| awards        = {{unbulleted list|{{awd|{{nobold|[[File:Pride of Performance (ribbon).gif|22px|border]] [[Pride of Performance]]}} (2003)}}|{{awd|{{nobold|[[File:Medal of Excellence (ribbon).gif|22px|border]] [[Tamgha-e-Imtiaz|Medal of Excellence]]}} (1981)}}|{{awd|{{nobold|[[Adamjee Literary Award]]}} (1967)}}}}
+| signature     = 
+| signature_alt = 
+| module        =
+| website       = {{URL|www.adajafarey.com}}
+| portaldisp    = 
+}}
+{{Contains special characters|Urdu}}
+'''Ada Jafarey''' ({{lang-ur|{{nq|ادؔا جعفری}}}} : {{transl|ur|ALA-LC|''Adā Jaʿfrī''}}) {{post-nominals|post-noms=([[Pride of Performance|PP]], [[Tamgha-e-Imtiaz|TI]])}}, often spelled '''Ada Jafri'''<ref name="poem" /> (22 August 1924 – 12 March 2015), was a Pakistani poet who is regarded as the first major female [[Urdu]] poet to be published<ref name="poem" /><ref name="Saudi" /><ref name=handbook>{{cite book|last=Natarajan|first=Nalini|title=Handbook of Twentieth-century Literatures of India|year=1996|publisher=Greenwood Publishing Group|page=352|url=https://books.google.com/books?id=1lTnv6o-d_oC&pg=PA352|isbn=9780313287787}}</ref><ref name=poetry>{{cite book|last=Mahmood|first=Khwaja Tariq|title=Selected Poetry of Women Writers (4 languages)|year=2008|publisher=Star Publications|isbn=9788176503105|page=6|url=https://books.google.com/books?id=br4iZtc9fiIC&pg=PA1|language=ur}}</ref> and has been called "The First Lady of Urdu Poetry". She was also an author<ref name="Aina" /> and was considered a prominent figure in contemporary [[Urdu literature]].<ref name="poem" /><ref name="Saudi" /><ref name="South Asia">{{cite book|last=Mittra|first=Sangh|title=Encyclopaedia of Women in South Asia: Pakistan|year=2004|publisher=Gyan Publishing House|isbn=9788178351872|page=69|url=https://books.google.com/books?id=fwofF4kgvEgC&pg=PA68}}</ref> She received awards from the [[Government of Pakistan]], the Pakistan Writers' Guild, and literary societies of North America and Europe in recognition of her efforts.<ref name="Saudi" />
+
+==Life==
+===Early life===
+Ada Jafarey was born on 22 August 1924, in [[Badayun]], [[United Provinces (India)|U.P.]] Her [[birth name]] was Aziz Jahan.{{efn|{{lang|ur|{{nq|عزیز جہاں}}}}: {{transl|ur|ALA-LC|''ʿAzīz Jahan&#x331;''}}}}<ref name=poem>{{cite web|title=Biography of Ada Jafarey|url=http://www.poemhunter.com/ada-jafri/biography/|work=PoemHunter.com|access-date=29 November 2013}}</ref><ref name=Saudi>{{cite web|last=A. Khan |first=Rohail |title=Ada Jafarey: The first lady of Urdu poetry |url=http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20130822177704 |archive-url=https://web.archive.org/web/20131203022418/http://www.saudigazette.com.sa/index.cfm?method=home.regcon&contentid=20130822177704 |url-status=dead |archive-date=3 December 2013 |work=Saudi Gazette |access-date=29 November 2013 }}</ref><ref name="Junaid" /> Her father, Maulvi Badrul Hasan{{efn|{{lang|ur|{{nq|مولوی بدر الحسن}}}} / [[ALA-LC]]: {{transl|ur|ALA-LC|''Badru l-Ḥasan''}}}}<ref name=dawn.ur>{{cite news|title={{nq|اردو زبان کی عہدساز شاعرہ ادا جعفری انتقال کرگئیں}}|url=http://www.dawnnews.tv/news/1018284|access-date=14 March 2015|work=Dawn News|language=ur}}</ref><ref name=dunya>{{cite news|title={{nq|اردو ادب کی پہلی مقبول شا عرہ ادا جعفری انتقال کر گئیں}}|url=http://dunya.com.pk/index.php/pakistan/2015-03-13/537211|access-date=14 March 2015|work=Roznama Dunya|language=ur}}</ref> died when she was three, and her mother reared her.<ref name=Aina>{{cite book|title={{transl|ur|ALA-LC|''Āʾīnah-yi Urdū (lāzmī)''}}|year=2009|publisher=Khalid Book Depot|location=[[Urdu Bazaar (Lahore)|Urdu Bazaar]], [[Lahore]]|page=358}}</ref> She started composing poetry when she was twelve<ref name="poem" /><ref name="Saudi" /><ref name="Junaid" /><ref name="nwqt" /> years old, under the pen name of Ada Badayuni. She spent her early life within impassable social bounds.<ref name="South Asia" /><ref name="Junaid" />
+
+===Married life===
+She married Nurul Hasan Jafarey{{efn|{{lang|ur|{{nq|نور الحسن جعفری}}}}: {{transl|ur|ALA-LC|''Nūru l-Ḥasan Jaʿfrī''}}}} on 29 January 1947, in [[Lucknow]], [[British India|India]]. After her marriage, she took her pen name Ada Jafarey. Her husband, Nurul Hasan, was a top-ranking civil servant of the [[British Raj|Federal Government of India]]. Ada Jafarey also moved with her husband to [[Karachi]] after the [[Partition of India|independence]] of Pakistan in 1947.<ref name="Saudi" /> Her husband was a littérateur himself who wrote columns for both English and Urdu newspapers. He also served as the president of the [[Anjuman-i Taraqqi-i Urdu]]. Nurul Hasan, a major inspiration to her writing, died on 3 December 1995.<ref name="poem" />
+
+===Later life===
+She had been residing in [[Karachi]], Pakistan.<ref name="poem" /> She used to frequently travel between Karachi and [[Toronto]], playing an active role in promoting Urdu.<ref name="Saudi" />
+
+===Family===
+Ada Jafarey and Nurul Hasan Jafarey had three children, Sabiha, Azmi and Aamir.<ref name=personal>{{cite web|last=Jafarey|first=Ada|title=Family|url=http://www.adajafarey.com/family.htm|work=Personal website|publisher=Dr. Aamir Jafarey|access-date=2 December 2013}}</ref> Sabiha Jafarey is married to Zubair Iqbal and is settled in [[Potomac, Maryland]], US. They have three children Sabah Iqbal, Yusuf Iqbal and Sameer Iqbal.<ref name="personal" /> Azmi Jafarey and his wife Shua Jafarey are now settled in [[Andover, Massachusetts]], US. They have two sons, Faaez Jafarey and Aazim Jafarey.<ref name="personal" /> Ada Jafarey lived with her son, Aamir Jafarey, his wife, Maha Jafarey, together with their daughter Asra Jafarey in [[Karachi]] till her death.<ref name="personal" /><ref>{{cite news|title=Ada Jafarey (ادا جعفری) passed away|url=http://reviewit.pk/ada-jafarey-%D8%A7%D8%AF%D8%A7-%D8%AC%D8%B9%D9%81%D8%B1%DB%8C-passed-away/|access-date=14 March 2015|work=Reviewit|language=ur}}</ref> Ada Jafarey has two great grandchildren, Sabine Rana and Rizwan Rana, children of Sabah Iqbal Rana and her husband Fawad Rana.<ref name="personal" />
+
+===Death===
+Ada Jafarey died in the evening of 12 March 2015 in a hospital in Karachi where she was being treated,<ref name=ary>{{cite news|title=Poetess Ada Jafri passes away|url=http://arynews.tv/en/poetess-ada-jafri-passes-away/|access-date=13 March 2015|work=ARY News}}</ref> at the age of 90.<ref name="Junaid" /><ref name="Dawn">{{cite news|title=Poet Ada Jafri is no more|url=http://www.dawn.com/news/1169228/poet-ada-jafri-is-no-more|access-date=13 March 2015|work=Dawn}}</ref><ref name=Pak.today>{{cite news|title=Poetess Ada Jafri passes away|url=http://www.pakistantoday.com.pk/2015/03/13/national/poetess-ada-jafri-passes-away/|access-date=13 March 2015|work=Pakistan Today}}</ref><ref name=en.geo>{{cite news|title=Death of the first lady|url=http://www.thenews.com.pk/Todays-News-8-306825-Death-of-the-first-lady|access-date=14 March 2015|work=The News}}</ref><ref>{{cite news|title=Poetess Ada Jafarey passes away|url=http://nation.com.pk/karachi/13-Mar-2015/poetess-ada-jafarey-passes-away|access-date=14 March 2015|work=The Nation}}</ref><ref>{{cite news|title={{nq|کراچی ،اردو کی پہلی شاعرہ ادا جعفری انتقال کرگئیں،نمازجنازہ آج ہو گی}}|url=http://dailypakistan.com.pk/front-page/13-Mar-2015/202676|access-date=14 March 2015|work=Daily Pakistan|language=ur}}</ref> The Pakistani Minister for  Information, Broadcasting and National Heritage, [[Pervez Rashid]], the [[Governor of Sindh]], [[Ishrat-ul-Ibad Khan|Dr. Ishratul Ebad Khan]], the [[Pakistani Prime Minister]], [[Mian Nawaz Sharif]], Dr. Muhammad Qasim Bughio, Chairman [[Pakistan Academy of Letters|PAL]], and Zahida Parveen, Director-General PAL, expressed sorrow over the death of Jafarey. They praised her work in the field of Urdu poetry and prayed for her soul.<ref>{{cite news|last1=Jabri|first1=Pervez|title=Pervaiz Rashid condoles over demise of Ada Jafri|url=http://www.brecorder.com/pakistan/general-news/231761-pervaiz-rashid-condoles-over-demise-of-ada-jafri.html|access-date=13 March 2015|work=Business Recorder}}</ref><ref>{{cite news|last1=Imaduddin|title=Ebad grieved over poetess Ada Jafri's death|url=http://www.brecorder.com/pakistan/general-news/231682-ebad-grieved-over-poetess-ada-jafris-death.html|access-date=13 March 2015|work=Business Recorder}}</ref><ref>{{cite news|last1=Jabri|first1=Pervez|title=PM saddened over demise of Ada Jafri|url=http://www.brecorder.com/pakistan/general-news/231760-pm-saddened-over-demise-of-ada-jafri.html|access-date=13 March 2015|work=Business Recorder}}</ref><ref>{{cite news|title=Ada Jafri's death termed a colossal loss to Urdu literature |url=http://www.dailytimes.com.pk/islamabad/14-Mar-2015/ada-jafri-s-death-termed-a-colossal-loss-to-urdu-literature |archive-url=https://web.archive.org/web/20150402141658/http://www.dailytimes.com.pk/islamabad/14-Mar-2015/ada-jafri-s-death-termed-a-colossal-loss-to-urdu-literature |url-status=dead |archive-date=2 April 2015 |access-date=14 March 2015 |work=Daily Times }}</ref><ref>{{cite news|title=Ada Jafri's demise a great loss: PAL chief|url=http://www.thenews.com.pk/Todays-News-6-306742-Ada-Jafris-demise-a-great-loss-PAL-chief|access-date=14 March 2015|work=The News}}</ref> Her funeral prayer was held in Al-Hilal Mosque, Karachi.<ref name=ur.geo>{{cite news|title={{nq|شاعرہ ادا جعفری کی کراچی میں نماز جنازہ اور تدفین }}|url=http://urdu.geo.tv/UrduDetail.aspx?ID=178100|access-date=14 March 2015|work=Geo News Urdu|language=ur|archive-url=https://web.archive.org/web/20150402151823/http://urdu.geo.tv/UrduDetail.aspx?ID=178100|archive-date=2 April 2015|url-status=dead|df=dmy-all}}</ref> She was buried in the PECHS graveyard, [[Jamshed Town]], Karachi on 13 March 2015.<ref name=VOA.gallery>{{cite news|title={{nq|منفرد شاعرہ ادا جعفری کا آخری سفر}}|url=http://www.urduvoa.com/media/photogallery/2679346.html|access-date=14 March 2015|work=VOA Urdu|language=ur}}</ref>
+
+==Literary career==
+===The first female poet===
+Ada Jafarey was part of a traditionally conservative society where women were not allowed to think and express independently.<ref name="Saudi" /> But she was bold enough to express herself.<ref name="South Asia" /> Despite having traditionality ingrained in her personality, she took part in modern art.<ref name="poem" /> As early as 1950, she was recognized as ''the First Lady of Urdu Poetry''.{{efn|{{lang|ur|{{nq|اُردُو شاعری کی خاتونِ اوّل}}}}: {{transl|ur|ALA-LC|''Urdū S&#x332;h&#x332;āʿirī kī K&#x332;h&#x332;ātūn-i Awwal''}}}}<ref name="poem" /><ref name="Saudi" /><ref name="nwqt" /><ref name="express" /> Her mother, and her husband Nurul Hasan Jafarey, encouraged her to keep on her literary activities in spite of social difficulties.<ref name="poem" /><ref name="Saudi" /> She was the student of great poets like [[Akhtar Sheerani]] and Jafar Ali Khan Asar Lakhnavi and used to get her poetry checked and corrected by them.<ref name="Junaid">{{cite news|last1=Qureshi|first1=Junaid|title={{nq|!بڑے تاباں، بڑے روشن ستارے ٹوٹ جاتے ہیں}}|url=http://www.express.pk/story/336647/|access-date=13 March 2015|work=Express News|language=ur|quote={{lang|ur|{{nq|منکسرالمزاج، شائستہ اور درویش صفت}}}}}}</ref>
+<ref name="nwqt" />
+
+===Style===
+Ada Jafarey writes in a gender-neutral mode,<ref name=modern>{{cite book|last=George|first=K. M.|title=Modern Indian Literature, an Anthology: Plays and prose|year=1992|publisher=Sahitya Akademi|isbn=9788172013240|page=440|url=https://books.google.com/books?id=m1R2Pa3f7r0C&pg=PA440}}</ref> though her works include [[feminist]] themes like discrimination and dehumanisation of women and of them being viewed as sexual objects.<ref name="handbook" /><ref name="Junaid" /> Her personality seems absent from her poetry.<ref name="poem" />
+
+Ada Jafarey wrote of her experiences as a wife and mother in a modified traditional idiom, but also noticed the lack of fulfillment that accompanied these relationships.<ref name="handbook" />
+
+===Genre===
+Ada Jafarey's works are mostly [[Ghazal]]s,<ref name="Aina" /> but she also experimented with {{transl|ur|ALA-LC|''āzād naz&#x324;m''}},{{efn|{{lang|ur|{{nq|آزاد نظم}}}}: {{Language with name/for||Urdu|'[[free verse]]'}}}}<ref name=azad>{{cite book|last=Samiuddin|first=Abida|title=Encyclopaedic Dictionary of Urdu Literature|year=2007|publisher=Global Vision Publishing House|isbn=9788182201910|page=223|url=https://books.google.com/books?id=-otQriwQ9z4C&pg=PA223}}</ref> as well as Urdu [[Haiku]].<ref name="Aina" /> She had mastered both genres of Urdu poetry, {{transl|ur|ALA-LC|''naz&#x324;m''}} and ''ghazal''.<ref name="Junaid" />  In her ghazals, she took the [[takhallus|pen name]], {{transl|ur|ALA-LC|''‘Adā’''}}.{{efn|{{lang|ur|{{nq|ادؔا}}}}}}
+She has also written a few {{transl|ur|ALA-LC|''maẓāmīn''}}.{{efn|{{lang|ur|{{nq|مضامین}}}}: {{Language with name/for||Urdu|'short essays'}}}}<ref name="Aina" />
+
+===Works===
+Ada Jafarey's first ghazal was published in [[Akhtar Sheerani]]'s magazine, {{transl|ur|ALA-LC|''Romān''}},{{efn|{{lang|ur|{{nq|رومان}}}}}} in 1945.<ref name=nwqt>{{cite news|title={{nq|{{rlm}}"ہونٹوں پہ کبھی ان کے میرا نام ہی آئے" ممتاز شاعرہ ادا جعفری انتقال کر گئیں}}|url=http://www.nawaiwaqt.com.pk/entertainment/13-Mar-2015/368301|access-date=14 March 2015|work=Nawai Waqt|language=Urdu}}{{Dead link|date=May 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> Ada Jafarey published her first collection of poems, {{transl|ur|ALA-LC|''“Main&#x331; Sāz Ḍhūn&#x331;ḍtī Rahī”''}}
+{{efn|{{lang|ur|{{nq|میں ساز ڈھونڈتی رہی}}}}: {{language with name/for||Urdu|''I kept looking for the 'musical instrument'<nowiki/>''}}}} in 1950. Her book, {{transl|ur|ALA-LC|''‘G&#x332;h&#x332;azal Numā’''}},{{efn|{{lang|ur|{{nq|غزل نما}}}}}} containing short essays with short biographies and brief commentaries on the work previous Urdu poets was published in 1987.<ref name="Junaid" /> Besides, she published five collections of [[Urdu poetry]] ({{transl|ur|ALA-LC|''‘S&#x332;h&#x332;ahr-i Dard’''}}, {{transl|ur|ALA-LC|''‘G&#x332;h&#x332;azālān&#x331;, Tum to Wāqif Ho!’''}}, {{transl|ur|ALA-LC|''‘Ḥarf-i S&#x332;h&#x332;anāsāʾī’''}}, {{transl|ur|ALA-LC|''‘Safar Bāqī’''}}, and {{transl|ur|ALA-LC|''‘Mausam, Mausam’''}}),{{efn|{{lang|ur|{{nq|شہر درد، غزالاں تم تو واقف ہو، حرف شناسائی، سفر باقی، اور موسم موسم}}}}}}<ref name="Pak.today" /><ref name="express" /><ref name="teller" /> in addition to her autobiography ({{transl|ur|ALA-LC|''“Jo Rahī so BeK&#x332;h&#x332;abrī Rahī”''}}),{{efn|{{lang|ur|{{nq|جو رہی سو بےخبری رہی}}}}: {{Language with name/for||Urdu|''It was just ignorance that stayed on''}}}}<ref name="teller" /> and forty research papers.<ref name="poem" /><ref name="Saudi" /> She also published her collection of Urdu [[Haiku]], {{transl|ur|ALA-LC|''Sāz-i Suk&#x332;h&#x332;n Bahānā hai''}}{{efn|{{lang|ur|{{nq|سازِ سخن بہانا ہے}}}}}}<ref name="Aina" /><ref name="express" /> Her [[ghazal]], {{transl|ur|ALA-LC|''Hon&#x331;ṭon&#x331; pih kabhī un ke merā nām hī āʾe''}}{{efn|{{lang|ur|{{nq|ہونٹوں پہ کبھی ان کے میرا نام ہی آئے}}}}}}<ref name=express>{{cite news|title={{nq|شاعرہ ادا جعفری انتقال کرگئیں}}|url=http://www.express.pk/story/336581/|access-date=13 March 2015|work=Express News|language=ur}}</ref> was sung and popularised by [[Ustad Amanat Ali Khan]].<ref name="Junaid" /><ref name="Dawn" /><ref name="Pak.today" /><ref name="teller" /> The first [[Sher (poem)|couplet]] of that ghazal is:<ref name="express" />
+
+{|
+| {{spaces|1}} || <div align=center style="direction: rtl;">{{nowrap|{{lang|ur|{{nq|ہونٹوں پہ کبھی ان کے، میرا نام ہی آئے}}}}}}</div> ||{{spaces|1}}|| <div align=center style="direction: rtl; font-size: larger;">{{lang|ur|{{nq|؎}}}}</div>
+|-
+| || <div align=center style="direction: rtl;">{{nowrap|{{lang|ur|{{nq|آئے تو سہی، برسرالزام ہی آئے}}}}}}</div> || ||
+|}
+
+'''Transliteration:'''
+:{{nowrap|{{transl|ur|ALA-LC|''Hon&#x331;ṭon&#x331; pih kabhī un ke, merā nām hī āʾe''}}}}
+:{{nowrap|{{transl|ur|ALA-LC|''Āʾe to sahī, barsar-i ilzām hī āʾe''}}}}
+
+==Awards==
+In 1955, [[Hamdard Foundation]], [[New Delhi]] recognized her as the "Outstanding Female Poet of the Century".<ref name="Saudi" /> Later, she was awarded the [[Adamjee Literary Award]] by the Pakistan Writers' Guild in 1967 for her second poetic collection, {{transl|ur|ALA-LC|''S&#x332;h&#x332;ahr-i Dard''}}.{{efn|{{lang|ur|{{nq|شہر درد}}}}: {{language with name/for||Urdu|''The City of Pain''}}}}<ref name="Saudi" /><ref name=urdu.times>{{cite news|title={{nq|اردو کی پہلی مقبول شاعرہ ادا جعفری علالت کے بعد انتقال کر گئیں}} |url=http://www.urdutimes.com/content/76071 |archive-url=https://web.archive.org/web/20150402113955/http://www.urdutimes.com/content/76071 |url-status=dead |archive-date=2 April 2015 |access-date=14 March 2015 |work=Urdu Times |language=ur }}</ref> In recognition of her work, the Government of Pakistan awarded her the [[Tamgha-e-Imtiaz|Medal of Excellence]] in 1981.<ref name="Saudi" /> She received the [[Baba-e-Urdu|Baba-e Urdu, Dr. Maulvi Abdul Haq]] Award from the [[Pakistan Academy of Letters]] in 1994,<ref name="Dawn" /> and the [[Quaid-e Azam]] Literary Award in 1997.<ref name="poem" /> She was also the recipient of the {{linkColor|#002BB8|Hamdard Foundation of Pakistan}}'s Certificate of Merit.<ref name="poem" /> She was the recipient of various international awards from literary societies in North America and Europe.<ref name="Saudi" /><ref name=editorial>{{cite news|title={{nq|ممتاز شاعرہ ادا جعفری کی رحلت}}|url=http://www.express.pk/story/336741/|access-date=14 March 2015|work=Express News|language=ur}}</ref>
+
+The [[Government of Pakistan]] conferred upon her the [[Pride of Performance]] Award for Literature in 2003 (awards were announced on 14 August 2002).<ref>[https://www.dawn.com/news/52557/two-foreigners-among-94-conferred-civil-awards Ada Jafri's Pride of Performance Award on Dawn (newspaper)], Published 14 August 2002, Retrieved 26 September 2017</ref><ref name="Saudi" /><ref name=teller>{{cite news|title='Honto pay kbhi un k mery naam hi aeay' fame poetess Ada Jafri passes away|url=http://www.thenewsteller.com/local/honto-pay-kbhi-un-k-mery-naam-hi-aeay-fame-poetess-ada-jafri-passes-away/10249/|access-date=13 March 2015|work=The News Teller}}{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> She was the recipient of the Kamal-e Fan Award for lifetime achievement in literature by the Pakistan Academy of Letters in 2003. She was the first woman recipient of the award since the literary prize was established by the [[Pakistan Academy of Letters]] (PAL) in 1997.<ref name="poem" />
+
+==Feminist views==
+Ada Jafarey was a supporter of [[feminism]].<ref name="South Asia" /><ref name="Junaid" /><ref name="editorial" /><ref>{{cite news|title={{nq|ممتاز شاعرہ ادا جعفری کی رحلت}} |url=http://www.southasianmedia.net/stories/pakistan/urdu-media/242954-story |access-date=14 March 2015 |work=South Asian Media |language=ur |url-status=dead |archive-url=https://web.archive.org/web/20150402132800/http://www.southasianmedia.net/stories/pakistan/urdu-media/242954-story |archive-date=2 April 2015 }}</ref> She expressed her views thus:{{efn|{{transl|ur|ALA-LC|''Main&#x331; ne mardon&#x331; kī ʿāʾid kardah pābandiyon&#x331; ko qubūl nahīn&#x331; kiyā, balkih un pābandiyon&#x331; ko qubūl kiyā jo mere z&#x331;ahn ne mujh pih ʿāʾid kī hain&#x331;. Main&#x331; samajhtī hūn&#x331; kih bāt ko bainu l-sutūr kahnā zyādah munāsib hai kyūn&#x331;kih ramz o-kināyah bhī to s&#x332;h&#x332;āʿirī kā ḥusn hai.''}}}}<ref name="poetry" /><ref>{{cite news|title={{nq|اردو کی معروف شاعرہ ادا جعفری انتقال کر گئیں}}|url=http://www.urduvoa.com/content/pakistan-poetess-ada-jafri-died/2678611.html|access-date=14 March 2015|work=VOA Urdu|language=ur}}</ref>
+
+{{Pull quote|{{lang|ur|{{nq|میں نے مردوں کی عائد کردہ پابندیوں کو قبول نہیں کیا، بلکہ اُن پابندیوں کو قبول کیا جو میرے ذہن نے مجھ پہ عائد کی ہیں۔۔۔ میں سمجھتی ہوں کہ بات کو بین الستور کہنا زیادہ مناسب ہے کیونکہ رمز و کنایہ بھی تو شاعری کا حُسن ہے۔}}}}}}
+
+{{quote|text=I did not accept the restrictions imposed by men, rather accepted only those restrictions which my mind has imposed upon me... I think that saying things from behind a veil is more appropriate because symbolism and allusion are the beauty of poetry, too.}}
+
+==Critical reputation==
+Various critics say that Jafarey's poetry is full of politeness of expression. She combines both old and new thoughts in a unique artistic way through her poetry.<ref name="Junaid" />
+
+Qazi Abdul Ghaffar, in his introduction to Ada Jafarey’s collection of verses, particularly mentioned her name in the field of feminist way of expression.<ref name="South Asia" />
+
+The Urdu poet and critic, [[Jazib Qureshi]], said:<ref name="Saudi" /><br>''“Ada Jafarey is the first and only lady poet who carries in her poetry the eternal colours of [[Mirza Ghalib|Ghalib]], [[Allama Iqbal|Iqbal]], and [[Jigar Moradabadi|Jigar]].''”
+
+==See also==
+{{portal|Poetry}}
+*[[Ghazal]]
+*[[Fehmida Riaz]]
+*[[Kishwar Naheed]]
+*[[Parveen Shakir]]
+
+==Notes==
+{{notes|2}}
+
+==External links==
+*[http://www.mediafire.com/download/jlg2id4aj65l5fv/Main+Saaz+Dhondhte+Rahi+by+Ada+Jafri.pdf {{transl|ur|ALA-LC|''Main&#x331; Sāz Ḍhūn&#x331;ḍtī Rahī''}} — Download Ada Jafri's autobiography (in Urdu)]
+
+==Citations==
+{{Reflist|30em}}
+{{Pride of Performance for Arts}}
+{{Authority control}}
+
+{{DEFAULTSORT:Jafri, Ada}}
+[[Category:1924 births]]
+[[Category:2015 deaths]]
+[[Category:Pakistani women poets]]
+[[Category:Muhajir people]]
+[[Category:Urdu-language poets]]
+[[Category:Muslim poets]]
+[[Category:Pakistani Muslims]]
+[[Category:People from Karachi]]
+[[Category:Pakistani feminist writers]]
+[[Category:Recipients of the Pride of Performance]]
+[[Category:Recipients of Tamgha-e-Imtiaz]]
+[[Category:20th-century Pakistani poets]]
+[[Category:20th-century women writers]]
+[[Category:20th-century Pakistani women writers]]
+[[Category:Recipients of the Adamjee Literary Award]]

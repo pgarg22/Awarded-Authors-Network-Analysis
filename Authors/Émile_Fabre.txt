@@ -1,0 +1,44 @@
+{{Use dmy dates|date=July 2013}}
+
+'''Émile Fabre''' (24 March 1869 in [[Metz, France]] – 25 September 1955 in [[Paris]]) was a French playwright and [[administrators of the Comédie-Française|general administrator]] of the ''[[Comédie-Française]]'' from 1915 to 
+
+{{Infobox person
+| name               = Émile Fabre
+| image              = Emile_Fabre.jpg
+| caption            = Émile Fabre in 1917
+| birth_date         = 24 March 1869
+| birth_place        = Metz, France
+| death_date         = 25 September 1955
+| death_place        = Paris, France
+}}
+
+1936.<ref name=":0">{{Cite journal|last=McCready|first=Susan|date=2003|title=The Compromise of Commemoration: The 1927 Centennial of Romanticism at the Comédie-Française|url=https://muse.jhu.edu/article/501089/summary|journal=Modern Drama|language=en|volume=46|issue=2|pages=227–240|doi=10.1353/mdr.2003.0058|s2cid=201757099|issn=1712-5286}}</ref><sup>:227</sup> He was greatly influenced by [[Balzac]] as a young man, and most of his best-known plays deal with the sacrifice of personal happiness to the pursuit of wealth.<ref name="MHEWD">Garreau, Joseph E. (1984). [https://books.google.com/books?id=WOAHl9i-n0EC&pg=PA136 "Fabre, Émile"] in Stanley Hochman (ed.) ''McGraw-Hill Encyclopedia of World Drama'', Vol. 1, p. 136. {{ISBN|0070791694}}</ref> He also wrote the [[libretto]] for [[Xavier Leroux]]'s opera ''[[Les cadeaux de Noël]]'' (The Christmas Gifts) which was a great success when it premiered in Paris in 1915.<ref>''[[Le Figaro]]'' (13 April 1917). [http://gallica.bnf.fr/ark:/12148/bpt6k291376f/f4.image "Courrier des Théâtres"], p.&nbsp;4 {{in lang|fr}}</ref>
+
+== Career at the Comédie-Française ==
+Fabre was appointed general administrator of the ''[[Comédie-Française]]'' on 2 December 1915.<ref name=":0" /><sup>:227</sup> According to Susan McCready,<blockquote>During Fabre's tenure, the ''Comédie-Française'' moved from the center of the theatre scene, where theatrical creation and innovation are paramount, to its periphery, where [ . . . ] its role was increasingly limited to the preservation of the past.<ref name=":0" /><sup>:2</sup></blockquote>In 1922 he organised the Cycle [[Molière|Moliere]], in which all of Moliere's plays were performed in chronological order.<ref name=":0" /><sup>:231</sup>
+
+The success of this event, encouraged him to organise the Centennial of [[Romanticism]] in 1927, the 100-year anniversary of [[Victor Hugo|Victor Hugo's]] ''[[Cromwell (play)|Preface de Cromwell]]'' (Qe Waleffe).<ref name=":0" /><sup>:232</sup> Over the course of the Centennial the theatre staged twenty-one Romantic plays.
+
+He resigned from the position 15 October 1936.<ref name=":0" /><sup>:227</sup> 
+
+==Plays==
+Fabre's plays include:<ref name = "MHEWD" />
+* ''L'Argent'' (''Money''), 1895
+* ''La Vie publique'' (''Public Life''), 1901
+* ''Les Ventres dorés'' (''Gilded Stomachs''), 1905
+* ''Les Sauterelles'' (''The Locusts''), 1911
+
+==References==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fabre, Emile}}
+[[Category:1869 births]]
+[[Category:1955 deaths]]
+[[Category:Administrators of the Comédie-Française]]
+[[Category:19th-century French dramatists and playwrights]]
+[[Category:20th-century French dramatists and playwrights]]
+
+{{Playwright-stub}}
+{{France-writer-stub}}

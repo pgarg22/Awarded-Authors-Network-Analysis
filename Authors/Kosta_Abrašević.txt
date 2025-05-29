@@ -1,0 +1,68 @@
+{{More citations needed|date=September 2021}}
+
+{{Infobox person
+| name               = Kosta Abrašević
+| image              = Kosta Abrasevic.jpg
+| native_name        = Коста Абрашевић
+| caption            = Portrait of Abrašević
+| birth_date         = {{Birth date|df=y|1879|5|29}}
+| birth_place        = [[Ohrid]], [[Ottoman Empire]]
+| death_date         = {{Death date and age|df=y|1898|1|20|1879|5|29}}
+| death_place        = [[Šabac]], [[Principality of Serbia]]
+| field              = 
+| nationality        = 
+| alma_mater         = 
+| occupation         = poet
+| awards             = 
+}}
+
+'''Kosta Abrašević''' or '''Kosta Abraš''' ({{lang-sr-cyr|Коста Абрашевић}}, 29 May 1879 – 20 January 1898) was a Serbian poet, highly patriotic in his themes, while active at a time when [[Serbs]] of [[Old Serbia]] were struggling to rid themselves of [[Ottoman Empire|Turks]] and other invaders.
+
+==Life==
+Kosta Hristić was born in [[Ohrid]] in the [[Manastir Vilayet]] of the [[Ottoman Empire]] (in present-day [[Republic of Macedonia]]) on 29 May 1879 to a poor merchant family. His father, Naum Hristić, was [[Serbs|Serb]] and his mother Sotira was [[Greeks|Greek]].
+
+After finishing three years in a Greek school in Ohrid, he continued his schooling at a gymnasium (high school) in [[Šabac]], where he started using the patronymic of his father's nickname "Abraš" as a surname. Early on in his life he came in contact with [[Socialist]] ideas, and founded a political-writer group in Šabac, which published magazines ''Omirov venac'' and ''Grbonja''. In his poetry social ideas are prevalent. This could be seen in his poem ''Red'', where the expression "Ruby-red" is associated with blood and "Mighty veins," "lighting" and "dark eyes" all showed the inevitable triumph of the workers and the crushing defeat of tyrants (Turks). He translated German Socialist poets. His original poems are found in socialist magazines after his death, and his collection, which had seen many editions, was printed by high school and college student groups in 1903. His works are translated into Russian, Hungarian, Albanian and Romanian, also some of his works are interpreted by composers such as S. Anđelić and M. Živković. He died in Šabac on 20 January 1898 from [[tuberculosis]] at the age of 18.<ref>{{cite web|url=https://kostaabrasevicblog.wordpress.com/2016/08/05/a-poet-who-lives-online/|title=A Young Poet Who Lives On(line)|website=KOSTA|access-date=September 7, 2021}}</ref>
+
+Today many cultural and artistic societies throughout Serbia and Bosnia and Herzegovina carry his name. He remains a forgotten figure in Serbian poetry, although many critics consider his poems to be significant for the poetic emergence in the ranks of the former Yugoslav proletariat. The poems of Kosta Abrasević reflect strong dissatisfaction and rebellion against the then-position of the dominant and privileged class—the Turk—and thus are paradoxically and prematurely identified as proletarian and socialist. Kosta Abrasević died too young to make a significant mark in literature.
+
+The following poem is titled "The Wind Whistles":
+<poem>The wind whistles on all sides,
+Scrapes the wood, breaks the branches!
+With all the force of its flight
+Sweeping across, rushing over the world.
+Whistling a song - to the horizon!
+About the courageous fighter who fights
+For his whole life
+For an idea, for his principles.
+May this hope always follow him:
+That, when death overcomes him,
+New fighters will appear
+Take up his flag,
+Whistling a song, whistling to all
+the wicked and to the tyrants!
+A song of anger, a song that rages
+A song that brings fear,
+A song of pity, a song of poverty,
+Let them hear it, let them grow pale!</poem>
+
+==Legacy==
+After [[Grigor Parlichev]] of Ohrid, the wearer of the laureate wreath was Kosta Abrašević. Both were born in Ohrid, yet each claimed a different loyalty, one was a Bulgarian and the other a Serb respectively.
+
+==Sources==
+{{reflist}}
+* {{cite book|author=M. Милојковић|title=Коста Абрашевић|publisher=Живот и рад, Београд|year=1951}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Abrasevic, Kosta}}
+[[Category:1879 births]]
+[[Category:1898 deaths]]
+[[Category:People from Ohrid]]
+[[Category:People from Manastir Vilayet]]
+[[Category:19th-century Serbian people]]
+[[Category:Serbian male poets]]
+[[Category:Serbian people of Greek descent]]
+[[Category:Serbs of North Macedonia]]
+[[Category:19th-century Serbian poets]]
+
+{{Serbia-poet-stub}}

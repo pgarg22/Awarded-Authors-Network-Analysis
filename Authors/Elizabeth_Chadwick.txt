@@ -1,0 +1,115 @@
+{{for|the Irish missionary and educator|Elizabeth Chadwick (missionary)}}
+{{Use dmy dates|date=October 2016}}
+{{Use British English|date=October 2016}}
+{{multiple issues|
+{{More footnotes|date=January 2010}}
+{{BLP primary sources|date=July 2011}}
+}}
+
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+| imagesize   = 
+| name        = Elizabeth Chadwick
+| caption     = 
+| pseudonym   =  
+| birth_name = 
+| birth_date  = 
+| birth_place = 
+| death_date  = 
+| death_place = 
+| occupation  = Author
+| nationality = 
+| period      = 
+| genre       = [[Historical fiction]]
+| subject     = 
+| movement    = 
+| notableworks = 
+| influences  = 
+| influenced  =
+| signature   = 
+| website = {{URL|http://www.elizabethchadwick.com/}}
+}}
+'''Elizabeth Chadwick''' is an [[author]] of [[historical novel|historical fiction]]s. She is a member of [[Regia Anglorum]], a [[medieval reenactment]] organisation.
+
+==Biography==
+Elizabeth Chadwick was born in [[Bury, Lancashire]] in 1957. She moved with her family to Scotland when she was four years old and spent her childhood in the village of [[Newton Mearns]] near Glasgow. She came to Nottingham when she was ten and has lived there ever since.  She has told herself stories all of her life, but didn't actually write anything down until she was fifteen. Her first foray into historical fiction, a novel about the Holy Land in the twelfth century, led her to the realisation that she wanted to write historical fiction for a living.
+
+In 1989, after years of writing and rejections during which her works won some competitions, a literary agent became interested in ''The Wild Hunt'', one of her books. The book was auctioned to Michael Joseph, part of [[Penguin Group]]. A year later the book won a [[Betty Trask Award]], which was presented to the author at Whitehall by the [[Charles, Prince of Wales|Prince of Wales]].
+
+Elizabeth Chadwick has gone on to become one of Britain's foremost historical novelists and has been called by the [[Historical Novel Society]] "the best writer of medieval fiction currently around".{{citation needed|date=May 2018}} She is published internationally, and her work has been translated into 16 languages. Chadwick is renowned for her extensive research into the medieval period and particularly so in the area of the Marshal and [[Bigod family|Bigod]] families.  Her novels about the thirteenth-century magnate [[William Marshal]], ''The Greatest Knight'' (2005) and ''The Scarlet Lion'' (2006), have brought her international acclaim.
+
+==Works==
+
+===Wild Hunt series===
+# ''The Wild Hunt'' (1990) {{ISBN|0-3453-7724-9}}
+# ''The Running Vixen'' (1991) {{ISBN|0-3120-7793-9}}
+# ''The Leopard Unleashed'' (1993) {{ISBN|0-3120-9323-3}}
+# ''The Coming of the Wolf'' (2020)
+
+===The Fitzwarin novels===
+# ''Shadows And Strongholds'' (2004)
+# ''Lords of the White Castle'' (2000)
+
+===[[William Marshal]] novels===
+# ''The Greatest Knight'' (2005)
+# ''The Scarlet Lion'' (2006)
+
+===The Bigod novels===
+# ''The Time of Singing'' (2008) (published as ''For the King's Favor'' in the U.S.) 
+# ''To Defy A King'' (2010) - book about [[William Marshal, 1st Earl of Pembroke|William Marshal]]'s eldest daughter, [[Maud Marshal]] (1192 - 1248)
+
+===[[Eleanor of Aquitaine]] series===
+# ''The Summer Queen'' (2013)
+# ''The Winter Crown'' (2014)
+# ''The Autumn Throne'' (2016)
+
+===Largely standalone novels===
+* ''Children of Destiny'' (1994) – since retitled ''Daughters of the Grail''
+* ''Shields of Pride'' (1994)
+* ''First Knight'' (1996)
+* ''The Conquest'' (1996)
+* ''The Champion'' (1997)
+* ''The Love Knot'' (1998)
+* ''The Marsh King's Daughter'' (1999)
+* ''The Winter Mantle'' (2002)
+* ''The Falcons of Montabard'' (2003) – connected with Winter Mantle
+* ''A Place Beyond Courage'' (2007) – novel about William Marshal's father
+* ''Lady of the English'' (2011) – about [[Adeliza of Louvain]] and Maude of England
+* ''The Irish Princess'' (2019)
+
+==Awards==
+* [[Betty Trask Award]] 1990 for ''The Wild Hunt''<ref>{{cite web|title=Betty Trask Award|url=http://www.literaryawards.com.au/british/bettytrask.html|website=www.literaryawards.com.au|accessdate=3 October 2016|archive-url=https://web.archive.org/web/20180313230141/http://www.literaryawards.com.au/british/bettytrask.html|archive-date=13 March 2018|url-status=dead}}</ref>
+
+==Nominations==
+For the Romantic Novelists Award:
+* 1998 – ''The Champion''
+* 2001 – ''The Lords of the White Castle''
+* 2002 – ''The Winter Mantle''
+* 2003 – ''The Falcons of Montabard''
+* ''The Scarlet Lion'' was nominated by Richard Lee, founder of the Historical Novel Society, as one of the top ten historical novels of the last decade.
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website}}
+* {{LCAuth|nb2012000233|Elizabeth Chadwick|26|ue}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Chadwick, Elizabeth}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:People from Bury, Greater Manchester]]
+[[Category:People from Nottingham]]
+[[Category:20th-century English novelists]]
+[[Category:21st-century English novelists]]
+[[Category:English historical novelists]]
+[[Category:English romantic fiction writers]]
+[[Category:English women novelists]]
+[[Category:Women romantic fiction writers]]
+[[Category:Writers of historical fiction set in the Middle Ages]]
+[[Category:Writers of historical romances]]
+[[Category:21st-century English women writers]]
+[[Category:20th-century English women writers]]
+[[Category:Women historical novelists]]

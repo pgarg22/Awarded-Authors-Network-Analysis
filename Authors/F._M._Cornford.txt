@@ -1,0 +1,117 @@
+{{Short description|British classical scholar, 1874–1943}}
+{{Use dmy dates|date=January 2020}}
+{{EngvarB|date=January 2020}}
+{{Infobox academic
+|name = F.&nbsp;M. Cornford
+|honorific_suffix = {{post-nominals|country=GBR|FBA|size=100%}}
+|image = 
+|alt = 
+|caption = 
+|birth_name = Francis Macdonald Cornford
+|birth_date = {{birth date|df=y|1874|02|27}}
+|birth_place = [[Eastbourne]], England
+|death_date = {{death date and age|df=y|1943|01|03|1874|02|27}}
+|death_place = [[Cambridge]], England
+|spouse = {{marriage|[[Frances Cornford]]|1909}}
+|children = {{hlist |Helena Darwin Cornford |[[John Cornford]] |[[Christopher Cornford]] |Hugh Cornford |Ruth Chapman}}
+|alma_mater = [[Trinity College, Cambridge]]
+|thesis_title = 
+|thesis_year = 
+|school_tradition = 
+|doctoral_advisor = 
+|academic_advisors = 
+|influences = {{flatlist|
+*[[Gilbert Murray]]{{sfn|Johnson|2008|p=2}}
+*[[A.&nbsp;W. Verrall]]{{sfn|Johnson|2008|p=2}}
+}}
+|era = 
+|discipline = [[Classics]]
+|sub_discipline = <!--academic discipline specialist area – e.g. Sub-atomic research, 20th-century Danish specialist, Pauline research, Arcadian and Ugaritic specialist-->
+|workplaces = [[Trinity College, Cambridge]]
+|doctoral_students = <!--only those with WP articles-->
+|notable_students = [[W.&nbsp;K.&nbsp;C. Guthrie]]
+|main_interests = 
+|notable_works = 
+|notable_ideas = 
+|influenced = <!--must be referenced from a third-party source-->
+|signature = 
+|signature_alt = 
+}}
+'''Francis Macdonald Cornford''' {{post-nominals|country=GBR|FBA}} (27 February 1874 – 3 January 1943) was an English [[classics|classical scholar]] and translator. He was known for influential work on [[ancient philosophy]], notably [[Plato]], [[Parmenides]], [[Thucydides]], and [[ancient Greek religion]]. [[Frances Cornford]], his wife, was a noted poet. Due to the similarity in their names, he was known in the family as "FMC" and his wife as "FCC".{{sfn |Hackforth |Gill |2004}}
+
+==Early life and family==
+Cornford was born in [[Eastbourne]], [[Sussex]], on 27 February 1874.{{sfn |Hackforth |Gill |2004}} He attended [[St Paul's School, London]].{{sfn |Hackforth |Gill |2004}}
+
+In 1909 Cornford married the poet [[Frances Cornford|Frances Darwin]], daughter of [[Francis Darwin|Sir Francis Darwin]] and [[Ellen Wordsworth Darwin]], née Crofts, and a granddaughter of [[Charles Darwin]]. They had five children:
+*Helena (1913–1994), who married [[Joseph L. Henderson]] in 1934<ref>{{Cite news |last=Pearce |first=Jeremy |date=4 December 2007 |title=Joseph L. Henderson, 104; Expanded Jungian Methods |url=https://www.nytimes.com/2007/12/04/us/04henderson.html |url-access=limited |work=The New York Times |access-date=13 November 2019}}</ref> 
+*[[John Cornford|John]] (1915–1936), poet and Communist killed in the [[Spanish Civil War]]
+*[[Christopher Cornford|Christopher]] (1917–1993), artist and writer, the father of [[Adam Cornford]]
+*Hugh Wordsworth (1921–1997), medical doctor{{sfn |Hartog |1998}}
+*Ruth Clare (1923–1992), mother of [[Matthew Chapman (author)|Matthew Chapman]]
+
+==Academic career==
+Cornford was educated at [[Trinity College, Cambridge]], where he was a Fellow from 1899 and held a teaching post from 1902.<ref>{{acad |id=CNFT893FM |name=Cornford, Francis Macdonald}}</ref> He became the first [[Laurence Professor of Ancient Philosophy]] in 1931 and was elected a [[Fellow of the British Academy]] in 1937.{{sfn |Hackforth |Gill |2004}} He used wit and satire to propagate proposals for reforming the teaching of the classics at Cambridge, in ''[[Microcosmographia Academica]]'' (1908).{{sfn |Hackforth |Gill |2004}}
+
+He died on 3 January 1943 in his home, [[Conduit Head]] in [[Cambridge]].{{sfn |Hackforth |Gill|2004}} He was cremated at Cambridge Crematorium on 6 January 1943.{{sfn|Hackforth|Gill|2004}}
+
+==Works==
+*[https://archive.org/details/thucydidesmythis00cornuoft ''Thucydides Mythistoricus''] (1907) put the argument that [[Thucydides]]'s ''[[History of the Peloponnesian War]]'' was informed by Thucydides's [[tragic]] view.
+*''[[iarchive:in.ernet.dli.2015.179784/page/n3|From Religion to Philosophy: A Study in the Origins of Western Speculation]]'' (1912) sought the deep religious and social concepts that informed the early Greek philosophers. He returned to this in ''Principium Sapientiae: The Origins of Greek Philosophical Thought'' (posthumous, 1952).
+*''[[Microcosmographia Academica]]'' (1908) was an insider's satire on academic politics. It was the source of catch phrases such as the "doctrine of unripeness of time", the "principle of the wedge" and the "principle of the dangerous precedent".<ref>{{Cite magazine |last=Wilby |first=Peter |author-link=Peter Wilby |date=4 May 2009 |title=Pass the Sickbag, Alice |url=http://www.newstatesman.com/politics/2009/05/women-evidence-tax-fast |magazine=New Statesman |volume=138 |issue=4947 |location=London |access-date=13 November 2019}}</ref><ref>{{Cite magazine |date=10 September 2001|title=Slavery Was Theft: We Should Pay |url=https://www.newstatesman.com/node/154073 |magazine=New Statesman |location=London |access-date=13 November 2019}}</ref>
+*''Before and After Socrates'' (1932)
+*''Plato's Cosmology : The Timaeus of Plato.'' Hackett Publishing Company (1935)
+*According to the preface to ''[[Republic (Plato)|The Republic of Plato]]'', translated with an introduction and notes (OUP, 1941), it "aims at conveying... as much as possible of the thought of the ''Republic'' in the most convenient and least misleading form."
+
+==See also==
+{{Portal|Biography}}
+*[[Jane Ellen Harrison]]
+*[[Conduit Head]]
+*[[Esther Salaman]]
+
+==References==
+===Footnotes===
+{{reflist}}
+
+===Sources===
+{{refbegin|35em|indent=yes}}
+*{{Cite encyclopedia |last1=Hackforth |first1=Reginald |author1-link=Reginald Hackforth |last2=Gill |first2=David |year=2004 |title=Cornford, Francis Macdonald (1874–1943) |encyclopedia=[[Oxford Dictionary of National Biography]] |location=Oxford |publisher=Oxford University Press |doi=10.1093/ref:odnb/32571}}
+*{{Cite journal |last=Hartog |first=Martin |year=1998 |title=Obituaries: Hugh Wordsworth Cornford |journal=BMJ |volume=316 |issue=7136 |page=1023 |pmc=1112870 |pmid=9552882 |issn=1756-1833}}
+*{{Cite book |last=Johnson |first=Gordon |author-link=Gordon Johnson (historian) |year=2008 |title=University Politics: F.&nbsp;M. Cornford's Cambridge and His Advice to the Young Academic Politician |edition=2nd |location=Cambridge, England |publisher=Cambridge University Press |isbn=978-0-521-89789-1}}
+{{refend}}
+
+==External links==
+*[https://web.archive.org/web/20091103112424/http://larvatus.livejournal.com/222591.html ''Microcosmographia Academica'' online]
+*[https://web.archive.org/web/20160303224515/http://www.britac.ac.uk/fellowship/directory/dec.cfm?member=3432 British Academy Fellowship entry]
+*[https://archive.org/details/cu31924022693117 ''The Origin of Attic Comedy''] (1914)
+*[https://archive.org/details/greekreligiousth00cornuoft ''Greek Religious Thought from Homer to the Age of Alexander''] (1923)
+*[https://archive.org/details/backgroundtomode032734mbp ''Greek Natural Philosophy and Modern Science''] a Lecture (1938) 
+*{{FadedPage|id=Cornford, Francis Macdonald|name=Francis Macdonald Cornford|author=yes}}
+*{{worldcat id|lccn-n50-20430}}
+*[http://www.trinitycollegechapel.com/about/memorials/brasses/cornford/ Trinity College Chapel]
+*{{Find a Grave|96738734}}
+
+{{s-start}}
+{{s-aca}}
+{{s-new|office}}
+{{s-ttl|title=[[Laurence Professor of Ancient Philosophy]]|years=1930–1939}}
+{{s-aft|after=[[Reginald Hackforth]]}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Cornford, Francis}}
+[[Category:1874 births]]
+[[Category:1943 deaths]]
+[[Category:20th-century English male writers]]
+[[Category:20th-century scholars]]
+[[Category:20th-century British translators]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:British scholars of ancient Greek philosophy]]
+[[Category:Darwin–Wedgwood family]]
+[[Category:English classical scholars]]
+[[Category:English translators]]
+[[Category:Fellows of the British Academy]]
+[[Category:Fellows of Trinity College, Cambridge]]
+[[Category:Members of the University of Cambridge faculty of classics]]
+[[Category:People educated at St Paul's School, London]]
+[[Category:People from Eastbourne]]

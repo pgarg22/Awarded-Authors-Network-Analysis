@@ -1,0 +1,326 @@
+{{short description|Bosnian-American poet (born 1968)}}
+{{Infobox person
+| name        = Sasha Skenderija
+| image       = Sasha Skenderija.jpg
+| image_size  =
+| caption     =
+| birth_date  = {{birth date and age|1968|7|4|df=y}}
+| death_date  = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| birth_place = [[Vitez]], [[Socialist Republic of Bosnia and Herzegovina|Bosnia and Herzegovina]], [[SFR Yugoslavia]]
+| known_for   = [[Poetry]]<br />[[Lyrics]]
+| education   = [[University of Sarajevo]]<br />[[Charles University]]
+| occupation  = [[Poet]]<br />[[Author]]
+}}
+
+'''Sasha Skenderija''' (born 4 July 1968) is a Bosnian-American [[poet]] currently residing in [[Prague]].
+
+==Biography==
+
+Skenderija began publishing poetry, prose and criticism in [[Bosnian language|Bosnian]] ([[Serbo-Croatian]]) in the late 1980s, graduating from the [[University of Sarajevo]] in 1991. After surviving six months of the [[siege of Sarajevo]], he fled to [[Prague]], where he received a [[Ph.D]]. in [[Information Science]] from [[Charles University]] (1997). In 1999, with the help of translator and [[Cornell University]] linguistics professor [[Wayles Browne]],<ref>{{cite book
+| last      = Skenderija
+| first     = Sasha
+|author2=Wayles Browne 
+| title     = Why the Dwarf Had to be Shot
+| publisher = Black Buzzard Press
+| year      = 2008
+| location  = Austin, Texas
+| pages     = 96
+| url       = http://www1.cuni.cz/~skenders/poetry/#dwarf
+| isbn      = 978-0-938872-39-9
+| quote     = Afterword (p. 90-92) and About the Translators (p.94) describe history of Skenderija/Browne collaboration.| author2-link = Wayles Browne
+}}
+</ref> Skenderija arrived in Ithaca, New York. He relocated to New York City in 2010 and lived in [[Astoria, Queens]].<ref>{{cite book
+| last      = Skenderija
+| first     = Sasha
+|author2=Wayles Browne 
+| title     = Cape of Good Hope
+| publisher = Tešanj : Centar za kulturu i obrazovanje
+| year      = 2011
+| location  = Tešanj, Bosnia
+| pages     = 47, [1], 47, [1] p. tête-bêche
+| isbn      = 978-9958-792-78-6
+| quote     = The notes About the Author and About the Translators (p.47) describe Skenderija's recent whereabouts and history of Skenderija/Browne collaboration.| oclc = 732098431
+| author2-link = Wayles Browne
+}}
+</ref> He now lives in [[Prague]], [[Czech Republic]] while working for the [[Czech National Library of Technology]].<ref>{{cite web |url=http://www.techlib.cz/en/2512-organizational-structure/ |title=Organizational Structure |publisher=National Library of Technology |accessdate=19 May 2013 |url-status=dead |archiveurl=https://archive.is/20130616083640/http://www.techlib.cz/en/2512-organizational-structure/ |archivedate=16 June 2013 }}</ref>
+
+Skenderija is one of the most renowned Bosnian poets born since 1960, and his work confronts a range of experience, from the quotidian to the polemical, while pushing the boundaries of the genre.<ref>{{cite book
+|editor-last      = Greene
+|editor-first     = Roland
+|editor2=Stephen Cushman |editor3=Clare Cavanagh |editor4=Jahan Ramazani |editor5=Paul Rouzer |editor6=Harris Feinsod |editor7=David Marno |editor8=Alexandra Slessarev
+| title     = The Princeton Encyclopedia of Poetry and Poetics 4th Edition
+| publisher = Princeton University Press
+| year      = 2012
+| location  = Princeton
+| pages     = 68
+| url       = https://books.google.com/books?isbn=0691154910
+| isbn      = 978-0691154916
+| quote     = The entry on Bosnian poetry, page 68, by A. Vidan cites Skenderija as one of the most relevant contemporary Bosnian poets.}}
+</ref> He ranks among the Bosnian poets with the most English-language reviews.<ref>{{cite book
+| last      = Jones
+| author-link      = Francis R. Jones
+| first     = Francis R.
+| title     = Poetry Translating as Expert Action: Processes, Priorities and Networks
+| publisher = John Benjamins Pub. Co.
+| year      = 2011
+| location  = Amsterdam, Philadelphia
+| pages     = 68
+| url       = https://books.google.com/books?isbn=9027224412
+| isbn      = 978-9027-224-41-5
+| quote     = All three poets cited by [[Francis R. Jones|Jones]] as having the most English-language reviews are currently living in North American diaspora.}}
+</ref>
+
+==Works==
+
+===Books of poetry (Bosnian)===
+
+* ''Golo O''<ref>{{cite book
+| title     = Golo O
+| last      = Skenderija
+| first     = Saša
+|author2=Vojislav Petković |author3=Todor Kršić |author4=Adis Đubo
+ | publisher = Banja Luka : Književna omladina
+| year      = 1987
+| location  = [[Banja Luka]]
+| pages     = 60
+| oclc      = 455625924}}
+</ref>
+* ''Kako naslikati žar-pticu''<ref>{{cite book
+| title     = Kako naslikati žar-pticu
+| last      = Skenderija
+| first     = Saša
+| publisher = Sarajevo : Svjetlost
+| year      = 1990
+| location  = [[Sarajevo]]
+| pages     = 61
+| isbn      = 86-01-01603-0 | oclc = 441692561
+}}
+</ref>
+* ''Ništa nije kao na filmu''<ref>{{cite book
+| title    = Ništa nije kao na filmu
+| last     = Skenderija
+| first    = Saša
+| year     = 1993
+| location = [[Prague]]
+| pages    = 55
+| oclc     = 34084119
+}}
+</ref>
+* ''Praški fraktali''<ref>{{cite book
+| title    = Praški fraktali
+| last     = Skenderija
+| first    = Saša
+| year     = 1998
+| location = Online
+| url      = http://www1.cuni.cz/~skenders/poetry/fraktali.pdf}}
+</ref>
+* ''Zašto je patuljak morao biti ustrijeljen''<ref>{{cite book
+| title     = Zašto je patuljak morao biti ustrijeljen
+| last      = Skenderija
+| first     = Saša
+| publisher = Tešanj : Centar za kulturu i obrazovanje
+| year      = 2005
+| location  = Tešanj, Bosnia
+| pages     = 103
+| isbn      = 9958-792-43-5
+| lccn = 2005484212
+}}
+</ref>
+* ''Rt Dobre Nade''<ref>{{cite book
+| last      = Skenderija
+| first     = Saša
+| title     = Rt Dobre Nade
+| publisher = Tešanj : Centar za kulturu i obrazovanje
+| year      = 2011
+| location  = Tešanj, Bosnia
+| pages     = 47, [1], 47, [1] p. bilingual (Bosnian English) tête-bêche edition
+| isbn      = 978-9958-792-78-6| oclc = 732098431
+}}
+</ref>
+
+===Books of poetry (English translation)===
+
+* ''Why the Dwarf Had to be Shot.''<ref>{{cite book
+| last      = Skenderija
+| first     = Sasha
+|author2=Wayles Browne 
+| title     = Why the Dwarf Had to be Shot
+| publisher = Black Buzzard Press
+| year      = 2008
+| location  = Austin, Texas
+| pages     = 96
+| isbn      = 978-0-938872-39-9| oclc = 310353449
+| author2-link = Wayles Browne
+}}
+</ref>
+* ''Cape of Good Hope''<ref>{{cite book
+| last      = Skenderija
+| first     = Sasha
+|author2=Wayles Browne 
+| title     = Rt Dobre Nade / Cape of Good Hope
+| publisher = Tešanj : Centar za kulturu i obrazovanje
+| year      = 2011
+| location  = Tešanj, Bosnia
+| pages     = 47, [1], 47, [1] p. bilingual (Bosnian-English) tête-bêche edition
+| isbn      = 978-9958-792-78-6| oclc = 732098431
+| author2-link = Wayles Browne
+}}
+</ref>
+
+===Poems in Anthologies===
+
+His poetry has been included in several Bosnian and Croatian anthologies and translated into [http://www1.cuni.cz/~skenders/poetry/czech.pdf Czech], [http://www1.cuni.cz/~skenders/poetry/english.pdf English], Macedonian<ref>{{cite journal
+| last    = Скендерија
+| first   = Саша
+| date    = March 2004
+| title   = Портал : Гласник На Македонски Духовни Конаци
+| journal = Портал : Гласник На Македонски Духовни Конаци
+| issue   = 9/10
+| volume  = 5}}
+</ref> and Slovenian:<ref>{{Cite web|url=http://cobiss2.izum.si/scripts/cobiss?ukaz=DISP&id=1827059636629558&fmt=14&rec=11&sid=1|title=COBISS/OPAC &#124; sl}}</ref>
+
+* ''Prague Tales: A Collection of Central European Contemporary Writing'',<ref>{{cite book
+| title     = Prague Tales: A Collection of Central European Contemporary Writing
+| last      = a'Beckett
+| first     = John
+| year      = 2007
+| publisher = New Europe Writers
+| url       = http://www.thymeworks.com/new/}}</ref>
+* ''Absinthe, New European Writing'',<ref>{{cite journal
+| date       = March 2006
+| title    = Absinthe, New European Writing
+| journal    = Absinthe, New European Writing
+| issue      = 5
+| url        = http://www.absinthenew.com
+| accessdate = 2009-02-06}}</ref>
+* ''There is Less and Less Space: Panorama of the Newest Bosnian Poetry (in Bosnian)'',<ref>{{cite book
+| title     = There is Less and Less Space: Panorama of the Newest Bosnian Poetry
+| last      = Grahovac
+| first     = Željko
+| year      = 2000
+| publisher = Delta
+| location  = Bihać
+| isbn      = 9958-9744-4-4
+| oclc = 51282949
+}}</ref>
+* ''Scar on the Stone: Contemporary Poetry from Bosnia'',<ref>{{cite book |title      = Scar on the Stone: Contemporary Poetry from Bosnia
+ |last       = Agee
+ |first      = Chris
+ |author-link = Chris Agee
+ |year       = 1998
+ |publisher  = Bloodaxe Books
+ |location   = UK
+ |isbn       = 1-85224-415-1
+ |url        = https://archive.org/details/scaronstoneconte0000unse
+ |url-access = registration
+}}</ref>
+* ''Conan Lives Here: Young Bosnian Poetry 1992-1996 (in Croatian)'',<ref>{{cite book
+| title     = Conan Lives Here: Young Bosnian Poetry 1992-1996
+| last      = Jergović
+| first     = Miljenko
+| year      = 1997
+| publisher = Durieux
+| location  = Zagreb
+| isbn      = 953-188-070-0
+| oclc = 38445829
+}}</ref>
+* ''Messages from the Bottom of the Night: Literature of Bosnia and Herzegovina under Siege and in Exile (in Czech)'',<ref>{{cite book
+| title     = Messages from the Bottom of the Night: Literature of Bosnia and Herzegovina under Siege and in Exile
+| last      = Karpatský
+| first     = Dušan
+| year      = 1995
+| publisher = Mladá fronta
+| location  = Prague
+| isbn      = 80-204-0542-9
+| oclc = 36611543
+}}</ref>
+* ''The Passion of Difference/Dark Sound of Emptiness: Croatian Poetry of the 1990s (in Croatian)''<ref>{{cite journal
+| last       = Mićanović
+| first      = Miroslav
+|author2=Branko Čegec
+| date       = March 1995
+| title    = Strast razlike, tamni zvuk praznine
+| journal    = Strast Razlike, Tamni Zvuk Praznine
+| volume     = 11
+| issue      = 5/6
+| pages      = 364–459
+| url        = http://katalog.nsk.hr/cgi-bin/Pwebrecon.cgi?v1=12&ti=1,12&Search_Arg=Skenderija&SL=None&Search_Code=NAME_&CNT=20&PID=5SVH1gABGDsX3GFf5Sn7-AHSnJpk&SEQ=20090206204318&SID=5
+| accessdate = 2009-02-06}}
+</ref>
+
+English translations of his poems have also been included in:
+
+* ''Balkan Visions and Silver Visions II,''<ref>{{cite journal
+| origyear       = 1995| year       = 2005
+| title    = Balkan Visions and Silver Visions II
+| journal    = Balkan Visions and Silver Visions II
+| volume     = VI
+| issue      = #48, #72
+| pages      = 364–459
+| url        = http://www.blackbuzzardpress.com/home.html
+| accessdate = 2009-02-06}}
+</ref>
+* ''[[Witness (magazine)|Witness]]''<ref>{{cite journal
+ |year        = 2006
+ |title       = Witness
+ |journal     = Witness
+ |volume      = XX
+ |url         = http://witness.blackmountaininstitute.org/archive.htm
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20090129173838/http://witness.blackmountaininstitute.org/archive.htm
+ |archivedate = 2009-01-29
+}}
+</ref>
+* ''Like a Fragile Index of the World: Poems for David Skorton''<ref>{{cite journal
+| last       = Fulton
+| first      = Alice
+| author-link = Alice Fulton
+| title    = Like a Fragile Index of the World: Poems for David Skorton
+| journal    = Like a Fragile Index of the World: Poems for David Skorton
+| year       = 2006
+| url        = http://www.cornell.edu/humanities/features/fragileindex.cfm
+| accessdate = 2009-02-06}}
+</ref>
+* ''[[Spirit of Bosnia]]''<ref>{{cite journal
+| date       = April 2008
+| title    = Spirit of Bosnia
+| journal    = Spirit of Bosnia
+| volume     = 3
+| issue      = 2
+| pages      = 364–459
+| url        = http://www.spiritofbosnia.org/?s=skenderija
+| accessdate = 2015-05-05}}
+</ref>
+*''The City That Never Sleeps: Poems of New York''<ref>{{cite book
+| title     = The City That Never Sleeps: Poems of New York
+| last      = Toorawa
+| first     = Shawkat M.
+| year      = 2015
+| publisher = SUNY Press Excelsior Editions
+| location  = Albany, New York
+| isbn      = 978-1-4384-5615-7
+| oclc = 886672019
+}}</ref>
+
+Skenderija also contributed lyrics to three albums of the cult Sarajevo techno-industrial band [[SCH Sarajevo|SCH]] (''[[VRIL (SCH Album)|VRIL]]'', 2002; ''[[EAT THIS! (SCH Album)|Eat This!]]'', 2004; and ''[[DANCE (SCH Album)|Dance]]'', 2007).
+
+==References==
+{{Reflist}}
+
+==External links==
+{{portal|Poetry}}
+* [http://www.skenderija.com Author's web site]
+* [http://www.cornell.edu/video/details.cfm?vidID=19 Reading excerpt from Prague Fractals] (link to video)
+* [https://scholar.google.com/scholar?num=100&hl=en&lr=&q=author%3A%22s+skenderija%22+OR+author%3A%22sasha+skenderija%22+OR+author%3A%22sasa+skenderija%22+OR+author%3A%22saša+skenderija%22&btnG=Search Sasha Skenderija on Google Scholar]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Skenderija, Sasha}}
+[[Category:1968 births]]
+[[Category:Living people]]
+[[Category:People from Vitez]]
+[[Category:Bosnia and Herzegovina poets]]
+[[Category:Bosnia and Herzegovina writers]]
+[[Category:Bosnia and Herzegovina emigrants to the United States]]
+[[Category:Charles University alumni]]
+[[Category:University of Sarajevo alumni]]

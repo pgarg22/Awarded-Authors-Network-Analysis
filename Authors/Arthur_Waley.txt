@@ -1,0 +1,182 @@
+{{Short description|British orientalist and sinologist (1889–1966)}}
+{{Use dmy dates|date=September 2020}}
+{{Use British English|date=May 2012}}
+{{Infobox scientist
+| name        = Arthur Waley
+| honorific_suffix = {{postnominals|country=GBR|CH|CBE|size=100%}}
+| native_name = <!--I'd avoid adding something here, considering Waley already have infoboxes below for names-->
+| native_name_lang = 
+| image       = Arthur Waley by Ray Strachey.jpg
+| imagesize   = 
+| alt         = 
+| caption     = A portrait of Waley by [[Ray Strachey]]
+| birth_date  = {{birth date |df=yes|1889|8|19}}
+| birth_place = [[Tunbridge Wells]], [[Kent (county)|Kent]], [[England]]
+| death_date  = {{death date and age |df=yes|1966|6|27|1889|8|19}}
+| death_place = [[London]], England
+| death_cause = 
+| resting_place = [[Highgate Cemetery]]
+| resting_place_coordinates =  <!--{{coord|LAT|LONG|type:landmark|display=inline,title}}-->
+| other_names = 
+| residence   = 
+| citizenship =
+| nationality = 
+| fields      = 
+| workplaces  = 
+| patrons     =
+| alma_mater  = [[Cambridge University]] <small>(did not graduate)</small>
+| thesis_title =  <!--(or  | thesis1_title =  and  | thesis2_title = )-->
+| thesis_url  =   <!--(or  | thesis1_url  =   and  | thesis2_url  =  )-->
+| thesis_year =   <!--(or  | thesis1_year =   and  | thesis2_year =  )-->
+| doctoral_advisor = 
+| academic_advisors = 
+| doctoral_students = 
+| notable_students = 
+| known_for   = Chinese/Japanese translations
+| influences  = 
+| influenced  = 
+| awards      = 
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| spouse      =   <!--(or | spouses = )-->
+| partner     =   <!--(or | partners = )-->
+| children    = 
+| signature   =   <!--(filename only)-->
+| signature_alt = 
+| website     =   <!--{{URL|www.example.com}}-->
+| footnotes   = 
+| module = {{infobox Chinese | child = yes | t = 亞瑟・偉利 | s = 亚瑟・伟利 | p = Yàsè Wěilì | w = Ya-se Wei-li | kana = アーサー・ウェイリ | romaji = Āsā Weiri }}
+}}
+'''Arthur David Waley''' {{postnominals|country=GBR|CH|CBE}} (born '''Arthur David Schloss''', 19 August 1889{{snd}}27 June 1966) was an English [[oriental studies|orientalist]] and [[Sinology|sinologist]] who achieved both popular and scholarly acclaim for his translations of [[Chinese poetry|Chinese]] and [[Japanese poetry]]. Among his honours were the [[Order of the British Empire|CBE]] in 1952, the [[Queen's Gold Medal for Poetry]] in 1953, and he was invested as a [[Order of the Companions of Honour|Companion of Honour]] in 1956.{{sfnb|Johns|1983 |p = 179}}
+
+Although highly learned, Waley avoided academic posts and most often wrote for a general audience. He chose not to be a specialist but to translate a wide and personal range of classical literature. Starting in the 1910s and continuing steadily almost until his death in 1966, these translations started with poetry, such as ''A Hundred and Seventy Chinese Poems'' (1918) and ''Japanese Poetry: The Uta'' (1919), then an equally wide range of novels, such as ''[[The Tale of Genji]]'' (1925–26), an 11th-century Japanese work, and [[Monkey (novel)|''Monkey'']], from 16th-century China. Waley also presented and translated Chinese philosophy, wrote biographies of literary figures, and maintained a lifelong interest in both Asian and Western paintings.
+
+A recent evaluation called Waley "the great transmitter of the high literary cultures of China and Japan to the English-reading general public; the ambassador from East to West in the first half of the 20th century", and went on to say that he was "self-taught, but reached remarkable levels of fluency, even erudition, in both languages. It was a unique achievement, possible (as he himself later noted) only in that time, and unlikely to be repeated."<ref>E. Bruce Brooks, [http://www.umass.edu/wsp/resources/profiles/waley.html "Arthur Waley"], Warring States Project, University of Massachusetts.</ref>
+
+==Life==
+Arthur Waley was born Arthur David Schloss on 19 August 1889 in [[Royal Tunbridge Wells|Tunbridge Wells]], [[Kent (county)|Kent]], [[England]], the son of an [[economist]], David Frederick Schloss. He was educated at [[Rugby School]] and entered [[King's College, Cambridge]] in 1907 on a scholarship to study [[Classics]], but left in 1910 due to eye problems that hindered his ability to study.{{sfnp|Honey|2001|p=225}}
+
+Waley briefly worked in an export firm in an attempt to please his parents, but in 1913 he was appointed Assistant Keeper of Oriental Prints and Manuscripts at the [[British Museum]].{{sfnp|Honey|2001|p=225}} Waley's supervisor at the Museum was the poet and scholar [[Laurence Binyon]], and under his nominal tutelage Waley taught himself to read [[Classical Chinese]] and [[Classical Japanese]], partly to help catalogue the paintings in the Museum's collection. Despite this, he never learned to speak either modern [[Putonghua|Mandarin Chinese]] or [[Japanese language|Japanese]] and never visited either China or Japan.{{sfnp|Honey|2001|p=225}}
+
+Waley was of [[Ashkenazi Jews|Ashkenazi Jewish]] ancestry. He changed his surname from Schloss in 1914, when, like many others in England with German surnames, he sought to avoid the anti-German prejudice common in Britain during the [[World War I|First World War]].{{sfnp|Honey|2001|p=225}}
+
+Waley entered into a lifelong relationship with the English ballet dancer, orientalist, dance critic, and dance researcher [[Beryl de Zoete]], whom he met in 1918 but never married.<ref>{{cite web|title=Papers of Beryl de Zoete|url=http://www.libraries.rutgers.edu/rul/libs/scua/womens_fa/wfa_c_d.shtml|website=Rutgers University}}</ref>
+
+Waley left the British Museum in 1929 to devote himself fully to writing and translation, and never held a full-time job again, except for a four-year stint in the [[Ministry of Information (United Kingdom)|Ministry of Information]] during the [[World War II|Second World War]].{{sfnp|Honey|2001|p=225}} In September 1939 he had been recruited to run the Japanese Censorship Section at the Ministry of Information. Assisted by Captain [[Oswald Tuck]] RN, he was responsible for checking the dispatches of Japanese journalists in London, private mail in Japanese and intercepted diplomatic signals from the Japanese Embassy in London.<ref>Peter Kornicki, ''Eavesdropping on the Emperor: Interrogators and Codebreakers in Britain's War with Japan'' (London: Hurst & Co., 2021), pp. 31-32.</ref>
+
+Waley lived in [[Bloomsbury]] and had a number of friends among the [[Bloomsbury Group]], many of whom he had met when he was an undergraduate. He was one of the earliest to recognise [[Ronald Firbank]] as an accomplished author and, together with [[Osbert Sitwell]], provided an introduction to the first edition of Firbank's collected works.
+
+[[Ezra Pound]] was instrumental in getting Waley's first translations into print in ''[[The Little Review]]''. His view of Waley's early work was mixed, however. As he wrote to [[Margaret C. Anderson|Margaret Anderson]], the editor of the ''Little Review'', in a letter of 2 July 1917: "Have at last got hold of Waley's translations from [[Po chu I]]. Some of the poems are magnificent. Nearly all the translations marred by his bungling English and defective rhythm. ... I shall try to buy the best ones, and to get him to remove some of the botched places. (He is stubborn as a donkey, or a ''scholar''.)" In his introduction to his translation of [[Tao Te Ching|''The Way and its Power'']] Waley explains that he was careful to put meaning above style in translations where meaning would be reasonably considered of more importance to the modern western reader.
+
+Waley married Alison Grant Robertson in May 1966, one month before his death on 27 June.  He is buried in an unmarked grave (plot no.51178) on the western side of [[Highgate Cemetery]] in front of the grave of the sculptor [[Joseph Edwards (sculptor)|Joseph Edwards]].<ref>{{cite web|title=Obituary of Arthur Waley|url=https://www.cambridge.org/core/services/aop-cambridge-core/content/view/S0041977X00100059|website=Cambridge University Press|access-date=17 April 2018}}</ref>
+
+[[Sacheverell Sitwell]], who considered Waley "the greatest scholar and the person with most understanding of all human arts" that he had known in his lifetime, later recalled Waley's last days,
+
+{{quote|when he lay dying from a broken back and from cancer of the spine, and in very great pain, but refused to be given any drug or sedative. He had the courage to do so because he wanted to be conscious during the last hours of being alive, the gift which was ebbing and fading and could never be again. In this way during those few days he listened to string quartets by [[Haydn]], and had his favourite poems read to him. And then he died.<ref>Sacheverell Sitwell. ''For Want of the Golden City''  (New York: John Day, 1973) p. 255</ref>}}
+
+==Honours==
+Waley was elected an honorary fellow of King's College, Cambridge in 1945, received the [[Order of the British Empire|Commander of the Order of the British Empire]] (CBE) honor in 1952, the [[Queen's Gold Medal for Poetry]] in 1953, and the [[Order of the Companions of Honour]] (CH) in 1956.
+
+==Works==
+
+[[Jonathan Spence]] wrote of Waley's translations that he
+
+{{quote|selected the jewels of Chinese and Japanese literature and pinned them quietly to his chest. No one ever did anything like it before, and no one will ever do it again. There are many westerners whose knowledge of Chinese or Japanese is greater than his, and there are perhaps a few who can handle both languages as well. But they are not poets, and those who are better poets than Waley do not know Chinese or Japanese. Also the shock will never be repeated, for most of the works that Waley chose to translate were largely unknown in the West, and their impact was thus all the more extraordinary.<ref>Jonathan Spence. "Arthur Waley," in  ''Chinese Roundabout''  (New York: Norton, 1992 {{ISBN|0393033554}}) [https://books.google.com/books?id=M7LAH8ggQvAC&q=Waley#v=snippet&q=Waley&f=false pp. 329-330]</ref>}}
+
+His many translations include ''A Hundred and Seventy Chinese Poems'' (1918), ''Japanese Poetry: The Uta'' (1919), ''The [[Noh|No]] Plays of Japan'' (1921), ''[[The Tale of Genji]]'' (published in 6 volumes from 1921 to 1933), ''[[The Pillow Book]] of [[Sei Shōnagon]]'' (1928), The ''[[Kutune Shirka]]'' (1951), ''[[Monkey (book)|Monkey]]'' (1942, an abridged version of ''[[Journey to the West]]''), ''The Poetry and Career of [[Li Bai|Li Po]]'' (1959) and ''The Secret History of the Mongols and Other Pieces'' (1964). Waley received the [[James Tait Black Memorial Prize]] for his translation of ''Monkey'', and his translations of the classics, the ''[[Analects]] of [[Confucius]]'' and ''The Way and Its Power'' ([[Tao Te Ching]]), are still in print, as is his interpretive presentation of classical Chinese philosophy, ''Three Ways of Thought in Ancient China'' (1939).
+
+Waley's translations of verse are widely regarded as poems in their own right, and have been included in many anthologies such as the ''[[Oxford Book of Modern Verse 1892–1935]]'', ''[[The Oxford Book of Twentieth Century English Verse]]'' and the ''[[Penguin poetry anthologies|Penguin Book of Contemporary Verse (1918–1960)]]'' under Waley's name. Many of his original translations and commentaries have been re-published as [[Penguin Classics]] and [[Wordsworth Classics]], reaching a wide readership.
+
+Despite translating many [[Chinese classic texts|Chinese]] and [[Japanese literature|Japanese classical texts]] into English, Waley never travelled to either country, or anywhere else in East Asia. In his preface to ''The Secret History of the Mongols'' he writes that he was not a master of many languages, but claims to have known Chinese and Japanese fairly well, a good deal of [[Ainu language|Ainu]] and [[Mongolian language|Mongolian]], and some [[Hebrew language|Hebrew]] and [[Syriac language|Syriac]].
+
+The composer [[Benjamin Britten]] set six translations from Waley's ''Chinese Poems'' (1946) for high voice and guitar in his [[song cycle]] ''[[Songs from the Chinese]]'' (1957).
+
+==Selected works==
+
+===Translations===
+{{wikisource author}}
+[[File:ch5 wakamurasaki.jpg|thumb|[[E-maki]] scroll painting of ''[[The Tale of Genji]]'' (''ch. 5 – 若紫'' "Young Murasaki") by [[Tosa Mitsuoki]], (1617–91)]]
+[[File:LiBai.jpg|thumb|''Li Bai in Stroll'', by [[Liang K'ai]] (1140–1210)]]
+
+* ''A Hundred and Seventy Chinese Poems'', 1918
+* ''More Translations from the Chinese'' (Alfred A. Knopf, New York, 1919).
+** ''The Story of Ts'ui Ying-ying'' (''[[Yingying zhuan]]'') – p.&nbsp;101–113<ref name=NienIntroxv>Nienhauser, William H. "Introduction." In: Nienhauser, William H. (editor). ''Tang Dynasty Tales: A Guided Reader''. [[World Scientific]], 2010. {{ISBN|9814287288}}, 9789814287289. p. [https://books.google.com/books?id=hja49dTBtGkC&pg=PR15 xv].</ref>
+** ''The Story of Miss Li'' (''[[The Tale of Li Wa]]'') – pp.&nbsp;113–136<ref name=NienIntroxv/>
+* ''Japanese Poetry: The [[Waka (poetry)|Uta]]'', 1919. A selection mostly drawn from the ''[[Man'yōshū]]'' and the ''[[Kokinshū]]''.
+* ''[[Noh|The Nō]] Plays of Japan'', 1921
+* ''The Temple and Other Poems'', 1923
+* ''[[The Tale of Genji]]'', by [[Murasaki Shikibu|Lady Murasaki]], 1925–1933
+* ''[[The Pillow Book]] of [[Sei Shōnagon]]'', 1928
+* ''The Way and Its Power: A Study of the [[Tao Te Ching]] and its Place in Chinese Thought'', 1934. A commentary on ''Tao Te ching'', attributed to [[Laozi]], and full translation.
+* ''The Book of Songs'' (''[[Shih Ching]]''), 1937
+* ''The [[Analects]] of [[Confucius]]'', 1938
+* ''Three Ways of Thought in Ancient China'', 1939
+* ''Translations from the Chinese'', a compilation, 1941
+* ''[[Monkey (book)|Monkey]]'', 1942, translation of 30 of the 100 chapters of [[Wu Cheng'en]]'s ''[[Journey to the West]]''
+* ''Chinese Poems'', 1946
+*  ''77 Poems'', [[Alberto de Lacerda]], 1955
+* ''The Nine Songs: A Study of [[Shamanism]] in Ancient China'', [[Qu Yuan]], 1955
+* ''[[Yuan Mei]]: Eighteenth-Century Chinese Poet'', 1956
+* ''Ballads and Stories from [[Tun-Huang]]'', 1960
+
+===Original works===
+* ''Introduction to the Study of Chinese Painting'', 1923
+* ''The Life and Times of [[Bai Juyi|Po Chü-I]]'', 1949
+* ''The Poetry and Career of [[Li Po]]'', 1950 (with some original translations)
+* ''The Real [[Tripitaka]] and Other Pieces'', 1952 (with some original and previously published translations)
+* ''The [[Opium War]] through Chinese Eyes'', 1958
+* ''[[The Secret History of the Mongols]]'', 1963 (with original translations)
+
+==See also==
+*[[List of Bloomsbury Group people]]
+
+==References==
+{{Reflist |25em}}
+
+==<!-- inferred from a glance at reflist -->Sources==
+* [https://www.nytimes.com/1966/06/28/archives/arthur-waley-76-orientalist-dead-translator-of-chinese-and-japanese.html?sq=arthur+waley&scp=1&st=p  "Arthur Waley, 76, Orientalist, Dead; Translator of Chinese and Japanese Literature,"] ''New York Times.'' 28 June 1966.
+* Gruchy, John Walter de. (2003). ''Orienting Arthur Waley: Japonism, Orientalism, and the Creation of Japanese Literature in English.'' Honolulu: [[University of Hawaii Press]]. 1ISBN 0-8248-2567-5.
+* {{Cite book | last=Honey | first=David B. | year=2001 | title=Incense at the Altar: Pioneering Sinologists and the Development of Classical Chinese Philology | location=New Haven, Connecticut | publisher=American Oriental Society | series=American Oriental Series '''86''' | isbn=0-940490-16-1 }}
+* Johns, Francis A. (1968). ''A Bibliography of Arthur Waley.'' New Brunswick, New Jersey: Rutgers University Press.
+* {{cite journal |last =Johns |first = Francis A |title =Manifestations of Arthur Waley: Some Bibliographical and Other Notes |journal =The British Library Journal |volume =9 |issue = 2 |pages =171–184 |date =1983 |url = http://www.bl.uk/eblj/1983articles/pdf/article13.pdf }}
+* Morris, Ivan I. (1970). ''Madly Singing in the Mountains: An Appreciation and Anthology of Arthur Waley.'' London: [[Allen & Unwin]].
+* {{cite journal | first = Walter | last = Robinson | title = Obituaries &ndash; Dr. Arthur Waley | journal = Journal of the Royal Asiatic Society of Great Britain and Ireland | year = 1967 | number = 1–2 | pages = 59–61 | jstor = 25202978 | doi = 10.1017/S0035869X00125663 | doi-access = free }}
+* {{cite journal | first = Walter | last = Simon | title = Obituary: Arthur Waley | journal =   Bulletin of the School of Oriental and African Studies, University of London| volume = 30 | number = 1 | year = 1967 | pages = 268–71 | jstor = 611910 }}
+* Spence, Jonathan. "Arthur Waley," in, ''Chinese Roundabout''  (New York: Norton, 1992 {{ISBN|0393033554}}), pp.&nbsp;329–336. [https://books.google.com/books?id=M7LAH8ggQvAC&q=Waley#v=snippet&q=Waley&f=false]
+* Waley, Alison. (1982). ''A Half of Two Lives.'' London: George Weidenfeld & Nicolson. (Reprinted in 1983 by McGraw-Hill.)
+
+==External links==
+{{Wikiquote}}
+* E. Bruce Brooks, [http://www.umass.edu/wsp/resources/profiles/waley.html "Arthur Waley"] Warring States Project, University of Massachusetts.
+*[https://web.archive.org/web/20040604163103/http://afpc.asso.fr/wengu/wg/wengu.php?l=Daodejing Waley's translation of ''The Way and Its Power'']
+* {{Gutenberg author |id=6752}}
+* {{FadedPage|id=Waley, Arthur|name=Arthur Waley|author=yes}}
+* {{Internet Archive author |sname=Arthur David Waley}}
+* {{Librivox author |id=6241}}
+* {{LCAuth|n79054650|Arthur Waley|106|ue}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Waley, Arthur}}
+[[Category:1889 births]]
+[[Category:1966 deaths]]
+[[Category:20th-century English male writers]]
+[[Category:20th-century English poets]]
+[[Category:20th-century translators]]
+[[Category:Academics of SOAS University of London]]
+[[Category:Alumni of King's College, Cambridge]]
+[[Category:British Japanologists]]
+[[Category:British sinologists]]
+[[Category:Burials at Highgate Cemetery]]
+[[Category:Chinese–English translators]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Corresponding Fellows of the Medieval Academy of America]]
+[[Category:Employees of the British Museum]]
+[[Category:English male poets]]
+[[Category:Fellows of King's College, Cambridge]]
+[[Category:James Tait Black Memorial Prize recipients]]
+[[Category:Japanese–English translators]]
+[[Category:Japanese literature academics]]
+[[Category:Literary translators]]
+[[Category:Members of the Order of the Companions of Honour]]
+[[Category:People from Royal Tunbridge Wells]]

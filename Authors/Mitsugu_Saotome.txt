@@ -1,0 +1,68 @@
+{{Use mdy dates|date=January 2014}}
+{{for|the aikido teacher|Mitsugi Saotome}}
+{{refimprove|date=September 2018}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] --> 
+| name         = Kanegae Hideyoshi
+| image        = 
+| imagesize    = 
+| alt          = 
+| caption      = 
+| pseudonym    = Mitsugu Saotome
+| birth_name    = 
+| birth_date    = January 1, 1926
+| birth_place   = [[Harbin]], [[Manchuria]], China
+| death_date    = December 23, 2008
+| death_place   = [[Kamakura, Kanagawa]], Japan
+| occupation   = Novelist
+| nationality  = Japanese
+| ethnicity    = 
+| religion     =
+| citizenship  = 
+| education    = 
+| alma_mater   = 
+| period       = 
+| genre        = 
+| subject      = 
+| movement     = 
+| notableworks = Kyojin no Ori (1968)
+| spouse       =
+| partner      = 
+| children     = 
+| relatives    =
+| influences   = 
+| influenced   = 
+| awards       = [[Naoki Prize]]
+| signature    = 
+| website      =
+| portaldisp   = 
+}}
+{{Nihongo|'''Mitsugu Saotome'''|早乙女貢|Saotome Mitsugu|extra=January 1, 1926 – December 23, 2008}} was the pen-name of Kanegae Hideyoshi, a Japanese writer of [[historical fiction]] in [[Shōwa period|Shōwa]] and [[Heisei period]] Japan. He won the Yoshikawa Eiji Prize for Literature and the [[Naoki Prize]].
+
+==Biography==
+Saotome's grandfather was a [[samurai]] of [[Aizu Domain]], and following the defeat of the domain in the [[Boshin War]], immigrated to the United States. However, he later returned to [[Yokohama]] and from there to Shanghai.  Saotomo was born in [[Harbin]], [[Manchuria]] in Northeast China, and thus was raised in [[Manchukuo]]; however, following the defeat of Japan in [[World War II]], he was evacuated to [[Kyushu]] in 1946. He moved to Tokyo in 1948, and attended [[Keio University]]'s Literature Department, but left school before graduating. In 1954, the noted author, [[Yamamoto Shugoro]], agreed to become his tutor.
+
+In 1956, together with other like-minded authors, he formed a [[literary criticism]] group called ''Shosetsu Kaigi'' ("Fiction Conference"), with members supporting each other by reviewing each other's work.  One of the products of this collaboration was his novel ''Kyojin no Ori'', about the [[María Luz Incident]], which was awarded the 60th [[Naoki Prize]] (1968下).<ref name=naoki>{{cite web|url=http://www.bunshun.co.jp/shinkoukai/award/naoki/list.html|language=japanese|title=直木賞受賞者一覧|trans-title=Naoki Prize Winners List|publisher=日本文学振興会|access-date=September 13, 2018}}</ref>
+
+Saotome claimed that his ancestry from led to his interest in historical matters, and the bulk of his work has been historical fiction set in the [[Sengoku period|Sengoku]], [[Edo period|Edo]] or [[Bakumatsu]] periods. He was awarded the 23rd Yoshikawa Eiji Prize for Literature (1989) for ''Aizu Shikon'' ("The Soul of Aizu Samurai").<ref name=yoshikawa>{{cite web|url=http://www.kodansha.co.jp/award/yoshikawa_bg/list.html|language=japanese|title=吉川英治文学賞過去受賞作|trans-title=Yoshikawa Eiji Prize for Literature Past Winners|publisher=[[Kodansha]]|access-date=September 13, 2018}}</ref> Many of his works have been adapted into movies or television series.
+
+In 2006, he was elected the chairman of the Japanese [[International P.E.N.|P.E.N.]]. After contracting [[stomach cancer]], Saotome died at a hospital in [[Kamakura, Kanagawa]], Japan.
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.booksfromjapan.jp/authors/item/929-mitsugu-saotome Mitsugu Saotome] at J'Lit Books from Japan {{in lang|en}}
+* [http://www.jlpp.go.jp/en/works/02_19.html Synopsis of ''Okei: A Girl from the Provinces''] at JLPP (Japanese Literature Publishing Project) {{in lang|en}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Saotome, Mitsugu}}
+[[Category:1926 births]]
+[[Category:2008 deaths]]
+[[Category:Deaths from stomach cancer]]
+[[Category:Writers from Harbin]]
+[[Category:20th-century Japanese novelists]]
+[[Category:21st-century Japanese novelists]]
+
+
+{{Japan-writer-stub}}

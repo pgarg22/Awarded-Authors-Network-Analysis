@@ -1,0 +1,62 @@
+{{multiple issues|
+{{Cleanup rewrite|date=February 2010}}
+{{More citations needed|date=June 2012}}
+{{Expand Russian|Слуцкий, Борис Абрамович|date=April 2014}}
+}}
+{{Use dmy dates|date=July 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| awards = 
+| name        = Boris Slutsky
+| image       = 
+| birth_name = 
+| birth_date = {{birth date|1919|5|7|df=y}}
+| birth_place = [[Sloviansk]], [[Ukrainian SSR]]
+| death_date = {{death date and age|1986|2|23|1919|5|7|mf=yes}}
+| death_place = [[Tula, Russia|Tula]], [[Soviet Union]]
+| occupation = poet
+| nationality = Soviet
+| language = Russian
+| period = 20th century
+| notableworks = ''Memory''<br />''The Poets of Israel''
+}}
+'''Boris Slutsky''' ({{lang-ru|Бори́с Абра́мович Слу́цкий}}; 7 May 1919 in [[Slovyansk]], Ukraine – 23 February 1986 in [[Tula, Russia|Tula]]) was a [[Soviet Union|Soviet]] poet of the [[Russian language]].
+
+== Biography ==
+Slutsky was born in [[Sloviansk]] in 1919.<ref name=":0">{{Cite book|last=Shrayer|first=Maxim D.|title=An Anthology of Jewish-Russian Literature: Two Centuries of Dual Identity in Prose and Poetry, Volumes 1-2|publisher=Routledge|year=2007|isbn=978-0-7656-0521-4|location=Oxon|pages=609}}</ref>  He grew up in [[Kharkiv|Kharkov]]. He first attended a ''lito'' (literary studio) at the Kharkov [[Pioneers Palace]] but left due to pressure from his father, who dismissed Russian poetry as a career.<ref>{{Cite book|last=Shrayer|first=Maxim D.|title=Voices of Jewish-Russian Literature: An Anthology|publisher=Academic Studies PRess|year=2019|isbn=978-1-64469-152-6|language=en}}</ref>  In 1937, he entered the Law Institute of Moscow,<ref name=":0" /> and also studied at the [[Maxim Gorky Literature Institute]] from 1939 till 1941.  He joined a group of young poets including M. Kulchitzki, [[Pavel Kogan (poet)|Pavel Kogan]], S. Narovchatov, [[David Samoilov]] and others who became acquainted in autumn 1939 at the seminary of [[Ilya Selvinsky]] at the State Literary Publishing House, Goslitizdat and called themselves "the Generation of 1940". Slutsky, however, was not exposed to the [[The Holocaust|Shoah]] poems Selvinsky and his peers was known for until the [[Khrushchev Thaw|Khrushchev's Thaw]] of the late 1950s.<ref>{{Cite book|last=Khiterer|first=Victoria|title=The Holocaust: Memories and History|last2=Barrick|first2=Ryan|last3=Misal|first3=David|publisher=Cambridge Scholars Publishing|year=2014|isbn=1-4438-5477-8|location=Newcastle upon Tyne|pages=184|language=en}}</ref> This is attributed to way Shoah poets in the 1940s deferred publishing their works until safer times. Slutsky would become the only Russian poet who made the Holocaust a central focus of his writing.<ref>{{Cite book|last=Aarons|first=Victoria|title=The Palgrave Handbook of Holocaust Literature and Culture|last2=Lassner|first2=Phyllis|publisher=Palgrave Macmillan|year=2020|isbn=978-3-030-33427-7|location=Cham, Switzerland|pages=314|language=en}}</ref>
+
+Between 1941–1945 he served in the [[Red Army]] as a [[politruk]] of an infantry [[platoon]]. His war experiences are reflected much in his poetry. After the war, he had the rank of major. By 1946, he was living off a small disability pension and started working for radio station, then as an editor, and translator.<ref>{{Cite book|last=Chandler|first=Robert|title=The Penguin Book of Russian Poetry|last2=Mashinski|first2=Irina|last3=Dralyuk|first3=Boris|publisher=Penguin UK|year=2015|isbn=978-0-14-197226-8|language=en}}</ref>
+
+In 1956 [[Ilya Ehrenburg]] created a sensation with an article quoting a number of hitherto unpublished poems by Slutsky, and in 1957 Slutsky's first book of poetry, ''Memory'', containing many poems written much earlier, was published.  Together with [[David Samoylov]], Slutsky was probably the most important representative of the [[War generation of Russian poets]] and, because of the nature of his verse, a crucial figure in the post-[[Joseph Stalin|Stalin]] literary revival. His poetry is deliberately coarse and jagged, prosaic and conversational.  There is a dry, polemic quality about it that reflects perhaps the poet's early training as a lawyer. Slutsky's search was evidently for a language stripped of poeticisms and ornamentation; he represented the opposite tendency to that of such neo-romantic or neo-futuristic poets as [[Andrey Voznesensky]].
+
+As early as in 1953–1954, prior to the [[20th Congress of the Communist Party of the Soviet Union|20th Congress of CPSU]], verses condemning the [[Stalinism|Stalinist]] regime were attributed to Slutsky. These were circulated in "[[Samizdat]]" in the 1950s and in 1961 were published in an anthology in the West (in [[Munich]]). He did not confirm nor deny their authorship.
+[[File:Boris Slutsky(grave).jpg|thumb|240x240px|Boris Slutsky's grave in Piatnitsky Cemetery, Moscow.]]
+In his works Slutsky also approached Jewish themes, including material from the Jewish tradition, about [[antisemitism]] (including in Soviet society), the [[Holocaust]], etc.
+
+He translated to Russian from the [[Yiddish poetry]], e.g., from works of [[Leib Kvitko]], [[Aron Verghelis]], [[Shmuel Galkin]], [[Asher Shvartsman]], and [[Yakov Sternberg]].
+
+He edited ''The Poets of Israel,'' a landmark publication considered the first anthology of [[Israel]]i poetry. It was published in 1963.
+
+One of his cousins was the Israeli general [[Meir Amit]].
+
+Slutsky died 23 February 1986 in [[Tula, Russia|Tula]], Russia.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://web.archive.org/web/20061008235331/http://www.litera.ru/stixiya/authors/sluckij.html Boris Slutsky. Poems]
+*[https://eleven.co.il/article/13851 Slutsky, Boris. Jewish Electronic Encyclopedia in Russian]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Slutsky, Boris}}
+[[Category:1919 births]]
+[[Category:1986 deaths]]
+[[Category:Soviet poets]]
+[[Category:Jewish poets]]
+[[Category:Soviet Jews in the military]]
+[[Category:Ukrainian Jews]]
+
+[[Category:Soviet Jews]]
+[[Category:People from Sloviansk]]
+[[Category:Maxim Gorky Literature Institute alumni]]

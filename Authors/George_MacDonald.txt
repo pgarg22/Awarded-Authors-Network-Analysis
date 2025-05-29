@@ -1,0 +1,355 @@
+{{short description|Scottish author, poet and Christian minister}}
+{{Other people}}
+{{Use British English|date=August 2011}}
+{{Use dmy dates|date=September 2014}}
+{{Infobox writer
+| name = George MacDonald
+| honorific_suffix = {{postnominals|country=GBR|size=100%|}}
+| image = George MacDonald 1860s.jpg
+| caption = MacDonald in the 1860s
+| pseudonym = 
+| birth_date = {{birth date|1824|12|10|df=y}}
+| birth_place = [[Huntly, Scotland|Huntly]], [[Aberdeenshire (traditional)|Aberdeenshire]], Scotland
+| death_date = {{death date and age|1905|9|18|1824|12|10|df=y}}
+| death_place = [[Ashtead]], Surrey, England
+| occupation = [[Minister (Christianity)|Minister]], writer (poet, novelist)
+| nationality = Scottish/British
+| alma_mater = [[University of Aberdeen]]
+| period = 19th century
+| genre = Children's literature <!-- [[Fantasy literature|Fantasy]], [[Christian apologetics]] -->
+| subject = 
+| movement = 
+| notableworks = {{unbulleted list|class=nowrap| ''[[Phantastes]]'' (1858) | ''[[David Elginbrod]]'' (1863) | ''[[At the Back of the North Wind]]'' (1871) | ''[[The Princess and the Goblin]]'' (1872) | ''[[Lilith (novel)|Lilith]]'' (1895)}}
+| spouse = {{marriage|Louisa Powell|1851}}
+| signature = 
+| website = 
+}}
+
+'''George MacDonald''' {{postnominals|country=GBR|}} (10 December 1824 – 18 September 1905) was a Scottish author, poet and Christian minister. He was a pioneering figure in the field of modern [[fantasy literature]] and the mentor of fellow writer [[Lewis Carroll]]. In addition to his fairy tales, MacDonald wrote several works of Christian theology, including several collections of sermons.
+
+His writings have been cited as a major literary influence by many notable authors including  [[Lewis Carroll]], [[W.&nbsp;H. Auden]], [[David Lindsay (novelist)|David Lindsay]],<ref>[http://textualities.net/tag/david-lindsay David Lindsay: A Scottish Genius]</ref> [[J. M. Barrie]], [[Edward Plunkett, 18th Baron Dunsany|Lord Dunsany]], [[Elizabeth Yates (author)|Elizabeth Yates]], [[Oswald Chambers]], [[Mark Twain]], [[Hope Mirrlees]], [[Robert E. Howard]] {{Citation needed|reason=Can't find evidence online|date=October 2021}}, [[L. Frank Baum]], [[T.H. White]], [[Richard Adams]], [[Lloyd Alexander]], [[Hilaire Belloc]], [[G.K. Chesterton]], [[C.&nbsp;S. Lewis]], [[J.&nbsp;R.&nbsp;R. Tolkien]],<ref name="gkw">{{cite book |author = Wolfe, Gary K. |author-link=Gary K. Wolfe |editor=Bleiler, E. F. |editor-link=E. F. Bleiler |date=1985 |chapter=George MacDonald |title=Supernatural Fiction Writers: Fantasy and Horror |location=New York | publisher=Charles Scribner's Sons | isbn=978-0684178080 | pages=239–246 }}</ref> [[Walter de la Mare]],<ref>{{cite book |author=Bentinck, Anne |date = 2001 |title = Romantic Imagery in the Works of Walter de la Mare |location = Lewiston, New York |publisher = E. Mellen Press |isbn =  978-0889469273 |page = 345 }}</ref> [[E. Nesbit]], [[Peter S. Beagle]], [[Neil Gaiman]] and [[Madeleine L'Engle]].<ref name="gkw" />
+
+C.&nbsp;S. Lewis wrote that he regarded MacDonald as his "master": "Picking up a copy of ''[[Phantastes]]'' one day at a train-station bookstall, I began to read. A few hours later", said Lewis, "I knew that I had crossed a great frontier." [[G.&nbsp;K. Chesterton]] cited ''[[The Princess and the Goblin]]'' as a book that had "made a difference to my whole existence".<ref name="Greville">{{cite book |last1=Macdonald |first1=Greville |title=George Macdonald and his wife |date=1924 |publisher=MacVeagh |location=New York |page=9 |url=https://babel.hathitrust.org/cgi/pt?id=mdp.39015010558222 |access-date=3 May 2017}}</ref>
+
+[[Elizabeth Yates (author)|Elizabeth Yates]] wrote of ''[[Sir Gibbie]]'', "It moved me the way books did when, as a child, the great gates of literature began to open and first encounters with noble thoughts and utterances were unspeakably thrilling."<ref>{{cite web|url=http://www.hstreasures.com/authors/george_macdonald.html |title=George MacDonald |access-date=2007-09-17 |url-status=dead |archive-url=https://web.archive.org/web/20070816234924/http://www.hstreasures.com/authors/george_macdonald.html |archive-date=16 August 2007 |df=dmy-all }}</ref>
+
+Even [[Mark Twain]], who initially disliked MacDonald, became friends with him, and there is some evidence that Twain was influenced by him.<ref name="PoemHunter">{{Free-content attribution |title=Biography of MacDonald |publisher=PoemHunter.com |documentURL=https://www.poemhunter.com/george-macdonald/biography/ |License statement URL=http://en.wikipedia.org/wiki/Wikipedia:CC-BY-SA |license=CC-BY-SA 3.0}}</ref> The Christian author [[Oswald Chambers]] wrote in his "Christian Disciplines" that "it is a striking indication of the trend and shallowness of the modern reading public that George MacDonald's books have been so neglected".<ref>{{cite book |author=Chambers, Oswald |author-link=Oswald Chambers |orig-year=1936 |year=2000 |title=The Complete Works of Oswald Chambers: Christian Disciplines |volume=1 |page=287 |publisher=Oswald Chambers Publications Association |url=http://cdn.rbc.org/dhp/ebook/Complete-Works-Oswald-Chambers_FV162.pdf |access-date=19 June 2018}}</ref>
+
+==Early life==
+George MacDonald was born on 10 December 1824 at [[Huntly, Scotland|Huntly]], [[Aberdeenshire (traditional)|Aberdeenshire]], Scotland. His father, a farmer, was one of the [[MacDonald of Glencoe|MacDonalds of Glen Coe]] and a direct descendant of one of the families that suffered in the [[Massacre of Glencoe|massacre of 1692]].<ref>Raeper, William, ''George MacDonald'' (1987), pp. 15–17.</ref><ref>For more information on this massacre, see {{cite web|url=https://www.bbc.co.uk/history/scottishhistory/union/trails_union_glencoe.shtml|title=The Massacre of Glen Coe|last=Anon|work=Scottish History: The making of the Union|publisher=BBC|access-date=6 November 2012}} For more information on the site of the event, see {{Cite document |url=http://canmore.rcahms.gov.uk/en/site/153486/ |title=Site Record for Glencoe, National Trust For Scotland Glencoe Visitor Centre |publisher=Royal Commission on the Ancient and Historical Monuments of Scotland}}</ref>
+
+MacDonald grew up in an unusually literate environment: one of his maternal uncles was a notable Celtic scholar, editor of the ''Gaelic  Highland  Dictionary'' and collector of fairy tales and Celtic poetry. His paternal grandfather had supported the publication of an ''Ossian'' edition, the controversial Celtic text believed by some to have contributed to the starting of European Romanticism. MacDonald's step-uncle was a Shakespeare scholar, and his paternal cousin another Celtic academic. Both his parents were readers, his father harbouring predilections for Newton, Burns, Cowper, Chalmers, Coleridge, and Darwin, to quote a few, while his mother had received a classical education which included multiple languages.<ref name="Johnson2014">{{cite journal |author=Johnson, K. J. |date=2014 |title=Rooted Deep: Discovering the Literary Identity of Mythopoeic Fantacist George MacDonald |journal=Linguaculture |volume = 2 |publisher=University of Iasi Press |pages=27f | url=http://journal.linguaculture.ro/images/stories/22014/johnson.pdf}}</ref>
+
+An account cited how the young George suffered lapses in health in his early years and was subject to problems with his lungs such as [[asthma]], [[bronchitis]] and even a bout of [[tuberculosis]].<ref>{{Cite book|title=The Life and Times of George MacDonald|publisher=Golgotha Press|year=2011|isbn=9781621070252}}</ref> This last illness was considered a family disease and two of MacDonald's brothers, his mother, and later three of his own children actually died from the ailment.<ref>{{Cite journal|last=Hutton|first=Muriel|date=1976|title=The George MacDonald Collection|journal=The Yale University Library Gazette|volume=51|issue=2|pages=74–85|jstor=40858616}}</ref> Even in his adult life, he was constantly travelling in search of purer air for his lungs.<ref>{{cite web|url=https://www.penguinrandomhouse.com/authors/53954/george-macdonald|title=George MacDonald {{!}} Penguin Random House|website=www.penguinrandomhouse.com|language=en-US|access-date=2018-10-12}}</ref>
+
+MacDonald grew up in the [[Congregational church|Congregational Church]], with an atmosphere of [[Calvinism]]. However, his family was atypical, with his paternal grandfather a Catholic-born, fiddle-playing, Presbyterian  elder; his paternal grandmother an Independent church rebel; his mother was a sister to the Gaelic-speaking radical who became moderator of the disrupting Free Church, while his step-mother, to whom he was also very close, was the daughter of a Scottish Episcopalian priest.<ref name=Johnson2014/>
+
+MacDonald graduated from the [[University of Aberdeen]] in 1845 with a master's degree in chemistry and physics.<ref>{{cite web|url=http://calms.abdn.ac.uk/DServe/dserve.exe?dsqServer=Calms&dsqIni=Dserve.ini&dsqApp=Archive&dsqCmd=Show.tcl&dsqDb=Catalog&dsqPos=0&dsqSearch=(RefNo='MS%202718')|title=Archives and Manuscripts – Special Collections – University of Aberdeen|website=calms.abdn.ac.uk|language=en|access-date=10 February 2018}}</ref> He spent the next several years struggling with matters of faith and deciding what to do with his life.<ref name=":0">{{Cite book|title=A Complete Identity: The Youthful Hero in the Work of G.A. Henty and George MacDonald|last=Johnson|first=Rachel|publisher=The Lutterworth Press|year=2014|isbn=9780718893590|location=Cambridge, UK|page=43}}</ref> His son, biographer Greville MacDonald stated that his father could have pursued a career in the medical field but he speculated that lack of money put an end to this prospect.<ref>{{Cite book|title=The Doctor in the Victorian Novel: Family Practices|last=Sparks|first=Tabitha|publisher=Ashgate Publishing, Ltd.|year=2009|isbn=9780754668022|location=Surrey|page=50}}</ref> It was only in 1848 when MacDonald began theological training at Highbury College for the Congregational ministry.<ref name="PoemHunter" /><ref name="WheatonCollege">{{cite web |title=George MacDonald |url=https://www.wheaton.edu/academics/academic-centers/wadecenter/authors/george-macdonald/ |website=Wheaton College |access-date=19 June 2018}}</ref>
+
+==Early career ==
+[[File:Former Trinity Congregational Chapel (now Nineveh House), Arundel (NHLE Code 1277924).JPG|thumb|MacDonald was the pastor of [[Trinity Congregational Church, Arundel]] from 1850.]]
+MacDonald was appointed minister of [[Trinity Congregational Church, Arundel|Trinity Congregational Church]], [[Arundel]], in 1850,<ref name="PoemHunter" /><ref name="WheatonCollege" /> after briefly serving as a locum minister in Ireland.<ref name=":0" /> However, his sermons—which preached God's universal love and that everyone was capable of redemption —met with little favour<ref name=bbc>{{Cite web|url=https://www.bbc.co.uk/programmes/profiles/N8DKT5rH8rhHmygmpwqSl7/george-macdonald|title=BBC Two – Writing Scotland – George MacDonald|website=BBC}}</ref> and his salary was cut in half.<ref name="PoemHunter" /> In May 1853, MacDonald tendered his resignation from his pastoral duties at Arundel.<ref name=":1">{{Cite book|title=George MacDonald: Victorian Mythmaker|last=Hein|first=Rolland|publisher=Wipf and Stock Publishers|year=2014|isbn=9781625645074|location=Eugene, OR|pages=88, 123}}</ref> Later he was engaged in ministerial work in [[Manchester]], leaving that because of poor health.<ref name="PoemHunter" /> An account cited the role of [[Lady Byron]] in convincing MacDonald to travel to [[Algiers]] in 1856 with the hope that the sojourn would help turn his health around.<ref name=":1" /> When he got back, he settled in London and taught for some time at the University of London.<ref name="PoemHunter" /> MacDonald was also for a time editor of ''Good Words for the Young''.
+
+==Writing career==
+{{expand section | with a sourced, scholarly summary of MacDonald's major genres and works, providing summaries of the published perspectives of others, regarding them | small = no|date=March 2017}}
+
+MacDonald's first novel ''David Elginbrod'' was published in 1863.<ref name=bbc/>
+
+George MacDonald is often regarded as the founding father of modern fantasy writing.<ref name=bbc/>
+George MacDonald's best-known works are ''[[Phantastes]]'', ''[[The Princess and the Goblin]]'', ''[[At the Back of the North Wind]]'', and ''[[Lilith (novel)|Lilith]]'' (1895), all fantasy novels, and [[fairy tales]] such as "[[The Light Princess]]", "[[The Golden Key (MacDonald book)|The Golden Key]]", and "[[The Lost Princess|The Wise Woman]]". "I write, not for children," he wrote, "but for the child-like, whether they be of five, or fifty, or seventy-five."<ref>{{cite book |author=MacDonald, George |year=1893 |title=A Dish of Orts: Chiefly Papers on the Imagination, and on Shakespeare |publisher=Project Gutenberg |url=http://www.gutenberg.org/ebooks/9393 |access-date=6 October 2016}}</ref> MacDonald also published some volumes of sermons, the pulpit not having proved an unreservedly successful venue.<ref name="PoemHunter" />
+
+After his literary success, MacDonald went on to do a lecture tour in the United States in 1872–1873, after being invited to do so by a lecture company, the [[Boston Lyceum Bureau]]. On the tour, MacDonald lectured about other poets such as [[Robert Burns]], Shakespeare, and [[Tom Hood]]. He performed this lecture to great acclaim, speaking in Boston to crowds in the neighborhood of three thousand people.<ref>{{cite web |last1=Seper |first1=Charles |title=USA Lecture Tour |url=http://georgemacdonald.info/lecture_tour.html |website=The George MacDonald Informational Web |access-date=20 June 2018}}</ref>
+
+[[File:Rev. Charles Lutwidge Dodgson, 'Lewis Carroll' - 'Mary J. MacDonald dreaming of her father (George MacDonald) and brother Ronald' - Google Art Project.jpg|thumb|right|George MacDonald with son Ronald (right) and daughter Mary (left) in 1864. Photograph by [[Lewis Carroll]].]]
+
+MacDonald served as a mentor to [[Lewis Carroll]]: it was MacDonald's advice, and the enthusiastic reception of ''[[Alice's Adventures in Wonderland|Alice]]'' by MacDonald's many sons and daughters, that convinced Carroll to submit ''Alice'' for publication.<ref name=reis>Reis, Richard H. (1972).  ''George MacDonald'', pp. 25–34. Twayne Publishers, Inc.</ref> Carroll, one of the finest Victorian photographers, also created photographic portraits of several of the MacDonald children.<ref>{{cite web |last1=Seper |first1=Charles |title=Lewis Carroll's association with George MacDonald |url=http://georgemacdonald.info/carroll.html |website=The George MacDonald Informational Web |access-date=20 June 2018}}</ref> MacDonald was also friends with [[John Ruskin]], and served as a go-between in Ruskin's long courtship with [[Rose La Touche]].<ref name=reis/> While in America he was befriended by [[Henry Wadsworth Longfellow|Longfellow]] and [[Walt Whitman]].<ref>{{cite book |author1=Rolland Hein |author2=Frederick Buechner |author-link1=Rolland Hein |author-link2=Frederick Buechner |title=George MacDonald: Victorian Mythmaker |date=10 November 2014 |publisher=Wipf and Stock Publishers |location=Eugene |isbn=978-1625645074 |page=XVII |url=https://books.google.com/books?id=5TxgBQAAQBAJ |access-date=20 June 2018}}</ref>
+
+MacDonald's use of [[fantasy fiction|fantasy]] as a literary medium for exploring the human condition greatly influenced a generation of notable authors, including [[C. S. Lewis]], who featured him as a character in his ''[[The Great Divorce]]''.<ref>{{cite book |author = Lindskoog, Kathryn Ann |year=2001 |title=Surprised by C.S. Lewis, George MacDonald & Dante: An Array of Original Discoveries |page=72 |publisher=Mercer University Press|  url=https://books.google.com/books?id=3Vj6xqdnBAEC&pg=PA72 |access-date=April 21, 2014|isbn=9780865547285 }}</ref> In his introduction to his MacDonald anthology, Lewis speaks highly of MacDonald's views: 
+{{quote |This collection, as I have said, was designed not to revive MacDonald's literary reputation but to spread his religious teaching. Hence most of my extracts are taken from the three volumes of ''Unspoken Sermons''. My own debt to this book is almost as great as one man can owe to another: and nearly all serious inquirers to whom I have introduced it acknowledge that it has given them great help—sometimes indispensable help toward the very acceptance of the Christian faith.&nbsp;...
+
+I know hardly any other writer who seems to be closer, or more continually close, to the Spirit of Christ Himself. Hence his Christ-like union of tenderness and severity. Nowhere else outside the New Testament have I found terror and comfort so intertwined. ...
+
+In making this collection I was discharging a debt of justice. I have never concealed the fact that I regarded him as my master; indeed I fancy I have never written a book in which I did not quote from him. But it has not seemed to me that those who have received my books kindly take even now sufficient notice of the affiliation. Honesty drives me to emphasize it.<ref name="LewisAnth">{{cite book |editor=C. S. Lewis |editor-link=C. S. Lewis |date=1947 |title=George MacDonald: An Anthology}}</ref>}}
+
+Others he influenced include [[J. R. R. Tolkien]] and [[Madeleine L'Engle]].<ref name="Johnson2014" /><ref name="PoemHunter" /> MacDonald's non-fantasy novels, such as ''Alec Forbes'', had their influence as well; they were among the first realistic Scottish novels, and as such MacDonald has been credited with founding the "[[kailyard school]]" of Scottish writing.<ref>Sutherland, D. [https://books.google.com/books?id=1chZAAAAYAAJ&pg=PA339 "The Founder of the New Scottish School."] In ''The Critic'', Volumes 30–31, 15 May 1897, p. 339. Retrieved 21 April 2014.</ref>
+
+Chesterton cited ''[[The Princess and the Goblin]]'' as a book that had "made a difference to my whole existence",<ref name="Greville"/> in showing "how near both the best and the worst things are to us from the first... and making all the ordinary staircases and doors and windows into magical things." {{sfn|Greville, Intro}}
+
+==Later life==
+In 1877 he was given a [[civil list]] pension.<ref>{{cite web |title=George MacDonald: Scottish novelist, clergyman and author |url=http://www.ccel.org/ccel/macdonald |website=Christian Classics Ethereal Library |access-date=20 June 2018}}</ref> From 1879 he and his family moved to [[Bordighera]],<ref>{{cite web|url=http://www.bordighera.it/storia/approfondimenti/george_mc_donald |title=George McDonald |access-date=2012-10-25 |url-status=dead |archive-url=https://web.archive.org/web/20120913065509/http://www.bordighera.it/storia/approfondimenti/george_mc_donald |archive-date=13 September 2012 |df=dmy-all }}</ref> in a place much loved by British expatriates, the [[Riviera dei Fiori]] in [[Liguria]], Italy, almost on the French border. In that locality there also was an [[Anglican]] church, All Saints, which he attended.<ref>Valerie Lester, ''Marvels: the life of Clarence Bicknell, botanist, archaeologist, artist'', Matador, 2018, pp. 57–62.</ref> Deeply enamoured of the Riviera, he spent 20 years there, writing almost half of his whole literary production, especially the [[fantasy]] work.<ref>{{cite web|url=http://www.george-macdonald.com/resources/life_outline.html |title=George MacDonald Life Outline |access-date=2012-10-25 |url-status=dead |archive-url=https://web.archive.org/web/20120910195923/http://www.george-macdonald.com/resources/life_outline.html |archive-date=10 September 2012 |df=dmy-all }}</ref> MacDonald founded a literary studio in that Ligurian town, naming it ''[[Casa Coraggio, Bordighera|Casa Coraggio]]'' (Bravery House).<ref>{{cite web |author1=Skribita de Susie Bicknell |title=In Clarence's Time – George MacDonald in Bordighera |url=http://clarencebicknell.com/index.php?option=com_content&view=article&id=67:mcdonald-bordighera&catid=14&Itemid=168&lang=eo |website=clarencebicknell.com |access-date=20 June 2018}}</ref> It soon became one of the most renowned cultural centres of that period, well attended by British and Italian travellers, and by locals,<ref>{{cite web |url=http://www.bordighera.net/107-anni-fa-oggi-moriva-a-bordighera-edmondo-de-amicis-n44770 |title=107 anni fa oggi moriva a Bordighera Edmondo De Amicis |trans-title=Edmondo De Amicis died today in Bordighera 107 years ago |website=Bordighera.net |access-date=20 June 2018 |date=11 March 2011 |language=it}}</ref> with presentations of classic plays and readings of [[Dante]] and [[Shakespeare]] often being held.<ref>{{cite web|url=http://www.george-macdonald.com/resources/bordighera_visit.html |title=Bordighera, A Record of a Visit (1997) |access-date=2012-10-25 |url-status=dead |archive-url=https://web.archive.org/web/20120912125458/http://www.george-macdonald.com/resources/bordighera_visit.html |archive-date=12 September 2012 |df=dmy-all}}</ref>
+
+In 1900 he moved into St George's Wood, [[Haslemere]], a house designed for him by his son, Robert, its building overseen by his eldest son, [[Greville MacDonald|Greville]].<ref name="Hein2014">{{cite book |author1=Rolland Hein |author2=Frederick Buechner |author-link1=Rolland Hein |author-link2=Frederick Buechner |title=George MacDonald: Victorian Mythmaker |date=10 November 2014 |publisher=Wipf and Stock Publishers |location=Eugene |isbn=978-1625645074 |pages=398–399 |url=https://books.google.com/books?id=5TxgBQAAQBAJ |access-date=20 June 2018}}</ref>
+
+George MacDonald died on 18 September 1905 in [[Ashtead]], Surrey, England.<ref name="Hein2014" /> He was cremated in [[Woking]], Surrey, England and his ashes were buried in [[Bordighera]], in the English cemetery, along with his wife Louisa and daughters Lilia and Grace.<ref name="Hein2014" />
+
+==Personal life ==
+{{expand section |with source-based information on the whole of his family, spouse and children, and other standard aspects of personal life |small=no |date=March 2017}}
+MacDonald married Louisa Powell in Hackney in 1851, with whom he raised a family of eleven children: Lilia Scott (1852), Mary Josephine (1853–1878), Caroline Grace (1854), Greville Matheson (1856–1944), Irene (1857), Winifred Louise (1858), Ronald (1860–1933), Robert Falconer (1862–1913), Maurice (1864), Bernard Powell (1865–1928), and George Mackay (1867–1909?).
+
+His son [[Greville MacDonald|Greville]] became a noted medical specialist, a pioneer of the Peasant Arts movement, wrote numerous fairy tales for children, and ensured that new editions of his father's works were published.<ref>{{Cite web|url=https://legacy.lib.utexas.edu/taro/uthrc/00082/hrc-00082.html|title=Greville MacDonald: An Inventory of His Papers at the Harry Ransom Humanities Research Center|first=Greville|last=MacDonald|website=legacy.lib.utexas.edu}}</ref> Another son, Ronald, became a novelist.<ref>{{Cite web|url=https://books.google.com/books?id=w0pLAAAAMAAJ&q=ronald+macdonald+++constance+robertson&pg=PA1116|title=Who's who: An Annual Biographical Dictionary|date=1 July 1907|publisher=A. & C. Black|via=Google Books}}</ref> His daughter Mary was engaged to the artist [[Edward Robert Hughes]] until her death in 1878. Ronald's son, [[Philip MacDonald]] (George MacDonald's grandson), became a Hollywood screenwriter.<ref>{{Cite book|url=https://books.google.com/books?id=ehkcZFT8fMoC&q=Philip+MacDonald+screenwriter&pg=PA56|title=The Espionage Filmography: United States Releases, 1898 through 1999|first=Paul|last=Mavis|date=8 June 2015|publisher=McFarland|isbn=9781476604275|via=Google Books}}</ref>
+
+Tuberculosis caused the death of several family members, including Lilia, Mary Josephine, Grace, Maurice as well as one granddaughter and a daughter-in-law.<ref>{{Cite book|title=Profiles of English Writers: Volume Three of Three|last=Golgotha Press|publisher=Golgotha Press|year=2013|isbn=9781621076070|location=Hustonville, KY}}</ref> MacDonald was said to have been particularly affected by the death of Lilia, his eldest.
+
+There is a [https://www.english-heritage.org.uk/visit/blue-plaques/george-macdonald/ blue plaque] on his home at 20 Albert Street, Camden, London.
+
+==Theology==
+{{Original research section|date=August 2016}}
+{{more citations needed section|date=March 2017}}
+
+According to biographer William Raeper, MacDonald's theology "celebrated the rediscovery of God as Father, and sought to encourage an intuitive response to God and Christ through quickening his readers' spirits in their reading of the Bible and their perception of nature."<ref>{{Cite web|url=http://www.george-macdonald.com/resources1/theology.html|title=George MacDonald's Theology|website=The George MacDonald WWW Page}}</ref>
+
+MacDonald's oft-mentioned [[Universal reconciliation|universalism]] is not the idea that everyone will automatically be saved, but is closer to [[Gregory of Nyssa]] in the view that all will ultimately repent and be restored to God.<ref>{{Cite web|url=http://www.touchstonemag.com/archives/article.php?id=12-04-015-v|title=An Orthodox Appreciation of George MacDonald|website=Touchstone: A Journal of Mere Christianity}}</ref>
+
+MacDonald appears to have never felt comfortable with some aspects of Calvinist doctrine, feeling that its principles were inherently "unfair";<ref name=reis/> when the doctrine of [[predestination]] was first explained to him, he burst into tears (although assured that he was one of the [[Predestination (Calvinism)|elect]]).{{citation needed|date=March 2017}} Later novels, such as ''Robert Falconer'' and ''[[Lilith (novel)|Lilith]]'', show a distaste for the idea that God's electing love is limited to some and denied to others.{{citation needed|date=March 2017}}
+
+Chesterton noted that only a man who had "escaped" Calvinism could say that God is easy to please and hard to satisfy.{{clarify|date=June 2021}}{{sfn|Greville, Intro}}
+
+MacDonald rejected the doctrine of [[penal substitution]]ary atonement as developed by [[John Calvin]], which argues that Christ has taken the place of sinners and is punished by the wrath of God in their place, believing that in turn it raised serious questions about the character and nature of God.{{citation needed|date=March 2017}} Instead, he taught that Christ had come to save people from their sins, and not from a Divine penalty for their sins: the problem was not the need to appease a wrathful God, but the disease of cosmic evil itself.{{citation needed|date=March 2017}} MacDonald frequently described the [[atonement in Christianity|atonement]] in terms similar to the [[Christus Victor]] theory.{{clarify|date=March 2017}}{{citation needed|date=March 2017}} MacDonald posed the rhetorical question, "Did he not foil and slay evil by letting all the waves and billows of its horrid sea break upon him, go over him, and die without rebound—spend their rage, fall defeated, and cease? Verily, he made atonement!"<ref>{{cite book |last1=Phillips |first1=Michael R. |year=1987 |title=George MacDonald: Scotland's Beloved Storyteller |url=https://books.google.com/books?id=TobyAAAAMAAJ&q=%22their+rage+fall+defeated%22 |location=Minneapolis |publisher=Bethany House |page=209 |isbn=978-0871239440 |access-date=14 September 2017}}</ref>
+
+[[File:George and Louisa MacDonald on their 50th anniversary.jpg|thumb|MacDonald with his wife Louisa in 1901 at their 50th wedding anniversary]]
+
+MacDonald was convinced that God does not punish except to amend, and that the sole end of His greatest anger is the amelioration of the guilty.<ref>{{cite book | author = Yamaguchi, Miho | year = 2007 | title = George MacDonald's Challenging Theology of the Atonement, Suffering, and Death | page = 27 | publisher = Wheatmark | url = https://books.google.com/books?id=b_0ot9LcC5EC&pg=PA27 | access-date = 15 March 2017| isbn = 9781587367984 }}</ref> As the doctor uses fire and steel in certain deep-seated diseases, so God may use hell-fire if necessary to heal the hardened sinner. MacDonald declared, "I believe that no hell will be lacking which would help the just mercy of God to redeem his children."<ref>{{cite book | author = Johnson, Joseph | year = 1906 | title =George MacDonald: A Biographical and Critical Appreciation | page = [https://archive.org/details/georgemacdonaldb00johnuoft/page/155 155] | publisher = Sir Isaac Pitman & Sons, Ltd. | url = https://archive.org/details/georgemacdonaldb00johnuoft | access-date = 15 March 2017}}</ref> MacDonald posed the rhetorical question, "When we say that God is Love, do we teach men that their fear of Him is groundless?"  He replied, "No. As much as they were will come upon them, possibly far more.&nbsp;... The wrath will consume what they ''call'' themselves; so that the selves God made shall appear."<ref>{{cite book |last1=Phillips |first1=Michael R. |year=1987 |title=George MacDonald: Scotland's Beloved Storyteller |url=https://books.google.com/books?id=TobyAAAAMAAJ&q=%22wrath+will+consume%22 |location=Minneapolis |publisher=Bethany House |page=202 |isbn=978-0871239440 |access-date=14 September 2017 }}</ref>
+
+However, true repentance, in the sense of freely chosen moral growth, is essential to this process, and, in MacDonald's optimistic view, inevitable for all beings (see [[universal reconciliation]]).{{citation needed|date=March 2017}}
+
+MacDonald states his theological views most distinctly in the sermon "Justice", found in the third volume of ''Unspoken Sermons''.<ref>{{cite web |url=http://www.ccel.org/ccel/macdonald/unspoken3.viii.html |title=Sermon "Justice", at ''Unspoken Sermons Third Series'' |publisher=Christian Classics Ethereal Library |access-date=19 June 2018}}</ref>
+
+==Bibliography==
+{{cleanup | section | reason=this listing of published works is not remotely adequate in each entry's completeness, and is not entirely internally consistent in style; lacking sources for the lists, they must contain complete entries to allow reader followup and editor verification |date=March 2017}}
+The following is a list of MacDonald's published works in the genre now referred to as fantasy:{{according to whom|date=March 2017}}
+
+===Fantasy===
+{{div col|colwidth=30em}}
+*''[[Phantastes|Phantastes: A Fairie Romance for Men and Women]]'' (1858)
+*"Cross Purposes" (1862)
+*''The Portent: A Story of the Inner Vision of the Highlanders, Commonly Called "The Second Sight"'' (1864)
+*''Dealings with the Fairies'' (1867), containing "[[The Golden Key (MacDonald book)|The Golden Key]]", "[[The Light Princess]]", "The Shadows", and other short stories
+*''[[At the Back of the North Wind]]'' (1871)
+*''Works of Fancy and Imagination'' (1871), including ''[[Within and Without]]'', "Cross Purposes", "The Light Princess", "The Golden Key", and other works
+*''[[The Princess and the Goblin]]'' (1872)
+*''[[The Lost Princess|The Wise Woman: A Parable]]'' (1875) (Published also as "The Lost Princess: A Double Story"; or as "A Double Story".)
+*''The Gifts of the Child Christ and Other Tales'' (1882; republished as ''Stephen Archer and Other Tales'') 1908 edition by Edwin Dalton, London was illustrated by [[Cyrus Cuneo]] and [[G. H. Evison]]. Available online at the [[Hathi Trust]].<ref name=Archer-Book>{{cite book 
+|last1=Macdonald 
+|first1=George 
+|title=Stephen Archer and other tales 
+|date=1908 
+|publisher=Edwin Dalton 
+|location=London 
+|hdl=2027/uc2.ark:/13960/t10p10p66 
+|url=https://hdl.handle.net/2027/uc2.ark:/13960/t10p10p66 
+|access-date=2020-08-09 
+|via=The [[Hathi Trust]] (access may be limited outside the United States) }}</ref>
+*''[[The Day Boy and the Night Girl]]'' (1882)
+*''[[The Princess and Curdie]]'' (1883), a sequel to ''The Princess and the Goblin''
+*''[[Lilith (novel)|Lilith: A Romance]]'' (1895)
+{{div col end}}
+
+===Fiction===
+{{div col|colwidth=30em}}
+*''[[David Elginbrod]]'' (1863; republished in edited form as ''The Tutor's First Love''), originally published in three volumes
+*''Adela Cathcart'' (1864); contains many fantasy stories told by the characters within the larger story, including "[[The Light Princess]]", "[[The Shadows (MacDonald)|The Shadows]]", etc.{{verification needed|date=March 2017}}{{citation needed|date=March 2017}}
+*''[[Alec Forbes of Howglen]]'' (1865; edited by Michael Phillips and republished as ''The Maiden's Bequest;'' edited to children's version by Michael Phillips and republished as ''Alec Forbes and His Friend Annie'')
+*''Annals of a Quiet Neighbourhood'' (1867)
+*''Guild Court: A London Story'' (1868; republished in edited form as ''The Prodigal Apprentice''). 1908 edition by Edwin Dalton, London was illustrated by [[G. H. Evison]]. Available online at [[Hathi Trust]].<ref name=Guild-Book>{{cite book 
+|last1=Macdonald 
+|first1=George 
+|title=Guild Court, A London Story 
+|date=1908 
+|publisher=Edwin Dalton 
+|location=London 
+|hdl=2027/uc1.31210010290201 
+|url=https://hdl.handle.net/2027/uc1.31210010290201 
+|access-date=2020-08-09 
+|via=The [[Hathi Trust]] (access may be limited outside the United States) }}</ref> 
+*''Robert Falconer'' (1868; republished in edited form as ''The Musician's Quest'')
+*''The Seaboard Parish'' (1869), a sequel to ''Annals of a Quiet Neighbourhood''
+*''[[Ranald Bannerman's Boyhood]]'' (republished in edited form as ''The Boyhood of Ranald Bannerman'') (1871)
+*''Wilfrid Cumbermede'' (1871<!--72-->)<!--REINTRODUCE DATE RANGES ONLY WITH EXPLANATION. PRESENTED EARLIER DATE, AS IS STANDARD.-->
+*''The Vicar's Daughter'' (1871<!--72-->), a sequel to ''Annals of a Quiet Neighborhood'' and ''The Seaboard Parish''. 1908 edition by Sampson Low and Company, London was illustrated by [[Cyrus Cuneo]] and [[G. H. Evison]].  
+*''The History of Gutta Percha Willie, the Working Genius'' (1873; republished in edited form as ''The Genius of Willie MacMichael''), usually called simply ''Gutta Percha Willie''
+*''[[Malcolm (novel)|Malcolm]]'' (1875)
+*''St. George and St. Michael'' (1876; edited by Dan Hamilton and republished as ''The Last Castle'')
+*''Thomas Wingfold, Curate'' (1876; republished in edited form as ''The Curate's Awakening'')
+*''[[The Marquis of Lossie]]'' (1877; republished in edited form as ''The Marquis' Secret''), the second book of ''Malcolm''
+* [[Sir Gibbie]] (1879): {{cite book | author = <!--MacDonald, George--> | author-link = George MacDonald | date = 1879 | title = Sir Gibbie, Volume 1 | series = <!--Collection of British Authors--> | location = London | publisher =[[Hurst and Blackett]]  | url = https://books.google.com/books?id=weUBAAAAQAAJ | access-date = <!--15 March 2017--> }} With simultaneous publication of [https://books.google.com/books?id=1uUBAAAAQAAJ Vol. 2] and [https://books.google.com/books?id=6uUBAAAAQAAJ Vol. 3], each of ''ca.'' 300 pages. Also issued by Lippincott in America in a single volume set in two columns in smaller font, in 210 pages, {{cite book | author = <!--MacDonald, George--> | author-link = George MacDonald | date = 1879 | title = Sir Gibbie: A Novel | location = Philadelphia, PA | publisher = [[J. B. Lippincott]]  | url = https://books.google.com/books?id=o8gUAAAAYAAJ | access-date = <!--15 March 2017--> }} The entirety of the original text is available with a Broad Scots glossary by its digitizer, John Bechard, see {{cite web | url=http://www.gutenberg.org/ebooks/2370?msg=welcome_stranger | title=Sir Gibbie | author= <!--MacDonald, George-->|date=1879|access-date=<!--15 March 2017-->|via= Gutenberg.org}} Republished in edited form as {{cite book | author = MacDonald, George | date = 1990 | editor = Phillips, Michael R. | title = Wee Sir Gibbie of the Highlands | series = George MacDonald Classics | publisher =Bethany House  | isbn = 978-1556611391 | url = https://books.google.com/books?isbn=1556611390 | access-date = <!--15 March 2017--> }} Also as ''The Baronet's Song''.{{clarify|date=March 2017}}{{citation needed|date=March 2017}}
+*''Paul Faber, Surgeon'' (1879; republished in edited form as ''The Lady's Confession''), a sequel to ''Thomas Wingfold, Curate''
+*''[[Mary Marston]]'' (1881; republished in edited form as ''A Daughter's Devotion'' and ''The Shopkeeper's Daughter'')
+*''Warlock o' Glenwarlock'' (1881; republished in edited form as ''Castle Warlock'' and ''The Laird's Inheritance'')
+*''Weighed and Wanting'' (1882; republished in edited form as ''A Gentlewoman's Choice'')
+*''[[Donal Grant]]'' (1883; republished in edited form as ''The Shepherd's Castle''), a sequel to ''Sir Gibbie''
+*''What's Mine's Mine'' (1886; republished in edited form as ''The Highlander's Last Song'')
+*''Home Again: A Tale'' (1887; republished in edited form as ''The Poet's Homecoming'')
+*''[[The Elect Lady]]'' (1888; republished in edited form as ''The Landlady's Master'')
+*''A Rough Shaking'' (1891; republished in edited form as ''The Wanderings of Clare Skymer'')
+*''There and Back'' (1891; republished in edited form as ''The Baron's Apprenticeship''), a sequel to ''Thomas Wingfold, Curate'' and ''Paul Faber, Surgeon''
+*''The Flight of the Shadow'' (1891)
+*''Heather and Snow'' (1893; republished in edited form as ''The Peasant Girl's Dream'')
+*''Salted with Fire'' (1896; republished in edited form as ''The Minister's Restoration'')
+*''Far Above Rubies'' (1898)
+{{div col end}}
+
+===Poetry===
+The following is a list of MacDonald's published poetic works:{{according to whom|date=March 2017}}
+{{div col|colwidth=30em}}
+*''Twelve of the Spiritual Songs of Novalis'' (1851), privately printed translation of the poetry of [[Novalis]]
+*''[[Within and Without|Within and Without: A Dramatic Poem]]'' (1855)
+* {{cite book | year = 1857 | title = Poems | publisher = Longman, Brown, Green, Longmans, & Roberts | url = https://archive.org/details/poemsbygeorgemac00macduoft | access-date = 15 March 2017 }}
+*''"A Hidden Life" and Other Poems'' (1864)
+*''"The Disciple" and Other Poems'' (1867)
+*''Exotics: A Translation of the Spiritual Songs of Novalis, the Hymn-book of Luther, and Other Poems from the German and Italian'' (1876)
+*''Dramatic and Miscellaneous Poems'' (1876)
+*''Diary of an Old Soul'' (1880)
+*''A Book of Strife, in the Form of the Diary of an Old Soul'' (1880), privately printed
+*''The Threefold Cord: Poems by Three Friends'' (1883), privately printed, with Greville Matheson and John Hill MacDonald
+* {{cite book | year = 1887 | title = Poems | location = New York | publisher = E. P. Dutton | url = https://archive.org/details/poemsbygeorgemac00macduoft | access-date = 15 March 2017 }}
+*''The Poetical Works of George MacDonald, 2 Volumes'' (1893)
+*''Scotch Songs and Ballads'' (1893)
+*''Rampolli: Growths from a Long-planted Root'' (1897)
+{{div col end}}
+
+===Nonfiction===
+{{div col|colwidth=30em}}
+The following is a list of MacDonald's published works of non-fiction:{{according to whom|date=March 2017}}
+*''Unspoken Sermons'' (1867)
+*''England's Antiphon'' (1868, 1874)
+*''The Miracles of Our Lord'' (1870)
+*''Cheerful Words from the Writing of George MacDonald'' (1880), compiled by E. E. Brown
+*''Orts: Chiefly Papers on the Imagination, and on Shakespeare'' (1882)
+*"Preface" (1884) to ''[[Letters from Hell]]'' (1866) by [[Valdemar Adolph Thisted]]
+*''The Tragedie of Hamlet, Prince of Denmarke: A Study With the Text of the Folio of 1623'' (1885)
+*''Unspoken Sermons, Second Series'' (1885)
+*''Unspoken Sermons, Third Series'' (1889)
+*''A Cabinet of Gems, Cut and Polished by Sir Philip Sidney; Now, for the More Radiance, Presented Without Their Setting by George MacDonald'' (1891)
+*''The Hope of the Gospel'' (1892)
+*''A Dish of Orts'' (1893)
+*''Beautiful Thoughts from George MacDonald'' (1894), compiled by Elizabeth Dougall
+{{div col end}}
+
+==In popular culture==
+{{unreferenced section|date=March 2017}}
+{{Cleanup list|section|date=March 2012}}
+
+* American classical composer [[John Craton]] has utilized several of MacDonald's stories in his works, including "The Gray Wolf" (in a tone poem of the same name for solo mandolin – 2006) and portions of "The Cruel Painter", ''Lilith'', and ''The Light Princess'' (in ''Three Tableaux from George MacDonald'' for mandolin, recorder, and cello – 2011).{{citation needed|date=December 2014}}
+* Contemporary new-age musician [[Jeff Johnson (musician)|Jeff Johnson]] wrote a song titled "The Golden Key" based on George MacDonald's story of the same name.{{citation needed|date=December 2014}} He has also written several other songs inspired by MacDonald and the [[Inklings]].{{citation needed|date=December 2014}}
+* Jazz pianist and recording artist Ray Lyon has a song on his CD ''Beginning to See'' (2007), called "Up The Spiral Stairs", which features lyrics from MacDonald's 26 and 27 September devotional readings from the book ''Diary of an Old Soul''.<ref name="PoemHunter" />
+* Tori Amos and Samuel Adamson created a musical of [[The Light Princess (musical)|The Light Princess]] which was premiered for the Royal National Theatre in London in 2013.
+* A verse from ''[[The Light Princess]]'' is cited in the "Beauty and the Beast" song by [[Nightwish]].{{citation needed|date=March 2017}}
+* Rock group [[The Waterboys]] titled their album ''[[Room to Roam]]'' (1990) after a passage in MacDonald's ''Phantastes'', also found in ''Lilith''. The title track of the album comprises a MacDonald poem from the text of ''Phantastes'' set to music by the band. The novels ''[[Lilith (novel)|Lilith]]'' and ''[[Phantastes]]'' are both named as books in a library, in the title track of another Waterboys album, ''[[Universal Hall]]'' (2003).{{citation needed|date=March 2017}}
+
+==See also==
+* [[Christian existentialism]]
+* [[Fairytale fantasy]]
+* [[Mythopoeia]]
+
+==References==
+===Footnotes===
+{{reflist|colwidth=30em}}
+
+===Works cited===
+{{expand section | any repeatedly appearing book length works cited on multiple pages, so that short citations can be used in the references list | small = no|date=March 2017}}
+<!--PUT HERE, IN ALPHA ORDER BY LAST NAME OF LEADING AUTHOR/EDITOR, ANY BOOK-LENGTH WORKS CITED MULTIPLE TIMES, ON DIFFERENT PAGES, SO SHORT CITATIONS CAN BE USED IN THE LIST OF REFERENCES. ONLY MULTIPLE CITATIONS, ON MULTIPLE PAGES. ALL REMAINING APPEAR ONCE IN THE REFERENCES LIST.-->
+* [https://babel.hathitrust.org/cgi/pt?id=mdp.39015010558222Macdonald, Greville. ''George Macdonald and his wife'', 1924, MacVeagh, New York]
+
+==Further reading==
+{{cleanup | section | reason=this list of further published works to read is internally inconsistent in style, and inadequate in each entry's completeness; entries must be complete enough to allow reader followup and editor verification |date=March 2017}}
+<!--ANYTHING INTERESTING BUT NOT CITED GOES HERE. IF CITED, BUT UNDER-UTILISED IT CAN ALSO APPEAR A SECOND TIME HERE, BUT GENERALLY THIS IS NOT ENCOURAGED.-->
+<!--ORDER IS ALPHA BY LAST NAME OF LEADING AUTHOR/EDITOR.-->
+* Ankeny, Rebecca Thomas. ''The Story, the Teller and the Audience in George MacDonald's Fiction''. Lewiston, NY: Edwin Mellen Press, 2000.
+* ''Wingfold. A journal "Celebrating the works of George MacDonald"''. Published by Barbara Amell
+* Thomas Gerold, ''Die Gotteskindschaft des Menschen. Die theologische Anthropologie bei George MacDonald'', Münster: Lit, 2006 {{ISBN|3-8258-9853-9}} (A study of MacDonald's theology).
+* Gray, William N. "George MacDonald, [[Julia Kristeva]], and the Black Sun." ''SEL: Studies in English Literature 1500–1900'' 36.4 (Autumn 1996): 877–593. Accessed 19 May 2009.
+* Rolland Hein, ''George MacDonald: Victorian Mythmaker''. Star Song Publishing, 1993. {{ISBN|1-56233-046-2}}
+* Lewis, C. S. ''Surprised by Joy''.
+* McGillis, Roderick, ed. ''For the Childlike: George MacDonald's Fantasies for Children''. Metuchen, NJ, and London: The Children's Literature Association and the Scarecrow Press, Inc., 1992.
+* Greville MacDonald, ''George MacDonald and his Wife'', London: *George Allen & Unwin, 1924 (republished 1998 by Johannesen {{ISBN|1-881084-63-9}}
+* ''George MacDonald Selections From His Greatest Works'', compiled by David L. Neuhouser, published by Victor Press 1990. {{ISBN|0-89693-788-7}}
+* William Raeper, ''George MacDonald. Novelist and Victorian Visionary'', Tring, Herts., and Batavia, IL: Lion Publishing, 1987
+* Robb, David S. ''George MacDonald''. Edinburgh: Scottish Academic Press, 1987.
+* [[Robert Lee Wolff|Wolff, Robert Lee]]. ''The Golden Key: A Study of the Fiction of George Macdonald''. New Haven: Yale University Press, 1961.
+* Worthing, Mark W. ''Phantastes: George MacDonald's Classic Fantasy Novel''. Northcote Victoria: Stone Table Books, 2016.  {{ISBN|9780995416130}}
+* Worthing, Mark W. ''Narnia, Middle-Earth and the Kingdom of God: A History of Fantasy Literature and the Christian Tradition''. Northcote Victoria: Stone Table Books, 2016  {{ISBN|9780995416116}}
+
+==External links==
+{{Library resources box}}
+{{Wikiquote}}
+{{wikisource author}}
+{{Commons category}}
+;Digital collections
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/george-macdonald}}
+* {{Gutenberg author |id=127}}
+* {{Internet Archive author |sname=George MacDonald}}
+* [http://www.ccel.org/m/macdonald/ Christian Classics Ethereal Library]
+* [http://cdl.library.cornell.edu/moa/browse.author/m.html Extracts from Scribner's Monthly, etc.] containing a few poems and translations of Novalis (Cornell University's [http://cdl.library.cornell.edu/moa/moa_browse.html "Making of America" Journal Collection])
+* [http://www2.hn.psu.edu/faculty/jmanis/g-macdonald.htm Several Works] at [https://web.archive.org/web/20070418154759/http://www2.hn.psu.edu/faculty/jmanis/jimspdf.htm Penn State University's Electronic Classics] (pdf format)
+* [http://www.samizdat.qc.ca/arts/lit/PDFs/AlecForbesofHowglen_GM.pdf Alec Forbes of Howglen]. (Ebook/PDF format)
+
+;Physical collections
+* [https://web.archive.org/web/20140702165842/http://wheaton.edu/wadecenter/Authors/George-MacDonald The Marion E. Wade Center] – George MacDonald research collection at Wheaton College, Wheaton, IL
+* [[hdl:10079/fa/beinecke.mcdonald|George MacDonald Collection]]. General Collection, Beinecke Rare Book and Manuscript Library, Yale University.
+
+;Audio collections
+* {{Librivox author |id=631}}
+* [http://georgemacdonald.podbean.com/ Audio recordings of GM Works ongoing]
+* [http://librivox.org/short-story-collection-001/ Free audio recording of "The Golden Key"] at [http://www.librivox.org librivox.org]
+
+;Biographical information
+* [http://georgemacdonald.info/ The George MacDonald Informational Web]
+* [http://www.victorianweb.org/authors/gm/mcdnldov.html George MacDonald] on The Victorian Web
+* [http://www.ibooknet.co.uk/archive/news_aug05.htm#Feature Life and Works of George MacDonald]
+
+;Scholarly work
+* ''North Wind. A Journal of George MacDonald Studies''. The Journals of the George MacDonald Society
+* [https://web.archive.org/web/20080514173948/http://www.taylor.edu/academics/supportservices/cslewis/ The Center for the Study of C.S. Lewis and Friends – Taylor University at taylor.edu]
+
+;Other links
+* [http://georgemacdonald.info/twain.html  Mark Twain, George MacDonald's Friend Abroad, at GeorgeMacdonald.info]
+* [http://www.george-macdonald.com/ George MacDonald Society]
+* [https://web.archive.org/web/20121115235828/http://www.george-macdonald.com/resources/mark_twain.html Mark Twain and George MacDonald: The Salty and the Sweet]
+* {{isfdb name|id=George_MacDonald|name=George MacDonald}}
+
+{{George MacDonald|state=expanded}}
+{{Victorian children's literature}}
+{{Portal bar|Biography|Children's literature|Christianity|Poetry}}
+{{Authority control}}
+
+{{DEFAULTSORT:Macdonald, George}}
+[[Category:George MacDonald| ]]
+[[Category:1824 births]]
+[[Category:1905 deaths]]
+[[Category:19th-century Christian mystics]]
+[[Category:19th-century Christian universalists]]
+[[Category:19th-century Scottish novelists]]
+[[Category:19th-century Scottish poets]]
+[[Category:19th-century Scottish writers]]
+[[Category:20th-century Christian mystics]]
+[[Category:20th-century Christian universalists]]
+[[Category:20th-century Scottish novelists]]
+[[Category:20th-century Scottish people]]
+[[Category:20th-century Scottish poets]]
+[[Category:Alumni of the University of Aberdeen]]
+[[Category:Christian novelists]]
+[[Category:Christian poets]]
+[[Category:Christian universalist clergy]]
+[[Category:Christian universalist theologians]]
+[[Category:Fabulists]]
+[[Category:Kailyard school]]
+[[Category:Lallans poets]]
+[[Category:Mystics]]
+[[Category:Mythopoeic writers]]
+[[Category:People from Huntly]]
+[[Category:Protestant mystics]]
+[[Category:Protestant philosophers]]
+[[Category:Scottish anti-communists]]
+[[Category:Scottish children's writers]]
+[[Category:Scottish Christian theologians]]
+[[Category:Scottish Christian universalists]]
+[[Category:Scottish clergy]]
+[[Category:Scottish Congregationalist ministers]]
+[[Category:Scottish Christian poets]]
+[[Category:Scottish expatriates in Italy]]
+[[Category:Scottish fantasy writers]]
+[[Category:Scottish male novelists]]
+[[Category:Scottish male poets]]
+[[Category:Scottish philosophers]]
+[[Category:Victorian novelists]]
+[[Category:Fellows of the Society of Antiquaries of Scotland]]

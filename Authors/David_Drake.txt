@@ -1,0 +1,103 @@
+{{short description|American author of science fiction and fantasy literature}}
+{{Other people|David Drake}}
+
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image = David drake.jpg
+|imagesize = 150px |
+| name        = David Drake
+| caption     =
+| birth_date   = {{Birth date and age|mf=yes|1945|9|24}}
+| birth_place  =
+| death_date   =
+| death_place  =
+| occupation  = Author
+| language   = English
+| citizenship   = <!--USA?-->
+| education     = 
+| alma_mater    = [[University of Iowa]], [[Duke University School of Law]]
+| genre       = [[Science fiction]], [[fantasy]]
+| nationality = American
+| period      =
+| movement    =
+| notableworks = [[Hammer's Slammers]], [[RCN Series]]
+| spouse        =
+| partner       = 
+| children      =
+| relatives     =
+| <!-- [[Joel Rosenberg (science fiction author)|Joel Rosenberg]]<ref>Dedication in Rosenberg's [[Guardians of the Flame|"The Road Home"]]</ref> -->
+| awards        = 
+| signature     = 
+| signature_alt = 
+| website       = {{URL|http://david-drake.com/}}
+}}
+
+'''David Drake''' (born September 24, 1945) is an [[American literature|American author]] of [[science fiction]] and [[fantasy]] literature. A [[Vietnam War]] veteran who has worked as a lawyer, he is now a writer in the [[military science fiction]] genre.
+
+==Biography==
+Drake graduated [[Phi Beta Kappa]] from the [[University of Iowa]], majoring in history (with honors) and Latin. His studies at [[Duke University School of Law]] were interrupted for two years when he was drafted into the [[U.S. Army]], where he served as an enlisted interrogator with the [[11th Armored Cavalry]] (The [[Black Horse Regiment]]) in [[Vietnam War|Vietnam]] and [[Cambodian Civil War|Cambodia]].<ref>{{cite web
+ |url=https://david-drake.com/2018/veteran-award/
+ |title=Hawkeye Distinguished Veteran Award
+ |date=January 2, 2018 |author=David Drake
+}}</ref><ref>{{cite web
+ |url=https://now.uiowa.edu/2017/11/ui-honors-6-hawkeye-distinguished-veterans-memorial-awards
+ |title=UI honors 6 with Hawkeye Distinguished Veterans Memorial Awards
+ |date=November 8, 2017 |publisher=[[University of Iowa]]}}</ref>
+With [[Karl Edward Wagner]] and Jim Groce, he was one of the initiators of [[Carcosa]], a small press company. He now lives in [[Pittsboro, North Carolina]].
+
+On 17 November 2021 he announced he is retiring from writing novels, due to unspecified health problems.<ref name="newsletter 123">{{Cite web|url=https://david-drake.com/2021/newsletter-123-the-last-one/|title=Newsletter #123 – the last one|date=2021-11-17|access-date=2021-11-26|website=David Drake — Science Fiction & Fantasy Writer|last=Drake|first=Dave}}</ref>
+
+==Works==
+His best-known solo work is the [[Hammer's Slammers]] series of military science fiction. His newer [[RCN Series|Republic of Cinnabar Navy]]  series are [[space opera]]s inspired by the [[Aubrey–Maturin series|Aubrey–Maturin novels]]. During 1997, Drake began his largest fantasy series, ''[[Lord of the Isles (David Drake)|Lord of the Isles]]'', using elements of [[Sumer]]ian religion and medieval technology. During 2007, Drake finished the series with its ninth volume.
+
+Drake has co-authored novels with authors such as [[Karl Edward Wagner]], [[S.M. Stirling]], and [[Eric Flint]]. Typically Drake provides plot outlines (5,000&ndash;15,000 words) and the co-author does "the real work of developing the outline into a novel".<ref name=outlines>[http://david-drake.com/2010/plot-outlines/ Novel Plot Outlines], David Drake, May 26, 2010</ref> He does not "consider [his] involvement to be that of a real co-author."<ref name=outlines/> Drake also contributed to the ''[[Heroes in Hell]]'' series.
+
+Drake's plots often use history, literature, and mythology.  Starting with ''Northworld'' in 1990,<ref>[http://david-drake.com/2000/northworld/ Northworld, Vengeance, and Justice], David Drake, May 15, 2000</ref> he has generally explained the background of each book in an afterword or preface.  Additionally, Drake's plots frequently involve a contest of political systems.{{citation needed|date=September 2013}}
+
+[[John Clute]] stated in the entry on Drake in the 1993 edition of ''[[The Encyclopedia of Science Fiction]]'', "Today there seems very little to stop [Drake] from writing exactly what he wishes to write."
+
+Some of Drake's works are available for free download in the [[Baen Free Library]].
+
+==Bibliography==
+{{main article|David Drake bibliography}}
+
+==Adaptations==
+*[[Mayfair Games]] produced the licensed ''[[Hammer's Slammers (board game)|Hammer's Slammers]]'' board game (1984) based on David Drake's novel ''[[Hammer's Slammers]]''.<ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=[[Mongoose Publishing]]|year=2011| isbn= 978-1-907702-58-7}}</ref>{{rp|167}}
+*[[Mongoose Publishing]] adapted Drake's novel as the licensed setting ''Hammer's Slammers'' (2009) for the ''[[Traveller (role-playing game)|Traveller]]'' role-playing game.<ref name="designers"/>{{rp|401}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|David Drake}}
+*[http://david-drake.com/ David Drake's web site]
+*{{isfdb name | id=David_Drake |name=David Drake}}
+*[http://www.fantasticfiction.co.uk/authors/David_Drake.htm David Drake at Fantastic Fiction]
+* [http://www.sf-encyclopedia.com/entry/drake_david_a "Drake, David A"] at ''[[The Encyclopedia of Science Fiction]]'', Third Edition
+{{World Fantasy Special Award Non-professional}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Drake, David}}
+[[Category:1945 births]]
+[[Category:Living people]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American alternate history writers]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:United States Army personnel of the Vietnam War]]
+[[Category:American science fiction writers]]
+[[Category:Duke University School of Law alumni]]
+[[Category:Forteana]]
+[[Category:Military science fiction writers]]
+[[Category:People from Pittsboro, North Carolina]]
+[[Category:University of Iowa alumni]]
+[[Category:United States Army soldiers]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Novelists from Iowa]]
+[[Category:Novelists from North Carolina]]
+[[Category:American male short story writers]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American short story writers]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

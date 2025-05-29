@@ -1,0 +1,101 @@
+{{Infobox Christian leader
+| type = Archbishop
+| honorific-prefix = His Excellency
+| name = Andrzej Krzycki
+| honorific-suffix = 
+| title = [[Roman Catholic Archdiocese of Gniezno|Archbishop of Gniezno]]<br>[[Primate (bishop)|Primate of Poland]] 
+| image = Andrzej Krzycki Primate of Poland.PNG
+| imagesize = 
+| alt = Tymoteusz Gorzeński
+| caption = 
+| church = [[Roman Catholic Church|Roman Catholic]]
+| archdiocese = [[List of archbishops of Gniezno and primates of Poland|Gniezno]]
+| province = 
+| metropolis = 
+| diocese = 
+| see = 
+| enthroned = 1535
+| ended = 1537
+| ordination = 
+| consecration = 1523
+| cardinal = 
+| rank = 
+| other_post = 
+| coat_of_arms =  POL COA Kotwicz.svg
+| coat_of_arms_alt = Episcopal coat of arms of Archbishop Andrzej Krzycki, 
+| motto = 
+<!-- -------- Personal details -------- -->| birth_name = 
+| birth_date = 7 July 1482
+| birth_place = [[Krzycko]]
+| death_date = 10 May 1537
+| death_place = [[Skierniewice]]
+| buried = 
+| nationality = Polish
+| religion = 
+| residence = 
+| parents = 
+| spouse = 
+| children = 
+| occupation = 
+| profession = 
+| alma_mater = 
+| signature = <!-- -------- Sainthood -------- -->
+| feast_day = 
+| venerated = 
+| saint_title = 
+| beatified_date = 
+| beatified_place = 
+| beatified_by = 
+| canonized_date = 
+| canonized_place = 
+| canonized_by = 
+| attributes = 
+| patronage = 
+| shrine = 
+| suppressed_date = <!-- -------- Other -------- -->
+| other = 
+| ordained_by =
+| consecrated_by = 
+}}
+
+'''Andrzej Krzycki herbu Kotwicz''' (also '''Andreas Cricius''') (Krzycko Małe, 7 July 1482 – † Skierniewice, 10 May, 1537) was a [[Renaissance]] [[Polish language|Polish]] writer and archbishop. Krzycki wrote in Latin prose, but wrote poetry in Polish. He is often considered one of Poland's greatest humanist writers.<ref>Konrad Lutyński, Poznańscy prałaci i kanonicy w XVI wieku, w: Saeculum Christianum : pismo historyczno-społeczne 1/2, 1994 page. 138.</ref>
+
+He earned an education at the [[University of Bologna]] studying under prominent humanists, and started a career in church hierarchy in 1501. In 1512, [[Barbara of Celje|Barbara Zapolya]] married King [[Sigismund I the Old]]. Krzycki wrote a verse to commemorate this marriage, and became Zapolya's secretary the same year. When the king won the victory of Orsza, he again wrote a poem, and sent verses purporting to be from the queen to her absent husband after the model of [[Ovid]]'s ''Epistolae Heroidum''; these, in a letter to Krzycki, [[Erasmus]] praised enthusiastically. After Barbara's death he continued to be chancellor in the household of [[Bona Sforza]], Sigismund's second wife. He took orders and managed to obtain rich benefits, and even a [[Diocese|bishopric]].<ref>Statuta capitularia ecclesiae cathedralis Cracoviensis, Ed. I. Polkowski, Kraków, 1884 page. 63.</ref>
+
+The Reformation, then rapidly spreading, filled him with dismay, and was the occasion of the most serious work that he produced, ''Religionis et Reipublicae quaerimonia'' (1522). When [[Albert of Brandenburg]], Grand Master of the [[Teutonic Knights]], became a [[Lutheran]], and Sigismund I recognized him as his vassal and Duke of [[East Prussia]], Krzycki in a letter written to Baron Pulleon, tried to explain and justify this action of his sovereign. He finally rose to the highest clerical office in his country, that of Primate Archbishop of [[Gniezno]].  He was a patron of youthful talent, as in the case of [[Klemens Janicki]]. His last work, ''De Asiana Dieta'', was a criticism of the Polish diets or assemblies common in his time.<ref>Janusz Pelc "Jan Kochanowski "Poeta renesansu" Warszawa 1988</ref>
+
+==See also==
+* [[List of Poles#Poetry|List of Poles]]
+
+{{s-start}}
+{{succession box |
+before=[[Rafał Leszczyński (bishop of Płock)|Rafał Leszczyński]] |
+title=[[Bishops of Płock|Bishop of Płock]]|
+after=[[Jan Chojeński]]|
+years=1527–1535}}
+{{s-end}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*{{in lang|pl}} [https://web.archive.org/web/20080503194508/http://www.staropolska.gimnazjum.com.pl/renesans/wczesny_humanizm/Andrzej_Krzycki_biogram.html Short Biography]
+*{{Catholic|wstitle=Andrew Krzycki}}
+* [http://www.archidiecezja.pl/panorama/katedra360/index.html Virtual tour Gniezno Cathedral ]
+*[http://prymaspolski.pl/prymasi/ List of Primates of Poland ]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Krzycki, Andrzej}}
+[[Category:1482 births]]
+[[Category:1537 deaths]]
+[[Category:16th-century Latin-language writers]]
+[[Category:16th-century Roman Catholic archbishops in Poland]]
+[[Category:16th-century writers]]
+[[Category:Archbishops of Gniezno]]
+[[Category:Bishops of Płock]]
+[[Category:Bishops of Przemyśl]]
+[[Category:Polish nobility]]
+[[Category:Polish poets]]
+[[Category:Polish male writers]]
+[[Category:New Latin-language poets]]

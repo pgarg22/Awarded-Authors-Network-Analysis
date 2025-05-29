@@ -1,0 +1,352 @@
+{{About||the Dean of St Andrews|George Farquhar (priest)|the British Olympic wrestler|George Farquhar (wrestler)|other uses of Farquhar|Farquhar (disambiguation){{!}}Farquhar}}
+{{Use British English|date=October 2013}}
+{{Use dmy dates|date=October 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = George Farquhar
+| image       = George_Farquhar2.jpg
+| imagesize   = 150px
+| caption     = George Farquhar
+| pseudonym   =
+| birth_date  = 1677
+| birth_place = [[Derry]], Ireland
+| death_date  = 29 April 1707
+| death_place = London, England
+| occupation  = Dramatist
+| nationality = Irish
+| period      =
+| genre       = Comedy
+| subject     =
+| movement    =
+| spouse      = Margaret Pemell
+| partner     =
+| children    =
+| relatives   =
+| signature   =
+| website     =
+}}
+'''George Farquhar''' (1677<ref name=birthd>The explanation for the dual birth year appears in Louis A. Strauss, ed., ''[https://archive.org/details/adiscourseuponc00stragoog A Discourse Upon Comedy, The Recruiting Officer, and The Beaux’ Stratagem by George Farquhar]'' (Boston: D.C. Heath & Co., 1914), p. v. Strauss notes that "Our sole source of information as to the time of his birth is the entry of his matriculation in the register of Trinity College" on 17 July 1694, where "His age is given as 17." Earlier biographers took this to mean Farquhar was in his 17th year—hence born in 1678—and Strauss favors this date. But later writers, such as William Myers, ed., ''[https://books.google.com/books?id=B_efAAAACAAJ George Farquhar: The Recruiting Officer and Other Plays],'' {{ISBN|0-19-282249-7}} (Oxford: Oxford University Press, 1995), p. vii, give the dual year, and John Ross, ed., ''George Farquhar: The Recruiting Officer (New Mermaids),'' 2nd ed., {{ISBN|0-7136-3349-2}} (London: A&C Black, 1991), p. xiii, gives a birthdate of "''ca.'' 1677" for the playwright.</ref> – 29 April 1707) was an Irish [[dramatist]]. He is noted for his contributions to late [[Restoration comedy]], particularly for his plays ''[[The Constant Couple]]'' (1699), ''[[The Recruiting Officer]]'' (1706) and ''[[The Beaux' Stratagem]]'' (1707).
+
+==Early life==
+
+Born in [[Derry]], Farquhar was one of seven children born to William Farquhar, a clergyman of modest means.<ref name=strauss>{{cite book
+ | last = Strauss
+ | first = Louis A., editor
+ | title = A Discourse Upon Comedy, The Recruiting Officer, and The Beaux' Stratagem by George Farquhar
+ | publisher = D.C. Heath & Co.
+ | year = 1914
+ | location = Boston
+ | pages = v
+ | isbn = 9780598588494
+ | url = https://books.google.com/books?id=mB1MAAAAMAAJ
+ }}</ref> The author of "Memoirs of Mr. George Farquhar," a biographical sketch prefixed to certain 18th-century editions<ref name=memnote>Alex. Charles Ewald quotes from a slightly different version of these "Memoirs" in the introduction to his edition of ''[https://archive.org/details/dramaticworksge01farqgoog The Dramatic Works of George Farquhar]'' (London: John C. Nimmo, 1892), Vol. 1, p. vi–vii, and Strauss, op. cit, p. vi ''et seq.,'' cites from but does not quote a biographical writing by "T. Wilkes" given in the 1775 Dublin edition of Farquhar which agrees in some but not all details with the version quoted in this article (referenced in the next note).</ref> of his works, claims that Farquhar
+
+{{cquote|discovered a Genius early devoted to the Muses. When he was very young, he gave Specimens of his Poetry; and discovered a Force of Thinking, and Turn of Expression, much beyond his years."<ref name=ingenious>{{cite book
+ | last = Anonymous
+ | title = "Memoirs of Mr. George Farquhar," in The Works of the Late Ingenious Mr. George Farquhar... ("The Tenth Edition")
+ | publisher = [[Rivington (publishers)|John Rivington]] et al.
+ | year = 1772
+ | location = London
+ | pages = Vol. I, p. iii
+ | url = https://books.google.com/books?id=kDTUMPTssgsC
+ | no-pp = true  }}</ref> }}
+
+He was educated at [[Foyle and Londonderry College|Foyle College]] and later entered [[Trinity College, Dublin]] at age 17 as a [[sizar]] under the patronage of the [[Bishop of Dromore]],<ref name=alex>{{cite book
+ | last = Ewald
+ | first = Alex. Charles, editor
+ | title = The Dramatic Works of George Farquhar
+ | publisher = John C. Nimmo
+ | year = 1892
+ | location = London
+ | pages = Vol. I, p. v
+ | url = https://books.google.com/books?id=oIQ4AAAAIAAJ
+ | no-pp = true  }}</ref> who may have been related to Farquhar's mother.<ref name="strauss"/> Farquhar may have initially intended to follow his father's profession and become a clergyman,<ref name=ross>{{cite book
+ | last = Ross
+ | first = John, editor
+ | title = George Farquhar: The Recruiting Officer
+ | publisher = A&C Black
+ | year = 1991
+ | location = London
+ | pages = xiii
+ | isbn =  0-7136-3349-2
+ | no-pp = true | edition = New Mermaids, 2nd
+ }}</ref> but was "unhappy and rebellious as a student" and left college after two years to become an actor.<ref name=myers>{{cite book
+ | last = Myers
+ | first = William, editor
+ | title = George Farquhar: The Recruiting Officer and Other Plays
+ | publisher = Oxford University Press
+ | year = 1995
+ | location = Oxford
+ | pages = vii
+ | url = https://books.google.com/books?id=B_efAAAACAAJ
+ | isbn = 0-19-282249-7
+ | no-pp = true }}</ref> His 18th-century biographer claims that the departure was because "his gay and volatile Disposition could not long relish the Gravity and Retirement of a College-life,"<ref name="ingenious"/> but another story of uncertain veracity has him being expelled from Trinity College due to a "profane jest."<ref name=strauss1>{{cite book
+ | last = Strauss
+ | first = Louis A., editor
+ | title = A Discourse Upon Comedy, The Recruiting Officer, and The Beaux' Stratagem by George Farquhar
+ | publisher = D.C. Heath & Co.
+ | year = 1914
+ | location = Boston
+ | pages = vi
+ | isbn = 9780598588494
+ | url = https://books.google.com/books?id=mB1MAAAAMAAJ
+ }}</ref>
+
+[[File:George Farquhar from NPG.jpg|left|thumb|Engraving of a performance of George Farquhar by [[Michiel van der Gucht]] after unknown artist, published 1711]]
+
+==Acting career==
+
+Farquhar joined a company performing on the [[Dublin]] stage, probably through his acquaintance with the well-known actor [[Robert Wilks]].<ref name="strauss1"/> However, Farquhar was reportedly not that impressive as an actor. We are told that "his Voice was somewhat weak"<ref name="ingenious"/> and that "his movements [were] stiff and ungraceful."<ref name=alex2>{{cite book
+ | last = Ewald
+ | first = Alex. Charles, editor
+ | title = The Dramatic Works of George Farquhar
+ | publisher = John C. Nimmo
+ | year = 1892
+ | location = London
+ | pages = Vol. I, p. vi
+ | url = https://books.google.com/books?id=oIQ4AAAAIAAJ
+ | no-pp = true  }}</ref> But he was well received by audiences and thought to continue in this career "till something better should offer."<ref name="ingenious"/> Some of the roles reportedly played by Farquhar were Lennox in [[William Shakespeare|Shakespeare's]] ''[[Macbeth]],'' Young Bellair in ''[[The Man of Mode]]'' by [[George Etherege]], Lord Dion in ''[[Philaster (play)|Philaster]]'' by [[Francis Beaumont|Beaumont]] and [[John Fletcher (playwright)|Fletcher]], and Guyomar in ''The Indian Emperor'' by [[John Dryden]].<ref name="strauss1"/>
+
+But while he was performing in the Dryden play, an accident on stage put an end to Farquhar's acting career. As Guyomar, Farquhar was supposed to "kill" Vasquez, one of the Spanish generals in the drama. Forgetting to exchange his sword for a [[Foil (fencing)|foil]] before enacting this scene, Farquhar severely wounded Price, the actor playing Vasquez. Although Price recovered, Farquhar resolved after this mishap to give up acting for good.<ref name="ingenious"/><ref name="strauss1"/><ref name=alex3>{{cite book
+ | last = Ewald
+ | first = Alex. Charles, editor
+ | title = The Dramatic Works of George Farquhar
+ | publisher = John C. Nimmo
+ | year = 1892
+ | location = London
+ | pages = Vol. I, p. vi–vii
+ | url = https://books.google.com/books?id=oIQ4AAAAIAAJ
+ | no-pp = true  }}</ref>
+
+==Writing career==
+
+Farquhar then left for London, "possibly with a draft of his first play in his portmanteau."<ref name="myers"/> Some writers tie his move to that of his friend Wilks, who had received an offer from the manager of [[Theatre Royal, Drury Lane|Drury Lane]] to come to London and join that theatre,<ref name=alex4>{{cite book
+ | last = Ewald
+ | first = Alex. Charles, editor
+ | title = The Dramatic Works of George Farquhar
+ | publisher = John C. Nimmo
+ | year = 1892
+ | location = London
+ | pages = Vol. I, p. vii
+ | url = https://books.google.com/books?id=oIQ4AAAAIAAJ
+ | no-pp = true  }}</ref> and Wilks is also credited with encouraging Farquhar's efforts at writing plays.<ref name=ingenious2>{{cite book
+ | last = Anonymous
+ | title = "Memoirs of Mr. George Farquhar," in The Works of the Late Ingenious Mr. George Farquhar... ("The Tenth Edition")
+ | publisher = John Rivington et al.
+ | year = 1772
+ | location = London
+ | pages = Vol. I, p. iv
+ | url = https://books.google.com/books?id=kDTUMPTssgsC
+ | no-pp = true  }}</ref><ref name=strauss2>{{cite book
+ | last = Strauss
+ | first = Louis A., editor
+ | title = A Discourse Upon Comedy, The Recruiting Officer, and The Beaux' Stratagem by George Farquhar
+ | publisher = D.C. Heath & Co.
+ | year = 1914
+ | location = Boston
+ | pages = vii
+ | isbn = 9780598588494
+ | url = https://books.google.com/books?id=mB1MAAAAMAAJ
+ | no-pp = true  }}</ref>
+
+Farquhar's first comedy, ''[[Love and a Bottle]],'' was premiered in 1698; "for its sprightly Dialogue and busy Scenes," it is said to have been "well received by the Audience."<ref name="ingenious2"/> Called a "licentious piece" by one scholar,<ref name="myers"/> and cited as proof that Farquhar had "absorbed the stock topics, character-types, and situations of Restoration comedy" by another,<ref name="ross"/> the play deals with Roebuck, "An ''Irish'' Gentleman of a wild roving Temper" who is "newly come to ''London.''"<ref name=ingeniousplay>{{cite book
+ | last = Farquhar
+ | first = George
+ | title = "Love and a Bottle," in The Works of the Late Ingenious Mr. George Farquhar... ("The Tenth Edition")
+ | publisher = John Rivington et al.
+ | year = 1772
+ | location = London
+ | pages = Vol. I, p. 114 (Dramatis Personae)
+ | url = https://books.google.com/books?id=kDTUMPTssgsC
+ | no-pp = true  }}</ref> The general character of the play can be evaluated by considering that in the opening scene, Roebuck tells his friend Lovewell that he has left Ireland due to getting a woman pregnant with twins (a boy and a girl) and to Roebuck's father trying to force Roebuck to marry the woman; however, Roebuck remarks, "Heav'n was pleas'd to lessen my Affliction, by taking away the She-brat."<ref name=ingeniousplay2>{{cite book
+ | last = Farquhar
+ | first = George
+ | title = "Love and a Bottle," in The Works of the Late Ingenious Mr. George Farquhar... ("The Tenth Edition")
+ | publisher = John Rivington et al.
+ | year = 1772
+ | location = London
+ | pages = Vol. I, p. 121
+ | url = https://books.google.com/books?id=kDTUMPTssgsC
+ | no-pp = true  }} Most of these plot details are pointed out by William Myers, ''op. cit.,'' p. vii.</ref>
+
+After the favourable reception of ''Love and a Bottle,'' Farquhar decided to devote himself to playwriting. He also at this point received a commission in the regiment of the Earl of Orrery, so his time for the next few years was divided between the vocations of soldier and dramatist.<ref name="alex4"/> It was also at about this time that Farquhar discovered [[Anne Oldfield]], who was reading aloud a scene from ''[[The Scornful Lady]]'' at her aunt's tavern. Impressed, he brought her to the notice of [[John Vanbrugh|Sir John Vanbrugh]], and this led to her theatrical career, during which she was the first performer of major female roles in Farquhar's last comedies.<ref name=strauss3>{{cite book
+ | last = Strauss
+ | first = Louis A., editor
+ | title = A Discourse Upon Comedy, The Recruiting Officer, and The Beaux' Stratagem by George Farquhar
+ | publisher = D.C. Heath & Co.
+ | year = 1914
+ | location = Boston
+ | pages = viii
+ | isbn = 9780598588494
+ | url = https://books.google.com/books?id=mB1MAAAAMAAJ
+ | no-pp = true  }}</ref>
+
+In 1700, Farquhar's ''[[The Constant Couple]]'' was acted at Drury Lane and proved a great success,<ref name=alex5>{{cite book
+ | last = Ewald
+ | first = Alex. Charles, editor
+ | title = The Dramatic Works of George Farquhar
+ | publisher = John C. Nimmo
+ | year = 1892
+ | location = London
+ | pages = Vol. I, p. viii
+ | url = https://books.google.com/books?id=oIQ4AAAAIAAJ
+ | no-pp = true  }}</ref> helped considerably by his friend Wilks' portrayal of the character of Sir Henry Wildair<ref name="ingenious2"/> (a performance that Farquhar himself praised generously in his "Preface to the Reader" when the play was published).<ref name=alexf1>{{cite book
+ | last = Ewald
+ | first = Alex. Charles, editor
+ | title = The Dramatic Works of George Farquhar
+ | publisher = John C. Nimmo
+ | year = 1892
+ | location = London
+ | pages = Vol. I, p. 123
+ | url = https://books.google.com/books?id=oIQ4AAAAIAAJ
+ | no-pp = true  }}</ref> The playwright followed up with a sequel, ''[[Sir Harry Wildair]],'' the following year, and in 1702 wrote the comedies ''[[The Inconstant]]'' and ''[[The Twin Rivals]].'' Also in 1702, Farquhar published ''Love and Business,'' a collection that included letters, verse, and ''A Discourse Upon Comedy.''<ref name=strauss4>{{cite book
+ | last = Strauss
+ | first = Louis A., editor
+ | title = A Discourse Upon Comedy, The Recruiting Officer, and The Beaux' Stratagem by George Farquhar
+ | publisher = D.C. Heath & Co.
+ | year = 1914
+ | location = Boston
+ | pages = ix
+ | isbn = 9780598588494
+ | url = https://books.google.com/books?id=mB1MAAAAMAAJ
+ }}</ref>
+
+The next year, he married Margaret Pemell, "a widow with three children, ten years his senior," who reportedly tricked him into the marriage by pretending to have a great fortune.<ref name=myers2>{{cite book
+ | last = Myers
+ | first = William, editor
+ | title = George Farquhar: The Recruiting Officer and Other Plays
+ | publisher = Oxford University Press
+ | year = 1995
+ | location = Oxford
+ | pages = viii
+ | url = https://books.google.com/books?id=B_efAAAACAAJ
+ | isbn = 0-19-282249-7
+ | no-pp = true }}</ref> His 18th century biographer records that "though
+he found himself deceived, his Circumstances embarrassed, and his Family increasing, he never upbraided her for the Cheat, but behaved to her with all the Delicacy and Tenderness of an indulgent Husband."<ref name=ingenious3>{{cite book
+ | last = Anonymous
+ | title = "Memoirs of Mr. George Farquhar," in The Works of the Late Ingenious Mr. George Farquhar... ("The Tenth Edition")
+ | publisher = John Rivington et al.
+ | year = 1772
+ | location = London
+ | pages = Vol. I, p. vi
+ | url = https://books.google.com/books?id=kDTUMPTssgsC
+ | no-pp = true  }}</ref> He was engaged in recruiting for the army, due to the [[War of the Spanish Succession]], for the next three years, writing little except ''[[The Stage Coach]]'' in collaboration with [[Pierre Antoine Motteux|Peter Motteux]]; this was an adaptation of a French play.<ref name=strauss5>{{cite book
+ | last = Strauss
+ | first = Louis A., editor
+ | title = A Discourse Upon Comedy, The Recruiting Officer, and The Beaux' Stratagem by George Farquhar
+ | publisher = D.C. Heath & Co.
+ | year = 1914
+ | location = Boston
+ | pages = x
+ | isbn = 9780598588494
+ | url = https://books.google.com/books?id=mB1MAAAAMAAJ
+ }}</ref> He drew on his recruiting experience for his next comedy, ''[[The Recruiting Officer]]'' (1706).<ref name="ingenious3"/> However, Farquhar had to sell his army commission to pay debts, reportedly after the [[James Butler, 2nd Duke of Ormonde|Duke of Ormonde]] advised him to do so, promising him another but failing to keep his promise.<ref name=strauss6>{{cite book
+ | last = Strauss
+ | first = Louis A., editor
+ | title = A Discourse Upon Comedy, The Recruiting Officer, and The Beaux' Stratagem by George Farquhar
+ | publisher = D.C. Heath & Co.
+ | year = 1914
+ | location = Boston
+ | pages = xi
+ | isbn = 9780598588494
+ | url = https://books.google.com/books?id=mB1MAAAAMAAJ
+ }}</ref>
+
+Early in 1707, Farquhar's friend Wilks visited him;<ref name=myers3>{{cite book
+ | last = Myers
+ | first = William, editor
+ | title = George Farquhar: The Recruiting Officer and Other Plays
+ | publisher = Oxford University Press
+ | year = 1995
+ | location = Oxford
+ | pages = ix
+ | url = https://books.google.com/books?id=B_efAAAACAAJ
+ | isbn = 0-19-282249-7 }}</ref> Farquhar was ill and in distress, and Wilks is said to have "cheered him with a substantial present, and urged him to write another comedy."<ref name="strauss6"/> This comedy, ''[[The Beaux' Stratagem]],'' was given its première on 8 March 1707;<ref name="myers3"/> we know from Farquhar's own statement prefacing the published version of the play that he wrote it during his sickness:
+
+{{cquote|The reader may find some faults in this play, which my illness prevented the amending of; but there is great amends made in the representation,
+which cannot be match'd, no more than the friendly and indefatigable care of Mr. Wilks, to whom I chiefly owe the success of the play.<ref name=advert>{{cite book
+ | last = Strauss
+ | first = Louis A., editor
+ | title = A Discourse Upon Comedy, The Recruiting Officer, and The Beaux' Stratagem by George Farquhar
+ | publisher = D.C. Heath & Co.
+ | year = 1914
+ | location = Boston
+ | pages = 198
+ | isbn = 9780598588494
+ | url = https://books.google.com/books?id=mB1MAAAAMAAJ
+ }}</ref> }}
+
+Farquhar died on 29 April 1707, not quite two months after the opening of this last play.<ref name=alex6>{{cite book
+ | last = Ewald
+ | first = Alex. Charles, editor
+ | title = The Dramatic Works of George Farquhar
+ | publisher = John C. Nimmo
+ | year = 1892
+ | location = London
+ | pages = Vol. I, p. xii
+ | url = https://books.google.com/books?id=oIQ4AAAAIAAJ
+ | no-pp = true  }}</ref> He was buried in the Church of [[St. Martin in the Fields]], London, on 3 May.<ref name="strauss6"/>
+
+==Works referencing Farquhar==
+* The 1987 play, ''[[Our Country's Good]]'' by [[Timberlake Wertenbaker]], revolves around the story of 18th-century Australian convicts attempting to put on Farquhar's ''The Recruiting Officer.''  Wertenbaker's play is based on a novel by [[Thomas Keneally]].<ref name=myersx1>{{cite book
+ | last = Myers
+ | first = William, editor
+ | title = George Farquhar: The Recruiting Officer and Other Plays
+ | publisher = Oxford University Press
+ | year = 1995
+ | location = Oxford
+ | pages = xi
+ | url = https://books.google.com/books?id=B_efAAAACAAJ
+ | isbn = 0-19-282249-7 }}</ref>
+* [[Bertolt Brecht]] set his adaptation of ''The Recruiting Officer,'' called ''Pauken und Trompeten,'' in America during the [[American Civil War|Civil War]].<ref name="myersx1"/>
+* In Act III of ''[[She Stoops to Conquer]]'' by [[Oliver Goldsmith]], Kate Hardcastle asks her maid, "Tell me, Pimple, how do you like my present dress?  Don't you think I look something like Cherry in the ''Beaux Stratagem''?" A theatrical notice in the ''[[New York Times]]'' for 7 February 1885 remarked that at that date Goldsmith's allusion was "all that the stage [had] known of George Farquhar for many a year."<ref name=nyt>[https://query.nytimes.com/gst/abstract.html?res=9A05E3D81F3BE033A25754C0A9649C94649FD7CF "Daly's Theatre" in the ''New York Times'' for February 7, 1885], accessed on 19 December 2007</ref>
+* [[Alexander Pope]] famously refers to the playwright in "The First Epistle of the Second Book of Horace, Imitated," where he comments (line 288), "What pert low Dialogue has Farqu'ar writ!" (It has been argued that this is not an attack by Pope on Farquhar, but an illustration of "how seldom ev'n the best succeed" two lines earlier.)<ref name=myersxx1>{{cite book
+ | last = Myers
+ | first = William, editor
+ | title = George Farquhar: The Recruiting Officer and Other Plays
+ | publisher = Oxford University Press
+ | year = 1995
+ | location = Oxford
+ | pages = xiii, note 15
+ | url = https://books.google.com/books?id=B_efAAAACAAJ
+ | isbn = 0-19-282249-7
+ | no-pp = true }}</ref>
+*In his essay "On Actors and Acting," essayist William Hazlitt praises the reformative power of the last act of Farquar's play ''The Inconstant'', calling it "[t]he most striking lesson ever read to levity and licentiousness...where young Mirabel is preserved by the fidelity of his mistress, Orinda, in the disguise of a page, from the hands of assassins, into whose power he has been allured by the temptations of vice and beauty. There never was a rake who did not become in imagination a reformed man during the representation of the last trying scenes of this admirable comedy."<ref>{{Cite book|title=The Essays of William Hazlitt|last=Hazlitt|first=William|publisher=Coward-McCann|year=1950|location=New York|pages=42}}</ref>
+
+==See also==
+* [[List of Northern Irish writers]]
+* [[Timberlake Wertenbaker]]
+
+== References ==
+{{Reflist|30em}}
+
+*Shirley Strum Kenny, editor (1988). The Works of George Farquhar.  Oxford University Press, 2 volumes.
+*Barry Sales.  Eighteenth Century Studies, volume 47, no 3 (2014).  The Landlord's Tale (1708).  An anonymous poem, probably written by George Farquhar.
+
+==External links==
+{{wikiquote}}
+{{wikisource-author}}
+* {{Gutenberg author |id=Farquhar,+George | name=George Farquhar}}
+* {{FadedPage|id=Farquhar, George|name=George Farquhar|author=yes}}
+* {{Internet Archive author |sname=George Farquhar}}
+* {{Librivox author |id=9923}}
+* ''The Dramatic Works of George Farquhar,'' [https://archive.org/details/dramaticworksge01farqgoog Vol. 1] and [https://archive.org/details/dramaticworksge00farqgoog Vol. 2].
+* Farquhar's ''[https://archive.org/details/adiscourseuponc00stragoog A Discourse Upon Comedy].''
+* [[Project Gutenberg]]'s text of ''[https://www.gutenberg.org/ebooks/21334 The Beaux' Stratagem].''
+* [https://www.exclassics.com/landb/landbintro.htm ''Love and Business''] by George Farquhar - multiple formats at the Ex-Classics Web Site
+
+{{Restoration comedy}}
+{{Authority control}}
+
+{{DEFAULTSORT:Farquhar, George}}
+[[Category:1677 births]]
+[[Category:1707 deaths]]
+[[Category:Irish male dramatists and playwrights]]
+[[Category:People from Derry (city)]]
+[[Category:People educated at Kilkenny College]]
+[[Category:People from Lichfield]]
+[[Category:17th-century Irish writers]]
+[[Category:18th-century Irish dramatists and playwrights]]
+[[Category:Ulster Scots people]]
+[[Category:17th-century Irish male actors]]
+[[Category:18th-century Irish male writers]]
+[[Category:17th-century male writers]]

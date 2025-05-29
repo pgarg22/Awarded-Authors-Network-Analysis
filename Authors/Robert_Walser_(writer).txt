@@ -1,0 +1,256 @@
+{{Short description|Swiss writer}}
+{{for|the U.S. musicologist|Robert Walser (musicologist)}}
+{{Use dmy dates|date=October 2020}}
+
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name       = Robert Otto Walser
+| image      = Robert Walser.jpg
+| imagesize  = 250px
+| caption    = Robert Walser around 1900
+| birth_date  = {{birth date|1878|4|15|df=y}}
+| birth_place = [[Biel/Bienne]], [[Switzerland]]
+| death_date  = {{death date and age |1956|12|25|1878|4|15|df=y}}
+| death_place = near [[Herisau]], Switzerland
+| occupation = Writer
+| language   =
+| nationality = [[Switzerland|Swiss]]
+| genre       =
+| movement    = [[Modernism]]
+| notableworks =
+| influences   =
+| influenced =
+}}
+
+'''Robert Walser''' (15 April 1878 &ndash; 25 December 1956) was a [[German language|German]]-speaking [[Swiss people|Swiss]] writer.
+
+Walser is understood to be the missing link between [[Heinrich von Kleist|Kleist]] and [[Kafka]].<ref>{{cite news|last=Sontag|first=Susan|title=introduction to "The Walk"|url=https://www.brainpickings.org/2015/02/11/the-walk-robert-walser/}}</ref> "Indeed", writes [[Susan Sontag]], "at the time [of Walser's writing], it was more likely to be Kafka [who was understood by posterity] through the prism of Walser". Apparently [[Robert Musil]] referred to Kafka's work as "a peculiar case of the Walser type".<ref>Susan Sontag, "Walser's Voice", ''Selected Stories of Robert Walser'', 2002. New York: NYRB Classics.  {{ISBN|978-0940322981}}</ref>
+
+Walser was admired early on by Kafka and writers such as [[Hermann Hesse]], [[Stefan Zweig]], and [[Walter Benjamin]],<ref>{{cite web|last=Scrima|first=Andrea|title=The Walk by Robert Walser|date=23 July 2012|url=http://therumpus.net/2012/07/the-walk-by-robert-walser/|publisher=The Rumpus|access-date=2 March 2014}}</ref> and was in fact better known during his lifetime than Kafka or Benjamin were known in theirs.<ref name=Sebald>{{cite book|last=Sebald|first=W. G.|title="Le Promeneur Solitaire: On Robert Walser" from A Place in the Country|date=2014|publisher=New Directions|isbn=978-1400067718}}</ref> Nevertheless, Walser was never able to support himself based on the meager income he made from his writings, and he worked as a copyist, an inventor's assistant, a butler, and in various other low-paying trades. Despite marginal early success in his literary career, the popularity of his work gradually diminished over the second and third decades of the 20th century, making it increasingly difficult for him to support himself through writing. He eventually suffered a nervous breakdown and spent the remainder of his life in sanatoriums, taking frequent long walks.
+
+A revival of interest in his work arose when, in the late 20th century and early 2000s, his writings from the Pencil Zone, also known as ''Bleistiftgebiet'' or "the Microscripts", which had been written in a coded, microscopically tiny hand on scraps of paper collected while in a Waldau sanatorium, were finally deciphered, translated, and published.<ref name="[[Rivka Galchen]]">{{cite news|last=Galchen|first=Rivka|title=From the Pencil Zone: Robert Walser's Masterworklets|newspaper=Harper's Magazine|date=May 2010}}</ref><ref>{{cite news|last=Kunkel|first=Benjamin|title=Still Small Voice: The Fiction of Robert Walser|url=http://www.newyorker.com/arts/critics/books/2007/08/06/070806crbo_books_kunkel?currentPage=all|access-date=2 March 2014|newspaper=The New Yorker|date=6 August 2007}}</ref><ref>{{cite news|last=Lerner|first=Ben|title=Robert Walser's Disappearing Acts|url=http://www.newyorker.com/online/blogs/books/2013/09/robert-walser-disappearing-acts.html|access-date=2 March 2014|newspaper=The New Yorker|date=3 September 2013}}</ref>
+
+==Life and work==
+
+===1878–1897===
+Walser was born into a family with many children. His brother [[Karl Walser]] became a well-known [[Scenic design|stage designer]] and [[Painting|painter]]. Walser grew up in [[Biel]], Switzerland, on the [[language border]] between the German- and [[French language|French]]-speaking cantons of Switzerland, and grew up speaking both languages. He attended primary school and [[Gymnasium (school)|progymnasium]], which he had to leave before the final exam when his family could no longer bear the cost. From his early years on, he was an enthusiastic theatre-goer; his favourite play was ''[[Die Räuber|The Robbers]]'' by [[Friedrich Schiller]]. There is a [[watercolor painting]] that shows Walser as Karl Moor, the protagonist of that play.
+
+From 1892 to 1895, Walser served an apprenticeship at the Bernischer Kantonalbank in Biel. Afterwards he worked for a short time in [[Basel]]. Walser's mother, who was "emotionally disturbed", died in 1894 after being under medical care for a long period.{{Citation needed|date=May 2010}} In 1895, Walser went to [[Stuttgart]] where his brother Karl lived. He was an office worker at the Deutsche Verlagsanstalt and at the Cotta'sche Verlagsbuchhandlung; he also tried, without success, to become an actor. On foot, he returned to Switzerland where he registered in 1896 as a [[Zürich]] resident. In the following years, he often worked as a "Kommis", an office clerk, but irregularly and in many different places. As a result, he was one of the first Swiss writers to introduce into literature a description of the life of a salaried employee.
+
+===1898–1912===
+In 1898, the influential critic Joseph Victor Widmann published a series of poems by Walser in the [[Bern]]ese newspaper ''[[Der Bund]]''. This came to the attention of [[Franz Blei]], and he introduced Walser to the [[Art Nouveau]] people around the magazine ''[[Die Insel]]'', including [[Frank Wedekind]], [[Max Dauthendey]] and [[Otto Julius Bierbaum]]. Numerous short stories and poems by Walser appeared in ''Die Insel.''
+
+Until 1905, Walser lived mainly in Zürich, though he often changed lodgings and also lived for a time in [[Thun]], [[Solothurn]], [[Winterthur]] and [[Munich]]. In 1903, he fulfilled his military service obligation and, beginning that summer, was the "aide" of an engineer and inventor in [[Wädenswil]] near Zürich. This episode became the basis of his 1908 novel ''Der Gehülfe'' (''The Assistant''). In 1904, his first book, ''Fritz Kochers Aufsätze'' (Fritz Kocher's Essays), appeared in the ''Insel Verlag''.
+{{quote box
+| width  = 20em
+| align  = left
+| quote  = Was isch jetz für Zit? Scho drü? Alee, pressier, pressier. <small>([[Alemannic German]])</small>
+:''"What time is it? Already three? Come on, hurry, hurry."''
+| salign = right
+| source = ''Der Teich'', 1902.
+}}
+At the end of 1905 he attended a course in order to become a servant at the castle of Dambrau in [[Upper Silesia]]. The theme of serving would characterize his work in the following years, especially in the novel ''[[Jakob von Gunten]]'' (1909). In 1905, he went to live in [[Berlin]], where his brother Karl Walser, who was working as a theater painter, introduced him to other figures in literature, publishing, and the theater. Occasionally, Walser worked as secretary for the artists' corporation [[Berlin Secession|Berliner Secession]].
+
+In Berlin, Walser wrote the novels ''Geschwister Tanner'', ''Der Gehülfe'' and ''Jakob von Gunten''. They were issued by the publishing house of [[Bruno Cassirer]], where [[Christian Morgenstern]] worked as editor. Apart from the novels, he wrote many short stories, sketching popular bars from the point of view of a poor [[Flâneur|"flaneur"]] in a very playful and subjective language. There was a very positive echo to his writings. [[Robert Musil]] and [[Kurt Tucholsky]], among others, stated their admiration for Walser's prose, and authors like [[Hermann Hesse]] and [[Franz Kafka]] counted him among their favorite writers.
+
+Walser published numerous short stories in newspapers and magazines, many for instance in the ''Schaubühne.'' They became his trademark. The larger part of his work is composed of short stories – literary sketches that elude a ready categorization. Selections of these short stories were published in the volumes ''Aufsätze'' (1913) and ''Geschichten'' (1914).
+
+===1913–1929===
+In 1913, Walser returned to Switzerland. He lived for a short time with his sister Lisa in the mental home in [[Bellelay]], where she worked as a teacher. There, he got to know Lisa Mermet, a washer-woman with whom he developed a close friendship. After a short stay with his father in Biel, he went to live in a mansard in the Biel hotel ''Blaues Kreuz''. In 1914, his father died.
+
+In Biel, Walser wrote a number of shorter stories that appeared in newspapers and magazines in Germany and Switzerland and selections of which were published in ''Der Spaziergang'' (1917), ''Prosastücke'' (1917), ''Poetenleben'' (1918), ''Seeland'' (1919) and ''Die Rose'' (1925). Walser, who had always been an enthusiastic wanderer, began to take extended walks, often by night. In his stories from that period, texts written from the point of view of a wanderer walking through unfamiliar neighborhoods alternate with playful essays on writers and artists.
+
+During [[World War I]], Walser repeatedly had to go into military service. At the end of 1916, his brother Ernst died after a time of mental illness in the Waldau mental home. In 1919, Walser's brother Hermann, geography professor in Bern, committed suicide. Walser himself became isolated in that time, when there was almost no communication with Germany because of the war. Even though he worked hard, he could barely support himself as a freelance writer. At the beginning of 1921, he moved to [[Bern]] in order to work at the public record office. He often changed lodgings and lived a very solitary life.
+
+During his time in Bern, Walser's style became more radical. In a more and more condensed form, he wrote "micrograms" ("Mikrogramme"), called thus because of his minuscule pencil hand that is very difficult to decipher. He wrote poems, prose, dramolettes and novels, including ''The Robber'' (''Der Räuber''). In these texts, his playful, subjective style moved toward a higher abstraction. Many texts of that time work on multiple levels – they can be read as naive-playful [[feuilleton]]s or as highly complex montages full of allusions. Walser absorbed influences from serious literature as well as from [[formula fiction]] and retold, for example, the plot of a pulp novel in a way that the original (the title of which he never revealed) was unrecognizable. Much of his work was written during these very productive years in Bern.
+
+===1929–1956===
+In the beginning of 1929, Walser, who had suffered from anxieties and hallucinations for quite some time, went to the Bernese mental home Waldau, after a mental breakdown, at his sister Fani's urging. In his medical records it says: "The patient confessed hearing voices." Therefore, this can hardly be called a voluntary commitment. He was eventually diagnosed with [[catatonic schizophrenia]].<ref>{{Cite journal|last1=Partl|first1=S.|last2=Pfuhlmann|first2=B.|last3=Jabs|first3=B.|last4=Stöber|first4=G.|date=2011-01-01|title=["My disease is one of the mind and difficult to define": Robert Walser (1879–1956) and his mental illness]|journal=Der Nervenarzt|volume=82|issue=1|pages=67–78|doi=10.1007/s00115-009-2914-y|issn=1433-0407|pmid=21274695|s2cid=23475235}}</ref> While he was in the mental home, his state of mind quickly returned to normal, and he went on writing and publishing. More and more, he used the way of writing he called the "pencil method": he wrote poems and prose in a diminutive [[Sütterlin]] hand, the letters of which measured about a millimeter of height by the end of that very productive phase. Werner Morlang and Bernhard Echte were the first ones who attempted to decipher these writings. In the 1990s, they published a six-volume edition, ''Aus dem Bleistiftgebiet'' ('From the Pencil Zone'). Only when Walser was, against his will, moved to the sanatorium of [[Herisau]] in his home canton of [[Appenzell Ausserrhoden]], did he quit writing, later telling Carl Seelig, "I am not here to write, but to be mad."
+
+In 1936, his admirer [[Carl Seelig]] began to visit him. He later wrote a book, ''Wanderungen mit Robert Walser'', about their talks. Seelig tried to revive interest in Walser's work by re-issuing some of his writings. After the death of Walser's brother Karl in 1943 and of his sister Lisa in 1944, Seelig became Walser's legal guardian. Though free of outward signs of mental illness for a long time, Walser was crotchety and repeatedly refused to leave the sanatorium.
+
+In 1955, Walser's ''Der Spaziergang'' (''The Walk'') was translated into English by [[Christopher Middleton (poet)|Christopher Middleton]]; it was the first English translation of his writing and the only one that would appear during his lifetime. Upon learning of Middleton's translation, Walser, who had fallen out of the public eye, responded by musing "Well, look at that."<ref>{{cite book|last2=Bernofsky|first2=Susan|title=The Walk|year=2012|publisher=New Directions|location=New York|isbn=978-0-8112-1992-1|pages=89|author1=Robert Walser}}</ref>
+
+Walser enjoyed long walks alone. On 25 December 1956 he was found, dead of a heart attack, in a field of snow near the asylum. The photographs of the dead Walser in the snow are reminiscent of a similar image of a dead man in the snow in his first novel, ''Geschwister Tanner''.
+
+==Writings and reception==
+Today, Walser's texts, completely re-edited since the 1970s, are regarded as among the most important writings of literary [[modernism]]. In his writing, he made use of elements of [[Swiss German]] in a charming and original manner, while very personal observations are interwoven with ''texts about texts''; that is, with contemplations and variations of other literary works, in which Walser often mixes pulp fiction with high literature.
+
+Walser, who never belonged to a literary school or group, perhaps with the exception of the circle around the magazine ''Die Insel'' in his youth, was a notable and often published writer before World War I and into the 1920s. After the second half of the latter decade, he was rapidly forgotten, in spite of Carl Seelig's editions, which appeared almost exclusively in Switzerland but received little attention.
+
+Walser was rediscovered only in the 1970s, even though famous German writers such as [[Christian Morgenstern]], Franz Kafka, Walter Benjamin, [[Thomas Bernhard]] and Hermann Hesse were among his great admirers. Since then, almost all his writings have become accessible through an extensive republication of his entire body of work. He has exerted a considerable influence on various contemporary German writers, including [[Ror Wolf]], [[Peter Handke]], [[W. G. Sebald]], and [[Max Goldt]]. In 2004, Spanish writer [[Enrique Vila-Matas]] published a novel entitled ''Doctor Pasavento'' about Walser, his stay on Herisau and the wish to disappear. In 2007, [[Serbia]]n writer [[Vojislav V. Jovanović]] published a book of prose named ''Story for Robert Walser'' inspired by the life and work of Robert Walser. In 2012, ''A Little Ramble: In the Spirit of Robert Walser'',<ref>{{Cite book|title=A little ramble : in the spirit of Robert Walser : inspired by a series of exhibitions at the Donald Young Gallery with Peter Fischli [and others]|last=Walser|first=Robert|publisher=New Directions|others=Fischli, Peter., Middleton, Christopher|year=2012|isbn=9780811220996|location=New York|oclc=804144951}}</ref> a series of artistic responses to Walser's work was published, including work by [[Moyra Davey]], [[Thomas Schütte]], [[Tacita Dean]] and [[Mark Wallinger]].
+
+== Robert Walser Center ==
+The Robert Walser Center, which was officially established in [[Bern]], [[Switzerland]], in 2009, is dedicated to Robert Walser and the first patron of Walser's work and legacy, [[Carl Seelig]]. Its purpose is to promulgate Walser's life and work as well as to facilitate scholarly research. The center is open to both experts and the general public and includes an extensive archive, a research library, temporary exhibition space, and two rooms with several workstations are also available. The Center furthermore develops and organizes exhibitions, events, conferences, workshops, publications, and special editions. The translation of Robert Walser's works, which the Center both encourages and supports, also represents a key focus. In order to fully meet its objectives and responsibilities as a center of excellence, it often collaborates on certain projects with local, national, and international partners as well as universities, schools, theaters, museums, archives, translators, editors, and publishers.
+
+==Works==
+
+===German===
+*''Der Teich'', 1902, verse drama
+*''Schneewittchen'', 1901, [[Verse drama and dramatic verse|verse drama]]
+*''Fritz Kochers Aufsätze'', 1904 {{ISBN|3-518-37601-2}}
+*''Geschwister Tanner'', 1907 {{ISBN|3-518-39982-9}}
+*''Der Gehülfe'', 1908 {{ISBN|3-518-37610-1}}
+*''Poetenleben'', 1908 {{ISBN|3-518-01986-4}}
+*''[[Jakob von Gunten]]'', 1909 {{ISBN|3-518-37611-X}}
+*''Gedichte'', 1909
+*''Aufsätze'', 1913
+*Geschichten, 1914
+*''Kleine Dichtungen'', 1915 {{ISBN|3-518-37604-7}}
+*''Prosastücke'', 1917
+*''Der Spaziergang'', 1917 {{ISBN|3-518-37605-5}}
+*''Kleine Prosa'', 1917
+*''Poetenleben'', 1917 {{ISBN|3-518-01986-4}}
+*''Tobold''-Roman, 1918
+*''Komödie'', 1919
+*''Seeland'', 1920 {{ISBN|3-518-37607-1}}
+*''Theodor''-Roman, 1921
+*''Die Rose'', 1925 {{ISBN|3-518-37608-X}}
+*''Der Räuber'', 1925 (veröffentlicht 1978) {{ISBN|3-518-37612-8}}
+*''Felix-Szenen'', 1925
+*''Große Welt, kleine Welt'', 1937
+*''Dichterbildnisse'', 1947
+*''Dichtungen in Prosa'', 1953
+*''Robert Walser – Briefe'', 1979
+*''Sämtliche Werke in Einzelausgaben''. 20 Bde. Hg. v. Jochen Greven. Zürich, Frankfurt am Main: Suhrkamp Verlag 1985-1986
+*''Geschichten'', 1985 {{ISBN|3-518-37602-0}}
+*''Der Spaziergang. Prosastücke und Kleine Prosa.'', 1985 {{ISBN|3-518-37605-5}}
+*''Aufsätze'', 1985 {{ISBN|3-518-37603-9}}
+*''Bedenkliche Geschichten. Prosa aus der Berliner Zeit 1906–1912'', 1985 {{ISBN|3-518-37615-2}}
+*''Träumen. Prosa aus der Bieler Zeit 1913–1920'', 1985 {{ISBN|3-518-37616-0}}
+*''Die Gedichte'', 1986 {{ISBN|3-518-37613-6}}
+*''Komödie. Märchenspiele und szenische Dichtung'', 1986 {{ISBN|3-518-37614-4}}
+*''Wenn Schwache sich für stark halten. Prosa aus der Berner Zeit 1921–1925'', 1986 {{ISBN|3-518-37617-9}}
+*''Zarte Zeilen. Prosa aus der Berner Zeit 1926'', 1986 {{ISBN|3-518-37618-7}}
+*''Es war einmal. Prosa aus der Berner Zeit 1927–1928'', 1986 {{ISBN|3-518-37619-5}}
+*''Für die Katz. Prosa aus der Berner Zeit 1928–1933'', 1986 {{ISBN|3-518-37620-9}}
+*''Aus dem Bleistiftgebiet Band 1. Mikrogramme 1924/25.'' Hg. v. Bernhard Echte u. Werner Morlang i. A. des Robert Walser-Archivs der Carl Seelig-Stiftung, Zürich. Frankfurt am Main: Suhrkamp Verlag 1985-2000 {{ISBN|3-518-03234-8}}
+*''Aus dem Bleistiftgebiet Band 2. Mikrogramme 1924/25. Hg. v. Bernhard Echte u. Werner Morlang i. A. des Robert Walser-Archivs der Carl Seelig-Stiftung, Zürich. Frankfurt am Main: Suhrkamp Verlag 1985–2000''  {{ISBN|3-518-03234-8}}
+*''Aus dem Bleistiftgebiet Band 3. Räuber-Roman, Felix-Szenen. Hg. v. Bernhard Echte u. Werner Morlang i. A. des Robert Walser-Archivs der Carl Seelig-Stiftung, Zürich. Frankfurt am Main: Suhrkamp Verlag 1985-2000''  {{ISBN|3-518-03085-X}}
+*''Aus dem Bleistiftgebiet Band 4. Mikrogramme 1926/27. Hg. v. Bernhard Echte u. Werner Morlang i. A. des Robert Walser-Archivs der Carl Seelig-Stiftung, Zürich. Frankfurt am Main: Suhrkamp Verlag 1985-2000''  {{ISBN|3-518-40224-2}}
+*''Aus dem Bleistiftgebiet Band 5. Mikrogramme 1925/33. Hg. v. Bernhard Echte u. Werner Morlang i. A. des Robert Walser-Archivs der Carl Seelig-Stiftung, Zürich. Frankfurt am Main: Suhrkamp Verlag 1985-2000''  {{ISBN|3-518-40851-8}}
+*''Aus dem Bleistiftgebiet Band 6. Mikrogramme 1925/33. Hg. v. Bernhard Echte u. Werner Morlang i. A. des Robert Walser-Archivs der Carl Seelig-Stiftung, Zürich. Frankfurt am Main: Suhrkamp Verlag 1985-2000''  {{ISBN|3-518-40851-8}}
+*''Unsere Stadt. Texte über Biel.'' 2002 {{ISBN|3-907142-04-7}}
+*''Feuer. Unbekannte Prosa und Gedichte.'' 2003 {{ISBN|3-518-41356-2}}
+* ''Tiefer Winter. Geschichten von der Weihnacht und vom Schneien''. Hg. v. Margit Gigerl, Livia Knüsel u. Reto Sorg. Frankfurt: Insel Taschenbuch Verlag 2007 (it; 3326), {{ISBN|978-3-458-35026-2}}
+*''Kritische Robert Walser-Ausgabe. Kritische Ausgabe sämtlicher Drucke und Manuskripte.'' Hg. v. Wolfram Groddeck, Barbara von Reibnitz u.a. Basel, Frankfurt am Main: Stroemfeld, Schwabe 2008
+*''Briefe. Berner Ausgabe''. Hg. v. Lucas Marco Gisi, Reto Sorg, Peter Stocker u. Peter Utz. Berlin: Suhrkamp Verlag 2018
+
+===English translations===
+*''Jakob von Gunten'' (University of Texas Press, 1970; New York Review Books Classics, 1999), translated by [[Christopher Middleton (poet)|Christopher Middleton]],  {{ISBN|0-940322-21-8}}
+*''Selected Stories'' (Farrar, Straus, Giroux, 1982; New York Review Books Classics, 2002), translated by [[Christopher Middleton (poet)|Christopher Middleton]], {{ISBN|0-940322-98-6}}
+*''Robert Walser Rediscovered: Stories, Fairy-Tale Plays, & Critical Response Including the [[anti-fairy tale|Anti-Fairy Tales]], Cinderella & Snow White'' (University Press of New England, 1985) {{ISBN|0-87451-334-0}}
+*''Masquerade and Other Stories'' (The Johns Hopkins University Press, 1990), translated by [[Susan Bernofsky]],  {{ISBN|0-8018-3977-7}}
+*''The Robber'' (University of Nebraska Press, 2000), translated by Susan Bernofsky,  {{ISBN|0-8032-9809-9}}
+*''Speaking to the Rose: Writings, 1912–1932'' (University of Nebraska Press, 2005), translated by [[Christopher Middleton (poet)|Christopher Middleton]], {{ISBN|0-8032-9833-1}}
+*''The Assistant'' ([[New Directions Publishing|New Directions]], 2007), translated by [[Susan Bernofsky]],  {{ISBN|978-0-8112-1590-9}}
+*''The Tanners'' ([[New Directions Publishing|New Directions]], 2009), translated by [[Susan Bernofsky]], {{ISBN|978-0-8112-1589-3}}
+*''Microscripts'' ([[New Directions Publishing|New Directions]], 2010), translated by [[Susan Bernofsky]], {{ISBN|978-0-8112-1880-1}}
+*''Answer to an Inquiry'' (Ugly Duckling Presse, 2010), translated by Paul North, with drawings by Friese Undine, {{ISBN|978-1933254746}}
+*''Berlin Stories'' (New York Review Books Classics, 2012), translated by [[Susan Bernofsky]], {{ISBN|978-1-59017-454-8}}
+*''The Walk'' ([[New Directions Publishing|New Directions]], 2012), translated by [[Christopher Middleton (poet)|Christopher Middleton]] with [[Susan Bernofsky]], {{ISBN|9780811219921}}
+*''Thirty Poems'' ([[New Directions Publishing|New Directions]], 2012), translated by [[Christopher Middleton (poet)|Christopher Middleton]], {{ISBN|978-0811220019}}
+* ''Oppressive Light: Selected Poems by Robert Walser'' ([[Black Lawrence Press]]/[[Dzanc Books]], New York, 2012), edited and translated by [[Daniele Pantano]], {{ISBN|978-1-93687-318-0}}
+*''A Little Ramble: In the Spirit of Robert Walser'' ([[New Directions Publishing|New Directions]], 2012), translated by [[Susan Bernofsky]] with [[Christopher Middleton (poet)|Christopher Middleton]] and Tom Whalen {{ISBN|978-0811220996}}
+* ''A Schoolboy's Diary'' (New York Review Books Classics, 2013), translated by [[Damion Searls]], introduction by Ben Lerner, {{ISBN|9781590176726}}
+* ''Looking at Pictures'' (Christine Burgin / [[New Directions Publishing|New Directions]], 2015), translated by [[Susan Bernofsky]] with [[Lydia Davis]] and [[Christopher Middleton (poet)|Christopher Middleton]], {{ISBN|9780811224246}}
+* ''Girlfriends, Ghosts, and Other Stories'' (New York Review Books Classics, 2016), translated by Tom Whalen, with Nicole Kongeter and Annette Wiesner, afterword by Tom Whalen, {{ISBN|978-1681370163}}
+*''Little Snow Landscape'' (New York Review Books, 2021), trans. Tom Whalen
+
+===Plays===
+
+*''Robert Walser – mikrogramme – das kleine welttheater'', director: [[Christian Bertram]], stage: [[Max Dudler]], music: [[Hans Peter Kuhn]], début performance 14 April 2005 Berlin; readings, films and podium discussion with corollary program [https://web.archive.org/web/20040614111936/http://www.mikrogramme.de/ www.mikrogramme.de]
+*"Institute Benjamenta" – (listening to a plateau which people call the world), Director: [[Gökçen Ergene]], [https://web.archive.org/web/20150929101229/http://www.gokcenergene.com/institute-benjamenta]
+*''Fairy Tales: Dramolettes'' ([[New Directions Publishing|New Directions]], 2015), translated by James Reidel and [[Daniele Pantano]], with a preface by Reto Sorg,  {{ISBN|978-0-8112-2398-0}}
+*''Comedies'' (Seagull Books, 2018), translated by [[Daniele Pantano]] and James Reidel, with a preface by Reto Sorg, {{ISBN|978-0857424693}}
+
+===Movie and musical adaptations===
+*''Jakob von Gunten'', director: [[Peter Lilienthal]], script: [[Ror Wolf]] and Peter Lilienthal, 1971
+*''Der Gehülfe'', director: Thomas Koerfer, 1975
+*''Der Vormund und sein Dichter'', direction and script: [[Percy Adlon]], 1978 (free picturization of Seelig's ''Wanderungen mit Robert Walser'')
+*''Robert Walser (1974–1978)'', direction and script: HHK Schoenherr
+*''Waldi'', direction and script: Reinhard Kahn, Michael Leiner (after the story ''Der Wald''), 1980
+*''The Comb'', directors: Stephen Quay, Timothy Quay (i.e. [[Brothers Quay]]), 1990
+*''Brentano'', director: Romeo Castellucci, with Paolo Tonti as Brentano, 1995
+*''[[Institute Benjamenta]], or This Dream People Call Human Life'', directors: Stephen Quay, Timothy Quay (i.e. [[Brothers Quay]]) with [[Mark Rylance]] as Jakob von Gunten, 1995
+*''[[Schneewittchen (opera)|Schneewittchen]]'', 1998, [[opera]] by [[Heinz Holliger]]
+*''Blanche Neige'', directed by Rudolph Straub, music by [[:it:Giovanna Marini|Giovanna Marini]], 1999
+*''Branca de Neve''[https://www.imdb.com/title/tt0267155/], director: [[João César Monteiro]], 2000
+*''All This Can Happen'', directors: Siobhan Davies, David Hinton, 2012
+
+==References==
+{{Reflist}}
+
+==Sources==
+*Walter Benjamin: ''Robert Walser'', 1929 (essay) [https://web.archive.org/web/20070928160009/http://www.mikrogramme.de/e945/e1132/index_ger.html Volltext]
+*Susan Bernofsky: "Introduction to the Microscripts." 2012 978-0811220330
+*Carl Seelig: ''Wanderungen mit Robert Walser'', 1957 {{ISBN|3-518-01554-0}}
+*Robert Mächler: ''Das Leben Robert Walsers'', 1976 {{ISBN|3-518-39986-1}}
+*''Robert Walser – Leben und Werk in Daten und Bildern'', 1980
+*''Die Brüder Karl und Robert Walser. Maler und Dichter.'', 1990 {{ISBN|3-907960-37-8}}
+*Jochen Greven: ''Robert Walser. Figur am Rande in wechselndem Licht'', 1992 {{ISBN|3-596-11378-4}}
+*Catherine Sauvat: ''Vergessene Welten. Biographie zu Robert Walser.'', 1993 {{ISBN|3-905208-01-6}}
+*Bernhard Echte: ''Walsers Kindheit und Jugend in Biel. Biographischer Essay.'', 2002 {{ISBN|3-907142-05-5}}
+*Lukas Märki: ''Auf den Spuren Robert Walsers. Interaktive CD-ROM.'', 2002 {{ISBN|3-907142-07-1}}
+*Wolfram Groddeck, Reto Sorg, Peter Utz, Karl Wagner (Hrsg.): ''Robert Walsers 'Ferne Nähe'. Neue Beiträge zur Forschung''. 2. Edition. Fink, München 2008 [1. Ed. 2007], {{ISBN|978-3-7705-4517-9}}
+*Lucas Marco Gisi: "Das Schweigen des Schriftstellers. Robert Walser und das Macht-Wissen der Psychiatrie". In: Martina Wernli (Hrsg.): ''Wissen und Nicht-Wissen in der Klinik. Dynamiken der Psychiatrie um 1900''. Bielefeld: transcript 2012, S. 231–259, {{ISBN|978-3-8376-1934-8}}
+*W.G. Sebald: "''Le Promeneur Solitaire:'' On Robert Walser" from a ''Place in the Country''. trans. Jo Catling 2014 {{ISBN|978-1400067718}}
+*Lucas Marco Gisi (ed.): ''Robert Walser-Handbuch. Leben – Werk – Wirkung''. Metzler, Stuttgart 2015, {{ISBN|978-3-476-02418-3}}
+
+==Further reading==
+*''The Review of Contemporary Fiction,'' Vol. XII, no. 1 (Robert Walser special issue)
+*Davenport, Guy "A Field of Snow on a Slope of the Rosenberg". ''Georgia Review'' 31:1 (Spring 1977) pp. 5–41
+*Frederick, Samuel. ''Narratives Unsettled: Digression in Robert Walser, Thomas Bernhard, and Adalbert Stifter''. Evanston, Ill: Northwestern University Press, 2012.
+*Vila-Matas, Enrique ''Bartleby & Co.'' {{ISBN|0-8112-1591-1}}
+*Gary J. Shipley. "Smithereens: On Robert Walser’s Microscripts". ''The Black Herald'' (issue 4, October 2013) pp. 104–119
+*Ahmadian, Mahdi and Mohsen Hanif. [https://www.researchgate.net/publication/328928251_An_Existential_Crisis_the_Significance_of_the_Opening_and_Concluding_Passages_of_Robert_Walser%27s_Jakob_Von_Gunten "An Existential Crisis: the Significance of the Opening and Concluding Passages of Robert Walser’s Jakob Von Gunten."] ''Forum for World Literature Studies'' 10.3 (2018): 463–472.
+* Weitzman, Erica. ''Irony's Antics: Walser, Kafka, Roth and the German Comic Tradition''. Evanston, Ill: Northwestern University Press, 2015.
+
+==External links==
+* [http://www.robertwalser.ch Robert Walser Center] (in German): Official site of the Robert Walser archive and society in Bern, with information, documentation, and resources about the writer's life and work
+*[https://www.robertwalser.ch/en/home/ Robert Walser Center] (in English): Official site of the Robert Walser archive and society in Bern, with information, documentation, and resources about the writer's life and work
+*[https://www.robertwalser.ch/de/home/ Robert Walser-Zentrum (DE), Robert Walser Center]
+*[https://www.robertwalser.ch/en/the-robert-walser-archive/catalogue/ Library Catalogue (EN), Robert Walser Center]
+*[https://www.nb.admin.ch/snl/en/home.html Swiss Literary Archive]
+*[http://www.herisau.ch/de/herisau/portrait/sehenswuerdigkeiten/rundgaenge/?action=showrundgang&id=20 Robert Walser-Pfad, Herisau] (in German)
+*[https://kritische-walser-ausgabe.ch Kritische Walser Ausgabe] (in German)
+*[https://robertwalserpreis.ch/de/undefined Robert Walser Preis] (in German)
+* {{Gutenberg author |id=Walser,+Robert+(1878-1956) | name=Robert Walser}}
+* {{Internet Archive author |sname=Robert Walser |birth=1878 |death=1956}}
+* {{Librivox author |id=12323}}
+* [[J. M. Coetzee]]: [http://www.nybooks.com/articles/13878 "The Genius of Robert Walser" (2000)]
+* [[Ben Lerner]]: [http://www.newyorker.com/online/blogs/books/2013/09/robert-walser-disappearing-acts.html "Robert Walser's Disappearing Acts"]
+* [https://web.archive.org/web/20150929101229/http://www.gokcenergene.com/institute-benjamenta Institute Benjamenta – Dishwasher Studio – Director: Gokcen Ergene (Jakob von Gunten adapted to the stage)]
+* [http://www.newyorker.com/arts/critics/books/2007/08/06/070806crbo_books_kunkel "Still Small Voice"] review of The Assistant by [[Benjamin Kunkel]] in [[The New Yorker]]
+* [http://www.newyorker.com/online/blogs/books/2010/05/scribe-of-the-small.html "The Book Bench: Scribe of the Small"] a brief article about Walser's handwriting in [[The New Yorker]]
+* [http://www.themillions.com/2014/03/the-lightest-touch-on-robert-walsers-a-schoolboys-diary.html "The Lightest Touch"] review of A Schoolboy's Diary at The Millions
+* [http://www.openlettersmonthly.com/a-prose-piece-for-your-gaps-robert-walsers-short-works/ "A Prose Piece for Your Gaps"] Review of A Schoolboy's Diary at Open Letters Monthly
+* [http://www.kcrw.com/etc/programs/bw/bw080828a_celebration_of_the "A Celebration of the Work of Swiss Writer Robert Walser" Podcast, KCRW's Bookworm]
+* [http://blackheraldpress.wordpress.com/2013/09/27/gary-j-shipley-smithereens-on-robert-walsers-microscripts-fragments-a-propos-des-microgrammes-de-robert-walser/ "Smithereens: On Robert Walser’s Microscripts"]
+* Ansgar Fabri, Burkhart Brückner: [http://biapsy.de/index.php/en/9-biographien-a-z/94-walser-robert-otto-e Biography of Robert Otto Walser] in: [http://biapsy.de/index.php/en/ Biographical Archive of Psychiatry (BIAPSY)].
+* {{cite web
+|url= http://www.powells.com/review/2010_09_17
+|title= From the Pencil Zone: Robert Walser's Masterworklets
+|access-date= 12 October 2010
+|author= Rivka Galchen
+|date= 17 September 2010
+|publisher= [[Harper's Magazine]]
+|quote= A review of ''The Microscripts''
+}}
+
+{{German literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Walser, Robert}}
+[[Category:1878 births]]
+[[Category:1956 deaths]]
+[[Category:20th-century Swiss writers]]
+[[Category:20th-century dramatists and playwrights]]
+[[Category:Male dramatists and playwrights]]
+[[Category:Modernism]]
+[[Category:Modernist writers]]
+[[Category:People from Biel/Bienne]]
+[[Category:People with schizophrenia]]
+[[Category:Swiss dramatists and playwrights]]
+[[Category:Swiss male writers]]
+[[Category:20th-century male writers]]

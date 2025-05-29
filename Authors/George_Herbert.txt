@@ -1,0 +1,211 @@
+{{short description|English poet, orator and Anglican priest}}
+{{Other people|George Herbert}}
+{{Use dmy dates|date=June 2018}}
+{{Use British English|date=April 2013}}
+{{Infobox writer
+| honorific_prefix = [[The Reverend]]
+| name          = George Herbert
+| image         = George Herbert.jpg
+| caption       = Portrait by Robert White in 1674 ([[National Portrait Gallery (London)|National Portrait Gallery]])
+| birth_date    = {{birth date|df=y|1593|4|3}}
+| birth_place   = [[Montgomery, Powys|Montgomery]], Wales
+| death_date    = {{death date and age|df=y|1633|3|1|1593|4|3}}
+| death_place   = [[Bemerton]], Wiltshire, England
+| occupation    = {{flatlist|
+* Poet
+* priest
+* theologian
+* orator
+}}
+| alma_mater    = [[Trinity College, Cambridge]]
+| movement      = [[Metaphysical poetry]]
+| notable_works = ''The Temple'', ''The Country Parson'', ''Jacula Prudentum''
+}}
+
+'''George Herbert''' (3 April 1593 – 1 March 1633){{sfn|Wilcox|2004}} was a Welsh-born poet, orator, and priest of the [[Church of England]]. His poetry is associated with the writings of the [[Metaphysical poetry|metaphysical poets]], and he is recognised as "one of the foremost British [[devotional song|devotional]] lyricists."<ref name="HerbertBioPoetryFDN" /> He was born into an artistic and wealthy family and largely raised in England. He received a good education that led to his admission to [[Trinity College, Cambridge]], in 1609. He went there with the intention of becoming a priest, but he became the University's Public Orator and attracted the attention of [[James I of England|King James I]]. He served in the [[Parliament of England]] in 1624 and briefly in 1625.{{Sfn|Charles|1977|p=104}}
+
+After the death of King James, Herbert renewed his interest in ordination. He gave up his secular ambitions in his mid-thirties and took holy orders in the Church of England, spending the rest of his life as the rector of the rural parish of [[Fugglestone St Peter]], just outside [[Salisbury]]. He was noted for unfailing care for his parishioners, bringing the sacraments to them when they were ill and providing food and clothing for those in need. [[Henry Vaughan]] called him "a most glorious saint and seer".{{sfn|Vaughan|1652|p=119}} He was never a healthy man and died of [[Tuberculosis|consumption]] at age 39.
+
+==Biography==
+
+===Early life and education===
+[[File:Houghton STC 13185 - Temple, Sacred Poems.jpg|thumb|left|upright=0.9|George Herbert's ''Temple'']]
+George Herbert was born 3 April 1593 in [[Montgomery, Powys|Montgomery]], [[Montgomeryshire]], Wales, the son of [[Richard Herbert, Lord of Cherbury|Richard Herbert]] (died 1596) and his wife [[Magdelen Herbert|Magdalen]] ''née'' Newport, the daughter of [[Richard Newport (died 1570)|Sir Richard Newport]] (1511–1570).{{sfn|Wright|2008}} He was one of 10 children. The [[Herbert family]] was wealthy and powerful in both national and local government, and George was descended from the same stock as the [[Earl of Pembroke|Earls of Pembroke]]. His father was a member of parliament, a [[justice of the peace]], and later served for several years as [[high sheriff]] and later ''[[custos rotulorum]]'' (keeper of the rolls) of Montgomeryshire. His mother was a patron and friend of clergyman and poet [[John Donne]] and other poets, writers and artists. As George's godfather, Donne stood in after Richard Herbert died when George was three years old.{{sfn|Moore|2006}}{{Sfn|Charles|1977|p=28}} Herbert and his siblings were then raised by his mother, who pressed for a good education for her children.{{sfn|Black|Connolly|Flint|2016|p=908}}
+
+Herbert's eldest brother [[Edward Herbert, 1st Baron Herbert of Cherbury|Edward]] (who inherited his late father's estates and was ultimately created [[Baron Herbert of Cherbury]]) became a soldier, diplomat, historian, poet, and philosopher whose religious writings led to his reputation as the "father of English [[deism]]".{{sfn|Waligore|2012|pp=181–197}} Herbert's younger brother was Sir [[Henry Herbert (Master of the Revels)|Henry Herbert]], [[Master of the Revels]] to Kings [[Charles I of England|Charles I]] and [[Charles II of England|II]].
+
+Herbert entered [[Westminster School]] at or around the age of 12 as a day pupil,{{Sfn|Charles|1977|p=52}} although later he became a residential scholar. He was admitted on a scholarship to [[Trinity College, Cambridge]], in 1609, and graduated first with a Bachelor's and then with a master's degree in 1616 at the age of 23.{{Sfn|Charles|1977|p=71}} Subsequently, Herbert was elected a major fellow of his college and then appointed Reader in [[Rhetoric]]. In 1620 he stressed his fluency in Greek and Latin and attained election to the post of the University's [[Public Orator]], a position he held until 1627.<ref name=acad />
+
+In 1624, supported by his kinsman the [[William Herbert, 3rd Earl of Pembroke|3rd Earl of Pembroke]], Herbert became a member of parliament, representing [[Montgomery (UK Parliament constituency)|Montgomery]].{{sfn|Williams|1895|p=149}} While these positions normally presaged a career at court, and [[James I of England|King James I]] had shown him favour, circumstances worked against Herbert: the King died in 1625, and two influential patrons also died at about the same time. However, his parliamentary career may have ended already because, although a Mr Herbert is mentioned as a committee member, the ''Commons Journal'' for 1625 never mentions Mr. George Herbert, despite the preceding parliament's careful distinction.{{Sfn|Charles|1977|p=110}} In short, Herbert made a shift in his path away from the political future he had been pursuing, and turned more fully toward a future in the church.
+
+Herbert was presented with the [[Prebendary|prebend]] of [[Leighton Bromswold]] in the [[Diocese of Lincoln]] in 1626, whilst he was still a don at Trinity College, Cambridge, but not yet ordained. He was not present at his institution as prebend, and it is recorded that Peter Walker, his clerk, stood in as his proxy. In the same year his close Cambridge friend [[Nicholas Ferrar]] was ordained Deacon in [[Westminster Abbey]] by [[William Laud|Bishop Laud]] on Trinity Sunday 1626 and went to [[Little Gidding]], two miles down the road from Leighton Bromswold, to found a [[Little Gidding community|small community]]. Herbert raised money (and contributed his own) to restore the neglected church building at Leighton.
+
+===Priesthood===
+[[File:St. Andrew's Church, Bemerton, July 2012.jpg|thumb|upright=1.2|St Andrew's Church in Bemerton, Wiltshire, where George Herbert served as rector and in which he was buried]]
+In 1629, Herbert decided to enter the priesthood and the next year was appointed rector of the rural parish of [[Fugglestone St Peter]] with [[Bemerton]], near [[Salisbury]] in Wiltshire, about 75 miles southwest of London.{{Sfn|Hodgkins|2010|p=136}} He was responsible for two small churches: the 13th-century parish church of St Peter at Fugglestone, near [[Wilton, Wiltshire|Wilton]], and the 14th-century chapel of St Andrew at Bemerton, closer to Salisbury at the other end of the parish. Here he lived, preached and wrote poetry; he also helped to rebuild the Bemerton church and [[Bemerton Rectory|adjacent rectory]] out of his own funds.{{Sfn|Charles|1977|p=154}} His appointment may have again been assisted by the Earl of Pembroke, whose family seat at [[Wilton House]] lay close to Fugglestone church.<ref>{{cite web|title=Church of St. Peter, Fugglestone, Wilton|url=https://history.wiltshire.gov.uk/community/getchurch.php?id=609|access-date=25 January 2021|website=Wiltshire Community History|publisher=Wiltshire Council}}</ref>
+
+While at Bemerton, Herbert revised and added to his collection of poems entitled ''The Temple''. He also wrote a guide to rural ministry entitled ''A Priest to the Temple or, The County Parson His Character and Rule of Holy Life'', which he himself described as "a Mark to aim at", and which has remained influential to this day. Having married shortly before taking up his post, he and his wife gave a home to three orphaned nieces. Together with their servants, they crossed the lane for services in the small St Andrew's church twice every day.{{sfn|Walton|1670|p=}} Twice a week Herbert made the short journey into Salisbury to attend services at the [[Salisbury Cathedral|cathedral]], and afterwards would make music with the cathedral musicians.{{Sfn|Charles|1977|p=163}}
+
+However, his time at Bemerton was short. Having suffered for most of his life from poor health, in 1633 Herbert died of [[Tuberculosis|consumption]] only three years after taking holy orders.<ref name=CCEd />
+
+==Poetry==
+Herbert wrote poetry in English, Latin and Greek. Shortly before his death, he sent a literary manuscript to his friend [[Nicholas Ferrar]], reportedly telling him to publish the poems if he thought they might "turn to the advantage of any dejected poor soul", otherwise to burn them. In 1633 all of his English poems were published in ''The Temple: Sacred Poems and Private Ejaculations'', with a preface by Ferrar.<ref name=celm-ms.org.uk /> The book went through eight editions by 1690.{{sfn|Cox|2004|p=92}} According to [[Isaac Walton]], when Herbert sent the manuscript to Ferrar, he said that "he shall find in it a picture of the many spiritual conflicts that have passed between God and my soul, before I could subject mine to the will of Jesus, my Master".{{sfn|Walton|1670|p=}} In this Herbert used the format of the poems to reinforce the theme he was trying to portray. Beginning with "The Church Porch", they proceed via "The Altar" to "The Sacrifice", and so onwards through the collection.
+
+All of Herbert's surviving English poems are on religious themes and are characterised by directness of expression enlivened by original but apt [[conceit]]s in which, in the Metaphysical manner, the likeness is of function rather than visual. In ''The Windows'', for example, he compares a righteous preacher to glass through which God's light shines more effectively than in his words.{{sfn|Herbert|1703|p=[https://archive.org/details/tionspoem00herb/page/n75/mode/2up?q=windows 59]}} Commenting on his religious poetry later in the 17th century, [[Richard Baxter]] said, "Herbert speaks to God like one that really believeth in God, and whose business in the world is most with God. Heart-work and heaven-work make up his books".{{sfn|Bloom|Cornelius|2008|p=311}} [[Helen Gardner (critic)|Helen Gardner]] later added "head-work" to this characterisation in acknowledgement of his "intellectual vivacity". It has also been pointed out how Herbert uses puns and wordplay to "convey the relationships between the world of daily reality and the world of transcendent reality that gives it meaning. The kind of word that functions on two or more planes is his device for making his poem an expression of that relationship."{{sfn|Hodgkins|2010|p=47}}
+
+[[File:GeorgeHerbertEasterWingsPatternPoem1633.jpg|thumb|upright=1.2|Herbert's "[[Easter Wings]]" printed sideways on facing pages]]
+ 
+Visually too the poems are varied in such a way as to enhance their meaning, with intricate rhyme schemes, stanzas combining different line lengths and other ingenious formal devices. The most obvious examples are [[pattern poem]]s like ''[[Altar poem|The Altar]]'',{{sfn|Herbert|1703|p=[https://archive.org/details/tionspoem00herb/page/n33/mode/2up 18]}} in which the shorter and longer lines are arranged on the page in the shape of an altar. The visual appeal is reinforced by the conceit of its construction from a broken, stony heart, representing the personal offering of himself as a sacrifice upon it. Built into this is an allusion to [[Psalm]] 51:17: "The sacrifices of God are a broken spirit; a broken and a contrite heart."{{sfn|Westerweel|1984|p=108}} In the case of "Easter Wings" (illustrated here), the words were printed sideways on two facing pages so that the lines there suggest outspread wings. The words of the poem are paralleled between stanzas and mimic the opening and closing of the wings. In Herbert's poems formal ingenuity is not an end in itself but is employed only as an auxiliary to its meaning.
+ 
+The formal devices employed to convey that meaning are wide in range. In his meditation on the passage "Our life is hid with Christ in God",<ref>[http://www.luminarium.org/sevenlit/herbert/colossians.htm Luminarium]</ref> the capitalised words 'My life is hid in him that is my treasure' move across successive lines and demonstrate what is spoken of in the text. Opposites are brought together in "Bitter-Sweet" for the same purpose.{{sfn|Herbert|1703|p=[https://archive.org/details/tionspoem00herb/page/164/mode/2up 165]}} Echo and variation are also common. The exclamations at the head and foot of each stanza in "Sighs and Grones" are one example.{{sfn|Herbert|1703|p=[https://archive.org/details/tionspoem00herb/page/74/mode/2up? 75]}} The diminishing truncated rhymes in "Paradise" are another.{{sfn|Herbert|1703|p=[https://archive.org/details/tionspoem00herb/page/124/mode/2up 125]}} There is also an echo-dialogue after each line in "Heaven",<ref>[http://www.luminarium.org/sevenlit/herbert/heaven.htm Christian Classics]</ref> other examples of which are found in the poetry of his brother [[Lord Herbert of Cherbury]].{{sfn|Nänny|1994|p=139}} Alternative rhymes are offered at the end of the stanzas in "The Water-Course",{{sfn|Herbert|1703|p=[https://archive.org/details/tionspoem00herb/page/164/mode/2up 164]}} while the "Mary/Army Anagram" is represented in its title.{{sfn|Herbert|1703|p=[https://archive.org/details/tionspoem00herb/page/n85/mode/2up 69]}} In "[[The Collar (George Herbert)|The Collar]]", Joseph Summers argues, Herbert goes so far as to use apparent formlessness as a formal and thematic device: "the poem contains all the elements of order in violent disorder" until the end, when the final four lines' regularity restores the reader's sense of "the necessity of order".{{sfn|Summers|1954|pp=73-94}}
+
+Once the taste for this display of Baroque wit had passed, the satirist [[John Dryden]] was to dismiss it as so many means to "torture one poor word ten thousand ways."<ref name="The Spectator " /> Though Herbert remained esteemed for his piety, the poetic skill with which he expressed his thought had to wait centuries to be admired again.
+
+==Prose==
+Herbert's only prose work, ''A Priest to the Temple'' (usually known as ''The Country Parson''), offers practical advice to rural clergy. In it, he advises that "things of ordinary use" such as ploughs, leaven, or dances, could be made to "serve for lights even of Heavenly Truths". It was first published in 1652 as part of ''Herbert's Remains, or Sundry Pieces of That Sweet Singer, Mr. George Herbert'', edited by [[Barnabas Oley]]. The first edition was prefixed with unsigned preface by Oley, which was used as one of the sources for Izaak Walton's biography of Herbert, first published in 1670. The second edition appeared in 1671 as ''A Priest to the Temple or the Country Parson'', with a new preface, this time signed by Oley.
+
+Like many of his literary contemporaries, Herbert was a collector of proverbs. His ''Outlandish Proverbs''{{sfn|Herbert|1881|pp=437ff}} was published in 1640, listing over 1000 [[aphorisms]] in English, but gathered from many countries (in Herbert's day, 'outlandish' meant foreign). The collection included many sayings repeated to this day, for example, "His bark is worse than his bite" and "Who is so deaf, as he that will not hear?" These and an additional 150 proverbs were included in a later collection entitled ''Jacula Prudentum'' (sometimes seen as ''Jacula Prudentium''), dated 1651 and published in 1652 as part of Oley's ''Herbert's Remains''.
+
+==Musical settings==
+Herbert was a skilled lutenist who "sett his own lyricks or sacred poems".{{sfn|Aubrey|1898|p=310}} Musical pursuits interested him all through his life and his biographer, [[Isaac Walton]], records that he rose to play the lute during his final illness.{{sfn|Walton|1670|p=77}} Walton also gave it as his opinion that he composed "such hymns and anthems as he and the angels now sing in heaven",{{sfn|Walton|1670|p=}} while Walton's friend [[Charles Cotton]] described him as a "soul composed of harmonies".{{sfn|Schmidt|1997|p=171}}
+
+In view of such tributes, it is no surprise to find that more than ninety of Herbert's poems have been set for singing over the centuries, some of them multiple times.<ref>[http://www.hymnary.org/person/Herbert_G Hymnary org]</ref> Beginning in his own century, there were settings of "Longing" by [[Henry Purcell]] and "And art thou grieved" by [[John Blow]]. Some forty were adapted for the Methodist hymnal by the Wesley brothers, among them "Teach me my God and King", which found its place in one version or another in 223 hymnals. Another poem, "Let all the world in every corner sing", was published in 103 hymnals, of which one is a French version.<ref>[http://www.hymnary.org/text/tout_lunivers_proclame_les_exploits Hymnary org]</ref> Other languages into which his work has been translated for musical settings include Spanish, Catalan and German.<ref>[http://www.lieder.net/lieder/get_author_texts.html?AuthorId=1178 Lieder Archive]</ref>
+
+In the 20th century, "Vertue" alone achieved ten settings, one of them in French. Among leading modern composers who set his work were [[Edmund Rubbra]], who set "Easter" as the first of his ''Two songs for voice and string trio'' (op.2, 1921); [[Ralph Vaughan Williams]], who used four by Herbert in ''[[Five Mystical Songs]]'', of which "Easter" was the first and "Antiphon II" the last;  [[Robin Milford]], who used the original Fitzwilliam manuscript's setting of the second part of "Easter" for his cantata ''Easter Morning'' (1932), set in two parts for soprano soloist and choir of children’s or women's voices;[[Benjamin Britten]] and [[William Walton]], both of whom set "Antiphon" too; [[Ned Rorem]] who included one in his "10 poems for voice, oboe and strings" (1982); and [[Judith Weir]], whose 2005 choral work ''Vertue'' includes three poems by Herbert.
+
+==Legacy==
+[[File:George Herbert Window.jpg|thumb|left|upright|Memorial window to Herbert and Farrar in St Andrew's Church, Bemerton]]
+
+The earliest portrait of George Herbert was engraved long after his death by [[Robert White (engraver)|Robert White]]<ref>{{npg name}}</ref> for Walton's biography of the poet in 1674 (see above). Now in London's [[National Portrait Gallery (London)|National Portrait Gallery]], it served as basis for later engravings, such as those by White's apprentice [[John Sturt]] and by [[Henry Hoppner Meyer]] in 1829.
+
+Among later artistic commemorations is [[William Dyce]]'s [[oil painting]] of "George Herbert at Bemerton" (1860) in the [[Guildhall Art Gallery]], London. The poet is pictured in his riverside garden, prayerbook in hand.<ref name="Dyce1860">{{Cite web|title=George Herbert at Bemerton, Salisbury|last=Dyce|first=William|author-link=William Dyce|work=Art UK|date=1860|access-date=2018-06-05|url=https://artuk.org/discover/artworks/george-herbert-at-bemerton-salisbury-51069|publisher=Guildhall Art Gallery}}</ref> Over the meadows is Salisbury Cathedral, where he used to join in the musical [[evensong]]; his lute leans against a stone bench and against a tree a fishing rod is propped, a reminder of his first biographer, Isaac Walton.{{sfn|Herbert|2003|p=xv}} There is also a musical reference in [[Charles West Cope]]'s "George Herbert and his mother" (1872), which is in [[Gallery Oldham]]:<ref name="Cope1872">{{Cite web|title=George Herbert and His Mother|first=Charles West|last=Cope|author-link=Charles West Cope|work=Art UK|date=1872|access-date=2018-06-05|url=https://artuk.org/discover/artworks/george-herbert-and-his-mother-90553|publisher=Gallery Oldham }}</ref> the mother points a poem out to him in a room that has a [[virginal]] in the background.
+
+[[File:Salisbury Cathedral George Herbert.jpg|upright=0.7|thumb|The Herbert niche, Salisbury Cathedral]]
+Most representations of Herbert, however, are in stained glass windows, of which there are several in churches and cathedrals. They include [[Westminster Abbey]],{{sfn|Coe|1895|p=35}} [[Salisbury Cathedral]]<ref name="Data Society">{{Cite web|title=George Herbert (1593–1633), 'the finest expressions of Anglican piety at its best'|last=Comerford|first=Patrick|work=Dead Anglican Theologians' Society|date=4 October 2012|access-date=2018-06-05|url=http://datsociety.blogspot.com/2012/10/13-george-herbert-1593-1633-finest.html}}</ref> and [[All Saints Church, Cambridge]].<ref name="Data Society"/> His own St Andrew's Church in Bemerton installed in 1934 a memorial window, which he shares with Nicholas Ferrar. In addition, there is a statue of Herbert in his canonical robes, based in part on the Robert White portrait, in a niche on the [[Statuary of the West Front of Salisbury Cathedral|West Front of Salisbury Cathedral]].
+
+In the [[Liturgy#Christianity|liturgy]] too, Herbert is [[Calendar of saints (Church of England)|remembered]] in the [[Church of England]] with a [[Lesser Festival (Anglicanism)|Lesser Festival]] on 27 February;<ref>{{Cite web|title=The Calendar|url=https://www.churchofengland.org/prayer-and-worship/worship-texts-and-resources/common-worship/churchs-year/calendar|access-date=2021-03-27|website=The Church of England|language=en}}</ref> also on 1 March in, for example, the [[Calendar of Saints (Lutheran)|Calendar of Saints]] of the [[Evangelical Lutheran Church in America]], being the day of his death. There are various [[collect]]s for the day, of which one is based on his poem "The Elixir":
+
+<blockquote>Our God and King, who called your servant George Herbert from the pursuit of worldly honors to be a pastor of souls, a poet, and a priest in your temple: Give us grace, we pray, joyfully to perform the tasks you give us to do, knowing that nothing is menial or common that is done for your sake ... Amen.{{sfn|Kiefer|1999}}</blockquote>
+
+The quote "All may have, if they dare try, a glorious life, or a grave" from Herbert's "The Church Porch" is inscribed on the outer wall of [[St John's Church, Waterloo|St. John's Church, Waterloo]].{{sfn|Herbert|1703|p=[https://archive.org/details/tionspoem00herb/page/n21/mode/2up 4]}}<ref name=waterloobench />
+
+==Works==
+* 1623: ''Oratio Qua auspicatissimum Serenissimi Principis Caroli''.
+* 1627: ''Memoriae Matris Sacrum, printed with A Sermon of commemoracion of the ladye Danvers by John Donne... with other Commemoracions of her by George Herbert'' (London: Philemon Stephens and Christopher Meredith). 
+* 1633: ''The Temple, Sacred Poems and Private Ejaculations''. (Cambridge: Printed by Thomas Buck and Roger Daniel).
+* 1652: ''Herbert's Remains, Or, Sundry Pieces Of that sweet Singer of the Temple'' consisting of his collected writings from ''A Priest to the Temple'', ''Jacula Prudentum'', Sentences, & c., as well as a letter, several prayers, and three Latin poems.(London: Printed for Timothy Garthwait)
+*{{cite book|title=The Temple : sacred poems and private ejaculations|first=George|last=Herbert|date=1703|location=London|publisher=Jeffery Wale|url=https://archive.org/details/tionspoem00herb|display-authors=0}}
+*{{cite book|last=Herbert|first=George|title=The Works of George Herbert in Prose and Verse: Edited from the Latest Editions, with Memoir, Explanatory Notes, Etc|url=https://books.google.com/books?id=HXAYAAAAYAAJ&pg=PA437|year=1881|editor=T. Y. Crowell|location=New York|publisher=John Wurtele Lovell|display-authors=0}}
+*{{cite book|last=Herbert|first=George|editor-first=Ronald|editor-last=Blythe|title=A Priest to the Temple Or the Country Parson: With Selected Poems|url=https://books.google.com/books?id=0m0_xtKrftcC&pg=PR15|year=2003|publisher=Hymns Ancient and Modern|isbn=978-1-85311-532-5|display-authors=0}}
+
+==References==
+===Citations===
+{{Reflist|refs=
+
+<ref name="HerbertBioPoetryFDN">{{cite web|url=http://www.poetryfoundation.org/bio/george-herbert|title=George Herbert 1593–1633|work=The Poetry Foundation|access-date=11 April 2013}}.</ref>
+
+<ref name=acad>{{acad|id=HRBT609G|name=Herbert, George}}</ref>
+
+<ref name=CCEd>{{CCEd|type=person|id=68648|name=Herbert, George|year1=0|year2=1687|accessed=6 October 2017}}</ref>
+
+<ref name=celm-ms.org.uk>"George Herbert", [http://www.celm-ms.org.uk/introductions/HerbertGeorge.html Catalogue of English Literary Manuscripts]</ref>
+
+<ref name="The Spectator ">{{cite book|title=The Spectator|url=https://books.google.com/books?id=QWCOXIgymkwC&pg=PA73|date=11 May 1711|issue=62|page=73|last1 = The|first1 = Spectator}}</ref>
+
+<ref name=waterloobench>{{citation|url=https://cdn.msmrarchitects.co.uk/images/news/waterloobench-exhibition.pdf?mtime=20180815081034|title=Waterloo Bench}}</ref>
+
+
+}}
+
+===Sources===
+{{refbegin|2|indent=yes}}
+*{{cite book|last=Aubrey|first=John |author-link=John Aubrey|editor=Andrew Clark|title='Brief Lives': Chiefly of Contemporaries|url=https://books.google.com/books?id=IIhmAAAAMAAJ&pg=PA310|volume=Volume 1|year=1898|publisher=Clarendon Press|location=Oxford}}
+*{{cite book|last1=Black|first1=Joseph|last2=Connolly|first2=Leonard|last3=Flint|first3=Kate|title=The Broadview Anthology of British Literature|url=https://books.google.com/books?id=E8efCwAAQBAJ&pg=PA908|edition=Third|volume=Volume 2: The Renaissance and the Early Seventeenth Century|year=2016|publisher=Broadview Press|isbn=978-1-77048-581-5|display-authors=etal<!--|collaboration=Isobel Grundy, Don LePan, Roy Liuzza, Jerome J. McGann, Anne Lake Prescott, Barry V. Qualls, Claire Waters-->}}
+*{{cite book|last1=Bloom|first1=Harold|last2=Cornelius|first2=Michael G.|title=John Donne and the Metaphysical Poets|url={{google books|id=9mSQRXYxrHcC|page=311|keywords="Herbert speaks to God like one that really believeth|plainurl=yes}}|year=2008|publisher=Infobase Publishing|location=New York|isbn=978-1-4381-1703-4}}
+*{{Citation|last=Charles|first=Amy M.|title=A Life of George Herbert|publisher=Cornell University Press|place=Ithaca, NY|year=1977|isbn=0-8014-1014-2|url-access=registration|url=https://archive.org/details/lifeofgeorgeherb00char }}
+*{{cite book|last=Coe|first=Fanny E.|editor=Larkin Dunton|title=The World and Its People - Book V: Modern Europe|url=https://archive.org/stream/worldanditspeop01duntgoog#page/n40/mode/2up|series=Young Folks' Library|volume=Vol IX|year=1895|publisher=Silver, Burdett & Company|location=Boston}}
+*{{cite book|editor-last=Cox|editor-first=Michael|title=The Concise Oxford Chronology of English Literature|url=https://books.google.com/books?id=pcDfAAAAMAAJ|year=2004|publisher=Oxford University Press|isbn=978-0-19-860634-5}}
+*{{cite book|last=Hodgkins|first=Christopher|title=George Herbert's Pastoral: New Essays on the Poet and Priest of Bemerton|url={{google books|id=Af1vtWxDMzkC|page=47|plainurl=yes|keywords=wordplay}}|year=2010|publisher=University of Delaware Press|isbn=978-0-87413-022-5}}
+*{{citation|title=George Herbert, Priest and Poet|last=Kiefer|first=James E.|work=Biographical sketches of memorable Christians of the past
+|date=1999|access-date=2018-06-05|url=http://justus.anglican.org/resources/bio/110.html|via= Society of Archbishop Justus}}
+*{{cite web|title=he Roots of Christian Mysticism Session 19|first=Patrick |last=Moore|date=21 March 2006|url=http://www.schoolforteachers.org/resources/Session19PatrickMooreSummary2006.htm|website=School for Teachers|url-status=dead|archive-url=https://web.archive.org/web/20081120190401/http://www.schoolforteachers.org/resources/Session19PatrickMooreSummary2006.htm|archive-date=20 November 2008|df=dmy-all}}.</ref>
+*{{cite book|last=Nänny|first=Max|editor-first=Andreas|editor-last=Fischer|title=Repetition|chapter-url=https://books.google.com/books?id=f6_z7VmZ6A4C&pg=PA139|year=1994|publisher=Gunter Narr|isbn=978-3-8233-4682-1|chapter=Textual Echoes of Echoes}}
+*{{cite book|editor-last1=Rennison|editor-first1=Nick|editor-last2=Schmidt|editor-first2=Michael|last=Schmidt|author-link=Michael Schmidt (poet)|first=Michael|title=Poets on Poets|url=https://books.google.com/books?id=x9ifAAAAIAAJ|year=1997|publisher=Carcanet|isbn=978-1-85754-339-1|chapter=Michael Schmidt on George Herbert}}
+*{{Cite book|title=George Herbert: His Religion and Art|last=Summers|first=Joseph H.|publisher=Harvard University Press|year=1954|location=Cambridge, Massachusetts}}
+*{{cite book|first=Henry|last=Vaughan|title=The Mount of Olives: or, Solitary devotions|year=1652|location=London|publisher=William Leake|url=https://quod.lib.umich.edu/e/eebo/a64745.0001.001/144?page=root;size=125;vid=115882;view=text}}
+*{{cite journal|last1=Waligore|first1=Joseph|title=The Piety of the English Deists: Their Personal Relationship with an Active God|journal=Intellectual History Review|volume=22|issue=2|year=2012|pages=181–197|issn=1749-6977|doi=10.1080/17496977.2012.693742|s2cid=170532446}}
+*{{cite book|last=Walton|first=Izaak|author-link=Izaak Walton|title=The Life of Mr. George Herbert|url=https://books.google.com/books?id=9_05AAAAcAAJ|year=1670|publisher=Thos Newcomb}}
+*{{cite book|last=Westerweel|first=Bart|title=Patterns and Patterning: A Study of Four Poems by George Herbert|url={{google books|id=yM05zZwgInkC|page=108|plainurl=yes}}|year=1984|publisher=Rodopi|location=Amsterdam|isbn=90-6203-945-6}}
+*{{Cite ODNB|first=Helen|last=Wilcox|title=Herbert, George|id=13025|date=23 September 2004}}
+*{{Citation|first=William Retlaw|last=Williams|title=Parliamentary History of the Principality of Wales|date=1895|location=Brecknock|publisher=Priv. Print. for the author by E. Davis and Bell|url=https://archive.org/stream/cu31924030498939#page/n169/mode/2up}}
+*{{cite ODNB|title=Newport, Richard, first Baron Newport (1587–1651)|first=Stephen |last=Wright|id=20038|date=4 October 2008}}
+{{refend}}
+
+===Further reading===
+;Editions
+*1941: ''The Works of George Herbert'', ed. F. E. Hutchinson.
+*2007: ''The English Poems of George Herbert'', ed. Helen Wilcox. Cambridge University Press
+
+;Studies
+* Clarke, Elizabeth, ''Theory and Theology in George Herbert's Poetry: "Divinitie, and Poesie, Met"'', Oxford: Clarendon Press, 1997. {{ISBN|978-0-19-826398-2}}
+* [[John Drury (Dean of Christ Church)|Drury, John]], ''Music at Midnight: The Life and Poetry of George Herbert'', [[Allen Lane]], 2013.
+* Falloon, Jane ''Heart in Pilgrimage: a study of George Herbert'', Milton Keynes: AuthorHouse, 2007. {{ISBN|978-1-4259-7755-9}}
+* Lewis-Anthony, Justin ''"If You Meet George Herbert on the Road, Kill Him": Radically re-thinking priestly ministry'', an exploration of the life of George Herbert as a take-off for a re-evaluation of the ministry within the Church of England. Mowbray, August 2009. {{ISBN|978-1-906286-17-0}}
+* Sullivan, Ceri. ''The Rhetoric of the Conscience in Donne, Herbert, and Vaughan''. Oxford University Press, 2008.
+* Orrick, Jim, ''A Year with George Herbert: a guide to fifty-two of his best loved poems''. Eugene, OR: Wipf & Stock, 2011.
+*[[Philip Sheldrake|Sheldrake, Philip]] (2009) ''Heaven in Ordinary: George Herbert and his writings''. Canterbury Press {{ISBN|978-1-85311-948-4}}
+* Oakley, Mark "My Sour-Sweet Days: George Herbert and the Journey of the Soul". SPCK, 2019.
+
+
+==External links==
+{{cc}}
+{{wikiquote}}
+{{wikisource author}}
+{{Portal|Christianity|Saints|Poetry}}
+* {{cite DNB|wstitle=Herbert, George (1593-1633)|short=x}}
+*{{npg name|52239}}
+* [http://www.luminarium.org/sevenlit/herbert/herbbib.htm The Works of George Herbert]
+* [http://www.georgeherbert.org.uk George Herbert and Bemerton] about Herbert's priesthood and parish
+* [http://www.bartleby.com/15/2/21.html The Life of Mr. George Herbert] by Izaak Walton (1593–1683)
+* [http://www.english.cam.ac.uk/cambridgeauthors/herbert George Herbert ] at the Cambridge Authors Project
+* [https://web.archive.org/web/20051221201849/http://www.poetseers.org/the_great_poets/meta/george/ George Herbert ] Bio and Poems
+* [https://web.archive.org/web/20060430033415/http://rpo.library.utoronto.ca/poet/159.html Selected Poetry of George Herbert] at Representative Poetry Online
+* [http://www.gutenberg.org/ebooks/13139 Lives of John Donne, Henry Wotton, Richard Hooker, George Herbert, &c, Vol. 2, Project Gutenberg]
+* [http://www.bijanomrani.com/?p=georgeherbert A Short introduction to George Herbert's verse]
+* {{librivox author|id=154}}
+* [https://www.youtube.com/watch?v=0Bbielm1e_A ″The Call″ by George Herbert] in [[Ralph Vaughan Williams]]' arrangement from ''Five Mystical Songs''. YouTube Video (2:24 min.)
+* [http://www.ccel.org/h/herbert/temple/Easterwings.html Easterwings (poem by George Herbert)] with commentary upon and pics of its modern and 1633 arrangements
+* George Herbert poem ''My Elixir'' as hymn 'Teach me, My God and King', [http://www.ccel.org/h/herbert/temple/Elixir.html ccel.org]
+* [https://books.google.com/books?id=vdcNAAAAQAAJ&pg=PA245 The Remains of That Sweet Singer of The temple, ed. Barnabas Oley]
+* [https://books.google.com/books?id=4TEJAAAAQAAJ&pg=PA481 Outlandish Proverbs Selected by Mr. G.H.]
+
+{{Metaphysical poetry}}
+{{Authority control}}
+
+{{DEFAULTSORT:Herbert, George}}
+[[Category:1593 births]]
+[[Category:1633 deaths]]
+[[Category:17th-century Christian mystics]]
+[[Category:17th-century deaths from tuberculosis]]
+[[Category:17th-century English Anglican priests]]
+[[Category:17th-century English poets]]
+[[Category:17th-century Welsh Anglican priests]]
+[[Category:17th-century Welsh poets]]
+[[Category:17th-century Welsh writers]]
+[[Category:17th-century male writers]]
+[[Category:Alumni of Trinity College, Cambridge]]
+[[Category:Anglican poets]]
+[[Category:Anglican saints]]
+[[Category:Anglo-Welsh poets]]
+[[Category:Cambridge University Orators]]
+[[Category:Christian writers]]
+[[Category:English male poets]]
+[[Category:English MPs 1624–1625]]
+[[Category:Greek-language poets]]
+[[Category:Members of the Parliament of England (pre-1707) for constituencies in Wales]]
+[[Category:People celebrated in the Lutheran liturgical calendar]]
+[[Category:People educated at Westminster School, London]]
+[[Category:Protestant mystics]]
+[[Category:Sonneteers]]
+[[Category:Herbert family|George Herbert]]
+[[Category:Tuberculosis deaths in England]]

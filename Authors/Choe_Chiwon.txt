@@ -1,0 +1,141 @@
+{{short description|Korean Confucianism official, philosopher, and poet}}
+{{similar names|Choi Siwon|Choi Chi-won (footballer)}}
+{{family name hatnote|[[Choi (Korean surname)|Choe]]||lang=Korean}}
+{{More citations needed|date=July 2007}}
+{{Infobox person
+| image    = Choe Chi-won.jpg
+| name    = Choe Chiwon
+| native_name = 崔致遠
+| native_name_lang= zh-hant
+| birth_date = 857
+| birth_place = [[Gyeongju]], [[Later Silla]]
+| death_date = unknown
+| occupation = Philosopher, poet
+| module = {{Infobox Korean name|child=yes
+|hangul=최치원
+|hanja={{linktext|崔|致|遠|}}
+|rr=Choe Chiwon
+|mr=Ch'oe Ch'iwŏn
+|hangulho=해운, 고운
+|hanjaho={{linktext|海|雲}}, {{linktext|孤|雲}}
+|rrho=Hae-un, Goun
+|mrho=Haeun, Koun
+|img= 
+|caption= Portrait of Choe Chiwon
+}}
+}}
+
+'''Choe Chiwon''' ({{IPA-ko|tɕʰʷe tɕʰiwʌn}}; 857–10th century) was a Korean philosopher and poet of the late medieval [[Unified Silla]] period (668-935). He studied for many years in [[Tang dynasty|Tang China]], passed the Tang [[imperial examination]], and rose to the high office there before returning to Silla, where he made ultimately futile attempts to reform the governmental apparatus of a declining Silla state.
+
+In his final years, Choe turned more towards [[Buddhism]] and became a hermit scholar residing in and around Korea's [[Haeinsa]] temple.
+[[File:Choi Chi-won.jpg|thumb|Portrait of Choe Chiwon.]]
+Choe Chiwon was also known by the literary names '''Haeun''' "Sea Cloud" ({{IPA-ko|hɛːun|}} {{hanja|海雲}}), or, more commonly, '''Goun''' "Lonely Cloud" ({{IPA-ko|koun|}} {{hanja|孤雲}}). He is recognized today as the progenitor of the [[Gyeongju Choe clan]].
+
+==Early life and study in Tang==
+Choe Chiwon was born in the Saryang district of the Silla capital of [[Gyeongju]] in 857. He was of the so-called "head rank six" (''yukdupum'' {{hanja|六頭品}}) class, a hereditary class in Silla's stringent [[bone rank system]] affixed to those of mixed aristocratic and commoner birth. As a member of head rank six, Choe was restricted in the level of office he could attain.
+
+Towards the end of Silla, many in the head rank six ranks began to seek opportunities of advancement beyond the traditional confines of the Silla social-political order. One outlet was to become a Buddhist monk. Another was to take up the study of Confucianism. China's Confucian bureaucracy had been adopted to a limited degree by Silla following its unification of the peninsula in 668. Confucianism was well suited to the administration of territory and the buttressing of central authority (that is, royal absolutism). The adoption of Confucian administrative norms and Silla's closer ties with Tang China demanded a highly educated corps of scholar-officials. To meet this need the Silla monarchy turned to the frustrated talents of the head rank six class. Royal support of the head rank six also gave the monarch more leverage against an increasingly hostile aristocracy.
+
+In the early years following unification head rank six students matriculated at Silla's own [[Gukhak|National Confucian Academy]], established in the late 7th century. By the 9th century, however, ambitious Silla students aspired to seek their education at the very source, in the Tang capital of [[Chang'an]] (present day [[Xi'an]]). It was in the course of the 9th century that the Choe clan of Gyeongju nurtured close ties with the Silla monarchy, and as a result many of the Choe clan were sent to matriculate in China with the ultimate goal of passing the Chinese civil service exam and returning to serve the Silla court.
+
+According to the 12th century history work ''[[Samguk Sagi]]'', when Choe was twelve years of age, in 869, his father sent him to study in Tang, seeing him off with the admonition that if he did not pass the Chinese [[imperial examination]] within ten years he would cease to be his son. Within the decade Choe did indeed pass the highest of China's civil service exams, the coveted ''jinshi'' (進士) degree, and was duly appointed to a prefectural office in the south. Choe went on to serve in China for nearly a decade, even becoming intimate with [[Emperor Xizong of Tang]] (r. 873-888). Choe also won merits for his service under the Tang general [[Gao Pian]] in his struggle against the [[Huang Chao]] rebellion, a failed uprising which nonetheless ushered in the final years of the crippled Chinese dynasty. With the rebellion put down and peace at least temporarily restored Choe's thoughts turned towards home. One surviving poem, written earlier while Choe was heading to his first official post in China ("ten years of dust" being his ten years spent in preparing for the exam), gave vent to his emotions regarding the native land and family he had not seen in a decade:
+{{Verse translation|italicsoff=y|
+{{lang|zh|海內誰憐海外人
+問津何處是通津
+本求食祿非求利
+只爲榮親不爲身
+客路離愁江上雨
+故園歸夢日邊春
+濟川幸遇恩波廣
+願濯凡纓十載塵}}
+|
+Who is there within China to sympathize with him without?
+I ask for the ferry that will take me across the river,
+Originally I sought only food and salary, not the benefits of office,
+Only my parents’ glory, not my own needs.
+The traveler's road, rain falling upon the river;
+My former home, dreaming of return, springtime beneath the sun.
+Crossing the river I meet with fortune the broad waves.
+I wash ten years of dust from my humble cap strings.}}
+
+The ''[[Samguk Sagi]]'' again tells us that Choe - the consummate Confucian - was thinking of his ageing parents when he requested permission from the Tang emperor to return to Silla. This he was duly granted and he returned home in 885. He was then 28.
+
+==Attempts at reform==
+Soon upon his return to Silla Choe was appointed an instructor and reader at Silla's Confucian Hallim Academy. He was shuffled through various positions, including Minister of War and chief of a variety of regional prefectures. Though in 893 he was appointed chief envoy of a diplomatic mission to Tang China, famine and subsequent upheavals in Silla prevented his journey. Tang fell soon afterward and Choe was never to see China again.
+
+As member of the ''yukdupum'' class, Choe had returned to Silla with youthful hopes of reform. Choe was not the first of the yukdupum Confucian literati to attempt to foster reform in the Silla state, however his case is one of the most prominent to come down to us in recorded Korean history. In 894 Choe submitted to Silla's [[Jinseong of Silla|Queen Jinseong]] (r. 887-897) his "Ten Urgent Points of Reform" for the Silla (시무십여조, 時務十餘條). As with earlier attempts by Choe's predecessors, these were ultimately to fall upon deaf ears. By the time of Choe's return Silla was in an advanced state of collapse. The central monarchy had been greatly weakened by internecine struggle, with power devolving first into the hands of the bone rank aristocracy and then - more ominously for Silla's survival - into the hands of regional warlords who controlled the countryside outside the capital region, and in some cases commanded their own private armies.
+
+==Retirement and later life==
+Few records remain of Choe's middle and late years. Around the year 900 Choe retired from public life and began a period of wandering through numerous Korean locales. As the [[Samguk Sagi]] relates, "Living in retirement, [Choe] took up the free life of a mountain sage, building pavilions along rivers and shores, planting pines and bamboo, reading books and writing history, and composing odes to nature.  He is known to have dwelled in such places as Namsan in [[Gyeongju]], Bingsan in Gangju, Cheongnyang Temple in Habju, Ssanggye Temple in [[Jirisan]], and a cottage in Habpohyeon." [[Haeundae District]] of modern [[Busan]] takes its name from Choe's pen-name Haeun as he purportedly was enamored of the location and so built a pavilion there overlooking the beach. A piece of Choe's calligraphy engraved on a rock still survives there.
+
+Eventually Choe settled at Haeinsa Temple where his elder brother Hyeonjun (賢俊) served as abbot. His later years are most notable for his lengthy stele inscriptions, hagiographies to Silla's most noted Buddhist priests that have proved a primary source of information on Silla Buddhism.
+
+One well known anecdote regarding Choe in these years regards a putative piece of verse he dispatched to [[Taejo of Goryeo|Wang Geon]], the founder of the [[Goryeo]]. Apparently convinced by the greatness of Wang Geon, notably by the promulgation of his Ten Injunctions, Choe came to believe that Wang Geon had inherited the [[Mandate of Heaven]] to succeed the declining Silla dynasty as the ruler of the peninsula. Reflecting this, he secretly sent off a prophetic verse reflecting his support of the new dynasty: “The leaves of the Cock Forest [Silla] are yellow, the pines of Snow Goose Pass [Goryeo] are green.” (계림황엽 곡령청송, 鷄林黃葉 鵠嶺靑松). Cock Forest (Gyerim) being an ancient sobriquet for Silla and Snow Goose Pass (Gongnyeong) being the ancestral home of Wang Geon, and by association the Goryeo Dynasty. However, this anecdote first appeared in the 12th century [[Samguk Sagi]], long after Choe had died and some modern scholars concur that Choe, a native and ardent supporter of Silla, never penned it but that it was attributed to him by a young Goryeo dynasty to buttress its legitimacy and win over the support of young Silla scholars to its enterprise.<ref>[[Yi Byeongdo]], "Studies of the History of Goryeo". ''Hanguk munhwa chongseo'' 4 (1948), 6.</ref>
+
+The date of Choe's death is unknown, though he was still living as late as 924, the date of one of his surviving stele engravings. One fantastic account relates that Choe's straw slippers were discovered at the edge of the forest on Mt. Gaya ([[Gayasan National Park|Gayasan]]), the location of Haeinsa, and that Choe had become a Daoist immortal and ascended into the heavens. More grounded historical theories posit that he committed suicide, but this is ultimately conjecture.
+
+==Later views==
+Several streams emerged from Choe in the long centuries following his death. On the one hand, as Korea became increasingly Confucianized in the late [[Goryeo]] and most especially the [[Joseon dynasty]] period, Choe became one of the most lauded members of Korea's pantheon of Confucianists, with pride of place in the nation's Confucian temple. [[Hyeonjong of Goryeo|King Hyeonjong]] (r. 1009-1031), recognizing Choe's Confucian accomplishments, granted him the posthumous title of Marquis of Bright Culture (문창후, 文昌侯). In the early 13th century his portrait was placed in the national Confucian shrine to become an object of veneration thence forward.
+
+On the other hand, as time passed Choe also came to be revered as a poet, due in great part to the relatively large number of his poems that have survived, all written in Chinese. Around Choe also grew up a rich body of folklore, attributing to him fantastic deeds and supernatural powers.
+
+In the late 19th century, as Korean intellectuals began to reexamine their intellectual and historical roots in the face of increasing national weakness and foreign encroachment, there arose a rising critique of Korea's historical deference to China.
+
+The most articulate voice of such nationalist sentiment was the journalist, historian, and philosopher [[Shin Chaeho]] (1880–1936). Shin condemned Choe Chiwon as one of the most glaring examples of Korean intellectual subservience to China, a pattern of sequacious behavior on the part of Korea's intellectual class (according to Shin) that over the long run weakened Korea's national spirit and made it a slave to "[[Sadae]]" ("serving the great") thought. 
+ 
+Choe Chiwon is now claimed by the Gyeongju [[Choe]] clan as their founder. The location of his home in Gyeongju is now a small temple hall dedicated to his memory.
+
+==Writings==
+The relatively extensive extant writings of Choe stand as witness to his importance in late Silla society while also ensuring him a degree of importance among latter generations that has escaped his contemporaries, many of whom, like him, were talented poets, learned officials, and diligent in their attempts at reform.
+
+Besides his lost works like ''Jewang yeondaeryeok'' (Chronological History of Monarchs) and others, Choe's surviving writings may be divided roughly into four main categories: official prose (to include memorials, dispatches, etc. during his service both in Tang China and Silla); private prose (on such topics as tea drinking and natural scenery); poetry; and [[stele]] inscriptions.
+
+Shortly following Choe's return to Silla in 885 he compiled his various writings, both official and unofficial (to include some poetry) and presented it to [[Heongang of Silla|King Heongang]]. The preface to that compilation survives allowing us to know its original contents. However, the entire collection is no longer extant. What does survive is one part entitled the ''Gyeweon Pilgyeong'' (계원필경, 桂苑筆耕, "Plowing the Cassia Grove with a Writing Brush"), which is ten volumes made up primarily of official letters and memorials composed while in the service of Tang. This work also includes some private prose.
+
+A sizable collection of Choe's poetry, which was presumably originally included in the work presented to King Heongang cited above, has come down to us through other Korean sources, primarily the ''Dongmunseon'', a [[Joseon Dynasty]] collection of Korean poetry. Some verses of his are also included in the 12th century ''[[Samguk Sagi]]''. 
+ 
+Choe's surviving stele inscriptions, the so-called Sasan bimyeong (사산비명, 四山碑銘, “Four mountain steles”) are as follows (all in present-day South Korea):
+
+#Jingamguksa bimyeong (진감국사비명, 眞鑑國師碑銘) Memorial Stele to Master Jingam [Hyeso] of Ssanggye Temple, 887, at Ssanggye Temple, [[South Gyeongsang]] province.
+#Daesungboksa bimyeong (대숭복사비명, 大崇福寺碑銘) Stele of Daesungbok Temple, 885, [[Gyeongju]] (not totally extant).
+#Nanghyehwasang bimyeong (낭혜화상비명, 朗慧和尙碑銘) Memorial Stele to Master Ranghye of Seongju Temple, 890, at Seongju Temple, [[South Chungcheong]] province.
+#Jijeungdaesa bimyeong (지증대사비명, 智證大使碑銘) Memorial Stele to Master Jijeung of Pongam Temple, 924, at Mungyeong, [[North Gyeongsang]] province.
+
+Choe's authorship has been conjectured{{by whom|date=April 2016}} for the Silla Suijeon (신라수이전, 新羅殊異傳, Silla tales of wonder), the earliest and oldest known collection of Korean Buddhist tales and popular fables. The work is no longer extant but thirteen of its original stories have survived in other works. Almost all scholars agree, however, that Choe was not the author. This seems clear by the fact that one of the tales included in the collection was a fable of Choe Chiwon, the ''Goun Choe Chiwon jeon'' (고운 최치원전, 孤雲崔致遠傳).<ref>Vos, F. "Tales of the Extraordinary: An Inquiry into the Contents, Nature and Authorship of the Sui chŏn". ''Korean Studies'' 5 (1981), p. 1-25.</ref> Likewise, in the early 20th century Choe was put forward as the author of the Yuseolgyeonghak daejang (유설경학대장, 類說經學隊仗), a Confucian pedagogical work. Based upon the nature of the language and expressions employed, scholars are also fairly unanimous in denying this to be a work of Choe.
+
+==See also==
+*[[Korean Confucianism]]
+*[[Munmyo]]
+*[[Korean philosophy]]
+*[[Silla]]
+*[[List of Korea-related topics]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Chang, Tok-sun. “Ch’oe Ch’i-wŏn and Legendary Literature.” ''Korea Journal'' (August 1977):56-64.[https://web.archive.org/web/20070927212850/http://www.ekoreajournal.net/archive/detail.jsp?BACKFLAG=Y&VOLUMENO=17&BOOKNUM=8&PAPERNUM=5&SEASON=Aug&YEAR=1977]
+*Chung, Kei-won. “Biographies of Choe Chi-won and Chung Mong-chu”. ''Korean Research Bulletin'' 1 (1944):21-24.
+*Ha, Tae Hung. “The Tomb of the Twin Sisters”.  In ''Folk Tales of Old Korea''. Seoul: Yonsei University Press:100-110. [legendary tale concerning Ch’oe during his service in China, translated from the ''Sui chŏn'']
+*Jones, George Heber. “Ch'oe Ch'i-wun: His Life and Times”. ''Transactions of the Korea Branch of the Royal Asiatic Society'' 3 (1903):1-17.
+*[[David A. Mason]] "Solitary Sage: The Profound Life, Wisdom and Legacy of Korea's "Go-un" Choe Chi-won".  Book published in March 2016, with both printed and E-book versions; 214 pages, 310 footnotes of glossary and references; many photos of historic paintings of him and sites associated with him. [http://www.san-shin.org/Goun-Solitary-Sage-Choi-Chiwon.html]
+*Ryang, Key S. [Yang Ki-sŏn]. “Ch’oe Ch’i-won’s (b. 857) T’ang Poetry and its Modern Interpretation.” ''Journal of Modern Korean Studies'' 5 (1996): 1-30.
+*Ryang, Key S. [Yang Ki-sŏn]. “Ch’oe Ch’i-won, Silla Sasan pi’myŏng (四山碑銘: Silla’s Four Mount Steles)”. Review Article. ''Journal of Modern Korean Studies'' 6 (November 1996): 119-129.
+*Ryang, Key S. “Ch’oe Ch’i-won’s (b. 857) Biography and Kim Pusik’s Samguk sagi (1145)”. ''Journal of Modern Korean Studies'' 8 (December 2005): 1-36.
+{{Notable foreigners who visited China}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Choe, Chiwon}}
+
+[[Category:857 births]]
+[[Category:9th-century Korean philosophers]]
+[[Category:9th-century Korean poets]]
+[[Category:10th-century deaths]]
+[[Category:Choe clan of Gyeongju]]
+[[Category:Korean Confucianists]]
+[[Category:Korean expatriates in China]]
+[[Category:Korean male poets]]
+[[Category:People from Gyeongju]]
+[[Category:Silla Buddhists]]
+[[Category:Tang dynasty]]

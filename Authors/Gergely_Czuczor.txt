@@ -1,0 +1,84 @@
+{{short description|Hungarian poet, linguist, and librarian}}
+{{eastern name order|Czuczor Gergely}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Gergely Czuczor
+| honorific_prefix = 
+| honorific_suffix = 
+| image = Barabás czuczor gergely.jpg
+| image_size = 
+| alt = 
+| caption = His portrait by Miklós Barabás from 1837
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date = {{birth date|1800|12|17|df=y}}
+| birth_place = [[Andovce|Andód]]
+| death_date = {{death date and age|1866|09|09|1800|12|17|df=y}}
+| death_place = [[Pest, Hungary|Pest]]
+| resting_place = 
+| occupation = 
+| language = [[Hungarian (language)|Hungarian]] 
+| nationality = [[Hungarian people|Hungarian]] 
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  <!-- or: | notablework = -->
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Gergely Czuczor''' (17 December 1800 – 9 September 1866) was a [[Hungarians|Hungarian]] [[Benedictine]] [[monk]], a [[poet]] and [[linguist]], member of the [[Hungarian Academy of Sciences]].<ref>[http://www.forrasfolyoirat.hu/0010/bencze.html A népdalgyűjtő és népdalíró Czuczor Gergely]</ref> Baptized István (the Hungarian equivalent of ''Stephen'') he took Gergely (''Gregory'') as his religious name.
+
+As down-to-earth common sense a poet as [[Sándor Petőfi|Petőfi]]: his national poems also quickly became folk songs and popular. Both poets tended to emulate the rhythm of folk songs in their poems, which served the Nationalist cause in the popular common sense way.
+
+He participated in the fight for freedom against [[Habsburg]] rule. One of his most famous poems, "Riadó" i.e. 'Alarm', was published in [[Lajos Kossuth|Kossuth]]'s newspaper on December 21, 1848 while the Austrian troops were already closing in on Pest-Buda. It was also published on flyers, separately, and it quickly propagated amongst soldiers and the people as a sort of a march of the revolution quite as Petőfi's poems would.
+
+A translation of the first part of his poem "Riadó":
+<poem style="margin-left:2em">
+Alarm
+
+Screaming is the army whistle: alarmed be Hungarian alarmed!
+To battle your country's calling, with sharpened steel be armed.
+Its lightning may the dawn of freedom be painting,
+And the purple of tyrant species into blood bath sinking.
+
+Alive ever is the Hungarians' great god still,
+Fear shall who against him attack will.
+Even god is helping, us defeat, who could?
+Once free peoples we'd been, and anew we should.
+</poem>
+
+== References ==
+{{Commons category|Gergely Czuczor}}
+{{Reflist}}
+
+==External links==
+* {{Internet Archive author |sname=Gergely Czuczor}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Czuczor, Gergely}}
+[[Category:Hungarian monks]]
+[[Category:Benedictine scholars]]
+[[Category:Linguists]]
+[[Category:1800 births]]
+[[Category:1866 deaths]]
+[[Category:19th-century Hungarian poets]]
+
+
+{{Hungary-reli-bio-stub}}

@@ -1,0 +1,48 @@
+{{Infobox person
+| name         = Carlos Arniches
+| image        = Carlos Arniches 2.jpg
+| caption      = Carlos Arniches
+| birth_date    = {{Birth date|df=yes|1866|10|11}}
+| birth_place   = [[Alicante]], Spain
+| death_date    = {{death date and age|df=yes|1943|4|16|1866|10|11}}
+| death_place   = [[Madrid]], Spain
+| occupation   = playwright
+| nationality  = Spanish
+}}
+{{family name hatnote|Arniches|Barreda|lang=Spanish}}
+
+'''Carlos Arniches''' (11 October 1866 &ndash; 16 April 1943)<ref name=Brit>"Arniches (y Barrera), Carlos" in ''[[Encyclopædia Britannica|The New Encyclopædia Britannica]]''. Chicago: [[Encyclopædia Britannica Inc.]], 15th edn., 1992, Vol. 1, p. 577.</ref> was a [[Spain|Spanish]] playwright, born in Alicante. His prolific work, drawing on the traditions of the [[género chico]], the [[zarzuela]] and the [[grotesque]], came to dominate the Spanish comic theatre in the early twentieth century.
+
+After starting his career as a novelist and journalist,<ref>Dowling 2011, para. 1 of 3</ref> Arniches turned to theatre in 1888 with the publication of his first play, ''Casa editorial''. Much of his work is set in lower-class Madrid and uses colloquial language, song, dance and music.<ref>Dowling 2011, para. 3 of 3</ref>
+
+Arniches was complimented in a 1935 interview by [[Federico García Lorca]], often a scathing critic of contemporary Spanish theatre, as 'more of a poet than almost any of those who are writing theatre in verse at the moment'.<ref>"Federico García Lorca y el teatro de hoy", interview with Nicolás González Deleito, in García Lorca 1997, p. 564</ref>
+
+Following the end of the [[Spanish Civil War]], the social dramas of Carlos Arniches were among the relatively non-controversial plays allowed by the [[Francoist Spain|new government]].<ref>Vilches de Frutos 1999, p. 513</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+
+* {{cite web | last = Dowling | first = Gwyneth | title = Carlos Arniches Barreda | work = Out of the Wings: Authors, Plays & Translators | publisher = [[King's College, London]] | date = 29 October 2011 | url = http://www.outofthewings.org/db/author/carlos-arniches-barreda | accessdate = 12 June 2012 | archive-url = https://web.archive.org/web/20160323001956/http://www.outofthewings.org/db/author/carlos-arniches-barreda | archive-date = 23 March 2016 | url-status = dead }}
+* {{ cite book | last = García Lorca | first = Federico | authorlink = Federico García Lorca | title = Obras Completas III: Prosa | editor = Miguel García-Posada | publisher = Círculo de Lectores/Galaxia Gutenberg | location = Barcelona | year = 1997 }}
+* {{cite book | last = Vilches de Frutos | first = M.F. | editor-last = Rodgers | editor-first = Eamonn | title = Encyclopedia of Contemporary Spanish Culture | url = https://archive.org/details/encyclopediacont00rodg | url-access = limited | publisher = Routledge | year = 1999 | location = London | pages = [https://archive.org/details/encyclopediacont00rodg/page/n535 513]–516 | chapter = Theatre }}
+
+==Further reading==
+* Falska, Maria. ''El universo dramático de Carlos Arniches: Aproximación a una lectura estructural del texto'', UMCS, 2006, {{ISBN|8322724934}}.
+
+
+{{Authority control}}
+
+{{Use dmy dates|date=March 2017}}
+
+{{DEFAULTSORT:Arniches, Carlos}}
+[[Category:1866 births]]
+[[Category:1943 deaths]]
+[[Category:Spanish dramatists and playwrights]]
+[[Category:Spanish male dramatists and playwrights]]
+[[Category:Spanish comedians]]
+[[Category:People from Alicante]]
+
+
+{{spain-dramatist-stub}}

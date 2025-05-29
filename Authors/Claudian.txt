@@ -1,0 +1,115 @@
+{{short description|Roman poet}}
+{{other uses|Claudianus (disambiguation){{!}}Claudianus}}
+{{Infobox person
+| name = Claudian
+| birth_date = c. 370
+| birth_place = Alexandria
+| death_date = c. 404
+| occupation = poet, writer
+| notable_works = De raptu Proserpinae
+}}
+
+'''Claudius Claudianus''', known in English as '''Claudian''' ({{IPAc-en|ˈ|k|l|ɔː|d|i|ən}}; c. 370 – c. 404 AD), was a Latin poet associated with the court of the Roman emperor [[Honorius (emperor)|Honorius]] at [[Mediolanum]] (Milan), and particularly with the general [[Stilicho]].<ref>Chisholm, Hugh, ed. (1911). "[[wikisource:1911_Encyclopædia_Britannica/Claudianus,_Claudius|Claudianus, Claudius]]". ''Encyclopædia Britannica''. '''6.''' (11th ed.). Cambridge University Press. pp. 463-464.</ref> His work, written almost entirely in [[dactylic hexameter|hexameters]] or [[elegiac couplets]], falls into three main categories: poems for Honorius, poems for Stilicho, and [[classical mythology|mythological]] epic.<ref>Gian Biagio Conte, ''Latin Literature: A History''  (Johns Hopkins University Press, 1994, originally published 1987 in Italian), p. 658.</ref>
+
+==Life==
+Claudian was born in [[Alexandria]]. He arrived in Rome in 394 and made his mark as a court poet with a [[eulogy]] of his two young [[Patronage in ancient Rome|patrons]], [[Anicius Probinus|Probinus]] and [[Anicius Hermogenianus Olybrius|Olybrius]], consuls of 395.<ref>Roberts, Michael. “Rome Personified, Rome Epitomized: Representations of Rome in the Poetry of the Early Fifth Century.” ''The American Journal of Philology'', vol. 122, no. 4, 2001, p. 533.</ref> He wrote a number of [[panegyric]]s on the [[consul]]ship of his patrons, praise poems for the deeds of Stilicho, and [[invective]]s directed at Stilicho's rivals in the Eastern court of [[Arcadius]].
+
+Little is known about his personal life, but it seems he was a convinced pagan: [[Augustine of Hippo|Augustine]] refers to him as the 'adversary of the name of Christ' (''[[The City of God|Civitas Dei]]'', V, 26), and [[Orosius|Paul Orosius]] describes him as an 'obstinate pagan' (''paganus pervicassimus'') in his ''Adversus paganos historiarum libri septem'' (VII, 55).
+
+He was well rewarded for his political engagement. In fact, he was granted the rank of ''[[vir illustris]]''. The [[Roman Senate]] honored him with a statue in the [[Roman Forum]] in 400.<ref>Conte, ''Latin Literature,'' p. 658.</ref> Stilicho's wife, [[Serena (wife of Stilicho)|Serena]], secured a rich wife for him.<ref>{{Cite book|title=A Companion to Ancient Epic|last=Barnes|first=Michael H.|publisher=Wiley-Blackwell|year=2009|isbn=978-1405188388|editor-last=Foley|editor-first=John Miles|pages=541|chapter=Claudian}}</ref>
+
+Since none of Claudian's poems record the achievements of [[Stilicho]] after 404, scholars assume Claudian died in that year. His works don't give an account of the [[sack of Rome (410)|sack of Rome]], while the writings of [[Olympiodorus of Thebes]] has been edited and made known only in few fragments, which begin from the death of [[Stilicho]].<ref>{{cite book|first1=Katie Lynn|last1=Sass|url=https://core.ac.uk/download/PDF/677551503.pdf|format=pdf|title=Alaric: King of Visigoths and Tool of Romans|page=2|date=January 1, 2012|oclc=855973352|access-date=June 28, 2021|publisher=Marquette University}}</ref>
+
+==As poet==
+Although a native speaker of [[ancient Greek language|Greek]], Claudian is one of the best Latin poetry stylists of [[late antiquity]]. He is not usually ranked among the top tier of Latin poets, but his writing is elegant, he tells a story well, and his polemical passages occasionally attain an unmatchable level of entertaining vitriol. The literature of his time is generally characterized by a quality modern critics find specious, of which Claudian's work is not free, and some find him cold and unfeeling.
+
+Claudian's poetry is a valuable historical source, though distorted by the conventions of panegyric. The historical or political poems connected with Stilicho have a manuscript tradition separate from the rest of his work, an indication that they were likely published as an independent collection, perhaps by Stilicho himself after Claudian's death.
+
+His most important non-political work is an unfinished [[Epic poetry|epic]], ''De raptu Proserpinae'' ("The Abduction of [[Proserpina]]"). The three extant books are believed to have been written in 395 and 397. In the 20th and early 21st centuries, Claudian has not been among the most popular Latin poets of antiquity, but the epic ''De raptu'' influenced painting and poetry for centuries.<ref>Andrew D. Radford, ''The Lost Girls: Demeter-Persephone and the Literary Imagination, 1850–1930'' (Editions Rodopi, 2007), p. 22 ''et passim''.</ref>
+
+==Works==
+[[File:Rembrandt - The Rape of Proserpine - Google Art Project.jpg|thumb|''The Abduction of Proserpina'' (''ca.'' 1631) by [[Rembrandt]] was influenced by Claudian's ''De raptu Proserpinae''<ref>Amy Golahny, "Rembrandt's ''Abduction of Proserpina''," in ''The Age of Rembrandt: Studies in Seventeenth-Century Dutch Painting'' (Penn State Press, 1988), pp. 31ff.</ref>]]
+*''Panegyricus dictus Probino et Olybrio consulibus''
+*''De raptu Proserpinae'' (unfinished epic, 3 books completed)
+*''In Rufinum'' ("Against [[Rufinus (consul)|Rufinus]]")
+*''De Bello Gildonico'' ("On the [[Gildonic revolt]]")
+*''In Eutropium'' ("Against [[Eutropius (consul 399)|Eutropius]]")
+*''Fescennina / Epithalamium de Nuptiis Honorii Augusti''
+*''Panegyricus de Tertio Consulatu Honorii Augusti''
+*''Panegyricus de Quarto Consulatu Honorii Augusti ''
+*''Panegyricus de Consulatu Flavii Manlii Theodori ''
+*''De Consulatu Stilichonis''
+*''Panegyricus de Sexto Consulatu Honorii Augusti''
+*''De Bello Gothico'' ("On the [[Gothic War (401–403)|Gothic War]]" of 402-403)
+*''Gigantomachy''
+*''Epigrams''
+*Lesser poems:  ''Phoenix'', ''Epithalamium Palladio et Celerinae''; ''de Magnete''; ''de Crystallo cui aqua inerat''
+
+==Editions and translations==
+* Hall, J.B.. ''Claudian, De raptu Proserpinae'' (Cambridge University Press, 1969).
+*Dewar, Michael, editor and translator. ''Claudian Panegyricus de Sexto Consulatu Honorii Augusti'' (Oxford Clarendon Press, 1996).
+* Slavitt, David R., translator. ''Broken Columns: Two Roman Epic Fragments: The Achilleid of Publius Papinius Statius and The Rape of Proserpine of Claudius Claudianus, with an Afterword by David Konstan'' (Philadelphia: University of Pennsylvania Press, 1997).
+*Gruzelier, Claire, editor (translation, introduction, commentary). ''Claudian, De raptu Proserpinae'' (Oxford Clarendon Press, 1997). 
+* Baier, Thomas and Anne Friedrich, ''Claudianus. Der Raub der Proserpina'', edition, translation and [[commentary (philology)|commentary]] (Darmstadt: WBG (Wissenschaftliche Buchgesellschaft), 2009), Edition Antike.
+* English verse translations of Claudian online: 
+** A. Hawkin's [https://books.google.com.au/books?id=h1oUAAAAQAAJ translation] (rhymed couplet) via [[Google Books]].<ref>Claudianus, C., Hawkins, A. (1817). [https://catalog.hathitrust.org/Record/006579200/Home The works of Claudian]. London: Printed for J. Porter ..., and Langdon and Son ....</ref>
+** [[Jacob George Strutt|J. Strutt's]] [https://archive.org/details/rapeofproserpi00clau translation] (blank verse) via [[Internet Archive]].<ref>Claudianus, C., Strutt, J. George. (1814). [https://catalog.hathitrust.org/Record/008618814/Home The rape of Proserpine: with other poems, from Claudian]; translated into English verse. With a prefatory discourse, and occasional notes. London: Printed by A. J. Valpy, sold by Longman, Hurst, Rees, Orme, and Brown [etc.].</ref>
+**The rape of Proserpine: with other poems, from Claudian (1814).<ref>Claudianus, C., Strutt, J. George. (1814). [https://catalog.hathitrust.org/Record/008618814/Home The rape of Proserpine: with other poems, from Claudian]; translated into English verse. With a prefatory discourse, and occasional notes. London: Printed by A. J. Valpy, sold by Longman, Hurst, Rees, Orme, and Brown [etc.].</ref> Translated into English verse, with a prefatory discourse, and occasional notes.  By [[Jacob George Strutt]].<ref>Freeman Marius O'Donoghue (1898). "[[wikisource:Dictionary_of_National_Biography,_1885-1900/Strutt,_Jacob_George|Strutt, Jacob George]]". In ''Dictionary of National Biography''. '''55'''. London. p. 64.</ref>
+**The rape of Proserpine:  a poem in three books (1854).<ref>Claudianus, C., Howard, H. Edward John. (1854). [https://catalog.hathitrust.org/Record/007686845/Home The rape of Proserpine: a poem in three books]. Incomplete. To which are added, the Phoenix: an idyll and the Nile: a fragment. [n.p.].</ref> Translated by [[Henry Howard (priest)|Henry Edward John Howard]] (1795–1868).<ref>George Clement Boase (1898). "[[wikisource:Dictionary_of_National_Biography,_1885-1900/Howard,_Henry_Edward_John|Howard, Henry Edward John]]". In ''Dictionary of National Biography''. '''28.''' London. pp. 37-38.</ref>
+**The rape of Proserpine (1714).<ref>Claudianus, C., Hughes, J., Lucan, 3. (1716). [https://catalog.hathitrust.org/Record/008910495/Home The rape of Proserpine: from Claudian ...] With the story of Sextus and Erichtho, from Lucan's Pharsalia, book 6. 2d ed. London: Printed by J.D. for J. Osborne [etc.].</ref> With the story of [[Sextus Pompey|Sextus]] and [[Erichtho]], from the ''[[Pharsalia]]'' of [[Lucan]]. Translated by [[Jabez Hughes]] (c. 1685 – 1731).<ref>George Fisher Russell Barker (1898). "[[wikisource:Dictionary_of_National_Biography,_1885-1900/Hughes,_Jabez|Hughes, Jabez]]". In ''Dictionary of National Biography''. '''28.''' London. p. 178.</ref>
+
+==See also==
+*[[Allegory in the Middle Ages]]
+*[[Classical Latin]]
+*[[Late Latin]]
+*[[Latin poetry]]
+
+==References==
+{{Reflist}}
+
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label= Claudian
+  |viaf= |lccn= |lcheading= |wikititle= }}
+
+==Further reading==
+* Barnes, Michael H. 2005. "Claudian." In ''A Companion to Ancient Epic.'' Edited by [[John Miles Foley]], 539–549. Oxford: Blackwell.
+* [[Alan Cameron (classical scholar)|Cameron, A.]] 1970. ''Claudian. Poetry and Propaganda at the Court of Honorius.'' Oxford: Oxford University Press.
+* Cameron, A. 2015. ''Wandering Poets and Other Essays on Late Greek Literature and Philosophy.'' New York: Oxford Univ. Press.
+* Christiansen, P. G. 1997. "Claudian: A Greek or a Latin?" ''Scholia'' 6:79–95.
+* Ehlers, Widu-Wolfgang, editor. 2004. ''Aetas Claudianea. Eine Tagung an der Freien Universität Berlin vom 28. bis 30. Juni 2002'' München/Leipzig: K.G. Saur.
+*Fletcher, David T. “Whatever Happened to Claudius Claudianus? A Pedagogical Proposition.” ''The Classical Journal'', vol. 104, no. 3, 2009, pp.&nbsp;259–273.
+* Gruzelier, C. E. “Temporal and Timeless in Claudian's 'De Raptu Proserpinae'.” ''Greece & Rome'', vol. 35, no. 1, 1988, pp.&nbsp;56–72.
+*Guipponi-Gineste, Marie-France. 2010. ''Claudien: poète du monde à la cour d'Occident. Collections de l'Université de Strasbourg. Études d'archéologie et d'histoire ancienne.'' Paris: De Boccard.
+* Long, J. 1996. "Juvenal Renewed in Claudian's "In Eutropium"." I''nternational Journal of the Classical Tradition'' 2.3: 321-335. 
+*[[Georg Luck|Luck, Georg]]. 1979. "Disiecta Membra: On the Arrangement of Claudian’s Carmina Minora." ''Illinois Classical Studies'' 4: 200–213.
+* Martiz, J.A. 2000. "The Classical Image of Africa: The Evidence from Claudian." ''Acta Classica'' 43: 81–99.
+* Miller, P.A. 2004. ''Subjecting Verses: Latin Love Elegy and the Emergence of the Real.''  Princeton: Princeton University Press.
+* Mulligan, B. 2007. "The Poet from Egypt? Reconsidering Claudian's Eastern Origin." ''Philologus'' 151.2: 285–310.
+* Parkes, Ruth. 2015. "Love or War? Erotic and Martial Poetics in Claudian's De Raptu Proserpinae." ''The Classical Journal'' 110.4: 471–492.
+* Ratti, S. 2008. "Une lecture religieuse des invectives de Claudien est-elle possible?" ''AnTard'' 16: 177–86.
+*Roberts, Michael. “Rome Personified, Rome Epitomized: Representations of Rome in the Poetry of the Early Fifth Century.” ''The American Journal of Philology'', vol. 122, no. 4, 2001, pp.&nbsp;533–565. 
+* Wasdin, Katherine. 2014. "Honorius Triumphant: Poetry and Politics in Claudian's Wedding Poems." ''Classical Philology'' 109.1: 48–65.
+* Ware, Catherine. 2012. ''Claudian and the Roman Epic Tradition.'' Cambridge, UK: Cambridge Univ. Press.
+* Wheeler, Stephen M. 1995. "The Underworld Opening of Claudian’s De Raptu Proserpinae." T''ransactions of the American Philological Association'' 125:113–134.
+
+==External links==
+{{wikiquote}}
+{{EB1911 poster|Claudianus, Claudius}}
+* {{Gutenberg author|id=46419}}
+* Full Latin text on [http://www.divusangelus.it/claudianus/rapt1.htm Divus Angelus] 
+*Complete Latin text and English translation (Platnauer, 1922), at [[LacusCurtius]], Bill Thayer's [https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Claudian/home.html edition]
+*Michael Hendry, critical edition ([http://www.curculio.org/Claudian/index.html Latin])
+
+{{Authority control}}
+
+[[Category:400s deaths]]
+[[Category:4th-century Latin writers]]
+[[Category:4th-century Roman poets]]
+[[Category:4th-century Romans]]
+[[Category:5th-century Latin writers]]
+[[Category:5th-century Roman poets]]
+[[Category:5th-century Romans]]
+[[Category:Late-Roman-era pagans]]
+[[Category:Claudii]]
+[[Category:Roman-era Alexandrians]]
+[[Category:Year of birth unknown]]
+[[Category:Year of birth uncertain]]

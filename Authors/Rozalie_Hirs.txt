@@ -1,0 +1,207 @@
+{{Short description|Dutch composer and poet}}
+{{Infobox composer
+| name                = Rozalie Hirs
+| image               = Rozalie Hirs.jpg
+| landscape           = <!-- yes, if wide image, otherwise leave blank -->
+| birth_name          = Katrien Rozalie Hirs
+| alias               = 
+| background          = composer
+| birth_date          = {{birth date and age|1965|04|07|df=y}}
+| birth_place         = [[Gouda, South Holland|Gouda]], Netherlands
+| origin              = 
+| death_date          = <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date 1st) -->
+| death_place         = 
+| genre               = [[Contemporary classical music|Contemporary classical]], [[Experimental literature|experimental poetry]]
+| occupation          = Composer, poet
+| instrument          = voice, piano
+| years_active        = 1997–present
+| label               = 
+| associated_acts     = 
+| website             = {{URL|www.rozaliehirs.com}}
+| notable_instruments = orchestra, ensemble, electroacoustic, spoken voice, vocal
+| spouse = {{marriage|[[Machiel Spaan]]|2007}}
+}}
+
+'''Rozalie Hirs''' (born 7 April 1965) is a Dutch composer of [[contemporary classical music]] and a poet. The principal concerns of her work are the adventure of listening, reading, and the imagination.
+
+==Biography==
+Rozalie Hirs studied piano and voice from age twelve and seventeen respectively. For her secondary education, she attended Gymnasium Herkenrath, [[North Rhine-Westphalia]], from 1975 until 1979, and Het Nieuwe Lyceum, Bilthoven, Netherlands, from which she graduated in 1983. She subsequently studied chemical engineering at the [[University of Twente]], [[Enschede]], completing her [[Master of Science]] degree in 1990. During her science studies she sang leading roles in several opera productions at Muziekschool Enschede, and co-composed and performed songs with her [[New wave music|new wave]] band Boolean. From 1991 to 1992 she studied classical voice with Eugenie Ditewig at [[Utrechts Conservatorium]], from 1992 to 1994 with Gerda van Zelm at the [[Royal Conservatory of The Hague]].
+
+===Music education===
+From 1991 until 1998 Hirs studied [[musical composition|composition]] at the [[Royal Conservatory of The Hague]]: from 1991 until 1994 with [[Diderik Wagenaar]], from 1994 until 1998 with [[Louis Andriessen]], occasionally taking additional [[musical composition|composition]] lessons with [[Gilius van Bergeijk]] and [[Clarence Barlow]]. She holds a [[Master of Music]] degree from the [[Royal Conservatory of The Hague]].
+
+From 1999 until 2002 she furthered her education in [[musical composition|composition]] with the French [[Spectralist]] [[Tristan Murail]] at [[Columbia University]] New York. She obtained her [[Doctor of Musical Arts]] title from [[Columbia University]] in 2007. Her dissertation consisted of the composition ''Platonic ID'', commissioned by [[Asko Ensemble]], and an essay about the compositional techniques [[Tristan Murail]] developed for ''Le lac''. In 2002 Hirs took part in the ''Computer music and composition'' course at [[IRCAM]], taught by Mikhail Malt ([[OpenMusic]]), Benjamin Thigpen ([[Max/msp]]), Jean Lochard ([[Diphone]]), and [[Marco Stroppa]] (OMChroma).
+
+===Teaching===
+Hirs developed the course ''OpenMusic and contemporary compositional techniques'' which she taught in collaboration with [[Nieuw Ensemble]] during the 2005-06 academic year at [[Conservatorium van Amsterdam]], [[Amsterdam School of the Arts]]. During the 2010-11 academic year, Hirs was Visiting lecturer at the Department of Composition at [[Guildhall School of Music and Drama]], London. During the Autumn semester of 2017, Hirs was Visiting professor at the Department of Composition at [[Royal Conservatory of The Hague]].
+
+She has also taught Creative Writing courses and workshops at ''Kunstwelten'', [[Akademie der Künste]], Berlin, and ''Vormstudies'', Academy of Architecture, [[Amsterdam School of the Arts]].
+
+==Music==
+A prolific composer, Rozalie Hirs has collaborated with [[Royal Concertgebouw Orchestra]], [[Radio Filharmonisch Orkest]], [[Ensemble Musikfabrik]], [[Klangforum Wien]], [[Asko/Schönberg]], [[Quatuor Bozzini]], [[Holland Festival]], [[November Music]], among others.
+
+===Musical ideas===
+Hirs's compositional techniques reveal a seemingly scientific approach, characterized by the incorporation of [[psychoacoustics|psychoacoustic]] effects, [[acoustics|acoustic]] analysis of recorded sound, acoustic laws of sounding bodies, as well as [[mathematical functions]]. The listening experience itself, however, always remains central during the compositional process. Her music is essentially ''spectral''.<ref>[http://www.muziekcentrumnederland.nl/hedendaags/cov/rozalie-hirs/ Componist op de voorgrond: Rozalie Hirs] {{webarchive|url=https://web.archive.org/web/20120826004750/http://www.muziekcentrumnederland.nl/hedendaags/cov/rozalie-hirs/ |date=2012-08-26 }}, Joep Stapel, Music Center Netherlands, 1 June 2010. Checked 1 December 2012</ref> The music of Rozalie Hirs reveals a love for sound and refined structures,<ref>Rozalie Hirs reveals the soft, gleaming skin of sounds in her music and poetry (Rozalie Hirs toont de zachte glimmende huid van klanken in haar muziek en poëzie), Anthony Fiumara, [[Trouw]], 23 februari 2005</ref> in combination with a classic approach to form characteristic of the Hague School: ''The uninitiated listener does not need to concern herself with the mathematical skeleton underlying Rozalie Hirs's music. The composer reveals the soft gleaming skin of sounds in her music and poetry.''
+
+In ''In LA'' she uses the psychoacoustic [[Cocktail party effect]] (discovered by [[Colin Cherry]] in the fifties) as a metaphor of how we remember. In ''Book of Mirrors'' and ''Roseherte'' she investigates the use of the psychoacoustic effect of hearing [[combination tone]]s when we are exposed to pitch intervals. The acoustic laws of sounding strings are investigated in ''article 4'' through harmonics and their placements on the string. In ''Platonic ID'' Hirs used the ratios mentioned by [[Plato]] in the [[Timaeus (dialogue)|Timaeus]] (1:2:4:8 and 1:3:9:27) in order to generate her basic harmonic material.
+
+===Microtones===
+The present music notational system is based on twelve-tone [[equal temperament]], corresponding to [[semitones]], meaning that not all [[frequencies]] and [[Pitch (music)|pitches]] may be captured. Expanding the present system to a 24-tone or even 48-tone tempered tuning, corresponding to a resolution of a [[quarter tone]] and an eighthtone respectively, will lead to a larger choice of pitches, yet still entails approximation of frequencies into a notational grid (quantification).
+
+Hirs composes her music in a continuum of frequencies. She thus uses the calculated [[frequencies]] and other musical parameters to generate electronic sounds as well as the instrumental score performed live. 
+When notating the scores of ''Book of Mirrors'' and ''Roseherte'' Hirs started out approximating the frequencies to the nearest halftone. During the creative process of composing ''Roseherte'' Hirs decided to approximate into quarter tones. Since then many of her compositions have been notated in quarter tones.
+
+The electronic sounds in Hirs's compositions are synthesized using the unapproximated frequencies and provide a means of reference for the musician during rehearsal and performance. In this way the role of the electronic sounds is two-fold, both as constituent to the music as well as a reference base for the performer: the electronic sounds shape the overall music and inform the instrumentalist how to adjust the intonation of the written pitches.
+
+==Musical works==
+
+===Orchestral===
+*''Book of mirrors'', for chamber orchestra (film: Joost Rekveld; 2001)
+*''Platonic ID'', for chamber orchestra (2005–06)
+*''Roseherte'', for symphony orchestra, electronic sounds (2007–08; version for 42 players, electronic sounds, 2014)
+*''Ain, silabar ain'', for jazz orchestra (2013)
+*''Lichtende Drift'', for string orchestra, 23 parts divisi (2014)
+*''Atlantis ampersand'', for chamber orchestra, choir, electronic sounds (2015)
+*''The honeycomb conjecture'', for large ensemble, electronic sounds (2015)
+*''lightclouds'', for large ensemble, electronic sounds (2019)
+
+===Ensemble===
+*''Sacro Monte'', for ensemble (1997)
+*''a-book-of-light'', for ensemble, electronic sounds (2003)
+*''Little whale and the ice'', for ensemble (2010)
+*''Venus [evening star] [invisible] [morning star]'', for percussion sextet, electronic sounds (2010)
+*''Zenit [north] [east] [south] [west]'', for string quartet (2010)
+*''Arbre généalogique'', for soprano, ensemble, electronic sounds (poem, music: Rozalie Hirs; 2011)
+*''Nadir'', for string quartet, electronic sounds (2014)
+*''parallel world [breathing]'', for ensemble, electronic sounds (2017)
+*''parallel sea [to the lighthouse]'', for ensemble, electronic sounds (2018)
+*''dreams of airs'', for voice, ensemble, electronic sounds (poem, music: Rozalie Hirs; 2017–18)
+*''hand in hand'', for soprano, string quartet (poem, music: Rozalie Hirs; 2020)
+
+===Chamber===
+*''article 0 [transarctic buddha]'', for percussion solo (2000)
+*''article 1 to 3 [the] [aleph] [a]'', for piano solo (2003)
+*''article 4 [map butterfly]'', for violin solo (or viola solo) (2004)
+*''article 5 [dolphin, curved time]'', for soprano solo (poem, music: Rozalie Hirs; 2008)
+*''article 7 [ways to climb a mountain]'', for bass clarinet, electronic sounds (2012)
+*''article 6 [waves]'', for electric guitar, electronic sounds (2013)
+*''article 8 [infinity]'', for flute, electronic sounds (2014)
+*''Infinity Stairs'', for flute, electric guitar, bass clarinet, electronic sounds (2014)
+*''On Tenderness'', for piano & electronic sounds (2017)
+*''meditations'', for piano & electronic sounds (2017)
+
+===Music with spoken voice===
+*''Slaaplied voor een duivel'', for narrator & music box (poem, music: Rozalie Hirs; 1994) 
+*''In LA, for six spoken voices or spoken voice & soundtrack (poem, music: Rozalie Hirs; 2003)
+*''A throwaway coincidence that determined everything'', for spoken voice & soundtrack (poem, music: Rozalie Hirs; film: Paul Leyton; 2004)
+*''Klangtext, Textklang'', for spoken voice & live electronics (poem: Rozalie Hirs; music: Rozalie Hirs, [[James Fei]]; 2004)
+*''Van het wonder is word'', for spoken voice & soundtrack (poem, music: Rozalie Hirs; 2005)
+*''Aan de zon, de wereld'', for spoken voice & soundtrack (poem, music: Rozalie Hirs; 2006)
+*''Pulsars'', movement IV, for spoken voice & soundtrack (poem, music: Rozalie Hirs; 2006–07)
+*''Vlinders, gras'', for spoken voice quartet (poem, music: Rozalie Hirs; 2007)
+*''Poetry pieces I-III [heaven bleak] [dolphin] [family tree]'', for spoken voice & soundtrack (poem, music: Rozalie Hirs; 2008)
+*''Curved space'', for spoken voice, ensemble & live electronics (poem, music: Rozalie Hirs; 2009)
+*''Bridge of Babel'', for spoken voice & soundtrack (poem, music: Rozalie Hirs; 2009)
+*''Curvices'', ten compositions and an interlude for sound app (poem, music: Rozalie Hirs; programming: Yvan Vander Sanden; design, animation: Cox & Grusenmeyer; 2013)
+*''In state of [war]'', for twelve voices (poem, music: Rozalie Hirs; 2013)
+*''Tijd en sintel'', for spoken voice, 31-tone organ & soundtrack (poem, music: Rozalie Hirs; 2016)
+*''dreams of airs'', for voice, ensemble & soundtrack (poem, music: Rozalie Hirs; 2017–18)
+
+===Electronic or electroacoustic music (without live performers)===
+*''For Morton Feldman'', electroacoustic (2000)
+*''Geluksbrenger'', electronic music for website (music: Rozalie Hirs; design, programming: Harm van den Dorpel; 2008)
+*''Pulsars'', movements I-III, V, electroacoustic (2007)
+*''Interlude for Curvices'', electroacoustic (2013)
+*''Hilbert’s Hotel'', 31-tone MIDI controlled player organ, electronic sounds (2015)
+*''Luisterhuis'',  electroacoustic composition for architectural installation/sculpture (music: Rozalie Hirs; spatial design: [[Machiel Spaan]], M3H architecten; 2017)
+*''Ways of Space'',  quadrophonic electronic music composition for sound sculpture (music: Rozalie Hirs;  spatial design: [[Machiel Spaan]], M3H architecten; 2019)
+
+==Poetry==
+Playing with sound in multiple layers of meaning and with multiple possibilities for reading leads to a ‘fluid’ poetry. Among these layers, the reader may choose again and again, thus to a large extent shaping his own reading experience. A multiplicity of reading possibilities and identities has become Hirs’ poetical trademark, forming a bridge to her music. In 2010, her CD "Pulsars" was released. On this CD, Hirs investigates polyglot language and the simultaneity of streams of meaning in three electroacoustic works using original texts in English.
+
+===Beginnings===
+On 10 May 1991 Rozalie Hirs presented her poetry for the first time to the public at the student festival for culture ''De Pythische Spelen'', [[Enschede]]. She received the third prize for poetry and an invitation by Jan Kuijper,  the renowned Amsterdam-based Querido's principal poetry editor at the time. In 1992 Hirs's poetry debut was published by the literary magazine ''De Revisor''. In 1995 she was awarded the first prize for poetry at ''De Pythische Spelen'', Amsterdam. Querido published her first poetry book ''Locus'' in 1998, followed by ''Logos'' (2002), and ''Speling'' (''Leeway'', 2005). Hirs' work was selected for ''De 100 beste gedichten van 1998'', ''2002'', ''2005'', and appeared in poetry collections, and literary magazines in The Netherlands (De Revisor, Tirade, De Gids, De Tweede Ronde, Lust en Gratie), Belgium (Poëziekrant, De Standaard), and Germany (Akzente, Carl Hanser Verlag; Sprachbuch, Ernst Klett Sprachen; Bohrmachine, Akademie der Künste, Berlin), and the United States.
+
+In her first poetry book ''Locus'' Rozalie Hirs plays with masks. Her poems are monologues of personages stemming from Greek mythology, philosophy, and the [[Judeo-Christian]] tradition.<ref>Review of ''Locus'': Hirs plays with masks (Hirs speelt met maskers/ Hoor je stem van een andere zijde), Hans Groenewegen, HN Magazine, 15 August 1998</ref> In addition we find references to films, plays, and poems: for example, the poem ''Man Bites Dog'' refers to the Belgian mockumentary [[Man Bites Dog (film)|Man Bites Dog]] (''C’est arrivé près de chez vous'') from 1992, while the poem ''Lucifer'' refers to the eponymous play by [[Joost van den Vondel]] from 1654 (and [[John Milton]]'s later [[Paradise Lost]]). The poet brings her archetypical personalities to life within the critical and formative circumstances, recalling the myth and presenting a new version of the tale. Almost without exception these poems deal with the ambiguity of situations we see ourselves confronted with in the world <ref>[http://home.planet.nl/~ekker036/ Interview with Rozalie Hirs], Na 600 milliseconden, Remko Ekkers, Poëziekrant 2005/5, Gent, Belgium.</ref>
+
+'' ''Logos'', Rozalie Hirs’ second collection of poems, has the reader traveling through the human body. Inside the book there is an anatomical drawing, made by artist Noëlle von Eugen, by which the reader can navigate through the collection. The logos of the title might refer to the laws of the body, with which we find ourselves confronted through the world. But also to thought, the imagination, and the word. In the many love poems, the beloved turns out to be a human being of flesh and blood, and at the same time, language.<ref>Review of ''Logos'': Remco Ekkers, Avontuur van lichaam en kosmos, De Leeuwarder Courant, The Netherlands, 28 June 2002</ref>'' Hirs included an anatomical map within the collection, by which the reader might navigate through the book as if it were a body. Visual artist Noëlle von Eugen created this map. Along with the body parts, she listed abbreviations for the titles of all the poems in which that body part appears. Since the anatomical map in fact functions as a hyperstructure of the collection, "Logos online" came about.
+
+''How poetry imposes its own rules, is demonstrated unequivocally by the third collection of Rozalie Hirs (1965): ''[Speling]''. My free interpretation is that in these poems, what is at stake is the leeway between the word and its meaning, between meaning and sensation. [...] The questions that are posed in the first poems are really the starting point of the poetry that follows. [...] A poetry that is at times bizarre, and with the best will in the world cannot be explained rationally. In short, a very multifaceted poetry. Hirs alternates this kind of associative, unpredictable and at times bizarre poetry, that on more than one occasion is reminiscent of Astrid Lampe, with clear, transparent, but even so enigmatic poems such as ‘[vlinder]’ and ‘[Duchamp]’. A musical poetry, too. [...] A beautiful poetry that does not yield easily, that repulses and beguiles, that fascinates more and more, that ends up refusing to release the reader.<ref>Review of ''Speling/ Leeway'': Edwin Fagel, Wat doen de regels?, De Recensent, The Netherlands, 20 September 2005</ref>'' ''The showpiece of the collection then is the ten-page long ‘[In LA]’, which can be read as a meditation on music and memory, and in which the words find themselves interspersed with a large amount of white space. The stuttering of the speaker, ‘d d d dead’, gives the words weight and renders the meditations forceful. This stream of thoughts constitutes not so much a poem as a score, and this is borne out by the fact that you can order it on CD with the poet. On it, Hirs has juxtaposed and superimposed the words polyphonically so that an orchestrated ‘Cocktail Party Effect’ emerges: sentences mingling at different volumes, so that the main speaker is hard to distinguish from background sounds. The care of this project does not lead to a metropolitan cacophony (as in L.A., say), but to an image of how things may happen within a speaker's head. ‘LA’ is short for Louis Andriessen, whose utterances Hirs has collected and vocalized. It is a sober tribute to Andriessen's beautiful, heavy words, and the chosen form lends this thinking-out-loud a buzzing hesitance that every speaker experiences when trying to find language for grand things. Here we experience simplicity.<ref>Review of ''Speling/ Leeway'': Johan Sonnenschein, Taal opslokken, Awater Poëzietijdschrift, The Netherlands, Fall 2005</ref>''
+
+===Counterpoint and fluidity===
+
+With her following books ''Geluksbrenger'' (''Lucky Charm'', 2008), ''gestamelde werken'' (''work in stuttering'', 2012), and ''verdere bijzonderheden'' (''further particulars'', 2017) Hirs playfully develops her mature writing style, based on simultaneous multiplicities of meaning, possibilities of reading. In 2017 the Berlin-based Kookbooks published her multilingual compendium ''gestammelte werke'', containing original poems in Dutch, German, English and Spanish by the poet, and translations into more than ten languages by Daniela Seel, [[Henri Deluy]], Diego Puls, Kim Andringa, Jelica Novakovic, Donald Gardner, Daniel Cunin, among others. In 2014 her poetry collection in Serbian translation ''život mogućnosti'' appeared with Biblioteka Prevodi in Banja Luka, Bosnia & Herzegovina. In 2019 her poetry collection in Spanish translation ''ahora es una rosa'' was published by Yauguru, Uruguay. Hirs' work was selected for ''De 100 beste gedichten van 2008'', and ''2012'', and appeared in poetry collections, and literary magazines in Belgium, Germany, France, Mexico, and the Netherlands.
+
+''The musical poetry of ''Geluksbrenger'' is constructed along the line of a ‘counterpoint’. Within a poem, Hirs seems to be stacking different poems on top of each other, processing them, splicing them, mixing them, shaking them, letting them flow into one another. And this is one single motion. In one breath. In sustained breath. However composed and constructed her poems may be: the writing never feels artificial. Her poems desire. Her poems are blazing with exuberance, offering a large choice of possibilities. [...] And the mill keeps turning many a poem long, the words keep on coming, the words are streaming. A stormy homecoming. Technically, she achieves this word-stream effect by eliding the punctuation marks (consistently every poem starts with a capital, surely a detail, but indicative of a striking meticulousness). Ever since Apollinaire this technique is an old trick but it works. Sentences seem to form bridges across each other, to overcome one another, to be ahead of each other, to inflate one another. This way poems appear that are chock full of anacolutha: a deconstructive stylistic device that is being used throughout the collection and that, as has been mentioned, keeps its effect of surprise.<ref>Review of ''Logos'': Thuiskomen in een molen, Alain Delmotte, Poëzierapport, Belgium, 14 May 2009</ref>''
+
+''Hirs likes to go all the way, and thereby reaches for the highest points. She is a composer as well. Her best poems ‘sing’ and have a forceful melody. Ever since her debut collection from 1998, her development can be traced clearly. If the poems in ''Locus'' (1998) and ''Logos'' (2002) seemed traditional when taken by themselves, already the second collection was conceptually organized.  ''Logos'' is a through-composed opus about the human body. In reading poem by poem, you can escape the concept, but on the middle pages it is clear as daylight what the poet's intentions are. There, a skinned body points to two- or three-letter codes referring to the alphabetically ordered poems in the collection. Here, I think, Hirs made use of the constructive achievements of her education in chemical technology and composition. It was the first impulse for three subsequent volumes of poetry of ideas. In ''Speling'' (2005) the concept was still very modest. On the first 39 pages, the poems grow, more or less regularly, one line at a time. Then the system falters, and finally the lines fall apart all across ten pages. In ''Geluksbrenger'' (2008) Rozalie Hirs made further strides towards disintegration, especially syntactically. Her poetry did no longer obey linguistic laws. Her lines escape the rules of language and started even to swarm about guided by the typesetter's hand. ''Work in stuttering'', too, finds Hirs toying with the rules of communicative language. Rather than in proclamation her message is in sound and the atmosphere that is evoked thereby. A happy example of that is offered by one of the shortest poems in the collection. In her longer poems, Hirs constructs such atmospheres in no less sonorous ways. [...] Hirs’ poetry intrigues me. Her stammering may be constructed, most of all she seems to be out on an investigation. And her investigations are a poetic adventure. For readers who are curious as well.<ref>Review of ''Gestamelde werken/Work in stuttering'': [https://www.nrc.nl/nieuws/2013/01/04/de-rijpgrage-bomen-buigen-12598842-a727890/ De rijpgrage bomen buigen - Rozalie Hirs construeert haar conceptuele verzen op klankrijke wijze]. Arie van den Berg. NRC Handelsblad. The Netherlands. 4 January 2013</ref>'' ''As a poet, Rozalie Hirs is an impressionist who likes to show how her working process has unfolded. She writes sensitive verses that idiosyncratically try to bring about a connection between romanticism and mathematics.<ref>Review of ''Gestamelde werken/Work in stuttering'': [http://www.groene.nl/artikel/een-huidrots-van-water Een huidrots van water], Piet Gerbrandy, De Groene Amsterdammer, The Netherlands, 31 October 2012</ref>'' ''Her work goes straight into cosmic noise and in the end calls for acting in utter subjectivity. Watch, just as you are seen. Name, just as you are named. Create, just as you are created. And read like a creator: stammering.<ref>Review of ''Gestamelde werken/Work in stuttering'': Poëzie voor scheppende lezers, Joost Baars, Poëzekrant 7-8/12, Poëziecentrum, Gent, Belgium, 2 January 2013</ref>''
+
+''Rozalie Hirs is quietly building an extraordinary body of work. In it always the entire cosmos resounds, while the question arises whether we are dealing with just one cosmos or possibly with more than one. Yet ''Further particulars'' may be her most earthly book so far, her most physical as well, in which a remarkably large number of poems concerns itself with birth. Every fibre of Hirs' poetics says ''yes'' to the world we are thrown into.''<ref>Nabestaanden en natuurgoden. Nadine Ancher (interview with Joost Baars), Algemeen Dagblad, AD/ BN De Stem, Breda, The Netherlands, 13 January 2018</ref>'' ''With this book Rozalie Hirs celebrates life, through the senses, singing.<ref>Review of ''Verdere bijzonderheden/Further particulars'': [https://www.tzum.info/2018/01/recensie-rozalie-hirs-bijzonderheden/ Voelen slokt denken] Remco Ekkers, Tzum weblog, The Netherlands, 16 January 2018</ref>'' ''Upon opening ''Further particulars'', the sixth poetry volume of Rozalie Hirs, immediately a distinct voice starts to sound, a modest, yet clear voice, that takes advantage of the musicality (as well as the semantics) of language in optimal fashion.''<ref>Review of ''Verdere bijzonderheden/Further particulars'': Zes bestemmingen, Edwin Fagel, Awater, The Netherlands, 23 January 2018</ref>''
+
+===Digital Poetry===
+In collaborating with visual artists and graphic designers Hirs creates digital poetry, including ''Logos online'' (2003), ''Family Tree app'' (2006), ''Lucky charm online'' (2011), ''Sightbook'' (2012), and ''Curvices app'' (2013).
+
+''Lucky charm online'' was released with poems, recordings and music (listening spaces, spoken word, and musical pieces with text) by Rozalie Hirs, and interactive poetry applications developed by Harm van den Dorpel. The interactive applications make the experience of reading, normally restricted to the page and the head of the reader, tangible and visible. As reader, one makes choices over and over again while reading, thereby actually recreating the text as one reads, usually more than one realizes. Interactive applications and digital poetry can provide an insight into these interventions into, and recreations of, the text, and show something of the reading experience, or even the writing experience of the poet.
+
+==Discography==
+*''Sacro Monte'' (instrumental work; Ives Ensemble), Present, NM Classics, Donemus, Amsterdam (1999)
+*''In LA'' (electroacoustic work with text; Rozalie Hirs), Drukkerij Tielen, Boxtel (2003)
+*''Platonic ID'' (instrumental works; Asko|Schönberg, Stefan Asbury, Arnold Marinissen, Anna McMichael, Dante Boon, Bas Wiegers), Attacca records, Amsterdam (2007)
+*''Pulsars'' (electroacoustic works with text; Rozalie Hirs, Arnold Marinissen), Attacca records/[[Muziek Centrum Nederland]], Amsterdam (2010)
+
+==Bibliography==
+
+===Composition and research===
+*{{Aut|R. Hirs}}, "On Murail's ''Le lac''", D.M.A. dissertation, Columbia University/New York, Ann Arbor: ProQuest, 2007.
+*{{Aut|R. Hirs}}, {{Aut|B. Gilmore}}, eds., ''Contemporary Compositional Techniques and OpenMusic'', Collection Musique/Sciences, Paris: Editions Delatour/IRCAM, 2009. {{ISBN|978-275-210-080-1}}
+*{{Aut|R. Hirs}}, "On Tristan Murail's ''Le lac''", ''Contemporary Compositional Techniques and OpenMusic'', Collection Musique/Sciences, Paris: Editions Delatour/IRCAM, 2009. pp 45–89. {{ISBN|978-275-210-080-1}}
+*{{Aut|R. Hirs}}, "Frequency-based compositional techniques in the music of Tristan Murail", ''Contemporary Compositional Techniques and OpenMusic'', Collection Musique/Sciences, Paris: Editions Delatour/IRCAM, 2009. pp 93–196. {{ISBN|978-275-210-080-1}}
+*{{Aut|R. Hirs}}, "Zeitgenössische Kompositionstechniken und OpenMusic: Murail's ''Le Lac''", ''Klangperspektiven'' (edited by [[Lukas Haselböck]]), Wolke Verlag, Hofheim, 2011. pp 119–164. {{ISBN|978-393-600-081-8}}
+
+===Poetry books===
+*{{Aut|R. Hirs}}, ''Locus'' (in Dutch). Amsterdam: Querido, 1998. {{ISBN|90-214-6643-0}}
+*{{Aut|R. Hirs}}, ''Logos'' (in Dutch). Amsterdam: Querido, 2002. {{ISBN|90-214-6708-9}}
+*{{Aut|R. Hirs}}, ''[Speling]'' (in Dutch). Amsterdam: Querido, 2005. {{ISBN|90-214-6734-8}}
+*{{Aut|R. Hirs}},  ''Geluksbrenger'' (in Dutch). Amsterdam: Querido, 2008. {{ISBN|978-90-214-3503-9}}
+*{{cite book| last=Hirs| first=Rozalie| url = https://www.singeluitgeverijen.nl/querido/boek/gestamelde-werken/ | title = gestamelde werken | language=Dutch| location=Amsterdam| publisher=Querido| year=2012| isbn=978-90-214-4243-3}}
+*{{cite book| last=Hirs| first=Rozalie| url = http://www.hochroth.de/3651/rozalie-hirs-ein-tag-een-dag/ | title= ein tag | language=German| location=Berlin| publisher=hochroth Verlag| year=2014| isbn=978-39-028-7150-3 }} (German translations by Ard Posthuma, Rozalie Hirs)
+*{{Aut|R. Hirs}},  ''život mogućnosti'' (in Serbian). Banja Luka: Biblioteka Prevodi, 2014. {{ISBN|978-99-955-8050-6}}. (Serbian, Croatian translations: Jelica Novaković, Radovan Lučić; introduction by Laurens Ham)
+*{{cite book| last=Hirs| first=Rozalie| url = http://www.kookbooks.de/buecher.php#a-9783937445670 | title= gestammelte werke | language=German| location=Berlin| publisher=kookbooks| year=2017| isbn=978-3-937445-67-0}} (German translations: Rozalie Hirs, Daniela Seel, Ard Posthuma; English translations: Donald Gardner, Ko Kooman, Willem Groenwegen, Moze Jacobs; Chinese translations: Aurea Sison; Spanish translations: Diego Puls; Albanian translations: Anton Papleka; Swedish translations: Boerje Bohlin; Serbian, Croatian translations: Jelica Novaković, Radovan Lučić; Lithuanian translations: Ausra Gudaviciute, Gytis Norvilas; Russian translations: Nina Targan Mouravi; introduction by Rozalie Hirs)
+*{{cite book| last=Hirs| first=Rozalie| url = https://www.singeluitgeverijen.nl/querido/boek/verdere-bijzonderheden/ | title= verdere bijzonderheden | language=Dutch| location=Amsterdam| publisher=Querido| year=2017| isbn=978-90-214-0857-6}} Nomination Karel van de Woestijne Poetry Prize (2017-2019), Sint-Martens-Latem, East Flanders, Belgium. Public Choice Award Karel van de Woestijne 2020, Sint-Martens-Latem, East Flanders, Belgium.
+*{{Aut|R. Hirs}}, ''ahora es una rosa'' (in Spanish). Montevideo: Yauguru Books, Uruguay, 2019. {{ISBN|978-9974-890-33-6}}. (Spanish translations: Diego Puls)
+
+==Personal life==
+Since 14 February 2007 Rozalie Hirs has been married to the Dutch architect [[Machiel Spaan]]. The couple currently lives in [[Amsterdam]].
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://rozalie.com Official website Rozalie Hirs (English)]
+* [https://www.rozaliehirs.nl/ Official website Rozalie Hirs (Nederlands)]
+* [http://collection.eliterature.org/2/works/hirs_familytree.html Digital word toy  ''Family Tree app'', in collaboration with Harm van den Dorpel, 2006]
+* [http://www.geluksbrenger.nl/gedicht/family_tree Digital Poetry website ''Lucky Charm online'', in collaboration with Harm van den Dorpel, 2011]
+* [http://www.writing.upenn.edu/pennsound/x/Hirs.php Rozalie Hirs at PennSound]
+* [https://www.youtube.com/playlist?list=PLrzvBkZOBf29dz-tIixSJ32CgXXwlcLo5 Rozalie Hirs on YouTube]
+
+{|
+| {{Authority control}}
+|}
+
+{{DEFAULTSORT:Hirs, Rozalie}}
+[[Category:1965 births]]
+[[Category:Living people]]
+[[Category:Dutch women classical composers]]
+[[Category:Dutch classical composers]]
+[[Category:Dutch women poets]]
+[[Category:Microtonal composers]]
+[[Category:20th-century classical composers]]
+[[Category:21st-century classical composers]]
+[[Category:21st-century Dutch poets]]
+[[Category:20th-century Dutch poets]]
+[[Category:Royal Conservatory of The Hague alumni]]
+[[Category:People from Gouda, South Holland]]
+[[Category:Pupils of Louis Andriessen]]
+[[Category:20th-century women composers]]
+[[Category:21st-century women composers]]
+[[Category:20th-century Dutch women]]

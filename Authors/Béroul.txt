@@ -1,0 +1,29 @@
+'''Béroul''' was a [[Normans|Norman]] or [[Bretons|Breton]] poet of the 12th century. He wrote ''Tristan'', a [[Norman language]] version of the legend of [[Tristan and Iseult]] of which a certain number of fragments (approximately 3000 verses) have been preserved; it is the earliest representation of the so-called "vulgar" version of the legend (the "courtly" version being represented by fragments from [[Thomas of Britain]]'s poem). [[Eilhart von Oberge]] wrote a treatment of this version in [[German language|German]], and many of Béroul's episodes that do not appear in Thomas reappear in the [[Prose Tristan|Prose ''Tristan'']]. Beroul's poem survives in a single manuscript now in the [[Bibliothèque Nationale]] in Paris. This copy is poorly written  and there is a suggestion that part of the poem was written by a different scribe from the rest. The actual content of the poem also differs from the modern conception of what a narrative poem should be; the plot is disjointed and lacking in a flow of cause and effect, and the characters are poorly defined. Nevertheless, Fedrick proposes that this was common of literature in Beroul's time.<ref>Beroul ''The Romance of Tristan'', Introduction and translation by Alan S. Fedrick</ref>
+
+==See also==
+*  [[Anglo-Norman literature]]
+
+== References ==
+{{Reflist}}
+
+==External links==
+*  {{Internet Archive author |sname=Béroul |sopt=w}}
+* [http://fr.wikisource.org/wiki/Tristan_(B%C3%A9roul) Texte of Tristan]
+* [https://web.archive.org/web/20130328073049/http://www.pinkernell.de/romanistikstudium/ Chapter ''Béroul'' in Pinkernell: "Namen, Titel und Daten der französischen Literatur"]
+* [http://www.enotes.com/classical-medieval-criticism/beroul Criticism]
+
+{{Tristan and Iseult}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Beroul}}
+[[Category:Writers of Arthurian literature]]
+[[Category:Norman-language poets]]
+[[Category:12th-century Normans]]
+[[Category:12th-century French writers]]
+[[Category:12th-century French poets]]
+[[Category:French male poets]]
+[[Category:Tristan and Iseult]]
+
+
+{{France-poet-stub}}

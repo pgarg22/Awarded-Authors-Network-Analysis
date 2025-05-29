@@ -1,0 +1,154 @@
+{{For|those of a similar name|Don Patterson (disambiguation)}}
+{{Use dmy dates|date=October 2013}}
+{{EngvarB|date=April 2018}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Don Paterson
+| honorific_prefix = 
+| honorific_suffix = [[Order of the British Empire|OBE]], [[Royal Society of Edinburgh|FRSE]], [[Royal Society of Literature|FRSL]] 
+| image = DON PATERSON READS AT BRIDLINGTON POETRY FESTIVAL.jpg
+| image_size = 
+| alt = 
+| caption = at 2013 Bridlington Poetry Festival
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date =1963    <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = [[Dundee]], Scotland
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation = 
+| language = 
+| nationality = Scottish
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  <!-- or: | notablework = -->
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = [[Eric Gregory Award]];<br> [[Forward Poetry Prize]] 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+
+'''Donald Paterson''' {{postnominals|country=GBR|size=100%|OBE|FRSE|FRSL}} (born 1963) is a Scottish poet, writer and musician.
+
+==Background==
+Don Paterson was born in Dundee, Scotland in 1963.<ref name="poetry foundation">{{Cite web|url=https://www.poetryfoundation.org/poets/don-paterson|title=Don Paterson|first=Poetry|last=Foundation|date=29 July 2020|website=Poetryfoundation.org|access-date=29 July 2020}}</ref> He won an [[Eric Gregory Award]] in 1990 and his poem ''A Private Bottling'' won the Arvon Foundation International Poetry Competition in 1993.<ref name="Scottish Poetry Library">{{Cite web|url=https://www.scottishpoetrylibrary.org.uk/poet/don-paterson/|title=Don Paterson &#124; Poet|website=Scottishpeotrylibrary.org.uk|access-date=29 July 2020}}</ref> He was included on the list of 20 poets chosen for the [[Poetry Society]]'s 'New Generation Poets' promotion in 1994.<ref name="Scottish Poetry Library"/> In 2002 he was awarded a [[Scottish Arts Council]] Creative Scotland Award.<ref name="poetry foundation"/>
+
+His first collection of poetry, ''Nil Nil'' (1993), won the [[Forward Poetry Prize]] for Best First Collection. ''God's Gift to Women'' (1997) won the [[T. S. Eliot Prize]] and the [[Geoffrey Faber Memorial Prize]]. ''The Eyes'', adaptations of the work of Spanish poet [[Antonio Machado]] (1875–1939), was published in 1999. He is also editor of ''101 Sonnets: From [[Shakespeare]] to [[Heaney]]'' (1999) and of ''Last Words: New Poetry for the New Century'' (1999) with [[Jo Shapcott]]. His collection of poems, ''[[Landing Light (book)|Landing Light]]'' (2003), won both the 2003 [[T. S. Eliot Prize]] and the [[2003 Whitbread Awards|2003 Whitbread Poetry Award]].<ref name=Picador>{{Cite web|url=https://www.panmacmillan.com/picador|title=Picador|website=Panmacmillan.com|access-date=29 July 2020}}</ref> He has also published three collections of aphorisms, ''The Book of Shadows'' (2004), ''The Blind Eye'' (2007) and ''Best Thought, Worst Thought'' (2008). ''Orpheus'', his version of [[Rilke]]'s ''Die Sonette an Orpheus'', was published in 2006.<ref name="poetry foundation" />
+
+Don Paterson teaches in the school of English at the [[University of St Andrews]] and is poetry editor for the London publishers [[Picador (imprint)|Picador]].<ref name=Picador/> An accomplished jazz guitarist, he works solo and for ten years ran the jazz-folk ensemble, Lammas, with [[Tim Garland]].<ref>{{Cite web|url=https://poetryarchive.org/poet/don-paterson/|title=Don Paterson|website=Poetry Archive|access-date=29 July 2020}}</ref><ref>{{Cite web|url=https://www.heraldscotland.com/news/14276417.acclaimed-poet-reveals-he-is-writing-play-about-jimmy-savile/|title=Acclaimed poet reveals he is writing play about Jimmy Savile|website=HeraldScotland.com|access-date=29 July 2020}}</ref>
+
+In 2012, Paterson wrote an open letter in [[The Herald (Glasgow)|The Herald]] criticising Scotland's arts funding council [[Creative Scotland]].<ref>{{Cite web|url=https://www.heraldscotland.com/arts_ents/13073086.a-post-creative-scotland/|title=A post-Creative Scotland|website=HeraldScotland.com|access-date=29 July 2020}}</ref>
+
+In 2012-13, he was the Weidenfeld Visiting Professor of European Comparative Literature in [[St Anne's College, Oxford]].<ref>[http://www.st-annes.ox.ac.uk/about/weidenfeld-visiting-professorship-in-comparative-european-literature] {{dead link|date=July 2020}}</ref>
+
+==Honours and awards==
+He was appointed [[Officer of the Order of the British Empire]] (OBE) in the [[2008 Birthday Honours]].<ref>{{London Gazette|issue=58729 |date=14 June 2008 |page=12 |supp=y }}</ref> He was awarded the [[Queen's Gold Medal for Poetry]] in the [[2010 New Year Honours]].<ref>[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/poetry/article6972944.ece] {{dead link|date=July 2020}}</ref> In 2015 Paterson was elected a Fellow of the [[Royal Society of Edinburgh]].<ref>{{Cite web|url=https://www.rse.org.uk/fellow/don-paterson/|title=Professor Don Paterson OBE FRSE |publisher=The Royal Society of Edinburgh|access-date=12 February 2018|language=en-GB}}</ref>
+
+==Bibliography==
+{{Expand list|date=April 2018}}
+
+=== Poetry ===
+;Collections
+* {{cite book <!--|author=Paterson, Don --> |title=Nil nil |location=London |publisher=Faber & Faber |year=1993 <!--isbn=9780571259328-->}}<ref>Winner of the [[Forward Poetry Prize]] for Best First Collection.</ref>
+* {{cite book <!--|author=Paterson, Don |author-mask=1--> |title=God's gift to women |location=London |publisher=Faber & Faber |year=1997 <!--isbn=9780571177622-->}}
+*''[[The Eyes (poetry collection)|The Eyes]]'' after [[Antonio Machado|Machado]], Faber & Faber, 1999, {{ISBN|9780571200559}} 
+*''[[White Lie (poetry collection)|White Lie]]'' Graywolf Press, 2001, {{ISBN|9781555973537}} 
+*[[Landing Light (book)|''Landing Light'']] (2003)
+*''[[Orpheus (poetry collection)|Orpheus]]'' (2006), after [[Rainer Maria Rilke|Rilke]]
+* {{cite book|title=[[Rain (poetry collection)|Rain]]|date=2009|publisher=Farrar, Straus and Giroux|isbn=978-1-4668-8068-9}} Winner of Forward Poetry Prize
+*''Selected Poems'', Faber & Faber, 2012, {{ISBN|9780571281787}} 
+*''40 Sonnets'',  Faber & Faber, 2015, {{ISBN|978-0571310890}} (shortlisted for the 2016 [[Griffin Poetry Prize]])
+*Contributor to ''A New Divan: A Lyrical Dialogue Between East and West.'' Gingko Library, 2019. {{ISBN|9781909942288}}
+*''Zonal'', Faber & Faber, 2020, {{ISBN|978-0571338245}}
+;Anthologies
+*''101 Sonnets'' (1999)
+*''Last Words'' (1999) with ([[Jo Shapcott]])
+*''Robert Burns'', poems selected by Don Paterson (2001)
+*''[[New British Poetry]]'' with [[Charles Simic]], Grayworf Press, 2004, {{ISBN|9781555973940}}
+;List of poems
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+|-
+|Wave
+|2014
+|{{cite journal |author=Paterson, Don |date=March 3, 2014 |title=Wave |journal=The New Yorker |volume=90 |issue=2 |pages=65 |url=https://www.newyorker.com/magazine/2014/03/03/wave-2 <!--access-date=2018-04-01-->}}
+| 
+|-
+|}
+
+===Plays===
+*''[[The Land of Cakes]]'' (with [[Gordon McPherson]]) (2001)
+*''[[A'body's Aberdee]]'' (2001)
+
+===Radio drama===
+*''[[Kailyard Blues]]'' (1999)
+*''[[Ringing the Changes (play)|Ringing the Changes]]'' (1999) with ([[Jo Shapcott]])
+*''[[The Aberdee Brief]]'' (2000)
+*''[[The Latecomers]]'' (2001)
+
+===Aphorisms===
+*''The Book of Shadows'' Picador, 2004, {{ISBN|9780330431842}} 
+*''The Blind Eye'' (2007)
+*''Best Thought, Worst Thought'' (2008)
+
+===Criticism===
+* {{cite book|title=Reading Shakespeare's Sonnets: A New Commentary|url=https://books.google.com/books?id=iykaqtYqDmkC|date=2010|publisher=Faber & Faber|isbn=978-0-571-26399-8}}
+*''Smith: A Reader's Guide to the Poetry of Michael Donaghy'' (2014)
+* {{Cite book|title=The Poem|publisher=Faber & Faber|year=2018|isbn=9780571206629}}
+
+===Critical studies and reviews of Paterson's work===
+* {{cite journal |author=Chiasson, Dan |author-link=Dan Chiasson |date=April 19, 2010 |title=Forms of attention : Don Paterson's 'Rain' |department=The Critics. Books |journal=The New Yorker |volume=86 |issue=9 |url=https://www.newyorker.com/magazine/2010/04/19/forms-of-attention <!--access-date=2018-09-02-->}}
+* {{cite book|editor-last1=Pollard|editor-first1=Natalie|title=Don Paterson: Contemporary Critical Essays|date=2014|publisher=Edinburgh University Press|location=Edinburgh, U.K.|isbn=9780748669424|oclc=903488793}}
+
+==References==
+{{Reflist}}
+
+==External links==
+{{Wikiquote}}
+*[http://www.donpaterson.net/ Poet's official website]
+*[http://www.poetrymagazines.org.uk/magazine/record.asp?id=3524 "Private Enterprise for the Public Good" John Stammers interviews Don Paterson. No 12 - Spring 1998 ''Magma'']
+*[http://www.poetryfoundation.org/bio/don-paterson Paterson profile at Poetry Foundation]
+*[https://web.archive.org/web/20100727010010/http://www.spl.org.uk/poets_a-z/paterson.html Profile at Scottish Poetry Library]
+*[https://web.archive.org/web/20110805060611/http://www.contemporarywriters.com/authors/?p=auth206 Biography and bibliography at British Council Contemporary Writers site]
+*[http://www.griffinpoetryprize.com/awards-and-poets/shortlists/2016-shortlist/don-paterson/ Biography, poetry excerpts from Griffin Poetry Prize website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Paterson, Don}}
+[[Category:1963 births]]
+[[Category:Living people]]
+[[Category:Academics of the University of St Andrews]]
+[[Category:Aphorists]]
+[[Category:Costa Book Award winners]]
+[[Category:Fellows of the Royal Society of Edinburgh]]
+[[Category:Fellows of the Royal Society of Literature]]
+[[Category:Formalist poets]]
+[[Category:Journalists from Dundee]]
+[[Category:Musicians from Dundee]]
+[[Category:Officers of the Order of the British Empire]]
+[[Category:People from Dundee]]
+[[Category:Poets from Dundee]]
+[[Category:Print editors]]
+[[Category:Scottish journalists]]
+[[Category:Scottish poets]]
+[[Category:The New Yorker people]]
+[[Category:T. S. Eliot Prize winners]]

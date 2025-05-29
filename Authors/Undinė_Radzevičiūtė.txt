@@ -1,0 +1,76 @@
+{{short description|Lithuanian writer}}
+{{Infobox writer
+| name             = 
+| embed            = 
+| honorific_prefix = 
+| honorific_suffix = 
+| image            = Radzeviciute, Undine.IMG 0164.JPG
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = {{Birth date and age|1967|06|16}}<ref name=lrs>{{cite web|publisher=Lietuvos rašytojų sąjunga|url=http://www.rasytojai.lt/lt/rasytojai/63-rasytojai/esami-nariai/r/800-radzeviciute-undine|title=Radzevičiūtė Undinė|accessdate=9 September 2017}}</ref>
+| birth_place      = 
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place      = 
+| resting_place    = 
+| occupation       = 
+| language         = Lithuanian
+| residence        = 
+| nationality      = Lithuanian
+| citizenship      = 
+| education        = 
+| alma_mater       = [[Vilnius Academy of Arts]]
+| period           = 
+| genre            = historical fiction
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notableworks     = ''Fish and Dragons''
+| spouse           = <!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 
+| relatives        = 
+| awards           = [[EU Prize for Literature]] (2015)
+| signature        =
+}}
+'''Undinė Radzevičiūtė''' is a [[Lithuania|Lithuanian]] novelist, a winner of the [[EU Prize for Literature]] in 2015.
+
+==Biography==
+She was born on 16 June 1967. Her mother's family came from [[Courland]], a Germanic-influenced region of [[Latvia]] and has Baltic German-Polish-Lithuanian roots, while her father was Lithuanian-Polish.<ref name="defunk">{{cite news|author=Holger|url=http://www.deutschlandfunk.de/schriftstellerin-undine-radzeviciute-politik-interessiert.700.de.html?dram:article_id=395402|title=Schriftstellerin Undinė Radzevičiūtė – "Politik interessiert mich nicht"|date=8 September 2017|newspaper=Deutschland Funk|accessdate=9 September 2017|url-status=live|language=German}}</ref>
+
+Radzevičiūtė studied at the [[Vilnius Academy of Arts]]. She worked for many years in the advertising industry for [[Saatchi & Saatchi]] and [[Leo Burnett]].<ref name=euprize>{{cite web|url=http://www.euprizeliterature.eu/author/2015/undine-radzeviciute|title=Undinė Radzevičiūtė, Lithuania|publisher=European Union Prize for Literature|year=2015}}</ref>
+
+==Literary career==
+Radzevičiūtė published her first book, a novella titled ''Strekaza'', in 2003. This was followed in 2010 by ''Frankburgas''. Her first collection of short stories, ''Baden Badeno nebus'' was published in 2011. These tales share motivations, and the same characters appear in them. Sooner or later, an individual begins to be pressured and is forced to pretend to be simpler than they are, to adapt to the demands of society, which eventually leads to their destruction. Radzevičiūtė's writing is described as ''minimalist, savvy, diamond-sharp, as if cutting off unnecessary words and rejecting descriptions''.<ref>{{cite journal|journal=Šiaurės Atėnai|last=Fomina|first=Aleksandra|title=Minios ir tradicijos gniaužtuose|url=http://www.satenai.lt/2011/12/02/minios-ir-tradicijos-gniauztuose/|date=2 December 2011|accessdate=9 September 2017|language=Lithuanian}}</ref>
+
+Her fourth book ''Fish and Dragons'' (2013) won the 2015 [[EU Prize for Literature]].<ref name=euprize/> This was a work of historical fiction with two parallel narratives: one set in imperial China and following the Italian painter [[Giuseppe Castiglione (Jesuit painter)|Castiglione]]'s efforts to impress the [[Qing]] ruler, the other about three generations of women living in Vilnius' Chinatown. In both strands, she described the cultural clashes between the East and the West.<ref>{{cite web|url=https://www.15min.lt/kultura/naujiena/literatura/undine-radzeviciute-apie-nauja-romana-kraujas-melynas-tai-buvo-gimines-saknu-ieskojimas-286-755132|title=Undinė Radzevičiūtė – apie naują romaną "Kraujas mėlynas": "Tai buvo giminės šaknų ieškojimas"|date=14 February 2017|last=Ožalas|first=Audrius|publisher=15min|language=Lithuanian|accessdate=9 September 2017}}</ref>
+
+Radzevičiūtė's next work, ''180'', was a departure from the historical genre; this novel had a detective theme as it explored how big victories could collapse into utter defeat, and how attempts at reparation could result in death.<ref>{{cite web|url=https://www.15min.lt/naujiena/kultura/literatura/undine-radzeviciute-mane-domino-istorijos-kai-zmogus-praranda-beveik-viska-286-485683|title=Undinė Radzevičiūtė: "Mane domino istorijos, kai žmogus praranda beveik viską"|language=Lithuanian|date=17 February 2017|last=Ožalas|first=Audrius|accessdate=9 September 2017}}</ref>
+
+Her sixth book ''Kraujas mėlynas'' won the 2018 Lithuanian Writers' Union Prize.
+
+Radzevičiūtė's work has been translated into German, Russian, Italian, Spanish, English,  Hungarian, Croatian, Serbian, Bulgarian, Latvian, Estonian, Finnish.<ref name="euprize" />
+
+==Selected works==
+* {{cite book|title=Strekaza|year=2003|publisher=Tyto alba|location=[[Vilnius]]|isbn=9789955236375}}
+* {{cite book|title=Frankburgas|year=2010|publisher=Tyto alba|location=Vilnius|isbn=9789986167525}}
+* {{cite book|title=Baden Badeno nebus|year=2011|publisher=Baltos Lankos|location=Vilnius|isbn=9789955234890}}
+* {{cite book|title=180|year=2015|publisher=Baltos Lankos|isbn=9789955238119}}
+* {{cite book|title=Žuvys ir drakonai|publisher=Baltos Lankos|year=2015|trans-title=Fishes and Dragons|isbn= 9789955236580}}
+* {{cite book|title=Kraujas melynas|year=2017|publisher=Lietuvos rašytojų sąjungos leidykla|isbn= 9789986399308}}
+*''Grožio ir blogio biblioteka.'' Lietuvos rašytojų sąjungos leidykla. 2020 {{ISBN|9786094801280}}.
+
+==References==
+{{reflist|30em}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Radzeviciute, Undine}}
+[[Category:1967 births]]
+[[Category:Living people]]
+[[Category:Vilnius Academy of Arts alumni]]
+[[Category:21st-century Lithuanian writers]]

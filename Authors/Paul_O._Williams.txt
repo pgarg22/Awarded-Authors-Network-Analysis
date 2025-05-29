@@ -1,0 +1,73 @@
+{{short description|American writer}}
+[[File:Paul O. Williams reading from his book of cat haiku at the Yuki Teikei Holiday Party 2006.jpg|thumb|right|250px|Paul O. Williams reading from his book of cat haiku.]]
+'''Paul O. Williams''' (January 17, 1935 – June 2, 2009) was an American [[science fiction]] writer and [[haiku]] poet. Williams was professor emeritus of English at [[Principia College]] in [[Elsah, Illinois]].
+
+His most notable science fiction works are a series of novels, the Pelbar Cycle, set in [[North America]] about a thousand years after a "time of fire", in which the world was nearly totally depopulated. The novels track a gradual reconnection of the human cultures which developed. Much of the action takes place in the communities of the Pelbar, along the [[Upper Mississippi River]] — in the general vicinity of Elsah. Several cultures, including the matriarchal Pelbar, join together in the Heart River Federation.  Others, especially the tyrannical Tantal and slave-raiding Tusco, fall apart after suffering defeats.  The predominant characters are change agents: Tor, Jestak, Stel and his wife Ahroe Westrun.  All are Pelbar except for Tor who is Shumai.  Williams won the [[John W. Campbell Award for Best New Writer|John W. Campbell Award for Best New Writer in Science Fiction]] in 1983.<ref name="nyt830906"/>
+
+He is also known as a writer of [[haiku]], [[senryū]], and [[Tanka in English|tanka]], and wrote a number of essays on the haiku form in English. In a 1975 essay, he coined the term "Tontoism" to refer to the practice of writing haiku with missing [[Article (grammar)|articles]] ("the", "a", or "an"), which he claimed made the haiku sound like the stunted English of the Indian sidekick, [[Tonto (Lone Ranger character)|Tonto]], in the ''[[Lone Ranger]]'' radio and television series. In 2001, his best essays were collected in ''The Nick of Time: Essays on Haiku Aesthetics'', edited by Lee Gurga and Michael Dylan Welch. Williams was the president of the [[Haiku Society of America]] (1999) and vice president of the Tanka Society of America (2000). In 1989 he won the Museum of Haiku Literature Award<ref>{{cite web|url=http://www.hsa-haiku.org/museumhaikuliteratureawards/museumhaikuliterature-award.htm#1989|title=Museum of Haiku Literature Award}}</ref> from the Haiku Society of America with this poem written for [[Nick Virgilio]] shortly after Nick's death:
+
+{{quote|<poem>
+gone from the woods
+    the bird I knew
+        by song alone
+</poem>}}
+
+Williams died from an [[aortic dissection]] on June 2, 2009.<ref name="sfwa09"/>
+
+== The Pelbar Cycle ==
+* ''The Breaking of Northwall'' (1981)
+* ''The Ends of the Circle'' (1981)
+* ''The Dome in the Forest'' (1981)
+* ''The Fall of the Shell'' (1982)
+* ''An Ambush of Shadows'' (1983)
+* ''Song of the Axe'' (1984)
+* ''The Sword of Forbearance'' (1985)
+
+: (The Pelbar Cycle was republished in 2005–2006 by the [[University of Nebraska Press]].)
+
+==Gorboduc==
+
+* ''The Gifts of the Gorboduc Vandal'' (1989)
+* ''The Man from Far Cloud'' (2004)
+
+==Haiku, senryū, tanka, and other poetry books==
+
+* ''The Edge of the Woods: 55 Haiku'' (1968; haiku)
+* ''Tracks on the River'' (1982; haiku)
+* ''Growing in the Rain'' (1991; longer poetry)
+* ''Outside Robins Sing: Selected Haiku''  July 1999. Brooks Books 56 pages. {{ISBN|0-913719-98-6}}   
+* ''The Nick of Time: Essays on Haiku Aesthetics'' by Paul O. Williams, Press Here,  2001, {{ISBN|1-878798-23-5}} [winner of the Haiku Society of America's 2002 Merit Award for Best Criticism]
+* ''These Audacious Maples'' (2007; tanka)
+* ''The Day of Strawberries'', edited by Paul O. Williams (San Francisco: Two Autumns Press, 2004) — the companion chapbook to the Haiku Poets of Northern California’s fifteenth annual Two Autumns poetry reading series
+* [http://www.haikuworld.org/kukai/paul.o.williams.html Paul's Shiki Monthly Kukai Entries]
+
+==References==
+{{reflist|refs=
+<ref name="nyt830906">{{cite news |agency=Associated Press |work=The New York Times |title=Isaac Asimov Novel Wins a Hugo Award |url=https://www.nytimes.com/1983/09/06/books/isaac-asimov-novel-wins-a-hugo-award.html |date=September 6, 1983 |accessdate=March 29, 2010}}</ref>
+<ref name="sfwa09">{{cite web |url=http://www.sfwa.org/news/2009/powilliams.htm |title=Obituary, Paul O. Williams |publisher=Science Fiction and Fantasy Writers of America, Inc. |date=June 12, 2009 |url-status=dead |archiveurl=https://web.archive.org/web/20090629211039/http://www.sfwa.org/news/2009/powilliams.htm |archivedate=June 29, 2009 }}</ref>
+}}
+
+==External links==
+*{{isfdb name|id=Paul_O._Williams|name=Paul O. Williams}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Williams, Paul O.}}
+[[Category:1935 births]]
+[[Category:2009 deaths]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:American male novelists]]
+[[Category:American science fiction writers]]
+[[Category:Deaths from aortic dissection]]
+[[Category:English-language haiku poets]]
+[[Category:John W. Campbell Award for Best New Writer winners]]
+[[Category:20th-century American poets]]
+[[Category:21st-century American poets]]
+[[Category:American male poets]]
+[[Category:American male short story writers]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American short story writers]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:Principia College faculty]]

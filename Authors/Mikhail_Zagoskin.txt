@@ -1,0 +1,40 @@
+{{Infobox writer
+| image       = Mikhail Nikolayevich Zagoskin.jpg
+| imagesize   = 180px
+| caption     = 
+| birth_date  = {{birth date|1789|7|25}}
+| birth_place = [[Mokshansky District|Ramzay]], [[Russian Empire]]
+| death_date  = {{death date and age|1852|7|5|1789|7|25}}
+| death_place = [[Moscow]], Russian Empire 
+}}
+'''Mikhail Nikolayevich Zagoskin''' ({{lang-ru|Михаил Николаевич Загоскин}}), (July 25, 1789 – July 5, 1852), was a Russian writer of social comedies and historical novels.
+
+Zagoskin was born in the village of [[Mokshansky District|Ramzay]] in [[Penza Oblast]]. He began his official career as a librarian, then became part of the management of the Imperial Theatres, and lastly served as director of the [[Kremlin Armoury|Moscow Armory Museum]]. In the 1810s and 20s he published a series of comedies. His best known work, the historical novel ''Yury Miloslavsky'', was published in 1829 and became the first Russian best-seller. His historical novels, including ''Yury Miloslavsky'', were open imitations of [[Walter Scott|Sir Walter Scott]], and were immensely popular. Zagoskin attempted to Russify his characters and provided authentic descriptive detail; his "contribution lies in his innovative of language to create an illusion of antiquity. The dramatist in him shows through in the preponderance of dialogue over description or exposition, and in the use of colloquial speech, and the oral speech of the common people."<ref>{{cite book |title=A History of Russian Literature |last=Terras |first=Victor |year=1991 |publisher=Yale University Press |location=New Haven |isbn=0-300-05934-5 |page=244 }}</ref> [[Sergey Aksakov]] described the extraordinary impact of ''Yury Miloslavsky'':<blockquote>We did not yet have a popular writer in the accurate and full sense of the word . . . our distance from the people and their low literacy being direct and readily apparent obstacles. [...] But Zagoskin more than anyone else can be called a popular writer. In addition to other classes, he has been read and is read by all merchant peasants able to read. . . . They tell about what they have read and sometimes read aloud to many other illiterate peasants. The enormous number of snuffboxes and printed kerchiefs with depictions of various scenes from ''Yury Miloslavsky'' carried to all corners of the Russian expanse uphold the renown of its author.<ref>Dan Ungurianu, ''Plotting History: The Russian Historical Novel in the Imperial Age'' (Univ of Wisconsin Press, 2007; {{ISBN|0299225003}}), p. 22.</ref></blockquote>
+
+In 1831 [[Frederick Chamier]] was engaged to edit the translated transcript of Zagoskin's novel ''Dmitrich Miloslawsky'' (actually his first novel - "Yuri Miloslavsky, or the Russians in 1612") to be issued in England as ''The Young Muscovite; or, The Poles in Russia'', apparently dating from 1824. The translation had been provided from Moscow by a Russian lady of rank and her two daughters. The books publication was ceaselessly reported as imminent for publication throughout 1831 and early 1834. It was intended to publish in three parts, however it would not appear on London bookshelves till March of 1834 and when it did, it was found, to have been extensively adapted to acclaim by Charmier.<ref name="TFJ 8 Apr 1831">{{cite news |title=Historical Novel - The Young Muscovite; or, The Poles in Russia |url=https://www.newspapers.com/clip/49927368/historical-novel-the-young/ |accessdate=30 April 2020 |publisher=The Freeman's Journal |date=8 April 1831 |location=Dublin |page=1 |format=Advertisement |quote=In the Press, and will be published in the course of the ensuing month}}</ref><ref name="TMP 10 Mar 1834">{{cite news |last1=<!--Staff writer(s); no by-line.--> |title=Literature - The Young Muscovite; or, The Poles in Russia |url=https://www.newspapers.com/clip/49926679/literature-the-young-muscovite-or/ |accessdate=30 April 2020 |publisher=The Morning Post |date=10 March 1834 |location=London |page=5 |quote=This interesting work is an adaption (we can scarcely call it a translation) from the popular Russian historical novel called ''Dmitrich Miloslawsky'', written about ten years ago since by M. Zakosken, and we are indebted for its appearance in the English language}}</ref>
+
+==English translations==
+*''The Young Muscovite; or, The Poles in Russia'', in three volumes, Cochrane and McCrone, London, 1834. [http://www.google.com/search?q=mikhail+zagoskin&sourceid=ie7&rls=com.microsoft:en-us:IE-SearchBox&ie=&oe=#hl=en&safe=off&sa=N&rls=com.microsoft:en-us:IE-SearchBox&tbs=bks:1&q=editions:DkcEAAAAYAAJ&fp=aa0092ba45e9cc83 from Google Books]
+*''Tales of Three Centuries'', Little, Brown, and Company, Boston, 1891. [https://archive.org/details/cu31924027514870 from Archive.org]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Commons category-inline|Mikhail Zagoskin}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zagoskin, Mikhail}}
+[[Category:1789 births]]
+[[Category:1852 deaths]]
+[[Category:Members of the Russian Academy]]
+[[Category:Honorary members of the Saint Petersburg Academy of Sciences]]
+[[Category:People from Mokshansky District]]
+[[Category:Russian historical novelists]]
+[[Category:Russian male novelists]]
+[[Category:19th-century Russian novelists]]
+[[Category:19th-century Russian male writers]]
+
+
+{{Russia-writer-stub}}

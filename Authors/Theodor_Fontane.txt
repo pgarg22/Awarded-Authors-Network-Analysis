@@ -1,0 +1,167 @@
+{{Short description|German journalist, novelist and poet}}
+{{Use dmy dates|date=September 2020}}
+{{Infobox writer
+| name         = Theodor Fontane
+| image        = Theodor Fontane.png
+| imagesize    = 
+| alt          =
+| caption      = Fontane (1883), painting by [[Carl Breitbach]]
+| pseudonym    =
+| birth_name    =
+| birth_date    = {{birth date|1819|12|30|df=y}}
+| birth_place   = [[Neuruppin]], [[Province of Brandenburg|Brandenburg]], [[Prussia]]
+| death_date    = {{death date and age|1898|09|20|1819|12|30|df=y}}
+| death_place   = [[Berlin]], [[German Empire]]
+| occupation   = Writer
+| nationality  = German 
+| ethnicity    =
+| citizenship  =
+| education    =
+| alma_mater   =
+| period       = 19th century
+| genre        = Novel
+| subject      =
+| movement     =
+| notableworks = ''[[Effi Briest]]'', ''[[On Tangled Paths]]'', ''[[Der Stechlin|The Stechlin]]'', ''[[Frau Jenny Treibel]]''
+| spouse       = Emilie Rouanet-Kummer (1824–1902; m. 1850, until his death)
+| partner      =
+| children     = 7 (four of them lived into adulthood)
+| relatives    =
+| influences   =
+| influenced   =
+| awards       =
+| signature    =
+| website      =
+| portaldisp   =
+}}
+
+'''Theodor Fontane''' ({{IPA-de|ˈtʰeːodoɐ̯ fɔnˈtaːnə|-|De-Theodor Fontane.ogg}}; 30 December 1819 – 20 September 1898) was a [[Germany|German]] [[novelist]] and [[poet]], regarded by many as the most important 19th-century [[German-language]] [[Literary realism|realist]] author. He published the first of his novels, for which he is best known today, only at age 58 after a career as a journalist.
+
+Fontane's novels are known for their complex, often sceptical view of society in the German empire; he shows different social and political parts of society meeting and sometimes clashing.<ref>[https://www.spiegel.de/spiegel/print/d-8806160.html Interview with Gordon Craig at Der Spiegel], 1997</ref> Other trademarks of Fontane's work are their strongly drawn female characters (such as ''[[Effi Briest]]'' and ''[[Frau Jenny Treibel]]''),<ref>[https://www.tagesspiegel.de/kultur/theodor-fontane-und-seine-zeit-modern-nicht-maerkisch/24139200.html Modern, nicht märkisch]; Tobias Schwartz, Tagesspiegel (2019)</ref> tender irony<ref>[https://books.google.de/books?id=uWV6ITm1UM4C&pg=PA198&lpg=PA198&dq=fontane+ironie&source=bl&ots=3PJRK5KWzx&sig=ACfU3U3e3tuibuP9I2V0hB2cgYQXc_eSeQ&hl=de&sa=X&ved=2ahUKEwjy0t6A5LzmAhV9UhUIHTIYATY4ChDoATAAegQICBAB#v=onepage&q=fontane%20ironie&f=false Theodor Fontane]</ref> and vivid conversations between characters.<ref>https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/4753/file/Sarah_Knippel_Der_Stechlin.pdf</ref>
+
+== Life ==
+===Youth===
+[[File:Georg Friedrich Kersting Fontane 23 Jahe.jpg|thumb|left|Fontane at age 23, drawing by Georg Friedrich Kersting]]
+Fontane was born in [[Neuruppin]], a town 30 miles northwest of Berlin, into a [[Huguenot]] family.<ref>Otto Drude: Theodor Fontane. Insel Verlag, Frankfurt, 1994. p. 11</ref> At the age of sixteen he was apprenticed to an [[apothecary]], his father's profession.<ref>Otto Drude: pp. 17–18</ref> He became an apothecary himself and in 1839, at the age of 20, wrote his first work (''Heinrichs IV. erste Liebe'', now lost). His further education was in [[Leipzig]], where he became acquainted with the progressives of the [[Vormärz]].
+
+Fontane's first published work, the novella ''Geschwisterliebe'' (Sibling Love), was published in the ''Berlin Figaro'' in December 1839. His biographer [[Gordon A. Craig]] claims that this gave few indications of being a gifted writer: "Although the theme of [[incest]], which was to occupy Fontane on later occasions, is touched upon here, the mawkishness of the tale... is equalled by the lameness of its plot and the inertness of the style in which it is told, and [the characters] Clärchen and her brother are both so colourless that no one could have guessed that their creator had a future as a writer."<ref>''Theodor Fontane: Literature and History in the Bismarck Reich'' (Oxford University Press, 1999), {{page}}</ref>
+
+Fontane's first job as apothecary was in [[Dresden]], after which he worked in his father's shop in the town of [[Letschin]] in the [[Oderbruch]] region. Fleeing its provincialism, Fontane published articles in the Leipzig newspaper ''[[Die Eisenbahn]]'' and translated [[Shakespeare]].<ref>Wolfgang Hädecke: Theodor Fontane - Biographie. Hanser Verlag, Munich, 1998. pp. 67–68</ref> In 1843 he joined a literary club in Berlin named [[Tunnel über der Spree]] (Tunnel over the River [[Spree]]) where he became acquainted with many of the most renowned German writers, including [[Theodor Storm]], [[Joseph von Eichendorff]] and [[Gottfried Keller]].
+
+===Newspaper writer and critic===
+In 1844 Fontane enlisted in the [[Kingdom of Prussia|Prussian]] army and began the first of numerous journeys to England, which fostered his interest in [[Old English poetry|Old English ballads]], which he – a lifelong anglophile – began to imitate.<ref>Wolfgang Hädecke: pp. 68–70.</ref> In 1845 became engaged to his future wife, Emilie Rouanet-Kummer, whom he had met when still at school.<ref>Wolfgang Hädecke: p. 107.</ref>
+
+Fontane played a brief part in the revolutionary events of [[revolution of 1848|1848]]. In 1849 he left his job as an apothecary and became a full-time journalist and writer. In order to provide for his family he accepted a job as a writer with the Prussian [[intelligence agency]] ''Zentralstelle für Presseangelegenheiten'', which was intended to influence the press towards the German nationalist cause. There he specialized in British affairs, and the agency made him for several years its correspondent in [[London]], where he was later joined by Emilie, whom he had married in 1850, and their first two sons.<ref name=EFlautAS>{{cite web|url=http://www.fembio.org/biographie.php/frau/biographie/emilie-fontane/|title=Emilie Fontane (geb. Rouanet-Kummer) .... Ehefrau von Theodor Fontane; Briefschreiberin|work=Biografie|author=Adelheid Steinfeldt (author-compiler)|publisher=Luise F. Pusch i.A. Institut für Frauen-Biographieforschung (fembio e.V.), Hannover|access-date=26 March 2019}}</ref> While still in London he left his government job and on his return to Berlin became editor of the conservative newspaper ''[[Neue Preussische Zeitung]]''. As a man of [[liberalism|liberal]] sympathies for free press and a united Germany Fontane ruefully wrote to a friend about his job with the ''Zeitung'': "I sold myself to the reaction for thirty pieces of silver a month... These days one cannot survive as an honest man."<ref>{{cite book |last1=Craig |first1=Gordon Alexander |title=Theodor Fontane: Literature and History in the Bismarck Reich |date=1999 |publisher=Oxford University Press |pages=15–16}}</ref>
+
+===London===
+[[File:Fontane1860.jpg|thumb|right|Theodor Fontane (ca. 1860)]]
+Fontane's travel books about Britain include ''Ein Sommer in London'' (A Summer in London, 1854), ''Aus England, Studien und Briefe'' (From England: Studies and Letters, 1860) and ''Jenseit des Tweed, Bilder und Briefe aus Schottland'' (Beyond the Tweed, Pictures and Letters from Scotland, 1860). In the books Fontane reflects both nature and the mood in Britain at that time.<ref>Wolfgang Hädecke: pp. 160–161.</ref> The success of the historical novels of [[Walter Scott]] had helped to make British themes much in vogue on the Continent. Fontane's ''Gedichte'' (Poems, 1851) and ballads ''Männer und Helden'' (Men and Heroes, 1860) tell of Britain's former glories.
+Back in Germany Fontane became particularly interested in his home province, the [[Margraviate of Brandenburg|March of Brandenburg]]. He enjoyed rambling through its rural landscapes and small towns and delighted in the growth of its capital city, Berlin. His fascination with the countryside surrounding Berlin may be seen in his picturesque ''[[Wanderungen durch die Mark Brandenburg]]'' (Walks through the Province of Brandenburg, 1862–82, 5 vols), in which he extended his earlier fascination with British history to his native land.
+
+===Wars of German Unification===
+In 1870, Fontane quit his job at the ''Kreuzzeitung'' and became [[Theatre|drama critic]] for the liberal ''[[Vossische Zeitung]]'', a job he held until his retirement. He had already written about [[Second war of Schleswig|Prussia's war against Denmark]] in ''Der schleswig-holsteinische Krieg im Jahre 1864'' (1866) and the [[Austro-Prussian War]] in ''Der deutsche Krieg von 1866'' (1869). He went to the front to observe the [[Franco-Prussian War]] in 1870 and after being taken prisoner at [[Vaucouleurs]] remained in French captivity for three months.<ref>[https://www.spiegel.de/spiegel/print/d-8806160.html Interview with Gordon Craig at Der Spiegel], 1997</ref> He memorialized his experiences in ''Kriegsgefangen Erlebtes 1870'' (Experiences as a Prisoner of War, 1871) and published his observations concerning the campaign in the book ''Der Krieg gegen Frankreich 1870–71'' (The War against France, 1870–71, published 1874–76). In his observations he strongly criticized Prussian militarism: "A mere glorification of the military without moral content or elevated aim is nauseating."<ref>{{cite book |last1=Craig |first1=Gordon A. |title=Theodor Fontane: Literature and History in the Bismarck Reich |date=1999 |publisher=Oxford University Press |page=92}}</ref>
+
+===Later years===
+[[File:Theodor Fontane by E. Bieber, 1894.png|thumb|Theodor Fontane in 1894]]
+At the age of 57, Fontane finally began work on his novels, for which he is remembered best today.<ref>Wolfgang Hädecke: page 275.</ref> Fontane's lifelong wish to be able to live from his literary works was finally fulfilled.<ref>[https://www.spiegel.de/spiegel/print/d-8806160.html Interview with Gordon Craig at Der Spiegel], 1997</ref> A fine [[historical novel|historical romance]], ''Vor dem Sturm'' (''Before the Storm'', 1878), was followed by a series exploring modern life, notably ''L'Adultera'' (''Woman Taken in Adultery'', 1882), which was the first of his society novels and deemed risky for its theme of adultery.<ref>Otto Drude: p. 176</ref>
+
+His novels ''Irrungen, Wirrungen'' (''Trials and Tribulations'', 1888), ''[[Frau Jenny Treibel]]'' (1892) and ''[[Effi Briest]]'' (1894–95) yielded insights into the lives of the [[nobility]] and middle-class citizens. His achievement in this regard was later described as poetic realism. In ''[[Der Stechlin]]'' (written 1895–97), his last completed novel, Fontane adapted the realistic methods and social criticism of contemporary French fiction to the conditions of Prussian life.
+
+===Death===
+Fontane was plagued by health problems during his last years but continued to work until a few hours before his death. He died in the evening of 20 September 1898 in Berlin.<ref>Otto Drude: p. 176</ref> As a member of the French Protestant Church of Berlin he was buried in the congregation's cemetery on the Liesenstraße. His wife, Emilie, was buried beside him four years later. Their graves were damaged during World War II but later restored.
+
+==Prose works==
+[[File:Fontanegrab.JPG|thumb|250px|Graves of Theodor and Emilie Fontane in the Französische Friedhof, Liesenstraße, Berlin.]]
+[[File:Printing4 Walk of Ideas Berlin.JPG|thumb|"Modern Book Printing" from the [[Walk of Ideas]] in Berlin, Germany – built during 2006 to commemorate [[Johannes Gutenberg]]'s invention, c. 1445, of movable printing type. With Fontane's name among other famous German writers.]]
+*''[[Geschwisterliebe (novella)|Geschwisterliebe]]'', 1839
+*''[[Zwei Post-Stationen]]'', 1845
+*''[[James Monmouth (novel)|James Monmouth]]'', 1854
+*''[[Tuch und Locke]]'', 1854
+*''[[Goldene Hochzeit]]'', 1854
+*''[[Ein Sommer in London]]'', 1854
+*''Aus England. Studien und Briefe über Londoner Theater, Kunst und Presse'', 1860
+*''Jenseit des Tweed. Bilder und Briefe aus Schottland'', 1861
+*''[[Wanderungen durch die Mark Brandenburg]]'', 1862&ndash;89
+*''Der Schleswig-Holtsteinsche Krieg im Jahre 1864'', 1866
+*''Kriegsgefangen. Erlebnis'', 1870
+*''Der deutsche Krieg von 1866'', 1870–71
+*''[[Vor dem Sturm]]'', 1878 (translated as ''Before the Storm'')
+*''[[Grete Minde (novel)|Grete Minde]]'', 1880
+*''[[Ellernklipp]]'', 1881
+*''[[L'Adultera]]'', 1882 (translated as ''Woman Taken in Adultery'')
+*''[[Schach von Wuthenow]]'', 1882 (translated as ''A Man of Honor'') 
+*''[[Graf Petöfy]]'', 1884
+*''[[Unterm Birnbaum]]'', 1885 (translated as ''Under the Pear Tree'')
+*''Cécile (novel)'', 1887
+*''[[On Tangled Paths|Irrungen, Wirrungen]]. Berliner Roman'' 1888 (translated as ''On Tangled Paths'', 2010, ''A Suitable Match'', 1968, and ''Trials and Tribulations'', 1917)
+*''Fünf Schlösser. Altes und Neues aus Mark Brandenburg'', 1889
+*''[[Stine (novel)|Stine]]'', 1890
+*''[[Quitt]]'', 1891 
+*''[[Unwiederbringlich]]'', 1891 (translated as ''[[Irretrievable]]'', ''Beyond Recall'' and ''No Way Back'') 
+*''[[Frau Jenny Treibel]]'', 1892 (translated as ''Jenny Treibel'')
+*''[[Meine Kinderjahre]]'', 1894
+*''[[Effi Briest]]'', 1894–95 (serialized in ''[[Deutsche Rundschau]]''); 1895 (in book form)
+*''[[Die Poggenpuhls]]'', 1896 (translated as ''The Poggenpuhl Family'')
+*''[[Der Stechlin]]'', 1898 (translated as ''The Stechlin'')
+*''[[Mathilde Möhring]]'', 1906.
+
+==Poems==
+*''Balladen'', 1861
+*''[[Archibald Douglas (poem)|Archibald Douglas]]''
+*''Die Brück' am Tay'' ([http://www.bartleby.com/177/96.html English translation], [[wikisource:de:Die Brück' am Tay|Wikisource (German)]])
+*''John Maynard''
+*''[[Herr Ribbeck|Herr von Ribbeck auf Ribbeck im Havelland]]'' (translated as ''Nick Ribbeck at Ribbeck in Havelland'')
+*''Aber es bleibt auf dem alten Fleck''
+*''Ausgang''
+*''Gorm Grymme''
+*''Das Trauerspiel von Afghanistan'' ([http://berlinbooks.org/brb/2010/01/the-tragedy-of-afghanistan English translation])
+*''Wo Bismarck Liegen Soll''
+*''Kaiser Friedrich III.''
+*''Jung-Bismarck''
+*''Jakobitenlieder''
+*''Märkische Reime''
+
+==See also==
+*[[Statue of Theodor Fontane]], Tiergarten, Berlin
+
+==Notes==
+{{Reflist|30em}}
+
+==Sources==
+*[[Gordon A. Craig|Craig, Gordon]], ''Theodor Fontane: Literature and History in the Bismarck Reich'', New York: Oxford University Press, 1999 {{ISBN|0-19-512837-0}}.
+*Thomas Mann, "The Old Fontane," in: ''Essays of Three Decades'' (Knopf, 1947), 1910 essay.
+*Daniel Mendelsohn, [https://www.newyorker.com/magazine/2011/03/07/heroine-addict "Heroine Addict: What Theodor Fontane's Women Want"], in: ''[[The New Yorker]]'', 7 March 2011.
+
+==External links==
+{{Wikisourcelang|de|Theodor Fontane|Theodor Fontane}}
+{{commons|Theodor Fontane}}
+*{{Gutenberg author |id=Fontane,+Theodor | name=Theodor Fontane}}
+*{{Internet Archive author |sname=Theodor Fontane}}
+*{{Librivox author |id=446}}
+*[http://www.bartleby.com/315/4/ ''Trials and Tribulations''], by Fontane (English)
+*[https://cdr.lib.unc.edu/record/uuid:35b0478d-2444-42fe-8555-873b0b40a90a/ Schach von Wuthenow], by Fontane (English)
+*{{Cite EB1911|wstitle=Fontane, Theodor |short=x}}
+{{Zeno-Autor|Literatur/M/Fontane,+Theodor}}
+
+{{German literature}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fontane, Theodor}}
+[[Category:1819 births]]
+[[Category:1898 deaths]]
+[[Category:People from Neuruppin]]
+[[Category:People from the Province of Brandenburg]]
+[[Category:19th-century German historians]]
+[[Category:19th-century German novelists]]
+[[Category:Writers from Brandenburg]]
+[[Category:German pharmacists]]
+[[Category:Realism (art movement)]]
+[[Category:German people of the Franco-Prussian War]]
+[[Category:German people of French descent]]
+[[Category:German male novelists]]
+[[Category:German-language poets]]
+[[Category:German male poets]]
+[[Category:19th-century German poets]]
+[[Category:19th-century German male writers]]
+[[Category:German male non-fiction writers]]

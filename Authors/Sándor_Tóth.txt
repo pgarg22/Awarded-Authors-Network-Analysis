@@ -1,0 +1,56 @@
+{{Infobox officeholder 
+| name =Sándor Tóth
+| image          =TothSandorFotoThalerTamas.JPG
+| imagesize=
+| order          =[[National Assembly of Hungary|Member of the National Assembly]]
+| term_start     =2 May 1990
+| term_end       =27 June 1994
+| president      =
+| predecessor    =
+| successor      =
+| birth_date     ={{birth date|1939|08|18|df=yes}}
+| birth_place    =[[Szolnok]], [[Kingdom of Hungary (1920–46)|Hungary]]
+| death_date     ={{death date and age|2019|09|11|1939|08|18|df=yes}}
+| death_place    =[[Budapest]], [[Hungary]]
+| profession     =poet, journalist, politician
+| party          =[[Christian Democratic People's Party (Hungary)|KDNP]]
+| otherparty     =
+|}}
+{{eastern name order|Tóth Sándor}}
+'''Sándor Tóth''' (18 August 1939 – 11 September 2019)<ref>{{cite web |url=https://www.magyarkurir.hu/hirek/elhunyt-toth-sandor-iro-kolto-ujsagiro |title=Elhunyt Tóth Sándor író, költő, újságíró |accessdate=2019-09-13 |date=2019-09-11 |publisher=Magyar Kurír |language=Hungarian}}</ref> was a Hungarian poet and journalist, who edited ''Vigilia'' and Magyar Katolikus Rádió. He was a member of the [[Christian Democratic People's Party (Hungary)|Christian Democratic People's Party]] (KDNP). He was a [[National Assembly of Hungary|Member of Parliament]] (MP) for [[Pásztó]] ([[Nógrád County]] Constituency II) between 1990 and 1994. In this capacity he worked in the Committee on Culture, Science, Higher Education, Television, Radio and the Press. He also served as one of the recorders of the National Assembly.<ref name="Register">{{cite web|url=https://www.parlament.hu/web/guest/kepviselok-elozo-ciklusbeli-adatai?p_p_id=hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_auth=GV5r1cmh&_hu_parlament_cms_pair_portlet_PairProxy_INSTANCE_9xd2Wc9jP4z8_pairAction=%2Finternet%2Fcplsql%2Fogy_kpv.kepv_adat%3Fp_azon%3Dt110%26p_ckl%3D34%26p_osszefuz%3D |title=''Register'' |publisher=[[National Assembly of Hungary|Országgyűlés]]}}</ref>
+
+For his literal works, he was awarded the [[Attila József Prize]] in 1995. He lectured at the Vitéz János Faculty of Teaching of the [[Pázmány Péter Catholic University]].
+
+==Works==
+* ''Belül ragyoghatsz'' (poems, 1992)
+* ''Kövek és pillangók'' (poems, 1994)
+* ''Arckép és vallomás'' (prose and lyrical selection, 1994)
+* ''A keresztnevek eredete'' (1998)
+* ''Kupola-jegyzetek'' (1998)
+* ''Adagio'' (poems, 1999)
+* ''Isten ritmusa'' (essays, 2001)
+* ''Csillagárnyék'' (poems, 2008)
+* ''Följegyzések a hegyen'' (publications, articles, 2014)
+* ''Táj és lélek. Barangolások könyve. A Magyar Katolikus Rádió hangfelvételei alapján, 2004-2015''; Üveghegy, Százhalombatta, 2015 + DVD
+* ''Fény- és lombhullámok. Kisprózák, arcok, művek''; Szt. István Társulat, Bp., 2016
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Toth, Sandor}}
+[[Category:1939 births]]
+[[Category:2019 deaths]]
+[[Category:Hungarian male poets]]
+[[Category:Hungarian journalists]]
+[[Category:Christian Democratic People's Party (Hungary) politicians]]
+[[Category:Members of the National Assembly of Hungary (1990–1994)]]
+[[Category:Pázmány Péter Catholic University faculty]]
+[[Category:People from Szolnok]]
+[[Category:21st-century Hungarian poets]]
+[[Category:20th-century Hungarian poets]]
+[[Category:20th-century journalists]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Male journalists]]
+[[Category:Attila József Prize recipients]]

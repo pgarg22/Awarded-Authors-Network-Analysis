@@ -1,0 +1,68 @@
+{{Use dmy dates|date=August 2013}}
+{{Infobox writer
+|name         = Leslie Barringer
+|image        = 
+|imagesize    = 200px
+|caption      =
+|pseudonym    =
+|birth_date   = {{birth year|1895}}
+|birth_place  = [[Yorkshire]], England, UK
+|death_date   = {{death year and age|1968|1895}}
+|death_place  = [[Ilkley]], Yorkshire, England
+|occupation   = Editor, novelist
+|genre        = Fantasy, [[historical fiction]]
+|movement     =
+|notableworks = ''[[Gerfalcon (novel)|Gerfalcon]]''
+|website      =
+}}
+'''Leslie Barringer''' (1895–1968) was an English editor and author of [[historical novel]]s and [[historical fantasy]] novels, best known for the latter.
+
+==Life==
+Barringer was a [[Religious Society of Friends|Quaker]], born in Yorkshire, England. He served in an ambulance unit during [[World War I]], was wounded in action in France and returned to the UK in 1917. After the war he worked at various times as a civil servant (Senior Information Officer with the [[Central Office of Information]]) and as an editor for Scottish publishers [[Thomas Nelson (publisher)|Thomas Nelson & Sons]], for the [[BBC]] as an editor on the [[Radio Times]], and in [[Amalgamated Press]] as an editor in their encyclopedia department. At Amalgamated Press he provided outlines of world history for their famous [[The Children's Encyclopædia|Children's Encyclopedia]]. Barringer and his wife had four daughters.<ref>[https://books.google.com/books?id=32BTOjrnmhgC&pg=PA84&lpg=PA84&dq=Joris+Barringer&source=bl&ots=LP2Uxjnh4u&sig=D4sq32_AdV4P3IyydCvnFkOgxq0&hl=en&ei=ebETS6jUIIHm7AP35ejYBQ&sa=X&oi=book_result&ct=result&resnum=10&ved=0CB4Q6AEwCQ#v=onepage&q=Joris%20Barringer&f=false Reginald, Robert. Xenograffiti: essays on fantastic literature. (2005 second edition), Merovingian Dreams: The Neustrian Fantasies of Leslie Barringer (1983) I. O. Evans Studies in the Philosophy and Criticism of Literature, number 33 Borgo Press ISSN 0271-9061]</ref>
+
+==Works==
+Most of Barringer's written works were originally published in the 1920s and 1930s, and included the three volumes of the Neustrian Cycle and three independent historical novels set in medieval England.
+
+===The Neustrian Cycle===
+Barringer's main body of work, the Neustrian Cycle, is a trilogy beginning with ''[[Gerfalcon (novel)|Gerfalcon]]''; these novels were set around the fourteenth century in an alternate [[Middle Ages|medieval]] France called [[Neustria]] (historically an early division of the [[Franks|Frankish kingdom]]). According to [[John Clute]], "The basic premise, vaguely presented, is that the Merovingian Dynasty does not split apart ''c''AD750; instead, Neustria survives, and at the time of the three tales (''c''1400) is still thriving." He notes further that "The sequence's alternative-world displacement serves not as an opening for magic but as a freeing of LB's imagination; the Neustria Cycle is far more intense and eloquent than his more-straightforward historical novels."<ref>Clute, John. "Barringer, Leslie." in Clute, John and Grant, John. ''The Encyclopedia of Fantasy''. London, Orbit, 1997, page 11.</ref> The three books revolve around the character of Raoul of Ger, the protagonist of the first book and a secondary character in the later two, ''[[Joris of the Rock]]'' and ''[[Shy Leopardess]]''. Each is a coming of age story.
+
+==Posthumous revival==
+Barringer was obscure as an author during his own lifetime; after his death, however, his fantasies were rediscovered and critically praised by later fantasy authors such as [[L. Sprague de Camp]] and [[Lin Carter]], leading to revived interest in them. As a result, a number of reprints appeared in the 1970s and 1980s, most notably as volumes 7, 9 and 13 of the ''[[Newcastle Forgotten Fantasy Library]]'' in 1976–77. To date there has been no comparable revival of Barringer's other works.
+
+All of Barringer's books are now out of print, although the volumes of the Neustrian Cycle are available as [[e-book]]s. Copies of all of his works are held in the [[British Library]] in London.
+
+== Selected works ==
+
+===Neustrian cycle===
+*''[[Gerfalcon (novel)|Gerfalcon]]'' (Heinemann 1927, 310 p)
+*''[[Joris of the Rock]]'' (Heinemann 1928, 325 p)
+*''[[Shy Leopardess]]'' (Methuen 1948, 392 p)
+
+===Historical novels===
+*''[[Kay the Left-Handed]]'' (Heinemann 1935, 284 p)
+*''[[Know Ye Not Agincourt?]]'' (Nelson 1936, 207 p)
+*''[[The Rose in Splendour: a Story of the Wars of Lancaster and York]]'' (Phoenix House 1953, 160 p)
+
+== References ==
+{{reflist |25em}}
+
+== External links ==
+* {{isfdb_name|id=Leslie_Barringer|name=Leslie Barringer}}
+* Reginald, Robert. ''Xenograffiti: essays on fantastic literature''. (2005 second edition), I. O. Evans Studies in the Philosophy and Criticism of Literature, number 33 Borgo Press ISSN 0271-9061 [https://books.google.com/books?id=32BTOjrnmhgC&pg=PA84&lpg=PA84&dq=Joris+Barringer&source=bl&ots=LP2Uxjnh4u&sig=D4sq32_AdV4P3IyydCvnFkOgxq0&hl=en&ei=ebETS6jUIIHm7AP35ejYBQ&sa=X&oi=book_result&ct=result&resnum=10&ved=0CB4Q6AEwCQ#v=onepage&q=Joris%20Barringer&f=false]
+* [[L. Sprague de Camp|De Camp, L. Sprague]]. ''[[Literary Swordsmen and Sorcerers|Literary Swordsmen and Sorcerers: the Makers of Heroic Fantasy]]''. Arkham House, 1976. [https://books.google.com/books?id=rK21AAAAIAAJ&q=Joris+Barringer&dq=Joris+Barringer&source=gbs_book_other_versions_r&cad=9]
+* [[Lin Carter|Carter, Lin]]. ''[[Imaginary Worlds – the Art of Fantasy|Imaginary Worlds: the Art of Fantasy]]''. Ballantine Books, 1973.
+* {{LCAuth|n80094550|Leslie Barringer|14|ue}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Barringer, Leslie}}
+[[Category:1895 births]]
+[[Category:1968 deaths]]
+[[Category:English fantasy writers]]
+[[Category:20th-century English novelists]]
+[[Category:English historical novelists]]
+[[Category:English male novelists]]
+[[Category:English Quakers]]
+[[Category:Writers from Yorkshire]]
+[[Category:20th-century English male writers]]
+[[Category:British Army personnel of World War I]]

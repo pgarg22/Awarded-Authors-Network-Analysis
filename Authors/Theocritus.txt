@@ -1,0 +1,148 @@
+{{Short description|3rd-century BC Ancient Greek poet}}
+{{more footnotes|date=February 2012}}
+{{Infobox writer
+| name        = Theocritus
+| image       = Theocritus-greek-poet-born-in-syracuse.jpg
+| imagesize   = 
+| caption     = Theocritus
+| birth_date   = c. 300 BC
+| birth_place  = [[Syracuse, Sicily|Syracuse]]?
+| death_date   = After 260 BC
+| death_place  =
+| occupation  = [[Poet]]
+| nationality = [[Greece|Greek]]
+| genre       = [[Pastoral poetry]], [[Epic poetry]]
+}}
+
+'''Theocritus''' ({{IPAc-en|θ|iː|ˈ|ɒ|k|r|ɪ|t|ə|s}}; {{lang-grc-gre|Θεόκριτος}}, ''Theokritos''; born c. 300 BC, died after 260 BC) was a [[Greeks|Greek]] poet from [[Sicily]] and the creator of [[Ancient Greek]] [[pastoral poetry]].<ref>''[[Encyclopædia Britannica]]'', [https://www.britannica.com/biography/Theocritus s.v. Theocritus].</ref>
+
+==Life==
+Little is known of Theocritus beyond what can be inferred from his writings. We must, however, handle these with some caution, since some of the poems (''[[Idyll]]s''; {{lang|grc|Εἰδύλλια}}) commonly attributed to him have little claim to authenticity. It is clear that at a very early date two collections were made: one consisting of poems whose authorship was doubtful yet formed a corpus of bucolic poetry, the other a strict collection of those works considered to have been composed by Theocritus himself.{{sfn|Clark|1911|p=760}}
+
+Theocritus was from [[Sicily]], as he refers to [[Polyphemus]], the Cyclops in the ''[[Odyssey]]'', as his "countryman." He also probably lived in [[Alexandria]] for a while, where he wrote about everyday life, notably ''[[Pharmakeutria]]''. It is also speculated that Theocritus was born in [[Syracuse, Sicily|Syracuse]], lived on the island of [[Kos]], and lived in Egypt during the time of [[Ptolemy II]].
+
+The record of these [[recension]]s is preserved by two epigrams, one of which proceeds from [[Artemidorus of Tarsus]], a grammarian, who lived in the time of [[Sulla]] and is said to have been the first editor of these poems. He says, "The Muses of country song were once scattered, but now they are all together in one pen, in one flock."<ref>''AP'' 9.205, translated by N. Hopkinson (2015), p.8.</ref> The second epigram is anonymous, and runs as follows: "The Chian is another man, but I, Theocritus, who wrote these poems, am one of the great populace of Syracuse, the son of Praxagoras and renowned Philinna; and the Muse I have adopted is no alien."<ref>''AP'' 9.434, translated by N. Hopkinson (2015), p.7.</ref> The last line may mean that he wrote nothing but bucolic poems, or that he only wrote in [[Doric Greek|Doric]]. The assertion that he was from Syracuse appears to be upheld by allusions in the ''Idylls'' (7.7, 28.16&ndash;18).{{sfn|Clark|1911|pp=760–761}}
+
+The information concerning his parentage bears the stamp of authenticity, and disposes of a rival theory based upon a misinterpretation of ''Idyll'' 7—which made him the son of one Simichus. A larger collection, possibly more extensive than that of Artemidorus, and including poems of doubtful authenticity, was known to the author of the ''[[Suda]]'', who says: "Theocritus wrote the so-called bucolic poems in the Doric dialect. Some persons also attribute to him the following: Daughters of Proetus, Hopes, Hymns, Heroines, Dirges, Lyrics, Elegies, Iambics, Epigrams."{{sfn|Clark|1911|p=761}}
+
+The first of these may have been known to [[Virgil]], who refers to the Proetides at ''[[Eclogues|Eclogue]]'' 6.48. The spurious poem 21 may have been one of the ''Hopes'', and poem 26 may have been one of the ''Heroines''; elegiacs are found in 8.33&mdash;60, and the spurious epitaph on [[Bion of Smyrna|Bion]] may have been one of the ''Dirges''. The other classes are all represented in the larger collection which has come down to us.{{sfn|Clark|1911|p=761}}
+
+==Works==
+[[File:Theocritus-Syracusanus-et-al-Lodewijk-Caspar-Valckenaer MG 0683.tif|thumb|[[Barent de Bakker]]: Illustration of Theocritus ''Idyll 1 Θύρσις ἢ ᾠδή'', lines 12-14 (1779)]]
+
+===Bucolics and mimes===
+
+The distinction between these is that the scenes of the former are laid in the country and those of the latter in a town. The most famous of the Bucolics are 1, [[Idyll VI (Theocritus)|6]], 7 and [[Idyll XI|11]].{{sfn|Clark|1911|p=761}}
+
+In "Idyll 1" Thyrsis sings to a goatherd about how [[Daphnis]], the mythical herdsman, having defied the power of [[Aphrodite]], dies rather than yielding to a passion the goddess has inflicted on him. In the poem, a series of divine figures from classical mythology, including [[Hermes]], [[Priapus]], and Aphrodite herself, interrogate the shepherd about his lovesickness. As Daphnis lies dying, Priapus asks: "Wretched Daphnis, why pinest thou?"; Hermes inquires: "Daphnis, who wastes thee away?" Alongside these mythological figures appear shepherds and goatherds, who likewise wonder "what harm had befallen" Daphnis. Finally, Aphrodite, the goddess of love, appears to taunt Daphnis for his hubris: "Thou indeed, Daphnis, didst boast that thou wouldst bend Love! Hast not thou, in thine own person, been bent by grievous love?" The failure of these figures to comfort Daphnis in his dying moments thematizes classical beliefs about the folly of mortals who challenge the gods.<ref>Theocritus. "Idyll I." ''The Idylls of Theocritus, Bion, and Moschus, and the War-songs of Tyrtæus''. Trans. J. Banks. London: Bell and Daldy, 1870. 1-9. Print.</ref>
+
+In "Idyll 11" [[Polyphemus]] is depicted as in love with the sea-nymph [[Galatea (mythology)|Galatea]] and finding solace in song. In "Idyll 6," he is cured of his passion and naively relates how he repulses the overtures now made to him by Galatea. The monster of Homer's ''[[Odyssey]]'' has been "written up to date" after the Alexandrian manner and has become a gentle simpleton.{{sfn|Clark|1911|p=761}}
+
+"Idyll 7," the ''Harvest Feast'', is the most important of the bucolic poems. The scene is laid in the isle of [[Kos]]. The poet speaks in the first person and is called Simichidas by his friends. Other poets are introduced under feigned names. Ancient critics identified the character Sicelidas of Samos with [[Asclepiades of Samos]],<ref>[[Scholia]] on Idyll 7.40 - [http://www.attalus.org/poetry/lives.html#theocritus7.40 English translation].</ref> and the character Lycidas, "the goatherd of Cydonia," with the poet Astacides, whom [[Callimachus]] calls "the Cretan, the goatherd."<ref>''AP'' 7.518''</ref> Theocritus speaks of himself as having already gained fame, and says that his songs have been brought by report even unto the throne of [[Zeus]]. He praises [[Philitas]], the veteran poet of Kos, and criticizes "the fledgelings of the [[Muse]], who cackle against the Chian bard and find their labour lost." Other persons mentioned are Nicias, a physician of Miletus, whose name occurs in other poems, and [[Aratus]], whom the scholiasts identify with the author of the ''Phenomena''.{{sfn|Clark|1911|p=761}}
+
+Several of the other bucolic poems consist of singing-matches, conducted according to the rules of [[Amoebaean singing|amoebaean poetry]], in which the second singer takes the subject chosen by the first and contributes a variation on the same theme. It may be noted that Theocritus' rustic characters differ greatly in refinement. Those in "Idyll 5" are low fellows who indulge in coarse abuse. Idylls 4 and 5 are laid in the neighborhood of Croton, and we may infer that Theocritus was personally acquainted with [[Magna Graecia]].{{sfn|Clark|1911|p=761}}
+
+Suspicion has been cast upon idylls 8 and 9 on various grounds. An extreme view holds that within "Idyll 9" there exist two genuine Theocritean fragments, ll.7-13 and 15-20, describing the joys of summer and winter respectively, which have been provided with a clumsy preface, ll.1-6, while an early editor of a bucolic collection has appended an epilogue in which he takes leave of the Bucolic Muses. On the other hand, it is clear that both poems were in Virgil's Theocritus, and that they passed the scrutiny of the editor who formed the short collection of Theocritean Bucolics.{{sfn|Clark|1911|p=761}}
+
+The mimes are three in number: 2, 14, and 15. In 2 Simaetha, deserted by Delphis, tells the story of her love to the moon; in 14 Aeschines narrates his quarrel with his sweetheart, and is advised to go to Egypt and enlist in the army of [[Ptolemy Philadelphus]]; in 15 Gorgo and Praxinoë go to the festival of [[Adonis]]. In the best manuscript 2 comes immediately before 14, an arrangement which is obviously right, since it places the three mimes together. The second place in the manuscripts is occupied by Idyll 7, the "Harvest Feast." Chisholm praises the mimes, saying "These three mimes are wonderfully natural and lifelike. There is nothing in ancient literature so vivid and real as the chatter of Gorgo and Praxinoë, and the {{lang|la|voces populi}} in 15".{{sfn|Clark|1911|p=761}}
+
+In addition to the Bucolics and Mimes, there are three poems which cannot be brought into any other class:
+* 12, a poem to a beautiful youth
+* 18, the marriage-song of Helen;
+* 26, the murder of Pentheus.
+The genuineness of the last was attacked by [[Ulrich von Wilamowitz-Moellendorff]] on account of the crudity of the language, which sometimes degenerates into doggerel. However, Chisholm considered it genuine, arguing that Theocritus had intentionally used realistic language for the sake of dramatic effect and that the manuscript evidence supported its genuineness. [[Eustathius of Thessalonica|Eustathius]] quotes from it as the work of Theocritus.{{sfn|Clark|1911|p=761}}
+
+===Epics===
+[[File:Papyrus Oxyrhynchus 694 - Princeton University Library, AM 4424 - Theocritus, Idyll XIII (Hylas and the Nymphs).jpg|thumb|right|upright=0.75|Theocritus's ''Idyll'' 13, ''[[Hylas|Hylas and the Nymphs]]''. [[Oxyrhynchus Papyri|P. Oxy.]] 694, 2nd century AD]]
+Three of these are Hymns: 16, 17, and 22. In 16, the poet praises [[Hiero II of Syracuse]], in 17 [[Ptolemy Philadelphus]], and in 22 the [[Dioscuri]]. The other poems are 13, the story of ''Hylas and the Nymphs'', and 24 the youthful [[Heracles]]. In 13 he makes use of word-painting; in 16 there is some delicate fancy in the description of his poems as ''[[Charites]]'', and a passage at the end, where he foretells the joys of peace after the enemy have been driven out of [[Sicily]], has the true bucolic ring. The most that can be said of 22 and 24 is that they are very dramatic. Otherwise they differ little from work done by other poets, such as [[Callimachus]] and [[Apollonius Rhodius]].{{sfn|Clark|1911|p=761}}
+
+From another point of view, however, these two poems 16 and 17 are supremely interesting, since they are the only ones which can be dated. In 17 Theocritus celebrates the [[incest]]uous marriage of Ptolemy Philadelphus with his sister [[Arsinoe II of Egypt|Arsinoë]]. This marriage is held to have taken place in 277 BC, and a recently discovered inscription shows that Arsinoë died in 270, in the fifteenth year of her brother's reign. This poem, therefore, together with xv, which Theocritus wrote to please Arsinoë must fall within this period. The encomium upon Hiero II would seem prior to that upon Ptolemy, since in it Theocritus is a hungry poet seeking for a patron, while in the other he is well satisfied with the world. Now Hiero first came to the front in 275 when he was made General: Theocritus speaks of his achievements as still to come, and the silence of the poet would show that Hiero's marriage to Phulistis, his victory over the Mamertines at the Longanus and his election as "King", events which are ascribed to 270, had not yet taken place. If so, 17 and 15 can only have been written within 275 and 270.{{sfn|Clark|1911|p=761}}
+
+===Lyrics===
+
+Two of these are certainly by Theocritus, 28 and 29, composed in [[Aeolic verse]] and in the [[Aeolic dialect]]. The first is a very graceful poem presented together with a distaff to Theugenis, wife of Nicias, a doctor of Miletus, on the occasion of a voyage thither undertaken by the poet. The theme of 29 is similar to that of 12. A very corrupt poem, only found in one very late manuscript, was discovered by Ziegler in 1864. As the subject and style very closely resemble that of 29, it is assigned to Theocritus by recent editors.{{sfn|Clark|1911|p=761}}
+
+===Spurious works===
+
+The following poems are now generally considered to be spurious:
+
+19. ''Love stealing Honey''. The poem is anonymous in the manuscripts and the conception of Love is not Theocritean.{{sfn|Clark|1911|p=761}}}}
+
+20. ''Herdsman'', 21. ''Fishermen'', 23. ''Passionate Lover''. These three poems are remarkable for the corrupt state of their text, which makes it likely that they have come from the same source and possibly are by the same author. The ''Fishermen'' has been much admired. It is addressed to Diophantus and conveys a moral, that one should work and not dream, illustrated by the story of an old fisherman who dreams that he has caught a fish of gold and narrates his vision to his mate. As [[Leonidas of Tarentum]] wrote epigrams on fishermen, and one of them is a dedication of his tackle to [[Poseidon]] by Diophantus, the fisher, it is likely that the author of this poem was an imitator of Leonidas. It can hardly be by Leonidas himself, who was a contemporary of Theocritus, as it bears marks of lateness.{{sfn|Clark|1911|p=761}}
+
+25. ''Heracles the Lion-slayer'', which is anonymous in the manuscript and appears to be by a later writer.{{sfn|Clark|1911|pp=761–762}}
+
+24 [[epigram]]s are also attributed to Theocritus, many of them considered to be of doubtful authenticity.
+
+==Editions==
+* [https://books.google.com/books?id=3okOAAAAQAAJ Theocritus, [[Bion of Smyrna|Bion]] and [[Moschus]]: Rendered into English Prose with an Introductory Essay by [[Andrew Lang]], (1880), London.]
+* Theocritus Bion and Moschus (1913) Translated into English Verse by Arthur S. Way. Cambridge University Press.
+* Theocritus, ''The Idylls of Theocritus'', translated by [[R.C. Trevelyan]] (1925 Albert & Charles Boni, New York)
+* Theocritus, ''Theocritus. The Greek text with translation and commentary by [[A.S.F. Gow]]'' (2nd ed. 1952, Cambridge)
+* ''Theocritus: Select Poems'', (1971) commentary by [[K.J. Dover]], London.
+* ''Theocritus: Idylls and Epigrams'', (1982) translated by [[Daryl Hine]], Atheneum, New York.
+* ''Theocritus - A Selection'', (1999) commentary by [[Richard L. Hunter|Richard Hunter]], Cambridge.
+* Theocritus, ''The Idylls of Theocritus'', tr. Robert Wells (1988)
+* ''Theocritus: Idylls'', (2003) translated by [[Anthony Verity]] with an introduction and notes by [[Richard L. Hunter|Richard Hunter]], Oxford University Press.
+* ''Theocritus, Moschus, Bion'', edited and translated by [[Neil Hopkinson]], Cambridge MA - London (2015).
+
+==References==
+{{More footnotes|date=November 2020}}
+{{Reflist}}
+
+==Bibliography==
+*{{EB1911|wstitle=Theocritus|volume=26|pages=760–762|first=Albert Curtis|last=Clark|author-link=Albert Curtis Clark}}
+
+==Further reading==
+* Bowie, Ewen L. 1985. "Theocritus' Seventh Idyll, Philetas and Longus." ''Classical Quarterly'' 35:67–91.
+* Burton, Joan B. 1995. ''Theocritus's Urban Mimes: Mobility, Gender, and Patronage.'' Berkeley: University of California Press.
+* Damon, Cynthia. 1995. "Narrative and Mimesis in the Idylls of Theocritus." ''Quaderni urbinati di cultura classica'' 51:101–123.
+* Garson, R. W. 1971. "Theocritean Elements in Virgil's Eclogues." ''Classical Quarterly'' 21:188–203.
+* Griffiths, Frederick T. 1979. ''Theocritus at Court.'' Leiden, The Netherlands: Brill.
+* Gutzwiller, Kathryn J. 1996. "The Evidence for Theocritean Poetry Books." In ''Theocritus''. Edited by Annette Harder, R. F. Regtuit, and G. C. Wakker, 119–148. Groningen, The Netherlands: E. Forsten.
+* Fantuzzi, Marco, and Theodore D. Papanghelis, eds. 2006. ''Brill's Companion to Greek and Latin Pastoral.'' Leiden, The Netherlands: Brill.
+* Hubbard, Thomas K. 1998. ''The Pipes of Pan: Intertextuality and Literary Filiation in the Pastoral Tradition from Theocritus to Milton.'' Ann Arbor: University of Michigan Press.
+* Hunter, Richard L. 1996. ''Theocritus and the Archaeology of Greek Poetry.'' Cambridge, UK: Cambridge University Press.
+* Köhnken, Adolf. 2001. "Hellenistic Chronology: Theocritus, Callimachus, and Apollonius Rhodes." In ''Companion to Apollonius Rhodius.'' Edited by Theodore D. Papanghelis and Antonios Rengakos, 73–92. Leiden, The Netherlands: Brill.
+* Mastronarde, Donald. J. 1968. "Theocritus' Idyll 13: Love and the Hero." ''Transactions of the American Philological Association'' 99:273–290.
+* Pfeiffer, Rudolf. 1968. ''History of Classical Scholarship from the Beginnings to the End of the Hellenistic Age.'' Oxford: Clarendon.
+* Rosenmeyer, Thomas G. 1969. ''The Green Cabinet: Theocritus and the European Pastoral Lyric.'' Berkeley: University of California Press.
+* Rossi, Laura. 2001. ''The Epigrams Ascribed to Theocritus: A Method of Approach.'' Louvain, Belgium: Peeters.
+* Walsh, George B. 1990. "Surprised by Self: Audible Thought in Hellenistic Poetry." ''Classical Philology'' 85:1–21.
+
+== External links ==
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Theocritus 
+  |viaf= |lccn= |lcheading= |wikititle= }}
+{{wikisource author}}
+{{wikiquote}}
+{{Commons category}}
+* [https://www.perseus.tufts.edu/hopper/searchresults?q=+at+Theocritus Works by Theocritus at Perseus Digital Library]
+* [https://sites.google.com/site/hellenisticbibliography/hellenistic/theocritus?authuser=0 A Hellenistic Bibliography:Theocritus]
+*[http://www.stoa.org/sol-bin/search.pl?db=REAL&search_method=QUERY&login=guest&enlogin=guest&user_list=LIST&page_num=1&field=adlerhw_gr&searchstr=theta%2C166 ''Suda'', Theocritus]
+*[http://www.blackcatpoems.com/t/theocritus.html Poems by Theocritus] English translations
+*[http://www.theoi.com/Text/TheocritusIdylls1.html Online text: Theocritus translation by J. M. Edmonds, 1912]
+* {{Gutenberg author |id=1574}}
+* {{Internet Archive author}}
+*[http://www.attalus.org/poetry/lives.html#theocritus0 An ancient life of Theocritus, from the scholia]
+* ''Theocritus, Bion et Moschus graece et latine. Accedunt virorum doctorum animadversiones scholia, indices'', T. Kiessling (ed.), Londini, sumtibus Whittaker, Treacher, et Arnot, 1829, [https://archive.org/stream/theocritusbionet01kies#page/n33/mode/2up vol. 1 pp. 1-440].
+*''Poetae bucolici et didactici. Theocritus, Bion, Moschus, Nicander, Oppianus, Marcellus de piscibus, poeta de herbis'', C. Fr. Ameis, F. S. Lehrs (ed.), Parisiis, editore Ambrosio Firmin Didot, 1862, [https://archive.org/details/poetaebucoliciet00amei pp. 1-66].
+
+:'''Scholia''':
+* Scholia at Theocritus: ''Theocritus, Bion et Moschus graece et latine. Accedunt virorum doctorum animadversiones scholia, indices'', T. Kiessling (ed.), Londini, sumtibus Whittaker, Treacher, et Arnot, 1829, [https://archive.org/stream/theocritusbionet02theo#page/n21/mode/2up vol. 2 pp. 15-133].
+* ''Scholia in Theocritum. Scholia et paraphrases in Nicandrum et Oppianum'', Fr. Dübner, U. Cats Bussemaker (ed.), Parisiis, editore Ambrosio Firmin Didot, 1849, [https://archive.org/details/scholiaintheocri00buss pp. 1-170].
+
+{{Authority control}}
+
+[[Category:Ancient Greek poets]]
+[[Category:Ancient Syracusans]]
+[[Category:Ptolemaic court]]
+[[Category:3rd-century BC Greek people]]
+[[Category:3rd-century BC poets]]
+[[Category:Ancient Greek bucolic poets]]
+[[Category:Doric Greek poets]]
+[[Category:Aeolic Greek poets]]
+[[Category:Poets of Magna Graecia]]
+[[Category:Epigrammatists of the Greek Anthology]]
+[[Category:Year of birth unknown]]
+[[Category:Year of death unknown]]
+[[Category:Hellenistic poets]]

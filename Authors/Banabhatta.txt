@@ -1,0 +1,48 @@
+{{short description|7th-century Sanskrit writer}}
+{{more citations needed|date=September 2014}}
+{{use dmy dates|date=November 2016}}
+{{use Indian English|date=November 2016}}
+{{Infobox person
+| name = Bāṇabhaṭṭa
+| occupation = Poet, writer, author
+| works = ''[[Harshacharita]]'', ''[[Kadambari]]''
+}}
+'''Bāṇabhaṭṭa''' ({{lang-sa|बाणभट्ट}}) was a 7th-century [[Sanskrit]] prose writer and poet of [[India]]. He was the ''Asthana Kavi'' in the court of King [[Harsha Vardhana]], who reigned c. 606–647 CE in north India first from Sthanvishvara ([[Thanesar]]), and later [[Kannauj]]. Bāna's principal works include a biography of Harsha, the ''[[Harshacharita]]'' (Deeds of Harsha),<ref>{{cite web | title = Sthanvishvara (historical region, India) |publisher= Encyclopædia Britannica | url = http://www.britannica.com/EBchecked/topic/566090/Sthanvishvara | access-date = 2014-08-09 }}</ref> and one of the world's earliest novels, ''[[Kadambari]]''. Bāṇa died before finishing the novel and it was completed by his son Bhūṣaṇabhaṭṭa. Both these works are noted texts of Sanskrit literature.<ref name="Datta1988">{{cite book|author=Amaresh Datta|title=Encyclopaedia of Indian Literature: devraj to jyoti|url=https://books.google.com/books?id=zB4n3MVozbUC&pg=PA1339|year=1988|publisher=Sahitya Akademi|isbn=978-81-260-1194-0|pages=1339–}}</ref> The other works attributed to him are the ''Caṇḍikāśataka'' and a drama, the ''Pārvatīpariṇaya''. Banabhatta gets an applause as "banochhistam jagatsarvam" meaning Bana has described everything in this world and nothing is left.
+
+==Life==
+A detailed account regarding his ancestry and early life can be reconstructed from the introductory verses attached to the ''कादम्बरी'' and the first two ''ucchāvasas'' of the ''Harṣacarita'', while the circumstances behind the composition of the ''Harṣacarita'' are described in the third ''ucchāvasa'' of the text. ''Harsacarita'' is considered as the first Indian work which may be regarded as a historical biography. It gives a vivid picture of life in the countryside.<ref>Sreedharan, E, "A Manual of Historical Research Methodology." Trivandrum, Centre for South Indian Studies, 2007, {{ISBN|978-81-905928-0-2}} [https://books.google.com/books?id=TG6PXBKwXNMC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false]</ref>
+
+Bāna was born to Chitrabhānu and Rājadevi in the village of Pritikuta on the banks of the Hiraṇyavāhu in a [[Bhojaka]] family of [[Vātsyāyana]] [[gotra]] in the current district of [[AURANGABAD,BARUN,SONE RIVER]] in modern-day [[Bihar]]. After the death of his father, Bāṇa led a wandering life for a period but later came back to his native village. Here, on a summer day, on receiving a letter from Krishna, a cousin of King Harsha, he met the king while he was camping near the town of Manitara. After receiving Bāna with mock signs of anger, the king showed him much favor.
+
+==Works==
+* {{cite book|author=Bana|title=The Parvati Parinaya of Banabhatta, with Sanskrit Commentary, English Notes and Tr., by T.R. Ratnam Aiyar|url=https://books.google.com/books?id=vLMCMwEACAAJ|year=1898|publisher=Madras}}
+* Bana (tr. G. Layne), ''Bāṇabhaṭṭa Kādambarī. A Classic Sanskrit Story of Magical Transformations'' (New York: Garland, 1991).  [http://n2t.net/ark:/13960/t2q61661z Scan at archive.org]
+*Harshacharita :The Harshacharita (Sanskrit: हर्षचरित, Harṣacarita) (The deeds of Harsha), is the biography of Indian emperor Harsha by Banabhatta, also known as Bana, who was a Sanskrit writer of seventh-century CE India. He was the Asthana Kavi, meaning Court Poet, of Harsha. The Harshacharita was the first composition of Bana and is considered to be the beginning of the writing of historical poetic works in the Sanskrit language.
+
+==References==
+{{Reflist}}
+* The Harsa-Carita of Bana. Translated by [[Edward Byles Cowell|E. B. Cowell]] and [[F. W. Thomas]].  London: Royal Asiatic Society, 1897, 4-34.
+
+==Biography==
+* {{cite book|author=Sakharam Vasudeo Dixit|title=Bāṇabhaṭṭa: His Life & Literature|url=https://archive.org/details/in.ernet.dli.2015.312730|year=1963|publisher=A.S. Dixit}}
+* {{cite book|author=Neeta Sharma|title=Banabhatta: a literary study|url=https://archive.org/details/dli.bengal.10689.12206|date= 1968|publisher=Munshiram Manoharlal}}
+* {{cite book|author=K. Krishnamoorthy|title=Banabhatta|url=https://books.google.com/books?id=LZXldPqbIkUC|date=1982|publisher=Sahitya Akademi|isbn=978-81-7201-674-6}}
+
+==External links==
+* {{Gutenberg author | id=40993}}
+* {{Internet Archive author |sname=Bāṇabhaṭṭa}} 
+* {{cite book| title = The Harsa-carita of Bana (online text)|author=Banabhatta |others=[[Edward Byles Cowell|E. B. Cowell]], [[F. W. Thomas]] (trans.) |url = https://archive.org/stream/harsacaritaofban00banaiala#page/n7/mode/2up|publisher=London : Royal Asiatic Society|year=1897}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Banabhatta}}
+[[Category:Sanskrit writers]]
+[[Category:Scholars from Bihar]]
+[[Category:History of Bihar]]
+[[Category:Sanskrit poets]]
+[[Category:7th-century Indian biographers]]
+[[Category:7th-century Indian poets]]
+[[Category:Indian male novelists]]
+[[Category:Indian male poets]]
+[[Category:7th-century Indian novelists]]
+[[Category:Male biographers]]

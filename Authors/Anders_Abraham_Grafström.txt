@@ -1,0 +1,97 @@
+{{Use dmy dates|date=November 2016}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Anders Abraham Grafström
+| image         = Anders Abraham Grafström.jpg
+| image_size    = 
+| alt           = 
+| caption       = 
+| pseudonym     = 
+| birth_name    = 
+| birth_date    = {{Birth date|1790|1|10|df=yes}}
+| birth_place   = [[Sundsvall]], Sweden
+| death_date    = {{Death date and age|1870|7|24|1790|1|10|df=yes}}
+| death_place   = [[Umeå]], Sweden
+| resting_place = 
+| occupation    = Professor, parish priest
+| language      = Swedish
+| nationality   = 
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = Poetry; History
+| subject       = 
+| movement      = 
+| notableworks  = 
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| module        =
+| website       = <!-- www.example.com -->
+| portaldisp    = 
+}}
+'''Anders Abraham Grafström''' (10 January 1790 &ndash; 24 July 1870) was a [[Sweden|Swedish]] historian, priest and poet.
+<ref name=sbl>{{cite web|url=  https://sok.riksarkivet.se/sbl/Presentation.aspx?id=13127|title=   Anders A Grafström|publisher=  Svenskt biografiskt lexikon   |author=Gösta Lundström   |accessdate=January 1, 2019}}</ref>
+
+==Life==
+Grafström was born in [[Sundsvall]]  in [[Västernorrland County]], Sweden.
+He studied at [[Uppsala University]], where he was enrolled in 1809 and became a master's degree in 1815.
+In 1819, he was the library secretary of [[Uppsala University]]. The following year he was named as a lecturer in history at the university, and he later taught at the [[Military Academy Karlberg]]. 
+In 1830 he was ordained and  in 1835 he was appointed as a parish priest at [[Umeå]] in [[Västerbotten]] where he lived until his death. 
+In 1825, he received the  grand prize from [[Swedish Academy]] for a poem about the wedding of  Crown Prince [[Oscar I of Sweden|Oscar]] and  was admitted into the Academy in 1839, occupying Seat 6.<ref name="sbl"/>
+
+Grafström belonged to the literary circle centred on salon hostess. [[Malla Silfverstolpe]] (1782–1861).  He wrote a famous [[biography]] of  poet [[Frans Michael Franzén]]. Some of Grafström's poetry was set to music by the composer [[Johan Erik Nordblom]] (1788-1848).<ref>{{cite web
+|url=https://skbl.se/sv/artikel/MallaSilfverstolpe|title=  Magdalena ( Malla) Sofia Silfverstolpe|publisher=Svenskt kvinnobiografiskt lexikon
+|accessdate=January 1, 2019}}</ref>
+<ref>{{cite web|url=http://www.levandemusikarv.se/composers/nordblom-johan/|title= Johan Erik Nordblom (1788−1848)|publisher=    Levande Musikarv
+|accessdate=January 1, 2019}}</ref>
+
+==Personal life==
+He was married in 1822 to Henriette Elisabeth Franzén  (1803-1833) and after her death to her half-sister Helena Sophia Franzén (1813-1891). His father-in-Law was Bishop Frans Michael Franzén (1772–1847).<ref>{{cite web|url= https://sok.riksarkivet.se/sbl/mobil/Artikel/14425|title= Frans Michael Franzén|publisher=  Svenskt biografiskt lexikon   |author=  Gösta Lundström    |accessdate=January 1, 2019}}</ref>
+
+His daughter Sofia Elisabeth Grafström (1839-1874) married teacher and folklorist [[Artur Hazelius]] (1833–1901) .<ref>{{cite web|url=  http://runeberg.org/sbh/a0467.html|title= Hazelius, Artur Immanuel |publisher=    Svenskt biografiskt handlexikon  |accessdate=January 1, 2019}}</ref>
+
+In his later years, Grafström was a vocal exponent of the expansion of the [[History of rail transport in Sweden|railway network]] into [[Norrland]]. 
+He died at [[Umeå]], aged 80.<ref name="sbl"/>
+
+==Bibliography==
+* De lingua, originis gentis Sviogothicae indice. Upsala, 1811.
+* Tal öfver Högstsalig Hans Majestät Konung Carl XIII, hållet på Gustavianska Lärosalen i Upsala, den 6 maj 1818. Stockholm, 1818.
+* De Statu Rerum Sveciarum ad Mortem Ingialdi Illråda Dissertatio Historica. (Beteiligt Petrus Ephraim Oldberg und Johannes P. Bosén). Dissertation Upsala 1820.
+* De reformatione religionis christianae post Lutherum continuata. Upsala, 1829.
+* Skalde-försök. Stockholm, 1826–1832.
+* Ett år i Sverige. Stockholm, 1827-35 (Ed. Christian Didrik Forssell).
+* Sånger från Norrland. Stockholm, 1841.
+* Nya sånger från Norrland. Stockholm, 1848.
+* Samlade skaldestycken. Stockholm, 1864.
+
+==References==
+{{reflist}}
+
+{{s-start}}
+{{s-culture}}
+{{succession box|title=[[Swedish Academy]],<br>[[List of members of the Swedish Academy|Seat No 6]]|before=[[Adolf Göran Mörner]]|after=[[Fredrik August Dahlgren]]|years=1839-1870}}
+{{s-end}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Grafstrom, Anders Abraham}}
+[[Category:1790 births]]
+[[Category:1870 deaths]]
+[[Category:People from Sundsvall]]
+[[Category:Writers from Medelpad]]
+[[Category:Swedish male poets]]
+[[Category:Swedish male writers]]
+[[Category:Swedish-language poets]]
+[[Category:Members of the Swedish Academy]]
+[[Category:Uppsala University alumni]]
+[[Category:19th-century Swedish poets]]
+[[Category:19th-century male writers]]
+
+
+{{Sweden-writer-stub}}

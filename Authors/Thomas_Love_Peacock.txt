@@ -1,0 +1,212 @@
+{{Short description|English novelist & poet}}
+{{Use dmy dates|date=January 2021}}
+{{Use British English|date=March 2012}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image        = Thomas Love Peacock by Henry Wallis.jpg
+| imagesize    = 200px
+| caption      =
+| birth_date   = {{birth date|df=yes|1785|10|18}}
+| birth_place  = [[Weymouth, Dorset]], [[United Kingdom|England]]
+| death_date   = {{death date and age|df=yes|1866|1|23|1785|10|18}}
+| death_place  = [[Lower Halliford]], [[Shepperton]], [[Surrey]], [[United Kingdom|England]]
+| nationality  = British
+| notableworks = {{ubl|''[[Nightmare Abbey]]'' (1818)|''[[Crotchet Castle]]'' (1831)}}
+| spouse       = {{marriage|Jane Gryffydh|1820|1865|end=died}}
+| children     = 4, including [[Edward Gryffydh Peacock]]
+}}
+'''Thomas Love Peacock''' (18 October 1785 – 23 January 1866) was an English [[novelist]], [[poet]], and official of the [[East India Company]]. He was a close friend of [[Percy Bysshe Shelley]] and they influenced each other's work. Peacock wrote satirical [[novel]]s, each with the same basic setting: characters at a table discussing and criticising the [[philosophical]] opinions of the day.
+
+== Background and education ==
+[[File:Thomas Love Peacock (ca 1805).jpg|left|200px|The young T.L. Peacock]]
+Peacock was born in [[Weymouth, Dorset]], the son of Samuel Peacock and his wife Sarah Love, daughter of Thomas Love, a retired master of a [[man-of-war]] in the [[Royal Navy]].<ref name=DNB>{{cite DNB|wstitle=Peacock, Thomas Love}}</ref> His father was a glass merchant in London, partner of a Mr Pellatt, presumed to be [[Apsley Pellatt (1763–1826)]].<ref name=Garnett>Richard Garnett Introduction for the edition of Thomas Love Peacock's novels published by J. M. Dent & Co. in 1891</ref> Peacock went with his mother to live with her family at [[Chertsey]] in 1791 and in 1792 went to a school run by Joseph Harris Wicks at [[Englefield Green]] where he stayed for six and a half years.
+
+Peacock's father died in 1794 in "poor circumstances" leaving a small annuity.<ref name=letters>[https://books.google.com/books?id=_fKcspXDrnAC&pg=PR27 Thomas Love Peacock and Nicholas A. Joukovsky ''The Letters of Thomas Love Peacock: 1792–1827'']</ref> Peacock's first known poem was an epitaph for a school fellow written at the age of ten and another on his ''Midsummer Holidays'' was written when he was thirteen. Around that time in 1798 he was abruptly taken from school and from then on was entirely self-educated.<ref name=letters/>
+
+== Early occupation and travelling ==
+In February 1800, Peacock became a clerk with Ludlow Fraser Company, who were merchants in the [[City of London]]. He lived with his mother on the firm's premises at 4 Angel Court Throgmorton Street. He won the eleventh [[prize]] from the Monthly Preceptor for a verse answer to the question "Is History or Biography the More Improving Study?".<ref name=letters/> He also contributed to "The Juvenile Library", a magazine for youth whose competitions excited the emulation of several other boys including [[James Henry Leigh Hunt|Leigh Hunt]], [[Thomas de Quincey|de Quincey]], and [[William Johnson Fox|W. J. Fox]].<ref name=Garnett/> He began visiting the [[British Museum Reading Room|Reading Room]] of the [[British Museum]] and continued doing so for many years, diligently studying the best literature in Greek, Latin, French, and Italian. In 1804 and 1806 he published two volumes of poetry, ''The Monks of St. Mark'' and ''Palmyra''. Some of Peacock's juvenile compositions were privately printed by [[Henry Cole|Sir Henry Cole]].
+
+In around 1806 Peacock left his job in the city and during the year made a solitary walking tour of Scotland. The annuity left by his father expired in October 1806. In 1807 he returned to live at his mother's house at [[Chertsey]]. He was briefly engaged to Fanny Faulkner, but it was broken off through the interference of her relations.<ref name=letters/> His friends, as he hints, thought it wrong that so clever a man should be earning so little money. In the autumn of 1808 he became [[private secretary]] to [[Home Popham|Sir Home Popham]], commanding the fleet before [[Flushing, Netherlands|Flushing]]. By the end of the year he was serving Captain Andrew King aboard {{HMS|Venerable|1808|6}} in the [[The Downs (ship anchorage)|Downs]].<ref name=letters/> His preconceived affection for the sea did not reconcile him to [[nautical]] realities. "Writing poetry", he says, "or doing anything else that is rational, in this floating [[Hell|inferno]], is next to a moral impossibility. I would give the world to be at home and devote the winter to the composition of a [[comedy]]". He did write [[prologue]]s and addresses for dramatic performances on board HMS ''Venerable''. His dramatic taste then and for the next nine years resulted in attempts at comedies and lighter pieces, all of which lacked ease of dialogue and suffered from over-elaborated incident and humour. He left HMS ''Venerable'' in March 1809 at Deal and walked around Ramsgate in Kent before returning home to Chertsey. He had sent his publisher Edward Hookham a little poem of the [[River Thames]] which he expanded during the year into "The Genius of the Thames". On 29 May he set out on a [[Thames meander|two-week expedition]] to trace the course of the Thames from its source to Chertsey and spent two or three days staying in Oxford.<ref name=letters/>
+
+Peacock travelled to North Wales in January 1810 where he visited [[Tremadog]] and settled at [[Maentwrog]] in [[Merionethshire]]. At Maentwrog he was attracted to the parson's daughter Jane Gryffydh, whom he referred to as the "Caernavonshire nymph". Early in June 1810, the ''Genius of the Thames'' was published by Thomas and Edward Hookham. Early in 1811 he left Maentwrog to walk home via South Wales. He climbed [[Cadair Idris]] and visited Edward Scott at Bodtalog near [[Tywyn]]. His journey included [[Aberystwyth]] and [[Devil's Bridge, Ceredigion]]. Later in 1811, his mother's annuity expired and she had to leave Chertsey and moved to Morven Cottage [[Wraysbury]] near [[Staines]] with the help of some friends. In 1812 they had to leave Morven Cottage over problems paying tradesmen's bills.<ref name=letters/>
+
+== Friendship with Shelley ==
+[[File:Percy Bysshe Shelley by Alfred Clint.jpg|thumb|right|200px|Percy Bysshe Shelley]]
+In 1812 Peacock published another elaborate [[poem]], ''The Philosophy of Melancholy'', and in the same year made the acquaintance of Shelley. He wrote in his memoir of Shelley, that he "saw Shelley for the first time just before he went to Tanyrallt", whither Shelley proceeded from London in November 1812 ([[Thomas Jefferson Hogg|Hogg]]'s ''Life of Shelley'', vol. 2, pp.&nbsp;174, 175.) [[Thomas Hookham]], the publisher of all Peacock's early writings, was possibly responsible for the introduction. It was [[Hookham's Circulating Library|Hookham's circulating library]] which Shelley used for many years, and Hookham had sent ''The Genius of the Thames'' to Shelley, and in the ''Shelley Memorials'', pp.&nbsp;38–40, is a letter from the poet dated 18 August 1812, extolling the poetical merits of the performance and with equal exaggeration censuring what he thought the author's misguided patriotism. Peacock and Shelley became friends and Peacock influenced Shelley's fortunes both before and after his death.
+
+In the winter of 1813 Peacock accompanied Shelley and his first wife Harriet to Edinburgh. Peacock was fond of Harriet, and in his old age defended her reputation from slanders spread by Jane, Lady Shelley, the daughter-in-law of Shelley's second wife Mary.<ref>''Memoirs of Shelley''</ref>
+
+In 1814 Peacock published a satirical ballad, ''Sir Proteus'', which appeared under the pseudonym "P. M. O'Donovan, Esq." Shelley resorted to him during the agitation of mind which preceded his separation from Harriet. After Shelley deserted Harriet, Peacock became an almost daily visitor throughout the winter of 1814–15 of Shelley and Mary Godwin (later Mary Shelley), at their London lodgings. In 1815 Peacock shared their voyage to the source of the Thames. "He seems", writes Charles Clairmont, Mary Godwin's stepbrother and a member of the party, "an idly-inclined man; indeed, he is professedly so in the summer; he owns he cannot apply himself to study, and thinks it more beneficial to him as a human being entirely to devote himself to the beauties of the season while they last; he was only happy while out from morning till night". By September 1815 when Shelley had taken up residence at Bishopsgate, near Windsor, Peacock had settled at [[Marlow, Buckinghamshire|Great Marlow]]. Peacock wrote ''[[Headlong Hall]]'' in 1815, and it was published the following year. With this work Peacock found the true field for his literary gift in the satiric novel, interspersed with delightful lyrics, amorous, narrative, or convivial.<ref name=DNB/>
+
+During the winter of 1815–16 Peacock was regularly walking over to visit Shelley at Bishopgate. There he met [[Thomas Jefferson Hogg]], and "the winter was a mere Atticism. Our studies were exclusively Greek". In 1816 Shelley went abroad, and Peacock appears to have been entrusted with the task of finding the Shelleys a new residence. He fixed them near his own home at Great Marlow. Peacock received a pension from Shelley for a time, and was put into requisition to keep off wholly unauthorised intruders upon Shelley's hospitable household. Peacock was consulted about alterations in Shelley's ''Laon and Cythna,'' and Peacock's enthusiasm for Greek poetry probably had some influence on Shelley's work. Shelley's influence upon Peacock may be traced in the latter's poem of ''Rhododaphne, or the Thessalian Spell,'' published in 1818 and Shelley wrote a eulogistic review of it.  Peacock also wrote at this time the satirical novels ''[[Melincourt (novel)|Melincourt]]'' published in 1817 and ''[[Nightmare Abbey]]''  published in 1818. Shelley made his final departure for Italy and the friends' agreement for mutual correspondence produced Shelley's magnificent descriptive letters from Italy, which otherwise might never have been written.<ref name=DNB/>
+
+Peacock told Shelley that "he did not find this brilliant summer," of 1818, "very favourable to intellectual exertion;" but before it was quite over "rivers, castles, forests, abbeys, monks, maids, kings, and banditti were all dancing before me like a masked ball." He was at this time writing his romance of ''[[Maid Marian (novel)|Maid Marian]]''  which he had completed except for the last three chapters.<ref name=DNB/>
+
+== East India Company ==
+[[File:East India House THS 1817 edited.jpg|thumb|left|270px|[[East India House]] in [[Leadenhall Street]], London, 1817.]]
+At the beginning of 1819, Peacock was unexpectedly summoned to London for a period of probation with the [[East India Company]] who needed to reinforce their staff with talented people. They summoned to their service in the Examiner's office [[James Mill]] and three others. Peacock was included at the recommendation of Peter Auber, the company historian, whom he had known at school, though probably not as a school-fellow. Peacock's test papers earned the high commendation, "Nothing superfluous and nothing wanting."<ref name=DNB/> On 13 January 1819, he wrote from 5 York Street, [[Covent Garden]]: "I now pass every morning at the India House, from half-past 10 to half-past 4, studying Indian affairs. My object is not yet attained, though I have little doubt but that it will be. It was not in the first instance of my own seeking, but was proposed to me. It will lead to a very sufficing provision for me in two or three years. It is not in the common routine of office, but is an employment of a very interesting and intellectual kind, connected with finance and [[legislation]], in which it is possible to be of great service, not only to the Company, but to the millions under their [[dominion]]."
+
+On 1 July 1819 Peacock slept for the first time in a house at 18 Stamford Street, Blackfriars which, "as you might expect from a Republican, he has furnished very handsomely." His mother continued to live with him in Stamford Street.
+
+In 1820 Peacock contributed to Ollier's ''Literary Pocket Book'' and wrote ''The Four Ages of Poetry,'' the latter of which argued that poetry's relevance was being ended by science,<ref>{{cite web|last=Cantor|first=Paul|title=The Scientist and the Poet|url=http://www.thenewatlantis.com/publications/the-scientist-and-the-poet|publisher=The New Atlantis|date=Winter 2004}}</ref> a claim which provoked Shelley's ''[[Defence of Poetry]]''. The official duties of the India House delayed the completion and publication of ''[[Maid Marian (novel)|Maid Marian]]'', begun in 1818, until 1822, and as a result of the delay it was taken for an imitation of ''[[Ivanhoe]]'' although its composition had, in fact, preceded Scott's novel. It was soon dramatised with great success by [[James Robinson Planche|Planché]], and was translated into French and German. Peacock's salary was now £1000 a year, and in 1823 he acquired a country residence at [[Shepperton#Lower Halliford|Lower Halliford]], near Shepperton, Middlesex, constructed out of two old cottages, where he could gratify the love of the Thames, which was as strong as his enthusiasm for classical literature. In the winter of 1825–26 he wrote ''Paper Money Lyrics and other Poems'' "during the prevalence of an influenza to which the beautiful fabric of paper-credit is periodically subject."<ref name=DNB/> In his early time at the India Office he wrote little except for the operatic criticisms which he regularly contributed to ''[[The Examiner (1808–86)|The Examiner]]'', and an occasional article in the ''[[Westminster Review]]'' or ''[[Bentley's Miscellany]]''.
+
+Peacock showed great ability in business and in the drafting of official papers. In 1829 he began to devote attention to steam navigation, and composed a memorandum for General Chesney's Euphrates expedition, which was praised both by Chesney and Lord Ellenborough. He opposed the employment of steamers on the Red Sea, probably in deference to the supposed interests of the company. In 1829 he published  ''[[The Misfortunes of Elphin]]''  founded upon Welsh traditions, and in 1831 the novel ''[[Crotchet Castle]]'', the most mature and thoroughly characteristic of all his works. He was greatly affected by the death of his mother in 1833 and said himself that he never wrote anything with interest afterwards.<ref name=DNB/>
+
+Peacock often appeared before parliamentary committees as the company's champion. In this role in 1834, he resisted James Silk Buckingham's claim to compensation for his expulsion from the East Indies, and in 1836, he defeated the attack of the Liverpool merchants and Cheshire manufacturers upon the Indian salt monopoly. In 1836 his official career was crowned by his appointment as Chief Examiner of Indian Correspondence, in succession to James Mill. The post was one which could only be filled by someone of sound business capacity and exceptional ability in drafting official documents: and Peacock's discharge of its duties, it is believed, suffered nothing by comparison either with his distinguished predecessor or his still more celebrated successor, [[John Stuart Mill|Stuart Mill]]. In 1837 appeared his ''Paper Money Lyrics and other Poems'' of which only one hundred copies were printed. Also in 1837, ''Headlong Hall'', ''Nightmare Abbey'', ''Maid Marian'', and ''Crotchet Castle'' appeared together as vol. 57 of ''Bentley's Standard Novels''.  During 1839 and 1840 Peacock superintended the construction of iron steamers which rounded the Cape, and took part in the Chinese war.<ref name=DNB/>
+
+Peacock's occupation was principally with finance, commerce, and public works.
+
+He wrote a poem on "A Day at the India Office":
+
+{{poemquote|From ten to eleven, have breakfast for seven;
+From eleven to noon, think you've come too soon;
+From twelve to one, think what's to be done;
+From one to two, find nothing to do;
+From two to three, think it will be
+A very great bore to stay till four.}}
+
+In about 1852 towards the end of Peacock's service in the India office, his zeal or leisure for authorship returned, and he began to contribute to ''[[Fraser's Magazine]]'' in which appeared his entertaining and scholarly ''Horæ Dramaticæ,''  a restoration of the ''[[Querolus]]'', a Roman comedy probably of the time of Diocletian, and his reminiscences of Shelley.<ref name=DNB/>
+
+== Later life ==
+[[File:Lower Halliford01.JPG|right|thumb|View up the River Thames of Lower Halliford]]
+[[File:Old TloveP.jpg|thumb|T. L. Peacock in old age]]
+Peacock retired from the India House on 29 March 1856 with an ample pension. In his retirement he seldom left Halliford and spent his life among his books, and in the garden, in which he took great pleasure, and on the River Thames.  In 1860 he still showed vigour by the publication in ''Fraser's Magazine''  of ''[[Gryll Grange]]'', his last novel.  In the same year he added the appendix of Shelley's letters. His last writings were two translations, ''Gl' Ingannati (The Deceived)'' a comedy, performed at Siena in 1861 and ''Ælia Lælia Crispis'' of which a limited edition was circulated in 1862.
+
+Peacock died at [[Lower Halliford]], 23 January 1866, from injuries sustained in a fire in which he had attempted to save his library, and is buried in the new cemetery at [[Shepperton]].
+
+His granddaughter remembered him in these words:
+
+{{quote|In society my grandfather was ever a welcome guest, his genial manner, hearty appreciation of wit and humour in others, and the amusing way in which he told stories made him a very delightful acquaintance; he was always so agreeable and so very witty that he was called by his most intimate friends the "Laughing Philosopher", and it seems to me that the term "Epicurean Philosopher", which I have often heard applied to him, describes him accurately and briefly. In public business my grandfather was upright and honourable; but as he advanced in years his detestation of anything disagreeable made him simply avoid whatever fretted him, laughing off all sorts of ordinary calls upon his leisure time.}}
+
+[[Sir Edward Strachey, 3rd Baronet|Sir Edward Strachey]] wrote of him:
+
+{{quote|A kind-hearted, genial, friendly man, who loved to share his enjoyment of life with all around him, and self-indulgent without being selfish.}}
+
+[[Richard Garnett (writer)|Richard Garnett]] in the [[Dictionary of National Biography]] described Peacock as:
+
+{{quote|a rare instance of a man improved by prosperity; an element of pedantry and illiberality in his earlier writings gradually disappears in genial sunshine, although, with the advance of age, obstinate prejudice takes its place, good humoured, but unamenable to argument. The vigour of his mind is abundantly proved by his successful transaction of the uncongenial commercial and financial business of the East India Company; and his novels, their quaint prejudices apart, are almost as remarkable for their good sense as for their wit. But for this penetrating sagacity, constantly brought to bear upon the affairs of life, they would seem mere humorous extravaganzas, being farcical rather than comic, and almost entirely devoid of plot and character. They overflow with merriment from end to end, though the humour is frequently too recondite to be generally appreciated, and their style is perfect. They owe much of their charm to the simple and melodious lyrics with which they are interspersed, a striking contrast to the frigid artificiality of Peacock's more ambitious attempts in poetry. As a critic, he was sensible and sound, but neither possessed nor appreciated the power of his contemporaries, Shelley and Keats, to reanimate classical myths by infusion of the modern spirit.<ref name=DNB/> }}
+
+==Family==
+Peacock married Jane Griffith or Gryffydh in 1820.<ref>''Encyclopedia of World Biography''</ref> In his "Letter to Maria Gisborne", Shelley referred to Jane as "the milk-white Snowdonian Antelope."  Peacock had four children, a son [[Edward Gryffydh Peacock|Edward]] who was a champion rower, and three daughters.  One of them, Mary Ellen, married the novelist [[George Meredith]] as her second husband in August 1849. Only his son survived him, and he for less than a year, but he left several grandchildren.<ref name=DNB/> Jane Peacock died in 1865.
+Canada boasts the majority of Peacock relatives including Tommy Peacock.
+
+== Works ==
+
+Peacock's own place in literature is pre-eminently that of a satirist. That he has nevertheless been the favourite only of the few is owing partly to the highly intellectual quality of his work,{{Citation needed|date=April 2020}} but mainly to his lack of ordinary qualifications of the novelist, all pretension to which he entirely disclaims. He has no plot, little human interest, and no consistent delineation of character. His personages are mere puppets, or, at best, incarnations of abstract qualities such as grace or beauty, but beautifully depicted.
+
+His comedy combines the mock-[[Gothic fiction|Gothic]] with the [[Aristophanes|Aristophanic]]. He suffers from that dramatist's faults and, though not as daring in invention or as free in the use of sexual humour, shares many of his strengths. His greatest intellectual love is for Ancient Greece, including late and minor works such as the ''[[Dionysiaca]]'' of [[Nonnus]]; many of his characters are given punning names taken from Greek to indicate their personality or philosophy.
+
+He tended to dramatize where traditional novelists narrated; he is more concerned with the interplay of ideas and opinions than of feelings and emotions; his ''dramatis personae'' is more likely to consist of a cast of more or less equal characters than of one outstanding hero or heroine and a host of minor auxiliaries; his novels have a tendency to approximate the [[Classical unities]], with few changes of scene and few if any subplots; his novels are novels of conversation rather than novels of action; in fact, Peacock is so much more interested in what his characters say to one another than in what they do to one another that he often sets out entire chapters of his novels in dialogue form. [[Plato]]'s ''[[Symposium (Plato)|Symposium]]'' is the literary ancestor of these works, by way of the ''[[Deipnosophists]]'' of [[Athenaeus]], in which the conversation relates less to exalted philosophical themes than to the points of a good fish dinner.
+
+=== Novels ===
+* ''[[Headlong Hall]]'' (published 1815 but dated 1816) [revised slightly, 1837]
+* ''[[Melincourt (novel)|Melincourt]]'' (1817)
+* ''[[Nightmare Abbey]]'' (1818) [revised slightly, 1837]
+* ''[[Maid Marian (novel)|Maid Marian]]'' (1822)
+* ''[[The Misfortunes of Elphin]]'' (1829)
+* ''[[Crotchet Castle]]'' (1831) [revised slightly, 1837]
+* ''[[Gryll Grange]]'' (1861) [serialised first during 1860]
+
+=== Verse ===
+* ''The Monks of St. Mark'' (1804)
+* ''Palmyra and other Poems'' (1805)
+* ''The Genius of the Thames: a Lyrical Poem'' (1810)
+* ''The Genius of the Thames Palmyra and other Poems'' (1812)
+* ''The Philosophy of Melancholy'' (1812)
+* ''Sir Hornbook, or Childe Launcelot's Expedition'' (1813)
+* ''Sir Proteus: a Satirical Ballad'' (1814)
+* ''The Round Table, or King Arthur's Feast'' (1817)
+* ''Rhododaphne: or the Thessalian Spirit'' (1818)
+* ''Paper Money Lyrics'' (1837)
+* "The War-Song of Dinas Vawr" (in ''The Misfortunes of Elphin'', 1829)<ref>
+{{cite book
+ | last1 = Peacock
+ | first1 = Thomas Love
+ | author-link1 = Thomas Love Peacock
+ | chapter = 9: The Heroes of Dinas Vawr
+ | title = The Misfortunes of Elphin
+ | year = 1829
+ | url = https://archive.org/details/misfortuneselph02peacgoog
+ | location = London
+ | publisher = Thomas Hookham
+ | publication-date = 1829
+ | page = [https://archive.org/details/misfortuneselph02peacgoog/page/n155 141]-143
+ | access-date = 20 February 2020
+}}
+</ref>
+
+=== Essays ===
+* ''The Four Ages of Poetry'' (1820)
+* ''Recollections of Childhood: The Abbey House'' (1837)
+* ''Memoirs of Shelley'' (1858–62)
+* ''The Last Day of Windsor Forest'' (1887) [composed 1862]
+* ''Prospectus: Classical Education''
+
+=== Plays ===
+* ''The Three Doctors''
+* ''The Dilettanti''
+* ''Gl'Ingannati, or The Deceived'' (translated from the Italian, 1862)
+
+=== Unfinished tales and novels ===
+* ''Satyrane'' (c. 1816)
+* ''Calidore'' (c. 1816)
+* ''The Pilgrim of Provence'' (c. 1826)
+* ''The Lord of the Hills'' (c. 1835)
+* ''Julia Procula'' (c. 1850)
+* ''A Story Opening at Chertsey'' (c. 1850)
+* ''A Story of a Mansion among the Chiltern Hills'' (c. 1859)
+* ''Boozabowt Abbey'' (c. 1859)
+* ''Cotswald Chace'' (c. 1860)
+
+== References ==
+{{Reflist}}
+*''Some of the text of this article was extracted from the Introduction written by Richard Garnett for the edition of Thomas Love Peacock's novels published by J. M. Dent & Co. in 1891.''
+*''Lists of Peacock's works from The Thomas Love Peacock Society''.
+
+== Sources ==
+* [[Richard Garnett (writer)|Garnett, R]]. (1891). Introduction. In T. L. Peacock, Headlong Hall, pp.&nbsp;7&ndash;43. J. M. Dent & Co.
+* [http://www.thomaslovepeacock.net/ The Thomas Love Peacock Society]. Retrieved 2004-12
+
+== Bibliography ==
+
+===Editions===
+Modern paperback editions of Peacock's works are almost nonexistent. The standard edition of Peacock's verse and prose is the Halliford edition, edited by H. F. B. Brett-Smith and C. E. Jones and published in ten volumes between 1924 and 1934.<ref name="Wright's introduction">{{cite book|last1=Peacock|first1=Thomas Love|editor1-last=Wright|editor1-first=Raymond|title=Nightmare Abbey / Crotchet Castle|year=1969|publisher=Penguin English Library|location=Harmondsworth|isbn=0140430458|page=35}}</ref>
+*Brett-Smith, H. F. B. (ed.) ''The Four Ages of Poetry etc.'' (Oxford: Basil Blackwell, 1953) [no ISBN]. Contains ''[[The Four Ages of Poetry]]'', as well as P. B. Shelley's response ''[[Defence of Poetry]]'', and Robert Browning's ''Essay on Shelley''. 3rd volume of The Percy Reprints series. The text is presumably that of the Halliford edition. Out of print.
+*Peacock, Thomas Love ''Headlong Hall'' / ''Nightmare Abbey'' / ''The Misfortunes of Elphin'' / ''Crotchet Castle'' (Pan Books: [[Pan Classics]], 1967) {{ISBN|0330300318}}. Introduction by J.B. Priestly, notes by Barbara Lloyd Evans.
+*Peacock, Thomas Love ''Nightmare Abbey'' / ''Crotchet Castle'' (Harmondsworth: [[Penguin English Library]], 1969) {{ISBN|0140430458}}. Edited with an introduction and notes by Raymond Wright. Reprinted as a Penguin Classic in 1982.
+*Peacock, Thomas Love ''Headlong Hall'' & ''Nightmare Abbey'' (Ware: [[Wordsworth Classics]], 1995) {{ISBN|1853262781}}. Cheap reprint, with a brief introduction and biography (both unsigned).
+*Peacock, Thomas Love ''Nightmare Abbey'' (Peterborough, Canada: Broadview Press, 2007) {{ISBN|9781551114163}} Edited by Lisa Vargo.
+
+====Correspondence====
+*Joukovsky, N. A. (ed.) ''The Letters of Thomas Love Peacock'' (Oxford: Oxford University Press, 2001) [{{ISBN|0198126581}} (vol. 1), 0198186339 (vol. 2)]. The first volume contains Peacock's correspondence from 1792 to 1827, and the second his correspondence from 1828 to 1866.
+
+===Works of criticism===
+*Burns, B. ''The Novels of Thomas Love Peacock'' (Maryland: Rowman & Littlefield, 1985) {{ISBN|038920532X}}.
+*[[J. B. Priestley|Priestley, J. B.]] ''Thomas Love Peacock'' (London: Macmillan, 1927) [no ISBN].
+
+== External links ==
+{{Wikisource1911Enc|Peacock, Thomas Love}}
+{{Wikiquote}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/thomas-love-peacock}}
+* {{Gutenberg author |id=Peacock,+Thomas+Love}}
+* {{Internet Archive author |sname=Thomas Love Peacock}}
+* {{Librivox author |id=2635}}
+* [http://www.thomaslovepeacock.net/ The Thomas Love Peacock Society]
+* [http://archives.nypl.org/cps/22385 Thomas Love Peacock manuscript material, 1792-1863], held by the Carl H. Pforzheimer Collection of Shelley and His Circle, [[New York Public Library]]
+* [http://www.eng-poetry.ru/english/Poet.php?PoetId=96 Poems by Thomas Love Peacock]
+
+{{Thomas Love Peacock}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Peacock, Thomas Love}}
+[[Category:1785 births]]
+[[Category:1866 deaths]]
+[[Category:Accidental deaths in England]]
+[[Category:Burials in Surrey]]
+[[Category:19th-century English novelists]]
+[[Category:English male poets]]
+[[Category:English satirists]]
+[[Category:People from Weymouth, Dorset]]
+[[Category:British male poets]]
+[[Category:English male novelists]]
+[[Category:19th-century English male writers]]

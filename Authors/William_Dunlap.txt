@@ -1,0 +1,89 @@
+{{Other uses}}
+
+{{Infobox person
+| name                      = William Dunlap
+| image                     = William Dunlap Engraving.jpg
+| image_size                = 250px
+| alt                       = 
+| caption                   = 
+| birth_name                = 
+| birth_date                = {{Birth date|1766|02|19}}
+| birth_place               = [[Perth Amboy, New Jersey]]
+| death_date                = {{Death date and age|1839|09|28|1766|02|19}}
+| death_place               = [[New York City|New York, New York]]
+| education                 = Studied painting in London under [[Benjamin West]] 
+| alma_mater                = 
+| occupation                = Painter, playwright, historian
+| years_active              = 
+| employer                  = [[Park Theatre (Manhattan)|Park Theatre]], [[New York City]]
+| organization              = 
+| agent                     = 
+| known_for                 = {{nowrap|Founded [[National Academy of Design]]}}
+| notable_works             = {{plainlist|
+* ''[[André (play)|André]]''
+* ''History of the American Theatre''}}
+| spouse                    = Elizabeth Woolsey
+| partner                   = 
+| awards                    = 
+| signature                 = William Dunlap Signature.svg
+| signature_alt             = 
+| signature_size            = 
+| box_width                 = 
+}}
+
+'''William Dunlap''' (February 19, 1766 – September 28, 1839) was a pioneer of American theater. He was a producer, playwright, and actor, as well as a historian. He managed two of [[New York City]]'s earliest and most prominent theaters, the [[John Street Theatre (Manhattan)|John Street Theatre]] (from 1796–98) and the [[Park Theatre (Manhattan)|Park Theatre]] (from 1798–1805). He was also an artist, despite losing an eye in childhood.
+
+[[File:George Washington by William Dunlap 1783.jpg|thumb|upright|''George Washington'', painted in 1783 by William Dunlap during Washington's stay at [[Rockingham (house)|Rockingham]]]]
+He was born in [[Perth Amboy]], [[New Jersey]], the son of an army officer wounded at the [[Battle of Quebec (1759)|Battle of Quebec]] in 1759. In 1783, he painted a portrait of [[George Washington]], while staying at [[Rockingham (house)|Rockingham]] in [[Rocky Hill, New Jersey|Rocky Hill]]. The painting is now owned by the [[United States Senate]]. He later studied art under [[Benjamin West]] in [[London]].<ref>{{cite web|url=https://www.senate.gov/artandhistory/art/artifact/Painting_31_00015.htm|title=''George Washington'' by William Dunlap (1766–1839) |publisher=[[United States Senate]]|access-date=March 15, 2019}}</ref> Another teacher was [[Abraham Delanoy]], with whom he had a handful of lessons in New York.<ref name="DeanFolsom1866">{{cite book|author1=John Ward Dean|author2=George Folsom|author3=John Gilmary Shea|author4=Henry Reed Stiles |author5=Henry Barton Dawson|title=The Historical Magazine and Notes and Queries Concerning the Antiquities, History and Biography of America|url=https://books.google.com/books?id=vGgKAQAAMAAJ&pg=RA2-PA75|year=1866|publisher=Henry B. Dawson|pages=2–}}</ref> After returning to America in 1787, he worked exclusively in the theater for 18 years, resuming painting out of economic necessity in 1805. By 1817, he was a full-time painter.<ref>{{cite web|url=http://www.artnet.com/library/02/0240/T024057.asp|title=artnet – Directory of Art Services and Resources|work=artnet.com|access-date=25 February 2015}}</ref>
+
+In his lifetime he produced more than sixty plays, most of which were adaptations or translations from [[French language|French]] or [[German language|German]] works. A few were original: these were based on American themes and had American characters.  However, he is best known for his encyclopedic three-volume ''History of the Rise and Progress of the Arts of Design in the United States,'' which was published in 1834, and which is now an invaluable source of information about artists, collecting, and artistic life generally in the colonial and federal periods.
+
+His plays include: 
+*''[[The Father (Dunlap play)|The Father]]'' (1789)
+*[[André (play)|''Andre'']] (1798)
+*''The Stranger'' (1798)
+*''[[The Italian Father]]'' (1799)
+*''False Shame'' (1799)
+*''The Virgin of the Sun'' (1800)
+*''[[The Glory of Columbia, Her Yeomanry]]'' (1803)
+*''Memoirs of George Frederick Cooke'' (1813)
+*''A Trip to Niagara'' (1828)
+
+In 1825 Dunlap was one of the founders of the [[National Academy of Design]], and taught at its school. He published his ''History of the American Theater'' in two volumes in 1832.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* William Dunlap. ''A history of the rise and progress of the arts of design in the United States'', new ed. Boston: C.E. Goodspeed & Co., 1918; p.&nbsp;344. [https://books.google.com/books?id=_VBLAAAAMAAJ v.1]; [https://archive.org/details/ahistoryriseand01dunlgoog v.2]; [https://books.google.com/books?id=WwIVAAAAYAAJ v.3]  Google books
+*Wilmeth, Don B. and Christopher Bigsby, eds. ''The Cambridge History of American Theatre, Volume I: Beginnings to 1870.'' Cambridge: Cambridge University Press, 1998.
+* Lyons, Maura. ''William Dunlap and the Construction of an American Art History.'' Amherst: [[University of Massachusetts Press]], 2005.
+* [https://archive.org/details/WilliamDunlap "THE GLORY OF COLUMBIA, HER YEOMANRY" (1803) by William Dunlap]
+
+==External links==
+{{commons category|William Dunlap}}
+* [https://web.archive.org/web/20041228210939/http://wayneturney.20m.com/dunlapwilliam.htm William Dunlap]
+* {{Gutenberg author | id=Dunlap,+William }}
+* {{Internet Archive author |sname=William Dunlap}}
+* [[hdl:10079/fa/beinecke.dunlap|William Dunlap Collection]]. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Dunlap, William}}
+[[Category:1766 births]]
+[[Category:1839 deaths]]
+[[Category:18th-century American dramatists and playwrights]]
+[[Category:18th-century American painters]]
+[[Category:American male painters]]
+[[Category:19th-century American painters]]
+[[Category:National Academy of Design faculty]]
+[[Category:National Academy of Design members]]
+[[Category:Painters from New Jersey]]
+[[Category:Writers from New Jersey]]
+[[Category:19th-century American dramatists and playwrights]]
+[[Category:American male dramatists and playwrights]]
+[[Category:People from Perth Amboy, New Jersey]]
+[[Category:19th-century American male writers]]
+[[Category:18th-century American male writers]]
+[[Category:18th-century theatre managers]]
+[[Category:19th-century theatre managers]]

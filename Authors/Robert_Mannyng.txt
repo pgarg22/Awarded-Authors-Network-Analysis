@@ -1,0 +1,53 @@
+{{Use dmy dates|date=October 2019}}
+'''Robert Mannyng''' (or '''Robert de Brunne'''; {{c.}} 1275 – c. 1338) was an English chronicler and [[Gilbertine Order|Gilbertine]] monk. Mannyng provides a surprising amount of information about himself in his two known works, ''[[Handlyng Synne]]'' and  ''[[Mannyng's Chronicle]]''.  In these two works, Mannyng tells of his residencies at the Gilbertine houses of [[Sempringham]] (near Bourne) and [[Sixhills]], and also at the Gilbertine priory at [[Cambridge]], St Edmund’s.
+
+==Upbringing==
+His name, Robert de Brunne, indicates that he came from the place then known as Brunne ([[Bourne, Lincolnshire]]), thirteen kilometres south of [[Sempringham Priory]], the mother house of the [[Gilbertine Order]]. Both places lie on the western edge of the [[Lincolnshire]] [[The Fens|fens]]. He entered the house in 1288, was trained there and moved to Cambridge, probably as part of his training.  He was moved on to Sixhills<sup id="fn_1_back">[[#fn 1|1]]</sup> priory at (TF1787) in the Lincolnshire Wolds near [[Market Rasen]]. He will have spent most of his life at Sempringham, despite the frequent modern assertion that he was a monk of [[Bourne Abbey]]. The latter was an [[Arrouaise (Abbey and Order)|Arrouasian]] house, later regarded as [[Augustinians|Augustinian]].
+
+This interpretation is supported by Mannyng's introduction to ''[[Handlyng Synne]]'', in which he says that he had been at the abbey fifteen years: ten in the time of John Camelton (Hamilton) (the prior at Sempringham from c1298 to 1312), and five winters with Hamilton's successor, John Clyntone. However, he clearly retained an interest in the people of Bourne, as he addressed ''Handlyng Synne'' "to all Christian men under the sun and to good men of Bourne and specially ... the fellowship of Sempringham".
+
+==His works==
+''Handlyng Synne'' (1303) is a twelve thousand line devotional or penitential piece, written in [[Middle English]] rhymed couplets, deriving many of its [[Exemplum|exempla]] from the [[Anglo-Norman language|Anglo-Norman]] ''Manuel des Peches'' of [[William of Waddington]].
+
+''[[Mannyng's Chronicle]]'', supposedly completed in 1338, translates [[Wace]]'s ''[[Roman de Brut]]'' for British history from the [[Anglo-Norman language|Anglo-Norman]], before translating [[Piers Langtoft]]'s (Peter of Langtoft) ''Chronicle'' for English and post-Conquest history.<sup id="fn_2_back">[[#fn 2|2]]</sup>
+
+==His legacy==
+Mannyng was primarily a historiographer, and his significance lies in his participation in the tri-lingual tradition of writing history.  His work in [[Middle English]] is part of a larger movement at the beginning of the fourteenth century towards the replacement of Latin and Anglo-Norman by written works in Middle English, but is not groundbreaking.  It is as a history writer, in particular, through his indebtedness to the great twelfth century histories of [[Henry of Huntingdon]], [[William of Malmesbury]], and [[Geoffrey of Monmouth]], that Mannyng stands out.  His verse is often seen as rather pedestrian; however, in the exempla in ''Handling Synne'', in particular, there is a life and a colour which give vibrancy to the tales and which make the work very entertaining to read—unlike several other contemporary penitential works.
+
+==See also==
+*[[Mannyng's Chronicle]]
+*[[English historians in the Middle Ages]]
+*[[Ayenbite of Inwyt]]
+
+==Footnotes==
+* <cite id="fn_1">[[#fn 1 back|Note 1:]]</cite> Not to be confused with Six Hills, in the neighbouring county of [[Leicestershire]].
+* <cite id="fn_2">[[#fn 2 back|Note 2:]]</cite> There are in England, two places called Langtoft, one is in the [[Yorkshire Wolds]] (TA0166). The other is nine kilometres south of Bourne (TF1212). Peter seems to have come from [[Langtoft, East Riding of Yorkshire|the former]].
+
+==References==
+*Platts, G. ''Robert Mannyng of Bourne's 'Handlyng Synne' and South Lincolnshire Society'' in ''Lincolnshire History and Archaeology Vol. 14'', (1979)
+*{{CathEncy|wstitle=Robert Mannyng of Brunne}}
+*{{cite DNB|wstitle=Mannyng, Robert |first=Charles Lethbridge|last=Kingsford|volume=36}}
+*Mason, O. ''Bartholomew Gazetteer of Britain'' (1977) {{ISBN|0-85152-771-X}}
+*Thorne, J.O. ed. ''Chambers Biographical Dictionary'' (1969) SBN 550-16001-9
+*Ordnance Survey maps
+
+==External links==
+{{wikiquote}}
+{{wikisourceauthor}}
+*[http://www2.let.uu.nl/solis/medievalstudies/ucms/mannyng/index.html Index to Robert Mannyng's '' Chronicle ''] compiled at the English Department of the University of Utrecht, the Netherlands.
+*[http://www.bartleby.com/211/1607.html Robert Mannyng of Brunne’s ''Handlyng Synne''] from ''[[The Cambridge History of English and American Literature]], Volume I, 1907–21.
+* {{Internet Archive author |sname=Robert Mannyng}}
+* {{Librivox author |id=8617}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mannyng, Robert}}
+[[Category:1275 births]]
+[[Category:1338 deaths]]
+[[Category:14th-century English writers]]
+[[Category:14th-century English people]]
+[[Category:14th-century historians]]
+[[Category:People from Bourne, Lincolnshire]]
+[[Category:Gilbertine Order]]
+[[Category:Roman Catholic monks]]
+[[Category:English chroniclers]]

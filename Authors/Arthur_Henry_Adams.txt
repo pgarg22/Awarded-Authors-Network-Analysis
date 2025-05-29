@@ -1,0 +1,129 @@
+{{short description|New Zealand–Australian poet and journalist}}
+{{distinguish|text=Arthur Henry Adams, president of [[United States Rubber Company|U.S. Rubber Co]]}}
+{{Use dmy dates|date=July 2015}}
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = Arthur Henry Adams
+| honorific_suffix = 
+| image            = Arthur Henry Adams (1872-1936).jpg
+| image_size       = 200
+| image_upright    = 
+| alt              = 
+| caption          = Arthur Henry Adams
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = James James
+| birth_name       = 
+| birth_date       = {{Birth date|1872|06|06|df=y}}
+| birth_place      = [[Lawrence, New Zealand|Lawrence]], [[New Zealand]]
+| death_date       = {{Death date and age|1936|03|04|1872|12|06|df=y}}
+| death_place      = [[Sydney]], [[New South Wales]], Australia
+| resting_place    = 
+| occupation       = [[Journalist]]; [[Author]]; [[Poet]]
+| language         = 
+| residence        = 
+| nationality      = 
+| citizenship      = 
+| education        = 
+| alma_mater       = [[University of Otago]]
+| home_town        = 
+| period           = 
+| genre            = <!-- or: | genres = -->
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notableworks     = <!-- or: | notablework = -->
+| spouse           = Lily Paton<!-- or: | spouses = -->
+| partner          = <!-- or: | partners = -->
+| children         = 
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''Arthur Henry Adams''' (6 June 1872 – 4 March 1936) was a journalist and author. He started his career in New Zealand, though he spent most of it in Australia, and for a short time lived in China and London.
+
+==Biography==
+
+Arthur Adams was born in [[Lawrence, New Zealand]], and educated at the [[University of Otago]], where he graduated with a Bachelor of Arts and began studying law. He then abandoned law to become a journalist in [[Wellington]], where he began contributing poetry to ''[[The Bulletin (Australian periodical)|The Bulletin]]'', a Sydney periodical. He moved to Sydney in 1898, and took up a position as private secretary and literary advisor to [[James Cassius Williamson|J.C. Williamson]], a noted theatrical manager.<ref>{{cite book |editor=Wilde, William |title=Australian Poets and Their Works |publisher=Oxford University Press |year=1996 }}</ref><ref name=amer>{{Cite Americana|wstitle=Adams, Arthur H.|year=1920}}</ref>
+
+In 1900 Adams travelled to China to cover the [[Boxer Rebellion]] as a journalist for ''[[The Sydney Morning Herald]]'' and several New Zealand papers. He would later return to New Zealand before moving to London in 1902, where he published several works including ''The Nazarene'' (1902) and ''London Streets'', a collection of poems (1906).<ref name=amer/> Adams returned to Australia in 1906, he took over from [[A. G. Stephens]] as editor of the ''Bulletin's'' Red Page until 1909.
+
+In addition to his poetry, Adams wrote both plays and novels. His most successful play was ''Mrs. Pretty and the Premier'', which was produced in 1914 by the [[Melbourne Repertory Theatre]].
+
+Adams died on 4 March 1936 in Sydney. He had married Lily Paton in 1908. She and two daughters and a son survived him.<ref>{{cite book |author1=Miller, E. Morris |author2=Macartney, Frederick T. |title=Australian Literature |publisher=Angus and Robertson |location=Sydney |year=1956 |page=29 }}</ref>
+
+==Works==
+
+===Verse===
+*''Maoriland: and Other Verses'' (1899)
+*''Collected Verses of Arthur H. Adams'' (1913)
+*''Australian Nursery Rimes'' (1917)
+*''Fifty Nursery Rhymes with Music'' (1924)
+
+===Prose===
+*''The Nazarene: A Study of a Man'' (1902)
+*''Tussock Land'' (1904)
+*''London Streets'' (1906)
+*''A Touch of Fantasy'' (1911)
+*''The Knight and the Motor Launch'' (1913)
+*''Three Plays for the Australian Stage'' (1914)
+*''Double Bed Dialogues'' (1915)
+*''Grocer Greatheart'' (1915)
+*''Honeymoon Dialogues'' (1916), published as James James (pseudonym)
+*''The Australians'' (1920)
+*''Lola of the Chocolates'' (1929)
+*''A Man's Life'' (1929)
+
+===Plays===
+*''Premier and Mrs Pretty'' (1914)
+*''Galahad Jones'' (1910)
+*''Gallipoli Bill'' (1914)
+*''Doctor Death'' (1920)
+*''The Tame Cat'' (1910)
+
+===Music===
+*''Evening Bells'' Waltz (1912)
+*''Fill The Billy For The Boys'' with Neville Hampson
+*''Love is Gold'' (Lyrics) with music by [[Leon Caron]]<ref>{{Citation
+  | author1=Caron, Leon.
+  | author2=Adams, Arthur H.
+  | title=Love is gold reverie et valse chantante
+  | publication-date=n.d.
+  | publisher=W.H. Glen & Co
+  | url=http://nla.gov.au/nla.obj-165152495
+  | access-date=26 July 2018
+}}</ref>
+
+==References==
+{{Reflist}}
+
+===Bibliography===
+*{{Australian Dictionary of Biography|author1=Andrew, B. G. |author2=JordensA, Ann-Mari |year=1979 |id=A070011b |title='Adams, Arthur Henry (1872–1936) |accessdate=2008-01-16}} 
+*{{Dictionary of Australian Biography|First=Arthur Henry|Last=Adams|shortlink=0-dict-biogA.html#adams1}}
+
+==External links==
+*{{cite web|url=https://catalogue.nla.gov.au/Search/Home?lookfor=author%3A%28Arthur+Henry+Adams%29&type=author&limit%5B%5D=&submit=Find |title=Search: Arthur Henry Adams |publisher=[[National Library of Australia]] }}
+*[http://www.sonnets.org/adamsah.htm Arthur Henry Adams]— a collection of some of his sonnets.
+*[http://www.austlit.edu.au/run?ex=ShowAgent&agentId=A$Ps AustLit entry] – detailed biographical information on Adams
+* {{Internet Archive author |sname=Arthur Henry Adams |sopt=t}}
+* {{Librivox author |id=1611}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Adams, Arthur Henry}}
+[[Category:1872 births]]
+[[Category:1936 deaths]]
+[[Category:New Zealand reporters and correspondents]]
+[[Category:New Zealand male poets]]
+[[Category:Australian male poets]]
+[[Category:Australian reporters and correspondents]]
+[[Category:University of Otago alumni]]
+[[Category:People from Lawrence, New Zealand]]
+[[Category:20th-century New Zealand poets]]
+[[Category:20th-century Australian poets]]
+[[Category:Australian literary critics]]

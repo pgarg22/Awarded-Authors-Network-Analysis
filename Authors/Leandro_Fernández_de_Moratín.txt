@@ -1,0 +1,58 @@
+{{expand Spanish|date=October 2015}}
+{{Infobox person
+| name        =Leandro Fernández de Moratín 
+| honorific_suffix =[[Royal Order of Spain|ORE]]
+| image       =Francisco de Goya - Retrato de Leandro Fernández Moratín - Google Art Project.jpg 
+| image_size  =200 px 
+| caption     =Moratín painted by [[Francisco Goya|Goya]] 
+| birth_date  ={{Birth date|1760|3|10|df=y}}
+| birth_place =[[Madrid]] 
+| death_date  ={{Death date and age|1828|6|21|1760|3|10|df=y}}  
+| death_place =[[Paris]] 
+| resting_place = [[Pantheon of Illustrious Men]]
+| occupation  ={{flatlist|
+* Dramatist
+* translator
+* poet 
+}}
+| spouse      = 
+| parents     =
+| children    =
+}}
+'''Leandro Fernández de Moratín''', [[Royal Order of Spain|ORE]] ({{IPA-es|leˈandɾo feɾˈnandeð ðe moɾaˈtin}}; 10 March 1760 &ndash; 21 June 1828) was a [[Spain|Spanish]] dramatist, translator and [[Spanish Enlightenment literature|neoclassical]] poet.
+
+==Biography==
+Moratín was born in [[Madrid]] the son of [[Nicolás Fernández de Moratín]],  a major literary reformer in Spain from 1762 until his death in 1828.
+
+Distrusting the teaching offered in Spain's universities at the time, Leandro grew up in the rich literary environment of his father and became an admirer of [[Age of Enlightenment|Enlightenment]] thought. In addition to translating works of [[Molière]] and [[William Shakespeare]] into Spanish, he himself was a major poet, dramatist and man of letters whose writings promoted the reformist ideas associated with the [[Enlightenment in Spain|Spanish Enlightenment]]. Early in his career, he was supported by statesman and author [[Gaspar Melchor de Jovellanos]], who, in 1787, arranged for him to study for a year in Paris. In 1792, the Spanish government provided the funds for him to travel to England in order to extend his education. In 1790 he published his first comedy ''El viejo y la niña'' (''The Old Man and the Young Girl''), a sombre work which attacked the consequences of arranged marriages between people of differing ages. Two years later, in 1792, he wrote the play ''La comedia nueva'' (''The New Comedy''), a dramatic attack on the extravagant plots used by other contemporary playwrights.
+
+A [[Afrancesado|supporter]] of [[Joseph Bonaparte]], whose rule had allowed far more expression of liberal thinking than Spain's [[House of Bourbon|Bourbon]] monarch [[Charles IV of Spain|Carlos IV]] was willing to tolerate, Moratín was given the post of royal librarian. However, his 1805 comedy ''[[The Maidens' Consent|El sí de las niñas]]'' (''The Maidens' Consent'') was denounced upon the reinstatement of the [[Spanish Inquisition|Inquisition]] when [[Ferdinand VII of Spain|Ferdinand VII]] regained the throne after the fall of the Bonapartes, and he had to abandon playwriting and was forced into exile in France.
+
+Moratín died in Paris and was buried there in the [[Père Lachaise Cemetery]]. However, at the turn of the 20th century, his remains were brought back to Spain for interment in Madrid's ''[[Panteón de Hombres Ilustres]]'' (''Pantheon of Illustrious Men'').
+
+==References==
+*{{CathEncy|wstitle=Leandro Fernandez de Moratín}}
+
+==External links==
+* {{Gutenberg author|id=44209}}
+* {{Librivox author |id=11163}}
+
+{{Age of Enlightenment}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Fernandez De Moratin, Leandro}}
+[[Category:1760 births]]
+[[Category:1828 deaths]]
+[[Category:Writers from Madrid]]
+[[Category:Spanish dramatists and playwrights]]
+[[Category:Spanish male dramatists and playwrights]]
+[[Category:18th-century Spanish poets]]
+[[Category:Afrancesados]]
+[[Category:Age of Enlightenment]]
+[[Category:Members of the Royal Spanish Academy]]
+[[Category:Translators to Spanish]]
+[[Category:Royal Order of Spain members]]
+[[Category:Burials at Père Lachaise Cemetery]]
+[[Category:Spanish male poets]]
+[[Category:18th-century male writers]]

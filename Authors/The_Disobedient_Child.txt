@@ -1,0 +1,48 @@
+{{Infobox play
+| name       = The Disobedient Child
+| image      = 
+| image_size = 
+| caption    = 
+| writer     = Thomas Ingelend
+| chorus     = 
+| characters = 
+| mute       = 
+| setting    = 
+| premiere   = c.[[1560 in literature|1560]]
+| place      = 
+| orig_lang  = 
+| series     = 
+| subject    = 
+| genre      = 
+| web        = 
+}}
+
+'''''The Disobedient Child''''' is a theatrical [[Comedy (drama)|comic]] [[Morality play|interlude]] written c.[[1560 in literature|1560]] by [[Thomas Ingelend]] (an author who is known only as a "late student of [[Cambridge]]", as described on the first edition's title-page) and first performed in a Tudor hall.<ref name="s">Southern (1973, 467-469).</ref>
+
+This play contains the famous line: "[[None is so deaf as who will not hear]]."
+
+==Morality play==
+It deals with the subject of the proper disciplinary treatment of children, raising the threat of the evil of those raised without strict discipline. It portrays a young man who is eager to marry despite his father's objections, and the unhappiness of his subsequent married life. The moral of its story is "you've made your bed, now lie in it." It ends with a song to [[Elizabeth I of England|Queen Elizabeth]].
+
+The printed edition by Thomas Colwell is without date, but it was published about the year 1560. "The source," writes Tucker Brooke, "from which Ingelend derived the rough framework of his play is a prose dialogue of the French Latinist [[Ravisius Textor]] (Jean Tixier de Ravisi, 1480-1524); but Textor's scant two hundred and thirty-five lines of question and answer between a colorless Pater Juvenis and Uxor are expanded, in the fifteen hundred lines of the English work, into a drama of much higher intensity and literary merit than the original in any way suggested."<ref>Tucker Brooke (1911, 126).</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+* Tucker Brooke, C. F. 1911. ''The Tudor Drama: A History of English National Drama to the Retirement of Shakespeare.''  Boston: Houghton Mifflin.
+* [[Edmund Kerchever Chambers|Chambers, E. K.]] 1923. ''The Elizabethan Stage.'' 4 volumes. Oxford: Clarendon Press.
+* Southern, Richard. 1973. ''The Staging of Plays Before Shakespeare.'' London: Faber. {{ISBN|0-571-10132-1}}.
+
+==Further reading==
+* {{Cite book |last=Ingelend |first=Thomas |last2=Textor |first2=Joannes Ravisius |date=1970 |title=The Disobedient Child |location=New York |publisher=AMS Press |isbn=0-404-53342-6 |oclc=334399}}
+
+{{Interludes}}
+{{Authority control}}
+{{DEFAULTSORT:Disobedient Child, The}}
+[[Category:Medieval drama]]
+[[Category:English Renaissance plays]]
+[[Category:1560s plays]]
+
+
+{{16thC-play-stub}}

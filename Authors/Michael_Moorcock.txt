@@ -1,0 +1,445 @@
+{{short description|English writer, editor, critic}}
+{{Use British English|date=August 2012}} 
+{{Use dmy dates|date=October 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Michael Moorcock
+| image      = Michael Moorcock.jpg
+| image_size  = 300px
+| caption    = Moorcock in 2006
+| pseudonym  = 
+{{plainlist|
+*Bill Barclay
+*William Ewert Barclay
+*Michael Barrington (with [[Barrington J. Bayley]])
+*Edward P. Bradbury
+*James Colvin
+*Warwick Colvin Jr.
+*Desmond Reid (shared)
+}}
+| birth_name  = Michael John Moorcock
+| birth_date  = {{birth date and age|1939|12|18|df=y}}
+| birth_place = [[London]], England, United Kingdom
+| death_date  =
+| death_place =
+| occupation  = Novelist, journalist, script writer, musician, editor
+| nationality = British
+| period      = 1957–present<ref name=isfdb/>
+| genre       = [[Science fiction]], [[fantasy]], [[literary fiction]]
+| subject     = Science fiction (as editor)
+| notableworks = ''[[New Worlds (magazine)|New Worlds]]'' (as editor)<br> ''[[Mother London]]''<br> ''[[Pyat Quartet]]'' (novels)
+| movement    = [[New Wave science fiction]] <!-- 2013-04-17, these three new fields are overkill; what is most appropriate here? --> 
+<!-- Infobox writer no longer supports the fields influences and influenced.
+See TALK -->
+| signature   =
+| website     = {{URL|http://www.multiverse.org/}}
+}}
+'''Michael John Moorcock''' (born 18 December 1939) is an [[English people|English]] writer, best-known for [[science fiction]] and [[fantasy fiction|fantasy]], who has published a number of well-received [[literary novels]] as well as comic thrillers, graphic novels and non-fiction. He has worked as an editor and is also a successful musician. He is best known for his novels about the character [[Elric of Melniboné]], a seminal influence on the field of fantasy since the 1960s and '70s.<ref>{{cite web |work=[[Nebula Award|The Nebula Awards]]| publisher=[[Science Fiction and Fantasy Writers of America]] |title=Michael Moorcock |url=https://nebulas.sfwa.org/grand-masters/michael-moorcock/ |access-date=2021-06-28 |language=en-US}}</ref>
+
+As editor of the British science fiction magazine ''[[New Worlds (magazine)|New Worlds]]'', from May 1964 until March 1971 and then again from 1976 to 1996, Moorcock fostered the development of the [[New Wave science fiction|science fiction "New Wave"]] in the UK and indirectly in the United States, leading to the advent of [[cyberpunk]].<ref name="butler-2003"/><ref name="latham-2007"/> His publication of ''[[Bug Jack Barron]]'' (1969) by [[Norman Spinrad]] as a serial novel was notorious; in Parliament, some British MPs condemned the [[Arts Council]] for funding the magazine.<ref>Michael Ashley, ''Transformations: Volume 2 in the History of the Science Fiction Magazine, 1950–1970'' (Liverpool, England: Liverpool University Press, 2005), p. 250.</ref> He is also a recording musician, contributing to the bands [[Hawkwind]], [[Blue Öyster Cult]], [[Robert Calvert]], [[Spirits Burning]], and his own project, Michael Moorcock & The Deep Fix.
+
+In 2008, ''[[The Times]]'' named Moorcock in its list of "The 50 greatest [[British literature|British writers]] since 1945".<ref name=top50>[https://www.thetimes.co.uk/article/the-50-greatest-british-writers-since-1945-ws3g69xrf90 "The 50 Greatest British Writers Since 1945"]. 5 January 2008. ''[[The Times]]''. Retrieved April 22, 2020.</ref>
+
+==Biography==
+Michael Moorcock was born in London in December 1939,<ref name="fantasybookreview.co.uk">{{cite web|url=http://www.fantasybookreview.co.uk/Michael-Moorcock/biography.html|title=Michael Moorcock biography|work=Fantasy Book Review|access-date=15 November 2016}}</ref> and the landscape of London, particularly the area of [[Notting Hill Gate]]<ref name="newstatesman">{{cite news|author=Andrew Harrison|title=Michael Moorcock: 'I think Tolkien was a crypto-fascist'|url=http://www.newstatesman.com/culture/2015/07/michael-moorcock-i-think-tolkien-was-crypto-fascist|work=[[New Statesman]]|date=24 July 2015|access-date=15 November 2016}}</ref> and [[Ladbroke Grove]], is an important influence in some of his fiction (such as the Cornelius novels).<ref name="ballardian.com">{{cite web|title=Angry Old Men: Michael Moorcock on J.G. Ballard|url=http://www.ballardian.com/angry-old-men-michael-moorcock-on-jg-ballard|publisher=Ballardian|date=9 July 2007|access-date=2 August 2015}}</ref>
+
+Moorcock has mentioned ''The Mastermind of Mars'' by [[Edgar Rice Burroughs]], ''[[The Apple Cart]]'' by [[George Bernard Shaw]] and ''The Constable of St. Nicholas'' by [[Edwin Lester Arnold]] as the first three non-juvenile books that he read before beginning primary school.<ref>[https://web.archive.org/web/20040701233612/http://www.novymir.com.au/terminalcafe/intpeopl.html Thoughts \ Interviews \ People Online Chat with Michael Moorcock<!-- Bot generated title -->]</ref> The first book he bought was a secondhand copy of ''[[The Pilgrim's Progress]]''.<ref>{{cite web|url=https://www.spectator.co.uk/2015/08/i-was-facing-truths-i-didnt-particularly-want-to-look-at-michael-moorcock-interview/|title='I was facing truths I didn't particularly want to look at': Michael Moorcock interview – The Spectator|date=8 August 2015|access-date=25 August 2017}}</ref>
+
+Moorcock is the former husband of the writer [[Hilary Bailey]] by whom he had three children: Sophie b.1963, Katherine b.1964, and Max b. 1972.<ref name=newstatesman/> He is also the former husband of Jill Riches, who later married [[Robert Calvert]]. She illustrated some of Moorcock's books, including covers, including the ''Gloriana'' dustjacket.<ref>[http://www.isfdb.org/cgi-bin/ea.cgi?58821 "Jill Riches – Summary Bibliography"]. ISFDB. Retrieved 4 April 2013.</ref> In 1983, Linda Steele became Moorcock's third wife.<ref>[[John Clute]], [https://books.google.com/books?id=kcpmDwAAQBAJ&pg=PT8 "Introduction to ''The Michael Moorcock Collection''"], in ''The Steel Tsar'', Hachette, 2018.</ref><ref>[http://www.multiverse.org/index.php?title=Michael_Moorcock "Michael Moorcock"], multiverse.org.</ref><ref>Iain Sinclair, [https://www.the-tls.co.uk/articles/public/michael-moorcocks-ghost-fleet/ "Michael Moorcock’s ghost fleet"], ''[[The Times Literary Supplement]]'' (''TLS''), 7 October 2013.</ref>
+
+He was an early member of the [[Swordsmen and Sorcerers' Guild of America]] (SAGA), a loose-knit group of eight [[heroic fantasy]] authors founded in the 1960s and led by [[Lin Carter]], self-selected by fantasy credentials alone.<ref>{{Cite web|last=Troughton|first=R.K.|date=2014-01-22|title=Interview with SFWA Grand Master Michael Moorcock|url=https://www.pmpress.org/blog/2019/08/05/interview-with-sfwa-grand-master-michael-moorcock/|access-date=2020-08-24|website=PM Press}}</ref><!-- source is our SAGA -->
+
+Moorcock is the subject of four book-length works, a monograph and an interview, by [[Colin Greenland]]. In 1983, Greenland published ''[[The Entropy Exhibition: Michael Moorcock and the British 'New Wave' in Science Fiction]]''. He followed this with ''Michael Moorcock: Death is No Obstacle'', a book-length interview about technique, in 1992. ''Michael Moorcock: Law of Chaos'' by Jeff Gardiner and ''Michael Moorcock: Fiction, Fantasy and the World's Pain'' by Mark Scroggins were published more recently.
+
+In the 1990s, Moorcock moved to [[Texas]] in the United States.<ref name="ofblog.blogspot.co.uk">{{cite web|url=http://ofblog.blogspot.co.uk/2006/05/interview-with-michael-moorcock.html|title=An Interview with Michael Moorcock|date=5 May 2006|work=ofblog.blogspot.co.uk|access-date=15 November 2016}}</ref> His wife Linda is American.<ref name="theguardian.com">{{cite news|author=Hari Kunzru|title=When Hari Kunzru met Michael Moorcock |url=https://www.theguardian.com/books/2011/feb/04/michael-moorcock-hari-kunzru|work=The Guardian|date=4 February 2011|access-date=15 November 2016}}</ref> He spends half of the year in Texas, the other half in [[Paris]].<ref name="newstatesman"/><ref>{{cite web|author=Ben Graham|title=Talking to the Sci-Fi Lord: Regenerations & Ruminations With Michael Moorcock |url=http://thequietus.com/articles/05325-michael-moorcock-interview-dr-who-the-coming-of-the-terraphiles|work=The Quietus|date=22 November 2010|access-date=15 November 2016}}</ref>
+
+==Political views==
+
+Moorcock's works are noted for their political nature and content. In one interview, he states, "I am an [[anarchism|anarchist]] and a [[Pragmatism|pragmatist]]. My moral/philosophical position is that of an anarchist."<ref name="Mythmakers & Lawbreakers">{{cite web|last=Killjoy|first=Margaret|url=http://www.tangledwilderness.org/pdfs/mmlb10-michael-web.pdf|title=Mythmakers & Lawbreakers: anarchist writers on fiction|publisher=AK Press|date=2009|access-date=15 November 2016}}</ref> In describing how his writing relates to his political philosophy, Moorcock says, "My books frequently deal with aristocratic heroes, gods and so forth. All of them end on a note which often states quite directly that one should serve [[No gods, no masters|neither gods nor masters]] but become one's own master."<ref name="Mythmakers & Lawbreakers"/>
+
+Besides using fiction to explore his politics,<ref name="ofblog.blogspot.co.uk"/> Moorcock also engages in [[activism|political activism]]. In order to "marginalize stuff that works to objectify women and suggests women enjoy being beaten", he has encouraged [[W H Smith]]s to move [[John Norman]]'s ''[[Gor]]'' series novels to the [[Top shelf magazine|top shelf]].<ref name="Mythmakers & Lawbreakers"/>
+
+==Writer==
+
+===Fiction===
+Moorcock began writing while he was still at school, contributing to a magazine he entitled ''Outlaw's Own'' from 1950 on.<ref name="fantasybookreview.co.uk"/>
+
+In 1957, at the age of 17, Moorcock became editor of   ''Tarzan Adventures'' (a national juvenile weekly featuring text and Tarzan comic strip), where he published at least a dozen of his own "Sojan the Swordsman" stories during that year and the next.<ref name=isfdb-sojan/> At age 18 (in 1958), he wrote the allegorical fantasy novel ''The Golden Barge''. This remained unpublished until 1980, when it was issued by Savoy Books with an introduction by [[M. John Harrison]]. At 19, <ref name="ballardian.com"/> Moorcock worked on ''Sexton Blake Library'' (serial [[pulp magazine|pulp fiction]] featuring [[Sexton Blake]], the poor man's [[Sherlock Holmes]])<ref name=SFE-blake/> <!-- realistic crime fiction? sf/fantasy?-->. Writing ever since, he has produced a huge volume of work. His first story in ''New Worlds'' was "Going Home" (1958; with [[Barrington J. Bayley]]). "The Sundered Worlds", a 57-page novella published in the November 1962 number of ''[[Science Fiction Adventures (British magazine)|Science Fiction Adventures]]'', edited by [[John Carnell]], became, with its sequel "The Blood Red Game" from the same magazine, the basis for his 190-page paperback debut SF novel<!-- according to a previous editor. ISFDB does not provide months to support it (cf. http://www.isfdb.org/cgi-bin/pe.cgi?4215 --> three years later, ''The Sundered Worlds'' (Compact Books, 1965; in the U.S., Paperback Library, 1966).<ref name=isfdb/>
+
+Moorcock replaced Carnell as ''New Worlds'' editor from the May–June 1964 number.<ref name=isfdb/> Under his leadership the magazine became central to "New Wave" science fiction. This movement promoted literary style and an existential view of technological change, in contrast to "[[hard science fiction]]",<ref>{{cite encyclopedia|url=http://www.sf-encyclopedia.com/entry/new_wave|title=New Wave|date=2 April 2015|encyclopedia=The Encyclopaedia of Science Fiction|access-date=15 November 2016}}</ref> which extrapolated on technological change itself. Some "New Wave" stories were not recognisable as traditional science fiction, and ''New Worlds'' remained controversial for as long as Moorcock edited it.  Moorcock claimed that he wanted to publish experimental/literary fiction using techniques and subject matter from the SF genre but, initially at least, to marry 'popular' and 'literary fiction at what he considered their natural overlap. After 1967, this policy became evident. 
+
+During that time, he occasionally wrote as "'''James Colvin'''", a "house [[pseudonym]]" originally created for him by John Carnell also used by other ''New Worlds'' critics. A spoof obituary of Colvin appeared in ''New Worlds'' #197 (January 1970), written by Charles Platt as "William Barclay". Moorcock makes much use of the initials "JC"; these are also the initials of [[Jesus]] [[Christ]], the subject of his 1967 [[Nebula Award for Best Novella|Nebula Award]]-winning [[novella]] ''[[Behold the Man (novel)|Behold the Man]]'', which tells the story of Karl Glogauer, a [[time travel|time-traveller]] who takes on the role of Christ. They are also the initials of various "Eternal Champion" Moorcock characters such as Jerry Cornelius, Jerry Cornell and Jherek Carnelian. In more recent years, Moorcock has taken to using "'''Warwick Colvin, Jr.'''" as a pseudonym, particularly in his "Second Ether" fiction.
+
+Moorcock talks about much of his writing in ''Death Is No Obstacle'' by Colin Greenland, which is a book-length transcription of interviews with Moorcock about the techniques in his writing.
+
+Moorcock has also published pastiches of writers for whom he felt affection as a boy, including [[Edgar Rice Burroughs]], [[Leigh Brackett]], and [[Robert E. Howard]]. All his fantasy adventures have elements of satire and parody, while respecting what he considers the essentials of the form. Although his heroic fantasies have been his most consistently reprinted books in the United States, he achieved prominence in the UK as a literary author, with the [[Guardian Fiction Award|''Guardian'' Fiction Prize]] in 1977 for ''The Condition of Muzak'', and with ''[[Mother London]]'' later shortlisted for the [[Whitbread Prize]].<ref>Jerome Winter, [https://lareviewofbooks.org/article/radiant-time-an-interview-with-michael-moorcock/# "Radiant Time: An Interview with Michael Moorcock"], ''Los Angeles Review of Books'', 30 January 2013.</ref>
+
+Novels and series such as the ''[[Jerry Cornelius|Cornelius Quartet]]'', ''[[Mother London]]'', ''[[King of the City]]'', the ''[[Pyat Quartet]]'' and the short story collection ''[[London Bone]]'' have established him in the eyes of critics such as [[Iain Sinclair]], [[Peter Ackroyd]] and [[Allan Massie]] in publications including ''[[The Times Literary Supplement]]'' and the ''[[London Review of Books]]'' as a major contemporary literary novelist. In 2008 Moorcock was named by a critics' panel in ''[[The Times]]'' as one of the fifty best British novelists since 1945.<ref name=top50/> Virtually all of his stories are part of his overarching "[[Eternal Champion (character)|Eternal Champion]]" theme or ''oeuvre'', with characters (including Elric) moving from one storyline and [[fictional universe]] to another, all of them interconnected (though often only in dreams or [[Vision (religion)|visions]]).
+
+Most of Moorcock's earlier work consisted of short stories and relatively brief novels: he has mentioned that "I could write 15,000 words a day and gave myself three days a volume. That's how, for instance, the Hawkmoon books were written."<ref>{{Cite web| title=The Michael Moorcock Interview |work=Quantum Muse | url=http://www.quantummuse.com/michael_moorcock_interview.html | access-date=18 February 2007}}</ref> Over the period of the ''New Worlds'' editorship and his publishing of the original fantasy novels Moorcock has maintained an interest in the craft of writing and a continuing interest in the semi-journalistic craft of "pulp" authorship. This is reflected in his development of interlocking cycles which hark back to the origins of fantasy in myth and medieval cycles (see "Wizardry and Wild Romance – Moorcock" and "Death Is No Obstacle – Colin Greenland" for more commentary). This also provides an implicit link with the episodic origins of literature in newspaper/magazine serials from Trollope and Dickens onwards. None of this should be surprising given Moorcock's background in magazine publishing.
+
+Since the 1980s, Moorcock has written longer, more literary "mainstream" novels, such as ''[[Mother London]]'' and ''Byzantium Endures,'' but he continued to revisit characters from his earlier works, such as Elric. With the publication of the third and last book in  his Elric oonbeam Roads sequence,  he announced that he was "retiring" from writing heroic fantasy fiction, though <!--see TALK-->he continued to write Elric's adventures as graphic novels with his long-time collaborators [[Walter Simonson]]<!--see TALK--> and the late [[James Cawthorn (artist)|James Cawthorn]] (1929–2008){{efn|name=cawthorn}}  and in 2021 announced that he had written a 'straight' Elric novel, within the first canon, for the 60th anniversary of his hero's appearance. He and Simonson <!--see TALK-->  produced the graphic novel, ''Elric: the Making of a Sorcerer'', published by DC Comics in 2007. In 2006, he completed his ''Colonel Pyat'' sequence, dealing with the Nazi Holocaust. This began in 1981 with ''[[Byzantium Endures]]'', continued through ''[[The Laughter of Carthage]]'' (1984) and ''[[Jerusalem Commands]]'' (1992), and culminated with ''[[The Vengeance of Rome]]'' (2006).  His most recent sequence, ''[[KABOUL]]'', with illustrations by Miles Hyman, was published in French by Denoel.
+
+Among other works by Moorcock are ''[[The Dancers at the End of Time]]'', set on Earth millions of years in the future, ''[[Gloriana (novel)|Gloriana, or The Unfulfill'd Queen]],'' which he describes as an argument with Spenser's The Faerie Queen, set in an [[Alternative history|alternative Earth history]] and the 'Second Ether' sequence beginning with 'BLOOD', mixing absurdism, reminiscence and family memoir against the background of his multiverse.
+
+Moorcock is prone to revising his existing work, with the result that different editions of a given book may contain significant variations. The changes range from simple retitlings (the Elric story ''The Flame Bringers'' became ''The Caravan of Forgotten Dreams'' in the 1990s [[Victor Gollancz Ltd|Victor Gollancz]]/White Wolf omnibus editions) to character name changes (such as detective "Minos Aquilinas" becoming first "Minos von Bek" and later "Sam Begg" in three different versions of the short story "The Pleasure Garden of Felipe Sagittarius"),<ref>[https://www.multiverse.org/forum/the-multiverse/the-pleasure-gardens-of-felipe-sagittarius-%E2%97%A6-polls "The Pleasure Garden of Felipe Sagittarius"]. Wiki hosted by Moorcock's Miscellany.</ref> major textual alterations (for example, the addition of several new chapters to ''The Steel Tsar'' in the omnibus editions), and even complete restructurings (as with the 1966 novella ''Behold the Man'' being expanded to novel-length and into a novel rather than an SF story recreated from the original version that appeared in ''New Worlds'' for republication as a book in 1969 by [[Allison and Busby]]).
+
+A new, final revision of almost Moorcock's entire oeuvre, with the exception of his literary novels ''Mother London'', ''King of the City'' and the Pyat quartet, is issued by Gollancz and many of his titles are  reprinted in the United States by Simon and Schuster and Titan and in France by Gallimard. Many novels and comics based on his work are being reprinted by Titan Books under the general title The Michael Moorcock Library, while in France a new adaptation of the Elric series has been translated into many languages, including English.
+
+====Elric of Melniboné and the Eternal Champion====
+
+Moorcock's best-selling works have been the "[[Elric of Melniboné]]" stories.<ref>{{cite web|url=http://www.eclipse.co.uk/sweetdespise/moorcock/|title=Michael Moorcock: Cartographer of the Multiverse|author=Ian Davey|date=1996–2001|work=Sweet Despise|access-date=15 November 2016}}</ref> In these, Elric is a deliberate reversal of [[cliché]]s found in fantasy adventure novels inspired by the works of [[J. R. R. Tolkien]].<ref>{{Cite magazine|last=Bebergal|first=Peter|title=The Anti-Tolkien|url=https://www.newyorker.com/books/page-turner/anti-tolkien|access-date=2021-05-12|magazine=The New Yorker|language=en-US}}</ref>  J.G.Ballard once described him as the Dashiell Hammett of fantasy compared to Tolkien's Agatha Christie. 
+
+Central to many of his seminal fantasy novels, including his Elric books, is the concept of an "[[Eternal Champion (character)|Eternal Champion]]", who has multiple identities across alternate universes.<ref name=SFE>{{cite encyclopedia|url=http://www.sf-encyclopedia.com/entry/moorcock_michael|title=Michael Moorcock|date=27 September 2016|encyclopedia=The Encyclopaedia of Science Fiction|access-date=15 November 2016}}</ref> This [[cosmology]] is called the "[[Multiverse (Michael Moorcock)|Multiverse]]" within his novels. The Multiverse deals with primal polarities such as...  (Miltonic) Law and Chaos,<ref>{{cite web|url=http://www.newyorker.com/books/page-turner/anti-tolkien|title=The Anti-Tolkien|author=Peter Bebergal |date=31 December 2014|work=The New Yorker|access-date=15 November 2016}}</ref> and order and entropy.
+
+[[Elric]]'s success has overshadowed his other works, though he has worked the Elric stories' themes into his other works (the "Hawkmoon" and "Corum" novels, for example). And Elric appears in the Jerry Cornelius and Dancers at the End of Time cycles. His Eternal Champion sequence has been collected in two different editions of omnibus volumes totaling 16 books (the U.S. edition was 15 volumes, while the British edition was 14 volumes, but due to various rights issues, the U.S. edition contained two volumes that were not included in the British edition, and the British edition likewise contained one volume that was not included in the U.S. edition) containing several books per volume, by Victor Gollancz in the UK and by [[White Wolf Publishing]] in the US. Several attempts to make an Elric film were made. Moorcock refused to resign the options, usually when they seemed to drift too far off course. In February 2019, BBC Studios announced they had secured the rights to the Runestaff series of fantasy novels, which feature Hawkmoon as their hero.<ref>{{cite web |title=BBC Studios secures the rights to Michael Moorcock's Runestaff fantasy novels |url=https://www.bbc.co.uk/mediacentre/bbcstudios/2019/Michael-Moorcock-Runestaff |website=BBC |access-date=23 April 2020}}</ref>
+
+====Jerry Cornelius====
+
+Another of Moorcock's creations is [[Jerry Cornelius]], a hip urban adventurer of [[androgyny|ambiguous gender]]; the same characters featured in each of several Cornelius books. These books were satirical of modern times, including the Vietnam War, and continued to feature another variation of the multiverse theme.<ref name=SFE/> The first Jerry Cornelius book, ''The Final Programme'' (1968), was made into a [[The Final Programme (film)|feature film]] in 1973.<ref>{{cite web|url=http://amazingstoriesmag.com/2014/01/interview-sfwa-grand-master-michael-moorcock/|title=Interview with SFWA Grand Master Michael Moorcock|author=R.K. Troughton|date=22 January 2014|work=Amazing Stories Magazine|access-date=15 November 2016|archive-url=https://web.archive.org/web/20160913143044/http://amazingstoriesmag.com/2014/01/interview-sfwa-grand-master-michael-moorcock/|archive-date=13 September 2016|url-status=dead}}</ref> Its story line is identical to two of the Elric stories: ''The Dreaming City'' and ''The Dead Gods' Book.'' Since 1998, Moorcock has returned to Cornelius in a series of new stories: ''The Spencer Inheritance'', ''The Camus Connection'', ''Cheering for the Rockets'', and ''Firing the Cathedral'', which was concerned with 9/11. All four novellas were included in the 2003 edition of ''[[The Lives and Times of Jerry Cornelius]]''. Moorcock's most recent Cornelius stories, "Modem Times", appeared in ''The Solaris Book of New Science Fiction: Volume 2'', published in 2008, this was expanded in 2011 as "Modem Times 2.0". Additionally, a version of Cornelius also appeared in Moorcock's 2010 ''[[Doctor Who]]'' novel ''[[The Coming of the Terraphiles]]''. ''Pegging the President'' (PS. 2018), ''The Fracking Factory'' (on FB, 2018) are two recent novellas and further stories are forthcoming.
+
+===Views on fiction writing===
+
+Moorcock is a fervent supporter of [[Mervyn Peake]]'s works.<ref>{{cite web|url=http://www.langjones.com/moorc.html|title=Mervyn Peake|author=Michael Moorcock|date=1997|work=An abridged version of his introduction to the Folio Society edition of the Gormenghast trilogy|access-date=15 November 2016}}</ref> <!--needs expansion too -P64 -->
+
+He cites [[Fritz Leiber]], an important sword and sorcery pioneer, as an author who writes fantasy that is not [[Escapism|escapist]] and contains meaningful themes. These views can be found in his study of [[high fantasy|epic fantasy]], ''[[Wizardry and Wild Romance]]'' (Gollancz, 1987) which was revised and reissued by [[MonkeyBrain Books]] in 2004, its first U.S. edition catalogued by ISFDB.<ref name=isfdb/>{{clarify |reason=Was it actually the first US ed.? expanded? updated? ISFDB lists no latterday UK edition which hard to believe (maybe ISFDB oversight) if the revision was important |date=April 2013}}
+
+Moorcock is dismissive of [[J. R. R. Tolkien]]'s works. He met both Tolkien and [[C. S. Lewis]] in his teens and claims to have liked them personally even though he does not admire them on artistic grounds. Moorcock criticised works such as ''[[The Lord of the Rings]]'' for their "[[Merry England]]" point of view, equating Tolkien's novel to ''[[Winnie-the-Pooh]]'' in his essay ''[[Epic Pooh]]''.<ref>{{Cite web| title=Epic Pooh | author=Michael Moorcock |publisher=RevolutionSF | url=http://www.revolutionsf.com/article.php?id=953 | access-date=15 February 2009}}</ref> Even so, James Cawthorn and Moorcock included ''The Lord of the Rings'' in ''Fantasy: The 100 Best Books'' (Carroll & Graf, 1988), and their review is not dismissive.{{efn|name=cawthorn}}
+
+Moorcock has also criticized writers for their [[political]] agendas. He included [[Robert A. Heinlein]] and [[H. P. Lovecraft]] among this group in a 1978 essay, "Starship Stormtroopers" (''Anarchist Review''). There he criticised the production of "authoritarian" fiction by certain canonical writers and Lovecraft for having [[Antisemitism|antisemitic]], [[misogynistic]], and [[racist]] viewpoints woven into his short stories.<ref>{{Cite web|title=Starship Stormtroopers |author=Michael Moorcock |publisher=A People's Libertarian Index |url=http://flag.blackened.net/liberty/moorcock.html |access-date=18 February 2007 |url-status=dead |archive-url=https://web.archive.org/web/20021224193414/http://flag.blackened.net/liberty/moorcock.html |archive-date=24 December 2002 }}</ref>
+
+===Sharing fictional universes with others===
+
+Moorcock has allowed other writers to create stories in his fictional Jerry Cornelius universe. [[Brian Aldiss]], [[Hilary Bailey]], [[M. John Harrison]], [[Norman Spinrad]], [[James Sallis]], and [[Steve Aylett]] have written such stories. In an interview published in ''[[The Internet Review of Science Fiction]],'' Moorcock explains the reason for sharing his character:
+
+{{quote|I came out of popular fiction and Jerry was always meant to be a sort of crystal ball for others to see their own visions in – the stories were designed to work like that – a diving board, to use another analogy, from which to jump into the river and be carried along by it. [...] All of these have tended to use Jerry the way I intended to use him – as a way of seeing modern life and sometimes as a way of commenting on it. Jerry, as Harrison said, was as much a technique as a character and I'm glad that others have taken to using that method.<ref>{{Cite web | title=An Interview with Michael Moorcock | author=Mike Coombes | publisher=The Internet Review of Science Fiction | url=http://www.irosf.com/q/zine/article/10115 | access-date=18 February 2007 | archive-url=https://web.archive.org/web/20051122070102/http://www.irosf.com/q/zine/article/10115 | archive-date=22 November 2005 | url-status=dead }}</ref>}}
+
+Two short stories by [[Keith Roberts]], "Coranda" and "The Wreck of the Kissing Bitch", are set in the frozen Matto Grosso plateau of Moorcock's 1969 novel, ''[[The Ice Schooner]]''.
+
+Elric of Melnibone and Moonglum appear in [[Karl Edward Wagner]]'s story "The Gothic Touch", where they meet with [[Kane (fantasy)|Kane]], who borrows Elric for his ability to deal with demons.
+ 
+He is a friend and fan of [[Comics|comic book]] writer [[Alan Moore]] and allowed Moore the use of his own character, Michael Kane of Old Mars, mentioned in Moore's ''[[The League of Extraordinary Gentlemen, Volume II]]''. The two appeared on stage at the Vanbrugh Theatre in London in January 2006 where they discussed Moorcock's work. The Green City from ''Warriors of Mars'' was also referenced in [[Larry Niven]]'s ''[[Rainbow Mars]]''. Moorcock's character [[Jerry Cornelius]] appeared in Moore's ''[[The League of Extraordinary Gentlemen, Volume III: Century]]''.
+
+Cornelius also appeared in French artist [[Jean Giraud|Mœbius]]' comic series ''[[Airtight Garage|Le Garage Hermétique]]''.
+
+In 1995–96, Moorcock wrote a script for a computer game/film/novel by [[Origin Systems]].<ref>{{cite journal|title=Origin|journal=[[Next Generation (magazine)|Next Generation]]|issue=13 |publisher=[[Imagine Media]] |date=January 1996|pages=105–8|quote=We've also got a game called ''Silver Heart'' that should be coming out next year. It's going to be an adventure-fantasy in the cinematic fold of ''[[Wing Commander (franchise)|Wing Commander]]'', with a script by Michael Moorcock.}}</ref> When Electronic Arts bought Origins, the game was cancelled, but Moorcock's 40,000-word treatment was fleshed out by [[Storm Constantine]], resulting in the novel ''Silverheart''. The story is set in Karadur-Shriltasi, a city at the heart of the [[Parallel universe (fiction)|Multiverse]]. A second novel, ''Dragonskin'', was in preparation, with Constantine as the main writer, but she died in January 2021, after a long illness. Moorcock abandoned a memoir about his friends Mervyn Peake and [[Maeve Gilmore]] because he felt it was too personal.
+
+He wrote prose and verse for ''The Sunday Books'' first publication in French to accompany a set of unpublished Peake drawings. His book ''The Metatemporal Detective'' was published in 2007. His most recent book published first in French is ''Kaboul'', in 2018.
+
+In November 2009, Moorcock announced<ref>{{Cite web| url=http://www.multiverse.org/fora/showpost.php?p=182334&postcount=1| archive-url=https://web.archive.org/web/20110606124841/http://www.multiverse.org/fora/showpost.php?p=182334&postcount=1| url-status=dead| archive-date=6 June 2011|title=BY TARDIS THROUGH THE MULTIVERSE}}</ref> that he would be writing a ''[[Doctor Who]]'' novel for [[BBC Books]] in 2010, one of the few occasions when he has written stories set in other people's "shared universes".<ref>{{Cite news| last = Moorcock | first = Michael |author2=Michael Moorcock | title = I'm Writing the New Doctor Who | newspaper = The Guardian | location = UK| date =21 November 2009 | url = https://www.theguardian.com/books/2009/nov/21/michael-moorcock-doctor-who-author | access-date = 22 June 2010}}</ref> The novel ''[[The Coming of the Terraphiles]]'' was released in October 2010. The story merges Doctor Who with many of Moorcock's characters from the multiverse, notably Captain Cornelius and his pirates.<ref>{{Cite web | title = Doctor Who The Coming of the Terraphiles Michael Moorcock | publisher = BBC Books | date = 11 June 2010 | url = http://www.multiverse.org/imagehive/d/93291-1/The+Coming+of+the+Terraphiles+pr.pdf | archive-url = https://web.archive.org/web/20120402030106/http://www.multiverse.org/imagehive/d/93291-1/The+Coming+of+the+Terraphiles+pr.pdf | url-status = dead | archive-date = 2 April 2012 | access-date = 22 June 2010 }}</ref> In 2016 Moorcock published the first novel in what he terms a literary experiment blending memoir and fantasy, ''The Whispering Swarm''.  In 2018, he announced his completion of the second volume ''The Woods of Arcady''. In 2020, he said he was completing the final Elric novel ''The Citadel of Lost Dragons'' ready for Elric's 60th anniversary in 2021. His Jerry Cornelius novella ''Pegging the President'' was launched in 2018 at [[Shakespeare and Company (bookstore)|Shakespeare and Co]], Paris, where he discussed his work with [[Hari Kunzru]] and reaffirmed his commitment to literary experiment.
+
+===Audiobooks===
+
+The first of an [[audiobook]] series of unabridged Elric novels, with new work read by Moorcock, began appearing from AudioRealms; however, [https://goodereader.com/blog/digital-publishing/audio-realms-is-out-of-business Audio Realms] is no longer in business. The second audiobook in the series – ''The Sailor on the Seas of Fate'' – was published in 2007.  There have been audio-books of ''Corum'' and others, several of which were unofficial and ''A Winter Admiral'' and ''Furniture'' are audio versions of short stories. Since then ''The Whispering Swarm'' and the ''Corum'' books became available vis Audible and all the Elric books were scheduled to appear in audio form to coincide with Simon and Schuster's new illustrated set in 2022.
+
+==Music==
+
+===Michael Moorcock & The Deep Fix===
+
+Moorcock has his own music project, which records under the name '''Michael Moorcock & The Deep Fix'''. ''The Deep Fix'' was the title story of an obscure collection of short stories by James Colvin (a pen name of Moorcock) and was the name of the [[Jerry Cornelius]] band. Moorcock's story had dealt with releasing the unconscious and although referencing William Burroughs had no specific illicit drug meaning.  This allegedly lost the band considerable airplay and gave Moorcock what he called 'a great reputation in the drug community' but made venues and stations wary of booking and playing them.  
+The first album ''[[New Worlds Fair]]'' was released in 1975. The album included [[Snowy White]], [[Pete Pavli]] of The Third Ear Band, regulars Steve Gilmore and Graham Charnock. Moorcock himself on guitars, mandolin and banjo, and a number of Hawkwind regulars in the credits. A second version of the ''New Worlds'' album was issued in 2004 under the album name ''Roller Coaster Holiday''. A non-album rock single, including Lemmy on bass and Moorcock playing his own Rickenbacker 330/12, "Starcruiser" coupled with "Dodgem Dude", was belatedly issued in 1980 on ''Flicknife''. 
+
+Although announced to appear at Dingwalls, the performance was cancelled when schedules clashed. The Deep Fix gave a rare live performance at the [[Roundhouse (venue)|Roundhouse]], London on 18 June 1978 at ''[[Nik Turner]]'s Bohemian Love-In'', headlined by Turner's band Sphynx and also featuring Tanz Der Youth with [[Brian James (guitarist)|Brian James]] (ex-[[The Damned (band)|The Damned]]), [[Lightning Raiders]], [[Steve Took's Horns]], Roger Ruskin and others.<ref>Ian Abrahams, [https://books.google.co.uk/books?id=GLyU7PC_z7sC&pg=PA112 ''Hawkwind – Sonic Assassins''], SAF Publishing, 2004, p. 112.</ref>  
+
+In 1982, as a trio with Pete Pavli and Drachen Theaker, some Deep Fix  recordings were issued on ''[[Hawkwind, Friends and Relations]]'' and a limited-edition 7" single of "Brothel in Rosenstrasse" backed with "Time Centre", which featured ''[[Langdon Jones]]'' on piano.
+In 2008, ''The Entropy Tango & Gloriana Demo Sessions'' by Michael Moorcock & The Deep Fix was released. These were sessions for planned albums based on two of Moorcock's novels, ''[[Gloriana (novel)|Gloriana, or The Unfulfill'd Queen]]'' and ''[[The Entropy Tango]]'', which were never completed.  Pavli, Moorcock and Falcone are currently in the process of making the intended versions of those songs based on the group's TEAC recordings of the 80s.  They are influenced heavily by modern classical music which they look to for inspiration. Moorcock's considerable range is demanded. Moorcock and Pavli have long been advocates for Mahler, Schoenberg, Ives and other 20th century composers.
+
+Working with [[Martin Stone (guitarist)|Martin Stone]], Moorcock began recording a new Deep Fix album in Paris, titled ''Live at the Terminal Cafe''. Following Stone's death in 2016, Moorcock made plans to complete the album with producer [[Don Falcone]]. In 2019, Moorcock announced the completion of the album, and it was released 11 October 2019, on [[Cleopatra Records]].
+
+===With Hawkwind===
+
+Moorcock collaborated with the British rock band [[Hawkwind]]<ref>Mike Coombes, [http://www.irosf.com/q/zine/article/10115 "An Interview with Michael Moorcock"] {{Webarchive|url=https://web.archive.org/web/20051122070102/http://www.irosf.com/q/zine/article/10115 |date=22 November 2005 }}, ''The Internet Review of Science Fiction'', February 2005.</ref> on many occasions: the Hawkwind track "[[Space Ritual|The Black Corridor]]", for example, included verbatim quotes from Moorcock's [[The Black Corridor|novel of the same name]], and he worked with the band on their album ''[[Warrior on the Edge of Time]],<ref>[https://www.avclub.com/blue-oyster-cult-s-veteran-of-the-psychic-wars-is-eve-1798234525 Blue Öyster Cult’s “Veteran Of The Psychic Wars” is even bigger than the movie that inspired it<!-- Bot generated title -->]</ref> ''for which he earned a gold disc. Moorcock also wrote the lyrics to "[[Sonic Attack]]", a Sci-Fi satire of the public information broadcast, that was part of Hawkwind's ''Space Ritual'' set. Hawkwind's album ''[[The Chronicle of the Black Sword]]'' was largely based on the Elric novels. Moorcock appeared on stage with the band on many occasions, including the Black Sword tour. His contributions were removed from the original release of the ''[[Live Chronicles]]'' album, recorded on this tour, for legal reasons, but have subsequently appeared on some double-CD versions. He can also be seen performing on the DVD version of ''Chronicle of the Black Sword''.
+
+===With Robert Calvert===
+
+Moorcock also collaborated with former Hawkwind frontman and resident poet, [[Robert Calvert]] (who gave the chilling declamation of "Sonic Attack"), on Calvert's albums ''[[Lucky Leif and the Longships]]'' and ''[[Hype (album)|Hype]]'', playing guitar and banjo and singing background vocals with his wife Linda.
+
+===With Blue Öyster Cult===
+
+Moorcock wrote the lyrics to three album tracks by the American band [[Blue Öyster Cult]]: "[[Black Blade (song)|Black Blade]]", referring to the sword Stormbringer in the Elric books, "[[Veteran of the Psychic Wars]]", showing us Elric's emotions at a critical point of his story (this song may also refer to the "Warriors at the Edge of Time", which figure heavily in Moorcock's novels about John Daker; at one point his novel ''The Dragon in the Sword'' they call themselves the "veterans of a thousand psychic wars"), and "[[Mirrors (Blue Öyster Cult album)|The Great Sun Jester]]", about his friend, the poet Bill Butler, who died of a drug overdose. Moorcock has performed live with BÖC (in 1987 at the Atlanta, GA [[Dragon Con]] Convention).
+
+===With Spirits Burning===
+
+Moorcock contributed vocals and harmonica to the [[Spirits Burning]] albums ''An Alien Heat'' and ''The Hollow Lands''. Most of the lyrics were taken from or based on text in novels from Moorcock's ''[[The_Dancers_at_the_End_of_Time|The Dancers At The End Of Time]]'' trilogy. The albums were produced by Spirits Burning leader [[Don Falcone]], and included contributions from [[Albert Bouchard]] and other members of [[Blue Öyster Cult]], as well as former members of Hawkwind.
+
+Moorcock plays harmonica on three songs on the 2021 Spirits Burning album ''Evolution Ritual''.
+
+Moorcock also appeared on five tracks on the Spirits Burning CD ''Alien Injection'', released in 2008. He is credited with singing lead vocals and playing glockenspiel, guitar and mandolin. The performances used on the CD were from ''The Entropy Tango & Gloriana Demo Sessions''.
+
+===Other Appearances===
+
+Moorcock's last public appearance as a music performer was with [[Nik Turner]] and Flame Tree in Austin, Texas, March 2019.
+
+Moorcock is currently writing songs for [[Alan Davey (musician)|Alan Davey]] and other old-time collaborators.
+
+==Awards and honours==
+Michael Moorcock has received great recognition for his career contributions as well as for particular works.<ref name=SFAwards/>
+
+The [[EMP Museum#Science Fiction and Fantasy Hall of Fame|Science Fiction and Fantasy Hall of Fame]] inducted Moorcock in 2002 <ref name=sfhof-old/> He also received life achievement awards at the [[World Fantasy Convention]] in 2000 ([[World Fantasy Award]]), at the [[Utopiales|Utopiales International Festival]] in 2004 (Prix Utopia), from the [[Horror Writers Association]] in 2005 ([[Bram Stoker Award]]), and from the [[Science Fiction and Fantasy Writers of America]] in 2008 (named its 25th Grand Master).<ref name=SFAwards/><ref name=SFWA/> He is a Parisian  member of the London College of Pataphysicians.
+
+* 1993 British Fantasy Award (Committee Award)<ref name=SFAwards/>{{clarify|date=March 2013}}
+* 2000 [[World Fantasy Award for Life Achievement]]<ref>{{cite web|author=World Fantasy Convention |year=2010 |title=Award Winners and Nominees |url=http://www.worldfantasy.org/awards/awardslist.html/ |access-date=4 February 2011 |url-status=dead |archive-url=https://web.archive.org/web/20101201074405/http://worldfantasy.org/awards/awardslist.html |archive-date=1 December 2010 }}</ref>
+* 2004 Prix Utopiales "Grandmaster" Lifetime Achievement Award<ref name=SFAwards/>
+* 2004 [[Bram Stoker Award for Lifetime Achievement]] in the horror genre<ref name=HWA/>
+* 2008 [[Damon Knight Memorial Grand Master Award]], literary fantasy and science fiction<ref name=SFWA/>
+
+He was "Co-Guest of Honor" at the 1976 [[World Fantasy Convention]] in New York City<ref>{{cite web|url=http://www.worldfantasy.org/retro.html|title=History of the World Fantasy Conventions.|access-date=25 August 2017|url-status=dead|archive-url=https://web.archive.org/web/20141007055300/http://www.worldfantasy.org/retro.html|archive-date=7 October 2014}}</ref> and one Guest of Honor at the 1997 [[55th World Science Fiction Convention]] in [[San Antonio, Texas]].
+
+;Awards for particular works<ref name=SFAwards/>
+
+* 1967 [[Nebula Award]] (Novella): ''[[Behold the Man (novel)|Behold the Man]]''
+* 1972 [[British Fantasy Award|August Derleth Fantasy Award]]: ''The Knight of the Swords''<ref name="WWE-1972">{{Cite web
+| url = http://www.worldswithoutend.com/books_year_index.asp?year=1972
+| title = 1972 Award Winners & Nominees
+| work = Worlds Without End
+| access-date=1 July 2009
+}}</ref>
+* 1973 August Derleth Fantasy Award: ''The King of the Swords''<ref name="WWE-1973">{{Cite web
+| url = http://www.worldswithoutend.com/books_year_index.asp?year=1973
+| title = 1973 Award Winners & Nominees
+| work = Worlds Without End
+| access-date=1 July 2009
+}}</ref>
+* 1974 British Fantasy Award (Best Short Story): ''The Jade Man's Eyes''
+* 1975 August Derleth Fantasy Award: ''The Sword and the Stallion''<ref name="WWE-1975">{{Cite web
+| url = http://www.worldswithoutend.com/books_year_index.asp?year=1975
+| title = 1975 Award Winners & Nominees
+| work = Worlds Without End
+| access-date=1 July 2009
+}}</ref>
+* 1976 August Derleth Fantasy Award: ''The Hollow Lands''<ref name="WWE-1976">{{Cite web
+| url = http://www.worldswithoutend.com/books_year_index.asp?year=1976
+| title = 1976 Award Winners & Nominees
+| work = Worlds Without End
+| access-date=1 July 2009
+}}</ref>
+* 1977 Guardian Fiction Award: ''The Condition of Muzak''<ref>{{cite news|url=https://www.theguardian.com/books/2015/feb/18/michael-moorcock-new-novel-the-whispering-swarm|title=New Michael Moorcock novel to combine autobiography and fantasy|first=Alison|last=Flood|date=18 February 2015|newspaper=The Guardian|access-date=15 November 2016}}</ref>
+* 1979 [[John W. Campbell Memorial Award for Best Science Fiction Novel]]: ''Gloriana''<ref name="WWE-1979">{{Cite web
+| url = http://www.worldswithoutend.com/books_year_index.asp?year=1979
+| title = 1979 Award Winners & Nominees
+| work = Worlds Without End
+| access-date=1 July 2009
+}}</ref>
+* 1979 [[World Fantasy Award]] (Best Novel): ''Gloriana''<ref name="WWE-1979"/>
+
+==Selected works==
+{{Main|Michael Moorcock bibliography}}
+{{div col|colwidth=22em}}
+* ''[[The Best of Michael Moorcock]]'' ([[Tachyon Publications]], 2009)
+* The [[Elric of Melniboné]] series (1961–1991), including:
+** ''[[The Dreaming City]]'' (1961)
+** ''[[The Stealer of Souls]]'' (1963)
+** ''[[Stormbringer (novel)|Stormbringer]]'' (1965, revised 1977)
+** ''[[Elric of Melniboné (novel)|Elric of Melniboné]]'' (1972)
+** ''[[The Sailor on the Seas of Fate|Elric: The Sailor on the Seas of Fate]]'' (1976)
+** ''[[The Weird of the White Wolf]]'' (1977)
+** ''[[The Vanishing Tower]]'' (1977)
+** ''[[The Dancers at the End of Time|Elric at the End of Time]]'' (1981)
+** ''[[The Fortress of the Pearl]]'' (1989)
+** ''[[The Revenge of the Rose]]'' (1991)
+* The [[Dorian Hawkmoon]] series (1967–1975), including:
+** ''[[The Jewel in the Skull]]'' (1967)
+** ''[[The Mad God's Amulet]]'' (1968)
+** ''[[The Sword of the Dawn]]'' (1968)
+** ''[[The Runestaff]]'' (1969)
+** ''[[Count Brass]]'' (1973)
+** ''[[The Champion of Garathorm]]'' (1973)
+** ''[[The Quest for Tanelorn]]'' (1975)
+* The [[Erekosë]] series (1970–1987), including:
+** ''[[The Eternal Champion (novel)|The Eternal Champion]]'' (1970)
+** ''[[Phoenix in Obsidian]]'', aka ''The Silver Warriors'' (1970)
+** ''[[The Dragon in the Sword]]'' (1987)
+* The [[Corum Jhaelen Irsei|Corum]] series (1971–1974), including:
+** ''The Knight of the Swords'' (1971)
+** ''The Queen of the Swords'' (1971)
+** ''The King of the Swords'' (1971)
+** ''The Bull and the Spear'' (1973)
+** ''The Oak and the Ram'' (1973)
+** ''The Sword and the Stallion'' (1974)
+* ''[[Behold the Man (novel)|Behold the Man]]'' (1969)
+* ''[[The Time Dweller]]'' (1969)
+* [[Sailing to Utopia]], comprising:
+** ''Flux'' (1962)
+** ''[[The Ice Schooner]]'' (1966)
+** ''[[The Black Corridor]]'' (1969)
+** ''[[The Distant Suns]]'' (1975)
+* ''[[The Chinese Agent]]'' (1970)
+* ''[[The Russian Intelligence]]'' (1980)
+* ''[[Michael Moorcock's Multiverse]]'' (1999) (graphic novel)
+* ''[[The Metatemporal Detective]]'' (2007) (collection)
+* [[A Nomad of the Time Streams]]:
+** ''[[The Warlord of the Air]]'' (1971)
+** ''[[The Land Leviathan]]'' (1974)
+** ''[[The Steel Tsar]]'' (1981)
+* ''[[The Dancers at the End of Time]]'' sequence (1972–76):
+** ''[[An Alien Heat]]'' (1972)
+** ''[[The Hollow Lands]]'' (1974)
+** ''[[The End of All Songs]]'' (1976)
+* ''[[Legends from the End of Time]]'' (1976)
+* ''[[Gloriana (novel)|Gloriana]]'' (1978)
+* ''My Experiences in the Third World War'' (1980)
+* ''[[Mother London]]'' (1988)
+* ''[[King of the City]]'' (2000)
+* The [[Jerry Cornelius]] quartet of novels and shorter fiction:
+** ''[[The Final Programme]]'' (1969)
+** ''[[A Cure for Cancer]]'' (1971)
+** ''[[The English Assassin: A Romance of Entropy|The English Assassin]]'' (1972)
+** ''[[The Condition of Muzak]]'' (1977)
+** ''[[The Cornelius Quartet]]'' (compilation volume)
+** ''[[The Adventures of Una Persson and Catherine Cornelius in the 20th Century]]'' (1976)
+** ''[[The Lives and Times of Jerry Cornelius]]'' (1976)
+** ''[[The Entropy Tango]]'' (1981)
+** ''[[The Alchemist's Question]]'' (1984)
+** ''[[Firing the Cathedral]]'' (novella) (2002)
+** ''[[Pegging the President]]'' (novella) (2018)
+** ''[http://www.faojc.com/the-fracking-factory/ The Fracking Factory]'' (novella) (2018 online)
+** ''[[Modem Times 2.0]]'' (novella) (2011)
+and other stories in various anthologies
+* The [[Ulrich von Bek|von Bek]] sequence:
+** ''[[The War Hound and the World's Pain]]'' (1981)
+** ''[[The Brothel in Rosenstrasse]]'' (1982)
+** ''[[The City in the Autumn Stars]]'' (1986)
+* The Between the Wars sequence:
+** ''[[Byzantium Endures (novel)|Byzantium Endures]]'' (1981)
+** ''[[The Laughter of Carthage]]'' (1984)
+** ''[[Jerusalem Commands]]'' (1992)
+** ''[[The Vengeance of Rome]]'' (2006)
+* The Second Ether sequence:
+** ''[[Blood: A Southern Fantasy]]'' (1994)
+** ''[[Fabulous Harbours]]'' (1995)
+** ''[[The War Amongst The Angels]]'' (1996)
+* ''[[London Bone]]''  (2001) – short stories
+* The Elric/Oona Von Bek sequence:
+** ''[[The Dreamthief's Daughter]]'' (2001)
+** ''[[The Skrayling Tree]]'' (2003)
+** ''[[The White Wolf's Son]]'' (2005)
+* Doctor Who:
+** ''[[The Coming of the Terraphiles]]'' (2010)
+* The Sanctuary of the White Friars
+**''[[The Whispering Swarm]]'' (2015)
+
+===Anthologies edited===
+As well as a series of ''Best SF Stories from New Wolds'' and ''The Traps of Time'' (Hart-Davis), Moorcock has also edited other volumes, including two bringing together examples of [[invasion literature]]:
+* ''[[Before Armageddon]]'' (1975)
+* ''[[England Invaded]]'' (1977)
+
+===Nonfiction===
+* ''Letters From Hollywood'' (US: General Distribution Services, 1986, {{ISBN|0245543791}}, 240 pp
+* ''Wizardry and Wild Romance: a study of epic fantasy'' (UK: [[Victor Gollancz Ltd|Gollancz]], 1987, {{ISBN|0575041463}}), 160 pp., {{LCCN|88672236}}
+** ''Wizardry and Wild Romance: a study of epic fantasy'', revised and expanded (US: [[MonkeyBrain Books]], 2004, {{ISBN|1932265074}}), 206 pp., {{OCLC|57552226}}
+* ''Fantasy: The 100 Best Books'' (London: Xanadu Publications, 1988, {{ISBN|0947761241}}; [[Carroll & Graf]], 1988, {{ISBN|0881843350}}), [[James Cawthorn]] and Moorcock{{efn|name=cawthorn}}
+* ''Into the Media Web: Selected short non-fiction, 1956–2006'', edited by John Davey, introduced by Alan Moore, (UK: [[Savoy Books]], 2010, {{ISBN|9780861301201}}) 718 pp
+* ''London Peculiar and Other Nonfiction'', Edited by Michael Moorcock and Allan Kausch, introduced by Iain Sinclair, (US: [[PM Press]], 2012, {{ISBN|9781604864908}}), 377pp
+{{div col end}}
+
+==See also==
+{{Portal bar |Speculative fiction }} <!-- Delete the word "bar" if there are enough ordinary See also links. -->
+
+==Notes==
+{{notelist|notes=
+{{efn|name=cawthorn| 1=
+Xanadu Publications of London commissioned Moorcock to write ''Fantasy: The 100 Best Books''. When it became "clear that I would not be able to deliver it for a long time, the publishers and I agreed that James Cawthorn was the person to take it over." Cawthorn was the primary author of the selections "mainly", according to Cawthorn, and of the text "by far", according to Moorcock. See Cawthorn and Moorcock, ''Fantasy'', "Introduction", page 9. 
+<br>&nbsp; The introduction, pp. 8–10, comprises a long section signed by Cawthorn, a short one signed by Moorcock, and joint unsigned "Notes and Acknowledgments".
+<br>&nbsp; ''Fantasy'' became the third or fourth<!-- of four?--> volume in Xanadu's [[Science Fiction: The 100 Best Novels#100 Best series|100 Best series]]. ISFDB gives release date November 1988 for both ''Fantasy'' and ''Horror''.
+
+}}
+}}
+
+==References==
+{{reflist |25em |refs=
+<ref name=isfdb>
+{{isfdb name |140}}. Retrieved 4 April 2013.</ref>
+<ref name=isfdb-sojan>
+{{isfdb contents |id=30997 |title=Sojan |issue=(1977 collection)}}. Retrieved 6 April 2013.<!--evidently pp. 15-99 Sojan #1-6 comprise 12 stories--></ref>
+<ref name=SFE-blake>
+[http://www.sf-encyclopedia.com/entry/sexton_blake_library "Sexton Blake Library"]. David Langford [DRL]. 21 August 2012. ''[[The Encyclopedia of Science Fiction]]'', 3rd online edition [2011–2013, ongoing]. John Clute, David Langford, and Peter Nicholls (eds). Retrieved 17 April 2013.</ref>
+<ref name="butler-2003">{{cite journal |last1=Butler |first1=Andrew M |author1-link=Andrew M. Butler |title=Thirteen Ways of Looking at the British Boom |journal=[[Science Fiction Studies]] |publisher=DePauw University |publication-date=November 2003 |volume=30 |issue=91 |pages=374–393 |url=https://www.depauw.edu/sfs/pioneers/butler91.htm}}</ref>
+<ref name="latham-2007"> {{cite journal |last1=Latham |first1=Rob |author1-link=Rob Latham |title= Cyberpunk and the New Wave: Ruptures and Continuities |journal=[[The New York Review of Science Fiction]] |publication-date=June 2007 |volume=19 |issue=10}}</ref>
+
+
+<!-- awards refs -->
+<ref name=SFAwards>
+[http://www.locusmag.com/SFAwards/Db/NomLit93.html#3686 "Moorcock, Michael"] {{webarchive|url=https://web.archive.org/web/20121016200030/http://locusmag.com/SFAwards/Db/NomLit93.html |date=16 October 2012 }}. ''The Locus Index to SF Awards: Index to Literary Nominees''. [[Locus Publications]]. Retrieved 26 March 2013.</ref>
+<ref name=SFWA>
+[http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ "Damon Knight Memorial Grand Master"] {{webarchive|url=https://web.archive.org/web/20110701114233/http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ |date=1 July 2011 }}. Science Fiction and Fantasy Writers of America (SFWA). Retrieved 26 March 2013.</ref>
+<ref name=sfhof-old>
+[http://www.midamericon.org/halloffame/ "Science Fiction and Fantasy Hall of Fame"] {{webarchive|url=https://web.archive.org/web/20130521070009/http://www.midamericon.org/halloffame/ |date=21 May 2013 }}. Mid American Science Fiction and Fantasy Conventions, Inc. Retrieved 26 March 2013. This was the official website of the hall of fame to 2004.</ref>
+<ref name=HWA>
+[http://www.horror.org/laawd.htm "Bram Stoker Award for Lifetime Achievement"] {{webarchive|url=https://web.archive.org/web/20130509115710/http://www.horror.org/laawd.htm |date=9 May 2013 }}. Horror Writers Association (HWA). Retrieved 6 April 2013.</ref>
+}}
+
+==Further reading==
+* Harris-Fain, Darren. ''British Fantasy and Science-Fiction Writers Since 1960'', Gale Group, 2002, {{ISBN|0-7876-6005-1}}, p.&nbsp;293.
+* Kaplan, Carter. "Fractal Fantasies of Transformation: William Blake, Michael Moorcock and the Utilities of Mythographic Shamanism". In ''New Boundaries in Political Science Fiction'' (Hassler, Donald M., & Clyde Wilcox, eds), University of South Carolina Press, 2008, {{ISBN|1-57003-736-1}}, pp.&nbsp;35–52.
+* Magill, Frank Northern. ''Survey of Modern Fantasy Literature'', Volume 1, Salem Press, 1983, {{ISBN|0-89356-451-6}}, p.&nbsp;489.
+
+==External links==
+{{Wikiquote}}
+{{commons category|Michael Moorcock}}
+
+===General===
+* {{official website |www.multiverse.org | Moorcock's Miscellany}} (official)
+* {{isfdb name|140}}
+* [http://sf-encyclopedia.uk/fe.php?nm=moorcock_michael Michael Moorcock] at the [[The Encyclopedia of Fantasy|Encyclopedia of Fantasy]]
+* [http://www.sf-encyclopedia.com/entry/moorcock_michael Michael Moorcock] at the [[The Encyclopedia of Science Fiction|Encyclopedia of Science Fiction]]
+* {{IMDb name|600841}}
+* {{sfhof |946 | Michael Moorcock}}
+* [http://www.fantasticmetropolis.com/ Fantastic Metropolis], co-edited by Michael Moorcock
+* [https://web.archive.org/web/20051201023717/http://www.realityends.com/author/michaelmoorcock.html Michael Moorcock pages] at RealityEnds
+* [http://www.fantasticfiction.co.uk/m/michael-moorcock/ Fantastic Fiction]
+* [https://web.archive.org/web/20080615042229/http://www.mmcc.yoyo.pl/ Michael Moorcock's Comics Compendium]
+* [http://www.comicbookdb.com/creator.php?ID=848 Michael John Moorcock] at ComicBookDB.com
+
+===Nonfiction===
+* [http://www.revolutionsf.com/article.php?id=953 "Epic Pooh"], by Michael Moorcock
+* {{webarchive |url=https://web.archive.org/web/20021224193414/http://flag.blackened.net/liberty/moorcock.html |date=24 December 2002 |title="Starship Stormtroopers" }}, by Michael Moorcock
+* Also [https://web.archive.org/web/20051028101032/http://recollectionbooks.com/siml/library/Moorcock.htm "Starship Stormtroopers"] at the Stan Iverson Memorial Archives
+* [http://www.nostatusquo.com/ACLU/dworkin/MoorcockInterview.html Michael Moorcock interviews] [[Andrea Dworkin]]
+* [http://social-justice.politics.ox.ac.uk/events/dworkin/ His tribute delivered at the Andrea Dworkin Commemorative Conference, Oxford University, Fri 7 Apr 2006]
+* [http://efanzines.com/EK/eI25/index.htm#hitler "If Hitler Had Won World War Two..."] by Michael Moorcock. ''e*l* 25'' (Vol. 5, No. 2), April 2005. ([[Earl Kemp]], ed.)
+* [http://efanzines.com/EK/eI35/index.htm#blitz "A Child's Christmas in the Blitz"] by Michael Moorcock. ''e*l* 35'', December 2007 ([[Earl Kemp]], ed.)
+
+===Interviews===
+* [http://nethspace.blogspot.com/2007/10/michael-moorcock-answers-questions-five.html Interview with Michael Moorcock] at Neth Space
+* [https://web.archive.org/web/20070630180940/http://www.fantasticmetropolis.com/i/bayley/ "The Bayley-Moorcock Letters, Part I"]
+* [https://web.archive.org/web/20070630180940/http://www.fantasticmetropolis.com/i/bayley2/ "The Bayley-Moorcock Letters, Part II"]
+* [https://web.archive.org/web/20051122070102/http://www.irosf.com/q/zine/article/10115 ''The Internet Review of Science Fiction'' interview] (registration required)
+* Richard Marshall, [http://www.3ammagazine.com/litarchives/2002_jun/interview_michael_moorcock.html "Strange Connectionns - An interview with Michael Moorcock"], ''3:AM Magazine'', 2002
+* [http://www.ballardian.com/angry-old-men-michael-moorcock-on-jg-ballard/ "Angry Old Men: Michael Moorcock on J.G. Ballard"]. Interview on ''The Ballardian'', 9 July 2007
+* [https://hplusmagazine.com/2013/10/16/dancing-end-time/ Dancing At the End of Time: Moorcock on Posthumanity].  [[Humanity+]] interview with [[Woody Evans]].
+* [http://www.tangledwilderness.org/pdfs/mmlb10-michael-web.pdf Interview with Moorcock from ''Mythmakers & Lawbreakers'']
+
+{{Michael Moorcock}}
+{{Hawkwind}}
+{{Bram Stoker Award for Lifetime Achievement}}
+{{Damon Knight Memorial Grand Master Awards}}
+{{Inkpot Award 1990s}}
+{{World Fantasy Award Life Achievement}}
+{{Authority control}}
+
+{{DEFAULTSORT:Moorcock, Michael}}
+[[Category:1939 births]]
+[[Category:20th-century English novelists]]
+[[Category:21st-century English novelists]]
+[[Category:20th-century English musicians]]
+[[Category:21st-century English musicians]]
+[[Category:Anarchist writers]]
+[[Category:English anarchists]]
+[[Category:English fantasy writers]]
+[[Category:English lyricists]]
+[[Category:English science fiction writers]]
+[[Category:Hawkwind members]]
+[[Category:Living people]]
+[[Category:Nebula Award winners]]
+[[Category:Postmodern writers]]
+[[Category:Science fiction editors]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:SFWA Grand Masters]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Science fiction critics]]
+[[Category:British speculative fiction critics]]
+[[Category:English male novelists]]
+[[Category:Weird fiction writers]]
+[[Category:Pulp fiction writers]]
+[[Category:Authors of Sexton Blake]]
+[[Category:20th-century pseudonymous writers]]
+[[Category:21st-century pseudonymous writers]]

@@ -1,0 +1,96 @@
+{{Use dmy dates|date=February 2014}}
+{{Infobox musical artist
+| name            = Lin Van Hek
+| image           = linvanhek2011.jpg
+| alt             =
+| caption         =
+| image_size      =
+| origin          =
+| genre           =
+| occupation      = Artist, musician
+| years_active    =
+| label           =
+| associated_acts = Difficult Women
+| website         = {{URL|http://www.linvanhek.com}}
+}}
+
+'''Lin Van Hek''' (born '''Lyn Van Hecke''') is an Australian writer, singer and artist. She is Vice-President of the Society of Women Writers and is the co-founder of the literary-music group [[Difficult Women]].
+
+==Early life==
+Van Hek was born in [[Melbourne]] and lived in Europe and India while she was growing up.
+
+==Career==
+Van Hek co-wrote and sang the song "Intimacy" for the film, ''[[The Terminator]]''.<ref name="Sommerlad">{{cite news |last1=Sommerlad |first1=Joe |title=SONY WALKMAN AT 40: HOW THE MILLION-SELLING GADGET TOOK MUSIC PORTABLE AND INSPIRED THE MIXTAPE |url=https://www.independent.co.uk/life-style/gadgets-and-tech/news/sony-walkman-40-years-mixtapes-cassettes-portable-music-tech-a8983036.html |access-date=5 November 2020 |work=The Independent |date=July 1, 2019}}</ref> She later recorded a solo CD ''River of Life'' featuring songs of New Zealand writer, [[Kath Tait]]. More recently, she has performed with her partner, [[Joe Dolce]], and a team of post-feminist artists as '''Difficult Women''', a live performance art team that began with a series of feminist literary salons van Hek held in the 1980s.<ref name="Talbot">{{cite news |last1=Talbot |first1=Danielle |title=Difficult Women Have Their Day |work=The Age |date=February 17, 1995 |location=Melbourne, Australia |page=18}}</ref>
+
+She also worked for over two decades with a group of women in North Vietnam designing, manufacturing and trading in hand-embroidered silk garments and textiles with a focus on [[fair trade]] and worker ethics.<ref name="Society">{{cite web |last1=staff |title=Lin van Hek profile |url=http://www.swwvic.org.au/members-achievements/lin-van-hek/ |website=Society of Women Writers: Victoria |access-date=5 November 2020}}</ref>
+
+She is a prolific painter and writer. She is described by [[Booker Prize]]-winning author [[Keri Hulme]] as writing "like an angel giving the devil her due."<ref name="FBN">{{cite journal |last1=staff |title=The Ballad of Siddy Church |journal=Feminist Bookstore News |date=1997 |volume=20 |page=104 |url=https://www.google.com/books/edition/Feminist_Bookstore_News/3oTgAAAAMAAJ?hl=en&gbpv=1&bsq=lin%20van%20hek}}</ref>
+
+==Awards==
+* 1988 winner of the Melbourne [[The Age Short Story Award]]
+* 2015 Best Australian Poems, edited by Geoff Page.
+* 2016 & 2017 winner of the Society of Women Writers short story contest.
+
+==Bibliography==
+{{Expand list|date=July 2020}}
+
+===Novels===
+* ''The Hanging Girl'' (Misfit Books, 1988)
+* ''The Ballad of Siddy Church'' (Spinifex, 1997)
+* ''Katherine Mansfield's Black Paper Fan'' (Difficult Women, 2010)
+
+===Short fiction===
+;Collections
+* ''The Slain Lamb Stories (Independent, 1979)
+* ''Anna's Box : selected short stories'' (Difficult Women, 2006)
+;Stories
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+!|Notes
+|-
+|Mrs Black
+|2017
+|{{cite journal |author=Van Hek, Lin |date=Dec 2017 |title=Mrs Black |journal=Quadrant }}
+|
+|
+|-
+|}
+<!-- Once stories are identified, move into table above
+===Short stories in anthologies===
+* ''Cat Tales: The Meaning of Cats in Women’s Lives'', edited by Jan Fook, [[Susan Hawthorne]] and [[Renate Klein]] (Spinifex Press, c2003)
+* ''Horse Dreams: The Meaning of Horses in Women’s Lives'', edited by Jan Fook, Susan Hawthorne and Renate Klein (Spinifex Press, 2004)
+-->
+
+===Book reviews===
+{|class='wikitable sortable' width='90%'
+|-
+!|Year
+!class='unsortable'|Review article
+!class='unsortable'|Work(s) reviewed
+|-
+|2020
+|{{cite journal |author=Van Hek, Lin |date=Jan–Feb 2018 |title=Poetry of wildness |journal=Quadrant |volume=62 |issue=1–2 [543] |pages=85–86}}
+|{{cite book |author=Petit, Pascale |title=Mama Amazonica |publisher=Bloodaxe |year=2017 <!--isbn=-->}}
+|}
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{official website|http://www.linvanhek.com}}
+*[https://www.weekendnotes.com/the-art-exhibition-of-lin-van-hek Weekend Notes Review]
+*[https://giveitmouth.com/how-creator-lin-van-hek-makes-it-matter Give It Mouth Interview]
+*[http://members.iinet.net.au/~dwomen/files/difficultwomen/index.html Difficult Women Website]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Van Hek, Lin}}
+[[Category:1944 births]]
+[[Category:Living people]]
+[[Category:Australian women novelists]]
+[[Category:Quadrant (magazine) people]]
+[[Category:Writers from Melbourne]]

@@ -1,0 +1,104 @@
+{{Short description|Chinese poet and scholar}}
+{{family name hatnote|[[Wen (surname)|Wen]]|lang=Chinese}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Wen Yiduo
+| image = Wen Yiduo.jpg
+| image_upright = 0.7
+| alt = 
+| caption = 
+| native_name = 聞一多
+| native_name_lang = zh-Hant
+| birth_name = {{lang|zh-Hant|聞家驊}}
+| birth_date =    {{birth date|1899|11|24|df=yes}}
+| birth_place = present-day [[Xishui County, Hubei|Xishui County]], [[Huanggang]], [[Hubei]], [[Qing Empire]]
+| death_date =    {{death date and age|1946|09|15|1899|11|24|df=yes}}
+| death_place = [[Kunming]], [[Republic of China (1912–49)|Republic of China]]
+| resting_place = 
+| occupation = 
+| language = 
+| nationality =
+| ethnicity = 
+| citizenship = 
+| education = [[Tsinghua University]]<br />[[Art Institute of Chicago]]
+| alma_mater = 
+| period = 
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  <!-- or: | notablework = -->
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = 
+| signature = 
+| signature_alt = 
+| years_active = 
+| module = {{Infobox Chinese |child=yes |t={{linktext|聞|一|多}} |s={{linktext|闻|一|多}} |p=Wén Yìduō |w=Wen<sup>2</sup> I<sup>4</sup>-to<sup>1</sup> |mi={{IPAc-cmn|wen|2|-|yi|4|.|d|uo|1}} |j=Man<sup>4</sup> Jat<sup>1</sup>-do<sup>1</sup> |y=Màhn Yāt-dō |ci={{IPAc-yue|m|an|4|-|j|at|1|.|d|o|1}} }}
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+[[File:Вэнь Идо.jpg|thumb|right|280px|Statue of Wen Yiduo at [[Tsinghua University]] in Beijing]]
+
+'''Wen Yiduo''' (24 November 1899{{snd}}15 July 1946) was a Chinese [[poet]] and scholar known for his nationalistic poetry who was assassinated by the [[Kuomintang]].
+
+{{anchor|Biography|History}}
+
+==Life==
+Wen was born '''Wén Jiāhuá''' ({{lang|zh-Hant|聞家驊}}) on 24 November 1899 in what is now [[Xishui County, Hubei|Xishui County]] in [[Hubei Province]]. After receiving a traditional Chinese [[Confucian]] education he went on to continue studying at [[Tsinghua University]].
+
+In 1922, he traveled to the [[United States]] to study [[fine arts]] and [[literature]] at the [[Art Institute of Chicago]]. It was during this time that his first collection of poetry, ''Hongzhu'' ({{lang|zh-Hant|紅燭}}, "Red Candle"), was published. In 1925, he traveled back to [[China]] and took a university teaching post. In 1928, his second collection, ''Sishui''  ({{lang|zh|死水}}, "Dead Water"), was published. In the same year he joined the [[Crescent Moon Society]] and wrote essays on poetry. He also began to publish the results of his classical [[Chinese literature]] research.
+
+At the outbreak of the [[Second Sino-Japanese War]], he and many other intellectuals from northeastern China migrated  to [[Kunming]], [[Yunnan]].  There he was able to continue to teach, this time in the wartime [[National Southwestern Associated University]].  Wen stopped writing poetry in 1931 and became increasingly involved in social criticism.{{sfnp|Wang|2010|p=484}} He became politically active in 1944 in support of the [[China Democratic League]]. His outspoken nature led to his [[assassination]] by secret agents of the [[Kuomintang]] after eulogizing his friend [[Li Gongpu]]'s life at Li's funeral in 1946.{{sfnp|Li|1994|p=130}}
+
+There is a monument to Wen at the [[Yunnan Normal University]] campus in [[Kunming]], as well as a large statue.  A small memorial to him, including a wall portrait painted from a famous picture of him smoking his pipe is found in a walkway by his former home (the site is now part of an elementary school) in the [[Green Lake (Kunming)|Green Lake]] area of Kunming. He and his wife, Gao Zhen, are buried at the [[Babaoshan Revolutionary Cemetery]] in Beijing.
+
+==Poetry==
+Wen's poetry is noted for its experimentation with classical Chinese rules and forms.  He modeled his poetry on that of the English poets [[John Keats]], [[Alfred Tennyson]], and [[Robert Browning]], and tried to "recapture the symbolism and ethos of premodern Chinese society".{{sfnp|Wang|2010|pp=483–84}}  The poems in his second collection, ''Dead Water'' (''Sǐshuǐ'' {{lang|zh|死水}}), have "a haunting musicality", and deal with the "heartrendingly heavy" subject of exposing social injustice and corruption.{{sfnp|Wang|2010|p=483}}
+
+==Scholarship==
+Wen was credited by [[David Hawkes (sinologist)|David Hawkes]] as the initiator of the cult of [[Qu Yuan]] as "China's first [[Chinese nationalism|patriotic]] poet",{{sfnp|Hawkes|1974|p=[https://books.google.com.tw/books?id=wvrnFgUnn-MC&pg=PA42 42]}} writing that, "although Qu Yuan did not write about the life of the people or voice their sufferings, he may truthfully be said to have acted as the leader of a people's revolution and to have struck a blow to avenge them. Qu Yuan is the only person in the whole of Chinese history who is fully entitled to be called 'the people's poet'."{{sfnp|Wen|1956}}
+
+==References==
+===Citations===
+{{reflist|25em}}
+
+===Works cited===
+{{refbegin|35em}}
+* {{citation |last=Chen |first=Shan |author-mask=Chen Shan |contribution-url=http://203.72.198.245/web/Content.asp?ID=65028&Query=1 |contribution=Shen Chongwen |title=[[Encyclopedia of China]] |archive-url=https://web.archive.org/web/20070929105148/http://203.72.198.245/web/Content.asp?ID=65028&Query=1 |archive-date=2007-09-29 }}.
+* {{citation |last=Hawkes |first=David |authorlink=David Hawkes (sinologist) |title=Studies in Chinese Literary Genres |url=https://books.google.com/books?id=wvrnFgUnn-MC |location=Berkeley |publisher=University of California Press |date=1974 |isbn=0-520-02037-5 |pages=[https://books.google.com.tw/books?id=wvrnFgUnn-MC&pg=PA42 42–68] |contribution=The Quest of the Goddess |contribution-url=https://books.google.com/books?id=wvrnFgUnn-MC&pg=PA42 |editor-last=Birch |editor-first=Cyril |display-editors=0 }}.
+* {{citation |last=Li |first=Lincoln |date=1994 |url=https://books.google.com/books?id=swzLyl7FY88C&pg=PA130 |title=Student Nationalism in China, 1924–1949 |publisher=SUNY Press |location=[[Albany, NY|Albany]] |isbn=9780791417508 }}.
+* {{citation |last=Payne |first=Robert |title=China Awake |location=New York |publisher=Dodd Mead |date=1947 }}.
+* {{citation |first=David Der-wei |last=Wang |contribution=Chinese Literature from 1841 to 1937 |editor-first=Kang-i Sun |editor-last=Chang |display-editors=0 |title=The Cambridge History of Chinese Literature, ''Vol. II:'' From 1375 |location=[[Cambridge, England|Cambridge]] |publisher=Cambridge University Press |date=2010 |pages=413–564 |isbn=978-0-521-85559-4 }}.
+* {{citation |last=Wen |first=Yiduo |author-mask=Wen Yiduo |contribution=人民的詩人—屈原 [''Rénmín de Shīrén—Qū Yuán, Qu Yuan: The People's Poet''] |title=''《神話與詩》 [''Shénhuà yú Shī, Mythology & Poetry'']'' |publisher=Guji Chubanshe |date=1956 }}. {{in lang|zh}}
+{{refend}}
+
+== Portrait ==
+* [https://lib-linux2.hkbu.edu.hk/scadb/pgcw/purl.php?&did=pgcw013    Wen Yiduo. A Portrait by Kong Kai Ming] at Portrait Gallery of Chinese Writers (Hong Kong Baptist University Library).
+
+==External links==
+*{{Commons category-inline}}
+*[https://archive.org/details/wenito0000hsuk/ WEN I-TO]
+*[https://web.archive.org/web/http://www.renditions.org/renditions/authors/wenyd.html Wen Yiduo]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wen, Yiduo}}
+[[Category:1899 births]]
+[[Category:1946 deaths]]
+[[Category:Republic of China poets]]
+[[Category:Modern Chinese poetry]]
+[[Category:Chinese non-fiction writers]]
+[[Category:School of the Art Institute of Chicago alumni]]
+[[Category:Tsinghua University alumni]]
+[[Category:Tsinghua University faculty]]
+[[Category:National Southwestern Associated University faculty]]
+[[Category:Boxer Indemnity Scholarship recipients]]
+[[Category:Assassinated Chinese people]]
+[[Category:Deaths by firearm in China]]
+[[Category:People murdered in China]]
+[[Category:People from Huanggang]]
+[[Category:Poets from Hubei]]
+[[Category:20th-century poets]]
+[[Category:20th-century Chinese male writers]]
+[[Category:Burials at Babaoshan Revolutionary Cemetery]]
+[[Category:Male non-fiction writers]]

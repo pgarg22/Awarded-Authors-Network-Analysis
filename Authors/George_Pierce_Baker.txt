@@ -1,0 +1,53 @@
+{{short description|American educator and dramatic arts academic}}
+[[File:George Pierce Baker by Pach Brothers c1886.jpg|thumb|Baker c. 1886]]
+'''George Pierce Baker''' (April 4, 1866 – January 6, 1935)<ref>[http://www.anb.org/view/10.1093/anb/9780198606697.001.0001/anb-9780198606697-e-1800047 ''American National Biography'']</ref> was a professor of English at [[Harvard University|Harvard]] and [[Yale University|Yale]] and author of ''Dramatic Technique'', a codification of the principles of [[drama]].
+
+==Biography==
+Baker graduated in the [[Harvard University|Harvard  College]] class of 1887, served as Editor-in-Chief of ''[[The Harvard Monthly]]'', and taught in the English Department at Harvard from 1888 until 1924. He started his "47 workshop" class in playwriting in 1905. He was instrumental in creating the Harvard Theatre Collection at [[Harvard University Library]]. In 1908 he began the Harvard Dramatic Club, acting as its sponsor, and in 1912 he founded Workshop 47 to provide a forum for the performance of plays developed within his English class. He was elected a Fellow of the [[American Academy of Arts and Sciences]] in 1914.<ref name=AAAS>{{cite web|title=Book of Members, 1780-2010: Chapter B|url=http://www.amacad.org/publications/BookofMembers/ChapterB.pdf|publisher=American Academy of Arts and Sciences|access-date=5 May 2011}}</ref> Unable to persuade Harvard to offer a degree in playwriting, he moved to [[Yale University]] in 1925, where he helped found the [[Yale School of Drama]]. He remained there until his retirement in 1933.<ref name="cgt">{{cite book|editor-last=Banham|editor-first=Martin|year=1998|chapter=Baker, George Pierce|title=The Cambridge Guide to Theatre|location=Cambridge|publisher=[[Cambridge University Press]]|isbn=0-521-43437-8|pages=[https://archive.org/details/cambridgeguideto0000banh/page/72 72–73]|chapter-url-access=registration|chapter-url=https://archive.org/details/cambridgeguideto0000banh/page/72}}</ref>
+
+Baker taught a seminar on Shakespeare and English drama at the [[Sorbonne]] University (Paris) in 1908.<ref>Archival source: CARAN, Paris. AJ/16-4750 (1907) p. 67</ref>
+
+Among those he taught in his playwriting class were [[Rachel Barton Butler]],<ref>James Fisher, Felicia Hardison Londré, [https://books.google.com/books?id=Pro7DwAAQBAJ&lpg=PA113&ots=yuyWSBEdbS&dq=Rachel%20Barton%20Butler&pg=PA113#v=onepage&q=Rachel%20Barton%20Butler&f=false ''Historical Dictionary of American Theater: Modernism''] (Rowman & Littlefield 2017): 113-114. {{ISBN|9781538107867}}</ref> [[George Abbott]], [[Philip Barry]], [[S.N. Behrman]], [[Hallie Flanagan]], [[Hong Shen]], [[Sidney Howard]], [[Samuel James Hume|Samuel Hume]], [[Stanley McCandless]], [[Eugene O'Neill]], [[Florence Ryerson]], [[Edward Sheldon]], [[Josephine Van de Grift]], [[Maurine Dallas Watkins]], and [[Thomas Wolfe]].<ref name="cgt"/> His ''Dramatic Technique'' (1919) offered a codification in English of the principles of the [[well-made play]].<ref>{{cite book
+| first = J L | last = Styan
+| title = Modern Drama in Theory and Practice I}}</ref><ref>{{cite book
+| editor-last = Innes | editor-first = Christopher
+| page = 7
+| year = 2000
+| title = A Sourcebook on Naturalist Theatre
+| location = London and New York
+| publisher = Routledge
+| isbn=0-415-15229-1}}</ref>
+
+George Pierce Baker was the father of [[George P. Baker]] who was dean of Harvard Business School.<ref>{{Cite web |url=http://oasis.lib.harvard.edu/oasis/deliver/~bak00035 |title=Harvard Business School bio of George P. Baker |access-date=2012-09-25 |archive-url=https://web.archive.org/web/20180703001925/http://oasis.lib.harvard.edu/oasis/deliver/~bak00035 |archive-date=2018-07-03 |url-status=dead }}</ref>
+
+==References==
+{{Reflist}}
+==Further reading==
+* Bordelon, Suzanne. "A Reassessment of George Pierce Baker's" The Principles of Argumentation": Minimizing the Use of Formal Logic in Favor of Practical Approaches." ''College Composition and Communication'' 57.4 (2006): 763-788 [https://www.jstor.org/stable/20456915 online].
+* Hinkel, Cecil Ellsworth. "An Analysis and evaluation of the 47 workshop of George Pierce Baker" ( Diss. The Ohio State University, 1959) [https://etd.ohiolink.edu/apexprod/rws_etd/send_file/send?accession=osu1486731881017397&disposition=inline online].
+* Kempf, Christopher. "The Play’sa Thing: The 47 Workshop and the “Crafting” of Creative Writing." ''American Literary History'' 32.2 (2020): 243-272.
+* Kinne, Wisner Payne. ''George Pierce Baker and the American Theatre'' (Harvard University Press, 2013).
+
+* Reilly, Kara. "George Pierce Baker: A century of dramaturgs teaching playwriting." ''Contemporary Theatre Review'' 23.2 (2013): 107-113.
+
+==External links==
+{{Portal|Biography}}
+* [http://nrs.harvard.edu/urn-3:FHCL.Hough:hou02124 Collection Guide, George Pierce Baker Papers], [[Houghton Library]], Harvard University
+* {{Gutenberg author | id=Baker,+George+Pierce | name=George Pierce Baker}}
+* {{Internet Archive author |sname=George Pierce Baker |sopt=t}}
+* [http://lostplays.com/play/the-pilgrim-spirit Audio recording of Baker's 1920 play ''The Pilgrim Spirit''] at LostPlays.com
+* [https://archive.org/details/dramatictechniq00bakegoog ''Dramatic Technique''] at the [[Internet Archive]]
+*George Pierce Baker papers (MS 51). Manuscripts and Archives, Yale University Library. [http://hdl.handle.net/10079/fa/mssa.ms.0051]
+*[[hdl:10079/fa/beinecke.bakergp|George Pierce Baker Papers]]. Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.
+
+{{Authority control}}
+
+{{DEFAULTSORT:Baker, George Pierce}}
+[[Category:1866 births]]
+[[Category:1935 deaths]]
+[[Category:Theatrologists]]
+[[Category:Drama teachers]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Harvard College alumni]]
+[[Category:Harvard University faculty]]
+[[Category:Yale University faculty]]

@@ -1,0 +1,102 @@
+{{Short description|Carinthian Slovene physicist, mathematician and poet (1835–1893)}}
+{{Use dmy dates|date=March 2020}}
+
+{{Infobox scientist
+| name              = Josef Stefan
+| image             = Jozef Stefan.jpg
+| image_size        = 250px
+| caption           = 
+| birth_date        = {{birth date|df=y|1835|3|24}}
+| birth_place       = [[St. Peter (Klagenfurt am Wörthersee)|Sv. Peter]] (today in [[Klagenfurt|Celovec]]), [[Austrian Empire]]
+| death_date        = {{death date and age|df=y|1893|1|7|1835|3|24}}
+| death_place       = [[Vienna]], [[Austria-Hungary]]
+| fields            = [[Physicist]]
+| workplaces        = University of Vienna
+| alma_mater        = [[University of Vienna]]
+| doctoral_advisor  = 
+| academic_advisors = [[Andreas von Ettingshausen]]
+| doctoral_students = [[Ludwig Boltzmann]]<br />[[Marian Smoluchowski]]<br />[[Johann Josef Loschmidt]]
+| notable_students  = 
+| known_for         = [[Stefan–Boltzmann law]]<br />[[Stefan–Boltzmann constant]] <br />[[Stefan problem]]<br />[[Stefan's equation]]<br />[[Stefan's formula]]<br />[[Stefan flow]]<br />[[Stefan number]]<br />[[Maxwell–Stefan diffusion]]<br />[[Squeeze flow]]
+| author_abbrev_bot = 
+| author_abbrev_zoo = 
+| influences        = 
+| influenced        = 
+| awards            = [[Lieben Prize]] (1865)
+| signature         = <!--(filename only)-->
+| footnotes         = 
+}}
+'''Josef Stefan''' ({{lang-sl|'''Jožef Štefan'''}}; 24 March 1835 – 7 January 1893) was an ethnic [[Carinthian Slovene]] [[physicist]], mathematician, and poet of the [[Austrian Empire]].
+
+== Life and work ==
+Stefan was born in an outskirt village of [[St. Peter, Klagenfurt|Sv. Peter]] (Slovene: {{lang|sl|Sveti Peter}}; today a district of [[Klagenfurt|Celovec]]) in the [[Austrian Empire]] (now in Austria) to father Aleš (Aleksander) Stefan, born in 1805, and mother Marija Startinik, born 1815. His parents, both ethnic Slovenes, married when Josef was eleven. The Stefans were a modest family. His father was a milling assistant and his mother served as a maidservant. Stefan's mother died in 1863 and his father in 1872. Josef was their only child.<ref>{{Cite web|last=Čermelj, L., Uršič, M.|title=Jožef Stefan|url=http://www.slovenska-biografija.si/oseba/sbi605384/#slovenski-biografski-leksikon|url-status=live|website=lexicon of slovenian biographies}}</ref>
+
+Stefan attended elementary school in Klagenfurt, where he showed his talent. They recommended to him to continue his schooling, so in 1845, he went to {{Interlanguage link multi|Klagenfurt Lyceum|de|3=Europagymnasium Klagenfurt}}. As a thirteen-year-old boy, he experienced the [[Revolutions of 1848|revolutionary year of 1848]], which inspired him to be sympathetic toward [[Slovene literature|Slovene literary]] production.
+
+After having graduated top of his class in high school, he briefly considered joining the [[Order of Saint Benedict|Benedictine Order]], but his great interest in physics prevailed. He left for Vienna in 1853 to study [[mathematics]] and [[physics]]. His professor of physics in the gymnasium was [[Karel Robida]], who wrote the first Slovene physics textbook. Stefan then earned his [[habilitation]] in [[mathematical physics]] at the [[University of Vienna]] in 1858. During his student years, he also wrote and published a number of poems in Slovene.
+
+Stefan taught physics at the University of Vienna, was Director of the Physical Institute from 1866, Vice-President of the [[Austrian Academy of Sciences|Vienna Academy of Sciences]], and member of several scientific institutions in Europe. He died in [[Vienna]], Austria-Hungary. His life and work have been extensively studied by the physicist [[Janez Strnad]].
+
+==Work==
+Stefan published nearly 80 scientific articles, mostly in the Bulletins of the Vienna Academy of Sciences.<ref>{{Cite journal|title=Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in Wien in WikiSource|url=https://de.wikisource.org/wiki/Sitzungsberichte_der_Kaiserlichen_Akademie_der_Wissenschaften_in_Wien_%E2%80%93_mathematisch-naturwissenschaftliche_Classe/Inhalt|volume=e.g. Bd. 027, 1857}}</ref> He is best known for originating [[Stefan's law]] in 1879, a [[physical law|physical]] [[power law]] stating that the total [[radiation]] from a [[black body]] is proportional to the fourth power of its [[thermodynamic temperature]] ''T'':
+
+:<math> j^{\star} = \sigma T^{4}</math>
+
+He derived this law from the measurements of the French physicists [[Pierre Louis Dulong|Dulong]] and [[Alexis Thérèse Petit|Petit]]. As both incident radiation and blackbody emission are always equal, this equation applies equally to the temperature of any ideal body subject to incident radiation across its surface. In 1884, the law was extended to apply to grey-body emissions by Stefan's student [[Ludwig Boltzmann]] and hence is known as [[Stefan–Boltzmann law]]. Boltzmann treated a [[heat engine]] with light as a working matter. This law is the only physical law of nature named after a Slovene physicist. Today, the law is derived from [[Planck's law]] of black-body radiation:
+
+:<math> j^{\star} = \int_{0}^{\infty} \left( {dj^{\star}\over d\lambda} \right) d\lambda </math>
+
+With his law, Stefan determined the temperature of the [[Photosphere#Sun|Sun's surface]], which he calculated to be {{convert|5430|°C}}. This was the first sensible value for the temperature of the Sun.
+
+Stefan provided the first measurements of the [[thermal conductivity]] of gases, treated [[evaporation]], and among others studied [[diffusion]], [[heat conduction]] in [[fluid]]s. For his treatise on [[optics]], the University of Vienna bestowed the [[Lieben Prize]] on him. Because of his early work in calculating evaporation and diffusion rates, flow from a droplet or particle that is induced by evaporation or [[sublimation (phase transition)|sublimation]] at the surface is now called the [[Stefan flow]].
+
+Very important are also his [[Stefan electromagnetic equation|electromagnetic equations]], defined in [[vector (geometry)|vector]] notation, and works in the [[kinetic theory of gases|kinetic theory]] of heat. Stefan was among the first physicists in Europe who fully understood [[James Clerk Maxwell|Maxwell's]] [[electromagnetism|electromagnetic theory]] and one of the few outside England who expanded on it. He calculated [[inductance|inductivity]] of a [[inductor|coil]] with a quadratic cross-section, and he corrected Maxwell's miscalculation. He also researched a phenomenon called the [[skin effect]], where high-frequency [[electric current]] is greater on the surface of a [[Conductor (material)|conductor]] than in its interior.
+
+In mathematics, the [[Stefan problem]]s or Stefan's tasks with movable boundary are well known. The problem was first studied by [[Gabriel Lamé|Lamé]] and [[Benoît Paul Émile Clapeyron|Clapeyron]] in 1831. Stefan solved the problem when he was calculating how quickly a layer of [[ice]] on water grows ([[Stefan's equation]]<ref>{{Cite book|last=Shumon Koga, Miroslav Krstic|title=Materials Phase Change PDE Control & Estimation|chapter=Phase Change Model: Stefan Problem|chapter-url=https://link.springer.com/chapter/10.1007/978-3-030-58490-0_1|url-status=live|website=Materials Phase Change PDE Control & Estimation |series=Systems & Control: Foundations & Applications|year=2020|pages=1–13|publisher=Springer |doi=10.1007/978-3-030-58490-0_1|isbn=978-3-030-58490-0}}</ref>).
+
+== Eponymous terms == 
+
+In physics, several concepts are named after Joseph Stefan. In particular:
+* [[Stefan–Boltzmann law]]
+* [[Stefan–Boltzmann constant]] σ
+* [[Stefan adhesion]]
+* [[Stefan problem]]
+* [[Stefan's equation]]
+* [[Stefan's formula]]
+* [[Stefan flow]]
+* [[Stefan number]]
+* [[Stefan tube]]
+* [[Maxwell–Stefan diffusion]]
+
+The [[Jožef Stefan Institute]] was also named after him.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{commons category|Josef Stefan}}
+* [http://linkinghub.elsevier.com/retrieve/pii/S0894177706001361 "Josef Stefan: His life and legacy in the thermal sciences,"] ''Experimental Thermal and Fluid Science'', Volume 31, Issue 7, July 2007,s 795–803, by John C. Crepeau
+* {{MacTutor|id=Stefan_Josef}}
+* [https://web.archive.org/web/20070928074319/http://www.ostina.org/content/view/1667/640 Extended biography of Josef Stefan], by John C. Crepeau
+
+{{Scientists whose names are used in physical constants}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Stefan, Josef}}
+[[Category:1835 births]]
+[[Category:1893 deaths]]
+[[Category:Slovenian mathematicians]]
+[[Category:Slovenian physicists]]
+[[Category:Slovenian scientists]]
+[[Category:Austrian physicists]]
+[[Category:Austrian male poets]]
+[[Category:Slovenian poets]]
+[[Category:Carinthian Slovenes]]
+[[Category:Fluid dynamicists]]
+[[Category:Scientists from Klagenfurt]]
+[[Category:Slovene Austro-Hungarians]]
+[[Category:19th-century Austrian poets]]
+[[Category:Austro-Hungarian mathematicians]]
+[[Category:19th-century male writers]]
+[[Category:Rectors of universities in Austria]]

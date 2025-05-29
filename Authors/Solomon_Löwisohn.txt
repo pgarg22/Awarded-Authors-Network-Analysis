@@ -1,0 +1,87 @@
+{{short description|Hungarian writer and historian}}
+{{Infobox writer
+| name=Solomon Löwisohn
+| image=
+| image_size=
+| caption=
+| native_name=
+| native_name_lang=
+| pseudonym=
+| birth_name=
+| birth_date=1788 or 1789
+| birth_place=[[Mór|Moor]], [[Fejér County (former)|Weißenburg County]], [[Kingdom of Hungary (1526–1867)|Kingdom of Hungary]] 
+| death_date={{death date and given age|1821|04|27|32|df=y}}
+| death_place=Moor, Weißenburg County, Kingdom of Hungary
+| resting_place=
+| occupation=
+| language=[[Hebrew language|Hebrew]], [[German language|German]]
+| alma_mater=
+| genre=
+| subject=
+| movement=[[Haskalah]]
+| notableworks=
+| spouse=
+| children=
+| awards=
+| years_active=
+}}
+'''Solomon Löwisohn''' ({{lang-yi|שלמה לעוויזאהן|translit=Shelomoh Levizohn}}, {{Lang-de|Salomo Löwisohn}}; 1788 or 1789 – 27 April 1821) was a Hungarian ''[[Haskalah|Maskilic]]'' [[poet]], [[historian]], grammarian, and linguist.
+
+==Biography==
+[[File:Melitzat Yeshurun.jpg|thumb|right|250px|[[Title page]] of ''Melitsat yeshurun'' (1816).]]
+Solomon Löwisohn was born into a prominent [[Jews|Jewish]] family in [[Mór|Moor]], [[Fejér County (former)|Weißenburg County]].{{r|JE}} His father, himself a proficient Talmudist, taught the boy until he was fifteen years old.{{r|blko}} Since there was no Jewish school in the village, he sent him to Moor's [[Order of Friars Minor Capuchin|Capuchin]] school to study German and arithmetic.{{r|yivo}} The boy showed unusual talents; by the age of 13, he had already completely mastered the 24 books of the ''[[Hebrew Bible|Tanakh]]'' and possessed a rare skill in Hebrew. During this period he tried his hand at festive and [[occasional poetry]].{{r|blko}}
+
+In 1809 he went to study at the [[Prague]] ''[[yeshivah]]'' with his relative [[Moritz Gottlieb Saphir|Moses Saphir]], and between 1813 and 1815 studied [[Semitic languages]] at the [[Charles University|University of Prague]]. Löwisohn soon became closely associated with the ''[[Haskalah|Maskilic]]'' circle of {{ill|Baruch Jeitteles|lt=Baruch|de}} and [[Judah Jeitteles]]. His first major work, a [[Dialogue in writing|dialogue]] on Hebrew grammar between [[David Kimhi|David Kimḥi]] and [[Joel Löwe|Joel Brill]] entitled ''Siḥah be-ʻolam ha-neshamot'', was published in 1811.{{r|yivo}} 
+
+In 1814, he accepted the position of corrector at the printing establishment of [[Anton Edler von Schmid]] in [[Vienna]], but gave up his post in 1820. He quickly became physically and mentally ill, and succumbed to his ailments in his hometown in April 1821, at the age of 32.{{r|blko}}
+
+==Work==
+Löwisohn's other works include ''Meḥkere erets,'' on the [[topography]] of the [[Hebrew Bible|Tanakh]], and ''Dikduk leshon ha-Mishna'' (1815), an essay on the language of the [[Mishnah]]. Further, he translated and annotated the ''[[Machzor|Maḥzor]]'', and part of the ritual for [[Tisha B'Av]] (1819).{{r|JE}} His most important works are  ''Melitsat Yeshurun'' (1816), an analysis of the [[poetics]] of the Bible,{{r|yivo}} and ''Vorlesungen über die neuere Geschichte der Juden'' (1820), of which the first volume only was published.{{r|brockhaus}}
+
+== Bibliography ==
+* {{cite book|title=Siḥah be-ʻolam ha-neshamot|trans-title=A Conversation in the World of Souls|location=Prague|date=1811|url=https://hdl.handle.net/2027/hvd.hwsp8s|publisher=F. Sommer|hdl=2027/hvd.hwsp8s|language=he}}
+* {{cite book|title=Bet ha-osef|date=1812|language=he}}
+* {{cite book|title=Dikduk leshon ha-Mishna|trans-title=Grammar of the Language of the Mishnah|date=1815}}
+* {{cite book|title=Melitsat Yeshurun|trans-title=The Eloquence of [[Jeshurun]]|location=Vienna|publisher=[[Anton Edler von Schmid|A. Schmid]]|date=1816|hdl=2027/hvd.hwnlzx|language=he|url=https://hdl.handle.net/2027/hvd.hwnlzx}}
+* {{cite book|title=Tikkune ha-tefillah|location=Vienna|date=1816|language=he}}
+* {{cite book|title=Meḥkere erets|location=Vienna|date=1819|publisher=Georg Holzinger|hdl=2027/nyp.33433110029596|language=he|url=https://hdl.handle.net/2027/nyp.33433110029596}}
+* {{cite book|title=Vorlesungen über die neuere Geschichte der Juden|trans-title=Lectures on Modern Jewish History|location=Vienna|date=1820|publisher=Karl Ferdinand Beck|language=de|url=https://books.google.com/books?id=2ixdAAAAcAAJ}}
+* {{cite book|title=Biblische Geographie|location=Vienna|publisher=Karl Ferdinand Beck|date=1821|language=de|url=https://books.google.com/books?id=5RxSAAAAcAAJ}}
+* {{cite book|title=Erets kedumim|publisher=[[Romm publishing house|M. Romm]]|location=Vilna|date=1839|hdl=2027/chi.091402693|language=he|url=https://hdl.handle.net/2027/chi.091402693}}
+* {{cite book|title=Meḥkere lashon|publisher=Y. R. Romm|location=Vilna|date=1849|hdl=2027/hvd.hwmkhs|language=he|url=https://hdl.handle.net/2027/hvd.hwmkhs}}
+
+== References ==
+{{Jewish Encyclopedia|article=Löwisohn, Solomon|url=https://www.jewishencyclopedia.com/articles/10159|first1=Isidore|last1=Singer|first2=Alexander|last2=Büchler|volume=8|page=197}} 
+{{Reflist|refs=
+<ref name=JE>{{Jewish Encyclopedia|article=Löwisohn, Solomon|url=https://www.jewishencyclopedia.com/articles/10159|first1=Isidore|last1=Singer|first2=Alexander|last2=Büchler|volume=8|page=197|no-prescript=1}}</ref>
+<ref name=blko>{{cite encyclopedia|title=Löwisohn, Salomon|editor-first=Constantin von|editor-last=Wurzbach|editor-link=Constantin von Wurzbach|encyclopedia=[[Biographisches Lexikon des Kaiserthums Oesterreich|Biographisches Lexikon des Kaiserthums Österreich]]|language=de|location=Vienna|volume=15|date=1866|page=453|url=https://de.wikisource.org/wiki/BLKÖ:Löwisohn,_Salomon}}</ref>
+<ref name=brockhaus>{{cite JEBE|wstitle=Левизон, Соломон|trans-title=Löwisohn, Solomon|volume=10|page=100}}</ref>
+<ref name=yivo>{{cite encyclopedia|title=Löwisohn, Salomon|first=Oded|last=Menda-Levy|translator-first=Rami|translator-last=Hann|url=https://yivoencyclopedia.org/article.aspx/Lowisohn_Salomon|encyclopedia=[[The YIVO Encyclopedia of Jews in Eastern Europe|YIVO Encyclopedia of Jews in Eastern Europe]]|editor-first=Gershon|editor-last=Hundert|editor-link=Gershon Hundert|location=New Haven|publisher=Yale University Press|year=2008}}</ref>
+}}
+
+{{Authority control}}
+{{DEFAULTSORT:Lowisohn, Solomon}}
+[[Category:1788 births]]
+[[Category:1821 deaths]]
+[[Category:19th-century historians]]
+[[Category:19th-century Hungarian Jews]]
+[[Category:19th-century Hungarian poets]]
+[[Category:Austro-Hungarian Jews]]
+[[Category:German-language writers]]
+[[Category:Grammarians of Hebrew]]
+[[Category:Hebrew–German translators]]
+[[Category:Hebrew-language poets]]
+[[Category:Hebrew-language writers]]
+[[Category:Hungarian expatriates in Austria]]
+[[Category:Hungarian expatriates in the Czech lands]]
+[[Category:Hungarian historians]]
+[[Category:Hungarian Jews]]
+[[Category:Hungarian male poets]]
+[[Category:Jewish grammarians]]
+[[Category:Jewish historians]]
+[[Category:Jewish Hungarian writers]]
+[[Category:Jewish linguists]]
+[[Category:Jewish poets]]
+[[Category:Jewish translators]]
+[[Category:People from Mór]]
+[[Category:People of the Haskalah]]

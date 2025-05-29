@@ -1,0 +1,360 @@
+{{short description|Australian writer and broadcaster}}
+{{Use Australian English|date=May 2015}}
+{{Use dmy dates|date=November 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Clive James
+| honorific_suffix = {{postnom|country=GBR|size=100|AO|CBE|FRSL}}
+| image = Clive James.jpg
+| caption = James in 2008
+| birth_name = Vivian Leopold James
+| birth_date = {{birth date|df=yes|1939|10|7}}
+| birth_place = [[Kogarah, New South Wales]], Australia
+| death_date = {{death date and age|df=yes|2019|11|24|1939|10|7}}
+| death_place = [[Cambridge]], [[Cambridgeshire]], England
+| alma_mater = [[University of Sydney]]<br>[[Pembroke College, Cambridge]]
+| occupation = {{flatlist|
+* Author
+* essayist
+* poet
+* broadcaster
+}}
+| notableworks = ''[[Unreliable Memoirs]]'' <br> ''[[Cultural Amnesia (book)|Cultural Amnesia]]''
+| spouse = {{marriage|Prudence Shaw|1968}}
+| children = 2 (including [[Claerwen James]])
+| awards = [[Philip Hodgins|Philip Hodgins Memorial Medal for Literature]]
+| website = {{URL|clivejames.com}}
+}}
+
+'''Clive James''' {{postnom|country=GBR|AO|CBE|FRSL}} (born '''Vivian Leopold James'''; 7 October 1939 – 24 November 2019) was an Australian critic, [[journalist]], broadcaster and writer who lived and worked in the United Kingdom from 1962 until his death in 2019.<ref name="McCrum"/><ref name="ABCobit">[https://www.abc.net.au/news/2019-11-28/clive-james-dies-aged-80/5751522 Clive James — writer, TV broadcaster and critic — dies aged 80] ''ABC News'', 28 November 2019. Retrieved 28 November 2019.</ref> He began his career specialising in literary criticism before becoming television critic for ''[[The Observer]]'' in 1972, where he made his name for his wry, [[deadpan]] humour.
+
+During this period, he earned an independent reputation as a poet and [[satire|satirist]].<ref>{{Cite web|url=https://www.theguardian.com/culture/2019/nov/27/clive-james-writer-broadcaster-and-tv-critic-dies-aged-80|title=Clive James, writer, broadcaster and TV critic, dies aged 80|first1=Jim|last1=Waterson|first2=Sian|last2=Cain|date=27 November 2019|website=The Guardian}}</ref> He achieved mainstream success in the UK first as a writer for television, and eventually as the lead in his own programmes, including ''[[...on Television]]''.
+
+==Early life==
+James was born Vivian Leopold James in [[Kogarah, New South Wales|Kogarah]], a southern suburb of [[Sydney]]. He was allowed to change his name as a child because "after [[Vivien Leigh]] played [[Scarlett O'Hara]] the name became irrevocably a girl's name no matter how you spelled it".<ref name="James, C. 1981, p.29">James, C., ''Unreliable Memoirs'', Pan Books, 1981, p. 29.</ref> He chose "Clive", the name of [[Tyrone Power]]'s character in the 1942 film ''[[This Above All (film)|This Above All]]''.<ref>{{cite news|title=A Writer Whose Pen Never Rests, Even Facing Death|url=https://www.nytimes.com/2014/11/01/world/europe/prolific-writer-clive-james-facing-death-reflects-on-getting-a-few-things-done.html?_r=0|access-date=1 November 2014|newspaper=The New York Times|date=31 October 2014}}</ref>
+
+James's father, Albert Arthur James, was taken prisoner by the Japanese during [[World War II]]. Although he survived the [[prisoner-of-war camp]], he died when the American [[B-24]] carrying him and other freed allied POWs ran into the tail of a typhoon en route from Okinawa to Manila, and crashed into the mountains of southeastern Taiwan.<ref>{{cite web |last1=Turton |first1=Michael |title=Forgotten WWII Plane Crash in Taitung |url=https://michaelturton.blogspot.com/2017/09/forgotten-wwii-plane-crash-in-taitung.html |website=The View from Taiwan |access-date=28 November 2019 |date=6 September 2017 }}</ref> He was buried at [[Sai Wan War Cemetery]] in [[Hong Kong]].<ref name="Guardian obituary">{{cite news|last= Jeffries| first= Stuart| title= Clive James Obituary| url=  https://www.theguardian.com/global/2019/nov/27/clive-james-obituary| work= [[The Guardian]]| date= 27 November 2019| access-date= 27 November 2019}}</ref> James would later state that his life's works originated in his father's death.<ref>{{Cite web|url=https://www.irishtimes.com/news/ireland/irish-news/clive-james-still-haunted-by-death-of-father-after-world-war-1.2655374|title=Clive James still haunted by death of father after world war|last=McGreevy|first=Ronan|website=The Irish Times|language=en|access-date=28 November 2019}}</ref>
+
+James, an only child, was brought up by his mother (Minora May, née Darke), a factory worker,<ref name="Aitkenhead">Decca Aitkenhead [https://www.theguardian.com/lifeandstyle/2009/may/25/g2-interview-clive-james-television "Clive James: 'I would have been an obvious first choice for cocaine death. I could use up a lifetime's supply of anything in two weeks'"], ''The Guardian'', 25 May 2009.</ref> in the Sydney suburbs of Kogarah and [[Jannali, New South Wales|Jannali]], living some years with his English maternal grandfather.<ref name="James, C. 1981, p.29"/><ref>{{cite encyclopedia|title=James, Clive Vivian Leopold|encyclopedia=Who's Who 2019|publisher=A & C Black|date=1 December 2018|doi=10.1093/ww/9780199540884.013.U21739}}</ref>
+
+He was educated at [[Sydney Technical High School]] (despite winning a [[Bursary|bursary award]] to [[Sydney Boys High School]]) and the [[University of Sydney]], where he studied English and psychology from 1957 to 1960, and became associated with the [[Sydney Push]], a [[libertarian]] intellectual subculture. At the university, he contributed to the student newspaper, ''[[Honi Soit]]'', and directed the annual [[Sydney University Dramatic Society|students' union revue]]. He graduated with a [[Bachelor of Arts]] with Honours in English in 1961. After graduating, James worked for a year as an assistant editor for the magazine page at ''[[The Sydney Morning Herald]]''.<ref name="Guardian obituary"/>
+
+In 1962, James moved to England, which became his home for the rest of his life.<ref>{{Cite news|url=https://www.theguardian.com/culture/2018/sep/09/bruce-beresford-at-last-making-the-film-that-obsessed-me-for-30-years|title=Bruce Beresford: At last, making the film that obsessed me for 30 years|last=Beresford|first=Bruce|date=8 September 2018|work=The Guardian|access-date=27 November 2019|language=en-GB|issn=0261-3077}}</ref> During his first three years in London, he shared a flat with the Australian film director [[Bruce Beresford]]<ref>{{Cite book|url=https://books.google.com/books?id=vd4_Vt87o8IC&pg=PA134|title=Madeleine: A Life of Madeleine St John|last=Trinca|first=Helen|date=20 March 2013|publisher=Text Publishing|isbn=978-1-921961-13-7|pages=134|language=en}}</ref> (disguised as "Dave Dalziel" in the first three volumes of James's memoirs), was a neighbour of Australian artist [[Brett Whiteley]],<ref>{{cite news |url=http://nla.gov.au/nla.news-article51184704 |title=Kogarah revisited: author Clive James returns |newspaper=[[The Australian Women's Weekly]] |volume=48|issue=28 |location=Sydney, Australia |date=10 December 1980 |access-date=29 November 2019 |page=21 |via=National Library of Australia}}</ref> became acquainted with [[Barry Humphries]] (disguised as "Bruce Jennings") and had a variety of occasionally disastrous short-term jobs – sheet metal worker, library assistant, photo archivist and market researcher.<ref name="Guardian obituary"/>
+
+James gained a place at [[Pembroke College, Cambridge|Pembroke College]], [[University of Cambridge|Cambridge]], to read [[English literature]]. While there, he contributed to all the undergraduate periodicals, was a member and later President of the [[Footlights|Cambridge Footlights]], and appeared on ''[[University Challenge]]'' as captain of the Pembroke team, beating [[St Hilda's College, Oxford|St Hilda's]], [[University of Oxford|Oxford]], but losing to [[Balliol College, Oxford|Balliol]] on the last question in a tied game.
+
+During one summer vacation, he worked as a circus [[Roustabout#Other employment|roustabout]] to save enough money to travel to Italy.<ref>{{Cite book|url=https://books.google.com/books?id=uPwgAQAAIAAJ&q=University+Challenge|title=May week was in June|last=James|first=Clive|date=1990|publisher=Cape|isbn=9780224027878|series=Volume 3 of ''Unreliable Memoirs''|location=London|pages=49, 107–10|language=en}}</ref> His contemporaries at Cambridge included [[Germaine Greer]] (known as "Romaine Rand" in the first three volumes of his memoirs), [[Simon Schama]] and [[Eric Idle]]. Having, he claimed, scrupulously avoided reading any of the course material (but having read widely otherwise in English and foreign literature), James graduated with a [[British undergraduate degree classification#Degree classification|2:1]]—better than he had expected—and began a PhD thesis on [[Percy Bysshe Shelley]].<ref name="Guardian obituary" />
+
+==Career==
+
+===Critic and essayist===
+James became the television critic for ''[[The Observer]]'' in 1972,<ref name="Aitkenhead"/> remaining in the role until 1982. [[Mark Lawson]] described a James review as "so funny it was dangerous to read while holding a hot drink".<ref name="BBC obituary">{{cite web|title= Clive James obituary: 'A man of substance'| url=  https://www.bbc.co.uk/news/entertainment-arts-13437293| website= [[BBC Online]]| date= 27 November 2019| access-date= 27 November 2019}}</ref>  He was at times merciless.<ref>{{cite news|newspaper=The Guardian|title=My debt to Clive James, the howlingly funny critic who made TV-writing sing |url=https://www.theguardian.com/culture/2019/nov/28/my-debt-to-clive-james-the-howlingly-funny-critic-who-made-tv-writing-sing|last=Mangan|first=Lucy|date=28 November 2019}}</ref><ref>{{cite magazine|magazine=London Review of Books|title=A Blizzard of Tiny Kisses|url=https://www.lrb.co.uk/v02/n11/clive-james/a-blizzard-of-tiny-kisses|last=James|first=Clive|date=5 June 1980|volume=2|issue=11}}</ref> Selections from the column were published in three books – ''[[Visions Before Midnight]]'', ''The Crystal Bucket'' and ''[[Glued to the Box]]'' – and finally in a compendium, ''On Television''.<ref>{{cite web|url=https://www.panmacmillan.com/authors/clive-james/clive-james-on-television/9781509832439|title=Clive James on Television|publisher=Pan Macmillan|access-date=28 November 2019}}</ref>  He wrote literary criticism for newspapers, magazines and periodicals in Britain, Australia and the United States, including, among many others, the ''[[Australian Book Review]]'', ''[[The Monthly]]'', ''[[The Atlantic]]'', ''[[The New York Review of Books]]'', ''[[The Liberal]]'' and ''[[The Times Literary Supplement]]''.<ref>{{Cite web|url=https://www.the-tls.co.uk/articles/clive-james-waking-up-in-europa/|title=Waking up in Europa|website=TLS|location=London}}</ref> [[John Gross]] included James's essay "A Blizzard of Tiny Kisses" in the ''Oxford Book of Essays'' (1992, 1999).<ref>{{Cite document|title=The Oxford book of essays|first=John|last=Gross|date=28 November 1991|oclc = 21335450}}</ref>
+
+''The Metropolitan Critic'' (1974), his first collection of literary criticism, was followed by ''At the Pillars of Hercules'' (1979), ''From the Land of Shadows'' (1982), ''Snakecharmers in Texas'' (1988), ''The Dreaming Swimmer'' (1992), ''Even As We Speak'' (2001), ''The Meaning of Recognition'' (2005) and ''[[Cultural Amnesia (book)|Cultural Amnesia]]'' (2007), a collection of miniature intellectual biographies of over 100 significant figures in modern culture, history and politics.<ref>{{cite news |title=What Kind of Car Is a Ford Madox Ford? |url=https://www.nytimes.com/2007/04/08/books/review/Schillinger.t.html |work=[[The New York Times]] |date=8 April 2007 |access-date=11 July 2010 | first=Liesl | last=Schillinger}}</ref> A defence of [[humanism]], [[liberal democracy]] and [[obscurantism|literary clarity]], the book was listed among the best of 2007 by ''[[The Village Voice]]''. Another volume of essays, ''The Revolt of the Pendulum'', was published in June 2009.<ref>{{cite news |url=https://www.theguardian.com/books/2010/jul/10/revolt-pendulum-essays-clive-james |title=The Revolt of the Pendulum: Essays 2005-2008 by Clive James |first=Nicholas |last=Lezard |author-link= Nicholas Lezard |date=10 July 2010 |work=[[The Guardian]] |access-date=29 November 2019}}</ref>
+
+He also published ''Flying Visits'', a collection of [[travel writing]] for ''[[The Observer]]''. For many years, until mid-2014, he wrote the weekly television critique page in the "Review" section of the Saturday edition of ''[[The Daily Telegraph]]''.<ref name="Guardian obituary"/>
+
+===Poet and lyricist===
+James published several books of poetry, including  ''Poem of the Year'' (1983), a verse-diary; ''Other Passports: Poems 1958–1985'', a first collection; and ''The Book of My Enemy'' (2003), a volume that takes its title from his poem "The Book of My Enemy Has Been Remaindered".<ref>{{cite news| url=http://artsbeat.blogs.nytimes.com/2007/07/24/the-book-of-my-enemy/ | work=[[The New York Times]] | first=Dwight | last=Garner | title=The Book of My Enemy | date=24 July 2007}}</ref>
+
+He published four [[mock-heroic]] poems – ''The Fate of Felicity Fark in the Land of the Media: a moral poem'' (1975), ''Peregrine Prykke's Pilgrimage Through the London Literary World'' (1976), ''Britannia Bright's Bewilderment in the Wilderness of Westminster'' (1976) and ''Charles Charming's Challenges on the Pathway to the Throne'' (1981) – and one long autobiographical epic, ''The River in the Sky'' (2018).<ref>{{Cite web|url=http://www.panmacmillan.com/%20/authors/clive-james/the-river-in-the-sky/9781509887231|title=The River in the Sky by Clive James|website=Pan Macmillan}}{{Dead link|date=July 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+During the 1970s he also collaborated on six albums of songs with [[Pete Atkin]]:<ref name="Atkin"/>
+
+* ''Beware of the Beautiful Stranger'' (1970)
+* ''Driving Through Mythical America'' (1971)
+* ''A King at Nightfall'' (1973)
+* ''The Road of Silk'' (1974)
+* ''Secret Drinker'' (1974)
+* ''Live Libel'' (1975)
+
+Atkin and James toured together to promote both the final album – a "contractual obligation" collection consisting of parodies and humour numbers written over the years - and James's own ''Felicity Fark'' epic poem.  James wrote the album sleeve notes, which mostly linked the songs with thinly disguised jibes at popular artists and trends.  On stage James both read from his poem, and introduced the album songs.  Despite the success of the tour, there were no more recordings by Atkin, who pursued other opportunities and eventually became a BBC radio producer.
+
+A revival of interest in the songs in the late 1990s, triggered largely by the creation by Steve Birkill of an Internet mailing list "Midnight Voices" in 1997, led to the reissue of the six albums on CD between 1997 and 2001, as well as live performances by the pair. A double album of previously unrecorded songs written in the seventies and entitled ''The Lakeside Sessions: Volumes 1 and 2'' was released in 2002 and ''Winter Spring'', an album of new material written by James and Atkin was released in 2003.<ref name="Atkin"/> This was followed by ''Midnight Voices'', an album of remakes of the best Atkin/James songs from the early albums, and, in 2015, by ''The Colours of the Night'', which included several newly completed songs.<ref name="Atkin">{{cite web |url=https://www.peteatkin.com/disworks.htm|title=Pete Atkin discography| publisher=PeteAtkin.com |access-date=28 November 2019}}</ref>
+
+James acknowledged the importance of the ''Midnight Voices'' group in bringing to wider attention the lyric-writing aspect of his career. He wrote in November 1997, "That one of the midnight voices of my own fate should be the music of Pete Atkin continues to rank high among the blessings of my life".<ref>{{cite web|url=http://www.peteatkin.com/mvdig013.htm|title=Midnight Voices|date=27 November 1997|access-date=11 December 2016}}</ref>
+
+In 2013, he issued his translation of [[Dante]]'s ''[[Divine Comedy]]''. The work, adopting [[quatrain]]s to translate the original's [[terza rima]], was well received by Australian critics.<ref>[[Peter Craven (literary critic)|Craven, Peter]], [http://www.smh.com.au/entertainment/books/master-craftsmans-crowning-glory-20130530-2nehs.html "Master craftsman's crowning glory"], ''[[The Sydney Morning Herald]]'', 1 June 2013.</ref><ref>Goldsworthy, Peter. [http://www.theaustralian.com.au/arts/review/simply-divine/story-fn9n8gph-1226653679049 "Clive James's Dante is simply divine"], ''The Australian'', 1 June 2013.</ref> Writing for ''[[The New York Times]]'', Joseph Luzzi thought it often failed to capture the more dramatic moments of the ''Inferno'', but that it was more successful where Dante slows down, in the more theological and deliberative cantos of the ''Purgatorio'' and ''Paradiso''.<ref>Luzzi, Joseph.[https://www.nytimes.com/2013/04/21/books/review/dantes-divine-comedy-translated-by-clive-james.html "This Could Be 'Heaven', or This Could Be 'Hell'"], ''[[The New York Times]]'', 19 April 2013. Retrieved 2 December 2019.</ref>
+
+===Novelist and memoirist===
+In 1980 James published his first book of autobiography, ''[[Unreliable Memoirs]]'', which recounted his early life in Australia and extended to over 100 reprintings. It was followed by four other volumes of autobiography: ''Falling Towards England'' (1985), which covered his London years; ''May Week Was in June'' (1990), which dealt with his time at [[Cambridge]]; ''North Face of Soho'' (2006); and ''The Blaze of Obscurity'' (2009), concerning his subsequent career as a television presenter. An omnibus edition of the first three volumes was published under the generic title of ''Always Unreliable''. James also wrote four novels: ''Brilliant Creatures'' (1983); ''The Remake'' (1987); ''Brrm! Brrm!'' (1991), published in the United States as ''The Man from Japan''; and ''The Silver Castle'' (1996).<ref>Wallace, Arminta. [https://www.irishtimes.com/news/the-silver-castle-by-clive-james-picador-5-99-in-uk-1.125604 "The Silver Castle, by Clive James]". ''[[Irish Times]]'', 17 January 1998. Retrieved 28 November 2019.</ref>
+
+In 1999, [[John Gross]] included an excerpt from ''Unreliable Memoirs'' in ''The New Oxford Book of English Prose''.<ref>{{cite news|url=https://www.independent.co.uk/arts-entertainment/books-toffs-against-toughs-1200613.html|title=Toffs against Toughs|newspaper=Independent|access-date=28 November 2019|date=26 September 1998}}</ref> [[John Carey (critic)|John Carey]] chose ''Unreliable Memoirs'' as one of the 50 most enjoyable books of the 20th century in his book ''Pure Pleasure'' (2000).<ref>{{Cite web|url=https://www.manchester.ac.uk/discover/news/clive-james-joins-martin-amis-to-discuss-ageing/ |title=Clive James joins Martin Amis to discuss ageing |website=The University of Manchester}}</ref>
+
+===Television===
+James developed his television career as a guest commentator on various shows, including as an occasional co-presenter with [[Tony Wilson]] on the first series of ''[[So It Goes (television series)|So It Goes]]'', the [[Granada Television]] pop music show. On the show when the [[Sex Pistols]] made their TV debut, James commented: "During the recording, the task of keeping the little bastards under control was given to me. With the aid of a radio microphone, I was able to shout them down, but it was a near thing ... they attacked everything around them and had difficulty in being polite even to each other".<ref>{{cite web|url=http://www.acc.umu.se/~samhain/summerofhate/odds2.html|title=The Observer, November 1976|access-date=24 December 2007}}</ref>
+
+James subsequently hosted the [[ITV (TV network)|ITV]] show ''[[...on Television|Clive James on Television]]'', in which he showcased unusual or (often unintentionally) amusing television programmes from around the world, notably the Japanese TV show ''[[Za Gaman|Endurance]]''. After his move to the [[BBC]] in 1988, he hosted a similarly-formatted programme called ''Saturday Night Clive'' (1989–1991), which began on [[BBC Two|BBC2]] but was popular enough to move to [[BBC One|BBC1]] in 1991. It returned in 1994 on Sunday nights, under the title ''Sunday Night Clive''.
+
+In 1995 he set up Watchmaker Productions to produce ''The Clive James Show'' for ITV, and a subsequent series launched the British career of singer and comedian [[Margarita Pracatan]]. James hosted one of the early chat shows on [[Channel 4]] and fronted the BBC's ''Review of the Year'' programmes in the late 1980s (''Clive James on the '80s'') and 1990s (''Clive James on the '90s''), which formed part of the channel's New Year's Eve celebrations.<ref>{{cite magazine|url=https://www.radiotimes.com/news/tv/2019-11-28/clive-james/|title=Andrew Collins on working with Clive James: "to collaborate with him was like winning a competition"|magazine=Radio Times|access-date=28 November 2019}}</ref>
+
+In the mid-1980s, James featured in a travel programme called ''Clive James in...'' (beginning with ''Clive James Live in Las Vegas'') for [[LWT]] (now [[ITV (TV network)|ITV]]) and later switched to [[BBC]], where he continued producing travel programmes, this time called ''[[Clive James's Postcard from...]]'' (beginning with ''Clive James's Postcard from Miami'') – these also eventually transferred to ITV. He was also one of the original team of presenters of the BBC's ''[[The Late Show (BBC TV series)|The Late Show]]'', hosting a round-table discussion on Friday nights.<ref name="GuardianObit">{{Cite news|url=https://www.theguardian.com/global/2019/nov/27/clive-james-obituary|title=Clive James obituary|newspaper=Guardian|access-date=28 November 2019|date=27 November 2019|last1=Jeffries|first1=Stuart}}</ref>
+
+His major documentary series ''[[Fame in the 20th Century]]'' (1993) was broadcast in the United Kingdom by the [[BBC]], in Australia by the [[Australian Broadcasting Corporation|ABC]] and in the United States by the [[Public Broadcasting Service|PBS]] network. This series dealt with the concept of "fame" in the 20th century, following over a course of eight episodes (each one chronologically and roughly devoted to one decade of the century, from the 1900s to the 1980s) discussions about world-famous people of the 20th century. Through the use of film footage, James presented a history of "fame" which explored its growth to today's global proportions. In his closing monologue he remarked, "Achievement without fame can be a rewarding life, while fame without achievement is no life at all."<ref>{{cite news |last1=Gruber |first1=Fiona |title=A late afternoon with Clive James |url=https://www.abc.net.au/radionational/programs/booksandarts/a-late-afternoon-with-author-and-broadcaster-clive-james/6797740 |access-date=28 November 2019 |publisher=ABC |date=25 September 2015}}</ref>
+
+Clive also participated as a contestant on the 42nd episode of Japanese game show ''[[Takeshi's Castle]]'' and made a short documentary about it.{{cn|date=May 2020}}
+
+A well known fan of [[motor racing]], James presented the {{f1|1982}}, {{f1|1984}} and {{f1|1986}} official [[Formula One]] season review videos produced by the [[Formula One Constructors Association]], more commonly known as FOCA. James, who attended most F1 races during the 1980s and was a friend of former FOCA boss [[Bernie Ecclestone]], added his own humour to the reviews which became popular with fans of the sport. He also presented ''The Clive James Formula 1 Show'' for [[ITV (TV network)|ITV]] to coincide with their [[Formula One]] coverage in {{F1|1997}}.<ref name="GuardianObit"/>
+
+He summed up the medium in the introduction to ''Glued to the Box'': "Anyone afraid of what he thinks television does to the world is probably just afraid of the world."<ref>{{cite book|title=Glued to the Box|first=Clive|last=James|date=25 November 1982|publisher=Jonathan Cape Ltd|isbn=0224020668|url-access=registration|url=https://archive.org/details/gluedtoboxtelevi0000jame_w4e5}}</ref>
+
+===Radio===
+In 2007, James started presenting the [[BBC Radio 4]] series ''A Point of View'',<ref>{{Cite web|url=https://www.bbc.co.uk/programmes/b006qng8|title=A Point of View|website=BBC Radio 4}}</ref> with transcripts appearing in the "Magazine" section of [[BBC News Online]]. In this programme James discussed various issues with a slightly humorous slant. Topics covered included media portrayal of torture,<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/magazine/6510593.stm |title=The clock's ticking on torture |access-date=24 December 2007 |work=BBC News Magazine | date=30 March 2007 |first=Clive |last=James}}</ref> young black role models<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/magazine/6485571.stm |title=Young, gifted and black|access-date=24 December 2007 |work=BBC News Magazine | date=23 March 2007}}</ref> and corporate [[rebranding]].<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/magazine/6368477.stm |title=The name-changing fidgets |access-date=24 December 2007 |work=BBC News Magazine | date=16 February 2007 |first=Clive |last=James}}</ref> Three of James's broadcasts in 2007 were shortlisted for the 2008 [[Orwell Prize]].<ref>[http://www.theorwellprize.co.uk/the-award/short-books.aspx "Shortlist 2008"] {{webarchive|url=https://web.archive.org/web/20080314133305/http://www.theorwellprize.co.uk/the-award/short-books.aspx |date=14 March 2008 }}, The Orwell Prize</ref>
+
+In October 2009, James read a radio version of his book ''The Blaze of Obscurity'' on BBC Radio 4's ''[[Book of the Week]]'' programme.<ref>{{cite web
+|url=http://www.bbc.co.uk/programmes/b00n7gf5
+|title=Book of the Week – The Blaze of Obscurity
+|publisher=BBC
+|access-date=19 October 2009
+|date=19 October 2009
+}}</ref> In December 2009, James talked about the [[P-51 Mustang]] and other American fighter aircraft of World War II in ''The Museum of Curiosity'' on BBC Radio 4.<ref>{{cite web
+|url=http://www.bbc.co.uk/programmes/b00ksvt5
+|title=Museum of Curiosity on Radio 4 web site
+|publisher=BBC
+|access-date=25 December 2009
+|date=25 December 2009
+}}</ref>
+
+In May 2011, the BBC published a new podcast, ''A Point of View: Clive James'', which features all sixty ''A Point of View'' programmes presented by James between 2007 and 2009.<ref>{{Cite web|url=https://www.bbc.co.uk/programmes/p02plkmf/episodes/downloads|title=A Point of View: Clive James – Downloads|website=BBC Radio 4}}</ref>
+
+He posted [[vlog]] conversations from his internet show ''Talking in the Library'', including conversations with [[Ian McEwan]], [[Cate Blanchett]], [[Julian Barnes]], [[Jonathan Miller]] and [[Terry Gilliam]]. In addition to the poetry and [[prose]] of James himself, the site featured the works of other literary figures such as [[Les Murray (poet)|Les Murray]] and [[Michael Frayn]], as well as the works of painters, sculptors and photographers such as [[John Olsen (Australian artist)|John Olsen]] and [[Jeffrey Smart]].
+
+===Theatre===
+In 2008 James performed in two eponymous shows at the [[Edinburgh Festival Fringe]]: ''Clive James in Conversation'' and ''Clive James in the Evening''. He took the latter show on a limited tour of the UK in 2009.<ref>{{Cite web|url=https://www.theguardian.com/culture/2009/oct/10/clive-james-life-in-books|title=A life in books: Clive James|first=Interview by James|last=Campbell|date=9 October 2009|website=The Guardian}}</ref>
+
+==Famous lines==
+
+He famously described [[Arnold Schwarzenegger]], in his bodybuilding days, as looking like "a brown condom full of walnuts".<ref>Clive James, The North Face of Soho, ''Pan Macmillan'' 2009 p. 216.</ref>
+
+He described the outfit [[Cher]] wore in her 1989 music video of "[[If_I_Could_Turn_Back_Time#Music_video|If I Could Turn Back Time]]" as a "Dress-less Evening Strap".
+
+He described [[Murray Walker]], the motor-racing commentator, as "talking as if his trousers are on fire".<ref>{{Cite web|url=http://www.theguardian.com/culture/2014/may/31/clive-james-defies-illness-for-london-performance|title=Seriously ill Clive James puts in a bravura performance at London literary festival – 'I'd love to go on like this'|website=[[TheGuardian.com]]|date=31 May 2014}}</ref>
+
+He described the romantic novelist [[Barbara Cartland]] as having "Twin miracles of mascara, her eyes looked like the corpses of two small crows that had crashed into the white cliffs of Dover."<ref>{{cite web| title= Clive James in his own words| url= https://www.bbc.co.uk/news/entertainment-arts-50579357|website= [[BBC Online]]| date= 27 November 2019| access-date= 27 November 2019}}</ref> He also used to call the Palestinian leader [[Yasser Arafat]] by the female name "Yasmin Arafat".<ref name="Independent 1995">{{cite news| title= Review: A year is a short time in light entertainment|url= https://www.independent.co.uk/sport/review-a-year-is-a-short-time-in-light-entertainment-1566407.html| last= Sutcliffe| first= Thomas| author-link= Tom Sutcliffe (broadcaster)| work= [[The Independent]]| date= 2 January 1995| access-date= 27 November 2019}}</ref>
+
+The origins of his famous remark "Whoever called snooker 'chess with balls' was rude but right" are set out by [[Edward Winter (chess historian)|Edward Winter]] in his article "Clive James and Chess".<ref>{{Cite web|url=http://www.chesshistory.com/winter/extra/james.html|title=Clive James and Chess by Edward Winter|website=www.chesshistory.com}}</ref>
+
+==Honours==
+[[File:Clive James Sydney Writer&#039;s Walk plaque.jpg|thumb|James's plaque on the [[Sydney Writers Walk]]|alt=]]
+In 1992, James was made a Member of the [[Order of Australia]] (AM). This was enhanced to Officer level (AO) in the [[2013 Australia Day Honours]]. James was appointed [[Commander of the Order of the British Empire]] (CBE) in the 2012 New Year Honours for services to literature and the media.<ref>{{London Gazette |issue=60009 |date=31 December 2011 |page=7 |supp=y}}</ref> In 2003 he was awarded the [[Philip Hodgins|Philip Hodgins Memorial Medal for Literature]]. He received [[honorary doctorates]] from the Universities of Sydney and [[University of East Anglia|East Anglia]]. In April 2008, James was awarded a Special Award for Writing and Broadcasting by the judges of the [[Orwell Prize]].<ref>{{cite news|url=https://www.theguardian.com/media/2008/apr/25/pressandpublishing?gusrc=rss&feed=media|title=Hari and James take Orwell prizes|author=Stephen Brook|newspaper=The Guardian|date=25 April 2008|access-date=25 April 2008 | location=London}}</ref>
+
+He was elected a Fellow of the [[Royal Society of Literature]] in 2010.<ref>{{cite web |url=http://www.rslit.org/content/fellows |title=Royal Society of Literature All Fellows |publisher=Royal Society of Literature |access-date=9 August 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100305070326/http://www.rslit.org/content/fellows |archive-date=5 March 2010  }}</ref> He was an Honorary Fellow of [[Pembroke College, Cambridge]] (his alma mater). In the [[2015 British Academy Television Awards|2015]] [[BAFTAs]], James received a special award honouring his 50-year career.<ref>{{cite web |url=http://awards.bafta.org/award/2015/television/special-award-2 |title=Television Special Award in 2015 |year=2015 |publisher=[[BAFTA]] |access-date=28 November 2019}}</ref> In 2014, he was awarded the [[President's Medal (British Academy)|President's Medal]] by the [[British Academy]].<ref>{{cite web|title=The British Academy President's Medal|url=http://www.britac.ac.uk/british-academy-presidents-medal|website=British Academy|access-date=23 July 2017}}</ref>
+
+James is celebrated with a plaque on the [[Sydney Writers Walk]] on [[Circular Quay]]. It includes an excerpt on [[Sydney Harbour]] from ''Unreliable Memoirs''.<ref>{{cite web |url=http://monumentaustralia.org.au/themes/culture/community/display/94161-sydney-writers-walk- |title=Sydney Writers Walk |publisher=Monument Australia |access-date=28 November 2019}}</ref>
+
+== Political views ==
+James's political views were prominent in much of his later writing. While [[critic]]al of [[communism]] for its tendency towards [[totalitarianism]], he identified with the left for much of his life. In a 2006 interview in ''The Sunday Times'', James said of himself: "I was brought up on the proletarian left, and I remain there. The fair go for the workers is fundamental, and I don't believe the [[free market]] has a mind."<ref>{{cite news| url=http://www.timesonline.co.uk/article/0,,2101-2442961,00.html | work=The Times | location=London | title=Interview Clive James | first=Bryan | last=Appleyard | date=12 November 2006 | access-date=30 April 2010}}</ref> In a speech given in 1991, he criticised privatisation: "The idea that Britain's broadcasting system—for all its drawbacks one of the country's greatest institutions—was bound to be improved by being subjected to the conditions of a free market: there was no difficulty in recognising that notion as politically illiterate. But for some reason people did have difficulty in realising that it was economically illiterate too."<ref>{{Cite web|url=http://www.clivejames.com/lectures/eve-disaster|title=On the Eve of Disaster|access-date=28 May 2007|archive-url=https://web.archive.org/web/20070624183837/http://www.clivejames.com/lectures/eve-disaster|archive-date=24 June 2007|url-status=dead}}</ref> In 2001, James identified as a liberal [[social democrat]].<ref name=artstoday>{{Cite web|url=http://www.abc.net.au/rn/legacy/programs/atoday/stories/s351989.htm|title=Clive James|website=www.abc.net.au}}</ref>
+
+His later views were more commonly aligned with the political right. James strongly supported the [[2003 invasion of Iraq]], saying in 2007 that "the war only lasted a few days" and that the continuing conflict in Iraq was "the Iraq peace".<ref>{{cite web|url=https://www.pbs.org/moyers/journal/08032007/transcript2.html|access-date=7 May 2009|title=Bill Moyers talks with Cultural Critic, Clive James.|website=[[PBS]]}}</ref> He also wrote that it was "official policy to rape a woman in front of her family" during [[Saddam Hussein]]'s regime and that women have enjoyed more rights since the invasion.<ref>{{cite news|url=http://news.bbc.co.uk/1/hi/magazine/8064449.stm|access-date=23 May 2009|title=Still looking for the western feminists | work=BBC News | date=22 May 2009}}</ref> 
+In 2017, James contributed a chapter to a book on climate change published by the [[Institute of Public Affairs]], advocating [[climate denialism]].<ref>{{Cite web|url=https://ipa.org.au/ipa-today/clive-james-chapter-in-climate-change-the-facts-2017|title=Clive James' Chapter in Climate Change: The Facts 2017|date=27 November 2019}}</ref>
+
+Describing religions as "advertising agencies for a product that doesn't exist", James was an [[atheist]] and saw it as the default and obvious position.<ref name="abc.net.au">{{cite web|url=http://www.abc.net.au/tv/enoughrope/transcripts/s1404736.htm|access-date=16 September 2008|title=Enough Rope with Andrew Denton – episode 84: Clive James (04/07/2005)|archive-url=https://web.archive.org/web/20081010152936/http://www.abc.net.au/tv/enoughrope/transcripts/s1404736.htm|archive-date=10 October 2008|url-status=dead}}</ref><ref>{{cite web|url=http://richarddawkins.net/audio/3123-discussion-between-richard-dawkins-and-clive-james|access-date=27 August 2010|title=Discussion between Richard Dawkins and Clive James at the Edinburgh Book Festival}}</ref>
+He was also a patron of the [[Burma Campaign UK]], an organisation that campaigns for human rights and democracy in Burma.<ref>{{cite web|url=http://www.burmacampaign.org.uk/aboutus.html|title=The Burma Campaign UK: AboutUs|access-date=24 December 2007|url-status=dead|archive-url=https://web.archive.org/web/20071010104804/http://www.burmacampaign.org.uk/aboutus.html|archive-date=10 October 2007}}</ref>
+
+==Personal life==
+In 1968, at Cambridge,<ref>{{Cite web|url=http://www.freebmd.org.uk/cgi/information.pl?r=234470403&d=bmd_1402349149|title=Index entry|access-date=28 August 2014|work=FreeBMD|publisher=ONS}}</ref> James married Prudence A. "Prue" Shaw,<ref name="McCrum"/> a graduate from [[Somerville College, Oxford]] and emeritus reader in Italian studies at [[University College London]] and the author of ''Reading Dante: From Here to Eternity''. James and Shaw had two daughters, one of which was the artist [[Claerwen James]].<ref>{{cite news |url=https://www.theguardian.com/culture/2013/feb/08/claerwen-james-art-exhibition-childhood |title=Claerwen James: The art of being Clive James's daughter |first=Vanessa |last=Thorpe |date=10 February 2013 |work=[[The Guardian]] |access-date=28 November 2019}}</ref>  In April 2012, the Australian [[Nine Network|Channel Nine]] programme ''[[A Current Affair (Australian TV program)|A Current Affair]]'' ran an item in which the former model Leanne Edelsten admitted to an eight-year affair with James beginning in 2004.<ref>{{cite web|url=http://aca.ninemsn.com.au/celebrity/8456084/stars-secret-affair|title=Star's secret affair|work=ninemsn: A Current Affair|date=23 April 2012|access-date=26 June 2012|archive-url=https://web.archive.org/web/20120624072144/http://aca.ninemsn.com.au/celebrity/8456084/stars-secret-affair|archive-date=24 June 2012|url-status=dead}}</ref> Shaw evicted her husband from the family home following the revelation.<ref name="McCrum">Robert McCrum [https://www.theguardian.com/books/2013/jul/05/clive-james-dante-translation "Clive James – a life in writing"], ''The Guardian'', 5 July 2013</ref> Prior to this, for most of his working life, James divided his time between a converted warehouse flat in London and the family home in Cambridge.<ref>{{Cite web|url=https://www.express.co.uk/news/uk/243963/Clive-James-I-m-fighting-a-leukaemia-that-couldn-t-wait-to-start|title=Clive James: I'm fighting a leukaemia 'that couldn't wait to start'|first=Frank|last=Thorne|date=1 May 2011|website=Express.co.uk}}</ref>
+
+After the death of [[Diana, Princess of Wales]], James wrote a piece for ''[[The New Yorker]]'' entitled "Requiem", recording his overwhelming grief.<ref>{{Cite magazine|url=https://www.newyorker.com/magazine/1997/09/15/requiem-clive-james|title=Mourning My Friend, Princess Diana|magazine=The New Yorker|date=8 September 1997}}</ref><ref>{{Cite web|url=https://www.peteatkin.com/diana.htm|title=Clive James on Diana|website=www.peteatkin.com}}</ref> From then he mainly declined to comment about their friendship, apart from some remarks in his fifth volume of memoirs, ''Blaze of Obscurity''.<ref>{{cite news|url=https://www.theguardian.com/books/2009/oct/25/blaze-of-obscurity-clive-james|title=The Blaze of Obscurity: The TV Years by Clive James|publisher=The Observer|access-date=28 November 2019|newspaper=The Guardian|date=24 October 2009|last1=Yates|first1=Robert}}</ref>
+
+James was able to read, with varying fluency, French, German, Italian, Spanish, Russian and Japanese.<ref>{{cite news| url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/clive_james/article1771920.ece | work=The Times | location=London | title=Culture vulture | date=12 May 2007 | access-date=30 April 2010 | first=Deborah | last=Haynes}}</ref>  A [[tango (dance)|tango]] enthusiast, he travelled to [[Buenos Aires]] for dance lessons and had a dance floor in his house.<ref name="abc.net.au"/>
+
+James was a lifelong fan of the [[St. George Dragons|St George Dragons]] and wrote admiringly of [[The Immortals (rugby league)|Rugby League Immortal]] [[Reg Gasnier]] who was a schoolmate at Sydney Technical High School.<ref>{{cite web |last1=Windschuttle |first1=Keith |title=Clive James and that 'Australian tone of voice' |url=https://quadrant.org.au/opinion/qed/2014/05/clive-james-reg-gasnier/ |website=Quadrant Online |access-date=30 November 2019}}</ref> He guest presented one episode of ''[[The Footy Show (rugby league)|The Footy Show]]'' in 2005.<ref>{{cite web |title=Clive James replaces Fatty |url=https://www.smh.com.au/sport/nrl/clive-james-replaces-fatty-20050623-gdlk9u.html |website=The Sydney Morning Herald |publisher=The Sydney Morning Herald |access-date=30 November 2019 |date=23 June 2005}}</ref>
+
+== Health and death ==
+For much of his early life, James was a heavy drinker and smoker. He recorded in ''May Week Was in June'' his habit of filling a [[hubcap]] ashtray daily.<ref>Clive James, ''May Week Was in June,''(1990) Picador 1991 p.230'I also installed my ashtray: a hubcap off a Bedford van, it could hold the stubs of eighty cigarettes, so I only had to empty it once a day.'</ref><ref>Clive James, ''North Face of Soho,'' Picador 2006 p.141:'I smoked so much that I needed the hubcap of a Bedford van as an ashtray. I had found the hubcap lying in the gutter of Trumpington Street, and thought: 'That will make an ideal ashtray.'</ref><ref>Contrary to this, Clive James stated in BBC Radio's ''The Museum of Curiosity'' Series 2: Episode 6, "I once used the hubcap of a British Bedford DorMobile as an ashtray because I smoked a lot, but not even I could fill up the hubcap of a British Bedford DorMobile..."</ref> At various times he wrote of attempts – intermittently successful – to give up drinking and smoking.<ref>[http://www.clivejames.com/node/578 Smoking the Memory | clivejames.com<!-- Bot generated title -->] {{Webarchive|url=https://web.archive.org/web/20080512060733/http://www.clivejames.com/node/578 |date=12 May 2008 }} In ''A Point of View'' he notes that this account of giving up smoking needed updating as he had gone back to it.</ref> He smoked 80 cigarettes a day for a number of years before giving up in 2005. He had also given up, for 13 years, from his early 30s.<ref>{{cite news| url=http://news.bbc.co.uk/1/hi/magazine/6929670.stm | work=BBC News | title=Smoking, my lost love | date=3 August 2007}}</ref>
+
+In April 2011, after media speculation that he had suffered kidney failure,<ref>{{Cite web|url=http://news.smh.com.au/breaking-news-national/clive-james-battles-leukemia-20110430-1e1p0.html|title=Clive James battles leukaemia|date=April 2011|work=Sydney Morning Hearld}}</ref> James confirmed in June 2012 that [[B-cell chronic lymphocytic leukemia]] "had beaten him" and that he was "near the end".<ref>{{cite news|url=http://www.belfasttelegraph.co.uk/entertainment/news/clive-james-i-am-dying-i-am-near-the-end-16175362.html|title=Clive James tells BBC "I am dying, I am near the end"|newspaper=Belfast Telegraph|date=21 June 2012|access-date=21 June 2012}}</ref> He said that he was also diagnosed with [[Chronic obstructive pulmonary disease|emphysema]] and [[kidney failure]] in early 2010.<ref>{{cite news|url=https://www.bbc.co.uk/news/entertainment-arts-18532310|title= Clive James: 'I'm getting near the end'|work=BBC News: Entertainment and Arts|date=21 June 2012|access-date=26 June 2012}}</ref>
+
+On 3 September 2013, an interview with journalist [[Kerry O'Brien (journalist)|Kerry O'Brien]], ''Clive James: The Kid from Kogarah'', was broadcast by the [[Australian Broadcasting Corporation]].<ref name=KerrOABCSep2013>{{cite news |url=https://www.abc.net.au/news/2013-09-03/clive-james-reflects-on-confronting-his-mortality/4929264 |title=Clive James reflects on career, poetry and death in interview with Kerry O'Brien |date=7 September 2013 |work=ABC News |access-date=28 November 2019}}</ref> The interview was filmed in the library of his old college at Cambridge University. In the extended interview, James discussed his illness and confronting mortality.<ref name=KerrOABCSep2013/> James wrote the poem "Japanese Maple" which was published in ''[[The New Yorker]]'' in 2014 and described as his "farewell poem".<ref>{{cite news |url=https://www.abc.net.au/news/2019-11-28/clive-james-japanese-maple-lucy-fahey-poem/11745902 |title=Clive James reads his farewell poem, Japanese Maple, in this tribute by animator Lucy Fahey |date=28 November 2019 |work=ABC News |access-date=28 November 2019}}</ref> ''[[The New York Times]]'' called it "a poignant meditation on his impending death".<ref>{{cite news |url=https://www.nytimes.com/2019/11/27/obituaries/japanese-maple-clive-james-poem.html |title='Japanese Maple' by Clive James |date=27 November 2019 |work=[[The New York Times]] |access-date=29 November 2019}}</ref>
+
+In a BBC interview with [[Charlie Stayt]], broadcast on 31 March 2015, James described himself as "near to death but thankful for life".<ref name="Stayt">{{cite AV media | url=https://www.bbc.co.uk/news/entertainment-arts-32127897 | title=Clive James 'near to death but thankful for life' | publisher=[[BBC]] | date=31 March 2015 | people=Clive James; [[Charlie Stayt]] | medium=Video | location=London}}</ref> In October 2015, he admitted to feeling "embarrassment" at still being alive thanks to experimental drug treatment.<ref>{{cite news|url=https://www.theguardian.com/culture/2015/oct/10/clive-james-still-being-alive-is-embarrassing|title=Clive James: 'Still being alive is embarrassing |newspaper=The Guardian |access-date=29 May 2016}}</ref>
+
+Until June 2017, he wrote a weekly column for ''[[The Guardian]]'' entitled "Reports of My Death...".<ref>{{cite web|title=Reports of my death|url=https://www.theguardian.com/lifeandstyle/series/reports-of-my-death|website=The Guardian|access-date=25 February 2018}}</ref>
+
+James died on 24 November 2019 at his home in Cambridge.<ref>{{Cite news |url=https://www.cambridge-news.co.uk/news/local-news/clive-james-broadcaster-dead-pembroke-17326751 |title=Australian broadcaster Clive James dies in Cambridge |last=Zayed |first=Alya |date=27 November 2019 |work=Cambridge News |access-date=27 November 2019}}</ref>
+
+==Bibliography==
+{{Expand list|date=November 2017}}
+
+===Non-fiction===
+*{{cite book |author=James, Clive |title=The Metropolitan Critic |year=1974 |isbn=9780224042413}}<ref>{{Cite web|url=https://www.clivejames.com/the-metropolitan-critic.html|title=The Metropolitan Critic|website=Clive james}}</ref>
+*{{cite book |author=James, Clive |author-mask=1 |title=Visions Before Midnight: television criticism from ''The Observer'' 1972–76 |year=1977 |isbn=0224013866|title-link=Visions Before Midnight }}
+*{{cite book |author=James, Clive |author-mask=1 |title=At the Pillars of Hercules |year=1979 |isbn=9780330372145}}
+*{{cite book |author=James, Clive |author-mask=1 |title=First Reactions : critical essays 1968–79 |url=https://archive.org/details/firstreactionscr0000jame |url-access=registration |year=1980 |isbn=9780394512334}}
+*{{cite book |author=James, Clive |author-mask=1 |title=The crystal bucket : television criticism from ''The Observer'' 1976–79 |year=1981 |isbn=9780330267458}}
+*{{cite book |author=James, Clive |author-mask=1 |title=From the land of shadows |year=1982 |isbn=9780330269940}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Glued to the box : television criticism from ''The Observer'' |year=1983 |isbn=9780224020664|title-link=Glued to the Box }}
+*{{cite book |author=James, Clive |author-mask=1 |title=Flying visits : postcards from ''The Observer'', 1976–83 |url=https://archive.org/details/flyingvisitspost00jame |url-access=registration |year=1984 |isbn=9780330288392}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Snakecharmers in Texas : essays 1980–87 |year=1988 |isbn=9780330305808}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Clive James on television |year=1991 }}<ref>A one-volume edition of the television criticism books.</ref>
+*{{cite book |author=James, Clive |author-mask=1 |title=The dreaming swimmer : non-fiction, 1987–1992 |url=https://archive.org/details/dreamingswimmern00jame |url-access=registration |year=1992 |isbn=9780330331210}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Fame in the 20th Century |year=1993 |isbn=9780563362746|title-link=Fame in the 20th Century }}
+*{{cite book |author=James, Clive |author-mask=1 |title=Reliable essays : the best of Clive James |year=2001 |isbn=9780330481298}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Even as we speak : new essays 1993–2001 |year=2001 |isbn=9780330481762}}
+*{{cite book |author=James, Clive |author-mask=1 |title=As of this writing : essays 1968–2000 |url=https://archive.org/details/asofthiswritinge00jame |url-access=registration |year=2003 |isbn=9780393051803}}
+*{{cite book |author=James, Clive |author-mask=1 |title=The meaning of recognition : new essays 2001–2005 |year=2005 }}
+*{{cite book |author=James, Clive |author-mask=1 |title=Cultural amnesia : necessary memories from history and the arts |year=2007 |isbn=9780393061161|title-link=Cultural Amnesia (book) }}
+*{{cite book |author=James, Clive |author-mask=1 |title=The revolt of the pendulum : essays 2005–2009 |year=2009 |isbn=9780330457392}}
+*{{cite book |author=James, Clive |author-mask=1 |title=A Point of View |year=2011 |isbn=9780330534383}}<ref>Reproductions of sixty BBC Radio 4 10-minute segments from 2007 to 2009.</ref>
+*{{cite book |author=James, Clive |author-mask=1 |title=Cultural cohesion : essential essays |year=2013 |isbn= 9780393346367}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Poetry notebook 2006–2014 |year=2014 |isbn=9781447269120}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Latest readings |year=2015 |isbn=9780300223552}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Play all |year=2016 |isbn=9780300229707}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Somewhere becoming rain: Collected writings on Philip Larkin |year=2019 |isbn=9781529028829}}
+
+===Memoirs===
+*{{cite book |author=James, Clive |title=Unreliable memoirs |url=https://archive.org/details/unreliablememoir00jame |url-access=registration |year=1980 |isbn=9781447275480}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Falling towards England |url=https://archive.org/details/fallingtowardsen00jame |url-access=registration |year=1985 |isbn=9780330294379}}
+*{{cite book |author=James, Clive |author-mask=1 |title=May Week was in June |url=https://archive.org/details/mayweekwasinjune0000jame |url-access=registration |year=1990 |isbn=9780330315227}}
+*{{cite book |author=James, Clive |author-mask=1 |title=North Face of Soho |url=https://archive.org/details/northfaceofsohou0000jame |url-access=registration |year=2006 |isbn=9780330481281}}
+*{{cite book |author=James, Clive |author-mask=1 |title=The Blaze of Obscurity |url=https://books.google.com/books?id=9eraHpUpSqIC |publisher=Pan Macmillan |year=2009 |isbn=9780330457361}}
+
+===Novels===
+*{{cite book |author=James, Clive |title=Brilliant Creatures |url=https://archive.org/details/brilliantcreatur00cliv |url-access=registration |year=1983 |isbn=9780330283434}}
+*{{cite book |author=James, Clive |author-mask=1 |title=The Remake |url=https://archive.org/details/remake00cliv |url-access=registration |year=1987 |isbn=9780330303743}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Brrm! Brrm! |url=https://books.google.com/books?id=gN0sDgAAQBAJ |year=1991 |isbn=9780330325486}}<ref>Released in the United States as ''The man from Japan'' (1993).</ref>
+*{{cite book |author=James, Clive |author-mask=1 |title=The Silver Castle |url=https://archive.org/details/silvercastlenove00jame |url-access=registration |year=1996 |isbn=9780224043847}}
+
+===Poetry===
+====Epics====
+*{{cite book |author=James, Clive |title=The Fate of Felicity Fark in the land of the media: a moral poem |url=https://books.google.com/books?id=MBpIcAAACAAJ |publisher=Cape |year=1975 |isbn=9780224011853}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Peregrine Prykke's pilgrimage through the London literary world |year=1976 }}<ref name="Guardian obituary"/>
+*{{cite book |author=James, Clive |author-mask=1 |title=Britannia Bright's bewilderment in the wilderness of Westminster |url=https://archive.org/details/britanniabrights0000jame |url-access=registration |year=1976 |isbn=9780224013192 }}
+*{{cite book |author=James, Clive |author-mask=1 |title=Charles Charming's challenges on the pathway to the throne |year=1981 |isbn=9780224019545}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Poem of the Year |year=1983 |isbn=9780224029612}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Gate of lilacs: A verse commentary on Proust |year=2016 |isbn=9781509812356}}
+*{{cite book |author=James, Clive |author-mask=1 |title=The River in the Sky |year=2018 |isbn=9781509887231}}
+
+====Collections====
+*{{cite book |author=James, Clive |title=Fan-mail: Seven Verse Letters |year=1977 |isbn=9780571110582}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Other Passports: Poems 1958–1985 |year=1986 |isbn=9780330301794}}
+*{{cite book |author=James, Clive |author-mask=1 |title=The book of my enemy |year=2003 |isbn=9780330420044}}<ref>Poetry and lyrics.</ref>
+*{{cite book |author=James, Clive |author-mask=1 |title=Angels over Elsinore: collected verse 2003–2008 |year=2008 |isbn=9780330457408}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Opal sunset: selected poems 1958–2009 |url=https://archive.org/details/opalsunsetselect00jame |url-access=registration |publisher= W.W. Norton & Co.|year=2009 |isbn=9780393067071}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Nefertiti in the flak tower |year=2012 |isbn=9781447207009}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Sentenced to life |year=2015 |isbn=9781447284055}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Collected poems 1958–2015 |year=2016 |isbn=9781631492471}}
+*{{cite book |author=James, Clive |author-mask=1 |title=Injury time |year=2017 |isbn=9781509852987}}
+*— (2020). ''The Fire of Joy: Roughly 80 Poems to Get by Heart and Say Aloud''. ISBN 978-1529042085.
+
+====Translations====
+*{{cite book |author=Dante Alighieri |others=Translated by Clive James |title=Dante's Divine Comedy |year=2013 |isbn=9781631491078}}<ref>In quatrains.</ref>
+
+====List of poems====
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+|-
+|data-sort-value="Book of my enemy has been remaindered"|The book of my enemy has been remaindered
+|1983
+|{{cite journal |author=James, Clive |date=2 June 1983 |title=The book of my enemy has been remaindered |journal=The London Review of Books|volume=5 |issue=10 |url=https://www.lrb.co.uk/the-paper/v05/n10/clive-james/the-book-of-my-enemy-has-been-remaindered <!--|access-date=2020-02-25-->}}
+| 
+|-
+|Beachmaster
+|2009
+|{{cite journal |author=James, Clive |date=April 2009 |title=Beachmaster |journal=The Monthly |url=http://www.themonthly.com.au/issue/2009/march/1237959353/clive-james/beachmaster <!--|access-date=2014-10-31-->}}
+| 
+|-
+|Early to bed
+|2013
+|{{cite journal |author=James, Clive |date=April 2013 |title=Early to bed |journal=Australian Book Review |volume=350 |pages=25 }}
+| 
+|-
+|Leçons de ténèbres
+|2013
+|{{cite magazine |author=James, Clive |date=3 June 2013 |title=Leçons de ténèbres |magazine=The New Yorker |volume=89 |issue=16 |pages=64 |url=http://www.newyorker.com/magazine/2013/06/03/lecons-de-tenebres <!--|access-date=2016-06-16-->}}
+| 
+|-
+|Rounded with a sleep
+|2014
+|{{cite journal |author=James, Clive |date=16 March 2015 |title=Rounded with a sleep |journal=The Times Literary Supplement |volume=5810 |pages=4 |url=https://www.the-tls.co.uk/articles/public/rounded-with-a-sleep/ <!--|access-date=2019-10-02-->}}
+|
+|-
+|Star system
+|2015
+|{{cite magazine |author=James, Clive |date=16 March 2015 |title=Star system |magazine=The New Yorker |volume=91 |issue=4 |pages=50–51 |url=https://www.newyorker.com/magazine/2015/03/16/star-system <!--|access-date=2019-10-02-->}}
+|
+|-
+|Visitation of the dove
+|2015
+|{{cite magazine |author=James, Clive |date=December 7, 2015 |title=Visitation of the dove |magazine=The New Yorker |volume=91 |issue=39 |pages=50 |url=https://www.newyorker.com/magazine/2015/12/07/visitation-of-the-dove <!--|accessdate=2021-11-01-->}}
+|
+|-
+|Initial outlay
+|2016
+|{{cite journal |author=James, Clive |date=Jan–Feb 2016 |title=Initial outlay |journal=Quadrant |volume=60 |issue=1–2 |pages=9 }}
+| 
+|-
+|I was proud of these hands once
+|2016
+|{{cite journal |author=James, Clive |date=Jan–Feb 2016 |title=I was proud of these hands once |journal=Quadrant |volume=60 |issue=1–2 |pages=49 }}
+| 
+|-
+|Splinters from Shakespeare
+|2016
+|{{cite journal |author=James, Clive |date=Jan–Feb 2016 |title=Splinters from Shakespeare |journal=Quadrant |volume=60 |issue=1–2 |pages=49 }}
+| 
+|-
+|}
+
+==See also==
+* ''[[...on Television|Clive James on Television]]''
+* ''[[Clive James's Postcard from...]]''
+
+==Notes==
+{{Reflist|30em}}
+
+==External links==
+{{wikiquote}}
+* {{Official website|1=http://www.clivejames.com}}, includes a video section of James's recorded video interviews with artists, writers, filmmakers and actors at the other end of the sofa at his London home.
+* {{cite web |title=Clive James – Filmography |url=https://www.bfi.org.uk/films-tv-people/4ce2ba03df344 |website=[[British Film Institute|BFI]] |access-date=1 March 2020}}
+* {{IMDb name|0416380}}
+* [http://www.nysun.com/arts/interfacing-with-clive-james/26028/ "Interfacing With Clive James"], Brendan Bernhard in ''[[The New York Sun]]'', 18 January 2006
+* [https://web.archive.org/web/20090928114056/http://www.thisisleicestershire.co.uk/comedyfestival/Clive-James/article-678197-detail/article.html Interview] for the ''[[Leicester Mercury]]'', 7 February 2009
+* {{cite web |last=McDonald |first=Alyssa |date=4 February 2010 |url=http://www.newstatesman.com/ideas/2010/02/hitler-youth-forage-caps-wore |title=The NS interview: Clive James |website=New Statesman |access-date=1 March 2020}}
+* [http://www.norepublic.com.au/index.php?Itemid=4&id=1000&option=com_content&task=view "Freedom Wears a Crown: Clive James"], [[Australians for Constitutional Monarchy]], 28 August 2007
+* [http://www.theage.com.au/news/national/james-saves-the-queen/2007/08/25/1187462538113.html "James Saves the Queen"], [[The Age]], 25 August 2007
+* {{cite episode |url=https://www.bbc.co.uk/programmes/b0bw5d0z |title=When Mary Beard Met Clive James |series=Front Row Late |network=BBC |date=21 December 2018 |access-date=1 March 2020}} (''Currently unavailable'').
+* {{cite web |author=<!--Not stated--> |title=Clive James obituary: 'A man of substance' |url=https://www.bbc.co.uk/news/entertainment-arts-13437293 |date=27 November 2019 |website=BBC |access-date=1 March 2020}}
+* {{cite podcast |last=Fidler |first=Richard |date=12 September 2012 |title=Raconteur Clive James reflects on a rich and prolific career |url=https://www.abc.net.au/radio/programs/conversations/raconteur-clive-james-reflects-on-a-rich-and-prolific-career/7756818 |website=ABC |access-date=1 March 2020}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:James, Clive}}
+[[Category:1939 births]]
+[[Category:2019 deaths]]
+[[Category:20th-century Australian journalists]]
+[[Category:21st-century Australian journalists]]
+[[Category:Alumni of Pembroke College, Cambridge]]
+[[Category:Australian atheists]]
+[[Category:Australian essayists]]
+[[Category:Australian emigrants to England]]
+[[Category:Australian literary critics]]
+[[Category:Australian male poets]]
+[[Category:Australian male writers]]
+[[Category:Australian memoirists]]
+[[Category:Australian monarchists]]
+[[Category:Australian people of English descent]]
+[[Category:Australian social democrats]]
+[[Category:Australian travel writers]]
+[[Category:British television presenters]]
+[[Category:British mass media scholars]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:Contestants on University Challenge]]
+[[Category:Edinburgh Comedy Festival]]
+[[Category:Fellows of the Royal Society of Literature]]
+[[Category:Formalist poets]]
+[[Category:Male essayists]]
+[[Category:Officers of the Order of Australia]]
+[[Category:People educated at Sydney Technical High School]]
+[[Category:People from Cambridge]]
+[[Category:People from Sydney]]
+[[Category:Quadrant (magazine) people]]
+[[Category:Recipients of the President's Medal (British Academy)]]
+[[Category:The New Yorker people]]
+[[Category:Translators of Dante Alighieri]]
+[[Category:University of Sydney alumni]]
+[[Category:The Sydney Morning Herald people]]
+[[Category:Australian lyricists]]

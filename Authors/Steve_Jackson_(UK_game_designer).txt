@@ -1,0 +1,84 @@
+{{short description|British game designer}}
+{{Distinguish|Steve Jackson (American game designer)}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox person
+| name        = Steve Jackson
+| image       = 
+| caption     = 
+| birth_date  = {{birth date and age|df=y|1951|05|20}}
+| birth_place = England
+| death_date  = 
+| death_place = 
+| occupation  = [[Fantasy author]], entrepreneur, [[game designer]], writer, [[game reviewer]]
+| nationality = 
+| period      = 
+| genre       = 
+| influences  = 
+| known_for   = {{ubl|Co-creator, ''[[Fighting Fantasy]]'' gamebooks|Co-founder, [[Games Workshop]]|Co-founder, [[Lionhead Studios]]}}
+}}
+
+'''Steve Jackson''' (born 20 May 1951) is a British [[game designer]], writer, [[game reviewer]] and co-founder of UK game publisher [[Games Workshop]].
+
+==History==
+Steve Jackson began his career in games in 1974 as a freelance journalist with ''[[Games & Puzzles]]'' magazine.<ref name="HG">{{Cite book | contribution=[[The Warlord (board game)|The Warlord]] | title=[[Hobby Games: The 100 Best]] | last=Jackson | first=Steve | editor-last=Lowder | editor-first=James | editor-link=James Lowder | publisher=[[Green Ronin Publishing]] | year=2007 | pages=365–368 | isbn=978-1-932442-96-0}}</ref> In early 1975, Jackson co-founded the company [[Games Workshop]] with school friends [[John Peake (game designer)|John Peake]] and [[Ian Livingstone]].<ref>{{cite journal | last = Livingstone | first = Ian | author-link = Ian Livingstone | title = Editorial  | journal =[[Owl and Weasel]] | issue = 3 | page = 2 | publisher = Games Workshop | date = April 1975 }}</ref><ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=Mongoose Publishing|year=2011| isbn= 978-1-907702-58-7}}</ref>{{rp|43}} They started publishing a monthly newsletter, ''[[Owl and Weasel]]'', which was largely written by Jackson, and sent copies of the first issue to subscribers of ''[[Albion (magazine)|Albion]]'' fanzine; [[Brian Blume]], co-partner of American publisher [[TSR,_Inc.#Tactical_Studies_Rules|TSR]], received one of these copies and in return sent back a copy of TSR's new game ''[[Dungeons & Dragons]]''. Jackson and Livingstone felt that this game was more imaginative than anything being produced in the UK at the time, and so worked out an arrangement with Blume for an exclusive deal to sell ''D&D'' in Europe.<ref name="designers"/>{{rp|43}} In late 1975, Jackson and Livingstone organized their first convention, the first [[Games Day]].<ref name="designers"/>{{rp|43}} While selling game products directly out of their flat, their landlord kicked them out in the summer of 1976 after people kept showing up there looking for an actual store.<ref name="designers"/>{{rp|43}} By 1978 the first Games Workshop store had opened, in London.<ref>{{Cite web|url=https://londonist.com/london/features/the-gaming-dynasty-that-began-in-a-west-london-flat|title=The Gaming Dynasty That Began In A West London Flat|date=4 January 2018|website=Londonist|access-date=18 May 2020}}</ref>
+
+At a Games Day convention in 1980 Jackson and Livingstone met Geraldine Cooke, an editor at [[Penguin Books]].  They persuaded her to consider publication of a book about the role-playing hobby.  This was originally intended to be an introductory guide, but the idea of an interactive [[gamebook]] seemed more appealing.<ref>{{cite web|url=http://www.eurogamer.net/articles/2013-08-16-you-are-the-hero-a-history-of-fighting-fantasy|title=You are the hero: A history of Fighting Fantasy|last=McFerran|first=Damien|work=[[Eurogamer]]|date=16 August 2013|access-date=25 August 2014}}</ref> After several months Cooke decided that this was viable and commissioned Jackson and Livingstone to develop it.{{citation needed|date=November 2013}} In 1980, Jackson and Livingstone began to develop the concept of the ''[[Fighting Fantasy]]'' gamebook series, the first volume of which (''[[The Warlock of Firetop Mountain]]'') was published in 1982 by [[Puffin Books]] (a subsidiary imprint of Penguin).<ref name="designers"/>{{rp|46}} Jackson and Livingstone would go on to individually write many volumes each, with further authors adding even more. Steve Jackson notably wrote ''[[Steve Jackson's Sorcery!|Sorcery!]]'', a four-part series utilizing the same system as ''Fighting Fantasy'' but where ''Fighting Fantasy'' mainly targeted children, ''Steve Jackson's Sorcery!'' was marketed to an older audience.<ref name=register>{{cite web|url=https://www.theregister.co.uk/2013/06/06/feature_interview_steve_jackson/|title=Interview: Steve Jackson, role-playing game titan|last=Plant|first=Mike|work=[[The Register]]|date=6 June 2013|access-date=25 August 2014}}</ref> Jackson and Livingstone attributed the gamebooks' popularity to their difficulty.<ref>{{cite web|url=https://www.vice.com/print/steve-jackson-ian-livingstone-283-v16n12|title=Steve Jackson & Ian Livingstone|last=Capper|first=Andy|work=[[Vice (magazine)|Vice]]|access-date=25 August 2014|url-status=dead|archive-url=https://web.archive.org/web/20140826114256/http://www.vice.com/print/steve-jackson-ian-livingstone-283-v16n12|archive-date=26 August 2014}}</ref>
+
+After the success of the ''Fighting Fantasy'' series, Jackson designed the first interactive telephone role-playing game, ''[[Fantasy Interactive Scenarios by Telephone|FIST]]'', which was based loosely on the concepts of the gamebooks.<ref name=guardian>{{cite news|url=https://www.theguardian.com/technology/2014/jan/23/steve-jackson-fist-telephone-game|title=Steve Jackson talks F.I.S.T. – the first interactive telephone role playing game|last=Dredge|first=Stuart|work=[[The Guardian]]|date=23 January 2014|access-date=25 August 2014}}</ref> Jackson and Livingstone sold off their stake in Games Workshop in 1991.<ref name="designers"/>{{rp|50}} In the mid-1990s Jackson spent 2.5 years as a games journalist with the ''[[London Daily Telegraph]]''.<ref name="HG"/> He then set up computer games developer [[Lionhead Studios]] with [[Peter Molyneux]].<ref name="HG"/> Jackson left Lionhead in 2006 when Microsoft bought the company.<ref name=register/> He is an honorary professor at [[Brunel University]] in London, where he teaches the Digital Games Theory and Design MA.<ref name=guardian/>
+
+He is often mistaken for the American game designer with the same name: [[Steve Jackson (American game designer)|Steve Jackson]].<ref>{{cite web |url=http://www.sjgames.com/general/faq.html#6 |title=Frequently Asked Questions |access-date=14 September 2007 |date=29 March 2007 |publisher=[[Steve Jackson Games]]}}</ref> The American Jackson wrote three books in the ''Fighting Fantasy'' series,<ref>{{cite web |url=http://sj.sjgames.com/sjbio.html |title=Steve Jackson – Biography and Public Warning |access-date=6 November 2011 |date=14 December 2010 |work=[[Steve Jackson Games]]}}</ref> which adds to the confusion, especially as these books were simply credited to "Steve Jackson" without any acknowledgement that it was a different person.<ref>other than one subtle difference: a book written by either of the two co-founders is credited as "by Steve Jackson" or "by Ian Livingstone". A book written by any other author is introduced as "Steve Jackson and Ian Livingstone presents" with the author's name simply listed in the [[Book design#Front matter|preliminaries]].</ref>
+
+==Works==
+
+===Books===
+* ''[[The Warlock of Firetop Mountain]]'' (1982) with [[Ian Livingstone]], [[Puffin Books]]
+* ''[[Sorcery!]] 1–4'' (1983–85), Puffin Books
+* ''[[The Citadel of Chaos]]'' (1983), Puffin Books
+* ''[[Starship Traveller]]'' (1984), Puffin Books
+* ''[[House of Hell]]'' (1984), Puffin Books
+* ''Fighting Fantasy: The Introductory Role-playing Game'' (1984), Puffin Books
+* ''[[Appointment with F.E.A.R.]]'' (1985), Puffin Books
+*  ''[[The Tasks of Tantalon]]'' (1985), Oxford University Press
+* ''[[Creature of Havoc]]'' (1986), Puffin Books
+* ''[[The Trolltooth Wars]]'' (1989), Puffin Books
+
+===Video games===
+* ''[[Lost Eden]]'' (1995), Virgin Interactive
+* ''[[Close Combat (series)|Close Combat: Invasion – Normandy]]'' (2000), [[Strategic Simulations, Inc.]]
+* ''Fighting Fantasy: The Warlock of Firetop Mountain (2001), Laughing Jackal
+* ''[[The Movies]] (Premiere Edition)'' (2005), [[Activision]]
+* ''[[Fighting Fantasy: The Warlock of Firetop Mountain]] (2009), Big Blue Bubble
+* ''[[Sorcery! (video game)|Sorcery!]] 1 – The Shamutanti Hills'' (2013), [[Inkle (video game company)|Inkle]]
+* ''Sorcery! 2 – Kharé – Cityport of Traps'' (2013), Inkle
+* ''Sorcery! 3 – The Seven Serpents'' (2015), Inkle
+* ''Sorcery! 4 – The Crown Of Kings'' (2016), Inkle
+
+===Other===
+* ''[[BattleCards]]'' – a card game first published in 1993 that features a unique scratch-and-slay system{{clarify|date=December 2017}}{{citation needed|date=December 2017}}
+* ''[[Fantasy Interactive Scenarios by Telephone]]'' (''F.I.S.T.'') – a telephone-based single-player roleplaying game similar to ''Fighting Fantasy''
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{moby developer |id=287752  |name=Steve Jackson}}
+* [http://www.yog-sothoth.com/articles.html/_/main/ysdc-shows/yog-radio-archive Steve Jackson interview] on Yog Radio about Games Workshop and Fighting Fantasy, June 2010
+
+{{Games Workshop}}
+{{Lionhead Studios}}
+{{Authority control}}
+
+{{DEFAULTSORT:Jackson, Steve}}
+[[Category:1951 births]]
+[[Category:Academics of Brunel University London]]
+[[Category:Alumni of Keele University]]
+[[Category:Board game designers]]
+[[Category:British gamebook writers]]
+[[Category:British retail company founders]]
+[[Category:British video game designers]]
+[[Category:Fighting Fantasy]]
+[[Category:Games Workshop]]
+[[Category:Living people]]
+[[Category:Mass media people from Manchester]]
+[[Category:Role-playing game designers]]
+[[Category:Lionhead Studios]]

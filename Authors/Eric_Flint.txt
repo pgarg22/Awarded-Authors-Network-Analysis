@@ -1,0 +1,135 @@
+{{short description|American author, editor, and e-publisher|bot=PearBOT 5}}
+{{lead too short|date=July 2015}}
+{{Use mdy dates|date=August 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Eric Flint
+| image = Eric Flint.jpg
+| caption =
+| pseudonym =
+| birth_date = {{birth date and age|1947|2|6|mf=y}}
+| birth_place = [[Burbank, California|Burbank]], [[California]], U.S.
+| death_date =
+| death_place =
+| occupation = {{flatlist|
+* Novelist
+* short story author
+* editor
+* e-publisher
+}}
+| genre = Science fiction, [[fantasy]], [[alternate history]]
+| movement =
+| notableworks = ''[[1632 (novel)|1632]]''
+| website = {{URL|ericflint.net}}
+}}
+
+'''Eric Flint''' (born February 6, 1947) is an American [[List of science fiction authors|author]], editor, and [[publishing|e-publisher]]. The majority of his main works are [[Alternate history (fiction)|alternate history]] science fiction, but he also writes humorous [[fantasy]] adventures. His works have been listed on ''The New York Times'', ''The Wall Street Journal'', ''The Washington Post'', and ''Locus Magazine'' best seller lists. He is a co-founder and editor of the [[Baen Free Library]].
+
+==Early life and education==
+He was born in 1947 in [[Burbank, California|Burbank]], [[California]], Flint worked on a Ph.D. in history specializing in southern African history. He left his doctoral program in order to become a political activist in the labor movement and supported himself from that time until age 50 in a variety of jobs, including longshoreman, truck driver, and [[machinist]], and as a [[labor movement|labor union]] organizer. A long-time leftist political activist, Flint worked as a member of the [[Socialist Workers Party (United States)|Socialist Workers Party]].<ref>{{cite web|last=Flint |first=Eric |title=Eric Flint's place on the web: biography |url=http://www.ericflint.net/index.php/biography/ |access-date=16 October 2011 |url-status=dead |archive-url=https://web.archive.org/web/20111007085753/http://www.ericflint.net/index.php/biography/ |archive-date=October 7, 2011 |df=mdy }}</ref>
+
+== Career ==
+After winning the 1993 [[Writers of the Future]] contest, he published his first novel in 1997 and moved to full-time writing in 1999.
+
+Shortly afterwards, he became the first librarian of the [[Baen Free Library]] and a prominent anti–copy protection activist.<ref name="PrimePalaver-1">{{cite web|title=Introducing the Baen Free Library (and other columns in the collection)|url=http://www.baen.com/library/home.htm|url-status=dead|archive-url=https://web.archive.org/web/20060503163244/http://baen.com/library/home.htm|archive-date=May 3, 2006|df=mdy-all}}</ref><ref name="JBU1">{{cite web|url=http://baens-universe.com/articles/editoroct |title=The Editor's Page October 2006 |access-date=2007-10-18 |url-status=dead |archive-url=https://web.archive.org/web/20071012025900/http://www.baens-universe.com/articles/editoroct |archive-date=October 12, 2007 |df=mdy }}</ref> He has edited the works of several classic SF authors, repackaging their short stories into collections and fix-up novels. This project has met commercial success, and has returned several out-of-print authors to print.
+
+In 2004, faced with a persistent drain on his time<ref name="GG01preface">{{cite book |editor1-last  = Flint
+ |editor1-first = Eric
+ |others        = [[Thomas Kidd (illustrator)|Thomas Kidd]] (cover art)
+ |title         = [[The Grantville Gazette]]
+ |chapter-url   = http://www.webscription.net/chapters/0743488601/0743488601.htm
+ |archive-url   = https://web.archive.org/web/20071017225617/http://webscription.net/chapters/0743488601/0743488601.htm
+ |archive-date  = 2007-10-17
+ |access-date    = 2007-10-17
+ |edition       = 1st, (pb) ([[e-book]] reprint plus additional content)
+ |series        = [[1632 series]] aka ''Ring of Fire series''
+ |date          = 2004-11-01
+ |publisher     = [[Baen Books]]
+ |location      = Riverdale, NY
+ |isbn          = 0-7434-8860-1
+ |page          = [https://archive.org/details/grantvillegazett00_0/page/2 2]
+ |chapter       = Preface
+ |quote         = But, in the meantime, the fan-fic kept getting written, and people kept nudging me—okay, pestering me, but I try to be polite about such things—to give them my feedback on their stories. ... Once I realized how many stories were being written—a number of them of publishable quality—I raised with Jim Baen the idea of producing an online magazine which would pay for fiction and factual articles set in the 1632 universe and would be sold through Baen Books' Webscriptions service. Jim was willing to try it... (more)
+}}</ref> by fan-fiction authors seeking comment on the four years old [[1632 Tech Manual]] web forum focused on his [[1632 series]], he suggested<ref name="GG01preface"/> to [[Jim Baen]] the experimental serialized fan-fiction e-zine ''[[The Grantville Gazettes|The Grantville Gazette]] ''which also found commercial success.<ref name="GG01preface"/> Four of the Gazette magazine editions were collated into anthology formats, bought by Jim Baen and brought out in either hardcover or paperback or both formats, though the last purchased<ref name="GG03pf">{{cite book | title =''[[Grantville Gazette III]]'' | others = [[Thomas Kidd (illustrator)|Thomas Kidd]] (cover art) | isbn = 978-1-4165-0941-7 | publisher = [[Baen Books]] | last = Flint, Eric and various others |chapter=Preface| date = December 26, 2006 |pages= 1–2|quote=Jim Baen died a month ago. I suppose... All things considered, I'm glad the last book I ever sold my friend and publisher [[Jim Baen]] was one of these.}}</ref> remains unpublished. Subsequently, Flint became editor of the new ''[[Jim Baen's Universe]]'' science-fiction e-zine while concurrently remaining a creative writer bringing out three to five titles per year. After the death of Jim Baen due to a stroke and after completing the contract for the tenth Grantville Gazette, Flint founded a new website "[https://web.archive.org/web/20071014013014/http://www.grantvillegazette.com/ grantvillegazette.com]"<ref>{{cite web|quote=The Grantville Gazette, which Jim Baen and I began as an experiment, has proven to be a very successful venture in electronic publishing. Successful enough, in fact, that beginning with Volume 11 we will doing the following:  1. We're raising the pay rates for the authors. Up until now, the pay rates for the Gazette have only been semi-pro rates. [http://www.grantvillegazette.com/ Beginning with Volume 11], we'll be paying rates that meet—exceed, in fact—the minimum rates set by Science Fiction & Fantasy Writers of America, Inc. SFWA is and has been for decades the recognized professional association for science and [[fantasy author]]s.  2. We're moving to a regular bi-monthly publication schedule. Up until now, the Gazette has been published on an "occasional" basis—meaning whenever we had enough good stories in stock to put out another issue. In practice, for the past year and half, we've been maintaining a quarterly schedule, and we're now at the point where we have more good stories and articles than we can handle without shifting to a bi-monthly publishing schedule.  Beginning May 1, [2007] therefore, the Gazette will now be published regularly on the first day of the following months: May, July, September, November, January and March. |title=grantville-gazette-on-line-going-pro-going-bi-monthly/#more-317 |url=http://www.ericflint.net/index.php/2007/04/29/grantville-gazette-on-line-going-pro-going-bi-monthly/#more-317
+|access-date=2007-10-17
+}}</ref> which is not only continuing to bring out'' [[The Grantville Gazettes]]'', but increasing the publishing rate from four per year to bimonthly while paying better than standard magazine pay rates and is modeled on the JBU e-zine.
+
+As of October 2007 he lives with his wife Lucille (also an ex-labor organizer) in [[East Chicago, Indiana]].
+
+In 2008, he donated his archive to the department of Rare Books and Special Collections at [[Northern Illinois University]].<ref>[http://www.ulib.niu.edu/rarebooks/sciencefiction.cfm Science Fiction and Fantasy Writers of America (SFWA) Collection] {{webarchive |url=https://web.archive.org/web/20120603071546/http://www.ulib.niu.edu/rarebooks/sciencefiction.cfm |date=June 3, 2012 }}, Northern Illinois University</ref>
+
+Flint was the author guest of honor for the 2010 [[North American Science Fiction Convention|NASFiC]], [[ReConStruction]].<ref>{{Cite web | last = Silver | first = Steven | author-link = Steven H Silver | title = Worldcon 2009, NASFiC 2010, Worldcon 2011 | work = SF Site News | publisher = SF Site.com | date = August 11, 2009 | url = http://www.sfsite.com/news/2009/08/11/worldcon-2009-nasfic-2010-worldcon-2011/ | access-date = June 26, 2010}}</ref>
+
+He is also participating in [[The Stellar Guild]] series published by [[Phoenix Pick]]. The series pairs bestselling authors such as Flint with lesser known authors in science fiction and fantasy to help provide additional visibility to them.
+
+==Electronic publishing==
+{{no footnotes|section|date=October 2008}}
+Eric Flint is noted as a co-founder and editor of the [[Baen Free Library]] which is an ongoing experiment in electronic publishing ([[e-book]]s in multiple unencrypted formats) where Flint and the late [[Jim Baen]] convinced authors to post entirely unprotected free copies of various works for download over the internet. One early goal was to see if the release of free electronic content would increase the sales of their traditional print or (for-pay) electronic editions. As part of the initial phase, Flint has published a [http://www.baen.com/library/ series of essays] that in form have been part blog and part ''letters to the editor'' tracking the experiment and championing the practice.
+
+Financially, it seems to be working out for publisher Baen Books, as they have embraced unencrypted e-book publication for all their works available in a variety of common formats. Usually eighty to a hundred titles are available in the ''Baen Free Library'' at any given time. In most cases, the works involved are the early volumes in continuing series, ''appetite whetters'', where readers might be likely to purchase later works in the same series.
+
+All new Baen Books can also be purchased as [[e-book]]s in the same unencrypted formats as the free library through [http://www.webscription.net/ Baen WebScriptions]. As an added wrinkle one can purchase a monthly ''collection'' of five bundled works in the release stage of publication at Baen's. Once the bundle reaches four months from its scheduled release date in print, about half of the work is serialized and available to readers purchasing the ''advanced peek''. A month later, the next quarter, followed by the last quarter, available about a month on average ahead of any printed work. The last delivery contains the copyedited e-book version of the book.
+
+One can also purchase ''electronic Advanced Reader Copies'', which are not a part of the monthly bundle, but are available for purchase. These followed a successful experiment with an online [[eMagazine]], called the Grantville Gazette (more below—see ''1632 series''). They are unproofed manuscripts and are full of typos and errors. They are unedited from the author's word processor; however, they are available even before the first part of the monthly bundles. These copies do not include the final proofed version, which is available only in the single or monthly bundle for that book. In March 2007, Flint began acting as publisher of a for-fee [https://web.archive.org/web/20071014013014/http://www.grantvillegazette.com/ web-access version] of the gazette.
+
+Flint also helmed [[Jim Baen's Universe]], an e-zine published from 2006 until 2010.
+
+==Bibliography==
+{{main|Eric Flint bibliography}}
+
+==Reception==
+
+To date, six of his books have been included on [[The New York Times Best Seller list]]. They are 1634: The Galileo Affair (2004),<ref>{{cite news |url=https://www.nytimes.com/2004/04/18/books/bestseller/0418besthardfiction.html |title=Hardcover Fiction |newspaper=[[The New York Times]] |date=April 18, 2004 |author=<!--Staff writer(s); no by-line.-->}}</ref><ref>{{cite news |url=https://www.nytimes.com/2004/04/25/books/bestseller/0425besthardfiction.html |title=Hardcover Fiction |newspaper=The New York Times |date=April 25, 2004 |author=<!--Staff writer(s); no by-line.-->}}</ref> 1634: The Baltic War (2007),<ref>{{cite news |url=https://www.nytimes.com/2007/05/13/books/bestseller/0513besthardfiction.html?pagewanted=print&_r=0 |title=Hardcover Fiction |newspaper=The New York Times |date=May 13, 2007 |author=<!--Staff writer(s); no by-line.-->}}</ref><ref>{{cite news |url=https://www.nytimes.com/2007/05/20/books/bestseller/0520besthardfiction.html?pagewanted=print&_r=0 |title=Hardcover Fiction |newspaper=The New York Times |date=May 20, 2007 |author=<!--Staff writer(s); no by-line.-->}}</ref> 1634: The Bavarian Crisis (2007),<ref>{{cite news |url=https://www.nytimes.com/2007/10/21/books/bestseller/1021besthardfiction.html?_r=0 |title=Hardcover Fiction |newspaper=The New York Times |date=October 21, 2007 |author=<!--Staff writer(s); no by-line.-->}}</ref> 1636: The Kremlin Games (2013),<ref>{{cite news |url=https://www.nytimes.com/best-sellers-books/2012-06-24/hardcover-fiction/list.html?date=2012-06-24&category=hardcover-fiction&pagewanted=print |title=Hardcover Fiction |newspaper=The New York Times |date=June 24, 2012 |author=<!--Staff writer(s); no by-line.-->}}</ref> Torch of Freedom (2009),<ref>{{cite news |url=https://www.nytimes.com/best-sellers-books/2009-12-06/hardcover-fiction/list.html?date=2009-12-06&category=hardcover-fiction&pagewanted=print |title=Hardcover Fiction |newspaper=The New York Times |date=December 6, 2009 |author=<!--Staff writer(s); no by-line.-->}}</ref> and Cauldron of Ghosts (2014).<ref>{{cite news |url=https://www.nytimes.com/best-sellers-books/2014-04-27/hardcover-fiction/list.html |title=Hardcover Fiction |newspaper=The New York Times |date=April 27, 2014 |author=<!--Staff writer(s); no by-line.-->}}</ref>
+
+1635: The Papal Stakes (2012),<ref>{{cite news |url=https://www.wsj.com/news/articles/SB10001424052970204840504578089231030636740 |title=Best-Selling Books, Week Ended Oct. 28; With data from Nielsen BookScan |newspaper=[[The Wall Street Journal]] |date=November 3, 2012 |author=<!--Staff writer(s); no by-line.-->}}</ref> The Crucible of Empire (2010),<ref>{{cite news |url=https://www.wsj.com/news/articles/SB10001424052748703862704575099770027890214 |title=Best-Selling Books, Week Ended Feb. 28; With data from Nielsen BookScan |newspaper=The Wall Street Journal |date=March 5, 2010 |author=<!--Staff writer(s); no by-line.-->}}</ref> and Threshold (2010)<ref>{{cite news |url=https://www.wsj.com/news/articles/SB10001424052748704853404575323304243485696 |title=Best-Selling Books, Week Ended June 20; With data from Nielsen BookScan |newspaper=The Wall Street Journal |date= June 25, 2010 |author=<!--Staff writer(s); no by-line.-->}}</ref> were listed on ''[[The Wall Street Journal]]'' Best-Selling Books list for Hardcover Science Fiction.
+
+Cauldron of Ghosts (2014)<ref>{{cite news |url=https://www.washingtonpost.com/opinions/2014/04/18/83d25efc-c571-11e3-b708-471bae3cb10c_story.html |title=Michael Lewis's 'Flash Boys' remains at No. 1, Lee Child's 'Never Go Back' also at No. 1 |newspaper=[[The Washington Post]] |date=April 21, 2014 |author=<!--Staff writer(s); no by-line.-->}}</ref> was listed on ''[[The Washington Post]]''Best-Selling Books list for Hardcover Fiction.
+
+Almost all of Flint's books sold well enough to get listed on the various ''[[Locus (magazine)|Locus]]'' Bestsellers Lists with some titles listed multiple times and a few even reached the top spot for the month.<ref>{{cite news |url=http://www.locusmag.com/2004/Issues/07LocusBestsellers.html |title=Locus Bestsellers, July 2004 |magazine=[[Locus (magazine)|Locus]] |date=July 2004 |author=<!--Staff writer(s); no by-line.-->}}</ref><ref>{{cite news |url=http://www.locusmag.com/2005/Issues/11LocusBestsellers.html |title=Locus Bestsellers, November 2005 |magazine=[[Locus (magazine)|Locus]] |date=November 2005 |author=<!--Staff writer(s); no by-line.-->}}</ref><ref>{{cite news |url=http://www.locusmag.com/2005/Issues/12LocusBestsellers.html |title=Locus Bestsellers, December 2005 |magazine=[[Locus (magazine)|Locus]] |date=December 2005 |author=<!--Staff writer(s); no by-line.-->}}</ref>
+
+== Awards and honors ==
+
+Flint was awarded the 2008 [[Darrell Awards|Dal Coger Memorial Hall of Fame Award]] primarily for his ''River of War'' series.<ref name=cogeraward>{{cite web |url=https://darrellawards.wordpress.com/hall-of-fame/ |title=Coger Memorial Hall of Fame |website=Darrell Awards |author=<!--Staff writer(s); no by-line.--> }}</ref>
+
+== References ==
+{{Reflist|2|refs=}}
+
+== External links ==
+{{Wikiquote}}
+{{Commons category}}
+* {{official|https://ericflint.net/}}
+* [https://www.baen.com/allbooks/category/index/id/1720 Baen catalog of Flint's work]
+* [http://www.simonandschuster.biz/authors/Eric-Flint/62775301 Flint's catalog of work at Simon & Schuster] (also contains publication quality images of book covers)
+* [https://web.archive.org/web/20130502155501/http://www.baen.com/LIBRARY/prime_palaver.asp Prime Palaver essays], most discussing copy protection and Baen's e-policies, a topic taken up again in the dedicated column in ''Jim Baen's Universe'' [[e-zine]]:
+** [https://web.archive.org/web/20080512093034/http://baens-universe.com/columns/Salvos_Against_Big_Brother Salvos Against Big Brother], Flint's essays against [[Digital rights management|DRM]] and copyrights in [[Jim Baen's Universe]] magazine.
+** [https://web.archive.org/web/20071006204314/http://baens-universe.com/departments/Columns Editor's column (bimonthly)] at [[Jim Baen's Universe]].
+* {{isfdb name|id=Eric_Flint|name=Eric Flint}}
+* {{sfadb|Eric_Flint|Eric Flint}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Flint, Eric}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:Place of birth missing (living people)]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American novelists]]
+[[Category:21st-century American short story writers]]
+[[Category:American alternate history writers]]
+[[Category:American book editors]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:American Marxists]]
+[[Category:American online publication editors]]
+[[Category:American political activists]]
+[[Category:American science fiction writers]]
+[[Category:American male short story writers]]
+[[Category:American speculative fiction editors]]
+[[Category:American speculative fiction publishers (people)]]
+[[Category:Novelists from Indiana]]
+[[Category:People from East Chicago, Indiana]]
+[[Category:Science fiction editors]]
+[[Category:Sidewise Award winners]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

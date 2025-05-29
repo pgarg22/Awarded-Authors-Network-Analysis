@@ -1,0 +1,63 @@
+{{Use dmy dates|date=March 2021}}
+{{Short description|English poet}}
+{{Infobox writer
+| birth_name     = Sidney Arthur Kilworth Keyes
+| birth_date     = {{birth date|1922|05|27|df=yes}}
+| birth_place    = 
+| death_date     = {{death date and age|1943|04|29|1922|05|27|df=yes}}
+| death_place    = [[Tunisia]]
+{{Infobox person|embed=yes
+| death_cause = [[Killed in action]]
+}}
+| occupation    = [[Poet]]
+| education     = 
+| alma_mater    = [[University of Oxford]]
+| influences    = 
+| awards        = [[Hawthornden Prize]]
+}}
+'''Sidney Arthur Kilworth Keyes''' (27 May 1922 – 29 April 1943) was an English [[poet]] of [[World War II]].
+
+== Life ==
+
+=== Early years and education ===
+Keyes was born on 27 May 1922.<ref>Kendall 2009, p. 398</ref> His mother died shortly afterwards and he was raised by his paternal grandparents.<ref name="warpoetassoc"/> Keyes started writing poetry when still very young, with [[William Wordsworth|Wordsworth]], [[Rilke]] and [[Jung]] among his main influences.<ref name="warpoetassoc"/> He attended [[Dartford Grammar School]] and then boarded at [[Tonbridge School]] (Hillside, 1935-1940) during his secondary education, after which he won a history scholarship to [[Queen's College, Oxford]].<ref name="warpoetassoc"/><ref>Berryman 1947, p. 510</ref> While at college, Keyes wrote the only two books of his lifetime, ''The Cruel Solstice'' and ''The Iron Laurel''.<ref>Dickey 2004, p. 256</ref> During his time in Oxford, Keyes fell in love with the young German artist [[Milein Cosman]], but his love was not returned. He also befriended fellow poets [[John Heath-Stubbs]] and [[Michael Meyer (translator)|Michael Meyer]], edited ''The Cherwell'' magazine, and formed a dramatic society.<ref name="warpoetassoc"/>
+
+''The Iron Laurel'' was published in 1942, when Keyes was 20 years old. His poetry was also published in the ''[[New Statesman]]'', ''[[The Listener (magazine)|The Listener]]'' and other poetry journals.<ref name="warpoetassoc"/>
+
+=== Military service ===
+Keyes left Oxford and joined the army in April 1942,<ref name="Hynes 1990, p. 298">Hynes 1990, p. 298</ref> entering active service that same year.<ref>Dickey 2004, p. 259</ref> He was sent with the Queens Own Royal West Kent Regiment to fight in the [[Tunisia Campaign]] of [[World War II]] in March 1943.<ref name="warpoetassoc"/><ref name="Kendall185">Kendall 2006, p. 185</ref> Prior to his service, Keyes had already written more than half of the 110 poems that would later be gathered in ''The Collected Poems of Sidney Keyes''.<ref name="Hynes 1990, p. 298"/> During combat, he was reported to have continued writing poetry. However, these works have not survived.<ref>Kendall 2009, p. 401</ref>
+
+=== Death ===
+Keyes fought and died in action on 29 April 1943, covering his platoon's retreat during a counter-attack,<ref name="warpoetassoc"/> shortly before his 21st birthday.<ref name="Kendall185"/> It has also been stated that he died at the hands of the enemy, following his capture.<ref>Michael L. Meyer, introduction to Keyes, ''Collected Poems'' Routledge (1945).</ref>
+
+== Recognition ==
+In 1943, Keyes was awarded the [[Hawthornden Prize]] for ''The Cruel Solstice'' and ''The Iron Laurel''.<ref>{{cite web|last=Moseley|first=Merritt|title=The Hawthornden Prize|url=http://facstaff.unca.edu/moseley/hawthorn.html|publisher=University of North Carolina|accessdate=16 May 2010|url-status=dead|archiveurl=https://web.archive.org/web/20110409213015/http://facstaff.unca.edu/moseley/hawthorn.html|archivedate=9 April 2011}}</ref> He has been described as one of the outstanding poets of the Second World War.<ref name="warpoetassoc">{{cite web|title=Sidney Keyes (1922-1943)|url=http://www.warpoets.org/poets/sidney-keyes-1922-1943/|website=The War Poet Association|accessdate=4 November 2016}}</ref>
+
+== Footnotes ==
+{{reflist}}
+
+== Bibliography ==
+* {{citation|last=Berryman|first=John|year=1947|title=Review: Young Poets Dead|journal=The Sewanee Review|publisher=Johns Hopkins University Press|volume=55|issue=3}}
+* {{citation|last=Hynes|first=Samuel|year=1990|title=Review: Sidney Keyes, Poet|journal=The Sewanee Review|publisher=Johns Hopkins University Press|volume=98|issue=2}}
+* {{citation|last=Dickey|first=James|title=Classes on Modern Poets and the Art of Poetry|date=March 2004|publisher=University of South Carolina Press|url=https://books.google.com/books?id=EQogr9JUVD0C&lpg=PP1&pg=PP1#v=onepage&q&f=false|editor=Donald Greiner}}
+* {{citation|last=Kendall|first=Tim|title=Modern English War Poetry|year=2006|publisher=Oxford University Press|url=https://books.google.com/books?id=TYNWjcm3NbwC&lpg=PP1&pg=PP1#v=onepage&q&f=false}}
+* {{citation|last=Kendall|first=Tim |author2=Geoffrey Hill|title=The Oxford Handbook of British and Irish War Poetry|url=https://books.google.com/books?id=xLpTxTq4KLQC&lpg=PP1&pg=PP1#v=onepage&q&f=false|year=2009|publisher=Oxford University Press}}
+* {{citation|last=Cosman|first=Milein|title=Memories of Sidney Keyes|url=http://www.carcanet.co.uk/cgi-bin/scribe?showdoc=7;doctype=biography}}
+* Roy, Pinaki. “Sidney Keyes: ''The War-poet who ‘groped for Death’''”. ''[[War, Literature and the Arts]]'' ([[U.S. Air Force Academy]]) (ISSN 2169-7914), 26 (1), 2014: http://wlajournal.com/wlaarchive/26/Roy.pdf
+
+==External links==
+* {{FadedPage|id=Keyes, Sidney|name=Sidney Keyes|author=yes}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Keyes, Sidney}}
+[[Category:1922 births]]
+[[Category:1943 deaths]]
+[[Category:British Army personnel of World War II]]
+[[Category:British Army personnel killed in World War II]]
+[[Category:People educated at Tonbridge School]]
+[[Category:Alumni of The Queen's College, Oxford]]
+[[Category:World War II poets]]
+[[Category:20th-century male writers]]
+[[Category:20th-century English poets]]
+[[Category:Queen's Own Royal West Kent Regiment officers]]

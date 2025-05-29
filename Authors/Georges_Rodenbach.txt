@@ -1,0 +1,75 @@
+{{Infobox person
+| name        = Georges Rodenbach
+| image       =Georges_Rodenbach,_portrait.jpg
+| image_size  = 200px
+| alt         = Georges Rodenbach
+| caption     = Georges Rodenbach
+| birth_name  = Georges Raymond Constantin Rodenbach
+| birth_date  = {{birth date|df=yes|1855|7|16}}
+| birth_place = [[Tournai]], [[Belgium]]
+| death_date  = {{death date and age|df=yes|1898|12|25|1855|7|16}}
+| death_place = [[Paris]], [[France]]
+| nationality = [[Belgium]]
+| other_names =
+| known_for   =
+| occupation  = novelist, poet
+}}{{Use dmy dates|date=April 2020}}
+
+'''Georges Raymond Constantin Rodenbach''' (16 July 1855 – 25 December 1898) was a Belgian [[Symbolism (arts)|Symbolist]] poet and novelist.
+
+== Biography ==
+Georges Rodenbach was born in [[Tournai]] to a [[French people|French]] mother and a [[Germans|German]] father from the Rhineland ([[Andernach]]). He was related to the famous [[Germans|German]] poet [[Christoph Martin Wieland]].<ref>Romain Vanlandschoot, ''Albrecht Rodenbach: biografie'', Lannoo Uitgeverij (2002), p. 72</ref> He went to school in [[Ghent]] at the prestigious [[Sint-Barbaracollege]], where he became friends with the poet [[Emile Verhaeren]]. Rodenbach worked as a lawyer and journalist. He spent the last ten years of his life in Paris as the correspondent of the ''[[Journal de Bruxelles]]'', and was an intimate of [[Edmond de Goncourt]]. He published eight collections of verse and four novels, as well as short stories, stage works and criticism. He produced some Parisian and purely imitative work; but a major part of his production is the outcome of a passionate idealisation of the quiet Flemish towns in which he had passed his childhood and early youth. In his best known work, ''[[Bruges-la-Morte]]'' (1892), he explains that his aim is to evoke the town as a living being, associated with the moods of the spirit, counselling, dissuading from and prompting action. ''Bruges-la-Morte'' was used by the composer [[Erich Wolfgang Korngold]] as the basis for his opera [[Die tote Stadt]]. [[Albrecht Rodenbach]], his cousin, was a poet and novelist as well, and a leader in the [[Flemish movement|revival of Flemish literature]] of the 19th century.
+
+== Works ==
+[[Image:Tombeau Georges Rodenbach.jpg|thumb|Rodenbach's tomb in Paris.]]
+* ''Le Foyer et les Champs'' (1877), poetry
+* ''Les Tristesses'' (1879), poetry
+* ''La Belgique 1830-1880'' (1880), historic poem
+* ''La Mer élégante'' (1881), poetry
+* ''L'Hiver mondain'' (1884)
+* ''Vers d'amour'' (1884)
+* ''La Jeunesse blanche'' (1886), poetry
+* ''Du Silence'' (1888)
+* ''L'Art en exil'' (1889)
+* ''[[Bruges-la-Morte]]'' (1892)
+* ''Le Voyage dans les yeux'' (1893)
+* ''Le Voile'', drama
+* ''L'Agonie du soleil'' (1894)
+* ''Musée de béguines'' (1894)
+* ''Le Tombeau de Baudelaire'' (1894)
+* ''[[La Vocation]]'' (1895), translated as ''Hans Cadzand's Vocation''
+* ''A propos de "Manette Salomon". L'Œuvre des Goncourt'' (1896)
+* ''Les Tombeaux'' (1896)
+* ''Les Vierges'' (1896)
+* ''Les Vies encloses'' (1896), poem
+* ''[[Le Carillonneur]]'' (1897), translated as ''The Bells of Bruges''
+* ''Agonies de villes'' (1897)
+* ''Le Miroir du ciel natal'' (1898)
+* ''Le Mirage'' (1900)
+{{Portal|Literature|Poetry|Novels}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{Gutenberg author |id=Rodenbach,+Georges | name=Georges Rodenbach}}
+* {{Internet Archive author |sname=Georges Rodenbach}}
+* {{Librivox author |id=3520}}
+
+{{EB1911|wstitle=Belgium|volume=3|pages=668–681}} (See pp.&nbsp;680–681.)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rodenbach, Georges Raymond Constantin}}
+[[Category:1855 births]]
+[[Category:1898 deaths]]
+[[Category:Writers from Tournai]]
+[[Category:Belgian poets in French]]
+[[Category:Decadent literature]]
+[[Category:Burials at Père Lachaise Cemetery]]
+[[Category:Symbolist novelists]]
+[[Category:Symbolist poets]]
+[[Category:19th-century Belgian poets]]
+[[Category:19th-century Belgian novelists]]
+[[Category:Belgian people of French descent]]
+[[Category:Belgian people of German descent]]

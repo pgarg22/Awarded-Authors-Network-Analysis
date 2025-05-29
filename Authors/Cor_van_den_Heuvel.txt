@@ -1,0 +1,84 @@
+{{short description|American poet}}
+{{Infobox writer
+| embed            = 
+| honorific_prefix = 
+| name             = Cor van den Heuvel
+| honorific_suffix = 
+| image            = 
+| image_size       = 
+| image_upright    = 
+| alt              = 
+| caption          = 
+| native_name      = 
+| native_name_lang = 
+| pseudonym        = 
+| birth_name       = 
+| birth_date       = {{Birth date and age|1931|03|06}}
+| birth_place      = [[Biddeford, Maine]]
+| death_date       = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (DEATH date then BIRTH date) -->
+| death_place      = 
+| resting_place    = 
+| occupation       = Poet, editor
+| language         = 
+| nationality      = 
+| citizenship      = 
+| education        = 
+| alma_mater       = 
+| period           = 
+| genre            = [[Haiku]]
+| subject          = <!-- or: | subjects = -->
+| movement         = 
+| notable_works    = 
+| spouse           = Leonia Leigh Larrecq van den Heuvel
+| partner          = <!-- or: | partners = -->
+| children         = 
+| relatives        = 
+| awards           = 
+| signature        = 
+| signature_alt    = 
+| years_active     = 
+| module           = 
+| website          = <!-- {{URL|example.org}} -->
+| portaldisp       = <!-- "on", "yes", "true", etc.; or omit -->
+}}
+'''Cor Van den Heuvel''' (born March 6, 1931) is an [[United States|American]] [[Haiku in English|haiku]] [[poet]], [[editing|editor]] and [[archivist]].
+
+==Biography==
+Van den Heuvel was born in [[Biddeford, Maine]], and grew up in [[Maine]] and [[New Hampshire]]. He lives in [[New York City]] with his wife Leonia Leigh Larrecq.
+
+He first discovered haiku in 1958 in [[San Francisco]] where he heard [[Gary Snyder]] mention it at a poetry reading.<ref>[http://www.haiku-hia.com/snk_HEUVEL_en.html Cor van den HEUVEL] {{webarchive|url=https://archive.is/20130126012021/http://www.haiku-hia.com/snk_HEUVEL_en.html |date=2013-01-26 }} on the Haiku International Association website</ref> He returned to the East Coast the following year and continued composing haiku. He became the house poet of a [[Boston]] coffee house, reading haiku and other poetry to jazz musical accompaniment.{{citation needed|date=June 2012}} In 1971 he joined the [[Haiku Society of America]] and became its president in 1978.
+
+==Work==
+Van den Heuvel has published several books of his own haiku, including one on [[baseball]]. He is the editor of the three editions of ''The Haiku Anthology''; the original Haiku Anthology published in 1974 by Doubleday, the second edition published in 1986 by Simon & Schuster, and the third edition published in 1999 by Norton.
+
+==Honors==
+The Haiku Society of America has given Van den Heuvel three Merit Book Awards for his haiku. He was the honorary curator of the American Haiku Archives at the [[California State Library]] at Sacramento for 1999-2000. He worked at ''[[Newsweek]]'' magazine in the layout department until he retired in 1988. He was the United States representative to the 1990 International Haiku Symposium in Matsuyama.{{citation needed|date=June 2012}} At the World Haiku Festival held in London and Oxford in 2000, he received a World Haiku Achievement Award. In 2002, he was awarded The [[Masaoka Shiki International Haiku Awards]] in [[Matsuyama, Ehime|Matsuyama]], for his writing and editing of haiku books.<ref>[http://www.prunejuicejournal.com/digital/prunejuice_1_2009.html ''Prune Juice, Journal of Senryu and Kyoka''] Issue 1, Winter 2009, p.145  {{webarchive |url=https://web.archive.org/web/20090706053922/http://www.prunejuicejournal.com/digital/prunejuice_1_2009.html |date=July 6, 2009 }}</ref>
+
+He has been described in ''The Alsop Review'' as "an intelligent and unflagging spokesperson for haiku".<ref>Foley, Jack. [http://www.alsopreview.com/columns/foley/jfheuvel.html Review of ''The Haiku Anthology''] in The Alsop Review  {{webarchive |url=https://web.archive.org/web/20061019190412/http://www.alsopreview.com/columns/foley/jfheuvel.html |date=October 19, 2006 }}</ref>
+
+==Bibliography==
+*''The Haiku Anthology'' (editor), 1st edition, Anchor Books, 1974, {{ISBN|978-0-385-09474-0}}
+*''The Haiku Anthology'' (editor), 2nd edition, Simon and Schuster, 1986, {{ISBN|0-671-62837-2}}
+*''The Haiku Anthology'' (editor), 3rd edition, Norton, 1999, {{ISBN|0-393-32118-5}}
+*''Past Time: Baseball Haiku'' (editor, with [[Jim Kacian]]), Red Moon Press, 1999, {{ISBN|978-1-893959-07-1}}
+*''Play Ball : Baseball Haiku'' (author), Red Moon Press, 1999, {{ISBN|978-1-893959-06-4}}
+*''Baseball Haiku'' (editor, with Nanae Tamura), Norton, 2007, {{ISBN|978-0-393-06219-9}}
+*''A Boy's Seasons: [[Haibun]] Memoirs'' (author), Single Island Press, 2010, {{ISBN|978-0-9740895-8-4}}
+
+==See also==
+* [[Jim Kacian]]
+
+==References==
+{{reflist}}
+*[https://archive.is/20130126012021/http://www.haiku-hia.com/snk_HEUVEL_en.html Haiku International Association page on Cor van den Heuvel]
+*[https://web.archive.org/web/20060922112658/http://www.millikin.edu/haiku/writerprofiles/CorvandenHeuval.html Millikin University Haiku Writer Profile: Cor Van den Heuval]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Van den Heuvel, Cor}}
+[[Category:American male poets]]
+[[Category:English-language haiku poets]]
+[[Category:Living people]]
+[[Category:1931 births]]
+[[Category:People from Biddeford, Maine]]
+[[Category:Poets from Maine]]

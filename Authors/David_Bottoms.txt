@@ -1,0 +1,75 @@
+{{short description|American poet|bot=PearBOT 5}}
+'''David Bottoms''' (born 1949 in [[Canton, Georgia|Canton]], [[Georgia (U.S. state)|Georgia]]) is an American poet.
+
+==Biography==
+{{Infobox person
+| name = David Bottoms
+| birth_date = {{Birth date and age|1949|09|11}}
+| birth_place = Canton, GA
+| education = Florida State University (1982), Mercer University
+| awards = Walt Whitman Award, Guggenheim Fellowship for Creative Arts, US & Canada
+}}
+Bottoms' first book, ''Shooting Rats at the Bibb County Dump'', was selected by [[Robert Penn Warren]] as winner of the 1979 [[Walt Whitman Award]] of  the  [[Academy of American Poets]]. His poems have appeared in magazines such as ''[[The Southern Review]]'', ''[[The Atlantic]]'', ''[[The New Yorker]]'', ''[[Harper's]]'', ''[[The Paris Review]]'', and ''[[Poetry (magazine)|Poetry]]'', as well as in over four dozen anthologies and textbooks. He is the author of eight other books of poetry, ''In a U-Haul North of Damascus'', ''Under the Vulture-Tree'', ''Armored Hearts: Selected and New Poems'', ''Vagrant Grace'', ''Oglethorpe's Dream'', ''Waltzing Through the Endtime'', and ''We Almost Disappear'' as well as two novels, ''Any Cold Jordan'' and ''Easter Weekend''. His most recent book of poetry, ''Otherworld, Underworld, Prayer Porch'', was published in 2018 by [[Copper Canyon Press]]. Among his awards are the Levinson and the Frederick Bock prizes from ''Poetry Magazine'', an [[Ingram Merrill Foundation]] Award, an Award in Literature from the American Academy and Institute of Arts and Letters, and fellowships from the National Endowment for the Arts and the John Simon Guggenheim Memorial Foundation.
+
+Bottoms has given over 200 readings in colleges and universities across the United States, as well as the [[Solomon R. Guggenheim Museum|Guggenheim Museum]], The [[Library of Congress]], and The American Academy in Rome. He has been interviewed on several regional and national radio and television programs, including two interviews on [[National Public Radio]], and he is featured in a half-hour segment of ''The Southern Voice'', a five-part television miniseries profiling Southern writers. Essays on and reviews of his work have appeared in ''The New York Times'', ''The New York Times Book Review'', ''The Los Angeles Times'', ''The Atlanta Journal-Constitution'', ''Southern Living'', ''The Southern Review'', '' Poetry'', ''The Observer'' (London), and dozens of other newspapers and literary journals. Profiles appear in a number of resource books, including ''The Dictionary of Literary Biography'', ''Contemporary Literary Criticism'', and ''The Oxford Companion to Twentieth Century Poetry''. In 2006, Bottoms was honored as a Star of the South by [[Irish America (magazine)|''Irish America'']] magazine.
+
+Bottoms received his BA from [[Mercer University]] and his PhD from [[Florida State University]].<ref>[http://english.gsu.edu/people.php?req=bottoms Department of English | People<!-- Bot generated title -->] {{webarchive|url=https://web.archive.org/web/20090131012340/http://english.gsu.edu/people.php?req=bottoms |date=2009-01-31 }}</ref> He has been a Richard Hugo Poet-in-Residence at the University of Montana and currently holds the John B. and Elena Diaz-Amos Distinguished Chair in English Letters at [[Georgia State University]] in Atlanta, where he co-edits ''Five Points: A Journal of Art and Literature'' and teaches creative writing. He was [[Poet Laureate]] of Georgia from 2000 to 2012.<ref>{{Cite web|url=https://www.loc.gov/rr/main/poets/georgia.html|title = Georgia - State Poet Laureate (State Poets Laureate of the United States, Main Reading Room, Library of Congress)}}</ref>
+
+==Bibliography==
+{{Expand list|date=December 2016}}
+
+===Poetry===
+====Collections====
+*''Otherworld, Underworld, Prayer Porch'', ([[Copper Canyon Press]], 2018)
+*''We Almost Disappear'', (Copper Canyon Press, 2011)
+*''Waltzing Through the Endtime'', ([[Copper Canyon Press]], 2004)
+*''Oglethorpe's Dream''
+*''Vagrant Grace'', (Copper Canyon Press, 1999)
+*''Armored Hearts: Selected and New Poems'', (Copper Canyon Press, 1995)
+*''Under the Vulture-Tree''
+*''In a U-Haul North of Damascus''
+*''Shooting Rats at the Bibb County Dump'', (William Morrow and Company, 1980)
+*''Jamming with the Band at the VFW''
+
+====Anthology====
+*''The Morrow Anthology of Younger American Poets'' (editor)
+
+==== List of poems ====
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+|-
+|Spring, 2012
+|2013
+|{{cite magazine |author=Bottoms, David |date=July 8–15, 2013 |title=Spring, 2012 |magazine=The New Yorker |volume=89 |issue=20 |pages=61 |url=http://www.newyorker.com/magazine/2013/07/08/spring-2012 <!--accessdate=2016-12-16-->}}
+| 
+|-
+|}
+
+===Novels===
+*''Easter Weekend''
+*''Any Cold Jordan''
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.poets.org/poet.php/prmPID/32 Academy of American Poets]
+* [https://web.archive.org/web/20090816151139/http://www.sos.georgia.gov/archives/state_symbols/state_poet_laureate.htm Georgia Secretary of State]
+* [http://www.georgiaencyclopedia.org/nge/Article.jsp?id=h-483 The New Georgia Encyclopedia]
+* [http://pid.emory.edu/ark:/25593/8z150 David Bottoms Papers] at Stuart. A Rose Manuscript, Archives, and Rare Book Library
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bottoms, David}}
+[[Category:Living people]]
+[[Category:1949 births]]
+[[Category:Poets from Georgia (U.S. state)]]
+[[Category:Georgia State University faculty]]
+[[Category:National Endowment for the Arts Fellows]]
+[[Category:Poets Laureate of Georgia (U.S. state)]]
+[[Category:People from Canton, Georgia]]
+[[Category:The New Yorker people]]

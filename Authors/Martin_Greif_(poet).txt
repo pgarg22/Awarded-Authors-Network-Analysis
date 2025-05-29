@@ -1,0 +1,163 @@
+{{Infobox person
+| name = Martin Greif
+| image = Martin Greif 1898.jpg
+| caption = Greif in 1898
+| birth_name = Friedrich Hermann Frey
+| birth_date = {{birth date|1839|06|18|df=y}}
+| birth_place = [[Speyer]]
+| death_date = {{death date and age|1911|04|01|1839|06|18|df=y}}
+| death_place = [[Kufstein]]
+| education = 
+| occupation = {{plainlist|
+* ''Offizier''
+* Poet
+* Dramatist
+}}
+| awards = 
+}}
+'''Martin Greif''', born '''Friedrich Hermann Frey''' (18 June 1839 – 1 April 1911) was a German freelance writer of poems and of dramas which were performed at the [[Burgtheater]] in Vienna and the [[National Theatre Munich|Bavarian Court Theatre]] in Munich. His songs inspired compositions by [[Max Reger]] and [[Alban Berg]], among others.
+
+== Career ==
+Friedrich Hermann Frey was born in [[Speyer]], the son of {{ill|Max Frey (Beamter)|de|Max Frey (Regierungsdirektor)|lt=Max Frey}},<ref name="Bartleby" /> who had served as ''Kabinettsrat'' of [[Otto of Greece]], and his wife Adelheid Friederike, née Ehrmann. The family moved to Munich, where he made the [[Abitur]]. He joined the Bavarian military and was promoted to ''Offizier'' in 1859. He retired from the military in 1867 to live as a freelance writer.<ref name="Britting" /> His first publications, enabled by [[Eduard Mörike]] were poems, published in 1868 by [[Cotta (publishing house)|''Cotta’sche Verlagsbuchhandlung'']] unter the pen name Martin Greif, which he used as his official name from 1882 on.<ref name="Britting" /> In 1869 he moved to Vienna, where many of his plays were successfully performed at the [[Burgtheater]], thank to its artistic director [[Heinrich Laube]]. When Laube left the post, Greif returned to Munich and wrote patriotic dramas performed at the [[National Theatre Munich|Bavarian Court Theatre]].
+
+He died in [[Kufstein]].<ref name="Britting" />
+
+== Work ==
+Greif's drama on [[Agnes Bernauer]] has remained in the repertory of Bavarian lay theatre. Several of Greif's poems appeared in anthologies such as ''Hausbuch Deutscher Lyrik''.<ref name="Bailey" /> His poem "Das klagende Lied" possibly inspired Gustav Mahler's [[Das klagende Lied|cantata of the same name]], written from 1878 on with a libretto by the composer.<ref name="Mitchell" /> Several of Greif's poems were set to music,<ref name="Lesekost" /> for example "Der zerrißne Grabkranz" by [[Max Reger]] as part of his [[Sechs Lieder, Op. 4|''Sechs Lieder'', Op. 4]].<ref name="Reger" /> Alban Berg set his poem "Schattenleben" ("Phantom Life") in 1903 among his early songs,<ref name="Adams" /> Anton Webern set his poem "Hochsommernacht".<ref name="Bailey" />
+
+{{Wikisource-lang|de|Martin Greif}}
+His works include:
+* ''Die Schlacht von Leipzig'', München, 1863;  [https://archive.org/details/bub_gb_BYs6AAAAcAAJ <!-- quote=Martin greif. --> work online]
+* ''Frühlingssturmlieder'', München, 1864; [https://archive.org/details/bub_gb_C4s6AAAAcAAJ <!-- quote=Martin greif. --> book online]
+* ''Hans Sachs'', Augsburg 1866;  [https://archive.org/details/bub_gb_D4s6AAAAcAAJ <!-- quote=Martin greif. --> work online]
+* ''Gedichte'', Stuttgart 1868;  [https://archive.org/details/bub_gb_dho-AAAAIAAJ <!-- quote=Martin greif. --> poem collection online]
+<!--* ''Corfiz Ulfeldt, der Reichshofmeister von Dänemark'', drama in five acts with a prologue. Gärtner, Bamberg 1873.
+* ''Walther's Rückkehr in die Heimath'', Innsbruck 1874
+* ''Deutsche Gedenkblätter''. Metzler, Stuttgart 1875
+* ''Nero''. drama in five acts. Bloch, Berlin 1877 (Sammlung dt. Bühnenwerke, Nr. 19)
+* ''Marino Falieri oder Die Verschwörung des Dogen zu Venedig''. drama in five acts . Wallishausser´sche Buchhandlung, Wien 1879 -->
+* ''Prinz Eugen'', Kassel 1880<ref name="DNB" />
+* ''Agnes Bernauer, der Engel von Augsburg'', Leipzig 1894.<ref name="Bartleby" />
+<!-- * ''Conradin'', performed at the Kaiserjubiläums-Stadttheater in Wien, 3 March 1902 https://books.google.de/books?id=CwvtBl6FVRgC&pg=PA62&lpg=PA62-->
+* ''Neue Lieder und Mären'', Leipzig 1908<ref name="DNB" />
+
+== Literature ==
+{{refimprove section|date=February 2017}}
+[[File:Martin Greif von Hans Thoma.jpg|thumb|upright|Martin Greif, portrayed by [[Hans Thoma]]]]
+* Albert van Geelen: ''Martin Greif als Dramatiker in seinen Beziehungen zu Laube und zum Burgtheater unter Wilbrandt und Dingelstedt.'' Wächter-Verlag, Graz u. a. 1934.
+* Fritz Kastner: ''Martin Greif. Bibliographie zu seinem Leben und Werk.'' Pfälzische Landesbibliothek, Speyer 1959.
+* Laurenz Kiesgen: ''Martin Greif.'' Hesse u. Becker, Leipzig 1905.
+* [[Wilhelm Kosch]]: ''Martin Greif in seinen Werken.'' Amelang, Leipzig 1907.
+* {{ill|Simon Prem|de}}: ''Martin Greif. Versuch zu einer Geschichte seines Lebens und Dichtens mit besonderer Rücksicht auf seine Dramen und seiner Stellung in der deutschen Litteratur.'' Renger, Leipzig 1892.
+* Jocza Savits: ''Martin Greifs Dramen. Eine Studie.'' Engl, München 1911.
+* C. Stemplinger: ''Martin Greif als Lyriker.'' In: ''Alte und Neue Welt; Illustriertes katholisches Familienblatt.'' 1898/99, {{pp.|626–628}}.
+* Antonia Kostretska (ed.): ''Martin Greif. Ausgewählte Gedichte in Deutsch und Russisch.'' Heidelberg 2011, {{ISBN|978-3-00-034527-2}}. (German, Russian)
+
+== References ==
+{{Reflist|30em
+| refs =
+
+<ref name="Adams">{{cite book
+ |last        = Adams
+ |first       = Sara Balduf
+ |url         = https://books.google.com/books?id=-4K_g6HcIDIC&pg=PA40
+ |title       = The Development of Alban Berg's Compositional Style: A Study of His Jugendlieder (1901—1908).
+ |publisher   = The Florida State University
+ |year        = 2008
+ |isbn        = 9781109044058
+ |page        = 40
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20170202081703/https://books.google.de/books?id=-4K_g6HcIDIC&pg=PA40
+ |archivedate = 2017-02-02
+}}</ref>
+
+<ref name="Bailey">{{cite book
+| last = Bailey
+| first = Kathryn Bailey
+| url = https://books.google.com/books?id=axqPXMjmHkQC&pg=PA6
+| title = Webern Studies
+| publisher = Cambridge University Press
+| year = 1996
+| isbn = 9781109044058
+| pages = 6–7
+}}</ref>
+
+<ref name="Britting">{{cite web
+| last = Britting
+| first = Georg
+| editor-last = Schmitz
+| editor-first = Walter
+| url = http://www.britting.de/prosa/1-028.html
+| title = Martin Greif
+| work = Georg Britting / Sämtliche Werke – Prosa
+| publisher = britting.de
+| language = German
+| accessdate = 28 January 2017
+}}</ref>
+
+<ref name="Mitchell">{{cite book
+| editor-last = Mitchell
+| editor-first = Donald
+| editor2-last = Nicholson
+| editor2-first = Andrew
+| url = https://books.google.com/books?id=nd-1_Xo-ZFEC&pg=PA40
+| title = The Mahler Companion
+| publisher = Oxford University Press
+| year = 1999
+| isbn = 9780198163763
+| page = 40
+}}</ref>
+
+<ref name="Bartleby">{{cite web
+| url = http://www.bartleby.com/library/bios/2709.html
+| title = Martin Greif (1839–1911)
+| publisher = bartleby.com
+| accessdate = 28 January 2017
+}}</ref>
+
+<ref name="DNB">{{cite web
+| url = https://portal.dnb.de/opac.htm;jsessionid=4DEB39B6464E69811490E48BD073D469.prod-worker1?method=simpleSearch&reset=true&cqlMode=true&query=auRef%3D118697498&selectedCategory=any
+| title = Works by Martin Greif
+| publisher = German National Library
+| accessdate = 8 February 2017
+}}</ref>
+
+<ref name="Lesekost">{{cite web
+| url = http://www.lesekost.de/gedicht/HHLG20.htm
+| title = Martin Greif, eigentl. Friedrich Hermann Frey
+| publisher = lesekost.de
+| language = German
+| accessdate = 28 January 2017
+}}</ref>
+
+<ref name="Reger">{{cite web
+| url = http://www.max-reger-institut.de/en/max-reger/max-regers-works?rwdb_id=4
+| title = Sechs Lieder, Op. 4
+| publisher = [[Max-Reger-Institute]]
+| year = 2016
+| language = German
+| accessdate = 17 December 2016
+| ref = {{sfnref|Institute|2016}}
+}}</ref>
+
+}}
+
+== External links ==
+{{Commonscat|Martin Greif}}
+* {{DDB|Person|118697498}}
+* [http://www.goethezeitportal.de/index.php?id=4255 Martin Greif] goethezeitportal.de
+* [http://gutenberg.spiegel.de/buch/-8669/1 Martin Greif / Neue Lieder und Mären] [[Der Spiegel]]
+* [http://www.speyer.de/sv_speyer/de/Tourismus/Museen%20und%20Lernorte/Martin%20Greif%20Stube/ Martin-Greif-Stube] memorial in Speyer
+* [http://www.literaturportal-bayern.de/autorenlexikon?task=lpbauthor.default&pnd=118697498 Martin Greif] Literaturportal Bayern
+* {{Librivox author |id=10968}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Greif, Martin}}
+[[Category:19th-century German poets]]
+[[Category:German male dramatists and playwrights]]
+[[Category:19th-century German dramatists and playwrights]]
+[[Category:19th-century German male writers]]
+[[Category:People from Speyer]]
+[[Category:1839 births]]
+[[Category:1911 deaths]]

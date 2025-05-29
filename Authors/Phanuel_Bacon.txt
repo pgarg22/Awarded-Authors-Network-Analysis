@@ -1,0 +1,55 @@
+{{Use dmy dates|date=May 2015}}
+{{Use British English|date=May 2015}}
+{{Infobox person
+|name                 = Phanuel Bacon
+|image                = 
+|image_size           = 
+|caption              = 
+|nationality          = 
+|birth_date           = {{Birth date|1700|10|13|df=yes}}
+|birth_place          = 
+|death_date           = {{Death date and age|1783|1|10|1700|10|13|df=yes}}
+|death_place          = 
+}}
+'''Phanuel Bacon''' (13 October 1700 – 10 January 1783) was an [[England|English]] [[playwright]], [[poet]] and [[author]]. He was the son of the Phanuel Bacon, [[vicar]] of St Laurence's church, in [[Reading, Berkshire|Reading]].
+
+==Life==
+In his youth, Bacon attended [[John Roysse]]'s [[Free school (England)|Free School]] in Abingdon (now [[Abingdon School]]), from 1712-1715 <ref>{{cite book|last=Preston|first=Arthur Edwin|title=St.Nicholas Abingdon and Other Papers, pre isbn|year=1929|publisher=Oxford University Press}}</ref> and later entered [[St John's College, Oxford]]. He became vicar of [[Bramber]], [[Sussex]], and rector of [[Marsh Baldon]], [[Oxfordshire]].
+
+==Works==
+Among his works are 
+*''The Kite'' (1722), An Heroi-comical Poem. In Three Canto's 
+*''The Moral Quack'' (1757), A Dramatic Satire
+*''The Insignificants''(1757), A Comedy of Five Acts.
+*''The Tryal of the Timekillers'' (1757), A comedy of five acts
+*''The Occulist'' (1757), A Dramatic Entertainment of Two Acts
+*''The Taxes'' (1757), A Dramatick Entertainment
+*''The Snipe'' (1765), poem <ref>{{cite web|url=https://snipeinliterature.com/2016/12/15/the-snipe-phanuel-bacon-1765/|title="The Snipe", Phanuel Bacon, 1765Snipe in Literature|publisher=Snipe in Literature}}</ref>
+
+==See also==
+* [[List of Old Abingdonians]]
+
+==References==
+{{reflist}}
+*{{cite DNB|wstitle=Bacon, Phanuel|volume=2}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bacon, Phanuel}}
+[[Category:18th-century English Anglican priests]]
+[[Category:English dramatists and playwrights]]
+[[Category:18th-century English poets]]
+[[Category:Fellows of St John's College, Oxford]]
+[[Category:People educated at Abingdon School]]
+[[Category:People from Reading, Berkshire]]
+[[Category:1700 births]]
+[[Category:1783 deaths]]
+[[Category:People educated at Reading School]]
+[[Category:English male dramatists and playwrights]]
+[[Category:English male poets]]
+[[Category:18th-century English male writers]]
+[[Category:People from Bramber]]
+
+
+{{England-poet-stub}}
+{{England-writer-stub}}

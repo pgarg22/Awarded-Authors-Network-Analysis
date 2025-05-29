@@ -1,0 +1,249 @@
+{{short description|Bengali poet and dramatist}}
+{{peacock|date=April 2019}}
+{{Use dmy dates|date=May 2015}}
+{{EngvarB|date=March 2015}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name             = Michael Madhusudan Dutt
+| native_name      = মাইকেল মধুসূদন দত্ত
+| native_name_lang = bn
+| image            = File:Michael Madhusudan Dutta.jpg
+| image_size       = 
+| alt              = 
+| caption          = Michael Madhusudan Dutt
+| birth_date       = {{Birth date|df=yes|1824|01|25}}
+| birth_place      = Sagardari, [[Jessore District]], [[Bengal Presidency]], [[Company rule in India|British India]]
+| death_date       = {{Death date and age|df=yes|1873|06|29|1824|01|25}}
+| death_place      = [[Kolkata|Calcutta]], Bengal Presidency, [[British Raj|British India]]
+| resting_place    = [[Lower Circular Road cemetery]]
+| occupation       = Writer, poet, playwright
+| alma_mater       = [[Presidency University, Kolkata|Hindu College]] <br /> [[Gray's Inn]]
+| citizenship      = [[British Raj|British Indian]]
+| movement         = [[Bengal Renaissance]]
+| spouse           = Rebecca Thompson McTavish (m. 1848–1856)
+| partner          = Emilia Henrietta Sophie White (1858–1873)
+| children         = 4
+}}
+
+'''Michael Madhusudan Dutt''' ({{audio|Madhusudan.ogg|''Maikel Modhushudôn Dôtto''}}; 25 January 1824&nbsp;– 29 June 1873) was a Bengali poet and playwright.
+
+==Early life==
+Dutt was born in [[Sagardari Union|Sagardari]], a village in [[Keshabpur Upazila]], [[Jessore District]] of [[Bengal Presidency|Bengal]] to an educated, upper middle class [[Hinduism in India|Hindu]] family. His father, Rajnarayan Dutt, worked as a [[special pleader]] in the [[Sadr Diwani Adalat]] and his mother was Jahnvi Devi, a devoted [[housewife]]. Dutt proved to be a talented student, and was recognised by teachers and professors alike as being a precocious child with a gift for language. His family being reasonably well-off, Dutt received an education in the English language and additional tutorship in English at home. Rajnarayan had intended for this Western education to open the doors of a government position for his son.<ref name=":4" />
+
+==College and religious conversion==
+After he finished his education in Sagordari at roughly the age of fifteen, Rajnarayan sent Madhusudhan to [[Kolkata|Calcutta]] to attend [[Presidency University, Kolkata|Hindu College]] with the eventual aim of becoming a [[barrister]]. At Hindu College, Micheal studied under a [[Westernization|westernized]] curriculum in a university which had been expressly founded for the "uplift of the natives". The university stipulated that all students had to dress in Western clothing, eat European cuisine using cutlery, learn British songs and speak only English with the aim of creating an anglicized middle class of Indians which would serve as officials in the colonial administration. During his time at Hindu College, Madhusudhan developed an aversion to [[Culture of India|Indian culture]] and a deep yearning to become accepted into [[Culture of Europe|European culture]].<ref name="Chakrabarty2001">{{cite book|author=Dipesh Chakrabarty|title=Provincializing Europe: Postcolonial Thought and Historical Difference|url=https://books.google.com/books?id=QqDa4tGENvYC&pg=PA33|access-date=9 October 2012|date=15 February 2001|publisher=Princeton University Press|isbn=978-0-691-13001-9|pages=33–|edition=New}}</ref> He expressed these sentiments in one of his poems:
+
+<poem style="margin-left:2em">
+"Where man in all his truest glory lives,
+And nature's face is exquisitely sweet;
+For those fair climes I heave impatient sigh,
+There let me live and there let me die".<ref name="Chakrabarty2001">{{cite book|author=Dipesh Chakrabarty|title=Provincializing Europe: Postcolonial Thought and Historical Difference|url=https://books.google.com/books?id=QqDa4tGENvYC&pg=PA33|access-date=9 October 2012|date=15 February 2001|publisher=Princeton University Press|isbn=978-0-691-13001-9|pages=33–|edition=New}}</ref>
+</poem>
+
+An early and formative influence on Dutta was his teacher at Hindu College, [[David Lester Richardson]]. Richardson was a poet and inspired in Dutta a love of English poetry, particularly [[Lord Byron|Byron]]. Dutta began writing English poetry aged around 17 years, sending his works to publications in England, including ''[[Blackwood's Magazine]]'' and ''[[Bentley's Miscellany]]''. They were however never accepted for publication,<ref name=":12"/> This was also the time when he began a correspondence with his friend, [[Gour Das Bysack]], which today forms the bulk of sources on his life.
+
+Madhusudan embraced Christianity<ref name=bpedia>{{cite book |last=Bhowmik |first=Dulal |year=2012 |chapter=Dutt, Michael Madhusudan |chapter-url=http://en.banglapedia.org/index.php?title=Dutt,_Michael_Madhusudan |editor1-last=Islam |editor1-first=Sirajul |editor1-link=Sirajul Islam |editor2-last=Jamal |editor2-first=Ahmed A. |title=Banglapedia: National Encyclopedia of Bangladesh |edition=Second |publisher=[[Asiatic Society of Bangladesh]]}}</ref> at the Old Mission Church in spite of the objections of his parents and relatives on 9 February 1843. He did not take the name Michael until his marriage in 1848.<ref name=":12"/>
+
+He describes the day as:
+<poem style="margin-left:2em">
+Long sunk in superstition's night,
+By Sin and Satan driven,
+I saw not, cared not for the light
+That leads the blind to Heaven.
+But now, at length thy grace, O Lord!
+Birds all around me shine;
+I drink thy sweet, thy precious word,
+I kneel before thy shrine!<ref>{{cite book |editor1-last=Mitra |editor1-first=Zinia |date=2012 |title=Indian Poetry in English: Critical Essays |url=https://books.google.com/books?id=5YmPaDMuHYYC&pg=PA32 |publisher=PHI Learning Pvt. Ltd |page=32 |isbn=978-8120345713}}</ref>
+</poem>
+
+He had to leave [[Hindu College, Calcutta|Hindu College]] on account of being a convert. In 1844, he resumed his education at [[Bishop’s College, Calcutta|Bishop's College]], where he stayed for three years.<ref name=":12">{{Cite book|url=https://books.google.com/books?isbn=0195167996|title=The Slaying of Meghanada: A Ramayana from Colonial Bengal|last1=Dutt|first1=Michael Madhusudhan|last2=Seely|first2=Clinton B.|publisher=[[Oxford University Press]]|year=2004|isbn=9780195167993|location=New York City|pages=16, 22–23|via=[[Google Books]]}}</ref>
+
+In 1847, he moved to [[Madras]] (Chennai) due to family tensions and economic hardship, having been disinherited by his father.<ref name=":2" /> While in Madras, he stayed in the [[George Town, Chennai|Black Town]] neighbourhood,<ref name=":12" /> and began working as an "usher" at the Madras Male Orphan Asylum. Four years later, in 1851, he became a Second Tutor in the Madras University High School.<ref name=":2" /> He edited and assisted in editing the periodicals ''Madras Circulator and General Chronicle, Athenaeum, [[Spectator (1828)|Spectator]]'' and ''Hindoo Chronicle.''<ref name=":12"/>
+
+==Literary life==
+
+=== Early works (1849-1855)<ref name=":12" /><ref name=":2" /> ===
+Dutta wrote exclusively in English in his early writing years. The Captive Ladie was published in 1849 and, like Derozio's The Fakeer of Jungheera, is a long narrative poem in which it is difficult to sustain one's interest. In ''The Anglo-Saxon and the Hindu'' (1854), an essay in florid, even purple, prose, are references to and quotations from almost the whole of Macaulay's shelf of European books. He was greatly influenced by the works of [[William Wordsworth]] and [[John Milton]]. Dutta was a spirited [[Bohemianism|bohemian]] and [[Romanticism|Romantic]].
+
+=== Calcutta Years (1858-1862)<ref name=":12" /><ref name=":2" /> ===
+The period during which he worked as a head clerk and later as the Chief Interpreter in the court, marked his transition to writing in his native Bengali, following the advice of [[John Elliot Drinkwater Bethune|Bethune]] and [[Gour Das Bysack|Bysack]]. He wrote 5 plays:  ''Sermista'' (1859)'', Padmavati'' (1859)'', Ekei Ki Boley Sabyata'' (1860), ''Krishna Kumari'' (1860) ''and Buro Shaliker Ghare Ron'' (1860). Then followed the narrative poems: ''Tilottama Sambhava Kavya'' (1861), ''Meghnad Badh Kavya'' (1861), ''Brajagana Kavya'' (1861) and ''Veerangana Kavya'' (1861). He also translated three plays from Bangla to English, including his own ''Sermista.''
+
+=== Final years (1866-1873)<ref name=":12" /><ref name=":2" /> ===
+A volume of his Bangla sonnets was published in 1866. His final play, ''Maya Kannan'', was written in 1872. ''The Slaying of Hector'', his prose version of the ''[[Iliad]]'' remains incomplete.
+
+=== Linguistic abilities ===
+Madhusudan was a gifted [[linguistics|linguist]]<ref>{{cite book |editor-last=Ray |editor-first=Mohit K. |date=2007 |title=The Atlantic Companion to Literature in English |url=https://books.google.com/books?id=A_YatfLrgnMC&pg=PA154 |publisher=Atlantic Publishers & Dist |pages=154– |isbn=978-81-269-0832-5}}</ref> and [[Polyglot (person)|polyglot]].<ref>{{cite book |last=Ghose |first=Subhas Chandra |date=1996 |title=Socio-Political Dynamics |url=https://books.google.com/books?id=GNYL20IU20sC&pg=PA178 |publisher=Northern Book Centre |page=178 |isbn=978-81-7211-070-3}}
+
+{{cite book|last1=Subhas Chandra Ghose|title=Socio-Political Dynamics|date=1 January 1996|publisher=Northern Book Centre|isbn=9788172110703|page=178|url=https://books.google.com/books?id=GNYL20IU20sC&q=Madhusudan+polyglot&pg=PA178}}</ref> He studied English, Bengali, [[Hebrew language|Hebrew]], [[Latin]], [[Greek language|Greek]], [[Tamil language|Tamil]], [[Telugu language|Telugu]], and [[Sanskrit]].<ref name=":12"/><ref name=":5" />
+
+===Work with the sonnet===
+Michael Madhusudan Dutt dedicated his first [[sonnet]] to his friend [[Rajnarayan Basu]], which he accompanied with a letter: "What say you to this, my good friend? In my humble opinion, if cultivated by men of genius, our sonnet in time would rival the Italian."<ref>{{cite book|author=Sri Aurobindo Ashram|title=Mother India|url=https://books.google.com/books?id=Zy0PAQAAIAAJ|access-date=9 October 2012|date=February 1961|page=56}}</ref> His most famous sonnet is ''Kapatakkha River''.
+<poem style="margin-left:2em">
+Always, o river, you peep in my mind.
+Always I think you in this loneliness.
+Always I soothe my ears with the murmur
+Of your waters in illusion, the way
+Men hear songs of illusion in a dream.
+Many a river I have seen on earth;
+But which can quench my thirst the way you do?
+You’re the flow of milk in my homeland’s breasts.
+Will I meet you ever? As long as you
+Go to kinglike ocean to pay the tax
+Of water, I beg to you, sing my name
+Into the ears of people of Bengal,
+Sing his name, o dear, who in this far land
+Sings your name in all his songs for Bengal.
+</poem>
+
+When Dutta later stayed in [[Versailles (city)|Versailles]], the sixth centenary of the Italian poet [[Dante Alighieri]] was being celebrated all over Europe. He composed a poem in honour of the poet, translated it into French and Italian, and sent it to the king of Italy. [[Victor Emmanuel II]], then monarch, liked the poem and wrote to Dutt, saying, "It will be a ring which will connect the Orient with the Occident."<ref name="Yajnik1933">{{cite book|author=Ramanial Kanaiyaial Yajnik|title=The Indian Theatre: Its Origins and Its Later Developments Under European Influence, with Special Reference to Western India|url=https://books.google.com/books?id=8r5ycUQEl-wC&pg=PA219|access-date=9 October 2012|year=1933|publisher=Ardent Media|pages=219–|id=GGKEY:WYN7QH8HYJB}}</ref>
+
+===Work in blank verse===
+''Sharmistha'' (spelt as ''Sermista'' in English) was Dutt's first attempt at [[blank verse]] in Bengali literature. [[Kaliprasanna Singha]] organised a felicitation ceremony to Madhusudan to mark the introduction of blank verse in Bengali poetry. His famous epic, quoted as the only epic of bengali-kind, '''Meghnadbad-Kabya''' is also totally written in blank verse.
+
+Praising Dutt's blank verse, Sir [[Ashutosh Mukherjee]], observed: "As long as the Bengali race and Bengali literature would exist, the sweet lyre of Madhusudan would never cease playing."<ref name=":0">{{Cite book|title = Mother India: Monthly Review of Culture|year = 1961|pages = 57|url = https://books.google.com/books?id=Zy0PAQAAIAAJ&q=Ordinarily,+reading+of+poetry+causes+a+soporific+effect,+but+the+intoxicating+vigour+of+Madhusudan+poems+makes+even+a+sick+man+sit+up+on+his+bed|volume = 13}}</ref> He added: "Ordinarily, reading of poetry causes a soporific effect, but the intoxicating vigour of Madhusudan's poems makes even a sick man sit up on his bed."<ref name=":0" />
+
+In his ''[[The Autobiography of an Unknown Indian]],'' [[Nirad C. Chaudhuri]] has remarked that during his childhood days in Kishoreganj, a common standard for testing guests' erudition in the Bengali language during family gatherings was to require them to recite the poetry of Dutt, without an accent.[[File:"Rue Des Chantiers" Street.jpg|thumb|The street where M Dutta used to live in Versailles, France]]
+
+== Barrister-at-Law ==
+[[Image:12 Rue Des Chantier, 78000 Versailles, France.jpg|right|thumb|12 Rue Des Chantiers, 78000 Versailles, France – the apartment building where M. Dutta dwelled (photo taken in July 2011)]]
+[[Image:Residence_of_Micheal_Madhusudhan_Dutt_in_Khidirpur.JPG|right|thumb|Dutta's residence in Khidirpur, [[Kolkata]], [[India]]]]
+Dutta went to [[England]] in 1862 to become a [[Barrister-at-Law]], and enrolled at the [[Gray's Inn]].<ref name=":12"/>
+
+On the eve of his departure to England:<poem style="margin-left:2em">
+Forget me not, O Mother,
+Should I fail to return
+To thy hallowed bosom.
+Make not the lotus of thy memory
+Void of its nectar honey.<ref>{{cite book|author=Sri Aurobindo Ashram|title=Mother India|url=https://books.google.com/books?id=Zy0PAQAAIAAJ|access-date=9 October 2012|date=February 1961|page=55}}</ref>
+(Translated from the original Bengali by the poet.)
+</poem>
+
+His family joined him in 1863, and thereafter they shifted to the much cheaper [[Versailles (city)|Versailles]], due to the miserable state of their finances. Funds were not arriving from India according to his plans. He was only able to relocate to England in 1865 and study for the bar due to the munificent generosity of [[Ishwar Chandra Vidyasagar]]. For this, Dutta was to regard Vidyasagar as ''Dayar Sagar'' (meaning ''the ocean of kindness'') for as long as he lived. He was admitted to the High Court in Calcutta on his return in February 1867.<ref name=":12"/><ref name=":2">{{Cite book|url=https://books.google.com/books?isbn=940074661X|title=Making India: Colonialism, National Culture, and the Afterlife of Indian English Authority|last=Paranjape|first=Makarand R.|publisher=[[Springer Publishing|Springer]]|year=2012|isbn=9789400746602|pages=76–78|via=[[Google Books]]}}</ref> His family followed him in 1869.<ref name=":4" />
+
+His stay in England had left him disillusioned with European culture. He wrote to his friend [[Gour Das Bysack|Bysack]] from France: {{quote|If there be any one among us anxious to leave a name behind him, and not pass away into oblivion like a brute, let him devote himself to his mother-tongue. That is his legitimate sphere his proper element.<ref name="Poddāra1970">{{cite book|author=Arabinda Poddāra|title=Renaissance in Bengal: quests and confrontations, 1800–1860|url=https://books.google.com/books?id=Msd4rdQoHE8C|access-date=23 July 2012|year=1970|publisher=Indian Institute of Advanced Study|page=216}}</ref>}}
+
+==Marriage and family==
+Dutta had refused to enter into an [[arranged marriage]] which his father had decided for him. He had no respect for that tradition and wanted to break free from the confines of [[caste]]-based [[endogamous]] marriage. His knowledge of the European tradition convinced him of his choice of marriages made by mutual consent (or [[love marriage]]s).
+
+He was the first Bengali to marry a European or Anglo-Indian woman.<ref name=":4">{{Cite journal|last=Moreno|first=H. W. B.|date=1923|title=Michael Madhu Sudhan Dutta & His Anglo-Indian Wives|url=http://www.new.dli.ernet.in/handle/2015/500677|journal=Journal of the Calcutta Historical Society|volume=26|issue=Bengal Past And Present|via=[[Digital Library of India]]}}{{Dead link|date=April 2020 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name=":12"/> While in [[Madras]] he married Indo-Scottish-Britton,<ref name=":4" /><ref name=":12"/> Rebecca Thompson McTavish,<ref name=":12"/> a 17-year-old resident<ref name=":4" /> of the Madras Female Orphan Asylum, on 31 July 1848.<ref name=":12"/> Dutta assumed the name Michael when the marriage was registered in the baptismal register. They had four children together. He wrote to [[Gour Das Bysack|Bysack]] in December 1855:{{quote|Yes, dearest Gour, I have a fine English Wife and four children.<ref name="MurshidMajumdar2003">{{cite book|author1=Ghulam Murshid|author2=Gopa Majumdar|title=Lured by hope: a biography of Michael Madhusudan Dutt|url=https://books.google.com/books?id=7KZjAAAAMAAJ|access-date=9 October 2012|date=30 October 2003|publisher=Oxford University Press|isbn=978-0-19-565362-5}}</ref>}}
+
+Dutta returned from Madras to Calcutta in February 1856, after his father's death (in 1855), abandoning his wife and four children in Madras. No records of his divorce from Rebecca or remarriage have been found.<ref name=":12"/> In 1858, he was joined there by a 22-year old of French extraction,<ref name=":4" /> Emelia Henrietta Sophie White, the daughter of his colleague at the Madras Male Orphan Asylum.<ref name=":2" /> They had two sons, Frederick Michael Milton (23 July 1861 – 11 June 1875)<ref name=":4" /><ref name=":5">{{Cite book|url=https://books.google.com/books?isbn=0821443585|title=Indian Angles: English Verse in Colonial India from Jones to Tagore|last=Gibson|first=Mary Ellis|publisher=Ohio University Press|year=2011|isbn=978-0821419410|pages=166|via=[[Google Books]]}}</ref><ref name=":3">{{Cite book|title=Makers Of Indian Literature: Michael Madhusudan Dutt|last=Bose|first=Amalendu|publisher=Sahitya Akademi|year=1979|location=New Delhi|pages=49}}</ref> and Albert Napoleon (1869 – 22 August 1909),<ref name=":4" /><ref name=":3" /> and a daughter, Henrietta Elizabeth Sermista<ref name=":4" /> (1859 – 15 February 1879).<ref name=":4" /><ref name=":2" /> A fourth child was stillborn.<ref name=":12"/> Their relationship lasted until the end of his life, Henrietta pre-deceasing him by three days, on 26 June 1873.<ref name=":2" />
+
+Rebecca died in Madras in July 1892. Only a daughter and a son survived her. The son, McTavish-Dutt, practised as a pleader in the Court of Small Causes in Madras.<ref name=":4" />
+
+The tennis player [[Leander Paes]] is a direct descendant of Dutt, who is his great-great-grandfather on his mother's side.<ref>{{Cite news |title=I'm waiting for the right opportunity to join politics: Leander Paes |url=http://timesofindia.indiatimes.com/sports/tennis/top-stories/Im-waiting-for-the-right-opportunity-to-join-politics-Leander-Paes/articleshow/34472601.cms |newspaper=Times of India |access-date=29 August 2016}}</ref>
+
+==Death==
+Dutta died in Calcutta General Hospital on 29 June 1873.<ref name=":2" /> Three days prior to his death, he recited a passage from Shakespeare's Macbeth to his dear friend [[Gour Das Bysack|Bysack]], to express his deepest conviction of life:
+<poem style="margin-left:2em">
+...out, out, brief candle!
+Life's but a walking shadow; a poor player,
+That struts and frets his hour upon the stage,
+And then is heard no more; it is a tale Told by an idiot,
+full of sound and fury, Signifying nothing.
+</poem>
+
+[[Image:Tomb of Michael Madhusudhan Dutta.jpg|right|thumb|250px|Tomb of Michael Madhusudan Dutta at the [[Lower Circular Road cemetery]] ]]
+<!--Samadhilipi quote box begins-->
+{{Quote box|quote=<big>দাঁড়াও পথিক-বর, জন্ম যদি তব<br />
+বঙ্গে! তিষ্ঠ ক্ষণকাল! এ সমাধিস্থলে<br />
+(জননীর কোলে শিশু লভয়ে যেমতি<br />
+বিরাম) মহীর পদে মহা নিদ্রাবৃত<br />
+দত্তোকুলোদ্ভব কবি শ্রীমধুসূদন!<br />
+যশোরে সাগরদাঁড়ি কবতক্ষ-তীরে<br />
+জন্মভূমি, জন্মদাতা দত্ত মহামতি<br />
+রাজনারায়ণ নামে, জননী জাহ্নবী</big>
+}}
+<!--Samadhilipi quote Box Ends-->
+<!--Samadhilipi audio begins-->
+{{Listen
+ | filename    = সমাধি (মাইকেল মধুসূদন দত্ত).oga
+ | title       = Recitation of Madhusudan Dutt's Samadhi in Bengali
+ | description = A 33-second sample recitation of poetry Samadhi
+ | format      = [[Ogg]]
+ | pos = right
+}}
+<!--Samadhilipi audio Ends-->
+
+==Legacy and honours==
+Dutta was largely ignored for 15 years after his death.<ref>[http://www.parabaas.com/translation/database/reviews/brLured1.html "A Review": Ghulam Murshid, ''Lured by Hope: A Biography of Michael Madhusudan Dutt''], translated from Bengali by Gopa Majumdar, Oxford University Press, New Delhi, 2003. {{ISBN|0-19-565362-9}}. Pp 238 + xvi, at Parabaas</ref> The belated tribute was a tomb erected at his gravesite.
+
+His epitaph, a verse of his own, reads:
+<poem style="margin-left:2em">
+Stop a while, traveller!
+Should Mother Bengal claim thee for her son.
+As a child takes repose on his mother's elysian lap,
+Even so here in the Long Home,
+On the bosom of the earth,
+Enjoys the sweet eternal sleep
+Poet Madhusudan of the Duttas.<ref name="A poet of epic proportions">{{cite news |title=A poet of epic proportions |url=http://www.thedailystar.net/news-detail-144528 |newspaper=The Daily Star |date=29 June 2010 |access-date=23 July 2012}}</ref>
+</poem>
+
+''Michael Madhusudhan'' is a 1950 Indian Bengali-language [[drama film]] by Modhu Bose which starred [[Utpal Dutt]] in the titular role.<ref>{{cite book|author1=Madhuja Mukherjee|author2=Kaustav Bakshi|title=Popular Cinema in Bengal: Genre, Stars, Public Cultures|url=https://books.google.com/books?id=3NXpDwAAQBAJ&pg=PP92|date=9 June 2020|publisher=Taylor & Francis|isbn=978-1-00-044892-4|page=92}}</ref>
+
+Author [[Namita Gokhale]] published a play about Madhusudhan in 2021, based largely on letters written by him to friends and other authors, called ''Betrayed by Hope''.<ref>{{Cite book |last=Ghosh |first=Paramita |url=https://www.hindustantimes.com/books/review-betrayed-by-hope-a-play-on-the-life-of-michael-madhusudan-dutt-by-namita-gokhale-malashri-lal-101613121946371.html |title=Review: Betrayed by Hope, a play on the life of Michael Madhusudan Dutta |work=Hindustan Times |date=12 February 2021}}</ref>
+
+==Major works==
+* ''King Porus''
+* ''The Captive Ladie'' (1849)
+* ''Ratul Potra''
+* ''Sermista'' (1859) (Bengali and English)
+* ''Padmavati'' (1859)
+* ''Ekei Ki Boley Sabyota'' (1860)
+* ''Krishna Kumari'' (1860)
+* ''Buro Shaliker Ghare Ron'' (1860)
+* ''Tilottama Sambhava Kavya'' (1861)
+* ''[[Meghnad Badh Kavya]]'' (1861)
+* ''Brajagana Kavya'' (1861)
+* ''Veerangana Kavya'' (1861)
+* ''[[Ratnavali]]'' (English translation)
+* ''Nil Darpan'' (English translation)
+* ''Choturdoshpodi Kobitaboli''
+* ''Rizia,'' ''the Sultana of Inde''
+* ''Rosalo Sornolatika''
+* ''Bongobani''
+* Sonnets and other poems (1866)
+*  Bongo bhumir prati
+
+==See also==
+{{portal bar|Biography|India|Literature|Poetry|}}
+* [[Indian poetry in English]]
+* [[Indian English literature]]
+* [[Indian literature]]
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book |last=Murshid |first=Ghulam |date=2003 |title=Lured by Hope: A Biography of Michael Madhusudan Dutta |publisher=Oxford University Press |isbn=978-0-19-565362-5}}&nbsp;– Gopa Majumdar's translation of ''Ashar Chalane Bhuli''
+* {{cite book |last=Roy |first=Pinarki |chapter=Extravagant Genius: Michael Madhusudan Dutta and his Oeuvre |date=2016 |editor-last=Mitra |editor-first=Zinia|title=Indian Poetry in English: Critical Essays |publisher=PHI Learning Pvt. Ltd. |pages=17–32 |isbn=978-81-203-5261-2}}
+* Modhusudoner Engreji Kabita by Sayeed Abubakar, Bhumika Prakashani, Bangla Bazar, Dhaka-1100, (2009)
+
+==External links==
+{{commons category|Michael Madhusudan Dutt}}
+{{wikiquote}}
+* {{Internet Archive author}}  
+* [http://www.hindu-school.com/ Hindu School, Kolkata – Web Site]
+* [http://granthsouthasia.in/sambhaba.html Tilottoma Sambhaba Kabya]
+
+{{Bengal Renaissance}}
+{{Authority control}}
+
+{{DEFAULTSORT:Dutt, Michael Madhusudan}}
+[[Category:Bengali male poets]]
+[[Category:Bengali-language poets]]
+[[Category:Bengali writers]]
+[[Category:Writers from Kolkata]]
+[[Category:Poets from West Bengal]]
+[[Category:Bengali-language writers]]
+[[Category:Presidency University, Kolkata alumni]]
+[[Category:Converts to Christianity]]
+[[Category:Converts to Christianity from Hinduism]]
+[[Category:Indian male poets]]
+[[Category:English-language poets from India]]
+[[Category:1824 births]]
+[[Category:1873 deaths]]
+[[Category:Sonneteers]]
+[[Category:People from Jessore District]]
+[[Category:19th-century Indian poets]]
+[[Category:19th-century Indian male writers]]
+[[Category:Indian Christian writers]]

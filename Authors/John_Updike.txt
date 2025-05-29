@@ -1,0 +1,553 @@
+{{short description|American novelist, poet, short story writer, art critic, and literary critic}}
+{{Use mdy dates|date=July 2018}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image        = John Updike, author at PEN Congress, cropped.jpg
+|caption      = Updike at the [[PEN America|PEN Congress]], colorized
+|birth_name   = John Hoyer Updike
+|birth_date   = {{birth date |1932|03|18}}
+|birth_place  = [[Reading, Pennsylvania]], United States
+|death_date   = {{death date and age |2009|01|27|1932|03|18}}
+|death_place  = [[Danvers, Massachusetts]], United States
+|occupation   = {{flatlist|
+* Novelist
+* short-story writer
+* poet
+* [[literary critic]]
+* artist
+}}
+|genre        = [[Literary realism]]
+|notableworks = [[Rabbit Angstrom]] novels<br />[[Henry Bech]] stories<br />''[[The Witches of Eastwick]]''
+|signature    = John Updike signature.svg
+| module = {{Listen | embed =yes |filename = John_updike_bbc_radio4_front_row_31_10_2008_b00f3b6t.flac |title = John Updike's voice |type = speech |description = from the BBC program ''[[Front Row (radio programme)|Front Row]]'', October 31, 2008.<ref>{{cite episode|title=John Updike | series=Front Row|series-link = Front Row (radio programme)| url = http://bbc.co.uk/programmes/b00f3b6t |station = [[BBC Radio 4]]|date=October 31, 2008 | access-date =January 18, 2014}}</ref>}}}}
+'''John Hoyer Updike''' (March 18, 1932 – January 27, 2009) was an American novelist, poet, short-story writer, [[art critic]], and [[literary critic]]. One of only four writers to win the [[Pulitzer Prize for Fiction]] more than once (the others being [[Booth Tarkington]], [[William Faulkner]], and [[Colson Whitehead]]), Updike published more than twenty novels, more than a dozen short-story collections, as well as poetry, art and literary criticism and children's books during his career.
+
+Hundreds of his stories, reviews, and poems appeared in ''[[The New Yorker]]'' starting in 1954. He also wrote regularly for ''[[The New York Review of Books]]''. His most famous work is his "Rabbit" series (the novels ''[[Rabbit, Run]]''; ''[[Rabbit Redux]]''; ''[[Rabbit Is Rich]]''; ''[[Rabbit at Rest]]''; and the novella ''[[Rabbit Remembered]]''), which chronicles the life of the middle-class everyman [[Rabbit Angstrom|Harry "Rabbit" Angstrom]] over the course of several decades, from young adulthood to death. Both ''Rabbit Is Rich'' (1982) and ''Rabbit at Rest'' (1990) were recognized with the [[Pulitzer Prize for Fiction|Pulitzer Prize]].
+
+Describing his subject as "the American small town, [[Protestant]] middle class", Updike was recognized for his careful craftsmanship, his unique prose style, and his prolific output{{spaced ndash}}he wrote on average a book a year. Updike populated his fiction with characters who "frequently experience personal turmoil and must respond to crises relating to religion, family obligations, and marital infidelity".<ref>{{Citation | publisher = MSN | title = Encarta | contribution-url = https://www.webcitation.org/5kwrvPJYC?url=http://encarta.msn.com/encyclopedia_761556613/john_updike.html | contribution = John Updike |year = 2008|access-date= October 31, 2009}}.</ref>
+
+His fiction is distinguished by its attention to the concerns, passions, and suffering of average Americans, its emphasis on [[Christian theology]], and its preoccupation with sexuality and sensual detail. His work has attracted significant critical attention and praise, and he is widely considered one of the great [[American literature|American writers]] of his time.<ref name="schiff">{{cite web|first=James |last=Schiff |type=review |title=John Updike's Rabbit Tetralogy: Mastered Irony in Motion |work=Christianity and Literature |date=Autumn 2001 |access-date=January 9, 2008 |url=http://findarticles.com/p/articles/mi_hb049/is_1_51/ai_n28886937 |url-status=dead |archive-url=https://web.archive.org/web/20090406072411/http://findarticles.com/p/articles/mi_hb049/is_1_51/ai_n28886937/ |archive-date= April 6, 2009 }}</ref> Updike's highly distinctive prose style features a rich, unusual, sometimes arcane vocabulary as conveyed through the eyes of "a wry, intelligent authorial voice that describes the physical world extravagantly while remaining squarely in the [[literary realism|realist]] tradition".<ref name="clc">{{Citation | journal = ENotes, Contemporary Literary Criticism | url = http://www.enotes.com/contemporary-literary-criticism/updike-john-vol-139 | title = John Updike Criticism | volume = 139 | year = 2001}}.</ref> He described his style as an attempt "to give the mundane its beautiful due".<ref name = "earlystories">{{Citation | first = John | last = Updike | author-link = John Updike | title = The Early Stories: 1953–1975 | year = 2004 | publisher = Ballantine Books}}.</ref>
+
+==Early life and education==
+[[File:JOHN UPDIKE CHILDHOOD HOME, SHILLINGTON, BERKS COUNTY.jpg|thumb|upright=1.2|Boyhood home in Shillington]]
+Updike was born in [[Reading, Pennsylvania]], the only child of Linda Grace (née Hoyer) and Wesley Russell Updike, and was raised in the nearby small town of [[Shillington, Pennsylvania|Shillington]].<ref>{{cite web|title= John Updike Biography and Interview |website=www.achievement.org|publisher=[[American Academy of Achievement]]|url=  https://achievement.org/achiever/john-updike/#interview}}</ref> The family later moved to the [[unincorporated area|unincorporated]] village of [[Plowville, Pennsylvania|Plowville]]. His mother's attempts to become a published writer impressed the young Updike. "One of my earliest memories", he later recalled, "is of seeing her at her desk ... I admired the writer's equipment, the typewriter eraser, the boxes of clean paper. And I remember the brown envelopes that stories would go off in—and come back in."<ref>{{cite news | url = https://query.nytimes.com/gst/fullpage.html?res=9C0CE6D91E39F937A25752C0A966958260&sec=&spon=&pagewanted=all | title =Nibbled at By Neighbors| work = The New York Times| date = January 14, 1990 | first1 =Andrea|last1 =Barrett | access-date =May 7, 2010}}</ref>
+
+These early years in [[Berks County, Pennsylvania]], would influence the environment of the Rabbit Angstrom [[tetralogy]], as well as many of his early novels and short stories.<ref name = "boswell" /> Updike graduated from [[Governor Mifflin Senior High School|Shillington High School]] as co-[[valedictorian]] and class president in 1950 and received a full scholarship to [[Harvard College]], where he was the roommate of [[Christopher Lasch]] during their first year.<ref>Lasch, Christopher. ''Plain Style : A Guide to Written English.'' University of Pennsylvania Press, 2002, p. 6.</ref> Updike had already received recognition for his writing as a teenager by winning a [[Alliance for Young Artists & Writers#The Scholastic Art & Writing Awards|Scholastic Art & Writing Award]],<ref>Scholastic Inc. Art & Writing Awards, Alumni, http://www.artandwriting.org/who-we-are/alumni/</ref> and at Harvard he soon became well known among his classmates as a talented and prolific contributor to ''[[The Harvard Lampoon]]'', of which he was president.<ref name ="boswell"/> He studied with dramatist [[Robert Chapman (playwright)|Robert Chapman]], the director of Harvard's Loeb Drama Center.<ref>{{cite news|title=Robert Chapman, 81, Playwright And Retired Harvard Professor|url=https://www.nytimes.com/2000/10/24/arts/robert-chapman-81-playwright-and-retired-harvard-professor.html?searchResultPosition=1|author=Eric Pace|newspaper=[[The New York Times]]|date=October 24, 2000}}</ref> He graduated ''[[summa cum laude]]'' in 1954 with a degree in English and was elected to [[Phi Beta Kappa]].<ref name ="boswell">Boswell, Marshall. [http://www.litencyc.com/php/speople.php?rec=true&UID=4502 "John Updike"], ''The Literary Encyclopedia'', March 18, 2004</ref>
+
+Upon graduation, Updike attended the [[Ruskin School of Drawing and Fine Art]] at the [[University of Oxford]] with the ambition of becoming a [[cartoonist]].<ref>{{Citation | first = Jeet | last = Heer | url = https://www.theguardian.com/books/2004/mar/20/fiction.johnupdike | title = John Updike's animated ambitions | newspaper = The Guardian | date = March 20, 2004}}.</ref> After returning to the United States, Updike and his family moved to New York, where he became a regular contributor to ''[[The New Yorker]]''. This was the beginning of his professional writing career.<ref name = "boswell" />
+
+==Career as a writer==
+
+===1950s===
+Updike stayed at ''The New Yorker'' as a full staff writer for only two years, writing "Talk of the Town" columns and submitting poetry and short stories to the magazine. In New York, Updike wrote the poems and stories that came to fill his early books like ''[[The Carpentered Hen]]'' (1958) and ''[[The Same Door]]'' (1959). These works were influenced by Updike's early engagement with ''The New Yorker''.<ref name="boswell" /> This early work also featured the influence of [[J. D. Salinger]] ("[[A&P (story)|A&P]]"); [[John Cheever]] ("Snowing in Greenwich Village"); and the [[Modernist literature|Modernists]] [[Marcel Proust]], [[Henry Green]], [[James Joyce]], and [[Vladimir Nabokov]].<ref name ="boswell" />
+
+During this time, Updike underwent a profound spiritual crisis. Suffering from a loss of religious faith, he began reading [[Søren Kierkegaard]] and the theologian [[Karl Barth]]. Both deeply influenced his own religious beliefs, which in turn figured prominently in his fiction.<ref name="boswell" /> Updike remained a believing Christian for the rest of his life.<ref>{{Citation | url = https://www.pbs.org/wnet/religionandethics/week812/exclusive.html | newspaper = Religion and Ethics News Weekly | title = John Updike | date = November 19, 2004 | publisher = PBS | number = 812}}.</ref>
+
+===1960s–1970s===
+Later, Updike and his family relocated to [[Ipswich, Massachusetts]]. Many commentators, including a columnist in the local ''Ipswich Chronicle'', asserted that the fictional town of Tarbox in ''[[Couples (novel)|Couples]]'' was based on Ipswich. Updike denied the suggestion in a letter to the paper.<ref>''The Ipswich Chronicle''. April 25, 1968. Letter: "Updike 'flatly denies' that Tarbox is Ipswich."</ref> Impressions of Updike's day-to-day life in Ipswich during the 1960s and 1970s are included in a letter to the same paper published soon after Updike's death and written by a friend and contemporary.<ref>{{cite news|url=http://www.wickedlocal.com/ipswich/news/opinions/letters/x545177024/LETTER-John-Updike-the-Ipswich-Connection |title=John Updike: The Ipswich Connection |work=The Ipswich Chronicle |date=February 9, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20121111132106/http://www.wickedlocal.com/ipswich/news/opinions/letters/x545177024/LETTER-John-Updike-the-Ipswich-Connection |archive-date=November 11, 2012 }}</ref> In Ipswich, Updike wrote ''[[Rabbit, Run]]'' (1960), on a [[Guggenheim Fellowship]], and ''[[The Centaur]]'' (1963), two of his most acclaimed and famous works; the latter won the [[National Book Award]].<ref name=nba1964/>
+
+''Rabbit, Run'' featured [[Rabbit Angstrom|Harry "Rabbit" Angstrom]], a former high school [[basketball]] star and middle-class paragon who would become Updike's most enduring and critically acclaimed character. Updike wrote three additional novels about him. ''Rabbit, Run'' was featured in ''[[Time (magazine)|Time]]''{{'}}s All-TIME 100 Greatest Novels.<ref>[https://entertainment.time.com/2005/10/16/all-time-100-novels/slide/all/ All-Time 100 Novels]</ref>
+
+===Short stories===
+Updike's career and reputation were nurtured and expanded by his long association with ''The New Yorker'', which published him frequently throughout his career, despite the fact that he had departed the magazine's employment after only two years. Updike's memoir indicates that he stayed in his "corner of New England to give its domestic news" with a focus on the American home from the point of view of a male writer.<ref>Gross, Terry (2004).  Being square.  ''All I did was ask:  Conversations with writers, actors, musicians, and artists ''(p. 24).  New York, NY:  Hyperion.</ref> Updike's contract with the magazine gave it [[Right of first refusal|right of first offer]] for his short-story manuscripts, but [[William Shawn]], ''The New Yorker''<nowiki/>'s editor from 1952 to 1987, rejected several as too explicit.<ref>{{Cite news|url=https://www.newyorker.com/magazine/2003/12/01/true-story|title=True Story|last=Menand|first=Louis|date=November 24, 2003|work=The New Yorker|access-date=January 24, 2018|issn=0028-792X}}</ref><ref>{{Cite magazine|url=https://www.newyorker.com/magazine/1992/12/21/william-shawn|title=William Shawn|magazine=The New Yorker}}</ref><ref>{{Cite magazine|url=https://www.newyorker.com/magazine/2009/02/09/john-updike|title=John Updike|magazine=The New Yorker}}</ref>
+
+The Maple short stories, collected in ''[[Too Far To Go]]'' (1979), reflected the ebb and flow of Updike's first marriage; "Separating" (1974) and "Here Come the Maples" (1976) related to his divorce. These stories also reflect the role of alcohol in 1970s America.<ref>Donahue, Peter. "Pouring Drinks and Getting Drunk: The Social and Personal Implications of Drinking in John Updike's Too Far to Go." ''Studies in Short Fiction'' 33.3 (1996): (p. 362). ''Ebscohost''. Web. March 22, 2017</ref> They were the basis for the television movie also called ''Too Far To Go'', broadcast by [[NBC]] in 1979.
+
+Updike's short stories were collected in several volumes published by Alfred A. Knopf over five decades. In 2013, the [[Library of America]] issued a two-volume boxed edition of 186 stories under the title ''The Collected Stories''.<ref>https://www.loa.org/books/391-the-collected-stories-boxed-set. Retrieved March 14, 2017</ref>
+
+===Novels===
+In 1971, Updike published a sequel to ''Rabbit, Run'' called ''[[Rabbit Redux]]'', his response to the 1960s; Rabbit reflected much of Updike's resentment and hostility towards the social and political changes that beset the United States during that time.<ref name="rose95">[http://www.charlierose.com/view/interview/6584 ''Charlie Rose''] {{webarchive|url=https://web.archive.org/web/20090805084901/http://www.charlierose.com/view/interview/6584 |date= August 5, 2009 }} interview, October 24, 1995</ref>
+
+Updike's early Olinger period was set in the Pennsylvania of his youth; it ended around 1965 with the lyrical ''[[Of the Farm]]''.
+
+After his early novels, Updike became most famous for his chronicling infidelity, adultery, and marital unrest, especially in suburban America; and for his controversial depiction of the confusion and freedom inherent in this breakdown of social mores.
+<ref>[http://www.newstatesman.com/politics/2009/01/updike-john-mortimer-rabbit "Farewell, King John of Suburbia"], ''New Statesman'', January 29, 2009</ref> He once wrote that it was "a subject which, if I have not exhausted, has exhausted me". The most prominent of Updike's novels of this vein is ''[[Couples (novel)|Couples]]'' (1968), a novel about adultery in a small fictional Massachusetts town called Tarbox. It garnered Updike an appearance on the cover of ''[[Time (magazine)|Time]]'' magazine with the headline "The Adulterous Society". Both the magazine article and, to an extent, the novel struck a chord of national concern over whether American society was abandoning all social standards of conduct in sexual matters.
+
+''[[The Coup (Updike novel)|The Coup]]'' (1978), a lauded<ref>[http://www.nybooks.com/articles/archives/1978/dec/21/updike-le-noir/ Updike le Noir | by John Thompson | The New York Review of Books]</ref> novel about an African dictatorship inspired by a visit he made to Africa, found Updike working in new territory.
+
+===1980s–2000s===
+[[File:John Updike with Bushes new.jpg|right|thumb|Updike in 1989]]
+In 1980, he published another novel featuring Harry Angstrom, ''[[Rabbit Is Rich]]'', which won the [[National Book Award]],<ref name=nba1982/> the [[National Book Critics Circle]] Award, and the [[Pulitzer Prize for Fiction]]—all three major American literary prizes. The novel found "[[Rabbit Angstrom|Rabbit]] the fat and happy owner of a [[Toyota]] dealership".<ref name="boswell" /> Updike found it difficult to end the book, because he was "having so much fun" in the imaginary county Rabbit and his family inhabited.<ref name="rose95" />
+
+After writing ''Rabbit Is Rich'', Updike published ''[[The Witches of Eastwick]]'' (1984), a playful novel about witches living in [[Rhode Island]]. He described it as an attempt to "make things right with my, what shall we call them, [[feminist literary criticism|feminist detractors]]".<ref>Michiko Kakutani, "[https://www.nytimes.com/2008/10/20/books/20kaku.html?_r=1&ref=books&oref=slogin Books of the Times: 'The Widows of Eastwick]'", ''The New York Times'', October 19, 2008</ref> One of Updike's most popular novels, it was adapted as a [[The Witches of Eastwick (film)|film]] and included on [[Harold Bloom]]'s list of canonical 20th-century literature (in ''The Western Canon'').<ref>Harold Bloom, ''The Western Canon: The Books and Schools of the Ages'' (1994), "The Chaotic Age: The United States," Riverhead Trade.</ref> In 2008 Updike published ''[[The Widows of Eastwick]]'', a return to the witches in their old age. It was his last published novel.
+
+In 1986, he published the unconventional novel ''[[Roger's Version]]'', the second volume of the so-called ''Scarlet Letter'' trilogy, about an attempt to prove [[existence of God|God's existence]] using a computer program. Author and critic [[Martin Amis]] called it a "near-masterpiece".<ref>Martin Amis, "[https://www.theguardian.com/books/2009/feb/01/john-updike-interview-amis-martin When Amis met Updike&nbsp;...]", ''The Guardian'', February 1, 2009</ref> The novel ''S.'' (1989), uncharacteristically featuring a female protagonist, concluded Updike's reworking of Hawthorne's ''Scarlet Letter''.<ref name="boswell" />
+
+Updike enjoyed working in series; in addition to the Rabbit novels and the Maples stories, a recurrent Updike alter ego is the moderately well-known, unprolific [[Jewish]] novelist and eventual [[Nobel Prize for Literature|Nobel laureate]] [[Henry Bech]], chronicled in three comic short-story cycles: ''[[Bech, a Book]]'' (1970), ''[[Bech Is Back]]'' (1981) and ''[[Bech at Bay]]: A Quasi-Novel'' (1998). These stories were compiled as ''The Complete Henry Bech'' (2001) by Everyman's Library. Bech is a comical and self-conscious antithesis of Updike's own literary persona: Jewish, a World War II veteran, reclusive, and unprolific to a fault.<ref>Jack De Bellis (ed.), ''The John Updike Encyclopedia'' (2000), "Bech, Henry", pp. 52–53.</ref>
+
+In 1990, he published the last Rabbit novel, ''[[Rabbit at Rest]]'', which won the [[Pulitzer Prize for Fiction|Pulitzer Prize]] and the National Book Critics Circle Award. Over 500 pages long, the novel is among Updike's most celebrated. In 2000, Updike included the novella ''[[Rabbit Remembered]]'' in his collection ''Licks of Love'', drawing the Rabbit saga to a close. His Pulitzers for the last two Rabbit novels make Updike one of only four writers to have won two Pulitzer Prizes for Fiction, the others being [[William Faulkner]], [[Booth Tarkington]], and [[Colson Whitehead]].
+
+In 1995, [[Everyman's Library]] collected and canonized the four novels as the omnibus ''Rabbit Angstrom''; Updike wrote an introduction in which he described Rabbit as "a ticket to the America all around me. What I saw through Rabbit's eyes was more worth telling than what I saw through my own, though the difference was often slight."<ref>John Updike, "Introduction", ''Rabbit Angstrom'' (1995), Everyman's Library.</ref> Updike later called Rabbit "a brother to me, and a good friend. He opened me up as a writer."<ref>{{YouTube|aZhBomrm-Og|''Charlie Rose'' interview}}, 1996</ref>
+
+After the publication of ''Rabbit at Rest'', Updike spent the rest of the 1990s and early 2000s publishing novels in a wide range of genres; the work of this period was frequently experimental in nature.<ref name="boswell" /> These styles included the historical fiction of ''[[Memories of the Ford Administration]]'' (1992), the [[magical realism]] of ''[[Brazil (novel)|Brazil]]'' (1994), the science fiction of ''[[Toward the End of Time]]'' (1997), the [[postmodernism]] of ''[[Gertrude and Claudius]]'' (2000), and the [[experimental fiction]] of ''Seek My Face'' (2002).
+
+In the midst of these, he wrote what was for him a more conventional novel, ''[[In the Beauty of the Lilies]]'' (1996), a historical saga spanning several generations and exploring themes of religion and cinema in America. It is considered the most successful novel of Updike's late career.<ref name="boswell" /> Some critics have predicted that posterity may consider the novel a "late masterpiece overlooked or praised by rote in its day, only to be rediscovered by another generation",<ref name="gopnik">Adam Gopnik, "[https://www.newyorker.com/talk/2009/02/09/090209ta_talk_gopnik Postscript: John Updike]", ''The New Yorker'', February 9, 2009</ref> while others thought it overlong and depressing.{{citation needed|date=September 2018}} In ''Villages'' (2004), Updike returned to the familiar territory of infidelities in [[New England]]. His 22nd novel, ''[[Terrorist (novel)|Terrorist]]'' (2006), the story of a fervent young [[Islamic terrorism|extremist Muslim]] in [[New Jersey]], garnered media attention but little critical praise.<ref name="boswell" />
+
+In 2003, Updike published ''[[The Early Stories: 1953–1975|The Early Stories]]'', a large collection of his short fiction spanning the mid-1950s to the mid-1970s. More than 800 pages long, with over one hundred stories, it has been called "a richly episodic and lyrical ''[[Bildungsroman]]'' ... in which Updike traces the trajectory from adolescence, college, [[marriage|married life]], fatherhood, separation and divorce".<ref name="boswell" /> It won the [[PEN/Faulkner Award for Fiction]] in 2004.<ref>[http://www.powells.com/prizes/penfaulkner_fiction.html Award Winners—The PEN/Faulkner Award for Fiction] {{webarchive|url=https://web.archive.org/web/20090412022459/http://powells.com/prizes/penfaulkner_fiction.html |date=April 12, 2009 }}. Powell's Books, Powells.com</ref> This lengthy volume nevertheless excluded several stories found in his short-story collections of the same period.
+
+Updike worked in a wide array of genres, including fiction, poetry (most of it compiled in ''Collected Poems: 1953–1993'', 1993), essays (collected in nine separate volumes), a play (''Buchanan Dying'', 1974), and a memoir (''Self-Consciousness'', 1989).
+
+Updike's array of awards includes two [[Pulitzer Prize for Fiction|Pulitzer Prizes for Fiction]], two [[National Book Award]]s, three [[National Book Critics Circle]] awards, the 1989 [[National Medal of Arts]], the 2003 [[National Humanities Medal]], and the [[Rea Award for the Short Story]] for outstanding achievement. The [[National Endowment for the Humanities]] selected Updike to present the 2008 [[Jefferson Lecture]], the U.S. government's highest [[humanities]] honor; Updike's lecture was titled "The Clarity of Things: What Is American about American Art".<ref name="howard">{{cite news|first=Jennifer|last=Howard|url=http://chronicle.com/news/article/4541/in-jefferson-lecture-updike-says-american-art-is-known-by-its-insecurity|title=In Jefferson Lecture, Updike Says American Art Is Known by Its Insecurity|work=Chronicle of Higher Education|date=May 23, 2008}}</ref><ref name="art">{{cite news|first=Jay |last=Tolson |url=https://www.usnews.com/articles/news/national/2008/05/23/john-updike-on-american-art.html |title=John Updike on American Art |work=U.S. News & World Report |date=May 23, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20090202092557/http://www.usnews.com/articles/news/national/2008/05/23/john-updike-on-american-art.html |archive-date=February 2, 2009 }}</ref>
+
+At the end of his life, Updike was working on a novel about [[Paul the Apostle|St. Paul]] and [[early Christianity]].<ref>[http://news.harvard.edu/gazette/story/2012/06/updikes-roots-and-evolution/ Updike's roots and evolution | Harvard Gazette]</ref> Upon his death, ''The New Yorker'' published an appreciation by Adam Gopnik of Updike's lifetime association with the magazine, calling him "one of the greatest of all modern writers, the first American writer since Henry James to get himself fully expressed, the man who broke the curse of incompleteness that had haunted American writing".
+
+==Personal life and death==
+Updike married Mary Entwistle Pennington, an art student at [[Radcliffe College]], in 1953, while he was still a student at Harvard. She accompanied him to [[Oxford, England|Oxford]], England, where she attended art school and where their first child, [[Elizabeth Updike Cobblah|Elizabeth]], was born in 1955. The couple had three more children together: writer David (born 1957), artist Michael (born 1959) and artist Miranda (born 1960). They divorced in 1974. Updike had seven grandsons.
+
+In 1977 Updike married Martha Ruggles Bernhard, with whom he lived for more than thirty years in [[Beverly Farms]], Massachusetts. He died of lung cancer at a hospice in [[Danvers, Massachusetts]], on January 27, 2009, at the age of 76.<ref name="SSDI">Ancestry.com. Social Security Death Index [database on-line]. Provo, UT, USA: Ancestry.com Operations Inc, 2010. Original data: Social Security Administration. Social Security Death Index. Social Security Administration.</ref><ref name="death">{{cite news|url=http://news.bbc.co.uk/1/hi/world/americas/7854554.stm|title=US novelist Updike dies of cancer|work=BBC News|date=January 27, 2009|access-date=January 28, 2009}}</ref>
+
+==Poetry==
+Updike published eight volumes of poetry over his career, including his first book ''[[The Carpentered Hen]]'' (1958), and one of his last, the posthumous ''Endpoint'' (2009). The ''New Yorker'' published excerpts of ''Endpoint'' in its March 16, 2009 issue. Much of Updike's poetical output was recollected in [[Alfred A. Knopf|Knopf's]] ''Collected Poems'' (1993). He wrote that "I began as a writer of [[light verse]], and have tried to carry over into my serious or lyric verse something of the strictness and liveliness of the lesser form."<ref name="poetryfoundation">[http://www.poetryfoundation.org/archive/poet.html?id=81868 John Updike: The Poetry Foundation, archive]</ref> The poet [[Thomas M. Disch]] noted that because Updike was such a well-known novelist, his poetry "could be mistaken as a hobby or a foible"; Disch saw Updike's light verse instead as a poetry of "epigrammatical lucidity".<ref>[http://www.poets.org/poet.php/prmPID/660 Poets.org: John Updike]</ref> His poetry has been praised for its engagement with "a variety of forms and topics", its "wit and precision", and for its depiction of topics familiar to American readers.<ref name="poetryfoundation" />
+
+British poet [[Gavin Ewart]] praised Updike for the metaphysical quality of his poetry and for his ability "to make the ordinary seem strange", and called him one of the few modern novelists capable of writing good poetry.<ref>Gavin Ewart, "[https://www.nytimes.com/books/97/04/06/lifetimes/updike-facingnature.html Making it strange]", ''The New York Times'', April 28, 1985</ref> Reading ''Endpoint'' aloud, the critic Charles McGrath claimed that he found "another, deeper music" in Updike's poetry, finding that Updike's wordplay "smooths and elides itself" and has many subtle "sound effects".<ref>Charles McGrath, "[http://artsbeat.blogs.nytimes.com/2009/04/03/reading-updikes-last-words-aloud/?ref=books Reading Updike's Last Words, Aloud]", ''The New York Times'', April 3, 2009</ref> John Keenan, who praised the collection ''Endpoint'' as "beautiful and poignant", noted that his poetry's engagement with "the everyday world in a technically accomplished manner seems to count against him".<ref>John Keenan, "[https://www.theguardian.com/books/booksblog/2009/mar/12/updike-poetry-endpoint The clarity of Updike's poetry should not obscure its class]", ''The Guardian'', March 12, 2009</ref>
+
+==Literary criticism and art criticism==
+Updike was also a critic of [[literary criticism|literature]] and [[art criticism|art]], one frequently cited as one of the best American critics of his generation.<ref>James Atlas, "[http://www.lrb.co.uk/v06/n02/atla01_.html Towards the Transhuman]", ''London Review of Books'', February 2, 1984</ref> In the introduction to ''Picked-Up Pieces,'' his 1975 collection of prose, he listed his personal rules for literary criticism:
+[[File:Updike 29.jpg|thumb|200px|right|Updike delivering the 2008 [[Jefferson Lecture]]]]
+
+<blockquote>
+1. Try to understand what the author wished to do, and do not blame him for not achieving what he did not attempt.
+
+2. Give enough direct quotation—at least one extended passage—of the book's prose so the review's reader can form his own impression, can get his own taste.
+
+3. Confirm your description of the book with quotation from the book, if only phrase-long, rather than proceeding by fuzzy précis.
+
+4. Go easy on plot summary, and do not give away the ending.
+
+5. If the book is judged deficient, cite a successful example along the same lines, from the author's œuvre or elsewhere. Try to understand the failure. Sure it's his and not yours?
+
+To these concrete five might be added a vaguer sixth, having to do with maintaining a chemical purity in the reaction between product and appraiser. Do not accept for review a book you are predisposed to dislike, or committed by friendship to like. Do not imagine yourself a caretaker of any tradition, an enforcer of any party standards, a warrior in any ideological battle, a corrections officer of any kind. Never, never&nbsp;... try to put the author "in his place," making of him a pawn in a contest with other reviewers. Review the book, not the reputation. Submit to whatever spell, weak or strong, is being cast. Better to praise and share than blame and ban. The communion between reviewer and his public is based upon the presumption of certain possible joys of reading, and all our discriminations should curve toward that end.<ref>"[https://www.newyorker.com/books/page-turner/remembering-updike-the-gospel-according-to-john/ Remembering Updike: The Gospel According to John]", ''The New Yorker'' online</ref></blockquote>
+
+He reviewed "nearly every major writer of the 20th century and some 19th-century authors", typically in ''The New Yorker'', always trying to make his reviews "animated".<ref name="rourke" /> He also championed young writers, comparing them to his own literary heroes including [[Vladimir Nabokov]] and [[Marcel Proust]].<ref>ZZ Packer, "[https://www.newyorker.com/online/blogs/books/remembering-upd/index.html Remembering Updike]", ''The New Yorker'' online</ref> Good reviews from Updike were often seen as a significant achievement in terms of literary reputation and even sales; some of his positive reviews helped jump-start the careers of such younger writers as [[Erica Jong]], [[Thomas Mallon]] and [[Jonathan Safran Foer]].<ref name="mighty pen">Charles McGrath, "[https://www.nytimes.com/2009/02/01/weekinreview/01mcgrath.html John Updike's Mighty Pen]", ''The New York Times'', January 31, 2009</ref>
+
+Bad reviews by Updike sometimes caused controversy,<ref>Alex Carnevale, "[http://gawker.com/5069587/toni-morrison-is-john-updikes-latest-lit-fit-victim Literary Feuds: Toni Morrison is John Updike's Latest Lit-Fit Victim]", October 2008, Gawker.com</ref> as when in late 2008 he gave a "damning" review of [[Toni Morrison]]'s novel ''[[A Mercy]]''.<ref>"[http://www.thefirstpost.co.uk/people,1565,updike-takes-a-swipe-at-toni-morrison,52615 Updike takes a swipe at Toni Morrison]", ''The First Post'', October 29, 2008</ref><ref>John Updike, "[https://www.newyorker.com/arts/critics/books/2008/11/03/081103crbo_books_updike Dreamy Wilderness]", ''The New Yorker'', November 3, 2008</ref>
+
+Updike was praised for his literary criticism's conventional simplicity and profundity, for being an [[aestheticism|aestheticist]] critic who saw literature on its own terms, and for his longtime commitment to the practice of literary criticism.<ref name="mason">Wyatt Mason, "[http://www.harpers.org/archive/2007/12/0081837 Among the reviewers: John Updike and the book-review bugaboo]", ''Harper's'', December 2007</ref>
+
+Much of Updike's art criticism appeared in ''[[The New York Review of Books]]'', where he often wrote about [[Visual art of the United States|American art]].<ref>[http://www.nybooks.com/authors/158 "John Updike"]. ''New York Review of Books''. ''The New York Review of Books''. Retrieved January 30, 2010.</ref> His art criticism involved an aestheticism like that of his literary criticism.<ref name="mason" />
+
+Updike's 2008 [[Jefferson Lecture]], "The Clarity of Things: What's American About American Art?", dealt with the uniqueness of American art from the 18th century to the 20th.<ref name="neh">John Updike, "[http://www.neh.gov/whoweare/Updike/Lecture.html The Clarity of Things]", National Endowment for the Humanities</ref> In the lecture he argued that American art, until the [[expressionism|expressionist movement]] of the 20th century in which America declared its artistic "independence", is characterized by an insecurity not found in the artistic tradition of [[European art|Europe]].
+
+In Updike's own words:<ref name="howard"/>
+
+<blockquote>Two centuries after [[Jonathan Edwards (theologian)|Jonathan Edwards]] sought a link with the divine in the beautiful clarity of things, [[William Carlos Williams]] wrote in introducing his long poem ''[[Paterson (poem)|Paterson]]'' that "for the poet there are no ideas but in things." ''No ideas but in things.'' The American artist, first born into a continent without museums and art schools, took Nature as his only instructor, and things as his principal study. A bias toward the empirical, toward the evidential object in the numinous fullness of its being, leads to a certain lininess, as the artist intently maps the visible in a New World that feels surrounded by chaos and emptiness.<ref name="neh" /></blockquote>
+
+==Critical reputation and style==
+{{quote box
+| quote  = He is certainly one of the great American novelists of the 20th century.
+| source = —[[Martin Amis]]<ref>Martin Amis, "[https://www.theguardian.com/books/2009/jan/28/johnupdike-usa He took the novel onto another plane of intimacy]", ''The Guardian'', 28 January 2009</ref>
+| width  = 200
+| align  = right
+}}
+
+Updike is considered one of the greatest American fiction writers of his generation.<ref>"[https://www.nytimes.com/2006/05/21/books/fiction-25-years.html What Is the Best Work of American Fiction of the Last 25 Years?]" ''The New York Times'', May 21, 2006, "a couple of hundred prominent writers, critics, editors and other literary sages" listed the Rabbit series as one of the few greatest works of modern American fiction.</ref> He was widely praised as America's "last true man of letters", with an immense and far-reaching influence on many writers.<ref name="mighty pen" /> The excellence of his prose style is acknowledged even by critics skeptical of other aspects of Updike's work.<ref name="clc"/><ref name="karshan">Thomas Karshan, "[http://www.lrb.co.uk/v27/n07/kars01_.html Batsy]", ''London Review of Books'', March 31, 2005</ref>
+
+Several scholars have called attention to the importance of place, and especially of southeast [[Pennsylvania]], in Updike's life and work. Bob Batchelor has described "Updike's Pennsylvania sensibility" as one with profound reaches that transcend time and place, such that in his writing, he used "Pennsylvania as a character" that went beyond geographic or political boundaries.<ref>{{cite book |last=Batchelor |first=Bob |date= April 23, 2013|title=John Updike: A Critical Biography |url=https://books.google.com/books?id=aavWAQAAQBAJ |location=Oxford |publisher=Praeger |page=44 |isbn= 9780313384042}}</ref> SA Zylstra has compared Updike's Pennsylvania to Faulkner's Mississippi: "As with the Mississippi of Faulkner's novels, the world of Updike's novels is fictional (as are such towns as Olinger and Brewer), while at the same time it is recognizable as a particular American region."<ref>{{cite journal |last1=Zylstra |first1=SA |date=1973 |title=John Updike and the Parabolic Nature of the World |journal=Soundings |volume=53 |issue=3 |pages= 323–337|jstor=41177889 }}</ref> Sanford Pinsker observes that "Updike always felt a bit out of place" in places like "Ipswich, Massachusetts, where he lived for most of his life. In his heart—and, more important, in his imagination—Updike remained a staunchly Pennsylvania boy."<ref>{{cite journal |last1=Pinkser |first1=Sanford |date=2009 |title=John Updike, Harry (Rabbit) Angstrom, and I |url=https://muse.jhu.edu/article/269601/ |journal=Sewanee Review|volume=117 |issue=3 |pages=492–494 |doi= 10.1353/sew.0.0156|s2cid=161771807 }}</ref> Similarly, Sylvie Mathé maintains that "Updike's most memorable legacy appears to be his homage to Pennsylvania."<ref>{{cite journal |last1=Mathé |first1=Sylvie |date=2010 |title=In Memoriam John Updike (1932-2009): That 'Pennsylvania thing' |url=https://journals.openedition.org/transatlantica/5074 |journal=Transatlantica |issue=2 |doi= 10.4000/transatlantica.5074|doi-access=free }}</ref>
+
+Critics emphasize his "inimitable prose style" and "rich description and language", often favorably compared to [[Marcel Proust|Proust]] and [[Vladimir Nabokov|Nabokov]].<ref name="clc" /> Some critics consider the fluency of his prose to be a fault, questioning the intellectual depth and thematic seriousness of his work given the polish of his language and the perceived lightness of his themes, while others criticized Updike for [[misogynistic]] depictions of women and sexual relationships.<ref name="clc" />
+
+Other critics argue that Updike's "dense vocabulary and [[syntax]] functions as a distancing technique to mediate the intellectual and emotional involvement of the reader".<ref name="clc" /> On the whole, however, Updike is extremely well regarded as a writer who mastered many genres, wrote with intellectual vigor and a powerful prose style, with "shrewd insight into the sorrows, frustrations, and banality of American life".<ref name="clc" />
+
+Updike's character [[Rabbit Angstrom]], the protagonist of the series of novels widely considered his ''magnum opus'', has been said to have "entered the pantheon of signal American literary figures", along with [[Huckleberry Finn (character)|Huckleberry Finn]], [[Jay Gatsby]], [[Holden Caulfield]] and others.<ref name="lehmann">Christopher Lehmann-Haupt, "[https://www.nytimes.com/2009/01/28/books/28updike.html?pagewanted=2&ref=books John Updike, a Lyrical Writer of the Middle Class, Dies at 76]", ''The New York Times'', January 28, 2009</ref> A 2002 list by ''Book'' magazine of the 100 Best Fictional Characters Since 1900 listed Rabbit in the top five.<ref>''Book'' magazine, March/April 2002, "[https://www.npr.org/programs/totn/features/2002/mar/020319.characters.html 100 Best Fictional Characters since 1900]", via [[NPR]]</ref> The Rabbit novels, the [[Henry Bech]] stories, and the Maples stories have been [[Western canon|canonized]] by [[Everyman's Library]].<ref>[http://www.randomhouse.com/knopf/classics/authors.html "Everyman's Library: Authors"], Random House</ref>
+
+After Updike's death, [[Harvard University|Harvard]]'s [[Houghton Library]] acquired his papers, manuscripts, and letters, naming the collection the John Updike Archive.<ref>Tracy Jan, "[https://www.boston.com/news/education/higher/articles/2009/10/07/harvard_buys_updike_archive/ Harvard buys Updike archive]", ''Boston Globe'', October 7, 2009</ref> 2009 also saw the founding of the John Updike Society,<ref>[http://blogs.iwu.edu/johnupdikesociety/ "The John Updike Society Homepage"]. The John Updike Society. Retrieved December 9, 2009.</ref> a group of scholars dedicated to "awakening and sustaining reader interest in the literature and life of John Updike, promoting literature written by Updike, and fostering and encouraging critical responses to Updike's literary works". The Society will begin publishing ''The John Updike Review'', a journal of critical scholarship in the field of Updike studies. The John Updike Society First Biennial Conference took place in 2010 at [[Alvernia University]].<ref>[http://www.alvernia.edu/johnupdike/johnupdike.html "The John Updike Society First Biennial Conference."] {{Webarchive|url=https://web.archive.org/web/20100528001638/http://www.alvernia.edu/johnupdike/johnupdike.html |date=May 28, 2010 }} Alvernia University. Retrieved December 9, 2009.</ref>
+
+Eulogizing Updike in January 2009, the British novelist [[Ian McEwan]] wrote that Updike's "literary schemes and pretty conceits touched at points on the [[William Shakespeare|Shakespearean]]", and that Updike's death marked "the end of the golden age of the American novel in the 20th century's second half".
+
+McEwan said the Rabbit series is Updike's "masterpiece and will surely be his monument", and concluded:
+
+{{quote|Updike is a master of effortless motion—between third and first person, from the metaphorical density of literary prose to the demotic, from specific detail to wide generalisation, from the actual to the numinous, from the scary to the comic. For his own particular purposes, Updike devised for himself a style of narration, an intense, present tense, free indirect style, that can leap up, whenever it wants, to a God's-eye view of Harry, or the view of his put-upon wife, Janice, or victimised son, Nelson. This carefully crafted artifice permits here assumptions about evolutionary theory, which are more Updike than Harry, and comically sweeping notions of Jewry, which are more Harry than Updike.
+
+This is at the heart of the tetralogy's achievement. Updike once said of the Rabbit books that they were an exercise in point of view. This was typically self-deprecating, but contains an important grain of truth. Harry's education extends no further than high school, and his view is further limited by a range of prejudices and a stubborn, combative spirit, yet he is the vehicle for a half-million-word meditation on postwar American anxiety, failure and prosperity. A mode had to be devised to make this possible, and that involved pushing beyond the bounds of [[realism (arts)|realism]]. In a novel like this, Updike insisted, you have to be generous and allow your characters eloquence, "and not chop them down to what you think is the right size."<ref>Ian McEwan, "[http://www.nybooks.com/articles/22391 On John Updike]", ''New York Review of Books'' Vol 56 No 4, 12 March 2009</ref>}}
+
+[[Jonathan Raban]], highlighting many of the virtues that have been ascribed to Updike's prose, called ''[[Rabbit at Rest]]'' "one of the very few modern novels in English&nbsp;... that one can set beside the work of [[Charles Dickens|Dickens]], [[William Makepeace Thackeray|Thackeray]], [[George Eliot]], [[James Joyce|Joyce]], and not feel the draft&nbsp;... It is a book that works by a steady accumulation of a mass of brilliant details, of shades and nuances, of the byplay between one sentence and the next, and no short review can properly honor its intricacy and richness."<ref>Jonathan Raban, ''The Oxford Book of the Sea'' (1993), Oxford University Press, pp. 509–517.</ref>
+
+The novelist [[Philip Roth]], considered one of Updike's chief literary rivals,<ref>"[http://www.neh.gov/whoweare/updike/appreciation.html John Updike: 2008 Jefferson Lecture] {{webarchive|url=https://web.archive.org/web/20090201051145/http://neh.gov/whoweare/Updike/Appreciation.html |date= 1 February 2009 }}", [[National Endowment for the Humanities]]</ref> wrote, "John Updike is our time's greatest man of letters, as brilliant a literary critic and essayist as he was a novelist and short story writer. He is and always will be no less a national treasure than his 19th-century precursor, [[Nathaniel Hawthorne]]."<ref name="lehmann" />
+
+The noted critic [[James Wood (critic)|James Wood]] called Updike "a prose writer of great beauty, but that prose confronts one with the question of whether beauty is enough, and whether beauty always conveys all that a novelist must convey".<ref>James Wood, ''The Broken Estate: Essays on Literature and Belief'' (2000), "John Updike's Complacent God", Modern Library, pp. 192.</ref> In a review of ''Licks of Love'' (2001), Wood concluded that Updike's "prose trusses things in very pretty ribbons" but that there often exists in his work a "hard, coarse, primitive, misogynistic worldview". Wood both praised and criticized Updike's language for having "an essayistic saunter; the language lifts itself up on pretty hydraulics, and hovers slightly above its subjects, generally a little too accomplished and a little too abstract". According to Wood, Updike is capable of writing "the perfect sentence" and his style is characterized by a "delicate deferral" of the sentence. Of the beauty of Updike's language and his faith in the power of language that floats above reality, Wood wrote:
+
+<blockquote>For some time now Updike's language has seemed to encode an almost theological optimism about its capacity to refer. Updike is notably unmodern in his impermeability to silence and the interruptions of the abyss. For all his fabled [[Protestantism]], both American [[Puritan]] and [[Lutheran]]-[[Karl Barth|Barthian]], with its cold glitter, its insistence on the aching gap between God and His creatures, Updike seems less like Hawthorne than [[Balzac]], in his unstopping and limitless energy, and his cheerfully professional belief that stories can be continued; the very form of the Rabbit books—[[Rabbit Remembered|here extended a further instance]]—suggests continuance. Updike does not appear to believe that words ever fail us—'life's gallant, battered ongoingness ', indeed—and part of the difficulty he has run into, late in his career, is that he shows no willingness, verbally, to acknowledge silence, failure, interruption, loss of faith, despair and so on. Supremely, better than almost any other contemporary writer, he can always describe these feelings and states; but they are not inscribed in the language itself. Updike's language, for all that it gestures towards the usual range of human disappointment and collapse, testifies instead to its own uncanny success: to a belief that the world can always be brought out of its cloudiness and made clear in a fair season.<ref name="wood">James Wood, "[http://www.lrb.co.uk/v23/n08/wood02_.html Gossip in Gilt]", ''London Review of Books'', 19 April 2001</ref></blockquote>
+
+In direct contrast to Wood's evaluation, the [[Oxford University|Oxford]] critic Thomas Karshan asserted that Updike is "intensely intellectual", with a style that constitutes his "manner of thought" not merely "a set of dainty curlicues". Karshan calls Updike an inheritor of the "traditional role of the epic writer". According to Karshan, "Updike's writing picks up one voice, joins its cadence, and moves on to another, like Rabbit himself, driving south through radio zones on his flight away from his wife and child."
+
+Disagreeing with Wood's critique of Updike's alleged over-stylization, Karshan evaluates Updike's language as convincingly naturalistic:
+
+<blockquote>Updike's sentences at their frequent best are not a complacent expression of faith. Rather, like [[Proust]]'s sentences in Updike's description, they "seek an essence so fine the search itself is an act of faith." Updike aspires to "this sense of self-qualification, the kind of timid reverence towards what exists that [[Cézanne]] shows when he grapples for the shape and shade of a fruit through a mist of delicate stabs." Their hesitancy and self-qualification arise as they meet obstacles, readjust and pass on. If life is bountiful in [[New England]], it is also evasive and easily missed. In the stories Updike tells, marriages and homes are made only to be broken. His descriptiveness embodies a promiscuous love for everything in the world. But love is precarious, Updike is always saying, since it thrives on obstructions and makes them if it cannot find them.<ref name="karshan" /></blockquote>
+
+[[Harold Bloom]] once called Updike "a minor novelist with a major style. A quite beautiful and very considerable stylist&nbsp;... He specializes in the easier pleasures."<ref>Richard Eder, "The Paris Interviews", ''The New York Times'', December 25, 2007.</ref> Bloom also edited an important collection of [[literary criticism|critical]] essays on Updike in 1987, in which he concluded that Updike possessed a major style and was capable of writing beautiful sentences which are "beyond praise"; nevertheless, Bloom went on, "the American sublime will never touch his pages".<ref>Harold Bloom, ed., ''Modern Critical Views of John Updike'', "Introduction," Chelsea House, New York, 1987.</ref>
+
+On ''[[The Dick Cavett Show]]'' in 1981, the novelist and short-story writer [[John Cheever]] was asked why he did not write book reviews and what he would say if given the chance to review ''[[Rabbit Is Rich]]''. He replied:
+
+<blockquote>The reason I didn't review the book is that it perhaps would have taken me three weeks. My appreciation of it is that diverse and that complicated&nbsp;... John is perhaps the only contemporary writer who I know now who gives me the sense of the fact that life is—the life that we perform is in an environment that enjoys a grandeur that escapes us. [[Rabbit Angstrom|Rabbit]] is very much possessed of a [[paradise lost]], of a paradise known fleetingly perhaps through [[eroticism|erotic]] love and a paradise that he pursues through his children. It's the vastness of John's scope that I would have described if I could through a review.<ref>Dick Cavett, "[http://cavett.blogs.nytimes.com/2009/02/13/writers-bloc-when-updike-and-cheever-came-to-visit/?apage=5 Writers Bloc: When Updike and Cheever Came to Visit]", ''The New York Times'', February 13, 2009. Video October 14, 1981</ref></blockquote>
+
+''[[The Fiction Circus]]'', an online and [[multimedia]] [[literary magazine]], called Updike one of the "four [[Great American Novel]]ists" of his time along with Philip Roth, [[Cormac McCarthy]], and [[Don DeLillo]], each jokingly represented as a sign of the [[Zodiac]]. Furthermore, Updike was seen as the "best prose writer in the world", like [[Vladimir Nabokov|Nabokov]] before him. But in contrast to many literati and establishment obituaries, the ''Circus'' asserted that nobody "thought of Updike as a ''vital'' writer".<ref>S. Future, "[http://fictioncircus.com/news.php?id=280&mode=one Updike]", The Fiction Circus, January 27, 2009,</ref>
+
+[[Adam Gopnik]] of ''The New Yorker'' evaluated Updike as "the first American writer since [[Henry James]] to get himself fully expressed, the man who broke the curse of incompleteness that had haunted American writing&nbsp;... He sang like Henry James, but he saw like [[Sinclair Lewis]]. The two sides of American fiction—the precise, realist, encyclopedic appetite to get it all in, and the exquisite urge to make writing out of sensation rendered exactly—were both alive in him."<ref name="gopnik"/>
+
+The critic [[James Wolcott]], in a review of Updike's last novel, ''[[The Widows of Eastwick]]'' (2008), noted that Updike's penchant for observing America's decline is coupled with an affirmation of America's ultimate merits: "Updike elegises entropy American-style with a resigned, paternal, disappointed affection that distinguishes his fiction from that of grimmer declinists: [[Don DeLillo]], Gore Vidal, Philip Roth. America may have lost its looks and stature, but it was a beauty once, and worth every golden dab of sperm."<ref>James Wolcott, "[http://www.lrb.co.uk/v31/n01/wolc01_.html Caretaker/Pallbearer]", ''London Review of Books'', January 1, 2009</ref>
+
+[[Gore Vidal]], in a controversial essay in the ''[[Times Literary Supplement]]'', professed to have "never taken Updike seriously as a writer". He criticizes his political and aesthetic worldview for its "blandness and acceptance of authority in any form". He concludes that Updike "describes to no purpose". In reference to Updike's wide establishment acclaim, Vidal mockingly called him "our good child" and excoriated his alleged political conservatism. Vidal ultimately concluded, "Updike's work is more and more representative of that polarizing within a state where Authority grows ever more brutal and malign while its hired hands in the media grow ever more excited as the holy war of the few against the many heats up."<ref>Gore Vidal, "[http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/the_tls/article5610640.ece Rabbit's own burrow]", ''Times Literary Supplement'', April 26, 1996</ref>
+
+[[Robert B. Silvers]], editor of ''[[The New York Review of Books]]'', called Updike "one of the most elegant and coolly observant writers of his generation".<ref>Brand, Madeleine. [https://www.npr.org/templates/story/story.php?storyId=99921377 Robert B. Silvers interview for NPR Remembrances: "John Updike: The Shy Man And Great Writer"]. NPR, Day to Day, January 27, 2009</ref>
+
+The short-story writer [[Lorrie Moore]], who once described Updike as "American literature's greatest short story writer&nbsp;... and arguably our greatest writer",<ref name="rourke">Mary Rourke, "[https://www.latimes.com/news/obituaries/la-me-john-updike28-2009jan28,0,3942596.story John Updike dies at 76; Pulitzer-winning author]", ''Los Angeles Times'', January 28, 2009</ref> reviewed Updike's body of short stories in ''The New York Review'', praising their intricate detail and rich imagery: "his eye and his prose never falter, even when the world fails to send its more socially complicated revelations directly his story's way".<ref>Lorrie Moore, "[http://www.nybooks.com/articles/16794 Home Truths]", ''New York Review of Books'', November 20, 2003</ref>
+
+In a post commemorating his birthday in 2011, blogger and literary critic Christy Potter called Updike "...&nbsp;THE Writer, the kind of writer everyone has heard of, the one whose name you can bring up at a party and people who have never read one thing he wrote will still nod their heads knowingly and say, 'Oh yes, John Updike. The writer.'"<ref>Potter, Christy. ''Unraveling the Mysterious Appeal of John Updike''. http://www.ChristytheWriter.com/?p=2611, 2011</ref>
+
+In November 2008, the editors of the UK's ''[[Literary Review]]'' magazine awarded Updike their Bad Sex in Fiction [[Lifetime Achievement Award]], which celebrates "crude, tasteless or ridiculous sexual passages in modern literature".<ref name="art"/>
+
+==Themes==
+{{quote box
+| quote  = All in all this is the happiest fucking country the world has ever seen.
+| source = —[[Rabbit Angstrom]].<ref>John Updike, ''Rabbit at Rest'' (1990), Knopf, pp. 308</ref>
+| width  = 200
+| align  = right
+}}
+
+<!-- Deleted image removed: [[File:Updikenyrb.gif|thumb|200px|right|A caricature of John Updike from ''[[The New York Review of Books]]'' by [[David Levine]], who drew Updike several times.]] -->
+
+The principal themes in Updike's work are religion, sex, and America<ref>''The Economist'', "[http://www.economist.com/books/displaystory.cfm?story_id=13014056 An American subversive]", January 29, 2009</ref> as well as death.<ref name="bellis">Jack De Bellis (ed.), "Mortality and Immortality", ''The John Updike Encyclopedia'' (2000), pp. 286. See here for many subsequent quotes and citations on death.</ref> Often he would combine them, frequently in his favored terrain of "the American small town, Protestant middle class", of which he once said, "I like middles. It is in middles that extremes clash, where ambiguity restlessly rules."<ref name="lehmann" />
+
+For example, the decline of religion in America is chronicled in ''[[In the Beauty of the Lilies]]'' (1996) alongside the history of cinema, and Rabbit Angstrom contemplates the merits of sex with the wife of his friend Reverend Jack Eccles while the latter is giving his sermon in ''[[Rabbit, Run]]'' (1960).
+
+Critics have often noted that Updike imbued language itself with a kind of faith in its efficacy, and that his tendency to construct narratives spanning many years and books—the Rabbit series, the [[Henry Bech]] series, Eastwick, the Maples stories—demonstrates a similar faith in the transcendent power of fiction and language.<ref name="wood" /> Updike's novels often act as [[dialectic]]al [[theology|theological]] debates between the book itself and the reader, the novel endowed with theological beliefs meant to challenge the reader as the plot runs its course.<ref name="schiff" /> Rabbit Angstrom himself acts as a [[Søren Kierkegaard|Kierkegaardian]] [[Knight of Faith]].<ref name="boswell"/>
+
+Describing his purpose in writing prose, Updike himself, in the introduction to his ''Early Stories: 1953–1975'' (2004), wrote that his aim was always "to give the mundane its beautiful due".<ref name="earlystories"/> Elsewhere he famously said, "When I write, I aim my mind not towards New York City but towards a vague spot east of [[Kansas]]."<ref>Robert McCrun, "[https://www.theguardian.com/books/2009/feb/01/john-updike-literary-generation John Updike was of a generation that changed the literary landscape irrevocably]," ''The Guardian'', February 1, 2009</ref> Some have suggested<ref name="karshan" /> that the "best statement of Updike's aesthetic comes in his early memoir 'The Dogwood Tree'" (1962): "Blankness is not emptiness; we may skate upon an intense radiance we do not see because we see nothing else. And in fact there is a color, a quiet but tireless goodness that things at rest, like a brick wall or a small stone, seem to affirm."<ref>John Updike, "The Dogwood Tree", ''Assorted Prose'' (1965), Knopf.</ref>
+
+===Sex===
+Sex in Updike's work is noted for its ubiquity and the reverence with which he described it:
+
+{{quote|text=His contemporaries invade the ground with wild [[Dionysian]] yelps, mocking both the taboos that would make it forbidden and the lust that drives men to it. Updike can be honest about it, and his descriptions of the sight, taste and texture of women's bodies can be perfect little madrigals.<ref>''Time'', "[https://web.archive.org/web/20081123022310/http://www.time.com/time/magazine/article/0,9171,838313-6,00.html View from the Catacombs]", 26 April 1968, pp. 6</ref>}}
+
+The critic Edward Champion notes that Updike's prose heavily favors "external sexual imagery" rife with "explicit anatomical detail" rather than descriptions of "internal emotion" in descriptions of sex.<ref name="batsegundo">The Bat Segundo Show, [http://www.edrants.com/segundo/the-bat-segundo-show-50/ Show #50, John Updike]</ref> In Champion's interview with Updike on ''[[The Bat Segundo Show]]'', Updike replied that he perhaps favored such imagery to concretize and make sex "real" in his prose.<ref name="batsegundo" /> Another sexual theme commonly addressed in Updike is [[adultery]], especially in a suburban, middle class setting, most famously in ''[[Couples (novel)|Couples]]'' (1968). The Updikean narrator is often "a man guilty of infidelity and abandonment of his family".<ref>[[Antonya Nelson]], "[https://www.newyorker.com/online/blogs/books/remembering-upd/2.html Remembering Updike]", ''The New Yorker'' online</ref>
+
+===United States===
+Similarly, Updike wrote about America with a certain nostalgia, reverence, and recognition and celebration of America's broad diversity. [[ZZ Packer]] wrote that in Updike, "there seemed a strange ability to harken both America the Beautiful as well as America the Plain Jane, and the lovely [[Protestant]] backbone in his fiction and essays, when he decided to show it off, was as progressive and enlightened as it was unapologetic."<ref>ZZ Packer, "[https://www.newyorker.com/online/blogs/books/remembering-upd Remembering Updike]", ''The New Yorker'' online</ref>
+
+The Rabbit novels in particular can be viewed, according to [[Julian Barnes]], as "a distraction from, and a glittering confirmation of, the vast bustling ordinariness of American life".<ref>Julian Barnes, "[https://www.newyorker.com/online/blogs/books/remembering-upd/2.html Remembering Updike]", ''The New Yorker'' online</ref> But as Updike celebrated ordinary America, he also alluded to its decline: at times, he was "so clearly disturbed by the downward spin of America".<ref>Jack De Bellis (ed.), "More Matter", ''The John Updike Encyclopedia'' (2000), pp. 281.</ref> Adam Gopnik concludes that "Updike's great subject was the American attempt to fill the gap left by faith with the materials produced by mass culture. He documented how the death of a credible religious belief has been offset by sex and adultery and movies and sports and [[Toyota]]s and family love and family obligation. For Updike, this effort was blessed, and very nearly successful."<ref name="gopnik" />
+
+Updike's novels about America almost always contain references to political events of the time. In this sense, they are artifacts of their historical eras, showing how national leaders shape and define their times. The lives of ordinary citizens take place against this wider background.
+
+===Death===
+Updike often wrote about death, his characters providing a "mosaic of reactions" to mortality, ranging from terror to attempts at insulation.<ref name ="bellis" /> In ''[[The Poorhouse Fair]]'' (1959), the elderly John Hook intones, "There is no goodness without belief ... And if you have not believed, at the end of your life you shall know you have buried your talent in the ground of this world and have nothing saved, to take into the next", demonstrating a religious, metaphysical faith present in much of Updike's work.
+
+For [[Rabbit Angstrom]], with his constant musings on mortality, his near-witnessing of his daughter's death, and his often shaky faith, death is more frightening and less obvious in its ramifications. At the end of ''Rabbit at Rest'' (1990), though, Rabbit demonstrates a kind of certainty, telling his son Nelson on his deathbed, "... But enough. Maybe. Enough." In ''[[The Centaur]]'' (1963), George Caldwell has no religious faith and is afraid of his cancer.<ref name = "bellis" /> Death can also be a sort of unseen terror; it "occurs offstage but reverberates for survivors as an absent presence".<ref name="bellis" />
+
+Updike himself also experienced a "crisis over the afterlife", and indeed
+
+<blockquote>many of his heroes shared the same sort of existential fears the author acknowledged he had suffered as a young man: [[Henry Bech]]'s concern that he was 'a fleck of dust condemned to know it is a fleck of dust,' or Colonel Ellelloû's lament that 'we will be forgotten, all of us forgotten.' Their fear of death threatens to make everything they do feel meaningless, and it also sends them running after God—looking for some reassurance that there is something beyond the familiar, everyday world with 'its signals and buildings and cars and bricks.'<ref>{{Citation | first = Michiko | last = Kakutani | url = https://www.nytimes.com/2009/01/28/books/28appr.html | title = An Appraisal: A Relentless Updike Mapped America 's Mysteries | newspaper = The New York Times | date = January 27, 2009}}.</ref></blockquote>
+
+Updike demonstrated his own fear in some of his more personal writings, including the poem "Perfection Wasted" (1990):
+
+{{poemquote|
+And another regrettable thing about death
+is the ceasing of your own brand of magic ...<ref>{{Citation | first = John | last = Updike | author-link = John Updike | contribution = Perfection Wasted | title = Collected Poems: 1953–1993 | year = 1995 | publisher = Knopf}}.</ref>}}
+
+== In popular culture ==
+* Updike was featured on the cover of ''[[Time (magazine)|Time]]'' twice, on April 26, 1968 and again on October 18, 1982.<ref>[http://www.achievement.org/autodoc/photocredit/achievers/upd0-006 26 April 1968 ''Time'' cover] {{webarchive|url=https://web.archive.org/web/20090228131320/http://www.achievement.org/autodoc/photocredit/achievers/upd0-006 |date=February 28, 2009 }}, [http://www.achievement.org/autodoc/photocredit/achievers/upd0-007 18 October 1982 ''Time'' cover] {{webarchive|url=https://web.archive.org/web/20080906112431/http://www.achievement.org/autodoc/photocredit/achievers/upd0-007 |date=September 6, 2008 }}</ref>
+* Updike was the subject of a "closed book examination" by [[Nicholson Baker]], titled ''U and I'' (1991). Baker discusses his wish to meet Updike and become his golf partner.<ref>Nicholson Baker, ''[https://books.google.com/books?id=pELBAAAACAAJ&dq=%22u+and+i%22 U and I: A True Story]'', Random House, 1991, Google Books</ref>
+* In 2000, Updike appeared as himself in ''[[The Simpsons]]'' episode "[[Insane Clown Poppy]]" at the Festival of Books.
+* The main character portrayed by [[Eminem]] in the film ''[[8 Mile (film)|8 Mile]]'' (2002) is nicknamed "Rabbit" and has some similarities to [[Rabbit Angstrom]].<ref>''ECHO'' Journal IV/2, Kajikawa, "Review: ''8 Mile'', "[http://www.echo.ucla.edu/volume4-issue2/reviews/kajikawa.html#top Rap, Rabbit, Rap],"</ref> The [[8 Mile (soundtrack)|film's soundtrack]] has a song titled "[[Rabbit, Run|Rabbit Run]]".
+* Portraits of Updike drawn by the American caricaturist [[David Levine]] appeared several times in ''The New York Review of Books''.<ref>[http://www.nybooks.com/gallery/ "David Levine Gallery"]. ''New York Review of Books''. ''The New York Review of Books''. Retrieved January 30, 2010.</ref>
+
+==Bibliography==
+{{main|John Updike bibliography}}
+{{col-begin}}
+{{col-break}}
+
+===Rabbit novels===
+* ''[[Rabbit, Run]]'' (1960)
+* ''[[Rabbit Redux]]'' (1971)
+*  ''[[Rabbit Is Rich]]'' (1981)
+*  ''[[Rabbit at Rest]]'' (1990)
+* ''[[Rabbit Angstrom]]: The Four Novels'' (1995)
+* ''[[Rabbit Remembered]]'' (a novella in the collection ''Licks of Love'') (2001)
+
+===Bech books===
+{{further|Henry Bech}}
+* ''Bech, a Book'' (1970)
+* ''Bech Is Back'' (1982)
+* ''Bech at Bay'' (1998)
+* ''The Complete Henry Bech'' (2001)
+
+===Buchanan books===
+* ''Buchanan Dying'' (a play) (1974)
+* ''[[Memories of the Ford Administration]]'' (a novel) (1992)
+
+===Eastwick books===
+* ''[[The Witches of Eastwick]]'' (1984)
+* ''[[The Widows of Eastwick]]'' (2008)
+
+===''The Scarlet Letter'' trilogy===
+* ''A Month of Sundays'' (1975)
+* ''[[Roger's Version]]'' (1986)
+* ''S.'' (1988)
+
+===Other novels===
+* ''[[The Poorhouse Fair]]'' (1959)
+* ''[[The Centaur]]'' (1963)
+* ''[[Of the Farm]]'' (1965)
+* ''[[Couples (novel)|Couples]]'' (1968)
+*  ''[[Marry Me (novel)|Marry Me]]'' (1977)
+* ''[[The Coup (Updike novel)|The Coup]]'' (1978)
+* ''[[Brazil (novel)|Brazil]]'' (1994)
+* ''[[In the Beauty of the Lilies]]'' (1996)
+*  ''[[Toward the End of Time]]'' (1997)
+* ''[[Gertrude and Claudius]]'' (2000)
+* ''Seek My Face'' (2002)
+* ''Villages'' (2004)
+*  ''[[Terrorist (novel)|Terrorist]]'' (2006)
+
+===Books edited by Updike===
+* ''[[The Best American Short Stories]]'' (1984)
+* ''The Binghamton Poems'' (2009)
+
+{{col-break}}
+
+===Short story collections===
+* ''[[The Same Door]]'' (1959)
+* ''[[Pigeon Feathers]]'' (1962)
+* ''[[Olinger Stories]]'' (a selection) (1964)
+* ''The Music School'' (1966)
+* ''Museums And Women'' (1972)
+* ''Problems and Other Stories'' (1979)
+* ''[[Too Far to Go]]'' (the Maples stories) (1979)
+* ''Your Lover Just Called'' (1980)
+*  ''[[Trust Me (book)|Trust Me]]'' (1987)
+* ''The Afterlife'' (1994)
+* ''The Best American Short Stories of the Century'' (editor) (2000)
+* ''Licks of Love'' (2001)
+* ''[[The Early Stories: 1953–1975]]'' (2003)
+* ''Three Trips'' (2003)
+* ''[[My Father's Tears and Other Stories]]'' (2009)
+* ''The Maples Stories'' (2009)
+* ''The Collected Stories, Volume 1: Collected Early Stories'' (2013)
+* ''The Collected Stories, Volume 2: Collected Later Stories'' (2013)
+
+===Poetry===
+*  ''[[The Carpentered Hen]]'' (1958)
+* ''[[Telephone Poles]]'' (1963)
+* ''Midpoint'' (1969)
+* ''Dance of the Solids'' (1969)
+* ''Cunts: Upon Receiving The Swingers Life Club Membership Solicitation'' (limited edition) (1974)
+* ''Tossing and Turning'' (1977)
+* ''Facing Nature'' (1985)
+* ''Collected Poems 1953–1993'' (1993)
+* ''Americana and Other Poems'' (2001)
+* ''Endpoint and Other Poems'' (2009)
+
+===Non-fiction, essays and criticism===
+* ''Assorted Prose'' (1965)
+* ''Picked-Up Pieces'' (1975)
+* ''Hugging The Shore'' (1983)
+* ''Self-Consciousness: Memoirs'' (1989)
+*  ''Just Looking: Essays on Art'' (1989)
+*  ''Odd Jobs'' (1991)
+* ''Golf Dreams: Writings on Golf'' (1996)
+* ''More Matter'' (1999)
+* ''Still Looking: Essays on American Art'' (2005)
+* ''In Love with a Wanton: Essays on Golf'' (2005)
+* ''Due Considerations: Essays and Criticism'' (2007)
+* ''Hub Fans Bid Kid Adieu: John Updike on [[Ted Williams]]'' ([[Library of America]]) (2010)
+* ''Higher Gossip'' (2011)
+* ''Always Looking: Essays on Art'' (2012)
+{{col-end}}
+See also [[#External links]] for links to archives of his essays and reviews in ''[[The New Yorker]]'' and ''[[The New York Review of Books]]''.
+
+==Awards==
+<ref>All awards listed at [http://userpages.prexar.com/joyerkes/Item8.html The Centaurian] {{webarchive|url=https://web.archive.org/web/20090214055417/http://userpages.prexar.com/joyerkes/Item8.html |date=February 14, 2009 }} Updike homepage, "Awards, Prizes, and Honors", March 17, 2009</ref>
+* 1959 [[Guggenheim Fellow]]
+* 1959 [[National Institute of Arts and Letters]] Rosenthal Award
+* 1964 [[National Book Award for Fiction]]<ref name=nba1964>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1964 "National Book Awards – 1964"]. National Book Foundation. Retrieved March 11, 2012. (With acceptance speech by Updike and essay by Harold Augenbraum from the Awards 60-year anniversary blog.)</ref>
+* 1965 [[Prix du Meilleur Livre Étranger]]
+* 1966 [[O. Henry Prize]]
+* 1981 [[National Book Critics]] Circle Award for Fiction
+* 1981 Edward MacDowell Medal
+* 1982 [[Pulitzer Prize for Fiction]]
+* 1982 [[National Book Award for Fiction]] (hardcover)<ref name=nba1982>
+[https://www.nationalbook.org/awards-prizes/national-book-awards-1982 "National Book Awards – 1982"]. National Book Foundation. Retrieved March 11, 2012. (With essays by Amity Gaige and Nancy Werlin from the Awards 60-year anniversary blog.)</ref><ref group=lower-alpha>
+This was the award for hardcover Fiction. <br />From 1980 to 1983 in [[National Book Award#History|National Book Award history]] there were dual awards for hardcover and paperback books in many categories. Most of the paperback award-winners were reprints, including the 1982 Fiction.</ref>
+* 1982 [[Union League Club]] Abraham Lincoln Award
+* 1983 [[National Book Critics Circle]] Award for Criticism
+* 1984 [[National Arts Club]] Medal of Honor
+* 1987 [[St. Louis Literary Award]] from the [[Saint Louis University]] Library Associates<ref>{{Cite web |url=http://www.slu.edu/libraries/associates/award.html |title=Website of St. Louis Literary Award |access-date=July 25, 2016 |archive-date=August 23, 2016 |archive-url=https://web.archive.org/web/20160823003924/http://www.slu.edu/libraries/associates/award.html |url-status=dead }}</ref><ref>{{cite web |url=http://lib.slu.edu/about/associates/literary-award |title=Recipients of the Saint Louis Literary Award |author=Saint Louis University Library Associates |access-date=July 25, 2016 |archive-url=https://web.archive.org/web/20160731082313/http://lib.slu.edu/about/associates/literary-award |archive-date=July 31, 2016 |url-status=dead |df=mdy-all }}</ref>
+* 1987 [[Ambassador Book Award]]
+* 1987 [[Helmerich Award|Peggy V. Helmerich Distinguished Author Award]]
+* 1988 [[PEN/Malamud Award]]
+* 1989 [[National Medal of Arts]]
+* 1990 [[National Book Critics Circle]] Award for Fiction
+* 1991 [[Pulitzer Prize for Fiction]]
+* 1991 [[O. Henry Prize]]
+* 1992 [[Honorary degree|Honorary]] [[Doctor of Letters]] from [[Harvard University]]
+* 1995 [[William Dean Howells Medal]]
+* 1995 Commandeur de [[l'Ordre des Arts et des Lettres]]
+* 1997 [[Ambassador Book Award]]
+* 1998 [[Arts First|Harvard Arts Medal]]<ref>{{cite web |title=History of the Harvard Arts Medal |url=https://ofa.fas.harvard.edu/harvard-arts-medal |publisher=Harvard University Office for the Arts |access-date=23 February 2019}}</ref>
+* 1998 [[National Book Award#Medal for Distinguished Contribution to American Letters|Medal for Distinguished Contribution to American Letters]] from the National Book Foundation<ref name=medal>
+[http://www.nationalbook.org/amerletters.html "Distinguished Contribution to American Letters"]. National Book Foundation. Retrieved March 11, 2012. (With acceptance speech by Updike and introduction by Paul LeClerc.)</ref>
+* 2002 Fitzgerald Award for Achievement in American Literature  
+* 2003 [[National Humanities Medal]]
+* 2004 [[PEN/Faulkner Award for Fiction]]
+*  2004 Golden Plate Award of the [[Academy of Achievement|American Academy of Achievement]]<ref>{{cite web|title= Golden Plate Awardees of the American Academy of Achievement |website=www.achievement.org|publisher=[[American Academy of Achievement]]|url= https://achievement.org/our-history/golden-plate-awards/}}</ref><ref>{{cite news|date=2004 |title=2004 Summit Highlights Photo | url= https://achievement.org/summit/2004/|quote= Pulitzer Prize-winning novelist, essayist, and poet John Updike addresses Academy delegates and members.}}</ref>
+* 2005 [[Man Booker International Prize]] nominee
+* 2006 [[Rea Award for the Short Story]]
+* 2007 [[American Academy of Arts and Letters]] [[American Academy of Arts and Letters Gold Medals|Gold Medal for Fiction]]
+* 2008  ''[[Literary Review]]'' Bad Sex in Fiction Lifetime Achievement Award
+* 2008 [[Jefferson Lecture]]
+
+==Notes==
+{{Reflist|group=lower-alpha}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading and literary criticism==
+{{Refbegin|30em}}
+* Bailey, Peter J., ''Rabbit (Un)Redeemed: The Drama of Belief in John Updike's Fiction'', Farleigh Dickinson University Press, Madison, New Jersey, 2006.
+* Baker, Nicholson, ''U & I: A True Story'', Random House, New York, 1991.
+* Batchelor, Bob, ''John Updike: A Critical Biography'', Praeger, California, 2013. {{ISBN|978-0-31338403-5}}.
+* Begley, Adam, ''Updike'', Harper-Collins Publishers, New York, NY, 2014.
+* Ben Hassat, Hedda, ''Prophets Without Vision: Subjectivity and the Sacred in Contemporary American Writing'', Bucknell University Press, Lewisburg, Pennsylvania, 2000.
+* Bloom, Harold, ed., ''Modern Critical Views of John Updike'', Chelsea House, New York, 1987.
+* Boswell, Marshall, ''John Updike's Rabbit Tetralogy: Mastered Irony in Motion'', University of Missouri Press, Columbia, Missouri, 2001.
+* Broer, Lawrence, ''Rabbit Tales: Poetry and Politics in John Updike's Rabbit Novels'', University of Alabama Press, Tuscaloosa, Alabama, 2000.
+* Burchard, Rachel C., ''John Updike: Yea Sayings'', Southern Illinois University Press, Carbondale, Illinois, 1971.
+* Campbell, Jeff H., ''Updike's Novels: Thorns Spell A Word'', Midwestern State University Press, Wichita Falls, Texas, 1988.
+* Clarke Taylor, C., ''John Updike: A Bibliography'', Kent State University, Kent, Ohio, 1968.
+* De Bellis, Jack, ''John Updike: A Bibliography, 1968–1993'', Greenwood Publishing Group, Westport, Connecticut, 1994.
+* De Bellis, Jack, ''John Updike: The Critical Responses to the Rabbit Saga'', Greenwood Publishing Group, Westport, Connecticut, 2005.
+* De Bellis, Jack, ed., ''The John Updike Encyclopedia'', Greenwood Press, Santa Barbara, California, 2001.
+* Detwiler, Robert, ''John Updike'', Twayne, Boston, 1984.
+* [[Bill Findlay (writer)|Findlay, Bill]], ''Interview with John Updike'' in Hearn, Sheila G. (ed.), ''[[Cencrastus]]'' No. 15, New Year 1984, pp. 30 - 36, {{issn|0264-0856}}
+* Greiner, Donald, " Don DeLillo, John Updike, and the Sustaining Power of Myth", ''UnderWords: Perspectives on Don DeLillo's Underworld'', University of Delaware Press, Newark, Delaware, 2002.
+* Greiner, Donald, ''John Updike's Novels'', Ohio University Press, Athens, Ohio, 1984.
+* Greiner, Donald, ''The Other John Updike: Poems, Short Stories, Prose, Play'', Ohio University Press, Athens, Ohio, 1981.
+* Gullette, Margaret Morganroth, "John Updike: Rabbit Angstrom Grows Up", ''Safe at Last in the Middle Years : The Invention of the Midlife Progress Novel'', Backinprint.com, New York, 2001.
+* Hamilton, Alice and Kenneth, ''The Elements of John Updike'', [[William B. Eerdmans Publishing Co.]], Grand Rapids, Michigan, 1970.
+* Hunt, George W., ''John Updike and the Three Great Secret Things: Sex, Religion, and Art'', William B. Eerdmans Pub. Co., Grand Rapids, Michigan, 1985.
+* Karshan, Thomas, " Batsy", ''London Review of Books'', March 31, 2005.
+* Luscher, Robert M., ''John Updike: A Study of the Short Fiction'', Twayne, New York, 1993.
+* Mazzeno, Laurence W. and Sue Norton, eds.,''European Perspectives on John Updike'', Camden House, 2018.
+* McNaughton, William R., ed., ''Critical Essays on John Updike'', GK Hall, Boston, 1982.
+* Markle, Joyce B., ''Fighters and Lovers: Themes in the Novels of John Updike'', New York University Press, 1973.
+* Mathé, Sylvie, ''John Updike : La nostalgie de l'Amérique'', Berlin, 2002.
+* Miller, D. Quentin, ''John Updike and the Cold War: Drawing the Iron Curtain'', University of Missouri Press, Columbia, Missouri, 2001.
+* Morley, Catherine, "The Bard of Everyday Domesticity: John Updike's Song for America", ''The Quest for Epic in Contemporary American Literature'', Routledge, New York, 2008.
+* Newman, Judie, ''John Updike'', Macmillan, London, 1988.
+* O'Connell, Mary, ''Updike and the Patriarchal Dilemma: Masculinity in the Rabbit Novels'', Southern Illinois University Press, Carbondale, Illinois, 1996.
+* Olster, Stanley, ''The Cambridge Companion to John Updike'', Cambridge University Press, Cambridge, 2006.
+* Plath, James, ed., ''Conversations with John Updike'', University Press of Mississippi Press, Jackson, Mississippi, 1994.
+* Porter, M. Gilbert, " John Updike's 'A&P': The Establishment and an Emersonian Cashier", ''English Journal'' 61 (8), pp.&nbsp;1155–1158, November 1972.
+* Pritchard, William, ''Updike: America's Man of Letters'', [[University of Massachusetts Press]], Amherst, Massachusetts, 2005.
+* Ristoff, Dilvo I., ''John Updike's'' Rabbit at Rest: ''Appropriating History'', Peter Lang, New York, 1998.'
+* Roiphe, Anne, ''For Rabbit, with Love and Squalor'', Free Press, Washington, D.C., 2000.
+* Searles, George J., ''The Fiction of Philip Roth and John Updike'', Southern Illinois University Press, Carbondale, Illinois, 1984.
+* Schiff, James A., ''Updike's Version: Rewriting'' The Scarlet Letter, University of Missouri Press, Columbia, Missouri, 1992.
+* Schiff, James A., ''United States Author Series: John Updike Revisited'', Twayne Publishers, Woodbridge, Connecticut, 1998.
+* Tallent, Elizabeth, ''Married Men and Magic Tricks: John Updike's Erotic Heroes'', Creative Arts Book Company, Berkeley, California, 1982.
+* Tanner, Tony, "A Compromised Environment", ''City of Words: American Fiction, 1950–1970'', Jonathan Cape, London, 1971.
+* Thorburn, David and Eiland, Howard, eds., ''John Updike: A Collection of Critical Essays'', Prentice Hall, Englewood Cliffs, New Jersey, 1979.
+* Trachtenberg, Stanley, ed., ''New Essays on'' Rabbit, Run, Cambridge University Press, Cambridge, 1993.
+* Uphaus, Suzanne H., ''John Updike'', Ungar, New York, 1980.
+* Vidal, Gore, "Rabbit's own burrow", ''Times Literary Supplement'', April 26, 1996.
+* Wallace, David Foster, "John Updike, Champion Literary Phallocrat, Drops One", ''New York Observer'', October 12, 1997.
+* Wood, James, "Gossip in Gilt", ''London Review of Books'', April 19, 2001.
+* Wood, James, "John Updike's Complacent God", ''The Broken Estate: Essays on Literature and Belief'', Modern Library, New York, 2000.
+* Yerkes, James, ''John Updike and Religion: The Sense of the Sacred and the Motions of Grace'', William B. Eerdmans Publishing Co, Grand Rapids, Missouri, 1999.
+{{Refend}}
+
+==External links==
+{{Portal|Biography}}
+{{wikiquote}}
+{{commons category}}
+* [http://blogs.iwu.edu/johnupdikesociety/ The John Updike Society]
+* [https://web.archive.org/web/20150405103652/http://oasis.lib.harvard.edu/oasis/deliver/deepLink?_collection=oasis&uniqueId=hou01365 John Updike collection], [[Houghton Library]], [[Harvard University]]
+*[https://web.archive.org/web/20150616191845/http://johnupdikearchive.com/ The Other John Updike Archive], a collection taken from Updike's rubbish and discussed in [https://www.theguardian.com/books/booksblog/2014/sep/02/john-updike-rubbish-trashy-paul-moran this article] from ''[[The Guardian]]'', September 2014, and [https://www.theatlantic.com/features/archive/2014/08/the-man-who-made-off-with-john-updikes-trash/379213/ this article] from ''[[The Atlantic]]''
+* [https://archives.library.sc.edu/repositories/5/resources/729 Jack De Bellis collection of John Updike] at the University of South Carolina
+* [http://www.nybooks.com/authors/158 Column archive] at ''[[The New York Review of Books]]''
+* [https://www.newyorker.com/magazine/bios/john_updike/search?contributorName=john%20updike Column archive] at ''[[The New Yorker]]''
+* {{C-SPAN|johnupdike}}
+** [http://www.c-spanvideo.org/program/Updik ''In Depth'' interview with Updike, 4 December 2005]
+* {{Charlie Rose view|436}}
+* {{IMDb name|881433}}
+* {{Worldcat id|lccn-n79-18616}}
+* {{OL author}}
+* {{NYTtopic|people/u/john_updike}}
+* {{Guardian topic}}
+* [http://www.lrb.co.uk/search?author=Updike,+John Reviews] at the ''[[London Review of Books]]''
+* [https://digital.lib.ecu.edu/special/ead/findingaids/1169-023 Stuart Wright Collection: John Updike Papers, 1946–2010 (#1169-023), East Carolina Manuscript Collection, J. Y. Joyner Library, East Carolina University]
+* [[hdl:1903.1/1516|Authors and Poets collection]] at [[University of Maryland, College Park|University of Maryland]]
+;Articles and interviews
+* [http://www.theparisreview.org/interviews/4219/the-art-of-fiction-no-43-john-updike John Updike, The Art of Fiction No. 43], Charles Thomas Samuels, ''[[Paris Review]]'', Winter 1968
+* [https://www.newyorker.com/reporting/2009/02/09/090209fa_fact_updike "Picked-Up Pieces: A half century of John Updike"]. ''[[The New Yorker]]'', 2009
+* [http://wc.rootsweb.ancestry.com/cgi-bin/igm.cgi?op=PED&db=updike&id=I13922 The ancestry of John Hoyer Updike], Rootsweb
+* {{Books and Writers |id=updike |name=John Updike}}
+* [https://www.nytimes.com/books/97/04/06/lifetimes/updike.html John Updike Life & Times], ''New York Times Books''
+* [http://www.salon.com/1999/02/24/updike_4/ The Salon Interview: John Updike, "As Close as You Can Get to the Stars"], Dwight Garner, ''[[Salon.com]]''
+
+{{John Updike}}
+{{Navboxes
+| title = Awards for John Updike
+| list =
+{{NBA for Fiction 1950–1974}}
+{{NBA for Fiction 1975–1999}}
+{{National Medal of Arts recipients 1980s|state=autocollapse}} 
+{{PulitzerPrize Fiction 1976–2000}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Updike, John}}
+[[Category:1932 births]]
+[[Category:2009 deaths]]
+[[Category:People from Shillington, Pennsylvania]]
+[[Category:Deaths from cancer in Massachusetts]]
+[[Category:Deaths from lung cancer]]
+<!-- writers tree -->
+[[Category:American children's writers]]
+[[Category:American Christian writers]]
+[[Category:American literary critics]]
+[[Category:American psychological fiction writers]]
+[[Category:20th-century American poets]]
+[[Category:Novelists from Massachusetts]]
+[[Category:Postmodern writers]]
+<!-- novelists tree -->
+[[Category:American male novelists]]
+[[Category:Christian novelists]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+
+<!-- alumni cats -->
+[[Category:Alumni of the Ruskin School of Art]]
+[[Category:The Harvard Lampoon alumni]]
+[[Category:Harvard College alumni]]
+[[Category:Members of the American Academy of Arts and Letters]]
+<!-- award cats -->
+[[Category:National Book Award winners]]
+[[Category:O. Henry Award winners]]
+[[Category:Pulitzer Prize for Fiction winners]]
+[[Category:PEN/Faulkner Award for Fiction winners]]
+[[Category:PEN/Malamud Award winners]]
+[[Category:United States National Medal of Arts recipients]]
+[[Category:National Humanities Medal recipients]]
+[[Category:People from Danvers, Massachusetts]]
+[[Category:People from Ipswich, Massachusetts]]
+[[Category:Writers from Reading, Pennsylvania]]
+[[Category:People from Beverly, Massachusetts]]
+[[Category:21st-century American poets]]
+[[Category:American male poets]]
+[[Category:The New Yorker people]]
+[[Category:American male essayists]]
+[[Category:American erotica writers]]
+[[Category:American male short story writers]]
+[[Category:20th-century American short story writers]]
+[[Category:21st-century American short story writers]]
+[[Category:20th-century American essayists]]
+[[Category:21st-century American essayists]]
+[[Category:Journalists from Pennsylvania]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]
+[[Category:Novelists from Pennsylvania]]
+[[Category:Commandeurs of the Ordre des Arts et des Lettres]]
+[[Category:20th-century American journalists]]
+[[Category:American male journalists]]

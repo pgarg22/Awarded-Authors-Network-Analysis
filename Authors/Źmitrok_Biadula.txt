@@ -1,0 +1,71 @@
+{{Short description|Belarusian-Soviet poet, prose writer, translator, and independence activist}}
+{{Expand Belarusian|date=December 2008|Змітрок Бядуля}}
+{{Infobox writer
+| name = Zmitrok Biadula
+| image = Змітрок Бядуля.jpg
+| image_size = 250px
+| caption = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = Zmitrok Biadula, Yasakar{{r|yivo}}
+| birth_name = Shmuel Yefimovich Plavnik
+| birth_date = {{birth date|1886|04|23}}
+| birth_place = Pasadziec, [[Vilna Governorate]], [[Russian Empire]]
+| death_date = {{death date and age|1941|11|03|1886|04|23}}
+| death_place = Near [[Oral, Kazakhstan|Uralsk]], [[Kazakh Soviet Socialist Republic]], [[Soviet Union]]
+| resting_place = 
+| occupation = 
+| language = [[Belarusian language|Belarusian]], [[Yiddish language|Yiddish]], [[Hebrew language|Hebrew]], [[Russian language|Russian]]
+| residence = 
+| alma_mater = 
+| genre = 
+| subject = 
+| movement = 
+| notableworks = 
+| spouse = 
+| children = 
+| awards = 
+| years_active = 
+}}
+'''Shmuel Yefimovich Plavnik''' ({{lang-be|Самуіл Яфімавіч Плаўнік|translit=Samuil Jafimavič Plaŭnik}}; {{lang-yi|שמואל בן חיים פּלאַווניק}}; April 23, 1886 – November 3, 1941), better known by the [[pen name]] '''Zmitrok Biadula''' ({{lang-be|Змітрок Бядуля}}), was a Soviet and Belarusian poet, prose writer, translator, and political activist in the Belarusian independence movement. He is considered one of the fathers of modern [[Belarusian literature]].{{r|yivo}}
+
+==Biography==
+Zmitrok Biadula was born Shmuel Yefimovich Plavnik on April 23, 1886 in the small town of {{ill|Pasadziec|be|Пасадзец}} (now in [[Lahoysk District]], [[Minsk Region]]) to a Jewish family. He began writing [[Hebrew language|Hebrew]] poems at age 13, based on medieval [[Piyyut|liturgical poetry]].{{r|yiddishkayt}} He later started writing in [[Russian language|Russian]] and [[Belarusian language|Belarusian]], publishing works in the Saint Petersburg press and the Vilnius magazine ''Mołodyje Porywy''. In 1910 he published poetic prose in ''[[Nasha Niva]]''. Following the Soviet takeover of Belarus, he began writing novels in the [[Socialist realism|Socialist realist]] genre.
+
+After the [[Operation Barbarossa|German invasion of the USSR]] in 1941, Biadula fled Belarus. He lived first in [[Pizhma, Nizhny Novgorod Oblast|Pizhma]], [[Nizhny Novgorod Oblast|Gorky Oblast]], then, until the end of October 1941, in the village of [[Novye Burasy]], [[Saratov Oblast]].{{r|belisrael}} He died near [[Oral, Kazakhstan|Uralsk]] in Kazakhstan, where he was buried.<ref>{{cite web|title=Writer Zmitrok Biadula|url=http://www.belarus-misc.org/writer/zbiadula.htm|archive-url=https://web.archive.org/20071012045555/http://www.belarus-misc.org/writer/zbiadula.htm|archive-date=October 12, 2007|date=August 20, 2006|first=Peter|last=Kasaty|website=A Belarus Miscellany}}</ref>
+
+In February 2020, the remains of Zmitrok Biadula were exhumed and delivered to Belarus. On November 3 of the same year, on the 79th anniversary of his death, the remains were reburied at the {{ill|Eastern Cemetery (Minsk)|lt=Eastern Cemetery|be|Усходнія могілкі}} in [[Minsk]] in a [[Christian burial|Christian ceremony]].{{r|BelTA}}{{r|jta}}<ref>{{cite web|title=Прах Змитрока Бядули перезахоронили на Восточном кладбище|url=https://minsknews.by/prah-zmitroka-byaduli-perezahoronili-na-vostochnom-kladbishhe/|language=be|website=Минск-Новости|date=November 3, 2020}}</ref>
+
+==References==
+{{reflist|refs=
+<ref name=yiddishkayt>{{cite web|title=Zmitrok Biadula|access-date=November 5, 2020|url=https://yiddishkayt.org/view/zmitrok-biadula/|website=Yiddishkayt}}</ref>
+<ref name=BelTA>{{cite news|title=Прах Змитрока Бядули перезахоронили в Минске|url=https://www.belta.by/regions/view/prah-zmitroka-bjaduli-perezahoronili-v-minske-413903-2020|language=be|website=[[Belarusian Telegraph Agency]]|date=November 3, 2020}}</ref>
+<ref name=belisrael>{{cite web|title=В. Жибуль О Бядулихе|first=Viktar|last=Žybul|url=http://belisrael.info/?p=8411|website=Народны iзраільска-беларускi сайт|date=November 14, 2016|access-date=July 4, 2018|language=ru}}</ref>
+<ref name=jta>{{Cite news|title=Jewish poet given Christian burial in Belarus|first=Cnaan|last=Liphshiz|url=https://www.jta.org/quick-reads/jewish-poet-given-christian-burial-in-belarus|publisher=Jewish Telegraphic Agency|date=November 5, 2020}}</ref>
+<ref name=yivo>{{cite encyclopedia|title=Belarusian Literature|first=Vital Zajka|last=Zajka|url=https://yivoencyclopedia.org/article.aspx/Belarusian_Literature|encyclopedia=[[The YIVO Encyclopedia of Jews in Eastern Europe|YIVO Encyclopedia of Jews in Eastern Europe]]|editor-first=Gershon|editor-last=Hundert|editor-link=Gershon Hundert|location=New Haven|publisher=Yale University Press|year=2008}}</ref>
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Biadula, Zmitrok}}
+[[Category:1886 births]]
+[[Category:1941 deaths]]
+[[Category:20th-century Belarusian poets]]
+[[Category:20th-century Belarusian writers]]
+[[Category:20th-century translators]]
+[[Category:People from Lahoysk District]]
+[[Category:People from Vilna Governorate]]
+[[Category:Recipients of the Order of the Red Banner of Labour]]
+[[Category:Soviet children's writers]]
+[[Category:Soviet male poets]]
+[[Category:Soviet male writers]]
+[[Category:Soviet translators]]
+[[Category:Belarusian Jews]]
+[[Category:Belarusian male poets]]
+[[Category:Belarusian male writers]]
+[[Category:Belarusian translators]]
+[[Category:Yiddish-language writers]]
+[[Category:Translators from Ukrainian]]
+[[Category:Translators from Yiddish]]
+[[Category:Translators to Belarusian]]
+[[Category:20th-century pseudonymous writers]]

@@ -1,0 +1,64 @@
+{{Expand Slovene|Rudolf Maister|fa=yes|date=October 2011}}
+{{refimprove|date=November 2013}}
+{{distinguish|Rudolf Meister}}
+
+{{Infobox military person
+|name=Rudolf Maister
+|image=Rudolf Maister 1910s.jpg
+|caption=Rudolf Maister in 1919
+|birth_date={{birth date|1874|03|29}}
+|birth_place=[[Kamnik]], [[Duchy of Carniola]], [[Austria-Hungary]]<br>(now [[Kamnik]], [[Slovenia]])
+|death_date={{death date and age|1934|07|26|1874|03|29}}
+|death_place=[[Rakek]], [[Kingdom of Yugoslavia|Yugoslavia]]<br>(now [[Rakek]], Slovenia)
+|nickname=Vojanov
+|allegiance=
+*{{flag|Austria-Hungary}}
+*{{flag|State of Slovenes, Croats and Serbs}}
+*{{flag|Kingdom of Serbs, Croats and Slovenes}}
+|serviceyears=1890–1923
+|rank=[[Divisional General]]
+|commands=[[Slovenian army (1918-1919)|Slovenian army]]<br />Commander of [[Maribor]]
+|unit=
+|battles=
+|awards=[[Signum laudis]]<br />[[Order of the White Eagle (Serbia)|Order of White Eagle]]<br />[[Order of the Star of Karageorge|Order of Star of Karađorđe]]<br />[[Order of Saint Sava]]
+|laterwork=Poet and self-taught painter
+}}
+'''Rudolf Maister''' ([[pen name]]: '''Vojanov'''; 29 March 1874 &ndash; 26 July 1934) was a Slovene [[officer (armed forces)|military officer]], [[poet]] and [[activism|political activist]]. The soldiers who fought under Maister's command in northern [[Slovenia]] became known as "Maister's fighters" ({{lang-sl|Maistrovi borci}}). Maister was also an accomplished [[poet]] and self-taught [[Painting|painter]].
+
+==Life==
+===Early career and fight for Styria===
+Maister was born in the [[Upper Carniola]]n commercial town of [[Kamnik]], then part of [[Austria-Hungary]]. A career soldier, during [[World War I]], he served in the [[Austro-Hungarian Army]]. In 1917, he was sent to [[Graz]] promoted to the rank of a [[major]]. In 1918, near the end of the war when it was obvious that Austria-Hungary was losing, the city council of [[Maribor]] proclaimed the annexation of Maribor to Austria. Maister organized Slovene volunteer forces of 4000 soldiers and 200 officers and in the night of 23 November 1918 seized control of the city of Maribor and the surrounding region of [[Lower Styria]]. This date has been recognized as a state holiday in Slovenia since 2005. The Slovene National Council for Lower Styria awarded him the rank of [[divisional general|general]] on November 1. The German-speaking city was thus secured for the newly formed [[State of Slovenes, Croats and Serbs]], which united with the [[Kingdom of Serbia]] into the [[Kingdom of Serbs, Croats and Slovenes]] on December&nbsp;1. Maister's rank as a general was confirmed by the National Government of the Slovene part of the Kingdom as a "lieutenant with the title and character of a general" on 11 December 1918, which was later also confirmed by the Belgrade Government.<ref>{{cite book |first=Lojze |last=Ude |title=Boj za severno slovensko mejo 1918/1919 |language=Slovenian |trans-title=The Fight for the Northern Slovene Border 1918/1919 |year=1977 |publisher=Založba Obzorja |location=Maribor |page=42}}</ref>
+
+===Marburg's Bloody Sunday===
+On 27 January 1919, [[ethnic Germans|Germans]] awaiting the [[United States|American]] peace delegation at the marketplace in Maribor ({{lang-de|Marburg}}) were fired on by Slovenian troops under the command of Maister. Nine Germans were killed and more than eighteen were seriously wounded. The responsibility for the shooting has not been conclusively established. German sources accused Maister's troops of shooting without cause, while Slovenian witnesses, such as [[Maks Pohar]], testified that the Germans (some still in the uniforms of the German paramilitary organization called the Green Guard) attacked the Slovene soldiers guarding the city hall.{{Citation needed|date=January 2011}} The Austrian Germans allegedly attacked the police inspector, Ivan Senekovič, and then pressed towards the Slovenian soldiers in front of the city hall. A Slovenian version of this event involves a German firing a revolver in the direction of the Slovenian soldiers, who responded spontaneously by firing into the civilian crowd.{{Citation needed|date=January 2011}} The event became known as [[Marburg's Bloody Sunday]] ({{lang-de|Marburger Blutsonntag}}).
+
+===Fight for Carinthia===
+[[File:Postcard of Rudolf Maister funeral.jpg|thumb|Rudolf Maister's funeral.]]
+In November 1919, Maister's forces joined the Kingdom of Serbs, Croats and Slovenes [[Austro-Slovene conflict in Carinthia|Army's offensive]] in [[Carinthia (state)|Carinthia]]. Maister joined them later and took part of the capture of [[Klagenfurt]].{{Citation needed|date=January 2011}} After the [[Carinthian Plebiscite]], in which majority of the [[Carinthian Slovenes|local Slovenian population]] decided to remain part of [[Austria]], Maister withdrew to private life. He spent most of his later life in an estate near [[Planina, Postojna|Planina]] in [[Inner Carniola]].
+
+==Poetry==
+Maister also wrote poetry, which he published in two collected volumes in 1904 and in 1929. Most of his poetry follows [[Post-Romantic]] aesthetics, and it is influenced by the 19th-century Slovene lyrical and patriotic poetry of [[Simon Jenko]], [[Simon Gregorčič]], and [[Anton Aškerc]].
+
+==References==
+{{reflist}}
+
+==Further reading==
+*[[Bruno Hartman]], ''Rudolf Maister: general in pesnik'' (Ljubljana: Državna založba Slovenije, 2006)
+
+==External links==
+*{{Commons category-inline|Rudolf Maister}}
+
+{{Kamnik |state=collapsed}}
+{{Authority control}}
+
+{{DEFAULTSORT:Maister, Rudolf}}
+[[Category:1874 births]]
+[[Category:1934 deaths]]
+[[Category:People from Kamnik]]
+[[Category:Austro-Hungarian military personnel of World War I]]
+[[Category:Austro-Hungarian Army officers]]
+[[Category:Slovenian generals]]
+[[Category:Slovenian poets]]
+[[Category:Slovenian soldiers]]
+[[Category:Recipients of the Order of St. Sava]]
+[[Category:Austro-Hungarian emigrants to Yugoslavia]]

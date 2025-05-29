@@ -1,0 +1,172 @@
+{{short description|Persian poet, author of Shahnameh}}
+{{for|places called and other people named Ferdowsi|Ferdowsi (disambiguation)}}
+{{Use dmy dates|date=September 2020}}
+{{Expand Persian|date=December 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Ferdowsi<br/>{{lang|fa|{{nq|فردوسی}}}}
+| native_name = {{lang-fa|{{nq| ابوالقاسم فردوسی توسی}}}}
+| image = File:Statue of Ferdowsi in Tus, Iran 3 (cropped2).jpg
+| image_size = 
+| caption = Statue of Ferdowsi in [[Tus, Iran|Tus]] by [[Abolhassan Sadighi]]
+| birth_date = 940{{sfn|Khaleghi-Motlagh|1999|pp=514–523}}
+| birth_place = [[Tus, Iran|Tus]], [[Samanid Empire]]
+| death_date = 1019/1025{{sfn|Khaleghi-Motlagh|1999|pp=514–523}}
+| death_place = [[Tus, Iran|Tus]], [[Ghaznavids|Ghaznavid Empire]]
+| occupation = Poet
+| notable_works  = ''[[Shahnameh]]''
+| genre = [[Persian poetry]], [[national epic]]
+| language = Early [[Persian language|Modern Persian]]
+| movement = 
+| period = [[Samanids]] and [[Ghaznavids]]
+| influences = 
+| influenced = 
+}}
+[[File:Ferdowsi Square (Tehran).jpg|thumb|Statue in [[Tehran]]]]
+[[File:Ferdowsi Statue.jpg|thumb|Statue of Ferdowsi in Tus by [[Abolhassan Sadighi]]]]
+
+'''Abul-Qâsem Ferdowsi Tusi''', also '''Firdawsi''' ({{lang-fa|{{nq|ابوالقاسم فردوسی توسی}}}}; c. 940{{sfn|Khaleghi-Motlagh|1999|pp=514–523}}–1019/1025{{sfn|Khaleghi-Motlagh|1999|pp=514–523}}), or just '''Ferdowsi''' ({{lang|fa|{{nq|فردوسی}}}} )<ref name="EI" /> was a [[Persians|Persian]] poet<ref>{{Cite web|url=https://referenceworks.brillonline.com/search?s.q=ferdowsi&s.f.s2_parent=s.f.book.encyclopaedia-of-islam-3&s.rows=20&search-go=Search|title=Search Results – Brill Reference|website=referenceworks.brillonline.com|access-date=2019-01-05|quote=Abū l-Qāsim Firdawsī (320–416/931–1025) was a Persian poet, one of the greatest writers of epic and author of the Shāhnāma ("Book of kings").}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=B5BHDAAAQBAJ&pg=RA1-PA160|title=The Persian Empire: A Historical Encyclopedia [2 volumes]: A Historical Encyclopedia|last=Kia|first=Mehrdad|date=2016-06-27|publisher=ABC-CLIO|isbn=9781610693912|language=en|page=160}}</ref> and the author of ''[[Shahnameh]]'' ("Book of Kings"), which is one of the world's longest [[epic poetry|epic poem]]s created by a single poet, and the greatest epic of [[Persian-speaking people|Persian speaking countries]]. Ferdowsi is celebrated as one of the most influential figures of [[Persian literature]] and one of the greatest in the [[history of literature]].<ref>{{cite book|title=The World of Persian Literary Humanism|author=Hamid Dabashi|publisher=Harvard University Press|year=2012|isbn=9780674067592|url=https://books.google.com/books?id=HQFNfOPAS04C&pg=PA314}}</ref>
+
+== Name ==
+Except for his [[kunya (Arabic)|kunya]] ({{lang|fa|{{nq|ابوالقاسم}}}} – {{lang|fa-Latn|Abu'l-Qāsim}}) and his [[laqab]] ({{lang|fa|{{nq|فِردَوسی}}}} – ''Ferdowsī'', meaning '[[Paradise|paradisic]]'), nothing is known with any certainty about his full name. From an early period on, he has been referred to by different additional names and titles, the most common one being {{lang|ar|حکیم}} / {{lang|ar-Latn|Ḥakīm}} ("philosopher").{{sfn|Khaleghi-Motlagh|1999|pp=514–523}} Based on this, his full name is given in [[Persian language|Persian]] sources as {{lang|fa|{{nq|حکیم ابوالقاسم فردوسی توسی}}}} / {{lang|fa-Latn|Ḥakīm Abu'l-Qāsim Firdowsī Țusī}}. Due to the non-standardized transliteration from [[Persian alphabet|Persian]] into [[English language|English]], different spellings of his name are used in English works, including ''Firdawsi'', ''Firdusi'', ''Firdosi'', ''Firdausi'', etc. The ''[[Encyclopaedia of Islam]]'' uses the spelling ''Firdawsī'', based on the standardized transliteration method of the [[Deutsche Morgenländische Gesellschaft|German Oriental Society]].<ref name="EI">Huart/Massé/Ménage: ''Firdawsī''. In: ''[[Encyclopaedia of Islam]].'' New Edition. Brill, Leiden. CD-Version (2011)</ref> The ''[[Encyclopædia Iranica]]'', which uses a modified version of the same method (with a stronger emphasis on Persian intonations), gives the spelling ''Ferdowsī''.{{sfn|Khaleghi-Motlagh|1999|pp=514–523}} In both cases, the ''-ow'' and ''-aw'' are to be pronounced as a [[diphthong]] (''[aʊ̯]''), reflecting the original Arabic and the early New Persian pronunciation of the name. The modern [[Tajik language|Tajik]] transliteration of his name in [[Tajik alphabet#Cyrillic|Cyrillic script]] is {{lang|tg-Cyrl|Ҳаким Абулқосим Фирдавсӣ Тӯсӣ}}.
+
+== Life ==
+
+=== Family ===
+
+Ferdowsi was born into a family of Iranian landowners (''[[dehqan]]s'') in 940 in the village of Paj, near the city of [[Tus, Iran|Tus]], in the [[Greater Khorasan|Khorasan]] region of the [[Samanid Empire]], which is located in the present-day [[Razavi Khorasan Province]] of northeastern [[Iran]].<ref name=davis2006-xviii>{{harvnb|Davis|2006|p=xviii}}</ref> Little is known about Ferdowsi's early life. The poet had a wife, who was probably literate and came from the same ''dehqan'' class. He had a son, who died at the age of 37, and was mourned by the poet in an elegy which he inserted into the ''Shahnameh''.{{sfn|Khaleghi-Motlagh|1999|pp=514–523}}
+
+=== Background ===
+Ferdowsi belonged to the class of ''dehqans''. These were landowning Iranian aristocrats who had flourished under the [[Sassanid Empire|Sassanid dynasty]] (the last pre-Islamic dynasty to rule Iran) and whose power, though diminished, had survived into the Islamic era which followed the Islamic conquests of the 7th{{nbsp}}century. The ''dehqans'' were attached to the pre-Islamic literary heritage, as their status was associated with it (so much so that ''dehqan'' is sometimes used as a synonym for "Iranian" in the ''Shahnameh''). Thus they saw it as their task to preserve the pre-Islamic cultural traditions, including tales of legendary kings.{{sfn|Khaleghi-Motlagh|1999|pp=514–523}}<ref name=davis2006-xviii />
+
+The Islamic conquests of the 7th century brought gradual linguistic and cultural changes to the Iranian Plateau. By the late 9th century, as the power of the caliphate had weakened, several local dynasties emerged in Greater Iran.<ref name=davis2006-xviii /> Ferdowsi grew up in Tus, a city under the control of one of these dynasties, the Samanids, who claimed descent from the Sassanid general [[Bahram Chobin]]{{Citation needed|date=February 2017}} (whose story Ferdowsi recounts in one of the later sections of the ''Shahnameh'').<ref name=Frye1975-200>{{harvnb|Frye|1975|p=200}}</ref> The Samanid bureaucracy used the [[New Persian]] language, which had been used to bring Islam to the Eastern regions of the Iranian world and supplanted local languages, and commissioned translations of [[Middle Persian|Pahlavi]] texts into New Persian. [[Abu Mansur Muhammad]], a ''dehqan'' and governor of Tus, had ordered his minister [[Abu Mansur Mamari]] to invite several local scholars to compile a prose ''Shahnameh'' ("Book of Kings"), which was completed in 1010.<ref>{{cite web|url=http://www.iranicaonline.org/articles/abu-mansur-mohammad-b|website=Encyclopædia Iranica|title=Abu Mansur}}</ref> Although it no longer survives, Ferdowsi used it as one of the sources of his epic. Samanid rulers were patrons of such important Persian poets as [[Rudaki]] and [[Daqiqi]], and Ferdowsi followed in the footsteps of these writers.<ref name=Frye1975-202>{{harvnb|Frye|1975|p=202}}</ref>
+
+Details about Ferdowsi's education are lacking. Judging by the ''Shahnameh'', there is no evidence he knew either Arabic or Pahlavi.{{sfn|Khaleghi-Motlagh|1999|pp=514–523}}
+
+=== Life as a poet ===
+[[File:Courtpoets1532max.jpg|thumb|upright|Ferdowsi and the three Ghaznavid court poets]]
+It is possible that Ferdowsi wrote some early poems which have not survived. He began work on the ''Shahnameh'' around 977, intending it as a continuation of the work of his fellow poet [[Daqiqi]], who had been assassinated by his slave. Like Daqiqi, Ferdowsi employed the prose ''Shahnameh'' of ʿAbd-al-Razzāq as a source. He received generous patronage from the Samanid prince Mansur and completed the first version of the ''Shahnameh'' in 994.{{sfn|Khaleghi-Motlagh|1999|pp=514–523}} When the Turkic Ghaznavids overthrew the Samanids in the late 990s, Ferdowsi continued to work on the poem, rewriting sections to praise the Ghaznavid Sultan Mahmud. Mahmud's attitude to Ferdowsi and how well he rewarded the poet are matters which have long been subject to dispute and have formed the basis of legends about the poet and his patron (see below). The Turkic Mahmud may have been less interested in tales from Iranian history than the Samanids.<ref name=davis2006-xviii /> The later sections of the ''Shahnameh'' have passages which reveal Ferdowsi's fluctuating moods: in some he complains about old age, poverty, illness and the death of his son; in others, he appears happier. Ferdowsi finally completed his epic on 8 March 1010. Virtually nothing is known with any certainty about the last decade of his life.{{sfn|Khaleghi-Motlagh|1999|pp=514–523}}
+
+=== Tomb ===
+[[File:Ferdowsi tomb3.jpg|thumbnail|right|Ferdowsi tomb]]
+{{Main|Tomb of Ferdowsi}}
+Ferdowsi was buried in his own garden, burial in the cemetery of Tus having been forbidden by a local cleric. A Ghaznavid governor of Khorasan constructed a mausoleum over the grave and it became a revered site. The [[Tomb of Ferdowsi|tomb]], which had fallen into decay, was rebuilt between 1928 and 1934 by the [[Society for the National Heritage of Iran]] on the orders of [[Reza Shah]], and has now become the equivalent of a national shrine.<ref>{{cite web |url=http://www.iranicaonline.org/articles/ferdowsi-iii |title=Mausoleum|first=A. Shahpur|last=Shahbazi|website=Encyclopædia Iranica|date=26 January 2012 |access-date=1 February 2016}}</ref>
+
+== Legend ==
+According to legend, Sultan [[Mahmud of Ghazni]] offered Ferdowsi a gold piece for every couplet of the ''Shahnameh'' he wrote. The poet agreed to receive the money as a lump sum when he had completed the epic. He planned to use it to rebuild the dykes in his native Tus. After thirty years of work, Ferdowsi finished his masterpiece. The sultan prepared to give him 60,000 gold pieces, one for every couplet, as agreed. However, the courtier whom Mahmud had entrusted with the money despised Ferdowsi, regarding him as a heretic, and he replaced the gold coins with silver. Ferdowsi was in the bath house when he received the reward. Finding it was silver and not gold, he gave the money away to the bathkeeper, a refreshment seller, and the slave who had carried the coins. When the courtier told the sultan about Ferdowsi's behaviour, he was furious and threatened to execute him. Ferdowsi fled to Khorasan, having first written a satire on Mahmud, and spent most of the remainder of his life in exile. Mahmud eventually learned the truth about the courtier's deception and had him either banished or executed. By this time, the aged Ferdowsi had returned to Tus. The sultan sent him a new gift of 60,000 gold pieces, but just as the caravan bearing the money entered the gates of Tus, a funeral procession exited the gates on the opposite side: the poet had died from a heart attack.<ref name=rosenberg>{{Cite book|title=Folklore, myths, and legends: a world perspective|author=Donna Rosenberg|publisher=McGraw-Hill Professional|year=1997|pages=99–101|isbn=9780844257808|url=https://books.google.com/books?id=-TdKE_Qgl28C&q=ferdowsi&pg=PA99}}</ref>
+
+== Works ==
+{{Main|Shahnameh}}
+
+[[File:Tus shahnameh.jpg|thumb|right|Scenes from the ''Shahnameh'' carved into reliefs at Ferdowsi's mausoleum in Tus, Iran]]
+Ferdowsi's ''[[Shahnameh]]'' is the most popular and influential [[national epic]] in [[Iran]] and other Persian-speaking nations. The ''Shahnameh'' is the only surviving work by Ferdowsi regarded as indisputably genuine. He may have written poems earlier in his life but they no longer exist. A narrative poem, ''Yūsof o Zolaykā'' (Joseph and Zuleika), was once attributed to him, but scholarly consensus now rejects the idea it is his.{{sfn|Khaleghi-Motlagh|1999|pp=514–523}} There has also been speculation about the satire Ferdowsi allegedly wrote about Mahmud of Ghazni after the sultan failed to reward him sufficiently. [[Nizami Aruzi|Nezami Aruzi]], Ferdowsi's early biographer, claimed that all but six lines had been destroyed by a well-wisher who had paid Ferdowsi a thousand [[dirham]]s for the poem. Introductions to some manuscripts of the ''Shahnameh'' include verses purporting to be the satire. Some scholars have viewed them as fabricated; others are more inclined to believe in their authenticity.<ref>{{cite web|url=http://www.iranicaonline.org/articles/ferdowsi-ii|website=Encyclopædia Iranica|title=Hajw-nāma|first=A. Shahpur|last=Shahbazi|date=26 January 2012|access-date=1 February 2016}}</ref>
+
+== Gallery ==
+<gallery widths="140px" heights="210px" perrow="3">
+File:The Sasanian King Khusraw and Courtiers in a Garden, Page from a manuscript of the Shahnama (Book of Kings) of Firdawsi, late 15th-early 16th century.jpg|''The Sasanian King [[Khosrow II|Khusraw]] and Courtiers in a Garden'', page from a manuscript of the [[Shahnameh]] (Book of Kings), late 15th–early 16th century, [[Brooklyn Museum]]
+File:Shahnameh - The Div Akvan throws Rustam into the sea.jpg|Scene from the ''Shahnameh'': the Akvan Div throws the sleeping Rostam into the sea
+File:Bathscene.jpg|Bath scene
+</gallery>
+
+<gallery widths="220px" heights="150px" perrow="3">
+File:Ferdowsi phoenixferdowsi.jpg|The [[Simurgh]], a mythical bird from the ''Shahnameh'', relief from [[Tomb of Ferdowsi|Ferdowsi's mausoleum]]
+File:Artaban and Ardashir.jpg|A scene from the ''Shahnameh'' depicting the [[Parthia]]n king Artaban facing the [[Sassanid dynasty|Sassanid]] king [[Ardashir I]]
+</gallery>
+
+== Influence ==
+{{more citations needed|section|date=March 2017}}
+[[File:ferdowsi tomb4.jpg|thumb|right|Mausoleum of Ferdowsi in Tus, Iran]]
+[[File:Ferdowsi's verse 1.JPG|thumb|right|One of Ferdowsi's poems: "Think for your lord's gratification{{snd}}be intellectual and truthful", written on the wall of a school in Iran]]
+[[File:Ferdowsi statue.jpg|thumb|Ferdowsi statue in [[Milad Tower]], Tehran, Iran]]
+
+Ferdowsi is one of the undisputed giants of Persian literature. After Ferdowsi's ''Shahnameh'', a number of other works similar in nature surfaced over the centuries within the cultural sphere of the Persian language. Without exception, all such works were based in style and method on Ferdowsi's ''Shahnameh'', but none of them could quite achieve the same degree of fame and popularity as Ferdowsi's masterpiece.{{citation needed|date=November 2014}}
+
+Ferdowsi has a unique place in Persian history because of the strides he made in reviving and regenerating the Persian language and cultural traditions. His works are cited as a crucial component in the persistence of the Persian language, as those works allowed much of the tongue to remain codified and intact. In this respect, Ferdowsi surpasses [[Nizami Ganjavi|Nizami]], [[Omar Khayyám|Khayyám]], [[Asadi Tusi]] and other seminal Persian literary figures in his impact on Persian culture and language.{{Citation needed|date=November 2014}} Many modern Iranians see him as the father of the modern Persian language.
+
+Ferdowsi in fact was a motivation behind many future Persian figures. One such notable figure was [[Rezā Shāh]] Pahlavi, who established an [[Academy of Persian Language and Literature]], in order to attempt to remove Arabic and French words from the Persian language, replacing them with suitable Persian alternatives. In 1934, Rezā Shāh set up a ceremony in [[Mashhad]], [[Khorasan Province|Khorasan]], celebrating a thousand years of Persian literature since the time of Ferdowsi, titled "[[Ferdowsi Millennial Celebration]]", inviting notable European as well as Iranian scholars.<ref>{{Cite book|title=Iran and the rise of Reza Shah: from Qajar collapse to Pahlavi rule|author=Cyrus Ghani, Sirus Ghani|publisher=I.B.Tauris|year=2001|pages=400|isbn=9781860646294|url=https://books.google.com/books?id=VGZItY9kL0AC&q=Ferdowsi+Millenary+Celebration}}</ref> [[Ferdowsi University of Mashhad]] is a university established in 1949 that also takes its name from Ferdowsi.
+
+Ferdowsi's influence in the Persian culture is explained by the ''[[Encyclopædia Britannica]]'':<ref>{{Cite web|title=Ferdowsi|year=2007|publisher=Encyclopædia Britannica Online|access-date=4 June 2007|url=http://search.eb.com/eb/article-9034029}}</ref>
+
+:The Persians regard Ferdowsi as the greatest of their poets. For nearly a thousand years they have continued to read and to listen to recitations from his masterwork, the ''Shah-nameh'', in which the Persian national epic found its final and enduring form. Though written about 1,000 years ago, this work is as intelligible to the average, modern Iranian as the [[King James Version]] of the Bible is to a modern English-speaker. The language, based as the poem is on a [[Dari language|Dari]] original, is pure Persian with only the slightest admixture of Arabic.
+
+The library at Wadham College, Oxford University was named the Ferdowsi Library, and contains a specialised Persian section for scholars.
+
+==See also==
+{{Portal|Poetry}}
+*[[Iranian Studies]]
+*[[Ferdowsi millennial celebration]]
+*[[Ferdowsi University of Mashhad]]
+*[[List of Persian poets and authors]]
+**[[Hafez]], Persian poet
+**[[Rumi]] (1207–1273), arguably the internationally most famous Persian poet
+*[[Persian literature]]
+*[[Sassanid Empire]]
+*[[List of mausoleums]]
+*[[Jerry Clinton]] (1937–2003), US Ferdowsi scholar
+*''[[Ferdowsi (1934 film)|Ferdowsi]]'' (1934 film)
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* {{Cite book|contribution=Introduction|title=Shahnameh: the Persian book of kings|contributor-last=Davis|contributor-first=Dick|author-first=Abolqasem|author-last=Ferdowsi|publisher=Viking|year=2006|isbn=0-670-03485-1|url-access=registration|url=https://archive.org/details/shahnamehpersian0000fird}}
+* {{cite book|author-first=Richard N.|author-last=Frye|title=The Golden Age of Persia|publisher=Weidenfeld|year=1975}}
+* {{cite book|author-first=E.G.|author-last=Browne|title=Literary History of Persia|year=1998|isbn=0-7007-0406-X}}
+* {{cite book|author-first=Jan|author-last=Rypka|title=History of Iranian Literature|publisher=Reidel|year=1968|oclc=460598|isbn=90-277-0143-1}}
+* {{cite book|author-first=Shirzad|author-last=Aghaee|title=Imazh-ha-ye mehr va mah dar Shahnameh-ye Ferdousi (Sun and Moon in the ''Shahnameh'' of Ferdousi|place=Spånga, Sweden|year=1997|isbn=91-630-5369-1}}
+* {{cite book|author-first=Shirzad|author-last=Aghaee|title=Nam-e kasan va ja'i-ha dar Shahnameh-ye Ferdousi (Personalities and Places in the ''Shahnameh'' of Ferdousi|place=Nyköping, Sweden|year=1993|isbn=91-630-1959-0}}
+* {{cite book|author-first=Josef|author-last=Wiesehöfer|title=Ancient Persia|date=18 August 2001|publisher=I.B.Tauris|isbn=1-86064-675-1}}
+* {{cite book|author-first=A. Shapur|author-last=Shahbazi|title=Ferdowsi: a critical biography|publisher=Harvard University, Center for Middle Eastern Studies|year=1991|isbn=0-939214-83-0}}
+* {{cite book|author1-first=Sandra|author1-last=Mackey|author2-first=W. Scott|author2-last=Harrop|title=The Iranians: Persia, Islam and the soul of a nation|publisher=University of Michigan|year=2008|isbn=978-0-525-94005-0}}
+* {{cite book|author-first=R. M.|author-last=Chopra|year=2014|title=Great Poets of Classical Persian|publisher=Sparrow|place=Kolkata|isbn=978-81-89140-75-5}}
+*Waghmar, Burzine and Sharma, Sunil (2016). Firdawsi: a Scholium. In Sunil Sharma and Burzine Waghmar, eds. ''Firdawsii Millennium Indicum: Proceedings of the Shahnama Millenary Seminar, K R Cama Oriental Institute, Mumbai, 8–9 January 2011'', pp 7–18. Mumbai: K. R. Cama Oriental Institute, {{ISBN|978-93-81324-10-3}}.
+* {{EI2|last1=Huart|first1=Cl.|last2=Massé|first2=H.|volume=3|title=Firdawsī|pages=918–921|url=https://referenceworks.brillonline.com/entries/encyclopaedia-of-islam-2/firdawsi-SIM_2376}}
+* {{Encyclopaedia Iranica | volume=9 | fascicle=5 | article = Ferdowsī, Abu’l-Qāsem i. Life | last = Khaleghi-Motlagh | first = Djalal | url = https://www.iranicaonline.org/articles/ferdowsi-i | pages = 514–523 }}
+
+== External links ==
+{{Commons category}}
+{{wikisource author}}
+{{Wikiquote}}
+* {{Gutenberg author | id=Firdawsi | name=Firdawsi}}
+* {{Internet Archive author |search=(Firdawsi OR Ferdowsi)}}
+* Khosrow Nāghed, [http://radiozamaaneh.com/literature/2008/08/print_post_495.html ''In the Workshop of Thought and Imagination of the Master of Tūs'' (Dar Kargāh-e Andisheh va Khiāl-e Ostād-e Tūs)], in Persian, Radio Zamāneh, 5 August 2008.
+* [http://www.blackcatpoems.com/f/ferdowsi.html Ferdowsi: Poems] Ferdowsi's poems in English
+* Iraj Bashiri, [http://www.angelfire.com/rnb/bashiri/Farr/iranhistdawn.html The Shahname of Firdowsi]
+* [https://web.archive.org/web/20110720192754/http://qom-photos.ir/post-106.aspx Ferdowsi Museum photos]
+* [https://web.archive.org/web/20120112051318/http://pachian.ir/post-97.aspx Ferdowsi Tomb photos]
+*[http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/36222/rec/1 ''A king's book of kings: the Shah-nameh of Shah Tahmasp''], an exhibition catalog from The Metropolitan Museum of Art (fully available online as PDF)
+* [http://www.rugusavay.com/ferdowsi-quotes/ Ferdowsi Quotes]
+
+{{Ferdowsi}}
+{{Template group
+|title =Related articles
+|list  =
+{{Shahnameh}}
+{{Rostam and Sohrab}}
+{{Persian literature}}
+{{People of Khorasan}}
+{{Authority control}}
+}}
+
+{{DEFAULTSORT:Ferdowsi}}
+[[Category:Ferdowsi| ]]
+[[Category:Medieval Persian poets]]
+[[Category:Medieval Persian writers]]
+[[Category:Ghaznavid-period poets]]
+[[Category:Samanid-period poets]]
+[[Category:Epic poets]]
+[[Category:Mythopoeic writers]]
+[[Category:Dehqans]]
+[[Category:Iranian folklore]]
+[[Category:People from Khorasan]]
+[[Category:People from Tus, Iran]]
+[[Category:Shahnameh]]
+[[Category:10th-century Iranian people]]
+[[Category:11th-century Iranian people]]
+[[Category:10th-century Persian poets]]
+[[Category:11th-century Persian poets]]
+[[Category:10th-century Persian writers]]
+[[Category:11th-century Persian writers]]
+[[Category:10th-century births]]
+[[Category:11th-century deaths]]
+[[Category:Year of birth uncertain]]
+[[Category:Year of death uncertain]]

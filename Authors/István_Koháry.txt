@@ -1,0 +1,148 @@
+{{Infobox person
+| honorific_prefix          = 
+| name                      = István II. Koháry
+| honorific_suffix          = [[Count]]
+| native_name               = 
+| native_name_lang          =
+| image                     = Portrait of István Koháry 18. c..jpg
+| image_size                = 
+| alt                       = 
+| caption                   = 
+| birth_name                = 
+| birth_date                = {{Birth_date|df=y|1649|3|12}}
+| birth_place               = [[Čabraď Castle|Csábrág Castle]]
+| disappeared_date          = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place         = 
+| disappeared_status        = 
+| death_date                = {{Death date and age|df=y|1731|3|29|1649|3|12}}
+| death_place               = [[Čabraď Castle|Csábrág Castle]]
+| death_cause               = 
+| body_discovered           = 
+| resting_place             = [[Hronský Beňadik]] Abbey
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| monuments                 = 
+| residence                 = 
+| nationality               = [[Kingdom of Hungary (1526–1867)|Kingdom of Hungary]]
+| other_names               = 
+| ethnicity                 = <!-- Ethnicity should be supported with a citation from a reliable source -->
+| citizenship               = 
+| education                 = 
+| alma_mater                = 
+| occupation                = 
+| years_active              = 
+| employer                  = 
+| organization              = 
+| agent                     = 
+| known_for                 = 
+| notable_works             = 
+| style                     = 
+| influences                = 
+| influenced                = 
+| home_town                 = 
+| salary                    = 
+| net_worth                 = 
+| height                    = <!-- {{height|m=}} -->
+| weight                    = <!-- {{convert|weight in kg|kg|lb}} -->
+| television                = 
+| title                     = 
+| term                      = 
+| predecessor               = 
+| successor                 = 
+| party                     = 
+| movement                  = 
+| opponents                 = 
+| boards                    = 
+| denomination              = <!-- Denomination should be supported with a citation from a reliable source -->
+| criminal_charge           = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty          = 
+| criminal_status           = 
+| spouse                    = 
+| partner                   =  
+| children                  = 
+| parents                   = Istvan Koháry <br />Judith Balassa de Gyarma.
+| relatives                 = 
+| callsign                  = 
+| awards                    = 
+| signature                 = 
+| signature_alt             = 
+| signature_size            = 
+| module                    = 
+| module2                   = 
+| module3                   = 
+| module4                   = 
+| module5                   = 
+| module6                   = 
+| website                   = <!-- {{URL|www.example.com}} -->
+| footnotes                 = 
+| box_width                 = 
+}}
+Count '''István II. Koháry''' ([[Čabraď Castle|Csábrág]],<ref>http://szelence.com/kohary/index.html</ref> 1649–1731), the poet, politician and general was a member of the Hungarian [[House of Koháry]].
+
+==Life==
+István Koháry was the eldest son of István Koháry (1616–1664) and the Hungarian noble woman Judith of Balsassa. His father died when he was 15. After studying at the Jesuit university of [[Trnava]] he became the hereditary commander of [[Fiľakovo|Fülek castle]].<ref>{{cite web |url=http://www.msa.sk/en/expositions/art-and-history/house-of-kohary.html |title=Archived copy |accessdate=2015-10-13 |url-status=dead |archiveurl=https://web.archive.org/web/20150927113545/http://www.msa.sk/en/expositions/art-and-history/house-of-kohary.html |archivedate=2015-09-27 }}</ref> During the uprise of [[Imre Thököly]] he was sieged there in the year 1682 for several weeks and finally taken hostage by Thököly. Koháry refused to side with him and stayed loyal to the Habsburg king [[Leopold I, Holy Roman Emperor|Leopold]]. For the next three years he remained imprisoned by the [[Kuruc]]. After the [[Battle of Vienna]] 1683 the Turks and with them also Thököly were driven out of Hungary and 1685 István became free. He was received with all honours at the Imperial court of Vienna. Emperor Leopold called him ''Speculum Fidelitatis'', the mirror of loyalty <ref>Oswald Redlich, Weltmacht des Barock: Österreich in der Zeit Kaiser Leopolds I., Seite 285</ref> and awarded him the title Count and the hereditary headship of [[Hont County]]. 1714 he became [[Judge royal]], the second-highest judge, preceded only by the [[Palatine of Hungary|palatine]], in the Kingdom of Hungary.<ref>Markó 2006, p. 284.</ref>
+<gallery>
+Koháry II. István.jpg|
+Koháry István országbíró.jpg|
+Koháry István Kecskemét.jpg|István Koháry monument in [[Kecskemét]]
+</gallery>
+
+==Work==
+During his captivity István began to write poems, unusual for his time not in Latin, but in Hungarian language.<ref>http://szelence.com/kohary/</ref>
+
+==Death and legacy==
+István Koháry remained unmarried and died highly honoured at the age of 82 at Csábrág castle.  In his testament he founded a [[Fideicommis]] and stated that every head of it have to be a catholic.<ref>August Wilpert, Bayerische Bibliographie .Kurze Geschichte der katholischen, sog. "Koháry"-Linie des Herzoglichen Hauses Sachsen-Coburg und Gotha, http://gateway-bayern.de/BV014584282 Seite 3f.</ref> His nephew  Andreas Josef Koháry (1694–1757) became his heir.
+István Koháry was buried in the family crypt at the abbey of [[Hronský Beňadik]]. 1909 [[Ferdinand of Bulgaria|Tsar Ferdinand of Bulgaria]] commissioned a marble monument for the church to honour his famous ancestor. 
+<gallery>
+Garamszegcivertanlegi2.jpg|[[Hronsky Benadik]] Abbey
+Entrance ot Koháry crpyt.jpg|Entrance to the Koháry crypt
+Koháry Istvan II - Monument Hronsky Benadik.jpg|Istvan Monument in the abbey
+</gallery>
+
+==Ancestry==
+{{ahnentafel
+|collapsed=yes |align=center
+|boxstyle_1=background-color: #fcc;
+|boxstyle_2=background-color: #fb9;
+|boxstyle_3=background-color: #ffc;
+|boxstyle_4=background-color: #bfc;
+|1= 1. '''Istvan (Stephan) II, Count Koháry de Csábrág'''
+|2= 2. Istvan Koháry, Baron Koháry de [[Čabraď Castle|Csábrág]]
+|3= 3. Judith Balassa de Gyarmat+1684
+|4= 4. Peter Koháry, Baron Koháry de [[Čabraď Castle|Csábrág]]  (1564–1629)
+|5= 5. Regina Vethle +1616
+|6= 6. Imre Balassa de Gyarmat +ca 1633
+|7= 7. Judit Bosnyák de Magyarbél
+|8= 8. Imre Koháry
+|9= 9. Katalin Jákóffy de Raho et Szuh
+|10= 10. György Vethle
+|11= 11. Anna Maria Jokkin
+|12= 12. András Balassa de Gyarmat, +after 1576
+|13= 13. Anna Mérey de Kaposmére
+|14= 14. [[:sk:Tomáš Bosniak (1572)|Tamás Bosnyák de Magyarbél]] (1572-1634)
+|15= 15. Katalin Zádory
+}}
+
+==See also==
+*[[Ferencz József Koháry de Csábrág|Ferenc József Koháry]]
+
+== References ==
+{{Reflist|2}}
+
+== External links ==
+* http://mek.niif.hu/00300/00355/html/index.html
+* {{cite web |last=Marek |first=Miroslav |url=http://genealogy.euweb.cz/hung/kohary.html |title= hung/kohary.html |publisher= Genealogy.EU}}
+{{Commons category|István II Koháry}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kohary, Istvan}}
+[[Category:House of Koháry|Istvan Kohary]]
+[[Category:1649 births]]
+[[Category:1731 deaths]]
+[[Category:17th-century Austrian people]]
+[[Category:18th-century Austrian people]]
+[[Category:18th-century Hungarian poets]]
+[[Category:Hungarian male poets]]
+[[Category:Austrian nobility]]
+[[Category:Judges royal]]
+[[Category:17th-century Hungarian poets]]

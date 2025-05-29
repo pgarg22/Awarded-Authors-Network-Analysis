@@ -1,0 +1,113 @@
+{{Infobox person
+| image       = Meng Haoran.jpg
+| caption     = Meng Haoran.
+| name        = Meng Haoran
+| native_name = 孟浩然
+| native_name_lang= zh-hans
+| birth_name  = 
+| other_names = 
+| birth_date  = 689/691
+| birth_place = [[Xiangyang]], [[Hubei]], China
+| death_date  = {{death year and age|740|689}}<br>{{death year and age|740|691}}
+| death_place = Xiangyang, Hubei, China
+| death_cause = 
+| alma_mater  = 
+| occupation  = Poet
+| known_for   = 
+| notable_works = 
+| movement    = 
+| spouse      = <!-- {{marriage||}} -->
+| children    = Meng Yifu ({{lang|zh-Hant|孟儀甫}})
+| parents     = 
+| relatives   = 
+| awards      = <!--  {{Awards|award= |year= |title= }} -->
+| signature   = 
+| signature_size = 
+| module  = {{Infobox Chinese|child=yes
+|c=孟浩然
+|p=Mèng Hàorán
+|w=Meng<sup>4</sup> Hao<sup>4</sup>-jan<sup>2</sup>
+|mi={{IPAc-cmn|m|eng|4|-|h|ao|4|.|r|an|2}}
+|j=Maang<sup>6</sup> Hou<sup>6</sup>-jin<sup>4</sup>
+|y=Maahng Houh-yìhn
+|ci={{IPAc-yue|m|aang|6|-|h|ou|6|-|j|in|4}}
+|poj=Bēng Hō-jiân
+|mc=Mɐng ɤâu-ńźjän
+|kanji=孟浩然
+|hiragana=もうこうねん
+|romaji=Mō Kōnen
+|altname = Haoran
+|c2 = {{linktext|浩|然}}
+|l2 = <!--N/A-->
+|p2 = Hàorán
+|altname3 = Meng Shanren
+|c3 = {{linktext|孟|山|人}}
+|l3 = <!--N/A-->
+|p3 = Mèng Shānrén
+|altname4 = Meng Xiangyang
+|t4 = {{linktext|孟|襄|陽}}
+|s4 = {{linktext|孟|襄|阳}}
+|l4 = <!--N/A-->
+|p4 = Mèng Xiāngyáng
+}}
+}}
+{{family name hatnote|[[Meng (surname)|Meng]]|lang=Chinese}}
+
+'''Meng Haoran''' ({{zh|c=孟浩然|w=''Meng Hao-jan''}}; 689/691–740) was a major [[Tang poetry|Tang dynasty poet]], and a somewhat older contemporary of [[Wang Wei (Tang dynasty)|Wang Wei]], [[Li Bai]] and [[Du Fu]]. Despite his brief pursuit of an official career, Meng Haoran mainly lived in and wrote about the area in which he was born and raised, in what is now [[Hubei]] province, China. Meng Haoran was a major influence on other contemporary and subsequent poets of the High Tang era because of his focus on nature as a main topic for poetry. Meng Haoran was also prominently featured in the [[Qing dynasty]] (and subsequently frequently republished) poetry anthology ''[[Three Hundred Tang Poems]]'', having the fifth largest number of his poems included, for a total of fifteen, exceeded only by [[Du Fu]], [[Li Bai]], [[Wang Wei (Tang dynasty)|Wang Wei]], and [[Li Shangyin]]. These poems of Meng Haoran were available in the English translations by [[Witter Bynner]] and [[Jiang Kanghu|Kiang Kanghu]], by 1920, with the publication of ''The Jade Mountain''. The ''Three Hundred Tang Poems'' also has two poems by Li Bai addressed to Meng Haoran, one in his praise and one written in farewell on the occasion of their parting company. Meng Haoran was also influential to [[Japanese poetry]].
+
+==Biography==
+[[File:XiangFanCityPark2007.JPG|thumb|right|A city park in the former Xiangyang area, Meng Haoran's home territory.]]
+First of the major High Tang poets, Meng Haoran was born in [[Xiangyang District, Xiangfan|Xiangyang]], south of the [[Han River (Yangtze River tributary)|Han River]], in the modern province of [[Hubei]]. He remained strongly attached to this area and its scenery throughout his life. He had a rather abbreviated civil service career, passing the [[Jinshi (imperial examination)|Jinshi]] civil service test, beginning at the late age of 39 and ending not much later. As recorded by the ''[[New Book of Tang]]'', he was recommended by his good friend [[Wang Wei (Tang dynasty)|Wang Wei]], and [[Emperor Xuanzong of Tang|Emperor Xuanzong]] granted him an audience during which he recited his poetry. However, one line therein angered the emperor: "The untalented the wise lord discards" ({{lang|zh-Hant|不才明主棄}}), which Xuanzong interpreted as a sarcastic complaint for not employing him sooner in the imperial government. Thus, he was sent away from the palace.<ref>《新唐書·文藝下》：（王）維私邀入內署，俄而玄宗至，浩然匿床下，維以實對，帝喜曰：「朕聞其人而未見也，何懼而匿？」詔浩然出。帝問其詩，浩然再拜，自誦所為，至「不才明主棄」之句，帝曰：「卿不求仕，而朕未嘗棄卿，奈何誣我？」因放還。</ref> He received his only position three years before his death but resigned after less than a year. He lived in the Xiangyang area almost all his life (although he traveled to the major metropolis of [[Chang'an]], where he was hosted by Wang Wei in 728). The [[landscape]], [[history]] and [[legend]]s of his home area are the subjects of many poems. Particularly prominent are Nanshan (or South Mountain, his family seat) and Lumen Shan, a temple site, where he briefly lived in retreat.
+
+==Works==
+Meng Haoran is often bracketed with [[Wang Wei (Tang dynasty)|Wang Wei]], due to the friendship they shared and their prominence as [[Shanshui poetry|landscape poets]].<ref>[[Jaroslav Průšek]] and Zbigniew Słupski, eds., Dictionary of Oriental Literatures: East Asia (Charles Tuttle, 1978): 116.</ref> In fact, Haoran composed several poems about Wei and their separation.  While Wei focused on the natural world, in particular the solitude and reprieve it granted from human life along with the scale of the natural world, Meng Haoran focuses more on foreground details and human life, such as returning villagers waiting at the ferry crossing, fishermen, or (often unseen) mountain hermits dwelling in religious seclusion. His works are generally considered less consistently successful than Wang's; however, the themes and styles of Meng Haoran's poetry helped to set a convention followed by younger poets, such as Wang Wei.
+
+In contemporary mainland China, Meng's poem ''Spring Morning'' ({{lang|zh-Hant|春曉}}) is probably one of the best known poems from the Tang dynasty, as it has appeared in the widely used first grade level Chinese language textbook published by the [[People's Education Press]] since the 1980s and serves as the first exposure to [[Literary Chinese]] for hundreds of millions of students.{{poemquote|{{lang|zh-Hant|《春曉》唐·孟浩然
+春眠不覺曉，處處聞啼鳥。
+夜來風雨聲，花落知多少？}}
+
+In spring slumber, I am unaware of daybreak, though everywhere I hear the tweet of birds.
+Last night came the sound of wind and rain; who knows how many flowers must have fallen?}}
+
+==See also==
+*[[Classical Chinese poetry]]
+*[[Meng Jiao]]
+*[[Tang poetry]]
+*[[Wang Wei (Tang dynasty)|Wang Wei]]
+*[[:zh:孟子世家大宗世系|Chinese Wikipedia article on relationship to Mencius (孟家)]] (In Chinese)
+
+==References==
+{{Reflist}}
+* {{cite thesis
+|last=Bryant
+|first=Daniel Joseph
+|title=The high T'ang poet Meng Hao-jan: studies in biography and textual history
+|type=PhD
+|publisher=University of British Columbia
+|place=Vancouver
+|date=1977
+|hdl=2429/21504
+}} Contains English translations of all known poems by Meng Haoran.
+*Nienhauser, William H (ed.). ''The Indiana Companion to Traditional Chinese Literature''.  Indiana University Press 1986. {{ISBN|0-253-32983-3}}
+*Ma, Maoyuan, [https://web.archive.org/web/20070929104642/http://203.72.198.245/web/Content.asp?ID=64315&Query=1 "Meng Haoran"]. ''[[Encyclopedia of China]]'' (Chinese Literature Edition), 1st ed.
+
+==Further reading==
+* Kroll, Paul W. (2021). [https://www.degruyter.com/document/doi/10.1515/9783110734690/html The Poetry of Meng Haoran] {{openaccess}}. ''De Gruyter Mouton''.
+
+==External links==
+* {{curlie|Arts/Literature/Authors/M/Meng_Haoran}}
+* [https://web.archive.org/web/20061105181531/http://www.poetry-chinese.com/menghaoran5lmenu.htm Five-character regulated verses of Meng Haoran, with English translation, pinyin transliteration, and tonal patterns.]
+* {{Internet Archive author |sname=Meng Haoran}}
+* {{Librivox author |id=8066}}
+
+{{Chinese poetry}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Meng, Haoran}}
+[[Category:Three Hundred Tang Poems poets]]
+[[Category:7th-century births]]
+[[Category:740 deaths]]
+[[Category:People from Xiangyang]]
+[[Category:Poets from Hubei]]
+[[Category:8th-century Chinese poets]]

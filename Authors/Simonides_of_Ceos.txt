@@ -1,0 +1,252 @@
+{{short description|Ancient Greek lyric poet}}
+{{redirect|Simonides}}
+[[File:Corinthian Vase depicting Perseus, Andromeda and Ketos.jpg|thumb|right|Corinthian vase depicting [[Perseus]], [[Andromeda (mythology)|Andromeda]] and [[Ketos]]; the names are written in the archaic Greek alphabet.]]
+
+'''Simonides of Ceos''' ({{IPAc-en|s|aɪ|ˈ|m|ɒ|n|ɪ|ˌ|d|iː|z}}; {{lang-grc-gre|Σιμωνίδης ὁ Κεῖος}}; c. 556–468&nbsp;BC) was a [[Greek lyric poet]], born at [[Ioulis]] on [[Kea (island)|Ceos]]. The scholars of [[Hellenistic]] [[Alexandria]] included him in the canonical list of the [[nine lyric poets]] esteemed by them as worthy of critical study. Included on this list was [[Bacchylides]], his nephew, and [[Pindar]], reputedly a bitter rival, both of whom benefited from his innovative approach to lyric poetry. Simonides, however, was more involved than either in the major events and with the personalities of their times.<ref>John H. Molyneux, ''Simonides: A Historical Study'', Bolchazy-Carducci Publishers (1992), page 3</ref> 
+
+[[Gotthold Ephraim Lessing|Lessing]], writing in the [[Age of Enlightenment|Enlightenment era]], referred to him as "the Greek [[Voltaire]]."<ref>{{cite book |author=G. E. Lessing |author-link=Gotthold Ephraim Lessing |title=Laocoon; Or The Limits of Poetry and Painting |publisher=J. Ridgway & Sons |year=1836 |pages=xvi |url=https://books.google.com/books?id=qR4GAAAAQAAJ&pg=PR16 |via=Google books}}</ref> His general renown owes much to traditional accounts of his colourful life, as one of the wisest of men; as a greedy miser; as an inventor of a system of [[mnemonic]]s; and also the inventor of some letters of the [[History of the Greek alphabet|Greek alphabet]] ({{lang|grc|ω, η, ξ, ψ}}).<ref>David A. Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), pages 380-381</ref> Such accounts include fanciful elements, yet he had a real influence on the sophistic enlightenment of the [[Classical Greece|Classical era]].<ref>Charles Segal, ''Choral lyric in the fifth century'', 'The Cambridge History of Classical Literature: Greek Literature' (1985), P. Easterling & B. Knox (eds), pages 223, 226</ref> His fame as a poet rests largely on his ability to present basic human situations with affecting simplicity.<ref name="Charles Segal 1985 page 225"/> In the words of the Roman rhetorician [[Quintilian]] (55–100 AD):
+
+{{quote|Simonides has a simple style, but he can be commended for the aptness of his language and for a certain charm; his chief merit, however, lies in the power to excite pity, so much so that some prefer him in this respect to all other writers of the genre.<ref>Quintilian, ''Inst.'' 10.1.64, translated by David A. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 359</ref>}}
+
+He is popularly associated with epitaphs commemorating fallen warriors, as for example the [[Lacedaemonians]] at the [[Battle of Thermopylae]]:
+{{Verse translation|italicsoff=y|
+{{lang|grc|Ὦ ξεῖν', ἀγγέλλειν Λακεδαιμονίοις ὅτι τῇδε
+κείμεθα, τοῖς κείνων ῥήμασι πειθόμενοι.}}<ref>Herodotus, Book VII, 228</ref>
+|
+Tell them in Lacedaimon, passer-by
+That here, obedient to their word, we lie,|attr2=Translated by [[F L Lucas]]<br>as an English [[heroic couplet]]}}
+
+Today only glimpses of his poetry remain, either in the form of [[papyrus]] fragments or quotations by ancient literary figures, yet new fragments continue to be unearthed by archaeologists at [[Oxyrhynchus]], a city and archaeological site in [[Egypt]] that has yielded papyrus fragments over a century of excavations. He is included in narratives as diverse as [[Mary Renault]]'s modern [[historical novel]] ''The Praise Singer'' (where he is the narrator and main character), [[Plato]]'s ''[[Protagoras (dialogue)|Protagoras]]'' (where he is a topic of conversation), and some verses in [[Callimachus]]' ''[[Aetia (Callimachus)|Aetia]]'' (where he is portrayed as a ghost complaining about the desecration of his own tomb in [[Agrigento|Acragas]]).<ref>Callimachus ''fr.'' 64. 1-14, cited by D. A. Campbell, ''Greek Lyric III'', Loeb Classical Library, pages 344-6</ref>
+
+== Biography ==
+Few clear facts about Simonides' life have come down to modern times in spite of his fame and influence. Ancient sources are uncertain even about the date of his birth. According to the Byzantine encyclopaedia, [[Suda]]: "He was born in the 56th&nbsp;Olympiad (556/552&nbsp;BC) or according to some writers in the 62nd (532/528 BC) and he survived until the 78th (468/464 BC), having lived eighty-nine years."<ref>''Suda'', Simonides (1st notice), translated by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 331</ref>
+Simonides was popularly accredited with the invention of four letters of the revised alphabet and, as the author of inscriptions, he was the first major poet who composed verses to be read rather than recited.<ref name="Charles Segal 1985 page 225">Charles Segal, ''Choral lyric in the fifth century'', 'The Cambridge History of Classical Literature: Greek Literature' (1985), P. Easterling and B. Knox (eds), page 225</ref> Coincidentally he also composed a [[dithyramb]] on the subject of Perseus that is now one of the largest fragments of his extant verses.<ref>Fr.543, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 437–438</ref>
+
+Modern scholars generally accept 556-468&nbsp;BC for his life in spite of some awkward consequences—for example it would make him about fifty years older than his nephew Bacchylides and still very active internationally at about 80&nbsp;years of age. Other ancient sources also have awkward consequences. For example, according to an entry in the [[Parian Marble]], Simonides died in 468/467&nbsp;BC at the age of ninety yet, in another entry, it lists a victory by his grandfather in a poetry competition in Athens in 489/488&nbsp;BC — this grandfather must have been over a hundred years old at that time if the birth dates for Simonides are correct. The grandfather's name, as recorded by the Parian Marble, was also Simonides, and it has been argued by some scholars that the earliest references to Simonides in ancient sources might in fact be references to this grandfather. However, the Parian Marble is known to be unreliable and possibly it was not even the grandfather but a grandson that won the aforementioned victory in Athens.<ref>John H. Molyneux, ''Simonides: A Historical Study'', Balchazy-Caducci Publishers (1992), pages 26, 67-68</ref> According to the Suda, this grandson was yet another [[Simonides the genealogist|Simonides]] and he was the author of books on genealogy.<ref>''Suda'', Simonides (4th notice), cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 335</ref>
+
+===Early years: Ceos and Athens===
+[[File:Ioulida3.jpg|right|thumb|Ioulis, present-day capital of Kea (Ceos in Ancient Greek), including remnants of the ancient acropolis. Like most Cycladic settlements, it was built inland on a readily defensible hill as protection against pirates]]
+Simonides was the son of Leoprepes, and the grandson or descendant of Hylichus.<ref>[[Herodotus]], [[Histories (Herodotus)|Histories]]   [https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0126%3Abook%3D7%3Achapter%3D228 7.228]; Callimachus fr. 222 Pfeiffer; [[Suda]] {{lang|grc-x-medieval|σ}} [https://www.cs.uky.edu/~raphael/sol/sol-entries/sigma/439 439-441].</ref> He was born in [[Ioulis]] on [[Kea (island)|Ceos]] (Ἰουλίς, Κέως), the outermost island of the  [[Cyclades]]. The innermost island, [[Delos]], was the reputed birthplace of [[Apollo]], where the people of Ceos regularly sent choirs to perform hymns in the god's honour. [[Carthaea]], another Cean town, included a choregeion or school where choirs were trained, and possibly Simonides worked there as a teacher in his early years.<ref> Athenaeus 10.456c-57b.</ref>
+
+In addition to its musical culture, Ceos had a rich tradition of athletic competition, especially in running and boxing (the names of Ceans victorious at Panhellenic competitions were recorded at Ioulis on slabs of stone) making it fertile territory for a genre of [[choral poetry|choral lyric]] that Simonides pioneered—the [[Epinikion|victory ode]]. Indeed, the grandfather of Simonides' nephew, Bacchylides, was one of the island's notable athletes.<ref>Jebb, ''Bacchylides: the poems and fragments'', Cambridge University Press (1905), page 5 [https://archive.org/stream/bacchylidespoem00jebbgoog#page/n9/mode/1up digitalized by Google]</ref>
+
+Ceos lies only some fifteen miles south-east of [[Attica]], whither Simonides was drawn, about the age of thirty, by the lure of opportunities opening up at the court of the tyrant [[Hipparchus (son of Pisistratus)|Hipparchus]], a patron of the arts. His rivalry there with another chorus-trainer and poet, [[Lasus of Hermione]], became something of a joke to Athenians of a later generation—it is mentioned briefly by the comic playwright [[Aristophanes]]<ref>[[Aristophanes]], ''[[The Wasps]]'' 1411 [[wikt:ff.|ff.]], cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 299</ref> who earmarked Simonides as a miserly type of professional poet (see [[Simonides#The miser|The Miser]] below)
+
+===Middle career: Thessaly===
+After the assassination of Hipparchus (514&nbsp;BC), Simonides withdrew to [[Thessaly]], where he enjoyed the protection and patronage of the [[Aleuadae#Historical Aleuadae|Scopadae and Aleuadae]]. These were two of the most powerful families in the Thessalian feudal aristocracy yet they seemed notable to later Greeks such as [[Theocritus]] only for their association with Simonides.<ref>Theocritus, 16.42-47, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 341</ref> Thessaly at that time was a cultural backwater, remaining in the 'Dark Ages' until the close of the 5th&nbsp;century. According to an account by [[Plutarch]], the Ionian poet once dismissed the Thessalians as "too ignorant" to be beguiled by poetry.<ref>Plutarch, ''aud. poet.'' 15c, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 341</ref>
+
+Among the most colourful of his "ignorant" patrons was the head of the Scopadae clan, named Scopas. Fond of drinking, convivial company and vain displays of wealth, this aristocrat's proud and capricious dealings with Simonides are demonstrated in a traditional account related by [[Cicero]]<ref>Cicero, ''de orat.'' 2.86.351-3, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 375</ref> and [[Quintilian]],<ref>Quintilian, ''Inst.'' 11.2.11-16, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 377</ref> according to which the poet was commissioned to write a victory ode for a boxer. Simonides embellished his ode with so many references to the twins [[Castor and Pollux]] (heroic archetypes of the boxer) that Scopas told him to collect half the commissioned fee from them — he would only pay the other half.<ref>John H. Molyneux, ''Simonides: A Historical Study'', Bolchazy-Caducci Publishers (1992), pages 117-24</ref> Simonides however ended up getting much more from the mythical twins than just a fee: He owed them his very life (see [[Simonides#Miraculous escapes|Miraculous escapes]]). According to this story he was called out of the feast hall to see two visitors who had arrived and were asking for him – presumably Castor and Pollux. As soon as he left the hall, it collapsed, killing everyone within. These events were said to have inspired him to develop a system of mnemonics based on images and places called the [[method of loci]]. The method of loci is one component of the [[Art of memory]].
+
+===Career highlight: Persian Wars===
+The Thessalian period in Simonides' career is followed in most biographies by his return to Athens during the [[Persian Wars]] and it is certain that he became a prominent international figure at that time,<ref>John H. Molyneux, ''Simonides: A Historical Study'', Bolchazy-Caducci Publishers (1992), page 147</ref> particularly as the author of commemorative verses. According to an anonymous biographer of [[Aeschylus]],<ref>''Vit. Aesch.'', cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 342-2</ref> the Athenians chose Simonides ahead of Aeschylus to be the author of an epigram honouring their war-dead at [[Battle of Marathon|Marathon]], which led the tragedian (who had fought at the battle and whose brother had died there) to withdraw sulking to the court of [[Hieron of Syracuse]] — the story is probably based on the inventions of comic dramatists<ref name="David Campbell 1982 page 378">David Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 378</ref> but it is likely that Simonides did in fact write some kind of commemorative verses for the Athenian victory at Marathon.<ref>John H. Molyneux, ''Simonides: A Historical Study'', Bolchazy-Caducci Publishers (1992), page 153</ref>
+
+His ability to compose tastefully and poignantly on military themes put him in great demand among Greek states after their defeat of the second Persian invasion, when he is known to have composed epitaphs for Athenians, Spartans and Corinthians, a commemorative song for [[Leonidas]] and his men, a dedicatory epigram for [[Pausanias (general)|Pausanias]], and poems on the battles of [[Battle of Artemisium|Artemisium]], [[Battle of Salamis|Salamis]],<ref name="David Campbell 1982 page 378"/> and [[Battle of Plataea|Plataea]].<ref>D. Boedeker and D. Sider (eds), ''The New Simonides:contexts of praise and desire'', Oxford University Press (2001)</ref>
+
+According to [[Plutarch]], the Cean had a statue of himself made about this time, which inspired the Athenian politician [[Themistocles]] to comment on his ugliness. In the same account, Themistocles is said to have rejected an attempt by the poet to bribe him, then likened himself as an honest magistrate to a good poet, since an honest magistrate keeps the laws and a good poet keeps in tune.<ref>Plutarch ''Them.'' 5.6-7, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), pages 339, 353</ref> [[Suda]] mentions a feud between Simonides and the Rhodian lyric poet, [[Timocreon]], for whom Simonides apparently composed a mock epitaph that touches on the issue of the Rhodian's [[medism]]—an issue that also involved Themistocles.<ref>David Campbell, ''Greek Lyric IV'', Loeb Classical Library (1992), pages 84-97</ref>
+
+===Final years: Sicily===
+The last years of the poet's life were spent in Sicily, where he became a friend and confidant of Hieron of Syracuse. According to a [[scholia]]st on Pindar, he once acted as peace-maker between Hieron and another Sicilian tyrant, [[Theron of Acragas]], thus ending a war between them.<ref>Scholiast on Pindar, ''Ol.'' 2.29d, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 345</ref> Scholiasts are the only authority for stories about rivalry between Simonides and Pindar at the court of Hieron, traditionally used to explain some of the meanings in Pindar's victory odes<ref>Geoffrey S. Conway, ''The Odes of Pindar'', John Dent and Sons (1972), pages 10, 88-89</ref> (see the articles on [[Bacchylides]] and [[Pindar]]). If the stories of rivalry are true, it may be surmised that Simonides's experiences at the courts of the tyrants, Hipparchus and Scopas, gave him a competitive edge over the proud Pindar and enabled him to promote the career of his nephew, Bacchylides, at Pindar's expense.<ref>Jebb, ''Bacchylides: the poems and fragments'', Cambridge University Press (1905), pages 12-26</ref> However, Pindar scholiasts are generally considered unreliable,<ref>Ian Rutherford, ''Pindar's Paeans'', Oxford University Press (2001), pages 321-322</ref> and there is no reason to accept their account.<ref>D. Campbell, ''Greek Lyric IV: Bacchylides, Corinna and Others'', Loeb Classical Library (1992), page 6</ref> The Hellenistic poet [[Callimachus]] revealed in one of his poems that Simonides was buried outside [[Agrigento|Acragas]], and that his tombstone was later misused in the construction of a tower.<ref>Callim. fr.64.1-14, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), pages 345-346</ref>
+
+===Biographical themes===
+Traditional accounts of the poet's life embody a variety of themes.
+
+====Miraculous escapes====
+[[File:Pompeii - Casa del Poeta Tragico - Theater 3.jpg|thumb|right|Detail of a mosaic in Pompeii ([[House of the Tragic Poet]]) showing a poet]]
+
+As mentioned above, both Cicero and Quintilian are sources for the story that Scopas, the Thassalian nobleman, refused to pay Simonides in full for a victory ode that featured too many decorative references to the mythical twins, Castor and Pollux. According to the rest of the story, Simonides was celebrating the same victory with Scopas and his relatives at a banquet when he received word that two young men were waiting outside to see him. When he got outside, however, he discovered firstly that the two young men were nowhere to be found and, secondly, that the dining hall was collapsing behind him. Scopas and a number of his relatives were killed. Apparently the two young men were the twins and they had rewarded the poet's interest in them by thus saving his life. Simonides later benefited from the tragedy by deriving a system of mnemonics from it (see [[Simonides#The inventor|The inventor]]). Quintilian dismisses the story as a fiction because "the poet nowhere mentions the affair, although he was not in the least likely to keep silent on a matter which brought him such glory&nbsp;..."<ref>{{cite book |author=Quintilian |chapter=''Inst''. 11.2.11-16 |translator=Campbell, D. |title=Greek Lyric III |page=379}}</ref> This however was not the only miraculous escape that his piety afforded him.
+
+There are two epigrams in the [[Palatine Anthology]], both attributed to Simonides and both dedicated to a drowned man whose corpse the poet and some companions are said to have found and buried on an island. The first is an epitaph in which the dead man is imagined to invoke blessings on those who had buried the body, and the second records the poet's gratitude to the drowned man for having saved his own life – Simonides had been warned by his ghost not to set sail from the island with his companions, who all subsequently drowned.<ref>''A.P.'' 7.7 and 7.516</ref><ref>Cicero ''de Div.'' 1.27.56; cited by D. Campbell in ''Greek Lyric III'', page&nbsp;589</ref>
+
+====The inventor====
+During the excavation of the rubble of Scopas's dining hall, Simonides was called upon to identify each guest killed. Their bodies had been crushed beyond recognition but he completed the gruesome task by correlating their identities to their positions (''loci'' in [[Latin language|Latin]]) at the table before his departure. He later drew on this experience to develop the 'memory theatre' or '[[memory palace]]', a system for [[mnemonic]]s widely used in [[orality|oral]] societies until the [[Renaissance]].<ref>[[Francis A. Yates]]. 'The Art of Memory', University of Chicago Press, 1966, p. 2</ref> According to Cicero, Themistocles wasn't much impressed with the poet's invention: "I would rather a technique of forgetting, for I remember what I would rather not remember and cannot forget what I would rather forget."<ref>Cicero ''de Fin.'' 2.104, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 351</ref> 
+
+The [[Suda]] credits Simonides with inventing "the third note of the lyre" (which is known to be wrong since the lyre had seven strings from the 7th&nbsp;century), and four letters of the Greek alphabet.<ref>Suda Σ&nbsp;439, cited, translated and annotated by D. Campbell, ''Greek Lyric III'', page 330.</ref> Whatever the validity of such claims, a creative and original turn of mind is demonstrated in his poetry as he likely invented the genre of the victory ode<ref>D. Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 379</ref> and he gave persuasive expression to a new set of ethical standards (see [[Simonides#Ethics|Ethics]]).
+
+====The miser====
+In his play ''[[Peace (play)|Peace]]'', [[Aristophanes]] imagined that the tragic poet [[Sophocles]] had turned into Simonides: "He may be old and decayed, but these days, if you paid him enough, he'd go to sea in a sieve."<ref>Aristophanes, ''[[Peace (play)|Peace]]'' 695&nbsp;[[wikt:ff.|ff.]], translated by A.H. Sommerstein, ''Aristophanes: The Birds and Other Plays'', Penguin Books (1978), page 121</ref> A [[Scholion|scholiast]], commenting on the passage, wrote: "Simonides seems to have been the first to introduce money-grabbing into his songs and to write a song for pay" and, as proof of it, quoted a passage from one of Pindar's odes ("For then the Muse was not yet fond of profit nor mercenary"), which he interpreted as covert criticism of Simonides. The same scholiast related a popular story that the poet kept two boxes, one empty and the other full – the empty one being where he kept favours, the full one being where he kept his money.<ref>For scholiast see D.A. Campbell, ''Greek Lyric III'', page 349</ref><ref>for Pindar's ode, see ''Isthmian'' 2, antistrophe&nbsp;1</ref> According to [[Athenaeus]], when Simonides was at Hieron's court in [[Syracuse, Sicily|Syracuse]], he used to sell most of the daily provisions that he received from the tyrant, justifying himself thus: "So that all may see Hieron's magnificence and my moderation."<ref>Athenaeus 14.656de, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 349</ref> [[Aristotle]] reported that the wife of Hieron once asked Simonides whether it was better to be wealthy or wise, to which he apparently replied: "Wealthy; for I see the wise spending their days at the doors of the wealthy."<ref>Aristotle ''Rhet.'' 2.16.1391a, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 365</ref>
+
+According to an anecdote recorded on a papyrus, dating to around 250&nbsp;BC, Hieron once asked the poet if everything grows old: "Yes," Simonides answered, "all except money-making; and kind deeds age most quickly of all."<ref>''Hibeh Papyrus'' 17, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 365</ref> He once rejected a small fee to compose a victory ode for the winner of a mule race (it was not a prestigious event) but, according to Aristotle, changed his mind when the fee was increased, resulting in this magniloquent opening: "Greetings, daughters of storm-footed steeds!"<ref>Aristotle ''Rhet.'' 3.2.1405b, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 383</ref> In a quote recorded by [[Plutarch]], he once complained that old age had robbed him of every pleasure but making money.<ref>Plutarch ''an Seni'' 768b, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 365</ref>
+
+All these amusing anecdotes might simply reflect the fact that he was the first poet to charge fees for his services – generosity is glimpsed in his payment for an inscription on a friend's epitaph, as recorded by [[Herodotus]].<ref>David Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 379, citing ''Herodotus'' 7.228.3-4</ref> Herodotus also mentions an earlier poet [[Arion]], who had amassed a fortune on a visit to Italy and Sicily, so maybe Simonides was not the first professional poet, as claimed by the Greeks themselves.<ref>Hdt. 1.24.1, cited by C.M. Bowra, ''Pindar'', Oxford University Press (reprint 2000), p.&nbsp;355</ref>
+
+====The sage and wit====
+[[File:Lyric-poetry-Walker-Highsmith.jpeg|thumb|390px|''Lyric Poetry'', painted by [[Henry Oliver Walker]] (Thomas Jefferson Building, Washington D.C.).<br>"''Simonides calls painting silent poetry and poetry painting that speaks''" — [[Plutarch]].]]
+[[Plato]], in ''[[The Republic (Plato)|The Republic]]'', numbered Simonides with [[Bias of Priene|Bias]] and [[Pittacus of Mytilene|Pittacus]] among the [[Seven Sages of Greece|wise and blessed]], even putting into the mouth of [[Socrates]] the words "it is not easy to disbelieve Simonides, for he is a wise man and divinely inspired," but in his dialogue ''[[Protagoras (dialogue)|Protagoras]]'', Plato numbered Simonides with [[Homer]] and [[Hesiod]] as precursors of the [[sophist]].<ref>Plato ''Resp.'' i 331de and 335e, and ''Prot.'' 316d, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), pages 357, 497</ref> A number of apocryphal sayings were attributed to him.
+
+[[Michael Psellos]] accredited him with "the word is the image of the thing."<ref>Michael Psellos, ''On the Working of Demons'', cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 363</ref> Plutarch commended "the saying of Simonides, that he had often felt sorry after speaking but never after keeping silent"<ref>Plutarch, ''de garr.'' 514f-515a, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 367</ref> and observed that "Simonides calls painting silent poetry and poetry painting that speaks"<ref>Plutarch, ''De gloria Atheniensium'' 3.346f, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 363</ref> (later paraphrased by the Latin poet [[Horace]] as [[ut pictura poesis]]).
+
+[[Diogenes Laërtius]], after quoting a famous epigram by [[Cleobulus#Works|Cleobulus]] (one of ancient Greece's 'seven sages') in which a maiden sculptured on a tomb is imagined to proclaim her eternal vigilance, quotes Simonides commenting on it in a poem of his own: "Stone is broken even by mortal hands. That was the judgement of a fool."<ref>Diogenes Laërtius, ''Lives of the Philosophers'', cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 465</ref> His rationalist view of the cosmos is evinced also in Plutarch's letter of consolation to Apollonius: "according to Simonides a thousand or ten thousand years are an indeterminable point, or rather the tiniest part of a point."<ref>Plutarch, ''consol. Apoll.'' 17, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 501</ref>
+
+Cicero related how, when Hieron of Syracuse asked him to define god, Simonides continually postponed his reply, "because the longer I deliberate, the more obscure the matter seems to me."<ref>{{cite book |author=Cicero |author-link=Cicero |title=De Natura Deorum |trans-title=On the Nature of the Gods |url=https://en.wikipedia.org/wiki/De_Natura_Deorum |publisher=Academica |translator=Rackham, Harris |page=59 |year=1933 |orig-year=45 BC |id=1.22.60 |df=dmy-all}} [https://archive.org/stream/denaturadeorumac00ciceuoft#page/58/mode/2up Alt URL]</ref> [[Stobaeus]] recorded this reply to a man who had confided in Simonides some unflattering things he had heard said about him: "Please stop slandering me with your ears!".<ref>Stobaeus, ''Ecl.'' 3.2.41, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 367</ref>
+
+== Poetry ==
+Simonides composed verses almost entirely for public performances and inscriptions, unlike previous lyric poets such as [[Sappho]] and [[Alcaeus of Mytilene|Alcaeus]], who composed more intimate verses to entertain friends—"With Simonides the age of individualism in lyric poetry has passed."<ref>Weir Smith, quoted by David A. Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 379</ref> Or so it seemed to modern scholars until the recent discovery of papyrus ''P.Oxy.''&nbsp;3965<ref>{{cite book |editor-first1=Deborah |editor-last1=Boedeker |editor-first2=David |editor-last2=Sider |title=The New Simonides: Contexts of praise and desire |location=New York; Oxford |publisher=Oxford University Press - USA |year=2001}}</ref> in which Simonides is glimpsed in a [[Symposium|sympotic context]], speaking for example as an old man rejuvenated in the company of his homo-erotic lover, couched on a bed of flowers.<ref>fragment&nbsp;22, cited by Michael W. Haslam, ''Bryn Mawr Classical Review'', reviewing M.L. West's ''Iambi et Elegi Graeci ante Alexandrum cantati, vol. II'', [http://bmcr.brynmawr.edu/1993/04.02.14.html online copy]</ref> Some of the short passages identified by ancient or modern authors as epigrams may also have been performed at symposia. Very little of his poetry survives today but enough is recorded on papyrus fragments and in quotes by ancient commentators for many conclusions to be drawn at least ''tentatively'' (nobody knows if and when the sands of Egypt will reveal further discoveries).
+
+Simonides wrote a wide range of choral lyrics with an [[Ionic Greek|Ionian]] flavour and elegiac verses in [[Doric Greek|Doric]] idioms. He is generally credited with inventing a new type of choral lyric, the [[encomium]], in particular popularizing a form of it, the [[Epinikion|victory ode]]. These were extensions of the [[hymn]], which previous generations of poets had dedicated only to gods and heroes:
+{{Quote|But it was Simonides who first led the Greeks to feel that such a tribute might be paid to any man who was sufficiently eminent in merit or in station. We must remember that, in the time of Simonides, the man to whom a hymn was addressed would feel that he was receiving a distinction which had hitherto been reserved for gods and heroes. — |[[Richard Claverhouse Jebb|R.C. Jebb (1905)]]<ref>{{cite book |author=Jebb, R.C. |author-link=Richard Claverhouse Jebb |title=Bacchylides: The poems and fragments |publisher=Cambridge University Press |year=1905 |pages=33–34 |url=https://archive.org/stream/bacchylidespoem00jebbgoog#page/n9/mode/1up |via=Google books}}</ref>}}
+In one victory ode, celebrating Glaucus of Carystus, a famous boxer, Simonides declares that not even [[Heracles]] or [[Castor and Pollux|Polydeuces]] could have stood against him—a statement whose impiety seemed notable even to [[Lucian]] many generations later.<ref>Lucian, ''pro. imag.'' 19, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 373</ref>
+
+Simonides was the first to establish the choral [[dirge]] as a recognized form of lyric poetry,<ref>{{cite book |author=Jebb, R.C. |author-link=Richard Claverhouse Jebb |title=Bacchylides: The poems and fragments |publisher=Cambridge University Press |year=1905 |page=40 |url=https://archive.org/stream/bacchylidespoem00jebbgoog#page/n9/mode/1up |via=Google books}}</ref> his aptitude for it being testified, for example, by Quintillian (see quote in the Introduction), [[Horace]]("''Ceae ... munera neniae''"),<ref>Horace, ''Carm.'' 2.1.38, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 359</ref> [[Catullus]] ("''maestius lacrimis Simonideis''")<ref>Catullus, 38.8, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 357</ref> and [[Dionysius of Halicarnassus]], where he says:
+{{Quote|Observe in Simonides his choice of words and his care in combining them; in addition—and here he is found to be better even than Pindar—observe how he expresses pity not by using the grand style but by appealing to the emotions.<ref>Dionysius of Halicarnasus, ''Imit.'' 2.420, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 359</ref>}}
+
+Simonides was adept too at lively compositions suited to dancing ([[hyporchema]]), for which he is commended by Plutarch.<ref>Plutarch, ''Quaest. conviv.'' ix 15.2, cited by Jebb, ''Bacchylides: the poems and fragments'', Cambridge University Press (1905), page 40</ref> He was highly successful in dithyrambic competitions according to an anonymous epigram dating from the Hellenistic period, which credited him with 57&nbsp;victories, possibly in Athens.<ref>Anonymous epigram, cited by John H. Molyneux, ''Simonides: A Historical Study'', Bolchazy-Carducci Publishers (1992), pages 102-103</ref> The [[dithyramb]], a genre of lyrics traditionally sung to Dionysus, was later developed into narratives illustrating heroic myths; Simonides is the earliest poet known to have composed in this enlarged form<ref>Jebb, ''Bacchylides: the poems and fragments'', Cambridge University Press (1905), page 39</ref> (the geographer [[Strabo]] mentioned a dithyramb, ''Memnon'', in which Simonides located the hero's tomb in Syria, indicating that he didn't compose only on legends of Dionysus.)<ref>Strabo 15.3.2, cited by David Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 379</ref>
+
+Simonides has long been known to have written epitaphs for those who died in the Persian Wars and this has resulted in many pithy verses being misattributed to him "...&nbsp;as wise saws to Confucius or musical anecdotes to [[Thomas Beecham|Beecham]]."<ref>David Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 380</ref> Modern scholars generally consider only one of the attributed [[epigram]]s to be unquestionably authentic (an inscription for the seer Megistius quoted by [[Herodotus]]),<ref>Herodotus, 7.228.3-4, cited by John H. Molyneux, ''Simonides: A Historical Study'', Bolchazy-Carducci Publishers (1992), page 19</ref> which places in doubt even some of the most famous examples, such as the one to the Spartans at Thermopylae, quoted in the introduction. He composed longer pieces on a Persian War theme, including ''Dirge for the Fallen at Thermopylae'', ''Battle at [[Battle of Artemisium|Artemisium]]'' and ''Battle at [[Battle of Salamis|Salamis]]'' but their genres are not clear from the fragmentary remains - the first was labelled by [[Diodorus Siculus]] as an ''encomium'' but it was probably a hymn<ref>Diodorus Siculus, 11.11.6, cited by David A. Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 383</ref> and the second was characterized in the Suda as elegiac yet [[Priscian]], in a comment on prosody, indicated that it was composed in lyric meter.<ref>Suda Σ&nbsp;439, Priscian ''de metr. Ter.'' 24, cited and annotated by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 425</ref> Substantial fragments of a recently discovered poem, describing the run-up to the [[Battle of Plataea]] and comparing [[Pausanias (general)|Pausanias]] to [[Achilles]], show that he actually did compose narrative accounts in elegiac meter.<ref>Deborah Boedeker and David Sider (eds.), ''The New Simonides: Contexts of Praise and Desire'' (New York and Oxford: OUP-USA, 2001)</ref> Simonides also wrote ''[[Paean]]s'' and ''Prayers/Curses'' ({{lang|grc|κατευχαί}})<ref>Scholiasts on Homer and Plutarch, cited by D. Campbell, ''Greek Lyric III'', Loeb Classical Library (1991), page 429-431</ref> and possibly in some genres where no record of his work survives.<ref>Jebb, ''Bacchylides: The poems and fragments'', Cambridge University Press (1905), page 43</ref>
+
+===Poetic style===
+Like other lyric poets in late [[Archaic Greece]], Simonides made notable use of compound adjectives and decorative epithets yet he is also remarkable for his restraint and balance. His expression was clear and simple, relying on straightforward statement. An example is found in a quote by [[Stobaeus]]<ref>Simonides 521 ''PMG'', Stobaeus 4.41, cited David A. Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 90</ref> paraphrased here to suggest the original [[Aeolic verse]] rhythms, predominantly [[choriamb]]ic ( ¯˘˘¯, ¯˘˘¯ ), with some [[dactylic expansion]] (¯˘˘¯˘˘¯) and an [[Iamb (foot)|iambic]] close (˘¯,˘¯): 
+
+{{poemquote|
+Being a man you cannot tell what might befall when tomorrow comes
+Nor yet how long one who appears blessed will remain that way,
+So soon our fortunes change even the long-winged fly
+Turns around less suddenly.
+}}
+
+The only decorative word is 'long-winged' ({{lang|grc|τανυπτέρυγος}}), used to denote a [[dragonfly]], and it emerges from the generalized meanings of the passage as an 'objective correlative' for the fragility of the human condition.<ref>Charles Segal, 'Choral lyric in the fifth century', P. Easterling and B. Knox (ed.s), ''The Cambridge History of Classical Literature: Greek Literature'', Cambridge University Press (1985), page 226</ref> The rhythm evokes the movement of the dragonfly and the mutability of human fortunes.<ref>David A. Campbell, ''Greek Lyric Poetry'', Bristol Classical Press (1982), page 383</ref>
+
+== Ethics ==
+Simonides championed a tolerant, humanistic outlook that celebrated ordinary goodness, and recognized the immense pressures that life places on human beings.<ref>{{cite book |first=Charles |last=Segal |chapter=Choral Lyric in the Fifth Century |editor1=Easterling, P. |editor2=Knox, B. |series=The Cambridge History of Classical Literature |title=Greek Literature |publisher=Cambridge University Press |year=1985 |page=244}}</ref> This attitude is evident in the following poem of Simonides (fr.&nbsp;542){{Opinion|date=February 2020}}, quoted in Plato's dialogue, the [[Protagoras (dialogue)|Protagoras]], and reconstructed here according to a recent interpretation, making it the only lyric poem of Simonides that survives intact:<ref>{{cite journal |title=Nobody's Perfect: A new text and interpretation of Simonides PMG&nbsp;542 |journal=Classical Philology |volume=103 |issue=3 |year=2008 |pages=237–256|doi=10.1086/596516 |last1=Beresford |first1=Adam |s2cid=162250223 }}{{full citation|missing translator/modern author's name|date=July 2019}}</ref><ref group=lower-alpha>
+::ἄνδρ' ἀγαθὸν μὲν ἀλαθέως γενέσθαι &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; στρ.&nbsp;'''α'''
+::χαλεπὸν, χερσίν τε καὶ ποσὶ καὶ νόωι
+:::: τετράγωνον, ἄνευ ψόγου τετυγμένον·
+::θεὸς ἂν μόνος τοῦτ' ἔχοι γέρας‧ ἄνδρα δ' οὐκ
+:::: ἔστι μὴ οὐ κακὸν ἔμμεναι,<br/>
+::ὃν ἀμήχανος συμφορὰ καθέληι·
+::πράξας γὰρ εὖ πᾶς ἀνὴρ ἀγαθός,
+::κακὸς δ' εἰ κακῶς, <οὓς
+::δ’ οἱ θεοὶ φιλέωσιν
+::πλεῖστον, εἰσ’ ἄριστοι.><br/>
+
+::οὐδ᾽ ἐμοὶ ἐμμελέως τὸ Πιττάκειον  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; στρ.&nbsp;'''β'''
+::νέμεται, καίτοι σοφοῦ παρὰ φωτὸς εἰ-
+:::: ρημένον· χαλεπὸν φάτ' ἐσθλὸν ἔμμεναι.
+::<ἐμοὶ ἀρκέει> μητ' <ἐὼν> ἀπάλαμνος εἰ-
+:::: δώς τ' ὀνησίπολιν δίκαν,<br/>
+::ὑγιὴς ἀνήρ· οὐ<δὲ μή νιν> ἐγώ
+::μωμήσομαι· τῶν γὰρ ἠλιθίων
+::ἀπείρων γενέθλα.
+::πάντα τοι καλά, τοῖσίν
+::τ' αἰσχρὰ μὴ μέμεικται.<br/>	
+
+::τοὔνεκεν οὔ ποτ' ἐγὼ τὸ μὴ γενέσθαι  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; στρ.&nbsp;'''γ'''
+::δυνατὸν διζήμενος κενεὰν ἐς ἄ-
+:::: πρακτον ἐλπίδα μοῖραν αἰῶνος βαλέω,
+::πανάμωμον ἄνθρωπον, εὐρυεδέος ὅσοι
+:::: καρπὸν αἰνύμεθα χθονός·<br/>
+::ἐπὶ δ' ὔμμιν εὑρὼν ἀπαγγελέω.
+::πάντας δ' ἐπαίνημι καὶ φιλέω,
+::ἑκὼν ὅστις ἔρδηι
+::μηδὲν αἰσχρόν· ἀνάγκαι
+::δ' οὐδὲ θεοὶ μάχονται.<br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; — PMG 542				
+</ref>
+{{poemquote|
+For a man it’s certainly hard to be truly good 
+— ''perfect'' in hands, feet, and mind, 
+built ''without a single flaw''; 
+only a god could have that prize; 
+but a mere man, 
+there’s just no way he can help being bad 
+when some overwhelming disaster knocks him down. 
+Any man’s good when life treats him well, 
+and bad when it treats him badly, 
+and the best of us are the ones the gods love most.}}
+
+{{poemquote|
+But for me that saying of Pittacus doesn’t ring true either 
+(even if he was a smart man): He says “being good is hard.” 
+For ''me'', a man’s good enough as long as he’s not lawless, 
+and if he has the common sense of right and wrong 
+that does a city good — a decent guy. 
+I certainly won’t find fault with a man like that. 
+After all, there’s an endless supply of stupid fools. 
+The way I see it, 
+if there’s no great shame in it, 
+it’s all right.}}
+
+{{poemquote|
+So I’m not going to throw away 
+my short allotment of life on a futile, silly hope, 
+searching for something there simply cannot be — 
+a completely blameless man — not among us mortals 
+who must win our bread from the broad earth. 
+(Of course, if I ''do'' happen to come across one, 
+I’ll be sure to let you know.) 
+So long as he doesn’t willfully do wrong, 
+I give my praise and love to any man. 
+But not even the gods can resist necessity.}}
+
+==Notes==
+{{notelist|1}}
+
+== References ==
+* Campbell, David A. 1982. ''Greek Lyric Poetry'', Bristol Classical Press.
+
+* Campbell, David A. 1991. ''Greek Lyric III'', Loeb Classical Library.
+
+* Campbell, David A. 1992. ''Greek Lyric IV'', Loeb Classical Library.
+
+* Molyneux, J. 1992. ''Simonides: A Historical Study''. Wauconda, IL.
+
+*  Boedeker, Deborah & Sider, David [Eds.] 2001. ''The New Simonides: Contexts of Praise and Desire'', New York & Oxford: Oxford U. Press - USA.
+
+* Poltera, Orlando. ''Simonides lyricus: Testimonia und Fragmente. Einleitung, kritische Ausgabe, Übersetzung und Kommentar.'' Basel 2008.
+
+* Sider, David. ''Simonides: Epigrams and Elegies.'' Oxford 2020. 
+
+{{reflist|2}}
+
+==Further reading==
+* Molyneux, John H. 1992. ''Simonides: A Historical Study''. Wauconda, IL.
+
+* Boedeker, Deborah & Sider, David [Eds.] 2001. ''The New Simonides: Contexts of Praise and Desire'', New York & Oxford: Oxford U. Press - USA. A collection of essays on the Simonides papyri.
+
+* Poltera, Orlando. 1997. ''Le langage de Simonide. Etude sure la tradition poetique et son renouvellement''. Bern: Peter Lang.
+
+* Bravi, Luigi. 2006. "Gli epigrammi di Simonide e le vie della tradizione", ''Filologia e critica'', 94. Roma: Edizioni dell'Ateneo.
+
+* Petrovic, Andrej. 2007. ''Kommentar zu den simonideischen Versinschriften''. (Mnemosyne, bibliotheca classica Batava. Supplementum, 282) (Leiden: Brill).
+
+* Poltera, Orlando. 2008. ''Simonides lyricus: Testimonia und Fragmenta''. Basel. The remains of his lyric poetry, with a commentary in German.
+
+* Rawles, Richard. 2018. ''Simonides the Poet: Intertextuality and Reception''. Cambridge.
+
+===Translations in other languages===
+*  {{cite web |title=Ἐπιγράμματα |trans-title=Epigramas Bélicos |translator=de Brose, Robert |url=http://www.notadotradutor.com/edicoes.html |series=(n.t.) Revista Literária em Tradução nº 2 |date=Mar 2011 |publisher=Fpolis |location=Brasil |issn=2177-5141}}
+
+== External links ==
+{{commons category|Simonides}}
+{{wikiquote}}
+{{wikisourcelang|el|Σιμωνίδης ο Κείος|Σιμωνίδης ὁ Κεῖος}}
+
+* {{wikisource author-inline|Simonides of Keos|Simonides of Ceos}}
+
+* {{cite web |url=http://www.csad.ox.ac.uk/POxy/VExhibition/3965.htm |title=Simonides' ''Elegies'': second century AD}}
+
+* {{cite web |url=http://www.attalus.org/poetry/simonides.html |title=Simonides: translation of all surviving epigrams |website=attalus.org |quote=adapted from W.R. Paton (1916–1918)}}
+
+* {{cite web |url=http://zitogiuseppe.com/loci.html |title='Memory Palace' or 'Method of Loci'}}
+
+* {{cite web |url=http://www.aestheticrealism.net/poetry/Thermopylae-Simonides.htm |title=At Thermopylae |quote=translation with note}}
+
+* {{cite web |url=http://www.scottmanning.com/content/warpath-wednesday-go-tell-the-spartans/ |title=Go tell the Spartans |quote=review various uses of Simonides' Thermopylae epitaph}}
+
+{{Lyric poets}}
+{{Authority control}}
+
+{{DEFAULTSORT:Simonides Of Ceos}}
+[[Category:550s BC births]]
+[[Category:468 BC deaths]]
+[[Category:6th-century BC Greek people]]
+[[Category:5th-century BC Greek people]]
+[[Category:Ancient Greek poets]]
+[[Category:5th-century BC poets]]
+[[Category:Ancient Greek educators]]
+[[Category:Ancient Greek musicians]]
+[[Category:Mnemonics]]
+[[Category:Nine Lyric Poets]]
+[[Category:Epigrammatists of the Greek Anthology]]
+[[Category:Ancient Greeks in Thessaly]]
+[[Category:Ionic Greek poets]]
+[[Category:Doric Greek poets]]
+[[Category:People from Kea (island)]]

@@ -1,0 +1,70 @@
+{{short description|Spanish poet}}
+[[Image:Retrato de Baltasar del Alcázar por Pacheco.jpg|thumb|right|200px|Baltasar del Alcázar]]
+'''Baltasar del Alcázar''' (1530 in [[Seville, Spain]]–16 February 1606 in [[Ronda]]) was a [[Spain|Spanish]] [[poet]].<ref name="Fitzmaurice-Kelly">{{cite book|last=Fitzmaurice-Kelly|first=James|title=Cambridge Readings In Spanish literature|publisher=The University press|year=1920|url=https://archive.org/details/cambridgereadin00kelgoog|quote=Baltasar del Alcázar 1530.|page=[https://archive.org/details/cambridgereadin00kelgoog/page/n71 49]}}</ref> He was the sixth child of [[Luis del Alcázar]]. His poetry was about life and love, most of it spiced with a keen sense of humor.
+
+==Works==
+
+A short example of his poetry is ''Tres Cosas'' (''Three Things''):
+{{Verse translation|
+{{lang|es|Tres cosas me tienen preso
+de amores el corafzón.
+La bella Inés, el jamón
+y berenjenas con queso.}}
+|
+Three things have caught my heart:
+
+The pretty Inés, [[cured ham]]
+and [[aubergine]]s with [[cheese]].}}
+
+===Epigrams===
+* ''A un giboso de delante''
+* ''A una mujer escuálida''
+* ''Constanza''
+* ''Dios nos guarde''
+* ''Doña Valentina''
+* ''El estudiante'' (''The Student'')
+* ''Hiere la hermosa Elvira...''
+* ''Entraron en una danza...'' (''El baile'')
+* ''Job''
+* ''La capa'' (''The Hat'')
+* ''La nariz de Clara''
+* ''Los ojos de Ana''
+* ''Salir por pies''
+* ''Preso de amores''
+* ''Su modo de vivir en la vejez''
+* ''Una cena jocosa''
+* ''Yo acuerdo revelaros un secreto''.
+
+===Sonnets===
+* ''A Cristo''
+* ''Al amor''
+* ''Cercada está mi alma de contrarios''
+* ''Di, rapaz mentiroso''.
+
+===Other===
+* ''Cena jocosa''
+* ''Diálogo entre dos perrillos''
+* ''Diálogo entre un galán y el eco''
+* ''Consejos a una viuda''.
+
+==Notes==
+{{Reflist}}
+
+==External links==
+{{Commons category|Baltasar del Alcázar}}
+*[https://web.archive.org/web/20110708024443/http://baltasardelalcazar.blogspot.com/ Poesía de Baltasar del Alcazar] web site with many poems written by Baltasar del Alcázar (in Spanish). It also has audio files.
+* {{Internet Archive author |sname=Baltasar del Alcázar |sopt=w}}
+* {{Librivox author |id=1118}}
+*[http://www.palabravirtual.com/index.php?ir=ver_voz1.php&wid=2443&p=Baltasar%20del%20Alc%E1zar&t=Una%20cena%20jocosa&o=Adolfo%20Marsillach/ Audio of ''Una cena jocosa''], recorded by [[Adolfo Marsillach]] — palabravirtual.com {{in lang|es}}.
+*[http://bdh.bne.es/bnesearch/Search.do?numfields=1&field1=autor&field1val=%22Alc%C3%A1zar%2c+Baltasar+del%22&field1Op=AND&exact=on&advanced=true&language=esEn Digital works of Alcázar] at the Biblioteca Digital Hispánica (Hispanic Digital Library) of the [[National Library of Spain]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alcazar, Baltasar del}}
+[[Category:Spanish poets]]
+[[Category:1530 births]]
+[[Category:1606 deaths]]
+[[Category:Spanish male poets]]
+
+
+{{Spain-writer-stub}}

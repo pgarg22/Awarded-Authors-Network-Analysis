@@ -1,0 +1,92 @@
+{{Short description|American writer}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] --> 
+| name         = Karen Cushman
+| image        = Karen Cushman 2016.jpg
+| imagesize    = 
+| alt          = 
+| caption      = Cushman at the 2016 Texas Book Festival
+| pseudonym    = 
+| birth_name    = 
+| birth_date    = {{Birth date and age|1941|10|04}}
+| birth_place   = [[Chicago, Illinois]], US
+| death_date    = 
+| death_place   = 
+| occupation   = Writer
+| nationality  = American
+| ethnicity    = 
+| religion     =
+| citizenship  = 
+| education    = 
+| alma_mater   = [[Stanford University]]
+| period       = 
+| genre        = [[Young adult fiction|Young adult]] [[historical novels]]
+| subject      = 
+| movement     = 
+| notableworks = {{plainlist|
+* ''[[Catherine, Called Birdy]]''
+* ''[[The Midwife's Apprentice]]''
+}}
+| spouse       = 
+| partner      = 
+| children     = 
+| relatives    = 
+| awards       = {{awd |[[Newbery Medal]] |1996}}
+| signature    = 
+| website      = 
+| portaldisp   = 
+}}
+
+'''Karen Cushman''' (born October 4, 1941)<ref>{{cite web|url=http://www.arnenixoncenter.org/finding_aids/anc0006.htm|title=Karen Cushman Papers|publisher=Arne Nixon Center |accessdate=2008-12-13}}</ref> is an [[American people|American]] writer of historical fiction.
+
+==Career==
+Her 1995 novel ''[[The Midwife's Apprentice]]'' won the [[Newbery Medal]] for children's literature, and her 1994 novel ''[[Catherine, Called Birdy]]'' won a [[Newbery Honor]].<ref>{{cite web|url=http://www.ala.org/ala/mgrps/divs/alsc/awardsgrants/bookmedia/newberymedal/newberyhonors/newberymedal.cfm|title=Newbery Medal and Honor Books, 1922-Present|publisher=American Library Association|accessdate=2008-12-13}}</ref> She has a bachelor of arts degree in Greek and English from [[Stanford University]]. In addition, she has a master's degree in human behavior as well as a master's degree in museum studies.<ref>{{cite web|url=http://www.achuka.co.uk/special/cushman.htm|title=Karen Cushman|last=Bowlan|first=Cheryl|publisher=ACHUKA|accessdate=2008-12-13}}</ref> For eleven years she was adjunct professor in the Museum Studies Department at [[John F. Kennedy University]] before resigning in 1996 to write full-time.<ref>{{cite web|url=http://www.childrensliteraturenetwork.org/aifolder/aipages/ai_c/cushman.php|title=Karen Cushman|last=Reimer|first=Julie|publisher=Children's Literature Network|accessdate=2012-05-29|url-status=dead|archive-url=https://web.archive.org/web/20130715062614/http://www.childrensliteraturenetwork.org/aifolder/aipages/ai_c/cushman.php|archive-date=2013-07-15}}</ref> She lives and writes on [[Vashon Island, WA|Vashon Island]] near Seattle, Washington.<ref name=Mid2>Author's biography, inside rear cover, "The Midwife's Apprentice" 2nd edition, {{ISBN|978-0-547-72217-7}}</ref>
+
+==Books==
+* ''[[Catherine, Called Birdy]]'' (1994)
+* ''[[The Midwife's Apprentice]]'' (1995)
+* ''The Ballad of Lucy Whipple'' (1998)
+* ''Matilda Bone'' (2000)
+* ''Rodzina'' (2004)
+* ''The Loud Silence of Francine Green''  (2006)
+* ''Alchemy and Meggy Swann''  (2010)
+* ''Will Sparrow's Road'' (2012)
+* ''Grayling's Song'' (2016)
+
+==Other media==
+''The Ballad of Lucy Whipple'' was made into a TV film, broadcast in 2001.<ref name=Oxman>{{cite magazine |last=Oxman |first=Steven |date=15 February 2001 |title=The Ballad of Lucy Whipple |url=https://variety.com/2001/tv/reviews/the-ballad-of-lucy-whipple-1200466730/ |magazine=Variety |publisher=Variety Media |access-date=15 April 2020}}</ref>
+
+==Awards==
+* 1995 [[Newbery Honor]] for ''[[Catherine, Called Birdy]]''<ref name="ala.org">ALA. [http://www.ala.org/ala/mgrps/divs/alsc/awardsgrants/bookmedia/newberymedal/newberyhonors/newberymedal.cfm Newbery Medal & Honor Books, 1922-Present]. Retrieved 2008-12-19.</ref>
+* 1995 [[Golden Kite Award]] for ''[[Catherine, Called Birdy]]''<ref>SCBWI. [http://www.scbwi.org/awards/golden-kite-award/125854-2/ Past Golden Kite Recipients]. Retrieved 2015-06-16.</ref>
+* 1996 [[Newbery Medal]] for ''[[The Midwife's Apprentice]]''<ref name="ala.org"/>
+* 1997 [[John and Patricia Beatty Award]] for ''The Ballad of Lucy Whipple'', given by the California Library Association.<ref>The California Library Association. [http://www.cla-net.org/displaycommon.cfm?an=1&subarticlenbr=408]. Retrieved 12-05-29.</ref>
+*  2004 [[Washington State Book Award]] for ''Rodzina''
+* 2007 [[Kerlan Award]] at the University of Minnesota's Children's Literature Research Collection for her contributions to the Kerlan Collection.<ref>CLN. {{cite web |url=http://www.childrensliteraturenetwork.org/aifolder/aipages/ai_c/cushman.php |title=Archived copy |accessdate=2012-05-29 |url-status=dead |archive-url=https://web.archive.org/web/20130715062614/http://www.childrensliteraturenetwork.org/aifolder/aipages/ai_c/cushman.php |archive-date=2013-07-15 }}. Retrieved 12-04-04.</ref>
+
+==References==
+{{reflist |25em
+}}
+
+==External links==
+{{Portal|Children's literature}}
+* {{LCAuth|n93076846|Karen Cushman|12|}}
+
+{{Karen Cushman}}
+{{Authority control}}
+
+{{DEFAULTSORT:Cushman, Karen}}
+[[Category:1941 births]]
+[[Category:American children's writers]]
+[[Category:American historical novelists]]
+[[Category:Newbery Honor winners]]
+[[Category:Newbery Medal winners]]
+[[Category:Writers from Chicago]]
+[[Category:Living people]]
+[[Category:American women children's writers]]
+[[Category:American women novelists]]
+[[Category:Women historical novelists]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American women writers]]
+[[Category:Novelists from Illinois]]
+[[Category:People from Vashon, Washington]]
+[[Category:21st-century American women]]

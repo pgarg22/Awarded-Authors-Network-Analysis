@@ -1,0 +1,60 @@
+{{short description|American poet (born 1952)}}
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Connie Wanek
+| birth_date = {{birth date and age|1952|6|1}}
+| birth_place = [[Madison, Wisconsin]]
+| occupation = [[Poet]]
+| years_active = 1997–present
+}}
+
+'''Connie Wanek''' (born June 1, 1952) is an American [[poet]].
+
+==Life==
+She was born in [[Madison, Wisconsin]], and grew up in [[Las Cruces, New Mexico]]. In 1989, she moved with her family to [[Duluth, Minnesota]]. She now divides her time between Minnesota and New Mexico.<ref>{{Cite web|url = http://www.conniewanek.com/|title = Connie Wanek|website = www.conniewanek.com|access-date = 2016-03-24}}</ref><ref>{{Cite web|url = http://www.americanpoems.com/poets/Connie-Wanek|title = Connie Wanek Poems, Biography and Quotes - by American Poems|website = www.americanpoems.com|access-date = 2016-03-24}}</ref>
+
+Her work appeared in ''Poetry'', ''The Atlantic Monthly'', ''The Virginia Quarterly Review'', ''Quarterly West'', ''Poetry East'', ''Prairie Schooner'',<ref>{{Cite book|url = https://books.google.com/books?id=tDexAAAAIAAJ|title = The Prairie Schooner|date = 1979-01-01|language = en}}</ref> and ''Missouri Review''.<ref>{{Cite book|url = https://books.google.com/books?id=sTSxAAAAIAAJ|title = The Missouri Review|date = 2000-01-01|publisher = Department of English of University of Missouri--Columbia|language = en}}</ref>
+
+She has published four books of poetry, one book of short prose, and served as co-editor (with [[Joyce Sutphen]] and [[Thom Tammaro]]) of the comprehensive historical anthology of Minnesota women poets, called ''To Sing Along the Way'' (New Rivers Press, 2006). [[Ted Kooser]], Poet Laureate of the United States (2004–2006), named her a Witter Bynner Fellow of the Library of Congress for 2006.
+
+==Awards==
+* Willow Poetry Prize
+* Jane Kenyon Poetry Prize.
+* 2006 [[Witter Bynner Fellowship]] of the Library of Congress by United States Poet Laureate [[Ted Kooser]].
+* 2009 George Morrison Artist of the Year
+
+==Work==
+* {{cite book| title=Bonfire: poems| publisher=New Rivers Press| year=1997| isbn=978-0-89823-178-6 }}
+* {{cite book| title=Hartley Field: poems | publisher=[[Holy Cow! Press]]| year=2002| isbn= 978-0-930100-99-5 }}
+* {{cite book| title=On Speaking Terms| publisher=[[Copper Canyon Press]]| year=2010| isbn=978-1-55659-294-2}}
+* {{cite book| title=Rival Gardens| publisher=University of Nebraska Press| year=2016| isbn=978-0-8032-6964-4}}
+* {{cite book| title=Summer Cars| publisher=Will o' the Wisp Books| year=2014| isbn=978-0-9793128-6-1}}
+
+===Anthologies===
+* {{cite book| title=To Sing Along the Way: Minnesota Women Poets from Pre-Territorial Days to the Present |editor1=Joyce Sutphen |editor2=Thom Tammaro |editor3=Connie Wanek | publisher=New Rivers Press| year=2006| isbn=978-0-89823-232-5 }}
+* {{cite book| title=Poetry 180: a turning back to poetry| editor=Billy Collins| publisher=Random House Trade Paperbacks| year=2003| isbn=978-0-8129-6887-3| url-access=registration| url=https://archive.org/details/poetry18000bill}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.conniewanek.com/ "Author's website"]
+* [http://narrativemagazine.com/issues/winter-2008/two-poems-1 "Leftovers", ''Narrative'', Winter 2008]
+* {{cite journal| url=http://www.poetryfoundation.org/archive/poem.html?id=30486| title=Hartley Field| journal=Poetry| date=August 2001 }}
+* {{cite journal| url=https://www.theatlantic.com/doc/200411/wanek| journal=The Atlantic Monthly| title=Lipstick|date=November 2004}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wanek, Connie}}
+[[Category:Writers from Madison, Wisconsin]]
+[[Category:Writers from Duluth, Minnesota]]
+[[Category:Poets from Wisconsin]]
+[[Category:1952 births]]
+[[Category:Living people]]
+[[Category:American women poets]]
+[[Category:People from Las Cruces, New Mexico]]
+[[Category:Poets from Minnesota]]
+[[Category:Poets from New Mexico]]
+[[Category:20th-century American poets]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American poets]]
+[[Category:21st-century American women writers]]

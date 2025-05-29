@@ -1,0 +1,42 @@
+{{Infobox writer
+| caption      = Charles Ghigna
+| image        = CharlesGhigna.jpg
+| pseudonym    = Father Goose
+| birth_name   = Charles Ghigna
+| birth_date   = {{Birth date and age|1946|8|25|mf=yes}}
+| birth_place  = [[Bayside, Queens]], [[New York City]], USA
+| occupation   = Poet, children's author
+| language     = English
+| nationality  = American
+| genre        = [[Poetry]], [[children's literature]]
+| spouse       = [[Debra Ghigna]] 
+| children     = [[Chip Ghigna]]
+| website      = {{URL|http://www.charlesghigna.com/}}
+}}
+
+'''Charles Ghigna''' (born August 25, 1946), known also as '''Father Goose''' is an [[American people|American]] poet and author of children's and adults' books. He has written more than 5,000 poems and 100 books.<ref name=EoA>{{cite encyclopedia|url=http://www.encyclopediaofalabama.org/article/h-2583|title=Charles Ghigna|first=Cynthia Quinn|last=White|encyclopedia=Encyclopedia of Alabama|date=September 23, 2019|accessdate=October 26, 2019}}</ref>
+
+Ghigna was born in [[Bayside, Queens]]. His parents relocated to [[Fort Myers]], [[Florida]] when he was five.<ref name=FAQs/> Ghigna graduated from [[Florida Atlantic University]] with a [[Bachelor of Arts]] in 1968 and a [[Master of Education]] degree in 1970. In 1974, he became a poet-in-residence and started teaching creative writing at the [[Alabama School of Fine Arts]] (ASFA).<ref name=EoA/> He subsequently worked on the children's television show ''Cabbages and Kings'' and in 1979 taught creative writing at [[Samford University]].<ref name=EoA/>
+
+Ghigna's first book of poetry, ''Returning to Earth'', was published in 1989. He published his first children's poetry books in 1992, before leaving ASFA the following year and taking up writing for children full-time.<ref name=EoA/>
+
+Ghigna lives in [[Homewood, Alabama]] with his wife, the author [[Debra Ghigna]]. Their son, [[Chip Ghigna]], is an artist.<ref name=FAQs>{{cite web|url=https://www.charlesghigna.com/fgfaq.html|title=Frequently asked questions (FAQs)|publisher=Charles Ghigna - Father Goose|accessdate=October 26, 2019}}</ref><ref name=AL>{{cite news|url=https://www.al.com/life/2019/07/alabamas-father-goose-is-as-prolific-a-poet-as-ever.html|title=Alabama's 'Father Goose' is as prolific a poet as ever|publisher=Advance Local Alabama|first=Michelle|last=Matthews|date=July 17, 2019|accessdate=October 26, 2019}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{official website |charlesghigna.com }}
+
+{{Authority control}} <!-- |GND=157348313 altho same VIAF bundle is only a nameholder -->
+
+{{DEFAULTSORT:Ghigna, Charles}}
+[[Category:1946 births]]
+[[Category:American children's writers]]
+[[Category:American male poets]]
+[[Category:Florida State University alumni]]
+[[Category:Writers from Birmingham, Alabama]]
+[[Category:Living people]]
+[[Category:People from Bayside, Queens]]
+[[Category:People from Homewood, Alabama]]
+[[Category:Children's poets]]

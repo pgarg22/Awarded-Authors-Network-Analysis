@@ -1,0 +1,179 @@
+{{Short description|American writer & game designer}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name =Douglas Niles
+| image =Douglas Niles - Lucca Comics & Games 2018 01.jpg
+| caption =Douglas Niles at [[Lucca Comics & Games]] 2018 
+| pseudonym =
+| birth_name = Douglas Niles
+| birth_date = {{birth date and age|1954|12|1|mf=y}}
+| birth_place = [[Brookfield, Wisconsin|Brookfield]], [[Wisconsin]], United States
+| death_date =
+| death_place =
+| occupation = Game designer, novelist
+| spouse = Christine Schroeder Niles
+| nationality = American
+| period =
+| genre = [[Role-playing game]]s
+| subject =
+| movement =
+| notableworks =
+| influences =
+| influenced =
+| signature =
+| website =
+}}
+'''Douglas Niles''' (born December 1, 1954 in [[Brookfield, Wisconsin]]<ref name="Dragon #108">{{cite journal
+ | title = TSR Profiles
+ | journal = [[Dragon (magazine)|Dragon]]
+ | issue = #108
+ | pages = 66
+ | publisher = TSR, Inc.
+ | location = [[Lake Geneva, Wisconsin]]
+ |date=April 1986
+ }}</ref>) is a [[fantasy author]]<ref name="buker2002">{{cite book | first=Derek M. | last=Buker | year=2002 | title=The science fiction and fantasy readers' advisory: the librarian's guide to cyborgs, aliens, and sorcerers | pages=[https://archive.org/details/sciencefictionfa00buke_0/page/127 127&ndash;128] | work=ALA readers' advisory series | publisher=ALA Editions | isbn=0-8389-0831-4 | url-access=registration | url=https://archive.org/details/sciencefictionfa00buke_0/page/127 }}</ref> and [[game designer]]. Niles was one of the creators of the [[Dragonlance]] world and the author of the first three [[Forgotten Realms]] novels, the ''[[Star Frontiers]]'' [[space opera]] setting and the ''[[Top Secret (role-playing game)|Top Secret S/I]]'' espionage [[role-playing game]].
+
+==Early life and education==
+Niles was born in [[Brookfield, Wisconsin]], a suburb of [[Milwaukee]], and his family moved to [[Nashotah, Wisconsin|Nashotah]], a small town to the north, when he was twelve years old. Niles developed an interest in [[heroic fantasy]], as well as [[wargaming]], and began writing short stories and making short films in high school. Niles attended the [[University of Wisconsin-Oshkosh|University of Wisconsin at Oshkosh]], where he majored in speech and minored in English. While there, he met Chris Schroeder, whom he married three years later.<ref name="Dragon #108"/>
+
+After graduation, Niles began teaching Speech and English at [[Clinton High School (Clinton, Wisconsin)|Clinton (Wis.) High School]], about 30 miles away from [[Lake Geneva, Wisconsin]]. “One day, one of my students came up and said she had a note to get out of class that afternoon because she was going to be interviewed by ''[[People (magazine)|People]]'' magazine. Her name was Heidi Gygax. I asked her why ''People'' wanted to interview her, and she told me that her father had invented the ''[[Dungeons & Dragons]]'' game. Well, I had heard of ''D&D'', but didn’t know that the designer lived so close to me. The next day, Heidi brought me a copy of the original ''[[Dungeons & Dragons Basic Set|D&D Basic Set]]'', and two days later, I got some friends together and played my first game. I was the DM.”<ref name="Dragon #108"/>
+
+==Career==
+A few years later, one of the players in Niles' ''D&D'' campaign went to work for ''[[Dragon (magazine)|Dragon]]'' magazine. According to Niles, “One day, he told me that [[TSR, Inc.|TSR]] was hiring editors, and I applied for a job. I took the editing test, which consisted of a 14 page manuscript I was supposed to mark up. I only found three things to change. . . and flunked the test. But TSR was also hiring game designers, and so, armed with a half-written novel and some notes from my campaign, I applied for a design job. I went through five interviews, and gradually convinced them that I could do the job.”<ref name="Dragon #108"/> Niles was hired by TSR in January 1982, as a [[game designer]]. “For the first few weeks I reviewed and critiqued outside submissions, and I wasn’t too good at it. I kept pestering my boss, Al Hammack, for a design assignment, and finally he gave me an old brief for a novice-level module, ''[[Against the Cult of the Reptile God|Cult of the Reptile God]]'', and told me to write it. I completed it in four weeks, and it was published. I don’t know whether they liked it because it was good, or because I did it in only four weeks.”<ref name="Dragon #108"/> Niles worked on more than just ''D&D'' for TSR, “In the summer of 1982, I designed my first game, the ''[[Knight Hawks]]'' rules for the ''[[Star Frontiers]]'' game, with much help from my editor, [[Steve Winter]].”<ref name="Dragon #108"/>
+
+Niles produced several modules for the ''D&D'' game, including ''X3 [[Curse of Xanathon]]'', ''B5 [[Horror on the Hill]]'', ''CM1 [[Test of the Warlords]]'', and ''H1 [[Bloodstone Pass]]'', and [[Dragonlance modules (DL series)|Dragonlance modules]] ''DL2 Dragons of Flame'', ''DL6 Dragons of Ice'', ''DL9 Dragons of Deceit'', and ''DL11 [[Dragons of Glory]]''.<ref name="Dragon #108"/> Niles is the designer of 1985's ''[[World War II: European Theatre of Operations]]'', a grand strategic game.<ref name="HG">{{Cite book | contribution=[[Terrible Swift Sword (game)|Terrible Swift Sword]] | title=[[Hobby Games: The 100 Best]] | last=Niles | first=Douglas | editor-last=Lowder | editor-first=James | editor-link=James Lowder | publisher=[[Green Ronin Publishing]] | year=2007 | pages=309–311 | isbn=978-1-932442-96-0}}</ref> Niles worked on the ''[[Battlesystem]]'' Supplement, ''Star Frontiers'' modules ''SF4 [[Mission to Alcazzar]]'' and ''SFKH1 [[Dramune Run]]'', ''[[The Adventures of Indiana Jones Role-Playing Game|Indiana Jones]]'' module ''[[Raiders of the Lost Ark Adventure Pack|IJ2 Raiders of the Lost Ark]]'', the ''World War II'' Game, the ''Sirocco'' Strategy Game (with [[David Cook (game designer)|Zeb Cook]]), and the [[Endless Quest]] books ''EQ #26 Tarzan and the Well of Slaves'' and ''Super EQ #3 Escape From Castle Quarras'' for TSR.<ref name="Dragon #108"/> [[Tracy Hickman]] had gotten [[Harold Johnson (game designer)|Harold Johnson]], [[Jeff Grubb]], [[Carl Smith (game designer)|Carl Smith]], and [[Larry Elmore]] in on the idea of [[Dragonlance]] before [[Margaret Weis]] and Niles joined them.<ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=Mongoose Publishing|year=2011| isbn= 978-1-907702-58-7}}</ref>{{rp|16}} Niles authored the rulebook ''[[Dungeoneer's Survival Guide]]'' (1986).<ref name="designers"/>{{rp|17}} Niles had been working on a trilogy of Celtic-themed novels for TSR, Ltd., which were modified to become the first [[Forgotten Realms]] books, beginning with ''[[Darkwalker on Moonshae]]'' (1987).<ref name="designers"/>{{rp|19}} Niles also co-authored ''[[The City of Greyhawk]]'' boxed set with [[Carl Sargent]], for which he designed the 96-page booklet ''Greyhawk: Gem of the Flanaess''.{{citation needed|date=May 2014}} Niles and [[Paul Lidberg]] designed the board game ''[[A Line in the Sand (board game)|A Line in the Sand]]'' (1991), which depicted the first [[Gulf War|US-Iraq War]]; it was one of the projects originating from TSR West, and was published the day the US bombing began thanks to [[Flint Dille]]'s ability to convince the president of the company to make things move fast.<ref name="designers"/>{{rp|23}}
+
+Niles has written numerous novels, mainly for the Dragonlance series. Niles is one of the most prolific Dragonlance authors, and in addition to ''[[Wizard's Conclave]]'', his Dragonlance titles include The Icewall Trilogy (''The Messenger'', ''The Golden Orb'', ''[[Winterheim]]''), ''Emperor of Ansalon'', ''The Dragons'', ''The Puppet King'', ''Fistandantilus Reborn'', ''[[Flint the King]]'' (with Mary Kirchoff), and ''The Last Thane''.<ref name="wizardsbio">{{cite web|url=http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=DouglasNiles|title=Douglas Niles|archive-url=https://web.archive.org/web/20090224010722/http://ww2.wizards.com/Books/Wizards/Bios/default.aspx?doc=DouglasNiles|archive-date=February 24, 2009}}</ref> He contributed nine novels to the Forgotten Realms line,<ref name="wizardsbio"/> including the Moonshae trilogy and two further trilogies in the Forgotten Realms. He has won both the H.G. Wells award and the Origins award for his work in developing adventure games. In 1990, he left TSR to write fantasy fiction.
+
+Niles has written two World War II alternate history novels, ''[[Fox on the Rhine]]'' and ''[[Fox at the Front]]'' (co-authored with [[Michael Dobson (author)|Michael Dobson]]). Released in hardcover by [[Forge Books|Forge]], a division of [[Tor Books|TOR]], "Fox" has been both a main selection of the [[Military Book Club]] and a Featured selection of the [[Science Fiction Book Club]].<ref name="wizardsbio"/> Niles and Dobson also later wrote the World War II alternate history novel ''MacArthur's War''.<ref name="HG"/>
+
+Niles has created two fantasy worlds in books published by Ace Fantasy. The Watershed Trilogy (''A Breach in the Watershed'', ''Darkenheight'', ''The War of Three Waters'') was completed in the late 1990s, and it features a continent divided by mountains into three distinct basins: watersheds of pure, normal water; of magical liquid (Aura); and of vile, poisonous Darkblood. ''Circle at Center'', ''Worldfall'', and ''The Goddess Worldweaver'' form the Seven Circles Trilogy, which details a cosmos in which historical characters from Earth can be drawn into the realms of magic, through sorcery both deadly and erotic.<ref name="wizardsbio"/>
+
+Niles has designed dozens of games for TSR, Inc. and [[Simulation Publications|SPI]], including award-winning boardgames based on [[Tom Clancy]]'s novels ''[[The Hunt for Red October]]'' and ''[[Red Storm Rising]]'', and has also created numerous historical military boardgames, including the massive games ''European Theatre of Operations'' and ''Pacific Theatre of Operations''.<ref name="wizardsbio"/>
+
+==Personal life==
+Niles resides in [[Delavan, Wisconsin|Delavan]], in the Wisconsin countryside, with his wife Christine and his son David.<ref name="wizardsbio"/> His daughter, Allison, served overseas as part of [[Operation Iraqi Freedom]].<ref name="wizardsbio"/> His hobbies include hiking, bicycling, playing the guitar, and spending time with his friends and family.<ref name="wizardsbio"/>
+
+== Bibliography ==
+=== Nonfiction ===
+• ''A Noble Cause: American Battlefield Victories in Vietnam'' ( 2015 )
+
+===Novels===
+* ''Horror on the Hill'' (1983)
+* ''Tarzan and the Well of Slaves'' (1985)
+* ''Winds of Change'' (1992)
+* ''[[The Rod of Seven Parts (novel)|The Rod of Seven Parts]]'' (1996)
+* ''The Odyssey of Gilthanas'' (1999) (with [[Steve Miller (game designer)|Steve Miller]])
+* ''[[War of the Worlds: New Millennium]]'' (2005)
+* ''MacArthur's War: A Novel of the Invasion of Japan'' (2007) (with [[Michael Dobson (author)|Michael Dobson]])
+* Top Secret/S.I. Administrators Guide TSR, Inc 1987
+
+====Series====
+====="Fox" series=====
+* ''[[Fox on the Rhine]]'' (2000) (with Michael Dobson)
+* ''[[Fox at the Front]]'' (2003) (with Michael Dobson)
+
+=====Watershed=====
+* ''A Breach in the Watershed'' (1995)
+* ''Darkenheight'' (1996)
+* '' War of Three Waters'' (1997)
+
+=====Chaos War=====
+* ''Seeds of Chaos'' (1998)
+* ''Chaos Spawn'' (1999)
+
+=====Seven Circles=====
+* ''Circle at Center'' (2000)
+* ''World Fall'' (2001)
+* ''The Goddess Worldweaver'' (2003)
+
+====Series contributed====
+=====Dragonlance=====
+* ''[[Dragons of Glory]]'' (1986) with [[Margaret Weis]]
+* ''Lords of Doom'' (1986)
+* ''[[Dragons of Triumph]]'' (1986)
+
+=====Forgotten Realms : The Moonshae Trilogy=====
+* ''[[Darkwalker on Moonshae]]'' (1987)
+* ''Black Wizards'' (1988)
+* ''Darkwell'' (1989)
+
+=====Forgotten Realms : Maztica Trilogy=====
+* ''Viperhand'' (1989)
+* ''Ironhelm'' (1990)
+* ''Feathered Dragon'' (1991)
+
+=====Dragonlance : Preludes II=====
+* ''Flint, the King'' (1990)
+
+=====Dragonlance : Elven Nations=====
+* ''The Kinslayer Wars'' (1991)
+
+=====Forgotten Realms : Druidhome=====
+* ''Prophet of Moonshae'' (1992)
+* ''The Coral Kingdom'' (1992)
+* ''The Druid Queen'' (1993)
+
+=====Dragonlance : Villains=====
+* ''Emperor of Ansalon'' (1993)
+
+=====Dragonlance : Lost Histories=====
+* ''The Kagonesti'' (1995)
+* ''The Dragons'' (1996)
+
+=====First Quest=====
+* ''Pawns Prevail'' (1995)
+* ''[[Suitors Duel]]'' (1995)
+* ''Immortal Game'' (1996) {{ISBN|0-7869-0478-X}}
+
+=====Dragonlance : Lost Legends=====
+* ''Fistandantilus Reborn'' (1997)
+
+=====Dragonlance : Chaos War=====
+* ''The Last Thane'' (1998)
+* ''The Puppet King'' (1999)
+
+=====Dragonlance : Icewall=====
+* ''The Messenger'' (2001)
+* ''The Golden Orb'' (2001)
+* ''Winterheim'' (2003)
+
+=====Dragonlance : Age of Mortals=====
+* ''Wizards' Conclave'' (2004)
+
+=====Dragonlance : Rise of Solamnia=====
+* ''Lord Of The Rose'' (2005)
+* ''The Crown and Sword'' (2006)
+* ''The Measure and the Truth'' (2007)
+
+=====Dragonlance : Dwarf Home=====
+* ''The Secret of Pax Tharkas'' (2007)
+* ''Heir of Kayolin'' (2008)
+* ''The Fate of Thorbardin'' (2009)
+
+====Top Secret/S.I.====
+* Administrators Guide Orion (1987) Game Design
+
+==References==
+{{reflist}}
+
+==External links==
+* {{cite web|url=http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=2072|archive-url=https://web.archive.org/web/20050311000054/http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=2072|title=Pen & Paper listing for Douglas Niles|archive-date=March 11, 2005|url-status=dead}}
+* {{cite web|url=http://www.montecook.com/cgi-bin/page.cgi?int_dnd30_Doug|archive-url=https://web.archive.org/web/20061116224643/http://www.montecook.com/cgi-bin/page.cgi?int_dnd30_Doug |title=A Talk With Douglas Niles - A 30th Anniversary Interview|archive-date=November 16, 2006}}
+* {{isfdb name|id=Douglas_Niles|name=Douglas Niles}}
+
+{{Authority control}}
+
+{{D&D topics}}
+
+{{DEFAULTSORT:Niles, Douglas}}
+[[Category:1954 births]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American novelists]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:Dungeons & Dragons game designers]]
+[[Category:Living people]]
+[[Category:People from Delavan, Wisconsin]]
+[[Category:Role-playing game designers]]

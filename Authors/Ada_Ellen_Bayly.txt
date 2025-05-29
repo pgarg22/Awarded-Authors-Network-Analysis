@@ -1,0 +1,72 @@
+{{Use dmy dates|date=November 2019}}
+{{Infobox person
+|name = Ada Ellen Bayly
+|image=Edna Lyall 001.jpg
+|birth_date = {{birth date|1857|3|25|df=yes}}
+|birth_place = [[Brighton]], [[Sussex]]
+|death_date = {{death date and age|1903|2|8|1857|3|25|df=yes}}
+|nationality = English
+|occupation = novelist
+|other_names = Edna Lyall
+|signature=Edna Lyall signature.jpg
+}}
+
+'''Ada Ellen Bayly''' (25 March 1857 – 8 February 1903), also known as '''Edna Lyall''', was an English [[novelist]], who "supported the women's suffrage movement from an early age."<ref name="Jarndyce">''XIX Century Fiction, Part II: L–Z'', London: Jarndyce, 2020, Item 34.</ref><ref>G. Lindop, ''A Literary Guide to the Lake District'' (1993) p. 311.</ref>
+
+==Biography==
+Bayly was born in Brighton, the youngest of four children of a barrister. Early in life she lost both her parents, so that she spent her youth with an uncle in [[Surrey]] and in a [[Brighton]] private school. Bayly never married. She seems to have spent her adult life living with her two married sisters and her brother, a clergyman in [[Bosbury]], [[Herefordshire]].
+
+In 1879, she published her first novel, ''Won by Waiting'', under the pseudonym "Edna Lyall" (apparently derived from transposing letters from Ada Ellen Bayly). The book was not a success. Success came with ''We Two'', based on the life of [[Charles Bradlaugh]], a social reformer and advocate of free thought. Her historical novel ''In the Golden Days'' was the last book read to [[John Ruskin]] on his deathbed;<ref>Drabble, Margaret (ed.) (1995), The Oxford Companion to English Literature (5th rev. ed.), Oxford, England: Oxford University Press.</ref> while ''Hope the Hermit'' was a bestseller set in the [[Lake District]] and later an inspiration for [[Hugh Walpole]]'s ''Rogue Herries''.<ref>G. Lindop, ''A Literary Guide to the Lake District'' (1993) p. 311.</ref> ''To Right the Wrong'' (2nd ed. 1894) is a historical novel about [[John Hampden]] and the [[English Civil War]].<ref name="Jarndyce"/>
+
+Bayly wrote in all eighteen novels, many of them offering interesting explorations of the writer's creative process.<ref>Darby Lewes, ''Auto-poetica'' (2006) p. 67</ref> Part of her success was due to her practice of using characters from one novel in a different capacity in her next.<ref>S. Mitchell, ''Victorian Britain'' (2012) p. 468</ref>
+
+==Selected works==
+*''Won by Waiting'', 1879.
+*''Donovan'', 1882.
+*''We Two'', sequel of the former, 1884.
+*''In the Golden Days'', 1885.
+*''Autobiography of a Slander'', 1887.
+*''To Right the Wrong'', 3 vols., 1894.
+*''[https://www.fadedpage.com/showbook.php?pid=20090106 Doreen: The Story of a Singer], 1894
+*''The Autobiography of a Truth'', 1896.
+*''Wayfaring Men: A Novel'', 1896.
+*''Hope the Hermit'', 1898.
+*''The Burgess Letters'', 1902.
+
+==See also==
+{{Columns-list|colwidth=22em|
+*[[Algernon Sydney]]
+*[[Charles Bradlaugh]]
+*[[Elizabeth Gaskell]]
+}}
+
+==Citations==
+{{Reflist}}
+
+==References==
+*{{A Short Biographical Dictionary of English Literature}}
+
+==Further reading==
+*G. A. Payne, ''Edna Lyell: An Appreciation'' (1903)
+
+==External links==
+{{Library resources box|by=yes|onlinebooksby=yes|viaf=5734093}}
+* {{gutenberg author|id=Ada_Ellen_Bayly|name=Ada Ellen Bayly}}
+* {{FadedPage|id=Bayly, Ada Ellen|name=Ada Ellen Bayly|author=yes}}
+* {{Internet Archive author |name=Edna Lyall}}
+* {{Internet Archive author |sname=Ada Ellen Bayly}}
+* {{Librivox author |id=2749}}
+*[https://books.google.com/books?id=ZQ4tAAAAYAAJ&dq=%22Won+by+Waiting%22&source=gbs_navlinks_s ''Won by Waiting'' (1892) Appleton, New York (Google ebook)]
+* [http://thethird.freeforums.net/thread/990/edna-lyall-eighteen-fictional-productions Golden Gale] (all eighteen of her works of fiction)
+*[https://archive.org/details/lifeednalyallad00escrgoog Jesse Maria Escreet (1904) ''The life of Edna Lyall (Ada Ellen Bayly)'', Longmans, Green, and Co., London (Google ebook)]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Bayly, Ada Ellen}}
+[[Category:1857 births]]
+[[Category:1903 deaths]]
+[[Category:19th-century English novelists]]
+[[Category:19th-century English women writers]]
+[[Category:English women novelists]]
+[[Category:People from Brighton]]
+[[Category:English feminists]]

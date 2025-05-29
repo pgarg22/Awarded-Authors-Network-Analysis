@@ -1,0 +1,43 @@
+{{short description|British politician}}
+{{Use dmy dates|date=August 2016}}
+{{Use British English|date=August 2016}}
+'''Frederick William "Fred" Horner''' (born 12 December 1854) was a [[British people|British]] playwright, publisher and [[Conservative Party (UK)|Conservative]] politician.<ref name=debretts>{{cite book|title=Debrett's House of commons and the Judicial Bench|year=1901|publisher=Dean & Sons|location=London|page=74|url=https://archive.org/stream/debrettshouseo1901londuoft#page/n119/mode/2up}}</ref>
+
+Born in [[Newport, Wales|Newport]], [[Monmouthshire (historic)|Monmouthshire]], he was educated privately.<ref name=debretts/> He was active in local politics as a member of the vestry or local authority for the central London [[civil parishes of England|parish]] of [[St Martin in the Fields (parish)|St Martin in the Fields]], and he assumed the ''[[nom de plume]]'' of "Martyn Field".<ref name=waller /> Among his plays were ''The Late Lamented'', ''The Bungalow'' and ''The Other Fellow''.<ref name=debretts/>
+
+In 1896 Horner purchased the ''Whitehall Review'', becoming its editor-proprietor.<ref>{{cite book|title=The Publishers' Circular and Booksellers' Record of British and Foreign Literature|year=1896|page=23}}</ref><ref name=waller>{{cite book|last=Waller|first=Philip J|title=Writers, readers, and reputations: literary life in Britain, 1870-1918|url=https://archive.org/details/writersreadersre0000wall|url-access=registration|year=2006|publisher=[[Oxford University Press]]|isbn=9780198206774|page=[https://archive.org/details/writersreadersre0000wall/page/170 170]}}</ref>
+
+==Member of Parliament==
+Horner was a member of the executive and finance committees and of the council of the [[National Union of Conservative and Unionist Associations]], and at the [[1895 United Kingdom general election|1895 general election]] was an unsuccessful candidate for the constituency of [[Southwark West (UK Parliament constituency)|Southwark West]].<ref>{{cite news|title=London|newspaper=[[The Times]]|date=17 July 1895|page=6}}</ref><ref name=debretts /> At the next so-called "[[khaki election|khaki]]" [[1900 United Kingdom general election|election in 1900]], held at the height of the [[Second Anglo-Boer War]], he won the seat of [[Lambeth North (UK Parliament constituency)|Lambeth North]], a seat previously held by the [[Liberal Party (UK)|Liberal Party]].
+
+Horner's single term in parliament was mired in financial scandal: at the end of 1900 Horner formed Mayfair Printing & Publishing Limited, a company to which he assigned the copyright and goodwill of the ''Whitehall Review''.<ref name=creditors/> In 1902 and 1903 [[Henry Labouchère]], Liberal MP for [[Northampton (UK Parliament constituency)|Northampton]] alleged that Horner had obtained cash or credit from a number of hotels on the Continent using company cheques which were not honoured by the bank.<ref name=nzherald>{{cite news|title=M.P.'S DISHONOURED CHEQUES|newspaper=[[New Zealand Herald]]|date=18 November 1905|page=2}}</ref> In November 1905 Labouchère published further allegations in his periodical ''[[Truth (British periodical)|Truth]]''. These detailed five more dishonoured company cheques cashed by Horner in Monaco, France and Switzerland, totalling in excess of 500 pounds.<ref name=nzherald/> Horner launched [[libel]] proceedings against the magazine without success.<ref>{{cite news|title=Libel Action Against Truth|date=6 October 1905|page=5|newspaper=[[New Zealand Herald]]}}</ref>
+
+By the time of the [[1906 United Kingdom general election|general election called in January 1906]], he had been disowned by the Conservative Party, who nominated another candidate for his Lambeth North seat. Horner defended his seat as an Independent Unionist, but secured only 108 votes, finishing last of the four candidates.<ref>{{cite news|title=The General Election|newspaper=[[The Times]]|date=16 January 1906|page=10}}</ref>
+
+==Bankruptcy and imprisonment==
+In February 1906 liquidators were appointed to Mayfair Printing & Publishing Limited. Horner claimed to have resigned as a director of the company some time before, but it became clear that he had made a number of financial transactions on behalf of the company for which no proper accounts had been made.<ref name=creditors>{{cite news|title=Creditors' And Contributories' Meetings|date=10 February 1906|newspaper=[[The Times]]|page=4}}</ref>  In July 1906 Horner failed to attend a [[bankruptcy]] hearing, his medical witness stating that he was "confined to his bed, suffering from complete mental prostration".<ref>{{cite news|title=King's Bench Division|date=13 July 1906|newspaper=[[The Times]]|page=3}}</ref> Despite repeated adjournments, by the end of the year he had been judged bankrupt.<ref>{{cite web|title=Proceedings against F.W.Horner (a bankrupt) for possessions: instructions to Counsel and court|publisher=[[London Metropolitan Archives]]}}</ref>
+
+In February 1910 Horner was charged with unlawfully forging and uttering telegrams. The alleged offence had been committed during the [[January 1910 United Kingdom general election|election campaign in the previous month]]. Horner had sent a telegram to the editor of the ''[[Daily Mail]]'', impersonating one of its regular correspondents. He claimed to have witnessed the Liberal leader, [[David Lloyd George]], being assailed by an angry group of voters in [[Falmouth, Cornwall|Falmouth]], [[Cornwall]]. He detailed how they accused Lloyd George of cowardice and how he had to be rescued from the scene by police. The ''Daily Mail'' duly printed the story, but later retracted it. Horner attempted to send another telegram repeating the allegations and stating that "foreigners" were trying to suppress the truth. On 11 March he was found guilty by a jury and sentenced to six weeks imprisonment.<ref>{{cite news|title=Central Criminal Court|date=12 March 1910|page=4}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Hansard-contribs | mr-frederick-horner | Mr Federick Horner}}
+
+{{S-start}}
+{{S-par|uk}}
+{{Succession box
+  | title  = [[Member of Parliament]] for [[Lambeth North (UK Parliament constituency)|Lambeth North]]
+  | years  = [[1900 United Kingdom general election|1900]] – [[1906 United Kingdom general election|1906]]
+  | before = Sir [[Henry Morton Stanley]]
+  | after  = [[Horatio Myer]]
+}}
+{{S-end}}
+
+{{DEFAULTSORT:Horner, Frederick William}}
+[[Category:1854 births]]
+[[Category:Conservative Party (UK) MPs for English constituencies]]
+[[Category:People from Newport, Wales]]
+[[Category:UK MPs 1900–1906]]
+[[Category:Year of death missing]]

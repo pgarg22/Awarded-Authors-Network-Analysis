@@ -1,0 +1,52 @@
+{{infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image         = Author_Thomas_Owen.jpg
+| imagesize     = 
+| alt           =
+| pseudonym     =
+| birth_name     =
+| birth_date     = July 22, 1910
+| birth_place    = Leuven, Belgium
+| death_date     = March 2, 2002
+| death_place    =Brussels, Belgium
+| resting_place =
+| occupation    = Writer
+| language      = French
+| nationality   = [[Belgium]]
+| ethnicity     =
+| citizenship   =
+| education     =
+| alma_mater    =
+| period        =
+| genre         = [[Weird fiction|Weird]]<br/>[[Fantasy (genre)|Fantasy]]<br />[[Fantastique]]
+| subject       =
+| movement      = [[Belgium Weird]]
+| notableworks  =
+| spouse(s)     = 
+| partner(s)    =
+| children      =
+| relative(s)   =
+| influences    = 
+| influenced    = 
+| awards        =
+| signature     =
+| signature_alt =
+| website       =
+| portaldisp    =
+}}
+
+'''Thomas Owen''' (real name Gérald Bertot) is often credited with [[Jean Ray (author)|Jean Ray]] and [[Franz Hellens]] as a pillar of Belgium weird fiction and as part of the golden age of Belgium [[fantastique]] fiction.<ref>{{cite web|last1=Gauvin|first1=Edward|title=Jean Muno’s Unusual Tales|url=http://weirdfictionreview.com/2014/01/jean-munos-unusual-tales/|accessdate=7 June 2014}}</ref> He wrote over 300 short stories in his lifetime, most being either fantasy or weird fiction.<ref>{{cite web|last1=Gauvin|first1=Edward|title=An Accounting by Thomas Owen|url=http://weirdfictionreview.com/2012/09/an-accounting/|accessdate=7 June 2014}}</ref>
+
+== Biography ==
+
+Thomas Owen started as an author of detective fiction but switched to the fantastique with 1942's ''l’Initiation à la Peur''. Eventually he became close friends with one of the founders of the Belgian school of the strange, [[Jean Ray (author)|Jean Ray]]. They remained close friends until Ray's death in 1964.
+
+== References ==
+{{Reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Owen, Thomas}}
+[[Category:1910 births]]
+[[Category:2002 deaths]]
+[[Category:Belgian fantasy writers]]
+[[Category:Weird fiction writers]]

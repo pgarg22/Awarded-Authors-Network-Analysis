@@ -1,0 +1,156 @@
+{{short description|French Symbolist poet}}
+{{more citations needed|date=June 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Stéphane Mallarmé
+| image = Portrait of Stéphane Mallarmé.jpg
+| caption = Portrait of Mallarmé, by [[Nadar]], 1896
+| birth_name = Étienne Mallarmé
+| birth_date = {{birth date|df=yes|1842|3|18}}
+| birth_place = Paris, France
+| death_date = {{death date and age|df=yes|1898|9|9|1842|3|18}}
+| death_place = [[Vulaines-sur-Seine]], France
+| occupation = Poet
+| period = 
+| subject = 
+| movement = [[Symbolism (arts)|Symbolism]]
+| notableworks = 
+| signature = 
+| spouse = {{marriage|Maria Christina Gerhard|1863}}
+| children = 2
+}}
+{{French literature sidebar}}
+'''Stéphane Mallarmé''' ({{IPAc-en|ˌ|m|æ|l|ɑːr|ˈ|m|eɪ}} {{respell|MAL|ar|MAY}},<ref>{{Cite Oxford Dictionaries|Mallarmé, Stéphane|accessdate=22 August 2019}}</ref><ref>{{Cite American Heritage Dictionary|Mallarmé|access-date=22 August 2019}}</ref><ref>{{Cite Merriam-Webster|Mallarmé|access-date=22 August 2019}}</ref> {{IPA-fr|stefan malaʁme|lang|Stéphane Mallarmé.ogg}}; 18 March 1842 – 9 September 1898), pen name of '''Étienne Mallarmé''', was a French poet and critic.  He was a major French [[Symbolism (arts)|symbolist]] poet, and his work anticipated and inspired several revolutionary artistic schools of the early 20th century, such as [[Cubism]], [[Futurism (art)|Futurism]], [[Dada]]ism, and [[Surrealism]].
+
+==Biography==
+Mallarmé was born in Paris. He was a boarder at the ''[[Pensionnat des Frères des écoles chrétiennes à Passy]]'' between 6<ref>''Colloque Mallarmé'', p. 41.</ref> or 9 October 1852 and March 1855.<ref>''Documents Stéphane Mallarmé'', p. 12.</ref> He worked as an English teacher and spent much of his life in relative poverty but was famed for his ''[[Salon (gathering)|salons]]'', occasional gatherings of intellectuals at his house on the rue de Rome for discussions of poetry, art and philosophy. The group became known as ''les Mardistes,'' because they met on Tuesdays  (in French, ''mardi''), and through it Mallarmé exerted considerable influence on the work of a generation of writers. For many years<!--DATES?-->, those sessions, where Mallarmé held court as judge, jester, and king, were considered the heart of Paris intellectual life.  Regular visitors included [[William Butler Yeats|W.B. Yeats]], [[Rainer Maria Rilke]], [[Paul Valéry]], [[Stefan George]], [[Paul Verlaine]], and many others.
+
+Along with other members of ''La Revue Blanche'' such as [[Jules Renard]], [[Julien Benda]] and [[Ioannis Psycharis]], Mallarmé was a [[Dreyfusard]].<ref>{{cite book |last1=Bredin |first1=Jean-Denis |title=The Affair: The Case of Alfred Dreyfus |url=https://archive.org/details/affair00jean |url-access=registration |date=1986 |publisher=G. Braziller |page=[https://archive.org/details/affair00jean/page/278 278]}}</ref>
+
+On 10 August 1863, he married Maria Christina Gerhard. They had two children, Geneviève in 1864 and Anatole in 1871. Anatole died in 1879. Mallarmé died in Valvins (present-day [[Vulaines-sur-Seine]]), near Fontainebleau, on September 9, 1898.<ref>{{cite web|url= https://www.britannica.com/biography/Stephane-Mallarme|title= Stéphane Mallarmé|last= Chadwick|first= Charles|date= Sep 5, 2021|website= Britannica|publisher= Encyclopedia Britannica|access-date= 24 October 2021}}</ref>
+
+==Style==
+
+[[Image:Portrait of Stéphane Mallarmé (Manet).jpg|thumb|left|250px|[[Édouard Manet]], ''Portrait of Stéphane Mallarmé,'' 1876]]
+Mallarmé's earlier work owes a great deal to the style of [[Charles Baudelaire]] who was recognised as the forerunner of literary [[Symbolism (arts)|Symbolism]].<ref>Conway Morris, Roderick ''The Elusive Symbolist movement''  article - International Herald Tribune , March 17, 2007</ref> Mallarmé's later ''[[fin de siècle]]'' style, on the other hand, anticipates many of the fusions between [[poetry]] and the other [[arts]] that were to blossom in the next century.  Most of this later work explored the relationship between content and form, between the text and the arrangement of words and spaces on the page.  This is particularly evident in his last major poem, ''[[Un Coup de Dés Jamais N'Abolira Le Hasard (Mallarmé)|Un coup de dés jamais n'abolira le hasard]]'' ('A roll of the dice will never abolish chance') of 1897.<ref name="orig">
+  {{cite book 
+  | title = Un Coup de Dés Jamais N'Abolira Le Hasard
+  | url = https://math.dartmouth.edu/~doyle/docs/coup/scan/coup.pdf
+  | publisher = Librairie Gallimard (copyright by Nouvelle Revue Française)
+  |date=July 1914}}
+</ref>
+
+Some consider Mallarmé one of the French [[poets]] most difficult to translate into English.<ref>Stéphane Mallarmé, trans. E.H. and A.M. Blackmore ''Collected Poems and Other Verse''. Oxford: Oxford World's Classics, 2006, p. xxix. {{ISBN|978-0-19-953792-1}}</ref> The difficulty is due in part to the complex, multilayered nature of much of his work, but also to the important role that the sound of the words, rather than their meaning, plays in his poetry. When recited in French, his poems allow alternative meanings which are not evident on reading the work on the page.  For example, Mallarmé's ''Sonnet en '-yx''' opens with the phrase ''ses purs ongles'' ('her pure nails'), whose first syllables when spoken aloud sound very similar to the words ''c'est pur son'' ('it's pure sound'). Indeed, the '[[sound poetry|pure sound]]' aspect of his poetry has been the subject of musical analysis and has inspired musical compositions. These [[homophony|phonetic ambiguities]] are very difficult to reproduce in a translation which must be faithful to the meaning of the words.<ref>Roger Pearson, ''Unfolding Mallarme. The development of a poetic art''. Oxford: Clarendon Press, 1996. {{ISBN|0-19-815917-X}}</ref>
+
+==Influence==
+
+===General poetry===
+
+Mallarmé's [[poetry]] has been the inspiration for several musical pieces, notably [[Claude Debussy]]'s ''[[Prélude à l'après-midi d'un faune]]'' (1894), a free interpretation of Mallarmé's poem ''[[Afternoon of a Faun (poem)|L'après-midi d'un faune]]'' (1876), which creates powerful impressions by the use of striking but isolated phrases.<ref>{{Cite web|url=https://www.independent.ie/entertainment/music/debussy-the-man-who-broke-the-mould-38428048.html|title=Debussy: the man who broke the mould|website=independent|language=en|access-date=2020-03-31}}</ref> [[Maurice Ravel]] set Mallarmé's poetry to music in ''[[Trois poèmes de Mallarmé]]'' (1913). Other composers to use his poetry in song include [[Darius Milhaud]] (''Chansons bas de Stéphane Mallarmé'', 1917) and [[Pierre Boulez]] (''[[Pli selon pli]]'', 1957–62).
+
+[[Image:Mallarmé Pan 1887.jpg|thumb|150px|right|Stéphane Mallarmé as a faun, cover of the literary magazine ''Les hommes d'aujourd'hui'', 1887.]]
+
+[[Man Ray]]'s last film, entitled ''[[Les Mystères du Château de Dé]] (The Mystery of the Chateau of Dice)'' (1929), was greatly influenced by Mallarmé's work, prominently featuring the line "A roll of the dice will never abolish chance".
+
+Mallarmé is referred to extensively in the latter section of [[Joris-Karl Huysmans]]' ''[[À rebours]]'', where Des Esseintes describes his fervour-infused enthusiasm for the poet: "These were Mallarmé's masterpieces and also ranked among the masterpieces of prose poetry, for they combined a style so magnificently that in itself it was as soothing as a melancholy incantation, an intoxicating melody, with irresistibly suggestive thoughts, the soul-throbs of a sensitive artist whose quivering nerves vibrate with an intensity that fills you with a painful ecstasy." [p.&nbsp;198, [[Robert Baldick]] translation]
+
+The critic and translator [[Barbara Johnson]] has emphasized Mallarmé's influence on twentieth-century French criticism and theory: "It was largely by learning the lesson of Mallarmé that critics like [[Roland Barthes]] came to speak of '[[the death of the author]]' in the making of literature.  Rather than seeing the text as the emanation of an individual author's intentions, [[structuralism|structuralists]] and [[deconstruction|deconstructors]] followed the paths and patterns of the linguistic [[Sign (linguistics)|signifier]], paying new attention to syntax, spacing, [[intertextuality]], sound, semantics, etymology, and even individual letters.  The theoretical styles of [[Jacques Derrida]], [[Julia Kristeva]], [[Maurice Blanchot]], and especially [[Jacques Lacan]] also owe a great deal to Mallarmé's 'critical poem.'"<ref>Barbara Johnson, "Translator's Note" to Stéphane Mallarmé, ''Divagations'', trans. Johnson, Cambridge, MA: Harvard University Press, 2007, pg. 301</ref>
+
+===''Un Coup de Dés''===
+[[File:Stephane Mallarme.jpg|thumb|left|Mallarmé around 1890.]]
+It has been suggested that "much of Mallarmé's work influenced the conception of [[Hypertext (semiotics)|hypertext]], with his purposeful use of blank space and careful placement of words on the page, allowing multiple non-linear readings of the text. This becomes very apparent in his work ''Un coup de dés''."<ref>{{Cite book|url=https://books.google.com/books?id=8KQIaUIyvZQC&pg=PA164|title=Symbolism, Synesthesia, and Semiotics, Multidisciplinary Approach|last=Balla|first=Bonaventure|publisher=Xlibris Corporation|year=2012|isbn=978-1-4771-5544-8|pages=163–165|via=Google Books}}{{self-published source|date=December 2017}}</ref>{{Self-published inline|certain=yes|date=December 2017}}
+
+In 1990, Greenhouse Review Press published [[D. J. Waldie]]'s American translation of ''Un Coup de Dés'' in a letterpress edition of 60 copies, its typography and format based on examination of the final (or near final) corrected proofs of the poem in the collection of Harvard's Houghton Library.
+
+Prior to 2004, ''Un Coup de Dés'' was never published in the typography and format conceived by Mallarmé. In 2004, 90 copies on vellum of a new edition were published by Michel Pierson et Ptyx. This edition reconstructs the typography originally designed by Mallarmé for the projected Vollard edition in 1897 and which was abandoned after the sudden death of the author in 1898.  All the pages are printed in the format (38&nbsp;cm by 28&nbsp;cm) and in the typography chosen by the author. The reconstruction has been made from the proofs which are kept in the [[Bibliothèque nationale de France|Bibliothèque Nationale de France]], taking into account the written corrections and wishes of Mallarmé and correcting certain errors on the part of the printers Firmin-Didot.
+
+A copy of this edition is in the Bibliothèque François-Mitterrand. Copies have been acquired by the Bibliothèque littéraire Jacques-Doucet and University of California - [[University of California, Irvine|Irvine]], as well as by private collectors. A copy has been placed in the Museum Stéphane Mallarmé at Vulaines-sur-Seine, Valvins, where Mallarmé lived and died and where he made his final corrections on the proofs prior to the projected printing of the poem.<ref>{{cite book |last1=Mallarmé |first1=Stéphane |title=Oeuvres Complètes I |date=1998 |publisher=Bibliothèque de la Pléiade |isbn=9782070115587 |page=LXIII |language=French}}</ref><ref>{{cite web |title=La maison du poète |url=https://www.musee-mallarme.fr/fr/la-maison-du-poete |website=Musée Stéphane Mallarmé |access-date=18 November 2021 |language=French}}</ref>
+
+In 2012, the French philosopher [[Quentin Meillassoux]] published ''The Number and the Siren'', a rigorous attempt at 'deciphering' the poem on the basis of a unique interpretation of the phrase 'the unique Number, which cannot be another.'<ref>{{Cite news|url=https://www.urbanomic.com/book/the-number-and-the-siren/|title=The Number and the Siren - Urbanomic|newspaper=Urbanomic|language=en-GB|access-date=2016-12-15}}</ref>
+
+In 2015, Wave Books published ''A Roll of the Dice Will Never Abolish Chance'', a dual-language edition of the poem, translated by Robert Bononno and [[Jeff Clark (designer)]]. Another dual-language edition, translated by Henry Weinfield, was published by University of California Press in 1994.
+
+The poet and visual artist [[Marcel Broodthaers]] created a purely graphical version of ''[[Un Coup de Dés Jamais N'Abolira Le Hasard (Broodthaers)|Un coup de Dés]]'', using Mallarmé's typographical layout but with the words replaced by black bars. In 2018, Apple Pie Editions published ''un coup de des jamais n'abolira le hasard: translations'' by Eric Zboya, an English edition that transforms the poem not only through erasure, but through graphic imaging software.
+
+== Selected works ==
+{{French literature sidebar}}
+
+* ''[[L'après-midi d'un faune (poem)|Afternoon of a Faun]]''
+* ''[[Poésies (Mallarmé book)|Poésies]]''
+* ''[[Divagations]]''
+* ''[[Un Coup de Dés Jamais N'Abolira Le Hasard (Mallarmé)|A Throw of the Dice will Never Abolish Chance]]''
+
+==References and sources==
+;References
+{{Reflist}}
+;Sources
+*Hendrik Lücke: Mallarmé - Debussy. Eine vergleichende Studie zur Kunstanschauung am Beispiel von „L'Après-midi d'un Faune“. (= Studien zur Musikwissenschaft, Bd. 4). Dr. Kovac, Hamburg 2005, {{ISBN|3-8300-1685-9}}.
+
+==Further reading==
+*Giulia Agostini (ed.). ''Mallarmé. Begegnungen zwischen Literatur, Philosophie, Musik und den Künsten'', Passagen, Vienna 2019, {{ISBN|978-3-7092-0297-5}}.
+*Arnar, A.S. ''The Book as Instrument: Stéphane Mallarmé, the Artist's Book, and the Transformation of Print Culture.'' Chicago: University of Chicago Press, 2011.
+*[[Alain Badiou|Badiou, Alain]].  "A Poetic Dialectic: Labîd ben Rabi'a and Mallarmé" and "Philosophy of the Faun".  In ''Handbook of Inaesthetics''.  Trans. [[Alberto Toscano]].  Stanford: Stanford University Press, 2005.  46–56, 122–41.
+*[[Leo Bersani|Bersani, Leo]].  ''The Death of Stéphane Mallarmé''.  Cambridge: Cambridge University Press, 1981.
+*[[Maurice Blanchot|Blanchot, Maurice]].  ''The Space of Literature''.  Trans. Ann Smock.  Lincoln, NE: University of Nebraska Press, 1982.
+*[[Maurice Blanchot|Blanchot, Maurice]].  "The Absence of the Book".  In ''The Infinite Conversation''.  Trans. Susan Hanson.  Minneapolis: University of Minnesota Press, 1993.  422–436.
+*[[Maurice Blanchot|Blanchot, Maurice]].  "The Myth of Mallarmé".  In ''The Work of Fire''.  Trans. [[Charlotte Mandell]].  Stanford: Stanford University Press, 1995.  26–42.
+*[[Maurice Blanchot|Blanchot, Maurice]].  "The Silence of Mallarmé", "Mallarmé's Silence", and "Mallarmé and the Novel".  In ''Faux Pas''.  Trans. [[Charlotte Mandell]].  Stanford: Stanford University Press, 2001.  99-106, 107–111, 165–171.
+*[[Maurice Blanchot|Blanchot, Maurice]].  "The Book to Come".  In ''The Book to Come''.  Trans. [[Charlotte Mandell]].  Stanford: Stanford University Press, 2003.  224–244.
+*[[Malcolm Bowie|Bowie, Malcolm]]. ''Mallarmé and the Art of Being Difficult''.  Cambridge: Cambridge University Press, 1978.
+*[[Alan Rowland Chisholm|Chisholm, Alan Rowland]]. ''Towards Hérodiade. A Literary Genealogy''. Melbourne: Melbourne University Press in association with Oxford: Oxford University Press, 1934; New York, AMS Press, 1979.
+*[[Alan Rowland Chisholm|Chisholm, Alan Rowland]]. ''Mallarmé's L'après-midi d'un faune: An Exegetical and Critical Study''. Melbourne: Melbourne University Press on behalf of the Australian Humanities Research Council, 1958;  in French translation: Brussels, J. Antoine, 1974.
+*[[Alan Rowland Chisholm|Chisholm, Alan Rowland]]. ''Mallarmé's Grand Oeuvre''. Manchester: Manchester University Press, 1962.
+*Cohn, Robert Greer.  ''Toward the Poems of Mallarmé''.  Berkeley: University of California Press, 1965.
+*Cohn, Robert Greer.  ''Mallarmé’s Masterwork: New Findings''.  The Hague: Mouton & Co., 1966. [A commentary on "Un coup de dés jamais n'abolira le hasard".]
+*Cohn, Robert Greer.  ''Mallarmé, Igitur''.  Berkeley: University of California Press, 1981.
+*Cohn, Robert Greer.  ''Mallarmé’s Prose Poems: A Critical Study''.  Cambridge: Cambridge University Press, 1987.
+*Cohn, Robert Greer.  ''Mallarmé’s Divagations: A Guide and Commentary''.  New York: Peter Lang, 1990.
+*Cohn, Robert Greer, ed. ''Mallarmé in the Twentieth Century''.  Associate ed. Gerard Gillespie. Madison, NJ: Fairleigh Dickinson University Press, 1998.
+*[[Jacques Derrida|Derrida, Jacques]].  ''Dissemination''.  Trans. [[Barbara Johnson]].  Chicago: University of Chicago Press, 1981.
+*[[Jacques Derrida|Derrida, Jacques]].  ''Paper Machine''.  Trans. Rachel Bowlby.  Èditions Galilée, 2001.
+*[[Fredric Jameson|Jameson, Fredric]].  "Mallarmé Materialist".  In ''The Modernist Papers''.  London: Verso, 2007.  313–41.
+*[[Barbara Johnson|Johnson, Barbara]].  "Crise de Prose".  In ''Défigurations du langage poétique: La seconde révolution baudelairienne''. Paris: Flammarion, 1979.  161–211.
+*[[Barbara Johnson|Johnson, Barbara]].  "Allegory's Trip-Tease: 'The White Waterlily'" and "Poetry and Performative Language: Mallarmé and Austin".  In ''The Critical Difference: Essays in the Contemporary Rhetoric of Reading''.  Baltimore: Johns Hopkins University Press, 1980.  13–20, 52–66.
+*[[Barbara Johnson|Johnson, Barbara]].  "Erasing Panama: Mallarmé and the Text of History", "Les Fleurs du Mal Larmé: Some Reflections of Intertextuality", and "Mallarmé as Mother".  In ''A World of Difference''.  Baltimore: Johns Hopkins University Press, 1987.  57–67, 116–33, 137–43.
+*[[Julia Kristeva|Kristeva, Julia]].  ''La révolution du langue poétique: l’avant-garde à la fin du XIXe siècle: [[Lautréamont]] et Mallarmé''.  Paris: Seuil, 1974.  [Note: Kristeva's commentaries on Mallarmé are largely omitted in the abridged English translation: ''Revolution in Poetic Language'', trans. Margaret Waller, New York: Columbia University Press, 1984.]
+*Lloyd, Rosemary.  ''Mallarmé: The Poet and his Circle''.  Ithaca, NY: Cornell University Press, 1999.
+*Mallarmé, Stéphane. ''Stéphane Mallarmé: The Poems in Verse''. Translated by [[Peter Manson]], Miami University Press, 2012.
+*[[Quentin Meillassoux|Meillassoux, Quentin]]. ''The Number and the Siren: A Decipherment of Mallarme's Coup De Des''.  Falmouth: Urbanomic, 2012.
+*Millan, Gordon.  ''A Throw of the Dice: The Life of Stephane Mallarme''.  New York: Farrar, Straus & Giroux, 1994.
+*[[Jacques Rancière|Rancière, Jacques]].  ''Mallarmé: The Politics of the Siren''.  Trans. Steve Corcoran.  London and New York: Continuum, 2011.
+*[[Jean-Pierre Richard|Richard, Jean-Pierre]].  ''L’univers imaginaire de Mallarmé''.  Paris: Éditions du Seuil, 1961.
+*Robb, Graham.  ''Unlocking Mallarmé''.  New Haven: Yale University Press, 1996.
+*[[Mitsou Ronat|Ronat, Mitsou]].  ''Un coup de dès...pour la première fois grandeur nature'', in La Quinzaine Littéraire, numéro 319, 1980.
+*[[Jean-Paul Sartre|Sartre, Jean-Paul]].  ''Mallarmé, or the Poet of Nothingness''.  Trans. Ernest Sturm.  Philadelphia: Pennsylvania State University Press, 1988.
+*Sethna, K. D. (1987). The obscure and the mysterious: A research in Mallarmé's symbolic poetry. Pondicherry: Sri Aurobindo International Centre of Education. 
+*Scherer, Jacques.  ''Le "Livre" de Mallarmé: Premieres recherches sur des documents inedits.''  Paris: Gallimard, 1957.
+*Williams, Heather. ''Mallarmé's ideas in language'' Oxford: Peter Lang, 2004.
+
+== External links ==
+{{Commons}}
+{{Wikiquote}}
+{{Wikisource author}}
+* {{Gutenberg author |id=1547 | name=Stéphane Mallarmé}}
+* {{Internet Archive author |sname=Stéphane Mallarmé |sopt=w}}
+* {{Librivox author |id=991}}
+* [http://www.litteratureaudio.com/livres-audio-gratuits-mp3/tag/stephane-mallarme/ Stéphane Mallarmé, his work in audio version] [[Image:Speaker Icon.svg|20px]] {{in lang|fr}}
+* [http://www.michaelmaranda.com/documents/projects/livre/Livre_proof.pdf Rendition of ''Un coup de dés'' by Michael Maranda]
+* [https://www.ericzboya.com Eric Zboya offers a graphic translation of ''Un coup de dés'']
+
+{{Authority control}}
+
+{{DEFAULTSORT:Mallarme, Stephane}}
+[[Category:1842 births]]
+[[Category:1898 deaths]]
+[[Category:Writers from Paris]]
+[[Category:French poets]]
+[[Category:Prince des poètes]]
+[[Category:Symbolist dramatists and playwrights]]
+[[Category:Symbolist poets]]
+[[Category:Poètes maudits]]
+[[Category:Translators of Edgar Allan Poe]]
+[[Category:19th-century translators]]
+[[Category:French male poets]]
+[[Category:French male dramatists and playwrights]]
+[[Category:Lycée Janson-de-Sailly teachers]]
+[[Category:Lycée Condorcet teachers]]
+[[Category:Dreyfusards]]

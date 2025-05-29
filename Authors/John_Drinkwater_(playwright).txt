@@ -1,0 +1,74 @@
+{{short description|British writer}}
+{{Use dmy dates|date=June 2015}}
+{{Use British English|date=June 2015}}
+
+{{Infobox person
+| name               = John Drinkwater
+| image              = File:John Drinkwater in 1919.jpg
+| size               = 
+| caption            = Drinkwater in 1919
+| quotation          = 
+| nationality        = British
+| birth_date         = {{birth date|1882|6|1|df=yes}}
+| birth_place        = [[Leytonstone]]
+| dead               = 
+| death_date         = {{death date and age|1937|3|25|1882|6|1|df=yes}}
+| death_place        = [[London]]
+| spouse             = Cathleen Orford (née Kathleen Walpole)<br>[[Daisy Kennedy]]
+| children           = 1
+}}
+'''John Drinkwater''' (1 June 1882 – 25 March 1937) was an [[England|English]] [[poet]] and [[dramatist]].
+
+==Life and career==
+Drinkwater was born in [[Leytonstone]], [[Essex]], (now [[Greater London]]), to actor/author Albert Edwin Drinkwater (1851–1923) and Annie Beck (''née'' Brown), and worked as an insurance clerk. In the period immediately before the [[World War I|First World War]] he was one of the [[Dymock poets|group of poets]] associated with the [[Gloucestershire]] village of [[Dymock]], along with [[Rupert Brooke]] and others. 
+
+In 1918 he had his first major success with his play ''[[Abraham Lincoln (play)|Abraham Lincoln]]''. He followed it with others in a similar vein, including ''Mary Stuart'' and ''Oliver Cromwell''. In 1924, his Lincoln play was adapted for a two-reel [[short film]] made by [[Lee de Forest]] and [[J. Searle Dawley]] featuring [[Frank McGlynn Sr.]] as Lincoln, and made in de Forest's [[Phonofilm]] sound-on-film process.<ref>{{Cite web |url=http://encyclopedia.jrank.org/articles/pages/2064/Lee-de-Forest-and-Phonofilm-Virtual-Broadway.html |title=Lee de Forest and Phonofilm at Virtual Broadway website |access-date=27 January 2012 |archive-url=https://web.archive.org/web/20160820125817/http://encyclopedia.jrank.org/articles/pages/2064/Lee-de-Forest-and-Phonofilm-Virtual-Broadway.html |archive-date=20 August 2016 |url-status=dead }}</ref>
+
+He had published poetry since ''The Death of Leander'' in 1906; the first volume of his ''Collected Poems'' was published in 1923. He also compiled anthologies and wrote literary criticism (e.g. ''Swinburne: an estimate'' (1913)), and later became manager of [[Birmingham Repertory Theatre]].
+
+He was married to [[Daisy Kennedy]], the ex-wife of [[Benno Moiseiwitsch]], with whom he had a daughter named Penny. 
+
+John Drinkwater made recordings in [[Columbia Records]]' International Educational Society Lecture series. They include Lecture 10 – a lecture on ''The Speaking of Verse'' (Four 78rpm sides, Cat no. D 40018-40019), and Lecture 70 ''John Drinkwater reading his own poems'' (Four 78rpm sides, Cat no. D 40140-40141).<ref>''Catalogue of Columbia Records, Up to and including Supplement no. 252'' (Columbia Graphophone Company, London September 1933), pp. 371, 374.</ref>
+
+==Death and commemoration==
+[[File:Piddington StNicholas GravestoneDrinkwater.JPG|thumb|Drinkwater's grave at [[Piddington, Oxfordshire]]]]
+Drinkwater died in London in 1937.<ref name="Magill1985">{{cite book|author=Frank Northen Magill|title=Critical Survey of Drama: Authors A-Z|url=https://books.google.com/books?id=JK85AAAAMAAJ|year=1985|publisher=Salem Press|isbn=978-0-89356-377-6|page=506}}</ref> He is buried at [[Piddington, Oxfordshire]], where he had spent summer holidays as a child.
+
+A road in Leytonstone, formerly a 1960s [[council estate]], is named after Drinkwater, as is a small development of modern houses in Piddington.
+
+== Archives ==
+Papers of John Drinkwater are held at the Cadbury Research Library, University of Birmingham.<ref>{{Cite web|title=UoB Calmview5: Search results|url=https://calmview.bham.ac.uk/Record.aspx?src=CalmView.Catalog&id=XJD|access-date=2021-01-28|website=calmview.bham.ac.uk}}</ref> This includes a collection of photographs and photograph albums relating to John Drinkwater.<ref>{{Cite web|title=UoB Calmview5: Search results|url=https://calmview.bham.ac.uk/Record.aspx?src=CalmView.Catalog&id=XMS235|access-date=2021-03-10|website=calmview.bham.ac.uk}}</ref><ref>{{Cite web|title=UoB Calmview5: Search results|url=https://calmview.bham.ac.uk/Record.aspx?src=CalmView.Catalog&id=XMS234|access-date=2021-03-10|website=calmview.bham.ac.uk}}</ref>
+
+==Notes==
+{{Portal|Poetry|Biography}}
+{{Reflist}}
+
+==External links==
+{{wikisource|Author:John Drinkwater|John Drinkwater}}
+{{Commons category|John Drinkwater}}
+*[http://www.johndrinkwater.org/ John Drinkwater memorial site]
+*[http://sca.glos.ac.uk/ Special Collections and Archives Catalogue] University of Gloucestershire Archives and Special Collections
+* {{Gutenberg author |id=Drinkwater,+John | name=John Drinkwater}}
+* {{Internet Archive author |sname=John Drinkwater |birth=1882 |death=1937}}
+* {{Librivox author |id=2560}}
+* [https://web.archive.org/web/20051210035643/http://lenbernstein.com/Pages/EgoJustice.html Discussion of John Drinkwater's play ''Abraham Lincoln'']
+* {{UK National Archives ID}}
+* Archival Material at {{wikidata|qualifier|property|P485|Q24568958|P856|format=\[%q %p\]}}
+*[https://www.greatwartheatre.org.uk/db/person/300/ Plays by John Drinkwater] at [https://www.greatwartheatre.org.uk Great War Theatre]
+*[[hdl:10079/fa/beinecke.drinkwat|John Drinkwater Collection]]. General Collection, Beinecke Rare Book and Manuscript Library, Yale University
+
+{{Authority control}}
+
+{{DEFAULTSORT:Drinkwater, John}}
+[[Category:1882 births]]
+[[Category:1937 deaths]]
+[[Category:People educated at the City of Oxford High School for Boys]]
+[[Category:People from Leytonstone]]
+[[Category:English male dramatists and playwrights]]
+[[Category:English male poets]]
+[[Category:20th-century English poets]]
+[[Category:20th-century English dramatists and playwrights]]
+[[Category:20th-century English male writers]]
+
+
+{{england-writer-stub}}

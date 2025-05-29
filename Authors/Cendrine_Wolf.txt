@@ -1,0 +1,76 @@
+{{short description|French writer}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. --> 
+| name          = Cendrine Wolf
+| image         = Cendrine Wolf - Comédie du Livre 2011 - Montpellier - P1160354.jpg
+| image_size    = 
+| alt           = 
+| caption       = 
+| pseudonym     = 
+| birth_name    = 
+| birth_date    = 1969
+| birth_place   = [[Colmar]]
+| death_date    = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place   = 
+| resting_place = 
+| occupation    = Author
+| language      = 
+| nationality   = 
+| ethnicity     = 
+| citizenship   = 
+| education     = 
+| alma_mater    = 
+| period        = 
+| genre         = 
+| subject       = 
+| movement      = 
+| notableworks  = [[Oksa Pollock]]<ref>{{cite web|title=Even girls can spell school class designed "100 poems for the picking"|url=http://translate.googleusercontent.com/translate_c?depth=1&ei=cBNVUfPeN4y70QHNh4GwCA&hl=en&prev=/search%3Fq%3DCendrine%2BWolf%26hl%3Den&rurl=translate.google.com&sl=de&u=http://www.saarbruecker-zeitung.de/sz-berichte/sulzbachtal/Auch-Maedchen-koennen-zaubernSchulklasse-gestaltet-100-Gedichte-zum-Pfluecken%3Bart2811,3781717&usg=ALkJrhiP-CY8kg1t4h-DNqTVeNEX2VCY2Q#.UVUUHxecdqw|publisher=Saarbrücker Zeitung|accessdate=29 March 2013}}</ref> 
+| spouse        = 
+| partner       = 
+| children      = 
+| relatives     = 
+| influences    = 
+| influenced    = 
+| awards        = 
+| signature     = 
+| signature_alt = 
+| website       = <!-- www.example.com -->
+| portaldisp    = 
+}}
+'''Cendrine Wolf''' (born 1969 in Colmar) is a [[French people|French]] children's writer, known for co-writing the ''[[Oksa Pollock]]'' series with [[Anne Plichota]].<ref>{{cite news|title=Oksa Pollock: The Last Hope by Anne Plichota and Cendrine Wolf - review|url=https://www.theguardian.com/childrens-books-site/2011/nov/07/oksa-pollock-plichota-wolf-review?newsfeed=true|publisher=Guardian|accessdate=29 March 2013|location=London|date=7 November 2011}}</ref><ref>{{cite web|title=articulars Anne Plichota, Cendrine Wolf|url=http://translate.googleusercontent.com/translate_c?depth=1&ei=cBNVUfPeN4y70QHNh4GwCA&hl=en&prev=/search%3Fq%3DCendrine%2BWolf%26hl%3Den&rurl=translate.google.com&sl=de&u=http://www.spiegel.de/spiegel/print/d-77962994.html&usg=ALkJrhgSB9-zqLKrbqUkw8rBeFdUMdWYFw|publisher=Der Spiegel|accessdate=29 March 2013}}</ref> In 2012 the two announced that they would be collaborating on a new series centering on the character of [[Susan Hopper]].
+
+==Bibliography==
+
+===Oksa Pollock===
+#''L'Inespérée'' (2010)
+#''La forêt des égarés'' (2010)
+#''Le coeur des deux mondes'' (2011)
+#''Les liens maudits'' (2012)
+#''Le règne des félons'' (2012)
+
+===Susan Hopper===
+#''Le parfum perdu'' (2013)
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+{{Portal |Children's literature}}
+* {{DNB-Portal|143621629}}
+* [http://www.oetinger.de/nc/schnellsuche/titelsuche/details/mitwirkend/1245025/14418/26502/Autor/Cendrine/Wolf.html Cedrine Wolf] bei der [[Verlagsgruppe Friedrich Oetinger]]
+* [http://www.xoeditions.com/Cendrine-Wolf?lang=en Cendrine Wolf] bei XO Editions (englisch)
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wolf, Cendrine}}
+[[Category:1969 births]]
+[[Category:People from Colmar]]
+[[Category:French children's writers]]
+[[Category:Living people]]
+[[Category:French women novelists]]
+[[Category:French women children's writers]]
+[[Category:20th-century French women writers]]
+[[Category:21st-century French women writers]]
+
+
+{{france-writer-stub}}

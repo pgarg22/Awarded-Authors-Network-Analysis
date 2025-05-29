@@ -1,0 +1,63 @@
+{{for|the illustrator|Celia Levetus}}
+{{Use dmy dates|date=June 2019}}
+{{Use British English|date=June 2019}}
+{{Infobox writer
+| name = Celia Moss Levetus
+| birth_name = Celia Moss
+| pseudonym = 
+| image = 
+| birth_date = 1819
+| birth_place = [[Portsea Island]], [[England]]
+| death_date = 1873
+| death_place = [[Birmingham]], [[England]]
+| movement = 
+| alma_mater = 
+| genre = Poetry, fiction
+| language = English
+| years_active = 
+| spouse = Lewis Levetus
+| children = 
+| resting_place = 
+| signature = 
+}}
+'''Celia Moss Levetus''' (1819–1873) was an English writer. Her best known work is ''The Romance of Jewish History'', which she published in [[Serial (literature)|serial]] form with her sister [[Marion Hartog|Marion Moss]] in 1840.
+
+== Biography ==
+
+Celia Moss was born in Portsea to Joseph and Amelia Moss in 1819.{{sfn|Jacobs|Harris|1906}} She was one of twelve siblings. When Celia and her sister Marion (born 1821) were children, their father would often read [[romantic poetry]] to them while they sewed. In 1838, the teenaged sisters published a volume of poems dedicated to [[Sir George Staunton]]. The style and form of the poems range from short lyrics to lengthier historical and dramatic pieces, and demonstrate an extensive knowledge of history and literature. Some of the poems, such as "The Massacre of the Jews at York," have explicitly Jewish themes, while others, such as "The Battle of Bannockburn," do not.{{sfn|Valman|2014|p=38}} The girls were influenced by the romantic poets, traditional Jewish texts, and Victorian women writers such as [[Felicia Hemans]] and [[Letitia Elizabeth Landon|"L.E.L." (Letitia Elizabeth Landon)]].{{sfn|Valman|2014|p=39}}
+
+In 1840, while working as teachers in London, the sisters jointly published ''The Romance of Jewish History''. The book was dedicated to Sir [[Edward Bulwer-Lytton]], and published by subscription; Bulwer-Lytton and [[Lord Palmerston]] were among the subscribers. Three years later they published ''Tales of Jewish History''. They also published poems and short stories, and a short-lived periodical, ''The Sabbath Journal.''{{sfn|Jacobs|Harris|1906}}
+
+Celia Moss married Lewis Levetus of Birmingham and stopped writing for a time. Towards the end of her life she published one last book, ''The King's Physician, and Other Tales.'' She died after a long illness in Birmingham in 1873.{{sfn|Jacobs|Harris|1906}}
+
+== Works ==
+* {{cite book |last1=Moss |first1=Celia |last2=Moss |first2=Marion |title=Early Efforts: A Volume of Poems, by the Misses Moss, of the Hebrew Nation, Aged 18 and 16 |publisher=Whittaker & Co. |location=Portsmouth |date=1838 |url=https://books.google.com/books?id=8hdhAAAAcAAJ}} {{free access}}
+* {{cite book |last1=Moss |first1=Celia |last2=Moss |first2=Marion |title=The Romance of Jewish History |publisher=Saunders and Otley |location=London |date=1840 |url=https://books.google.com/books?id=gJAEAAAAQAAJ}} {{free access}}
+* {{cite book |last1=Moss |first1=Celia |last2=Moss |first2=Marion |title=Tales of Jewish History |publisher=Miller and Field |location=London |date=1843 |url=https://archive.org/details/talesofjewishhis01mossiala}} {{free access}}
+* {{cite book |last1=Levetus |first1=Celia Moss |title=The King's Physician, and Other Tales |publisher=T. Hinton |location=Portsea |date=1865 |url=https://archive.org/details/kingsphysiciana00levegoog}} {{free access}}
+
+== References ==
+=== Citations ===
+{{Reflist|30em}}
+
+=== Bibliography ===
+* {{cite web|last1=Jacobs |first1=Joseph |last2=Harris |first2=Isidore |website=Jewish Encyclopedia |title=Levetus, Celia (Celia Moss) |url=http://www.jewishencyclopedia.com/articles/9799-levetus-celia-celia-moss |date=1906}}
+* {{cite book|last1=Valman |first1=Nadia |title=Jewish Women Writers in Britain |publisher=Wayne State University Press |date=2014 |isbn=9780814339145 |url=https://books.google.com/books?id=t0RwBQAAQBAJ&pg=PA38}}
+
+=== Further reading ===
+* {{cite web |website=Oxford Dictionary of National Biography |title=Levetus [née Moss], Celia (c.1819–1873), writer |url=http://www.oxforddnb.com/index/59/101059417/ |url-access=subscription }}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Levetus, Celia Moss}}
+[[Category:1819 births]]
+[[Category:1873 deaths]]
+[[Category:People from Portsea, Portsmouth]]
+[[Category:People from Birmingham, West Midlands]]
+[[Category:English Jewish writers]]
+[[Category:English women writers]]
+[[Category:Jewish women writers]]
+[[Category:Jewish poets]]
+[[Category:19th-century women writers]]
+[[Category:19th-century English women]]
+[[Category:19th-century English people]]

@@ -1,0 +1,68 @@
+{{short description|Japanese writer}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Kyoshi Takahama
+| native_name = 高浜 虚子
+| image       = Kyoshi Takahama.jpg
+| caption     = 
+| birth_date  = {{birth date|1874|2|22|df=y}}
+| birth_place = [[Matsuyama, Ehime|Matsuyama]], Japan
+| death_date  = {{death date and age|1959|4|8|1874|2|22|df=y}} 
+| death_place = [[Kamakura, Kanagawa]], Japan
+| occupation  = Writer
+| genre       = Literary occupation
+| movement    = 
+| notableworks = 
+}}
+{{nihongo|'''Kyoshi Takahama'''|高浜 虚子|Takahama Kyoshi|extra=22 February 1874 – 8 April 1959}} was a [[Japanese poetry|Japanese poet]] active during the [[Shōwa period]] of Japan. His real name was {{nihongo|Takahama Kiyoshi|高浜清}}; Kyoshi was a [[pen name]] given to him by his mentor, [[Masaoka Shiki]].
+
+==Early life==
+Kyoshi was born in what is now the city of [[Matsuyama, Ehime|Matsuyama]], [[Ehime Prefecture]]; his father, Ikenouchi Masatada, was a former [[samurai]] and fencing master and was also a fan of the traditional [[noh]] drama. However, with the [[Meiji Restoration]], he lost his official posts and retired as a farmer. Kyoshi grew up in this rural environment, which influenced his affinity with nature. At age nine he inherited from his grandmother's family, and took her surname of Takahama. He became acquainted with Masaoka Shiki via a classmate, [[Kawahigashi Hekigoto]].
+
+Ignoring Shiki's advice, Kyoshi quit school in 1894, and went to [[Tokyo]] to study [[Edo period]] [[Japanese literature]]. In 1895, he enrolled in the Tōkyō Senmon Gakkō (present-day [[Waseda University]]), but soon left the university for a job as an editor and [[literary critic]]ism for the [[literary magazine]] ''Nihonjin''. While working, he also submitted variants on [[haiku]] poetry, experimenting with irregular numbers of syllables. He married in 1897.
+
+His descendants include his son, the composer, [[Tomojiro Ikenouchi]] and great-granddaughter and cellist, [[Kristina Reiko Cooper]].
+
+==Literary career==
+In 1898, Kyoshi came to manage the haiku magazine ''[[Hototogisu (magazine)|Hototogisu]],'' which had been previously edited by Shiki, and moved the headquarters of the magazine from Matsuyama to Tokyo. In ''Hototogisu'', he kept with the traditional style of haiku, as opposed to the new trend having been developed in the [[Hekigo school]], which did not follow the traditional pattern of 17 syllables. Kyoshi attached importance to the symbolic function of the ''[[kigo]]'' (season word), and he tried to exclude the more modern trend towards season-less haiku completely. While editing ''Hototogisu'', he also expanded its scope to include ''[[waka (poetry)|waka poems]]'' and prose, so that it became a general literary magazine. This was where [[Natsume Sōseki]]'s ''Wagahai wa Neko de aru'' ("[[I Am a Cat]]") was first published, and Kyoshi contributed his own verses and short stories. These stories were collected into an anthology ''Keito'' ("Cockscomb", 1908), with a foreword by Natsume Sōseki, who described the contents as "leisurely tales".
+
+In 1908, Kyoshi began a full-length novel, ''Haikaishi'' ("The Haiku Master"), which appeared in newspapers in serialized form. This was followed by ''Bonjin'' ("An Ordinary Person", 1909), and ''Chōsen'' ("Korea", 1912).
+
+After 1912, he renewed his interest in haiku, and published a commentary on haiku composition, ''Susumubeki haiku no michi'' ("The Path Haiku Ought to Take", 1915–1917). However, he continued to write short stories, edit ''Hototogisu'', and wrote another novel, ''Futatsu Kaki'' ("Two Persimmons", 1915). In addition, he began to show an interest in traditional [[Noh]] theatre, writing some new plays himself.
+
+Kyoshi wrote 40,000 to 50,000 haiku in his lifetime, which appeared in anthologies such as ''Kyoshi-kushū'' and ''Gohyaku-ku''. His major postwar novel was ''Niji'' ("Rainbow", 1947).
+
+In 1954, he was awarded the [[Order of Culture]] by the [[Japanese government]]. As editor of ''Hototogisu'', Kyoshi was instrumental in bringing many new writers and poets into the literary world, including [[Mizuhara Shuoshi]], [[Yamaguchi Seishi]] and [[Takano Suju]]. He also encouraged his second daughter [[Hoshino Tatsuko]] to publish her own haiku magazine, ''Tamamo''.
+
+Kyoshi moved to [[Kamakura, Kanagawa|Kamakura]] in 1910 for his children's health and a fresh start for himself, and lived there for nearly 50 years until his death. His grave is at the temple of [[Jufuku-ji]] in Kamakura. He was posthumously awarded the [[Order of the Sacred Treasure]], 1st class, by the Japanese government.
+
+==See also==
+{{Portal|Japan|Poetry}}
+*[[Japanese literature]]
+*[[List of Japanese authors]]
+
+==References==
+
+{{Empty section|date=April 2013}}
+
+==External links==
+{{commonscat|Takahama Kyoshi}}
+* [https://web.archive.org/web/20050225061659/http://www.lib.ehime-u.ac.jp/KUHI/ENG/kyoshi1eng.html Ehime Prefectural Library Site]
+* [http://www.kyoshi.or.jp/ Takahama Kyoshi Memorial Museum in Ashiya]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Takahama, Kyoshi}}
+[[Category:20th-century Japanese novelists]]
+[[Category:Japanese literary critics]]
+[[Category:Japanese male short story writers]]
+[[Category:People from Matsuyama, Ehime]]
+[[Category:Waseda University alumni]]
+[[Category:1874 births]]
+[[Category:1959 deaths]]
+[[Category:Recipients of the Order of Culture]]
+[[Category:19th-century Japanese poets]]
+[[Category:20th-century Japanese poets]]
+[[Category:19th-century Japanese short story writers]]
+[[Category:20th-century Japanese short story writers]]
+[[Category:20th-century Japanese male writers]]
+[[Category:Japanese haiku poets]]

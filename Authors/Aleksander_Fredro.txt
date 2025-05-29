@@ -1,0 +1,65 @@
+{{expand Polish|date=July 2018}}
+{{Infobox writer
+| name      = <small>Count</small><br>Aleksander Fredro
+| image     = RaczynskiAleksander.PortretAleksandraFredro.jpg
+| imagesize = 220px
+| caption   = Portrait by [[Aleksander Raczyński]]
+| birth_date  = {{Birth date|1793|6|20|df=y}}
+| birth_place = [[Surochów]] near [[Jarosław]]
+| death_date  = {{death date and age|1876|7|15|1793|6|20|df=y}}
+| death_place = [[Lwów]]
+| language = [[Polish language|Polish]]
+| nationality = [[Poland|Polish]]
+| notableworks = ''[[Zemsta]]'' (The Revenge)
+| awards =
+}}
+'''Aleksander Fredro''' (20 June 1793 – 15 July 1876) was a [[Polish poet]], [[playwright]] and [[Polish authors|author]] active during [[Romanticism in Poland|Polish Romanticism]] in the [[Partitions of Poland|period of partitions]] by neighboring empires. His works including plays written in the [[octosyllabic verse]] (''[[Zemsta]]'') and in prose (''Damy i Huzary'') as well as fables, belong to the [[Canon (basic principle)|canon]] of [[Polish literature]]. Fredro was harshly criticized by some of his contemporaries for light-hearted humor or even alleged immorality ([[Seweryn Goszczyński]], 1835) which led to years of his literary silence. Many of Fredro's dozens of plays were published and popularized only after his death. His best-known works have been translated into English, French, German, Russian, Czech, Romanian, Hungarian and Slovak.<ref name="Lalewicz">{{cite web | url=http://fredro.kulturalna.com/g-26.html | title=Aleksander Fredro - życie i twórczość (Life and Work) | publisher=Olsztyńskie Towarzystwo Inicjatyw Kulturalnych - Kulturalna Polska | date=May 2004 | access-date=December 9, 2012 | author=Halina Floryńska-Lalewicz | language=pl}}</ref>
+
+==Biography==
+Count Aleksander Fredro, of the [[Bończa coat of arms]], was born in the village of Surochów near [[Jarosław]], then a [[Cisleithania|crown territory]] of [[Austria]]. A landowner's son, he was educated at home. He entered the Polish army at age 16 and saw action in the Napoleonic wars, including the Moscow campaign. His memoir ''Topsy Turvy Talk'', which echoes the style of [[Laurence Sterne]]'s ''[[Tristram Shandy]]'', recounts his military experiences during Bonaparte's last campaign. While in France in 1814, he took an active interest in French drama. After leaving the army he settled on his estate and began as a writer.
+
+Fredro made his literary debut in 1817, but he was not interested in the problems of [[Romanticism]]. He wrote social [[comedy|comedies]] about the lifestyle of the [[Polish nobility]] and is known for his skill in characterization and plot, as well as the flexibility of his language. His work also features [[humor]] typical of folk theatre from the Romantic period, and a fast-paced [[farce]] with varying degrees of sophistication.
+
+Two of Fredro's fables, ''The Monkey in the Bath'' (''Małpa w kąpieli'') and ''Paul and Gawel'' (''Paweł i Gaweł''), belong to the most popular [[children's literature|children's stories]] in the country.<ref name="Lalewicz" /> His best-known comedy, ''[[Zemsta]]'' (The Revenge), was [[The Revenge (film)|adapted for the screen]] in Poland by eminent film director [[Andrzej Wajda]] in 2002.  
+[[File:A.Fredro monument in Breslau.jpg|thumb|200px|[[Aleksander Fredro Monument in Wrocław|Aleksander Fredro Monument]], moved from [[Lviv]] ([[Ukraine]]) to [[Wrocław]] ([[Poland]]) after [[World War II]]]]
+[[File:Memorial plaque to Alexander Fredro in Rudky.jpg|thumb|right|200px|Memorial plaque to Alexander Fredro (1793-1876) at the Roman Catholic Church of the Assumption in Rudky]]
+
+Fredro was the maternal grandfather of the head of the [[Ukrainian Greek Catholic Church|Ukrainian Catholic Church]], Metropolitan [[Andrey Sheptytsky]]. He was commemorated on a Polish postage stamp issued in 1978.
+
+He died on 15 July 1876 in Lviv and was buried in a family grave in Catholic Church of the Assumption of [[Rudky]].
+
+==Comedies==
+* ''Mr. Geldhab'' (''Pan Geldhab'', written in 1818 and first performed in 1821)
+* ''Man and Wife'' (''Mąż i żona'', performed 1812 or 1822)
+* ''Ladies and Husars'' (''Damy i Huzary'', written in 1825)
+* ''Mr. Jovial'' (''Pan Jowialski'', written and performed in 1832)
+* ''Maidens' Vows, or the Magnetism of the Heart'' (''Śluby panieńskie, czyli magnetyzm serca'', performed 1833)
+* ''The Revenge'' (''[[Zemsta]]'', written in 1833, first performed in 1834)
+* ''The Annuity'' (''Dożywocie'', written and performed in 1835)
+
+==References==
+{{Reflist}}
+*{{cite book | title=European Authors 1000-1900 | location=Bronx | publisher=The H. W. Wilson Company | year=2000 | isbn=0-8242-0013-6 | url-access=registration | url=https://archive.org/details/europeanauthors100kuni }}
+*{{cite book | title=McGraw-Hill encyclopedia of world drama | url=https://archive.org/details/mcgrawhillencycl01hoch | url-access=registration | publisher=McGraw-Hill, Inc. | year=1984|edition=2nd | isbn=0-07-079169-4}}
+
+== External links ==
+* [http://culture.pl/en/artist/aleksander-fredro Aleksander Fredro] at Culture.pl
+* [https://poezja.org/wz/Fredro_Aleksander/ Aleksander Fredro] collected works (Polish)
+
+{{Authority control}}
+
+{{Romanticism}}
+
+{{DEFAULTSORT:Fredro, Aleksander}}
+[[Category:1793 births]]
+[[Category:1876 deaths]]
+[[Category:People from Jarosław County]]
+[[Category:Polish Roman Catholics]]
+[[Category:Polish male poets]]
+[[Category:Polish male dramatists and playwrights]]
+[[Category:Chevaliers of the Légion d'honneur]]
+[[Category:Recipients of the Virtuti Militari]]
+[[Category:Fredro (Bończa)|Aleksander]]
+[[Category:19th-century Polish poets]]
+[[Category:19th-century Polish dramatists and playwrights]]
+[[Category:19th-century Polish male writers]]

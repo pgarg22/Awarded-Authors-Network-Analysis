@@ -1,0 +1,69 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Gevorg Emin<br>Գևորգ Էմին
+| image        =Gevorg Emin.JPG
+| imagesize    = 220px
+| caption      = Gevorg Emin
+| pseudonym    =
+| birth_date   = {{Birth date|1919|09|30}}
+| birth_place  = [[Ashtarak]], [[First Republic of Armenia]]
+| death_date   = {{Death date and age|1998|06|11|1919|09|30}}
+| death_place  = [[Yerevan]], [[Armenia]]
+| occupation   = {{flatlist|
+* Poet
+* essayist
+* translator
+}}
+| nationality  = [[Armenia]]n
+| relatives    = [[Artashes Emin]] (son), [[Vazgen Muradian]] (brother), [[Vago Muradian]] (nephew)
+| period       =
+| genre        =
+| subject      =
+| movement     = [[Socialist realism]]
+| notableworks = ''Seven Songs About Armenia''
+| signature    = Gevorg Emin signatures in Armenian & English (composite).png
+| website      =
+}}
+
+'''Gevorg Emin''' ({{Lang-hy|Գևորգ Էմին}}, September 30, 1919 &ndash; June 11, 1998) was an [[Armenia]]n [[poet]], [[essayist]], and [[translation|translator]].
+
+== Biography ==
+[[File:Գևորգ Էմին.JPG|thumb|The statue of Gevorg Emin at the Yerevan [[Lovers' Park]]]]
+[[File:Gevorg Emin 2019 stamp of Armenia.jpg|thumb|Emin on a 2019 stamp of Armenia]]
+Emin, the son of a school teacher, was born in the town of [[Ashtarak]]. In 1927, his family moved to [[Yerevan]], the capital of [[Soviet Armenia]]. In 1936 he finished [[secondary school]]; in 1940 he graduated from the local [[State Engineering University of Armenia|Polytechnical Institute]] as a [[hydraulic engineering|hydraulic engineer]]. After graduation he designed and supervised the building of a [[Hydroelectricity|hydroelectric]] [[power station]] which is still producing [[electricity]]. The power station remained his only engineering accomplishment.
+
+In school, Emin met Armenia's leading poet [[Yegishe Charents]], who died in 1937 in a [[Soviet Union|Soviet]] prison. Emin recalls in his preface to ''For You on New Year's Day'':
+:''Today if I write instead of building canals and power plants it is due to two things: the impact of meeting Yeghishe Charents, and second, the touch of ancient manuscripts at the Matenadaran library where I worked as a student and could read and hold the magnificent old manuscripts from the fifth through the eighteenth centuries.''
+Emin's roots as a poet are deeply embedded in the culture and the physical landscape of the country he grew up in. To this is added his extensive reading of modern poetry, especially [[French Symbolism|French symbolist]] poets, and his enduring faith in the power of poetry. From 1941 to 1945, Emin fought (and was wounded) in [[World War II]]. His poetry makes no specific references to his own war experiences but often refers to the [[Armenian genocide]].
+
+Emin's poetry has been translated from [[Armenian language|Armenian]] to many [[language]]s all over the world. Poet [[Yevgeny Yevtushenko]] read him in [[Russian language|Russian]] and immediately hailed his work. Yevtushenko wrote the Introduction to the collection of Emin's verse translated into English as ''For You on New Year's Day''; here the Russian poet contrasted Emin to his fellow Armenian poets who emphasized emotion in their work:
+
+:''Gevorg Emin has an entirely opposite conception of the craft. He takes pride in revealing the rational armature of poetry and the details of its construction. Some of his poems remind us of transparent watches where the movements and direction of each gear and lever are visible. But it is a watch that keeps perfect time.''
+
+Perhaps as a result of Emin's training in science, he writes in a simple, straight forward language. Edmond Y. Azadian, in the Afterword to ''For You on New Year's Day'', suggests that Emin freed Armenian poetry "from the restrictions that followed Charents' time, the bleak [[Joseph Stalin|Stalin]] era," reinvigorating it after a long period during which experimentalism had been discouraged. Martin Robbins suggests, in ''Ararat Quarterly'', that his poetry reflects "the tough compression of an engineer's mathematically trained mind," and cites as a representative example his poem "Small" in which he acknowledges the defenselessness of the Armenian people but affirms their strength. In many of his poems [[Mount Ararat]] itself serves as an emblem of the endurance of his people. In "Song of Songs" he writes: "I am an Armenian. ancient as this Biblical Ararat / my feet still wet from the waters of the flood."
+
+For his poetry, Emin was awarded the [[State Stalin Prize|Stalin Prize]] in 1951 and the [[USSR State Prize]] in 1976. In 1972, he toured the [[United States]] with Yevtushenko giving poetry readings. His American experience reflected in some of his later poems, published in ''Land, Love, Century'', including ''Gravestone in a Negro Cemetery'', ''First Night in New York'', and ''In the Streets of Boston''.
+
+Emin's first wife was the daughter of the distinguished Armenian poet [[Vahan Terian]]. After her death, he married a writer, Armenouhi Hamparian. He had three sons. Emin was a translator of note in [[Eastern Europe]]: he is especially admired for his translations of Polish poets ranging from [[Adam Mickiewicz]] to the contemporary poet [[Tadeusz Różewicz]]. In [[Poland]]'s long struggle for independence and national identity, he identified some of his own feelings about Armenia and he has hailed "the proud spirit of the Polish people, their fanatical attachment to their land, language, literature, tradition." His brother was the [[Armenian-American]] composer [[Vazgen Muradian]].
+
+== External links ==
+{{Commons category|Gevorg Emin}}
+*{{GSEn|126469|Эмин Геворк (Emin Gevork)}}
+*[http://www.armenica.org/cgi-bin/history/en/getHistory.cgi?4=1=info=4=Emin,%20Gevork=1=3=E Gevork Emin at Armenica.org]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Emin, Gevorg}}
+[[Category:1919 births]]
+[[Category:1998 deaths]]
+[[Category:20th-century Armenian poets]]
+[[Category:People from Ashtarak]]
+[[Category:Soviet engineers]]
+[[Category:Soviet military personnel of World War II]]
+[[Category:Soviet poets]]
+[[Category:Soviet male writers]]
+[[Category:20th-century male writers]]
+[[Category:Recipients of the USSR State Prize]]
+[[Category:National Polytechnic University of Armenia alumni]]
+[[Category:Recipients of the Order of Friendship of Peoples]]
+[[Category:Armenian male poets]]
+[[Category:Mount Ararat]]

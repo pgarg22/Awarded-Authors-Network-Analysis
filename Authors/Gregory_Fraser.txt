@@ -1,0 +1,147 @@
+{{short description|American poet|bot=PearBOT 5}}
+{{Infobox person
+| name                      = Gregory Fraser
+| honorific_suffix          = 
+| image                     = Gregory Fraser.jpg
+| alt                       = 
+| caption                   = 
+| birth_date                = <!-- {{Birth date and age|YYYY|MM|DD}} -->
+| birth_place               = 
+| disappeared_date          = <!-- {{Disappeared date and age|YYYY|MM|DD|YYYY|MM|DD}} (disappeared date then birth date) -->
+| disappeared_place         = 
+| disappeared_status        = 
+| death_date                = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date) -->
+| death_place               = 
+| death_cause               = 
+| resting_place             = 
+| resting_place_coordinates = <!-- {{Coord|LAT|LONG|type:landmark|display=inline}} -->
+| residence                 = 
+| nationality               = American
+| other_names               = 
+| ethnicity                 = 
+| citizenship               = 
+| education                 = 
+| alma_mater                = 
+| occupation                = Professor of English and Creative Writing.
+| years_active              = 
+| employer                  = [[University of West Georgia]]
+| organization              = 
+| agent                     = 
+| known_for                 = 
+| notable_works             = 
+| style                     = 
+| influences                = 
+| influenced                = 
+| home_town                 = 
+| salary                    = 
+| net_worth                 = <!-- Net worth should be supported with a citation from a reliable source -->
+| height                    = <!-- {{height|m=}} -->
+| weight                    = <!-- {{convert|weight in kg|kg|lb}} -->
+| television                = 
+| title                     =
+| term                      = 
+| predecessor               = 
+| successor                 = 
+| party                     = 
+| movement                  = 
+| opponents                 = 
+| boards                    = 
+| religion                  = <!-- Religion should be supported with a citation from a reliable source -->
+| denomination              = <!-- Denomination should be supported with a citation from a reliable source -->
+| criminal_charge           = <!-- Criminality parameters should be supported with citations from reliable sources -->
+| criminal_penalty          = 
+| criminal_status           = 
+| spouse                    = 
+| partner                   = 
+| children                  = 
+| parents                   = 
+| relatives                 = 
+| callsign                  = 
+| awards                    = 
+| signature                 = 
+| signature_alt             = 
+| signature_size            = 
+| module                    = 
+| module2                   = 
+| module3                   = 
+| module4                   = 
+| module5                   = 
+| module6                   = 
+| website                   = <!-- {{URL|www.example.com}} -->
+| footnotes                 = 
+| box_width                 = 
+}}
+
+'''Gregory Fraser''' is an American [[poet]].
+
+==Biography==
+Gregory Fraser is an American poet, editor, and professor. He is the author of three poetry collections, ''Strange Pietà,'' ''Answering the Ruins,'' and ''Designed for Flight,'' as well as the co-author, with poet [[Chad Davidson]], of two college textbooks, ''Writing Poetry'' and ''Analyze Anything''. Fraser grew up in Philadelphia and its suburbs, and earned a B.A. at [[Ursinus College]], an M.F.A. at [[Columbia University]], and a Ph.D. at the [[University of Houston]]. His poetry has appeared in such journals as ''[[The New Yorker]]'',<ref>{{cite web |last1=Fraser |first1=Gregory |title="Business" |url=https://www.newyorker.com/magazine/2019/05/27/business |website=NewYorker.com |publisher=Conde Nast |accessdate=7 May 2020}}</ref> ''The Paris Review'', ''The Southern Review'', ''The Gettysburg Review,'' and ''Ploughshares.'' The recipient of grants from the Guggenheim Foundation and the National Endowment for the Arts, Fraser teaches at the [[University of West Georgia]], located an hour west of Atlanta, and serves as features editor of the ''Birmingham Poetry Review''. (Curriculum Vitae [http://www.westga.edu/share/documents/vitae/vita_000186.doc])
+
+==Awards==
+
+* 2017 Meringoff Prize in Poetry (Association of Literary Scholars, Critics, and Writers)
+* 2016 James Dickey Poetry Prize (''Five Points'' literary magazine)
+* 2015 John Simon Guggenheim Memorial Foundation Fellowship
+* 2010 Georgia Author of the Year in Poetry
+* 2009 Sewanee Writers’ Conference Fellowship
+* 2005 National Endowment for the Arts Fellowship
+* Texas Teachers of Creative Writing Award
+* Walt McDonald First Book Award 
+* Associated Writing Programs Award
+* Houston Arts Council Literary Award
+
+==Bibliography==
+{{Expand list|date=September 2019}}
+
+=== Poetry ===
+;Collections
+* {{cite book <!--|author=Fraser, Gregory |author-mask= --> |title=Designed for flight : poems |location=Evanston, Illinois |publisher=TriQuarterly Books/Northwestern University Press |year=2014 }}<!--isbn=9780810152434-->
+* ''Answering the Ruins'' [https://web.archive.org/web/20141102224355/http://nupress.northwestern.edu/titles/answering-ruins]
+* ''Strange Pietà'' [https://web.archive.org/web/20141102205720/http://ttupress.org/CatalogueRetrieve.aspx?ProductID=2065820&A=SearchResult&SearchID=8469947&ObjectID=2065820&ObjectType=27]
+*{{cite book| title=Little Armageddon | publisher=[[Northwestern University Press]]| year= 2020| isbn= 978-0-8101-4310-4}}<ref>{{cite web |last1=Fraser |first1=Gregory |title=Little Armageddon |url=https://nupress.northwestern.edu/content/little-armageddon |website=nupress.northwestern.edu |publisher=Northwestern University |accessdate=6 May 2020}}</ref>
+<!--;Anthologies (edited)-->
+;List of poems
+{|class='wikitable sortable' width='90%'
+|-
+!width=25%|Title
+!|Year
+!|First published
+!|Reprinted/collected
+|-
+|Business
+|2019
+|{{cite journal <!--|author=Fraser, Gregory |author-mask=1 -->|date=May 27, 2019 |title=Business |journal=The New Yorker |volume=95 |issue=14 |pages=43 |url=https://www.newyorker.com/magazine/2019/05/27/business }}<!--accessdate=2019-09-12-->
+|
+|-
+|}
+
+=== Non-fiction ===
+
+* ''Analyze Anything: A Guide to Critical Reading and Writing'', textbook (with [[Chad Davidson]]) [http://www.bloomsbury.com/uk/analyze-anything-9781441107305/]
+* ''Writing Poetry: Creative-Critical Approaches'', textbook (with [[Chad Davidson]]) [http://www.palgrave.com/page/detail/writing-poetry-chad-davidson/?isb=9780230008120]
+
+==Online Works and Reviews==
+* Review of ''Designed for Flight'' by Shawn Delgado [http://storysouth.com/stories/gregory-frasers-designed-for-flight/]
+* Review of ''Designed for Flight'' by Lauren Watel [https://web.archive.org/web/20141102195913/http://www.artsatl.com/2014/08/gregory-fraser-designed-for-flight/]
+* “Her Mistake,” ''Verse Daily''/''Southeast Review'' [http://www.versedaily.org/2014/aboutgregoryfraser.shtml]
+* “At the Degas Exhibit,” ''Poetry Daily''/''Five Points'' [http://poems.com/poem.php?date=16194]
+* “The Great Northeast,” ''The Missouri Review'' [http://www.missourireview.com/archives/gregory-fraser-the-great-northeast/]
+* “End of Days,” ''Verse Daily''/''The Southern Review'' [http://www.versedaily.org/aboutgregoryfraser.shtml]
+* “Ficus,” ''Verse Daily''/''Birmingham Poetry Review'' [http://www.versedaily.org/2011/aboutgregoryfraserbpr.shtml]
+* “Epithalamium,” ''Verse Daily''/''New South'' [http://www.versedaily.org/2011/aboutgregoryfraserns.shtml]
+* Review of ''Answering the Ruins'' [http://thejournalmag.org/archives/2231]
+* ''A Different Bother'' (chapbook), Beard of Bees Press [http://beardofbees.com/pubs/A_Different_Bother.pdf]
+* Interview with Gregory Fraser [http://www.blogtalkradio.com/joe-milford-show/2009/03/15/greg-fraser]
+* Review of ''Strange Pietà'' [http://litmed.med.nyu.edu/Annotation?action=view&annid=12448]
+* Interview with Gregory Fraser [http://facpub.stjohns.edu/~ganterg/sjureview/vol2-2/13SH-Fraser.htm]
+
+{{reflist}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Fraser, Gregory}}
+[[Category:Living people]]
+[[Category:American male poets]]
+[[Category:The New Yorker people]]
+[[Category:University of West Georgia faculty]]
+[[Category:Year of birth missing (living people)]]

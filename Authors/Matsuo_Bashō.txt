@@ -1,0 +1,246 @@
+{{Short description|Japanese poet}}
+{{Redirect2|Basho|Bashō}}
+{{Family name hatnote|Matsuo|lang=Japanese}}
+{{Use mdy dates|date=November 2020}}
+{{Infobox writer
+| name         = Matsuo Basyou
+| native_name  = {{nobold|松尾 芭蕉}}
+| image        = Basho by Hokusai-small.jpg
+| alt          = 
+| caption      = Portrait of Bashō by [[Hokusai]], late 18th century
+| pseudonym    = Sōbō ({{lang|ja|宗房}})<br />Tōsē ({{lang|ja|桃青}})<br />Bashō ({{lang|ja|芭蕉}})
+| birth_name   = Matsuo Kinsaku ({{lang|ja|松尾 金作}})
+| birth_date   = {{birth year|1644}}
+| birth_place  = Near [[Ueno, Mie|Ueno]], [[Iga Province]]
+| death_date   = {{death date and age|1694|11|28|1644|mf=yes}}
+| death_place  = [[Osaka]]<ref>{{cite encyclopedia |first=Louis |last=Frédéric |title=Bashō |url=https://books.google.com/books?id=p2QnPijAEmEC |encyclopedia=Japan Encyclopedia |publisher=Harvard University Press |year=2002 |page=71|isbn=9780674017535 }}</ref>
+| occupation   = Poet
+| nationality  = [[Japan]]ese
+| notableworks = ''[[Oku no Hosomichi]]''
+<!--| influenced   = [[Imagism]], [[Beat Generation]]; [[Robbie Basho]], [[Steffen Basho-Junghans]]-->
+| module       =  {{Infobox Chinese | child = yes
+| kanji        = 松尾 芭蕉
+| romaji       = Matsuo Bashō
+| hiragana     = まつお ばしょう
+}}}}
+{{nihongo|'''Matsuo Bashō''',|松尾 芭蕉||extra=1644{{spnd}}November 28, 1694<ref>{{Britannica|54930|Bashō}}</ref>}} born {{nihongo|'''Matsuo Kinsaku''',|松尾 金作}} then {{nihongo|'''Matsuo Chūemon Munefusa''',|松尾 忠右衛門 宗房}}<ref>{{cite web |script-title=ja:松尾芭蕉 |url=http://kotobank.jp/word/%E6%9D%BE%E5%B0%BE%E8%8A%AD%E8%95%89 |publisher=The Asahi Shimbun Company |access-date=November 22, 2010 |language=ja}}; {{cite web |script-title=ja:芭蕉と伊賀上野 |url=http://www.ict.ne.jp/~basho/country/bashotoiga.html |publisher=芭蕉と伊賀 Igaueno Cable Television |access-date=November 22, 2010 |language=ja}}</ref> was the most famous poet of the [[Edo period]] in [[Japan]]. During his lifetime, Bashō was recognized for his works in the collaborative ''[[Renku|haikai no renga]]'' form; today, after centuries of commentary, he is recognized as the greatest master of [[haiku]] (then called [[hokku]]). He is also well known for his travel essays beginning with “Records of a Weather-Exposed Skeleton” (1684), written after his journey west to [[Kyoto]] and [[Nara (city)|Nara]].<ref>{{Cite book|last=Norwich|first=John Julius|url=https://www.worldcat.org/oclc/11814265|title=Oxford Illustrated Encyclopedia|date=1985–1993|publisher=Oxford University Press|others=Judge, Harry George., Toyne, Anthony.|isbn=0-19-869129-7|location=Oxford [England]|pages=37|oclc=11814265}}</ref> Matsuo Bashō's poetry is internationally renowned, and, in Japan, many of his poems are reproduced on monuments and traditional sites. Although Bashō is famous in the West for his hokku, he himself believed his best work lay in leading and participating in [[renku]]. He is quoted as saying, "Many of my followers can write hokku as well as I can. Where I show who I really am is in linking haikai verses."<ref>{{cite journal |last=Drake |first=Chris |title=Bashō's 'Cricket Sequence' as English Literature |journal=Journal of Renga & Renku |issue=2 |year=2012 |page=7}}</ref>
+
+Bashō was introduced to poetry at a young age, and after integrating himself into the intellectual scene of [[Edo]] (modern Tokyo) he quickly became well known throughout Japan. He made a living as a teacher; but then renounced the social, urban life of the literary circles and was inclined to wander throughout the country, heading west, east, and far into the northern wilderness to gain inspiration for his writing. His poems were influenced by his firsthand experience of the world around him, often encapsulating the feeling of a scene in a few simple elements.
+
+==Biography==<!--
+===Names=== -->
+
+===Early life===
+[[Image:MatsuoBasyoSeika.jpg|thumb|left|Bashō's supposed birthplace in [[Iga Province]].]]
+Matsuo Bashō was born in 1644, near [[Ueno, Mie|Ueno]], in [[Iga Province]].{{sfn |Carter |1997 |p=62}}{{sfn |Kokusai |1948|p=246}} The Matsuo family was of [[samurai]] descent, and his father was probably a {{Nihongo|''musokunin''|無足人}}, a class of landowning peasants granted certain privileges of samurai.{{sfn |Ueda |1992 |p=17}}{{sfn |Carter |1997 |p=62}}
+
+Little is known of his childhood. In his late teens, Bashō became a servant to {{nihongo|Tōdō Yoshitada|[[:ja:藤堂 良忠|藤堂 良忠]]}} most likely in some humble capacity,{{sfn |Carter |1997 |p=62}}{{sfn |Ueda |1982 |pp=17–20}} and probably not promoted to full samurai class.{{sfn |Nihon Jinmei Daijiten Plus |2015}} It is claimed he served as cook or a kitchen worker in some near-contemporaneous accounts,{{Refn|group=Notes |[[Ichikawa Danjūrō II]]'s diary ''Oi no tanoshimi'' says "cook"; {{nihongo|Endō Atsujin|遠藤曰人}}'s biography ''Bashō-ō keifu'' "kitchen-worker".{{sfn |Kon |1994 |p=12}}}}<!--at the kitchen of Yoshitada's father Yoshikiyo (藤堂 良精),--> but there is no conclusive proof.{{sfn |Carter |1997 |p=62}} A later hypothesis is that he was chosen to serve as [[Page (servant)|page]] ({{illm|koshō{{!}}''koshō''|ja|小姓}}) to Yoshitada<!--pen name Sengin-->, with alternative documentary evidence suggesting he started serving at a younger age.{{sfn |Hibino |1978 |p=28}}
+
+He shared Yoshitada's love for ''[[Renku|haikai no renga]]'', a form of collaborative poetry composition.{{sfn|Ueda|1982|p=20}} A sequence was opened with a verse in 5-7-5 [[mora (linguistics)|mora]] format; this verse was named a ''[[hokku]]'', and would centuries later be renamed ''haiku'' when presented as a stand-alone work. The ''hokku'' would be followed by a related 7-7 mora verse by another poet. Both Bashō and Yoshitada gave themselves {{Nihongo|''haigō''|俳号|}}, or ''[[haikai]]'' [[pen name]]s; Bashō's was {{nihongo|'''Sōbō'''|宗房}}, which was simply the ''[[on'yomi]]'' (Sino-Japanese reading) of his adult name, "{{nihongo|Munefusa|宗房}}." In 1662, the first extant poem by Bashō was published. In 1726, two of Bashō's hokku were printed in a compilation.{{clarify|date=February 2018}}
+
+In 1665, Bashō and Yoshitada together with some acquaintances composed a hyakuin, or one-hundred-verse ''[[renku]]''. In 1666, Yoshitada's sudden death brought Bashō's peaceful life as a servant to an end. No records of this time remain, but it is believed that Bashō gave up any possibility of samurai status and left home.{{sfn|Ueda|1982|p=21}} Biographers have proposed various reasons and destinations, including the possibility of an affair between Bashō and a Shinto ''[[miko]]'' named {{Nihongo|Jutei|寿貞|}}, which is unlikely to be true.{{sfn |Okamura |1956}}{{page needed|date=November 2020}} Bashō's own references to this time are vague; he recalled that "at one time I coveted an official post with a tenure of land", and that "there was a time when I was fascinated with the ways of homosexual love": there is no indication whether he was referring to real obsessions or fictional ones.{{sfn|Ueda|1982|p=22}} (Biographers of the author, however, note that Bashō was involved in homosexual affairs throughout all his life<ref>{{cite book |title=Cartographies of Desire: Male-Male Sexuality in Japanese Discourse, 1600–1950 |author=Gregory M. Pflugfelder |year=1999|page=39 |publisher=University of California Press |isbn=978-0520251656}}</ref> and that among his lovers were several of his disciples;{{sfn|Leupp|1997|p=137}} in Professor Gary Leupp's view, Bashō's homoerotic compositions were clearly based on his personal experiences{{sfn|Leupp|1997|p=83}}). He was uncertain whether to become a full-time poet; by his own account, "the alternatives battled in my mind and made my life restless".{{sfn|Ueda|1982|p=23}} His indecision may have been influenced by the then still relatively low status of ''renga'' and ''haikai no renga'' as more social activities than serious artistic endeavors.{{sfn|Ueda|1982|p=9}} In any case, his poems continued to be published in anthologies in 1667, 1669, and 1671, and he published a compilation of work by himself and other authors of the [[Teitoku]] school, {{nihongo|''[[The Seashell Game]]''|貝おほひ|Kai Ōi}}, in 1672.{{sfn|Kokusai|1948|p=246}} In about the spring of that year he moved to [[Edo]], to further his study of poetry.{{sfn|Ueda|1992|p=29}}
+
+===Rise to fame===
+[[File:Poet-Basho-and-Moon Festival-Tsukioka-Yoshitoshi-1891.png|thumb|Bashō meets two farmers celebrating the mid-autumn moon festival in a print from [[Yoshitoshi]]'s ''[[Hundred Aspects of the Moon]]''. The haiku reads: "Since the crescent moon, I have been waiting for tonight."]]
+In the fashionable literary circles of [[Nihonbashi]], Bashō's poetry was quickly recognized for its simple and natural style. In 1674 he was inducted into the inner circle of the ''haikai'' profession, receiving secret teachings from Kitamura Kigin (1624–1705).{{sfn|Carter|1997|p=62}} He wrote this ''hokku'' in mock tribute to the ''[[shōgun]]'':
+
+{{Quote|<poem>
+{{lang|ja|甲比丹もつくばはせけり君が春}} {{transl|ja|''kapitan mo / tsukubawasekeri / kimi ga haru''}}
+   the Dutchmen, too, / kneel before His Lordship— / spring under His reign. [1678]
+</poem>}}
+
+When [[Nishiyama Sōin]], founder and leader of the [[Danrin school]] of haikai, came to Edo from Osaka in 1675, Bashō was among the poets invited to compose with him.{{sfn|Yuasa|1966|p=23}} It was on this occasion that he gave himself the ''haigō'' of Tōsei, and by 1680 he had a full-time job teaching twenty disciples, who published {{nihongo|''The Best Poems of Tōsei's Twenty Disciples''|桃青門弟独吟二十歌仙|Tōsei-montei Dokugin-Nijukasen}}, advertising their connection to Tōsei's talent. That winter, he took the surprising step of moving across the river to Fukagawa, out of the public eye and towards a more reclusive life.{{sfn|Carter|1997|p=57}} His disciples built him a rustic hut and planted a {{nihongo|[[Musa basjoo|Japanese banana]] tree|芭蕉|bashō}} in the yard, giving Bashō a new ''haigō'' and his first permanent home. He appreciated the plant very much, but was not happy to see Fukagawa's native [[miscanthus]] grass growing alongside it:
+
+{{Quote|<poem>
+{{lang|ja|ばしょう植ゑてまづ憎む荻の二葉哉}} {{transl|ja|''bashō uete / mazu nikumu ogi no / futaba kana''}}
+   by my new banana plant / the first sign of something I loathe— / a miscanthus bud! [1680]
+</poem>}}
+
+Despite his success, Bashō grew dissatisfied and lonely. He began to practice [[Zen]] [[meditation]], but it seems not to have calmed his mind.{{sfn|Ueda|1982|p=25}} In the winter of 1682 his hut burned down, and shortly afterwards, in early 1683, his mother died. He then traveled to [[Yamura]], to stay with a friend. In the winter of 1683 his disciples gave him a second hut in Edo, but his spirits did not improve. In 1684 his disciple [[Takarai Kikaku]] published a compilation of him and other poets, {{nihongo|''Shriveled Chestnuts''|虚栗|Minashiguri}}.{{sfn|Kokusai|1948|p=247}} Later that year he left Edo on the first of four major wanderings.{{sfn|Ueda|1992|p=95}}
+
+Bashō traveled alone, off the beaten path, that is, on the [[Edo Five Routes]], which in medieval Japan were regarded as immensely dangerous; and, at first Bashō expected to simply die in the middle of nowhere or be killed by bandits. However, as his trip progressed, his mood improved, and he became comfortable on the road. Bashō met many friends and grew to enjoy the changing scenery and the seasons.{{sfn|Ueda|1982|p=26}} His poems took on a less introspective and more striking tone as he observed the world around him:
+
+{{Quote|<poem>
+{{lang|ja|馬をさへながむる雪の朝哉}} {{transl|ja|''uma wo sae / nagamuru yuki no / ashita kana''}}
+   even a horse / arrests my eyes—on this / snowy morrow [1684]
+</poem>}}
+
+The trip took him from Edo to [[Mount Fuji]], Ueno, and [[Kyoto]].<ref group="Notes">Examples of Basho's ''haiku'' written on the Tokaido, together with a collection of portraits of the poet and woodblock prints from Utagawa Hiroshige, are included in {{harvnb|Forbes|Henley|2014}}.</ref> He met several poets who called themselves his disciples and wanted his advice; he told them to disregard the contemporary Edo style and even his own ''Shriveled Chestnuts'', saying it contained "many verses that are not worth discussing".{{sfn|Ueda|1992|p=122}} Bashō returned to Edo in the summer of 1685, taking time along the way to write more ''hokku'' and comment on his own life:
+
+{{Quote|<poem>
+{{lang|ja|年暮ぬ笠きて草鞋はきながら}} {{transl|ja|''toshi kurenu / kasa kite waraji / hakinagara''}}
+   another year is gone / a traveler's shade on my head, / straw sandals at my feet [1685]
+</poem>}}
+
+When Bashō returned to Edo he happily resumed his job as a teacher of poetry at his ''bashō'' hut, although privately he was already making plans for another journey.{{sfn|Ueda|1982|p=29}} The poems from his journey were published as {{nihongo|''Account of Exposure to the Fields''|野ざらし紀行|Nozarashi kikō}}. In early 1686 he composed one of his best-remembered haiku:
+
+{{Quote|<poem>
+{{lang|ja|古池や蛙飛びこむ水の音}} {{transl|ja|''furu ike ya / kawazu tobikomu / mizu no oto''}}
+   an ancient pond / a frog jumps in / the splash of water [1686]
+</poem>}}
+
+Historians believe this poem became instantly famous: in April, the poets of Edo gathered at the ''bashō'' hut for a ''haikai no renga'' contest on the subject of frogs that seems to have been a tribute to Bashō's ''hokku'', which was placed at the top of the compilation.{{sfn|Ueda|1992|p=138}} Bashō stayed in Edo, continuing to teach and hold contests, with an excursion in the autumn of 1687 when he traveled to the countryside for [[tsukimi|moon watching]], and a longer trip in 1688 when he returned to Ueno to celebrate the [[Japanese New Year|Lunar New Year]]. At home in Edo, Bashō sometimes became reclusive: he alternated between rejecting visitors to his hut and appreciating their company.{{sfn|Ueda|1992|p=145}} At the same time, he enjoyed his life and had a subtle sense of humor, as reflected in his ''hokku'':
+
+{{Quote|<poem>
+{{lang|ja|いざさらば雪見にころぶ所迄}} {{transl|ja|''iza saraba / yukimi ni korobu / tokoromade''}}
+   now then, let's go out / to enjoy the snow ... until / I slip and fall! [1688]
+</poem>}}
+
+=== ''Oku no Hosomichi'' ===
+{{Main|Oku no Hosomichi}}
+{{See also|Sora's Diary}}
+[[Image:Basho in Ogaki.JPG|thumb|left|A statue commemorating Matsuo Bashō's arrival in [[Ōgaki]]]]
+
+Bashō's private planning for another long journey, to be described in his masterwork ''Oku no Hosomichi'', or ''The Narrow Road to the Deep North'', culminated on May 16, 1689 (Yayoi 27, [[Genroku]] 2), when he left Edo with his student and apprentice {{nihongo|Kawai Sora |[[:ja:河合曾良|河合 曾良]]}} on a journey to the Northern Provinces of [[Honshū]]. Bashō and Sora headed north to [[Hiraizumi]], which they reached on June 29. They then walked to the western side of the island, touring [[Kisakata]] on {{nowrap|July 30}}, and began hiking back at a leisurely pace along the coastline. During this 150-day journey Bashō traveled a total of 600 ''[[Japanese units of measurement#Length|ri]]'' (2,400&nbsp;km) through the northeastern areas of Honshū, returning to [[Edo]] in late 1691.{{sfn|Kokusai|1948|p=241}}
+
+By the time Bashō reached [[Ōgaki, Gifu|Ōgaki]], [[Gifu Prefecture]], he had completed the log of his journey. He edited and redacted it for three years, writing the final version in 1694 as {{nihongo|''The Narrow Road to the Interior''|奥の細道|Oku no Hosomichi}}. The first edition was published posthumously in 1702.<ref>{{cite book |author-link=Harold Bolitho |last=Bolitho |first=Harold |title=Treasures of the Yenching: Seventy-Fifth Anniversary of the Harvard-Yenching Library |publisher=Chinese University Press |year=2003 |isbn=978-962-996-102-2 |page=35}}</ref> It was an immediate commercial success and many other itinerant poets followed the path of his journey.{{sfn|Kokusai|1948|p=246}} It is often considered his finest achievement, featuring ''hokku'' such as:
+
+{{Quote|<poem>
+{{lang|ja|荒海や佐渡によこたふ天河}} {{transl|ja|''araumi ya / Sado ni yokotau / amanogawa''}}
+   the rough sea / stretching out towards Sado / the Milky Way [1689]
+</poem>}}
+
+=== Last years ===
+[[Image:MatsuoBasho-Haka-M1932.jpg|thumb|right|Bashō's grave in [[Ōtsu]], [[Shiga Prefecture]]]]
+On his return to Edo in the winter of 1691, Bashō lived in his third ''bashō'' hut, again provided by his disciples. This time, he was not alone: he took in a nephew and his female friend, Jutei, who were both recovering from illness. He had many great visitors.
+
+Bashō continued to be uneasy. He wrote to a friend that "disturbed by others, I have no peace of mind".{{sfn|Ueda|1992|p=348}} He made a living from teaching and appearances at ''haikai'' parties until late August 1693, when he shut the gate to his ''bashō'' hut and refused to see anybody for a month. Finally, he relented after adopting the principle of ''karumi'' or "lightness", a semi-Buddhist philosophy of greeting the mundane world rather than separating himself from it. Bashō left Edo for the last time in the summer of 1694, spending time in Ueno and Kyoto before his arrival in Osaka. He became sick with a stomach illness and died peacefully, surrounded by his disciples.{{sfn|Ueda|1992|p=34}} Although he did not compose any formal [[death poem]] on his deathbed{{sfn|Kikaku|2006|pp=20–23}} the following, being the last poem recorded during his final illness, is generally accepted as his poem of farewell:
+
+{{Quote|<poem>
+{{lang|ja|旅に病んで夢は枯野をかけ廻る}} {{transl|ja|''tabi ni yande / yume wa kareno wo / kake meguru''}}
+   falling sick on a journey / my dream goes wandering / over a field of dried grass [1694]
+</poem>}}
+
+== Influence and literary criticism ==
+[[File:100 views edo 040.jpg|thumb|"Bashō's Hermitage and Camellia Hill on the Kanda Aqueduct at Sekiguchi" from [[Hiroshige]]'s ''[[One Hundred Famous Views of Edo]]'']]
+Rather than sticking to the formulas of {{nihongo|''[[kigo]]''|季語|}}, which remain popular in Japan even today, Bashō aspired to reflect his real environment and emotions in his ''hokku''.{{sfn |Ueda |1970 |p=50}} Even during his lifetime, the effort and style of his poetry was widely appreciated; after his death, it only increased. Several of his students compiled quotations from him about his own poetry, most notably [[Mukai Kyorai]] and Hattori Dohō.{{sfn|Ueda|1992|p=7}}
+
+During the 18th century, appreciation of Bashō's poems grew more fervent, and commentators such as Ishiko Sekisui and Moro Nanimaru went to great length to find references in his ''hokku'' to historical events, medieval books, and other poems. These commentators were often lavish in their praise of Bashō's obscure references, some of which were probably literary [[false cognate]]s. In 1793 Bashō was deified by the Shinto bureaucracy, and for a time criticizing his poetry was literally blasphemous.{{sfn|Ueda|1992|p=7}}
+
+In the late 19th century, this period of unanimous passion for Bashō's poems came to an end. [[Masaoka Shiki]], arguably Bashō's most famous critic, tore down the long-standing orthodoxy with his bold and candid objections to Bashō's style.{{sfn|Ueda|1992|p=7}} However, Shiki was also instrumental in making Bashō's poetry accessible in English,<ref>{{cite journal |last=Burleigh |first=David |title=Book Review: ''Now, to Be! Shiki's Haiku Moments for Us Today'' |page=127 |journal=Modern Haiku |issn=0026-7821 |volume=35 |issue=2 |date=Summer 2004}}</ref> and to leading intellectuals and the Japanese public at large. He invented the term ''[[haiku]]'' (replacing ''[[hokku]]'') to refer to the freestanding 5–7–5 form which he considered the most artistic and desirable part of the ''haikai no renga''.{{sfn|Ueda|1992|p=7}}
+
+Critical interpretation of Bashō's poems continued into the 20th century, with notable works by Yamamoto Kenkichi, Imoto Nōichi, and Ogata Tsutomu. The 20th century also saw translations of Bashō's poems into other languages around the world. The position of Bashō in Western eyes as the ''haiku'' poet ''par excellence'' gives great influence to his poetry: Western preference for ''haiku'' over more traditional forms such as ''tanka'' or ''renga'' have rendered archetypal status to Bashō as Japanese poet and ''haiku'' as [[Japanese poetry]].{{sfn |Shirane |1998 |p=37}} Some western scholars even believe that  Bashō invented haiku.<ref>{{cite book |last=Ross |first=Bruce |title=How to Haiku: A Writer's Guide to Haiku and Related Forms |publisher=Tuttle |year=2002 |isbn=978-0-8048-3232-8 |page=2}}</ref> The impressionistic and concise nature of Bashō's verse greatly influenced [[Ezra Pound]], the [[Imagism|Imagists]], and poets of the [[Beat Generation]].<ref group="Notes">See, for instance, {{harvnb|Lawlor|2005|p=176}}</ref>
+
+Two of Bashō's poems were popularized in the short story [[Teddy (story)|"Teddy"]] written by [[J.&nbsp;D. Salinger]] and published in 1952 by ''[[The New Yorker]]'' magazine.<ref>{{harvnb|Slawenski|2010|p=239}}: "Nothing in the voice of the cicada intimates how soon it will die" and "Along this road goes no one, this autumn eve."</ref>
+
+In 1979, the [[International Astronomical Union]] named a crater found on Mercury after him.<ref name="Union1980">{{cite book |author=International Astronomical Union |title=Transactions of the International Astronomical Union, Volume XVIIB |url=https://books.google.com/books?id=yFYbEiM9MSwC&pg=PA291 |date=November 30, 1980 |publisher=Springer Science & Business Media |isbn=978-90-277-1159-5 |page=291}}</ref>
+
+==List of works==
+[[File:Haiseiden.jpg|thumb|Haiseiden ([[:ja:俳聖殿|俳聖殿]], Poet's Memorial Hall) in [[Iga, Mie]], which was built to commemorate the 300th anniversary of Bashō's birth.]]
+[[File:Matsuo Basho - Een woedende zee - Rapenburg 75, Leiden.JPG|thumb|[[Wall poems in Leiden]]: Bashō]]
+
+*''[[The Seashell Game|Kai Ōi]]'' (The Seashell Game) (1672)
+*{{nihongo|''Edo Sangin''|江戸三吟}} (1678)
+*{{nihongo|''Inaka no Kuawase''|田舎之句合}} (1680)
+*{{nihongo|''Tōsei Montei Dokugin Nijū Kasen''|桃青門弟独吟廿歌仙}} (1680)
+*{{nihongo|''Tokiwaya no Kuawase''|常盤屋句合}} (1680)
+*{{nihongo|''Minashiguri''|虚栗||"A Shriveled Chestnut"}} (1683)
+*''Nozarashi Kikō'' (Record of a Weather-Exposed Skeleton) (1684)
+*''Fuyu no Hi'' ([[Winter Days]]) (1684)*
+*''Haru no Hi'' (Spring Days) (1686)*
+*''Kawazu Awase'' (Frog Contest) (1686)
+*''Kashima Kikō'' (A Visit to Kashima Shrine) (1687)
+*''Oi no Kobumi'', or ''Utatsu Kikō'' (Record of a Travel-Worn Satchel) (1688)
+*''Sarashina Kikō'' (A Visit to Sarashina Village) (1688)
+*''Arano'' (Wasteland) (1689)*
+*''Hisago'' (The Gourd) (1690)*
+*{{nihongo|''[[Sarumino]]''|猿蓑||"Monkey's Raincoat"}} (1691)*
+*''Saga Nikki'' (Saga Diary) (1691)
+*''Bashō no Utsusu Kotoba'' (On Transplanting the Banana Tree) (1691)
+*''Heikan no Setsu'' (On Seclusion) (1692)
+*''Fukagawa Shū'' (Fukagawa  Anthology)
+*''Sumidawara'' (A Sack of Charcoal) (1694)*
+*''Betsuzashiki'' (The Detached Room) (1694)
+*''[[Oku no Hosomichi]]'' (Narrow Road to the Interior) (1694){{sfn|Kokusai|1948|pp=248–249}}
+*''Zoku Sarumino'' (The Monkey's Raincoat, Continued) (1698)*
+
+:''*'' Denotes the title is one of the ''Seven Major Anthologies of Bashō (Bashō Shichibu Shū)''{{sfn|Yuasa|1966|pp=30–48}}
+
+===English translations===
+*{{cite book|author= Matsuo, Bashō|others= trans. David Landis Barnhill|title= Bashō's Journey: Selected Literary Prose by Matsuo Bashō |year=2005 |location=Albany, NY |publisher=State University of New York Press|isbn= 978-0-7914-6414-4}}
+*{{cite book|author=Matsuo, Bashō|others=trans. Nobuyuki Yuasa|title=The Narrow Road to the Deep North and Other Travel Sketches|year=1966|location=Harmondsworth|publisher=Penguin|isbn=978-0-14-044185-7|oclc=469779524|url=https://archive.org/details/narrowroadtodeep008800}}
+*{{cite book |author= Matsuo, Bashō|others= trans. Sam Hamill |title=Narrow Road to the Interior and Other Writings|year=2000 |location=Boston |publisher=Shambhala|isbn= 978-1-57062-716-3 }}
+*{{cite book|author= Matsuo, Bashō|others= trans. Sam Hamill |title=The Essential Bashō |year=1999 |location=Boston | publisher=Shambhala |isbn=978-1-57062-282-3}}
+*{{cite book|author= Matsuo, Bashō|others= trans. David Landis Barnhill|title=Bashō's Haiku: Selected Poems of Matsuo Bashō|year=2004 |location=Albany, NY |publisher=State University of New York Press|isbn= 978-0-7914-6166-2}}
+*{{cite book|author= Matsuo, Bashō|others= trans. Donald Keene, illustrated by Masayuki Miyata|title=The Narrow Road to Oku |url= https://archive.org/details/narrowroadtookuo0000mats|url-access= registration|year=1997 |location=Tokyo |publisher=Kodansha International|isbn= 978-4-7700-2028-4}}
+*{{cite book |author=Matsuo, Bashō |others=trans. Maeda Cana |title=Monkey's Raincoat |year=1973 |location=New York |publisher=Grossman Publishers. SBN 670-48651-5 |isbn=0670486515 |display-authors=etal |url-access=registration |url=https://archive.org/details/monkeysraincoat0000unse }}
+*{{cite book|author=Matsuo, Bashō |others= trans. Jane Reichhold |title=Basho: The Complete Haiku |year=2008 |location=Tokyo |publisher=Kodansha International |isbn= 978-4-7700-3063-4}}
+*{{cite book|author=Matsuo, Bashō|others=trans. Earl Miner and Hiroko Odagiri|title=The Monkey's Straw Raincoat and Other Poetry of the Basho School|year=1981|location=Princeton|publisher=Princeton University Press|isbn=978-0-691-06460-4|display-authors=etal|url-access=registration|url=https://archive.org/details/monkeysstrawrain0000unse}}
+*{{cite book|author=Matsuo, Bashō |others= trans. Lucien Stryk |title=On Love and Barley: Haiku of Basho|year=1985|publisher=Penguin Classics|isbn=978-0-14-044459-9 }}
+*{{cite book|author=Matsuo, Bashō|others= trans. Bob While, illustrated by Tony Vera|title=Winter Solitude |year=2015 |location=Saarbrücken |publisher=Calambac Verlag |isbn= 978-3-943117-85-1}}
+*{{cite book|author=Matsuo, Bashō|others= trans. Bob While, illustrated by Tony Vera|title=Don't Imitate Me |year=2015 |location=Saarbrücken |publisher=Calambac Verlag |isbn=978-3-943117-86-8}}
+
+==See also==
+*[[Hattori Ransetsu]]
+*[[Takarai Kikaku]]
+
+==Notes==
+{{Reflist|group=Notes}}
+
+==References==
+===Citations===
+{{Reflist}}
+
+===Sources===
+*{{cite journal | last = Carter| first = Steven|year = 1997|title =On a Bare Branch: Bashō and the Haikai Profession| journal =Journal of the American Oriental Society| volume = 117| issue = 1| pages = 57–69|doi =10.2307/605622 | jstor = 605622}}
+*{{cite book |last1=Forbes |first1=Andrew |last2=Henley |first2=David |year=201 |title=Utagawa Hiroshige's 53 Stations of the Tokaido |location=Chiang Mai |publisher=Cognoscenti Books |edition=Kindle |asin=B00LM4APAI}}
+*{{cite book|last=Hibino |first=Shirō |author-link=:ja:日比野士朗 |title=Bashō saihakken: ningen Bashō no jinsei |script-title=ja:芭蕉再発見: 人間芭蕉の人生 |publisher=Shintensha |year=1978 |url=https://books.google.com/books?id=SisxAAAAMAAJ |language=ja}}
+*{{cite book|last=Kon |first=Eizō |author-link=:ja:今栄蔵 |title=Bashō nenpu taisei |script-title=ja:芭蕉年譜大成 |publisher=Kadokawa |year=1994 |isbn=9784048650472 |url=https://books.google.com/books?id=4PFMAAAAMAAJ|language=ja}}
+*{{cite book| author=Lawlor, William| title=Beat Culture: Lifestyles, Icons, and Impact |location=Santa Barbara| publisher= ABC-CLIO |year=2005 |isbn= 978-1-85109-405-9}}
+*{{cite book|title=Cartographies of Desire: Male-Male Sexuality in Japanese Discourse, 1600–1950 |author=Gregory M. Pflugfelder |year=1999|page=39 |publisher=University of California Press |isbn=978-0520251656}}
+*{{cite encyclopedia|ref={{SfnRef|Nihon Jinmei Daijiten Plus|2015}}|encyclopedia = Nihon Jinmei Daijiten Plus
+ |title        = Tōdō Sengin
+ |language     = ja
+ |script-title = ja:藤堂蝉吟
+ |year         = 2015
+ |publisher    = [[Kodansha]]
+ |url          = https://kotobank.jp/word/藤堂蝉吟-1093752#E3.83.87.E3.82.B8.E3.82.BF.E3.83.AB.E7.89.88.20.E6.97.A5.E6.9C.AC.E4.BA.BA.E5.90.8D.E5.A4.A7.E8.BE.9E.E5.85.B8.2BPlus
+ |access-date   = March 26, 2018
+ }}
+*{{cite book|last=Okamura |first=Kenzō (岡村 健三)|title=Bashō to Jutei-ni |script-title=ja:芭蕉と寿貞尼 |location=Ōsaka|publisher=Bashō Haiku Kai <!--芭蕉俳句会 -->|year=1956|language=ja}}
+*{{cite book|last=Shirane |first=Haruo |title=Traces of Dreams: Landscape, Cultural Memory, and the Poetry of Basho| location=Stanford, CA |publisher=Stanford University Press |year=1998|isbn= 0-8047-3099-7}}
+*{{cite book|last=Ueda|first=Makoto|title=The Master Haiku Poet, Matsuo Bashō|location=Tokyo|publisher=Kodansha International|year=1982|isbn=0-87011-553-7|url=https://archive.org/details/matsuobasho00ueda}}
+*{{cite book|last=Ueda |first=Makoto |title=Matsuo Bashō |location=Tokyo|publisher=Twayne Publishers|year=1970}}
+*{{cite book|last=Ueda |first=Makoto |title=Bashō and His Interpreters: Selected Hokku with Commentary| location=Stanford, CA |publisher=Stanford University Press |year=1992|isbn= 0-8047-1916-0}}
+*Slawenski, Kenneth. 2010. ''J.D. Salinger: A Life''. New York: Random House, {{ISBN|978-1-4000-6951-4}}
+*Takarai, Kikaku (2006). ''An Account of Our Master Basho's Last Days'', translated by Nobuyuki Yuasa in ''Springtime in Edo''. Hiroshima, Keisuisha. {{ISBN|4-87440-920-2}}
+*{{cite book|ref={{SfnRef|Kokusai|1948}}|author=Kokusai Bunka Shinkōkai <!--国際文化振興会--> |title=Introduction to Classic Japanese Literature |year=1948 |publisher=Kokusai Bunka Shinkōkai|location=Tokyo}}
+*Matsuo, Bashō (1666). "The narrow road to the Deep North", translated by Nobuyuki Yuasa. Harmondsworth, Penguin. {{ISBN|0-14-044185-9}}
+*{{cite book|last=Leupp|first=Gary P.|title=Male Colors: The Construction of Homosexuality in Tokugawa Japan|publisher=University of California Press|year=1997|isbn=0-520-20900-1}}
+
+==External links==
+{{Commons category|Matsuo Basho}}
+{{Wikiquote}}
+{{Wikisource|Author:Matsuo Bashō|Matsuo Bashō}}
+{{Portal|Japan|Literature|Poetry}}
+*{{Gutenberg author | id=Matsuo,+Bashō}}
+*{{Internet Archive author |sname=Matsuo Bashō |sopt=w}} 
+*{{Librivox author |id=3181}}
+*{{cite web |url=http://carlsensei.com/classical/index.php/author/view/1 |title= Matsuo Bashō (松尾芭蕉) |publisher=Classical Japanese Database | access-date=May 12, 2008}} Various poems by Bashō, in original and translation.
+*{{cite web |url=http://www.haikupoetshut.com/basho1.html |archive-url=https://web.archive.org/web/20020709101938/http://www.haikupoetshut.com/basho1.html |url-status=dead |archive-date=July 9, 2002 |title=Interpretations of Bashō |publisher=Haiku Poets Hut |access-date=May 12, 2008 }} Comparison of translations by R. H. Blyth, Lucien Stryck and Peter Beilenson of several Bashō haiku.
+*{{cite magazine |url=http://ngm.nationalgeographic.com/2008/02/bashos-trail/bashos-trail-interactive |title=On the Poet's Trail | author= Norman, Howard |magazine=National Geographic Magazine |date=February 2008 |access-date=May 12, 2008}} Interactive Travelogue of Howard Norman's journey in Basho's footsteps, including a map of the route taken.
+*{{cite web |url=http://simplyhaiku.com/SHv4n3/features/Nobuyuki.html |title=An Account of Our Master Bashō's Last Days |publisher= Simply Haiku: A Quarterly Journal of Japanese Short Form Poetry |access-date=June 29, 2008}}  A translation by Nobuyuki Yuasa of an important manuscript by Takarai Kikaku, also known as Shinshi, one of Bashō's followers.
+*{{cite web |url=https://www.scribd.com/doc/24996714/Matsuo-Bash%C5%8D-Complete-Haiku-in-Japanese |title=Matsuo Bashō – Complete Haiku in Japanese |publisher=André von Kugland |access-date=January 9, 2010}}
+*[http://www2.yamanashi-ken.ac.jp/~itoyo/basho/basho.htm bashoDB]
+*{{cite web |url=http://www.geocities.com/dr_phinaes/haikaitranslation.html |title=Phinaes' Haikai Linked Verse Translations |year=2007 |author=Price, Sean |access-date=November 2, 2009 |archive-url=https://web.archive.org/web/20071231213310/http://www.geocities.com/dr_phinaes/haikaitranslation.html |archive-date=December 31, 2007}} Translations of renku by Bashō and his disciples, by Sean Price.
+*{{cite magazine |url=http://ngm.nationalgeographic.com/2008/02/bashos-trail/howard-norman-text |title=On the Poet's Trail | author= Norman, Howard |magazine=National Geographic Magazine |date=February 2008 |access-date=May 12, 2008 |author-link= Howard Norman}} Travels along the path Matsuo Bashō followed for Oku no Hosomichi.  Photography by Mike Yamashita.
+*[http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/153737 Bridge of dreams: the Mary Griggs Burke collection of Japanese art], a catalog from The Metropolitan Museum of Art Libraries (fully available online as PDF), which contains material on this artist (see index)
+
+{{Japanese poetry}}
+{{Authority control}}
+{{Good article}}
+
+{{DEFAULTSORT:Matsuo, Basho}}
+[[Category:1644 births]]
+[[Category:1694 deaths]]
+[[Category:Articles containing Japanese poems]]
+[[Category:Buddhist poets]]
+[[Category:Gay writers]]
+[[Category:LGBT Buddhists]]
+[[Category:LGBT poets]]
+[[Category:LGBT writers from Japan]]
+[[Category:Japanese writers of the Edo period]]
+[[Category:Japanese Zen Buddhists]]
+[[Category:17th-century Japanese poets]]
+[[Category:17th-century LGBT people]]
+[[Category:Japanese haiku poets]]

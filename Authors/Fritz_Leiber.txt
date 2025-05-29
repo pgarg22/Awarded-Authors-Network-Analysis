@@ -1,0 +1,285 @@
+{{Short description|American fantasy, horror, and scfi writer (1910–1992)}}
+{{About|the speculative fiction writer|his father|Fritz Leiber (actor)}}
+{{Use mdy dates|date=May 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name         = Fritz Leiber
+| image        = Fritz Leiber (cropped).jpg
+| caption      = Leiber in 1978
+| birth_name   = Fritz Reuter Leiber Jr.
+| birth_date   = {{birth date|1910|12|24|mf=y}}
+| birth_place  = [[Chicago, Illinois]], U.S.
+| death_date   = {{death date and age|1992|09|5|1910|12|24|mf=y}}
+| death_place  = [[San Francisco, California]], U.S.
+| occupation   = Writer
+| period       = 1934–1992{{efn|name=1934/35}}
+| genre        = [[fantasy fiction|Fantasy]], [[horror fiction|horror]], [[science fiction]]
+| notableworks = [[Fafhrd and the Gray Mouser]] series, ''[[The Big Time (novel)|The Big Time]]''
+| spouse       = {{marriage|Jonquil Stephens|1936|1969|reason=died}}<br>{{marriage|Margo Skinner|1992}}
+| children     = [[Justin Leiber]]
+| parents      = [[Fritz Leiber (actor)|Fritz Leiber]] (father)
+}}
+
+'''Fritz Reuter Leiber Jr.''' ({{IPAc-en|ˈ|l|aɪ|b|ər}} {{Respell|LEYE-bər}};<ref>{{cite web|url=https://scifi.stackexchange.com/questions/255741/how-to-pronounce-fritz-leibers-name#255744|author=user14111|website=Science Fiction & Fantasy Stack Exchange|title=How to pronounce Fritz Leiber's name?|date=November 4, 2021|access-date=November 6, 2021}}</ref> December 24, 1910&nbsp;– September 5, 1992) was an American writer of fantasy, horror, and science fiction. He was also a poet, actor in theater and films, playwright, and [[chess expert]].{{efn|His greatest achievement at chess may be winning clear first in the 1958 Santa Monica Open.<ref>{{cite web|author=The Web Novice |url=http://www.chessdryad.com/articles/wall/art_06.htm |title=California Chess Reminiscences |publisher=Chessdryad.com |access-date=April 18, 2013}}</ref>}} With writers such as [[Robert E. Howard]] and [[Michael Moorcock]], Leiber is one of the fathers of [[sword and sorcery]] and coined the term.
+
+==Life==
+Fritz Leiber was born December 24, 1910, in [[Chicago, Illinois]], to the actors [[Fritz Leiber (actor)|Fritz Leiber]] and Virginia Bronson Leiber. For a time, he seemed inclined to follow in his parents' footsteps; the theater and actors feature in his fiction. He spent 1928 touring with his parents' [[Shakespeare]] company (Fritz Leiber & Co.) before entering the [[University of Chicago]], where he was elected to [[Phi Beta Kappa]] and received an undergraduate [[Ph.B.]] degree in [[psychology]] and [[physiology]]<ref name="uh">{{cite web|url=http://archon.lib.uh.edu/?p=collections/findingaid&id=281&q=|publisher=archon.lib.uh.edu|title=Fritz Leiber Papers, 1930-1996 &#124; University of Houston Libraries|access-date=January 13, 2017}}</ref> or [[biology]]<ref name="google">{{cite book|title=Discovering Modern Horror Fiction II|author=Schweitzer, D.|date=1988|publisher=Wildside Press|isbn=9781587150081|url=https://books.google.com/books?id=vl6gLmUNFRYC&pg=PA18|page=18|access-date=January 13, 2017}}</ref> with honors in 1932. From 1932 to 1933, he worked as a [[lay reader]] and studied as a candidate for the ministry, without taking a degree, at the [[General Theological Seminary]] in [[Chelsea, Manhattan]], an affiliate of the [[Episcopal Church (United States)|Episcopal Church]].
+
+After pursuing graduate studies in [[philosophy]] at the University of Chicago from 1933 to 1934 and again not taking a degree, he remained in Chicago while touring under the stage name of "Francis Lathrop" intermittently with his parents' company and pursuing a literary career. Six short stories later included in the 2010 collection ''Strange Wonders: A Collection of Rare Fritz Leiber Works'' carry 1934 and 1935 dates.{{efn|name=1934/35|''Strange Wonders'', pp. 173–99. ISFDB which reports that "Riches and Power" appeared in "The Churchman", December 1, 1934, and provides no such data for five with 1935 dates.<!--maybe not published in 1935?-->{{Citation needed |date=May 2021}}}} He also appeared alongside his father in uncredited parts in [[George Cukor]]'s ''[[Camille (1936 film)|Camille]]'' (1936), [[James Whale]]'s ''[[The Great Garrick]]'' (1937), and [[William Dieterle]]'s ''[[The Hunchback of Notre Dame (1939 film)|The Hunchback of Notre Dame]]'' (1939).
+
+In 1936, he initiated a brief, intense correspondence with [[H. P. Lovecraft]], who "encouraged and influenced [Leiber's] literary development" before Lovecraft died in March 1937.<ref name="loa">{{cite web|url=http://sciencefiction.loa.org/biographies/leiber.php|publisher=sciencefiction.loa.org|title=American Science Fiction, Classic Novels of the 1950s|access-date=January 13, 2017}}</ref> Leiber introduced [[Fafhrd and the Gray Mouser]] in "Two Sought Adventure", his first professionally published short story in the August 1939 edition of ''[[Unknown (magazine)|Unknown]]'', edited by [[John W. Campbell]].<ref name=anderson>Anderson, Poul (1974), "The Wizard of Nehwon", ''The Best of Fritz Leiber'', NY: Doubleday, pp. vii–xv.</ref>
+
+Leiber married Jonquil Stephens on January 16, 1936. Their only child, philosopher and science fiction writer [[Justin Leiber]], was born in 1938. From 1937 to 1941, Fritz Leiber was employed by Consolidated Book Publishing as a staff writer for the ''Standard American Encyclopedia''. In 1941, the family moved to California, where Leiber served as a speech and drama instructor at [[Occidental College]] during the 1941–1942 academic year.
+
+Unable to conceal his disdain for academic politics as the United States entered [[World War II]], he decided that the struggle against [[fascism]] mattered more than his long-held [[pacifist]] convictions. He accepted a position with [[Douglas Aircraft]] in quality inspection, primarily working on the [[C-47 Skytrain]]. Throughout the war, he continued to regularly publish fiction.<ref name=anderson/>
+
+Thereafter, the family returned to Chicago, where Leiber served as associate editor of ''[[Science Digest]]'' from 1945 to 1956. During this decade (forestalled by a fallow interregnum from 1954 to 1956), his output (including the 1947 [[Arkham House]] anthology ''[[Night's Black Agents]]'') was characterized by [[Poul Anderson]] as "a lot of the best science fiction and fantasy in the business". In 1958, the Leibers returned to Los Angeles. By then, he could afford to relinquish his journalistic career and support his family as a full-time fiction writer.<ref name=anderson/>
+
+[[File:MacLean Leiber 1952.jpg|thumb|left|Leiber and [[Katherine MacLean]] at the 1952 World Science Fiction Convention]]
+
+Jonquil's death in 1969 precipitated Leiber's permanent relocation to [[San Francisco]] and exacerbated his longstanding [[alcoholism]] after twelve years of fellowship in [[Alcoholics Anonymous]]. He gradually regained sobriety, an effort impeded by comorbid [[barbiturate]] abuse, over the next two decades.<ref name="google2">{{cite book|title=Snakes & Spiders: The Definitive Change War Collection|author1=Leiber, F.|author2=Straight, K.|date=2012|publisher=Creative Minority Productions|isbn=9781944327033|url=https://books.google.com/books?id=gsToCwAAQBAJ&pg=PR6|access-date=January 13, 2017}}</ref> Perhaps as a result of his substance abuse{{citation needed|date=June 2021}}, Leiber seems to have suffered periods of penury in the 1970s; [[Harlan Ellison]] wrote of his anger at finding that the much-awarded Leiber had to write his novels on a manual typewriter propped up over the sink in his apartment. [[Marc Laidlaw]] wrote that, when visiting Leiber as a fan in 1976, he "was shocked to find him occupying one small room of a seedy San Francisco residence hotel, its squalor relieved mainly by walls of books".<ref>Laidlaw, Marc, "On ''Our Lady of Darkness''," in the anthology ''Horror: Another 100 Best Books'', edited by Stephen Jones and Kim Newman, Carroll & Graf, 2005.</ref> Other reports suggest that Leiber preferred to live simply in the city, spending his money on dining, movies, and travel. In the last years of his life, royalty checks from [[TSR, Inc.]] (the makers of ''[[Dungeons & Dragons]]'', who had licensed the mythos of the Fafhrd and Gray Mouser series) were enough in themselves to ensure that he lived comfortably.<ref name="google3">{{cite book|title=Snakes & Spiders: The Definitive Change War Collection|author1=Leiber, F.|author2=Straight, K.|date=2012|publisher=Creative Minority Productions|isbn=9781944327033|url=https://books.google.com/books?id=gsToCwAAQBAJ&pg=PR7|access-date=January 13, 2017}}</ref> In 1977, he returned to his original form with a fantasy novel set in modern-day San Francisco, ''[[Our Lady of Darkness]]'', which is about a writer of weird tales who must deal with the death of his wife and his recovery from alcoholism.
+
+In 1992, the last year of his life, Leiber married his second wife, Margo Skinner, a journalist and poet with whom he had been friends for years. Leiber died a few weeks after a physical collapse while traveling from a science fiction convention in [[London, Ontario]], with Skinner. His cause of death was a stroke.<ref>{{Cite news|url=https://www.nytimes.com/1992/09/11/obituaries/fritz-leiber-jr-dead-a-fantasy-novelist-81.html|title=Fritz Leiber Jr. Dead; A Fantasy Novelist, 81|date=September 11, 1992|work=The New York Times|access-date=February 3, 2018|language=en-US|issn=0362-4331}}</ref>
+
+He wrote a 100-page-plus memoir, ''Not Much Disorder and Not So Early Sex'', which can be found in ''The Ghost Light'' (1984).<ref>{{Cite book | publisher = Berkley Books | isbn = 978-0-425-06812-0 | last = Leiber | first = Fritz | title = The Ghost Light | location = New York | year = 1984 | url-access = registration | url = https://archive.org/details/ghostlight0000leib }}</ref>
+
+Leiber's own literary criticism, including several essays on Lovecraft, was collected in the volume ''Fafhrd and Me'' (1990).<ref>{{Cite book | publisher = Wildside Press | last = Leiber | first = Fritz | title = Fafhrd and Me | location = Newark NJ | year = 1990 }}</ref>
+
+==Theater==
+As the child of two [[William Shakespeare|Shakespeare]]an actors, Leiber was fascinated with the stage, describing itinerant Shakespearean companies in stories like "No Great Magic" and "Four Ghosts in Hamlet", and creating an actor/producer protagonist for his novel ''[[A Specter is Haunting Texas]]''.
+
+Although his ''Change War'' novel, ''[[The Big Time (novel)|The Big Time]]'', is about a war between two factions, the "Snakes" and the "Spiders", changing and rechanging history throughout the universe, all the action takes place in a small bubble of isolated [[space-time]] the size of a theatrical stage, and with only a handful of characters. [[Judith Merril]] (in the July 1969 issue of ''The Magazine of Fantasy & Science Fiction'') remarks on Leiber's acting skills when the writer won a science fiction convention costume ball. Leiber's costume consisted of a cardboard military collar over turned-up jacket lapels, cardboard insignia, an armband, and a spider pencilled large in black on his forehead, thus turning him into an officer of the Spiders, one of the combatants in his Change War stories. "The only other component," Merril writes, "was the Leiber instinct for theatre."
+
+==Films==
+
+The similarity of the names of the father and the son caused some filmographies to incorrectly attribute to Fritz Jr. roles which were in fact played by his father, Fritz Leiber Sr., who was the evil Inquisitor in the Errol Flynn adventure film ''[[The Sea Hawk (1940 film)|The Sea Hawk]]'' (1940) and had played in many other movies from 1917 to the late 1950s. It is the elder Leiber, not the younger, who appears in the Vincent Price vehicle ''[[The Web (film)|The Web]]'' (1947) and in Charlie Chaplin's ''[[Monsieur Verdoux]]'' (1947).{{citation needed|date=June 2021}}
+
+The younger Leiber can be seen briefly as Valentin in the 1936 film version of ''[[Camille (1936 film)|Camille]]'' starring [[Greta Garbo]], probably his most widely-seen film performance. In the cult horror film ''[[Equinox (1970 film)|Equinox]]'' (1970) directed by [[Dennis Muren]] and Jack Woods, Leiber has a cameo appearance as a geologist, Dr. Watermann. In the edited second version of the movie, Leiber has no spoken dialogue but appears in a few scenes. The original version of the movie has a longer appearance by Leiber recounting the ancient book and a brief speaking role'; all were cut from the re-release.
+
+He also appears as Chavez in the 1979 Schick Sunn Classics documentary ''The Bermuda Triangle'', based on the book by [[Charles Berlitz]].
+
+== Writing career ==
+Leiber was heavily influenced by H. P. Lovecraft, [[Robert Graves]], [[John Webster]], and [[Shakespeare]] in the first two decades of his career. Beginning in the late 1950s, he was increasingly influenced by the works of [[Carl Jung]], particularly by the concepts of the [[anima (Jung)|anima]] and the [[shadow (psychology)|shadow]]. In the mid-1960s, he began incorporating elements of Joseph Campbell's ''[[The Hero with a Thousand Faces]]''. These concepts are often mentioned in his stories, especially the anima, which becomes a method of exploring his fascination with, but estrangement from, the female.{{Citation needed|date=May 2008}}
+
+Leiber liked cats{{citation needed|date=June 2021}}, which are featured many of his stories. Tigerishka, for example, is a cat-like alien who is sexually attractive to the human protagonist yet repelled by human customs in the novel ''The Wanderer''. Leiber's "Gummitch" stories feature a kitten with an I.Q. of 160, just waiting for his ritual cup of coffee so that he can become human, too.
+
+[[File:H. P. Lovecraft in Brooklyn, 11 July 1931.png|thumb|alt=H. P. Lovecraft in front of a brick wall in Brooklyn|H. P. Lovecraft on July 11, 1931]]
+
+His first stories in the 1930s and 40s were inspired by Lovecraft's [[Cthulhu Mythos]]. A notable critic and historian of the wider Mythos, S. T. Joshi, has singled out Leiber's "The Sunken Land" (''Unknown Worlds'', February 1942) as the most accomplished of the early stories based on Lovecraft's Mythos.<ref>S. T. Joshi, "Cthulhu's Empire: H. P. Lovecraft's Influence on His Contemporaries and Successors", ''Critical Insights: Pulp Fiction of the 1920s and 1930s'', Salem Press, 2013.</ref> Leiber also later wrote several essays on Lovecraft the man, such as "A Literary Copernicus" (1949),<ref>{{Cite book |title=Discovering H. P. Lovecraft |last=Leiber |first=Fritz |publisher=Borgo Press |year=2001 |isbn=978-1-58715-471-3 |editor-last=Schweitzer |editor-first=Darrell |pages=7–16 |chapter=A Literary Copernicus |author-link=Fritz Leiber |chapter-url=https://www.google.com/books/edition/Discovering_H_P_Lovecraft/-PDksCTdmYMC?hl=en&gbpv=1&bsq=A%20Literary%20Copernicus}}</ref> the publication of which formed a key moment in the emergence of a serious critical appreciation of Lovecraft's life and work.<ref>Reprinted and discussed in Fritz Leiber and H. P. Lovecraft, ''Writers of the Dark'' (Rockville MD: Wildside Press, 2005). {{ISBN|9780809500772}}</ref>
+
+Leiber's first professional sale was "Two Sought Adventure" (''Unknown'', August 1939),<ref>{{Cite book |title=Dangerous Visions - Introduction to: Gonna Roll the Bones |last=Ellison |first=Harlan |publisher=Doubleday |year=1967 |isbn=0-425-06176-0 |location=New York}}</ref> which introduced his most famous characters, Fafhrd and the Gray Mouser. In 1943, his first two novels were serialized in ''Unknown'' (the supernatural horror-oriented ''[[Conjure Wife]]'', inspired by his experiences on the faculty of Occidental College) and ''[[Astounding Science Fiction]]'' (''Gather, Darkness'').
+
+1947 marked the publication of his first book, ''[[Night's Black Agents]]'', a short story collection containing seven stories grouped as 'Modern Horrors', one as a 'Transition', and two grouped as 'Ancient Adventures': "The Sunken Land" and "Adept's Gambit", which are both stories of Fafhrd and the Gray Mouser.
+
+The science fiction novel ''Gather, Darkness'' followed in 1950. It deals with a futuristic world that follows the Second Atomic Age which is ruled by scientists, until in the throes of a new Dark Age, the witches revolt.
+
+In 1951, Leiber was Guest of Honor at the World Science Fiction Convention in New Orleans. Further novels followed during the 1950s, and in 1958 ''[[The Big Time (novel)|The Big Time]]'' won the [[Hugo Award for Best Novel]].<ref name=SFAwards/>
+
+Leiber continued to publish in the 1960s. His novel ''[[The Wanderer (Fritz Leiber novel)|The Wanderer]]'' (1964) also won the Hugo for Best Novel.<ref name=SFAwards/> In the novel, an artificial planet nicknamed the Wanderer materializes from hyperspace within earth's orbit. The Wanderer's gravitational field captures the moon and shatters it into something like one of Saturn's rings. On Earth, the Wanderer's gravity well triggers earthquakes, tsunamis, and tidal phenomena. The multi-threaded plot follows the exploits of an ensemble cast as they struggle to survive the global disaster.
+
+In the same period, Leiber published "Black Gondolier", a short story in which a protagonist uncovers a cosmic conspiracy in which oil from ancient fossils preys upon human beings and human civilizations.<ref>[[Eugene Thacker|Thacker, Eugene]]. "[https://www.pagesmagazine.net/en/articles/black-infinity-or-oil-discovers-humans Black Infinity, or Oil Discovers Humans]." ''Pages Magazine'' (October 23, 2013).</ref> Leiber received the [[Hugo Award for Best Novella]] in 1970 and 1971 for "Ship of Shadows" (1969) and "[[Ill Met in Lankhmar]]" (1970). "[[Gonna Roll the Bones]]" (1967), his contribution to Harlan Ellison's ''[[Dangerous Visions]]'' anthology, won the [[Hugo Award for Best Novelette]] and the [[Nebula Award for Best Novelette]] in 1968.<ref name=SFAwards/>
+
+''Our Lady of Darkness'' (1977), originally serialized in short form in ''[[The Magazine of Fantasy & Science Fiction]]'' under the title "The Pale Brown Thing" (1977), featured cities as the breeding grounds for new types of [[elemental]]s called paramentals, summonable by the dark art of [[megapolisomancy]], with such activities centering on the [[Transamerica Pyramid]]. Its main characters include Franz Westen, Jaime Donaldus Byers, and the magician Thibault de Castries. ''Our Lady of Darkness'' won the [[World Fantasy Award—Novel]].<ref name=SFAwards/>
+
+Leiber also wrote the 1966 novelization of the [[Clair Huffaker]] screenplay of ''[[Tarzan and the Valley of Gold]]''.<ref>{{Cite web |url=http://www.erbzine.com/mag2/0210.html |title=ERBzine 0210: Tarzan and the Valley of Gold ~ ERB C.H.A.S.E.R |last=Bill and Sue-On Hillman |publisher=Erbzine.com |access-date=April 18, 2013}}</ref>
+
+Many of Leiber's most acclaimed works are short stories, especially in the horror genre. Owing to such stories as "The Smoke Ghost", "The Girl With the Hungry Eyes", and "You're All Alone" (later expanded as ''The Sinful Ones''), he is one of the forerunners of the modern urban horror story. Leiber also challenged the conventions of science fiction through reflexive narratives such as "A Bad Day For Sales" (first published in ''Galaxy Science Fiction'', July 1953), in which the protagonist, Robie, "America’s only genuine mobile salesrobot",<ref>Leiber, Fritz. "A Bad Day For Sales". Sense of Wonder: A Century of Science Fiction. Ed. 1. Leigh Ronald Grossman. Wildside Press, 2011. 422. Print.</ref> references the title character of Isaac Asimov's idealistic robot story, "Robbie".<ref>Grossman, Leigh R. Ed. ''Sense of Wonder: A Century of Science Fiction''. 1. Wildside Press, 2011. 421. Print.</ref> Questioning Isaac Asimov's [[Three Laws of Robotics]], Leiber imagines the futility of automatons in a post-apocalyptic New York City. In his later years, Leiber returned to short story horror in such works as "Horrible Imaginings", "Black Has Its Charms" and the award-winning "The Button Moulder".<ref>[http://www.cold-print.freeserve.co.uk/ramsey.htm Ramsey Campbell] {{webarchive |url=https://web.archive.org/web/20060204234445/http://www.cold-print.freeserve.co.uk/ramsey.htm |date=February 4, 2006 }}</ref>
+
+The short [[Parallel universe (fiction)|parallel world]]s story "[[Catch That Zeppelin!]]" (1975) won the [[Hugo Award for Best Short Story]] and the [[Nebula Award for Best Short Story]] in 1976.<ref name=SFAwards/> It presents an alternate reality much better than our own, as opposed to the usual parallel universe story depicting a world worse than our own. "Belsen Express" (1975) won the [[World Fantasy Award—Short Fiction]]. Both stories reflect Leiber's uneasy fascination with [[Nazism]], an uneasiness compounded by his mixed feelings about his German ancestry and his philosophical pacifism during World War II.
+
+Leiber was named the second [[Gandalf Award|Gandalf Grand Master]] of Fantasy by participants in the 1975 [[World Science Fiction Convention]] (Worldcon), after the posthumous inaugural award to [[J. R. R. Tolkien]].<ref name=SFAwards/> Next year he won the [[World Fantasy Award for Life Achievement]].<ref name=SFAwards/> He was Guest of Honor at the 1979 Worldcon in Brighton, England (1979). The [[Science Fiction Writers of America]] made him its fifth [[SFWA Grand Master]] in 1981;<ref name=SFWA/> the [[Horror Writers Association]] made him an inaugural winner of the [[Bram Stoker Award for Lifetime Achievement]] in 1988 (named in 1987);<ref name=HWA/> and the [[EMP Museum#Science Fiction Hall of Fame|Science Fiction and Fantasy Hall of Fame]] inducted him in 2001, its sixth class of two deceased and two living writers.<ref name=sfhof-old/>
+
+Leiber was a founding member of the [[Swordsmen and Sorcerers' Guild of America]] (SAGA), a loose-knit group of [[Heroic fantasy]] authors founded in the 1960s and led by [[Lin Carter]].<!-- source is our SAGA; one of eight --> Some works by SAGA members were published in [[Lin Carter]]'s ''[[Flashing Swords!]]'' anthologies. Leiber himself is credited with inventing the term [[sword and sorcery]] for the particular subgenre of epic fantasy exemplified by his Fafhrd and Grey Mouser stories.{{citation needed |date=April 2013}}
+
+In an appreciation in the July 1969 "Special Fritz Leiber Issue" of ''The Magazine of Fantasy & Science Fiction'', [[Judith Merril]] writes of Leiber's connection with his readers: "That this kind of ''personal'' response...is shared by thousands of other readers, has been made clear on several occasions." The November 1959 issue of ''[[Fantastic (magazine)|Fantastic]]'', for instance: Leiber had just come out of one of his recurrent dry spells, and editor [[Cele Goldsmith Lalli|Cele Lalli]] bought up all his new material until there was enough [five stories] to fill an issue; the magazine came out with a big black headline across its cover — ''Leiber Is Back!''
+
+== Fafhrd and the Gray Mouser ==
+{{Main|Fafhrd and the Gray Mouser}}
+
+His legacy has been consolidated by his most famous creations, the ''Fafhrd and the Gray Mouser'' stories, written over a span of 50 years.{{Citation needed |date=May 2021}} The first, "Two Sought Adventure", appeared in ''[[Unknown magazine|Unknown]]'', August 1939. The stories are about an unlikely pair of heroes found in and around the city of [[Lankhmar]]. Fafhrd was based on Leiber himself and the Mouser on his friend [[Harry Otto Fischer]], and the two characters were created in a series of letters exchanged by the two in the mid-1930s.{{citation needed|date=June 2021}} These stories were among the progenitors of many of the [[Trope (literature)|tropes]] of [[sword and sorcery]]. They are also notable among sword and sorcery stories in that, over the course of the stories, his two heroes mature, take on more responsibilities, and eventually settle down into marriage.{{citation needed|date=June 2021}}
+
+Some Fafhrd and Mouser stories were recognized by annual genre awards: "Scylla's Daughter" (1961) was "Short Story" Hugo finalist, and "Ill Met in Lankhmar" (1970) won the "Best Novella" Hugo and Nebula Awards.<ref name=SFAwards/> Leiber's last major work, ''The Knight and Knave of Swords'' (1991), closed out the series while leaving room for possible sequels. In his last year, Leiber considered allowing other writers to continue the series, but his sudden death made this more difficult. One new Fafhrd and the Mouser novel, ''[[Swords Against the Shadowland]]'', by [[Robin Wayne Bailey]], appeared in 1998.
+
+The stories influenced the shaping of sword and sorcery and other works. [[Joanna Russ]]' stories about thief-assassin Alyx (collected in 1976 in ''[[The Adventures of Alyx]]'') were in part inspired by Fafhrd and the Gray Mouser, and Alyx made guest appearances in two of Leiber's stories. Numerous writers have paid homage to the stories. For instance, [[Terry Pratchett]]'s city of [[Ankh-Morpork]] bears something more than a passing resemblance to Lankhmar (acknowledged by Pratchett by the placing of the swordsman-thief "The Weasel" and his giant barbarian comrade "Bravd" in the opening scenes of the first [[Discworld]] novel). More recently, playing off the visit of Fafhrd and the Grey Mouser to our world in ''Adept's Gambit'' (set in second century B.C. Tyre), [[Steven Saylor]]'s short story "Ill Seen in Tyre" takes his [[Roma Sub Rosa]] series hero Gordianus to the city of Tyre a hundred years later, where the two visitors from Nehwon are remembered as local legends.<ref>Saylor, Steven, "Ill Seen in Tyre", in the anthology ''Rogues'', edited by Gardner Dozois and George R.R. Martin, Bantam, 2014.</ref>
+
+Fischer and Leiber contributed to the original design of the 1976 wargame ''[[Lankhmar (board game)|Lankhmar]]'' from [[TSR, Inc.|TSR]].<ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=Mongoose Publishing|year=2011| isbn= 978-1-907702-58-7|page=9}}</ref>
+
+==Selected works==
+<!-- given that we have [[Fritz Leiber bibliography]], this is long. Why not more selective? What is its scope? is there a guiding idea of the selection? See TALK-->
+{{Main|Fritz Leiber bibliography}}
+
+===Fafhrd and the Gray Mouser series===
+
+# ''[[Two Sought Adventure]]'' (1958). Collection of six short stories. Later expanded and retitled as ''Swords Against Death''.
+# ''[[Swords and Deviltry]]'' (1970). Collection of 3 short stories.
+# ''[[Swords Against Death]]'' (1970). Collection of 10 short stories; an expanded edition of ''Two Sought Adventure''
+# ''[[Swords in the Mist]]'' (1968). Collection of 6 short stories.
+# ''[[Swords Against Wizardry]]'' (1968). Collection of 4 short stories.
+# ''[[The Swords of Lankhmar]]'' (1968). Expanded from "Scylla's Daughter" in ''[[Fantastic (magazine)|Fantastic]]'', 1963.
+# ''[[Swords and Ice Magic]]'' (1977). Collection of 8 short stories. (Though see ''Rime Isle'' below.)
+# ''[[The Knight and Knave of Swords]]'' (1988). Collection of 4 short stories. Retitled ''Farewell to Lankhmar'' (2000, UK).
+
+===Novels and novellas===
+* ''[[Conjure Wife]]'' (originally appeared in ''[[Unknown (magazine)|Unknown Worlds]]'', April 1943) — This novel relates a college professor's discovery that his wife (and many other women) are regularly using [[magic (paranormal)|magic]] against and for one another and their husbands.
+* ''Gather, Darkness!'' (serialized in ''[[Astounding (magazine)|Astounding]]'', May, June, and July 1943) – a dystopian, satirical depiction of a future [[theocracy]] and the revolution that brings it down.
+* ''[[Destiny Times Three]]'' (1945, first in ''[[Astounding (magazine)|Astounding]]'') (reprinted 1957 as [[Galaxy Science Fiction Novels|Galaxy Novel]] number 28)
+* ''The Sinful Ones'' (1953), an adulterated version of ''You're All Alone'' (1950 ''[[Fantastic Adventures]]'' abridged); Leiber rewrote the inserted passages and saw published a revised edition in 1980.
+* ''The Green Millennium'' (1953)
+* ''The Night of the Long Knives'' (''Amazing Science Fiction Stories'', January 1960)
+* ''[[The Big Time (novel)|The Big Time]]'' (expanded 1961 from a version serialized in ''[[Galaxy (magazine)|Galaxy]]'', March and April 1958, which won a [[Hugo Award|Hugo]]) — Change War series. Also available in ''Ship of Shadows'' (1979) – see Collections below.
+* ''The Silver Eggheads'' (1961; a shorter version was published in ''The Magazine of Fantasy & Science Fiction'' in 1959)
+* ''[[The Wanderer (Fritz Leiber novel)|The Wanderer]]'' (1964)
+* ''[[Tarzan and the Valley of Gold]]'' (1966) (novelisation of a [[Clair Huffaker]] screenplay)
+* ''[[A Specter is Haunting Texas]]'' (1969)
+* ''You're All Alone'' (1972) (the first book edition includes two shorter works as well, a revised version was issued as ''The Sinful Ones'')
+* ''[[Our Lady of Darkness]]'' (1977) This novel, the title of which is drawn from [[Thomas de Quincey]]'s ''[[Suspiria de Profundis]]'', was published the same year as the release of [[Dario Argento]]'s ''[[Suspiria]]'', which referenced the same idea in de Quincey. It also makes fictional reference to fellow novelists [[Jack London]], [[Clark Ashton Smith]] and [[H. P. Lovecraft]] and others.
+* ''Rime Isle'' (1977) (somewhere between a [[novella]] and a two-[[Novella|novelette]] collection, composed of "The Frost Monstreme" and "Rime Isle" offered as a unitary volume)
+* ''Ervool'' (Cheap Street, 1980—limited ed of 200 numbered copies). A standalone edition of a short story originally published in the 1940s fanzine ''The Acolyte''.
+* ''The Dealings of Daniel Kesserich'' (1997) — [[H. P. Lovecraft]]ian novella written in 1936 and lost for decades
+* ''Dark Ladies'' (NY: Tor Books, 1999). Omnibus edition of ''[[Conjure Wife]]'' and ''Our Lady of Darkness''
+
+===Collections===
+* ''[[Night's Black Agents]]'' (Arkham House, 1947). Reprinted by Berkley, 1978 with the addition of two stories – "The Girl With the Hungry Eyes" and "A Bit of the Dark World". The definitive hardcover edition is the Gregg Press (1980) edition, which adds a foreword by [[Richard Powers]] to the complete contents of the Berkley edition.
+* ''The Mind Spider and Other Stories'' (1961). Collection of 6 short stories.
+* ''Shadows With Eyes'' (1962). Collection of 6 short stories.
+* ''[[A Pail of Air]]'' (1964). Collection of 11 short stories.
+* ''Ships to the Stars'' (1964). Collection of 6 short stories.
+* ''The Night of the Wolf'' (1966). Collection of 4 short stories.
+* ''The Secret Songs'' (1968). Collection of 11 short stories.
+* ''Night Monsters'' (1969). Collection of 4 short stories. UK (1974) edition drops 1 story and adds 4.
+* ''[[The Best of Fritz Leiber]]'' (1974). Collection of 22 short stories. (Introduction by [[Poul Anderson]], "The Wizard of Nehwon")
+* ''[[The Book of Fritz Leiber]]'' (1974). Collection of 10 stories and 9 articles.
+* ''[[The Second Book of Fritz Leiber]]'' (1975). Collection of 4 stories, 1 play, and 6 articles.
+* ''[[Bazaar of the Bizarre (collection)|Bazaar of the Bizarre]]'' (1978)
+* ''[[Heroes and Horrors]]'' (1978). Collection of 9 stories.
+* ''Ship of Shadows'' (1979). Collection of 5 award-winning short stories [ 3 stories 2 novellas & 1 novel''The BigTime''.]    <ref>Victor Gollancz [publisher] Dust Jacket bio.</ref>
+* ''Changewar'' (1983). Collection of the Changewar short stories (7 stories).
+* ''The Ghost Light'' (1984). Collection of 9 stories with illustrations and an autobiographic essay with photographs.
+* ''The Leiber Chronicles'' (1990) Collection of 44 short stories.
+* ''Gummitch and Friends''  (1992). Leiber's cat stories, the first five of which feature Gummitch.
+* ''Ill Met in Lankhmar'' (White Wolf Publishing, 1995, {{ISBN|1-56504-926-8}}) combines ''Swords and Deviltry'' (1970) and ''Swords Against Death'' (1970).
+* ''[[Lean Times in Lankhmar]]'' (White Wolf Publishing, 1996, {{ISBN|1-56504-927-6}}) combines ''Swords in the Mist'' (1970) and ''Swords Against Wizardry'' (1970)
+* ''Return to Lankhmar'' (White Wolf Publishing, 1997, {{ISBN|1-56504-928-4}}) combines ''The Swords of Lankhmar'' (1968) and ''Swords and Ice Magic'' (1977)
+* ''Farewell to Lankhmar'' (White Wolf Publishing, 1999, {{ISBN|1-56504-897-0}})
+* ''The Black Gondolier'' (2000) Collection of 18 short stories.
+* ''Smoke Ghost and Other Apparitions'' (2002) Collection of 18 short stories.
+* ''Day Dark, Night Bright'' (Collection of 20 short stories, 2002)
+* ''Horrible Imaginings'' (2004) Collection of 15 short stories.
+* ''Strange Wonders'' (Subterranean Press, 2010). Edited by [[Benjamin Szumskyj]]. Collection of 48 unpublished and uncollected works (drafts, fragments, poems, essays, and a play).
+* ''Fritz Leiber: Selected Stories''  (Night Shade Books, 2010). Edited by [[Jonathan Strahan]] and [[Charles N. Brown]]. Collection of 17 stories, with an introduction by [[Neil Gaiman]].
+
+===Plays===
+* ''Quicks Around the Zodiac: A Farce''. (Newcastle, VA: Cheap Street, 1983). (Reprinted in ''Strange Wonders'', 2010).
+
+===Essays===
+* ''The Mystery of the Japanese Clock''. A standalone essay on the workings of a digital Japanese clock. Montgolfier Press, 1982, with Introduction by his son [[Justin Leiber]]. (Reprinted in ''Strange Wonders'', 2010).
+
+===Poetry===
+* ''Demons of the Upper Air'' (Glendale, CA: Roy A. Squires, 1969).
+* '' Sonnets to Jonquil and All'' (Glendale, CA: Roy A. Squires, 1978).
+
+===Screen adaptations===
+''Conjure Wife'' has been made into feature films four times under other titles:
+* ''[[Weird Woman]]'' (1944) starring [[Lon Chaney Jr.]]. One of six Inner Sanctum mystery films made by Universal Studios based upon the old [[Inner Sanctum Mystery|Inner Sanctum]] radio series.
+* ''Conjure Wife'' was also adapted for the 1960 TV series ''Moment of Fear'' (episode title "The Accomplice")
+* ''[[Night of the Eagle]]'' (also known as ''Burn, Witch, Burn!'') (1962) (screenplay by [[Charles Beaumont]], [[Richard Matheson]] and [[George Baxt]], directed by [[Sidney Hayers]], produced by Albert Fennell)
+* ''[[Witches' Brew (film)|Witches' Brew]]'' (also known as ''Which Witch is Which?'') (1980) Directed by Richard Shore and starring [[Teri Garr]] and [[Richard Benjamin]].
+
+[[The Girl with the Hungry Eyes (1995 film)|"The Girl with the Hungry Eyes" was filmed under that title]] by Kastenbaum Films in 1995. (This film is not to be confused with the 1967 William Rotsler film ''[[The Girl with the Hungry Eyes (1967 film)|The Girl with the Hungry Eyes]]'' which is entirely unrelated to Leiber's story).
+
+Two Leiber stories were filmed for TV for [[Rod Serling]]'s ''[[Night Gallery]]''. These were "The Girl with the Hungry Eyes" (1970) (adapted by Robert M. Young and directed by John Badham); and "The Dead Man" (adapted and directed by Douglas Heyes).
+
+==See also==
+* [[International Fortean Organization]]
+{{Portal bar |Speculative fiction }} <!-- delete the word "bar" if there are enough ordinary See also -->
+
+==Notes==
+{{notelist |25em}}
+
+==References==
+{{Reflist |refs=
+
+<!-- awards refs -->
+<ref name=SFAwards>
+[http://www.locusmag.com/SFAwards/Db/NomLit79.html#3091 "Leiber, Fritz"] {{webarchive|url=https://web.archive.org/web/20121016200217/http://locusmag.com/SFAwards/Db/NomLit79.html |date=October 16, 2012 }}. ''The Locus Index to SF Awards: Index to Literary Nominees''. [[Locus Publications]]. Retrieved April 1, 2013.</ref>
+
+<ref name=SFWA>
+[http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ "Damon Knight Memorial Grand Master"] {{webarchive|url=https://web.archive.org/web/20110701114233/http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ |date=July 1, 2011 }}. Science Fiction and Fantasy Writers of America (SFWA). Retrieved April 1, 2013.</ref>
+
+<ref name=sfhof-old>
+[http://www.midamericon.org/halloffame/ "Science Fiction and Fantasy Hall of Fame"] {{webarchive |url=https://web.archive.org/web/20130521070009/http://www.midamericon.org/halloffame/ |date=May 21, 2013 }}. Mid American Science Fiction and Fantasy Conventions, Inc. Retrieved April 1, 2013. This was the official website of the hall of fame to 2004.</ref>
+
+<ref name=HWA>
+[http://www.horror.org/laawd.htm "Bram Stoker Award for Lifetime Achievement"] {{webarchive|url=https://web.archive.org/web/20130509115710/http://www.horror.org/laawd.htm |date=May 9, 2013 }}. Horror Writers Association (HWA). Retrieved April 6, 2013.</ref>
+}}
+
+== Further reading ==
+* ''[[Fantastic (magazine)|Fantastic]]'', November 1959
+* ''[[The Magazine of Fantasy and Science Fiction]]'', July 1969
+* ''The Silver Eel'' (1978). edited by Robert P. Barker.
+* ''Fantasy Commentator'' double issue No 57/58 (2004). Edited by [[Benjamin J. Szumskyj]] for publisher A. Langley Searles. Contains a wealth of critical essays on Leiber's work, together with three poems by Leiber: "Challenge", "Ghosts" and "The Grey Mouser".
+* A bibliography of Leiber's work is ''Fritz Leiber: A Bibliography 1934–1979'' by Chris Morgan (Birmingham, UK: Morgenstern, 1979). It is fairly definitive as to the date of publication but Leiber's work badly needs an updated comprehensive bibliography.
+* Jeff Frane. ''Fritz Leiber'' (Mercer Island, WA: Starmont House/Borgo Press, 1980) was the first full-length monograph on Leiber's life and literary work.
+* Tom Staicar. ''Fritz Leiber''(NY: Fredrick Ungar Publishing Co, 1983).
+* [[Bruce Byfield]]. {{Cite book | publisher = Necronomicon Press | isbn = 0-940884-35-6 | last = Byfield | first = Bruce | title = Witches of the Mind: A Critical Study of Fritz Leiber | location = West Warwick | year = 1991 }}
+* [[Benjamin J. Szumskyj]] (ed) ''Fritz Leiber: Critical Essays''. (2007)
+* John Howard. "In Smoke and Soot I Will Worship: The Ghost Stories of Fritz Leiber". ''All Hallows'' 4 (1993); ''Fantasy Commentator'' 57/58 (2004); in Howard's ''Touchstones: Essays on the Fantastic''. Staffordshire UK: Alchemy Press, 2014.
+* John Howard. "The Addition of Secondary Narratives". ''Fantasy Commentator'' 57/58 (2004); expanded as "Storytelling wonder-questing, mortal me: The transformation of 'The Pale Brown Thing' into ''Our Lady of Darkness'' in Szumskyj (2007); in Howard's  ''Touchstones: Essays on the Fantastic''. Staffordshire UK: Alchemy Press, 2014.
+* An essay examining Leiber's literary relationship with [[H. P. Lovecraft]] ("Passing the Torch: H. P. Lovecraft and Fritz Leiber") appears in [[S. T. Joshi]]'s ''The Evolution of the Weird Tale'' (2004).{{Cite book | publisher = Hippocampus Press | isbn = 978-0-9748789-2-8 | last = Joshi | first = S | title = The Evolution of the Weird Tale | location = New York | year = 2004 |pages=124–35}}
+
+==External links==
+{{Commons category|Fritz Leiber}}
+{{Wikiquote}}
+* {{StandardEbooks|Standard Ebooks URL=https://standardebooks.org/ebooks/fritz-leiber}}
+* {{Gutenberg author |id=25421 | name=Fritz Leiber}}
+* {{Internet Archive author |sname=Fritz Leiber}}
+* {{Librivox author |id=177}}
+* {{sfhof|942|Fritz Leiber}}
+* {{isfdb name|38}}
+* {{IMDb name|0500020}}
+* {{IBList|type=author|id=767|name=Fritz Leiber}}
+* [http://www.lankhmar.co.uk Lankhmar  The Fritz Leiber Home Page]
+
+{{Fritz Leiber}}
+{{Cthulhu Mythos}}
+{{Bram Stoker Award for Lifetime Achievement}}
+{{Damon Knight Memorial Grand Master Awards}}
+{{World Fantasy Award Best Short Fiction}}
+{{World Fantasy Award Life Achievement}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Leiber, Fritz}}
+[[Category:1910 births]]
+[[Category:1992 deaths]]
+[[Category:American people of German descent]]
+[[Category:20th-century American novelists]]
+[[Category:American actors]]
+[[Category:American fantasy writers]]
+[[Category:American horror writers]]
+[[Category:American dramatists and playwrights]]
+[[Category:American science fiction writers]]
+[[Category:American short story writers]]
+[[Category:American speculative fiction critics]]
+[[Category:Cthulhu Mythos writers]]
+[[Category:Forteana]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Nebula Award winners]]
+[[Category:Nehwon]]
+[[Category:Deaths from cerebrovascular disease]]
+[[Category:Science fiction critics]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:SFWA Grand Masters]]
+[[Category:University of Chicago alumni]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Writers from Chicago]]
+[[Category:Writers from San Francisco]]
+[[Category:American male novelists]]
+[[Category:American male poets]]
+[[Category:American male short story writers]]
+[[Category:Novelists from Illinois]]
+[[Category:Anglican lay readers]]
+[[Category:American male non-fiction writers]]
+[[Category:Weird fiction writers]]
+[[Category:Pulp fiction writers]]
+[[Category:Deaths from small intestine cancer]]
+[[Category:20th-century American male writers]]

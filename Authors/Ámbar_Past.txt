@@ -1,0 +1,32 @@
+{{Expand German|date=August 2017}}
+
+{{Infobox person
+| name          = Ámbar Past
+| image         = <!-- filename only, no "File:" or "Image:" prefix, and no enclosing [[brackets]] -->
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = 
+| birth_name    = <!-- only use if different from name -->
+| birth_date    = {{Birth year and age|1949}}
+| birth_place   = 
+| death_date    = <!-- {{Death date and age|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date)  -->
+| death_place   = 
+| nationality   = 
+| other_names   = 
+| occupation    = Poet, visual artist
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+
+'''Ámbar Past''' (born 1949) is a US-born poet and visual artist.<ref>{{Cite news|url=https://www.nytimes.com/2005/05/11/books/the-poetic-hearts-of-mayan-women-writ-large.html|title=The Poetic Hearts of Mayan Women Writ Large|last=Smith|first=Dinitia|date=2005-05-11|work=The New York Times|access-date=2017-08-14|language=en-US|issn=0362-4331}}</ref> She has been a Mexican citizen since 1972 and works out of [[San Cristóbal de las Casas]], [[Chiapas]] where, in 1975, she founded [[Taller Leñateros]].<ref name="CPP">{{cite web |title=Ambar Past |url=http://www.cincopuntos.com/authors_detail.sstg?id=73 |website=Cinco Puntos Press |accessdate=March 17, 2017}}</ref><ref name="Wellesley">{{cite web |last1=Gies |first1=Martha |last2=Dully |first2=Poppy |title=In Chiapas: Ámbar Past, Poet and Editor |url=https://www.wcwonline.org/Women-=-Books-Blog-Archive/in-chiapas-ambar-past-poet-and-editor |website=Wellesley Centers for Women |accessdate=2 March 2019|date=April 26, 2010}}</ref>
+
+==References==
+{{Reflist}}
+{{authority control}}
+
+{{DEFAULTSORT:Past, Ambar}}
+[[Category:1949 births]]
+[[Category:Living people]]
+[[Category:Mexican poets]]
+[[Category:Mexican artists]]
+[[Category:Writers from Chiapas]]

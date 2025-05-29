@@ -1,0 +1,86 @@
+{{Use British English|date=October 2015}}
+{{Use dmy dates|date=May 2014}}
+{{Infobox person
+| name = Michael Hastings
+| birth_name = Michael Gerald Hastings 
+| birth_date = {{birth date|df=yes|1938|9|2}}
+| birth_place = [[London, England]], United Kingdom
+| death_date = {{death date and age|df=yes|2011|11|19|1938|9|2}}
+| death_place = United Kingdom
+| occupation = Writer, playwright
+}}
+
+'''Michael Gerald Hastings''' (2 September 1938 – 19 November 2011)<ref name="Telegraph">{{cite news|url=https://www.telegraph.co.uk/news/obituaries/8907906/Michael-Hastings.html |title=Michael Hastings |work=[[The Daily Telegraph]] |date= 22 November 2011|accessdate=22 November 2011 |location=London}}</ref> was a British playwright, screenwriter, and occasional novelist and poet.
+
+He is best known for his 1984 stage play and 1994 screenplay ''[[Tom & Viv (play)|Tom & Viv]]'', about the poet [[T.S. Eliot]] and his wife [[Vivienne Haigh-Wood]].
+
+==Biography==
+Hastings was born in [[London]], UK.  His early plays –''Don't Destroy Me'' (1956), ''Yes And After'' (1957) – reflected the influence of the [[Angry Young Men]] movement and his brief involvement with the circle surrounding [[Colin Wilson]].<ref>Kenneth Allsop, ''The Angry Decade'', London: Peter Owen (1964), p. 132.</ref><ref>Sidney Campion, ''The World of Colin Wilson'', F. Muller (1962), p. 147.</ref>
+
+Hastings later enjoyed mainstream [[West End theatre|West End]] success with ''Gloo Joo'' (1978), a farce about a West Indian threatened with deportation from the United Kingdom, which won the ''[[Evening Standard]]'' Comedy of the Year Award in 1979.  He wrote numerous stage plays, television screen plays, and in addition to the ''Tom & Viv'' film, scripts for two motion pictures, ''[[The American (1998 film)#Film, TV or theatrical adaptations|The American]]'' (1998) and ''[[The Nightcomers]]'' (1971, based on the [[Henry James]] novella ''[[The Turn of the Screw]]'' and starring [[Marlon Brando]]).  Hastings also wrote two [[libretto|libretti]] for [[Michael Nyman]]: ''[[Man and Boy: Dada]]'' (2003, assisted by Victoria Hardie) and ''[[Love Counts]]'' (2005).<ref name="Telegraph" />
+
+Hastings' 1950's play ''The Cutting of the Cloth'' saw its world premiere at the [[Southwark Playhouse]] in London, from 11 March till 4 April 2015. The cast were Alexis Caley, [[Andy de la Tour]], James El-Sharawy, Paul Rider and [[Abigail Thaw]], directed by Tricia Thorns.<ref>Southwark Playhouse playbill, 2015.</ref>
+
+Hastings published his first novel, ''The Game'' in 1957, followed by ''The Frauds''. His 1970 novel ''Tussy Is Me'' – about [[Eleanor Marx]] – won him the [[Somerset Maugham Award]]. As a poet, he published one collection, ''Love Me, Lambeth, and Other Poems'', in 1961, and his work appeared in [[Michael Horovitz]]'s 1969 anthology ''[[Children of Albion: Poetry of the Underground in Britain]]''.<ref>Robert Sheppard, [https://books.google.co.uk/books?id=oCooUyd7iPkC&pg=PA42&lpg=PA42&dq=michael+hastings+children+of+albion&source=bl&ots=fqt_jp2QZS&sig=Z9ts1feDRi7nKooRo7qX1xb4Gmo&hl=en&sa=X&ved=0ahUKEwiZjL3nzrbKAhUGTCYKHbdCDGQQ6AEIQzAH#v=onepage&q=michael%20hastings%20children%20of%20albion&f=false ''The Poetry of Saying: British Poetry and Its Discontents 1950-2000''], Liverpool University Press, 2005, p. 42.</ref>
+
+Hastings died aged 73 on 19 November 2011.<ref name="Telegraph"/>
+
+==Selected works==
+
+===Theatre===
+*''Don't Destroy Me'' (1956)
+*''Yes And After'' (1957)
+*''The World's Baby'' (1964)
+*''For the West (Congo)'' (1965)
+*''Blue as His Eyes the Tin Helmet He Wore'' (1966)
+*''Lee Harvey Oswald: A Far Mean Streak of Independence Brought on by Negleck'' (also known as ''The Silence of Lee Harvey Oswald'') (1967)
+*''The Silence of Saint-Just'' (1972)
+*''The Cutting of the Cloth'' (written 1973)
+*''For the West (Uganda)'' (1977)
+*''Gloo Joo'' (1978)
+*''[[Full Frontal (play)|Full Frontal]]'' (1979)
+*''Carnival War a Go Hot'' (1979)
+*''Murder Rap'' (1980)
+*''Midnight at the Starlight'' (1980)
+*''[[Tom & Viv (play)|Tom & Viv]]'' (1984)
+*''Calico'' (2004)
+
+===Television===
+*''Gloo Joo'' (1979)
+
+===Books===
+;Fiction
+*''The Game'' (1957)
+*''The Frauds'' (1960)
+*''Tussy Is Me'' (1970) <!--- Some sources mistakenly claim 1968 and 1971 --->
+*''[[The Nightcomers]]'' (1971; based on his own screenplay)
+*''And in the Forest the Indians'' (1975)
+*''Bart's Mornings and Other Tales of Modern Brazil'' (1975) (short stories)
+;Non-fiction
+*''[[Rupert Brooke]]: The Handsomest Young Man in England'' (1967)
+*''[[Sir Richard Burton]]: A Biography'' (1978)
+;Poetry
+* ''Love Me, Lambeth, and Other Poems'' (1961)
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{webarchive |url=https://web.archive.org/web/20111005133022/http://michaelhastings.co.uk/pages/about_michael/biography.htm |date=5 October 2011 |title=Michael Hastings' home page }}
+* [http://www.doollee.com/PlaywrightsH/hastings-michael.html At playwright database.]
+* {{IMDb name|0368607|Michael Hastings}}
+* {{BFI|id=4ce2ba162634e|name=Michael Hastings}}
+
+{{Angry young men}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hastings, Michael}}
+[[Category:1938 births]]
+[[Category:2011 deaths]]
+[[Category:People educated at Alleyn's School]]
+[[Category:English screenwriters]]
+[[Category:English male screenwriters]]
+[[Category:People from Brixton]]
+[[Category:English male dramatists and playwrights]]
+[[Category:20th-century English dramatists and playwrights]]
+[[Category:20th-century English male writers]]

@@ -1,0 +1,87 @@
+{{short description|British-Irish writer (born 1956)}}
+{{distinguish|Kate Thompson (romantic novelist)}}
+{{Use dmy dates|date=October 2016}}
+{{Use British English|date=October 2016}}
+{{BLP sources|date=June 2013}}<!-- zero biographical sources altho the Guardian Prize blurb names her parents -->
+'''Kate Thompson''' (born 10 November 1956)<ref name=LCCN/> is a British-Irish writer best known for [[children's literature|children's novels]]. Most of her children's fiction is [[fantasy]] but several of her books also deal with the consequences of [[genetic engineering]].
+
+==Biography==
+Katharine Anna Thompson<ref name=LCCN/> was born in [[Halifax, West Yorkshire|Halifax, Yorkshire]], the youngest child of the social historians and peace activists [[E. P. Thompson]] and [[Dorothy Towers]]. She has lived in Ireland since 1981 and many of her books are set there. She worked with horses and travelled in India, then settled in 1984 in [[Inagh]] in the west of Ireland with her partner Conor Minogue.<ref>[http://www.katethompson.info/biography.asp "katethompson.info ~Biography"] {{webarchive|url=https://web.archive.org/web/20130527042216/http://www.katethompson.info/biography.asp |date=27 May 2013 }}</ref> They have two daughters, Cliodhna and Dearbhla. She is an accomplished [[fiddle]]r with an interest in [[Music of Ireland|Irish traditional music]], which is reflected in ''The New Policeman''.
+
+She won two major annual awards for ''[[The New Policeman]]'' (Bodley Head, 2005), set in modern [[Kinvara]] and the Irish mythological [[Tír na nÓg]]: the [[Guardian Children's Fiction Prize]]<ref name=prize2005/> and the [[2005 Whitbread Awards|Whitbread Children's Book Award]]. It also won the [[Irish Book Awards|Dublin Airport Authority Children's Book of the Year Award]] for 2005.
+
+She has won the [[Bisto Book of the Year Awards|Bisto Children's Book of the Year Award]] four times, for ''The Beguilers'', ''The Alchemist's Apprentice'', ''Annan Water'' and ''The New Policeman''. ''Creature of the Night'' was shortlisted for the 2008 [[Booktrust Teenage Prize]] and the 2009 [[Carnegie Medal (literary award)|Carnegie Medal]].<ref>{{cite web|url=http://www.carnegiegreenaway.org.uk/2009awards/carnegie_shortlist.php |title=2009 Awards: Carnegie shortlisted books |publisher=[[CILIP]] |accessdate=2012-06-10 |url-status=dead |archiveurl=https://web.archive.org/web/20120222024723/http://www.carnegiegreenaway.org.uk/2009awards/carnegie_shortlist.php |archivedate=22 February 2012 }}</ref>
+
+
+==Works==
+{{Col-begin}}
+{{Col-break}}
+;For adults<ref name=LCCN/>
+* ''There is Something'' (1992), poetry
+* ''Down Among the Gods'' (1997)
+* ''Thin Air'' (1999)
+* ''An Act of Worship'' (2000)
+
+;Illustrated books
+* ''Highway Robbery''  (2008)
+
+{{Col-break}}
+;Children's novels
+* [[Switchers Trilogy]]
+:''[[Switchers (novel)|Switchers]]'' (1997)
+:''[[Midnight's Choice]]'' (1998)
+:''[[Wild Blood (novel)|Wild Blood]]'' (1999)
+* Missing Link or Fourth World trilogy
+:''The Missing Link'' (2000)
+:''Only Human'' (2001)
+:''Origins'' (2002)
+*''The Beguilers'' (2001)
+*''The Alchemist's Apprentice'' (2002)
+*''Annan Water'' (2004)
+* New Policeman or Liddy trilogy
+:''[[The New Policeman]]'' (2005)
+:''The Last of the High Kings'' (2007)
+:''The White Horse Trick'' (2010)
+* ''The Fourth Horseman'' (2006)
+* ''[[Creature of the Night (novel)|Creature of the Night]]'' (2008)
+* ''Wanted!'' (2010)
+{{col-end}}
+
+==References==
+{{reflist |25em |refs=
+<ref name=LCCN>
+[http://id.loc.gov/authorities/names/nr98008432 Thompson, Kate, 1956-"]. Library of Congress Name Authority File. [[Library of Congress]]. Retrieved 2013-06-01. LC cites  email from author, 14 January 2010.</ref>
+<ref name=prize2005>
+[http://books.guardian.co.uk/childrensfictionprize2005/0,,1498567,00.html Guardian Children's Fiction Prize 2005] (top page). ''guardian.co.uk''. Retrieved 2012-08-01.</ref>
+}}
+
+==External links==
+{{Portal|Children's literature |Ireland}}
+* {{Official website|http://www.katethompson.info/ }}
+* [http://books.guardian.co.uk/departments/childrenandteens/story/0,,1582191,00.html The music of time: Julia Eccleshare talks to Kate Thompson, winner of the 2005 Guardian Children's Fiction Prize] (''The Guardian'', 30 September 2005)
+* [https://www.theguardian.com/books/2006/jan/24/booksforchildrenandteenagers.whitbreadbookawards2005 Author of the month: Kate Thompson] (Dina Rabinovitch, ''The Guardian'', 24 January 2006)
+* {{isfdb name|id=Kate_Thompson|name=Kate Thompson}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Thompson, Kate}}
+[[Category:1956 births]]
+[[Category:Living people]]
+[[Category:People from Halifax, West Yorkshire]]
+[[Category:People from County Galway]]
+[[Category:British women novelists]]
+[[Category:20th-century British novelists]]
+[[Category:21st-century British novelists]]
+[[Category:British children's writers]]
+[[Category:British fantasy writers]]
+[[Category:Irish women novelists]]
+[[Category:20th-century Irish novelists]]
+[[Category:21st-century Irish novelists]]
+[[Category:Irish children's writers]]
+[[Category:Irish women children's writers]]
+[[Category:Irish fantasy writers]]
+[[Category:British women children's writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:20th-century British women writers]]
+[[Category:21st-century British women writers]]
+[[Category:Guardian Children's Fiction Prize winners]]

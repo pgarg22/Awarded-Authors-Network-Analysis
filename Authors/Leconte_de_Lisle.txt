@@ -1,0 +1,860 @@
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Leconte de Lisle
+| image = Leconte Blanquer.JPG
+| imagesize = 200px
+| caption = 
+| birth_date = {{birth date|1818|10|22|df=y}}
+| birth_place = [[Saint-Paul, Réunion]], France
+| death_date = {{death date and age|1894|7|17|1818|10|22|df=y}}
+| death_place = Voisins (near [[Louveciennes]]), France
+| occupation = Poet, writer, translator
+| period = 1846–1894
+| subject = 
+| movement = [[Parnassian poets]]
+| notableworks = ''Poèmes antiques'', ''Poèmes barbares'', ''Poèmes tragiques'', ''A People's history of the French Revolution'' (''Histoire populaire de la révolution française''), ''A People's History of Christianity'' (''Histoire populaire de la christianisme'')
+| signature = 
+| birth_name = Charles Marie René Leconte de Lisle
+}}
+'''Charles Marie René Leconte de Lisle''' ({{IPA-fr|ʃaʁl maʁi ʁəne ləkɔ̃t də lil|lang}}; 22 October 1818 – 17 July 1894) was a French poet of the [[Parnassian poets|Parnassian]] movement.{{sfn|Symons|1911}} He is traditionally known by his surname only, Leconte de Lisle''.
+
+==Biography==
+Leconte de Lisle was born on the French overseas island of La [[Réunion]], in the Indian Ocean. He spent his childhood there and later in [[Brittany]]. Among his friends in those years was the musician [[Charles Bénézit]].<ref>Christie McDonald, Susan Rubin Suleiman: ''French Global: A New Approach to Literary History''(2011), p. 123: "Even Leconte de Lisle, who travelled back and forth between Brittany and Reunion Island throughout his youth and knew firsthand about ..."</ref> His father, an army surgeon who brought Leconte up with great severity, sent him to travel in the [[East Indies]] intending to prepare him for a business career. However, after returning from this journey, the young man preferred to complete his education in Rennes, Brittany, specializing in Greek, Italian and history.{{sfn|Symons|1911}} In 1845 he settled definitively in Paris.<ref>Jean Mistler Speech at the Bibliothèque nationale (1977)</ref>
+
+He was involved in the [[French Revolution of 1848]] which ended with the overthrow of the Orleans King Louis-Philppe of France, but took no further part in politics after the [[French Second Republic|Second Republic]] was declared.
+
+His first volume, ''La Vénus de Milo'', attracted to him a number of friends many of whom were passionately devoted to classical literature.{{sfn|Symons|1911}} However, as a writer he is most famous for his three collections of poetry: ''Poèmes antiques'' (1852), ''Poèmes barbares'' (1862), ''Poèmes tragiques'' (1884). He is also known for his translations of Ancient Greek tragedians and poets, such as Aeschylus, Sophocles, Euripides and Horace.<ref group="n">Homère, les tragiques grecs (Eschyle, Sophocle, Euripide), Hésiode, Théocrite, Biôn, Moskhos, Tyrtée, Horace, etc.</ref>
+
+Leconte de Lisle played a leading role in the [[Parnassian poets|Parnassian]] poetic movement (1866) and shared many of the values of other poets of this generation, bridging the Romantic and Symbolist periods.
+
+Although Leconte de Lisle was a fervent Republican, during the reign of Napoleon III he accepted the pensions and decorations offered to him by the Emperor. This was held against him after the fall of the Second Empire and its replacement by the Third Republic, in 1871.
+
+However, Leconte de Lisle redeemed himself with the new government by writing two democratically-oriented books entitled ''A People's History of the French Revolution'' and ''A People's History of Christianity'', respectively. These works earned him a post as Assistant Librarian at the [[Luxembourg Palace]] in 1873; in 1886 he was elected to the French Academy, in succession to [[Victor Hugo]].{{sfn|Symons|1911}}
+
+==Personal life==
+Leconte de Lisle married Anna Adélaïde Perray (March 29, 1833 - September 8, 1916), daughter of Jacques Perray and Amélie Leconte, in Paris on September 10, 1857; they had no children.
+
+Leconte de Lisle died on 17 July 1894 at Voisins in the township of Louveciennes, to the west of Paris.
+
+==Works==
+As well as poetry, Leconte de Lisle produced a number of theatrical plays, lyrical works, translations, and historical works. His works are shown below, in chronological order.
+
+{| class="wikitable sortable"
+|-
+!
+! scope="col" | Type<br />
+! scope="col" | Title<br />
+! scope="col" | year<br />
+! scope="col" class="unsortable" |Comments, editions, etc.
+
+|-
+
+|1
+|
+Poetry
+||
+''Poèmes antiques''	
+||
+1852
+||
+[1] Marc Ducloux, 1852. Rééditions : [[Alphonse Lemerre|Lemerre]], [2] 1874, [3] 1881, [4] 1886. Ed. de référence : [5] 1891.
+||
+
+|-
+
+|2
+|
+Poetry
+||
+''Poèmes et Poésies''	
+||
+1855
+||
+[1] Dentu, 1855. Réédition : [2] Taride, 1857.
+||
+
+|-
+
+|3
+|
+Poetry
+||
+''Le Chemin de la Croix'' ou ''La Passion''	
+||
+1856
+||
+[1] Chez les Auteurs, 1856. Rééditions [2] 1857, [3] 1858.<br />
+||
+
+|-
+
+|4
+|
+Poetry
+||
+''Poèsies Complètes : Poèmes antiques - Poèmes et Poèsies - Poèsies nouvelles''	
+||
+1858
+||
+[1] with decoration by Louis Duveau, [[Auguste Poulet-Malassis|Poulet-Malassis]] et Eugène de Broise, 1858.
+||
+
+|-
+
+|5
+|
+Poetry
+||
+''Poèmes barbares''	
+||
+1862
+||
+[1] (sous le titre ''Poèsies Barbares''), [[Auguste Poulet-Malassis|Poulet-Malassis]], 1862.<br />Rééditions : [[Alphonse Lemerre|Lemerre]] (sous le titre définitif ''Poèmes barbares'', et incorporant ''Le Soir d'une Bataille'', 1871) : [2] 1872, [3] 1878, [4] 1881 ou 1882, [5] Ed. de référence, 1889.
+||
+
+|-
+
+|6
+|
+Poetry
+||
+''Le Soir d'une Bataille''	
+||
+1871
+||
+[1] [[Alphonse Lemerre|Lemerre]], 1871.
+||
+
+|-
+
+|7
+|
+Poetry
+||
+''Le Sacre de Paris''	
+||
+1871
+||
+[1] [[Alphonse Lemerre|Lemerre]], 1871.
+||
+
+|-
+
+|8
+|
+Poetry
+||
+''Poèmes tragiques''	
+||
+1884
+||
+[1] [[Alphonse Lemerre|Lemerre]], 1884. Ce recueil incorpore : ''Le Sacre de Paris'', 1871 ; ''Les Érinnyes'', 1873. Rééditions : [2] 1886. Ed. de référence : [3] 1895.
+||
+
+|-
+
+|9
+|
+Poetry
+||
+''Derniers poèmes''	
+||
+1895
+||
+Published by [[José-Maria de Heredia]] and Vicomte de Guerne. This collection includes: ''L'Apollonide'' ; ''La Passion'' ; les préfaces des ''Poèmes antiques'', 1852 et de ''Poèmes et Poèsies'', 1855 ; ''Les Poètes contemporains'', 1864 et ''Charles Baudelaire'', 1861. [1] [[Alphonse Lemerre|Lemerre]], 1895. Réédition : [2] 1899, and, ''Soleils ! Poussière d'or''.
+||
+
+|-
+
+|10
+|
+Poetry
+||
+''Premières Poèsies et lettres intimes''	
+||
+1902
+||
+Posthumous publication : [1] Éditions Fasquelle|Fasquelle, 1902.
+||
+
+|-
+
+|11
+|
+Poetry
+||
+''Les États du Diable''	
+||
+1895
+||
+Publication posthume : ne subsiste de cette œuvre qu'un fragment qui figure dans les ''Derniers poèmes'', 1895, sous le titre ''Cozza et Borgia''.
+||
+
+|-
+
+|12
+|
+Theatre
+||
+''Hélène''	
+||
+1852
+||
+Leconte de Lisle included ''Hélène'' in ''Poèmes antiques'' from the first edition in 1852. [[Ernest Chausson]] extracted a lyrical theme from it in  (1885)
+||
+
+|-
+
+|13
+|
+Theatre
+||
+''[[Les Érinnyes]]''
+||
+1873
+||
+Tragedia antica,  M. [[Jules Massenet|Massenet]]<br />Première partie - ''Klytaimnestra'' ; - ''Orestès''.<br />
+[1] [[Alphonse Lemerre]], 1873. Rééditions : [2] 1876, [3] 1889..
+||
+
+|-
+
+|14
+|
+Theatre
+||
+''L’Apollonide''
+||
+1888
+||
+Lyrical drama. Music from Franz Servais.<br /> 
+[1] [[Alphonse Lemerre|Lemerre]]. 
+||
+
+|-
+
+|15
+|
+Theatre
+||
+''Frédégonde''	
+||
+1895
+||
+Pièce de Theatre mentionnée par Fernand Calmettes
+||
+
+|-
+
+|16
+|
+Translation
+||
+Théocrite, ''Idylles et Epigrammes'' ; ''Odes anacréontiques''	
+||
+1861
+||
+New translation by Leconte de Lisle,<br />[[Auguste Poulet-Malassis|Poulet-Malassis]] et Eugène de Broise, 
+||
+
+|-
+
+|17
+|
+Translation
+||
+Homère, ''Iliade''	
+||
+1866
+||
+[[Alphonse Lemerre|Lemerre]], 1866. Rééditions : [2] - 1874, [3] - 1882, [4] - 1884.
+||
+
+|-
+
+|18
+|
+Translation
+||
+Homère, ''Odyssée''	
+||
+1868
+||
+[[Alphonse Lemerre|Lemerre]],
+||
+
+|-
+
+|19
+|
+Translation
+||
+Hésiode, Hymnes orphiques, Théocrite, Biôn, Moskhos, Tyrtée, Odes anacréontiques
+||
+1869
+||
+[[Alphonse Lemerre|Lemerre]]<br />translation of  Théocrite 1861.
+||
+
+|-
+
+|20
+|
+Translation
+||
+Eschyle	
+||
+1872
+||
+[[Alphonse Lemerre|Lemerre]]
+||
+
+|-
+
+|21
+|
+Translation
+||
+Horace, ''Œuvres''	
+||
+1873
+||
+[[Alphonse Lemerre|Lemerre]]
+||
+
+|-
+
+|22
+|
+Translation
+||
+Sophocle	
+||
+1877
+||
+[[Alphonse Lemerre|Lemerre]]
+||
+
+|-
+
+|23
+|
+Translation
+||
+Euripide	
+||
+1884
+||
+[[Alphonse Lemerre|Lemerre]]
+||
+
+|-
+
+|24
+|
+Manifeste
+||
+Préface des ''Poèmes antiques''	
+||
+1852
+||
+Marc Ducloux ; ''Derniers poèmes'', 1895
+||
+
+|-
+
+|25
+|
+Manifeste
+||
+Préface des ''Poèmes et Poèsies''	
+||
+1855
+||
+Dentu ; ''Derniers poèmes'', 1895.
+||
+
+|-
+
+|26
+|
+Manifeste
+||
+Préface des ''Idylles de Théocrite et Odes anacréontiques''
+||
+1861
+||
+[[Auguste Poulet-Malassis|Poulet-Malassis]] et Eugène de Broise<br />Thème : translation
+||
+
+|-
+
+|27
+|
+Manifeste
+||
+Avant-propos de l'étude sur les ''Poètes contemporains''
+||
+1864
+||
+Le Nain Jaune
+||
+
+|-
+
+|28
+|
+Manifeste
+||
+Avertissement de la Translation de l’''Iliade'' d’Homère.
+||
+1867
+||
+[[Alphonse Lemerre|Lemerre]]<br />
+Theme : translation.
+||
+
+|-
+
+|29
+|
+{{Nobr|Récit en prose}}
+||
+''Mon premier amour en prose''
+||
+1840
+||
+Published in''La Variété'', December 1840.
+||
+
+|-
+
+|30
+|
+{{Nobr|Récit en prose}}
+||
+''Une Peau de Tigre''	
+||
+1841 
+||
+Published in ''La Variété'', March 1841.
+||
+
+|-
+
+|31
+|
+{{Nobr|Récit en prose}}
+||
+''Le Songe d’Hermann''
+||
+1846
+||
+Published in ''La Démocratie pacifique''.
+||
+
+|-
+
+|32
+|
+{{Nobr|Récit en prose}}
+||
+''La Mélodie incarnée''
+||
+1846
+||
+Published in ''La Démocratie pacifique''.
+||
+
+|-
+
+|33
+|
+{{Nobr|Récit en prose}}
+||
+''Le Prince Ménalcas'',
+||
+1846
+||
+Published in ''La Démocratie pacifique''.
+||
+
+|-
+
+|34
+|
+{{Nobr|Récit en prose}}
+||
+''Sacatove'',
+||
+1846
+||
+Published in ''La Démocratie pacifique''.
+||
+
+|-
+
+|35
+|
+{{Nobr|Récit en prose}}
+||
+''Dianora''
+||
+1847
+||
+Published in ''La Démocratie pacifique''.
+||
+
+|-
+
+|36
+|
+{{Nobr|Récit en prose}}
+||
+''Marcie''
+||
+1847
+||
+Published in ''La Démocratie pacifique''.
+||
+
+|-
+
+|37
+|
+{{Nobr|Récit en prose}}
+||
+''La Rivière des Songes''
+||
+1847
+||
+Published in ''La Démocratie pacifique''.
+||
+
+|-
+
+|38
+|
+{{Nobr|Récit en prose}}
+||
+''La Princesse Yaso’da''
+||
+1847
+||
+Published in ''La Démocratie pacifique''.
+||
+
+|-
+
+|39
+|
+{{Nobr|Récit en prose}}
+||
+''Phalya-Mani''
+||
+1876
+||
+Published in ''La République des Lettres''.
+||
+
+|-
+
+|40
+|
+Historical book
+||
+''Histoires des guerres sociales''	
+||
+||
+Unpublished
+||
+
+|-
+
+|41
+|
+Historical book
+||
+''L'Inde française''	
+||
+1858
+||Publié dans ''Le Présent'', t., 1858. Œuvre mise au jour par Edgard Pich ; Rééditions : [2] tome des Œuvres de l'édition E. Pich, 388 ; [3] Grand Océan, coll. Les Introuvables de l'Océan Indien, 1999.
+||
+
+|-
+
+|42
+|
+Historical book
+||
+''Catéchisme populaire républicain''	
+||
+1870; 2013
+||
+Lemerre. Éditions Alliage.
+||
+
+|-
+
+|43
+|
+Historical book
+||
+''A People's History of Christianity'' (Histoire Populaire du Christianisme) 	
+||
+1871, 2013
+||
+Édition Lemerre. Editions Alliage
+||
+
+|-
+
+|44
+|
+Historical book
+||
+''A People's History of the French Revolution'' (Histoire Populaire de la Révolution française)	
+||
+1871; 2013
+||
+Édition Lemerre. Editions Alliage
+||
+
+|-
+
+|45
+|
+Historical book
+||
+''A People's History of the Middle Ages'' (Histoire Populaire du Moyen-Âge)
+||
+1876
+||
+Écrit en collaboration avec Jean Marras et Pierre Gosset. Édition Lemerre.<br />Paru sans mentionner Jean Marras. Pierre Gosset n'est mentionné que sur la couverture des exemplaires brochés.
+||
+
+|-
+
+|46
+|
+Notice
+||
+''[[Charles Baudelaire]], [[Les Fleurs du mal]], édition, Paris, [[Auguste Poulet-Malassis|Poulet-Malassis]]''	
+||
+1861
+||
+Revue Européenne, décembre 1861. Cet article est intégré dans le recueil posthume ''Derniers poèmes'', 1895, en dernière place des ''Poètes contemporains''.
+||
+
+|-
+
+|47
+|
+Notice
+||
+''Les Poètes contemporains'' : ''[[Pierre-Jean de Béranger|Béranger]]'', ''[[Alphonse de Lamartine|Lamartine]]'', ''[[Victor Hugo]]'', ''[[Alfred de Vigny]]'', ''[[Auguste Barbier]]''
+||
+1864
+||
+Publié dans ''Le Nain jaune'' : ''Avant-propos'', 3/08/1864 ;- ''[[Pierre-Jean de Béranger|Béranger]]'', 13/08/1864 ;- ''[[Alphonse de Lamartine|Lamartine]]'', 20/08/1864 ;- ''[[Victor Hugo]]'', 31/08/1864 ; - ''[[Alfred de Vigny]]'', 10/09/1864 ;- ''[[Auguste Barbier]]'', 01/10/1864.<br />
+Les notices sont intégrées dans le recueil posthume ''Derniers Poèmes'', 1895.
+||
+
+|-
+
+|48
+|
+Notice
+||
+Notice sur [[Victor Hugo]]
+||
+1887
+||
+Paru dans l'''Anthologie des Poètes français du XIXe, [[Alphonse Lemerre|Lemerre]], 4 vol., 1887–89. La notice se trouve dans le vol.
+||
+
+|-
+
+|49
+|
+Notice
+||
+Notice sur [[Auguste Barbier]]
+||
+1887
+||
+Paru dans l'''Anthologie des Poètes français du XIXe'', [[Alphonse Lemerre|Lemerre]], 4 vol., 1887–89. La notice se trouve dans le vol.
+||
+
+|-
+
+|50
+|
+Notice
+||
+Notice sur Edmond Haraucourt
+||
+1889
+||
+Paru dans l'''Anthologie des Poètes français du XIXe'', [[Alphonse Lemerre|Lemerre]], 4 vol., 1887-89. La notice se trouve dans le vol.
+||
+
+|-
+
+|51
+|
+Speech
+||
+Burial speech for Victor Hugo.
+||
+1885
+||
+Speech, "In the Name of the Poets", given at the burial of [[Victor Hugo]] in the [[Panthéon]], le 1
+||
+
+|-
+
+|52
+|
+Speech
+||
+Speech given at his réception by the French Academy
+||
+1887
+||
+''Reception speech at the French Academy, Thursday 31'', Institut de France, 1887.
+||
+
+|-
+
+|53
+|
+Préface
+||
+Léon Vanier, Rimes de mai : ''Les Églantines''
+||
+1891
+||
+
+||
+
+|-
+
+|54
+|
+Préface
+||
+Georges Bois, ''Monsieur le Vicaire''
+||
+1891
+||
+Dentu
+||
+
+|-
+
+|55
+|
+Préface
+||
+[[Robert de Montesquiou]], ''Les Chauves-Souris''
+||
+1893
+||
+G. Richard
+||
+
+|-
+
+|56
+|
+Préface
+||
+Jean Dornis, ''La Voie douloureuse'', roman
+||
+1894
+||
+Calmann Lévy
+||
+
+|-
+
+|57
+|
+Préface
+||
+[[Judith Gautier]], ''Iskender, histoire persane''
+||
+1894
+||
+Paris, Armand Colin, bibliothèque de romans historiques. 
+||
+
+|-
+
+|58
+|
+Pétition
+||
+Soutien à la République et à l'abolition de l'esclavage
+||
+1848
+||
+
+|-
+
+|59
+|
+Pétition
+||
+''Artists against the Eiffel Tower''
+||
+1887
+||
+
+|-
+|}
+
+==References==
+{{Reflist}}
+{{Reflist|group=n}}
+
+==Bibliography==
+*[[J. Dornis]]: ''Leconte de Lisle intime'' (1895)
+*[[F. Calmette]]: ''Un Demi siècle littéraire, Leconte de Lisle et ses amis'' (1902)
+*[[Paul Charles Joseph Bourget|Paul Bourget]]: ''Nouveaux essais de psychologie contemporaine'' (1885)
+*[[Ferdinand Brunetière]]: ''L'Évolution de la poésie lyrique en France au XIX" siècle'' (1894)
+*[[Maurice Spronck]]: ''Les Artistes littéraires'' (1889)
+*[[Jules Lemaître]]: ''Les Contemporains'' (2nd series, 1886)
+*F. Brunetière: ''Nouveaux essais sur la littérature contemporaine'' (1895)
+*[http://poesies.net/lecontedelisle.html Complete poetry work of Leconte de Lisle] {{in lang|fr}}
+*{{EB1911|wstitle=Leconte de Lisle, Charles Marie René|volume=16|page=356|first=Arthur|last=Symons|author-link=Arthur Symons}} This includes a lengthy critical review, focusing on Leconte de Lisle's place in the Parnassian movement.
+
+==External links==
+*{{Commons category-inline|Charles Marie René Leconte de Lisle}}
+*{{Wikisourcelang-inline|fr|Auteur:Leconte de Lisle}}
+* {{Gutenberg author |id=Leconte+de+Lisle+(1818-1894) | name=Leconte de Lisle}}
+* {{Internet Archive author |sname=Leconte de Lisle}}
+* {{Librivox author |id=5060}}
+
+{{Académie française Seat 14}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Leconte De Lisle, Charles-Marie-Rene}}
+[[Category:1818 births]]
+[[Category:1894 deaths]]
+[[Category:19th-century French male writers]]
+[[Category:19th-century poets]]
+[[Category:Burials at Montparnasse Cemetery]]
+[[Category:French librarians]]
+[[Category:French male poets]]
+[[Category:French poets]]
+[[Category:Members of the Académie Française]]
+[[Category:People from Réunion]]
+[[Category:People of French descent from Réunion]]
+[[Category:Prince des poètes]]
+[[Category:Translators of Ancient Greek texts]]
+[[Category:University of Rennes alumni]]
+[[Category:Writers from Réunion]]
+[[Category:19th-century translators]]
+[[Category:Translators of Homer]]

@@ -1,0 +1,90 @@
+{{for multi|the English cricketer|Barbara Wood (cricketer)|the American politician|Barbara Wood (politician)}}
+{{no footnotes|date=February 2013}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| image       = 
+| name        = Barbara Wood
+| caption     = 
+| pseudonym   = Barbara Wood,<br>Kathryn Harvey
+| birth_name  = 
+| birth_date  = {{Birth date and age|1947|1|30|mf=y}}
+| birth_place = [[Warrington]] ([[Lancashire, England]])
+| nationality = American
+| occupation  = Novelist
+| period      = 1978–present
+| genre       = [[Romance novel|Romance]], [[Historical]]
+| movement    = 
+| notableworks = 
+| influences  = 
+| influenced  = 
+| website     = 
+}}
+'''Barbara Wood''' (born January 30, 1947, in [[Warrington]] ([[Lancashire, England]]) is an American writer of [[historical romance|historical]] [[romance novels]].  Her family moved to [[California]], where she grew up. In 2002, she received the [[Corine Literature Prize]].
+
+==Bibliography==
+
+===As Barbara Wood===
+*''Hounds and Jackals'',	1978
+*''The Magdalene Scrolls'',	1978
+*''Curse this House'',	1978
+*''Yesterday's Child'',	1979
+*''Night Trains'',	1979
+*''Childsong'',	1981
+*''The Watch Gods'',	1981
+*''Domina'',	1983
+*''Vital Signs'',	1985
+*''Soul Flame'',	1987
+*''Green City in the Sun'', 	1988
+*''The Gifts of Peace'',	1990
+*''The Dreaming'',	1991
+*''Virgins of Paradise'',	1993
+*''The Prophetess'',	1996
+*''Perfect Harmony'',	1998
+*''Sacred Ground'',	2001
+*''The Blessing Stone'',	2003
+*''Star of Babylon'',	2005
+*''Woman of a Thousand Secrets'', 2008
+*''This Golden Land'', 2010
+*''The Divining'', 2012
+*''The Serpent and the Staff'', 2013
+*''Rainbows on the Moon'', 2016
+*''Land of the Afternoon Sun'', 2016
+
+===As Kathryn Harvey===
+*''Butterfly'', 1989
+*''Stars'', 1993 ((2010) {{ISBN|978-0595347797}} {{LCCN|2012006387}})
+*''Private Entrance'', 2005
+
+== Filmography ==
+German TV films
+*''Barbara Wood: Herzflimmern'' (1998, based on ''Vital Signs'')
+*''Barbara Wood: Traumzeit'' (2001, based on ''The Dreaming'')
+*''Barbara Wood: Spiel des Schicksals'' (2002, based on ''Hounds and Jackals'')
+*''Barbara Wood: Lockruf der Vergangenheit'' (2004, based on ''Curse this House'')
+*''Barbara Wood: Das Haus der Harmonie'' (2005, based on ''Perfect Harmony'')
+*''Barbara Wood: Sturmjahre'' (2007, based on ''Domina'')
+*''Barbara Wood: Karibisches Geheimnis'' (2009, based on ''Private Entrance'')
+
+==References==
+*[http://www.fantasticfiction.co.uk/w/barbara-wood Fantastic fiction (bibliography)]
+
+==External links==
+*[https://web.archive.org/web/20080509090016/http://www.barbarawood.com/ Barbara Wood's personal site]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wood, Barbara}}
+[[Category:1947 births]]
+[[Category:English emigrants to the United States]]
+[[Category:American romantic fiction writers]]
+[[Category:Living people]]
+[[Category:American women novelists]]
+[[Category:Women romantic fiction writers]]
+[[Category:Writers from Lancashire]]
+[[Category:Writers from California]]
+[[Category:20th-century American novelists]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American novelists]]
+[[Category:21st-century American women writers]]
+
+
+{{US-novelist-1940s-stub}}

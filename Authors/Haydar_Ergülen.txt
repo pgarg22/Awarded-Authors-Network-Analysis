@@ -1,0 +1,51 @@
+{{Use dmy dates|date=September 2013}}
+{{Infobox person
+| name          = Haydar Ergülen
+| image         = Haydar Ergulen 8203.jpg
+| alt           = <!-- descriptive text for use by speech synthesis (text-to-speech) software -->
+| caption       = Haydar Ergülen, 2018
+| birth_name    = <!-- only use if different from name -->
+| birth_date         = {{birth date and age|df=yes|1956|11|14}}
+| birth_place   = [[Eskişehir]], [[Turkey]]
+| death_date    = <!-- {{Death date and age|df=yes|YYYY|MM|DD|YYYY|MM|DD}} (death date then birth date)  -->
+| death_place   =
+| nationality   = Turkish
+| other_names   = 
+| occupation    = Poet
+| years_active  = 
+| known_for     = 
+| notable_works = 
+}}
+'''Haydar Ergülen''' is a Turkish poet.<ref>{{cite journal |last1=Erol |first1=Ertan |last2=Özer |first2=Halis Ahmet |year=2013 |title=HAYDAR ERGÜLEN'İN "GÖZLÜKLÜ ŞİİR"İNİ TAHLİL DENEMESİ |trans-title=AN ANALYSIS OF GOZLUKLU ŞIIR BY HAYDAR ERGULEN |journal=Uluslararası Sosyal Araştırmalar Dergisi [The Journal of International Social Research] |volume=6 |issue=26 |pages=199–209 |url=https://www.researchgate.net/publication/281494109}}</ref> Born on 14 October 1956, in [[Eskişehir]], [[Turkey]], he graduated from the Sociology Department at Orta Doğu Teknik Üniversitesi ([[Middle East Technical University]]) in [[Ankara]].
+
+After graduation from the university, he worked as an advertising copywriter. His first poetry book was published in 1981. As of 2020, his 17 poetry, 28 essay books have been published. Among his published poetry books are: ''Sokak Prensesi'' (''Street Princess''/1991), ''Eskiden Terzi'' (''Once a Tailor''), ''40 Şiir ve Bir'' (''40 Poems and One''/1997), ''Karton Valiz'' (''Cardboard Suitcase''/1999).
+
+With ''40 Poems and One'', Ergülen won the 1997 "Behçet Necatigil Poetry Award"  <ref>{{cite web |url=http://behcetnecatigil.com/en/won-awards.html/ |title=Poets who have won the Necatigil Poetry Award and their works |website=Behçet Necatigil Poetry Award site|access-date=2020-07-03}}</ref> as well as the "Orhon Murat Arıburnu Poetry Award". His "''Once a Tailor''" brought him the 1996 "Halil Kocagöz Poetry Award".
+
+For some of his books, he used the pen name "Hafız".
+
+==Published books in foreign languages==
+Haydar Ergülen's poems have been translated to various languages and published as books, in addition inclusion in various other publications like anthologies etc.
+
+His published books in foreign countries are:  
+* France:''Carnet Intime''<ref>{{cite web |url=https://editmanar.com/book-author/ergulen-haydar/ |title=Carnet intime |website=AL MANAR Editions page for the book Carnet Intime |access-date=2021-01-04}}</ref> (AL MANAR Editions, 2012) and ''Grenade ou Nar'' <ref>{{cite web |url=https://www.editions-harmattan.fr/index.asp?navig=auteurs&obj=artiste&no=28508/ |title=Grenade ou Nar |website=L’Harmattan page for the book Grenade ou Nar |access-date=2021-01-04}}</ref> ([[L’Harmattan]], 2015). 
+* Germany:''Die Ecken deiner Stille'' <ref>{{cite web |url=https://elifverlag.de/produkt/die-ecken-deiner-stimme/ |title=Die Ecken deiner Stille |website=Elif Verlag website page for Die Ecken deiner Stille |access-date=2021-01-04}}</ref>(Elif Verlag, 2019)
+* United Kingdom:''Pomegranate Garden''<ref>{{cite web |url=https://www.parthianbooks.com/blogs/news/tagged/haydar-ergulen |title=Pomegranate Garden |website=Parthian Books website page for Pomegranate Garden |access-date=2021-01-04}}</ref> (Parthian Books, 2019)
+* Italy: ''La Casa Nella Melegrana'' <ref>{{cite web |url=https://www.valigierosse.it/prodotto/la-casa-nella-melagrana/ |title=La Casa Nella Melegrana |website=Valigierosse website page for Casa Nella Melegrana |access-date=2021-01-04}}</ref> (Valigierosse, 2020).
+
+==Other related activities==
+Haydar Ergülen is the director of the International Eskişehir Poetry Festival, International Nazım Hikmet Poetry Days, and İzmir International literature Festival. He gives lectures at universities over creative writing, poetry, Turkish Literature and philosophy. He organizes workshops over creative writing and poetry. He is the member of board PEN International in Turkey.
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Ergulen, Haydar}}
+[[Category:1956 births]]
+[[Category:Middle East Technical University alumni]]
+[[Category:Living people]]
+[[Category:20th-century Turkish poets]]
+[[Category:Turkish male poets]]
+[[Category:20th-century male writers]]
+[https://valigierosse.net/ valigie rosse]

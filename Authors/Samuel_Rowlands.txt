@@ -1,0 +1,51 @@
+{{Use dmy dates|date=October 2013}}
+{{Use British English|date=December 2019}}
+'''Samuel Rowlands''' (c. 1573–1630) was an English author of pamphlets in prose and verse which reflect the follies and humours of lower middle-class life in his day. He seems to have had no literary reputation at the time, but his work throws much light on the development of popular literature and social life in London,<ref name=EB1911>{{EB1911 |wstitle=Rowlands, Samuel |volume=23 |page=787 |inline=1}}</ref> where he spent his life. His contact with the middle and lower classes of society included working in 1600–1615 for William White, and then George Loftus, booksellers, who published Rowlands's pamphlets in this time.<ref>[https://www.usask.ca/english/turne_backe/rowlands_bio.html Selected English Renaissance Religious Writing – Samuel Rowlands] University of Saskatchewan</ref>
+
+==Selected sacred and secular poems==
+*''The Betraying of Christ'' (1598)
+*''The Letting of Humour's Blood in the Head-vaine'' (epigrams and satires) and ''A Mery Meetinge, or tis Mery when Knaves mete'' (1600) – the two latter being publicly burnt by order, but republished later under other names (''Humors Ordinarie'' and ''The Knave of Clubbes'')
+*''Greene's Ghost haunting Conie-Catchers'' (1602), which he pretended to have edited from [[Robert Greene (16th century)|Greene]]'s papers, but which is largely borrowed from his printed works
+*''Tis Merrie when Gossips meete'' (1602), a dialogue between a Widow, a Wile, a Maid and a Vintner
+*''{{not a typo|Looke to it; for Ile stabbe ye}}'' (1604), in which Death describes the tyrants, careless divines and other evil-doers whom he will destroy
+*''Hell's broke loose'' (1605), an account of [[John of Leyden]]. In the same year a ''Theatre of Divine Recreation'' (not extant), poems founded on the [[Old Testament]], and a collection of epigrams entitled ''Humor's Antique Faces''<ref>[https://archive.today/20120717005152/http://res.oxfordjournals.org/cgi/pdf_extract/os-XVIII/70/213 The Review of English Studies] Oxford Journals</ref>
+*''A Terrible Battle between ... Time and Death'' (1606)
+*''Democritus, or Doctor Merry-man his Medicines against Melancholy humors'', reprinted, with alterations, as ''Doctor Merrie-man, and Diogenes Lent home'' (1607), in which Athens is London
+*''The Famous History of Guy, Earl of Warwick'' (1607), a long romance in Rowlands's favorite six-lined stanza, and one of his hastiest, least successful efforts
+*''Humors Looking Glasse'' (1608)
+*(dubiously) ''Martin Mark-all, Beadle of Bridewell'' (1608 or 1610), a history of roguery containing much information about notable [[highwaymen]] (q.v. [[kings of gypsies]]) and the completest vocabulary of [[Thieves' cant|thieves' slang]] up to that time,<ref name=EB1911/> usually attributed to [[Samuel Rid]].<ref>{{Cite book |title=Gypsy Identities 1500-2000: From Egipcyans and Moon-men to the Ethnic Romany |url=https://archive.org/details/historygypsyiden00maya |url-access=limited |first=David |last=Mayall |publisher=Routledge |date=9 October 2003 |page=[https://archive.org/details/historygypsyiden00maya/page/n77 69]}}</ref><ref>{{Cite book |title=Elizabethan Rogues and Vagabonds |first=Frank |last=Aydelotte |page=unnumbered |edition=5th |year=2013}}</ref>
+
+==Later works==
+Of his later works may be mentioned ''Sir Thomas Overbury; or the Poysoned Knights Complaint, and The Melancholic Knight'' (1615), which suggests a hearing of [[Beaumont and Fletcher]]'s ''Knight of the Burning Pestle''. The last of his humorous studies, ''Good Newes and Bad Newes'', appeared in 1622, and in 1628 he published a pious volume of prose and verse, entitled ''Heaven's Glory, Seeke it: Earts vanitie, Flye it: Hells Horror, Fere it''.,<ref name=EB1911/>
+
+Nothing is known of him after that. [[Edmund Gosse]], introducing Rowlands's complete works, edited in 1872–1880 for the Hunterian Club in Glasgow by Sidney John Hervon Herrtage,<ref>[http://explore.bl.uk/primo_library/libweb/action/display.do?tabs=moreTab&ct=display&fn=search&doc=BLL01001435950&indx=9&recIds=BLL01001435950&recIdxs=8&elementId=8&renderMode=poppedOut&displayMode=full&frbrVersion=3&frbg=&&dscnt=0&scp.scps=scope%3A%28BLCONTENT%29&vl(2084770704UI0)=any&tb=t&vid=BLVU1&mode=Basic&srt=rank&tab=local_tab&dum=true&vl(freeText0)=Samuel%20Rowlands&dstmp=1549018075194 Complete Works. Retrieved 1 February 2019.]</ref> sums him up as a small, non-political [[Daniel Defoe]], a pamphleteer in verse whose talents were never exercised except when their possessor was pressed for means, and a poet of considerable talent, yet without a spark or glimmer of genius.<ref name=EB1911/>
+
+Gosse's notice is reprinted in his ''Seventeenth Century Studies'' (1883). A poem by Rowlands, ''The Bride'' (1617), was reprinted at Boston, USA, in 1905 by A. C. Potter.,<ref name=EB1911/>
+
+==See also==
+{{portal|Poetry}}
+*[[National poetry#Europe|National poetry]]
+*[[English poetry]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Wikisource author}}
+*{{Gutenberg author |id=Rowlands,+Samuel | name=Samuel Rowlands}}
+*{{Internet Archive author |sname=Samuel Rowlands}}
+*{{Librivox author |id=1606}}
+*[https://archive.org/details/completeworksofs01rowl ''The complete works of Samuel Rowlands''] at [[Internet Archive]]
+*[https://archive.org/details/knaveclubbes00rowlgoog ''The knave of clubbes''] at [[Internet Archive]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rowlands, Samuel}}
+[[Category:1570s births]]
+[[Category:1630 deaths]]
+[[Category:16th-century English poets]]
+[[Category:English male poets]]
+[[Category:English non-fiction writers]]
+[[Category:Writers from London]]
+[[Category:English pamphleteers]]
+[[Category:17th-century English poets]]

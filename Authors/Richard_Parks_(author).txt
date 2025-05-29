@@ -1,0 +1,60 @@
+{{about|the speculative fiction author|the rugby player|Richard Parks}}
+{{Infobox writer
+|name         = Richard Parks
+|image        = 
+|caption      = 
+|pseudonym    = W. J. Everett
+|birth_date   = {{birth date and age|1955|06|15}}
+|birth_place  = [[Newton, Mississippi]], USA
+|death_date   = 
+|death_place  = 
+|occupation   = Author
+|genre        = [[Fantasy]], [[science fiction]]
+|movement     = 
+|notableworks = 
+|debut_works  = 
+|influences   = 
+|influenced   = 
+|website      = {{url|https://richard-parks.com/}}
+}}
+'''Billy Richard Parks''' (born June 15, 1955)  is an American [[fantasy]], [[science fiction]] and [[horror fiction|horror]] writer. He writes under the names Richard Parks and W. J. Everett, aside from a few early works written as by B. Richard Parks and Rick Parks.<ref name="ISFDB">{{isfdb name|id=597|name=Richard Parks}}</ref>
+
+==Biography==
+Parks is a native of [[Mississippi]]; he was born in [[Newton, Mississippi|Newton]].<ref name="ISFDB"/> As an adult, prior to his literary career, he was "a chemist by trade, specializing in paint and polymer films."<ref name="RP">Parks, Richard. "Rick Parks" (autobiographical piece), in ''Amazing/Fantastic'' v. 28, no. 1, July 1981, pages 94-75.</ref> More recently he resided in [[Ridgeland, Mississippi]].<ref name="Hoover">[http://strangehorizons.com/non-fiction/articles/interview-richard-parks/ Hoover, K. Mark. "Interview: Richard Parks," in ''Strange Horizons'' #1, April 1, 2002.]</ref> He now lives in central [[New York (state)|New York]] with his wife and cats.<ref name="WS">{{cite web|url=https://richard-parks.com/about/ |title=About|date=9 September 2011|work=richard-parks.com|accessdate=10 January 2017}}</ref>
+
+==Works==
+Parks "started writing seriously about 1976,"<ref name="Hoover"/><ref name="RP"/> collecting thirty-five rejections before his first professional sale ("The Passing," published in ''[[Amazing Stories|Amazing/Fantastic]]'', v. 28, no. 1, July, 1981).<ref name="RP"/> His work since then has appeared in ''[[Asimov's Science Fiction]]'', ''[[Beneath Ceaseless Skies]]'', ''[[Fantasy Magazine]]'', ''[[Realms of Fantasy]]'', ''[[Tor.com]]'', ''[[Weird Tales]]'' and other periodicals, as well as various anthologies. Early in his career "[h]is most popular recurring character [was] Eli Mothersbaugh, a high-tech ghost hunter based in the sleepy—and oft haunted—imaginary town of Canemill, Mississippi."<ref name="Hoover"/> Many of his fantasies with contemporary settings also make use of Canemill, and its name has been adopted for Canemill Publishing, an imprint through which Parks has issued a number of his books. More recently he has found success with his historical fantasies featuring Yamada no Goji, a demon hunter of [[Heian period]] [[Japan]].
+
+==Reception==
+[[Parke Godwin]] called Parks's first collection, ''[[The Ogre's Wife|The Ogre's Wife: Fairy Tales For Grownups]]'' (2002), "one of the best SF/fantasy collections I've read in years" and wrote of its author that "[l]ike any fine writer [he] doesn't label easily, which makes him hell for lazy-minded pigeonholers, but his themes are consistent and clear. He uses fantasy to underscore reality: the nature of our humanity and the inescapability of what we are, the choices we make and the price we pay for each, right or wrong. ... [H]e can step imperceptibly from deadpan funny to deeply affecting truth with an utterly transparent style that has the reader racing down the page [and] has the rare ability to say profound things simply."<ref name="Godwin">Godwin, Parke. "THE OGRE'S WIFE: Ghosts, Gods, a Dragon, Assorted Legends and Things That Go Bump in the Heart: An Introduction." In ''The Ogre's Wife: Fairy Tales For Grownups'', Obscura Press, 2002.</ref>
+
+[[Charles de Lint]] of ''[[The Magazine of Fantasy & Science Fiction]]'' praised Parks' "remarkable storytelling" in a voice that is, "sometimes lyrical, sometimes hard-edged; sometimes in a voice that sounds as ancient as the first stories told around our early ancestors' campfires; sometimes in a voice so new that we have yet to hear it."<ref name="DeLintOgre">{{cite news|last1=deLint|first1=Charles|title=The Ogre's Wife and Other Fairy Tales for Grown-Ups|publisher=[[Fantasy & Science Fiction]]|date=August 2002|id={{ProQuest|219675409}}}}</ref>
+
+==Recognition==
+Parks's story "The Ogre's Wife" won the ''SF Age'' Reader's Poll for short story in 1995.<ref name="Hoover"/> His writings have also received nominations for the [[World Fantasy Award]] and the [[Mythopoeic Awards|Mythopoeic Award]];<ref name="WS"/> more specifically, his collection ''The Ogre's Wife: Fairy Tales For Grownups'' (2002),  described by one reviewer as an "absolute treasure of a collection,"<ref name="DeLintOgre"/> was nominated for the 2003 [[World Fantasy Award—Collection|World Fantasy Award for Best Collection]],<ref name="WFA">[http://www.worldfantasy.org/index.php/awards/nominees/ World Fantasy Convention - List of Nominees for the World Fantasy Award]</ref><ref name="WFAAN">{{cite web|url=http://www.sfadb.com/World_Fantasy_Awards_All_Nominees |title=World Fantasy Awards All Nominees|work=sfadb.com|accessdate=10 January 2017}}</ref> and his novella ''[[The Heavenly Fox]]'' (2011) was nominated for the 2012 [[Mythopoeic Awards#Mythopoeic Fantasy Award for Adult Literature|Mythopoeic Fantasy Award for Adult Literature]].<ref name="MAAN">{{cite web|url=http://www.sfadb.com/Mythopoeic_Awards_All_Nominees |title=Mythopoeic Awards All Nominees|work=sfadb.com|accessdate=10 January 2017}}</ref>
+
+==Bibliography==
+{{Main|Richard Parks bibliography}}
+
+==Notes==
+{{reflist}}
+
+==References==
+* Griffin, Jude, and McNeil, Kevin, "Author Spotlight: Richard Parks," in ''[[Lightspeed (magazine)|Lightspeed Magazine]]'' #36, May 2013
+
+{{Richard Parks}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Parks, Richard}}
+[[Category:1955 births]]
+[[Category:Living people]]
+[[Category:American fantasy writers]]
+[[Category:American science fiction writers]]
+[[Category:Novelists from Mississippi]]
+[[Category:21st-century American novelists]]
+[[Category:American male novelists]]
+[[Category:People from Newton, Mississippi]]
+[[Category:People from Ridgeland, Mississippi]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century pseudonymous writers]]

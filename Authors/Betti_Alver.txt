@@ -1,0 +1,40 @@
+{{short description|Estonian novelist and poet}}
+{{Use dmy dates|date=November 2020}}
+{{Infobox person
+| image       = File:Betti Alver.jpg
+| imagesize   = 
+| name         = Betti Alver
+| birth_date   = {{Birth date|1906|11|23|df=yes}}
+| birth_place  = [[Jõgeva]], [[Estonia]], [[Russian Empire]]
+| birthname    = Elisabet Alver
+| death_date   = {{Death date and age|1989|6|19|1906|11|23|df=yes}}
+| death_place  = [[Tartu]], [[Estonia]] 
+| othername   = Elisabet Talvik <br> Elisabet Lepik
+| occupation  = Poet
+| yearsactive = 1922–1989
+| spouse = [[Heiti Talvik]], Mart Lepik 
+}}
+'''Elisabet "Betti" Alver''' ({{OldStyleDate|23 November|1906|10 November}} in [[Jõgeva]] – 19 June 1989 in [[Tartu]]),<ref>{{cite web|url=https://books.google.com/books?id=2_JLL32RzrkC&pg=PA237&dq=betti+alver&as_brr=3#v=onepage&q=betti%20alver&f=false|title=Columbia dictionary of modern European literature By Jean Albert Bédé, William Benbow Edgerton|accessdate=30 November 2014}}</ref> was one of Estonia's most notable poets.  She was among the first generation to be educated in schools of an independent Estonia. She went to grammar school in [[Tartu]].<ref>{{cite web|url=http://elm.einst.ee/issue/23/soothsayer-mother-song-divine-hooligan-betti-alver/|title=Estonian Literary Magazine|accessdate=30 November 2014|archive-url=https://web.archive.org/web/20100911071329/http://elm.einst.ee/issue/23/soothsayer-mother-song-divine-hooligan-betti-alver/|archive-date=11 September 2010|url-status=dead}}</ref>
+
+[[File:Betti Alveri muuseum 2012.JPG|left|thumb|The Betti Alver Museum in Jõgeva]]
+== Writing ==
+She began as a prose writer. She became known for being a member of the ''[[Arbujad]]'' ("Soothsayers"), a small group of influential Estonian poets including [[Bernard Kangro]], [[Uku Masing]], [[Kersti Merilaas]], [[Mart Raud (writer)|Mart Raud]], [[August Sang]], [[Heiti Talvik]] and [[Paul Viiding]]. After the [[World War II|war]] her husband Heiti Talvik was imprisoned by the Soviets and died in Siberia.<ref>{{cite web|url=http://estlit.ee/elis/?cmd=writer&id=10495|title=Estonian Literature Information Centre|access-date=8 November 2021}}</ref> For two or three decades she was silent as a poet as protest of Soviet rule, but renewed activity in the 1960s. Of note in this second period is the 1966 collection ''Tähetund'' or "Starry Hour." She also wrote novels and did translation work.<ref>{{cite book | last=Cummins | first=W.M. | last2=Debeljak | first2=A. | last3=Haderlap | first3=M. | last4=Ihan | first4=A. | last5=Potokar | first5=J. | last6=Šalamun | first6=T. | title=Shifting Borders: East European Poetries of the Eighties | publisher=Fairleigh Dickinson University Press | series=Foreign Policy; 9 | year=1993 | isbn=978-0-8386-3497-4 | url=https://books.google.com/books?id=EVKUVb1QpmUC&pg=PA32| pages=32–33}}</ref> On the hundredth anniversary of her birth a museum was dedicated to her in [[Jõgeva]].<ref>{{cite web|url=http://www.jogevalv.ee/index.php?lang=eng&main_id=307,2681|title=Jõgeva site|access-date=30 November 2014|archive-url=https://web.archive.org/web/20070609120442/http://www.jogevalv.ee/index.php?main_id=307,2681&lang=eng|archive-date=9 June 2007|url-status=dead}}</ref>
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Alver, Betti}}
+[[Category:1906 births]]
+[[Category:1989 deaths]]
+[[Category:People from Jõgeva]]
+[[Category:People from the Governorate of Livonia]]
+[[Category:20th-century Estonian novelists]]
+[[Category:20th-century Estonian poets]]
+[[Category:Estonian women novelists]]
+[[Category:Estonian women poets]]
+[[Category:20th-century women writers]]
+[[Category:20th-century translators]]
+[[Category:People's Writers of the Estonian SSR]]
+[[Category:Burials at Raadi cemetery]]

@@ -1,0 +1,82 @@
+{{Use dmy dates|date=June 2014}}
+{{Expand Turkish|date=October 2018}}
+{{Infobox writer
+| name          = Cemâl Süreya
+| image         = Cemal Sureya.jpg
+| alt           = 
+| caption       = 
+| birth_name    = Cemalettin Seber
+| birth_date    = 1931
+| birth_place   = [[Erzincan]], [[Turkey]]
+| death_date    = {{death date and age|1990|1|9|1931}}
+| death_place   = [[Istanbul]], Turkey
+| nationality   = Turkish         | occupation   = Poet, writer 
+| years_active  = 1953–1990
+| known_for     = 
+| alma_mater    = [[Faculty of Political Science, Ankara University]]
+| spouse        = {{plainlist|
+* {{marriage | Seniha Seber| 1954 | 1962}}
+* {{marriage | Zühal Tekkanat| 1967 | 1975}}
+* {{marriage | Güngör Demiray| 1975 | 1975}}
+* {{marriage | Birsen Sağnak | 1980 | 1990}}
+ }}
+| children      = 2
+| partner       = [[Tomris Uyar]] (1964–1967)
+| notable_works = 
+}}
+{{History of Turkish literature}}
+'''Cemâl Süreya''' (born '''Cemâlettin Seber'''; 1931 – 9 January 1990) was a Turkish poet and writer of [[Kurds|Kurdish]]–[[Zazas|Zaza]] descent.<ref>{{cite news |title=Eşi anlatıyor; Cemal Süreya nasıl öldü, birlikte olduğu kadınlara şiddet uyguladığı doğru mu? |url=https://t24.com.tr/haber/esi-anlatiyor-cemal-sureya-nasil-oldu-birlikte-oldugu-kadinlara-siddet-uyguladigi-dogru-mu,282585 |accessdate=13 March 2020 |work=T24 |language=tr}}</ref><ref>{{cite news |title=Cemal Süreya: Şairin hayatına ve şiirine dahil edilmeyenler |url=https://t24.com.tr/haber/cemal-sureya-sairin-hayatina-ve-siirine-dahil-edilmeyenler,221298 |accessdate=8 May 2020 |agency=T24 |date=9 January 2013 |language=tr}}</ref>
+
+==Biography==
+Süreya and his family were deported to [[Bilecik]], a city in the [[Marmara Region]] of [[Turkey]] after the [[Dersim Rebellion]] (Tunceli) in 1938.
+
+He graduated from the Political Sciences Faculty of [[Ankara University]]. He was the editor-in-chief of the ''[[Papirüs]]'' [[literary magazine]]. Cemal Süreya is a notable member of the [[Turkish literature#Poetry|Second New Generation]] of [[Turkish poetry]], an abstract and postmodern movement created as a backlash against the more popular-based [[Garip]] movement. Love, mainly through its erotic character, is a popular theme of Süreya's works. Süreya's poems and articles were published in magazines such as ''Yeditepe'', ''Yazko'', ''Pazar Postası'', ''Yeni Ulus'', ''Oluşum'', ''Türkiye Yazıları'', ''Politika'', ''Aydınlık'', and ''Somut''. He is known to have been a primary influence on the poetry of [[Sunay Akın]].{{Citation needed|date=August 2011}} He lost a letter "y" from his pen name – originally Süreyya – because of a lost bet with Turkish poet [[Sezai Karakoç]].<ref name="Cemal Sureya">{{cite web|url=http://www.gastebursa.com/enCokOkunan/2011/11/12/29037/cemal-sureya-y-harfini-nasil-kaybetti.htm |title=Cemal Süreya 'y' harfini nasıl kaybetti? |publisher=Gastebursa.com |date=12 November 2011 |accessdate=2012-10-16 |archiveurl=https://archive.today/20130124195619/http://www.gastebursa.com/enCokOkunan/2011/11/12/29037/cemal-sureya-y-harfini-nasil-kaybetti.htm |archivedate=24 January 2013 |url-status=dead |df=dmy }}</ref>
+
+==Bibliography==
+
+===Poetry===
+*''[[Üvercinka]]'' (1958)
+*''Göçebe'' (1965)
+*''Beni Öp Sonra Doğur Beni'' (1973)
+*''Sevda Sözleri'' (Terms of Endearment, 1984)
+*''Güz Bitiği'' (1988)
+*''Sıcak Nal'' (1988)
+*''Sevda Sözleri'' (1990)
+
+===Articles===
+*''Şapkam Dolu Çiçekle'' (1976)
+*''Günübirlik'' (1982)
+*''Onüç Günün Mektupları'' (1990)
+*''99 Yüz'' (1990)
+*''Günler'' (1991)
+*''Aydınlık Yazıları/Paçal'' (1992)
+*''Oluşum'da Cemal Süreya'' (1992)
+*''Folklor Şiire Düşman'' (1992)
+*''Papirüs'ten Başyazılar'' (1992)
+*''Uzat Saçlarını Frigya'' (1992)
+*''Aritmetik iyi Kuşlar Pekiyi'' (1993) – for children
+
+==See also==
+* [[List of contemporary Turkish poets]]
+
+==References==
+;Notes
+{{Reflist}}
+;Bibliography
+* Siirgen.org – [https://web.archive.org/web/20071119133910/http://www.siirgen.org/siir/c/cemal_sureya/ ''Biography and bibliography of Cemal Süreya''] {{in lang|tr}}
+
+{{Turkish Literature}}
+{{Authority control}}
+
+{{DEFAULTSORT:Sureya, Cemal}}
+[[Category:1931 births]]
+[[Category:1990 deaths]]
+[[Category:People from Erzincan]]
+[[Category:Turkish people of Kurdish descent]]
+[[Category:Zaza_people]]
+[[Category:Turkish-language writers]]
+[[Category:Turkish erotic artists]]
+[[Category:Ankara University Faculty of Political Sciences alumni]]
+
+
+{{Turkey-writer-stub}}

@@ -1,0 +1,139 @@
+{{short description|American science fiction writer}}
+{{Use mdy dates|date=September 2011}}
+{{Infobox writer
+| name = Larry Niven
+| image = File:Larry Niven - Utopiales 2010 cropped.jpg
+| caption = Niven in 2010
+| birth_name = Laurence van Cott Niven
+| birth_date = {{Birth date and age|mf=yes|1938|04|30}}
+| birth_place = [[Los Angeles]], [[California]], United States
+| alma_mater  = {{plainlist|
+*[[California Institute of Technology]] <small>(no degree)</small>
+*[[Washburn University]]}}
+| nationality = American
+| occupation = Novelist
+| period    = 1964–present
+| genre     = {{plainlist|
+*[[Hard science fiction]]
+*[[Fantasy]]}}
+| notableworks = {{plainlist|
+*''[[Ringworld]]'' (1970)
+*''[[The Mote in God's Eye]]'' (1974)
+*''[[Lucifer's Hammer]]'' (1977)
+*''[[The Ringworld Engineers]]'' (1980)
+*''[[Dream Park]]'' (1981)}}
+| awards    = [[Inkpot Award]] (1979)<ref>[https://www.comic-con.org/awards/inkpot Inkpot Award]</ref>
+| website   = {{URL|larryniven.net}}
+}}
+[[File:Larry Niven admiring SAGE console.jpeg|thumb| Niven at the [[Computer History Museum]] in Mountain View, California, 2007]]
+
+'''Laurence van Cott Niven''' ({{IPAc-en|ˈ|n|ɪ|v|ən}}; born April 30, 1938) is an American [[science fiction writer]].<ref name=SFE/> His best-known works are ''[[Ringworld]]'' (1970), which received [[Hugo Award for Best Novel|Hugo]], [[Locus Award|Locus]], [[Ditmar Award|Ditmar]], and [[Nebula Award for Best Novel|Nebula]] awards, and, with [[Jerry Pournelle]], ''[[The Mote in God's Eye]]'' (1974) and ''[[Lucifer's Hammer]]'' (1977). The [[Science Fiction and Fantasy Writers of America]] named him the 2015 recipient of the [[Damon Knight Memorial Grand Master Award]].<ref>{{cite web|url=http://www.sfwa.org/2015/03/sfwa-names-recipients-of-the-damon-knight-memorial-grand-master-award-and-the-kevin-odonnell-jr-service-to-sfwa-awards/ |title=Larry Niven Named SFWA Damon Knight Memorial Grand Master |publisher=sfwa.org |date=March 2, 2015 |access-date=April 16, 2015}}</ref>  His work is primarily [[hard science fiction]], using [[big science]] concepts and theoretical physics. It also often includes elements of [[detective fiction]] and [[Adventure novel|adventure stories]]. His [[fantasy]] includes the series ''[[The Magic Goes Away]]'', rational fantasy dealing with magic as a [[non-renewable resource]].
+
+==Biography==
+Niven was born in Los Angeles.<ref name=SFE/>  He is a great-grandson of [[Edward L. Doheny]], an oil tycoon who drilled the first successful well in the [[Los Angeles City Oil Field]] in 1892,  and also was subsequently implicated in the [[Teapot Dome scandal]].<ref>{{cite web|url=http://archives.lincolndailynews.com/2005/Dec/13/Features/leisure121305.shtml |title=Writers for Relief: An Anthology to Benefit the Survivors of Katrina |date=13 December 2005 |work=Lincoln Daily News}}</ref>  Niven briefly attended the [[California Institute of Technology]]<ref name="kirkusreviews.com">{{cite web|url=https://www.kirkusreviews.com/features/larry-nivens-ringworld-and-known-space-stories/|title=Larry Niven's Ringworld and Known Space Stories - Kirkus Reviews|website=kirkusreviews.com|access-date=October 29, 2017}}</ref> and graduated with a [[Bachelor of Arts]] in [[mathematics]] (with a minor in [[psychology]]) from [[Washburn University]] in [[Topeka, Kansas]] in 1962.  He also completed a year of graduate work in mathematics at the [[University of California, Los Angeles]].  On September 6, 1969, he married Marilyn Wisowaty, a science fiction and Regency literature fan.
+
+== Work ==
+Niven is the author of numerous science fiction short stories and novels, beginning with his 1964 story "The Coldest Place". In this story, the coldest place concerned is the dark side of [[Mercury (planet)|Mercury]], which at the time the story was written was thought to be [[tidal locking|tidally locked]] with the [[Sun]] (it was found to rotate in a 2:3 resonance after Niven received payment for the story, but before it was published).<ref>{{cite web|title=the Planet Mercury. Tidally locked? |url=http://www.kidsnewsroom.org/elmer/infocentral/space/html/universe/solar_system/planets/mercury/surface/tidally_locked.html |publisher=www.kidsnewsroom.org |access-date=2012-06-24 |archive-url=https://web.archive.org/web/20100208122314/http://kidsnewsroom.org/elmer/infocentral/space/html/universe/solar_system/planets/mercury/surface/tidally_locked.html |archive-date=February 8, 2010 |url-status=dead }}</ref>
+
+[[Algis Budrys]] said in 1968 that Niven becoming a top writer despite the [[New Wave (science fiction)|New Wave]] was evidence that "trends are for second-raters".<ref name="budrys196812">{{Cite magazine
+ |last=Budrys
+ |first=Algis
+ |date=December 1968
+ |title=Galaxy Bookshelf
+ |url=https://archive.org/stream/Galaxy_v27n05_1968-12_modified#page/n115/mode/2up
+ |magazine=Galaxy Science Fiction
+ |pages=149–155
+}}</ref> In addition to the Nebula Award in 1970<ref name=autogenerated2>{{cite web|url=http://www.worldswithoutend.com/books_year_index.asp?year=1970 |title=1970 Award Winners & Nominees &#124; Science Fiction & Fantasy Books by Award &#124; WWEnd |publisher=Worldswithoutend.com |access-date=September 27, 2011}}</ref> and the Hugo and Locus awards in 1971<ref name=autogenerated1>{{cite web|url=http://www.worldswithoutend.com/books_year_index.asp?year=1971 |title=1971 Award Winners & Nominees &#124; Science Fiction & Fantasy Books by Award &#124; WWEnd |publisher=Worldswithoutend.com |access-date=September 27, 2011}}</ref> for ''[[Ringworld]]'', Niven won the [[Hugo Award for Best Short Story]] for "[[Neutron Star (short story)|Neutron Star]]" in 1967.<ref name="kirkusreviews.com"/> He won the same award in 1972, for "[[Inconstant Moon]]", and in 1975 for "[[The Hole Man]]". In 1976, he won the [[Hugo Award for Best Novelette]] for "[[The Borderland of Sol]]".
+
+[[File:Larry Niven 4840.jpg|left|thumb| Niven at Stanford University in 2006]]
+
+Niven has written scripts for three science fiction television series: the original ''[[Land of the Lost (1974 TV series)|Land of the Lost]]'' series; ''[[Star Trek: The Animated Series]]'', for which he adapted his early story "[[The Soft Weapon]]"; and ''[[The Outer Limits (1995 TV series)|The Outer Limits]]'', for which he adapted his story "[[Inconstant Moon]]" into an [[Inconstant Moon (The Outer Limits)|episode of the same name]].
+
+Niven has also written for the [[DC Comics]] character [[Green Lantern]], including in his stories [[hard science fiction]] concepts such as universal [[entropy]] and the [[redshift]] effect.
+
+He has included limited [[Psychic|psi]] gifts (mind over matter) in some characters in his stories; like Gil Hamilton's psychic arm which can only reach as far as a corporeal arm could, though it can, for example, reach through solid materials and manipulate objects on the other side, and through videophone screens, or Matt Keller's ability to make people not notice him.
+
+Several of his stories predicted the black market in transplant organs ("[[organlegging]]").
+
+Many of Niven's stories—sometimes called the Tales of Known Space<ref name=isfdb-series/>—take place in his [[Known Space]] universe, in which humanity shares the several habitable [[List of nearest stars|star systems]] nearest to the [[Sun]] with over a dozen [[Extraterrestrial life|alien]] species, including the aggressive feline [[Kzin]]ti and the very intelligent but cowardly [[Pierson's Puppeteer]]s, which are frequently central characters. The ''[[Ringworld]]'' series is part of the Tales of Known Space, and Niven has shared the setting with other writers since a 1988 anthology, ''The Man-Kzin Wars'' (Baen Books, jointly edited with [[Jerry Pournelle]] and [[Dean Ing]]).<ref name=isfdb-series/>  There have been several volumes of short stories and novellas.
+
+Niven has also written a logical fantasy series ''[[The Magic Goes Away]]'', which utilizes an exhaustible resource called ''mana'' to power a rule-based "technological" magic. ''[[The Draco Tavern]]'' series of short stories take place in a more light-hearted science fiction universe, and are told from the point of view of the proprietor of an omni-species bar. The whimsical ''Svetz'' series consists of a collection of short stories, ''The Flight of the Horse'', and a novel, ''[[Rainbow Mars]]'', which involve a nominal time machine sent back to retrieve long-extinct animals, but which travels, in fact, into alternative realities and brings back mythical creatures such as a [[Roc (mythology)|roc]] and a [[unicorn]]. Much of his writing since the 1970s has been in collaboration, particularly with Jerry Pournelle and [[Steven Barnes]], but also [[Brenda Cooper]] and [[Edward M. Lerner]].
+
+===Other works===
+One of Niven's best known humorous works is "[[Man of Steel, Woman of Kleenex]]", in which he uses real-world physics to underline the difficulties of [[Superman]] and a human woman ([[Lois Lane]] or [[Lana Lang]]) mating.<ref>{{Cite web|url=http://www.larryniven.net/stories/Man_of_Steel_Woman_of_Kleenex.shtml|title=Larryniven dot net|website=www.larryniven.net}}</ref>
+
+Niven appeared in the 1980 science documentary film ''Target... Earth?''
+
+==Influence==
+{{BLP sources section|date=November 2013}}
+[[File:Ringworld.jpg|thumb|Ringworld]]
+
+In Niven's novel ''[[Ringworld]]'', he envisions a Ringworld: a band of material, roughly a million miles wide, of approximately the same diameter as Earth's orbit, rotating around a star. The idea originated in Niven's attempts to imagine a more efficient version of a [[Dyson sphere]], which could produce the effect of surface gravity through rotation. Given that spinning a Dyson sphere would result in the atmosphere pooling around the equator, the Ringworld removes all the extraneous parts of the structure, leaving a spinning band landscaped on the sun-facing side, with the atmosphere and inhabitants kept in place through [[centrifugal force]] and {{cvt|1,000|mi}} high perimeter walls (rim walls).  After publication of ''Ringworld'' two friends, [[Dan Alderson]] and Ctein,<ref>[http://www.larryniven.net/stories/macrostructures.shtml Macro Structures] at Larryniven.net</ref> told Niven that the Ringworld was dynamically unstable: if the center of rotation drifts away from the central sun, gravitational forces will not "re-center" it, thus allowing the ring to eventually contact the sun and be destroyed.  Niven used this as a core plot element in the sequel novel, ''[[The Ringworld Engineers]]''.
+
+This idea proved influential, serving as an alternative to a full Dyson sphere that required fewer assumptions (such as artificial gravity) and allowed a day/night cycle to be introduced (through the use of a smaller ring of "shadow squares", rotating between the ring and its sun). This was further developed by [[Iain M. Banks]] in his [[Culture series]], which features about {{frac|1|100th}} ringworld–size [[megastructure]]s called [[Orbital (The Culture)|Orbitals]] that orbit a star rather than encircling it entirely (actual "Rings" and Dyson "Spheres" are also mentioned but are much rarer). [[Alastair Reynolds]] also uses ringworlds in his 2008 novel ''[[House of Suns]]''. The Ringworld-like namesake of the ''[[Halo (series)|Halo]]'' video game series is the [[eponym]]ous [[Halo (megastructure)|Halo megastructure/superweapon]].
+
+In the ''[[Magic: The Gathering]]'' trading card game, the card Nevinyrral's Disk uses his name, spelled backwards.<ref>See the "Lim-Dûl the Necromancer" card explanation in [https://magic.wizards.com/en/articles/archive/latest-developments/time-spirals-wizards-2006-11-03 this article] on the official ''Magic: the Gathering'' website</ref> This tribute was paid because the game's system where mana from lands is used to power spells was inspired by his book ''[[The Magic Goes Away]]''. The card Nevinyrral, Urborg Tyrant was added in Commander Legends, adding the Niven's namesake character fully to the game.<ref>See Making Magic [https://magic.wizards.com/en/articles/archive/making-magic/your-wish-my-commander-legends-part-2-2020-11-02] on the Official ''Magic: the Gathering'' website</ref>
+
+== Politics ==
+According to author [[Michael Moorcock]], in 1967, Niven was among those [[Science Fiction Writers of America]] members who voiced [[opposition to the U.S. involvement in the Vietnam War|opposition]] to the [[Vietnam War]].<ref>{{cite web|url=http://flag.blackened.net/liberty/moorcock.html |title=Starship Stormtroopers |archive-url=https://web.archive.org/web/20021224193414/http://flag.blackened.net/liberty/moorcock.html |archive-date=December 24, 2002 }}</ref> However, in 1968 Niven's name appeared in a prowar advertisement in ''[[Galaxy Science Fiction]]''.<ref>{{cite web|url=http://www.natsmusic.net/articles_galaxy_magazine_viet_nam_war.htm |title=Nat Tilander Writer, Author, Articles, Non-Fiction, Galaxy Magazine and the Viet Nam War |publisher=Natsmusic.net |access-date=September 27, 2011}}</ref><ref name="vietnamads">{{Cite magazine |date=June 1968 |title=Paid Advertisement |magazine=Galaxy Science Fiction |pages=4–11}}</ref>
+
+Niven was an adviser to [[Ronald Reagan]] on the creation of the [[Strategic Defense Initiative]] antimissile policy, as part of the [[Citizens' Advisory Council on National Space Policy]]—as covered in the [[BBC]] documentary ''[[Pandora's Box (British TV series)|Pandora's Box]]'' by [[Adam Curtis]].<ref>[[Pandora's Box (British TV series)#Part 2. 'To The Brink of Eternity']]</ref>
+
+In 2007, Niven, in conjunction with a think tank of science fiction writers known as SIGMA, founded and led by [[Arlan Andrews|Dr. Arlan Andrews, Sr.]], began advising the U.S. [[Department of Homeland Security]] as to future trends affecting terror policy and other topics.<ref>{{cite news | first=Mimi | last=Hall | title=Sci-fi writers join war on terror | date=May 31, 2007 | url=http://www.usatoday.com/tech/science/2007-05-29-deviant-thinkers-security_N.htm | work=USA Today | access-date=April 30, 2008}}</ref> Among those topics was reducing costs for hospitals to which Niven offered the solution to spread rumors in Latino communities that organs were being harvested illegally in hospitals.<ref>{{cite web | title=Science Fiction Mavens Offer Far Out Homeland Security Advice | url=https://www.nationaldefensemagazine.org/articles/2008/2/29/2008march-science-fiction-mavens-offer-far-out-homeland-security-advice | work=National Defense Magazine |last=Magnuson |first=Stew |date=January 3, 2008 |accessdate=June 27, 2021}}</ref>
+
+==Niven's laws==
+{{main|Niven's laws}}
+
+Larry Niven is also known in [[science fiction fandom]] for "Niven's Law": "There is no cause so right that one cannot find a fool following it." Over the course of his career Niven has added to this first law a list of [[Niven's laws|Niven's Laws]] which he describes as "how the Universe works" as far as he can tell.
+
+==Bibliography==
+{{main|Larry Niven bibliography}}
+
+== References ==
+{{Reflist|refs=
+<ref name=isfdb-series>
+[http://www.isfdb.org/cgi-bin/pe.cgi?653 "Tales of Known Space – Series Bibliography"]. [[Internet Speculative Fiction Database]] (ISFDB). Retrieved August 15, 2014.</ref>
+<ref name=SFE><!-- 2014-08-15, cited only for vital data (presum. it is ISFDB's reliable source) but much more generally useful -->
+[http://www.sf-encyclopedia.com/entry/niven_larry "Niven, Larry"]. Revised June 14, 2014. ''[[The Encyclopedia of Science Fiction]]'' (sf-encyclopedia.com). Retrieved August 15, 2014. Entry by 'JC', [[John Clute]].</ref>
+}}
+
+==External links==
+{{sisterlinks|d=Q316610|n=no|b=no|v=no|voy=no|m=no|mw=no|s=no|wikt=no|species=no|c=Category:Larry Niven}}
+
+===Bibliography and works===
+* {{Official website}} with [http://news.larryniven.net/biblio bibliography]
+* {{isfdb name|42}}
+* {{IBList|type=author|id=606|name=Larry Niven}}
+* {{OL author|OL33881A}}
+* [http://www.fantasticfiction.co.uk/n/larry-niven/ Larry Niven] at Fantastic Fiction
+* {{IMDb name|0633122}}
+
+===Interviews===
+* [https://web.archive.org/web/20101228221721/http://radio.nationalreview.com/betweenthecovers/post/?q=YTBiYzAzZTRhMDAyM2Q3MjVkOTNjZmQxOWY2ZTMwNDc= Audio interview with Larry Niven]
+* {{hour25|Larry Niven|http://www.hour25online.com/Hour25_Previous_Shows_2005-02.html#larry-niven_2005-02-21}}
+
+{{Larry Niven}}
+{{Damon Knight Memorial Grand Master Awards}}
+{{Inkpot Award 1970s}}
+{{Authority control}}
+
+{{DEFAULTSORT:Niven, Larry}}
+[[Category:1938 births]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American novelists]]
+[[Category:Activists from California]]
+[[Category:American agnostics]]
+[[Category:American anti–Vietnam War activists]]
+[[Category:American comics writers]]
+[[Category:American male novelists]]
+[[Category:American science fiction writers]]
+[[Category:Filkers]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Inkpot Award winners]]
+[[Category:Living people]]
+[[Category:People from Los Angeles]]
+[[Category:Nebula Award winners]]
+[[Category:SFWA Grand Masters]]
+[[Category:Writers from Los Angeles]]
+[[Category:20th-century American male writers]]
+[[Category:21st-century American male writers]]

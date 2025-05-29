@@ -1,0 +1,75 @@
+{{Use dmy dates|date=October 2013}}
+{{Infobox writer <!-- see Template:Infobox writer -->
+| honorific_prefix = [[Senators for life in Italy|Senator for life]]
+| name             = Mario Luzi
+| image            = Mario_Luzi.jpg 
+| caption          = Mario Luzi in the 1970s.
+| birth_date       = {{birth date|df=y|1914|10|20}}
+| birth_place      = [[Sesto Fiorentino]], [[Kingdom of Italy]]
+| death_date       = {{death date and age|df=y|2005|2|28|1914|10|20}}
+| death_place      = [[Florence]], [[Italy]]
+| occupation       = Poet
+| nationality      = Italian
+| period           = 1935–2005
+}}
+'''Mario Luzi''' (20 October 1914 – 28 February 2005) was an [[Italian poet]].
+
+==Biography==
+Born in Castello, near [[Sesto Fiorentino]], Luzi's parents, Ciro Luzi and Margherita Papini, hailed from Samprugnano (later [[Semproniano]]). He spent his youth in Castello, where he started his primary school. In Florence he studied at the ''liceo classico'' Galileo, and also in Florence he obtained his degree in French literature with a final dissertation about [[François Mauriac]]. This was an important period for Luzi. He met poets such as [[Piero Bigongiari]], [[Alessandro Parronchi]], [[Carlo Bo]], [[Leone Traverso]], and the critic [[Oreste Macrì]].
+
+His first book, ''La barca'', was published in 1935 and in 1938 he started to teach in high schools in the cities of [[Parma]], [[San Miniato]] and Rome.
+
+In 1940, he published ''Avvento notturno''; in 1945 he went back to Florence and there he taught at the ''liceo scientifico''.
+In 1946 he published ''Un brindisi e Quaderno gotico'', in issue 1 of ''Inventario'', in 1952 ''Onore del vero'', ''Principe del deserto e Studio su Mallarmé''. In 1955 he began teaching French literature at Florence University in the Facoltà di scienze politiche (Political Studies Institute).
+
+Between 1963 and 1983, he published many books such as ''Nel magma'' (1963); ''Dal fondo delle campagne'' (1965); ''Semiserie'' (1979), ''Reportage'' (1985). In 1978, with the book ''Al fuoco della controversia'', he won the Viareggio Prize ([[Premio Viareggio]]). He won the [[Aristeion Prize]] in 1991 for his work ''Frasi e Incisi di un Canto Salutare''; in the same year he was proposed for the first time by the [[Accademia dei Lincei]] for the [[Nobel Prize in Literature]]. Ultimately never awarded, when asked for his thoughts by one reporter on his fellow countryman [[Dario Fo]]'s 1997 success he slammed the phone down: "I'll say only this. I've just about had it up to here!"<ref>{{cite news|first=Andrew|last=Gumbel|url=https://www.independent.co.uk/news/nobel-prize-dario-fo-the-showman-wins-nobel-literature-prize-1234928.html|title=Nobel Prize: Dario Fo, the showman, wins Nobel literature prize|newspaper=[[The Independent]]|date=10 October 1997|access-date=22 March 2013}}</ref>
+
+His last book, ''L'avventura della dualità'', was published in 2003. In October 2004, he was appointed to the Italian [[Senate of Italy|Senate]] as a [[Senator for life|senator-for-life]] by [[List of Presidents of the Italian Republic|President of the Republic]] [[Carlo Azeglio Ciampi|Ciampi]]. He died in Florence, just some months later, on 28 February 2005.
+
+==List of works==
+* ''La barca'' (1935)
+* ''Avvento notturno'' (1940)
+* ''Biografia a Ebe'' (1942)
+* ''Un brindisi'' (1946)
+* ''Quaderno gotico ''(1947)
+* ''Primizie del deserto'' (1952)
+* ''Onore del vero'' (1957)
+*''Il giusto della vita ''(1960)
+* ''Nel magma'' (1963; new edition, 1966)
+* ''Dal fondo delle campagne'' (1965)
+* ''Su fondamenti invisibili'' (1971)
+* ''Al fuoco della controversia ''(1978)
+* ''Semiserie'' (1979)
+* ''Reportage, un poemetto seguito dal Taccuino di viaggio in Cina ''(1980)
+* ''Per il battesimo dei nostri frammenti'' (1985)
+* ''La cordigliera delle Ande e altri versi tradotti (1983)
+* ''Frasi e incisi di un canto salutare'' (1990)
+* ''Viaggio terrestre e celeste di Simone Martini'' (1994)
+* ''Il fiore del dolore'' (2003)
+* ''L'avventura della dualità ''(2003)
+
+==References==
+{{Reflist}}
+* Massimo Colella, «Il sogno umano della pura assolutezza». Leggendo Luzi postumo, in «Xenia. Trimestrale di Letteratura e Cultura» (Genova), III, 3, 2018, pp. 34-45.
+
+==External links==
+* [https://web.archive.org/web/20110526163316/http://www.letteratura.it/luzi/ Mario Luzi's webpage] {{in lang|it}}
+* [http://www.corriere.it/Primo_Piano/Cronache/2005/02_Febbraio/28/luzi.shtml Obituary] on ''[[Corriere della Sera]]'' {{in lang|it}}
+
+{{Navboxes
+|title=Awards received by Mario Luzi
+|list1=
+{{Viareggio Prize}}
+{{Mondello Prize}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Luzi, Mario}}
+[[Category:1914 births]]
+[[Category:2005 deaths]]
+[[Category:Italian life senators]]
+[[Category:Italian male poets]]
+[[Category:People from the Province of Florence]]
+[[Category:Viareggio Prize winners]]
+[[Category:20th-century Italian poets]]
+[[Category:20th-century Italian male writers]]

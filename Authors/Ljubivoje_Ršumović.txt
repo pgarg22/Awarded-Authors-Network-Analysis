@@ -1,0 +1,64 @@
+{{short description|Serbian poet and writer}}
+{{Expand Serbian|Љубивоје Ршумовић|date=September 2019}}
+{{Infobox person
+| name               = Ljubivoje Ršumović
+| image              = Ljubivoje Ršumović 2013.jpg
+| image_size         = 245px
+| caption            = Ršumović in 2013
+| birth_name         = Ljubivoje Ršumović
+| birth_date         = {{Birth date and age|df=y|1939|7|3}}
+| birth_place        = [[Ljubiš]], [[Kingdom of Yugoslavia]]
+| death_date         = 
+| death_place        = 
+| resting_place      = 
+| other_names        = 
+| occupation         = [[Poet]]
+| years_active       = 
+| nationality        = [[Serbs|Serbian]]
+| education          = 
+| alma_mater         = [[University of Belgrade]] [[University of Belgrade Faculty of Philology|Faculty of Philology]]
+| spouse             = 
+| children           = 
+| relatives          = 
+| website            = 
+| module             = <center>{{Listen|embed=yes|filename=Ma-sta-mi-rece-Rsum.ogg|title=<center>Ršumović's voice</center>|type=poem|description=<center>Recorded May 2010</center>}}</center>
+}}
+
+'''Ljubivoje Ršumović''' ([[Serbian Cyrillic alphabet|Serbian Cyrillic]]: Љубивоје Ршумовић; born 3 July 1939) is a Serbian poet and writer.<ref name="Politika ref">{{cite web |url=http://www.politika.rs/scc/clanak/384217/Drustvo/Penzijom-pomazem-sinovima |author=''[[Politika]]'' |title=Penzijom pomažem sinovima |access-date=2019-09-30 |date=2017-07-03 |language=sr}}</ref>
+
+Ršumović is predominantly a writer and poet for children; however, a portion of his work is literature for adults.
+
+==Biography==
+He was born on 3 July 1939 in the village of [[Ljubiš]] in the [[Zlatibor]] Mountains. His parents were Mihailo and Milesa Ršumović. He was educated in Ljubiš, [[Čajetina]], [[Užice]], and [[Belgrade]]. He has a bachelor's degree from the [[University of Belgrade]]'s [[University of Belgrade Faculty of Philology|Faculty of Philology]].<ref>{{Cite web|url=https://www.poezijanoci.com/decije-pesme/ljubivoje-rsumovic-pesme-za-decu.html|title=Ljubivoje Ršumović - pesme za decu {{!}} Pesmice za decu|website=www.poezijanoci.com|access-date=2019-12-18}}</ref><ref>{{Cite web|url=https://www.lektire.rs/pisac/ljubivoje-rsumovic/|title=Ljubivoje Ršumović {{!}} Lektire.rs|website=www.lektire.rs|access-date=2019-12-18}}</ref>
+
+==Selected works==
+* ''Ma šta mi reče''
+* ''Još nam samo ale fale''
+* ''Domovina se brani lepotom''
+* ''Ujdurme i zvrčke iz antičke Grčke''
+* ''Sunčanje na mesečini''
+* ''Tri čvora na trepavici''
+* ''Zauvari''
+* ''Vidovite priče''
+* ''Što na umu, to na drumu''
+* ''Provale i cake''
+* ''Izvolte u bajku sa čika Ršumom''
+
+==References==
+{{reflist}}
+
+== External links ==
+* {{official website|https://www.ljubarsum.com/}}
+
+{{commons category|Ljubivoje Ršumović}}
+{{Serbian literature}}
+{{Authority control}}
+
+{{DEFAULTSORT:Rsumovic, Ljubivoje}}
+[[Category:1939 births]]
+[[Category:Living people]]
+[[Category:People from Čajetina]]
+[[Category:Serbian male poets]]
+[[Category:Serbian children's writers]]
+[[Category:Serbian writers]]
+[[Category:University of Belgrade Faculty of Philology alumni]]

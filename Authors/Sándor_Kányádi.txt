@@ -1,0 +1,64 @@
+{{short description|Hungarian poet and translator}}
+{{eastern name order|Kányádi Sándor}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Sándor Kányádi
+| awards = [[Kossuth Prize]]<br />[[Herder Prize]]
+| image = Kanyadi-Sandor3.JPG
+| caption = Sándor Kányádi
+| nationality = Hungarian
+| citizenship = Romanian
+| birth_name = 
+| birth_date = {{Birth date|1929|5|10|df=y}}
+| birth_place = [[Porumbeni, Harghita|Porumbeni]], [[Kingdom of Romania|Romania]]
+| death_date = {{Death date and age|2018|6|20|1929|5|10|df=y}}
+| death_place = [[Budapest]], [[Hungary]]
+| occupation = [[poet]]
+| notableworks = "In Contemporary Tense"
+| influences = 
+| publisher = 
+| signature = Kányádi Sándor aláírása.jpg
+}}
+
+'''Sándor Kányádi''' ({{IPA-hu|ˈʃaːndor ˈkaːɲaːdi}}; 10 May 1929 – 20 June 2018) was a [[Hungarians|Hungarian]] poet and translator from the region of [[Transylvania]], [[Romania]]. He was one of the most famous and beloved contemporary [[Hungarian language|Hungarian]] poets. He was a major contributor to Hungarian children's literature. His works have been translated into English, Finnish, Estonian, Swedish, German, French, Romanian and Portuguese.
+<ref name="PIMBiblio">{{cite web |url=https://pim.hu/hu/dia/dia-tagjai/kanyadi-sandor#bibliografia |title=Kányádi Sándor Bibliográfia|last=Pécsi |first=György |publisher=Petőfi Irodalmi Múzeum |website=Digitális Irodalmi Akadémia |language=Hungarian |access-date=December 12, 2018}}</ref>
+
+==Biography==
+He was born in [[Porumbenii Mari]] (Hungarian: ''Nagygalambfalva''), a small Hungarian village in the region of Transylvania, to a family of Hungarian farmers. He was educated in the nearby town of [[Odorheiu Secuiesc|Odorheiu-Secuiesc]] (Hungarian: ''Székelyudvarhely''). Present-day [[:hu:Tamási Áron Gimnázium|Tamási Áron Gimnázium]] was his ''alma mater. ''He moved to [[Cluj-Napoca|Cluj]] in 1950. Nowadays, he split his time between [[Budapest]] and his cottage in the Transylvanian countryside.
+
+Kányádi graduated from [[Babeş-Bolyai University|Bolyai University]] (before Bolyai University was forced to merge with the Romanian university to form present-day Babes-Bolyai University) with a teacher's qualification and degree in [[Hungarian language]] and [[Literature of Hungary|literature]]. He published his first volume of poetry in 1955 while an assistant editor and frequent contributor to several literary magazines, including poems in children's magazines that are still very popular today. His translations are also very popular and include [[Transylvanian Saxons|Saxon]] and [[Yiddish]] folk poetry, contemporary [[Literature of Romania|Romanian poetry]], and major [[German poetry|German]] and [[French poetry|French]] poets. He also gave several literary talks abroad during the 1960s and 1970s to Hungarian communities in Western Europe, Scandinavia, North America, and South America.
+
+He was active in political issues throughout the years, as shown in his numerous works relating to the oppression of the [[Hungarian minority in Romania|Transylvanian Hungarian minority]].{{citation needed|date=August 2013}} In 1987, the [[Communist Romania|Romanian Communist government]] refused him a passport to visit an international poets' conference in [[Rotterdam]], which resulted in his resignation from the [[Romanian Writers' Union]] out of protest. <ref name="PIMBio">{{cite web |url=https://pim.hu/hu/dia/dia-tagjai/kanyadi-sandor#eletrajz |title=Kányádi Sándor Életrajz |last=Pécsi |first=György |publisher=Petőfi Irodalmi Múzeum |website=Digitális Irodalmi Akadémia |language=Hungarian |access-date=December 12, 2018}}</ref>
+
+==Awards==
+[[File:KanyadiSandorFotoThalerTamas.JPG|thumb|Sándor Kányádi]]
+He garnered more than 30 awards and honors, among others:
+*[[Kossuth Prize]], Budapest, 1993
+* Poetry Prize of the Romanian Writers' Union
+*[[Herder Prize]] in [[Vienna]] in 1995,
+* Central European Time Millennium Prize, 2000
+
+==References==
+{{reflist}}
+
+==External links==
+*''[https://www.twistedspoon.com/dancing-embers.html Dancing Embers]'', a selection of poetry in English translation
+*[http://prague.tv/articles/art-and-culture/books3 Travis Jeppesen on Kanyadi's ''Dancing Embers'']
+
+{{Herder Prize}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kanyadi, Sandor}}
+[[Category:20th-century Hungarian poets]]
+[[Category:1929 births]]
+[[Category:2018 deaths]]
+[[Category:Babeș-Bolyai University alumni]]
+[[Category:People from Harghita County]]
+[[Category:20th-century Romanian poets]]
+[[Category:Hungarian translators]]
+[[Category:Recipients of the Order of the Cross of Terra Mariana, 5th Class]]
+[[Category:Hungarian children's writers]]
+[[Category:20th-century translators]]
+[[Category:Hungarian male poets]]
+[[Category:Herder Prize recipients]]
+[[Category:20th-century Romanian male writers]]
+[[Category:20th-century Hungarian male writers]]

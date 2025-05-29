@@ -1,0 +1,85 @@
+{{short description|American fantasy author}}
+{{Use dmy dates|date=September 2021}}
+{{Infobox person
+ | name        = Kate Novak
+ | image       =
+ | image_size  =
+ | caption     =
+ | birth_date  =
+ | birth_place =
+ | death_date  =
+ | death_place =
+ | education   = Bachelor of Science (Chemistry), [[University of Pittsburgh]]
+ | occupation  = Writer
+ | spouse      = [[Jeff Grubb]] (1983-)
+ | parents     =
+ | children    =
+}}
+
+'''Kate Novak''' is an American fantasy author.<ref name="buker2002">{{cite book | first=Derek M. | last=Buker | year=2002 | title=The science fiction and fantasy readers' advisory: the librarian's guide to cyborgs, aliens, and sorcerers | pages=[https://archive.org/details/sciencefictionfa00buke_0/page/127 127&ndash;128] | work=ALA readers' advisory series | publisher=ALA Editions | isbn=0-8389-0831-4 |url=https://archive.org/details/sciencefictionfa00buke_0/page/127 }}</ref>
+
+==Biography==
+Novak grew up in [[Pittsburgh]], Pennsylvania where she graduated from the [[University of Pittsburgh]] with a BS in Chemistry.
+
+She primarily published in the ''[[Forgotten Realms]]'' and ''[[Ravenloft]]'' shared worlds.<ref>
+{{cite web
+| title=Kate Novak - Forgotten Realms author
+|url=http://www.o-love.net/realms/auth_nov.html
+| publisher=Forgotten Realms: The Library
+| accessdate=19 February 2008
+}}
+</ref>
+
+She is married to writer and game designer [[Jeff Grubb]].<ref>{{cite journal |url=http://www.highbeam.com/doc/1G2-3449000139.html | archive-url=https://web.archive.org/web/20181114223118/https://www.highbeam.com/doc/1G2-3449000139.html | url-status=dead | archive-date=14 November 2018 | title=Grubb, Jeff 1957– | journal=[[Contemporary Authors]] | date=1 January 2006 | accessdate=10 October 2012}}{{subscription|via=[[HighBeam Research]]}}</ref> Novak and Grubb are co-authors of the best-selling ''Finder's Stone Trilogy'', and collaborated on the book ''[[Azure Bonds]]''. The success of the book resulted in the creation of the computer game, ''[[Curse of the Azure Bonds]]''.
+
+==Bibliography==
+* ''The Finder's Stone Trilogy'' (with [[Jeff Grubb]])
+** ''[[Azure Bonds]]'' (1988), {{ISBN|0-88038-612-6}}
+** ''[[The Wyvern's Spur]]'' (1990), {{ISBN|0-88038-902-8}}
+** ''[[Song of the Saurials]]'' (1991), {{ISBN|1-56076-060-5}}
+* ''The Harpers'' (with [[Jeff Grubb]])
+** ''Book 10: [[Masquerades (novel)|Masquerades]]'' (1995), {{ISBN|0-7869-0152-7}}
+** ''Book 15: Finder's Bane'' (1997), {{ISBN|0-7869-0658-8}}
+* ''The Lost Gods'' (with [[Jeff Grubb]])
+** ''Tymora's Luck'' (1997), sequel to ''Finder's Bane'', {{ISBN|0-7869-0726-6}}
+
+==References==
+{{Reflist}}
+
+==Further reading==
+
+* {{cite web
+ |title       = Pen & Paper RPG Database Bibliography for Kate Novak
+ |url         = http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=2205
+ |publisher   = Pen & Paper RPG Database
+ |accessdate  = 19 February 2008
+ |url-status     = dead
+ |archiveurl  = https://web.archive.org/web/20050116090703/http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=2205
+ |archivedate = 16 January 2005
+}}
+* {{cite web
+| title=MobyGames profile for Kate Novak
+|url=http://www.mobygames.com/developer/sheet/view/developerId,25793/
+| publisher=MobyGames
+| accessdate=19 February 2008
+}}
+
+==External links==
+*{{cite web |url=http://www.pen-paper.net:80/rpgdb.php?op=showcreator&creatorid=2205 |archive-date=16 January 2005 |title=Kate Novak :: Pen & Paper RPG Database |url-status=dead |archiveurl=https://web.archive.org/web/20050116090703/http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=2205 |access-date=19 February 2008 }}
+*{{isfdb name|id=Kate_Novak|name=Kate Novak}}
+
+{{Authority control}}
+
+{{D&D topics}}
+
+{{DEFAULTSORT:Novak, Kate}}
+[[Category:20th-century American novelists]]
+[[Category:20th-century American women writers]]
+[[Category:21st-century American women]]
+[[Category:American fantasy writers]]
+[[Category:American women novelists]]
+[[Category:Living people]]
+[[Category:Role-playing game writers]]
+[[Category:University of Pittsburgh alumni]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:Year of birth missing (living people)]]

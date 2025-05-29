@@ -1,0 +1,79 @@
+{{Infobox writer  <!--For more information, see [[:Template:Infobox Writer/doc]].-->
+| name = Arabella Edge
+| image = 
+| image_size = 
+| alt = 
+| caption = 
+| native_name = 
+| native_name_lang = 
+| pseudonym = 
+| birth_name = 
+| birth_date =    <!-- {{birth date and age|YYYY|MM|DD}} -->
+| birth_place = [[London]], England
+| death_date =    <!-- {{death date and age|YYYY|MM|DD|YYYY|MM|DD}} -->
+| death_place = 
+| resting_place = 
+| occupation = 
+| language = English
+| nationality = 
+| ethnicity = 
+| citizenship = 
+| education = 
+| alma_mater = 
+| period = 
+| genre =         <!-- or: | genres =      -->
+| subject =       <!-- or: | subjects =    -->
+| movement = 
+| notableworks =  ''The Company''
+| spouse =        <!-- or: | spouses =     -->
+| partner =       <!-- or: | partners =    -->
+| children = 
+| relatives = 
+| awards = [[Commonwealth Writers' Prize]]
+| signature = 
+| signature_alt = 
+| years_active = 1994 –
+| module = 
+| website = 
+| portaldisp =    <!-- "on", "yes", "true", etc; or omit -->
+}}
+'''Arabella Edge''' (born in London, England) is a  writer and novelist whose first work, ''The Company'', received a 2001 [[Commonwealth Writers Prize]] and was shortlisted for the [[Miles Franklin Award]].<ref>[http://www.austlit.edu.au/austlit/page/A11623 Austlit - Arabella Edge]</ref>
+
+==Early life ==
+Edge graduated with an English Literature degree from [[Bristol University]].  She moved to [[Sydney]], Australia in 1992 and worked as an editor for several consumer illustrated magazines. Her short tales appeared in the literary illustrated magazines ''Westerly'' and ''Ulitarra.''<ref name="Middlemiss">{{cite web| title =''The Company'' | publisher =Perry Middlemiss | year =2006 | url =http://www.middlemiss.org/lit/australian/thecompany.html | access-date =2008-11-26 }}</ref> In 2002 Edge relocated from Sydney to the small township of [[Bicheno, Tasmania]] to work on her second novel.<ref>{{cite news| last =Edge |first =Arabella |title =Arabella Edge: My Tasmania | work =The Independent (UK) | publisher =Independent News & media plc | date =2006-04-16 | url =https://www.independent.co.uk/travel/ausandpacific/arabella-edge-my-tasmania-474428.html | access-date =2008-11-26 }}</ref>
+
+== Major works ==
+Her first novel, ''The Company'', was published in 2000 and was a work of [[historical fiction]] based around the wreck of the [[Batavia (1628 ship)|''Batavia'']] on its [[maiden voyage]] off the [[Western Australia]]n coast. The book was shortlisted for the 2001 Miles Franklin Award, and won the 2001 Commonwealth Writers' Prize for Best First Book in the Southeast Asia/South Pacific region.<ref>{{cite web|title=Arabella Edge |publisher=Australia Council for the Arts |year=2007 |url=http://www.australiacouncil.gov.au/the_arts/artists_and_orgs/artists/arabella_edge |archive-url=https://web.archive.org/web/20080630082527/http://www.australiacouncil.gov.au/the_arts/artists_and_orgs/artists/arabella_edge |url-status=dead |archive-date=2008-06-30 |access-date=2008-11-26 }}</ref>
+
+A second novel, ''The God of Spring'' was published in 2005. Also a work of historical fiction, the novel is set during the [[French Revolution]] and based on the life of artist [[Théodore Géricault]] as he researches and completes his controversial painting, ''[[The Raft of the Medusa]]''.<ref>{{cite news| last =Hughes |first =Juliette |title =The God of Spring | work =The Sydney Morning Herald | publisher =Fairfax Ltd | date =2005-12-13 | url =http://www.smh.com.au/news/book-reviews/the-god-of-spring/2005/12/13/1134236049517.html | access-date =2008-11-26 }}</ref>
+
+Her third novel, also historical fiction, is called ''Fields of Ice'' and was published in 2011. It follows [[Lady Jane Franklin]] and her attempts to raise money to fund a rescue mission for her husband, [[Sir John Franklin]], whose ships [[HMS Erebus (1826)|HMS ''Erebus'']] and [[HMS Terror (1813)|HMS ''Terror'']] were lost while trying to find the [[North West Passage]].<ref>{{cite web |last1=Edge |first1=Arabella |title=Fields of Ice |url=https://www.amazon.com/gp/product/B005WTORN0?ref=dbs_p2d_P_R_popup_yes_pony_T1 |website=Amazon |publisher=Picador |access-date=6 March 2019}}</ref>
+
+== Personal life ==
+Edge is married and has one stepdaughter.<ref name="Middlemiss"/>
+
+==Awards==
+
+* 2001 — shortlisted [[Miles Franklin Award]] for ''The Company''
+* 2001 — winner [[Commonwealth Writers' Prize]] South East Asia and South Pacific Region, Best First Book Award for ''The Company''
+* 2001 — winner Herodotus Awards for Historical Mystery, Best International Book Award<ref name="hero">{{cite web|title=2001 Notable Books |publisher=The Poisoned Pen Awards List |url=http://www.poisonedpen.com/html/awards2001.html |access-date=2007-09-15 |archive-url=https://web.archive.org/web/20070818120642/http://www.poisonedpen.com/html/awards2001.html |archive-date=2007-08-18 |url-status=live }}</ref> for ''The Company''
+
+==Selected works==
+
+===Novels===
+*''The Company: The Story of a Murderer'' ([[2000 in literature|2000]])
+*''The God of Spring'' ([[2005 in literature|2005]]) aka ''The Raft''
+* ''Fields of Ice'' ([[2011 in literature|2011]])
+
+==References==
+{{reflist}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Edge, Arabella}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Australian women novelists]]
+[[Category:Living people]]
+[[Category:English emigrants to Australia]]
+[[Category:20th-century Australian novelists]]
+[[Category:20th-century Australian women writers]]

@@ -1,0 +1,95 @@
+'''Epicharmus of [[Kos]]''' or '''Epicharmus Comicus''' or '''Epicharmus Comicus [[Syracuse, Sicily|Syracusanus]]''' ({{lang-grc-gre|Ἐπίχαρμος ὁ Κῷος}}), thought to have lived between c.&nbsp;550 and c.&nbsp;460 BC, was a [[Greek people|Greek]] [[dramatist]] and [[philosopher]] who is often credited with being one of the first [[comedy|comic]] writers, having originated the [[Doric Greek|Doric]] or [[Sicily|Sicilian]] comedic form.<ref>Broken laughter: select fragments of Greek comedy By S. Douglas Olson [https://books.google.com/books?id=bPxi3_6FfSgC&pg=PA52&dq=Epicharmus+Doric+Greek+fragments#v=onepage&q=&f=false Page 52]  {{ISBN|0-19-928785-6}}</ref>
+
+==Literary evidence==
+[[Aristotle]] (''Poetics'' 5.1449b5)<ref name="poetics1">Aristotle, ''Poetics'' 5.1449b5 [https://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Aristot.+Poet.+1449b]</ref> writes that he and [[Phormis]] invented comic plots (μῦθοι, ''muthoi'').<ref name="buckham1">cf. P. W. Buckham, p. 245</ref> Most of the information about Epicharmus comes from the writings of [[Athenaeus]], ''[[Suda]]'' and [[Diogenes Laërtius]], although fragments and comments come up in a host of other ancient authors as well.  There have also been some papyrus finds of longer sections of text, but these are often so full of holes that it is difficult to make sense of them. [[Plato]] mentions Epicharmus in his dialogue ''[[Gorgias (dialogue)|Gorgias]]''<ref name="plato1">Plato, ''Gorgias'' [505e]: "So that, in Epicharmus's phrase, 'what two men spake erewhile' I may prove I can manage single-handed". [https://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Plat.+Gorg.+505e]</ref> and in ''[[Theaetetus (dialogue)|Theaetetus]]''.  In the latter, Socrates refers to Epicharmus as "the prince of Comedy", Homer as "the prince of Tragedy", and both as "great masters of either kind of poetry".<ref name="plato2">"Summon the great masters of either kind of poetry- Epicharmus, the prince of Comedy, and Homer of Tragedy", ''Theaetetus'', by Plato, section §152e. [https://www.perseus.tufts.edu/cgi-bin/ptext?lookup=Plat.+Theaet.+152e] (translation by Benjamin Jowett [http://classics.mit.edu/Plato/theatu.html]). There is some variability in translation of the passage. Words like "king", "chief", "leader", "master" are used in the place of "prince" in different translations. The basic Greek word in Plato is "akroi" from "akros" meaning topmost or high up. In this context it means "of a degree highest of its kind" or "consummate" (cf. Liddell & Scott, A Greek-English Lexicon). [https://www.perseus.tufts.edu/cgi-bin/ptext?layout.reflang=greek;layout.refembed=2;layout.refwordcount=1;layout.refdoc=Perseus%3Atext%3A1999.01.0171;layout.reflookup=a%29%2Fkroi;layout.refcit=text%3DTheaet.%3Asection%3D152e;doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3D%233631;layout.refabo=Perseus%3Aabo%3Atlg%2C0059%2C006]</ref> More references by ancient authors are discussed in [[Arthur Wallace Pickard-Cambridge|Pickard-Cambridge]]'s ''Dithyramb, Tragedy, Comedy''<ref name="pc1">cf. A. W. Pickard-Cambridge, Chapter IV, beginning on p. 230, on Epicharmus works and life, and citations by authors on him. Also it addresses the controversy about when and where he was born.</ref> and they are collected in Greek in Kassel and Austin's new edition of the fragments in ''Poetae Comici Graeci'' (2001).
+
+==Life==
+Epicharmus' birthplace is not known, but late and fairly unreliable ancient commentators suggest a number of alternatives.  The ''Suda'' (E 2766) records that he was either [[Syracuse, Sicily|Syracusan]] by birth or from the [[Sikanian]] city of Krastos. [[Diogenes Laërtius]] (VIII 78) records that Epicharmus was born in [[Astypalea]], the ancient capital of [[Kos]] on the [[Bay of Kamari]], near modern-day [[Kefalos]].  Diogenes Laërtius also records that Epicharmus' father was the prominent physician Helothales, who moved the family to [[Megara Hyblaea|Megara]] in Sicily, when Epicharmus was just a few months old.  Although raised according to the [[Asclepiad (title)|Asclepiad]] tradition of his father, as an adult Epicharmus became a follower of [[Pythagoras]].<ref name="buckham2">cf. P.W.Buckham, p.164, "But Epicharmus was a philosopher and a Pythagorean"; and Pickard-Cambridge, p. 232, "Epicharmus was a hearer of Pythagoras".</ref>
+
+All of this biographical information could be treated as suspect.  More references to alternative origins and discussion of their likelihood can be found in Pickard-Cambridge's ''Tragedy, Comedy, Dithyramb'', and more recently in Rodriguez Noriega Guillen's ''Epicarmo di Siracusa: Testimonios y Fragmentos''.<ref name="noriega1">[http://ccat.sas.upenn.edu/bmcr/2005/2005-10-24.html Bryn Mawr Classical Review 2005.10.24<!-- Bot generated title -->]</ref> The standard edition of his fragments by [[Georg Kaibel|Kaibel]] has now been updated with the publication of Kassel and Austin's ''Poetae Comici Graeci.'' It is most likely that sometime after 484 BC, he lived in [[Syracuse, Italy|Syracuse]], and worked as a poet for the [[tyrant]]s [[Gelo]] and [[Hiero I]].  The subject matter of his poetry covered a broad range, from exhortations against intoxication and laziness to such unorthodox topics as mythological [[burlesque]], but he also wrote on [[philosophy]], [[medicine]], [[natural science]], [[linguistics]], and [[ethics]]. Among many other philosophical and moral lessons, Epicharmus taught that the continuous exercise of virtue could overcome heredity, so that anyone had the potential to be a good person regardless of birth. He died in his 90s (according to a statement in [[Lucian]],<ref name="lucian">Lucian, ''Macrobii'', 25 (cf. [http://www.attalus.org/translate/macrobii.html#25])</ref> he died at ninety-seven).
+
+Diogenes Laërtius records that there was a bronze statue dedicated to him in Syracuse, by the inhabitants, for which [[Theocritus]] composed the following inscription:<ref name="theo1">Theocritus, ''Epigrams'', 17 (cf. [http://www.gutenberg.org/files/11533/11533-h/11533-h.htm#XVII])</ref><blockquote>As the bright sun excels the other stars,''<br/>''As the sea far exceeds the river streams:''<br/>''So does sage Epicharmus men surpass,''<br/>''Whom hospitable Syracuse has crowned.</blockquote>Theocritus' Epigram 18 (AP IX 60; Kassel and Austin Test. 18) was written in his honour.
+
+The cosmopolitan scientist and traveler [[Alexander von Humboldt]] turned Epicharmus into the protagonist of the only literary text he ever published; it appeared 1795 in [[Friedrich Schiller]]'s journal [[Horen]] under the title "Die Lebenskraft oder der Rhodische Genius" [''The Vital Force or the Rhodian Genius''].  Epicharmos figures here as a natural philosopher and interpreter of art.<ref>[[Andreas Daum]]: ''Social Relations, Shared Practices, and Emotions: Alexander von Humboldt’s Excursion into Literary Classicism and the Challenges to Science around 1800.'' In: ''Journal of Modern History'' 91 (2019), pp. 1‒37, see especially pp. 12‒19, 28, 32, 35.</ref>
+
+==Works==
+Epicharmus wrote between thirty-five and fifty-two comedies, though many have been lost or exist only in fragments.  Along with his contemporary [[Phormis]], he was alternately praised and denounced for ridiculing the great mythical [[hero]]es. At the time it would have been dangerous to present comedies in Syracuse like those of the Athenian stage, in which attacks were made upon the authorities. Accordingly, the comedies of Epicharmus are calculated not to give offence to the ruler. They are either mythological travesties or character comedies.<ref name="EB1911">{{EB1911|inline=y|wstitle=Epicharmus|volume=9|pages=680–681}}</ref>
+
+His two most famous works were ''Agrōstīnos'' ("The Country-Dweller," or "Clodhopper"), which dealt humorously with the rustic lifestyle, and ''Hebes Gamos'' ("The Marriage of [[Hebe (mythology)|Hebe]]"), in which [[Heracles]] was portrayed as a glutton. He also depicted Odysseus as an unheroic figure of burlesque by parodying the Homeric image for comic effect in his ''Odysseùs Autómolos'' (Ulysses the Deserter).<ref>Martin Revermann, 'Paraepic poetry:point(s) and practices,' in Emmanuela Bakola, Lucia Prauscello, Mario Telò, [https://books.google.com/books?id=vy4gAwAAQBAJ&pg=PA113 ''Greek Comedy and the Discourse of Genres,''] Cambridge University Press 2013 pp.101-127 esp.pp.107ff.</ref> Additional works include
+
+{{div col|colwidth=22em}}
+*''Alkyon''
+*''[[Amykos]]'' ("Amycus")
+*''Harpagai''
+*''Bakkhai''
+*''Bousiris'' ("Busiris")
+*''Ga Kai Thalassa'' ("Earth and Sea")
+*''Deukalion'' ("[[Deucalion]]")
+*''Dionysoi'' ("The Dionysuses")
+*''Diphilus''
+*''Elpis'' ("Hope"), or ''Ploutos'' ("Wealth")
+*''Heorta kai Nasoi''
+*''Epinikios''
+*''Herakleitos'' ("[[Heraclitus]]")
+*''Thearoi'' ("Spectators")
+*''Hephaistos'' ("[[Hephaestus]]"), or ''Komastai'' ("The Revelers")
+*''Kyklops'' ("The Cyclops")
+*''Logos kai Logeina''
+*''Megaris'' ("Woman From [[Megara]]")
+*''Menes'' ("Months")
+*''Odysseus Nauagos'' ("Odysseus Shipwrecked")
+*''[[Orya (play)|Orya]]'' ("The Sausage")
+*''Periallos''
+*''Persai'' ("The Persians")
+*''Pithon'' ("The Little Ape" or "Monkey")
+*''Seirenes'' ("Sirens")
+*''Skiron''
+*''Sphinx''
+*''Triakades''
+*''Troes'' ("Trojan Men")
+*''Philoktetes'' ("[[Philoctetes]]")
+*''Choreuontes'' ("The Dancers")
+*''Chytrai'' ("The Pots")
+{{div col end}}
+
+Reproducing a mid-4th century BC accusation from [[Alcimus (rhetorician)|Alcimus]], [[Diogenes Laërtius]] in his  ''Lives of Eminent Philosophers''<ref>[[Diogenes Laërtius]], ''[[Lives and Opinions of Eminent Philosophers]]'', iii. 9</ref> conserves a late opinion that Plato plagiarized several of Epicharmus's ideas. "[H]e [Plato] derived great assistance from Epicharmus the Comic poet, for he transcribed a great deal from him, as [[Alcimus (rhetorician)|Alcimus]] says in the essays dedicated to Amyntas [of Heraclea]&hellip;." Laërtius then lists, in [[s:Lives of the Eminent Philosophers/Book III|III, 10]], the several ways that Plato "employs the words of Epicharmus."
+
+==Quotations==
+*"A mortal should think mortal thoughts, not immortal thoughts."
+*"The best thing a man can have, in my view, is health."
+*"The hand washes the hand: give something and you may get something."
+*"Then what is the nature of men? Blown-up bladders!"<ref name="epi1">[http://www.humanistictexts.org/grkanalec.htm#Epicharmus Humanistictexts.org] {{webarchive|url=https://web.archive.org/web/20080220185202/http://www.humanistictexts.org/grkanalec.htm |date=2008-02-20 }}</ref>
+*"Don't forget to exercise incredulity; for it is the sinews of the soul."
+
+==Notes==
+{{reflist}}
+
+==References==
+*Philip Wentworth Buckham, [https://archive.org/details/bub_gb_IjAZAAAAYAAJ <!-- quote=The Theatre of the Greeks. --> ''Theatre of the Greeks''], 1827.
+*P.E. Easterling (Series Editor), [[Bernard M.W. Knox]] (Editor), ''Cambridge History of Classical Literature'', v.I, Greek Literature, 1985. {{ISBN|0-521-21042-9}}, cf. Chapter 12, p.&nbsp;367 on Epicharmus and others.
+*Rudolf Kassel, C. Austin (Editor) ''Poetae Comici Graeci: Agathenor-Aristonymus (Poetae Comici Graeci)'', 1991.
+*A. W. Pickard-Cambridge, ''Dithyramb, Tragedy, and Comedy'' (1927, repr. 1962).
+*Plato, ''Theaetetus''.
+*William Ridgeway, contrib. ''The Dramas and Dramatic Dances of Non-European Races''. Cambridge: Cambridge University Press, 1915.
+*Xavier Riu, ''Dionysism and Comedy'', 1999. [http://ccat.sas.upenn.edu/bmcr/2000/2000-06-13.html]
+*Lucia Rodríguez-Noriega Guillén, ''Epicarmo de Siracusa. Testimonios y Fragmentos. Edición crítica bilingüe.''; Oviedo:  Universidad de Oviedo, Servicio de Publicaciones, 1996. [http://ccat.sas.upenn.edu/bmcr/2005/2005-10-24.html Reviewed by Kathryn Bosher, University of Michigan, in Bryn Mawr Classical Review 2005.10.24]
+* [[William Smith (lexicographer)|Smith, William]], ''[[Dictionary of Greek and Roman Biography and Mythology]]'', 1870, article on Epicharmus, [https://web.archive.org/web/20060501200240/http://www.ancientlibrary.com/smith-bio/1137.html]
+*Theocritus, ''Idylls and Epigrams''. (''Theocritus translated into English Verse'' by C.S. Calverley, [http://www.gutenberg.org/files/11533/11533-h/11533-h.htm])
+
+==External links==
+*[http://www.theatrehistory.com/ancient/ridgeway004.html An article on Epicharmus] at Theatrehistory.com
+*{{cite LotEP |chapter=Epicharmus}}
+*[http://demonax.info/doku.php?id=text:epicharmus_of_syracuse_fragments Epicharmus Fragments] at [http://demonax.info demonax.info]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Epicharmus Of Kos}}
+[[Category:540s BC births]]
+[[Category:450s BC deaths]]
+[[Category:Sicilian Greeks]]
+[[Category:Pythagoreans]]
+[[Category:Ancient Greek dramatists and playwrights]]
+[[Category:Ancient Greek poets]]
+[[Category:Ancient Koans]]
+[[Category:Doric Greek poets]]
+[[Category:Old Comic poets]]

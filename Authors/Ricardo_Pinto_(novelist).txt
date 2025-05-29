@@ -1,0 +1,81 @@
+{{Use dmy dates|date=July 2013}}
+{{Infobox writer
+| image       = Ricardo Pinto.jpg <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+| imagesize   = 250px
+| name        = Ricardo Pinto
+| caption     =
+| birth_date  = {{Birth year and age|1961}}
+| birth_place = [[Lisbon]], Portugal
+| nationality = Portuguese
+| death_date  =
+| death_place =
+| occupation  = Novelist
+| genre       = [[Fantasy]]
+| movement    =
+| magnum_opus =
+| influences  =
+| influenced  =
+| website     = {{URL|http://www.ricardopinto.com/}}
+| signature   =
+| footnotes   =
+}}
+'''Ricardo Pinto''' (born 1961 in [[Lisbon]], [[Portugal]]) is a [[computer game programmer]] and [[fantasy]] novelist.<ref name="RP bio">{{cite web |url=http://www.ricardopinto.com/biography/index.php |title=a biography |website=RicardoPinto.com |access-date=3 September 2014}}</ref>
+
+==Early life and gaming career==
+Pinto's family moved to London when he was six, and then to [[Dundee]] in Scotland. In 1979, he commenced a degree in Mathematics at the [[University of Dundee]]. In 1983, Pinto moved to London to work as a programmer writing computer games. He moved back to [[Edinburgh]] and then to [[Bristol]] working on game design. He became interested in creating the plot for games and wrote ''Kryomek'' and ''Hivestone'' as support material for tabletop wargames.<ref name="RP bio"/>
+
+==Writing==
+While still at university around 1982, Pinto had written a 600-page manuscript which he later said "contained a first, vague impression" of what would become his ''The Stone Dance of the Chameleon'' series.<ref name="RP bio"/><ref name="Strauss">{{cite web |first=Victoria |last=Strauss |author-link=Victoria Strauss |url=http://www.sfsite.com/03a/rp147.htm |title=A Conversation with Ricardo Pinto | website=SFsite.com |date=February 2003 |access-date=3 September 2014}}</ref> After 10 years working the computer gaming industry he spent two years unemployed and teaching himself to write, during which time he developed his ''Stone Dance'' concept further.<ref name="Strauss"/>
+
+His first novel, ''[[The Chosen (Pinto novel)|The Chosen]]'', was published in 1999. The sequel ''[[The Standing Dead]]'' was published in 2002 and a third novel, ''[[The Third God]]'', appeared in 2009, its completion delayed by the effects of a fire at the [[writer's home|author's home]]. ''The Stone Dance of the Chameleon'' trilogy concerns the harrowing experiences of the young and inexperienced heir to a ruling dynasty who is suddenly taken from his protected childhood and thrust into a cruel society where he must fight for his family honour, his position and his life.
+
+After giving up designing computer games, Pinto said that he "carried that discipline's world-building paradigm" into his writing. Though interested in historical fiction, he chose to write in an invented universe so as not to be creatively constrained by the setting. He notes that the Masters of the ''Stone Dance'' series have aspects of the Roman emperors seen though a "fairy tale lens." An initial conceptual idea was that the story was set in late [[Cretaceous period]] Antarctica, and some elements remain from this scenario.<ref name="Strauss"/>
+
+Pinto has said that the books include his most deeply held political beliefs. He also felt that, despite possible commercial difficulties, his novels should include gay characters as a reflection of his own life experiences.<ref name= Strauss/> He acknowledged that his ideas on writing and creating fantasy worlds had been influenced by the works of [[J. R. R. Tolkien]] and the ''[[Dune (novel)|Dune]]'' novels of [[Frank Herbert]].<ref>{{cite web |url=http://www.ricardopinto.com/readers/interviews/rui_cid_e.html| title=Interview with Rui Cid |date=June 2007|access-date=12 December 2007 |website=RicardoPinto.com |archive-url = https://web.archive.org/web/20071103222010/http://www.ricardopinto.com/readers/interviews/rui_cid_e.html |archive-date = 3 November 2007}}</ref>
+
+==''The Stone Dance of the Chameleon''==
+Pinto's ''The Stone Dance of the Chameleon'' trilogy follows young nobleman Carnelian as he is thrust into the dangerous political arena of the Three Lands. In this slave-owning civilisation of dazzling beauty and ancient ritual, the purity of noble bloodlines is paramount to the strict and ruthless caste system headed by the God Emperor and his Chosen. The faces of these self-indulgent Masters, held as deities, can never be seen unmasked by lesser people, under threat of immediate death. As the series begins, Carnelian follows his father Sardian, Lord Suth, from their outlying home to the capital of Osrakum as the current Emperor lies dying and a successor is to be named. Carnelian's own lineage puts him at the center of court intrigue, and in mortal danger.
+
+In 2020, Pinto re-released and self-published the series in a re-edited form, consisting of seven "leaner and extensive reworkings" of the original trilogy.<ref>{{cite web |url=https://www.ricardopinto.com/2018/08/15/stone-dance-second-edition/| title=The Stone Dance Second Edition |date=August 2018|access-date=25 July 2021 |website=Ricardopinto.com}}</ref>
+
+===First Edition===
+# ''[[The Chosen (Pinto novel)|The Chosen]]'' (1999)
+# ''[[The Standing Dead]]'' (2002)
+# ''[[The Third God]]'' (2009)
+
+===Second Edition===
+# ''The Masters'' (2020)
+# ''The Chosen'' (2020)
+# ''The Standing Dead'' (2020)
+# ''The Darkness Under the Trees'' (2020)
+# ''Dragon Fire'' (2020)
+# ''The Mirror Breaks'' (2020)
+# ''The Third God'' (2020)
+
+==Other Works==
+
+* '' War in Heaven'' (2013, with Adrian Smith)
+* ''Matryoshka'' (2018)
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+* {{Official website|http://www.ricardopinto.com/}}
+* {{isfdb name|id=Ricardo_Pinto|name=Ricardo Pinto}}
+* {{cite web |url=http://www.sffworld.com/interview/87p0.html |title=Interview with Ricardo Pinto |date=30 September 2002 |website=SFFWorld.com |first=Gary Alan |last=Wassner |access-date=3 September 2014}}
+* {{cite web |url=http://www.sfrevu.com/ISSUES/2002/0205/Review%20-%20The%20Standing%20Dead%20by%20Ricardo%20Pinto/book.htm |title=Richard Pinto Interview |year=2002 |website=SFRevu.com |first=Iain |last=Emsley |access-date=3 September 2014}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Pinto, Ricardo}}
+[[Category:1961 births]]
+[[Category:Living people]]
+[[Category:People from Lisbon]]
+[[Category:Scottish fantasy writers]]
+[[Category:Portuguese fantasy writers]]
+[[Category:Scottish people of Portuguese descent]]
+[[Category:Portuguese emigrants to the United Kingdom]]
+[[Category:Alumni of the University of Dundee]]
+[[Category:British gay writers]]
+[[Category:LGBT writers from Scotland]]

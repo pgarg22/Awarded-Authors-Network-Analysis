@@ -1,0 +1,196 @@
+{{other uses}}
+{{Short description|Early 2nd century Roman poet}}
+{{More footnotes|date=February 2011}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Juvenal
+| image       = Juvenalcrowned.gif
+| caption     = [[Book frontispiece|Frontispiece]] from [[John Dryden]], ''The<br/>[[Satires of Juvenal|Satires of Decimus Junius Juvenalis]]:<br/>And of [[Aulus Persius Flaccus]]''
+| pseudonym   =
+| birth_date  = 1st century AD
+| birth_place = [[Aquinum]] (modern Aquino)
+| death_date  = 2nd century AD
+| death_place =
+| occupation  = [[Poet]]
+| nationality = [[Roman Empire|Roman]]
+| period      =
+| genre       = [[Satire]]
+| subject     =
+| movement    =
+}}
+
+'''Decimus Junius Juvenalis''' ({{IPA-la|ˈdɛkɪmʊs ˈjuːniʊs jʊwɛˈnaːlɪs|lang}}), known in English as '''Juvenal''' ({{IPAc-en|ˈ|dʒ|uː|v|ən|əl}} {{respell|JOO|vən|əl}}), was a [[Roman Empire|Roman]] [[poet]] active in the late first and early second century [[Anno Domini|AD]]. He is the author of the collection of satirical poems known as the ''[[Satires (Juvenal)|Satires]]''. The details of the author's life are unclear, although references within his text to known persons of the late first and early second centuries AD fix his [[terminus post quem|earliest date of composition]]. One recent scholar argues that his first book was published in 100 or 101.<ref>Uden, J. ''The Invisible Satirist: Juvenal and Second-Century Rome'' (Oxford, 2015), pp. 219–226</ref> Because of a reference to a recent political figure, his fifth and final surviving book must date from after 127.<ref>{{cite book |last=Mayor |first=John Eyton Bickersteth |date=1881 |title=Thirteen Satires of Juvenal |url=https://www.google.com/books/edition/Thirteen_Satires_of_Juvenal/UJ6p_J1Bc3EC?hl=en&gbpv=1&pg=PR18 |location=Cambridge |publisher=Macmillan and Company |page=xviii |isbn=}}</ref>
+
+Juvenal wrote at least 16 poems in the verse form [[dactylic hexameter]]. These poems cover a range of Roman topics. This follows [[Gaius Lucilius|Lucilius]]&mdash;the originator of the Roman satire genre, and it fits within a poetic tradition that also includes [[Horace]] and [[Persius]]. The ''Satires'' are a vital source for the study of [[ancient Rome]] from a number of perspectives, although their comic mode of expression makes it problematic to accept the content as strictly factual. At first glance the ''Satires'' could be read as a critique of pagan Rome. That critique may have ensured their preservation by the Christian monastic [[scriptorium|scriptoria]] although the majority of ancient texts did not survive.
+
+== Life ==
+[[File:Juvenal_portrait.jpg|thumb|''Juvenal'', S. H. Gimber, 1837]]
+
+Details of the author's life cannot be reconstructed definitively. The ''Vita Iuvenalis'' (Life of Juvenal), a biography of the author that became associated with his manuscripts no later than the tenth century, is little more than an extrapolation from the ''Satires''.
+
+Traditional biographies, including the ''Vita Iuvenalis'', give us the writer's full name and also tell us that he was either the son, or adopted son, of a rich [[freedman]]. He is supposed to have been a pupil of [[Quintilian]], and to have practised rhetoric until he was middle-aged, both as amusement and for legal purposes. The ''Satires'' do make frequent and accurate references to the operation of the Roman legal system. His career as a satirist is supposed to have begun at a fairly late stage in his life.
+
+Biographies agree in giving his birthplace as the [[Volsci]]an town of [[Aquinum]]<ref name=EB1911>{{cite EB1911 |wstitle=Juvenal |volume=15 |pages=610–613 |first1=William |last1=Sellar   |first2=John |last2=Postgate}}</ref> and also, in allotting to his life a period of exile, which supposedly was due to his insulting an actor who had high levels of court influence. The emperor who is said to have banished him is given variously, as either [[Trajan]] or [[Domitian]]. A preponderance of the biographies place his exile in Egypt, with the exception of one, that opts for Scotland.<ref name="Peter Green p.15">Peter Green: Introduction to Penguin Classics edition of the ''Satires'', 1998 edition: pp. 15 ff</ref>
+
+Only one of these traditional biographies supplies a date of birth for Juvenal: it gives 55 AD, which most probably is speculation, but accords reasonably well with the rest of the evidence. Other traditions have him surviving for some time past the year of [[Hadrian]]'s death (138 AD). Some sources place his death in exile, others have him being recalled to Rome (the latter of which is considered more plausible by contemporary scholars). If he was exiled by Domitian, then it is possible that he was one of the political exiles recalled during the brief reign of [[Nerva]].<ref name="Peter Green p.15"/>
+
+It is impossible to tell how much of the content of these traditional biographies is fiction and how much is fact. Large parts clearly are mere deduction from Juvenal's writings, but some elements appear more substantial. Juvenal never mentions a period of exile in his life, yet it appears in every extant traditional biography. Many scholars think the idea to be a later invention; the ''Satires'' do display some knowledge of Egypt and Britain, and it is thought that this gave rise to the tradition that Juvenal was exiled. Others, however - particularly [[Gilbert Highet]] - regard the exile as factual, and these scholars also supply a concrete date for the exile: 93 AD until 96, when Nerva became emperor. They argue that a reference to Juvenal in one of [[Martial]]'s poems, which is dated to 92, is impossible if, at this stage Juvenal was already in exile, or, had served his time in exile, since in that case, Martial would not have wished to antagonise Domitian by mentioning such a ''persona non grata'' as Juvenal. If Juvenal was exiled, he would have lost his [[Family patrimony|patrimony]], and this may explain the consistent descriptions of the life of the client he bemoans in the ''Satires''.
+
+The only other biographical evidence available is a dedicatory inscription said to have been found at Aquinum in the nineteenth century, which consists of the following text:<ref>(From L to R: the inscription as preserved, the restored inscription, and the translation of the restored inscription.)</ref>
+{{col-begin}}
+{{col-3}}
+<div style="font-size: 85%">
+: ...]RI·SACRVM
+: ...]NIVS·IVVENALIS
+: ...] COH·[.]·DELMATARVM
+: II·VIR·QVINQ·FLAMEN
+: DIVI·VESPASIANI
+: VOVIT·DEDICAV[...]UE
+: SVA                     PEC
+</div>
+{{col-3}}
+<div style="font-size: 85%">
+:[CERE]RI·SACRVM
+:[D(ECIMVS) IV]NIVS·IVVENALIS
+:[TRIB(VNVS)] COH(ORTIS)·[I]·DELMATARVM
+:II·VIR·QVINQ(VENNALIS)·FLAMEN
+:DIVI·VESPASIANI
+:VOVIT·DEDICAV[ITQ]VE
+:SVA PEC(VNIA)
+</div>
+{{col-3}}
+<div style="font-size: 85%">
+: To [[Ceres (Roman mythology)|Ceres]] (this) sacred (thing)
+: (Decimus Junius?) Juvenalis
+: military tribune of the first cohort of the Dalmatian<ref name=EB1911/> (legions)
+: [[Duovir]], Quinquennalis, [[Imperial cult (Ancient Rome)|Flamen]]
+: of the Divine [[Vespasian]]
+: vowed and dedicated
+: at his own expense
+: (''Corpus Inscriptionum Latinarum'' X.5382)
+</div>
+{{col-end}}
+
+Scholars usually are of the opinion that this inscription does not relate to the poet: a military career would not fit well with the pronounced anti-militarism of the ''Satires'' and, moreover, the Dalmatian legions do not seem to have existed prior to 166 AD. Therefore, it seems likely that this reference is to a Juvenal who was a later relative of the poet, however, as they both came from Aquinum and were associated with the goddess [[Ceres (mythology)|Ceres]] (the only deity the ''Satires'' shows much respect for). If the theory that connects these two Juvenals is correct, then the inscription does show that Juvenal's family was reasonably wealthy, and that, if the poet really was the son of a foreign freedman, then his descendants assimilated into the Roman class structure more quickly than typical. [[Peter Green (historian)|Green]] thinks it more likely that the tradition of the freedman father is false and, that Juvenal's ancestors had been minor nobility of Roman Italy of relatively ancient descent.<ref>Peter Green: Introduction to Penguin Classics edition of the ''Satires'', 1998 edition: pp. 23–24</ref>
+
+== The ''Satires'' and their genre ==
+{{main|Satires (Juvenal)}}
+[[File:Satirae.tif|thumb|''Saturae'', 1535]]
+
+Juvenal is credited with sixteen known poems divided among five [[scroll|books]]; all are in the Roman genre of satire, which, at its most basic in the time of the author, comprised a wide-ranging discussion of society and social mores in [[dactylic hexameter]].<ref>Lucilius experimented with other meters before settling on dactylic hexameter.</ref> In ''Satire I'', concerning the scope and content of his work, Juvenal says:
+{{Verse translation|
+{{lang|la|ex quo Deucalion nimbis tollentibus aequor
+nauigio montem ascendit sortesque poposcit
+paulatimque anima caluerunt mollia saxa
+et maribus nudas ostendit Pyrrha puellas,
+quidquid agunt homines, uotum, timor, ira, uoluptas,
+gaudia, discursus, nostri farrago libelli est.}}
+|attr1=(1.81–86)|
+Back from when [[Deucalion]] climbed a mountain in a boat
+as the clouds lifted the waters, and then asked for an oracle,
+and then little by little spirit warmed the soft stones
+and [[Pyrrha of Thessaly|Pyrrha]] showed naked girls to their husbands,
+whatever men do—prayer, fear, rage, pleasure, 
+joy, running about—is the gist of my little book.}}
+<!-- All quotations are semi-literal translations of the Latin text as found in the Latin Library (http://www.thelatinlibrary.com) done by me for this entry with the Latin text below from the same source. - Nefasdicere -->
+
+Juvenal claims as his purview, the entire gamut of human experience since the dawn of history. Quintilian—in the context of a discussion of literary genres appropriate for an oratorical education—claimed that, unlike so many literary and artistic forms adopted from Greek models, “satire at least is all ours” (''satura quidem tota nostra est'').<ref>{{cite book |title=Institutio Oratoria |volume=10 |date=1924 |orig-date=c. 95 CE |author=Quintilian |author-link=Quintilian |page=58 |editor=Arnaldo Beltrami |location=Bologna, Italy |url=https://babel.hathitrust.org/cgi/pt?id=uc1.$b291094&view=1up&seq=100 }}</ref> At least in the view of Quintillian, earlier Greek satiric verse (e.g. that of [[Hipponax]]) or even Latin satiric prose (e.g. that of [[Petronius]]) did not constitute ''satura'', per se. Roman ''Satura'' was a formal literary genre rather than being simply clever, humorous critique in no particular format.
+
+*Book I:  Satires 1–5
+*Book II: Satire 6
+*Book III: Satires 7–9
+*Book IV: Satires 10–12
+*Book V: Satires 13–16 (although Satire 16 is incomplete)
+
+The individual ''Satires'' (excluding Satire 16) range in length from 130 (Satire 12) to c. 695 (Satire 6) lines. The poems are not entitled individually, but translators often have added titles for the convenience of readers.
+
+== Modern criticism and historical context of the ''Satires'' ==
+
+While Juvenal's mode of satire has been noted from antiquity for its wrathful scorn toward all representatives of social deviance, some politically progressive scholars such as, W. S. Anderson and later S. M. Braund, have attempted to defend his work as that of a rhetorical ''persona'' (mask), taken up by the author to critique the very attitudes he appears to be exhibiting in his works.<ref>According to Braund (1988 p. 25), Satire 7 – the opening poem of Book III – represents a “break” with satires one through six – Books I and II – where Juvenal relinquishes the ''indignatio'' of the “angry ''persona''” in favor of the irony of a “much more rational and intelligent” ''persona''.</ref>
+
+In any case it would be an error to read the ''Satires'' as a literal account of normal Roman life and thought in the late first and early second centuries AD, just as it would be an error to give credence to every slander recorded in [[Suetonius]] against the members of prior [[Julio-Claudian dynasty|imperial dynasties]]. Themes similar to those of the ''Satires'' are present in authors spanning the period of the late [[Roman Republic]] and early [[Roman empire|empire]] ranging from [[Cicero]] and [[Catullus]] to [[Martial]] and Tacitus; similarly, the stylistics of Juvenal's text fall within the range of post-Augustan literature, as represented by [[Persius]], [[Statius]], and [[Petronius]].<ref>[[Amy Richlin]] identifies oratorical invective as a source for both satire and epigram. 1992 p. 127.</ref>
+
+Juvenal's ''Satires'', giving several accounts of Jewish life in first-century Rome, have been regarded by scholars, such as J. Juster and, more recently, Peter Nahon, as a valuable source about early [[Judaism]].<ref>Peter Nahon, 2014. Idées neuves sur un vieux texte : Juvénal, ''Saturae'', 6, 542–547. In: ''Revue des études latines'' 92:1–6</ref>
+
+==Literary and cultural influence==
+
+The ''Satires'' have inspired many authors, including [[Dr Johnson|Samuel Johnson]], who modeled his “[[London (Samuel Johnson poem)|London]]” on ''Satire III'' and “[[The Vanity of Human Wishes]]” on ''Satire X''. [[Alexander Theroux]], whose novels are rife with vicious satire, identified Juvenal as his most important influence.<ref>"Theroux Metaphrastes: An Essay on Literature," in ''Three Wogs'' (Boston: David Godine, 195), p. 23.</ref> Juvenal also provided a source for the name for a forensically important beetle, [[Histeridae]]. Juvenal is the source of many well-known maxims, including:
+*that the common people—rather than caring about their freedom—are only interested in “bread and circuses” (''[[bread and circuses|panem et circenses]]'' 10.81; i.e. food and entertainment),
+*that—rather than for wealth, power, eloquence, or children—one should pray for a “sound mind in a sound body” (''[[mens sana in corpore sano]]'' 10.356),
+*that a perfect wife is a “rare bird” (''[[wiktionary:rara avis|rara avis]] in terris nigroque simillima cycno'' 6.165; a rare bird in the earth and most similar to a [[Black swan theory|black swan]])<ref>Though in fact the description of a good wife as ''rara avis'' is not Juvenal's coining but dates back to Seneca ''de Matr.'' 56. (Ferguson (1979) ''Juvenal: The Satires'', on line 6.165).</ref>
+*that "honesty is praised and left out in the cold"  ''Probitas laudatur et alget'' (I, line 74).
+*and the troubling question of who can be trusted with power—“who will watch the watchers?” or "who will guard the guardians themselves?" (''[[quis custodiet ipsos custodes]]'' 6.347–48).
+
+ASICS, the footwear and sports equipment manufacturing company, is named after the acronym of the [[Latin]] phrase ''[[Mens sana in corpore sano|"anima sana in corpore sano"]]'' (a sound mind in a sound body) from [[Satires (Juvenal)#Satire X: Wrong Desire is the Source of Suffering|''Satire'' X]] by Juvenal (10.356).<ref name=":0">{{Cite web|url = http://www.asicsamerica.com/about-asics|title = About ASICS|access-date = 2015-08-31|publisher = ASICS America}}</ref>
+
+In his autobiography, the German writer [[Heinrich Böll]] notes that in the high school he attended when growing up under [[Nazi Germany|Nazi]] rule, an anti-Nazi teacher paid special attention to Juvenal: "Mr. Bauer realized how topical Juvenal was, how he dealt at length with such phenomena as arbitrary government, tyranny, corruption, the degradation of public morals, the decline of the Republican ideal and the terrorizing acts of the [[Praetorian Guards]]. (...) In a second-hand bookshop I found an 1838 translation of Juvenal with an extensive commentary, twice the length of the translated text itself, written at the height of the [[German Romanticism| Romantic period]]. Though its price was more than I could really afford, I bought it. I read all of it very intensely, as if it was a [[detective novel]]. It was one of the few books to which I persistently held on throughout the war ([[WWII]]) and beyond, even when most of my other books were lost or sold on the black market".<ref>Heinrich Boll, "What will become of this kid? Or: About Books", Ch, 17</ref>
+
+==See also==
+{{Portal|Ancient Rome|Literature}}
+* [[Glossarium Eroticum]]
+* [[Junia (gens)]]
+* ''[[Bread and circuses|Panem et circenses]]''
+* [[Satires (Juvenal)|''Satires'' (Juvenal)]]
+* [[Satire VI]]
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+{{Refbegin|30em}}
+*Anderson, William S. (1982) ''Essays on Roman Satire'', Princeton: Princeton University Press.
+*Braund, Susanna M. (1988) ''Beyond Anger: A Study of Juvenal’s Third Book of Satires'', Cambridge: Press Syndicate of the University of Cambridge.
+*Braund, Susanna (1996) ''Juvenal Satires Book I'',  Cambridge: Press Syndicate of the University of Cambridge.
+*Braund, Susanna (1996) ''The Roman Satirists and their Masks'',  London: Bristol Classical Press.
+*Courtney, E. (1980) ''A Commentary of the Satires of Juvenal'', London: Athlone Press.
+*Edwards, Catherine (1993) ''The Politics of Immorality in Ancient Rome'', Cambridge: Cambridge University Press.
+*Gleason, Maud W. (1995) ''Making Men: Sophists and Self-Presentation in Ancient Rome'',  Princeton: Princeton University Press.
+*Gowers, Emily (1993) ''The Loaded Table: Representations of Food in Roman Literature'',  Oxford: Oxford University Press.
+*Green, Peter (1989). [https://www.jstor.org/stable/25007317 "Juvenal Revisited"]. ''Grand Street'', Vol. 9, No. 1 (Autumn, 1989), pp.&nbsp;175–196.
+*Green, Peter (trans.) (1998): [https://books.google.com/books?id=uvQTNfOi7M8C&lpg=PP1&dq=Juvenal%20Penguin&pg=PP1#v=onepage&q&f=false ''Juvenal. The Sixteen Satires'']. London: Penguin Books. (3rd revised edn; first edn published 1967).
+*Highet, Gilbert (1961) ''Juvenal the Satirist'',  New York: Oxford University Press.
+*[https://books.google.com/books?id=LKHX78b24N4C&lpg=PP1&dq=Juvenal%20Niall%20Rudd&pg=PP1#v=onepage&q&f=false Juvenal (1992) ''The Satires''], Trans. [[Niall Rudd]], Oxford: Oxford University Press.
+*Juvenal (1992) ''Persi et Juvenalis Saturae'', ed. W. V. Clausen.  London:  Oxford University Press.
+* Kelk, Christopher (2010), ''The Satires of Juvenal: A Verse Translation'', Edwin Mellen Press.
+*Macleane, Arthur J. (1867). [https://catalog.hathitrust.org/Record/001808847 ''Decii Junii Juvenalis et A. Persii Flacci Satirae. With a commentary''].
+*''The Oxford Classical Dictionary'' 3rd ed., 1996, New York: Oxford University Press.
+*Richlin, Amy (1992) ''The Garden of Priapus'', New York : Oxford University Press.
+*[[Niall Rudd|Rudd, Niall]] (1982) ''Themes in Roman Satire'', Los Angeles: University of California Press.
+*Rudd, Niall (tr.) (1991): [https://books.google.com/books?id=LKHX78b24N4C&lpg=PP1&dq=Juvenal%20Niall%20Rudd&pg=PP1#v=onepage&q&f=false Juvenal ''Juvenal: The Satires, with an Introduction and Notes by William Barr'']. Oxford.
+*Syme, Ronald (1939) ''The Roman Revolution'', Oxford: Oxford University Press.
+*Uden, James (2015) ''The Invisible Satirist: Juvenal and Second-Century Rome''. Oxford: Oxford University Press. 
+*Stramaglia, Antonio; Grazzini, Stefano; Dimatteo, Giuseppe (2015): ''Giovenale tra storia, poesia e ideologia'', Berlin/Boston: De Gruyter.
+{{Refend}}
+
+== External links ==
+{{wikisource-author}}
+{{wikiquote}}
+{{Library resources box |by=yes |onlinebooks=yes |others=yes |about=yes |label=Juvenal
+  |viaf= |lccn= |lcheading= |wikititle= }}
+* [http://www.thelatinlibrary.com/juvenal.html Latin text of The ''Satires'' of Juvenal] at [[The Latin Library]]
+* [http://www.tertullian.org/fathers#Juvenal English translations of all 16 satires] at the Tertullian Project.  Together with a survey of the manuscript transmission.
+* [https://www.perseus.tufts.edu/hopper/searchresults?q=Juvenal Works by Juvenal at Perseus Digital Library]
+* [[s:Juvenal Satires|English translations of Satires 1, 2, 3, 6, 8 and 9]]
+* [http://www.fordham.edu/halsall/ancient/juvenalpersius-intro.html Juvenal's first 3 "Satires" in English]
+* [https://web.archive.org/web/20141206193712/http://www.rhapsodes.fll.vt.edu/juvenal.htm SORGLL:  Juvenal, Satire I.1–30, read by Mark Miner]
+* [http://www.newcriterion.com/articles.cfm/Lessons-from-Juvenal-1755 Lessons From Juvenal]
+* {{Internet Archive author |sname=Juvenal}}
+* {{Librivox author |id=5458}}
+* ''[https://archive.org/details/juvenalpersiuswi00juveuoft Juvenal and Persius]'', G. G. Ramsay (ed.), Loeb, London: William Heinemann, New York: G. P. Putnam's sons, 1928.
+
+{{Ancient Rome topics|state=collapsed}}
+
+{{Authority control}}
+
+[[Category:Junii|Juvenalis, Decimus]]
+[[Category:1st-century births]]
+[[Category:2nd-century deaths]]
+[[Category:1st-century Romans]]
+[[Category:2nd-century Romans]]
+[[Category:1st-century writers]]
+[[Category:2nd-century writers]]
+[[Category:Ancient Romans in Britain]]
+[[Category:Latin-language writers]]
+[[Category:Ancient Roman writers]]
+[[Category:Roman-era satirists]]
+[[Category:Silver Age Latin writers]]
+[[Category:People from the Province of Frosinone]]

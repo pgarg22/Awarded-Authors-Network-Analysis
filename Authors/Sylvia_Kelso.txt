@@ -1,0 +1,64 @@
+{{Use dmy dates|date=November 2016}}
+{{Use Australian English|date=November 2016}}
+{{notability|Biographies|date=May 2010}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|image =  <!-- only free-content images are allowed for depicting living people - see [[WP:NONFREE]] -->
+|imagesize = 150px |
+ | name        = Sylvia Kelso
+ | caption     = 
+ | pseudonym   = 
+ | birth_date  = 
+ | birth_place = [[North Queensland]]
+ | death_date  = 
+ | death_place = 
+ | occupation  = Lecturer, English Literature
+ | nationality = Australian
+ | period      = 
+ | genre       = Fantasy, Science Fiction
+ | subject     = 
+ | movement    = 
+ | influences  = 
+ | influenced  = 
+ | signature   = 
+| website = {{URL|http://kelsowrite.blogspot.com/}}}}
+
+'''Sylvia Kelso''' is an author of both [[fantasy]] and [[science fiction]], usually set in analogue or outright [[Australia]]n landscapes. She has a Creative Writing MA built around one science-fiction novel using alternate [[North Queensland]]s and she earned her Ph.D. in 1997.
+
+Kelso's novels are densely descriptive, the worlds complex and minutely constructed, the environments, lush or bleak, brought alive with poetic force.  
+
+Her critical interests cover: Feminist Theory and History, Gothic and Horror Fiction, Science Fiction and Fantasy, and Women's Writing.
+
+There are some stylistic similarities to the works of [[Patricia A. McKillip]].
+
+==Bibliography==
+;Novels
+* The Rihannar Chronicles, Book 1: Everran's Bane [2005]
+* The Rihannar Chronicles, Book 2: The Moving Water [2007]
+* The Rihannar Chronicles, Book 3: The Red Country [2008]
+* Amberlight [October 2007]
+* Riversend [sequel to Amberlight, 2009]
+* Source [2010]
+
+;Blackston Gold:
+* The Solitaire Ghost [June 2011]
+* The Time Seam [November 2011]
+
+;Non-fiction:
+* Three Observations and a Dialogue Round and About SF [Aqueduct Press, May 2009]
+
+==External links==
+* [http://kelsowrite.blogspot.com/ Home Page of Sylvia Kelso]
+*{{isfdb name|id=Sylvia_Kelso|name=Sylvia Kelso}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Kelso, Sylvia}}
+[[Category:Year of birth missing (living people)]]
+[[Category:Living people]]
+[[Category:Australian fantasy writers]]
+[[Category:Australian women writers]]
+[[Category:Women science fiction and fantasy writers]]
+
+
+{{sf-writer-stub}}
+{{Australia-writer-stub}}

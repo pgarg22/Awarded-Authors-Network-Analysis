@@ -1,0 +1,143 @@
+{{Short description|Argentine poet}}
+{{Cleanup rewrite|date=November 2018}}
+{{Lead too short|date=November 2018}}
+{{Infobox writer <!-- For more information see [[:Template:Infobox Writer/doc]]. -->
+| image         = AlfosinaStorni.jpg
+| image_size    = 200px
+| caption       = 
+| birth_date    = {{Birth date|1892|05|29|df=yes}}
+| birth_place   = [[Sala Capriasca]], [[Switzerland]]
+| death_date    = {{Death date and age|1938|10|25|1892|05|29|df=yes}}
+| death_place   = [[Mar del Plata]], [[Argentina]]
+| resting_place = [[La Chacarita Cemetery]]
+| nationality   = [[Argentine]]
+| movement      = [[Modernism]]
+| notableworks  = Ocre ("Ochre")<br/>El dulce daño ("Sweet pain")
+| children      = 
+|language=Spanish
+| signature     = Firma Alfonsina Storni.jpg
+}}
+'''Alfonsina Storni''' (29 May 1892 – 25 October 1938) was an [[Argentine]] poet and playwright of the [[modernist]] period.<ref name="Press1999">{{cite book|author=Salem Press|title=Directory of Historical Figures|url=https://books.google.com/books?id=3b9WAAAAYAAJ|access-date=28 October 2012|date=1 October 1999|publisher=Salem Press|isbn=978-0-89356-334-9|page=604}}</ref><ref>{{Cite web|title=Alfonsina Storni {{!}} Argentine writer {{!}} Britannica|url=https://www.britannica.com/biography/Alfonsina-Storni|access-date=2021-11-16|website=www.britannica.com|language=en}}</ref>
+
+==Early life==
+Storni was born on May 29, 1892 in [[Sala Capriasca]], [[Switzerland]]. Her parents were Alfonso Storni and Paola Martignoni, who were of Italian-Swiss descent. Before her birth, her father had started a brewery in the city of [[San Juan, Argentina|San Juan]], [[Argentina]], producing beer and soda.  In 1891, following the advice of a doctor, he returned with his wife to Switzerland, where Alfonsina was born the following year; she lived there until she was four years old. In 1896 the family returned to San Juan, and a few years later, in 1901, moved to [[Rosario]] because of economic issues{{vague|date=November 2018}}. There her father opened a tavern, where Storni did a variety of chores. That family business soon failed, however. Storni wrote her first verse at the age of twelve, and continued writing verses during her free time. She later entered into the Colegio de la Santa Union as a part-time student.<ref name=":0" /> In 1906, her father died and she began working in a hat factory to help support her family.<ref name=":0" />
+
+In 1907, her interest in dance led her to join a traveling theatre company, which took her around the country. She performed in [[Henrik Ibsen]]'s ''Ghosts,'' [[Benito Pérez Galdós]]'s ''La loca de la casa,'' and Florencio Sánchez's ''Los muertos''. In 1908, Storni returned to live with her mother, who had remarried and was living in [[:es:Bustinza|Bustinza]]. After a year there, Storni went to [[Coronda]], where she studied to become a rural primary schoolteacher. During this period, she also started working for the local magazines ''Mundo Rosarino'' and ''Monos y Monadas'', as well as the prestigious ''Mundo Argentino''.{{citation needed|date=November 2018}}
+
+In 1912 she moved to [[Buenos Aires]], seeking the anonymity afforded by a big city.  There she met and fell in love with a married man whom she described as "an interesting person of certain standing in the community. He was active in politics..."<ref name=":0" /> That year, she published her first short story in Fray Mocho.<ref name=":0" /> At age nineteen, she found out that she was pregnant with the child of a journalist and became a single mother.<ref name=":0" /> Supporting herself with teaching and newspaper journalism, she lived in Buenos Aires where the social and economical difficulties faced by Argentina's growing middle classes were inspiring an emerging body of women's rights activists.<ref name=":1">{{cite news|url=http://www.argentinaindependent.com/top-story/alfonsina-storni-the-poetess-that-broke-from-the-pack/|first=Kate|last1=Bowen|date=10 November 2011|title=Alfonsina Storni: The Poetess that Broke from the Pack|work=The Argentina Independent|access-date=24 April 2015|archive-url=https://web.archive.org/web/20180927125104/http://www.argentinaindependent.com/top-story/alfonsina-storni-the-poetess-that-broke-from-the-pack/|archive-date=27 September 2018|url-status=dead}}</ref>
+
+==Literary career==
+Storni was among the first women to find success in the male-dominated arenas of literature and theater in Argentina, and as such, developed a unique and valuable voice that holds particular relevance in Latin American poetry.<ref name=":1" />  Storni was an influential person, not only to her readers but also to other writers.<ref name="Storni impresionista" /> Though she was known mainly for her poetic works, she also wrote prose, journalistic essays, and drama.<ref name="Storni impresionista" /> Storni often gave controversial opinions.<ref name=":0" /> She criticized a wide range of topics from politics to gender roles and discrimination against women.<ref name=":0" /> In Storni's time, her work did not align itself with a particular movement or genre. It was not until the [[Modernism|modernist]] and [[avant-garde]] movements<ref>{{Cite journal|last=Pascucci|first=Michele M.|date=2016|title=Mensajeros de un tiempo nuevo: Modernidad y nihilismo en la literatura de vanguardia (1918–1936) by Juan Herrero Senés|journal=Hispania|volume=99|issue=3|pages=495–496|doi=10.1353/hpn.2016.0077|s2cid=151976217|issn=2153-6414}}</ref> began to fade that her work seemed to fit in. She was criticized for her atypical style, and she has been labeled most often as a [[postmodernism|postmodern]] writer.<ref>{{Cite web|url=http://alchemy.ucsd.edu/2018/06/02/the-dream/|title=Alchemy » "The Dream"|website=alchemy.ucsd.edu|language=en-US|access-date=2018-11-20}}</ref>
+
+===Early work===
+[[File:Alfonsina Storni - 24 años de edad.jpg|thumbnail|Storni in 1916]]Storni published some of her first works in 1916 in [[Emin Arslan]]'s literary magazine ''La Nota'', where she was a permanent contributor from 28 March until 21 November 1919.<ref name="Tecnologías de género">{{cite journal|last1=Diz|first1=Tania|title=Periodismo y tecnologías de género en la revista La Nota- 1915-18|journal=Revista Científica de la Universidad de Ciencias Empresariales y Sociales|date=2005|volume=IX|issue=1|pages=89–108|url=http://www.aacademica.org/tania.diz/60.pdf|access-date=17 March 2017|location=Buenos Aires|language=es|issn=1514-9358}}</ref><ref name="Storni impresionista">{{cite journal|last1=Méndez|first1=Claudia Edith|title=Alfonsina Storni: Análisis y contextualización del estilo impresionista en sus crónicas|journal=Digital Repository|date=28 July 2004|url=http://drum.lib.umd.edu/handle/1903/1706|access-date=17 March 2017|series=Languages, Literatures, & Cultures Theses and Dissertations|publisher=University of Maryland|location=College Park, MD|language=es}}</ref><ref>{{cite news|last1=Quereilhac|first1=Soledad|title=Con la mira en la mujer futura|url=http://www.lanacion.com.ar/1702838-con-la-mira-en-la-mujer-futura|access-date=17 March 2017|work=La Nación|date=20 June 2014|location=Buenos Aires|language=es}}</ref> Her poems [https://web.archive.org/web/20160304231350/https://www.revistas-culturales.de/es/digitale_sammlungen/seite/48031?page=0%2C8 “Convalecer”] and [https://web.archive.org/web/20160304214304/https://www.revistas-culturales.de/es/digitale_sammlungen/seite/48072?page=0%2C13 “Golondrinas”] were published in the magazine. In spite of economic difficulties, she published ''La inquietud del rosal '' in 1916, and later started writing for the magazine ''Caras y Caretas'' while working as a cashier in a shop. Even though today Storni's early works of poetry are among her most well known and highly regarded, they received harsh criticism from some of her male contemporaries, including such well known figures as [[Jorge Luis Borges]] and Eduardo Gonzalez Lanuza.<ref>{{cite web |last1=Kirkpatrick |first1=Gwen |title=The Journalism of Alfonsina Storni: A New Approach to Women's History in Argentina |url=http://ark.cdlib.org/ark:/13030/ft7c600832/ |website=Seminar on Feminism and Culture in Latin America. Women, Culture, and Politics in Latin America |publisher=University of California Press |access-date=22 July 2019}}</ref> The eroticism and feminist themes in her writing were controversial subject matter for poetry during her time, but writing about womanhood in such a direct way was one of her principal innovations as a poet.<ref>{{cite journal |last1=Geasler Titiev |first1=Janice |title=Feminist Themes in Alfonsina Storni's Poetry |journal=Letras Femeninas |date=1978 |volume=4 |issue=1 |pages=39–40 |jstor=23022498 }}</ref>
+
+===Wider recognition===
+In the rapidly developing literary scene of Buenos Aires, Storni soon became acquainted with other writers, such as [[José Enrique Rodó]] and [[Amado Nervo]]. Her economic situation improved, which allowed her to travel to [[Montevideo]], [[Uruguay]]. There she met the poet [[Juana de Ibarbourou]], as well as [[Horacio Quiroga]], with whom she would become great friends. Quiroga led the  Anaconda group and Storni became a member<ref>{{Cite book|url=https://books.google.com/books?id=g_vCJuBTrmQC&q=Emilia+Bertol%C3%A9+anaconda&pg=RA1-PR13|title=Alfonsina Storni: Una biografía esencial|last=Delgado|first=Josefina|date=2012-02-01|publisher=Penguin Random House Grupo Editorial Argentina|isbn=978-987-566-776-1|language=es}}</ref> together with [[Emilia Bertolé]], [[Ana Weiss de Rossi]], [[Amparo de Hieken]], [[Ricardo Hicken]] and [[Berta Singerman]]<ref>{{Cite book|url=https://books.google.com/books?id=Smutnb4TeIIC&q=Emilia+Bertol%C3%A9+anaconda&pg=PA361|title=Todos los cuentos|last=Quiroga|first=Horacio|date=1996|publisher=EdUSP|isbn=978-84-89666-25-2|language=es}}</ref>
+
+During one of her most productive periods, from 1918 to 1920 Storni published three volumes of poetry: ''El dulce daño'' (Sweet Pain), 1918; ''Irremediablemente'' (Irremediably), 1919; and ''Languidez'' (Languor) 1920. The latter received the first Municipal Poetry Prize and the second National Literature Prize, which added to her prestige and reputation as a talented writer.<ref name=":1" /> she also published many articles in prominent newspapers and journals of the time.<ref>{{cite book |last1=Jones |first1=Sonia |title=Alfonsina Storni |date=1979 |publisher=Twayne Publishers |isbn=0805763600 |pages=[https://archive.org/details/alfonsinastorni00jone/page/34 34–35] |url-access=registration |url=https://archive.org/details/alfonsinastorni00jone/page/34 }}</ref> Later, she continued her experimentation with form in 1925's ''Ocre'', a volume composed almost entirely of sonnets that are among her most traditional in structure. These verses were written around the same time as the more loosely structured prose poems of her lesser-known volume, ''Poemas de Amor'', from 1926.<ref>{{cite journal |last1=Geasler Titiev |first1=Janice |title=Alfonsina Storni's "Poemas de amor": Submissive Woman, Liberated Poet |journal=Journal of Spanish Studies: Twentieth Century Journal of Spanish Studies: Twentieth Century |date=Winter 1980 |volume=8 |issue=3 |pages=279–292 |jstor=27740950 }}</ref>
+
+The magazine [[Nosotros (magazine)|Nosotros]] was influential in spearheading the rise of new argentine literature by helping to form the opinions of the readers. In 1923, Nosotros published a survey aimed at members of the “new literary generation.” The question was simple: Which three or four poets under the age of thirty do you admire the most? At that time, Storni had just turned thirty-one, and was too old to be considered a “Master of the new generation.”
+
+=== Theater ===
+After the critical success of ''Ocre'', Storni decided to focus on writing drama. Her first public work, the autobiographical play ''El amo del mundo'' was performed in the ''Cervantes'' theater on March 10, 1927, but was not well received by the public. However, this was not a conclusive indication of the quality of the work; many critics have observed that during those years Argentinian theater as a whole was in a state of decline, so many quality works of drama failed in this atmosphere.<ref>{{cite book |last1=Phillips |first1=Rachel |title=Alfonsina Storni: From Poetess to Poet |date=1975 |publisher=Tamesis Books Limited |location=London |isbn=0729300013 |page=61}}</ref> After the play's short run, Storni had it published in ''Bambalinas'', where the original title is shown to have been ''Dos mujeres''.<ref>{{cite book |last1=Phillips |first1=Rachel |title=Alfonsina Storni: From Poetess to Poet |date=1975 |publisher=Tamesis Books Limited |location=London |isbn=0729300013 |page=62}}</ref> Her ''Dos farsas pirotécnicas'' were published in 1931.
+
+She wrote the following works intended for children: ''Blanco...Negro...Blanco'', ''Pedro y Pedrito'', ''Jorge y su Conciencia'', ''Un sueño en el camino'', ''Los degolladores de estatuas'' and ''El Dios de los pájaros''. They were brief theatre pieces with songs and dances. They were meant for her students at ''Teatro Labardén'' theatre. For ''Pedrito y Pedro'' and ''Blanco...Negro...Blanco'', Alfonsina wrote the music for the plays. These were performed in 1948 at ''Teatro Colón'' theatre in Buenos Aires.  On these, Julieta Gómez Paz says: ''"''These present, ironically, adult situations transferred to the children's world to outline errors, prejudice and damaging customs by adults, but corrected by the poetic fantasy with happy endings''."'' <ref>{{cite book |last1=Storni |first1=Alfonsina |title=Obras Escogidas Teatro |date=1984 |publisher=Jorge R. Corvalan |location=Editorial Columba S. A. |isbn=950-9422-00-2 |page=6}}</ref>
+
+===Later work===
+After a nearly 8-year hiatus from publishing volumes of poetry, Storni published ''El mundo de siete pozos'' (The World of Seven Wells), 1934. That volume, together with the final volume she published before her death, ''Mascarilla y trébol'' (Mask and Clover), 1938, mark the height of her poetic experimentation. The final volume includes the use of what she termed "antisonnets," or poems that used many of the versification structures of traditional [[sonnet]]s but did not follow the traditional rhyme scheme.<ref>{{cite journal |last1=Kuhnheim |first1=Jill |title=The Politics of Form: Three Twentieth-Century Spanish American Poets and the Sonnet |journal=Hispanic Review |date=Autumn 2008 |page=391 |url=https://kuscholarworks.ku.edu/bitstream/handle/1808/7507/kuhnheim_thepoliticsofform.pdf |access-date=22 July 2019}}</ref>
+
+== Friendship with Gabriela Mistral ==
+Around this time, [[Gabriela Mistral]] visited her in her house on Cuba street. It was a fateful meeting for the Chilean writer, who had already published en El Mercurio that year. Previously, when she arranged her appointment on the phone, she was impressed with Storni’s voice; and so when she was told that Storni was ugly, she expected a face that did not match the voice. When she finally met Storni, she told her her face did not match what she had been heard about her appearance. “Her head was extraordinary” she remembered “Not because of her features, but because of her very silvery hair which framed her young face well.” She insisted “I haven’t seen more beautiful hair, it was as strange as the moonlight at noon. It was golden, and some blond was still visible in the white. Her blue eyes, her steep french nose, and her pink skin gave her something childish that gave her something different and made her almost unapproachable and mature. The Chilean was impressed by her simplicity and sobriety, by her control of her emotions, and her authenticity. And above all, she was impressed by her ability to absorb all around her. Mistral called her a woman of a great city “who has passed, touching all and incorporating all.”
+
+== Relationship with Horacio Quiroga ==
+[[José María Delgado|Jose Maria Delgado]] wrote to [[Horacio Quiroga]] and recommended that he travel to [[Buenos Aires]] to get to know Storni and talk about her poetry. They began to go to the movies together with both of their kids and had an opportunity to go to a meeting in a house on Tronador street, where many great writers of the age met to play games. One of these games consisted of Storni and Quiroga kissing opposite sides of Quiroga’s pocket watch at the same time. As Storni’s lips approached the watch, Quiroga moved it out of the way and the two kissed, angering Storni’s mother, who was also present at the party.
+
+Quiroga frequently mentioned Storni in his letters between 1919 and 1922, but the true depth of their relationship is not known, and the fact that he mentions her stands out since there were not many female writers during that time. In his letters to his friend Jose Maria, Quiroga mentions his respect for her work and how he treats her as  equal. On a note for the Anaconda group’s trip to [[Montevideo]], the list of participants includes “Alfonsina” without her last name, a demonstration of their strong friendship. On the other hand, in a note dated May 11, 1922 about a future visit, Quiroga revealed that he would travel with both his children and Storni, and would have them all eat together. Furthermore, [[Emir Rodríguez Monegal|Emir Rodriguez Monegal]], Quiroga’s biographer, corroborated [[Emilio Oribe]]’s account that Quiroga waited for Storni to leave a conference at the university where she might have been speaking about the poetry of [[Delmira Agustini]]. Quiroga did not want to attend the event, but did wait for Storni at the exit; she appeared, covered by a straw hat and surprised the people in the neighborhood that were near the exit.
+
+Storni accompanied Quiroga to the movies, to literary meetings, and to listen to music: both were fans of Wagner. Frequently, they traveled to Montevideo and took pictures where the two looked happy. They went on the trips together because Quiroga was assigned to the Uruguayan consulate and was always accompanied by a female intellectual.
+
+When Quiroga traveled to Misiones in 1925, Storni did not go with him on the advice of [[Benito Quinquela Martín|Benito Quinquela Martin]], who told her: “You’re going with that psycho? No way!” As a result, the writer instead traveled to [[San Ignacio, Paraguay|San Ignacio]], leaving her apartment to Uruguayan Enrique Amorim. With this living arrangement, Storni was able to write to Quiroga, who did not write back. The trip lasted a year, and upon returning, Quiroga re-established a friendship with Storni. After a reunion in a house that Quiroga had rented from Vicente Lopez, where they read each other's writings, the two later went out to the movies and various concerts offered by the Wagner Society.
+
+This relationship ended in 1927 when Quiroga met Maria Elena Bravo and started his second marriage. It is not known if Quiroga and Storni were lovers, since the two did not address the nature of their love very much. What is known is that Storni saw Quiroga as a friend who understood her, and she dedicated a poem to him when he committed suicide in 1937, only a year before her own death.[[File:Cementerio_de_La_Chacarita_17.JPG|thumb|Monument for Alfonsina Storni in [[:es:Cementerio de la Chacarita|Chacarita Cemetery]], Buenos Aires]]
+
+==Illness and death==
+In 1935, Storni may have discovered a lump on her left breast and decided to undergo an operation. On May 20, 1935, she underwent a radical mastectomy.<ref name=":0" />  In 1938 she found out that the breast cancer had reappeared.<ref name=":0" /> Around 1:00 AM on Tuesday, 25 October 1938, Storni left her room and headed towards the sea at [[La Perla Spa|''La Perla'' beach]] in [[Mar del Plata]], [[Argentina]] and committed suicide. Later that morning two workers found her body washed up on the beach. Although her biographers hold that she jumped into the water from a [[breakwater (structure)|breakwater]], popular legend is that she slowly walked out to sea until she drowned. She is buried in La Chacarita Cemetery.<ref>{{cite encyclopedia|url=http://www.britannica.com/EBchecked/topic/567660/Alfonsina-Storni|title=Alfonsina Storni|encyclopedia=Encyclopædia Britannica|access-date=2 May 2009}}</ref> Her death inspired [[Ariel Ramírez]] and [[Félix Luna]] to compose the song "''[[Ariel_Ramírez#Alfonsina_y_el_Mar|Alfonsina y el Mar]]''" ("Alfonsina and the Sea").<ref>{{Cite news|url=http://www.voluntarioglobal.org/en/travel-argentina/item/516-23argentine-women-working-towards-equality|title=Argentine Women - Working Towards Equality - Volunteer Opportunities in Argentina|last=Global|first=Voluntario|access-date=2018-11-20|language=en-gb}}</ref> Argentine composer [[Julia Stilman-Lasansky]] used Storni’s text for her composition ''Cuadrados y Angulos.''<ref>{{Cite book|last=Cohen|first=Aaron I.|url=https://books.google.com/books?id=5VsYAAAAIAAJ&newbks=0&printsec=frontcover&dq=strantz+louise&q=strantz+louise&hl=en|title=International Encyclopedia of Women Composers|date=1987|publisher=Books & Music (USA)|isbn=978-0-9617485-0-0|language=en}}</ref>
+
+==Work==
+[[File:Monumento a Alfonsina Storni.jpg|thumb|Monument to Alfonsina Storni in [[Mar del Plata]], Argentina]]
+* 1916 ''La inquietud del rosal'' ("The Restlessness of the Rosebush")<ref name="poemhunter.com">{{Cite web | url=https://www.poemhunter.com/alfonsina-storni/biography/ | title=Alfonsina Storni - Alfonsina Storni Biography - Poem Hunter}}</ref>
+* 1916 ''Por los niños que han muerto''("For the kids that have died")<ref name="poemas-del-alma.com">{{Cite web | url=https://www.poemas-del-alma.com/alfonsina-storni.htm |title = Alfonsina Storni - Poemas de Alfonsina Storni}}</ref>
+* 1916 ''Canto a los niños''("Sing to the Children")<ref name="poemas-del-alma.com"/>
+* 1918 ''El dulce daño'' ("The Sweet Harm")<ref name="poemhunter.com"/>
+* 1918 ''Atlántida'' colaboracion.<ref>{{Cite web | url=https://historia-biografia.com/alfonsina-storni/ | title=Historia y biografía de Alfonsina Storni| date=2017-10-05}}</ref>
+* 1919 ''Irremediablemente'' ("Irremediably")<ref name="poemhunter.com"/>
+* 1919 ''Una golondrina'' <ref name="poemas-del-alma.com"/>
+* 1920 ''Languidez'' ("Languidness")<ref name="poemhunter.com"/>
+* 1925 ''Ocre'' ("Ochre")<ref name="poemhunter.com"/>
+* 1926 ''Poemas de amor'' ("Love poems")<ref name="poemhunter.com"/>
+* 1927 ''El amo del mundo: comedia en tres actos'' - play ("Master of the world: a comedy in three acts" <ref name="poemhunter.com"/>
+* 1932 ''Dos farsas pirotécnicas'' - play ("Two pyrotechnic farces")<ref name="poemhunter.com"/>
+* 1934 ''Mundo de siete pozos'' ("World of seven wells")<ref name="poemhunter.com"/>
+* 1938 ''Mascarilla y trébol'' ("Mask and trefoil")<ref name="poemhunter.com"/>
+* 1938 ''I am Going to Sleep''<ref name="poemhunter.com"/>
+
+'''Some of Storni's work'''
+
+Teeth of flowers, cap of dew
+hands of grass, you, kind nurse, 
+have ready for me sheets of earth
+and the eiderdown of fresh moss
+
+I shall sleep now, my nurse; help me to bed. Put a lamp at the head; 
+a constellation, whichever you choose; 
+all are fine; turn down a light a bit.
+
+Leave me now; hear the buds bursting...
+from above a heavenly foot will rock you
+and a bird will sing to you
+
+that you might forget... Thank you. Ah, 
+One request! If he should phone again, tell him not to persist, 
+for I have left...
+
+'''Post mortem:'''
+* 1938 ''Antología poética'' ("Poetic anthology")<ref name="poemhunter.com"/>
+* 1950 ''Teatro infantil'' ("Plays for children")<ref name="poemhunter.com"/>
+* 1968 ''Poesías completas'' ("Complete poetical works")<ref name="poemhunter.com"/>
+* 1998 ''Nosotras y la piel: selección de ensayos'' ("We (women) and the skin: selected essays")<ref name="poemhunter.com"/>
+
+==Awards and recognition==
+In 1910 she receives her title as "Maestra Rural"<ref name=":0" />
+
+In 1917 Storni receives the Premio Annual del Consejo Nacional de Mujeres.<ref name=":0">{{Cite book|url=https://archive.org/details/alfonsinastorni00jone|title=Alfonsina Storni|last=Jones|first=Sonia|date=1979|publisher=Boston : Twayne Publishers|others=Internet Archive}}</ref>
+
+In 1920 Languidez, one of her publications was awarded the First Municipal prize as well as the second National Literature Prize.<ref name=":0" />
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category}}
+*[http://www.cervantesvirtual.com/bib_autor/Alfonsina/index.shtml Alfonsina at the Cervantes Virtual Library] (Spanish)
+*[https://web.archive.org/web/20050831063321/http://www.gabrieladecicco.com.ar/ensayos-articulos/alfonsina_storni.html Alfonsina by Agriela Deccicco] (Spanish)
+*[http://imdb.com/title/tt0189346/ Alfonsina], a 1957 film starring Amelia Bence (Spanish)
+* [https://publishing.cdlib.org/ucpressebooks/view?docId=ft7c600832&chunk.id=d0e3145&toc.depth=1&toc.id=&brand=ucpress]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Storni, Alfonsina}}
+[[Category:1892 births]]
+[[Category:1938 suicides]]
+[[Category:Argentine women poets]]
+[[Category:Argentine women writers]]
+[[Category:Argentine people of Swiss-Italian descent]]
+[[Category:Argentine people of Italian descent]]
+[[Category:Suicides by drowning]]
+[[Category:People who died at sea]]
+[[Category:Burials at La Chacarita Cemetery]]
+[[Category:Suicides in Argentina]]
+[[Category:Swiss emigrants to Argentina]]
+[[Category:People from Lugano District]]
+[[Category:20th-century Argentine poets]]
+[[Category:20th-century women writers]]

@@ -1,0 +1,85 @@
+{{short description|19th-century German poet}}
+{{Use dmy dates|date=June 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Eduard Mörike
+| image       = Eduard Mörike.jpg
+| caption     = 
+| birth_date  = {{Birth date|df=yes|1804|09|08}}
+| birth_place = [[Ludwigsburg]], [[Electorate of Württemberg]]
+| death_date  = {{death date and age|df=yes|1875|06|04|1804|09|08}}
+| death_place = [[Stuttgart]], [[Kingdom of Württemberg]]
+| occupation  = Poet, writer
+| nationality = German
+| genre       = 
+| movement    = 
+| notableworks = 
+| influences  = 
+| influenced  = 
+| website     = 
+| signature   = Moerike Signature.gif
+}}
+'''Eduard Friedrich Mörike''' (8 September 1804{{snd}}4 June 1875)<ref name=amer/> was a German [[Lutheranism|Lutheran]] pastor who was also a [[Romanticism|Romantic]] poet and writer of novellas and novels. Many of his poems were set to music and became established [[folk song]]s, while others were used by composers [[Hugo Wolf]] and [[Ignaz Lachner]] in their symphonic works.
+
+==Biography==
+Mörike was born in [[Ludwigsburg]]. His father was Karl Friedrich Mörike (died 1817), a district medical councilor; his mother was Charlotte Bayer. After the death of his father, in 1817, he went to live with his uncle Eberhard Friedrich Georgii in Stuttgart, who intended his nephew to become a clergyman. Therefore, after one year at the Stuttgart ''[[Eberhard-Ludwigs-Gymnasium|Gymnasium illustre]]'', Mörike joined the Evangelical Seminary [[Bad Urach|Urach]], a humanist grammar school, in 1818 and from 1822 to 1826 attended the [[Tübinger Stift]].<ref>Reiner Strunk: ''Eduard Mörike'', S. 17 ff.</ref> There, he scored low grades and failed the admission test to Urach Seminary, yet was accepted anyhow. At the Seminary he went on to study the classics, something that was to become a major influence on his writing, and he made the acquaintance of Wilhelm Hartlaub and [[Wilhelm Waiblinger]]. Afterwards he studied [[theology]] at the [[University of Tübingen|Seminary of Tübingen]] where he met [[Ludwig Amandus Bauer|Ludwig Bauer]], [[David Friedrich Strauss]] and [[Friedrich Theodor Vischer]].<ref name=amer>{{Cite Americana |last=Hartmann |first=Jacob Wittmer |wstitle=Mörike, Eduard}}</ref>
+Many of these friendships were long-lasting. In Tübingen, with Bauer, he invented the fairyland ''Orplid'' – see the poem ''Song Weylas (You are Orplid)''<ref>Birgit Mayer: ''Eduard Mörike'', p. 58</ref> dating from 1831.
+
+Mörike became a [[Lutheranism|Lutheran]] pastor and, in 1834, he was appointed vicar of Cleversulzbach near [[Weinsberg]]. In the Autumn of 1843 he stayed for over half a year with his friend Pastor Wilhelm Hartlaub (1804–1885) in the village of {{ill|Wermutshausen|de}}, situated in the state of Baden-Württemberg in southern Germany. During this time he produced a drawing of the Wermutshausen Petruskirche, dating from the early 1800s. This drawing is speculated, due to the perspective, to be from a top-floor room of a local brewery, distillery, and guesthouse at the edge of town, which remains in operation today as Gasthaus und Manufaktur Krone Wermutshausen. In town there is also a Museum commemorating this visit, in which guests can see the room in which Mörike lived.  For reasons of health, Mörike retired quite early, and in 1851 became professor of [[German literature]] at the Katharinenstift in [[Stuttgart]]. This office he held until he retired in 1866.<ref name=EB1911/> He continued to live in Stuttgart until his death.
+
+==Works==
+[[File:Home of Morike.jpg|thumb|left|250px|Mörike's home in [[Lorch, Württemberg]]]] 
+Mörike was a member of the so-called Swabian school of writers around [[Ludwig Uhland]]. His poems (''Gedichte'', 1838), are mostly lyrical, yet often humorous and written in simple and seemingly everyday German.<ref name=EB1911/> His ballad  "Schön Rotraut" – opening with the line "Wie heisst König Ringangs Töchterlein?" – became a popular favorite.<ref name=amer/>
+
+His first published work was the novel ''Maler Nolten'' ("The painter Nolten", 1832), a tale about the life of a painter, and which revealed his imaginative power; it became fairly popular. The novella ''Mozart auf der Reise nach Prag'' ("[[Wolfgang Amadeus Mozart|Mozart]] on the way to [[Prague]]", 1856) was a humorous examination of the problems of artists in a world uncongenial to art. It is frequently cited as his finest achievement.<ref name=amer/><ref name=nie>{{Cite NIE|wstitle=Mörike, Eduard|year=1905}}</ref> He also wrote a somewhat fantastic ''Idylle vom Bodensee, oder Fischer Martin und die Glockendiebe'' (1846), the fairy tale ''Das Stuttgarter Hutzelmännlein'' (1855), and published a collection of hymns, odes, elegies, and idylls of the Greeks and Romans, entitled ''Klassische Blumenlese'' (1840).<ref name=EB1911/> He also translated [[Anacreon]] and [[Theocritus]] into German.<ref name=amcyc/>
+
+Mörike's ''Gesammelte Schriften'' ("Collected Writings") were first published posthumously in 1878 (4 vols.). Later editions are those edited by R. Krauss (6 vols., 1905), and the ''Volksausgabe'' ("Popular edition"), published by Göschen (4 vols., 1905). Selections from his literary estate were published by R. Krauss in ''Eduard Mörike als Gelegenheitsdichter'' (1895), and his correspondence with [[Hermann Kurz]], [[Moritz von Schwind]], and [[Theodor Storm]], by J. Bachtold (1885–1891); an edition of Mörike's ''Ausgewählte Briefe'' ("Selected letters"), in 2 vols., appeared 1903–1904.<ref name=EB1911>{{EB1911|wstitle=Mörike, Eduard Friedrich|volume=18|page=837|inline=1}}</ref>
+
+[[File:Moerike.jpg|thumb|right|160px|Mörike (aged 20) as a student in Tübingen, 1824]] 
+His work was greatly praised by the philosopher [[Ludwig Wittgenstein]] who recommended him to [[Bertrand Russell]] as <blockquote>really a ''great'' poet and his poems are among the best things we have...the beauty of Mörike's work is very closely related to Goethe's.<ref>{{cite book|last1=Wittgenstein|first1=Ludwig|editor1-last=Amélie|editor1-first=Rorty|title=Letter to Bertrand Russell|date=2003|publisher=Oxford University Press|location=New York|page=417}}</ref></blockquote>
+
+===Musical settings===
+Many of his lyrics were set to music by [[Hugo Wolf]],<ref>{{cite book|title=Hugo Wolf, and Robert Schumann and his Mörike songs|last=Youens|first=Susan|publisher=Cambridge University Press|year=2000|page=7}}</ref> Ludwig Hetsch, [[Julie Waldburg-Wurzach]], [[Pauline Volkstein]], and Fritz Kauffmann. [[Ignaz Lachner]] set to music his opera ''Die Regenbrüder''.<ref name=amcyc>{{Cite AmCyc|wstitle=Mörike, Eduard}}</ref> Many of his poems became established folksongs.<ref name=nie/> [[Wilhelm Killmayer]] set several of his poems in [[Song cycles (Killmayer)|his song cycle]] ''{{lang|de|Mörike-Lieder}}'' in 2003.<ref name="Mörike">{{cite web
+| url = http://www.schott-international.com/shop/php/Proxy.php?purl=/essh/1/show,235704.html
+| title = Mörike-Lieder
+| publisher = [[Schott Music|Schott]]
+| access-date = 24 August 2017
+}}{{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+===As an artist===
+
+Mörike was also known to produce drawings in his time, though it is not the subject of much discussion. While staying in the town of Wermutshausen in the Autumn of 1843, Mörike produced a drawing of the Persuskirche, a small church built in the early 1800s.{{citation needed|date=May 2019}}
+
+==Notes==
+{{Portal|Biography}}
+{{Reflist}}
+
+== External links ==
+{{commons category}}
+{{wikisource author}}
+{{Wikisourcelang|de|Eduard Mörike|Eduard Mörike (original works in German)}}
+* {{Gutenberg author |id=Mörike,+Eduard | name=Eduard Mörike}}
+* {{FadedPage|id=Mörike, Eduard|name=Eduard Mörike|author=yes}}
+* {{Internet Archive author |sname=Eduard Friedrich Mörike |sopt=w}} 
+* {{Librivox author |id=548}}
+* [http://cingolani.com/Moerike_English.html Poetry of Eduard Mörike in English Translation] 
+* {{Find a Grave|7369008}}
+* {{isfdb name|id=Eduard_Morike}}
+* {{ChoralWiki}}
+
+{{Romanticism}}
+{{German literature}}
+{{Authority control}}
+
+{{DEFAULTSORT:Morike, Eduard}}
+[[Category:1804 births]]
+[[Category:1875 deaths]]
+[[Category:People from Ludwigsburg]]
+[[Category:19th-century German poets]]
+[[Category:German monarchists]]
+[[Category:People from the Kingdom of Württemberg]]
+[[Category:German Lutheran clergy]]
+[[Category:19th-century Lutheran clergy]]
+[[Category:German male poets]]
+[[Category:German-language poets]]
+[[Category:19th-century German male writers]]
+[[Category:People educated at Eberhard-Ludwigs-Gymnasium]]

@@ -1,0 +1,59 @@
+{{Short description|English novelist 1834–1903}}
+{{Use dmy dates|date=April 2017}}
+{{Use British English|date=January 2020}}
+{{Infobox person
+|image = J H Shorthouse.jpg
+|imagesize = 200px
+|caption = 
+|birth_date = {{birth date|1834|9|9|df=y}}
+|birth_place = [[Birmingham]], England
+|death_date = {{death date and age|1903|3|4|1834|9|9|df=y}}
+|death_place = 
+|education = Grove School, Tottenham
+}}
+'''Joseph Henry Shorthouse''' (9 September 1834 – 4 March 1903) was an English novelist.<ref name="ODNB">Barbara Dennis, "Shorthouse, Joseph Henry (1834–1903)", Oxford Dictionary of National Biography, Oxford University Press, 2004 [http://www.oxforddnb.com/view/article/36077, accessed 30 Nov 2012]: doi:10.1093/ref:odnb/36077.</ref> His first novel, ''[[John Inglesant]]'', was particularly admired as a "philosophical romance". It discusses a religious intrigue in the English 17th century.
+
+==Biography==
+Shorthouse was born in Great Charles Street, [[Birmingham]], on 9 September 1834, as the eldest of three sons of Joseph Shorthouse (1797–1880) and his wife, Mary Ann, née Hawker. He grew up in Calthorpe Street, [[Edgbaston]]. His father had inherited a family chemical works manufacturing [[Sulfuric acid|vitriol]], and his mother's father had founded the first glasshouse in Birmingham.<ref name="ODNB"/> Both families were [[Quaker]]s. He was educated partly at home and partly at [[Grove House School]], [[Tottenham]], and became a chemical manufacturer.
+
+At the [[Friends meeting house]] in Warwick on 19 August 1857, he married a childhood friend, Sarah Scott (1832–1909), the eldest daughter of John and Elizabeth Scott. Two events of importance ensued. He and his wife joined the [[Church of England]] in 1861, and he had the first of many attacks of epilepsy in January 1862. Shorthouse later identified himself with "the new [[Oxford Movement|Oxford school]] of High Churchmen", but he preferred the freedom and reason of the Anglican church to the authority over private judgement that he saw exercised by [[Catholic Church|Roman Catholicism]].<ref name="ODNB"/>
+
+Shorthouse's health began to deteriorate in 1900 and he died at his home, 60 Wellington Road, Edgbaston, on 4 March 1903. He left no children.<ref name="ODNB"/>
+
+==''John Inglesant''==
+Shorthouse spent ten years up to 1876 working on his first book, ''[[John Inglesant]]'', which initially appeared privately. It was eventually noticed by [[Mary Augusta Ward|Mrs Humphry Ward]] and through her intervention by [[Alexander Macmillan (publisher)|Alexander Macmillan]], who published it commercially in 1881. A story of 17th-century religious intrigue and faith, it hinges on a man who fights on the Royalist side in the Civil War, moves between Anglican and Catholic circles, and forgives the man who murdered his brother.<ref name="ODNB"/> However, as an encyclopedist notes, "Its revenge plot – in which Inglesant pursues his brother's murderer – is less important than the hero's spiritual journey and assertion of the claims of the Anglican Church."<ref name="Britannica">[https://www.britannica.com/biography/Joseph-Henry-Shorthouse. Britannica. Retrieved 26 July 2020.]</ref>
+
+The book at once made Shorthouse famous. Though said to be deficient in its structure as a story and unappealing to the general public, it fascinated people by the charm of its style, by a "dim religious light", with which it was suffused, and by occasional striking scenes. More recently it has been described as "one of the best examples of the philosophical romance in English literature".<ref name="Britannica"/>
+
+Shorthouse dedicated ''John Inglesant'' to Rawdon [[Levett]], his friend and fellow teacher at [[King Edward's School, Birmingham]].<ref>[https://www.jstor.org/pss/3602318 A Great Schoolmaster, ''The Mathematical Gazette''], [[William John Greenstreet]] (ed.), B. Bell & Sons, London, 1923.</ref> Other admirers of the work included [[Thomas Henry Huxley|T. H. Huxley]], [[Charlotte Mary Yonge|Charlotte Yonge]] and [[Edmund Gosse]]. He was invited to breakfast at [[10 Downing Street]] by the Prime Minister, [[William Ewart Gladstone|Gladstone]].<ref name="ODNB"/> The book sold 9000 copies in its first year.<ref name="Britannica"/>
+
+==Other works==
+Shorthouse's other novels, ''The Little Schoolmaster Mark'' (1883), ''Sir Percival'' (1886), ''The Countess Eve'' (1888), ''A Teacher of the Violin'' (1888) and ''Blanche, Lady Falaise'' (1891)<ref>NNDB [http://www.nndb.com/people/304/000101998/ Retrieved 9 December 2015].</ref> have some of the same characteristics, but were less successful than the first. Shorthouse also wrote literary essays, including one called "The [[Platonism]] of [[William Wordsworth|Wordsworth]]".
+
+The ''Life, Letters, and Literary Remains of J. H. Shorthouse'' were edited by the author's wife and published in 1905.<ref>London: Macmillan. [https://archive.org/details/lifelettersandl04shorgoog Retrieved 9 December 2015].</ref> A biographical study of Shorthouse appeared in 1995.<ref>Charles W. Spurgeon: ''J. Henry Shorthouse, the Author of John Inglesant'' (Parkland, FL: Dissertation Com) [https://books.google.com/books?id=mJFvL4S3QJgC&pg=PA32&lpg=PA32&dq=Joseph+Henry+Shorthouse&source=bl&ots=br41hwbzSt&sig=dbi7u78pa5RHVQWWFmIRE5sGE3g&hl=en&sa=X&ved=0ahUKEwjm6PG7xc_JAhXrCXMKHbIfC7E4ChDoAQglMAM#v=onepage&q=Joseph%20Henry%20Shorthouse&f=false Retrieved 9 December 2015].</ref>
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+*{{SBDEL |wstitle=Shorthouse, Joseph Henry}}
+
+==External links==
+{{wikiquote}}
+*[http://anglicanhistory.org/fiction/shorthouse/violin/ A Teacher of the Violin and Other Stories (1888)]
+*{{Gutenberg author |id=Shorthouse,+John+Henry |name=John Henry Shorthouse}}
+*{{Internet Archive author |sname=Joseph Henry Shorthouse}}
+*{{Cite EB1911 |wstitle=Shorthouse, Joseph Henry |short=x}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Shorthouse, Joseph Henry}}
+[[Category:1834 births]]
+[[Category:1903 deaths]]
+[[Category:People from Birmingham, West Midlands]]
+[[Category:English male novelists]]
+[[Category:19th-century English novelists]]
+[[Category:19th-century male writers]]
+[[Category:Victorian novelists]]
+[[Category:English historical novelists]]
+[[Category:Writers of historical fiction set in the early modern period]]

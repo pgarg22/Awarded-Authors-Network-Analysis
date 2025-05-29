@@ -1,0 +1,124 @@
+{{short description|British science fiction, horror, and fantasy writer and blogger}}
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=August 2014}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Charles Stross
+| image = 2017-12-27 Charles Stross 7627 small.jpg
+| imagesize = 200px
+| caption = Stross in 2017 at [[Chaos Communication Congress|34c3]] in Leipzig, Germany
+| pseudonym = 
+| birth_name = 
+| birth_date = {{birth date and age|df=yes|1964|10|18}}<ref name="isfdb" />
+| birth_place = [[Leeds]], England
+| death_date = 
+| death_place = 
+| occupation = Writer, former programmer and [[pharmacist]]
+| period = 1990s–present
+| genre = Science fiction, [[fantasy]], [[Horror fiction|horror]]
+| subject = 
+| movement = 
+| website = {{url|https://www.antipope.org/charlie/}}
+| alma_mater = [[University of Bradford]]<ref name=autobio>{{cite web |url=https://www.antipope.org/charlie/who_am_i/autobio-all-redacted.html |title=How I got here in the end – my non-writing careers |publisher=Antipope.org |access-date=31 January 2014}}</ref>
+}}
+
+'''Charles David George''' "'''Charlie'''" '''Stross''' (born 18 October 1964<ref name="isfdb">{{Cite web|url=http://www.isfdb.org/cgi-bin/ea.cgi?2200|title=Summary Bibliography: Charles Stross|website=www.isfdb.org|access-date=2018-12-10}}</ref>) is a British writer of [[science fiction]] and [[fantasy]]. Stross specialises in [[hard science fiction]] and [[space opera]]. Between 1994 and 2004, he was also an active writer for the magazine ''[[Computer Shopper (UK magazine)|Computer Shopper]]'' and was responsible for the monthly [[Linux]] column. He stopped writing for the magazine to devote more time to novels. However, he continues to publish freelance articles on the Internet.<ref>{{cite web|last=Stross|first=Charles|title=Linux in Computer Shopper|url=https://www.antipope.org/charlie/old/linux/index.html|website=antipope.org}}</ref>
+
+== Early life and education ==
+Stross was born in [[Leeds]], England.<ref>{{Cite web | url=http://www.infinityplus.co.uk/nonfiction/intcs.htm |title = Charles Stross interviewed - infinity plus non-fiction}}</ref> He showed an early interest in writing and wrote his first science fiction story at age 12. He graduated with a bachelor's degree in Pharmacy in 1986 and qualified as a pharmacist in 1987. In 1989, he enrolled at [[Bradford University]] for a post-graduate degree in computer science. In 1990, he went to work as a technical author and programmer. In 2000, he began working as a writer full-time, as a technical writer at first, but then became successful as a fiction writer.<ref>{{citation |url=http://www.locusmag.com/2005/Issues/01Stross.html|title=Charles Stross: Fast Forward|date=2005|access-date=14 October 2015}}</ref><ref name="tor">[http://www.tor.com/bios/authors/charlesstross Charles Stross] {{webarchive|url=https://web.archive.org/web/20141009062707/http://www.tor.com/bios/authors/charlesstross |date=9 October 2014 }}, Tor.com (accessed 29 May 2013)</ref>
+
+== Career ==
+In the 1970s and 1980s, Stross published some [[role-playing game]] articles about ''[[Editions of Dungeons & Dragons#Advanced Dungeons & Dragons|Advanced Dungeons & Dragons]]'' in ''[[White Dwarf (magazine)|White Dwarf]]'' magazine. Some of his creatures, such as the death knight, githyanki (the name borrowed from [[George R. R. Martin]]'s 1977 novel, ''[[Dying of the Light (1977 novel)|Dying of the Light]]''), [[githzerai]], and [[slaad]] (a chaotic race of frog-like humanoids) were later published in the ''[[Fiend Folio]]'' monster compendium.<ref name="rpg">{{cite web |publisher=Kyngdoms |title=The Kyngdoms Interview |url=http://www.thekyngdoms.com/forums/viewtopic.php?f=23&t=36&start=0 |date=26 May 2010 |access-date=26 May 2010}}</ref>
+
+His first published short story, "The Boys", appeared in ''[[Interzone (magazine)|Interzone]]'' in 1987. A collection of his short stories, ''[[Toast: And Other Rusted Futures]]'', was released in 2002; subsequent short stories have been nominated for the Hugo Award, [[Nebula Award]], and other awards. His first novel, ''[[Singularity Sky]]'', was published by [[Ace Books]] in 2003 and was also nominated for the [[Hugo Award]]. His novella "The Concrete Jungle" (published in ''[[The Atrocity Archives]]'') won the Hugo award for [[Hugo Award for Best Novella|its category]] in 2005.<ref name=Hugo05 /> His novel ''[[Accelerando]]'' won the 2006 [[Locus Award]] for best science fiction novel, was a finalist for the [[John W. Campbell Memorial Award for Best Science Fiction Novel]],<ref name=CampbellNom /> and was on the final ballot for the Hugo Award in the best novel category.<ref name=Hugo06 /> ''[[Glasshouse (novel)|Glasshouse]]'' won the 2007 [[Prometheus Award]] and was on the final ballot for the Hugo Award in the best novel category; the German translation ''Glashaus'' won the 2009 [[Kurd-Laßwitz-Preis]].<ref>{{Cite web|url=http://www.kurd-lasswitz-preis.de/2009/KLP_2009_Bestes_auslaendisches_Werk.htm|title=KLP 2009 Bestes ausländisches Werk|website=www.kurd-lasswitz-preis.de}}</ref> His novella "[[Missile Gap]]" won the 2007 Locus Award for best novella, and most recently he was awarded the [[Edward E. Smith Memorial Award]] or Skylark at [[Boskone]] 2008.
+
+His novel ''[[The Atrocity Archives]]'' (2004) focused on a British intelligence agency investigating Mythos-like horrors; using ideas similar to those in the RPG book ''[[Delta Green]]'' (1996), Stross commented in an afterword to the book: "All I can say in my defence is... I hadn't heard of ''Delta Green'' when I wrote ''The Atrocity Archive''... I'll leave it at that except to say that ''Delta Green'' has come dangerously close to making me pick up the dice again."<ref name="designers">{{Cite book|author=Shannon Appelcline|title=Designers & Dragons|publisher=[[Mongoose Publishing]]|year=2011| isbn= 978-1-907702-58-7}}</ref>{{rp|247}}
+
+"[[Rogue Farm]]," his 2003 short story, was adapted into an eponymous animated film that debuted in August 2004.<ref>Evens, Arthur (2010). The Wesleyan Anthology of Science Fiction. Middletown, CT: Wesleyan University Press. p. 728.</ref>
+
+Stross was one of the Guests of Honour at Orbital 2008,<ref name="orbital">{{cite web |publisher=[[Locus Publications]] |title=Conventions 2008 |url=http://www.locusmag.com/2008/2008Conventions.html |date=2008 |access-date=15 Feb 2017}}</ref> the British National Science Fiction convention ([[Eastercon]]), in March 2008. He was the Author Guest of Honour at the Maryland Regional Science Fiction Convention ([[Balticon]]) in May 2009. He was Author Guest of Honour at [[Fantasticon]] ([[Denmark]]) in August 2009. He was the Guest of Honor at Boskone 48 in Feb 2011.
+
+[[Cubicle 7]] used their ''[[Basic Role-Playing]]'' license to create ''[[The Laundry]]'' (2010), based on Stross' writings, wherein agents must deal with the outer gods and British bureaucracy at the same time.<ref name="designers" />{{rp|432}}
+
+In September 2012, Stross released ''[[The Rapture of the Nerds]]'', a novel written in collaboration with [[Cory Doctorow]].<ref>{{cite web|author=Upcoming4.me |url=http://upcoming4.me/media-news/book-news/item/9434-cory-doctorow,-charles-stross-rapture-of-the-nerds-cover-art-and-summary-reveal |archive-url=https://archive.today/20120718123324/http://upcoming4.me/media-news/book-news/item/9434-cory-doctorow,-charles-stross-rapture-of-the-nerds-cover-art-and-summary-reveal |url-status=dead |archive-date=18 July 2012 |title=Cory Doctorow, Charles Stross' Rapture of The Nerds cover art and summary reveal |publisher=Upcoming4.me |access-date=31 May 2012 }}</ref> The two have also together been involved in the [[Creative Commons]] licensing and copyright movement.<ref>{{cite book|last1=Evens|first1=Arthur|title=The Wesleyan Anthology of Science Fiction|date=2010|publisher=[[Wesleyan University Press]]|page=727}}</ref> In December 2017 he gave a talk at [[Chaos Communication Congress|34C3]].<ref>{{cite web|author=Charles Stross|title=Dude, you broke the Future!|publisher=[[Chaos Computer Club|media.ccc.de]]|work=34C3|type=video|date=2017-12-27|url=https://media.ccc.de/v/34c3-9270-dude_you_broke_the_future|id=YouTube RmIgJ64z6Y4}}</ref>
+
+== Awards ==
+''[[Accelerando]]'' won the 2006 [[Locus Award for Best Science Fiction Novel]].<ref name="Locus2006">{{cite web|url=http://www.locusmag.com/SFAwards/Db/Locus2006.html |title=2006 Locus Awards |access-date=27 May 2010 |url-status=dead |archive-url=https://web.archive.org/web/20101008032204/http://www.locusmag.com/SFAwards/Db/Locus2006.html |archive-date= 8 October 2010 }}</ref> "[[Missile Gap]]" won the 2007 Locus Award for best novella.<ref name=LocusList>{{cite web |title=Stross, Charles |work=Index of Literary Nominees |publisher=Locus Publications |url=http://www.locusmag.com/SFAwards/Db/NomLit132.html#5043 |url-status=dead |archive-url=https://web.archive.org/web/20131112004928/http://www.locusmag.com/SFAwards/Db/NomLit132.html#5043 |archive-date=12 November 2013 |df=dmy-all }}</ref> "The Concrete Jungle" (contained in [[The Atrocity Archives]]) won the [[Hugo Award]] for best novella in 2005;<ref name=Hugo05>{{cite web|title=2005 Hugo Awards: Best Novella: The Concrete Jungle; Best Novel Nominee: Iron Sunrise |work=Official Site of The Hugo Awards |url=http://www.thehugoawards.org/hugo-history/credits/ |url-status=dead |archive-url=https://web.archive.org/web/20110507072956/http://www.thehugoawards.org/hugo-history/credits/ |archive-date= 7 May 2011 |df=dmy }}</ref> "[[Palimpsest (novella)|Palimpsest]]", included in ''Wireless'', won the same award in 2010,<ref>{{cite web|author=Locus Publications |url=http://www.locusmag.com/News/2010/09/2010-hugo-awards-winners/ |title=Locus Online News " 2010 Hugo Awards Winners |publisher=[[Locusmag.com]] |date=5 September 2010 |access-date=5 February 2012}}</ref> and "[[Equoid]]" in 2014.<ref>{{cite web |url=http://www.thehugoawards.org/2014/08/2014-hugo-award-winners/ |title=2014 Hugo Award Winners |date=17 August 2014 |access-date=18 August 2014 |archive-url=https://web.archive.org/web/20140819083711/http://www.thehugoawards.org/2014/08/2014-hugo-award-winners/ |archive-date=19 August 2014 |url-status=dead }}</ref> Glasshouse won the 2009 Prometheus Award for Best Novel; Stross was a Best Novel finalist in 2009 for Saturn's Children and has been nominated four other times for [[Iron Sunrise]] (in 2005), Accelerando (2006), The Revolution Business (2010) and Annihilation Score (2016).<ref>{{Cite web|url=http://www.lfs.org/awards.shtml|title = Libertarian Futurist Society}}</ref> ''The Apocalypse Codex'' won the 2013 [[Locus Award for Best Fantasy Novel]].<ref name="Locus2013">{{cite web | url = http://www.locusmag.com/News/2013/06/locus-awards-winners/ | title = Locus Award Winners| access-date=13 Dec 2014 | date = 30 June 2013}}</ref> Stross's work has also been nominated for a number of other awards, including the [[John W. Campbell Memorial Award]],<ref name=CampbellNom>{{cite web |title=John W. Campbell Memorial Award Finalists |publisher=Gunn Center for the Study of Science Fiction, University of Kansas |url=http://www.sfcenter.ku.edu/campbell-finalists.htm |access-date=22 August 2014 |archive-date=30 August 2018 |archive-url=https://web.archive.org/web/20180830202751/http://www.sfcenter.ku.edu/campbell-finalists.htm |url-status=dead }}</ref> [[Arthur C. Clarke Award]],<ref>{{Cite web|url=https://www.clarkeaward.com/award-winners/shortlists/|title=Arthur C. Clarke Award Shortlists|website=Arthur C. Clarke Award|access-date=December 13, 2018|archive-url=https://web.archive.org/web/20181104224623/https://www.clarkeaward.com/award-winners/shortlists/|archive-date=4 November 2018|url-status=dead}}</ref> and the [[Hugo Award for Best Novel]],<ref name=Hugo05 /><ref name=Hugo06>{{cite web|title=2006 Hugo Awards: Accelerando (Nominee) |work=Official Site of The Hugo Awards |url=http://www.thehugoawards.org/hugo-history/2006-hugo-awards/ |url-status=dead |archive-url=https://web.archive.org/web/20110507164808/http://www.thehugoawards.org/hugo-history/2006-hugo-awards/ |archive-date= 7 May 2011 |df=dmy }}</ref><ref>{{Cite news|url=http://www.thehugoawards.org/2008/03/2008-hugo-award-nominees/|title=2008 Hugo Award Nominees|date=2008-03-21|work=The Hugo Awards|access-date=2018-12-13|language=en-US}}</ref><ref name=Hugo09>{{cite web |title=2009 Hugo Award Nominations: Saturn's Children |date=March 2003 |work=Official Site of The Hugo Awards |url=http://www.thehugoawards.org/2009/03/2009-hugo-award-nominations/}}</ref> as well as the Japanese [[Seiun Award]].<ref name=LocusList />
+
+== Selected bibliography ==
+{{Main|Charles Stross bibliography}}
+
+=== ''The Merchant Princes'' series ===
+{{Main|The Merchant Princes}}
+* ''The Family Trade'' (2004)
+* ''The Hidden Family'' (2005)
+* ''The Clan Corporate'' (2006)
+* ''The Merchants' War'' (2007)
+* ''The Revolution Business'' (2009)
+* ''The Trade of Queens'' (2010)
+* ''Empire Games''  (2017)
+* ''Dark State'' (2018)
+* ''Invisible Sun'' (2021)<ref>{{cite web |url=https://us.macmillan.com/books/9781250807113 |title=''Invisible Sun'', Empire Games (Volume 3) |publisher=[[Macmillan Publishers]] |date= |access-date=29 September 2021 }}</ref>
+
+=== The Laundry Files Universe ===
+==== ''The Laundry Files'' ====
+{{Main|The Laundry Files}}
+* ''The Atrocity Archives'' (2004)
+* ''The Jennifer Morgue'' (2006)
+* ''Down on the Farm'' (2008 novelette)
+* ''Equoid'' (2013 novelette)
+* ''The Fuller Memorandum'' (2010)
+* ''Overtime'' (2009 novelette)
+* ''The Apocalypse Codex'' (2012)
+* ''The Rhesus Chart'' (2014)
+* ''The Annihilation Score'' (2015)
+* ''The Nightmare Stacks'' (2016)
+* ''The Delirium Brief'' (2017)
+* ''The Labyrinth Index'' (2018)<ref>{{Cite web|url=https://www.nyjournalofbooks.com/book-review/labyrinth-index|title=A book review by Annette Lapointe: ''The Labyrinth Index'' (Laundry Files)|website=New York Journal of Books |access-date=2018-12-13}}</ref>
+*''Escape From Puroland'' (due July 2021, novella)<ref>{{Cite web|author=Tor Publishing|title=Escape from Puroland|url=https://publishing.tor.com/escapefrompuroland-charlesstross/9781250805706/|access-date=2021-01-23|website=Tor}}</ref>
+
+==== ''Tales of the New Management'' ====
+* ''Dead Lies Dreaming'' (2020)<ref>{{Cite web | url=https://www.antipope.org/charlie/blog-static/2019/12/introducing-dead-lies-dreaming.html |title = Introducing Dead Lies Dreaming - Charlie's Diary}}</ref>
+* ''Quantum of Nightmares'' (due January 2022) <ref>{{Cite web | url=https://www.antipope.org/charlie/blog-static/2020/10/the-laundry-files-an-updated-c.html |title=The Laundry Files: an updated chronology|website=www.antipope.org|access-date=2021-07-28}}</ref>
+
+=== ''Halting State'' series ===
+* ''[[Halting State]]'' (2007)
+* ''[[Rule 34 (novel)|Rule 34]]'' (2011)
+* ''The Lambda Functionary'' (originally 2014,<ref name="antipopeFAQ">{{Cite web|url=http://www.antipope.org/charlie/blog-static/fiction/faq.html|title=Fiction by Charles Stross: FAQ (Feb 2020 version)|website=www.antipope.org|access-date=2020-04-12}}</ref> then delayed to 2018,<ref name="waterstoneslambda">{{Cite web|url=https://www.waterstones.com/book/the-lambda-functionary/charles-stross/9780356501024|title=Waterstones entry for "The Lambda Functionary (Paperback)"|website=www.waterstones.com|access-date=2020-04-12}}</ref> then abandoned<ref name="antipopeFAQ"/><ref name="waterstoneslambda"/> and never published)
+
+=== Standalone work ===
+*''[[Iron Sunrise]]'' (2004)
+*''[[Accelerando]]'' (2005)
+*''[[Glasshouse (novel)|Glasshouse]]'' (2006)
+
+== References ==
+{{reflist|30em}}
+
+== External links ==
+{{Wikiquote}}
+{{Commons category|Charles Stross}}
+* {{official website}} – featuring a blog with guest contributions
+* {{cite web |url=http://autopope.livejournal.com/ |archive-date=3 December 2012 |archive-url=https://archive.today/20121203180012/http://autopope.livejournal.com/ |url-status=dead |title=Stross at Livejournal |df=dmy-all }}
+* [https://metacpan.org/author/CHSTROSS Stross software releases] – latest, 2000
+* {{isfdb name|2200}}
+*{{cite web |url=http://www.pen-paper.net:80/rpgdb.php?op=showcreator&creatorid=707 |archive-date=10 March 2005 |title=Charles Stross :: Pen & Paper RPG Database |url-status=dead |archive-url=https://web.archive.org/web/20050310235244/http://www.pen-paper.net/rpgdb.php?op=showcreator&creatorid=707 |access-date=24 November 2018 |df=dmy-all }}
+
+{{Charles Stross}}
+{{Authority control}}
+
+{{DEFAULTSORT:Stross, Charles}}
+[[Category:1964 births]]
+[[Category:Alumni of the University of Bradford]]
+[[Category:British people of Polish-Jewish descent]]
+[[Category:British science fiction writers]]
+[[Category:British transhumanists]]
+[[Category:Cthulhu Mythos writers]]
+[[Category:Cyberpunk writers]]
+[[Category:Dungeons & Dragons game designers]]
+[[Category:English fantasy writers]]
+[[Category:English male novelists]]
+[[Category:English science fiction writers]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Living people]]
+[[Category:Sidewise Award winners]]
+[[Category:Weird fiction writers]]
+[[Category:Writers from Leeds]]

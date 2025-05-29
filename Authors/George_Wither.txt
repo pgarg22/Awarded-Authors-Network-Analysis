@@ -1,0 +1,166 @@
+{{Use dmy dates|date=October 2019}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+|name         = George Wither
+|image        = George Wither.jpg
+|imagesize    = 250px
+|caption      = George Wither
+|birth_date   = 11 June 1588 O.S.
+|birth_place  = [[Bentworth]], [[Hampshire]]
+|death_date   = {{death date and age|1667|5|2|1588|6|11|df=y}} O.S.
+|death_place  = [[London]]
+|occupation   = Poet
+|nationality  = English
+|genre        = Satire
+|notableworks = ''Abuses Stript and Whipt'', ''The Shepheard's Hunting''
+}}
+'''George Wither''' (11 June 1588 [[Old Style and New Style dates|O.S.]] <small>(21 June 1588 [[New Style|NS]])</small> – 2 May 1667 O.S. <small>(12 May 1667 [[New Style|NS]])</small>) was a prolific English poet, [[pamphleteer]], satirist and writer of hymns.<ref>Hyamson, Albert M., A Dictionary of Universal Biography: Of All Ages and of All Peoples, page 725</ref> Wither's long life spanned one of the most tumultuous periods in the history of England, during the reigns of Elizabeth I, James I, and Charles I, the Civil War, the Parliamentary period and the Restoration period.
+
+==Biography==
+===Early life===
+Wither was born in [[Bentworth]], near [[Alton, Hampshire|Alton]], in the heart of [[Hampshire]], the son of George Wither Senior of that place and his wife, Mary, who was possibly from the family of Hunt. His grandfather, Richard Wither, lived at [[Manydown]] in [[Wootton St Lawrence]], where the family had resided since at least 1344. His early schooling took place under Rev. John Greaves, the father of [[John Greaves|John]], [[Edward Greaves (physician)|Sir Edward]] and [[Thomas Greaves (orientalist)|Thomas Greaves]].<ref>{{cite book |title=The British bibliographer, Vol I |last=Brydges |first=Sir Egerton |editor1-first=Joseph |editor1-last=Haslewood |year=1810 |publisher=Printed for R. Triphook by T. Bensley |location=London |page=2 |url=https://books.google.com/books?id=PUIUAAAAYAAJ |access-date=13 May 2011}}</ref> Between the ages of fifteen and seventeen he studied at [[Magdalen College, Oxford]]. Despite his neighbors' advice that his father put him to some mechanic trade, he was sent to one of the [[Inns of Chancery]], eventually obtaining an introduction at Court.
+
+It is thought that he spent some time in Ireland, perhaps with [[Adam Loftus (Archbishop)|Adam Loftus]] at [[Rathfarnham Castle]]. He wrote what amounted to a [[masque]] for a wedding that took place there in 1610, of the parents of [[Francis Willughby]].<ref>Andrew Carpenter, ''Verse in English from Tudor and Stuart Ireland'' (2003), p. 135.</ref>
+
+He wrote an [[elegy]] (1612) on the death of [[Henry Frederick, Prince of Wales]], and a volume of gratulatory poems (1613) on the marriage of the [[Elizabeth of Bohemia|princess Elizabeth]].
+
+===Imprisonment and release===
+{{Marshalsea}}
+Some time between 1611 and 1613 he wrote ''Abuses Stript and Whipt'', twenty satires directed against Revenge, Ambition, Lust. These satires &mdash; aimed at exposing "th'abuses of these wicked Times" &mdash; achieved some popular success and there were seven printings from 1613 to 1617.<ref>Peltonen, Markku, ''Classical Humanism and Republicanism in English Political Thought, 1570-1640,'' [[Cambridge University Press]], 1995, {{ISBN|0-521-49695-0}}, {{ISBN|978-0-521-49695-7}}, page 165.</ref> The volume included a poem called "The Scourge", in which the [[Lord Chancellor]] was attacked, and a series of [[epigram]]s.  Despite the fact that the satires referenced nobody by name, and that Wither had published them a year before with no trouble, he was arrested for libel "on or about 20 March 1614" and held in the [[Marshalsea]] prison for four months before being released.<ref name=pritchard>{{cite journal
+  | last = Pritchard
+  | first = Allan
+  | title = Abuses Stript and Whipt and Wither's Imprisonment
+  | journal = The Review of English Studies |series=New Series
+  | volume = 14
+  | issue = 56
+  | pages = 337–345
+  | publisher = Oxford University Press
+  | date = November 1963
+  | doi = 10.1093/res/XIV.56.337
+ | issn = 0034-6551
+  | jstor = 513223 }}</ref>
+
+In ''A Satyre: Dedicated to His Most Excellent Majestie'', Wither made a bold appeal to King James for his release, claiming that he had "not sought to scandalize the state, nor sowne sedition."  The cause for his initial imprisonment is somewhat unclear, as the ''Abuses'' were in fact very general, and had not satirized any one person by name.
+
+[[Charles Lamb (writer)|Charles Lamb]] commented
+
+<blockquote>that a man should be convicted of libel when he named no names but Hate, and Envy, and Lust, and Avarice, is like one of the indictments in the ''Pilgrim's Progress'', where Faithful is arraigned for having 'railed on our noble Prince Beelzebub, and spoken contemptibly of his honourable friends, the Lord Old Man, the Lord Carnal Delight, and the Lord Luxurious'.<ref>{{cite book
+  | last = Lucas
+  | first = E.V.
+  | title = The Works of Charles and Mary Lamb
+  | url = https://archive.org/details/workscharlesand00lucagoog
+  | year = 1903
+  | pages = [https://archive.org/details/workscharlesand00lucagoog/page/n197 181]
+}}</ref></blockquote>
+
+This view has been held by most later critics and scholars, in addition to the possibility of earlier editions containing text which was erased in later editions.<ref name=pritchard />  Several scholars in the late 19th and early 20th centuries also claimed that Wither had offended [[Lord Chancellor Ellesmere]] with one of the verses in ''Abuses''.  This claim, however, was rejected by Pritchard, who blames the misreading of the verses.<ref name=pritchard />
+
+Pritchard makes the case that the reason for Wither's imprisonment was that he angered [[Henry Howard, 1st Earl of Northampton]], by accusing him and others of colluding with the Spanish&mdash;and Catholic&mdash;government.  Pritchard mentions that Northampton was at the height of his power when Wither was arrested, and notes that he was not able to secure his release until after Northampton's death in June 1614.<ref name=pritchard /><ref>The view is shared by Jonathan F. S. Post, ''English Lyric Poetry: The Early Seventeenth Century'' (1999), p. 69.</ref>
+
+After his release from prison, Wither was admitted, in 1615, to [[Lincoln's Inn]]
+
+In 1621, Wither's satirical ''Wither's Motto: Nec habeo, nec careo, nec curo'' (Latin for "I have not, I want not, I care not") sold over 30,000 copies of this poem were sold, according to his own account within a few months. Like his earlier invective, it was said to be libellous, and Wither was again imprisoned, but shortly afterwards released without formal trial on the plea that the book had been duly licensed.
+
+[[Ben Jonson]] turned satire back on Wither, portrayed as the Chronomastix of the masque ''[[Time Vindicated to Himself and to His Honours|Time Vindicated]]''. Wither avenged himself, by a reference to Jonson's drunken conclave. He was obliged to print this book with his own hand, in consequence of his quarrel with the Stationers Company.
+
+===Under Charles I===
+[[Image:William Marshall's frontispiece to Wither's Emblemes.jpg|thumb|right|250px|[[William Marshall (illustrator)|William Marshall]]'s frontispiece to Wither's ''Emblemes''.]]
+
+Wither was in London during the [[Bubonic plague|plague]] of 1625, and in 1628 published ''Britain's Remembrancer'', a voluminous poem on the subject, interspersed with denunciations of the wickedness of the times, and prophecies of the disasters about to fall upon England.  It reflects on nature of poetry and prophecy, explores the fault lines in politics, and rejects tyranny of the sort the king was denounced for fostering.<ref>Andrew McRae, "Remembering 1625: George Wither's Britain's Remembrancer and the Condition of Early Caroline England" ''English Literary Renaissance'' 46.3 (2016): 433-455.</ref>
+
+In 1635 he was employed by [[Henry Taunton]], a London publisher, to write English verses illustrative of the allegorical plates of [[Crispin van Passe]], originally designed for the [[emblem book]] ''Gabriel Rollenhagens Nucleus emblematum selectissimorum'' (1610–1613). The book was published as a ''Collection of Emblemes, Ancient and Moderne'', of which the only perfect copy known is in the [[British Museum]].<ref>''A collection of emblemes, ancient and moderne'' in [https://archive.org/details/collectionofembl00withe <!-- quote=george wither. --> Internet Archive]</ref> In 1636 he translated ''The Nature of Man'' by [[Nemesius]].
+
+===Civil War soldier===
+Wither had served as captain of horse in 1639 in the expedition of [[Charles I of England|Charles I]] against the [[Covenanter|Scottish Covenanters]], and his religious rather than his political convictions must be accepted as the explanation of the fact that, three years after the Scottish expedition, at the outbreak of the [[English Civil War]], he is found definitely siding with the [[Parliament of England|Parliament]]. He sold his estate to raise a troop of horse, and was placed by a parliamentary committee in command of [[Farnham Castle]]. After a few days occupation he left the place undefended, and marched to [[London]]. His own house near Farnham was plundered, and he himself was captured by a troop of Royalist horse, owing his life to the intervention of Sir [[John Denham (poet)|John Denham]], on the ground that so long as Wither lived he himself could not be accounted the worst poet in England.<ref>[[John Aubrey]], [https://archive.org/details/brieflives01clargoog ''Brief Lives''] (ed. Andrew Clark), Volume I (Clarendon Press, Oxford, 1898), at page 221</ref>
+
+A reported episode from 1642 or 1643 has Wither with [[Henry Marten (regicide)|Henry Marten]] mocking the coronation regalia. At this time, in any case, Wither's views were converging with those of the advocates of true popular sovereignty, and his political poem ''Vox Pacifica'' called for a purge of Parliament.<ref>David Wootton, ''Divine Right and Democracy: An Anthology of Political Writing in Stuart England'' (2003), p. 53.</ref>
+
+He was promoted to the rank of major. He was present at the siege of [[Gloucester]] (1643) and at [[Naseby]] (1645). He had been deprived in 1643 of his nominal command, and of his commission as [[justice of the peace]], in consequence of an attack upon Sir [[Richard Onslow (1601-1664)|Richard Onslow]], who was, he maintained, responsible for the Farnham disaster. In the same year parliament made him a grant of £2000 for the loss of his property, but he apparently never received the full amount, and complained from time to time of his embarrassments and of the slight rewards he received for his services. An order was made to settle a yearly income of £150 on Wither, chargeable on Sir John Denham's sequestrated estate, but there is no evidence that he ever received it.
+
+===Commonwealth and Restoration===
+He became a political and religious writer using verse as his medium. He is considered to stand out as a supporter of the Commonwealth who also proposed a more egalitarian social vision.<ref>David Loewenstein, Janel M. Mueller (editors), ''The Cambridge History of Early Modern English Literature'' (2002), p. 650.</ref> His ''Respublica Anglicana'' (1650) was a reply to the ''Anarchia Anglicana'' (1649) of Theodorus Verax ([[Clement Walker]]), a Presbyterian opponent of the Independents.<ref>{{cite DNB|wstitle=Walker, Clement}}</ref> It defended '[[Engagement controversy|engagement]]', the notion that recognition of the Parliamentary regime should be required.<ref>[[Quentin Skinner]], ''Conquest and Consent'', p. 91, in [[G. E. Aylmer]], editor, ''The Interregnum'' (1972).</ref>
+
+A small place given him by the Protector was forfeited after Wither expressed criticism of Cromwell. He was involved in 11 court cases, from 1643 to 1661, including Onslow's libel suit over the poem ''Justiarius Justificatus''.<ref>Dorothy Auchter, ''Dictionary of Literary and Dramatic Censorship in Tudor and Stuart England'' (2001), p. 362.</ref> At the [[English Restoration|Restoration]] he was arrested, and remained in prison for three years.
+
+He was a conforming Anglican; but by this time he had moved closer to the [[Quakers]]. In ''Parallelogrammaton'' (1662) he compared to them as predecessors the prophets [[Ezekiel]] and [[Habakkuk]].<ref>Christopher Hill, ''The English Bible and the Seventeenth-Century English Revolution'' (1993), p. 262 and p. 201.</ref>
+
+===Death===
+Wither died in London.
+
+==Works==
+His extant writings, noted by [[Thomas Park (antiquarian)|Thomas Park]] in Brydges's ''British Bibliographer'', number over a hundred.<ref>[http://198.82.142.160/spenser/CommentRecord.php?action=GET&cmmtid=12536 Park's biography, online text]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>[http://198.82.142.160/spenser/BiographyRecord.php?action=GET&bioid=35699 Biography by Brydges]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>[http://www2.bartleby.com/214/0900.html Bibliography link]</ref> Wither wrote, generally, in a pure English idiom, and preferred the reputation of rusticity. According to the ''[[Dunciad]]'' "Withers, Ward, and Gildon rest" together "Safe, where no Critics damn, no duns molest".<ref>Book I, lines 295-6, e.g. David Fairer, Christine Gerrard, ''Eighteenth-Century Poetry: An Annotated Anthology'' (2004), pp. 176-7.</ref>
+
+===Pastoral and later satires===
+He was early known in the [[pastoral]] genre. He had figured as one of the interlocutors, Roget, in his friend [[William Browne (poet)|William Browne]]'s ''Shepherds Pipe'', with which were bound up [[eclogue]]s by other poets, among them one by Wither. During his imprisonment he wrote what may be regarded as a continuation of Browne's work, ''The Shepherd's Hunting'' (printed 1615)&mdash;eclogues in which the two poets appear as Willie and Roget (in later editions Philarete). It is largely allegorical.<ref>[http://198.82.142.160/spenser/BiographyRecord.php?action=GET&bioid=35854 Virginia Polytechnic Institute and State University]{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The fourth of these eclogues contains a famous passage in praise of poetry; the poets are explicit that pastoral is just a preliminary to other work.<ref>James Doelman, ''Early Stuart Pastoral: The Shepherd's Pipe by William Browne and Others and the Shepherd's Hunting by George Wither'' (1999), p. 7.</ref>
+
+In 1615, the year of hisrelese from prison and admission to Lincoln's Inn, Wither printed privately ''Fidelia'', a love [[elegy]], of which there is a unique copy in the [[Bodleian Library]]. Other editions of this book, which contained the lyric "Shall I, wasting in despair", appeared in 1617 and 1619.
+
+In 1621, he returned to the satiric vein with ''Wither's Motto: Nec habeo, nec careo, nec curo'' (Latin for "I have not, I want not, I care not"). It was said to be libellous, and Wither, for the second time, was imprisoned, but shortly afterwards released.
+
+In 1622 appeared his ''Faire-Virtue, The Mistresse of Phil Arete'', a long [[panegyric]] of a mistress, partly real, partly allegorical, written chiefly in the seven-syllabled verse of which he was a master.
+
+===Psalmody and hymnody===
+[[File:George-Wither.jpg|thumb|upright|Wither in the 1630s]]
+Wither had begun as a moderate in politics and religion, but his [[Puritan]] leanings became more pronounced, as he moved from an [[Arminian]] to a more [[Calvinist]] position. His later work consists of religious poetry, and of controversial and political tracts. From 1614 he began to work on a new [[psalm]] translation, a project in tune with the circle round [[Edwin Sandys (American colonist)|Sir Edwin Sandys]] that Wither frequented.<ref>David Norbrook, ''Poetry and Politics in the English Renaissance'' (2002), p. 216.</ref>
+
+''Preparation to the Psalter'' (1619) was an early work in English on literary aspects of the Bible, and initiated a campaign by Wither to substitute his own writings for the dominant [[psalm]]s.<ref name = Norbrook>David Norton, ''A History of the English Bible as Literature'' (2000), p. 131.</ref><ref>Hannibal Hamlin, ''Psalm Culture and Early Modern English Literature'' (2004), p. 52.</ref>
+
+His ''Hymnes and Songs of the Church'' (1622–1623) were aimed to counter [[exclusive psalmody]], represented by the [[Sternhold and Hopkins Psalter]]. [[Orlando Gibbons]] provided tunes for some of them.<ref name = Norbrook/> They were issued under a [[patent]] of [[James I of England|King James I]] ordaining that they should be bound up with every copy of the authorized metrical psalms offered for sale. This patent was opposed, as inconsistent with their privilege to print the singing-psalms, by the [[Worshipful Company of Stationers and Newspaper Makers|Stationers Company]], to Wither's great mortification and loss, and a second similar patent was finally disallowed by the [[House of Lords]]. Wither defended himself in ''The Schollers Purgatory'' (1624).<ref>J. R. Watson, '''The English Hymn: A Critical and Historical Study''' (1999), pp. 57-8/</ref> In this document, a 140-page diatribe against the [[Stationers Company]] for their refusal to print his work, Wither blames them for his financial ruin and hardship.<ref>{{Cite web|url = https://www.youtube.com/watch?v=C47qffyxX_4|title = Lecture on Wither}}</ref>
+
+Some more of Wither's religious poetry is contained in ''Heleluiah: or Britain's Second Remembrancer'', which was printed in [[Holland]] in 1641. This work assumed the knowledge of metrical psalms.<ref>Christopher Hill, ''A Turbulent, Seditious and Factious People: John Bunyan and his Church'' (1988), p. 262.</ref> Besides hymns, the book contains songs, especially the ''Cradle Song,'' Part 1 No. 50 ("Sleep, baby, sleep, what ails my dear"), the ''Anniversary Marriage Song,'' Part 2 No. 17 ("Lord, living here are we"), the ''Perambulation Song,'' Part 2 No. 24 ("Lord, it hath pleased Thee to say"), the ''Song for Lovers,'' Part 3 No. 20 ("Come, sweet heart, come, let us prove"), the ''Song for the Happily Married,''  Part 3 No. 21 ("Since they in singing take delight") and the ''Song for a Shepherd,'' Part 3 No. 41 ("Renowned men their herds to keep").
+
+===Context and poetic reputation===
+Wither has been classified as a [[Edmund Spenser|Spenserian]], with [[Michael Drayton]], [[Giles Fletcher]], [[Phineas Fletcher]], and [[Henry More]].<ref>William Bridges Hunter, ''The English Spenserians: the poetry of Giles Fletcher, George Wither, Michael Drayton, Phineas Fletcher, and Henry More'' (1977).</ref> The early Jacobean Spenserians were generally republican rather than imperial (at least in terms of ancient Rome), of the "country party" rather than the "court party", nostalgic for Elizabeth I, and in favour of the older ornateness rather than the plain style of James I,<ref>David Loewenstein, Janel M. Mueller (editors), ''The Cambridge History of Early Modern English Literature'' (2002), p. 501.</ref>  however Wither is described by Joan Grundy as adopting a deliberate plainness of style.<ref>Grundy, pages 176 &ndash; 177</ref>
+
+According to [[Christopher Hill (historian)|Christopher Hill]]:
+
+<blockquote>... we can trace a line from Spenser ... through a group of poets ... ranging from Shakespeare, Drayton, the two Fletchers, [[William Browne (poet)|William Browne]] and [[Samuel Daniel]] to George Wither.<ref>[[Christopher Hill (historian)|Christopher Hill]], ''Milton and the English Revolution'' (1977), p. 19.</ref></blockquote>
+
+Or again:
+
+<blockquote>A line of poets could be traced from [[Philip Sidney|Sidney]] and Spenser through Sylvester and Browne to Wither&mdash; not, admittedly, of a rising quality, but of a consistent political attitude.<ref>Christopher Hill, ''Intellectual Origins of the English Revolution'' (1965), p. 138.</ref></blockquote>
+
+Where Hill identifies connections via the aristocratic patrons and politics, Alastair Fowler takes Drayton to be the poetic centre of a group,<ref>Joan Grundy attributes the observation that "Drayton was ... Spenser's chief heir" to Professor Douglas Bush; see Grundy page 107</ref> which besides Wither comprised Browne, [[John Davies of Hereford]], [[William Drummond of Hawthornden]], [[George Sandys]] and [[Joshua Sylvester]].<ref>Alastair Fowler, ''The New Oxford Book of Seventeenth-Century Verse'' (1991), p. xxxviii.</ref>
+
+From c.1640 onwards, Wither assumed an overtly prophetic voice.<ref>James Doelman, ''King James I and the Religious Culture of England'' (2000), p. 50.</ref> His wide range of publication, in prose as well as various poetic genres over nearly half a century, has left a very uneven impression of his interests and affected his poetic reputation. [[George Gilfillan]] wrote that "Wither was a man of real genius, but seems to have been partially
+insane".<ref>[http://infomotions.com/etexts/gutenberg/dirs/etext06/7lbp210.htm ''Specimens with Memoirs of the Less-known British Poets, Volume 2''] {{webarchive|url=https://web.archive.org/web/20080906115432/http://infomotions.com/etexts/gutenberg/dirs/etext06/7lbp210.htm |date=2008-09-06 }}</ref> [[Herbert Grierson]] found something to praise in early love poems, but spoke of "endless diffuse didactic and pious poems, if they can be called poems".<ref>[[Herbert Grierson]], ''Cross-currents in 17th Century English Literature'' (1958 edition), p. 148.</ref>
+
+[[C. V. Wedgwood]] wrote "every so often in the barren acres of his verse is a stretch enlivened by real wit and observation, or fired with a sudden intensity of feeling".<ref>[[C. V. Wedgwood]], ''Poetry and Politics under the Stuarts'' (1960), p. 90.</ref>
+
+===Later publication===
+After a period of neglect, [[George Ellis (poet)|George Ellis]] anthologised Wither in ''Specimens of the Early English Poets'' (1790).<ref>[http://www.orgs.muohio.edu/anthologies/ellis.htm Online text]</ref> [[Samuel Egerton Brydges]] published ''The Shepherds Hunting'' (1814), ''Fidelia'' (1815) and ''Fair Virtue'' (1818), and a selection appeared in [[Ezekiel Sanford]]'s ''Works of the British Poets'', vol. v. (1819).
+
+Most of Wither's works were edited in twenty volumes for the Spenser Society (1871&ndash;82); a selection was included by [[Henry Morley]] in his ''Companion Poets'' (1891); ''Fidelia'' and ''Fair Virtue'' are included in [[Edward Arber]]'s ''English Garner'' (vol. iv, 1882; vol. vi, 1883), and ''The Poetry of George Wither'' was edited by [[Frank Sidgwick]] in 1902.<ref>[https://archive.org/stream/poetryofgeorgewi01withuoft/poetryofgeorgewi01withuoft_djvu.txt ''The Poetry of George Wither'', online text]</ref>
+
+A selection of Wither's hymns was published in 2011 by The Phoenix Press in The Gibbons Songbook.<ref>[https://web.archive.org/web/20160406164534/http://www.rscmshop.com/index.php/the-gibbons-songbook.html The Gibbons Songbook]</ref> Whilst primarily a realisation of the tunes Orlando Gibbons wrote for The Hymns and Songs of the Church a selection of verses from the hymns is paired with the original verses from the King James Bible which inspired Wither to create the hymns.
+
+==Footnotes==
+{{Reflist|2}}
+
+==References==
+* McRae, Andrew. "Remembering 1625: George Wither's Britain's Remembrancer and the Condition of Early Caroline England" ''English Literary Renaissance'' 46.3 (2016): 433-455.
+* Grundy, Joan, ''The Spenserian Poets,'' Edward Arnold (1969) {{ISBN|0-7131-5457-8}}
+*{{EB1911|wstitle = Wither, George|volume=28}}
+*{{cite DNB|wstitle = Wither, George|volume=62|first=Sidney|last= Lee}}
+*{{cite ODNB|first=Michelle |last=O'Callaghan|title = Wither, George (1588–1667)|id=29804}}
+
+==External links==
+{{wikisource author}}
+{{commons category|George Wither}}
+{{wikiquote}}
+* {{Gutenberg author |id=Wither,+George | name=George Wither}}
+* {{Librivox author |id=11893}}
+* {{Internet Archive author |sname=George Wither}}
+*[https://web.archive.org/web/20091015200934/http://rpo.library.utoronto.ca/poet/361.html ''Selected Poetry of George Wither (1588-1667)'']
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wither, George}}
+[[Category:1588 births]]
+[[Category:1667 deaths]]
+[[Category:English Anglicans]]
+[[Category:17th-century English poets]]
+[[Category:17th-century English male writers]]
+[[Category:Inmates of the Marshalsea]]
+[[Category:Alumni of Magdalen College, Oxford]]
+[[Category:People from Bentworth]]
+[[Category:English male poets]]

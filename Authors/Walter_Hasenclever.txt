@@ -1,0 +1,84 @@
+{{short description|German poet and playwright}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+ | name        = Walter Hasenclever
+ | image       = Walter Hasenclever c.1917. Foto von Hugo Erfurth.jpg
+ | imagesize   = 200px
+ | caption     = Hasenclever {{circa}} 1917
+ | pseudonym   = 
+ | birth_name  = Walter Georg Alfred Hasenclever
+ | birth_date  = {{Birth date|1890|07|08|df=y}}
+ | birth_place = [[Aachen]], Germany
+ | death_date  = {{Death date and age|1940|06|22|1890|07|08|df=y}}
+ | death_place = [[Les Milles]], France
+ | occupation  = Poet, Playwright
+ | nationality = German
+ | period      = 
+ | genre       = 
+ | subject     = 
+ | movement    = [[Expressionism]]
+ | notableworks  = ''[[The Son (play)|The Son]]'' (1914)
+ | influences  = 
+ | influenced  = 
+ | signature   = 
+ | website     = 
+}}
+'''Walter Georg Alfred Hasenclever''' (8 July 1890 &ndash; 22 June 1940) was a [[Germans|German]] [[Expressionism|Expressionist]] poet and playwright. His works were banned when the Nazis came to power and he went into exile in [[France]]; however, there he was imprisoned as a "foreign enemy". He died in [[Les Milles]] ([[Camp des Milles]]) near [[Aix-en-Provence]].
+
+== Early life==
+Born in [[Aachen]], [[Germany]], the son of the doctor Carl Georg Hasenclever (1855–1934) and his wife Mathilde Anna (née Reiss; 1869–1953), Walter Hasenclever began studying [[law]] at [[Oxford University]] in 1908 before changing to the [[University of Lausanne]]. From 1909 to 1914 he studied in [[Leipzig]], where he became interested in [[literature]] and [[philosophy]].
+
+==Career==
+In 1910 he published his first volume of poems, ''Towns, nights and people'' (''Städte, Nächte und Menschen''). In 1914 his play ''[[The Son (play)|The Son]]'' (''Der Sohn'') was his first successful [[Expressionism (theatre)|Expressionist drama]].
+
+At first, Hasenclever was pro-war and volunteered for [[military service]]; soon, however, he came to reject the war. He simulated [[mental illness]] and was released from duty in 1917. That same year he was presented with the [[Kleist Prize]] for his passionate adaptation of [[Sophocles]]' ''[[Antigone (Sophocles)|Antigone]]''. He was a good friend of the artist [[Oskar Kokoschka]] who depicted him in his 1918 work "The Friends" with [[Käthe Richter]] in [[Dresden]], where Hasenclever was recuperating from his "illness" in a sanatorium.
+
+In 1924, Hasenclever met [[Kurt Tucholsky]]; at this time he worked as a French correspondent for the magazine ''8-Uhr-Abendblatt'', spending a lot of time in [[Paris]], where he also befriended the dramatist [[Jean Giraudoux]]. In 1926 he produced the successful [[comedy]] ''[[A Better Gentleman]]'' (''Ein besserer Herr'') and in 1928 the comedy ''[[Marriages are Made in Heaven]]'' (''Ehen werden im Himmel geschlossen''). In 1930, he wrote scripts for [[Metro-Goldwyn-Mayer]] for [[Greta Garbo]]; at this time he lived in [[Berlin]] in an "artists' colony".
+
+==Nazi Era & Fate==
+When the [[National Socialist German Workers Party|National Socialists]] took power in 1933, his works were banned, burned during the [[book burning]], then removed from libraries. Hasenclever went into [[exile]] in [[Nice]]. In 1934, he married Edith Schläfer there.
+
+During the [[Second World War]] Hasenclever was imprisoned twice as a "foreign enemy" in [[France]]. When France fell to Germany, he was in the prison camp of [[Camp des Milles]] in the south-east of France. In the early hours of 22 June 1940 he took his own life with an overdose of the [[barbiturate]] ''[[Veronal]]'',<ref>{{cite book |last=Taussig |first=Michael |date=April 13, 2010 |title= Walter Benjamin's Grave|url=https://books.google.com/books?id=ki6fD2DUZP8C&pg=PT24 |publisher=University of Chicago Press |page=12 |isbn=978-0226790008}}</ref> so as not to fall into the hands of the Nazis.
+
+==Legacy==
+[[File:2007-03-06 Gedenktafel Hasenclever.jpg|thumb|Memorial plaque for Hasenclever at Ludwig-Barnay-Platz 3, Berlin-Wilmersdorf]]
+Since 1996 the Walter Hasenclever Prize has been awarded to a German-language writer every two years. Winners have included [[Peter Rühmkorf]] (1996), [[George Tabori]] (1998), [[Oskar Pastior]] (2000), [[Marlene Steerewitz]] (2002) and [[Friedrich Christian Delius]] (2004). The funds come from the Walter Hasenclever Society (''Walter-Hasenclever-Gesellschaft'') as well as the town of [[Aachen]], the [[Schiller Society]] and Hasenclever's old school, the Einhard Gymnasium.
+
+==Selected filmography==
+*''[[A Better Master|Ein besserer Herr]]'' (1928)
+*''[[Diary of a Coquette]]'' (1929)
+* ''[[Love Songs (1930 film)|Love Songs]]'' (1930)
+* ''[[Rendezvous (1930 film)|Rendezvous]]'' (1930)
+* ''[[Men Behind Bars]]'' (1931)
+
+== References ==
+{{Reflist}}
+:''This article was translated from [[:de:Walter Hasenclever]] on 15 June 2005''
+
+==External links==
+* {{Gutenberg author | id=Hasenclever,+Walter }}
+* {{Internet Archive author |sname=Walter Hasenclever}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hasenclever, Walter}}
+[[Category:1890 births]]
+[[Category:1940 suicides]]
+[[Category:People from Aachen]]
+[[Category:People from the Rhine Province]]
+[[Category:German expressionist dramatists and playwrights]]
+[[Category:Expressionist poets]]
+[[Category:Writers from North Rhine-Westphalia]]
+[[Category:Jewish emigrants from Nazi Germany to France]]
+[[Category:Jewish writers]]
+[[Category:German Jewish military personnel of World War I]]
+[[Category:Kleist Prize winners]]
+[[Category:Drug-related suicides in France]]
+[[Category:Barbiturates-related deaths]]
+[[Category:German male poets]]
+[[Category:German male dramatists and playwrights]]
+[[Category:20th-century German poets]]
+[[Category:20th-century German dramatists and playwrights]]
+[[Category:20th-century German male writers]]
+[[Category:Suicides by Jews during the Holocaust]]
+[[Category:1940 deaths]]
+[[Category:German Jews who died in the Holocaust]]

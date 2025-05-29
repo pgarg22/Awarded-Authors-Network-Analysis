@@ -1,0 +1,62 @@
+'''Maffeo Vegio''' ({{lang-la|Maphaeus Vegius}}) (1407–1458) was an [[Italy|Italian]] poet who wrote in [[Latin]]; he is regarded by many as the finest Latin poet of the fifteenth century.
+[[File:Apotheosis of Aeneas Wellcome L0011929.jpg|thumb|''Apotheosis of Aeneas'']]
+
+Born near [[Lodi, Lombardy|Lodi]], he studied at the [[University of Pavia]], and went on to write some fifty works of both prose and poetry.
+
+His greatest reputation came as the writer of brief [[epic poetry|epics]], the most famous of which was his continuation of [[Virgil]]'s ''[[Aeneid]]'', known variously as the ''Supplementum'' (Supplement) or ''Aeneidos Liber XIII'' (Book 13 of the ''Aeneid''). Completed in 1428, this 600-line poem starts immediately after the end of Virgil's epic, and describes Aeneas's marriage to Lavinia and his eventual deification. It is elegantly written, and its combination of classical learning and piety made it very popular in its day; it was often included in editions of the ''Aeneid'' in the fifteenth and sixteenth-centuries. An electronic text can be found at the [http://www.thelatinlibrary.com/vegius.html Latin Library].
+
+Vegio also wrote an epic ''[[Astyanax]]'' (1430), on the death of the son of Hector, prince of Troy, and a four-book epic ''Vellus Aureum'' (the [[Golden Fleece]]) (1431).  During 1436–37 he completed his epic on the life of the [[Christians|Christian]] [[Anthony the Great|Saint Anthony]], the ''Antoniad''.  [[Michael C. J. Putnam]] edited and translated Vegio's ''Short Epics'' for the [[I Tatti Renaissance Library]] (Harvard University Press).
+
+Vegio flattered his way into the papal court, and was made [[canon (priest)|canon]] of [[St. Peter's Basilica]] in 1443; it was an office he held until his death in 1458.
+
+Some of Vegio's poems were later set as motets by renaissance composers – an example being ''Huc me sidereo'', set by [[Josquin]], [[Jacobus Vaet]], [[Orlando Di Lasso]] and the first motet of [[Adrian Willaert]]'s 1559 ''Musica Nova'' collection.<ref>Orlando Di Lasso,  Complete Motets: Vol.6 Peter Bergquist 1997 – Page xix ""Huc me sidéreo": Gustave Reese ascribes the poem to Maffeo Vegio (or Veggio, 1407–58), a minor Italian humanist.25 The poem was set several times before Lasso, including settings by Josquin, Willaert, and Jacobus Vaet.26"</ref>
+
+== Works ==
+[[File:Vegio, Maffeo – Vocabula ex iure civili excerpta, 1477 – BEIC 12480906.jpg|thumb|''Vocabula ex iure civili excerpta'', 1477]]
+
+(partial list)
+
+;Poems
+* ''Poemata et epigrammata'', 1422 
+* ''Rusticalia''
+* ''De morte Astyanactis'', 1430 
+* ''Velleris aurei libri quattuor'', 1431 
+;Religious texts
+* ''Antoniados sive de vita et laudibus sancti Antonii'', 1436-1437 
+* ''De perseverantia religionis''
+* ''De quattuor hominis novissimis, morte, judicio, inferno et paradiso meditationes''
+* ''Vita sancti Bernardi Senensis'' 
+* ''Sanctae Monicae translationis ordo. Item de sanctae Monicae vita et ejus officium proprium'' 
+;Works about ethics
+* ''Disceptatio inter solem, terram, et aurum''.
+* ''Dialogus Veritatis et Philalethis''.<ref>[http://tudigit.ulb.tu-darmstadt.de/show/inc-ii-146/0001?sid=294d48284b659eede5f4783448c65188 ]</ref>
+* ''Palinurus sive de felicitate et miseria'', 1445.<ref>[http://books.google.fr/books?hl=fr&lr=&id=sLXWYW32neQC&oi=fnd&pg=PR11&dq=%22maffeo+vegio%22&ots=bE2-vTVnXy&sig=ilWc9pF7j4y7rZrAhEqz2jCK7Wc#v=onepage&q=%22maffeo%20vegio%22&f=false David Marsh, ''Lucian and the Latins: humor and humanism in the early Renaissance'', University of Michigan Press, 1998, p. 67-71.]</ref> 
+;Historical works
+* ''De rebus antiquis memorabilibus Basilicae sancti Petri Romae'', 1455-1457.<ref>Charles L. Stinger, ''The Renaissance in Rome'', Indiana University Press, 1985, p. 179-183.</ref>
+;Works about law
+* {{Cite book|title=Vocabula ex iure civili excerpta|publisher=Filippo Albino|location=Vicenza|year=1477|language=la|url=https://gutenberg.beic.it/webclient/DeliveryManager?pid=12480906}}
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.newadvent.org/cathen/15320b.htm Maffeo Vegio] Catholic Encyclopedia
+*[http://hdl.loc.gov/loc.rbc/Rosenwald.0054.1 Philalethes] From the [https://www.loc.gov/rr/rarebook/ Rare Book and Special Collections Division] at the [[Library of Congress]]
+* [http://openn.library.upenn.edu/Data/0030/html/MSS_BH_100_COCH.html (SPC) MSS BH 100 COCH Volume of works by Nicole Oresme, Maffeo Vegio, and Jordanus von Osnabrück at OPenn]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vegio, Maffeo}}
+[[Category:1407 births]]
+[[Category:1458 deaths]]
+[[Category:People from the Province of Lodi]]
+[[Category:Italian Renaissance humanists]]
+[[Category:Italian poets]]
+[[Category:Italian male poets]]
+[[Category:15th-century Latin writers]]
+[[Category:University of Pavia alumni]]
+[[Category:Italian Roman Catholics]]
+
+
+{{Italy-writer-stub}}
+{{Italy-poet-stub}}

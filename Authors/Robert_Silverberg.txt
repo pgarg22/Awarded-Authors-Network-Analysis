@@ -1,0 +1,161 @@
+{{short description|American speculative fiction writer and editor}}
+{{Use mdy dates|date=October 2020}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name = Robert Silverberg
+| image = Robert Silverberg.jpg
+| caption = Robert Silverberg in 2005
+| pseudonym = Dozens<ref name=isfdb/>
+| birth_date = {{Birth date and age|1935|1|15}}
+| birth_place = [[New York City]], [[New York (state)|New York]], U.S.
+| death_date = 
+| death_place = 
+| occupation = {{flatlist|
+* Novelist
+* short-story writer
+* editor
+}}
+| nationality = American
+| period = 1955–present
+| genre = [[Science fiction]], [[fantasy]], [[anthologies]] (as editor)
+| subject = Geography, history, nature
+| movement = 
+| signature = Robert Silverberg Autograph.svg
+| website = {{URL|robert-silverberg.com}}
+| alma_mater = [[Columbia University]] ([[Bachelor of Arts|BA]])
+}}
+[[File:Fantastic 195608.jpg|thumb|right|Silverberg's novelette "Guardian of the Crystal Gate" was the cover story in the August 1956 issue of ''[[Fantastic (magazine)|Fantastic]]''.]]
+[[File:Science fiction quarterly 195705.jpg|thumb|right|Silverberg's short story "Quick Freeze" took the cover of the May 1957 issue of ''[[Science Fiction Quarterly]]''.]]
+
+'''Robert Silverberg''' (born January 15, 1935) is an American author and editor, best known for writing [[science fiction]]. He is a multiple winner of both [[Hugo Award|Hugo]] and [[Nebula Award]]s, a member of the [[Science Fiction and Fantasy Hall of Fame]], and a [[SFWA Grand Master|Grand Master of SF]].<ref name=SFAwards/><ref name=sfhof-old/><ref name=SFWA/> He has attended every Hugo Awards ceremony since the inaugural event in 1953.<ref>{{Cite web|url=http://www.locusmag.com/News/2015/08/alfies-awards/|title=Alfies Awards|date=2013|website=Locus Online News|access-date=February 14, 2017}}</ref>
+
+==Biography==
+
+===Early years===
+Silverberg was born to [[Jew|Jewish]] parents in [[Brooklyn]], New York.<ref>{{Cite web|url=http://go.galegroup.com/ps/i.do?p=LitRC&sw=w&u=camb27002&v=2.1&it=r&id=GALE%7CH1106420000&asid=d93d97c79e9268144d4e4c7263d5a4dc|title=Robert Silverberg|date=2008|website=Contemporary Literary Criticism Select|publisher=Gale, Cengage Learning|access-date=February 3, 2017}}</ref> A voracious reader since childhood, he began submitting stories to science fiction magazines during his early teenage years. He received a BA in [[English Literature]] from [[Columbia University]], in 1956. While at Columbia, he wrote the juvenile novel ''[[Revolt on Alpha C]]'' (1955), published by [[Thomas Y. Crowell]] with the cover notice: "A gripping story of outer space".<ref name=isfdb/> He won his first Hugo in 1956 as the "best new writer".<ref name=SFAwards/>
+
+That year Silverberg was the author or co-author of four of the six stories in the August issue of ''[[Fantastic (magazine)|Fantastic]]'', breaking his record set in the previous issue.<ref name="silverberg2006">{{Cite book |title=In the Beginning: Tales from the Pulp Era |last=Silverberg |first=Robert |publisher=Subterranean |year=2006 |isbn=978-1596060432 |chapter=Guardian of the Crystal Gate |type=Introduction |chapter-url=https://www.baen.com/Chapters/1596060433/1596060433.htm}}</ref> For the next four years, by his own count, he wrote a million words a year, mostly for magazines and [[Ace Double]]s. He used his own name as well as a range of pseudonyms during this era, and often worked in collaboration with [[Randall Garrett]], who was a neighbour at the time.<ref name="strangehorizons.com">{{cite web | last=Horwich | first=About David | title=Interview: Robert Silverberg | website=[[Strange Horizons]] | date=December 11, 2000 | url=http://strangehorizons.com/non-fiction/articles/interview-robert-silverberg/ | access-date=December 24, 2016}}</ref> (The Silverberg/Garrett collaborations also used a variety of pseudonyms, the best-known being Robert Randall.) From 1956 to 1959, Silverberg routinely averaged five published stories a month, and he had over 80 stories published in 1958 alone.
+
+In 1959, the market for science fiction collapsed,{{citation needed|date=August 2018}} and Silverberg turned his ability to write copiously to other fields,<ref name="larb">{{cite news |last=Latham |first=Rob |date=September 18, 2020 |title=Man in the Maze: A Conversation with Robert Silverberg |url=https://www.lareviewofbooks.org/article/man-in-the-maze-a-conversation-with-robert-silverberg/ |work=[[Los Angeles Review of Books]] |location= |access-date=}}</ref> from historical non-fiction to [[softcore pornography]]. "Bob Silverberg, a giant of science fiction... was doing two [books] a month for one publisher, another for a second publisher, and the equivalent of another book for a magazine... He was writing a quarter of a million words a month"<ref name="Intense Work Rate">{{cite web | url=https://www.bbc.com/news/entertainment-arts-37360413 | title=Lee Child: Celebrating mystery fiction master MacDonald | publisher=BBC | date=October 12, 2016 | access-date=October 12, 2016 | author=Child, Lee}}</ref> under many different pseudonyms{{r|budrys196512}} including about 200 erotic novels published as Don Elliott.<ref name="SF Encyc"/><ref name="DonEliottStark">{{cite web |url=http://starkhousepress.com/elliott.php |title=Don Elliott |publisher=Stark House Press |access-date=November 22, 2019 }}</ref> In a 2000 interview, Silverberg explained that the erotic fiction (published under the [[pseudonym]] "Don Elliott")
+
+<blockquote> "... was undertaken at a time when I was saddled with a huge debt, at the age of 26, for a splendid house that I had bought. There would have been no way to pay the house off by writing science fiction ... so I turned out a slew of quick sex novels. I never concealed the fact that I was doing them; it made no difference at all to me whether people knew or not. It was just a job. And it was, incidentally, a job that I did very well. I think they were outstanding erotic novels."<ref name=interview>{{cite web|last=Horwich|first=David|title=Interview: Robert Silverberg|url=http://strangehorizons.com/non-fiction/articles/interview-robert-silverberg/|work=[[Strange Horizons]]|access-date=January 21, 2020}}</ref></blockquote>
+
+===Literary growth===
+In the mid-1960s, science fiction was becoming more serious and sophisticated. [[Frederik Pohl]], then editing three science fiction magazines, offered Silverberg carte blanche in writing for them.<ref name="larb"/> Thus inspired, Silverberg returned to the field that gave him his start, paying far more attention to depth of character development and social background than he had in the past and mixing in elements of the [[modernist]] literature he had studied at Columbia.
+
+Silverberg continued to write rapidly—[[Algis Budrys]] reported in 1965 that he wrote and sold at least 50,000 words ("call it the equivalent of a commercial novel") weekly<ref name="budrys196512">{{Cite magazine
+ |last=Budrys
+ |first=Algis
+ |date=December 1965
+ |title=Galaxy Bookshelf
+ |magazine=Galaxy Science Fiction
+ |pages=147–156
+}}</ref>—but the novels he wrote in this period are considered superior to his earlier work; Budrys in 1968 wrote of his surprise that "Silverberg is now writing deeply detailed, highly educated, beautifully figured books" like ''[[Thorns (novel)|Thorns]]'' and ''[[The Masks of Time]]''.<ref name="budrys196812">{{Cite magazine
+ |last=Budrys
+ |first=Algis
+ |date=December 1968
+ |title=Galaxy Bookshelf
+ |url=https://archive.org/stream/Galaxy_v27n05_1968-12_modified#page/n115/mode/2up
+ |magazine=Galaxy Science Fiction
+ |pages=149–155
+}}</ref> Perhaps the first book to indicate the new Silverberg was ''To Open the Sky'', a [[fixup]] of stories published by Pohl in ''[[Galaxy (magazine)|Galaxy Magazine]]'', in which a new religion helps people reach the stars. That was followed by ''[[Downward to the Earth]]'', a story containing echoes of material from [[Joseph Conrad]]'s work,<ref name="SF Encyc">{{cite web |  title=Authors : Silverberg, Robert | website=[[The Encyclopedia of Science Fiction]] | date=November 4, 2016 | url=http://sf-encyclopedia.com/entry/silverberg_robert | access-date=December 24, 2016}}</ref> in which the human former administrator of an alien world returns after the planet's inhabitants have been set free. Other acclaimed works of that time include ''[[To Live Again (novel)|To Live Again]]'', in which the memories and personalities of the deceased can be transferred to other people; ''[[The World Inside]]'', a look at an overpopulated future; and ''[[Dying Inside]]'', a tale of a telepath losing his powers.
+
+In the August 1967 issue of ''Galaxy'', Silverberg published a 20,000-word novelette called "Hawksbill Station". This story earned Silverberg his first Hugo and Nebula story award nominations.<ref>Silverberg, Robert (1968). ''Hawksbill Station'', Berkley, p. 3</ref> An expanded novel form of ''[[Hawksbill Station]]'' was published the following year. In 1969 ''[[Nightwings (novella)|Nightwings]]'' was awarded the Hugo for best novella. Silverberg won a Nebula award in 1970 for the short story "[[Passengers (short story)|Passengers]]", two the following year for his novel ''[[A Time of Changes]]'' and the short story "[[Good News from the Vatican]]", and yet another in 1975 for his novella "[[Born with the Dead]]".
+
+===Later developments===
+After suffering through the stresses of a major house fire<ref name="galaxy196809">{{Cite magazine
+ |date=September 1968
+ |title=Galaxy's Stars
+ |url=https://archive.org/stream/Galaxy_v27n02_1968-09#page/n193/mode/2up
+ |magazine=Galaxy Science Fiction
+ |pages=194
+}}</ref> and a [[thyroid]] malfunction, Silverberg moved from his native [[New York (city)|New York City]] to the [[West Coast of the United States|West Coast]] in 1972, and he announced his retirement from writing in 1975.<ref name="University of Southern Mississippi 1935">{{cite web | title=ROBERT SILVERBERG PAPERS | website=[[University of Southern Mississippi]] | date=January 15, 1935 | url=http://www.lib.usm.edu/legacy/degrum/public_html/html/research/findaids/DG0898f.html | access-date=June 18, 2019}}</ref> In 1980 he returned, however, with ''[[Lord Valentine's Castle]]'',<ref name="larb"/> a panoramic adventure set on an alien planet, which has become the basis of the [[Majipoor series]]—a cycle of stories and novels set on the vast planet Majipoor, a world much larger than Earth and inhabited by no fewer than seven different species of settlers. In a 2015 interview Silverberg said that he did not intend to write any more fiction.<ref>{{cite web|url=https://www.sffworld.com/2015/07/robert-silverberg-interview/|title=Robert Silverberg Interview – SFFWorld|first=Dag|last=R|access-date=June 17, 2019}}</ref>
+
+Silverberg received a Nebula award in 1986 for the novella ''[[Sailing to Byzantium (novella)|Sailing to Byzantium]]'', which takes its name from [[Sailing to Byzantium|the poem by William Butler Yeats]]; a Hugo in 1987 for the novella ''[[Gilgamesh in the Outback]]'', set in the ''[[Heroes in Hell]]'' universe of [[Bangsian Fantasy]]; a Hugo in 1990 for ''Enter a Soldier. Later: Enter Another''.<ref name=SFAwards/> The [[Science Fiction and Fantasy Hall of Fame]] inducted Silverberg in 1999, its fourth class of two deceased and two living writers,<ref name=sfhof-old/> and the [[Science Fiction and Fantasy Writers of America]] made him its 21st [[SFWA Grand Master]] in 2005.<!--named in 2004--><ref name=SFWA/>
+
+==Personal life==
+Silverberg has been married twice. He and Barbara Brown married in 1956, separated in 1976, and divorced a decade later. Silverberg and science fiction writer [[Karen Haber]] married in 1987.<ref>{{cite web|url=http://sf-encyclopedia.com/entry/haber_karen|title=Authors : Haber, Karen : SFE : Science Fiction Encyclopedia|website=sf-encyclopedia.com|access-date=June 17, 2019}}</ref> They live in the San Francisco Bay Area.<ref name="strangehorizons.com"/> Before the age of 30, Silverberg was independently wealthy through his investments and once owned the former mansion of New York City Mayor [[Fiorello La Guardia]].<ref>{{cite news|last1=Dirda|first1=Michael|title=Robert Silverberg: The Philip Roth of the science fiction world|url=https://www.washingtonpost.com/entertainment/books/robert-silverberg-the-philip-roth-of-the-science-fiction-world/2016/11/08/87fbb8ce-a297-11e6-8832-23a007c77bb4_story.html|access-date=November 14, 2016|work=[[The Washington Post]]|date=November 8, 2016}}</ref>{{r|galaxy196809}}
+
+== Awards ==
+'''Hugo Awards'''
+* Most Promising New Author (1956)<ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/1956-hugo-awards/|title=1956 Hugo Awards|website=The Hugo Awards|access-date=February 13, 2017}}</ref>
+* ''Nightwings'' (Best Novella, 1969)<ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/1969-hugo-awards/|title=1969 Hugo Awards|website=The Hugo Awards|access-date=February 13, 2017}}</ref>
+* ''Gilgamesh in the Outback'' (Best Novella, 1987)<ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/1987-hugo-awards/|title=1987 Hugo Awards|website=The Hugo Awards|access-date=February 13, 2017}}</ref>
+* "Enter a Soldier. Later: Enter Another" (Best Novelette, 1990)<ref>{{Cite web|url=http://www.thehugoawards.org/hugo-history/1990-hugo-awards/|title=1990 Hugo Awards|website=The Hugo Awards|access-date=February 13, 2017}}</ref>
+
+'''Locus Award'''
+* ''Born with the Dead'' (Best Novella, 1975)<ref>{{Cite web|url=http://www.sfadb.com/Locus_Awards_1975|title=Locus Awards 1975|website=Science Fiction Awards Database|access-date=February 13, 2017}}</ref>
+* ''Lord Valentine's Castle'' (Best Fantasy Novel, 1981)<ref>{{Cite web|url=http://www.sfadb.com/Locus_Awards_1981|title=Locus Awards 1981|website=Science Fiction Awards Database|access-date=February 13, 2017}}</ref>
+* ''The Secret Sharer'' (Best Novella, 1988)<ref>{{Cite web|url=http://www.sfadb.com/Locus_Awards_1988|title=Locus Awards 1988|website=Science Fiction Awards Database|access-date=February 13, 2017}}</ref>
+
+'''Nebula Awards'''
+* "Passengers" (Best Short Story, 1969)<ref>{{Cite web|url=http://nebulas.sfwa.org/award-year/1969/|title=1969 Nebula Awards|website=Nebula Awards|access-date=February 13, 2017}}</ref>
+* ''[[A Time of Changes]]'' (Best Novel, 1971)<ref name="auto">{{Cite web|url=http://nebulas.sfwa.org/award-year/1971/|title=1971 Nebula Awards|website=Nebula Awards|access-date=February 13, 2017}}</ref>
+* "Good News from the Vatican" (Best Short Story, 1971)<ref name="auto"/>
+* ''Born with the Dead'' (Best Novella, 1974)<ref>{{Cite web|url=http://nebulas.sfwa.org/award-year/1974/|title=1974 Nebula Awards|website=Nebula Awards|access-date=February 13, 2017}}</ref>
+* ''Sailing to Byzantium'' (Best Novella, 1985)<ref>{{Cite web|url=http://nebulas.sfwa.org/award-year/1985/|title=1985 Nebula Awards|website=Nebula Awards|access-date=February 13, 2017}}</ref>
+* Damon Knight Grand Master Award (2003)<ref>{{Cite web|url=http://nebulas.sfwa.org/award-year/2003/|title=2003 Nebula Awards|website=Nebula Awards|access-date=February 13, 2017}}</ref>
+
+==Bibliography==
+{{Main|Robert Silverberg bibliography}}
+
+== See also ==
+* {{Portal-inline|Speculative fiction}}
+
+==References==
+{{Reflist |25em |refs=<ref name=isfdb>
+{{isfdb name |54}} (ISFDB). Retrieved March 26, 2013.</ref>
+
+<!-- some awards refs --><ref name=SFAwards>
+[http://www.locusmag.com/SFAwards/Db/NomLit122.html#4772 "Silverberg, Robert"] {{webarchive|url=https://web.archive.org/web/20131010043756/http://www.locusmag.com/SFAwards/Db/NomLit122.html |date=October 10, 2013 }}. ''The Locus Index to SF Awards: Index to Literary Nominees''. [[Locus Publications]]. Retrieved March 26, 2013.</ref><ref name=sfhof-old>
+[http://www.midamericon.org/halloffame/ "Science Fiction and Fantasy Hall of Fame"]. Mid American Science Fiction and Fantasy Conventions, Inc. Retrieved March 26, 2013. This was the official website of the hall of fame to 2004.</ref><ref name=SFWA>
+[http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ "Damon Knight Memorial Grand Master"] {{webarchive|url=https://web.archive.org/web/20110701114233/http://www.sfwa.org/nebula-awards/nebula-weekend/events-program/grandmaster/ |date=July 1, 2011 }}. Science Fiction and Fantasy Writers of America (SFWA). Retrieved March 26, 2013.</ref>
+}}
+
+==Further reading==
+*[[Sandra Miesel]], "Dreams Within Dreams" in [[Darrell Schweitzer]] (ed.). ''Exploring Fantasy Worlds: Essays on Fantastic Literature''. San Bernardino, CA: [[Borgo Press]], April 1985, pp.&nbsp;35–42. (On the novel ''Son of Man''.)
+
+==External links==
+{{commons category}}
+{{wikiquote}}
+* {{official website}}
+* {{Gutenberg author |id=Silverberg,+Robert | name=Robert Silverberg}}
+* {{Internet Archive author |sname=Robert Silverberg}}
+* {{Librivox author |id=48}}
+* {{isfdb name|54}}
+* {{IBList|type=author|id=833|name=Robert Silverberg}}
+* {{sfhof |954 | Robert Silverberg}}
+* {{IMDb name|0798844}}
+
+{{Works of Robert Silverberg}}
+{{Damon Knight Memorial Grand Master Awards}}
+{{Inkpot Award 1980s}}
+{{hmcontribs}}
+{{Authority control}}
+
+{{DEFAULTSORT:Silverberg, Robert}}
+[[Category:1935 births]]
+[[Category:20th-century American male writers]]
+[[Category:20th-century American novelists]]
+[[Category:21st-century American male writers]]
+[[Category:21st-century American novelists]]
+[[Category:American alternate history writers]]
+[[Category:American erotica writers]]
+[[Category:American fantasy writers]]
+[[Category:American male novelists]]
+[[Category:American male short story writers]]
+[[Category:American science fiction writers]]
+[[Category:Anthologists]]
+[[Category:Asimov's Science Fiction people]]
+[[Category:Columbia College (New York) alumni]]
+[[Category:Erasmus Hall High School alumni]]
+[[Category:Hugo Award-winning writers]]
+[[Category:Jewish American novelists]]
+[[Category:Jewish American short story writers]]
+[[Category:Living people]]
+[[Category:Nebula Award winners]]
+[[Category:Novelists from New York (state)]]
+[[Category:Science fiction editors]]
+[[Category:Science fiction fans]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:SFWA Grand Masters]]
+[[Category:Writers from Brooklyn]]

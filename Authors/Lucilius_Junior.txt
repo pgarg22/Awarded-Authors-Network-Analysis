@@ -1,0 +1,40 @@
+{{short description|Procurator of Sicily during the reign of Roman emperor Nero}}
+'''Lucilius Junior''' (fl. 1st century), was the [[Procurator (Roman)|procurator]] of [[Sicilia (Roman province)|Sicily]] during the reign of [[Nero]], a friend and correspondent of [[Seneca the Younger|Seneca]], and the possible author of ''Aetna'', a poem that survives in a corrupt state.
+
+==Life==
+The information known about Lucilius comes from [[Seneca the Younger|Seneca]]'s writings, especially his ''[[Epistulae morales ad Lucilium|Moral Letters]]'', which are addressed to Lucilius. Seneca also dedicated his ''[[Naturales Quaestiones]]'' and his essay ''[[De Providentia]]'' to Lucilius. Lucilius seems to have been a native of [[Campania]], and Seneca refers repeatedly to "your beloved [[Pompeii]]."<ref>Seneca, ''Epistles'', {{ws|''[[s:Moral letters to Lucilius/Letter 49|xlix. 2]]''}}, {{ws|''[[s:Moral letters to Lucilius/Letter 70|lxx. 1]]''}}</ref> At the time Seneca wrote his ''Letters'' (c. 65 AD), Lucilius was the [[Procurator (Roman)|procurator]] (and possibly [[Roman governor|governor]]) of [[Sicilia (Roman province)|Sicily]].<ref>Seneca, ''Epistles'', {{ws|''[[s:Moral letters to Lucilius/Letter 31|xxxi. 9-10]]''}}, Seneca, ''Epistles'', {{ws|''[[s:Moral letters to Lucilius/Letter 51|li. 1]]''}}</ref> He was a [[Equestrian order|Roman Knight]], a status he had achieved through "persistent work,"<ref>Seneca, ''Epistles'', {{ws|''[[s:Moral letters to Lucilius/Letter 44|xliv. 2]]''}}</ref> and he owned a country villa in [[Ardea (RM)|Ardea]], south of [[Rome]].<ref>Seneca, ''Epistles'', {{ws|''[[s:Moral letters to Lucilius/Letter 105|cv. 1]]''}}</ref> Seneca devotes one of his shorter letters to praising a book Lucilius had written,<ref>Seneca, ''Epistles'', {{ws|''[[s:Moral letters to Lucilius/Letter 46|xlvi]]''}}</ref> and elsewhere quotes a few lines of Lucilius' poetry.<ref>Seneca, ''Epistles'', {{ws|''[[s:Moral letters to Lucilius/Letter 8|viii. 10]]''}}, {{ws|''[[s:Moral letters to Lucilius/Letter 24|xxiv. 21]]''}}, ''Nat. Quaes.'' iii. 1. See also ''N. Q.'' iii. 26 where mention is made of a poem by Lucilius on [[Fountain of Arethusa|Arethusa]], and iv. 2 where Seneca addresses Lucilius as 'my poet'.</ref>
+
+==''Aetna''==
+''Aetna'' is a 644-line poem on the origin of [[volcanology|volcanic activity]], which has been variously attributed to [[Virgil]], [[Cornelius Severus]], and [[Marcus Manilius|Manilius]].
+
+Its composition has been placed as far back as 44 BC, on the ground that certain works of art, known to have been removed to [[Rome]] about that date, are referred to as being at a distance from the city. But as the author appears to have known and made use of the ''[[Naturales quaestiones|Quaestiones Naturales]]'' of Seneca (written c. 65 AD), and no mention is made of the great eruption of [[Vesuvius]] (AD 79), the time of its composition seems to lie between these two dates. In favor of the authorship of Lucilius are the facts that he was a friend of Seneca and acquainted with his writings; that he had for some time held the office of imperial procurator of [[Sicily]], and was thus familiar with the locality; and that he was the author of a poem on Sicilian subjects. It is objected that in the 79th [[Epistulae morales ad Lucilium|letter of Seneca]],<ref>Seneca, ''Epistles'', {{ws|''[[s:Moral letters to Lucilius/Letter 79|lxxix. 5]]''}}</ref> which is the chief authority on the question, he apparently asks that Lucilius should introduce the hackneyed theme of ''Aetna'' merely as an episode in his contemplated poem, not make it the subject of separate treatment. The sources of the ''Aetna'' are [[Posidonius of Apamea]], and perhaps the pseudo-Aristotelian ''[[On the Universe|De Mundo]]'', while there are many reminiscences of [[Lucretius]]. It has come down in a very corrupt state, and its difficulties are increased by the unpoetical nature of the subject, the straining after conciseness, and the obtrusive use of [[metaphor]].
+
+==Notes==
+{{reflist|2}}
+
+==Editions==
+* [[Joseph Justus Scaliger|J Scaliger]] (1595)
+* F Jacob (1826)
+* [[Hugh Andrew Johnstone Munro|H A J Munro]] (1867)
+* [[Moritz Haupt]] in his edition of Virgil (1873)
+* [[E. Bährens]] in ''Poetae latini minores'', ii.
+* [[Siegfried Sudhaus]] (1898)
+* [[Robinson Ellis]] (1901), containing a bibliography of the subject
+
+==References==
+*{{1911|wstitle=Lucilius Junior|volume=17|page=105}}
+
+==External links==
+*{{Wikisource-inline|Aetna}}
+*[https://archive.org/details/aetna___00elliuoft Robinson Ellis, (1901), ''Aetna; a critical recension of the text''], Latin text with English translation and commentary, at the [[Internet Archive]]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lucilius Junior}}
+[[Category:Lucilii|Junior]]
+[[Category:1st-century Romans]]
+[[Category:1st-century Roman poets]]
+[[Category:Roman governors of Sicily]]
+[[Category:Ancient Roman scientists]]
+[[Category:Roman-era poets]]
+[[Category:Silver Age Latin writers]]

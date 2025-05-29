@@ -1,0 +1,39 @@
+[[Image:Robert Garnier.jpg|thumb|right|150px|Robert Garnier]]
+{{French literature sidebar}}
+
+'''Robert Garnier''' (1544 &ndash; 20 September 1590) was a [[France|French]] [[poet]] and [[Playwright|dramatist]].  He published his first work while still a law-student at [[Toulouse]], where he won a prize (1565) in the [[Académie des Jeux Floraux]]. It was a collection of lyrical pieces, now lost, entitled ''Plaintes amoureuses de Robert Garnier'' (1565). After some legal practice at the Parisian bar, he became ''conseiller du roi au siège présidial'' and ''sénéchaussée'' of Le Maine, his native district, and later ''lieutenant-général criminel''. His friend Lacroix du Maine says that he enjoyed a great reputation as an orator. He was a distinguished [[magistrate]], of considerable weight in his native province, who gave his leisure to literature, and whose merits as a poet were fully recognized by his own generation.<ref name=EB1911>{{EB1911|wstitle=Garnier, Robert|volume=11|page=472 |inline=1}}</ref>
+
+In his early plays he was a close follower of the school of dramatists who were inspired by the study of [[Seneca the Younger|Seneca]]. In these productions there is little that is strictly dramatic except the form. A tragedy was a series of rhetorical speeches relieved by a lyric chorus. His pieces in this manner are ''Porcie'' (published 1568, acted at the [[Hôtel de Bourgogne (theatre)|Hôtel de Bourgogne]] in 1573), ''[[Cornélie (play)|Cornélie]]'' and ''Hippolyte'' (both acted in 1573 and printed in 1574). In Porcie the deaths of [[Gaius Cassius|Cassius]], [[Marcus Junius Brutus|Brutus]] and [[Porcia Catonis|Porcia]] are each the subject of an eloquent recital, but the action is confined to the death of the nurse, who alone is allowed to die on the stage. His next group of tragedies ''Marc-Antoine'' (1578), ''[[La Troade]]'' (1579), ''[[Antigone (Garnier)|Antigone ou la Piété]]'' (acted and printed 1580) shows an advance on the theatre of [[Étienne Jodelle]] and [[Jacques Grévin]], and on his own early plays, in so much that the rhetorical element is accompanied by abundance of action, though this is accomplished by the plan of joining together two virtually independent pieces in the same way.<ref name=EB1911/> In 1592 [[Mary Sidney|The Countess of Pembroke]] wrote ''The Tragedy of Antonie'', an English version of Garnier's play.
+
+In 1582 and 1583 he produced his two masterpieces ''Bradamante'' and ''Les Juives''. In Bradamante, which alone of his plays has no chorus, he cut himself adrift from Senecan models, and sought his subject in [[Ariosto]], the result being what came to be known later as a [[tragicomedy]]. The dramatic and romantic story becomes a real drama in Garnier's hands, though even there the lovers, Bradamante and Roger, never meet on the stage. The contest in the mind of Roger supplies a genuine dramatic interest in the manner of Corneille.<ref name=EB1911/>
+
+''[[Les Juives]]'' is the moving story of the barbarous vengeance of [[Nebuchadnezzar]] on the Jewish king [[Zedekiah]] and his children. The Jewish women lamenting the fate of their children take a principal part in this tragedy, which, although almost entirely elegiac in conception, is singularly well designed, and gains unity by the personality of the prophet. (The critic M. Faguet says that of all French tragedies of the 16th and 17th centuries it is, with Athalie, the best constructed with regard to the requirements of the stage. Actual representation is continually in the mind of the author; his drama is, in fact, visually conceived.)<ref name=EB1911/>
+
+Gamier must be regarded as the greatest French tragic poet of the Renaissance and the precursor of the baroque theater of the 17th century.<ref name=EB1911/> He exercised a major influence on the development of Elizabethan tragedy. [[Thomas Kyd]] is the likely author of an English translation of ''Cornélie'' published in England in the early 1590s.
+
+== Dramatic works ==
+
+* ''[[Porcie (Garnier)|Porcie]]'', tragedy , Paris, Robert Estienne, 1568 (éd. J.-C. Ternaux, Paris, Champion, 1999)
+* ''[[Hippolyte (Garnier)|Hippolyte]]'', tragedy , Paris, Robert Estienne, 1573 (éd. R. Lebègue, Paris, Les Belles Lettres, 1949 et J.-D. Beaudin, Paris, Garnier, 2009)
+* ''[[Cornélie]]'', tragedy , Paris, Robert Estienne, 1574 (éd.  J.-C. Ternaux, Paris, Champion, 2002)
+* ''Marc-Antoine'', tragedy , Paris, M. Patisson, 1578 (éd. J.-C. Ternaux, Paris, Garnier, 2010)
+* ''[[La Troade]]'', tragedy , Paris, M. Patisson, 1579 (éd.  J.-D. Beaudin, Paris, Champion, 1999)
+* ''[[Antigone (Garnier)|Antigone ou la Piété]]'', tragedy , Paris, M. Patisson, 1580 (éd. J.-D. Beaudin, Paris, Champion, 1997)
+* ''Bradamante'', tragicomedy, Paris, M. Patisson, 1582
+* ''[[Les Juives (Garnier)|Les Juives]]'', tragedy , Paris, M. Patisson, 1583 (éd. par S. Lardon, Paris, Champion, 1999; éd. Michel Jeanneret, Gallimard, Folio- Théâtre, 2007)
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Gutenberg author | id=Garnier,+Robert | name=Robert Garnier}}
+* {{Internet Archive author |sname=Robert Garnier}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Garnier, Robert}}
+[[Category:1544 births]]
+[[Category:1590 deaths]]
+[[Category:People from Sarthe]]
+[[Category:16th-century French poets]]
+[[Category:16th-century French dramatists and playwrights]]

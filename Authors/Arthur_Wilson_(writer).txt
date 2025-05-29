@@ -1,0 +1,63 @@
+{{short description|English playwright, historian, and poet}}
+{{EngvarB|date=September 2014}}
+{{Use dmy dates|date=September 2014}}
+{{Infobox person
+|name = 
+|image = <!-- just the name, without the File: or Image: prefix or enclosing [[brackets]] -->
+|image_size = 
+|alt = 
+|caption = 
+|birth_name = Arthur Wilson
+|birth_date = ''bapt.'' {{birth date|1595|12|14|df=yes}}
+|birth_place = [[Great Yarmouth|Yarmouth]], England
+|death_date = {{death date and age|1652|10||1595|12|14|df=yes}}
+|death_place = [[Felsted]], England
+|nationality = 
+|education = [[Trinity College, Oxford]]
+|alma_mater = 
+|occupation = Dramatist, historian, gentleman-in-waiting, steward
+|years_active = 
+|employer = {{nowrap|[[Robert Devereux, 3rd Earl of Essex]]<br>[[Robert Rich, 2nd Earl of Warwick]]}}
+|known_for = 
+|notable_works = ''The History of Great Britain, being the Life and Reign of King James I''
+|spouse = Susan Spitty
+|signature = 
+|signature_alt = 
+|signature_size = 
+}}
+'''Arthur Wilson''' (baptised 14 December 1595 – October 1652) was a 17th-century English playwright, historian and poet. Born a commoner, he worked as a gentleman-in-waiting and steward to several powerful [[Roundheads|Parliamentarians]] in the period up to the [[English Civil War]]. He is remembered as a minor playwright, who wrote several plays for London's [[Blackfriars Theatre]], and as the author of ''The History of Great Britain, being the Life and Reign of King James I'', which documents the [[Stuart period|anti-Stuartism]] prevalent in the late [[Caroline era]].
+
+==Biography==
+Wilson was born in [[Great Yarmouth]], England, the son of John Wilson and his wife Suzan, according to the baptismal register, but of Richard Wilson, according to an entry in the matriculation register at [[Trinity College, Oxford]], which he later attended. In the 1620–1625 period he served as secretary to [[Robert Devereux, 3rd Earl of Essex]], whom he accompanied on military campaigns on the Continent. Despite getting on well with Essex for 15 years, Wilson was dismissed when the earl's second wife took up against him.
+
+Thereafter Wilson received a monthly pension from Essex and the opportunity for a formal education. At the age of 35, he entered [[Oxford University]] (1631–1633) to study first medicine and then religion. Dismayed by the rampant corruption among the clergy, he left the university and later entered the service of Essex's cousin, [[Robert Rich, 2nd Earl of Warwick]], as a steward. He returned to Essex's service for the [[English Civil War]].
+
+Wilson had a reputation as an adventurer. His autobiographical ''Observations of God's Providence, in the Tract of my Life,''<ref>Paul Delaney, ''British Autobiography in the Seventeenth Century'', London, Routledge & Kegan Paul, 1969.</ref> records some of his adventures, such as his 1642 rescue of [[Elizabeth Savage, Countess Rivers]] from anti-Catholic rioters.<ref>Keith Lindley, ''The English Civil War and Revolution: A Sourcebook'', London, Routledge, 1998; pp. 94–95.</ref>
+
+==Works==
+===Theatre===
+Wilson's autobiography contains observations on the private theatrical performances conducted in aristocratic households in the 17th century. He himself is likely to have written several plays for private entertainments during his tenure with Essex. He recounts several instances of his work being performed at the home of Essex's grandmother, the Countess of Leicester. Only three of these plays have survived: the tragicomedy ''The Inconstant Lady,'' premiered by the [[King's Men (playing company)|King's Men]] at the [[Hampton Court Palace|royal palace at Hampton Court]] in London on 30 September 1630, ''[[The Swisser]]'' premiered at London's [[Blackfriars Theatre]] in 1631, and ''The Corporal,'' also performed by the King's Men at Blackfriars and is speculatively dated to 1633.
+
+Though it is clear that Wilson wrote ''The Inconstant Lady'' while still in service with Essex, it is unclear whether his latter two plays were completed during that period or his time at Oxford. Dating is difficult, because none of the plays were published during the 17th century and ''The Corporal'' has survived only in a fragmentary manuscript that ends with Act II, scene 1.<ref>[[Alfred Harbage]], "Elizabethan and Seventeenth-Century Manuscripts," ''Papers of the Modern Language Association'' Vol. 50 No. 3 (September 1935), pp. 687–699; see pp. 695–696.</ref> The other two dramas remained in manuscript until later publication: ''The Inconstant Lady''<ref>Linda V. Itzoe, ''Arthur Wilson's The Inconstant Lady: A Critical Edition,'' New York, Garland, 1980.</ref> in 1814 and ''The Swisser'' in 1904. ''The Swisser'' was performed in 1631 by the [[King's Men (playing company)|King's Men]] at the [[Blackfriars Theatre]]. The manuscript preserves a cast list for that original production – significant as one of only seven cast lists for the company that survive from the later 1620s or early 1630s.
+
+===History===
+Wilson's notable ''The History of Great Britain, being the Life and Reign of King James I'' was published in 1653, a year after his death. Indeed, none of Wilson's literary efforts made it into print in his lifetime. Wilson was not an admirer of the [[House of Stuart]], as his history reveals. He reflects negatively on various figures in the Stuart era, including Sir [[Francis Bacon]].
+
+===Poetry===
+Wilson also wrote verse. His "Upon Mr. J. Donne and his Poems" has been considered one of the better elegies on the poet and was printed in the first collection of [[John Donne]]'s poems as a tribute.<ref>''Poems by John Donne with elegies of the author’s death'', [http://quod.lib.umich.edu/e/eebo/A69225.0001.001/1:119?rgn=div1;view=fulltext pp.397-9]</ref>
+
+==References==
+{{reflist|30em}}
+
+==External links==
+*[http://words.fromoldbooks.org/Chalmers-Biography/w/wilson-arthur.html 1812 Chalmers’ Biography – Arthur Wilson]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wilson, Arthur}}
+[[Category:English dramatists and playwrights]]
+[[Category:English historians]]
+[[Category:1595 births]]
+[[Category:1652 deaths]]
+[[Category:English male dramatists and playwrights]]
+[[Category:English male non-fiction writers]]

@@ -1,0 +1,60 @@
+{{short description|American poet (born 1941)}}
+{{lead too short|date=August 2017}}
+{{Infobox person
+|name        = Jonathan Aaron
+|caption     = Jonathan Aaron
+|birth_date  = {{Birth year and age|1941}}
+|birth_place = [[Northampton, Massachusetts]], U.S.
+|known_for   = Books: "Second Sight", "Journey to the Lost City", "The End Out of the Past", "Corridor"
+|occupation  = [[Poet]], teacher, author
+|alma_mater  = 
+|awards      = Fellowships from [[Yaddo]],<ref>{{cite web|url=http://www.yaddo.org/yaddo/recentworks.asp |title=Yaddo Artists' Recent Works |publisher=Yaddo.org |date= |accessdate=2013-04-30}}</ref> [[MacDowell Colony|MacDowell]], and the Massachusetts Endowment for the Arts.  His poems have appeared in ''Best American Poetry'' five times.  1975-1976 [[Amy Lowell Poetry Travelling Scholarship]]
+|website     = 
+}}
+
+'''Jonathan Aaron''' is an American poet, the author of the poetry collection ''Journey to the Lost City.''
+
+==Life==
+He graduated from the [[University of Chicago]] and [[Yale University]] Ph.D.
+
+His work has been  published in ''The Paris Review'', ''Ploughshares'', ''The New Yorker'',<ref>{{Cite magazine |url=http://www.newyorker.com/search/query?query=authorName:%22Jonathan%20Aaron%22 |title=Archived copy |magazine=[[The New Yorker]] |access-date=2009-06-03 |archive-url=https://web.archive.org/web/20081217212508/http://www.newyorker.com/search/query?query=authorName:%22Jonathan%20Aaron%22 |archive-date=2008-12-17 |url-status=dead }}</ref> ''[[The New York Review of Books]]'',<ref>{{cite web|url=http://www.nybooks.com/authors/248 |title=Jonathan Aaron &#124; The New York Review of Books |publisher=Nybooks.com |date= |accessdate=2013-04-30}}</ref> ''The London Review of books'',<ref>{{cite web|url=http://www.lrb.co.uk/contributors/aaro01 |title=Jonathan Aaron · LRB |publisher=Lrb.co.uk |date= |accessdate=2013-04-30}}</ref> ''The Boston Globe (as guest reviewer),<ref>{{cite web|author=the complete review - all rights reserved |url=http://www.complete-review.com/reviews/herbertz/elegy.htm |title=Elegy for the Departure - Zbigniew Herbert |publisher=Complete-review.com |date= |accessdate=2013-04-30}}</ref> and ''The Times Literary Supplement''.
+
+Aaron was born and raised in Massachusetts. He currently lives in [[Cambridge, Massachusetts]].<ref>{{cite web|url=http://www.pw.org/content/jonathan_aaron_3 |title=Jonathan Aaron &#124; Directory of Writers &#124; Poets & Writers |publisher=Pw.org |date=2008-06-09 |accessdate=2013-04-30}}</ref>  Since 1988, Mr. Aaron has been an Associate Professor at [[Emerson College]] in the Department of Writing, Literature and Publishing. In Fall of 2007, Mr. Aaron was visiting poet-in-residence at [[Williams College]].<ref>{{cite web|url=http://www.emerson.edu/writing_lit_publishing/faculty.cfm?facultyID=443 |title=Writing, Literature & Publishing &#124; Emerson College |publisher=Emerson.edu |date= |accessdate=2013-04-30}}</ref>
+
+==Awards==
+He received the 1975-1976 [[Amy Lowell Poetry Travelling Scholarship]].
+His work has received many honors, including Fellowships from [[Yaddo]], [[MacDowell Colony|MacDowell]], and the Massachusetts Endowment for the Arts.
+His poems have appeared in ''Best American Poetry'' five times.
+
+==Works==
+* [http://audiopoetry.wordpress.com/category/poet/jonathan-aaron/ "The End of Out of the Past", ''pō’ĭ-trē'']
+* {{cite magazine| url=http://www.newyorker.com/fiction/poetry/2008/12/15/081215po_poem_aaron| title=Acting Like a Tree| date=December 15, 2008 | magazine=The New Yorker}}
+* {{cite journal| url=http://www.nybooks.com/articles/3524| title=The Voice from Paxos| date=August 16, 1990| journal=The New York Review of Books }}
+
+===Poetry books===
+* {{cite book| title=Journey to the Lost City | publisher=Ausable Press| year=2006| url=https://archive.org/details/journeytolostcit00aaro| url-access=registration | quote=Jonathan Aaron. | isbn=978-1-931337-30-4 }}
+* {{cite book| url= https://books.google.com/books?id=SiS9JhBZPB8C| title=Corridor| publisher=Wesleyan University Press| year=1992| isbn=978-0-8195-1203-1 }}
+* {{cite book| title=Second sight: poems| publisher=Harper & Row| year=1982| isbn=978-0-06-014969-7| url=https://archive.org/details/secondsightpoems0000aaro}}
+
+===Translation===
+* {{cite book | title=Collected poems in English / Joseph Brodsky | editor=Ann Kjellberg | place=New York | publisher=Farrar, Straus and Giroux | year=2000 | isbn=978-0-374-52838-6 | url-access=registration | url=https://archive.org/details/collectedpoemsin0000brod }}
+
+===Anthology===
+* {{cite book| chapter-url=https://books.google.com/books?id=Vsd9jwYZ5HEC&dq=Jonathan+Aaron&pg=PA29| chapter=Dance Mania| title=The best of the best American poetry, 1988-1997 | editor=Harold Bloom, David Lehman| publisher=Simon and Schuster| year=1998| isbn=978-0-684-84779-5 }}
+
+==Reviews==
+<blockquote>“Dreaming is after all a kind of thinking,” Jonathan Aaron writes in this new volume, his third in almost 25 years, and it’s hard to imagine a more succinct statement of his poetic method. Aaron has always used the peculiar instability of poems to his advantage: he builds tension from a poem’s ability to slip on no more than a phrase from the real to the symbolic, from the hypothetical to the unalterable.<ref>{{cite journal| url=http://bostonreview.net/BR32.1/microreviews.php| title=Poetry Microreviews| date=January–February 2007| journal=Boston Review }}</ref></blockquote>
+
+==References==
+{{reflist}}
+<!--==External links==-->
+
+{{Authority control}}
+
+{{DEFAULTSORT:Aaron, Jonathan}}
+[[Category:Living people]]
+[[Category:University of Chicago alumni]]
+[[Category:Yale University alumni]]
+[[Category:Emerson College faculty]]
+[[Category:Poets from Massachusetts]]
+[[Category:1941 births]]

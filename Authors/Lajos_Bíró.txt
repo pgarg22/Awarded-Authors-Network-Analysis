@@ -1,0 +1,106 @@
+{{for|the Hungarian zoologist|Lajos Bíró (zoologist)}}
+{{Hungarian name|Bíró Lajos}}
+{{Infobox person
+| name          = Lajos Bíró
+| image         = Biró Lajos.jpg
+| imagesize     = 200px
+| caption       =
+| birth_name    = Lajos Blau
+| birth_date    = {{birth date|1880|8|22|df=y}}
+| birth_place   = [[Nagyvárad]], [[Austria-Hungary]] (now [[Oradea]], [[Romania]])
+| death_date    = {{death date and age|1948|9|9|1880|8|22|df=y}}
+| death_place   = [[London]], England, UK
+| othername     =
+| occupation    = Writer
+| yearsactive   = 1917&ndash;1948
+| spouse        = Vészi Jolán<ref>http://www.irodalmilap.net/?q=cikk/1948-szeptember-9-en-hunyt-el-biro-lajos-iro-iro-ujsagiro-forgatokoenyv-iro</ref>
+| children      = Vera Hollander<ref>https://www.geni.com/people/Jol%C3%A1n-Bir%C3%B3/6000000016253201503</ref>
+| notable role  =
+}}
+[[File:The grave of Lajos Biro, Hampstead Cemetery, London.JPG|thumb|250px|The grave of Lajos Biro, Hampstead Cemetery, London]]
+'''Lajos Bíró''' ({{IPA-hu|ˈlɒjoʒ ˈbiːroː|IPA}};{{efn|In isolation, ''Lajos'' is pronounced {{IPA-hu|ˈlɒjoʃ|}}.}} born '''Lajos Blau''';{{Needs IPA}} 22 August 1880 – 9 September 1948) was a Hungarian novelist, playwright, and screenwriter who wrote many films from the early 1920s through the late 1940s.  He was born in [[Nagyvárad]], [[Kingdom of Hungary]], [[Austro-Hungarian Empire]] (now [[Oradea]], [[Romania]]) and eventually moved to the United Kingdom where he worked as a scenario chief for [[London Film Productions]] run by [[Alexander Korda]], collaborating on many screenplays with [[Arthur Wimperis]].<ref>Kulik, Karol ''Alexander Korda:The Man Who Could Work Miracles''.  Virgin Books, 1990. {{ISBN|9780870003356}}</ref>  He died in [[London]] on 9 September 1948 of a heart attack.  He is buried in the northern section of [[Hampstead Cemetery]] in north [[London]].
+
+In 1929, he was nominated for an [[Academy Award]] for Best Original Writing for ''[[The Last Command (1928 film)|The Last Command]]'', but lost to [[Ben Hecht]] for ''[[Underworld (1927 film)|Underworld]]'', the only other nomination in this category.<ref>{{cite web |url=http://www.oscars.org/oscars/ceremonies/1929 |title=The 1st Academy Awards (1929) Nominees and Winners |publisher=[[Academy of Motion Pictures Arts and Sciences]] |accessdate=May 20, 2019}}</ref>
+
+==Novels==
+*''A Serpolette'' (The Serpolette, 1914)<ref>{{cite book|title=The Serpolette|first=Lajos|last=Biró|location=Budapest|publisher=Athenaeum Literature and Printing R.-T.|date=1914|url=https://www.gutenberg.org/ebooks/62177}}</ref>
+*''A bazini zsidók'' (The Jews of Bazin; 1921).
+
+==Plays==
+
+* ''Szinmü négy felvon (Hotel Imperial)'' (1917)
+*''God's and Kings'' six plays, English translation 1945<ref>Saturday Review of Literature - Volume 28, Part 2 - Page 92 
+1945 -  The New Yorker   GODS AND KINGS by Lajos Biro "Six witty and sportive one-act plays, all of which are among the best issued in recent years." —Herald Tribune Books "Unified by wit, skill, and a querying philosophical irony. All the plays ..</ref>
+
+==Partial filmography==
+{{div col|colwidth=20em}}
+*''[[The Prince and the Pauper (1920 film)|The Prince and the Pauper]]'' (1920)
+*''[[A Vanished World]]'' (1922)
+* ''[[The House of Molitor]]'' (1922)
+*''[[Tragedy in the House of Habsburg]]'' (1924)
+*''[[Forbidden Paradise]]'' (1924) (play)
+*''[[Eve's Secret]]'' (1925)
+* ''[[A Modern Dubarry]]'' (1927)
+* ''[[The Heart Thief]]'' (1927)
+* ''[[Hotel Imperial (1927 film)|Hotel Imperial]]'' (1927) (play)
+*''[[The Way of All Flesh (1927 film)|The Way of All Flesh]]'' (1927)
+*''[[The Last Command (1928 film)|The Last Command]]'' (1928) (story)
+*''[[Yellow Lily]]'' (1928)
+*''[[Night Watch (1928 film)|Night Watch]]'' (1928)
+*''[[The Haunted House (1928 film)|The Haunted House]]'' (1928)
+*''[[Women Everywhere]]'' (1930)
+*''[[Michael and Mary (film)|Michael and Mary]]'' (1931)
+*''[[Service for Ladies]]'' (1932)
+*''[[The Golden Anchor]]'' (1932)
+* ''[[The Faithful Heart (1932 film)|The Faithful Heart]]'' (1932)
+*''[[Strange Evidence]]'' (1933)
+*''[[The Private Life of Henry VIII]]'' (1933)
+*''[[Catherine the Great (1934 film)|Catherine the Great]]'' (1934) (play)
+*''[[The Private Life of Don Juan]]'' (1934)
+*''[[The Scarlet Pimpernel (1934 film)|The Scarlet Pimpernel]]'' (1934)
+*''[[Sanders of the River]]'' (1935)
+*''[[The Ghost Goes West]]'' (1935)
+*''[[Rembrandt (1936 film)|Rembrandt]]'' (1936)
+*''[[The Man Who Could Work Miracles]]'' (1936)
+*''[[Dark Journey (film)|Dark Journey]]'' (1937)
+*''[[Knight Without Armour]]'' (1937)
+*''[[The Divorce of Lady X]]'' (1938)
+*''[[The Drum (1938 film)|The Drum]]'' (1938)
+*''[[The Four Feathers (1939 film)|The Four Feathers]]'' (1939)
+*''[[The Thief of Bagdad (1940 film)|The Thief of Bagdad]]'' (1940)
+*''[[Five Graves to Cairo]]'' (1943) (play)
+*''[[A Royal Scandal (film)|A Royal Scandal]]'' (1945) (play)
+*''[[An Ideal Husband (1947 film)|An Ideal Husband]]'' (1947)
+{{div col end}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Internet Archive author |sname=Lajos Bíró}}
+* {{imdb name|id=0083742}}
+* {{Screenonline name|id=457416|name=Lajos Bíró biography and filmography}}
+
+{{Authority control}}
+{{Use dmy dates|date=December 2016}}
+
+{{DEFAULTSORT:Biro, Lajos}}
+[[Category:1880 births]]
+[[Category:1948 deaths]]
+[[Category:Hungarian male novelists]]
+[[Category:Hungarian screenwriters]]
+[[Category:People from Oradea]]
+[[Category:Austro-Hungarian writers]]
+[[Category:20th-century Hungarian novelists]]
+[[Category:20th-century Hungarian dramatists and playwrights]]
+[[Category:20th-century Hungarian male writers]]
+[[Category:Hungarian male dramatists and playwrights]]
+[[Category:Male screenwriters]]
+[[Category:20th-century screenwriters]]
+
+
+{{Hungary-writer-stub}}
+{{screen-writer-stub}}

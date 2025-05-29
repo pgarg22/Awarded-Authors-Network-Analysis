@@ -1,0 +1,65 @@
+{{Short description|Greek iambic and elegiac poet}}
+{{for|the lyric poet|Simonides of Ceos}}
+'''Semonides of [[Amorgos]]''' ({{IPAc-en|s|ɪ|ˈ|m|ɒ|n|ɪ|ˌ|d|iː|z}}; {{lang-grc-gre|Σημωνίδης ὁ Ἀμοργῖνος}}, variantly {{lang|grc|Σιμωνίδης}}; fl. 7th century BC) was a [[Greeks|Greek]] [[Iambus (genre)|iambic]] and [[elegiac couplet|elegiac]] poet who is believed to have lived during the seventh century BC. Fragments of his poetry survive as quotations in other ancient authors, the most extensive and well known of which is a [[Types of Women|satiric account of different types of women]] which is often cited in discussions of [[misogyny]] in [[Archaic Greece]]. The poem takes the form of a catalogue, with each type of woman represented by an animal whose characteristics—in the poet's scheme—are also characteristic of a large body of the female population. Other fragments belong to the registers of [[gnomic poetry]] and [[wisdom literature]] in which the [[Hesiodic]] ''[[Works and Days]]'' and the ''[[Theognidea]]'' are classed, and reflect a similarly pessimistic view of the human experience. There is also evidence that Semonides composed the sort of personal invective found in the work of his near contemporary iambographer [[Archilochus]] and the later [[Hipponax]], but no surviving fragment can be securely attributed to such a poem.
+
+==Name and biography==
+The name "Semonides" ({{lang|grc|Σημωνίδης}}, ''Sēmōnídes'') is attested by an entry transmitted in two ancient lexica—the ''[[Etymologicum Genuinum]]'' and ''[[Etymologicum Magnum]]''—which apparently had [[Choeroboscus]] as its immediate source:
+
+{{col-begin}}
+{{col-break}}
+{{lang|grc|Σιμωνίδης. ἐπὶ μὲν τοῦ ἰαμβοποιοῦ διὰ τοῦ η γράφεται, καὶ ἴσως παρὰ τὸ σῆμα ἐστί· τὸ δὲ ἐπὶ τοῦ λυρικοῦ, διὰ τοῦ ι, καὶ ἴσως παρὰ τὸ σιμὸς ἐστί. Χοιροβοσκός.}}
+{{col-break}}
+Simonides: in the case of the iambic poet is written with an [[eta]], as in "sign" (''sēma''); the name of the lyric poet is written with an [[iota]], as in "snub-nosed" (''sīmos''). —&nbsp;Choeroboscus<ref>The entry is identical in the ''[[Etymologicum Genuinum|Et. Gen.]]'' and ''[[Etymologicum Magnum|Et. Mag.]]'', save for the attribution to Choeroboscus which is only found in the latter ({{harvtxt|West|1992|p=98}}).</ref>
+{{col-end}}
+
+The lyric poet mentioned herein is [[Simonides of Ceos]] (6th–5th centuries BC). Despite the testimony of the etymologica, every source that quotes the iambic poet spells his name identically with that of his more famous namesake,<ref>{{Harvtxt|Barron|Easterling|Knox|1985|p=153 n. 1}}.</ref> and the only other author who uses the form "Semonides" is [[Philodemus]].<ref>Philodemus, ''On Poems'', quoted by {{harvtxt|Asmis|1995|pp=172–3}}.</ref> Whatever the poet's name actually was, modern scholarship has adopted Choeroboscus' distinction between the two forms as a means of distinguishing the two poets.<ref>{{harvtxt|Campbell|1982|p=184}}.</ref> Still, the homophony of their names in ancient quotations leaves open the possibility that some fragments attributed to Simonides might actually belong to Semonides.<ref>{{Harvtxt|Barron|Easterling|Knox|1985|pp=153–4}}; cf. {{harvtxt|West|1992|p=114}}.</ref>
+
+Two notices in the tenth-century encyclopedia known as the ''[[Suda]]'' provide most of the extant details of Semonides' life. His primary lemma reads: "Simonides [sic], son of Crines, of [[Amorgos]], iambic writer. He wrote elegiac poetry in two books and iambics. He was born (or 'flourished': {{lang|grc|γέγονε}}) 490 years after the [[Trojan War]] [i.e. 693 BC]. He was the first to write iambics according to some."<ref>''Suda'' s.v. [http://www.stoa.org/sol-bin/search.pl?db=REAL&search_method=QUERY&login=guest&enlogin=guest&user_list=LIST&page_num=1&searchstr=sigma,446&field=adlerhw_gr&num_per_page=1 {{lang|grc|Σιμωνίδης (Σ}} 446)], trans. {{harvtxt|Campbell|1982|pp=183–4}}.</ref> Further information has been conflated with the entry on [[Simmias of Rhodes]]; the relevant portion is:
+{{quote|He was originally a Samian, but in the colonisation of Amorgos he was sent as leader by the Samians.  He founded Amorgos in three cities, Minoa, Aegialus and Arcesime. He was born (or "flourished") 406 years after the Trojan War [i.e. 777 BC]. According to some he was the first writer of iambics, and wrote various other things including an ''Early History of Samos''.<ref>''Suda'' s.v. [http://www.stoa.org/sol-bin/search.pl?db=REAL&search_method=QUERY&login=guest&enlogin=guest&user_list=LIST&page_num=1&searchstr=sigma,431&field=adlerhw_gr&num_per_page=1 {{lang|grc|Σιμμίας (Σ}} 431)], trans. after {{harvtxt|Campbell|1982|p=184}}. One manuscript of gives the year of Semonides' floruit as 490 years after the Trojan War, matching the entry quoted above ({{harvtxt|West|1992|p=99}}).</ref>}}
+Other contradictory dates for Semonides' birth or [[floruit]] are found in the chronographic tradition relying upon [[Eusebius]]' ''[[Chronicon (Eusebius)|Chronicon]]'' ([[Olympiad]] 29.1&nbsp;= 664 BC), [[Cyril of Alexandria]] (29th Olympiad&nbsp;= 664–661), and [[Clement of Alexandria]] (20th Olympiad&nbsp;= 700–697).<ref>The Eusebian date is found in [[Jerome]]'s [[Chronicon (Jerome)|translation]], the Armenian text of Eusebius gives the year 665; Cyril, ''Contra Iulianum'' 1.14; Clement, ''[[Stromata]]'' 1.21.131.</ref> Semonides' role in the colonisation of Amorgos and his identification as a contemporary of [[Archilochus]] in the ancient testimonia recommend accepting the later dates of Eusebius and Cyril, and today he is almost universally considered to have lived in the middle and latter half of the seventh century.<ref>{{harvtxt|West|1996}}, {{harvtxt|Bowie|2008}}, {{harvtxt|Campblell|1982|p=184}}, {{harvtxt|Barron|Easterling|Knox|p=154}}. {{harvtxt|Hubbard|1994}} believes that the ancient testimonia represent pure conjecture and argues that Semonides lived in the late sixth century on the basis of what he perceives as modish (relatively speaking) thought in a passage of Semonides fr. 7.</ref> Based upon a perceived allusion to Archilochus at Semonides {{abbr|fr.|fragment}} 7.51–2 some have refined the chronology further, arguing that Semonides either lived after Archilochus or was his younger contemporary.<ref>Cf. {{harvtxt|Campbell|1982|p=184}}.</ref> If the ''Suda''{{'}}s testimony that Semonides participated in the [[Colonies in antiquity|colonization]] of Amorgos is true, he likely had a political career similar to that of Archilochus, who was among the colonists of [[Thasos]].<ref>{{harvtxt|Campbell|1982|p=184}}.</ref>
+
+==Poetry==
+Although the ''Suda'' states that Semonides composed elegy as well iambus, none of his elegiac poetry has survived.<ref>An elegiac quotation in [[Stobaeus]] was formerly attributed to Semonides by some (e.g. {{harvtxt|Campbell|1982|pp=184, 191}}), but is now known to be the work of [[Simonides]] by virtue of its overlapping the text of a [[papyrus]] fragment securely assigned to that poet. The text now stands as Simonides frr. 19 and 20.5–12 in [[#{{harvid|West|1992}}|West's edition]]; cf. {{harvtxt|Bowie|2008}}. {{harvtxt|Hubbard|1996}} alone has continued to argue that, despite the papyrological evidence, this fragment is the work of Semonides.</ref> If the encyclopedia's information is to be trusted, it is probable that the first entry's "elegiac poetry in two books" refers to the ''Early History of Samos'' in the second.<ref>{{harvtxt|Bowie|1986|p=31}}.</ref> This work would belong to the genre of ''ktisis'' ("foundation") poetry which [[Mimnermus]]' elegiac ''Smyrneis'' might also have represented.<ref>{{harvtxt|Bowie|1986|pp=28 n. 78, 31}}.</ref>
+
+Semonides' poetry, as is the case with archaic elegy and iambus in general, is composed in a literary [[Ionic dialect]] largely reminiscent of [[Homeric Greek]] and occasionally includes echoes of [[Homeric]] and [[Hesiodic]] poetry.<ref>{{harvtxt|Campbell|1982|p=184}}.</ref> The extant fragments are written in [[iambic trimeter]]s, a [[stichic]] verse form also employed by Archilochus which would later be the primary meter of dialogue in [[Greek tragedy|tragedy]]. To judge from the admittedly small sample of his work, Semonides was a conservative metrician: in 180 lines there is not a single certain instance of [[resolution (meter)|resolution]].<ref>{{harvtxt|West|1983|p=41}}.</ref>
+
+==Editions, translations and commentaries==
+* {{Citation| last=Campbell| first=D.A.| title=Greek Lyric Poetry| place=London| year=1982| edition=2nd| isbn=0-86292-008-6}}. —&nbsp;Text and commentary on select fragments.
+* {{Citation| last=Diehl| first=E.| title=Anthologia lyrica Graeca| place=Leipzig| edition=3rd| year=1949–52}}. —&nbsp;Critical edition of the Greek.
+* {{Citation| last=Gerber| first=D.E.| title=Greek Iambic Poetry| series=[[Loeb Classical Library]]| volume=no. 259| edition=2nd| year=1999| place=Cambridge, MA| isbn=978-0674995819}}. —&nbsp;Translation with facing Greek text,
+* {{Citation| last=Lloyd-Jones| first=H.| authorlink=Hugh Lloyd-Jones| title=Females of the Species: Semonides on Women| place=London| year=1975}}. —&nbsp;Translation with Greek text and commentary.
+* {{Citation| last=Verdenius| first=W.J.| authorlink=W. J. Verdenius| title=Semonides über die Frauen. Ein Kommentar zu Fr. 7| journal=Mnemosyne| volume=21| year=1969a| pages=132–58| jstor=4429627}}. —&nbsp;Commentary keyed to the text of [[#{{harvid|Diehl|1949–52}}|Diehl]].
+** {{Citation| last=Verdenius| first=W.J.| authorlink=W. J. Verdenius| title=Semonides über die Frauen. Nachtrag zum Kommentar zu Fr. 7| journal=Mnemosyne| volume=21| year=1969b| pages=299–301| jstor=4429755}}.
+** {{Citation| last=Verdenius| first=W.J.| authorlink=W. J. Verdenius| title=Epilegomena zu Semonides Fr. 7| journal=Mnemosyne| volume=30| year=1977| pages=1–12| jstor=4430651}}.
+* {{Citation| last=West| first=M.L.| authorlink=Martin Litchfield West| title=Iambi et Elegi Graeci ante Alexandrum cantati| volume=ii| edition=2nd| year=1992| place=Oxford| isbn=0-19-814096-7}}. —&nbsp;Critical edition of the Greek.
+
+==References==
+{{Reflist|40em}}
+
+==Sources==
+* {{Citation| last=Asmis| first=E.| chapter=Philodemus on Censorship, Moral Utility, and Formalism in Poetry| title=Philodemus and Poetry: Poetic Theory and Practice in Lucretius, Philodemus, and Horace| editor=[[Dirk Obbink]]| place=Oxford| year=1995| isbn=0-19-508815-8| pages=148–77}}.
+* {{Citation| last1=Barron| first1=J.P.| last2=Easterling| first2=P.E.| last3=Knox| first3=B.M.W.| authorlink2=P. E. Easterling| authorlink3=Bernard Knox| chapter=Elegy and Iambus|   title=The Cambridge History of Classical Literature: Greek Literature|editor1=P.E. Easterling |editor2=B.M.W. Knox| place=Cambridge| year=1985| isbn=978-0-521-21042-3| pages=117–64}}.
+* {{Citation| last=Bowie| first=E.L.| title=Early Greek Elegy, Symposium and Public Festival| journal=[[The Journal of Hellenic Studies|JHS]]| volume=106| year=1986| pages=13–35| jstor=629640}}.
+* {{Citation| last=Bowie| first=E.L.| chapter=Semonides| title=[[Realencyclopädie der Classischen Altertumswissenschaft|Brill's New Pauly]]: Antiquity| volume=13 (Sas-Syl)|editor1=H. Cancik |editor2=H. Schneider | year=2008| isbn=9789004142183}}.
+* {{Citation| last=Hubbard| first=T.K.| title=Elemental Psychology and the Date of Semonides of Amorgos| journal=[[American Journal of Philology]]| volume=115| year=1994| pages=175–97| jstor=295298}}.
+* {{Citation| last=Hubbard| first=T.K.| chapter='New Simonides' or Old Semonides? Second Thoughts on POxy 3965, fr. 26|editor1=D.Boedeker |editor2=D. Sider| title=The New Simonides: Contexts of Praise and Desire| place=Oxford| year=1996| isbn=0-19-513767-1| pages=226–31}}.
+* {{Citation| last=Kurke| first=Leslie| authorlink=Leslie Kurke| title=The Politics of ἁβροσύνη in Archaic Greece| journal=[[Classical Antiquity (journal)|ClAnt]]| year=1992| volume=11| pages=91–120| jstor=25010964}}.
+* {{Citation| last=Shipley| first=G.| title=A History of Samos: 800–188 BC| place=Oxford| year=1987| isbn=9780198148685}}.
+* {{Citation| last=West| first=M.L.| title=Studies in Greek Elegy and Iambus| year=1974| place=Berlin| isbn=978-3110045857}}.
+* {{Citation| last=West| first=M.L.| title=Greek Metre| place=Oxford| year=1983}}.
+* {{Citation| last=West| first=M.L.| chapter=Semonides|  title=[[Oxford Classical Dictionary]]|editor1=S. Hornblower |editor2=A. Spawforth | edition=3rd rev.| place=Oxford| year=1996| isbn=9780198661726}}.
+
+==External links==
+*[http://www.stoa.org/diotima/anthology/sem_7.shtml Translation and notes by Diane Arnson Svarlien at Diotima]
+*[http://demonax.info/doku.php?id=text:semonides_poems Semonides: Poems]
+
+{{Authority control}}
+
+{{DEFAULTSORT:Semonides Of Amorgos}}
+[[Category:7th-century BC Greek people]]
+[[Category:7th-century BC poets]]
+[[Category:Ancient Greek poets]]
+[[Category:Ancient Samians]]
+[[Category:Amorgos]]
+[[Category:Iambic poets]]
+[[Category:Ionic Greek poets]]

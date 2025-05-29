@@ -1,0 +1,143 @@
+<!-- for more information see [[:Template:Infobox writer]] -->
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name             = Judith L. Hand
+| honorific_suffix = Ph.D.
+| image            = Judith L. Hand.jpg
+| imagesize        = 200px
+| caption          = 
+| pseudonym        = 
+| birth_date       = {{Birth date and age|1940|2|4|}}
+| birth_place      = [[Cherokee, Oklahoma]], United States
+| death_date       = 
+| death_place      = 
+| occupation       = Author (fiction and nonfiction)<br>[[Ethologist]]<br>[[Futurist]]
+| alma_mater       = [[Wheaton College (Illinois)|Wheaton College]], [[Wheaton, IL]]<br>[[University of California at Los Angeles]]
+| period           = 
+| genre            = 
+| subject          = [[Animal Behavior]]<br>[[Conflict Resolution]]<br>War<br>[[Peace]]<br>[[Gender difference|Gender Differences in Aggression]]
+| movement         = 
+| signature        = 
+| website          = {{url|judithhand.net}}
+}}
+
+'''Judith L. Hand''' is an American [[evolutionary biologist]], [[animal behaviorist]] ([[ethologist]]) and a novelist. She writes on a variety of topics related to the science of animal and human behavior, including the biological and evolutionary roots of [[war]], [[gender differences]] in [[conflict resolution]], the empowerment of women, and the steps for ending [[war]].
+
+Her book, ''Women, Power, and the Biology of Peace''<ref name = "WBP">2003 ''Women, Power, and the Biology of Peace''. San Diego, CA : Questpath Publishing.</ref> is an in-depth exploration of human gender differences with regard to [[aggression]]. Her book, ''Shift:The Beginning of War, The Ending of War''<ref name = "SHIFT">2014 ''Shift: The Beginning of War, The Ending of War''. San Diego, CA : Questpath Publishing.</ref> is an in-depth exploration of the origins of [[war]], causes of [[war]], human [[gender differences]] with regard to war, and possible means to end [[war]]. Her website, ''A Future Without War'',<ref name = "AFWWWeb">''A Future Without War''. http://www.afww.org</ref> a book by the same name,<ref name = "AFWW">2006 ''A Future Without War: The Strategy of a Warfare Transition''. San Diego, CA : Questpath Publishing.</ref> and a paper, ''To Abolish War''.<ref name = "TAW">2010 Hand, Judith L. "To Abolish War." ''Journal of Aggression, Conflict, and Peace Research'' 2(4): 44-56.</ref> are devoted to the concept of and requirements for abolishing war.
+
+Hand has been a member of the International Society for Human Ethology (ISHE), since its inception in 1972. ISHE is a professional organization whose members study human behavior and come from such diverse disciplines as [[biology]], [[anthropology]] and [[psychology]].  The term "peace ethology" was coined by ethologist, Peter Verbeek, as a subdiscipline of human ethology, one that is concerned with issues of human conflict, conflict resolution, [[wiktionary:reconciliation|reconciliation]], war, [[peacemaking]], and [[peacekeeping]] behavior.<ref name = "Verbeek">2008 Verbeek, Peter. "Peace Ethology." ''Behaviour'' 145(11): 1497-1524.</ref>
+
+==Education and research==
+
+From 1967 to 1975, Hand taught high school biology at [[Santa Monica High School]] in [[Santa Monica, CA]]. While still teaching, she began a Ph.D. program at [[UCLA]] and in 1979 was awarded a Ph.D. in [[Animal Behavior]], also called [[Ethology]] (her subfields were [[Ornithology]] and [[Primatology]]). Her doctoral dissertation compared vocalizations of two populations of [[gulls]] (''Larus occidentalis''), and the results were used to reclassify the gull population in the [[Gulf of California]] as a separate species, (''Larus livens''), not just a [[subspecies]] of ''Larus occidentalis''.
+
+After completing her doctorate, she continued behavioral research as a [[Smithsonian]] Post-doctoral Fellow at the [[National Zoological Park (United States)|National Zoo in Washington, D.C.]] (1979–1980). This research resulted in published papers on conflict resolution highlighting the use of [[egalitarian]] behavior to resolve conflicts. For example, mated gull pairs in conflict over nesting duties or access to choice food used such methods as sharing, first-come-first-served, and negotiation rather than the commonly studied dominance and subordination behavior to resolve conflicts.<ref name = "Gull2">1985 "Egalitarian resolution of social conflicts: a study of pair-bonded gulls in nest duty and feeding contexts." ''Z. Tierpsychol.'' 70: 123-147.</ref> Female gulls of the species she studied are always smaller than their mates. In her theoretical paper in the ''Quarterly Review of Biology'' (Vol. 61, 1986) she used a game theory approach to introduce the concept of “leverage” to explain why smaller individuals are sometimes able to establish an egalitarian relationship with much larger individuals, ones that could easily dominate them physically.<ref name = "CRes">1986 "Resolution of Social Conflicts: Dominance, Egalitarianism, Spheres of Dominance and Game Theory." ''Quart. Rev. Biol''. 61:201-220.</ref> This paper also introduced the concept of “spheres of dominance” to explain why, in a given relationship between two individuals, the relative payoffs to survival or reproduction depends on the context of a conflict. Different contexts will provide different payoffs to each individual and consequently determine which individual of the pair will be dominant in a given context, instead of one individual being dominant over the other in all contexts.
+
+From 1980 to 1985, she was a Research Associate and Lecturer in the UCLA biology department teaching Animal Behavior and Ornithology. In 1987, she moved from [[Los Angeles]] to [[San Diego]] and spent several years writing fiction.
+ 
+In 2003, however, she returned to ethology and self-published ''Women, Power, and the Biology of Peace.'' The book draws from fields as diverse as evolutionary biology, primatology, behavior, ornithology, [[cultural anthropology]], [[neurophysiology]], and [[history]].  Hand has expanded concepts from ''Women, Power, and the Biology of Peace'' into essays on her website site, AFutureWithoutWar.org.<ref name = "AFWWWeb"/>
+
+==Education and work history==
+Hand earned a [[B.S.]] degree from [[Wheaton College (Illinois)|Wheaton College]], [[Wheaton, Illinois]], in 1961, graduating [[summa cum laude]], having majored in [[cultural anthropology]] before switching to [[zoology]]. In 1963, she earned an [[Master of Arts|M.A.]] degree in general [[physiology]] at UCLA, after which she briefly worked as a laboratory technician at UCLA's Brain Research Institute. In 1963-1964, Hand was a research technician at the [[Max Planck Institute]] for [[Neuropsychiatry]] in [[Munich]], Germany, where she assisted in brain surgeries designed to evoke vocalizations in squirrel monkeys; she published her first scientific papers on these behavioral experiments.<ref name = "Monk1">1966 Winter, Ploog, and Hand. "Vocal repertoire of the Squirrel Monkey (Saimiri sciureus), its analysis and significance." ''Experimental Brain Research'' 1: 359-384.</ref><ref name = "Monk2">1967 Hand, Hopf, and Ploog. "Observations on mating behavior and sexual play in the Squirrel Monkey (Saimiri sciureus)." ''Primates'' 8: 229-246.</ref> From 1965 through 1966, at the [[Pediatrics]] Department of the [[UCLA Medical School]], she was head technician in a physiological laboratory studying [[bilirubin]] [[metabolism]].
+
+==Fiction: strong heroines in historical epics and action thrillers==
+
+After moving from [[Los Angeles]] to [[San Diego]] in 1987, Hand turned her attention to writing fiction. In 2001, she self-published the novel ''Voice of the Goddess.''<ref name = "Goddess">2001 ''Voice of the Goddess''. Cardiff, CA: Pacific Rim Press. {{ISBN|0-9700031-3-7}},</ref> In her book ''Women, Power, and the Biology of Peace,'' Hand states that she was subsequently drawn back into the subject of war and women while promoting this book. The novel's background is the [[Minoan civilization|Minoan]] Culture which Hand portrays as woman-centered, goddess-worshipping, and without wars of aggression, a view she considers valid but which remains controversial.
+
+In 2004, two of her novels were published by New York publishing houses, the first, an historical epic set against the background of the [[Trojan War]]<ref name = "Amazon">2004 ''The Amazon and the Warrior.'' NY: Tor/Forge. {{ISBN|0-7653-4936-1}}</ref> and the second, a contemporary women's action adventure.<ref name = "CodeDove">2004 ''Code Name: Dove''. NY: Silhouette Books. {{ISBN|0-373-51318-6}}</ref> More published novels soon followed; all featuring strong heroines struggling in epic conflicts in partnership with equally strong heroes.<ref name = "IronDove">2005 ''Iron Dove''. NY: Silhouette Books. {{ISBN|0-373-51379-8}}</ref><ref name = "CaptveDove">2006 ''Captive Dove''. NY: Silhouette Books. {{ISBN|0-373-51425-5}}</ref><ref name = "Thief">2007 ''The Good Thief''. NY: Silhouette Books. {{ISBN|978-0-373-38973-5}}</ref>
+
+==Family==
+
+Judith Leon (née Latta) Hand was born in Cherokee, Oklahoma, the daughter of John Leon Latta & Wanda Hazel Latta (1914–1994).  Her father, a successful restaurateur, died when she was nine; her mother, a registered nurse, raised Hand and her younger sister alone.  Hand graduated from [[Torrance High School]] in [[Torrance, California]], in 1957.  In 1967, she married Los Angeles police detective, Harold M. Hand, and remained married to him until his death in 1996.  They had no children.
+
+==See also==
+*[[List of peace activists]]
+
+==Publications==
+
+===Articles===
+
+*1966. Winter, Ploog, and Hand. "Vocal repertoire of the Squirrel Monkey (''Saimiri sciureus''), its analysis and significance." ''Experimental Brain Research'' 1: 359-384.
+*1967. Hand, Hopf, and Ploog. "Observations on mating behavior and sexual play in the Squirrel Monkey (''Saimiri sciureus'')."  ''Primates'' 8: 229-246.
+*1981. "Sociobiological implications of unusual sexual behaviors of gulls: the genotype/behavioral phenotype problem. ''Ethology and Sociobiology'' 2:135-145. 1981.
+*1985. "Egalitarian resolution of social conflicts: a study of pair-bonded gulls in nest duty and feeding contexts." ''Z. Tierpsychol.'' 70: 123-147.
+*1986. "Territory defense and associated vocalizations of Western Gulls." ''J. Field Ornithology'' 57:1-15.
+*1986. "Resolution of Social Conflicts: Dominance, Egalitarianism, Spheres of Dominance and Game Theory."  ''Quart. Rev. Biol.'' 61:201-220.
+*1997. Pierotti, Annett, & Hand. "Male and Female Perceptions of Pair-bond Dynamics: Monogamy in the Western Gull, ''Larus occidentalis''." pp.&nbsp;261–175 in ''Feminism and Evolutionary Biology: Boundaries, Intersections, and Frontiers'', Patricia Adair Gowaty, ed. NY: Chapman and Hall. {{ISBN|0-943610-45-1}}.
+*2008. Hand, Judith L. (Review) ''Beyond War: The Human Potential for Peace'' by Douglas P. Fry. ''Human Ethology Bulletin'' 23(2).
+*2010. Hand, Judith L. "To Abolish War."  ''Journal of Aggression, Conflict, and Peace Research.'' 2 (4):44-56.
+*2013. Hand, Judith L. (Review) ''The Moral Molecule: the Source of Love and Prosperity'' by Paul Zak. ''Human Ethology Bulletin'' 28(1).
+
+===Books===
+
+====Nonfiction====
+*1987 Hand, Southern, & Vermeer (eds.), ''Ecology and Behavior of Gulls; Studies in Avian Biology, No. 10.''  {{ISBN|0-935868-31-3}}
+*2003 ''Women, Power, and the Biology of Peace.'' San Diego, CA: Questpath Publishing. {{ISBN|0-9700031-6-1}}
+*2006 ''A Future Without War: The Strategy of a Warfare Transition.'' San Diego, CA: Questpath Publishing. {{ISBN|978-0-9700031-3-3}}
+*2014 ''Shift: The Beginning of War, The Ending of War''. San Diego, CA: Questpath Publishing. {{ISBN|978-09700031-8-8}}
+*2018 ''War and Sex and Human Destiny''. San Diego, CA: Questpath Publishing. {{ISBN|978-09700031-9-5}}
+
+====Fiction====
+*2001 ''Voice of the Goddess.'' Cardiff, CA: Pacific Rim Press. {{ISBN|0-9700031-3-7}}
+*2002 ''Die Gőttin des wűtenden Berges.''
+*2004 ''The Amazon and the Warrior.'' NY: Tor/Forge. {{ISBN|0-7653-4936-1}}
+*2004 ''Code Name: Dove.'' NY: Silhouette Books. {{ISBN|0-373-51318-6}}
+*2005 ''Iron Dove.'' NY: Silhouette Books. {{ISBN|0-373-51379-8}}
+*2006 ''Captive Dove.'' NY: Silhouette Books. {{ISBN|0-373-51425-5}}
+*2007 ''The Good Thief.'' NY: Silhouette Books. {{ISBN|978-0-373-38973-5}}
+
+==Honors or awards==
+
+===Academic===
+*1966 Student Research Grant, Chapman Fund, National Museum of Natural History, Washington, D.C.
+*1968 Outstanding Student Paper Award, Annual Meeting, American Ornithologists Union.
+*1969 Smithsonian Postdoctoral Fellowship, Smithsonian Institution, Washington, D.C.
+*1984 Elected Member – American Ornithologists Union
+
+===Selected fiction awards===
+*1999 Winner, NE Indiana Romance Authors, "Opening Gambit," Historical, "Voice of the Goddess."
+*1999 Winner, Sooner Area Romance Authors, "Shooting Star Award," "Historical, Voice of the Goddess."
+*1999 Winner, San Diego Book Awards, Unpublished Novelists, "Voice of the Goddess."
+*2005 Winner, San Diego Book Awards, Best Historical Novel, "The Amazon and the Warrior."
+
+==Miscellaneous==
+*1982. Chair of the Pacific Seabird Group.  During Hand's tenure, the organization gained non-profit status and established an endowment fund.
+*1984. Co-convener of a symposium on the ''Impact of the 1982-83 El Niño on Seabird Ecology.''  AAAS Western Division, San Francisco, CA.
+*1987. Article by William Jordan:  "Divorce, Sea-gull Style. Sometimes Two Birds Just Can’t See Eye to Eye Over Brooding Privileges."  ''Los Angeles Times Magazine'', February 22.  Features Dr. Hand's studies on conflict resolution by mated breeding gull pairs.
+*1994. Co-convener of a workshop on ''Women in Ornithology.'' Combined meeting of the American Ornithologist's Union, Cooper Ornithological Society, and Wilson Ornithological Society. Missoula, MT.
+
+==Quotes==
+
+"Because of genetic inclinations that are as deeply rooted as the bonding-for-aggression inclinations of men, most women would prefer to make or keep the peace, the sooner the better." In ''Women, Power, and the Biology of Peace'', p.&nbsp;45.
+
+"If women around the world in the twenty-first century would get their act together they could, partnered with men of like mind, shift the direction of world history to create a future without war." In ''A Future Without War: the Strategy of a Warfare Transition'', p.&nbsp;53.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.judithhand.net Judith Hand’s Personal Website]
+*[http://www.afww.org A Future Without War website]
+
+{{Anti-war}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Hand, Judith}}
+[[Category:1940 births]]
+[[Category:Living people]]
+[[Category:Ethologists]]
+[[Category:Evolutionary biologists]]
+[[Category:American anti-war activists]]
+[[Category:American science writers]]
+[[Category:American thriller writers]]
+[[Category:American historical novelists]]
+[[Category:Wheaton College (Illinois) alumni]]
+[[Category:21st-century American novelists]]
+[[Category:American women novelists]]
+[[Category:Women science writers]]
+[[Category:21st-century American women writers]]
+[[Category:Women thriller writers]]
+[[Category:Women historical novelists]]
+[[Category:University of California, Los Angeles alumni]]
+[[Category:American women non-fiction writers]]
+[[Category:21st-century American non-fiction writers]]

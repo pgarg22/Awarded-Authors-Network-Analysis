@@ -1,0 +1,229 @@
+{{short description|British author}}
+{{EngvarB|date=December 2013}}
+{{Use dmy dates|date=September 2021}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Susanna Clarke
+| image       = Susanna Clarke March 2006.jpg
+| caption     = Clarke in March 2006
+| pseudonym   =
+| birth_name  = Susanna Mary Clarke
+| birth_date  = {{birth date and age|df=yes|1959|11|1}}
+| birth_place = [[Nottingham]], England
+| occupation  = Novelist
+| nationality = British
+| period      = 
+| education = [[St. Hilda's College, Oxford]]
+| genre       = Fantasy, [[alternate history]] 
+| notableworks= ''[[Jonathan Strange & Mr Norrell]]''<br />''[[The Ladies of Grace Adieu and Other Stories]]''<br />''[[Piranesi (novel)|Piranesi]]''
+| website     = 
+| partner     = [[Colin Greenland]]
+}}
+
+'''Susanna Mary Clarke''' (born 1 November 1959) is an English author known for her debut novel ''[[Jonathan Strange & Mr Norrell]]'' (2004), a [[Hugo Award]]-winning [[alternative history]]. Clarke began ''Jonathan Strange'' in 1993 and worked on it during her spare time. For the next decade, she published short stories from the ''Strange'' universe, but it was not until 2003 that [[Bloomsbury Publishing|Bloomsbury]] bought her manuscript and began work on its publication. The novel became a best-seller.
+
+Two years later, she published a collection of her short stories, ''[[The Ladies of Grace Adieu and Other Stories]]'' (2006). Both Clarke's debut novel and her short stories are [[Setting (narrative)|set]] in a magical England and written in a [[pastiche]] of the styles of 19th-century writers such as [[Jane Austen]] and [[Charles Dickens]]. While ''Strange'' focuses on the relationship of two men, Jonathan Strange and Gilbert Norrell, the stories in ''Ladies'' focus on the power women gain through magic.
+
+Clarke's second novel, ''[[Piranesi (novel)|Piranesi]]'', was published in September 2020, winning the 2021 [[Women's Prize for Fiction]].
+
+== Biography ==
+
+=== Early life ===
+Clarke was born on 1 November 1959 in [[Nottingham]], England, the eldest daughter of a [[Methodist]] minister and his wife.<ref name=Dewey>{{cite book |first=Joseph |last=Dewey |chapter=Susanna Clarke |title=Guide to Literary Masters and Their Works |publisher=Great Neck Publishing |year=2007 |via=Literary Reference Center ([[EBSCO]])}}</ref> Owing to her father's posts, she spent her childhood in various towns across [[Northern England]] and Scotland,<ref name=Locus/> and enjoyed reading the works of Sir [[Arthur Conan Doyle]], [[Charles Dickens]], and [[Jane Austen]].<ref name=Dewey/> She studied [[philosophy, politics, and economics]] at [[St Hilda's College, Oxford]],<ref>{{cite book|url=https://books.google.com/books?id=T7pVTz46T3cC&pg=PA110|title=Encyclopedia of British Writers, 1800 to the Present|volume=2|first1=George|last1=Stade|first2=Karen|last2=Karbiener|date=12 May 2010|page=110|isbn=9781438116891}}</ref> receiving her degree in 1981.<ref>{{Cite web|url=https://www.penguinrandomhouse.de/Autor/Susanna-Clarke/p691467.rhd|title=Susanna Clarke (Autor) - Bücher}}</ref>
+
+For eight years, she worked in publishing at [[Quarto Publishing|Quarto]] and [[Gordon Fraser (publisher)|Gordon Fraser]].<ref name=Locus/> She spent two years teaching English as a foreign language in [[Turin]], Italy and [[Bilbao]], Spain. She returned to England in 1992 and spent the rest of that year in [[County Durham]], in a house that looked out over the North Sea.<ref name="bloomsbury_a">{{cite web |url=http://bloomsbury.com/Susanna-Clarke/authors/506 |title=Susanna Clarke |website=Bloomsbury.com |access-date=28 October 2017}}</ref> There she began working on her first novel, ''Jonathan Strange and Mr Norrell.''<ref name="bloomsbury_a" /> In 1993, she was hired by [[Simon & Schuster]] in [[Cambridge]] to edit cookbooks, a job she kept for the next ten years.<ref name=Locus>{{cite magazine |url=http://www.locusmag.com/2005/Issues/04Clarke.html |title=The Three Susanna Clarkes |magazine=[[Locus (magazine)|Locus]] |date=April 2005 |url-access=subscription |access-date=17 March 2009}}</ref>
+
+=== ''Jonathan Strange and Mr Norrell'' ===
+{{main|Jonathan Strange & Mr Norrell}}
+Clarke first developed the idea for ''Jonathan Strange & Mr Norrell'' while she was teaching in Bilbao: "I had a kind of waking dream&nbsp;...&nbsp;about a man in 18th-century clothes in a place rather like Venice, talking to some English tourists. And I felt strongly that he had some sort of magical background&nbsp;– he'd been dabbling in magic, and something had gone badly wrong."<ref name=Grossman>{{cite magazine |first=Lev |last=Grossman |url=http://www.time.com/time/printout/0,8816,678627,00.html |archive-url=https://archive.today/20121216121422/http://www.time.com/time/printout/0,8816,678627,00.html |url-status=dead |archive-date=16 December 2012 |title=Of Magic and Men |magazine=[[Time (magazine)|Time]] |date=8 August 2004 |access-date=5 January 2009}}</ref> She had also recently reread [[J. R. R. Tolkien]]'s ''[[The Lord of the Rings]]'' and afterwards was inspired to "[try] writing a novel of magic and fantasy".<ref>{{cite magazine |first=Jessica |last=Stockton |url=http://reviews.publishersweekly.com/pw/by-topic/authors/interviews/article/21286-harry-potter-meets-history.html |title=Harry Potter Meets History |magazine=[[Publishers Weekly]] |date=12 July 2004 |via=[[LexisNexis]] |url-access=subscription |access-date=20 May 2009}}</ref>
+
+After she returned from Spain in 1993, Clarke began to think seriously about writing her novel. She signed up for a five-day fantasy and science-fiction writing workshop, co-taught by science fiction and fantasy writers [[Colin Greenland]] and [[Geoff Ryman]]. The students were expected to prepare a short story before attending, but Clarke only had "bundles" of material for her novel. From this she extracted "[[The Ladies of Grace Adieu and Other Stories|The Ladies of Grace Adieu]]", a [[fairy tale]] about three women secretly practising magic who are discovered by the famous Jonathan Strange.<ref name=Hodgman>{{cite news |first=John |last=Hodgman |url=https://www.nytimes.com/2004/08/01/magazine/01CLARKE.html?ex=1249099200&en=2fea0b3cbfbd17d9&ei=5090&partner=rssuserland&pagewanted=all |title=Susanna Clarke's Magic Book |magazine=[[The New York Times Magazine]] |date=1 August 2004 |access-date=5 January 2009}}</ref> Greenland was so impressed with the story that, without Clarke's knowledge, he sent an excerpt to his friend, the fantasy writer [[Neil Gaiman]]. Gaiman later said, "It was terrifying from my point of view to read this first short story that had so much assurance&nbsp;...&nbsp;It was like watching someone sit down to play the piano for the first time and she plays a sonata."<ref name=Hodgman/> Gaiman showed the story to his friend, science-fiction writer and editor [[Patrick Nielsen Hayden]]. Clarke learned of these events when Nielsen Hayden called and offered to publish her story in his anthology ''[[Starlight (anthology series)|Starlight 1]]'' (1996), which featured pieces by well-regarded science-fiction and fantasy writers.<ref name=Hodgman/> She accepted, and the book won the [[World Fantasy Award]] for best anthology in 1997.<ref>{{cite web |url=http://www.worldfantasy.org/awards/awardslist.html |title=Award Winners & Nominees: 2007 World Fantasy Awards Ballot |website=World Fantasy Awards |access-date=13 January 2009 |archive-url=https://web.archive.org/web/20090730185710/http://www.worldfantasy.org/awards/awardslist.html |archive-date=30 July 2009}}</ref>
+[[File:Colin Greenland.jpg|thumb|right|[[Colin Greenland]], Clarke's partner, did not read ''[[Jonathan Strange & Mr Norrell]]'' until it was published.<ref name=Silver2>{{cite web |first=Steven H. |last=Silver |author-link=Steven H Silver |url=http://www.sfsite.com/02b/sl194.htm |title=An Interview of Susanna Clarke, Part 2 |website=sfsite.com |date=October 2004 |access-date=25 January 2009}}</ref>]]
+
+Clarke spent the next ten years working on the novel in her spare time.<ref name=WGrossman>{{cite news |url=https://www.telegraph.co.uk/culture/books/3625070/Ten-years-but-Susannas-book-is-worth-the-wait.html |first=Wendy |last=Grossman |title=Ten years&nbsp;— but Susanna's book is worth the wait |newspaper=[[The Daily Telegraph]] |date=7 October 2004 |access-date=5 January 2009}}</ref> She also published stories in ''Starlight 2'' (1998) and ''Starlight 3'' (2001); according to ''[[The New York Times Magazine]]'', her work was known and appreciated by a small group of fantasy fans and critics on the internet.<ref name=Hodgman/> Overall, she published seven short stories in anthologies. "Mr Simonelli, or The Fairy Widower" was shortlisted for a World Fantasy Award in 2001.<ref name=Bloomsbury>{{cite web |url=http://www.jonathanstrange.com/copy.asp?s=1 |title=About Jonathan Strange and Mr Norrell |website=JonathanStrange.com |access-date=12 April 2009}}</ref>
+
+Clarke was never sure if she would finish her novel or if it would be published.<ref name=WGrossman/> Clarke tried to write for three hours each day, beginning at 5:30&nbsp;am, but struggled to keep this schedule. Rather than writing the novel from beginning to end, she wrote in fragments and attempted to stitch them together.<ref name=Rose/> Clarke, admitting that the project was for herself and not for the reader,<ref name=Silver1>{{cite web |first=Steven H. |last=Silver |url=http://www.sfsite.com/02a/su193.htm |title=An Interview of Susanna Clarke, Part 1 |website=sfsite.com |date=October 2004 |access-date=25 January 2009}}</ref> "clung to this method" "because I felt that if I went back and started at the beginning, [the novel] would lack depth, and I would just be skimming the surface of what I could do. But if I had known it was going to take me ten years, I would never have begun. I was buoyed up by thinking that I would finish it next year, or the year after next."<ref name=Rose/> Clarke and Greenland fell in love while she was writing the novel and moved in together.<ref name=Hodgman/>
+
+Around 2001, Clarke "had begun to despair", and started looking for someone to help her finish and sell the book.<ref name=Hodgman/> [[Giles Gordon]] became her first [[literary agent]] and sold the unfinished manuscript to [[Bloomsbury Publishing|Bloomsbury]] in early 2003, after two publishers rejected it as unmarketable.<ref name=Rose>{{cite news |first=Hilary |last=Rose |title=Her dark materials |newspaper=[[The Times]] |date=2 October 2004 |via=LexisNexis}}</ref> Bloomsbury were so sure the novel would be a success that they offered Clarke a £1&nbsp;million advance.<ref name=Craig>{{cite magazine |first=Amanda |last=Craig |url=https://www.newstatesman.com/node/160636 |title=With the fairies |magazine=[[New Statesman]] |date=27 September 2004 |access-date=5 January 2009}}</ref> They printed 250,000 hardcover copies simultaneously in the United States, Britain, and Germany. Seventeen translations were begun before the first English publication was released on 8 September 2004 in the United States and on 30 September in the United Kingdom.<ref name=Hodgman/><ref name=Dawtrey>{{cite magazine |first=Adam |last=Dawtrey |url=https://variety.com/2004/film/columns/strange-casts-pic-spell-1117910574/ |title='Strange' casts pic spell |magazine=[[Variety (magazine)|Variety]] |date=19 September 2004 |access-date=12 January 2009}}</ref>
+
+''Jonathan Strange & Mr Norrell'' is an [[Alternate history|alternative history]] [[Setting (narrative)|set]] in 19th-century England during the [[Napoleonic Wars]]. It is based on the premise that magic once existed in England and has returned with two men: Gilbert Norrell and Jonathan Strange. Centring on the relationship between these two men,<ref name=Hendrix>{{cite news |first=Grady |last=Hendrix |url=https://www.villagevoice.com/2004/08/24/do-you-believe-in-magic/ |title=Do You Believe in Magic? |newspaper=[[The Village Voice]] |date=24 August 2004 |access-date=5 January 2009}}</ref> the novel investigates the nature of "Englishness"<ref name=Miller>{{cite web |first=Laura |last=Miller |url=https://www.salon.com/2004/09/04/clarke_13/ |title=When Harry Potter met Jane Austen |website=[[Salon (website)|Salon]] |date=4 September 2004 |access-date=5 January 2009}}</ref> and the boundary between reason and madness.<ref name=Shulman>{{cite web |first=Polly |last=Shulman |url=http://www.slate.com/articles/arts/books/2004/09/fantasy_for_grownups.html |title=Fantasy for Grown-ups |website=[[Slate (magazine)|Slate]] |date=16 September 2004 |access-date=5 January 2009}}</ref> It has been described as a fantasy novel, an alternative history, and an historical novel and draws on various [[Romanticism|Romantic]] literary traditions, such as the [[comedy of manners]], the [[Gothic fiction|Gothic tale]], and the [[Byronic hero]].<ref name=Dirda>{{cite news |first=Michael |last=Dirda |url=https://www.washingtonpost.com/wp-dyn/articles/A57806-2004Sep2.html |title=Jonathan Strange and Mr Norrell |newspaper=[[The Washington Post]] |date=5 September 2004 |access-date=5 January 2009}}</ref> Clarke's style has frequently been described as a [[pastiche]], particularly of 19th-century British writers such as [[Charles Dickens]], [[Jane Austen]], and [[George Meredith]].<ref name=Hendrix/><ref name=Brown>{{cite news |first=Helen |last=Brown |url=https://www.telegraph.co.uk/culture/books/3623749/Under-her-spell.html |title=Under her spell |newspaper=[[The Daily Telegraph]] |date=15 September 2004 |access-date=5 January 2009}}</ref> The supernatural is contrasted with and highlighted by mundane details and Clarke's tone combines arch wit with antiquarian quaintness.<ref name=FreemanReview>{{cite news |first=John |last=Freeman |title=Magic to do: Faux footnotes, social observation, and wizard rivalry stir the pot in Susanna Clarke's 19th-century tale |newspaper=[[The Boston Globe]] |date=3 October 2004 |via=LexisNexis}}</ref><ref name=Faber>{{cite news |first=Michel |last=Faber |url=https://www.theguardian.com/books/2004/oct/02/featuresreviews.guardianreview20 |title=It's a kind of magick |newspaper=[[The Guardian]] |date=2 October 2004 |access-date=5 January 2009}}</ref> The text is supplemented with almost 200 footnotes, outlining the backstory and an entire fictional corpus of magical scholarship. The novel was well received by critics<ref name=LinskeySeptember>{{cite news |first=Annie |last=Linskey |title=Stranger than Fiction&nbsp;— After 10 years of writing, Susanna Clarke has found overnight success, and perhaps a bit of the old Potter magic, with her debut novel |newspaper=[[The Baltimore Sun]] |date=29 September 2004 |via=Access World News}}</ref> and reached number three on the [[New York Times Best Seller list|''New York Times'' best-seller list]],<ref name=Dawtrey/> remaining on the list for eleven weeks.<ref name=NYTlist>{{cite news |title=Best Sellers |newspaper=[[The New York Times]] |date=16 January 2005 |via=LexisNexis}}</ref>
+
+A [[Jonathan Strange & Mr Norrell (miniseries)|seven-part adaptation]] of the book by the [[BBC]] began broadcast on [[BBC One]] on Sunday 17 May 2015. The book was adapted by [[Peter Harness]], directed by [[Toby Haynes]], and produced by [[Cuba Pictures]] and Feel Films.<ref>{{cite web |url=https://www.bbc.co.uk/mediacentre/latestnews/2012/bbc-one-commissions-nov.html |title=Danny Cohen, looks ahead at the five key themes that will define the channel in 2013 |publisher=[[BBC]] |date=30 November 2012 |access-date=9 April 2013}}</ref><ref>{{cite news |url=http://artsbeat.blogs.nytimes.com/2013/04/08/bbc-to-adapt-jonathan-strange-mr-norrell-as-miniseries/ |title=BBC to Adapt 'Jonathan Strange & Mr. Norrell' as Mini-Series |newspaper=[[The New York Times]] |last=Itzkoff |first=Dave |date=8 April 2013 |access-date=9 April 2013}}</ref>
+
+=== ''The Ladies of Grace Adieu and Other Stories'' ===
+{{main|The Ladies of Grace Adieu and Other Stories}}
+In 2006, Clarke published a collection of eight [[fairy tales]] presented as the work of several different writers, seven of which had been previously anthologized.<ref name=Zipp>{{cite magazine |first=Yvonne |last=Zipp |url=http://www.csmonitor.com/2006/1031/p13s02-bogn.html |title=All the faerie young ladies |magazine=[[The Christian Science Monitor]] |date=31 October 2006 |access-date=7 April 2009}}</ref><ref name=Luscombe>{{cite news |first=Karen |last=Luscombe |url=https://beta.theglobeandmail.com/arts/youll-believe-in-magic/article733584/ |title=You'll believe in magic |newspaper=[[The Globe and Mail]] |date=23 December 2006 |access-date=7 April 2009}}</ref><ref name=Morrissy>{{cite news |url=https://www.irishtimes.com/news/flitting-into-the-world-of-faerie-1.1018912 |first=Mary |last=Morrissy |title=Flitting into the world of Faerie |newspaper=[[The Irish Times]] |date=21 October 2006 |access-date=9 April 2009}}</ref> The volume's focus on "female mastery of the dark arts" is reflected in the ladies of Grace Adieu's magical abilities and the prominent role needlework plays in saving the [[Arthur Wellesley, 1st Duke of Wellington|Duke of Wellington]] and [[Mary, Queen of Scots]].<ref name=Montgomery>{{cite news |first=Isobel |last=Montgomery |url=https://www.theguardian.com/books/2007/sep/08/featuresreviews.guardianreview6 |title=Stitches in time |newspaper=[[The Guardian]] |date=8 September 2007 |access-date=7 April 2009}}</ref> The collection is a "sly, frequently comical, feminist revision" of ''Jonathan Strange''.<ref name=Collins-Hughes>{{cite news |first=Laura |last=Collins-Hughes |title=Clarke's protagonist seen in less flattering light in 'Ladies' |newspaper=[[Chicago Tribune]] |date=10 November 2006 |via=Access World News}}</ref> In tone, the stories are similar to the novel—"nearly every one of them is told in a lucid, frequently deadpan, bedtime-story voice strikingly similar to the voice that narrates the novel."<ref name=Collins-Hughes/>
+
+The title story, "The Ladies of Grace Adieu", is set in early 19th-century [[Gloucestershire]] and concerns the friendship of three young women, Cassandra Parbringer, Miss Tobias, and Mrs. Fields. Though the events of the story do not actually appear in ''Jonathan Strange & Mr Norrell'', they are referenced in a footnote in Chapter 43. Clarke has said, "For a long time it was my hope that these three ladies should eventually find a place in&nbsp;...&nbsp;the novel&nbsp;...&nbsp;I decided there was no place for them&nbsp;...&nbsp;I deliberately kept women to the [[Separate spheres|domestic sphere]] in the interests of authenticity&nbsp;...&nbsp;it was important that real and alternate history appeared to have converged. This meant that I needed to write the women and the servants, as far as possible, as they would have been written in a 19th-century novel."<ref name=Steele>{{cite news |first=Colin |last=Steele |title=Literary journey to faerie realms |newspaper=[[The Canberra Times]] |date=27 January 2007 |via=Lexis Nexis}}</ref> Reviewers highlighted this tale, one calling it "the most striking story" of the collection and "a staunchly feminist take on power relations".<ref name=Lalumiere>{{cite news |first=Claude |last=Lalumiere |title=Stories mix everyday and magic realms |newspaper=[[The Gazette (Montreal)|The Gazette]] |date=20 January 2007 |via=LexisNexis}}</ref> In her review of the volume in ''[[Strange Horizons]]'', Victoria Hoyle writes that "there is something incredibly precise, clean, and cold about Clarke's portrayal of 'women's magic' in this story (and throughout the collection)—it is urgent and desperate, but it is also natural and in the course of things."<ref name=Hoyle>{{cite magazine |first=Victoria |last=Hoyle |url=http://www.strangehorizons.com/reviews/2006/11/the_ladies_of_g.shtml |title=Review: 'The Ladies of Grace Adieu' by Susanna Clarke |magazine=[[Strange Horizons]] |date=20 November 2006 |access-date=10 April 2009}}</ref>
+
+The collection received many positive reviews, though some critics compared the short stories unfavourably with the highly acclaimed and more substantial ''Jonathan Strange and Mr Norrell''. Hoyle wrote in her review that "the stories&nbsp;...&nbsp;are consistently subtle and enchanting, and as charismatic as any reader could wish, but, while the collection has the panache of the novel, it lacks its glorious self-possession."<ref name=Hoyle/>
+
+=== ''Piranesi'' ===
+{{main|Piranesi (novel)}}
+When she began writing her next book, Clarke was living in Cambridge with her partner, the science fiction novelist and reviewer [[Colin Greenland]].<ref name=Bloomsbury/> They met when she took his fantasy writing course.<ref name=jordan>{{cite news|url=https://www.theguardian.com/books/2020/sep/12/susanna-clarke-i-was-cut-off-from-the-world-bound-in-one-place-by-illness|title=Susanna Clarke: 'I was cut off from the world, bound in one place by illness'|first=Justine|last=Jordan|date=20 September 2020}}</ref> She was, in 2004, working on a book that begins a few years after ''Jonathan Strange & Mr Norrell'' ends and which would involve characters who, as Clarke said, are "a bit lower down the social scale".<ref name=Silver1/> She commented in 2005 and 2007<ref>{{cite web |url=http://foem.org.uk/ |title=Susanna Clarke responds to your questions... |date=10 January 2007 |website=The Friends of English Magic |archive-url=https://web.archive.org/web/20070110215122/http://foem.org.uk/ |archive-date=10 January 2007}}</ref> that progress on the book had been slowed by her ill health.<ref>{{cite web |last=Goodwin |first=Geoffrey |title=An Interview with Susanna Clarke |url=http://www.bookslut.com/features/2005_09_006537.php |website=Bookslut |access-date=29 June 2015}}</ref> In 2006 it was reported that she suffered from [[chronic fatigue syndrome]].<ref>{{cite web|url=http://www.adweek.com/galleycat/susanna-clarke-cancels-book-tour/3691|title=Susanna Clarke cancels book tour|website=Adweek|access-date=22 August 2018}}</ref> Clarke found that writing the sequel to ''Jonathan Strange & Mr Norrell'' was becoming too complex considering her illness, and she returned instead to an earlier project with fewer characters and requiring less research – which became her second novel. While writing this book she moved to Derbyshire.<ref name=jordan/>
+
+In September 2019, ''[[Publishers Weekly]]'' reported that Clarke's second novel would be titled ''Piranesi'' and published in September 2020 by Bloomsbury. Quoting their press release, "A Bloomsbury spokesperson said the novel is set in 'a richly imagined, very unusual world.' The title character lives in a place called the House and is needed by his friend, the Other, to work on a scientific project. The publisher went on: 'Piranesi records his findings in his journal. Then messages begin to appear; all is not what it seems. A terrible truth unravels as evidence emerges of another person and perhaps even another world outside the House’s walls.{{'"}}<ref>{{cite web |title=Book Deals: Week of September 30, 2019 |url=https://www.publishersweekly.com/pw/by-topic/industry-news/book-deals/article/81293-book-deals-week-of-september-30-2019.html |website=Publishers Weekly |date=27 September 2019 |access-date=28 September 2019}}</ref><ref>{{cite news |last=Flood |first=Alison |url=https://www.theguardian.com/books/2019/sep/30/jonathan-strange-and-mr-norrell-author-return-susanna-clarke-piranesi |title=Jonathan Strange and Mr Norrell author to return after 16-year gap |newspaper=[[The Guardian]] |date=30 September 2019 |access-date=30 September 2019}}</ref> ''Piranesi'' was published on 15 September 2020 by Bloomsbury. The audiobook is narrated by actor [[Chiwetel Ejiofor]].<ref>{{Cite web |last=Hackett |first=Tamsin |date=24 July 2020 |title=Chiwetel Ejiofor to narrate audiobook of Susanna Clarke's Piranesi |url=https://www.thebookseller.com/news/chiwetel-ejiofor-narrate-audiobook-piranesi-susanna-clarke-1212746 |access-date=15 September 2020 |website=[[The Bookseller]]}}</ref>
+
+== Awards and nominations ==
+{| class="wikitable sortable"
+|-
+!Award !! Year !! Work !! style="width:6em"|Result !! class="unsortable"|{{Abbr|Ref.|References}}
+|-
+|[[World Fantasy Award]] Novella Award
+|2001
+|"Mr Simonelli, or the Fairy Widower"
+|{{nom|Shortlisted}}
+|align=center|<ref>{{cite web |url=http://www.worldfantasy.org/awards/2001.html |title=Award Winners & Nominees: 2001 World Fantasy Awards Ballot |website=World Fantasy Awards |access-date=7 April 2009 |archive-url=https://web.archive.org/web/20011218064501/http://www.worldfantasy.org/awards/awardslist.html |archive-date=18 December 2001}}</ref>
+|-
+|[[Booker Prize|Man Booker Prize]]
+|2004
+|''Jonathan Strange & Mr Norrell''
+|{{nom|Longlisted}}
+|align=center|<ref>{{cite web |url=http://themanbookerprize.com/fiction/backlist/2004 |title=The Longlist |website=The Man Booker Prize |year=2004 |access-date=5 January 2009}}</ref>
+|-
+|[[2004 Whitbread Awards#First Novel|Whitbread First Novel Award]]
+|2004
+|''Jonathan Strange & Mr Norrell''
+|{{nom|Shortlisted}}
+|align=center|<ref>{{cite press release |url=http://www.booksellers.org.uk/documents/press_release_whitbread.pdf |title=2004 Whitbread Book Awards Shortlist |publisher=[[Booksellers Association of the UK and Ireland|The Booksellers Association]] |access-date=12 January 2009 |archive-url=https://web.archive.org/web/20061003082612/http://www.booksellers.org.uk/documents/press_release_whitbread.pdf |archive-date=3 October 2006}}</ref>
+|-
+|[[Guardian First Book Award]]
+|2004
+|''Jonathan Strange & Mr Norrell''
+|{{nom|Shortlisted}}
+|align=center|<ref>{{cite news |first=John |last=Ezard |url=https://www.theguardian.com/uk/2004/nov/04/books.guardianfirstbookaward2004 |title=Guardian shortlist takes world as its oyster |newspaper=[[The Guardian]] |date=4 November 2004 |access-date=5 January 2009}}</ref>
+|-
+|''[[Time Magazine|Time]]''{{'}}s Best Novel of the Year
+|2004
+|''Jonathan Strange & Mr Norrell''
+|{{won}}
+|align=center|<ref>{{cite web |url=http://www.time.com/time/bestandworst/2004/books.html |title=2004 Best and Worst Books |magazine=[[Time (magazine)|Time]] |access-date=12 January 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090131152359/http://www.time.com/time/bestandworst/2004/books.html |archive-date=31 January 2009}}</ref>
+|-
+|[[British Book Awards]] Literary Fiction Award
+|2005
+|''Jonathan Strange & Mr Norrell''
+|{{nom|Shortlisted}}
+|align=center|<ref>{{cite web |url=http://www.contemporarywriters.com/awards/?&skip=600 |title=Literary Awards |website=Contemporary Writers in the UK |access-date=12 January 2009 |archive-url=https://web.archive.org/web/20090720091637/http://www.contemporarywriters.com/awards/?&skip=600 |archive-date=20 July 2009}}</ref>
+|-
+|[[Hugo Award for Best Novel]]
+|2005
+|''Jonathan Strange & Mr Norrell''
+|{{won}}
+|align=center|<ref>{{cite web |url=http://www.thehugoawards.org/?page_id=12 |title=2005 Hugo Awards |website=thehugoawards.org |access-date=5 January 2009}}</ref>
+|-
+|[[Nebula Award for Best Novel]]
+|2005
+|''Jonathan Strange & Mr Norrell''
+|{{nom|Shortlisted}}
+|align=center|<ref>{{cite web |url=https://nebulas.sfwa.org/award-year/2005/ |title=2005 Nebula Awards |website=nebulas.sfwa.org |access-date=4 June 2021}}</ref>
+|-
+|[[World Fantasy Award for Best Novel]]
+|2005
+|''Jonathan Strange & Mr Norrell''
+|{{won}}
+|align=center|<ref>{{cite web |url=http://www.worldfantasy.org/awards/2005.html |title=2005 World Fantasy Awards |website=worldfantasy.org |access-date=5 January 2009 |archive-url=https://web.archive.org/web/20090506122311/http://www.worldfantasy.org/awards/2005.html |archive-date=6 May 2009}}</ref>
+|-
+|[[Locus Award for Best First Novel]]
+|2005
+|''Jonathan Strange & Mr Norrell''
+|{{won}}
+|align=center|<ref>{{cite magazine |url=http://www.locusmag.com/SFAwards/Db/Locus2005.html#nvl1 |title=Locus Index to SF Awards |magazine=Locus |access-date=10 March 2009 |archive-url=https://web.archive.org/web/20090816155726/http://www.locusmag.com/SFAwards/Db/Locus2005.html |archive-date=16 August 2009}}</ref>
+|-
+|[[Mythopoeic Award]] for Adult Literature
+|2005
+|''Jonathan Strange & Mr Norrell''
+|{{won}}
+|align=center|<ref>{{cite magazine |url=http://www.locusmag.com/SFAwards/Db/Mythopoeic2005.html#adultf |title=Locus Index to SF Awards |magazine=Locus |access-date=10 March 2009 |archive-url=https://web.archive.org/web/20090506002758/http://www.locusmag.com/SFAwards/Db/Mythopoeic2005.html |archive-date=6 May 2009}}</ref>
+|-
+|[[British Book Awards]] Newcomer of the Year Award
+|2005
+|Best new author
+|{{won}}
+|align=center|<ref>{{cite web |url=http://www.britishbookawards.co.uk/past_winners.asp? |title=British Book Awards |website=britishbookawards.co.uk |access-date=5 January 2009 |archive-url=https://web.archive.org/web/20090908200902/http://www.britishbookawards.co.uk/past_winners.asp |archive-date=8 September 2009 |url-status=dead  }}</ref>
+|-
+|[[Costa Book Awards]] 
+|2020
+|''Piranesi''
+|{{nom|Shortlisted}}
+|align=center|<ref>{{cite news|url=https://amp.theguardian.com/books/2020/nov/24/costa-book-awards-susanna-clarke-nominated-for-second-novel-after-16-year-wait|title=Costa book awards: Susanna Clarke nominated for second novel after 16-year wait|first=Alison|last=Flood|date=24 November 2020|work=The Guardian}}</ref>
+|-
+|[[Women's Prize for Fiction]]
+|2021
+|''Piranesi''
+|{{won}}
+|align=center|<ref>{{cite news|url=https://www.theguardian.com/books/2021/sep/08/womens-prize-for-fiction-goes-to-susanna-clarkes-mind-bending-piranesi|title=Women’s prize for fiction goes to Susanna Clarke’s ‘mind-bending’ Piranesi|first=Alison|last=Flood|newspaper=The Guardian|date=8 September 2021}}</ref><ref>{{Cite web |title=Announcing the 2021 winner of the Women’s Prize! |url=https://womensprizeforfiction.co.uk/features/features/news/announcing-the-2021-winner-of-the-womens-prize |access-date=8 September 2021 |website=[[Women's Prize for Fiction]]}}</ref>
+|-
+|[[Hugo Award for Best Novel]]
+|2021
+|''Piranesi''
+|{{nom|Shortlisted}}
+|align=center|<ref>{{cite web |url=http://www.thehugoawards.org/hugo-history/2021-hugo-awards/ |title=2021 Hugo Awards |website=thehugoawards.org |access-date=17 April 2021}}</ref>
+|-
+|[[Nebula Award for Best Novel]]
+|2021
+|''Piranesi''
+|{{nom|Shortlisted}}
+|align=center|<ref>{{cite web |url=https://nebulas.sfwa.org/sfwa-announces-the-56th-annual-nebula-award-finalists/ |title=2021 Nebula Awards |website=nebulas.sfwa.org |access-date=17 April 2021}}</ref>
+|-
+|[[Encore Award]]
+|2021
+|''Piranesi''
+|{{nom|Shortlisted}}
+|align=center|<ref>{{Cite web|last=Chandler|first=Mark|date=5 May 2021|title=Oneworld takes two places on Encore Award shortlist|url=https://www.thebookseller.com/news/oneworld-takes-two-places-encore-award-shortlist-1257918|access-date=25 June 2021|website=The Bookseller}}</ref>
+|}
+
+== List of works ==
+===Novels===
+* {{cite book |title=[[Jonathan Strange & Mr Norrell]] |date=September 2004 |publisher=Bloomsbury |location=New York and London}}<ref>{{Cite book|url=https://archive.org/details/jonathanstrangem00susa|title=Jonathan Strange & Mr Norrell|last=Clarke|first=Susanna|date=September 2004 |publisher=Bloomsbury|others=Illustrated by Portia Rosenberg|isbn=9781582346038|location=New York and London|oclc=61660468|url-access=registration}}</ref>
+* {{cite book |title=[[Piranesi (novel)|Piranesi]] |date=September 2020 |publisher=Bloomsbury |location=New York and London}}<ref>{{Cite web |title=Piranesi |url=https://www.bloomsbury.com/uk/piranesi-9781526622426/ |access-date=15 September 2020 |website=Bloomsbury Publishing}}</ref>
+
+===Short stories===
+Clarke has published her short stories in multiple publications. This list contains the first publication of each as well as her collection ''[[The Ladies of Grace Adieu and Other Stories]]''.
+
+* {{cite book |chapter=The Ladies of Grace Adieu |title=[[Starlight (anthology series)|Starlight 1]] |editor-first=Patrick Nielsen |editor-last=Hayden |editor-link=Patrick Nielsen Hayden |location=New York |publisher=[[Tor Books]] |year=1996}}<ref name=LIStories>{{cite magazine |url=http://www.locusmag.com/index/yr2006/s12.htm |title=The Locus Index to Science Fiction Authors: 2006, Stories |magazine=Locus |access-date=12 April 2009}}</ref>
+* {{cite book |chapter=Stopp't-Clock Yard |title=[[The Sandman: Book of Dreams]] |editor1-first=Ed |editor1-last=Kramer |editor1-link=Ed Kramer |editor2-first=Neil |editor2-last=Gaiman |editor2-link=Neil Gaiman |location=New York |publisher=[[Harper Prism]] |year=1996}}<ref name=LIStories/>
+* {{cite book |chapter=On Lickerish Hill |title=Black Swan, White Raven |editor1-first=Ellen |editor1-last=Datlow |editor2-first=Terri |editor2-last=Windling |location=New York |publisher=Avon |year=1997}}<ref name=LIStories/>
+* {{cite book |chapter=Mrs Mabb |title=[[Starlight (anthology series)|Starlight 2]] |editor-first=Patrick Nielsen |editor-last=Hayden |location=New York |publisher=Tor Books |year=1998}}<ref name=LIStories/>
+* {{cite book |chapter=The Duke of Wellington Misplaces His Horse |title=A Fall of Stardust |editor-first=Charles |editor-last=Vess |editor-link=Charles Vess |publisher=Green Man Press |year=1999}}<ref name=LIStories/>
+* {{cite book |chapter=Mr. Simonelli or the Fairy Widower |title=Black Heart, Ivory Bones |editor1-first=Ellen |editor1-last=Datlow |editor2-first=Terri |editor2-last=Windling |location=New York |publisher=Avon |year=2000}}<ref name=LIStories/>
+* {{cite book |chapter=Tom Brightwind, or, How the Fairy Bridge Was Built at Thoresby |title=[[Starlight (anthology series)|Starlight 3]] |editor-first=Patrick Nielsen |editor-last=Hayden |location=New York |publisher=Tor Books |year=2001}}<ref name=LIStories/>
+* {{cite news |title=Antickes and Frets |newspaper=[[The New York Times]] |date=31 October 2004}}<ref name=LIStories/>
+* {{cite book |chapter=John Uskglass and the Cumbrian Charcoal Burner |title=[[The Ladies of Grace Adieu and Other Stories]] |location=New York & London |publisher=Bloomsbury |year=2006}}<ref name=LIStories/>
+* {{cite book |title=[[The Ladies of Grace Adieu and Other Stories]] |location=New York & London |publisher=Bloomsbury |year=2006}}<ref name=LIStories/>
+* ''[[The Dweller in High Places]]''. [[BBC]]. 26 February 2007.<ref>{{cite web |url=https://www.bbc.co.uk/programmes/b007k2d4 |title=The Dweller in High Places |website=[[BBC Radio 7]] |access-date=14 April 2009}}</ref>
+
+== References ==
+{{Reflist}}
+
+==External links==
+{{Commons category}}
+* [http://www.jonathanstrange.com ''Jonathan Strange & Mr Norrell''] at Bloomsbury Publishing
+* [https://hurtfew.mywikis.net/wiki/Main_Page The Library at Hurtfew], a comprehensive fan wiki
+* [https://www.theguardian.com/books/2018/jul/28/susanna-clarke-made-in-bradford Susanna Clarke on her early life]
+* {{isfdb name|name=Susanna Clarke}}
+* {{british council|susanna-clarke}}
+* {{LCAuth|n2004036926|Susanna Clarke|2|}}
+
+{{Good article}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Clarke, Susanna}}
+[[Category:1959 births]]
+[[Category:Living people]]
+[[Category:British alternative history writers]]
+[[Category:English fantasy writers]]
+[[Category:British Book Award winners]]
+[[Category:Hugo Award-winning writers]]
+[[Category:World Fantasy Award-winning writers]]
+[[Category:Alumni of St Hilda's College, Oxford]]
+[[Category:People from Nottingham]]
+[[Category:20th-century English novelists]]
+[[Category:21st-century English novelists]]
+[[Category:British women novelists]]
+[[Category:British women short story writers]]
+[[Category:Women science fiction and fantasy writers]]
+[[Category:English short story writers]]
+[[Category:Women historical novelists]]
+[[Category:20th-century British short story writers]]
+[[Category:21st-century British short story writers]]
+[[Category:People with chronic fatigue syndrome]]

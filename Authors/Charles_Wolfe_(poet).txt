@@ -1,0 +1,64 @@
+{{short description|Irish poet}}
+{{other people}}
+{{Infobox writer <!-- for more information see [[:Template:Infobox writer/doc]] -->
+| name        = Charles Wolfe
+| image       = Charles Wolfe.jpg
+| imagesize   =
+| caption     = [[Bas-relief]] in [[St. Patrick's Cathedral, Dublin]]
+| pseudonym   =
+| birth_date  = {{birth date|1791|12|14|df=y}}
+| birth_place = Blackhall, [[Co. Kildare]]
+| death_date  = {{death date and age|1823|2|21|1791|12|14|df=y}}
+| death_place = [[Cobh]], [[Co. Cork]]
+| nationality = [[Republic of Ireland|Irish]]
+| period      = 
+| influences  =
+| influenced  =
+| signature   = 
+| website     =
+| footnotes   =
+}}
+'''Charles Wolfe''' (14 December 1791 – 21 February 1823) was an [[Irish ethnicity|Irish]] [[poet]], chiefly remembered for "The Burial of [[John Moore (British Army officer)|Sir John Moore]] after Corunna" which achieved popularity in 19th century poetry anthologies.<ref name =Robson/>
+
+==Family==
+
+Born at Blackhall, [[County Kildare]], the youngest son of Theobald Wolfe (1739-1799) of Blackhall and his wife (who was also his cousin) Frances (d.1811), daughter of the Rev. Peter Lombard (d.1752) of Clooncorrick Castle, [[Carrigallen]], [[Co. Leitrim]]. His father was the godfather -  but widely believed to be the natural father - of [[Theobald Wolfe Tone]]. He was a brother of Peter Wolfe (1776-1848), [[High Sheriff of Kildare]]; and, their father's first cousin was [[Arthur Wolfe, 1st Viscount Kilwarden]].
+
+==Education==
+
+Not long after he was born, his father died and the family moved to England. In 1801, Wolfe was sent to a school in [[Bath, Somerset|Bath]] but was sent home a few months later due to his ill health. From 1802 to 1805, he was tutored by a Dr Evans in [[Salisbury]] before being sent to [[Hyde Abbey School]], Winchester.<ref>{{cite book |title=General Biographical Dictionary |last=Gorton |first=John |year=1833 |publisher=Whittaker & Co |location=London |access-date=August 4, 2012|url=https://books.google.com/books?id=R-Q8AQAAIAAJ&pg=PP80}}</ref> He seems to have been exceedingly popular both at school and within his own family. In 1808, his family returned to Ireland, and the following year he was entered into [[Trinity College, Dublin]], graduating in 1814. He had turned down the chance to read for a [[scholarship]] as he was in love with a girl and could not commit to [[celibacy]] as was then required.
+
+==Career==
+
+He was ordained as a [[Church of Ireland]] priest in 1817, first taking the Curacy of [[List of townlands of County Tyrone|Ballyclog]] in [[County Tyrone]] before transferring almost immediately to [[Donaghmore, County Tyrone]]. There he developed a close friendship and deep respect for the Rev. [[Thomas Meredith]], Rector of nearby Ardtrea, and a former Fellow of [[Trinity College Dublin]]. Wolfe wrote two [[epitaphs]] for Meredith, one on his memorial in the parish church of Ardtrea, and another intended for his tomb, which can both be read within Meredith's entry.
+
+Charles Wolfe is best remembered for his poem, "The Burial of [[John Moore (British soldier)|Sir John Moore]] after [[Battle of Corunna|Corunna]]", written in 1816 and much collected in 19th and 20th century anthologies.<ref name =Robson>{{cite web| url = http://www.erudit.org/revue/ravon/2009/v/n53/029901ar.html| title = Memorization and Memorialization: 'The Burial of Sir John Moore after Corunna'| author = Robson, Catherine| access-date = November 27, 2014| publisher = Erudit.org}}</ref> The poem first appeared anonymously in the ''[[Newry]] Telegraph'' of 19 April 1817, and was re-printed in many other periodicals. But it was forgotten until after his death when [[Lord Byron]] drew the attention of the public to it. Wolfe's only volume of verse, ''Poetical Remains'' appeared in 1825 with "The Burial of Sir John Moore" and fourteen other verses of an equally high standard.
+[[File:Tombe Charles Wolfe.JPG|thumb|Grave of Charles Wolfe in Cobh]]
+
+==Death==
+
+Wolfe remained at Donaghmore until 1820, but, rejected by the woman for whom he gave up his academic career, and with Meredith, his only real friend in County Tyrone, now dead, he moved to the [[South of France]]. Shortly before his death he returned to [[Ireland]] and lived at [[Cobh]], where he died  at the age of 31 of [[tuberculosis|consumption]], which he caught from a cow. He is buried in Cobh at [[Old Church Cemetery (Cobh)|Old Church Cemetery]].<ref>[http://www.visitcobh.com/index.php/old-church-cemetery/rev-charles-wolfe/ Visit Cobh]</ref> There is also a plaque to his memory in the church at [[Castlecaulfield]],<ref>[http://s0.geograph.org.uk/photos/23/91/239107_bc43d391.jpg Plaque to Charles Wolfe at Castlecaulfield]</ref> the village where he lived whilst Curate at Donaghmore, as well as a marble monument to him at [[St Patrick's Cathedral, Dublin]].
+
+==References==
+{{Reflist}}
+
+==External links==
+{{wikisource author}}
+{{Wikiquote|Charles Wolfe}}
+* {{cite IrishBio|wstitle=Wolfe, Charles}}
+* [https://web.archive.org/web/20070319194513/http://www.sandgate-kent.org.uk/moore.htm 'Burial of Sir John Moore']
+* {{Internet Archive author |sname=Charles Wolfe}}
+* {{Librivox author |id=8133}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Wolfe, Charles}}
+[[Category:19th-century Irish Anglican priests]]
+[[Category:19th-century deaths from tuberculosis]]
+[[Category:Irish poets]]
+[[Category:People from County Kildare]]
+[[Category:1791 births]]
+[[Category:1823 deaths]]
+[[Category:18th-century Irish people]]
+[[Category:Tuberculosis deaths in Ireland]]
+[[Category:19th-century Irish poets]]

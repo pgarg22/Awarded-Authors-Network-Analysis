@@ -1,0 +1,41 @@
+'''Piotr Zbylitowski''' (1569 – November 19, 1649) was a [[Poland|Polish]] [[poet]]. [[Courtier]] of Stanisław Górka and Stanisław Czarnkowski. In his satirical dialogues—''Rozmowa szlachcica polskiego z cudzoziemcem'' (1600), ''Przygana wymyślnym strojom białogłowskim'' (1600), ''Schadzka ziemiańska'' (1605)—he often criticizes some customs of the Polish nobility, mainly drunkenness, [[Quietism (Christian philosophy)|quietism]], luxury and disappearance of knight's spirit. He was a first cousin of [[Andrzej Zbylitowski]]
+
+==Biography==
+Piotr Zbylitowski was born on November 19, 1569. In 1585 he became a courtier on the court of Stanisław Górka, and in 1592 on the court of Stanisław Czarnkowski. In 1605 he settled in [[Marcinkowice, Nowy Sącz County|Marcinkowice]]. Since 1633 district judge deputy ({{lang-pl|podsędek}}) and since 1645 district [[judge]] ({{lang-pl|sędzia ziemski}}, {{lang-lat|iudex terrestris}}) of [[Kraków]].
+
+He died in 1649.
+
+==Notable works==
+; Dialogues
+* ''Rozmowa szlachcica polskiego z cudzoziemcem'' (1600)
+* ''Przygana wymyślnym strojom białogłowskim'' (1600)
+* ''Schadzka ziemiańska'' (1605)
+
+==References==
+* {{cite web
+|title = Zbylitowski Piotr
+|work = [[Internetowa encyklopedia PWN]]
+|url = http://encyklopedia.pwn.pl/haslo.php?id=4000858
+|language = Polish
+|publisher = Wydawnictwo Naukowe PWN
+|access-date = 2008-02-14
+}}
+* {{cite web
+|title = Zbylitowski Piotr
+|work = [[WIEM Encyklopedia]]
+|url = http://portalwiedzy.onet.pl/48292,,,,zbylitowski_piotr,haslo.html
+|language = Polish
+|access-date = 2008-02-14
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Zbylitowski, Piotr}}
+[[Category:1569 births]]
+[[Category:1649 deaths]]
+[[Category:17th-century Polish poets]]
+[[Category:Polish male poets]]
+[[Category:17th-century male writers]]
+
+
+{{poland-poet-stub}}

@@ -1,0 +1,96 @@
+{{Infobox person
+| name = August Buchner
+| image = August-Buchner.jpg
+| caption = Buchner , engraving by [[Johann Jacob Haid]]
+| birth_date = {{birth date|1591|11|02|df=y}}
+| birth_place = [[Dresden]]
+| death_date = {{death date and age|1661|02|12|1591|11|02|df=y}}
+| death_place = [[Apollensdorf]]
+| education = {{plainlist|
+* [[Landesschule Pforta]]''
+* [[University of Wittenberg]]
+}}
+| occupation = {{plainlist|
+* Philologist
+* Poet
+* Professor of poetry
+* Professor of rhetoric
+* University director
+}}
+| awards = 
+}}
+'''August Buchner''' (2 November 1591 – 12 February 1661) was a German philologist, poet and literary scholar, an influential professor of poetry and rhetoric at the [[University of Wittenberg]].
+
+== Career ==
+Buchner was born in [[Dresden]] the son of [[Paul Buchner]] and his wife Maria, the daughter of the mayor of Dresden {{ill|Bastian Kröß|de}}. After private education, he attended from 17 November 1604 the   ''[[Landesschule Pforta]]'',{{sfn|Schütz|2017}} where he received education in religion, classical languages and the [[Liberal arts education|liberal arts]].{{sfn|Hermann Palm|1876}} He studied at the [[University of Wittenberg]] from 19 November 1610, first law and philosophy. He studied poetry with {{ill|Friedrich Taubmann|de}} and {{ill|Johann Rodenberg|de}}, ethics with {{ill|Balthasar Meisner|de}}, Greek with {{ill|Erasmus Schmidt|de|Erasmus Schmidt (Philologe)}}, and rhetoric with {{ill|Adam Theodor Siber|de}}.
+
+Before he achieved the magister degree, he was appointed professor of poetry in 1616{{sfn|Schütz|2017}} as the successor of Rodenberg by the court of Saxony. Among his students are [[Simon Dach]], [[Paul Fleming (poet)|Paul Fleming]], [[Johann Franck]], [[Paul Gerhardt]], [[Christian Gueintz]], [[Christian Keymann]], [[Balthasar Kindermann]], [[Johann Klaj]], [[Martin Opitz]], [[David Schirmer]], [[Andreas Tscherning]], [[Jakob Thomasius]], [[Philipp von Zesen]] and [[Caspar Ziegler]]. After Opitz had died, Buchner was regarded as most influential for German Baroque poetry. He was ''Rektor'' of the university in 1618, 1632 and 1654.{{sfn|Schütz|2017}} He died in [[Apollensdorf]].{{sfn|Hans Heinrich Borcherdt|1955}}
+
+== Work ==
+Buchner's ''Hauptwerk'', ''Anleitung zur deutschen Poeterei'' (Instructions for German poetry), was published  in Wittenberg in 1665 after his death by his son-in-law {{ill|Otto Praetorius|de}}. It contains his lectures on poetry, compiled from his manuscripts and those of students. He contributed to the ''Thesaurus Eruditionis Scholasticae'', a Latin dictionary first printed in 1571.{{sfn|Friedrich Wilhelm Bautz|1975}} Buchner wrote the libretto for a ballet-opera ''Orpheus und Euridice'' with music by [[Heinrich Schütz]], which was performed on 20 November 1638 for a courtly wedding. The musical score of this work has subsequently been lost.{{sfn|Schütz|2017}}
+
+== Selected works ==
+The German National Library holds 17 of his publications.{{sfn|DNB|2017}} The [[VD 17]] (Bibliography of Books Printed in the German Speaking Countries from 1601 to 1700) lists 216 publications related to him, including collections of dissertations, speeches and letters, including:
+* ''Dissertationum academicarum''  Wittenberg 1650 (VD 17, 134)
+* ''Oratio panegyrica.'' Halle 1661{{sfn|DNB|2017}}
+* ''Epistolae'' (letters) Dresden 1697 (VD 17, No. 5–7)
+
+=== As editor ===
+* [[Plautus]]: ''Comoediae'' Wittenberg 1640 (VD 17, 174–176)
+* Gabriel Naudé: ''Bibliographia politica'' Wittenberg 1641 (VD 17, 173)
+* [[Pliny the Younger]] (ed.): ''Epistolarum libri X'' Wittenberg 1643  (VD 17, 169)
+
+== Literature ==
+* Hans Heinrich Borchardt: ''August Buchner und seine Bedeutung für die deutsche Literatur des 17. Jahrhunderts.'' Habilitationsschrift, München 1919
+* Wilhelm Buchner: ''August Buchner, sein Leben und Wirken.'' Hannover 1863 [http://www.google.de/books?id=ljYlAAAAMAAJ&printsec=frontcover&dq=Professor+Wittenberg&ei=x_2-R7yNMYa4zAS5yOWKDA#PPP3,M1 Online]
+* Franz Hahne: ''[[Paul Gerhardt]] und Augustus Buchner''. In: ''Euphorion'' 15 (1908), pp.&nbsp;19–34
+* Martin Keller: ''[[Johann Klaj]]s Weihnachtsdichtung.'' Berlin 1971
+* Käte Lorenzen: ''Augustus Buchner''. In: ''Musik in Geschichte und Gegenwart,'' 2 (1952), pp.&nbsp;416–418
+* William Jervis Jones: ''Sprachhelden und Sprachverderber – Dokumente zur Erforschung des Fremdwortpurismus im Deutschen (1478–1750)''. de Gruyter, 1995, {{ISBN|3-11-014480-8}}, pp.&nbsp;455–462
+
+== References ==
+{{reflist}}
+
+== Bibliography ==
+* {{cite ADB|3|485|487|Buchner, August|Hermann Palm|ADB:Buchner, Augustus}}
+* {{VD17|00430621X}}
+* {{NDB|2|703|704|Buchner, Augustus|Hans Heinrich Borcherdt|118913859}}
+* {{BBKL|archiveurl=https://web.archive.org/web/20070613103111/http://www.bautz.de/bbkl/b/buchner_a.shtml |autor=Friedrich Wilhelm Bautz|artikel=Buchner, August|band=1|spalte=792}}
+* [[Gerhard Dünnhaupt]]: ''Augustus Buchner (1591–1661)''. In: ''Personalbibliographien zu den Drucken des Barock'', Bd. 2. Hiersemann, Stuttgart 1990, {{ISBN|3-7772-9027-0}}, pp.&nbsp;855–910.
+* {{Zedler Online|4|900|1769|1770|Buchner, Augustus}}
+* [[Abraham Calov]]: Artificii Oratorii Magisterium. Oder Sonderbahre Kunst und Meisterstück der göttlichen Beredsamkeit/ des grossen Oratoris Christi Jesu ... : Bey ... Leich-Begängnüß Des ... Augusti Buchneri, Eloquentiae und Poeseos bey der löblichen Universität Wittenberg berühmten Prof. Publ. ... Welcher im Jahr Christi 1661. seines Alters im 70sten/ am 12. Febr. ... entschlaffen/ Und darauf am 19. selbigen Monats in der Schloß Kirchen in sein Ruch-Bettlein versetzet / In der Pfarr-Kirchen daselbst. Wittenberg 1661 ([http://digitale.bibliothek.uni-halle.de/vd17/content/titleinfo/692415 Online])
+* {{cite web
+| url = https://portal.dnb.de/opac.htm;jsessionid=A6DCBDB87C0C434BDF6AD44A01FB26DD.prod-worker1?method=simpleSearch&reset=true&cqlMode=true&query=auRef%3D118913859&selectedCategory=any
+| title = August Buchner / Publications
+| publisher = German National Library
+| language = German
+| access-date = 12 February 2017
+| ref = {{sfnref|DNB|2017}}
+}}
+* {{cite web
+| url = http://www.heinrich-schuetz-haus.de/ahnen/august_buchner.php
+| title = August Buchner / Literat August Buchner 1591 – 1661
+| publisher = Heinrich Schütz Haus
+| language = German
+| access-date = 29 January 2017
+| ref = {{sfnref|Schütz|2017}}
+}}
+
+== External links ==
+{{Commonscat}}
+* [http://opac.lbs-braunschweig.gbv.de/DB=2/LNG=DU/CMD?ACT=SRCHA&IKT=1016&SRT=YOP&TRM=per%20buchner,%20august+and+mat+o Printed works] lbs-braunschweig.gbv.de
+* [https://www.deutsche-biographie.de/sfz42044.html Buchner, Augustus] Deutsche Biographie
+* [http://www.uni-mannheim.de/mateo/camenaset/setbuchner.html Poemata selectiora] (ed. of M. G. Hübner 1694), Faksimile
+* [http://www.tripota.uni-trier.de/single_picture.php?signatur=121_port_0401 Tripota – Trierer Porträtdatenbank]
+
+{{authority control}}
+
+{{DEFAULTSORT:Buchner, August}}
+[[Category:17th-century German poets]]
+[[Category:German classical philologists]]
+[[Category:University of Wittenberg faculty]]
+[[Category:Writers from Dresden]]
+[[Category:German editors]]
+[[Category:1591 births]]
+[[Category:1661 deaths]]
+[[Category:Baroque writers]]
