@@ -83,7 +83,7 @@ Full list in `requirements.txt`.
 
 ## 📎 Credits
 
-Project created by [Your Name] as a deep dive into literary networks, using open data from Wikipedia and open-source tools.
+Project created by Pranjal Garg and Fotios Kots as a deep dive into literary networks, using open data from Wikipedia and open-source tools.
 
 ---
 
